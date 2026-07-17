@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "1.2.1",
   "opposition": "policia-nacional",
   "topic": "tema-03",
   "slug": "constitucion-espanola-ii",
@@ -60,8 +60,18 @@
     "part_tests": 18,
     "final_tests": 3
   },
-  "materials": {
-    "manifest": "materiales/policia-nacional/tema-03/manifest.json",
-    "notebooklm": "materiales/policia-nacional/tema-03/notebooklm"
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-03/manifest.json",
+    "purpose": "Imágenes integradas en El Parte o El Atestado"
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-03/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ],
+    "production": "materiales-didacticos/policia-nacional/tema-03/produccion"
   }
 }

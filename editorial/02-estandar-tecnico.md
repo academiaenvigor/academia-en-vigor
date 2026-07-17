@@ -8,7 +8,8 @@ temas/<oposicion>/parte/
 temas/<oposicion>/atestado/
 banco-preguntas/<oposicion>/tema-NN/
 evaluaciones/<oposicion>/tema-NN/
-materiales/<oposicion>/tema-NN/
+assets/<oposicion>/tema-NN/
+materiales-didacticos/<oposicion>/tema-NN/
 ```
 
 Los números de tema usan dos cifras: `tema-03`.
@@ -20,6 +21,8 @@ Los números de tema usan dos cifras: `tema-03`.
 - `cobertura.json`: hechos atómicos.
 - `preguntas.jsonl`: banco, una pregunta por línea.
 - `plan.json`: reglas reproducibles para evaluaciones.
+- `assets/.../manifest.json`: catálogo de imágenes insertadas en el temario.
+- `materiales-didacticos/.../manifest.json`: registro de infografías, presentaciones, audios y vídeos.
 
 ## 3. Identificadores
 

@@ -21,12 +21,14 @@ required = [
     "temas/policia-nacional/atestado/tema-03-constitucion-espanola-ii.md",
     "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
     "evaluaciones/policia-nacional/tema-03/plan.json",
+    "assets/policia-nacional/tema-03/manifest.json",
+    "materiales-didacticos/policia-nacional/tema-03/manifest.json",
 ]
 for rel in required:
     if not (ROOT / rel).exists():
         errors.append(f"Falta {rel}")
 
-for rel in ["temario.json", "fuentes/catalogo.json", "conocimiento/policia-nacional/tema-03/manifest.json", "conocimiento/policia-nacional/tema-03/cobertura.json", "banco-preguntas/policia-nacional/tema-03/manifest.json", "evaluaciones/policia-nacional/tema-03/plan.json"]:
+for rel in ["temario.json", "fuentes/catalogo.json", "conocimiento/policia-nacional/tema-03/manifest.json", "conocimiento/policia-nacional/tema-03/cobertura.json", "banco-preguntas/policia-nacional/tema-03/manifest.json", "evaluaciones/policia-nacional/tema-03/plan.json", "assets/policia-nacional/tema-03/manifest.json", "materiales-didacticos/policia-nacional/tema-03/manifest.json"]:
     try:
         json.loads((ROOT / rel).read_text(encoding="utf-8"))
     except Exception as exc:

@@ -17,7 +17,8 @@ El Tema 3 desarrolla la Corona, las Cortes Generales, el Gobierno y la Administr
 - Cada hecho atómico tiene al menos una pregunta.
 - Los hechos de riesgo máximo tienen una segunda pregunta de identificación normativa.
 - Plan reproducible de 40 tests de cobertura, 18 tests por partes y 3 tests finales.
-- Paquete de fuentes, briefing y prompts para NotebookLM.
+- Estructura de producción independiente de la herramienta para infografías, presentaciones, audios y vídeos.
+- Carpeta y catálogo preparados para las imágenes integradas en el temario.
 
 ## Significado de cobertura completa
 

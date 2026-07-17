@@ -54,9 +54,20 @@ Cada pregunta debe:
 
 La cobertura del 100 % significa que cada hecho inventariado tiene pregunta. No significa que se hayan agotado todas las redacciones posibles.
 
-## 6. Materiales de NotebookLM
+## 6. Imágenes y materiales didácticos
 
-NotebookLM recibe copias de El Parte, El Atestado y fuentes autorizadas. Sus resultados quedan como `pendiente_revision`. Nunca modifican automáticamente la fuente maestra.
+Las imágenes integradas en El Parte o El Atestado se guardan en `assets/<oposicion>/tema-NN/` y se registran en su manifest.
+
+Los productos independientes se guardan o referencian desde `materiales-didacticos/<oposicion>/tema-NN/`, separados en:
+
+- infografías;
+- presentaciones;
+- audios;
+- vídeos.
+
+La herramienta de origen puede ser ChatGPT, NotebookLM, Gemini, Canva, una persona u otra herramienta. Todo producto debe registrar la versión del temario utilizada y quedar como `pendiente_revision` hasta su comprobación.
+
+Los materiales derivados nunca modifican automáticamente la fuente maestra.
 
 ## 7. Control de cambios
 

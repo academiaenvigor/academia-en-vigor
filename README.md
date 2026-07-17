@@ -13,9 +13,10 @@ Solo entra en este repositorio un tema que tenga:
 3. cobertura de hechos atómicos;
 4. banco de preguntas validado;
 5. plan de evaluaciones reproducible;
-6. fuentes y estado editorial registrados.
+6. fuentes y estado editorial registrados;
+7. imágenes y materiales didácticos referenciados por tema y versión.
 
-Los documentos generados no sustituyen a la fuente maestra. Los materiales de NotebookLM tampoco se consideran fuentes jurídicas.
+Los documentos generados no sustituyen a la fuente maestra. Las imágenes, infografías, presentaciones, audios y vídeos son materiales derivados y nunca se consideran fuentes jurídicas.
 
 ## Estado actual
 
@@ -28,24 +29,34 @@ Los documentos generados no sustituyen a la fuente maestra. Los materiales de No
 | Banco propio | 738 preguntas |
 | Cobertura | 470/470 hechos |
 | Evaluaciones | Plan reproducible: 61 tests |
+| Imágenes del temario | Carpeta y catálogo preparados |
+| Materiales didácticos | Estructura preparada |
 | Preguntas oficiales | Ninguna incorporada sin trazabilidad |
 | Publicación para alumnos | No publicada |
 
 ## Estructura
 
 ```text
-editorial/          normas internas del Método VIGOR
-fuentes/            catálogo de fuentes oficiales
-conocimiento/       fuente maestra, manifiesto, cobertura y revisiones
-temas/              El Parte y El Atestado derivados
-banco-preguntas/    banco canónico y esquema
-evaluaciones/       plan para generar tests
-materiales/         instrucciones y registro de materiales derivados
-scripts/            compilación, generación y validación
-tests/              pruebas técnicas automáticas
-docs/               documentación de uso
-build/               resultados generados localmente; no se versionan
+editorial/               normas internas del Método VIGOR
+fuentes/                 catálogo de fuentes oficiales
+conocimiento/            fuente maestra, manifiesto, cobertura y revisiones
+temas/                   El Parte y El Atestado derivados
+banco-preguntas/         banco canónico y esquema
+evaluaciones/            plan para generar tests
+assets/                  imágenes integradas dentro del temario
+materiales-didacticos/   infografías, presentaciones, audios y vídeos
+scripts/                 compilación, generación y validación
+tests/                   pruebas técnicas automáticas
+docs/                    documentación de uso
+build/                   resultados generados localmente; no se versionan
 ```
+
+## Diferencia entre `assets` y `materiales-didacticos`
+
+- `assets/`: imágenes, esquemas y gráficos que se insertan dentro de El Parte o El Atestado.
+- `materiales-didacticos/`: productos independientes que el alumno abre por separado, como infografías completas, presentaciones, audios y vídeos.
+
+La herramienta utilizada para producir un recurso se registra en su manifest, pero no determina su carpeta. Puede ser ChatGPT, NotebookLM, Gemini, Canva, una persona u otra herramienta.
 
 ## Comandos de control
 

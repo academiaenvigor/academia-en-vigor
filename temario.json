@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "project_version": "0.1.0",
+  "project_version": "0.1.1",
   "academy": "Academia En Vigor",
   "slogan": "El temario que nunca duerme",
   "oppositions": {
@@ -18,7 +18,9 @@
           "parte": "temas/policia-nacional/parte/tema-03-constitucion-espanola-ii.md",
           "atestado": "temas/policia-nacional/atestado/tema-03-constitucion-espanola-ii.md",
           "question_bank": "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
-          "evaluation_plan": "evaluaciones/policia-nacional/tema-03/plan.json"
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-03/plan.json",
+          "assets": "assets/policia-nacional/tema-03/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-03/manifest.json"
         }
       ]
     }

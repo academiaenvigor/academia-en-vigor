@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-03",
+  "content_version": "0.3.0",
+  "source_version": "0.3.0",
+  "status": "estructura_preparada",
+  "drive_folder": "",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "production": {
+    "briefing": "produccion/briefing.md",
+    "sources": "produccion/fuentes.md",
+    "prompts": "produccion/prompts.md"
+  },
+  "resources": [],
+  "rule": "Todo recurso debe registrar la versión del temario utilizada, su herramienta de origen y su estado de revisión antes de publicarse."
+}

@@ -19,7 +19,7 @@ Crear un temario jurídicamente riguroso, pedagógicamente claro, completamente 
 9. **Cobertura demostrable.** Un tema no está cerrado hasta que todos sus hechos atómicos tengan entrenamiento.
 10. **Honestidad oficial.** Ninguna pregunta se presenta como oficial sin documento y localización verificables.
 11. **Separación de estados.** Detectado, revisado, aprobado y publicado son estados diferentes.
-12. **Derivados controlados.** Infografías, audios, vídeos y materiales de NotebookLM registran la versión fuente.
+12. **Derivados controlados.** Imágenes, infografías, presentaciones, audios y vídeos registran la versión fuente, su herramienta de origen y su estado de revisión.
 13. **Automatización verificable.** Que un script termine no implica que el contenido sea correcto; debe superar controles.
 14. **Historial.** Las revisiones se documentan y no se reescribe silenciosamente el pasado.
 15. **El temario que nunca duerme.** Toda norma relevante queda bajo vigilancia y revisión continuas.
