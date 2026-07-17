@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0.0",
+  "content_version": "0.3.0",
+  "bank": "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-03/tests-generados",
+  "coverage_tests": {
+    "description": "Todas las preguntas del banco se distribuyen exactamente una vez por bloque.",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "La Corona: posición, inviolabilidad, refrendo y Casa del Rey"
+      },
+      {
+        "number": 2,
+        "title": "Sucesión a la Corona y consorte"
+      },
+      {
+        "number": 3,
+        "title": "Regencia, tutela y juramento"
+      },
+      {
+        "number": 4,
+        "title": "Funciones nacionales e internacionales del Rey"
+      },
+      {
+        "number": 5,
+        "title": "Cortes Generales: naturaleza, funciones y mandato representativo"
+      },
+      {
+        "number": 6,
+        "title": "Congreso, Senado e incompatibilidades"
+      },
+      {
+        "number": 7,
+        "title": "Prerrogativas parlamentarias y autonomía de las Cámaras"
+      },
+      {
+        "number": 8,
+        "title": "Funcionamiento de las Cámaras"
+      },
+      {
+        "number": 9,
+        "title": "Leyes orgánicas y delegación legislativa"
+      },
+      {
+        "number": 10,
+        "title": "Decreto-ley, iniciativa y procedimiento legislativo"
+      },
+      {
+        "number": 11,
+        "title": "Tratados internacionales"
+      },
+      {
+        "number": 12,
+        "title": "Gobierno: funciones, composición, investidura y cese"
+      },
+      {
+        "number": 13,
+        "title": "Responsabilidad del Gobierno y Administración Pública"
+      },
+      {
+        "number": 14,
+        "title": "Control parlamentario ordinario del Gobierno"
+      },
+      {
+        "number": 15,
+        "title": "Confianza, censura y disolución"
+      },
+      {
+        "number": 16,
+        "title": "Estados de alarma, excepción y sitio"
+      },
+      {
+        "number": 17,
+        "title": "Poder Judicial: principios y garantías"
+      },
+      {
+        "number": 18,
+        "title": "CGPJ, Tribunal Supremo, Ministerio Fiscal y Policía Judicial"
+      },
+      {
+        "number": 19,
+        "title": "Principios de organización territorial y Administración local"
+      },
+      {
+        "number": 20,
+        "title": "Acceso a la autonomía y Estatutos"
+      },
+      {
+        "number": 21,
+        "title": "Competencias de los artículos 148 y 149"
+      },
+      {
+        "number": 22,
+        "title": "Artículo 150 y organización institucional autonómica"
+      },
+      {
+        "number": 23,
+        "title": "Control autonómico, artículo 155 y financiación"
+      },
+      {
+        "number": 24,
+        "title": "Tribunal Constitucional"
+      },
+      {
+        "number": 25,
+        "title": "Reforma constitucional"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 7
+      },
+      {
+        "id": "C",
+        "offset": 14
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "La Corona",
+        "blocks": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Cortes y producción normativa",
+        "blocks": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Gobierno, control y estados excepcionales",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Poder Judicial",
+        "blocks": [
+          17,
+          18
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Organización territorial",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Tribunal Constitucional y reforma",
+        "blocks": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "variant": "A",
+      "questions": 25,
+      "offset": 0
+    },
+    {
+      "variant": "B",
+      "questions": 50,
+      "offset": 11
+    },
+    {
+      "variant": "C",
+      "questions": 100,
+      "offset": 23
+    }
+  ]
+}

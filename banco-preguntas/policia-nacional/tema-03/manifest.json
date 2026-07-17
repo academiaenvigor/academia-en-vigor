@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.2.0",
+  "content_version": "0.3.0",
+  "oposicion": "policia-nacional",
+  "tema": 3,
+  "estado": "revisado_fuentes_oficiales",
+  "publicacion": "not_published",
+  "total_preguntas": 738,
+  "total_hechos": 470,
+  "hechos_cubiertos": 470,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 246,
+    "B": 246,
+    "C": 246
+  },
+  "caracter": {
+    "propias": 738,
+    "oficiales": 0
+  },
+  "tipos": {
+    "literal_discriminacion": 470,
+    "articulo_inverso": 268
+  },
+  "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-03/master.md",
+  "cobertura": "../../../conocimiento/policia-nacional/tema-03/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-03/plan.json",
+  "nota_oficiales": "No se incluyen preguntas oficiales hasta disponer de referencia documental trazable.",
+  "coverage_definition": "El 100 % significa que cada hecho atómico registrado en cobertura.json tiene al menos una pregunta; no significa que se hayan agotado todas las redacciones alternativas posibles."
+}

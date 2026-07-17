@@ -1,0 +1,176 @@
+{
+  "package_version": "0.1.0",
+  "files": 34,
+  "inventory": [
+    {
+      "path": ".github/workflows/validar.yml",
+      "bytes": 674,
+      "sha256": "1f1f738c83c1d2559525c2e039fb27261adaa58232bfc87ccb1d7e79998b651f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 179,
+      "sha256": "84df53c25af0c456e2c547b0249c7b34a19df798b897b6fed9a1436af2398055"
+    },
+    {
+      "path": "INSTRUCCIONES-INICIO.md",
+      "bytes": 845,
+      "sha256": "74fb8d21d0e396177d1a73e6e86cad97c2109191726e4ed27de2dfca92ce7aea"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2403,
+      "sha256": "86857f76b1a30cced2d0b3a257051ee03b135e17207f9547d094caec54967157"
+    },
+    {
+      "path": "banco-preguntas/policia-nacional/tema-03/README.md",
+      "bytes": 515,
+      "sha256": "d779f5292c83f2639936aefcecf474f780b1d7620fe256fa1c350e8728a9f65a"
+    },
+    {
+      "path": "banco-preguntas/policia-nacional/tema-03/manifest.json",
+      "bytes": 1075,
+      "sha256": "ecd2762a204a825bf64e662e82cd2d196c0e6c3bb94019b8670d595e199eeffe"
+    },
+    {
+      "path": "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
+      "bytes": 750205,
+      "sha256": "38514308501a4f1405536c10283f68e949407b32d63f46b5bceaea722f3339d4"
+    },
+    {
+      "path": "banco-preguntas/policia-nacional/tema-03/schema-pregunta.json",
+      "bytes": 2143,
+      "sha256": "e7e2a3131b5a2e5d54b4ed86eb409fe003e88bed058092d5a3b14ad70d0e0835"
+    },
+    {
+      "path": "conocimiento/policia-nacional/tema-03/cobertura.json",
+      "bytes": 206066,
+      "sha256": "713220d451f7ca2d7c1b5b387a39ec6fd0cd326b35002e2e6abc5648fddfa012"
+    },
+    {
+      "path": "conocimiento/policia-nacional/tema-03/manifest.json",
+      "bytes": 2037,
+      "sha256": "a9490d76e922d0b8235794715c126878ff756d3cc6b10a86c2f745e649386192"
+    },
+    {
+      "path": "conocimiento/policia-nacional/tema-03/master.md",
+      "bytes": 137901,
+      "sha256": "f73a1ca5f4720494e09f4c291547b37f302114ad1dcd65e57ddccdac53a4c4cc"
+    },
+    {
+      "path": "conocimiento/policia-nacional/tema-03/revision-0.3.md",
+      "bytes": 1655,
+      "sha256": "7398b7e6fdf7b42770652eeb94af7a41bb81bd2193984a2679c94d3dcf4d72bb"
+    },
+    {
+      "path": "docs/parte-y-atestado.md",
+      "bytes": 744,
+      "sha256": "4f5381f87157769ad224abed2d1629b90b95147d6ee6415d62c83bcd46567304"
+    },
+    {
+      "path": "editorial/00-codigo-vigor.md",
+      "bytes": 2379,
+      "sha256": "adb00e351c022d2674ae8712019b6031e11ccacd79f358d210177d7b493af52a"
+    },
+    {
+      "path": "editorial/01-manual-editorial.md",
+      "bytes": 2094,
+      "sha256": "959c23ea259d30b03f55ae385a748aa3f9b0c0d396c3996505ddbe36e599351d"
+    },
+    {
+      "path": "editorial/02-estandar-tecnico.md",
+      "bytes": 1682,
+      "sha256": "aed0027b9310855dee8f0fac12c20178dd0d7c86f4e81604e331726a28d436df"
+    },
+    {
+      "path": "evaluaciones/policia-nacional/tema-03/README.md",
+      "bytes": 408,
+      "sha256": "caf72b00886e95f14fa141aa2821061ee286e9ce9c3943e5835cab9089ae633a"
+    },
+    {
+      "path": "evaluaciones/policia-nacional/tema-03/plan.json",
+      "bytes": 4481,
+      "sha256": "02aae00b7bf220c215d28282df815c4f7389e37d451ba0a4ca8c739d44970573"
+    },
+    {
+      "path": "fuentes/catalogo.json",
+      "bytes": 3821,
+      "sha256": "af5fad880b2e4c7ea0ab367debd929f578f077313c6f1808039a75ba91673291"
+    },
+    {
+      "path": "materiales/policia-nacional/tema-03/manifest.json",
+      "bytes": 394,
+      "sha256": "a0461eaac09b81923389036dc97b4a5dd212669e7308800c2aa7cebd55f9a2fe"
+    },
+    {
+      "path": "materiales/policia-nacional/tema-03/notebooklm/briefing.md",
+      "bytes": 587,
+      "sha256": "e5bc857890e34c4105f7d322845c898fafba4eeaecd91106d5bdbbcecd2868ea"
+    },
+    {
+      "path": "materiales/policia-nacional/tema-03/notebooklm/fuentes.md",
+      "bytes": 442,
+      "sha256": "fff0de18de55a4b4314039039555317d74a589222a7847b8146751fdd915d49f"
+    },
+    {
+      "path": "materiales/policia-nacional/tema-03/notebooklm/prompts.md",
+      "bytes": 848,
+      "sha256": "864d682a9299020fbabbd05c2755d57ee76bea2763d222cda4319fc9fbe6c3f7"
+    },
+    {
+      "path": "materiales/policia-nacional/tema-03/notebooklm/salidas.json",
+      "bytes": 49,
+      "sha256": "062683c73f9b22b615ea84e6030b4c9ffe2698e022efbe340525af553c1e8c85"
+    },
+    {
+      "path": "scripts/compilar_tema.py",
+      "bytes": 2604,
+      "sha256": "4c180e94379494eef6511ef1ff86ff71f896c246f626faaeffc94fcde56f6c29"
+    },
+    {
+      "path": "scripts/generar_evaluaciones_tema_03.py",
+      "bytes": 6123,
+      "sha256": "9e83548fc3eb7e0f159f5ff55890612cf0ecca1137def4798e03de1bb258adfd"
+    },
+    {
+      "path": "scripts/validar_banco_tema_03.py",
+      "bytes": 1659,
+      "sha256": "43406411cc436729592baf48b808b65b921953286754ceaa48e49d00488a2396"
+    },
+    {
+      "path": "scripts/validar_proyecto.py",
+      "bytes": 1432,
+      "sha256": "b75f9bdf75eb2f603e16dfec169621d39dbf0ad98b9171f1902c9c39d0e4f7e2"
+    },
+    {
+      "path": "temario.json",
+      "bytes": 986,
+      "sha256": "bc79db7cb79746f295f94ecefcb244d07e86bec02e4ce626b59f9a80e4a3ca2e"
+    },
+    {
+      "path": "temas/policia-nacional/atestado/tema-03-constitucion-espanola-ii.md",
+      "bytes": 96722,
+      "sha256": "42ff22dcdefaa23daf3847c77d2ce6d3c48bf9b7a13b55bbbfe6c46c7c3cd941"
+    },
+    {
+      "path": "temas/policia-nacional/parte/tema-03-constitucion-espanola-ii.md",
+      "bytes": 41826,
+      "sha256": "04c9ccaf9b7d3443660cb48b996e4ef4b8a99a5af8ec84a12ed6ab6e7373b29f"
+    },
+    {
+      "path": "tests/test_banco_tema_03.py",
+      "bytes": 1768,
+      "sha256": "0287c10fb2832050af6b493d782c6da5b4ecbdee5cd735d93dde1b87d4ad6a50"
+    },
+    {
+      "path": "tests/test_evaluaciones_tema_03.py",
+      "bytes": 2393,
+      "sha256": "7fd8ba875d148dc969a8dbea42259dcd3253efff30e395408cd21ec92ae8a6d5"
+    },
+    {
+      "path": "tests/test_tema_03.py",
+      "bytes": 2249,
+      "sha256": "7e26edb10e184c0b592385567a669a0f04177fe3bb5131d0da556b8f3463ebea"
+    }
+  ]
+}

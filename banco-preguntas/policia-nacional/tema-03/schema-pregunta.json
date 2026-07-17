@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pregunta Academia En Vigor",
+  "type": "object",
+  "required": [
+    "id",
+    "fact_id",
+    "oposicion",
+    "tema",
+    "bloque",
+    "concepto",
+    "norma",
+    "articulo",
+    "riesgo_examen",
+    "tipo",
+    "enunciado",
+    "opciones",
+    "respuesta_correcta",
+    "explicacion",
+    "estado_revision",
+    "version_normativa",
+    "caracter",
+    "content_version"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^PN-T03-Q[0-9]{3,}$"
+    },
+    "fact_id": {
+      "type": "string",
+      "pattern": "^PN-T03-F[0-9]{3,}$"
+    },
+    "oposicion": {
+      "const": "policia-nacional"
+    },
+    "tema": {
+      "const": 3
+    },
+    "bloque": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 25
+    },
+    "concepto": {
+      "type": "string",
+      "minLength": 2
+    },
+    "norma": {
+      "type": "string"
+    },
+    "articulo": {
+      "type": "string"
+    },
+    "riesgo_examen": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "tipo": {
+      "enum": [
+        "literal_discriminacion",
+        "articulo_inverso"
+      ]
+    },
+    "enunciado": {
+      "type": "string",
+      "minLength": 15
+    },
+    "opciones": {
+      "type": "object",
+      "required": [
+        "A",
+        "B",
+        "C"
+      ],
+      "properties": {
+        "A": {
+          "type": "string"
+        },
+        "B": {
+          "type": "string"
+        },
+        "C": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "respuesta_correcta": {
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "explicacion": {
+      "type": "string",
+      "minLength": 30
+    },
+    "estado_revision": {
+      "const": "revisado_fuente_oficial"
+    },
+    "version_normativa": {
+      "const": "2026-07-16"
+    },
+    "caracter": {
+      "const": "propio"
+    },
+    "referencia_oficial": {
+      "type": [
+        "null",
+        "object"
+      ]
+    },
+    "content_version": {
+      "const": "0.3.0"
+    }
+  },
+  "additionalProperties": true
+}

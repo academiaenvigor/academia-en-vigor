@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.2.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-03",
+  "slug": "constitucion-espanola-ii",
+  "title": "La Constitución Española (II)",
+  "content_version": "0.3.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "verified_2026-07-16",
+  "source_file": "conocimiento/policia-nacional/tema-03/master.md",
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-03-constitucion-espanola-ii.md",
+    "atestado": "temas/policia-nacional/atestado/tema-03-constitucion-espanola-ii.md"
+  },
+  "semantic_blocks": 25,
+  "atomic_facts": 470,
+  "coverage_file": "conocimiento/policia-nacional/tema-03/cobertura.json",
+  "official_references": [
+    "CE-CORONA",
+    "CE-CORTES",
+    "CE-GOBIERNO",
+    "CE-RELACIONES",
+    "CE-JUDICIAL",
+    "CE-TERRITORIAL",
+    "CE-TC",
+    "CE-REFORMA",
+    "LOTC",
+    "LOAES",
+    "LOPJ",
+    "CONV-PN-2026"
+  ],
+  "official_exam_items": [],
+  "review": {
+    "legal": "reviewed_official_sources",
+    "pedagogical": "approved",
+    "editorial": "approved",
+    "review_file": "conocimiento/policia-nacional/tema-03/revision-0.3.md"
+  },
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-03/manifest.json",
+    "questions": 738,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-03/plan.json",
+    "generator": "scripts/generar_evaluaciones_tema_03.py",
+    "generated_output": "build/evaluaciones/policia-nacional/tema-03/tests-generados",
+    "expected_generated_tests": 61,
+    "block_coverage_tests": 40,
+    "part_tests": 18,
+    "final_tests": 3
+  },
+  "materials": {
+    "manifest": "materiales/policia-nacional/tema-03/manifest.json",
+    "notebooklm": "materiales/policia-nacional/tema-03/notebooklm"
+  }
+}
