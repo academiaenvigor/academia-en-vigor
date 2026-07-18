@@ -38,6 +38,13 @@ class Tema03(unittest.TestCase):
         self.assertGreater(len(self.atestado), len(self.parte) * 2)
         self.assertIn("artículo 149", self.atestado.lower())
 
+    def test_narrative_atestado(self):
+        self.assertEqual(self.atestado.count("### Para entender el bloque"), 25)
+        self.assertEqual(self.atestado.count("### Cómo estudiarlo"), 25)
+        self.assertEqual(self.atestado.count("> **Ejemplo mental:**"), 25)
+        bullet_lines = [line for line in self.atestado.splitlines() if line.startswith("- ")]
+        self.assertLessEqual(len(bullet_lines), 5)
+
     def test_no_old_label(self):
         for document in (self.master, self.parte, self.atestado):
             self.assertNotIn("En cristiano", document)

@@ -33,9 +33,10 @@
   "official_exam_items": [],
   "review": {
     "legal": "reviewed_official_sources",
-    "pedagogical": "approved",
+    "pedagogical": "approved_narrative_revision",
     "editorial": "approved",
-    "review_file": "conocimiento/policia-nacional/tema-03/revision-0.3.md"
+    "review_file": "conocimiento/policia-nacional/tema-03/revision-0.3.md",
+    "pedagogical_review_file": "conocimiento/policia-nacional/tema-03/revision-pedagogica-0.2.md"
   },
   "layers": [
     "Mapa del tema",
@@ -79,5 +80,7 @@
     ],
     "production": "materiales-didacticos/policia-nacional/tema-03/produccion"
   },
-  "visual_version": "0.1.0"
+  "visual_version": "0.1.0",
+  "pedagogical_version": "0.2.0",
+  "atestado_style": "narrative_explained"
 }

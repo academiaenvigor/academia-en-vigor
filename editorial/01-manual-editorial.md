@@ -39,6 +39,12 @@ Todo tema conserva exactamente estas capas:
 - Contiene todos los hechos que alimentan el banco.
 - Debe explicar trampas y conceptos próximos.
 - No repite una fórmula genérica para aparentar profundidad.
+- Empieza cada bloque explicando la lógica general antes del detalle normativo.
+- Integra los hechos atómicos en párrafos breves agrupados por artículos o ideas.
+- Evita cadenas de más de cuatro o cinco viñetas consecutivas.
+- Incluye ejemplos mentales, comparaciones y una estrategia de estudio cuando aporten comprensión.
+- Conserva los identificadores `FACT` en la fuente para mantener la trazabilidad, aunque no sean visibles para el alumno.
+- Utiliza listas solo cuando la naturaleza del contenido exige enumeración o comparación, no como formato dominante.
 
 ## 5. Preguntas
 
