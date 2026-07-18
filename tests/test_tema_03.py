@@ -50,6 +50,20 @@ class Tema03(unittest.TestCase):
         section = self.master.split("# Ha caído", 1)[1]
         self.assertIn("No se incorporan preguntas oficiales", section)
 
+    def test_visual_assets(self):
+        visual = json.loads((ROOT / "assets/policia-nacional/tema-03/manifest.json").read_text(encoding="utf-8"))
+        self.assertEqual(visual["summary"]["total"], 28)
+        self.assertEqual(visual["summary"]["infografias"], 17)
+        self.assertEqual(visual["summary"]["ilustraciones"], 11)
+        for resource in visual["resources"]:
+            path = ROOT / "assets/policia-nacional/tema-03" / resource["file"]
+            self.assertTrue(path.exists(), resource["file"])
+            ref = f"../../../assets/policia-nacional/tema-03/{resource['file']}"
+            if "parte" in resource["documents"]:
+                self.assertIn(ref, self.parte)
+            if "atestado" in resource["documents"]:
+                self.assertIn(ref, self.atestado)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,8 +1,432 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "opposition": "policia-nacional",
   "topic": "tema-03",
   "content_version": "0.3.0",
-  "purpose": "Imágenes y gráficos integrados en El Parte o El Atestado",
-  "resources": []
+  "visual_version": "0.1.0",
+  "purpose": "Imágenes, infografías e ilustraciones integradas en El Parte y El Atestado",
+  "summary": {
+    "total": 28,
+    "infografias": 17,
+    "ilustraciones": 11,
+    "integrated": 28
+  },
+  "resources": [
+    {
+      "id": "PN-T03-INF-001",
+      "type": "infografia",
+      "title": "La Corona y el refrendo",
+      "file": "t03-01-corona-refrendo.png",
+      "aspect_ratio": "16:9",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-002",
+      "type": "infografia",
+      "title": "Sucesión a la Corona",
+      "file": "t03-02-sucesion-corona.png",
+      "aspect_ratio": "16:9",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-003",
+      "type": "infografia",
+      "title": "Regencia y tutela",
+      "file": "t03-03-regencia-tutela.png",
+      "aspect_ratio": "16:9",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-004",
+      "type": "infografia",
+      "title": "Funciones del Rey",
+      "file": "t03-04-funciones-rey.png",
+      "aspect_ratio": "16:9",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-005",
+      "type": "infografia",
+      "title": "Cortes Generales",
+      "file": "t03-05-cortes-generales.png",
+      "aspect_ratio": "16:9",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-006",
+      "type": "infografia",
+      "title": "Congreso y Senado",
+      "file": "t03-06-congreso-senado.png",
+      "aspect_ratio": "16:9",
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-007",
+      "type": "infografia",
+      "title": "Prerrogativas parlamentarias",
+      "file": "t03-07-prerrogativas-parlamentarias.png",
+      "aspect_ratio": "16:9",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-008",
+      "type": "infografia",
+      "title": "Funcionamiento de las Cámaras",
+      "file": "t03-08-funcionamiento-camaras.png",
+      "aspect_ratio": "16:9",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-009",
+      "type": "infografia",
+      "title": "Leyes orgánicas y delegación legislativa",
+      "file": "t03-09-leyes-organicas.png",
+      "aspect_ratio": "16:9",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-010",
+      "type": "infografia",
+      "title": "Decreto-ley, iniciativa y procedimiento legislativo",
+      "file": "t03-10-decreto-ley-iniciativa.png",
+      "aspect_ratio": "16:9",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-011",
+      "type": "infografia",
+      "title": "Tratados internacionales",
+      "file": "t03-11-tratados-internacionales.png",
+      "aspect_ratio": "16:9",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-012",
+      "type": "infografia",
+      "title": "Gobierno e investidura",
+      "file": "t03-12-gobierno-investidura.png",
+      "aspect_ratio": "16:9",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-013",
+      "type": "infografia",
+      "title": "Responsabilidad del Gobierno y Administración",
+      "file": "t03-13-responsabilidad-gobierno.png",
+      "aspect_ratio": "16:9",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-014",
+      "type": "infografia",
+      "title": "Control parlamentario",
+      "file": "t03-14-control-parlamentario.png",
+      "aspect_ratio": "16:9",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-015",
+      "type": "infografia",
+      "title": "Moción de censura y disolución",
+      "file": "t03-15-censura-disolucion.png",
+      "aspect_ratio": "16:9",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-016",
+      "type": "infografia",
+      "title": "Estados excepcionales",
+      "file": "t03-16-estados-excepcionales.png",
+      "aspect_ratio": "16:9",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-INF-017",
+      "type": "infografia",
+      "title": "Reforma constitucional",
+      "file": "t03-17-reforma-constitucional.png",
+      "aspect_ratio": "16:9",
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "end_of_block",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-001",
+      "type": "ilustracion",
+      "title": "Constitución e instituciones del Estado",
+      "file": "t03-ilu-01-portada-constitucion-instituciones.png",
+      "aspect_ratio": "4:3",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "mapa",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-002",
+      "type": "ilustracion",
+      "title": "La Corona como Jefatura del Estado",
+      "file": "t03-ilu-02-corona-estado.png",
+      "aspect_ratio": "1:1",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-003",
+      "type": "ilustracion",
+      "title": "Las Cortes Generales y el debate parlamentario",
+      "file": "t03-ilu-03-cortes-debate-parlamentario.png",
+      "aspect_ratio": "16:9",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-004",
+      "type": "ilustracion",
+      "title": "El recorrido de una ley",
+      "file": "t03-ilu-04-recorrido-de-una-ley.png",
+      "aspect_ratio": "16:9",
+      "block": 9,
+      "documents": [
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-005",
+      "type": "ilustracion",
+      "title": "Gobierno y control parlamentario",
+      "file": "t03-ilu-05-gobierno-y-parlamento.png",
+      "aspect_ratio": "4:3",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-006",
+      "type": "ilustracion",
+      "title": "Crisis y respuesta constitucional",
+      "file": "t03-ilu-06-crisis-y-respuesta-constitucional.png",
+      "aspect_ratio": "16:9",
+      "block": 16,
+      "documents": [
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-007",
+      "type": "ilustracion",
+      "title": "Independencia judicial",
+      "file": "t03-ilu-07-justicia-independiente.png",
+      "aspect_ratio": "1:1",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-008",
+      "type": "ilustracion",
+      "title": "Policía Judicial e investigación",
+      "file": "t03-ilu-08-policia-judicial-investigacion.png",
+      "aspect_ratio": "4:3",
+      "block": 18,
+      "documents": [
+        "atestado"
+      ],
+      "placement": "end",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-009",
+      "type": "ilustracion",
+      "title": "Territorio, autonomía y solidaridad",
+      "file": "t03-ilu-09-territorio-y-autonomia.png",
+      "aspect_ratio": "1:1",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-010",
+      "type": "ilustracion",
+      "title": "El Tribunal Constitucional como garante",
+      "file": "t03-ilu-10-guardian-de-la-constitucion.png",
+      "aspect_ratio": "4:3",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    },
+    {
+      "id": "PN-T03-ILU-011",
+      "type": "ilustracion",
+      "title": "Reforma de la Constitución",
+      "file": "t03-ilu-11-reforma-de-la-constitucion.png",
+      "aspect_ratio": "4:3",
+      "block": 25,
+      "documents": [
+        "atestado"
+      ],
+      "placement": "start",
+      "status": "integrated",
+      "source_content_version": "0.3.0"
+    }
+  ]
 }

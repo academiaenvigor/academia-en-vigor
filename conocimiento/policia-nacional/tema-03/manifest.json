@@ -62,7 +62,12 @@
   },
   "assets": {
     "manifest": "assets/policia-nacional/tema-03/manifest.json",
-    "purpose": "Imágenes integradas en El Parte o El Atestado"
+    "purpose": "Imágenes integradas en El Parte o El Atestado",
+    "total": 28,
+    "infographics": 17,
+    "illustrations": 11,
+    "integration_status": "integrated",
+    "visual_review_file": "conocimiento/policia-nacional/tema-03/revision-visual-0.1.md"
   },
   "teaching_materials": {
     "manifest": "materiales-didacticos/policia-nacional/tema-03/manifest.json",
@@ -73,5 +78,6 @@
       "videos"
     ],
     "production": "materiales-didacticos/policia-nacional/tema-03/produccion"
-  }
+  },
+  "visual_version": "0.1.0"
 }

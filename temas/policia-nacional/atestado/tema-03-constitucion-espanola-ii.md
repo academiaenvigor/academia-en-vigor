@@ -6,11 +6,22 @@
 
 # Mapa del tema
 
+<!-- VISUAL:t03-ilu-01-portada-constitucion-instituciones.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-01-portada-constitucion-instituciones.png" alt="Constitución e instituciones del Estado" width="600">
+</p>
+<p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
 
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
+
+<!-- VISUAL:t03-ilu-02-corona-estado.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-02-corona-estado.png" alt="La Corona como Jefatura del Estado" width="420">
+</p>
+<p align="center"><em>Ilustración: La Corona como Jefatura del Estado.</em></p>
 
 > **Hablemos claro:** La inviolabilidad no significa poder sin control: el refrendo desplaza la responsabilidad al órgano que firma.
 
@@ -51,6 +62,12 @@
 - **Miembros de la Casa del Rey:** El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.
 
 > **Lo que cae:** Jefatura del Estado; Inviolabilidad y responsabilidad; Validez del acto regio; Refrendo ordinario; Refrendo del Presidente del Congreso; Responsabilidad del refrendante.
+
+<!-- VISUAL:t03-01-corona-refrendo.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-01-corona-refrendo.png" alt="La Corona y el refrendo" width="820">
+</p>
+<p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
 *Referencia principal: `CE-CORONA`.*
 
@@ -93,6 +110,12 @@
 - **Consorte:** La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia.
 
 > **Lo que cae:** Primogenitura y representación; Preferencia de líneas; Preferencia de grado; Preferencia por sexo; Preferencia por edad; Exclusión por matrimonio prohibido; Abdicaciones y renuncias; Consorte.
+
+<!-- VISUAL:t03-02-sucesion-corona.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.png" alt="Sucesión a la Corona" width="820">
+</p>
+<p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
 *Referencia principal: `CE-CORONA`.*
 
@@ -148,6 +171,12 @@
 
 > **Lo que cae:** Regencia por minoría de edad; Inhabilitación del Rey; Regencia nombrada por las Cortes; Requisitos del Regente; Naturaleza de la Regencia; Tutor testamentario; Acumulación de Regencia y tutela; Incompatibilidad de la tutela; Juramento del Rey.
 
+<!-- VISUAL:t03-03-regencia-tutela.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.png" alt="Regencia y tutela" width="820">
+</p>
+<p align="center"><em>Infografía: Regencia y tutela.</em></p>
+
 *Referencia principal: `CE-CORONA`.*
 
 ## 04. Funciones nacionales e internacionales del Rey
@@ -194,9 +223,21 @@
 
 > **Lo que cae:** Sanción y promulgación; Convocatoria y disolución; Presidente del Gobierno; Miembros del Gobierno; Presidencia del Consejo de Ministros; Mando supremo; Derecho de gracia; Guerra y paz.
 
+<!-- VISUAL:t03-04-funciones-rey.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.png" alt="Funciones del Rey" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones del Rey.</em></p>
+
 *Referencia principal: `CE-CORONA`.*
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
+
+<!-- VISUAL:t03-ilu-03-cortes-debate-parlamentario.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-03-cortes-debate-parlamentario.png" alt="Las Cortes Generales y el debate parlamentario" width="820">
+</p>
+<p align="center"><em>Ilustración: Las Cortes Generales y el debate parlamentario.</em></p>
 
 > **Hablemos claro:** Las Cortes son bicamerales, pero no todo se decide conjuntamente ni ambas Cámaras tienen el mismo peso.
 
@@ -227,6 +268,12 @@
 - **Reuniones no reglamentarias:** Las reuniones de parlamentarios celebradas sin convocatoria reglamentaria no vinculan a las Cámaras ni pueden ejercer sus funciones o privilegios.
 
 > **Lo que cae:** Representación popular; Funciones de las Cortes; Incompatibilidad entre Cámaras; Mandato imperativo.
+
+<!-- VISUAL:t03-05-cortes-generales.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.png" alt="Cortes Generales" width="820">
+</p>
+<p align="center"><em>Infografía: Cortes Generales.</em></p>
 
 *Referencia principal: `CE-CORTES`.*
 
@@ -306,6 +353,12 @@
 
 > **Lo que cae:** Número constitucional de diputados; Circunscripción electoral; Representación proporcional; Mandato del Congreso; Plazo electoral; Constitución del Congreso; Naturaleza del Senado; Senadores provinciales; Islas mayores; Ceuta y Melilla; Senadores autonómicos.
 
+<!-- VISUAL:t03-06-congreso-senado.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-06-congreso-senado.png" alt="Congreso y Senado" width="820">
+</p>
+<p align="center"><em>Infografía: Congreso y Senado.</em></p>
+
 *Referencia principal: `CE-CORTES`.*
 
 ## 07. Prerrogativas parlamentarias y autonomía de las Cámaras
@@ -347,6 +400,12 @@
 - **Poderes administrativos y de policía:** Los presidentes de las Cámaras ejercen en nombre de estas todos los poderes administrativos y facultades de policía en el interior de sus sedes.
 
 > **Lo que cae:** Inviolabilidad parlamentaria; Inmunidad parlamentaria; Suplicatorio; Aforamiento; Mayoría para reglamentos; Sesiones conjuntas.
+
+<!-- VISUAL:t03-07-prerrogativas-parlamentarias.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.png" alt="Prerrogativas parlamentarias" width="820">
+</p>
+<p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
 
 *Referencia principal: `CE-CORTES`.*
 
@@ -444,9 +503,21 @@
 
 > **Lo que cae:** Períodos ordinarios; Sesiones extraordinarias; Decisiones bicamerales especiales; Inicio del procedimiento bicameral; Materias indelegables; Conclusiones de investigación; Composición de Diputación Permanente; Funciones de Diputación Permanente; Quórum; Mayoría ordinaria; Publicidad de sesiones.
 
+<!-- VISUAL:t03-08-funcionamiento-camaras.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-08-funcionamiento-camaras.png" alt="Funcionamiento de las Cámaras" width="820">
+</p>
+<p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
+
 *Referencia principal: `CE-CORTES`.*
 
 ## 09. Leyes orgánicas y delegación legislativa
+
+<!-- VISUAL:t03-ilu-04-recorrido-de-una-ley.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-04-recorrido-de-una-ley.png" alt="El recorrido de una ley" width="820">
+</p>
+<p align="center"><em>Ilustración: El recorrido de una ley.</em></p>
 
 > **Hablemos claro:** La ley de bases produce texto articulado; la ley ordinaria de delegación produce texto refundido.
 
@@ -503,6 +574,12 @@
 - **Nombre de los decretos legislativos:** Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos.
 
 > **Lo que cae:** Materias de ley orgánica; Mayoría de ley orgánica; Ley de bases; Ley ordinaria de refundición; Requisitos de delegación; Prohibiciones de delegación; Límites de las leyes de bases; Nombre de los decretos legislativos.
+
+<!-- VISUAL:t03-09-leyes-organicas.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.png" alt="Leyes orgánicas y delegación legislativa" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
 *Referencia principal: `CE-CORTES`.*
 
@@ -594,6 +671,12 @@
 
 > **Lo que cae:** Presupuesto del decreto-ley; Límites del decreto-ley; Convalidación del decreto-ley; Iniciativa autonómica; Firmas de iniciativa popular; Materias excluidas de iniciativa popular; Proyectos de ley; Plazo ordinario del Senado; Mayoría para veto; Levantamiento inmediato del veto; Levantamiento diferido del veto; Urgencia en el Senado.
 
+<!-- VISUAL:t03-10-decreto-ley-iniciativa.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-10-decreto-ley-iniciativa.png" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
+</p>
+<p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
+
 *Referencia principal: `CE-CORTES`.*
 
 ## 11. Tratados internacionales
@@ -640,9 +723,21 @@
 
 > **Lo que cae:** Atribución de competencias internacionales; Tratados políticos y militares; Integridad territorial y Título I; Medidas legislativas; Tratado contrario a la Constitución; Consulta al Tribunal Constitucional; Incorporación al ordenamiento.
 
+<!-- VISUAL:t03-11-tratados-internacionales.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.png" alt="Tratados internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Tratados internacionales.</em></p>
+
 *Referencia principal: `CE-CORTES`.*
 
 ## 12. Gobierno: funciones, composición, investidura y cese
+
+<!-- VISUAL:t03-ilu-05-gobierno-y-parlamento.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-05-gobierno-y-parlamento.png" alt="Gobierno y control parlamentario" width="600">
+</p>
+<p align="center"><em>Ilustración: Gobierno y control parlamentario.</em></p>
 
 > **Hablemos claro:** La investidura se decide en el Congreso y sus plazos se cuentan desde la primera votación.
 
@@ -703,6 +798,12 @@
 - **Gobierno en funciones:** El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.
 
 > **Lo que cae:** Dirección política; Funciones normativa y ejecutiva; Composición del Gobierno; Funciones del Presidente; Propuesta de candidato; Primera votación de investidura; Segunda votación de investidura; Plazo de dos meses; Refrendo de la disolución automática; Nombramiento de ministros; Causas de cese; Gobierno en funciones.
+
+<!-- VISUAL:t03-12-gobierno-investidura.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-12-gobierno-investidura.png" alt="Gobierno e investidura" width="820">
+</p>
+<p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
 *Referencia principal: `CE-GOBIERNO`.*
 
@@ -778,6 +879,12 @@
 
 > **Lo que cae:** Responsabilidad penal del Gobierno; Traición y seguridad del Estado; Mayoría para acusación especial; Exclusión del derecho de gracia; Objetividad de la Administración; Principios administrativos; Sometimiento al Derecho; Acceso a función pública; Dependencia de las FCS; Misión constitucional de las FCS; Ley orgánica de las FCS; Acceso a archivos.
 
+<!-- VISUAL:t03-13-responsabilidad-gobierno.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-13-responsabilidad-gobierno.png" alt="Responsabilidad del Gobierno y Administración" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
+
 *Referencia principal: `CE-GOBIERNO`.*
 
 ## 14. Control parlamentario ordinario del Gobierno
@@ -813,6 +920,12 @@
 - **Moción tras interpelación:** Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición.
 
 > **Lo que cae:** Responsabilidad solidaria; Comparecencia del Gobierno; Preguntas e interpelaciones.
+
+<!-- VISUAL:t03-14-control-parlamentario.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.png" alt="Control parlamentario" width="820">
+</p>
+<p align="center"><em>Infografía: Control parlamentario.</em></p>
 
 *Referencia principal: `CE-RELACIONES`.*
 
@@ -874,9 +987,21 @@
 
 > **Lo que cae:** Titular de la cuestión de confianza; Objeto de la confianza; Mayoría de confianza; Mayoría de censura; Proponentes de censura; Candidato alternativo; Plazo de votación; Mociones alternativas; Efecto de negar confianza; Efecto de aprobar censura; Propuesta de disolución; Límite por censura.
 
+<!-- VISUAL:t03-15-censura-disolucion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.png" alt="Moción de censura y disolución" width="820">
+</p>
+<p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
+
 *Referencia principal: `CE-RELACIONES`.*
 
 ## 16. Estados de alarma, excepción y sitio
+
+<!-- VISUAL:t03-ilu-06-crisis-y-respuesta-constitucional.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-06-crisis-y-respuesta-constitucional.png" alt="Crisis y respuesta constitucional" width="820">
+</p>
+<p align="center"><em>Ilustración: Crisis y respuesta constitucional.</em></p>
 
 > **Hablemos claro:** La gravedad aumenta junto con el control parlamentario y la intensidad de las medidas.
 
@@ -950,9 +1075,21 @@
 
 > **Lo que cae:** Principio de necesidad; Proporcionalidad; Declaración de alarma; Duración inicial de alarma; Prórroga de alarma; Supuestos de alarma; Medidas de alarma; Declaración de excepción; Duración de excepción; Presupuesto de excepción; Declaración de sitio; Presupuesto de sitio.
 
+<!-- VISUAL:t03-16-estados-excepcionales.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-16-estados-excepcionales.png" alt="Estados excepcionales" width="820">
+</p>
+<p align="center"><em>Infografía: Estados excepcionales.</em></p>
+
 *Referencia principal: `LOAES`.*
 
 ## 17. Poder Judicial: principios y proceso
+
+<!-- VISUAL:t03-ilu-07-justicia-independiente.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-07-justicia-independiente.png" alt="Independencia judicial" width="420">
+</p>
+<p align="center"><em>Ilustración: Independencia judicial.</em></p>
 
 > **Hablemos claro:** Independencia, exclusividad jurisdiccional, unidad y publicidad son conceptos separados.
 
@@ -1088,9 +1225,21 @@
 
 > **Lo que cae:** Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
 
+<!-- VISUAL:t03-ilu-08-policia-judicial-investigacion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-08-policia-judicial-investigacion.png" alt="Policía Judicial e investigación" width="600">
+</p>
+<p align="center"><em>Ilustración: Policía Judicial e investigación.</em></p>
+
 *Referencia principal: `LOPJ`.*
 
 ## 19. Principios territoriales y Administración local
+
+<!-- VISUAL:t03-ilu-09-territorio-y-autonomia.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-09-territorio-y-autonomia.png" alt="Territorio, autonomía y solidaridad" width="420">
+</p>
+<p align="center"><em>Ilustración: Territorio, autonomía y solidaridad.</em></p>
 
 > **Hablemos claro:** Autonomía no significa soberanía; municipios, provincias y comunidades gestionan sus intereses dentro de la Constitución.
 
@@ -1624,6 +1773,12 @@
 
 ## 24. Tribunal Constitucional
 
+<!-- VISUAL:t03-ilu-10-guardian-de-la-constitucion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-10-guardian-de-la-constitucion.png" alt="El Tribunal Constitucional como garante" width="600">
+</p>
+<p align="center"><em>Ilustración: El Tribunal Constitucional como garante.</em></p>
+
 > **Hablemos claro:** El Tribunal Constitucional controla la constitucionalidad, pero no pertenece al Poder Judicial ordinario.
 
 ### 159.1
@@ -1748,6 +1903,12 @@
 
 ## 25. Reforma constitucional
 
+<!-- VISUAL:t03-ilu-11-reforma-de-la-constitucion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-11-reforma-de-la-constitucion.png" alt="Reforma de la Constitución" width="600">
+</p>
+<p align="center"><em>Ilustración: Reforma de la Constitución.</em></p>
+
 > **Hablemos claro:** El procedimiento agravado protege materias concretas y siempre termina en referéndum.
 
 ### 166
@@ -1793,6 +1954,12 @@
 - **Límite temporal de reforma:** No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116.
 
 > **Lo que cae:** Iniciativa de reforma; Exclusión de iniciativa popular; Mayoría ordinaria; Fórmula subsidiaria; Referéndum facultativo; Supuestos de reforma agravada; Primera mayoría agravada; Disolución inmediata; Mayoría final agravada; Referéndum obligatorio; Límite temporal de reforma.
+
+<!-- VISUAL:t03-17-reforma-constitucional.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.png" alt="Reforma constitucional" width="820">
+</p>
+<p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
 *Referencia principal: `CE-REFORMA`.*
 

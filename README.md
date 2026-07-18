@@ -29,7 +29,7 @@ Los documentos generados no sustituyen a la fuente maestra. Las imágenes, infog
 | Banco propio | 738 preguntas |
 | Cobertura | 470/470 hechos |
 | Evaluaciones | Plan reproducible: 61 tests |
-| Imágenes del temario | Carpeta y catálogo preparados |
+| Imágenes del temario | 28 recursos integrados · 17 infografías y 11 ilustraciones |
 | Materiales didácticos | Estructura preparada |
 | Preguntas oficiales | Ninguna incorporada sin trazabilidad |
 | Publicación para alumnos | No publicada |
