@@ -1,5 +1,3 @@
-[PULL_REQUEST_TEMPLATE.md](https://github.com/user-attachments/files/30195388/PULL_REQUEST_TEMPLATE.md)
-
 ## Tipo de cambio
 
 - [ ] Tema o fuente maestra
