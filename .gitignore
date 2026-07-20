@@ -1,0 +1,55 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Resultados reproducibles
+build/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporales y copias
+*.tmp
+*.bak
+*~
+
+# Fuentes privadas y originales
+fuentes-privadas/
+originales/
+escaneos/
+descargas/
+
+# Documentos y comprimidos que no deben versionarse
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+*.ppt
+*.pptx
+*.key
+*.zip
+*.rar
+*.7z
+
+# Audio y vídeo pesado: usar almacenamiento externo
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Secretos
+.env
+.env.*
+*.pem
+*.keyfile
