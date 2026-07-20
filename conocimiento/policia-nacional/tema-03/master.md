@@ -1927,4 +1927,4 @@ Mayorías, plazos, composición de órganos, refrendo, sucesión, funcionamiento
 
 <!-- LAYER:HA_CAIDO -->
 # Ha caído
-No se incorporan preguntas oficiales en esta versión. Solo podrán añadirse cuando exista documento oficial trazable con convocatoria, número o localización precisa y redacción comprobada.
+Se han mapeado 30 referencias históricas al Tema 3. Ninguna alimenta todavía «Ha caído»: permanecen desactivadas hasta confirmar de forma independiente el cuestionario, la plantilla final oficial y la relación exacta con el hecho atómico.

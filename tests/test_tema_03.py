@@ -55,7 +55,8 @@ class Tema03(unittest.TestCase):
 
     def test_ha_caido_safe(self):
         section = self.master.split("# Ha caído", 1)[1]
-        self.assertIn("No se incorporan preguntas oficiales", section)
+        self.assertIn("30 referencias históricas", section)
+        self.assertIn("Ninguna alimenta todavía", section)
 
     def test_visual_assets(self):
         visual = json.loads((ROOT / "assets/policia-nacional/tema-03/manifest.json").read_text(encoding="utf-8"))

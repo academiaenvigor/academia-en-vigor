@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Recurso didáctico · Academia En Vigor",
+  "type": "object",
+  "required": [
+    "id",
+    "category",
+    "title",
+    "status",
+    "source_content_version",
+    "ownership",
+    "storage"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 8
+    },
+    "category": {
+      "enum": [
+        "infografias",
+        "presentaciones",
+        "audios",
+        "videos"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "status": {
+      "enum": [
+        "planned",
+        "in_production",
+        "pending_review",
+        "approved_internal",
+        "published",
+        "retired"
+      ]
+    },
+    "source_content_version": {
+      "type": "string"
+    },
+    "tool": {
+      "type": "string"
+    },
+    "ownership": {
+      "enum": [
+        "own",
+        "licensed",
+        "authorized"
+      ]
+    },
+    "storage": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "external",
+            "local"
+          ]
+        },
+        "url": {
+          "type": "string"
+        },
+        "path": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

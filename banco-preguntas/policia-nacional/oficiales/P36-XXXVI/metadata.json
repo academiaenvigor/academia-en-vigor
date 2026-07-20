@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "id": "of-pn-p36-a",
+  "profile_id": "pn",
+  "promotion_number": 36,
+  "promotion_roman": "XXXVI",
+  "series_year": 2019,
+  "model": "A",
+  "expected_questions": 100,
+  "normalised_questions": 100,
+  "source_type": "transcripcion_resuelta_aportada_en_chat",
+  "verification_status": "quarantine",
+  "questions_path": "banco-preguntas/policia-nacional/oficiales/P36-XXXVI/preguntas.jsonl",
+  "counts_for_ha_caido": false,
+  "note": "Las respuestas se conservan como propuestas de una transcripción secundaria hasta cotejo con plantilla definitiva.",
+  "source_evidence_policy": "external_private_archive_not_committed",
+  "third_party_files_in_repository": false,
+  "third_party_commentary_in_repository": false,
+  "official_public_source_url_status": "pending_locator",
+  "repository_visibility_required": "private",
+  "repository_distribution_policy": "normalised_records_only_no_source_files"
+}

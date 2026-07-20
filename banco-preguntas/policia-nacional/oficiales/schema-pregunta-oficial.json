@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pregunta histórica normalizada · Policía Nacional",
+  "type": "object",
+  "required": [
+    "id",
+    "exam_id",
+    "exam",
+    "origin",
+    "prompt",
+    "options",
+    "status",
+    "counts_for_ha_caido"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^of-pn-p[0-9]+-[a-z]-q[0-9]{3}$"
+    },
+    "exam_id": {
+      "type": "string",
+      "pattern": "^of-pn-p[0-9]+-[a-z]$"
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "options": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "official_answer_option_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "quarantine",
+        "verified",
+        "annulled",
+        "retired"
+      ]
+    },
+    "counts_for_ha_caido": {
+      "type": "boolean"
+    }
+  }
+}

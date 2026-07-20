@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.3.0",
+  "opposition": "{{OPPOSITION}}",
+  "opposition_display_name": "{{OPPOSITION_DISPLAY}}",
+  "topic": "tema-{{NN}}",
+  "topic_number": "{{NUMBER}}",
+  "slug": "{{SLUG}}",
+  "title": "{{TITLE}}",
+  "content_version": "0.1.0",
+  "editorial_status": "draft",
+  "publication_status": "not_published",
+  "normative_status": "pending_review",
+  "source_file": "conocimiento/{{OPPOSITION}}/tema-{{NN}}/master.md",
+  "outputs": {
+    "parte": "temas/{{OPPOSITION}}/parte/tema-{{NN}}-{{SLUG}}.md",
+    "atestado": "temas/{{OPPOSITION}}/atestado/tema-{{NN}}-{{SLUG}}.md"
+  },
+  "semantic_blocks": 1,
+  "atomic_facts": 0,
+  "official_exam_items": [],
+  "official_exam_index": "banco-preguntas/{{OPPOSITION}}/tema-{{NN}}/indice-oficiales.json"
+}

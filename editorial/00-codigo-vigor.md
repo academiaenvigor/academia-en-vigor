@@ -24,6 +24,10 @@ Crear un temario jurídicamente riguroso, pedagógicamente claro, completamente 
 14. **Historial.** Las revisiones se documentan y no se reescribe silenciosamente el pasado.
 15. **El temario que nunca duerme.** Toda norma relevante queda bajo vigilancia y revisión continuas.
 
+16. **Separación de lo oficial.** Los exámenes históricos viven fuera del banco propio y solo se activan cuando están verificados.
+17. **Derechos primero.** No se versionan documentos, maquetaciones, marcas de agua ni retroalimentaciones de terceros.
+18. **Privacidad por defecto.** El repositorio editorial es privado y los archivos pesados se almacenan externamente.
+
 ## 3. Estados editoriales
 
 - `draft`: contenido en construcción.

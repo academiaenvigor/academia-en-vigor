@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.1.0",
+  "profile_id": "pn",
+  "theme_id": "pn-t03",
+  "theme_number": 3,
+  "theme_title": "La Constitución Española (II)",
+  "generated_at": "2026-07-20",
+  "rule": "El tema referencia IDs estables; el enunciado vive únicamente en el archivo del examen.",
+  "ha_caido_rule": {
+    "required_verification_status": "verified",
+    "required_counts_for_ha_caido": true
+  },
+  "statistics": {
+    "mapped_questions": 30,
+    "direct_mappings": 15,
+    "partial_mappings": 14,
+    "fact_gaps": 15,
+    "currently_counting_for_ha_caido": 0,
+    "verified_questions": 0,
+    "active_ha_caido": 0
+  },
+  "questions": [
+    {
+      "question_id": "of-pn-p38-a-q007",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 7,
+      "fact_refs": [
+        "PN-T03-F463"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Referéndum facultativo de la reforma ordinaria.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q008",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 8,
+      "fact_refs": [
+        "PN-T03-F092"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Clausura de las sesiones extraordinarias al agotarse el orden del día.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q011",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 11,
+      "fact_refs": [
+        "PN-T03-F183"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Límite concreto del Gobierno en funciones no desarrollado como hecho independiente.",
+      "issues": [
+        "fact_gap_government_in_office_budget_bill"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q014",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 14,
+      "fact_refs": [
+        "PN-T03-F407"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Competencia específica del Delegado del Gobierno.",
+      "issues": [
+        "fact_gap_delegate_government_security_competence"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q021",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 21,
+      "fact_refs": [
+        "PN-T03-F280",
+        "PN-T03-F281"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Composición funcional amplia de la Policía Judicial.",
+      "issues": [
+        "fact_gap_police_judicial_constituent_bodies"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q061",
+      "exam_id": "of-pn-p38-a",
+      "promotion_number": 38,
+      "promotion_roman": "XXXVIII",
+      "series_year": 2021,
+      "model": "A",
+      "question_number": 61,
+      "fact_refs": [
+        "PN-T03-F278"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Composición concreta del Tribunal del Jurado.",
+      "issues": [
+        "fact_gap_jury_composition"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p39-a-q017",
+      "exam_id": "of-pn-p39-a",
+      "promotion_number": 39,
+      "promotion_roman": "XXXIX",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 17,
+      "fact_refs": [
+        "PN-T03-F383"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Mayoría para apreciar la necesidad de una ley de armonización.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p39-a-q027",
+      "exam_id": "of-pn-p39-a",
+      "promotion_number": 39,
+      "promotion_roman": "XXXIX",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 27,
+      "fact_refs": [],
+      "mapping_status": "fact_gap",
+      "mapping_note": "Carácter secreto de las deliberaciones del Consejo de Ministros.",
+      "issues": [
+        "fact_gap_council_ministers_secret_deliberations"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p39-a-q067",
+      "exam_id": "of-pn-p39-a",
+      "promotion_number": 39,
+      "promotion_roman": "XXXIX",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 67,
+      "fact_refs": [
+        "PN-T03-F285",
+        "PN-T03-F286",
+        "PN-T03-F287",
+        "PN-T03-F290"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Contenido general del Título VIII: organización, autonomía, solidaridad e igualdad.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q015",
+      "exam_id": "of-pn-p40-a",
+      "promotion_number": 40,
+      "promotion_roman": "XL",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 15,
+      "fact_refs": [
+        "PN-T03-F435"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Plazo del recurso de amparo del artículo 43 LOTC.",
+      "issues": [
+        "fact_gap_amparo_deadline_lotc_43"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q020",
+      "exam_id": "of-pn-p40-a",
+      "promotion_number": 40,
+      "promotion_roman": "XL",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 20,
+      "fact_refs": [
+        "PN-T03-F093"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Sesión conjunta para competencias no legislativas del Título II.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q068",
+      "exam_id": "of-pn-p40-a",
+      "promotion_number": 40,
+      "promotion_roman": "XL",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 68,
+      "fact_refs": [
+        "PN-T03-F183"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Facultades vedadas al Presidente del Gobierno en funciones.",
+      "issues": [
+        "fact_gap_specific_limits_government_in_office"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q092",
+      "exam_id": "of-pn-p40-a",
+      "promotion_number": 40,
+      "promotion_roman": "XL",
+      "series_year": 2023,
+      "model": "A",
+      "question_number": 92,
+      "fact_refs": [
+        "PN-T03-F278"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Número de votos para declarar la culpabilidad.",
+      "issues": [
+        "fact_gap_jury_guilty_votes"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q003",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 3,
+      "fact_refs": [
+        "PN-T03-F269"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Número y denominación de las Salas del Tribunal Supremo.",
+      "issues": [
+        "fact_gap_supreme_court_five_chambers"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q008",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 8,
+      "fact_refs": [
+        "PN-T03-F108"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Composición mínima de la Diputación Permanente.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q011",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 11,
+      "fact_refs": [
+        "PN-T03-F238"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Declaración del estado de sitio.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q014",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 14,
+      "fact_refs": [
+        "PN-T03-F169",
+        "PN-T03-F200"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Control político y jurisdiccional de los actos del Gobierno.",
+      "issues": [
+        "fact_gap_government_act_control_law_50_1997_art29"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q060",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 60,
+      "fact_refs": [
+        "PN-T03-F433"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Nombramiento del Presidente del Tribunal Constitucional.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q072",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 72,
+      "fact_refs": [
+        "PN-T03-F440"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Legitimación para el recurso de inconstitucionalidad.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q078",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 78,
+      "fact_refs": [
+        "PN-T03-F278"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Delitos competencia del Tribunal del Jurado.",
+      "issues": [
+        "fact_gap_jury_offences_competence"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q098",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 98,
+      "fact_refs": [
+        "PN-T03-F460"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Mayoría de tres quintos para la reforma ordinaria.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q099",
+      "exam_id": "of-pn-p41-a",
+      "promotion_number": 41,
+      "promotion_roman": "XLI",
+      "series_year": 2024,
+      "model": "A",
+      "question_number": 99,
+      "fact_refs": [
+        "PN-T03-F280"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Dependencia orgánica de las unidades adscritas de Policía Judicial.",
+      "issues": [
+        "fact_gap_police_judicial_organic_dependence"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q015",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 15,
+      "fact_refs": [
+        "PN-T03-F451"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Número de Salas del Tribunal Constitucional.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q036",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 36,
+      "fact_refs": [
+        "PN-T03-F183"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Cuestión de confianza durante el Gobierno en funciones.",
+      "issues": [
+        "fact_gap_specific_limitation_government_in_office"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q039",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 39,
+      "fact_refs": [
+        "PN-T03-F202"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Consejo de Estado como supremo órgano consultivo.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q062",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 62,
+      "fact_refs": [
+        "PN-T03-F400"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Tribunal Superior de Justicia.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q070",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 70,
+      "fact_refs": [
+        "PN-T03-F213"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Mayoría simple en la cuestión de confianza.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q071",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 71,
+      "fact_refs": [
+        "PN-T03-F276"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Nombramiento del Fiscal General del Estado.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q091",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 91,
+      "fact_refs": [
+        "PN-T03-F229",
+        "PN-T03-F238"
+      ],
+      "mapping_status": "partial",
+      "mapping_note": "Competencias del Consejo de Ministros sobre estados excepcionales.",
+      "issues": [
+        "fact_gap_council_of_ministers_specific_powers",
+        "feedback_legal_reference_requires_review"
+      ],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q097",
+      "exam_id": "of-pn-p42-a",
+      "promotion_number": 42,
+      "promotion_roman": "XLII",
+      "series_year": 2025,
+      "model": "A",
+      "question_number": 97,
+      "fact_refs": [
+        "PN-T03-F293"
+      ],
+      "mapping_status": "direct",
+      "mapping_note": "Gobierno y administración municipal.",
+      "issues": [],
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    }
+  ],
+  "path_policy": "El enunciado vive en banco-preguntas/policia-nacional/oficiales; este archivo solo contiene referencias."
+}

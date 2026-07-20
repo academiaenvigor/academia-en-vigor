@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.1",
+  "id": "of-pn-p34-a",
+  "profile_id": "pn",
+  "promotion_number": 34,
+  "promotion_roman": "XXXIV",
+  "series_year": 2017,
+  "model": "A",
+  "expected_questions": 100,
+  "normalised_questions": 100,
+  "source_type": "documento_razonado_aportado_por_usuario",
+  "verification_status": "quarantine_pending_official_final_answer_key",
+  "questions_path": "banco-preguntas/policia-nacional/oficiales/P34-XXXIV/preguntas.jsonl",
+  "counts_for_ha_caido": false,
+  "note": "Las 100 respuestas están expresamente identificadas en el documento razonado aportado. Se conservan como respuestas propuestas de alta confianza; no se marcan como oficiales ni alimentan «Ha caído» hasta incorporar una plantilla oficial definitiva.",
+  "proposed_answers": 100,
+  "official_answers": 0,
+  "source_sha256": "f024354da93206f0eeff34fdeaee9401eb9039462c6d159b6a43204dd1b3e749",
+  "editorial_review_2026": {
+    "Actualizar": 8,
+    "Apta": 80,
+    "Retirar": 9,
+    "Reformular": 3
+  },
+  "source_evidence_policy": "external_private_archive_not_committed",
+  "third_party_files_in_repository": false,
+  "third_party_commentary_in_repository": false,
+  "official_public_source_url_status": "pending_locator",
+  "repository_visibility_required": "private",
+  "repository_distribution_policy": "normalised_records_only_no_source_files"
+}

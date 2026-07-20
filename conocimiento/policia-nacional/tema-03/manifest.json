@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2.1",
+  "schema_version": "1.3.0",
   "opposition": "policia-nacional",
   "topic": "tema-03",
   "slug": "constitucion-espanola-ii",
@@ -82,5 +82,14 @@
   },
   "visual_version": "0.1.0",
   "pedagogical_version": "0.2.0",
-  "atestado_style": "narrative_explained"
+  "atestado_style": "narrative_explained",
+  "topic_number": 3,
+  "opposition_display_name": "Policía Nacional",
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-03/indice-oficiales.json",
+  "official_exam_mapping": {
+    "mapped_questions": 30,
+    "verified_questions": 0,
+    "active_ha_caido": 0,
+    "activation_rule": "Solo registros verified con official_answer_option_id y plantilla final oficial."
+  }
 }

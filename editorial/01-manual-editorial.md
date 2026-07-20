@@ -86,3 +86,29 @@ Toda revisión debe indicar:
 - archivos afectados;
 - estado de publicación;
 - validaciones realizadas.
+
+## 8. Exámenes oficiales históricos
+
+- Se almacenan en `banco-preguntas/<oposicion>/oficiales/` y nunca se mezclan con el banco propio.
+- El repositorio solo conserva enunciado, opciones y metadatos normalizados.
+- No se incorporan PDF, DOCX, capturas, marcas de agua ni explicaciones de terceros.
+- Una respuesta disponible puede registrarse como `proposed_answer_option_id`, pero no como oficial definitiva.
+- «Ha caído» exige `status: verified`, `official_answer_option_id` y constancia de plantilla final oficial.
+- Cada tema usa `indice-oficiales.json` para referenciar IDs; no duplica los enunciados.
+
+## 9. Materiales didácticos
+
+Todo recurso independiente debe registrar:
+
+- tema y versión fuente;
+- categoría;
+- herramienta o autor de producción;
+- autoría o permiso;
+- estado de revisión;
+- ubicación externa o ruta local permitida.
+
+Los audios, vídeos y presentaciones pesadas se alojan externamente. El repositorio conserva el guion, los metadatos y el enlace autorizado.
+
+## 10. Cierre de un tema
+
+Un tema solo pasa a `approved_internal` cuando supera revisión normativa, pedagógica, editorial, de cobertura, de materiales y de derechos. La publicación para alumnos es una decisión posterior y separada.

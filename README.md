@@ -1,83 +1,96 @@
+
 # Academia En Vigor
 
 **El temario que nunca duerme.**
 
-Repositorio editorial de Academia En Vigor para la preparación de Policía Nacional. Esta base limpia comienza con el **Tema 3 · La Constitución Española (II)**, terminado como versión interna `0.3.0`.
+Repositorio editorial privado de Academia En Vigor para la preparación de Policía Nacional. El Tema 3 es el tema piloto cerrado internamente y sirve como patrón para construir los siguientes temas con el Método VIGOR.
 
 ## Regla principal
 
-Solo entra en este repositorio un tema que tenga:
+Solo entra un tema que tenga:
 
 1. fuente maestra en `conocimiento/`;
 2. El Parte y El Atestado compilados desde esa fuente;
 3. cobertura de hechos atómicos;
-4. banco de preguntas validado;
+4. banco propio validado;
 5. plan de evaluaciones reproducible;
-6. fuentes y estado editorial registrados;
-7. imágenes y materiales didácticos referenciados por tema y versión.
+6. fuentes oficiales y estado editorial registrados;
+7. imágenes y materiales didácticos vinculados a una versión concreta;
+8. control de derechos y ausencia de archivos de terceros.
 
-Los documentos generados no sustituyen a la fuente maestra. Las imágenes, infografías, presentaciones, audios y vídeos son materiales derivados y nunca se consideran fuentes jurídicas.
-
-## Estado actual
+## Estado
 
 | Elemento | Estado |
 |---|---|
 | Tema 3 · fuente maestra | Cerrado internamente · v0.3.0 |
-| El Parte | Generado y validado |
-| El Atestado | Generado y validado |
-| Hechos atómicos | 470 |
-| Banco propio | 738 preguntas |
-| Cobertura | 470/470 hechos |
-| Evaluaciones | Plan reproducible: 61 tests |
-| Imágenes del temario | 28 recursos integrados · 17 infografías y 11 ilustraciones |
-| Materiales didácticos | Estructura preparada |
-| Preguntas oficiales | Ninguna incorporada sin trazabilidad |
+| Hechos atómicos del Tema 3 | 470 |
+| Banco propio del Tema 3 | 738 preguntas · cobertura 470/470 |
+| Evaluaciones del Tema 3 | 61 tests reproducibles |
+| Recursos visuales integrados | 28 · 17 infografías y 11 ilustraciones |
+| Exámenes históricos normalizados | 10 exámenes · 1000 preguntas |
+| Respuestas históricas propuestas | 662 · no equivalen a plantilla oficial final |
+| Preguntas oficiales verificadas | 0 |
+| Referencias históricas mapeadas al Tema 3 | 30 |
+| «Ha caído» activo | 0 hasta verificación definitiva |
 | Publicación para alumnos | No publicada |
 
-## Estructura
+## Arquitectura
 
 ```text
-editorial/               normas internas del Método VIGOR
-fuentes/                 catálogo de fuentes oficiales
-conocimiento/            fuente maestra, manifiesto, cobertura y revisiones
+editorial/               normas del Método VIGOR
+fuentes/                 catálogo de fuentes oficiales, nunca originales de terceros
+conocimiento/            fuente maestra, cobertura, manifiestos y revisiones
 temas/                   El Parte y El Atestado derivados
-banco-preguntas/         banco canónico y esquema
-evaluaciones/            plan para generar tests
-assets/                  imágenes integradas dentro del temario
-materiales-didacticos/   infografías, presentaciones, audios y vídeos
-scripts/                 compilación, generación y validación
-tests/                   pruebas técnicas automáticas
-docs/                    documentación de uso
-build/                   resultados generados localmente; no se versionan
+banco-preguntas/         preguntas propias y exámenes oficiales separados
+evaluaciones/            planes reproducibles de tests
+assets/                  imágenes insertadas dentro del temario
+materiales-didacticos/   metadatos de infografías, presentaciones, audios y vídeos
+plantillas/              patrón para iniciar nuevos temas
+scripts/                 creación, compilación y validación
+tests/                   pruebas automáticas
+docs/                    procedimientos editoriales y técnicos
+build/                   salidas regenerables; no se versionan
 ```
 
-## Diferencia entre `assets` y `materiales-didacticos`
+### Bancos separados
 
-- `assets/`: imágenes, esquemas y gráficos que se insertan dentro de El Parte o El Atestado.
-- `materiales-didacticos/`: productos independientes que el alumno abre por separado, como infografías completas, presentaciones, audios y vídeos.
+```text
+banco-preguntas/policia-nacional/tema-NN/preguntas.jsonl
+```
 
-La herramienta utilizada para producir un recurso se registra en su manifest, pero no determina su carpeta. Puede ser ChatGPT, NotebookLM, Gemini, Canva, una persona u otra herramienta.
+contiene preguntas creadas por Academia En Vigor.
+
+```text
+banco-preguntas/policia-nacional/oficiales/
+```
+
+contiene transcripciones históricas normalizadas, sin PDF, DOCX, marcas de agua ni comentarios de terceros. Cada tema mantiene un `indice-oficiales.json` que referencia los IDs históricos sin duplicar los enunciados.
+
+## Crear el siguiente tema
+
+```bash
+python scripts/crear_tema.py \
+  --oposicion policia-nacional \
+  --tema 4 \
+  --titulo "Título oficial del Tema 4" \
+  --slug titulo-oficial-tema-04
+```
+
+El script crea la fuente maestra, El Parte, El Atestado, banco, cobertura, evaluaciones, assets y estructura de materiales didácticos, y registra el tema en `temario.json`.
 
 ## Comandos de control
 
 ```bash
-python scripts/compilar_tema.py --check
-python scripts/validar_banco_tema_03.py
-python scripts/generar_evaluaciones_tema_03.py
-python -m unittest discover -s tests -v
+python scripts/compilar_tema.py --all --check
+python scripts/validar_bancos.py --all
 python scripts/validar_proyecto.py
+python -m unittest discover -s tests -v
 ```
 
-Para regenerar El Parte y El Atestado tras editar la fuente maestra:
+## Seguridad editorial
 
-```bash
-python scripts/compilar_tema.py --write
-```
-
-## Próximo tema
-
-El siguiente tema debe crearse copiando **la estructura**, no el contenido, del Tema 3. No se trasladarán directamente temarios antiguos sin convertirlos al circuito completo VIGOR.
+Este repositorio debe mantenerse **privado**. Los audios, vídeos, presentaciones y archivos pesados se alojan fuera del repositorio y se registran mediante su manifiesto. No se suben documentos de terceros ni originales utilizados para comprobación.
 
 ---
 
-© Academia En Vigor · Contenido interno no publicado.
+© Academia En Vigor · Contenido propietario e interno no publicado.

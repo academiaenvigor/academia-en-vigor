@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0.0",
-  "project_version": "0.1.1",
+  "schema_version": "1.1.0",
+  "project_version": "0.6.0",
   "academy": "Academia En Vigor",
   "slogan": "El temario que nunca duerme",
   "oppositions": {
@@ -22,9 +22,29 @@
           "assets": "assets/policia-nacional/tema-03/manifest.json",
           "teaching_materials": "materiales-didacticos/policia-nacional/tema-03/manifest.json",
           "visual_version": "0.1.0",
-          "visual_assets": 28
+          "visual_assets": 28,
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-03/indice-oficiales.json",
+          "official_exam_mapped": 30,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
+    }
+  },
+  "repository_policy": {
+    "visibility": "private",
+    "classification": "internal_editorial_repository",
+    "third_party_source_files": "forbidden",
+    "heavy_media": "external_storage_by_default"
+  },
+  "official_exam_banks": {
+    "policia-nacional": {
+      "manifest": "banco-preguntas/policia-nacional/oficiales/manifest.json",
+      "exams": 10,
+      "questions": 1000,
+      "proposed_answers": 662,
+      "verified_questions": 0,
+      "active_ha_caido": 0
     }
   }
 }
