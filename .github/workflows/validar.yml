@@ -1,0 +1,38 @@
+
+name: Validar contenido VIGOR
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Exigir repositorio privado
+        if: ${{ github.event.repository.private == false }}
+        run: |
+          echo "::error::El repositorio editorial debe ser privado antes de incorporar el banco histórico."
+          exit 1
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Comprobar derivados
+        run: python scripts/compilar_tema.py --all --check
+
+      - name: Ejecutar pruebas
+        run: python -m unittest discover -s tests -v
+
+      - name: Validar proyecto completo
+        run: python scripts/validar_proyecto.py
