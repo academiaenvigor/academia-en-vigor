@@ -1,12 +1,33 @@
 {
   "schema_version": "1.1.0",
-  "project_version": "0.6.0",
+  "project_version": "0.6.1",
   "academy": "Academia En Vigor",
   "slogan": "El temario que nunca duerme",
   "oppositions": {
     "policia-nacional": {
       "display_name": "Policía Nacional · Escala Básica",
       "topics": [
+        {
+          "number": 1,
+          "slug": "el-derecho-la-persona-y-la-nacionalidad",
+          "title": "El Derecho, la persona y la nacionalidad",
+          "content_version": "0.2.0",
+          "editorial_status": "draft_review",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-01/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-01-el-derecho-la-persona-y-la-nacionalidad.md",
+          "atestado": "temas/policia-nacional/atestado/tema-01-el-derecho-la-persona-y-la-nacionalidad.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-01/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-01/plan.json",
+          "assets": "assets/policia-nacional/tema-01/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-01/manifest.json",
+          "visual_version": "0.1.0-planned",
+          "visual_assets": 0,
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-01/indice-oficiales.json",
+          "official_exam_mapped": 0,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
+        },
         {
           "number": 3,
           "slug": "constitucion-espanola-ii",

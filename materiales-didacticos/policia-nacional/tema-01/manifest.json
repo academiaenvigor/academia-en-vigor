@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.2.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-01",
+  "content_version": "0.2.0",
+  "source_version": "0.2.0",
+  "status": "estructura_preparada",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "production": {
+    "briefing": "produccion/briefing.md",
+    "sources": "produccion/fuentes.md",
+    "prompts": "produccion/prompts.md"
+  },
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "resources": []
+}

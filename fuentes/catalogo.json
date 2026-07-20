@@ -1,6 +1,6 @@
 {
-  "catalog_version": "0.3.0",
-  "checked_at": "2026-07-16",
+  "catalog_version": "0.4.0",
+  "checked_at": "2026-07-20",
   "sources": [
     {
       "id": "CE-CORONA",
@@ -107,6 +107,128 @@
       "boe_id": "BOE-A-2026-15055",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
       "scope": "programa oficial y formato de la prueba",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "DPEJ-DERECHO",
+      "title": "Diccionario panhispánico del español jurídico: Derecho y acepciones",
+      "url": "https://dpej.rae.es/lema/derecho",
+      "scope": "concepto y acepciones doctrinales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "DPEJ-NORMA",
+      "title": "Diccionario panhispánico del español jurídico: norma jurídica",
+      "url": "https://dpej.rae.es/lema/norma-jur%C3%ADdica",
+      "scope": "concepto y terminología doctrinal",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "DPEJ-PERSONA",
+      "title": "Diccionario panhispánico del español jurídico: persona",
+      "url": "https://dpej.rae.es/lema/persona",
+      "scope": "persona natural y jurídica",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "DPEJ-CAPACIDAD",
+      "title": "Diccionario panhispánico del español jurídico: capacidad jurídica",
+      "url": "https://dpej.rae.es/lema/capacidad-jur%C3%ADdica",
+      "scope": "capacidad jurídica y ejercicio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-T01",
+      "title": "Constitución Española: artículos vinculados al Tema 1",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "arts. 9.1, 9.3, 11, 12 y 18.2",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-PRELIMINAR",
+      "title": "Código Civil: fuentes, aplicación y eficacia",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 1-7",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-VECINDAD",
+      "title": "Código Civil: vecindad civil",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 14-16",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-NACIONALIDAD",
+      "title": "Código Civil: nacionalidad española",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 17-26",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-PERSONA",
+      "title": "Código Civil: personalidad y personas jurídicas",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 29-39",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-DOMICILIO",
+      "title": "Código Civil: domicilio",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 40-41",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CC-CAPACIDAD",
+      "title": "Código Civil: mayoría, emancipación y medidas de apoyo",
+      "boe_id": "BOE-A-1889-4763",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "scope": "arts. 239-250 y concordantes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY-8-2021",
+      "title": "Ley 8/2021, reforma civil y procesal en materia de discapacidad",
+      "boe_id": "BOE-A-2021-9233",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9233",
+      "scope": "modelo de apoyos para el ejercicio de la capacidad jurídica",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LRC-2011",
+      "title": "Ley 20/2011, del Registro Civil",
+      "boe_id": "BOE-A-2011-12628",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12628",
+      "scope": "inscripción y prueba de hechos del estado civil vinculados al tema",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LGOB-JERARQUIA",
+      "title": "Ley 50/1997, del Gobierno: forma y jerarquía de disposiciones",
+      "boe_id": "BOE-A-1997-25336",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+      "scope": "art. 24 y potestad reglamentaria",
       "official": true,
       "traceable": true
     }

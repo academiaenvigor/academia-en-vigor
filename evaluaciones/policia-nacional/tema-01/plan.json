@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "0.2.0",
+  "opposition": "policia-nacional",
+  "topic_number": 1,
+  "topic_title": "El Derecho, la persona y la nacionalidad",
+  "id_prefix": "PN-T01",
+  "bank": "banco-preguntas/policia-nacional/tema-01/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-01/tests-generados",
+  "status": "planned_after_question_bank",
+  "coverage_tests": {
+    "description": "Pendiente de hechos y preguntas",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "El Derecho: concepto y función"
+      },
+      {
+        "number": 2,
+        "title": "Acepciones del Derecho"
+      },
+      {
+        "number": 3,
+        "title": "Derecho público, privado, común y especial"
+      },
+      {
+        "number": 4,
+        "title": "La norma jurídica positiva"
+      },
+      {
+        "number": 5,
+        "title": "Estructura de la norma jurídica"
+      },
+      {
+        "number": 6,
+        "title": "Clases de normas jurídicas"
+      },
+      {
+        "number": 7,
+        "title": "Caracteres de las normas jurídicas"
+      },
+      {
+        "number": 8,
+        "title": "Fuentes y principio de jerarquía normativa"
+      },
+      {
+        "number": 9,
+        "title": "Publicación, vigencia y eficacia de las normas"
+      },
+      {
+        "number": 10,
+        "title": "La persona en sentido jurídico"
+      },
+      {
+        "number": 11,
+        "title": "Nacimiento y protección del concebido"
+      },
+      {
+        "number": 12,
+        "title": "Extinción de la personalidad y conmoriencia"
+      },
+      {
+        "number": 13,
+        "title": "Capacidad jurídica y capacidad de obrar"
+      },
+      {
+        "number": 14,
+        "title": "Mayoría de edad y emancipación"
+      },
+      {
+        "number": 15,
+        "title": "Personas jurídicas: clases y constitución"
+      },
+      {
+        "number": 16,
+        "title": "Capacidad y extinción de las personas jurídicas"
+      },
+      {
+        "number": 17,
+        "title": "Nacionalidad española: marco constitucional"
+      },
+      {
+        "number": 18,
+        "title": "Españoles de origen"
+      },
+      {
+        "number": 19,
+        "title": "Consolidación por posesión de estado y adopción"
+      },
+      {
+        "number": 20,
+        "title": "Derecho de opción"
+      },
+      {
+        "number": 21,
+        "title": "Carta de naturaleza y nacionalidad por residencia"
+      },
+      {
+        "number": 22,
+        "title": "Plazos de residencia para la nacionalidad"
+      },
+      {
+        "number": 23,
+        "title": "Requisitos comunes de adquisición"
+      },
+      {
+        "number": 24,
+        "title": "Conservación y pérdida de la nacionalidad"
+      },
+      {
+        "number": 25,
+        "title": "Recuperación de la nacionalidad"
+      },
+      {
+        "number": 26,
+        "title": "El domicilio"
+      },
+      {
+        "number": 27,
+        "title": "Vecindad civil: concepto y atribución inicial"
+      },
+      {
+        "number": 28,
+        "title": "Opción y adquisición de vecindad por residencia"
+      },
+      {
+        "number": 29,
+        "title": "Vecindad en nacionalización y recuperación"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [],
+    "parts": [
+      {
+        "number": 1,
+        "title": "Derecho y acepciones",
+        "blocks": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Norma, fuentes y eficacia",
+        "blocks": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Persona y capacidad",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Nacionalidad",
+        "blocks": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Domicilio y vecindad civil",
+        "blocks": [
+          26,
+          27,
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  "final_tests": []
+}
