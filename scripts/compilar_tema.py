@@ -15,6 +15,39 @@ BLOCK_RE = re.compile(
     re.S,
 )
 LAYERS = ['MAPA', 'CONTENIDO', 'HABLEMOS_CLARO', 'EN_LA_CALLE', 'LO_QUE_CAE', 'HA_CAIDO']
+VIGOR_BLOCKS = {
+    'hablemos-claro', 'en-la-calle', 'lo-que-cae', 'perla-vigor',
+    'trampa', 'ha-caido', 'visual',
+}
+
+
+def validate_vigor_blocks(text: str, source_file: str) -> None:
+    """Valida los contenedores :::tipo ... ::: sin interpretar su contenido."""
+    opened: tuple[str, int] | None = None
+    for line_number, line in enumerate(text.splitlines(), start=1):
+        stripped = line.strip()
+        if not stripped.startswith(':::'):
+            continue
+        if line != line.lstrip():
+            raise ValueError(f'{source_file}:{line_number}: la marca VIGOR debe empezar en la primera columna')
+        if stripped == ':::':
+            if opened is None:
+                raise ValueError(f'{source_file}:{line_number}: cierre VIGOR sin apertura')
+            opened = None
+            continue
+        kind = stripped[3:].strip()
+        if kind not in VIGOR_BLOCKS:
+            raise ValueError(f'{source_file}:{line_number}: bloque VIGOR desconocido: {kind}')
+        if opened is not None:
+            previous_kind, previous_line = opened
+            raise ValueError(
+                f'{source_file}:{line_number}: no se permiten bloques VIGOR anidados; '
+                f'{previous_kind} comenzó en la línea {previous_line}'
+            )
+        opened = (kind, line_number)
+    if opened is not None:
+        kind, line_number = opened
+        raise ValueError(f'{source_file}:{line_number}: bloque VIGOR {kind} sin cierre')
 
 
 def manifest_path(opposition: str, topic: int) -> Path:
@@ -25,6 +58,7 @@ def load(opposition: str, topic: int):
     path = manifest_path(opposition, topic)
     manifest = json.loads(path.read_text(encoding='utf-8'))
     text = (ROOT / manifest['source_file']).read_text(encoding='utf-8')
+    validate_vigor_blocks(text, manifest['source_file'])
     blocks = [
         {'number': n, 'title': t, 'source': s, 'parte': p.strip(), 'atestado': a.strip()}
         for n, t, s, p, a in BLOCK_RE.findall(text)

@@ -11,9 +11,13 @@
 <!-- PARTE START -->
 El Derecho es el sistema de normas, principios e instituciones que ordena la convivencia, atribuye derechos, deberes y potestades y ofrece cauces institucionales para prevenir y resolver conflictos.
 
-> **Perla VIGOR:** la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
+:::perla-vigor
+la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-01-mapa-general.png` · recorrido completo del tema.
+:::visual
+**Referencia visual prevista:** `t01-01-mapa-general.png` · recorrido completo del tema.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El Derecho no es una mera colección de prohibiciones. Es un **sistema**: sus normas se relacionan entre sí, se ordenan por rango, atribuyen competencias y quedan completadas por principios e instituciones. Gracias a ese sistema, una sociedad sabe quién puede crear normas, qué facultades corresponden a cada persona, cómo se resuelve un conflicto y qué consecuencias produce el incumplimiento.
@@ -22,13 +26,21 @@ Cumple, entre otras, una función **ordenadora** —organiza la convivencia—; 
 
 La **coercibilidad** significa que el Derecho dispone de mecanismos legítimos para lograr el cumplimiento o aplicar la consecuencia prevista. No debe confundirse con violencia ni con sanción penal: una norma civil puede producir nulidad; una administrativa, la pérdida de una autorización; y una norma organizativa puede limitarse a atribuir competencia.
 
-> **Hablemos claro:** el Derecho no solo dice «esto está prohibido». También dice quién manda, hasta dónde puede mandar, cómo se reclama y qué derecho tiene cada persona.
+:::hablemos-claro
+el Derecho no solo dice «esto está prohibido». También dice quién manda, hasta dónde puede mandar, cómo se reclama y qué derecho tiene cada persona.
+:::
 
-> **En la calle:** cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo tiempo, reconoce garantías al ciudadano, potestad y límite proceden del mismo ordenamiento.
+:::en-la-calle
+cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo tiempo, reconoce garantías al ciudadano, potestad y límite proceden del mismo ordenamiento.
+:::
 
-> **Lo que cae:** concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
+:::lo-que-cae
+concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-01-mapa-general.png` · mapa de las cuatro zonas del tema: Derecho, norma, persona y nacionalidad.
+:::visual
+**Referencia visual prevista:** `t01-01-mapa-general.png` · mapa de las cuatro zonas del tema: Derecho, norma, persona y nacionalidad.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
 
@@ -42,9 +54,13 @@ La **coercibilidad** significa que el Derecho dispone de mecanismos legítimos p
 - **Derecho natural:** principios de justicia concebidos como anteriores o superiores al legislador.
 - **Ciencia del Derecho:** disciplina que estudia e interpreta el fenómeno jurídico.
 
-> **No confundas:** el derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.
+:::trampa
+el derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-02-acepciones-derecho.png`.
+:::visual
+**Referencia visual prevista:** `t01-02-acepciones-derecho.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La palabra «Derecho» cambia de significado según la frase en la que aparece. En «el Derecho español regula la nacionalidad», se utiliza en sentido **objetivo**: conjunto de normas vigentes. En «tengo derecho a recurrir», se habla de **derecho subjetivo**: facultad, poder o pretensión que el ordenamiento reconoce a un sujeto.
@@ -61,11 +77,17 @@ También se llama Derecho a la **ciencia jurídica**, es decir, a la disciplina 
 | «Principios universales de justicia» | Derecho natural |
 | «Estudiar Derecho» | Ciencia jurídica |
 
-> **Hablemos claro:** objetivo es la regla; subjetivo es la facultad que esa regla reconoce. Positivo es lo que forma parte del ordenamiento vigente; natural es una categoría filosófica.
+:::hablemos-claro
+objetivo es la regla; subjetivo es la facultad que esa regla reconoce. Positivo es lo que forma parte del ordenamiento vigente; natural es una categoría filosófica.
+:::
 
-> **Lo que cae:** los distractores suelen intercambiar objetivo/subjetivo y positivo/natural.
+:::lo-que-cae
+los distractores suelen intercambiar objetivo/subjetivo y positivo/natural.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-02-acepciones-derecho.png` · cinco tarjetas con ejemplo de cada acepción.
+:::visual
+**Referencia visual prevista:** `t01-02-acepciones-derecho.png` · cinco tarjetas con ejemplo de cada acepción.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 02 END -->
 
@@ -75,7 +97,9 @@ También se llama Derecho a la **ciencia jurídica**, es decir, a la disciplina 
 <!-- PARTE START -->
 El Derecho público regula la organización de los poderes públicos y las relaciones en las que se ejercen potestades públicas; el privado regula principalmente relaciones de coordinación entre particulares. El Derecho común contiene el régimen general y el especial disciplina una materia o situación específica.
 
-> **Perla VIGOR:** que intervenga una Administración no convierte por sí solo toda relación en Derecho público.
+:::perla-vigor
+que intervenga una Administración no convierte por sí solo toda relación en Derecho público.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La división entre **Derecho público** y **Derecho privado** es doctrinal y sirve para situar una relación jurídica. En el público predominan la organización de los poderes y el ejercicio de potestades: Derecho constitucional, administrativo, penal, procesal o tributario. En el privado predominan relaciones entre particulares en plano de coordinación: Derecho civil y mercantil.
@@ -84,11 +108,17 @@ La frontera no es absoluta. Una Administración puede actuar sometida a reglas p
 
 El **Derecho común** contiene la regulación general y puede actuar supletoriamente. El **Derecho especial** regula con mayor precisión una materia, colectivo o supuesto. En su ámbito, la regla especial se aplica con preferencia, pero no deroga en bloque toda la regulación común.
 
-> **Hablemos claro:** especial no significa «más importante» ni «de mayor rango»; significa que regula un supuesto más concreto.
+:::hablemos-claro
+especial no significa «más importante» ni «de mayor rango»; significa que regula un supuesto más concreto.
+:::
 
-> **En la calle:** una potestad de identificación pertenece al Derecho público. Un contrato de arrendamiento entre particulares pertenece al privado, aunque deba respetar normas imperativas.
+:::en-la-calle
+una potestad de identificación pertenece al Derecho público. Un contrato de arrendamiento entre particulares pertenece al privado, aunque deba respetar normas imperativas.
+:::
 
-> **Lo que cae:** criterio público/privado; especialidad frente a jerarquía; función supletoria del Derecho común.
+:::lo-que-cae
+criterio público/privado; especialidad frente a jerarquía; función supletoria del Derecho común.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 03 END -->
 
@@ -98,9 +128,13 @@ El **Derecho común** contiene la regulación general y puede actuar supletoriam
 <!-- PARTE START -->
 La norma jurídica positiva es una regla de conducta u organización integrada en un ordenamiento vigente y producida o reconocida conforme a su sistema de fuentes. Puede mandar, prohibir, permitir, atribuir potestades, reconocer derechos, definir conceptos u organizar procedimientos.
 
-> **No confundas:** norma jurídica no equivale necesariamente a artículo ni a sanción.
+:::trampa
+norma jurídica no equivale necesariamente a artículo ni a sanción.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-03-anatomia-norma.png`.
+:::visual
+**Referencia visual prevista:** `t01-03-anatomia-norma.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 Una norma jurídica positiva es una **regla vigente** que el ordenamiento reconoce como jurídicamente vinculante. Su positividad indica pertenencia a un Derecho efectivamente establecido; su juridicidad deriva de haber sido creada o reconocida conforme al sistema de competencias, fuentes y procedimientos.
@@ -109,11 +143,17 @@ No todas las normas ordenan una conducta. Existen normas **preceptivas**, **proh
 
 Norma y artículo no son términos idénticos. Un artículo puede contener varias reglas y una norma completa puede construirse con preceptos repartidos en distintos artículos. Tampoco toda norma contiene una sanción: puede reconocer un derecho o producir automáticamente un estado jurídico.
 
-> **Hablemos claro:** el artículo es el envase; la norma es la regla que extraemos de uno o varios preceptos.
+:::hablemos-claro
+el artículo es el envase; la norma es la regla que extraemos de uno o varios preceptos.
+:::
 
-> **Lo que cae:** concepto; positividad; obligatoriedad; posibilidad de normas organizativas y permisivas.
+:::lo-que-cae
+concepto; positividad; obligatoriedad; posibilidad de normas organizativas y permisivas.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-03-anatomia-norma.png` · artículo, norma, supuesto y efecto.
+:::visual
+**Referencia visual prevista:** `t01-03-anatomia-norma.png` · artículo, norma, supuesto y efecto.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 04 END -->
 
@@ -123,7 +163,9 @@ Norma y artículo no son términos idénticos. Un artículo puede contener varia
 <!-- PARTE START -->
 La estructura lógica clásica distingue **supuesto de hecho** y **consecuencia jurídica**. Cuando se realiza la situación prevista, el ordenamiento vincula el efecto correspondiente. La consecuencia puede crear, modificar o extinguir derechos, deberes, potestades, responsabilidades o estados civiles.
 
-> **Trampa:** consecuencia jurídica no significa necesariamente castigo.
+:::trampa
+consecuencia jurídica no significa necesariamente castigo.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El **supuesto de hecho** es la conducta, acontecimiento, cualidad o situación prevista por la norma. La **consecuencia jurídica** es el efecto que el ordenamiento asocia a su realización.
@@ -132,11 +174,17 @@ Ejemplo: cumplir dieciocho años es el supuesto; alcanzar la mayoría de edad es
 
 La consecuencia puede consistir en el nacimiento, modificación o extinción de una relación jurídica; en la atribución de una competencia; en la nulidad de un acto; o en una sanción. La **sanción** es, por tanto, una especie de consecuencia jurídica, no su sinónimo.
 
-> **Hablemos claro:** «si ocurre A, el Derecho produce B». A es el supuesto; B, la consecuencia.
+:::hablemos-claro
+«si ocurre A, el Derecho produce B». A es el supuesto; B, la consecuencia.
+:::
 
-> **Lo que cae:** supuesto de hecho, consecuencia jurídica y diferencia entre consecuencia y sanción.
+:::lo-que-cae
+supuesto de hecho, consecuencia jurídica y diferencia entre consecuencia y sanción.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-03-anatomia-norma.png` · esquema SI → ENTONCES con ejemplos civiles.
+:::visual
+**Referencia visual prevista:** `t01-03-anatomia-norma.png` · esquema SI → ENTONCES con ejemplos civiles.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 05 END -->
 
@@ -146,9 +194,13 @@ La consecuencia puede consistir en el nacimiento, modificación o extinción de 
 <!-- PARTE START -->
 Las normas pueden ser imperativas, prohibitivas, permisivas o dispositivas; generales o especiales; permanentes o temporales; completas o de remisión. Las clasificaciones son doctrinales y responden a criterios distintos.
 
-> **Perla VIGOR:** una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particulares no han establecido válidamente otra regulación.
+:::perla-vigor
+una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particulares no han establecido válidamente otra regulación.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-04-clases-normas.png`.
+:::visual
+**Referencia visual prevista:** `t01-04-clases-normas.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 Las clasificaciones de normas son doctrinales y pueden combinarse. Según la posibilidad de excluir su aplicación, se distingue entre **imperativas** —no pueden desplazarse libremente— y **dispositivas**, que actúan en defecto de pacto válido.
@@ -165,11 +217,17 @@ También se emplea la clasificación de normas perfectas, menos que perfectas e 
 | Duración | Permanente / temporal | ¿Tiene vigencia limitada desde su origen? |
 | Integración | Completa / de remisión | ¿Necesita acudir a otra norma? |
 
-> **Hablemos claro:** una misma norma puede ser, por ejemplo, imperativa, especial y temporal a la vez.
+:::hablemos-claro
+una misma norma puede ser, por ejemplo, imperativa, especial y temporal a la vez.
+:::
 
-> **Lo que cae:** imperativa frente a dispositiva; especialidad no equivale a superioridad jerárquica.
+:::lo-que-cae
+imperativa frente a dispositiva; especialidad no equivale a superioridad jerárquica.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-04-clases-normas.png` · matriz de clasificaciones sin mezclarlas.
+:::visual
+**Referencia visual prevista:** `t01-04-clases-normas.png` · matriz de clasificaciones sin mezclarlas.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 06 END -->
 
@@ -179,7 +237,9 @@ También se emplea la clasificación de normas perfectas, menos que perfectas e 
 <!-- PARTE START -->
 Entre los caracteres doctrinales destacan generalidad, abstracción, obligatoriedad, heteronomía, exterioridad, bilateralidad y coercibilidad. No aparecen con igual intensidad en todas las normas.
 
-> **No confundas:** generalidad no significa que la norma se aplique a todas las personas, sino a una categoría definida de destinatarios o supuestos.
+:::trampa
+generalidad no significa que la norma se aplique a todas las personas, sino a una categoría definida de destinatarios o supuestos.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La **generalidad** significa que la norma se dirige a una categoría de sujetos o situaciones; la **abstracción**, que formula un supuesto tipo susceptible de repetirse. La **obligatoriedad** expresa su fuerza vinculante; la **heteronomía**, que la regla procede de una voluntad distinta de la individual del destinatario; y la **coercibilidad**, que el ordenamiento dispone de mecanismos para asegurar su eficacia.
@@ -188,9 +248,13 @@ La **bilateralidad** pone de relieve que muchas normas relacionan facultades de 
 
 Son caracteres doctrinales: ayudan a comprender la norma, pero no deben presentarse como una enumeración legal cerrada. Además, no todos se manifiestan del mismo modo en una norma que organiza un ministerio y en otra que impone una obligación contractual.
 
-> **Hablemos claro:** «general» no es «para todo el mundo sin excepción»; puede ser general para todos los miembros de un grupo definido.
+:::hablemos-claro
+«general» no es «para todo el mundo sin excepción»; puede ser general para todos los miembros de un grupo definido.
+:::
 
-> **Lo que cae:** definición de generalidad, abstracción, heteronomía y coercibilidad.
+:::lo-que-cae
+definición de generalidad, abstracción, heteronomía y coercibilidad.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 07 END -->
 
@@ -200,9 +264,13 @@ Son caracteres doctrinales: ayudan a comprender la norma, pero no deben presenta
 <!-- PARTE START -->
 El artículo 1 CC enumera ley, costumbre y principios generales del Derecho. La jurisprudencia complementa el ordenamiento. La Constitución garantiza la jerarquía normativa: una disposición inferior no puede contradecir otra superior.
 
-> **Perla VIGOR:** la costumbre rige en defecto de ley aplicable; los principios generales, en defecto de ley o costumbre, y además informan el ordenamiento.
+:::perla-vigor
+la costumbre rige en defecto de ley aplicable; los principios generales, en defecto de ley o costumbre, y además informan el ordenamiento.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-05-fuentes-jerarquia.png`.
+:::visual
+**Referencia visual prevista:** `t01-05-fuentes-jerarquia.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 1.1 del Código Civil enumera como fuentes del ordenamiento jurídico español **la ley, la costumbre y los principios generales del Derecho**. La costumbre solo rige en defecto de ley aplicable, debe probarse y no puede ser contraria a la moral ni al orden público. Los usos jurídicos no meramente interpretativos tienen consideración de costumbre.
@@ -213,13 +281,21 @@ La Constitución garantiza en su artículo 9.3 el **principio de jerarquía norm
 
 En el ámbito reglamentario estatal, las disposiciones se ordenan según el órgano que las aprueba y ninguna disposición administrativa puede vulnerar la Constitución o las leyes ni regular materias reservadas a la ley.
 
-> **Hablemos claro:** primero pregunta quién podía dictar la norma; después, qué rango tiene; y finalmente, si otra norma especial o posterior afecta al caso.
+:::hablemos-claro
+primero pregunta quién podía dictar la norma; después, qué rango tiene; y finalmente, si otra norma especial o posterior afecta al caso.
+:::
 
-> **En la calle:** una instrucción interna no puede crear por sí sola una potestad contraria a una ley ni reducir una garantía establecida en una norma superior.
+:::en-la-calle
+una instrucción interna no puede crear por sí sola una potestad contraria a una ley ni reducir una garantía establecida en una norma superior.
+:::
 
-> **Lo que cae:** orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia complementaria; jerarquía frente a competencia y especialidad.
+:::lo-que-cae
+orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia complementaria; jerarquía frente a competencia y especialidad.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-05-fuentes-jerarquia.png` · doble esquema: fuentes civiles y jerarquía normativa.
+:::visual
+**Referencia visual prevista:** `t01-05-fuentes-jerarquia.png` · doble esquema: fuentes civiles y jerarquía normativa.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 08 END -->
 
@@ -229,9 +305,13 @@ En el ámbito reglamentario estatal, las disposiciones se ordenan según el órg
 <!-- PARTE START -->
 Salvo disposición distinta, las leyes entran en vigor a los **veinte días** de su publicación completa en el BOE. Solo se derogan por otras posteriores. La ignorancia no excusa; la retroactividad exige previsión; y el ordenamiento rechaza fraude de ley, abuso de derecho y actos contrarios a normas imperativas o prohibitivas.
 
-> **Perla VIGOR:** derogar una ley no hace revivir automáticamente las que esta había derogado.
+:::perla-vigor
+derogar una ley no hace revivir automáticamente las que esta había derogado.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-06-vigencia-eficacia.png`.
+:::visual
+**Referencia visual prevista:** `t01-06-vigencia-eficacia.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 2 CC establece que las leyes entran en vigor a los **veinte días de su completa publicación en el Boletín Oficial del Estado**, si en ellas no se dispone otra cosa. La propia norma puede fijar entrada inmediata, una fecha posterior o una vacatio distinta.
@@ -242,11 +322,17 @@ El artículo 6 contiene varias reglas examinables: la ignorancia de las leyes no
 
 El artículo 7 exige buena fe y prohíbe el abuso de derecho o ejercicio antisocial. La analogía permite aplicar una regulación a un supuesto semejante cuando exista identidad de razón, pero las leyes penales, excepcionales y temporales no se aplican a casos distintos de los expresamente comprendidos.
 
-> **Hablemos claro:** no basta «vestir» una conducta con una norma aparentemente permitida si el objetivo real es esquivar otra norma obligatoria.
+:::hablemos-claro
+no basta «vestir» una conducta con una norma aparentemente permitida si el objetivo real es esquivar otra norma obligatoria.
+:::
 
-> **Lo que cae:** 20 días; derogación; no reviviscencia; ignorancia; fraude; nulidad; buena fe; límites de analogía.
+:::lo-que-cae
+20 días; derogación; no reviviscencia; ignorancia; fraude; nulidad; buena fe; límites de analogía.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-06-vigencia-eficacia.png` · línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.
+:::visual
+**Referencia visual prevista:** `t01-06-vigencia-eficacia.png` · línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 09 END -->
 
@@ -256,9 +342,13 @@ El artículo 7 exige buena fe y prohíbe el abuso de derecho o ejercicio antisoc
 <!-- PARTE START -->
 Persona es el sujeto capaz de ser titular de derechos y obligaciones. Se distinguen **personas naturales o físicas** y **personas jurídicas**, a las que el ordenamiento reconoce personalidad propia y distinta de la de sus integrantes.
 
-> **No confundas:** ser persona jurídica no significa ser una persona humana; significa ser un sujeto reconocido por el Derecho.
+:::trampa
+ser persona jurídica no significa ser una persona humana; significa ser un sujeto reconocido por el Derecho.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-07-persona-fisica-juridica.png`.
+:::visual
+**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 En sentido jurídico, persona es todo sujeto al que el ordenamiento reconoce aptitud para ser titular de derechos, deberes y relaciones jurídicas. La condición de persona no depende de poseer patrimonio, nacionalidad española o plena autonomía para actuar.
@@ -267,11 +357,17 @@ La **persona natural o física** es el ser humano. La **persona jurídica** es u
 
 La personalidad jurídica cumple una función técnica: permite imputar derechos, deberes, patrimonio y responsabilidad a un sujeto diferenciado. No convierte a sus miembros en inexistentes ni elimina automáticamente su posible responsabilidad cuando la ley la establezca.
 
-> **Hablemos claro:** una asociación puede firmar un contrato a su nombre porque el Derecho la trata como un sujeto distinto de cada socio.
+:::hablemos-claro
+una asociación puede firmar un contrato a su nombre porque el Derecho la trata como un sujeto distinto de cada socio.
+:::
 
-> **Lo que cae:** concepto de persona; clases; personalidad separada de la persona jurídica.
+:::lo-que-cae
+concepto de persona; clases; personalidad separada de la persona jurídica.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · comparación de nacimiento, organización, patrimonio y extinción.
+:::visual
+**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · comparación de nacimiento, organización, patrimonio y extinción.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 10 END -->
 
@@ -281,9 +377,13 @@ La personalidad jurídica cumple una función técnica: permite imputar derechos
 <!-- PARTE START -->
 El nacimiento determina la personalidad. Esta se adquiere al nacer **con vida**, una vez producido el **entero desprendimiento del seno materno**. El concebido se tiene por nacido para los efectos favorables si finalmente nace cumpliendo esas condiciones.
 
-> **Perla VIGOR:** el concebido no tiene personalidad plena, pero el ordenamiento anticipa la protección de efectos favorables condicionados al nacimiento.
+:::perla-vigor
+el concebido no tiene personalidad plena, pero el ordenamiento anticipa la protección de efectos favorables condicionados al nacimiento.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-08-nacimiento-personalidad.png`.
+:::visual
+**Referencia visual prevista:** `t01-08-nacimiento-personalidad.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 29 CC declara que el nacimiento determina la personalidad. A continuación protege al concebido: se le tiene por nacido para todos los efectos que le sean favorables, **siempre que nazca con las condiciones del artículo 30**.
@@ -292,11 +392,17 @@ El artículo 30 dispone que la personalidad se adquiere en el momento del nacimi
 
 La protección del concebido opera de manera condicionada. Por ejemplo, puede reservarse a su favor un efecto sucesorio, pero quedará definitivamente consolidado únicamente si nace con vida y completamente separado.
 
-> **Hablemos claro:** la ley «guarda el sitio» al concebido para lo que le beneficie, pero la adquisición definitiva depende del nacimiento en las condiciones legales.
+:::hablemos-claro
+la ley «guarda el sitio» al concebido para lo que le beneficie, pero la adquisición definitiva depende del nacimiento en las condiciones legales.
+:::
 
-> **Lo que cae:** artículos 29 y 30; nacimiento con vida; entero desprendimiento; efectos favorables del concebido.
+:::lo-que-cae
+artículos 29 y 30; nacimiento con vida; entero desprendimiento; efectos favorables del concebido.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-08-nacimiento-personalidad.png` · secuencia concebido → nacimiento → personalidad.
+:::visual
+**Referencia visual prevista:** `t01-08-nacimiento-personalidad.png` · secuencia concebido → nacimiento → personalidad.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 11 END -->
 
@@ -306,7 +412,9 @@ La protección del concebido opera de manera condicionada. Por ejemplo, puede re
 <!-- PARTE START -->
 La personalidad civil se extingue por la muerte. Si dos o más personas llamadas a sucederse fallecen y no se prueba quién murió antes, se presumen muertas al mismo tiempo y no se transmiten derechos de una a otra.
 
-> **Trampa:** la conmoriencia es una regla probatoria para el caso de duda, no una afirmación de que realmente murieron en el mismo instante.
+:::trampa
+la conmoriencia es una regla probatoria para el caso de duda, no una afirmación de que realmente murieron en el mismo instante.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 32 CC establece que la personalidad civil se extingue por la muerte. A partir de ese momento cesa la aptitud de la persona para adquirir nuevas relaciones jurídicas, aunque su fallecimiento desencadene efectos sucesorios, familiares o patrimoniales.
@@ -315,9 +423,13 @@ El artículo 33 regula la **conmoriencia**. Cuando exista duda sobre cuál de do
 
 No debe confundirse muerte con declaración de fallecimiento: esta última es una resolución jurídica aplicable en situaciones de desaparición y sometida a sus propias reglas.
 
-> **Hablemos claro:** si nadie puede demostrar el orden de las muertes, la ley corta la cadena sucesoria entre ellas.
+:::hablemos-claro
+si nadie puede demostrar el orden de las muertes, la ley corta la cadena sucesoria entre ellas.
+:::
 
-> **Lo que cae:** muerte como extinción; carga de la prueba y efecto de la conmoriencia.
+:::lo-que-cae
+muerte como extinción; carga de la prueba y efecto de la conmoriencia.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 12 END -->
 
@@ -327,9 +439,13 @@ No debe confundirse muerte con declaración de fallecimiento: esta última es un
 <!-- PARTE START -->
 La capacidad jurídica es la aptitud para ser titular de derechos y obligaciones. La capacidad de obrar —terminología clásica que mantiene el programa— es la aptitud para ejercitarlos mediante actos jurídicos eficaces. La discapacidad no elimina la capacidad jurídica: el sistema prevé apoyos para su ejercicio.
 
-> **Perla VIGOR:** apoyo no equivale automáticamente a sustitución de la voluntad.
+:::perla-vigor
+apoyo no equivale automáticamente a sustitución de la voluntad.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-09-capacidad-apoyos.png`.
+:::visual
+**Referencia visual prevista:** `t01-09-capacidad-apoyos.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La **capacidad jurídica** acompaña a la personalidad y expresa la aptitud general para ser titular de derechos y obligaciones. La llamada **capacidad de obrar** o capacidad de ejercicio se refiere a la posibilidad de realizar por uno mismo actos jurídicos eficaces.
@@ -338,13 +454,21 @@ El programa oficial conserva la terminología clásica, pero debe explicarse con
 
 Los apoyos pueden ser voluntarios o legales y comprenden, según el caso, guarda de hecho, curatela y defensor judicial. La representación es excepcional y solo procede cuando, pese a un esfuerzo considerable, no sea posible determinar la voluntad, deseos y preferencias conforme a las reglas aplicables.
 
-> **Hablemos claro:** una persona puede ser titular de derechos aunque necesite ayuda para tomar o expresar determinadas decisiones. La ayuda se ajusta a la persona; no se parte de borrarla jurídicamente.
+:::hablemos-claro
+una persona puede ser titular de derechos aunque necesite ayuda para tomar o expresar determinadas decisiones. La ayuda se ajusta a la persona; no se parte de borrarla jurídicamente.
+:::
 
-> **En la calle:** la existencia de una discapacidad no autoriza a presumir incapacidad ni a ignorar la voluntad de la persona. Deben identificarse, cuando proceda, los apoyos existentes.
+:::en-la-calle
+la existencia de una discapacidad no autoriza a presumir incapacidad ni a ignorar la voluntad de la persona. Deben identificarse, cuando proceda, los apoyos existentes.
+:::
 
-> **Lo que cae:** diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto a voluntad y preferencias.
+:::lo-que-cae
+diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto a voluntad y preferencias.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-09-capacidad-apoyos.png` · «tener derechos / ejercerlos» y catálogo básico de apoyos.
+:::visual
+**Referencia visual prevista:** `t01-09-capacidad-apoyos.png` · «tener derechos / ejercerlos» y catálogo básico de apoyos.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 13 END -->
 
@@ -354,9 +478,13 @@ Los apoyos pueden ser voluntarios o legales y comprenden, según el caso, guarda
 <!-- PARTE START -->
 La mayoría de edad comienza a los **dieciocho años**. El mayor puede realizar todos los actos de la vida civil salvo las excepciones legales. La emancipación amplía la autonomía del menor desde los dieciséis años, pero mantiene límites patrimoniales relevantes.
 
-> **Perla VIGOR:** el emancipado necesita consentimiento para tomar dinero a préstamo y para enajenar o gravar determinados bienes de especial importancia.
+:::perla-vigor
+el emancipado necesita consentimiento para tomar dinero a préstamo y para enajenar o gravar determinados bienes de especial importancia.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+:::visual
+**Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 12 CE y el artículo 240 CC fijan la mayoría de edad en los **dieciocho años**. Para el cómputo se incluye completo el día del nacimiento. Conforme al artículo 246, el mayor de edad puede realizar todos los actos de la vida civil, salvo las excepciones establecidas para casos especiales.
@@ -365,11 +493,17 @@ El Código Civil enumera como causas de emancipación la mayoría de edad, la co
 
 El emancipado puede regir su persona y bienes como si fuera mayor, pero hasta la mayoría necesita consentimiento para tomar dinero a préstamo y para gravar o enajenar bienes inmuebles, establecimientos mercantiles o industriales u objetos de extraordinario valor. Estas limitaciones no convierten la emancipación en mayoría de edad.
 
-> **Hablemos claro:** emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patrimoniales.
+:::hablemos-claro
+emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patrimoniales.
+:::
 
-> **Lo que cae:** 18 años; 16 años; consentimiento; vida independiente; límites del artículo 247.
+:::lo-que-cae
+18 años; 16 años; consentimiento; vida independiente; límites del artículo 247.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+:::visual
+**Referencia visual prevista:** `t01-10-mayoria-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->
 
@@ -379,7 +513,9 @@ El emancipado puede regir su persona y bienes como si fuera mayor, pero hasta la
 <!-- PARTE START -->
 El Código Civil reconoce como personas jurídicas las corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley y las asociaciones de interés particular a las que la ley concede personalidad propia. Su personalidad comienza desde la válida constitución conforme a Derecho.
 
-> **No confundas:** el reconocimiento de personalidad no depende siempre de una inscripción idéntica para todas las entidades; cada tipo se rige por su normativa.
+:::trampa
+el reconocimiento de personalidad no depende siempre de una inscripción idéntica para todas las entidades; cada tipo se rige por su normativa.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 35 CC distingue dos grandes grupos. Primero, corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley. Segundo, asociaciones de interés particular, civiles, mercantiles o industriales, a las que la ley concede personalidad propia independiente de la de cada asociado.
@@ -388,11 +524,17 @@ La personalidad de las entidades del primer grupo comienza desde que quedan vál
 
 La clasificación del Código Civil es general. Para conocer el momento exacto de adquisición de personalidad, los requisitos de inscripción o la responsabilidad de miembros y administradores debe acudirse a la ley reguladora de cada tipo.
 
-> **Hablemos claro:** «persona jurídica» es una categoría común, pero una asociación, una fundación y una sociedad no nacen ni funcionan exactamente igual.
+:::hablemos-claro
+«persona jurídica» es una categoría común, pero una asociación, una fundación y una sociedad no nacen ni funcionan exactamente igual.
+:::
 
-> **Lo que cae:** artículo 35; personalidad independiente; válida constitución; remisión del artículo 36.
+:::lo-que-cae
+artículo 35; personalidad independiente; válida constitución; remisión del artículo 36.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · árbol de clases de persona jurídica.
+:::visual
+**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · árbol de clases de persona jurídica.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 15 END -->
 
@@ -402,7 +544,9 @@ La clasificación del Código Civil es general. Para conocer el momento exacto d
 <!-- PARTE START -->
 La capacidad de corporaciones, asociaciones y fundaciones se determina por sus leyes, estatutos o reglas fundacionales. Pueden adquirir bienes, contraer obligaciones y ejercitar acciones. Su extinción y el destino de sus bienes se rigen por la ley y por sus normas constitutivas.
 
-> **Perla VIGOR:** si no se ha previsto destino para los bienes tras la extinción, el Código Civil establece una regla orientada a fines análogos de interés territorial.
+:::perla-vigor
+si no se ha previsto destino para los bienes tras la extinción, el Código Civil establece una regla orientada a fines análogos de interés territorial.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La capacidad civil de las corporaciones se regula por las leyes que las crean o reconocen; la de las asociaciones, por sus estatutos; y la de las fundaciones, por sus reglas de institución debidamente aprobadas.
@@ -411,9 +555,13 @@ El artículo 38 reconoce a las personas jurídicas la posibilidad de adquirir y 
 
 El artículo 39 contempla causas de extinción como expiración del plazo, realización del fin o imposibilidad de aplicar al mismo la actividad y los medios disponibles. El destino de los bienes se ajusta a ley, estatutos o cláusulas fundacionales y, en defecto, se aplica a fines análogos de interés territorial según la regla legal.
 
-> **Hablemos claro:** la entidad actúa a través de personas físicas, pero el patrimonio y las obligaciones pueden pertenecer a la propia entidad.
+:::hablemos-claro
+la entidad actúa a través de personas físicas, pero el patrimonio y las obligaciones pueden pertenecer a la propia entidad.
+:::
 
-> **Lo que cae:** fuentes de capacidad según tipo; facultades del artículo 38; causas y efectos de extinción.
+:::lo-que-cae
+fuentes de capacidad según tipo; facultades del artículo 38; causas y efectos de extinción.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 16 END -->
 
@@ -423,9 +571,13 @@ El artículo 39 contempla causas de extinción como expiración del plazo, reali
 <!-- PARTE START -->
 La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artículo 11 CE remite a la ley su adquisición, conservación y pérdida, impide privar de ella a los españoles de origen y permite tratados de doble nacionalidad con países especialmente vinculados.
 
-> **Trampa:** «no puede ser privado» no significa que un español de origen jamás pueda perderla en los casos legalmente previstos.
+:::trampa
+«no puede ser privado» no significa que un español de origen jamás pueda perderla en los casos legalmente previstos.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+:::visual
+**Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La nacionalidad determina la pertenencia jurídica de una persona a un Estado y produce efectos en materia de derechos, deberes, estado civil y protección. La Constitución no regula todas sus vías, sino que remite a la ley la adquisición, conservación y pérdida.
@@ -434,11 +586,17 @@ El artículo 11.2 CE establece que ningún español de origen podrá ser **priva
 
 El Código Civil distingue nacionalidad **de origen** y nacionalidad adquirida por vías derivativas. La diferencia importa especialmente para determinadas reglas de pérdida y para la protección constitucional frente a la privación.
 
-> **Hablemos claro:** «de origen» no significa necesariamente «nacido en España»; puede depender de la filiación o de otros supuestos legales.
+:::hablemos-claro
+«de origen» no significa necesariamente «nacido en España»; puede depender de la filiación o de otros supuestos legales.
+:::
 
-> **Lo que cae:** artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacionalidad.
+:::lo-que-cae
+artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacionalidad.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png` · origen, opción, carta, residencia y consolidación.
+:::visual
+**Referencia visual prevista:** `t01-11-vias-nacionalidad.png` · origen, opción, carta, residencia y consolidación.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 17 END -->
 
@@ -448,9 +606,13 @@ El Código Civil distingue nacionalidad **de origen** y nacionalidad adquirida p
 <!-- PARTE START -->
 Son españoles de origen los nacidos de padre o madre españoles y determinados nacidos en España: progenitor extranjero también nacido en España —salvo diplomáticos—; ausencia de nacionalidad atribuida por las leyes de los progenitores; o filiación no determinada.
 
-> **Perla VIGOR:** si filiación o nacimiento en España se determina después de los dieciocho años, no hay adquisición automática; cabe optar durante dos años.
+:::perla-vigor
+si filiación o nacimiento en España se determina después de los dieciocho años, no hay adquisición automática; cabe optar durante dos años.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-12-espanoles-origen.png`.
+:::visual
+**Referencia visual prevista:** `t01-12-espanoles-origen.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 17.1 CC considera españoles de origen:
@@ -464,11 +626,17 @@ La primera regla responde al **ius sanguinis** y no exige nacimiento en España.
 
 Si la filiación o el nacimiento en España se determina después de los dieciocho años, ese hecho no produce por sí solo la nacionalidad. El interesado puede optar por la nacionalidad española de origen en el plazo de dos años desde la determinación.
 
-> **Hablemos claro:** no memorices «nacido en España = español». España no aplica una regla territorial absoluta; exige alguno de los supuestos concretos del artículo 17.
+:::hablemos-claro
+no memorices «nacido en España = español». España no aplica una regla territorial absoluta; exige alguno de los supuestos concretos del artículo 17.
+:::
 
-> **Lo que cae:** cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido de estancia; opción de dos años del 17.2.
+:::lo-que-cae
+cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido de estancia; opción de dos años del 17.2.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-12-espanoles-origen.png` · árbol de decisión del artículo 17.
+:::visual
+**Referencia visual prevista:** `t01-12-espanoles-origen.png` · árbol de decisión del artículo 17.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
 
@@ -478,7 +646,9 @@ Si la filiación o el nacimiento en España se determina después de los diecioc
 <!-- PARTE START -->
 La posesión y utilización continuadas de la nacionalidad durante **diez años**, con buena fe y título inscrito, consolidan la nacionalidad aunque después se anule el título. El menor extranjero adoptado por español adquiere nacionalidad de origen; el adoptado mayor puede optar durante dos años.
 
-> **No confundas:** consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
+:::trampa
+consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 18 protege la apariencia jurídica mantenida de buena fe. La posesión y utilización continuadas de la nacionalidad española durante diez años, con buena fe y basadas en un título inscrito en el Registro Civil, consolidan la nacionalidad aunque se anule el título que la originó.
@@ -487,11 +657,17 @@ Los elementos son acumulativos: **diez años**, uso continuado, buena fe y títu
 
 El artículo 19 regula la adopción. El extranjero menor de dieciocho años adoptado por español adquiere nacionalidad española de origen desde la adopción. Si tiene más de dieciocho años, puede optar por la nacionalidad española de origen en los dos años siguientes a la constitución de la adopción. Si la ley de su país permite conservar la nacionalidad anterior, España la reconoce.
 
-> **Hablemos claro:** el menor la adquiere; el mayor recibe un derecho de opción. Y la posesión de estado sana una apariencia prolongada de buena fe, no premia simplemente vivir en España.
+:::hablemos-claro
+el menor la adquiere; el mayor recibe un derecho de opción. Y la posesión de estado sana una apariencia prolongada de buena fe, no premia simplemente vivir en España.
+:::
 
-> **Lo que cae:** requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
+:::lo-que-cae
+requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-13-adopcion-posesion.png` · dos circuitos completamente separados.
+:::visual
+**Referencia visual prevista:** `t01-13-adopcion-posesion.png` · dos circuitos completamente separados.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 19 END -->
 
@@ -501,9 +677,13 @@ El artículo 19 regula la adopción. El extranjero menor de dieciocho años adop
 <!-- PARTE START -->
 Pueden optar quienes estén o hayan estado sujetos a patria potestad de español; quienes tengan padre o madre originariamente español y nacido en España; y los casos de determinación tardía de filiación o nacimiento y adopción de mayor. La forma de declarar depende de edad, emancipación y apoyos.
 
-> **Perla VIGOR:** la opción del hijo de padre o madre originariamente español y nacido en España no está sujeta a límite de edad.
+:::perla-vigor
+la opción del hijo de padre o madre originariamente español y nacido en España no está sujeta a límite de edad.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-14-opcion-nacionalidad.png`.
+:::visual
+**Referencia visual prevista:** `t01-14-opcion-nacionalidad.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 20 reconoce derecho de opción a tres grupos: personas que estén o hayan estado sujetas a la patria potestad de un español; aquellas cuyo padre o madre hubiera sido originariamente español y nacido en España; y quienes se encuentren en los supuestos de los artículos 17.2 y 19.2.
@@ -512,11 +692,17 @@ La declaración la formula el representante legal si el optante es menor de cato
 
 Como regla, la opción del emancipado o mayor de dieciocho caduca a los veinte años, con adaptación cuando la ley personal no produzca emancipación a los dieciocho. Sin embargo, la opción basada en tener padre o madre originariamente español y nacido en España **no está sujeta a límite de edad**.
 
-> **Hablemos claro:** primero identifica por qué se puede optar; después, quién debe formular la declaración y cuál es el plazo aplicable.
+:::hablemos-claro
+primero identifica por qué se puede optar; después, quién debe formular la declaración y cuál es el plazo aplicable.
+:::
 
-> **Lo que cae:** grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de edad del 20.1.b.
+:::lo-que-cae
+grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de edad del 20.1.b.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-14-opcion-nacionalidad.png` · sujeto, representante, asistencia y plazos.
+:::visual
+**Referencia visual prevista:** `t01-14-opcion-nacionalidad.png` · sujeto, representante, asistencia y plazos.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
 
@@ -526,7 +712,9 @@ Como regla, la opción del emancipado o mayor de dieciocho caduca a los veinte a
 <!-- PARTE START -->
 La carta de naturaleza se otorga discrecionalmente mediante **Real Decreto** cuando concurren circunstancias excepcionales. La nacionalidad por residencia se concede por el **Ministro de Justicia** y puede denegarse motivadamente por orden público o interés nacional.
 
-> **Perla VIGOR:** ambas concesiones caducan a los **180 días** de la notificación si no se comparece para cumplir los requisitos del artículo 23.
+:::perla-vigor
+ambas concesiones caducan a los **180 días** de la notificación si no se comparece para cumplir los requisitos del artículo 23.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La **carta de naturaleza** es una vía discrecional: se otorga mediante Real Decreto cuando en la persona interesada concurren circunstancias excepcionales. No existe un derecho automático a obtenerla por reunir una lista cerrada de requisitos.
@@ -537,9 +725,13 @@ La solicitud puede formularla el interesado emancipado o mayor de dieciocho año
 
 Las concesiones por carta de naturaleza o residencia **caducan a los 180 días** desde su notificación si el interesado no comparece ante funcionario competente para cumplir los requisitos del artículo 23.
 
-> **Hablemos claro:** carta = decisión excepcional del Gobierno por Real Decreto; residencia = expediente reglado en requisitos, concesión del Ministro y posible control judicial.
+:::hablemos-claro
+carta = decisión excepcional del Gobierno por Real Decreto; residencia = expediente reglado en requisitos, concesión del Ministro y posible control judicial.
+:::
 
-> **Lo que cae:** órgano, instrumento, discrecionalidad, motivación y caducidad de 180 días.
+:::lo-que-cae
+órgano, instrumento, discrecionalidad, motivación y caducidad de 180 días.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 21 END -->
 
@@ -549,9 +741,13 @@ Las concesiones por carta de naturaleza o residencia **caducan a los 180 días**
 <!-- PARTE START -->
 La residencia debe ser legal, continuada e inmediatamente anterior a la petición. Plazos: **10 años** general; **5** para refugiados; **2** para nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal y sefardíes; **1** en los supuestos especiales del artículo 22.2.
 
-> **Perla VIGOR:** recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente en una de las letras legales.
+:::perla-vigor
+recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente en una de las letras legales.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-15-plazos-residencia.png`.
+:::visual
+**Referencia visual prevista:** `t01-15-plazos-residencia.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El plazo general de residencia es de **diez años**. Se reduce a **cinco años** para quienes hayan obtenido la condición de refugiado y a **dos años** para nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, así como para sefardíes.
@@ -567,11 +763,17 @@ En todos los casos la residencia debe ser **legal, continuada e inmediatamente a
 | 2 años | Nacionales de origen de países enumerados y sefardíes |
 | 1 año | Supuestos de especial vinculación del art. 22.2 |
 
-> **Hablemos claro:** casarse con una persona española no concede automáticamente la nacionalidad: reduce a un año el plazo de residencia cuando se cumplen las demás condiciones.
+:::hablemos-claro
+casarse con una persona española no concede automáticamente la nacionalidad: reduce a un año el plazo de residencia cuando se cumplen las demás condiciones.
+:::
 
-> **Lo que cae:** lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inmediatamente anterior; buena conducta e integración.
+:::lo-que-cae
+lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inmediatamente anterior; buena conducta e integración.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-15-plazos-residencia.png` · infografía estrella con cuatro columnas y condiciones.
+:::visual
+**Referencia visual prevista:** `t01-15-plazos-residencia.png` · infografía estrella con cuatro columnas y condiciones.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
 
@@ -581,7 +783,9 @@ En todos los casos la residencia debe ser **legal, continuada e inmediatamente a
 <!-- PARTE START -->
 Para la validez de la adquisición por opción, carta de naturaleza o residencia, el mayor de catorce años capaz de declarar debe jurar o prometer fidelidad al Rey y obediencia a Constitución y leyes; declarar la renuncia anterior cuando proceda; e inscribir la adquisición en el Registro Civil.
 
-> **Trampa:** la renuncia tiene excepciones; la inscripción no.
+:::trampa
+la renuncia tiene excepciones; la inscripción no.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 23 fija requisitos comunes para opción, carta de naturaleza y residencia. El mayor de catorce años capaz de prestar declaración por sí debe jurar o prometer fidelidad al Rey y obediencia a la Constitución y a las leyes.
@@ -590,9 +794,13 @@ Esa misma persona debe declarar que renuncia a su nacionalidad anterior, salvo l
 
 Conviene separar tres planos: la **concesión** o existencia del derecho de opción; el cumplimiento dentro de plazo de las declaraciones y requisitos; y la **inscripción**, necesaria para la validez de la adquisición en estas vías.
 
-> **Hablemos claro:** obtener una resolución favorable no basta si después no se completan las formalidades legales dentro del plazo.
+:::hablemos-claro
+obtener una resolución favorable no basta si después no se completan las formalidades legales dentro del plazo.
+:::
 
-> **Lo que cae:** edad de 14 años; juramento/promesa; renuncia y excepciones; inscripción registral.
+:::lo-que-cae
+edad de 14 años; juramento/promesa; renuncia y excepciones; inscripción registral.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 23 END -->
 
@@ -602,9 +810,13 @@ Conviene separar tres planos: la **concesión** o existencia del derecho de opci
 <!-- PARTE START -->
 Los españoles emancipados que residan habitualmente en el extranjero pueden perder la nacionalidad tras tres años por adquisición voluntaria de otra o uso exclusivo de la anterior, salvo declaración de conservación. Hay reglas específicas para nacidos y residentes en el extranjero y para españoles no originarios.
 
-> **Perla VIGOR:** adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea Ecuatorial o Portugal no basta por sí solo para que un español de origen pierda la española.
+:::perla-vigor
+adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea Ecuatorial o Portugal no basta por sí solo para que un español de origen pierda la española.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-16-perdida-conservacion.png`.
+:::visual
+**Referencia visual prevista:** `t01-16-perdida-conservacion.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 24 regula la pérdida de españoles emancipados que residen habitualmente en el extranjero. Puede producirse por adquirir voluntariamente otra nacionalidad o utilizar exclusivamente la nacionalidad extranjera atribuida antes de la emancipación. El plazo de tres años se cuenta, respectivamente, desde la adquisición de la nacionalidad extranjera o desde la emancipación. La pérdida puede evitarse declarando la voluntad de conservar la nacionalidad española dentro de ese plazo.
@@ -617,11 +829,17 @@ Los españoles **no originarios** pueden perderla además si durante tres años 
 
 La sentencia firme que declare falsedad, ocultación o fraude en la adquisición produce su nulidad, sin perjudicar a terceros de buena fe; la acción corresponde al Ministerio Fiscal y está sujeta al plazo legal de quince años.
 
-> **Hablemos claro:** primero distingue español de origen o no; después comprueba residencia en el extranjero, conducta, plazo de tres años y declaración de conservación.
+:::hablemos-claro
+primero distingue español de origen o no; después comprueba residencia en el extranjero, conducta, plazo de tres años y declaración de conservación.
+:::
 
-> **Lo que cae:** tres años; conservación; países exceptuados; renuncia; guerra; causas del no originario; nulidad por fraude y quince años.
+:::lo-que-cae
+tres años; conservación; países exceptuados; renuncia; guerra; causas del no originario; nulidad por fraude y quince años.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-16-perdida-conservacion.png` · árbol de decisión origen/no origen.
+:::visual
+**Referencia visual prevista:** `t01-16-perdida-conservacion.png` · árbol de decisión origen/no origen.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 24 END -->
 
@@ -631,7 +849,9 @@ La sentencia firme que declare falsedad, ocultación o fraude en la adquisición
 <!-- PARTE START -->
 Para recuperar la nacionalidad se exige, como regla, residencia legal en España, declaración ante el Registro Civil e inscripción de la recuperación. La residencia no se exige a emigrantes ni a sus hijos y puede dispensarse por circunstancias excepcionales. Los supuestos del artículo 25 requieren habilitación previa del Gobierno.
 
-> **No confundas:** recuperar nacionalidad no equivale a renovar DNI o pasaporte.
+:::trampa
+recuperar nacionalidad no equivale a renovar DNI o pasaporte.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 26 establece tres requisitos generales: residir legalmente en España; declarar ante el encargado del Registro Civil la voluntad de recuperar; e inscribir la recuperación en el Registro Civil.
@@ -640,11 +860,17 @@ La residencia legal no se exige a emigrantes ni a sus hijos. Además, el Ministr
 
 La recuperación restablece el estado civil de nacional español desde el cumplimiento de los requisitos; la documentación identificativa se expide después conforme a su normativa. Tampoco debe confundirse recuperación con conservación: la conservación evita una futura pérdida; la recuperación actúa después de que la pérdida ya se produjo.
 
-> **Hablemos claro:** conservar es cerrar la puerta antes de que se pierda; recuperar es volver a entrar después.
+:::hablemos-claro
+conservar es cerrar la puerta antes de que se pierda; recuperar es volver a entrar después.
+:::
 
-> **Lo que cae:** residencia, declaración e inscripción; excepciones; habilitación del Gobierno; conservación frente a recuperación.
+:::lo-que-cae
+residencia, declaración e inscripción; excepciones; habilitación del Gobierno; conservación frente a recuperación.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.png` · tres requisitos y dos excepciones.
+:::visual
+**Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.png` · tres requisitos y dos excepciones.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 25 END -->
 
@@ -654,9 +880,13 @@ La recuperación restablece el estado civil de nacional español desde el cumpli
 <!-- PARTE START -->
 El domicilio civil de la persona natural es el lugar de su **residencia habitual**. Para diplomáticos españoles destinados en el extranjero es el último domicilio en España. En personas jurídicas rige el fijado por ley, estatutos o fundación y, en defecto, el lugar de representación legal o funciones principales.
 
-> **Trampa:** domicilio civil, empadronamiento y domicilio constitucional no son conceptos idénticos.
+:::trampa
+domicilio civil, empadronamiento y domicilio constitucional no son conceptos idénticos.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-18-domicilio-conceptos.png`.
+:::visual
+**Referencia visual prevista:** `t01-18-domicilio-conceptos.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 40 CC dispone que, para el ejercicio de derechos y cumplimiento de obligaciones civiles, el domicilio de las personas naturales es el lugar de su **residencia habitual**, sin perjuicio de domicilios establecidos por la ley procesal. Para los diplomáticos españoles que residan en el extranjero por razón de su cargo y gocen de extraterritorialidad, será el último domicilio que hubieran tenido en territorio español.
@@ -665,13 +895,21 @@ El domicilio de la persona jurídica será el fijado por su ley de creación, es
 
 Deben separarse varios conceptos. El **empadronamiento** es una inscripción administrativa y puede ser un indicio de residencia, pero no sustituye por sí solo todas las reglas civiles. El **domicilio constitucional** del artículo 18.2 CE protege el espacio en el que se desarrolla la vida privada y responde a una finalidad distinta; puede comprender una habitación de hotel aunque no sea residencia habitual civil.
 
-> **Hablemos claro:** una misma persona puede tener una dirección en el padrón, un domicilio fiscal y un espacio protegido constitucionalmente; cada concepto sirve para una pregunta distinta.
+:::hablemos-claro
+una misma persona puede tener una dirección en el padrón, un domicilio fiscal y un espacio protegido constitucionalmente; cada concepto sirve para una pregunta distinta.
+:::
 
-> **En la calle:** para determinar la protección frente a una entrada importa el concepto constitucional; para contestar el epígrafe civil del tema, la literalidad básica está en los artículos 40 y 41 CC.
+:::en-la-calle
+para determinar la protección frente a una entrada importa el concepto constitucional; para contestar el epígrafe civil del tema, la literalidad básica está en los artículos 40 y 41 CC.
+:::
 
-> **Lo que cae:** residencia habitual; diplomáticos; orden de criterios de personas jurídicas; diferencias domicilio/residencia/padrón/protección constitucional.
+:::lo-que-cae
+residencia habitual; diplomáticos; orden de criterios de personas jurídicas; diferencias domicilio/residencia/padrón/protección constitucional.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-18-domicilio-conceptos.png` · seis conceptos próximos y su función.
+:::visual
+**Referencia visual prevista:** `t01-18-domicilio-conceptos.png` · seis conceptos próximos y su función.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 26 END -->
 
@@ -681,9 +919,13 @@ Deben separarse varios conceptos. El **empadronamiento** es una inscripción adm
 <!-- PARTE START -->
 La vecindad civil determina la sujeción al Derecho civil común o especial o foral. Si los progenitores tienen la misma vecindad, el hijo adquiere esa; si difieren, operan la filiación determinada antes, el lugar de nacimiento y, en último término, la vecindad común. Puede atribuirse la de cualquiera de los progenitores dentro de seis meses.
 
-> **No confundas:** vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad administrativa.
+:::trampa
+vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad administrativa.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-19-vecindad-atribucion.png`.
+:::visual
+**Referencia visual prevista:** `t01-19-vecindad-atribucion.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 14.1 CC establece que la sujeción al Derecho civil común o al especial o foral se determina por la **vecindad civil**. Es una conexión interna del ordenamiento español: presupone nacionalidad española, pero no se identifica con ella.
@@ -692,11 +934,17 @@ El nacido de padres con la misma vecindad civil adquiere esa vecindad. El adopta
 
 Los progenitores o quien ejerza la patria potestad pueden atribuir al hijo la vecindad civil de cualquiera de ellos mientras no transcurran seis meses desde el nacimiento o la adopción. El cambio posterior de vecindad de los progenitores no altera por sí solo la del hijo.
 
-> **Hablemos claro:** la vecindad civil es la «llave» que decide qué Derecho civil español se aplica, especialmente en materias como sucesiones o régimen económico matrimonial.
+:::hablemos-claro
+la vecindad civil es la «llave» que decide qué Derecho civil español se aplica, especialmente en materias como sucesiones o régimen económico matrimonial.
+:::
 
-> **Lo que cae:** función; regla de padres iguales; orden cuando difieren; seis meses; adopción; cambio parental sin efecto automático.
+:::lo-que-cae
+función; regla de padres iguales; orden cuando difieren; seis meses; adopción; cambio parental sin efecto automático.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-19-vecindad-atribucion.png` · árbol de decisión de atribución inicial.
+:::visual
+**Referencia visual prevista:** `t01-19-vecindad-atribucion.png` · árbol de decisión de atribución inicial.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 27 END -->
 
@@ -706,9 +954,13 @@ Los progenitores o quien ejerza la patria potestad pueden atribuir al hijo la ve
 <!-- PARTE START -->
 Desde los catorce años y hasta un año después de la emancipación puede optarse por la vecindad del lugar de nacimiento o la última de cualquiera de los progenitores. También se adquiere por dos años de residencia continuada con declaración o diez años sin declaración en contrario.
 
-> **Perla VIGOR:** «2 si lo declaras; 10 si no declaras lo contrario». El matrimonio no altera automáticamente la vecindad.
+:::perla-vigor
+«2 si lo declaras; 10 si no declaras lo contrario». El matrimonio no altera automáticamente la vecindad.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-20-vecindad-dos-diez.png`.
+:::visual
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png`.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El hijo puede optar, desde que cumple catorce años y hasta que transcurra un año después de su emancipación, por la vecindad del lugar de nacimiento o por la última vecindad de cualquiera de sus progenitores. Si no está emancipado, debe ser asistido por su representante legal.
@@ -719,11 +971,17 @@ La vecindad se adquiere por residencia continuada durante **dos años**, siempre
 
 En caso de duda prevalece la vecindad civil correspondiente al lugar de nacimiento. El empadronamiento o un simple traslado no producen por sí solos el cambio: debe cumplirse la residencia continuada y la modalidad legal aplicable.
 
-> **Hablemos claro:** en dos años hay que pedir el cambio; en diez años se produce si no dejaste constancia de querer conservar la anterior.
+:::hablemos-claro
+en dos años hay que pedir el cambio; en diez años se produce si no dejaste constancia de querer conservar la anterior.
+:::
 
-> **Lo que cae:** 14 años; un año tras emancipación; opciones; matrimonio; 2/10 años; declaraciones no reiterables; duda.
+:::lo-que-cae
+14 años; un año tras emancipación; opciones; matrimonio; 2/10 años; declaraciones no reiterables; duda.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` · cronología comparada y matrimonio.
+:::visual
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` · cronología comparada y matrimonio.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 28 END -->
 
@@ -733,7 +991,9 @@ En caso de duda prevalece la vecindad civil correspondiente al lugar de nacimien
 <!-- PARTE START -->
 Al adquirir la nacionalidad española debe optarse, según las conexiones legales, por la vecindad del lugar de residencia, nacimiento, última de progenitor o adoptante, o cónyuge. La carta de naturaleza puede determinarla en el Real Decreto. Recuperar la nacionalidad lleva consigo recuperar la vecindad anterior.
 
-> **Trampa:** el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
+:::trampa
+el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El extranjero que adquiere la nacionalidad española debe optar, al inscribirla, por una de las vecindades admitidas por el artículo 15: la del lugar de residencia; la del lugar de nacimiento; la última vecindad de cualquiera de sus progenitores o adoptantes; o la del cónyuge.
@@ -742,11 +1002,17 @@ La declaración se formula teniendo en cuenta la capacidad del interesado para a
 
 Quien recupera la nacionalidad española recupera también la vecindad civil que tenía al perderla. Los conflictos entre legislaciones civiles coexistentes en España se resuelven mediante las normas de Derecho interregional, con las particularidades del artículo 16.
 
-> **Hablemos claro:** primero se entra en la nacionalidad española; al inscribirla se fija también cuál de los Derechos civiles españoles queda conectado a la persona.
+:::hablemos-claro
+primero se entra en la nacionalidad española; al inscribirla se fija también cuál de los Derechos civiles españoles queda conectado a la persona.
+:::
 
-> **Lo que cae:** cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad anterior; Derecho interregional.
+:::lo-que-cae
+cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad anterior; Derecho interregional.
+:::
 
-> 🎨 **Referencia visual prevista:** `t01-21-vecindad-nacionalizacion.png` · cuatro caminos de opción y recuperación.
+:::visual
+**Referencia visual prevista:** `t01-21-vecindad-nacionalizacion.png` · cuatro caminos de opción y recuperación.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 29 END -->
 
@@ -766,7 +1032,9 @@ Quien recupera la nacionalidad española recupera también la vecindad civil que
 
 La parte más densa es nacionalidad: conviene estudiarla como una secuencia de **sujeto → vía → plazo → autoridad → declaración → inscripción → efecto**. En vecindad civil, separa atribución inicial, opción y residencia.
 
-> 🎨 **Mapa general previsto:** `t01-01-mapa-general.png`.
+:::visual
+**Mapa general previsto:** `t01-01-mapa-general.png`.
+:::
 
 
 <!-- LAYER:CONTENIDO -->
@@ -776,6 +1044,7 @@ La fuente maestra contiene 29 bloques semánticos. El Parte y El Atestado se gen
 <!-- LAYER:HABLEMOS_CLARO -->
 # Hablemos claro
 
+:::hablemos-claro
 Este tema mezcla categorías doctrinales con reglas literales del Código Civil. No memorices todo con el mismo método:
 
 - En **Derecho y norma**, domina definiciones y comparaciones.
@@ -784,19 +1053,21 @@ Este tema mezcla categorías doctrinales con reglas literales del Código Civil.
 - En **domicilio y vecindad**, pregunta siempre qué función cumple cada concepto.
 
 Las simplificaciones ayudan a recordar, pero la respuesta de examen debe conservar el término jurídico: «dos años con declaración / diez sin declaración en contrario» es útil; «cambia sola» es una simplificación peligrosa.
-
+:::
 
 <!-- LAYER:EN_LA_CALLE -->
 # En la calle
 
+:::en-la-calle
 El tema aparece de forma transversal en la actividad policial: identificación de personas físicas y representantes de entidades; menores y emancipados; personas que requieren apoyos; ciudadanos con distintas nacionalidades; domicilios con funciones jurídicas diferentes; y documentación de hechos inscritos en Registro Civil.
 
 Estos ejemplos ayudan a comprender, pero no sustituyen la normativa específica de extranjería, documentación, protección de menores, procedimiento o entrada y registro. El concepto civil de domicilio y el constitucional no responden a la misma pregunta.
-
+:::
 
 <!-- LAYER:LO_QUE_CAE -->
 # Lo que cae
 
+:::lo-que-cae
 Prioridad alta de estudio:
 
 - objetivo/subjetivo y positivo/natural;
@@ -811,9 +1082,11 @@ Prioridad alta de estudio:
 - vecindad civil: seis meses, 14 años, un año tras emancipación y plazos 2/10.
 
 No se utilizarán expresiones como «cae seguro» hasta disponer de una estadística histórica completamente verificada.
-
+:::
 
 <!-- LAYER:HA_CAIDO -->
 # Ha caído
 
+:::ha-caido
 El banco histórico contiene registros pendientes de cotejo y mapeo para este tema, pero **ninguno se activa todavía como pregunta oficial verificada**. Las referencias antiguas encontradas durante la redacción permanecen en cuarentena y no alimentan frecuencias, pesos ni afirmaciones de «Ha caído» hasta comprobar cuestionario, localizador, respuesta definitiva y posible anulación.
+:::

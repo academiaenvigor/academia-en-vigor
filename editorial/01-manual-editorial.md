@@ -26,6 +26,54 @@ Todo tema conserva exactamente estas capas:
 
 “Ha caído” solo incluye referencias oficiales verificadas. En ausencia de ellas, debe declararse expresamente.
 
+## 2.1. Bloques semánticos y código de color
+
+Los avisos pedagógicos se escriben con contenedores VIGOR. La marca de apertura y la de cierre deben comenzar en la primera columna, no pueden anidarse y deben conservar exactamente estos identificadores:
+
+```markdown
+:::hablemos-claro
+Explicación directa y accesible.
+:::
+
+:::en-la-calle
+Aplicación práctica o policial.
+:::
+
+:::lo-que-cae
+Dato prioritario para examen o repaso.
+:::
+
+:::perla-vigor
+Idea breve de alto valor memorístico.
+:::
+
+:::trampa
+Error frecuente, excepción o concepto que no debe confundirse.
+:::
+
+:::ha-caido
+Referencia oficial verificada conforme al protocolo histórico.
+:::
+
+:::visual
+**Referencia visual prevista:** `tNN-XX-nombre.png` · descripción del recurso.
+:::
+```
+
+La paleta es fija para toda la academia:
+
+| Bloque | Color editorial | Finalidad |
+|---|---|---|
+| `hablemos-claro` | Azul | Comprender una explicación difícil |
+| `en-la-calle` | Verde | Ver la aplicación práctica |
+| `lo-que-cae` | Amarillo/ámbar | Repasar lo prioritario |
+| `perla-vigor` | Morado | Retener una idea de alto valor |
+| `trampa` | Rojo | Evitar errores y confusiones |
+| `ha-caido` | Naranja | Localizar antecedentes oficiales verificados |
+| `visual` | Blanco/gris azulado | Identificar ilustraciones e infografías |
+
+El color nunca sustituye al rótulo, al icono ni al texto. La presentación debe seguir siendo comprensible para una persona que no distinga los colores. El explorador puede filtrar estos bloques, pero los documentos Markdown siguen siendo legibles fuera de la web.
+
 ## 3. El Parte
 
 - Es la versión esencial.

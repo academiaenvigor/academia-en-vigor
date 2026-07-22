@@ -1,18 +1,28 @@
-
 # TEMA {{NUMBER}} · {{TITLE_UPPER}}
 
 <!-- content_version: 0.1.0 -->
 <!-- opposition: {{OPPOSITION}} -->
 <!-- status: draft; publication: not_published -->
+<!-- semantic_blocks: vigor-1.0 -->
 
 <!-- BLOCK 01 START -->
 ## 1. Bloque pendiente
 **Fuente principal:** `PENDIENTE`
 <!-- PARTE START -->
 Contenido esencial pendiente.
+
+:::perla-vigor
+Dato clave pendiente.
+:::
+
+:::visual
+`t{{NN}}-01-recurso-pendiente.png` · Recurso visual pendiente de producir.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Explicación pendiente.
+:::hablemos-claro
+Explicación pendiente.
+:::
 
 ### Para entender el bloque
 
@@ -22,11 +32,21 @@ Desarrollo pendiente.
 
 Hechos atómicos pendientes.
 
+:::en-la-calle
+Aplicación práctica pendiente.
+:::
+
 ### Cómo estudiarlo
 
 Estrategia pendiente.
 
-> **Lo que cae:** Pendiente.
+:::lo-que-cae
+Pendiente.
+:::
+
+:::visual
+`t{{NN}}-01-recurso-pendiente.png` · Recurso visual pendiente de producir.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
 
@@ -53,4 +73,7 @@ Pendiente.
 
 <!-- LAYER:HA_CAIDO -->
 # Ha caído
+
+:::ha-caido
 No hay referencias oficiales activas hasta completar la verificación y el mapeo.
+:::

@@ -57,7 +57,86 @@ def main() -> int:
     materials_manifest = f'materiales-didacticos/{args.oposicion}/{code}/manifest.json'
     official_index = f'banco-preguntas/{args.oposicion}/{code}/indice-oficiales.json'
 
-    master = f"""# TEMA {args.tema} · {args.titulo.upper()}\n\n<!-- content_version: 0.1.0 -->\n<!-- opposition: {args.oposicion} -->\n<!-- status: draft; publication: not_published -->\n\n<!-- BLOCK 01 START -->\n## 1. Bloque pendiente\n**Fuente principal:** `PENDIENTE`\n<!-- PARTE START -->\nContenido esencial pendiente.\n<!-- PARTE END -->\n<!-- ATESTADO START -->\n> **Hablemos claro:** Explicación pendiente.\n\n### Para entender el bloque\n\nDesarrollo pendiente.\n\n### Desarrollo explicado\n\nHechos atómicos pendientes.\n\n### Cómo estudiarlo\n\nEstrategia pendiente.\n\n> **Lo que cae:** Pendiente.\n<!-- ATESTADO END -->\n<!-- BLOCK 01 END -->\n\n<!-- LAYER:MAPA -->\n# Mapa del tema\n\nPendiente.\n\n<!-- LAYER:CONTENIDO -->\n# Contenido\nPendiente.\n\n<!-- LAYER:HABLEMOS_CLARO -->\n# Hablemos claro\nPendiente.\n\n<!-- LAYER:EN_LA_CALLE -->\n# En la calle\nPendiente.\n\n<!-- LAYER:LO_QUE_CAE -->\n# Lo que cae\nPendiente.\n\n<!-- LAYER:HA_CAIDO -->\n# Ha caído\nNo hay referencias oficiales activas hasta completar la verificación y el mapeo.\n"""
+    master = f"""# TEMA {args.tema} · {args.titulo.upper()}
+
+<!-- content_version: 0.1.0 -->
+<!-- opposition: {args.oposicion} -->
+<!-- status: draft; publication: not_published -->
+
+<!-- BLOCK 01 START -->
+## 1. Bloque pendiente
+**Fuente principal:** `PENDIENTE`
+<!-- PARTE START -->
+Contenido esencial pendiente.
+
+:::perla-vigor
+Perla pendiente.
+:::
+
+:::visual
+**Referencia visual prevista:** `t{nn}-01-pendiente.png` · descripción pendiente.
+:::
+<!-- PARTE END -->
+<!-- ATESTADO START -->
+Desarrollo normativo y pedagógico pendiente.
+
+:::hablemos-claro
+Explicación directa pendiente.
+:::
+
+:::en-la-calle
+Aplicación práctica pendiente.
+:::
+
+:::lo-que-cae
+Prioridad de examen pendiente.
+:::
+
+:::visual
+**Referencia visual prevista:** `t{nn}-01-pendiente.png` · descripción pendiente.
+:::
+<!-- ATESTADO END -->
+<!-- BLOCK 01 END -->
+
+<!-- LAYER:MAPA -->
+# Mapa del tema
+
+:::visual
+**Mapa general previsto:** `t{nn}-01-mapa-general.png` · recorrido completo del tema.
+:::
+
+<!-- LAYER:CONTENIDO -->
+# Contenido
+Pendiente.
+
+<!-- LAYER:HABLEMOS_CLARO -->
+# Hablemos claro
+
+:::hablemos-claro
+Pendiente.
+:::
+
+<!-- LAYER:EN_LA_CALLE -->
+# En la calle
+
+:::en-la-calle
+Pendiente.
+:::
+
+<!-- LAYER:LO_QUE_CAE -->
+# Lo que cae
+
+:::lo-que-cae
+Pendiente.
+:::
+
+<!-- LAYER:HA_CAIDO -->
+# Ha caído
+
+:::ha-caido
+No hay referencias oficiales activas hasta completar la verificación y el mapeo.
+:::
+"""
     write(ROOT / source, master)
 
     manifest = {
