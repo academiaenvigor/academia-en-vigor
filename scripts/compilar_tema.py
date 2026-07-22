@@ -19,6 +19,28 @@ VIGOR_BLOCKS = {
     'hablemos-claro', 'en-la-calle', 'lo-que-cae', 'perla-vigor',
     'trampa', 'ha-caido', 'visual',
 }
+FACT_PREFIX_RE = re.compile(
+    r'<!-- FACT:(?P<fact_id>[A-Z0-9-]+) -->\s*'
+    r'(?P<body>.*?)(?=\s*<!-- FACT:|\Z)',
+    re.S,
+)
+
+
+def normalize_fact_markers(text: str) -> str:
+    """Mueve cada ancla FACT al final del hecho para no romper Markdown."""
+    paragraphs = re.split(r'(\n\s*\n)', text)
+    for index in range(0, len(paragraphs), 2):
+        paragraph = paragraphs[index]
+        if '<!-- FACT:' not in paragraph:
+            continue
+        paragraphs[index] = FACT_PREFIX_RE.sub(
+            lambda match: (
+                f'{match.group("body").rstrip()} '
+                f'<!-- FACT:{match.group("fact_id")} -->'
+            ),
+            paragraph,
+        )
+    return ''.join(paragraphs)
 
 
 def validate_vigor_blocks(text: str, source_file: str) -> None:
@@ -85,8 +107,9 @@ def render(kind: str, manifest: dict, blocks: list[dict], layers: dict) -> str:
     output.append(f'# {layers["MAPA"][0]}\n\n{layers["MAPA"][1]}\n')
     output.append('# Contenido\n')
     for block in blocks:
+        body = normalize_fact_markers(block[kind])
         output.append(
-            f'## {block["number"]}. {block["title"]}\n\n{block[kind]}\n\n'
+            f'## {block["number"]}. {block["title"]}\n\n{body}\n\n'
             f'*Referencia principal: `{block["source"]}`.*\n'
         )
     for key in LAYERS[2:]:
