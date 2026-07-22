@@ -205,6 +205,8 @@ el emancipado necesita consentimiento para tomar dinero a préstamo y para enaje
 
 :::visual
 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+
+**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · autonomía progresiva a los 14, 16 y 18 años.
 :::
 
 *Referencia principal: `CC-CAPACIDAD`.*
@@ -239,6 +241,8 @@ La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artí
 
 :::visual
 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · distintas vías pueden conducir a la nacionalidad española.
 :::
 
 *Referencia principal: `CC-NACIONALIDAD`.*
@@ -335,6 +339,10 @@ Para recuperar la nacionalidad se exige, como regla, residencia legal en España
 
 :::trampa
 recuperar nacionalidad no equivale a renovar DNI o pasaporte.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · conservar actúa antes de la pérdida; recuperar, después.
 :::
 
 *Referencia principal: `CC-NACIONALIDAD`.*

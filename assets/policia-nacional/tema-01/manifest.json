@@ -3,8 +3,63 @@
   "opposition": "policia-nacional",
   "topic": "tema-01",
   "content_version": "0.2.0",
-  "visual_version": "0.1.0-planned",
-  "resources": [],
+  "visual_version": "0.2.1",
+  "resources": [
+    {
+      "id": "PN-T01-IL01",
+      "file": "t01-il-01-jerarquia-normativa.png",
+      "title": "Jerarquía normativa",
+      "type": "ilustracion_simple",
+      "placement": "El Atestado · Bloque 8",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    },
+    {
+      "id": "PN-T01-IL02",
+      "file": "t01-il-02-14-16-18-anos.png",
+      "title": "Autonomía progresiva: 14, 16 y 18 años",
+      "type": "ilustracion_simple",
+      "placement": "El Parte y El Atestado · Bloque 14",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    },
+    {
+      "id": "PN-T01-IL03",
+      "file": "t01-il-03-caminos-nacionalidad.png",
+      "title": "Caminos hacia la nacionalidad",
+      "type": "ilustracion_simple",
+      "placement": "El Parte y El Atestado · Bloque 17",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    },
+    {
+      "id": "PN-T01-IL04",
+      "file": "t01-il-04-domicilios.png",
+      "title": "Funciones jurídicas del domicilio",
+      "type": "ilustracion_simple",
+      "placement": "El Atestado · Bloque 26",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    },
+    {
+      "id": "PN-T01-IL05",
+      "file": "t01-il-05-familia-vecindad-civil.png",
+      "title": "Familia y vecindad civil",
+      "type": "ilustracion_simple",
+      "placement": "El Atestado · Bloque 27",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    },
+    {
+      "id": "PN-T01-IL06",
+      "file": "t01-il-06-conservar-recuperar.png",
+      "title": "Conservar antes y recuperar después",
+      "type": "ilustracion_simple",
+      "placement": "El Parte y El Atestado · Bloque 25",
+      "status": "pending_generation",
+      "source_content_version": "0.2.0"
+    }
+  ],
   "planned_resources": [
     {
       "id": "PN-T01-V01",

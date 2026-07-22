@@ -295,6 +295,8 @@ orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia co
 
 :::visual
 **Referencia visual prevista:** `t01-05-fuentes-jerarquia.png` · doble esquema: fuentes civiles y jerarquía normativa.
+
+**Ilustración simple:** `t01-il-01-jerarquia-normativa.png` · una norma inferior no puede contradecir a la superior.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 08 END -->
@@ -484,6 +486,8 @@ el emancipado necesita consentimiento para tomar dinero a préstamo y para enaje
 
 :::visual
 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+
+**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · autonomía progresiva a los 14, 16 y 18 años.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -503,6 +507,8 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 
 :::visual
 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+
+**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->
@@ -577,6 +583,8 @@ La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artí
 
 :::visual
 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · distintas vías pueden conducir a la nacionalidad española.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -596,6 +604,8 @@ artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacional
 
 :::visual
 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png` · origen, opción, carta, residencia y consolidación.
+
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · cinco vías diferentes con un mismo resultado jurídico.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 17 END -->
@@ -852,6 +862,10 @@ Para recuperar la nacionalidad se exige, como regla, residencia legal en España
 :::trampa
 recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 :::
+
+:::visual
+**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · conservar actúa antes de la pérdida; recuperar, después.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 26 establece tres requisitos generales: residir legalmente en España; declarar ante el encargado del Registro Civil la voluntad de recuperar; e inscribir la recuperación en el Registro Civil.
@@ -870,6 +884,8 @@ residencia, declaración e inscripción; excepciones; habilitación del Gobierno
 
 :::visual
 **Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.png` · tres requisitos y dos excepciones.
+
+**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · vínculo conservado frente a vínculo recuperado tras la pérdida.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 25 END -->
@@ -909,6 +925,8 @@ residencia habitual; diplomáticos; orden de criterios de personas jurídicas; d
 
 :::visual
 **Referencia visual prevista:** `t01-18-domicilio-conceptos.png` · seis conceptos próximos y su función.
+
+**Ilustración simple:** `t01-il-04-domicilios.png` · residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 26 END -->
@@ -944,6 +962,8 @@ función; regla de padres iguales; orden cuando difieren; seis meses; adopción;
 
 :::visual
 **Referencia visual prevista:** `t01-19-vecindad-atribucion.png` · árbol de decisión de atribución inicial.
+
+**Ilustración simple:** `t01-il-05-familia-vecindad-civil.png` · familia, territorio y opción como conexiones de vecindad civil.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 27 END -->

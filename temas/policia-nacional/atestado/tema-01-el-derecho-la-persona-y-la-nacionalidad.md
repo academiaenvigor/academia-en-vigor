@@ -219,6 +219,8 @@ orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia co
 
 :::visual
 **Referencia visual prevista:** `t01-05-fuentes-jerarquia.png` · doble esquema: fuentes civiles y jerarquía normativa.
+
+**Ilustración simple:** `t01-il-01-jerarquia-normativa.png` · una norma inferior no puede contradecir a la superior.
 :::
 
 *Referencia principal: `CC-PRELIMINAR`.*
@@ -353,6 +355,8 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 
 :::visual
 **Referencia visual prevista:** `t01-10-mayoria-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+
+**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.
 :::
 
 *Referencia principal: `CC-CAPACIDAD`.*
@@ -415,6 +419,8 @@ artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacional
 
 :::visual
 **Referencia visual prevista:** `t01-11-vias-nacionalidad.png` · origen, opción, carta, residencia y consolidación.
+
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · cinco vías diferentes con un mismo resultado jurídico.
 :::
 
 *Referencia principal: `CC-NACIONALIDAD`.*
@@ -601,6 +607,8 @@ residencia, declaración e inscripción; excepciones; habilitación del Gobierno
 
 :::visual
 **Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.png` · tres requisitos y dos excepciones.
+
+**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · vínculo conservado frente a vínculo recuperado tras la pérdida.
 :::
 
 *Referencia principal: `CC-NACIONALIDAD`.*
@@ -627,6 +635,8 @@ residencia habitual; diplomáticos; orden de criterios de personas jurídicas; d
 
 :::visual
 **Referencia visual prevista:** `t01-18-domicilio-conceptos.png` · seis conceptos próximos y su función.
+
+**Ilustración simple:** `t01-il-04-domicilios.png` · residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.
 :::
 
 *Referencia principal: `CC-DOMICILIO`.*
@@ -649,6 +659,8 @@ función; regla de padres iguales; orden cuando difieren; seis meses; adopción;
 
 :::visual
 **Referencia visual prevista:** `t01-19-vecindad-atribucion.png` · árbol de decisión de atribución inicial.
+
+**Ilustración simple:** `t01-il-05-familia-vecindad-civil.png` · familia, territorio y opción como conexiones de vecindad civil.
 :::
 
 *Referencia principal: `CC-VECINDAD`.*

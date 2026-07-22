@@ -112,6 +112,15 @@ La cobertura del 100 % significa que cada hecho inventariado tiene pregunta. No 
 
 Las imágenes integradas en El Parte o El Atestado se guardan en `assets/<oposicion>/tema-NN/` y se registran en su manifest.
 
+Se distinguen dos funciones:
+
+- **Infografía técnica (`tNN-XX-...`)**: organiza datos, plazos, requisitos, comparaciones o árboles de decisión. Puede contener texto jurídico revisado.
+- **Ilustración simple (`tNN-il-XX-...`)**: explica una sola idea mediante una escena o metáfora visual, con texto mínimo o inexistente. No sustituye el contenido ni añade reglas jurídicas.
+
+El Atestado puede integrar ambas cuando cumplan funciones distintas. El Parte solo reutiliza las ilustraciones imprescindibles para recordar conceptos de alto rendimiento; no debe convertirse en una galería ni duplicar el peso visual del Atestado.
+
+Toda ilustración simple debe tener formato horizontal 16:9, márgenes seguros, estilo editorial adulto, lectura clara en móvil y ausencia de emblemas oficiales, marcas de agua o texto jurídico generado dentro de la imagen.
+
 Los productos independientes se guardan o referencian desde `materiales-didacticos/<oposicion>/tema-NN/`, separados en:
 
 - infografías;
