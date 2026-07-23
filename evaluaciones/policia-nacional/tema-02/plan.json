@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "0.1.0",
+  "opposition": "policia-nacional",
+  "topic_number": 2,
+  "topic_title": "La Constitución Española (I)",
+  "id_prefix": "PN-T02",
+  "bank": "banco-preguntas/policia-nacional/tema-02/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-02/tests-generados",
+  "coverage_tests": {
+    "description": "Banco inicial: dos direcciones de pregunta por hecho atómico.",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "La Constitución Como Norma Suprema"
+      },
+      {
+        "number": 2,
+        "title": "Elaboración De La Constitución De 1978"
+      },
+      {
+        "number": 3,
+        "title": "Estructura De La Constitución"
+      },
+      {
+        "number": 4,
+        "title": "Reformas Constitucionales Realizadas"
+      },
+      {
+        "number": 5,
+        "title": "Caracteres De La Constitución"
+      },
+      {
+        "number": 6,
+        "title": "Valores Superiores Del Artículo 1.1"
+      },
+      {
+        "number": 7,
+        "title": "El Estado Democrático"
+      },
+      {
+        "number": 8,
+        "title": "El Estado De Derecho"
+      },
+      {
+        "number": 9,
+        "title": "El Estado Social"
+      },
+      {
+        "number": 10,
+        "title": "La Monarquía Parlamentaria"
+      },
+      {
+        "number": 11,
+        "title": "El Estado Autonomista"
+      },
+      {
+        "number": 12,
+        "title": "Mapa Del Título I"
+      },
+      {
+        "number": 13,
+        "title": "Artículo 10: Dignidad E Interpretación"
+      },
+      {
+        "number": 14,
+        "title": "Españoles, Extranjeros E Igualdad (Arts. 11-14)"
+      },
+      {
+        "number": 15,
+        "title": "Derechos De La Esfera Personal (Arts. 15-19)"
+      },
+      {
+        "number": 16,
+        "title": "Expresión, Reunión, Asociación Y Participación (Arts. 20-23)"
+      },
+      {
+        "number": 17,
+        "title": "Garantías Procesales Y Legalidad Sancionadora (Arts. 24-26)"
+      },
+      {
+        "number": 18,
+        "title": "Educación, Sindicación, Huelga Y Petición (Arts. 27-29)"
+      },
+      {
+        "number": 19,
+        "title": "Sección 2.ª: Derechos Y Deberes De Los Ciudadanos (Arts. 30-38)"
+      },
+      {
+        "number": 20,
+        "title": "Principios Rectores: Naturaleza Y Garantía"
+      },
+      {
+        "number": 21,
+        "title": "Familia, Trabajo Y Seguridad Social (Arts. 39-42)"
+      },
+      {
+        "number": 22,
+        "title": "Salud, Cultura Y Medio Ambiente (Arts. 43-46)"
+      },
+      {
+        "number": 23,
+        "title": "Vivienda, Juventud, Discapacidad Y Mayores (Arts. 47-50)"
+      },
+      {
+        "number": 24,
+        "title": "Consumidores Y Organizaciones Profesionales (Arts. 51-52)"
+      },
+      {
+        "number": 25,
+        "title": "Sistema General De Garantías"
+      },
+      {
+        "number": 26,
+        "title": "Los Tres Apartados Del Artículo 53"
+      },
+      {
+        "number": 27,
+        "title": "Ley Orgánica, Reforma Agravada Y Control De Leyes"
+      },
+      {
+        "number": 28,
+        "title": "Recurso De Amparo"
+      },
+      {
+        "number": 29,
+        "title": "Suspensión General De Derechos (Art. 55.1)"
+      },
+      {
+        "number": 30,
+        "title": "Alarma, Excepción Y Sitio: Contexto Necesario"
+      },
+      {
+        "number": 31,
+        "title": "Suspensión Individual Del Artículo 55.2"
+      },
+      {
+        "number": 32,
+        "title": "Conexión Con Protección De Datos"
+      },
+      {
+        "number": 33,
+        "title": "Naturaleza, Finalidad Y Normativa"
+      },
+      {
+        "number": 34,
+        "title": "Elección, Nombramiento Y Mandato"
+      },
+      {
+        "number": 35,
+        "title": "Independencia, Prerrogativas, Incompatibilidades Y Cese"
+      },
+      {
+        "number": 36,
+        "title": "Adjuntos Y Organización Interna"
+      },
+      {
+        "number": 37,
+        "title": "Quejas, Investigación Y Resoluciones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 7
+      },
+      {
+        "id": "C",
+        "offset": 14
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Elaboración, estructura y caracteres",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Valores y principios del régimen constitucional",
+        "blocks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Estructura del Título I y titulares",
+        "blocks": [
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Derechos fundamentales y libertades públicas",
+        "blocks": [
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Derechos de los ciudadanos y principios rectores",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Garantías y suspensión de derechos",
+        "blocks": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "El Defensor del Pueblo",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "variant": "A",
+      "questions": 25,
+      "offset": 0
+    },
+    {
+      "variant": "B",
+      "questions": 50,
+      "offset": 11
+    },
+    {
+      "variant": "C",
+      "questions": 100,
+      "offset": 23
+    }
+  ]
+}

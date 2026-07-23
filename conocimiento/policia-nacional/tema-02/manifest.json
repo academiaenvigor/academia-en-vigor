@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.3.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-02",
+  "topic_number": 2,
+  "slug": "constitucion-espanola-i",
+  "title": "La Constitución Española (I)",
+  "content_version": "0.1.0",
+  "editorial_status": "draft_review",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-07-23",
+  "source_file": "conocimiento/policia-nacional/tema-02/master.md",
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-02-constitucion-espanola-i.md",
+    "atestado": "temas/policia-nacional/atestado/tema-02-constitucion-espanola-i.md"
+  },
+  "semantic_blocks": 37,
+  "atomic_facts": 209,
+  "coverage_file": "conocimiento/policia-nacional/tema-02/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE-T02",
+    "LODP",
+    "LOAES",
+    "LOTC"
+  ],
+  "official_exam_items": [],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-02/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-02/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-02/manifest.json",
+    "questions": 418,
+    "coverage_by_atomic_facts": 100.0,
+    "publication_gate": "second_human_review"
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-02/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-02/manifest.json",
+    "total": 22,
+    "planned": 22,
+    "integration_status": "planned_webp"
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-02/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ],
+    "production": "materiales-didacticos/policia-nacional/tema-02/produccion"
+  },
+  "visual_version": "0.1.0",
+  "pedagogical_version": "0.1.0",
+  "atestado_style": "narrative_explained",
+  "official_exam_mapping": {
+    "mapped_questions": 26,
+    "verified_questions": 0,
+    "active_ha_caido": 0,
+    "activation_rule": "Solo registros verified con plantilla final oficial."
+  },
+  "review": {
+    "legal": "first_pass_official_sources",
+    "pedagogical": "first_pass_vigor",
+    "editorial": "pending_user_review",
+    "review_file": "conocimiento/policia-nacional/tema-02/revision-0.1.md"
+  }
+}

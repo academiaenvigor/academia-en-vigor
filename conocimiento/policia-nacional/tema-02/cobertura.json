@@ -1,0 +1,2005 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "0.1.0",
+  "oposicion": "policia-nacional",
+  "tema": 2,
+  "normative_version": "2026-07-23",
+  "required_constitution_articles": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "covered_constitution_articles": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "facts": [
+    {
+      "id": "PN-T02-F001",
+      "block": 1,
+      "part": 1,
+      "concept": "Supremacía formal",
+      "statement": "Ninguna norma inferior puede modificar la Constitución; su reforma exige los procedimientos constitucionales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F002",
+      "block": 1,
+      "part": 1,
+      "concept": "Supremacía material",
+      "statement": "Las leyes, los reglamentos y la actuación de los poderes públicos deben respetar el contenido constitucional.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F003",
+      "block": 1,
+      "part": 1,
+      "concept": "Fuerza normativa",
+      "statement": "La Constitución es una norma jurídica vinculante y no una mera declaración política.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F004",
+      "block": 1,
+      "part": 1,
+      "concept": "Sujeción constitucional",
+      "statement": "El artículo 9.1 somete a ciudadanos y poderes públicos a la Constitución y al resto del ordenamiento.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F005",
+      "block": 2,
+      "part": 1,
+      "concept": "Elecciones constituyentes",
+      "statement": "Las elecciones del 15 de junio de 1977 dieron lugar a unas Cortes que asumieron de hecho una función constituyente.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F006",
+      "block": 2,
+      "part": 1,
+      "concept": "Ponencia constitucional",
+      "statement": "La Ponencia constitucional estuvo formada por siete diputados.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F007",
+      "block": 2,
+      "part": 1,
+      "concept": "Aprobación parlamentaria",
+      "statement": "El Congreso y el Senado aprobaron la Constitución el 31 de octubre de 1978.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F008",
+      "block": 2,
+      "part": 1,
+      "concept": "Referéndum",
+      "statement": "El pueblo español ratificó la Constitución en referéndum el 6 de diciembre de 1978.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F009",
+      "block": 2,
+      "part": 1,
+      "concept": "Sanción y promulgación",
+      "statement": "El Rey sancionó y promulgó la Constitución el 27 de diciembre de 1978.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F010",
+      "block": 2,
+      "part": 1,
+      "concept": "Entrada en vigor",
+      "statement": "La Constitución se publicó y entró en vigor el 29 de diciembre de 1978.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F011",
+      "block": 3,
+      "part": 1,
+      "concept": "Articulado",
+      "statement": "La Constitución contiene 169 artículos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F012",
+      "block": 3,
+      "part": 1,
+      "concept": "Títulos",
+      "statement": "La Constitución tiene un Título Preliminar y diez títulos numerados del I al X.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F013",
+      "block": 3,
+      "part": 1,
+      "concept": "Disposiciones",
+      "statement": "La Constitución contiene cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F014",
+      "block": 3,
+      "part": 1,
+      "concept": "Parte dogmática",
+      "statement": "La parte dogmática comprende el Título Preliminar y el Título I.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F015",
+      "block": 3,
+      "part": 1,
+      "concept": "Parte orgánica",
+      "statement": "La parte orgánica comprende esencialmente los Títulos II a X.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F016",
+      "block": 3,
+      "part": 1,
+      "concept": "Preámbulo",
+      "statement": "El preámbulo tiene valor interpretativo, pero no está dividido en artículos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F017",
+      "block": 4,
+      "part": 1,
+      "concept": "Reforma de 1992",
+      "statement": "La reforma de 1992 modificó el artículo 13.2 para el sufragio activo y pasivo de extranjeros en elecciones municipales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F018",
+      "block": 4,
+      "part": 1,
+      "concept": "Reforma de 2011",
+      "statement": "La reforma de 2011 modificó el artículo 135 sobre estabilidad presupuestaria.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F019",
+      "block": 4,
+      "part": 1,
+      "concept": "Reforma de 2024",
+      "statement": "La reforma de 2024 sustituyó el artículo 49 sobre las personas con discapacidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F020",
+      "block": 4,
+      "part": 1,
+      "concept": "Reforma de 2026",
+      "statement": "La reforma de 2026 modificó el artículo 69.3 para que Formentera elija un senador propio.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F021",
+      "block": 4,
+      "part": 1,
+      "concept": "Número de reformas",
+      "statement": "A 23 de julio de 2026 la Constitución Española ha sido reformada cuatro veces.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F022",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución escrita",
+      "statement": "La Constitución está recogida en un texto escrito, único y codificado.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F023",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución extensa",
+      "statement": "La Constitución se considera extensa por el detalle de sus 169 artículos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F024",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución consensuada",
+      "statement": "La Constitución fue fruto de un amplio acuerdo entre fuerzas políticas distintas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F025",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución rígida",
+      "statement": "La Constitución exige procedimientos reforzados para su reforma.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F026",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución normativa",
+      "statement": "La Constitución vincula jurídicamente a ciudadanos y poderes públicos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F027",
+      "block": 5,
+      "part": 1,
+      "concept": "Constitución derivada",
+      "statement": "La Constitución recibió influencias de otros textos constitucionales europeos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F028",
+      "block": 6,
+      "part": 2,
+      "concept": "Valores superiores",
+      "statement": "El artículo 1.1 proclama libertad, justicia, igualdad y pluralismo político como valores superiores.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F029",
+      "block": 6,
+      "part": 2,
+      "concept": "Libertad",
+      "statement": "La libertad actúa como valor del ordenamiento y como base de numerosos derechos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F030",
+      "block": 6,
+      "part": 2,
+      "concept": "Justicia",
+      "statement": "La justicia es un valor superior y no debe confundirse con el Poder Judicial.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F031",
+      "block": 6,
+      "part": 2,
+      "concept": "Igualdad",
+      "statement": "La igualdad del artículo 1.1 se proyecta también en los artículos 9.2 y 14.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F032",
+      "block": 6,
+      "part": 2,
+      "concept": "Pluralismo político",
+      "statement": "El pluralismo político se expresa especialmente a través de los partidos políticos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F033",
+      "block": 7,
+      "part": 2,
+      "concept": "Soberanía nacional",
+      "statement": "La soberanía nacional reside en el pueblo español.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F034",
+      "block": 7,
+      "part": 2,
+      "concept": "Origen de los poderes",
+      "statement": "Los poderes del Estado emanan del pueblo español.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F035",
+      "block": 7,
+      "part": 2,
+      "concept": "Participación política",
+      "statement": "Los ciudadanos pueden participar directamente o por medio de representantes libremente elegidos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F036",
+      "block": 7,
+      "part": 2,
+      "concept": "Partidos políticos",
+      "statement": "Los partidos expresan el pluralismo, concurren a formar la voluntad popular y son instrumento de participación.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F037",
+      "block": 7,
+      "part": 2,
+      "concept": "Democracia interna",
+      "statement": "La estructura interna y el funcionamiento de los partidos deben ser democráticos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F038",
+      "block": 8,
+      "part": 2,
+      "concept": "Estado de Derecho",
+      "statement": "El poder público está sometido a la Constitución, a la ley y al control jurisdiccional.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F039",
+      "block": 8,
+      "part": 2,
+      "concept": "Principio de legalidad",
+      "statement": "La Constitución garantiza el principio de legalidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F040",
+      "block": 8,
+      "part": 2,
+      "concept": "Jerarquía normativa",
+      "statement": "La Constitución garantiza la jerarquía normativa.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F041",
+      "block": 8,
+      "part": 2,
+      "concept": "Publicidad normativa",
+      "statement": "La Constitución garantiza la publicidad de las normas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F042",
+      "block": 8,
+      "part": 2,
+      "concept": "Irretroactividad",
+      "statement": "El artículo 9.3 garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F043",
+      "block": 8,
+      "part": 2,
+      "concept": "Seguridad jurídica",
+      "statement": "La Constitución garantiza la seguridad jurídica.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F044",
+      "block": 8,
+      "part": 2,
+      "concept": "Responsabilidad",
+      "statement": "La Constitución garantiza la responsabilidad de los poderes públicos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F045",
+      "block": 8,
+      "part": 2,
+      "concept": "Interdicción de la arbitrariedad",
+      "statement": "La Constitución prohíbe la arbitrariedad de los poderes públicos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F046",
+      "block": 9,
+      "part": 2,
+      "concept": "Estado social",
+      "statement": "El Estado social exige una actuación pública orientada a hacer reales la libertad y la igualdad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F047",
+      "block": 9,
+      "part": 2,
+      "concept": "Igualdad material",
+      "statement": "El artículo 9.2 ordena promover condiciones para que libertad e igualdad sean reales y efectivas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F048",
+      "block": 9,
+      "part": 2,
+      "concept": "Remoción de obstáculos",
+      "statement": "Los poderes públicos deben remover los obstáculos que impidan o dificulten la plenitud de libertad e igualdad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F049",
+      "block": 9,
+      "part": 2,
+      "concept": "Participación social",
+      "statement": "Los poderes públicos deben facilitar la participación en la vida política, económica, cultural y social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F050",
+      "block": 10,
+      "part": 2,
+      "concept": "Forma política",
+      "statement": "La forma política del Estado español es la Monarquía parlamentaria.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F051",
+      "block": 10,
+      "part": 2,
+      "concept": "Jefatura y Gobierno",
+      "statement": "El Rey ejerce la Jefatura del Estado, mientras que el Gobierno dirige la política.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F052",
+      "block": 10,
+      "part": 2,
+      "concept": "Refrendo",
+      "statement": "Los actos del Rey quedan sometidos con carácter general a refrendo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F053",
+      "block": 10,
+      "part": 2,
+      "concept": "Responsabilidad política",
+      "statement": "La responsabilidad política corresponde a los órganos que adoptan y refrendan las decisiones.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F054",
+      "block": 11,
+      "part": 2,
+      "concept": "Unidad",
+      "statement": "La Constitución se fundamenta en la indisoluble unidad de la Nación española.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F055",
+      "block": 11,
+      "part": 2,
+      "concept": "Autonomía",
+      "statement": "La Constitución reconoce y garantiza el derecho a la autonomía de nacionalidades y regiones.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F056",
+      "block": 11,
+      "part": 2,
+      "concept": "Solidaridad",
+      "statement": "La Constitución garantiza la solidaridad entre nacionalidades y regiones.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F057",
+      "block": 11,
+      "part": 2,
+      "concept": "Lengua oficial",
+      "statement": "El castellano es la lengua española oficial del Estado; existe deber de conocerla y derecho a usarla.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F058",
+      "block": 11,
+      "part": 2,
+      "concept": "Banderas autonómicas",
+      "statement": "Las banderas autonómicas se utilizan junto a la bandera de España en edificios públicos y actos oficiales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F059",
+      "block": 11,
+      "part": 2,
+      "concept": "Capital",
+      "statement": "La capital del Estado es la villa de Madrid.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F060",
+      "block": 11,
+      "part": 2,
+      "concept": "Fuerzas Armadas",
+      "statement": "El artículo 8 CE enumera literalmente el Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F061",
+      "block": 12,
+      "part": 3,
+      "concept": "Extensión del Título I",
+      "statement": "El Título I comprende los artículos 10 a 55.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F062",
+      "block": 12,
+      "part": 3,
+      "concept": "Capítulo I",
+      "statement": "El Capítulo I del Título I regula a españoles y extranjeros en los artículos 11 a 13.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F063",
+      "block": 12,
+      "part": 3,
+      "concept": "Capítulo II",
+      "statement": "El Capítulo II contiene derechos y libertades en los artículos 14 a 38.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F064",
+      "block": 12,
+      "part": 3,
+      "concept": "Capítulo III",
+      "statement": "El Capítulo III contiene los principios rectores en los artículos 39 a 52.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F065",
+      "block": 12,
+      "part": 3,
+      "concept": "Capítulo IV",
+      "statement": "El Capítulo IV regula las garantías y el Defensor del Pueblo en los artículos 53 y 54.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F066",
+      "block": 12,
+      "part": 3,
+      "concept": "Capítulo V",
+      "statement": "El Capítulo V regula la suspensión de derechos y libertades en el artículo 55.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F067",
+      "block": 13,
+      "part": 3,
+      "concept": "Dignidad",
+      "statement": "La dignidad de la persona es fundamento del orden político y de la paz social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F068",
+      "block": 13,
+      "part": 3,
+      "concept": "Derechos inviolables",
+      "statement": "Los derechos inviolables inherentes a la persona fundamentan el orden político y la paz social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F069",
+      "block": 13,
+      "part": 3,
+      "concept": "Libre desarrollo",
+      "statement": "El libre desarrollo de la personalidad es fundamento del orden político y de la paz social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F070",
+      "block": 13,
+      "part": 3,
+      "concept": "Interpretación internacional",
+      "statement": "Los derechos fundamentales y libertades se interpretan conforme a la Declaración Universal y a los tratados ratificados por España.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F071",
+      "block": 14,
+      "part": 3,
+      "concept": "Nacionalidad",
+      "statement": "La nacionalidad española se adquiere, conserva y pierde conforme a la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F072",
+      "block": 14,
+      "part": 3,
+      "concept": "Español de origen",
+      "statement": "Ningún español de origen puede ser privado de su nacionalidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F073",
+      "block": 14,
+      "part": 3,
+      "concept": "Mayoría de edad",
+      "statement": "Los españoles son mayores de edad a los dieciocho años.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F074",
+      "block": 14,
+      "part": 3,
+      "concept": "Extranjeros",
+      "statement": "Los extranjeros gozan de las libertades públicas del Título I en los términos de los tratados y la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F075",
+      "block": 14,
+      "part": 3,
+      "concept": "Sufragio municipal",
+      "statement": "Puede reconocerse a extranjeros sufragio activo y pasivo en elecciones municipales atendiendo a reciprocidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F076",
+      "block": 14,
+      "part": 3,
+      "concept": "Extradición",
+      "statement": "La extradición se concede conforme a tratado o ley y reciprocidad; el terrorismo no se considera delito político.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F077",
+      "block": 14,
+      "part": 3,
+      "concept": "Igualdad ante la ley",
+      "statement": "El artículo 14 proclama la igualdad de los españoles ante la ley y prohíbe la discriminación.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F078",
+      "block": 15,
+      "part": 4,
+      "concept": "Vida e integridad",
+      "statement": "El artículo 15 reconoce el derecho a la vida y a la integridad física y moral.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F079",
+      "block": 15,
+      "part": 4,
+      "concept": "Prohibición de tortura",
+      "statement": "Nadie puede ser sometido a tortura ni a penas o tratos inhumanos o degradantes.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F080",
+      "block": 15,
+      "part": 4,
+      "concept": "Libertad ideológica y religiosa",
+      "statement": "La libertad ideológica, religiosa y de culto solo puede limitarse por el orden público protegido por la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F081",
+      "block": 15,
+      "part": 4,
+      "concept": "Libertad y seguridad",
+      "statement": "Toda persona tiene derecho a la libertad y a la seguridad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F082",
+      "block": 15,
+      "part": 4,
+      "concept": "Duración de la detención",
+      "statement": "La detención preventiva dura solo el tiempo estrictamente necesario y, como máximo ordinario, setenta y dos horas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F083",
+      "block": 15,
+      "part": 4,
+      "concept": "Información al detenido",
+      "statement": "La persona detenida debe ser informada inmediatamente y de modo comprensible de sus derechos y de las razones de la detención.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F084",
+      "block": 15,
+      "part": 4,
+      "concept": "Asistencia letrada",
+      "statement": "La Constitución garantiza asistencia de abogado al detenido en diligencias policiales y judiciales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F085",
+      "block": 15,
+      "part": 4,
+      "concept": "Habeas corpus",
+      "statement": "La ley regula un procedimiento de habeas corpus para la inmediata puesta a disposición judicial del detenido ilegalmente.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F086",
+      "block": 15,
+      "part": 4,
+      "concept": "Inviolabilidad domiciliaria",
+      "statement": "La entrada domiciliaria requiere consentimiento, resolución judicial o flagrante delito.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F087",
+      "block": 15,
+      "part": 4,
+      "concept": "Secreto de comunicaciones",
+      "statement": "Las comunicaciones son secretas salvo resolución judicial.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F088",
+      "block": 15,
+      "part": 4,
+      "concept": "Circulación y residencia",
+      "statement": "Los españoles pueden elegir residencia, circular por el territorio y entrar y salir de España en los términos legales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F089",
+      "block": 16,
+      "part": 4,
+      "concept": "Libertad de expresión",
+      "statement": "El artículo 20 reconoce libertades de expresión, creación, cátedra e información veraz.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F090",
+      "block": 16,
+      "part": 4,
+      "concept": "Censura previa",
+      "statement": "El ejercicio de las libertades del artículo 20 no puede restringirse mediante censura previa.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F091",
+      "block": 16,
+      "part": 4,
+      "concept": "Secuestro de publicaciones",
+      "statement": "El secuestro de publicaciones, grabaciones y otros medios de información exige resolución judicial.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F092",
+      "block": 16,
+      "part": 4,
+      "concept": "Derecho de reunión",
+      "statement": "El derecho de reunión pacífica y sin armas no necesita autorización previa.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F093",
+      "block": 16,
+      "part": 4,
+      "concept": "Manifestaciones",
+      "statement": "Las reuniones en lugares de tránsito público y las manifestaciones requieren comunicación previa.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F094",
+      "block": 16,
+      "part": 4,
+      "concept": "Prohibición de reunión",
+      "statement": "Una reunión comunicada solo puede prohibirse por razones fundadas de alteración del orden público con peligro para personas o bienes.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F095",
+      "block": 16,
+      "part": 4,
+      "concept": "Derecho de asociación",
+      "statement": "Las asociaciones con fines o medios delictivos son ilegales y las secretas y paramilitares están prohibidas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F096",
+      "block": 16,
+      "part": 4,
+      "concept": "Participación pública",
+      "statement": "Los ciudadanos participan en asuntos públicos directamente o mediante representantes elegidos por sufragio universal.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F097",
+      "block": 16,
+      "part": 4,
+      "concept": "Acceso a funciones públicas",
+      "statement": "Los ciudadanos acceden en igualdad a funciones y cargos públicos con los requisitos legales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F098",
+      "block": 17,
+      "part": 4,
+      "concept": "Tutela judicial efectiva",
+      "statement": "Todas las personas tienen derecho a obtener tutela efectiva de jueces y tribunales sin indefensión.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F099",
+      "block": 17,
+      "part": 4,
+      "concept": "Juez ordinario",
+      "statement": "El artículo 24.2 reconoce el derecho al juez ordinario predeterminado por la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F100",
+      "block": 17,
+      "part": 4,
+      "concept": "Defensa y asistencia letrada",
+      "statement": "El artículo 24.2 reconoce los derechos de defensa y asistencia de letrado.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F101",
+      "block": 17,
+      "part": 4,
+      "concept": "Proceso público",
+      "statement": "El proceso debe ser público, sin dilaciones indebidas y con todas las garantías.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F102",
+      "block": 17,
+      "part": 4,
+      "concept": "Presunción de inocencia",
+      "statement": "Toda persona tiene derecho a la presunción de inocencia.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F103",
+      "block": 17,
+      "part": 4,
+      "concept": "Legalidad sancionadora",
+      "statement": "Nadie puede ser condenado o sancionado por hechos que no fueran infracción cuando se produjeron.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F104",
+      "block": 17,
+      "part": 4,
+      "concept": "Finalidad de las penas",
+      "statement": "Las penas privativas de libertad y medidas de seguridad se orientan a reeducación y reinserción social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F105",
+      "block": 17,
+      "part": 4,
+      "concept": "Tribunales de honor",
+      "statement": "Los tribunales de honor están prohibidos en la Administración civil y en las organizaciones profesionales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F106",
+      "block": 18,
+      "part": 4,
+      "concept": "Derecho a la educación",
+      "statement": "Todos tienen derecho a la educación y se reconoce la libertad de enseñanza.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F107",
+      "block": 18,
+      "part": 4,
+      "concept": "Enseñanza básica",
+      "statement": "La enseñanza básica es obligatoria y gratuita.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F108",
+      "block": 18,
+      "part": 4,
+      "concept": "Libertad sindical",
+      "statement": "La libertad sindical comprende fundar sindicatos, afiliarse y no ser obligado a afiliarse.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F109",
+      "block": 18,
+      "part": 4,
+      "concept": "Derecho de huelga",
+      "statement": "Los trabajadores tienen derecho a la huelga para defender sus intereses.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F110",
+      "block": 18,
+      "part": 4,
+      "concept": "Servicios esenciales",
+      "statement": "La regulación de la huelga debe establecer garantías para mantener los servicios esenciales de la comunidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F111",
+      "block": 18,
+      "part": 4,
+      "concept": "Derecho de petición",
+      "statement": "Todos los españoles tienen derecho de petición individual y colectiva por escrito.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F112",
+      "block": 18,
+      "part": 4,
+      "concept": "Petición militar",
+      "statement": "Los miembros de cuerpos sometidos a disciplina militar ejercen el derecho de petición solo individualmente y conforme a su legislación.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F113",
+      "block": 19,
+      "part": 5,
+      "concept": "Defensa de España",
+      "statement": "Los españoles tienen el derecho y el deber de defender España.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F114",
+      "block": 19,
+      "part": 5,
+      "concept": "Sistema tributario",
+      "statement": "El sistema tributario debe ser justo, inspirado en igualdad y progresividad y sin alcance confiscatorio.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F115",
+      "block": 19,
+      "part": 5,
+      "concept": "Matrimonio",
+      "statement": "El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F116",
+      "block": 19,
+      "part": 5,
+      "concept": "Propiedad y herencia",
+      "statement": "La Constitución reconoce la propiedad privada y la herencia, delimitadas por su función social.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F117",
+      "block": 19,
+      "part": 5,
+      "concept": "Expropiación",
+      "statement": "La privación de bienes exige utilidad pública o interés social, indemnización y conformidad con la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F118",
+      "block": 19,
+      "part": 5,
+      "concept": "Fundación",
+      "statement": "Se reconoce el derecho de fundación para fines de interés general conforme a la ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F119",
+      "block": 19,
+      "part": 5,
+      "concept": "Trabajo",
+      "statement": "Todos los españoles tienen el deber de trabajar y el derecho al trabajo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F120",
+      "block": 19,
+      "part": 5,
+      "concept": "Negociación colectiva",
+      "statement": "La ley garantiza la negociación colectiva laboral y la fuerza vinculante de los convenios.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F121",
+      "block": 19,
+      "part": 5,
+      "concept": "Libertad de empresa",
+      "statement": "Se reconoce la libertad de empresa en el marco de la economía de mercado.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F122",
+      "block": 20,
+      "part": 5,
+      "concept": "Naturaleza de los principios rectores",
+      "statement": "Los artículos 39 a 52 contienen principios rectores de la política social y económica.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F123",
+      "block": 20,
+      "part": 5,
+      "concept": "Función interpretativa",
+      "statement": "Los principios rectores informan la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F124",
+      "block": 20,
+      "part": 5,
+      "concept": "Alegación judicial",
+      "statement": "Los principios rectores solo pueden alegarse ante la jurisdicción conforme a las leyes que los desarrollen.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F125",
+      "block": 20,
+      "part": 5,
+      "concept": "Ausencia de amparo directo",
+      "statement": "Los principios rectores no son directamente protegibles mediante recurso de amparo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F126",
+      "block": 21,
+      "part": 5,
+      "concept": "Protección de la familia",
+      "statement": "Los poderes públicos aseguran la protección social, económica y jurídica de la familia.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F127",
+      "block": 21,
+      "part": 5,
+      "concept": "Protección de los hijos",
+      "statement": "Los hijos son iguales ante la ley con independencia de su filiación.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F128",
+      "block": 21,
+      "part": 5,
+      "concept": "Política laboral",
+      "statement": "Los poderes públicos promueven progreso social, distribución de renta, pleno empleo y formación profesional.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F129",
+      "block": 21,
+      "part": 5,
+      "concept": "Seguridad Social",
+      "statement": "Los poderes públicos mantienen un régimen público de Seguridad Social para todos los ciudadanos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F130",
+      "block": 21,
+      "part": 5,
+      "concept": "Trabajadores en el extranjero",
+      "statement": "El Estado vela por los derechos económicos y sociales de los trabajadores españoles en el extranjero y orienta su política al retorno.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F131",
+      "block": 22,
+      "part": 5,
+      "concept": "Protección de la salud",
+      "statement": "Se reconoce el derecho a la protección de la salud.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F132",
+      "block": 22,
+      "part": 5,
+      "concept": "Cultura",
+      "statement": "Los poderes públicos promueven y tutelan el acceso a la cultura.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F133",
+      "block": 22,
+      "part": 5,
+      "concept": "Ciencia e investigación",
+      "statement": "Los poderes públicos promueven la ciencia y la investigación científica y técnica.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F134",
+      "block": 22,
+      "part": 5,
+      "concept": "Medio ambiente",
+      "statement": "Todos tienen derecho a un medio ambiente adecuado y el deber de conservarlo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F135",
+      "block": 22,
+      "part": 5,
+      "concept": "Patrimonio histórico",
+      "statement": "Los poderes públicos garantizan la conservación y promueven el enriquecimiento del patrimonio histórico, cultural y artístico.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F136",
+      "block": 23,
+      "part": 5,
+      "concept": "Vivienda",
+      "statement": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F137",
+      "block": 23,
+      "part": 5,
+      "concept": "Participación juvenil",
+      "statement": "Los poderes públicos promueven la participación libre y eficaz de la juventud.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F138",
+      "block": 23,
+      "part": 5,
+      "concept": "Personas con discapacidad",
+      "statement": "El artículo 49 exige políticas de plena autonomía personal e inclusión social en entornos universalmente accesibles.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F139",
+      "block": 23,
+      "part": 5,
+      "concept": "Mujeres y menores con discapacidad",
+      "statement": "El artículo 49 atiende particularmente a las necesidades específicas de mujeres y menores con discapacidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F140",
+      "block": 23,
+      "part": 5,
+      "concept": "Personas mayores",
+      "statement": "Los poderes públicos garantizan suficiencia económica a las personas durante la tercera edad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F141",
+      "block": 24,
+      "part": 5,
+      "concept": "Consumidores",
+      "statement": "Los poderes públicos garantizan la defensa de consumidores y usuarios.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F142",
+      "block": 24,
+      "part": 5,
+      "concept": "Seguridad y salud",
+      "statement": "La defensa de consumidores protege mediante procedimientos eficaces su seguridad, salud e intereses económicos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F143",
+      "block": 24,
+      "part": 5,
+      "concept": "Información y educación",
+      "statement": "Los poderes públicos promueven información y educación de consumidores y usuarios.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F144",
+      "block": 24,
+      "part": 5,
+      "concept": "Organizaciones profesionales",
+      "statement": "La ley regula las organizaciones profesionales que contribuyen a defender intereses económicos propios.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F145",
+      "block": 24,
+      "part": 5,
+      "concept": "Democracia interna",
+      "statement": "La estructura interna y el funcionamiento de las organizaciones profesionales deben ser democráticos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F146",
+      "block": 25,
+      "part": 6,
+      "concept": "Garantías normativas",
+      "statement": "Las garantías normativas incluyen reserva de ley, contenido esencial y control de constitucionalidad.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F147",
+      "block": 25,
+      "part": 6,
+      "concept": "Garantías judiciales",
+      "statement": "Las garantías judiciales incluyen tutela ordinaria, procedimiento preferente y sumario y recurso de amparo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F148",
+      "block": 25,
+      "part": 6,
+      "concept": "Garantías institucionales",
+      "statement": "El Tribunal Constitucional y el Defensor del Pueblo forman parte del sistema institucional de garantías.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F149",
+      "block": 25,
+      "part": 6,
+      "concept": "Garantía internacional",
+      "statement": "El artículo 10.2 conecta la interpretación de los derechos con la Declaración Universal y los tratados ratificados.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F150",
+      "block": 26,
+      "part": 6,
+      "concept": "Artículo 53.1",
+      "statement": "Los derechos del Capítulo II vinculan a todos los poderes públicos y solo pueden regularse por ley respetando su contenido esencial.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F151",
+      "block": 26,
+      "part": 6,
+      "concept": "Artículo 53.2",
+      "statement": "El artículo 14 y la Sección 1.ª reciben tutela por procedimiento preferente y sumario y recurso de amparo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F152",
+      "block": 26,
+      "part": 6,
+      "concept": "Objeción de conciencia",
+      "statement": "El recurso de amparo se extiende a la objeción de conciencia del artículo 30.2.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F153",
+      "block": 26,
+      "part": 6,
+      "concept": "Artículo 53.3",
+      "statement": "Los principios del Capítulo III informan legislación, práctica judicial y actuación pública y se alegan conforme a sus leyes de desarrollo.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F154",
+      "block": 27,
+      "part": 6,
+      "concept": "Desarrollo por ley orgánica",
+      "statement": "El desarrollo de derechos fundamentales y libertades públicas requiere ley orgánica.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F155",
+      "block": 27,
+      "part": 6,
+      "concept": "Ámbito de ley orgánica",
+      "statement": "La reserva de ley orgánica se refiere a la Sección 1.ª y no automáticamente al artículo 14 o al 30.2.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F156",
+      "block": 27,
+      "part": 6,
+      "concept": "Reforma agravada",
+      "statement": "La reforma que afecte a la Sección 1.ª del Capítulo II sigue el procedimiento agravado del artículo 168.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F157",
+      "block": 27,
+      "part": 6,
+      "concept": "Control constitucional",
+      "statement": "El Tribunal Constitucional controla la constitucionalidad de las leyes y normas con fuerza de ley.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F158",
+      "block": 28,
+      "part": 6,
+      "concept": "Naturaleza del amparo",
+      "statement": "El recurso de amparo es subsidiario y protege los derechos comprendidos en los artículos 14 a 29 y 30.2.",
+      "source": "LOTC",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F159",
+      "block": 28,
+      "part": 6,
+      "concept": "Subsidiariedad",
+      "statement": "Antes del amparo deben agotarse las vías judiciales procedentes, salvo los supuestos constitucionales y legales específicos.",
+      "source": "LOTC",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F160",
+      "block": 28,
+      "part": 6,
+      "concept": "Legitimación",
+      "statement": "Pueden interponer amparo la persona afectada, el Defensor del Pueblo y el Ministerio Fiscal en los términos legales.",
+      "source": "LOTC",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F161",
+      "block": 28,
+      "part": 6,
+      "concept": "Objeto",
+      "statement": "El amparo no es una tercera instancia para revisar cualquier error de legalidad ordinaria.",
+      "source": "LOTC",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F162",
+      "block": 29,
+      "part": 6,
+      "concept": "Suspensión general",
+      "statement": "La suspensión general del artículo 55.1 solo puede operar durante los estados de excepción o de sitio.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F163",
+      "block": 29,
+      "part": 6,
+      "concept": "Derechos suspendibles",
+      "statement": "Pueden suspenderse los derechos de los artículos 17, 18.2, 18.3, 19, 20.1.a y d, 20.5, 21, 28.2 y 37.2.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F164",
+      "block": 29,
+      "part": 6,
+      "concept": "Excepción del artículo 17.3",
+      "statement": "En el estado de excepción no puede suspenderse el artículo 17.3.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F165",
+      "block": 29,
+      "part": 6,
+      "concept": "Estado de alarma",
+      "statement": "El estado de alarma no permite suspender derechos fundamentales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F166",
+      "block": 29,
+      "part": 6,
+      "concept": "Proporcionalidad",
+      "statement": "La suspensión debe limitarse a lo previsto en la Constitución, la ley y la declaración correspondiente.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F167",
+      "block": 30,
+      "part": 6,
+      "concept": "Declaración de alarma",
+      "statement": "El Gobierno declara el estado de alarma por decreto acordado en Consejo de Ministros por un máximo inicial de quince días.",
+      "source": "LOAES",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F168",
+      "block": 30,
+      "part": 6,
+      "concept": "Prórroga de alarma",
+      "statement": "La prórroga del estado de alarma necesita autorización del Congreso.",
+      "source": "LOAES",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F169",
+      "block": 30,
+      "part": 6,
+      "concept": "Declaración de excepción",
+      "statement": "El Gobierno declara el estado de excepción previa autorización del Congreso por un máximo de treinta días.",
+      "source": "LOAES",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F170",
+      "block": 30,
+      "part": 6,
+      "concept": "Prórroga de excepción",
+      "statement": "El estado de excepción puede prorrogarse por otros treinta días con los mismos requisitos.",
+      "source": "LOAES",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F171",
+      "block": 30,
+      "part": 6,
+      "concept": "Declaración de sitio",
+      "statement": "El Congreso declara el estado de sitio por mayoría absoluta a propuesta exclusiva del Gobierno.",
+      "source": "LOAES",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F172",
+      "block": 31,
+      "part": 6,
+      "concept": "Suspensión individual",
+      "statement": "La suspensión individual puede afectar a los artículos 17.2, 18.2 y 18.3.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F173",
+      "block": 31,
+      "part": 6,
+      "concept": "Ámbito subjetivo",
+      "statement": "La suspensión individual se vincula a investigaciones sobre bandas armadas o elementos terroristas.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F174",
+      "block": 31,
+      "part": 6,
+      "concept": "Intervención judicial",
+      "statement": "La suspensión individual exige intervención judicial y adecuado control parlamentario.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F175",
+      "block": 31,
+      "part": 6,
+      "concept": "Responsabilidad penal",
+      "statement": "El uso injustificado o abusivo de estas facultades produce responsabilidad penal por violación de derechos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F176",
+      "block": 32,
+      "part": 6,
+      "concept": "Artículo 18.4",
+      "statement": "La ley limita el uso de la informática para garantizar honor, intimidad y pleno ejercicio de los derechos.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F177",
+      "block": 32,
+      "part": 6,
+      "concept": "Derecho a la protección de datos",
+      "statement": "Del artículo 18.4 se deriva un derecho autónomo al control de los datos personales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F178",
+      "block": 32,
+      "part": 6,
+      "concept": "Regulación transversal",
+      "statement": "La protección de datos se desarrolla con carácter general y mediante normas específicas para tratamientos policiales y penales.",
+      "source": "CE-T02",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F179",
+      "block": 33,
+      "part": 7,
+      "concept": "Alto comisionado",
+      "statement": "El Defensor del Pueblo es el alto comisionado de las Cortes Generales.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F180",
+      "block": 33,
+      "part": 7,
+      "concept": "Finalidad",
+      "statement": "El Defensor del Pueblo protege los derechos comprendidos en el Título I.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F181",
+      "block": 33,
+      "part": 7,
+      "concept": "Supervisión administrativa",
+      "statement": "Puede supervisar la actividad de la Administración y dar cuenta a las Cortes Generales.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F182",
+      "block": 33,
+      "part": 7,
+      "concept": "Norma reguladora",
+      "statement": "La institución se regula por la Ley Orgánica 3/1981.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F183",
+      "block": 33,
+      "part": 7,
+      "concept": "Legitimación constitucional",
+      "statement": "El Defensor está legitimado para interponer recursos de inconstitucionalidad y de amparo.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F184",
+      "block": 34,
+      "part": 7,
+      "concept": "Mandato",
+      "statement": "El Defensor del Pueblo es elegido por las Cortes Generales para un periodo de cinco años.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F185",
+      "block": 34,
+      "part": 7,
+      "concept": "Mayoría inicial",
+      "statement": "La elección ordinaria exige tres quintos del Congreso y ratificación por tres quintos del Senado.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F186",
+      "block": 34,
+      "part": 7,
+      "concept": "Plazo de ratificación",
+      "statement": "El Senado debe ratificar la propuesta inicial en un plazo máximo de veinte días.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F187",
+      "block": 34,
+      "part": 7,
+      "concept": "Procedimiento subsidiario",
+      "statement": "Si fracasa la mayoría inicial, basta tres quintos del Congreso y mayoría absoluta del Senado.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F188",
+      "block": 34,
+      "part": 7,
+      "concept": "Nombramiento",
+      "statement": "El nombramiento se acredita con las firmas de los Presidentes del Congreso y del Senado y se publica en el BOE.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F189",
+      "block": 35,
+      "part": 7,
+      "concept": "Independencia",
+      "statement": "El Defensor no recibe mandato imperativo ni instrucciones y ejerce sus funciones con autonomía.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F190",
+      "block": 35,
+      "part": 7,
+      "concept": "Inviolabilidad",
+      "statement": "El Defensor no puede ser detenido, expedientado, multado, perseguido o juzgado por opiniones o actos realizados en sus funciones.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F191",
+      "block": 35,
+      "part": 7,
+      "concept": "Fuero",
+      "statement": "Fuera de la flagrancia delictiva, su detención y procesamiento corresponden a la Sala de lo Penal del Tribunal Supremo.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F192",
+      "block": 35,
+      "part": 7,
+      "concept": "Incompatibilidades",
+      "statement": "El cargo es incompatible, entre otros supuestos, con mandato representativo, cargo político y actividad profesional.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F193",
+      "block": 35,
+      "part": 7,
+      "concept": "Vacante ordinaria",
+      "statement": "El Presidente del Congreso declara la vacante por muerte, renuncia o expiración del mandato.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F194",
+      "block": 36,
+      "part": 7,
+      "concept": "Adjuntos",
+      "statement": "El Defensor está auxiliado por un Adjunto Primero y un Adjunto Segundo.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F195",
+      "block": 36,
+      "part": 7,
+      "concept": "Nombramiento de Adjuntos",
+      "statement": "Los Adjuntos son nombrados y separados por el Defensor con conformidad previa de las Cámaras.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F196",
+      "block": 36,
+      "part": 7,
+      "concept": "Junta de Coordinación",
+      "statement": "La Junta de Coordinación está formada por el Defensor, los dos Adjuntos y el Secretario General.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F197",
+      "block": 36,
+      "part": 7,
+      "concept": "Voz sin voto",
+      "statement": "El Secretario General actúa como secretario de la Junta con voz y sin voto.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F198",
+      "block": 36,
+      "part": 7,
+      "concept": "Mecanismo Nacional de Prevención",
+      "statement": "El Defensor ejerce las funciones del Mecanismo Nacional de Prevención de la Tortura.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F199",
+      "block": 36,
+      "part": 7,
+      "concept": "Consejo Asesor",
+      "statement": "El Mecanismo Nacional de Prevención cuenta con un Consejo Asesor de cooperación técnica y jurídica.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F200",
+      "block": 37,
+      "part": 7,
+      "concept": "Legitimación para la queja",
+      "statement": "Puede presentar queja toda persona natural o jurídica que invoque un interés legítimo.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F201",
+      "block": 37,
+      "part": 7,
+      "concept": "Plazo de queja",
+      "statement": "La queja debe presentarse en el plazo máximo de un año desde el conocimiento de los hechos.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F202",
+      "block": 37,
+      "part": 7,
+      "concept": "Gratuidad",
+      "statement": "Las actuaciones ante el Defensor son gratuitas y no requieren abogado ni procurador.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F203",
+      "block": 37,
+      "part": 7,
+      "concept": "Quejas anónimas",
+      "statement": "El Defensor rechaza las quejas anónimas.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F204",
+      "block": 37,
+      "part": 7,
+      "concept": "Investigación",
+      "statement": "Admitida la queja, el Defensor promueve una investigación sumaria e informal.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F205",
+      "block": 37,
+      "part": 7,
+      "concept": "Plazo de informe administrativo",
+      "statement": "El organismo requerido dispone normalmente de quince días para remitir su informe.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F206",
+      "block": 37,
+      "part": 7,
+      "concept": "Colaboración",
+      "statement": "Todos los poderes públicos deben auxiliar al Defensor con carácter preferente y urgente.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F207",
+      "block": 37,
+      "part": 7,
+      "concept": "Límites de las resoluciones",
+      "statement": "El Defensor no puede modificar ni anular actos o resoluciones administrativas.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F208",
+      "block": 37,
+      "part": 7,
+      "concept": "Recomendaciones",
+      "statement": "El Defensor puede formular advertencias, recomendaciones, recordatorios de deberes legales y sugerencias.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    },
+    {
+      "id": "PN-T02-F209",
+      "block": 37,
+      "part": 7,
+      "concept": "Informes parlamentarios",
+      "statement": "El Defensor presenta un informe anual y puede presentar informes extraordinarios por gravedad o urgencia.",
+      "source": "LODP",
+      "covered_by_questions": 2
+    }
+  ],
+  "coverage_percent": 100.0
+}

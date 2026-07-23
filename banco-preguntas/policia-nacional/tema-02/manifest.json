@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.3.0",
+  "content_version": "0.1.0",
+  "oposicion": "policia-nacional",
+  "tema": 2,
+  "estado": "primera_revision_editorial",
+  "publicacion": "not_published",
+  "total_preguntas": 418,
+  "total_hechos": 209,
+  "hechos_cubiertos": 209,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 140,
+    "B": 139,
+    "C": 139
+  },
+  "caracter": {
+    "propias": 418,
+    "oficiales": 0
+  },
+  "tipos": {
+    "concept_to_statement": 209,
+    "statement_to_concept": 209
+  },
+  "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-02/master.md",
+  "cobertura": "../../../conocimiento/policia-nacional/tema-02/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-02/plan.json",
+  "official_exam_index": "indice-oficiales.json",
+  "official_exam_mapping": {
+    "mapped_questions": 26,
+    "verified_questions": 0,
+    "active_ha_caido": 0
+  },
+  "publication_gate": "Revisión humana de distractores y feedback antes de publicar."
+}

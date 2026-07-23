@@ -1,6 +1,6 @@
 {
   "catalog_version": "0.4.0",
-  "checked_at": "2026-07-20",
+  "checked_at": "2026-07-23",
   "sources": [
     {
       "id": "CE-CORONA",
@@ -229,6 +229,24 @@
       "boe_id": "BOE-A-1997-25336",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
       "scope": "art. 24 y potestad reglamentaria",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-T02",
+      "title": "Constitución Española: Título Preliminar y Título I",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "preámbulo, estructura, reformas y artículos 1-55",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LODP",
+      "title": "Ley Orgánica 3/1981, del Defensor del Pueblo",
+      "boe_id": "BOE-A-1981-10325",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325",
+      "scope": "texto completo y Reglamento de Organización y Funcionamiento",
       "official": true,
       "traceable": true
     }

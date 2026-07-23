@@ -1,0 +1,358 @@
+{
+  "schema_version": "1.2.0",
+  "profile_id": "pn",
+  "theme_id": "pn-t02",
+  "theme_number": 2,
+  "theme_title": "La Constitución Española (I)",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "label": "Preguntado en examen",
+    "show_answer_only_when_verified": true,
+    "appearance_does_not_imply_official_answer": true
+  },
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q003",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 3,
+      "block_refs": [
+        18
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p33-a-q004",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 4,
+      "block_refs": [
+        30
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p34-a-q007",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 7,
+      "block_refs": [
+        30
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p34-a-q008",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 8,
+      "block_refs": [
+        33
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p34-a-q009",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 9,
+      "block_refs": [
+        34
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p35-a-q095",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 95,
+      "block_refs": [
+        8
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p36-a-q051",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 51,
+      "block_refs": [
+        35
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p36-a-q058",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 58,
+      "block_refs": [
+        33
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p36-a-q076",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 76,
+      "block_refs": [
+        36
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p37-a-q031",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 31,
+      "block_refs": [
+        36
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p37-a-q041",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 41,
+      "block_refs": [
+        15
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q003",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 3,
+      "block_refs": [
+        19
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p38-a-q006",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 6,
+      "block_refs": [
+        11
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q015",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 15,
+      "block_refs": [
+        28
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q042",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 42,
+      "block_refs": [
+        37
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q044",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 44,
+      "block_refs": [
+        29
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q053",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 53,
+      "block_refs": [
+        35
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p39-a-q061",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 61,
+      "block_refs": [
+        37
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p40-a-q098",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 98,
+      "block_refs": [
+        6
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p39-a-q099",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 99,
+      "block_refs": [
+        2
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q011",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 11,
+      "block_refs": [
+        30
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q032",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 32,
+      "block_refs": [
+        33
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q073",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 73,
+      "block_refs": [
+        36
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p41-a-q096",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 96,
+      "block_refs": [
+        16
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q003",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 3,
+      "block_refs": [
+        16
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    },
+    {
+      "question_id": "of-pn-p42-a-q049",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 49,
+      "block_refs": [
+        3
+      ],
+      "mapping_status": "direct_reviewed",
+      "appearance_status": "reviewed",
+      "verification_status": "quarantine",
+      "counts_for_ha_caido": false
+    }
+  ],
+  "statistics": {
+    "mapped_questions": 26,
+    "verified_questions": 0,
+    "active_ha_caido": 0
+  }
+}

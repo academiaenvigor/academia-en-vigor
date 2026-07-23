@@ -1,0 +1,1013 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-02",
+  "content_version": "0.1.0",
+  "source_version": "0.1.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "NotebookLM exporta actualmente los audios con extensión .m4a.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": {
+    "provider": "google_drive",
+    "folder_id": "",
+    "folder_url": "",
+    "path": "ACADEMIA EN VIGOR / 01 TEMARIO / T02 - La Constitución Española (I)"
+  },
+  "categories": {
+    "audios": "Audios",
+    "videos": "Vídeos",
+    "presentaciones": "Presentaciones",
+    "infografias": "Infografías y resúmenes"
+  },
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Elaboración, estructura y caracteres",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Valores y principios del régimen constitucional",
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Estructura del Título I y titulares",
+      "blocks": [
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "12"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Derechos fundamentales y libertades públicas",
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "anchor_blocks": [
+        "15"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Derechos de los ciudadanos y principios rectores",
+      "blocks": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "anchor_blocks": [
+        "19"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Garantías y suspensión de derechos",
+      "blocks": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "25"
+      ]
+    },
+    {
+      "id": "p7",
+      "number": 7,
+      "title": "El Defensor del Pueblo",
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "33"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "t02-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Elaboración, estructura y caracteres",
+      "filename": "T02-P1-AUDIO-elaboracion-estructura-y-caracteres.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p01/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Elaboración, estructura y caracteres",
+      "filename": "T02-P1-VIDEO-elaboracion-estructura-y-caracteres.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p01/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p1-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Elaboración, estructura y caracteres",
+      "filename": "T02-P1-PRESENTACION-elaboracion-estructura-y-caracteres.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p01/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p1-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Elaboración, estructura y caracteres",
+      "filename": "T02-P1-RESUMEN-elaboracion-estructura-y-caracteres.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p01/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Valores y principios del régimen constitucional",
+      "filename": "T02-P2-AUDIO-valores-y-principios-del-regimen-constitucional.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p02/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Valores y principios del régimen constitucional",
+      "filename": "T02-P2-VIDEO-valores-y-principios-del-regimen-constitucional.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p02/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p2-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Valores y principios del régimen constitucional",
+      "filename": "T02-P2-PRESENTACION-valores-y-principios-del-regimen-constitucional.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p02/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p2-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Valores y principios del régimen constitucional",
+      "filename": "T02-P2-RESUMEN-valores-y-principios-del-regimen-constitucional.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p02/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Estructura del Título I y titulares",
+      "filename": "T02-P3-AUDIO-estructura-del-titulo-i-y-titulares.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p03/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Estructura del Título I y titulares",
+      "filename": "T02-P3-VIDEO-estructura-del-titulo-i-y-titulares.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p03/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p3-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Estructura del Título I y titulares",
+      "filename": "T02-P3-PRESENTACION-estructura-del-titulo-i-y-titulares.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p03/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p3-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Estructura del Título I y titulares",
+      "filename": "T02-P3-RESUMEN-estructura-del-titulo-i-y-titulares.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p03/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "anchor_blocks": [
+        "15"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Derechos fundamentales y libertades públicas",
+      "filename": "T02-P4-AUDIO-derechos-fundamentales-y-libertades-publicas.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p04/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "anchor_blocks": [
+        "15"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Derechos fundamentales y libertades públicas",
+      "filename": "T02-P4-VIDEO-derechos-fundamentales-y-libertades-publicas.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p04/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p4-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "anchor_blocks": [
+        "15"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Derechos fundamentales y libertades públicas",
+      "filename": "T02-P4-PRESENTACION-derechos-fundamentales-y-libertades-publicas.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p04/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p4-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "anchor_blocks": [
+        "15"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Derechos fundamentales y libertades públicas",
+      "filename": "T02-P4-RESUMEN-derechos-fundamentales-y-libertades-publicas.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p04/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "anchor_blocks": [
+        "19"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Derechos de los ciudadanos y principios rectores",
+      "filename": "T02-P5-AUDIO-derechos-de-los-ciudadanos-y-principios-rectores.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p05/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "anchor_blocks": [
+        "19"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Derechos de los ciudadanos y principios rectores",
+      "filename": "T02-P5-VIDEO-derechos-de-los-ciudadanos-y-principios-rectores.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p05/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p5-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "anchor_blocks": [
+        "19"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Derechos de los ciudadanos y principios rectores",
+      "filename": "T02-P5-PRESENTACION-derechos-de-los-ciudadanos-y-principios-rectores.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p05/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p5-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "anchor_blocks": [
+        "19"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Derechos de los ciudadanos y principios rectores",
+      "filename": "T02-P5-RESUMEN-derechos-de-los-ciudadanos-y-principios-rectores.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p05/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p6-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "25"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · Garantías y suspensión de derechos",
+      "filename": "T02-P6-AUDIO-garantias-y-suspension-de-derechos.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p06/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p6-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "25"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · Garantías y suspensión de derechos",
+      "filename": "T02-P6-VIDEO-garantias-y-suspension-de-derechos.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p06/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p6-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "25"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · Garantías y suspensión de derechos",
+      "filename": "T02-P6-PRESENTACION-garantias-y-suspension-de-derechos.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p06/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p6-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "25"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · Garantías y suspensión de derechos",
+      "filename": "T02-P6-RESUMEN-garantias-y-suspension-de-derechos.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p06/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p7-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 7,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Audio · El Defensor del Pueblo",
+      "filename": "T02-P7-AUDIO-el-defensor-del-pueblo.m4a",
+      "mime_type": "audio/x-m4a",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p07/audios",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p7-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 7,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Video · El Defensor del Pueblo",
+      "filename": "T02-P7-VIDEO-el-defensor-del-pueblo.mp4",
+      "mime_type": "video/mp4",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p07/videos",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p7-presentacione",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 7,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Presentacion · El Defensor del Pueblo",
+      "filename": "T02-P7-PRESENTACION-el-defensor-del-pueblo.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p07/presentaciones",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t02-p7-infografia",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 7,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.1.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "title": "Resumen · El Defensor del Pueblo",
+      "filename": "T02-P7-RESUMEN-el-defensor-del-pueblo.pdf",
+      "mime_type": "application/pdf",
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-02/p07/infografias",
+        "drive_file_id": "",
+        "url": ""
+      }
+    }
+  ]
+}
