@@ -45,10 +45,6 @@ cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo 
 concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-01-mapa-general.png` · mapa de las cuatro zonas del tema: Derecho, norma, persona y nacionalidad.
-:::
-
 *Referencia principal: `DPEJ-DERECHO`.*
 
 ## 02. Acepciones del Derecho

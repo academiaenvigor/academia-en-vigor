@@ -33,10 +33,6 @@ El Derecho es el sistema de normas, principios e instituciones que ordena la con
 la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-01-mapa-general.png` · recorrido completo del tema.
-:::
-
 *Referencia principal: `DPEJ-DERECHO`.*
 
 ## 02. Acepciones del Derecho

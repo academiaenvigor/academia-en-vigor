@@ -14,10 +14,6 @@ El Derecho es el sistema de normas, principios e instituciones que ordena la con
 :::perla-vigor
 la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
 :::
-
-:::visual
-**Referencia visual prevista:** `t01-01-mapa-general.png` · recorrido completo del tema.
-:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El Derecho no es una mera colección de prohibiciones. Es un **sistema**: sus normas se relacionan entre sí, se ordenan por rango, atribuyen competencias y quedan completadas por principios e instituciones. Gracias a ese sistema, una sociedad sabe quién puede crear normas, qué facultades corresponden a cada persona, cómo se resuelve un conflicto y qué consecuencias produce el incumplimiento.
@@ -36,10 +32,6 @@ cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo 
 
 :::lo-que-cae
 concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
-:::
-
-:::visual
-**Referencia visual prevista:** `t01-01-mapa-general.png` · mapa de las cuatro zonas del tema: Derecho, norma, persona y nacionalidad.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
