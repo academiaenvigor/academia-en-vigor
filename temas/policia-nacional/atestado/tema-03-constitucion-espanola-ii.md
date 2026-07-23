@@ -61,7 +61,7 @@ Piensa siempre en esta cadena: acto del Rey, autoridad que refrenda y persona qu
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 02. Sucesión a la Corona y consorte
 
@@ -103,7 +103,7 @@ Memoriza las preferencias como una escalera: línea, grado, sexo y edad. Solo de
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 03. Regencia, tutela y juramento
 
@@ -149,7 +149,7 @@ Resuelve los casos preguntándote primero si se necesita ejercer las funciones d
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 04. Funciones nacionales e internacionales del Rey
 
@@ -191,7 +191,7 @@ Clasifica las funciones en cuatro grupos: leyes, Gobierno, Fuerzas Armadas y rel
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
 
@@ -235,7 +235,7 @@ Fija primero las tres grandes funciones de las Cortes y, después, estudia en qu
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 06. Congreso, Senado e incompatibilidades
 
@@ -285,7 +285,7 @@ Haz dos columnas: Congreso y Senado. No mezcles la cifra constitucional de diput
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 07. Prerrogativas parlamentarias y autonomía de las Cámaras
 
@@ -325,7 +325,7 @@ Usa tres preguntas: qué protege la inviolabilidad, cuándo opera la inmunidad y
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 08. Funcionamiento de las Cámaras
 
@@ -393,7 +393,7 @@ Asocia cada número con una institución concreta. Evita memorizar 21, mayoría 
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 09. Leyes orgánicas y delegación legislativa
 
@@ -451,7 +451,7 @@ Repite la pareja básica: ley de bases–texto articulado; ley ordinaria de dele
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 10. Decreto-ley, iniciativa y procedimiento legislativo
 
@@ -515,7 +515,7 @@ Dibuja el recorrido de una ley y coloca aparte el decreto-ley. Son dos lógicas 
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 11. Tratados internacionales
 
@@ -561,7 +561,7 @@ Ordena los tratados de mayor a menor intensidad de control: ley orgánica, autor
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 12. Gobierno: funciones, composición, investidura y cese
 
@@ -621,7 +621,7 @@ Estudia la investidura como una línea temporal y marca tres datos: mayoría abs
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
-*Referencia principal: `CE-GOBIERNO`.*
+<!-- FUENTE: CE-GOBIERNO -->
 
 ## 13. Responsabilidad del Gobierno y Administración Pública
 
@@ -677,7 +677,7 @@ Lee los artículos 103 a 107 como una historia sobre cómo actúa, se controla y
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
-*Referencia principal: `CE-GOBIERNO`.*
+<!-- FUENTE: CE-GOBIERNO -->
 
 ## 14. Control parlamentario ordinario del Gobierno
 
@@ -721,7 +721,7 @@ Distingue control de información y control de confianza. Preguntas e interpelac
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
 
-*Referencia principal: `CE-RELACIONES`.*
+<!-- FUENTE: CE-RELACIONES -->
 
 ## 15. Confianza, censura y disolución
 
@@ -769,7 +769,7 @@ Compara en una tabla iniciativa, mayoría, candidato alternativo, plazo y efecto
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
 
-*Referencia principal: `CE-RELACIONES`.*
+<!-- FUENTE: CE-RELACIONES -->
 
 ## 16. Estados de alarma, excepción y sitio
 
@@ -849,7 +849,7 @@ Construye una tabla con declarante, Congreso, duración, causas y derechos. Esa 
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
-*Referencia principal: `LOAES`.*
+<!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
 
@@ -897,7 +897,7 @@ No memorices los principios como sinónimos. Define en una frase independencia, 
 
 > **Lo que cae:** Origen de la justicia; Estatuto judicial; Exclusividad jurisdiccional; Unidad jurisdiccional; Jurisdicción militar; Tribunales de excepción; Justicia gratuita; Publicidad judicial; Motivación y publicidad de sentencias.
 
-*Referencia principal: `CE-JUDICIAL`.*
+<!-- FUENTE: CE-JUDICIAL -->
 
 ## 18. Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial
 
@@ -957,7 +957,7 @@ Asigna un verbo a cada órgano: CGPJ gobierna, Tribunal Supremo juzga en la cús
 
 > **Lo que cae:** Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
 
-*Referencia principal: `LOPJ`.*
+<!-- FUENTE: LOPJ -->
 
 ## 19. Principios territoriales y Administración local
 
@@ -1013,7 +1013,7 @@ Mantén la frase guía: autonomía dentro de la Constitución, equilibrada por s
 
 > **Lo que cae:** Entidades territoriales; Autonomía territorial; Solidaridad territorial; Hecho insular; Prohibición de privilegios; Igualdad territorial de derechos; Libre circulación; Autonomía municipal; Gobierno municipal; Provincia; Límites provinciales; Haciendas locales.
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 20. Acceso a la autonomía y Estatutos
 
@@ -1057,7 +1057,7 @@ Separa tres momentos: iniciativa autonómica, elaboración del Estatuto y conten
 
 > **Lo que cae:** Titulares de iniciativa autonómica; Iniciativa autonómica común; Plazo de la iniciativa; Reiteración de iniciativa; Autonomía uniprovincial excepcional; Prohibición de federación; Acuerdos de cooperación; Norma institucional básica; Contenido mínimo del Estatuto; Reforma estatutaria.
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 21. Distribución de competencias: artículos 148 y 149
 
@@ -1115,7 +1115,7 @@ No intentes aprender las dos listas de una sola vez. Agrupa las materias por sec
 
 > **Lo que cae:** Sanidad e higiene; Vigilancia y policía local; Ampliación competencial; Nacionalidad y extranjería; Armas y explosivos; Seguridad pública; Referéndum; Cláusula de asunción; Cláusula residual estatal; Prevalencia del Derecho estatal; Supletoriedad.
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 22. Técnicas del artículo 150 y vía especial del artículo 151
 
@@ -1161,7 +1161,7 @@ Para el artículo 150 memoriza instrumento, finalidad y control. Después estudi
 
 > **Lo que cae:** Leyes marco; Transferencia o delegación; Leyes de armonización; Mayoría para armonización; Iniciativa autonómica especial; Referéndum de iniciativa; Mayoría del proyecto especial; Aprobación provincial; Asamblea legislativa autonómica; Presidente autonómico; Funciones del Presidente autonómico; Tribunal Superior de Justicia.
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 23. Instituciones, controles, coerción y financiación autonómica
 
@@ -1213,7 +1213,7 @@ Haz tres cajas: controles ordinarios, artículo 155 y financiación. Mezclarlas 
 
 > **Lo que cae:** Control del TC; Control del Gobierno; Control contencioso-administrativo; Control del Tribunal de Cuentas; Delegado del Gobierno; Presupuesto del artículo 155; Requerimiento previo; Mayoría del Senado; Instrucciones a autoridades autonómicas; Autonomía financiera; Principios financieros; Recursos autonómicos tributarios.
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 24. Tribunal Constitucional
 
@@ -1301,7 +1301,7 @@ Aprende primero el mapa del Tribunal y después los procesos. Composición y com
 
 > **Lo que cae:** Composición del Tribunal Constitucional; Propuesta del Congreso; Propuesta del Senado; Propuesta de Gobierno y CGPJ; Experiencia profesional; Mandato del Tribunal Constitucional; Incompatibilidades del TC; Presidente del TC; Recurso de inconstitucionalidad; Recurso de amparo; Conflictos de competencia; Impugnación de disposiciones autonómicas.
 
-*Referencia principal: `LOTC`.*
+<!-- FUENTE: LOTC -->
 
 ## 25. Reforma constitucional
 
@@ -1355,7 +1355,7 @@ Compara 167 y 168 por mayoría, disolución y referéndum. Son los tres elemento
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
-*Referencia principal: `CE-REFORMA`.*
+<!-- FUENTE: CE-REFORMA -->
 
 # Hablemos claro
 

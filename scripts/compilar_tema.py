@@ -94,7 +94,59 @@ def load(opposition: str, topic: int):
     return manifest, blocks, layers
 
 
-def render(kind: str, manifest: dict, blocks: list[dict], layers: dict) -> str:
+
+
+def alt_desde_nombre(archivo: str) -> str:
+    """Genera un texto alternativo legible a partir del nombre del archivo."""
+    base = archivo.rsplit('.', 1)[0]
+    partes = [p for p in base.split('-') if not re.fullmatch(r't\d+|il|ilu|\d+', p)]
+    return ' '.join(partes).replace('_', ' ').capitalize() or 'Esquema del tema'
+
+
+VISUAL_BLOCK_RE = re.compile(r':::visual\n(.*?)\n:::', re.S)
+VISUAL_REF_RE = re.compile(
+    r'\*\*(?P<tipo>Referencia visual prevista|Ilustración simple|Mapa general previsto):\*\*\s*'
+    r'`(?P<archivo>[\w\-]+\.(?:png|svg|jpg))`(?P<resto>[^\n]*)'
+)
+
+
+def render_visuals(text: str, opposition: str, topic: int) -> str:
+    """Convierte los bloques :::visual en imágenes reales si el archivo existe.
+
+    Si el archivo aún no se ha generado, deja un comentario invisible en lugar
+    de un aviso editorial: el alumno nunca ve marcadores de producción.
+    """
+    assets_dir = ROOT / 'assets' / opposition / f'tema-{topic:02d}'
+    rel_base = f'../../../assets/{opposition}/tema-{topic:02d}'
+
+    def render_block(match: re.Match) -> str:
+        piezas = []
+        for ref in VISUAL_REF_RE.finditer(match.group(1)):
+            archivo = ref.group('archivo')
+            tipo = ref.group('tipo')
+            pie = ref.group('resto').strip(' .·')
+            if not (assets_dir / archivo).exists():
+                piezas.append(f'<!-- VISUAL PENDIENTE: {archivo} -->')
+                continue
+            ancho = 600 if tipo == 'Ilustración simple' else 820
+            alt = pie or alt_desde_nombre(archivo)
+            bloque = (
+                f'<!-- VISUAL:{archivo} -->\n'
+                f'<p align="center">\n'
+                f'  <img src="{rel_base}/{archivo}" alt="{alt}" width="{ancho}">\n'
+                f'</p>'
+            )
+            if pie:
+                etiqueta = 'Ilustración' if tipo == 'Ilustración simple' else 'Infografía'
+                bloque += f'\n<p align="center"><em>{etiqueta}: {pie}.</em></p>'
+            piezas.append(bloque)
+        return '\n\n'.join(piezas)
+
+    return VISUAL_BLOCK_RE.sub(render_block, text)
+
+
+def render(kind: str, manifest: dict, blocks: list[dict], layers: dict,
+           opposition: str = 'policia-nacional', topic: int | None = None) -> str:
     number = int(manifest.get('topic_number') or str(manifest['topic']).split('-')[-1])
     title = manifest['title']
     opposition_display = manifest.get('opposition_display_name', 'Policía Nacional')
@@ -104,13 +156,15 @@ def render(kind: str, manifest: dict, blocks: list[dict], layers: dict) -> str:
         f'**Versión de contenido:** {manifest["content_version"]}\n'
         f'**Estado editorial:** {manifest["editorial_status"]} · **Publicación:** {manifest["publication_status"]}\n'
     ]
-    output.append(f'# {layers["MAPA"][0]}\n\n{layers["MAPA"][1]}\n')
+    output.append(f'# {layers["MAPA"][0]}\n\n'
+                  f'{render_visuals(layers["MAPA"][1], opposition, topic or number)}\n')
     output.append('# Contenido\n')
     for block in blocks:
         body = normalize_fact_markers(block[kind])
+        body = render_visuals(body, opposition, topic or number)
         output.append(
             f'## {block["number"]}. {block["title"]}\n\n{body}\n\n'
-            f'*Referencia principal: `{block["source"]}`.*\n'
+            f'<!-- FUENTE: {block["source"]} -->\n'
         )
     for key in LAYERS[2:]:
         layer_title, body = layers[key]
@@ -139,7 +193,7 @@ def process(opposition: str, topic: int, write: bool, check: bool) -> list[str]:
     outdated = []
     for kind, relative in manifest['outputs'].items():
         target = ROOT / relative
-        expected = render(kind, manifest, blocks, layers)
+        expected = render(kind, manifest, blocks, layers, opposition, topic)
         if write:
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_text(expected, encoding='utf-8')

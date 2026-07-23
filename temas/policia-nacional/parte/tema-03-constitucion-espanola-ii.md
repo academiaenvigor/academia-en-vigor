@@ -38,7 +38,7 @@
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 02. Sucesión a la Corona y consorte
 
@@ -58,7 +58,7 @@
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 03. Regencia, tutela y juramento
 
@@ -78,7 +78,7 @@
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 04. Funciones nacionales e internacionales del Rey
 
@@ -99,7 +99,7 @@
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
 
-*Referencia principal: `CE-CORONA`.*
+<!-- FUENTE: CE-CORONA -->
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
 
@@ -121,7 +121,7 @@
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 06. Congreso, Senado e incompatibilidades
 
@@ -146,7 +146,7 @@
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 07. Prerrogativas parlamentarias y autonomía de las Cámaras
 
@@ -164,7 +164,7 @@
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 08. Funcionamiento de las Cámaras
 
@@ -192,7 +192,7 @@
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 09. Leyes orgánicas y delegación legislativa
 
@@ -212,7 +212,7 @@
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 10. Decreto-ley, iniciativa y procedimiento legislativo
 
@@ -242,7 +242,7 @@
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 11. Tratados internacionales
 
@@ -261,7 +261,7 @@
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
 
-*Referencia principal: `CE-CORTES`.*
+<!-- FUENTE: CE-CORTES -->
 
 ## 12. Gobierno: funciones, composición, investidura y cese
 
@@ -290,7 +290,7 @@
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
-*Referencia principal: `CE-GOBIERNO`.*
+<!-- FUENTE: CE-GOBIERNO -->
 
 ## 13. Responsabilidad del Gobierno y Administración Pública
 
@@ -316,7 +316,7 @@
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
-*Referencia principal: `CE-GOBIERNO`.*
+<!-- FUENTE: CE-GOBIERNO -->
 
 ## 14. Control parlamentario ordinario del Gobierno
 
@@ -332,7 +332,7 @@
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
 
-*Referencia principal: `CE-RELACIONES`.*
+<!-- FUENTE: CE-RELACIONES -->
 
 ## 15. Confianza, censura y disolución
 
@@ -357,7 +357,7 @@
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
 
-*Referencia principal: `CE-RELACIONES`.*
+<!-- FUENTE: CE-RELACIONES -->
 
 ## 16. Estados de alarma, excepción y sitio
 
@@ -385,7 +385,7 @@
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
-*Referencia principal: `LOAES`.*
+<!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
 
@@ -407,7 +407,7 @@
 - Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento. **(120.1)**
 - Las sentencias deben ser motivadas y pronunciarse en audiencia pública. **(120.3)**
 
-*Referencia principal: `CE-JUDICIAL`.*
+<!-- FUENTE: CE-JUDICIAL -->
 
 ## 18. Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial
 
@@ -427,7 +427,7 @@
 - La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales. **(126)**
 - Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos. **(127.1)**
 
-*Referencia principal: `LOPJ`.*
+<!-- FUENTE: LOPJ -->
 
 ## 19. Principios territoriales y Administración local
 
@@ -453,7 +453,7 @@
 - En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos. **(141.4)**
 - Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos. **(142)**
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 20. Acceso a la autonomía y Estatutos
 
@@ -470,7 +470,7 @@
 - El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso. **(147.2)**
 - La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica. **(147.3)**
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 21. Distribución de competencias: artículos 148 y 149
 
@@ -491,7 +491,7 @@
 - En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica. **(149.3)**
 - El Derecho estatal es supletorio del Derecho autonómico. **(149.3)**
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 22. Técnicas del artículo 150 y vía especial del artículo 151
 
@@ -510,7 +510,7 @@
 - El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella. **(152.1)**
 - Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo. **(152.1)**
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 23. Instituciones, controles, coerción y financiación autonómica
 
@@ -530,7 +530,7 @@
 - Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales. **(158.1)**
 - El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión. **(158.2)**
 
-*Referencia principal: `CE-TERRITORIAL`.*
+<!-- FUENTE: CE-TERRITORIAL -->
 
 ## 24. Tribunal Constitucional
 
@@ -566,7 +566,7 @@
 - El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda. **(LOTC art. 7)**
 - Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados. **(LOTC art. 8)**
 
-*Referencia principal: `LOTC`.*
+<!-- FUENTE: LOTC -->
 
 ## 25. Reforma constitucional
 
@@ -589,7 +589,7 @@
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
-*Referencia principal: `CE-REFORMA`.*
+<!-- FUENTE: CE-REFORMA -->
 
 # Hablemos claro
 

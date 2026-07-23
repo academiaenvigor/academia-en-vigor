@@ -174,9 +174,6 @@ La consecuencia puede consistir en el nacimiento, modificación o extinción de 
 supuesto de hecho, consecuencia jurídica y diferencia entre consecuencia y sanción.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-03-anatomia-norma.png` · esquema SI → ENTONCES con ejemplos civiles.
-:::
 <!-- ATESTADO END -->
 <!-- BLOCK 05 END -->
 
@@ -438,7 +435,7 @@ apoyo no equivale automáticamente a sustitución de la voluntad.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-09-capacidad-apoyos.png`.
+**Referencia visual prevista:** `t01-09-capacidad-juridica-obrar.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -461,7 +458,7 @@ diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-09-capacidad-apoyos.png` · «tener derechos / ejercerlos» y catálogo básico de apoyos.
+**Referencia visual prevista:** `t01-09-capacidad-juridica-obrar.png` · «tener derechos / ejercerlos» y catálogo básico de apoyos.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 13 END -->
@@ -477,7 +474,7 @@ el emancipado necesita consentimiento para tomar dinero a préstamo y para enaje
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+**Referencia visual prevista:** `t01-10-mayoria-edad-emancipacion.png`.
 
 **Ilustración simple:** `t01-il-02-14-16-18-anos.png` · autonomía progresiva a los 14, 16 y 18 años.
 :::
@@ -498,7 +495,7 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-10-mayoria-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+**Referencia visual prevista:** `t01-10-mayoria-edad-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
 
 **Ilustración simple:** `t01-il-02-14-16-18-anos.png` · la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.
 :::
@@ -530,9 +527,6 @@ La clasificación del Código Civil es general. Para conocer el momento exacto d
 artículo 35; personalidad independiente; válida constitución; remisión del artículo 36.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · árbol de clases de persona jurídica.
-:::
 <!-- ATESTADO END -->
 <!-- BLOCK 15 END -->
 
@@ -613,7 +607,7 @@ si filiación o nacimiento en España se determina después de los dieciocho añ
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-12-espanoles-origen.png`.
+**Referencia visual prevista:** `t01-12-espanoles-de-origen.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -637,7 +631,7 @@ cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-12-espanoles-origen.png` · árbol de decisión del artículo 17.
+**Referencia visual prevista:** `t01-12-espanoles-de-origen.png` · árbol de decisión del artículo 17.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
@@ -668,7 +662,7 @@ requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-13-adopcion-posesion.png` · dos circuitos completamente separados.
+**Referencia visual prevista:** `t01-13-adopcion-posesion.png` (PENDIENTE DE GENERAR) · dos circuitos completamente separados.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 19 END -->
@@ -684,7 +678,7 @@ la opción del hijo de padre o madre originariamente español y nacido en Españ
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-14-opcion-nacionalidad.png`.
+**Referencia visual prevista:** `t01-13-nacionalidad-por-opcion.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -703,7 +697,7 @@ grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de ed
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-14-opcion-nacionalidad.png` · sujeto, representante, asistencia y plazos.
+**Referencia visual prevista:** `t01-13-nacionalidad-por-opcion.png` · sujeto, representante, asistencia y plazos.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
@@ -734,6 +728,10 @@ carta = decisión excepcional del Gobierno por Real Decreto; residencia = expedi
 :::lo-que-cae
 órgano, instrumento, discrecionalidad, motivación y caducidad de 180 días.
 :::
+:::visual
+**Referencia visual prevista:** `t01-15-carta-de-naturaleza.png` · requisitos y carácter discrecional de la concesión.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 21 END -->
 
@@ -748,7 +746,7 @@ recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-15-plazos-residencia.png`.
+**Referencia visual prevista:** `t01-14-nacionalidad-por-residencia.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -774,7 +772,7 @@ lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inm
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-15-plazos-residencia.png` · infografía estrella con cuatro columnas y condiciones.
+**Referencia visual prevista:** `t01-14-nacionalidad-por-residencia.png` · infografía estrella con cuatro columnas y condiciones.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
@@ -817,7 +815,7 @@ adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-16-perdida-conservacion.png`.
+**Referencia visual prevista:** `t01-16-perdida-de-la-nacionalidad.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -840,7 +838,9 @@ tres años; conservación; países exceptuados; renuncia; guerra; causas del no 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-16-perdida-conservacion.png` · árbol de decisión origen/no origen.
+**Referencia visual prevista:** `t01-16-perdida-de-la-nacionalidad.png` · árbol de decisión origen/no origen.
+
+**Referencia visual prevista:** `t01-18-doble-nacionalidad.png` · países con convenio y efecto sobre la conservación.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 24 END -->
@@ -875,7 +875,7 @@ residencia, declaración e inscripción; excepciones; habilitación del Gobierno
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.png` · tres requisitos y dos excepciones.
+**Referencia visual prevista:** `t01-17-recuperacion-de-la-nacionalidad.png` · tres requisitos y dos excepciones.
 
 **Ilustración simple:** `t01-il-06-conservar-recuperar.png` · vínculo conservado frente a vínculo recuperado tras la pérdida.
 :::
@@ -893,7 +893,7 @@ domicilio civil, empadronamiento y domicilio constitucional no son conceptos id�
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-18-domicilio-conceptos.png`.
+**Referencia visual prevista:** `t01-20-domicilio.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -916,7 +916,7 @@ residencia habitual; diplomáticos; orden de criterios de personas jurídicas; d
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-18-domicilio-conceptos.png` · seis conceptos próximos y su función.
+**Referencia visual prevista:** `t01-20-domicilio.png` · seis conceptos próximos y su función.
 
 **Ilustración simple:** `t01-il-04-domicilios.png` · residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.
 :::
@@ -934,7 +934,7 @@ vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad admini
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-19-vecindad-atribucion.png`.
+**Referencia visual prevista:** `t01-19-vecindad-civil.png`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -953,7 +953,7 @@ función; regla de padres iguales; orden cuando difieren; seis meses; adopción;
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-19-vecindad-atribucion.png` · árbol de decisión de atribución inicial.
+**Referencia visual prevista:** `t01-19-vecindad-civil.png` · árbol de decisión de atribución inicial.
 
 **Ilustración simple:** `t01-il-05-familia-vecindad-civil.png` · familia, territorio y opción como conexiones de vecindad civil.
 :::
@@ -971,7 +971,7 @@ Desde los catorce años y hasta un año después de la emancipación puede optar
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png`.
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` (PENDIENTE DE GENERAR).
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -992,7 +992,7 @@ en dos años hay que pedir el cambio; en diez años se produce si no dejaste con
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` · cronología comparada y matrimonio.
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` (PENDIENTE DE GENERAR) · cronología comparada y matrimonio.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 28 END -->
@@ -1023,7 +1023,7 @@ cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-21-vecindad-nacionalizacion.png` · cuatro caminos de opción y recuperación.
+**Referencia visual prevista:** `t01-21-nacionalidad-y-vecindad.png` · cuatro caminos de opción y recuperación.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 29 END -->

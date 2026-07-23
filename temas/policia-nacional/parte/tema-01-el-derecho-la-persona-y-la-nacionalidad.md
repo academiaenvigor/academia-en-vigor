@@ -19,9 +19,10 @@
 
 La parte más densa es nacionalidad: conviene estudiarla como una secuencia de **sujeto → vía → plazo → autoridad → declaración → inscripción → efecto**. En vecindad civil, separa atribución inicial, opción y residencia.
 
-:::visual
-**Mapa general previsto:** `t01-01-mapa-general.png`.
-:::
+<!-- VISUAL:t01-01-mapa-general.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-01-mapa-general.png" alt="Mapa general" width="820">
+</p>
 
 # Contenido
 
@@ -33,7 +34,7 @@ El Derecho es el sistema de normas, principios e instituciones que ordena la con
 la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
 :::
 
-*Referencia principal: `DPEJ-DERECHO`.*
+<!-- FUENTE: DPEJ-DERECHO -->
 
 ## 02. Acepciones del Derecho
 
@@ -47,11 +48,12 @@ la coacción distingue al Derecho de otras reglas sociales, pero no significa qu
 el derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-02-acepciones-derecho.png`.
-:::
+<!-- VISUAL:t01-02-acepciones-derecho.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-02-acepciones-derecho.png" alt="Acepciones derecho" width="820">
+</p>
 
-*Referencia principal: `DPEJ-DERECHO`.*
+<!-- FUENTE: DPEJ-DERECHO -->
 
 ## 03. Derecho público, privado, común y especial
 
@@ -61,7 +63,7 @@ El Derecho público regula la organización de los poderes públicos y las relac
 que intervenga una Administración no convierte por sí solo toda relación en Derecho público.
 :::
 
-*Referencia principal: `DPEJ-DERECHO`.*
+<!-- FUENTE: DPEJ-DERECHO -->
 
 ## 04. La norma jurídica positiva
 
@@ -71,11 +73,12 @@ La norma jurídica positiva es una regla de conducta u organización integrada e
 norma jurídica no equivale necesariamente a artículo ni a sanción.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-03-anatomia-norma.png`.
-:::
+<!-- VISUAL:t01-03-anatomia-norma.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-03-anatomia-norma.png" alt="Anatomia norma" width="820">
+</p>
 
-*Referencia principal: `DPEJ-NORMA`.*
+<!-- FUENTE: DPEJ-NORMA -->
 
 ## 05. Estructura de la norma jurídica
 
@@ -85,7 +88,7 @@ La estructura lógica clásica distingue **supuesto de hecho** y **consecuencia 
 consecuencia jurídica no significa necesariamente castigo.
 :::
 
-*Referencia principal: `DPEJ-NORMA`.*
+<!-- FUENTE: DPEJ-NORMA -->
 
 ## 06. Clases de normas jurídicas
 
@@ -95,11 +98,12 @@ Las normas pueden ser imperativas, prohibitivas, permisivas o dispositivas; gene
 una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particulares no han establecido válidamente otra regulación.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-04-clases-normas.png`.
-:::
+<!-- VISUAL:t01-04-clases-normas.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-04-clases-normas.png" alt="Clases normas" width="820">
+</p>
 
-*Referencia principal: `DPEJ-NORMA`.*
+<!-- FUENTE: DPEJ-NORMA -->
 
 ## 07. Caracteres de las normas jurídicas
 
@@ -109,7 +113,7 @@ Entre los caracteres doctrinales destacan generalidad, abstracción, obligatorie
 generalidad no significa que la norma se aplique a todas las personas, sino a una categoría definida de destinatarios o supuestos.
 :::
 
-*Referencia principal: `DPEJ-NORMA`.*
+<!-- FUENTE: DPEJ-NORMA -->
 
 ## 08. Fuentes y principio de jerarquía normativa
 
@@ -119,11 +123,12 @@ El artículo 1 CC enumera ley, costumbre y principios generales del Derecho. La 
 la costumbre rige en defecto de ley aplicable; los principios generales, en defecto de ley o costumbre, y además informan el ordenamiento.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-05-fuentes-jerarquia.png`.
-:::
+<!-- VISUAL:t01-05-fuentes-jerarquia.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-05-fuentes-jerarquia.png" alt="Fuentes jerarquia" width="820">
+</p>
 
-*Referencia principal: `CC-PRELIMINAR`.*
+<!-- FUENTE: CC-PRELIMINAR -->
 
 ## 09. Publicación, vigencia y eficacia de las normas
 
@@ -133,11 +138,12 @@ Salvo disposición distinta, las leyes entran en vigor a los **veinte días** de
 derogar una ley no hace revivir automáticamente las que esta había derogado.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-06-vigencia-eficacia.png`.
-:::
+<!-- VISUAL:t01-06-vigencia-eficacia.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-06-vigencia-eficacia.png" alt="Vigencia eficacia" width="820">
+</p>
 
-*Referencia principal: `CC-PRELIMINAR`.*
+<!-- FUENTE: CC-PRELIMINAR -->
 
 ## 10. La persona en sentido jurídico
 
@@ -147,11 +153,12 @@ Persona es el sujeto capaz de ser titular de derechos y obligaciones. Se disting
 ser persona jurídica no significa ser una persona humana; significa ser un sujeto reconocido por el Derecho.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png`.
-:::
+<!-- VISUAL:t01-07-persona-fisica-juridica.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-07-persona-fisica-juridica.png" alt="Persona fisica juridica" width="820">
+</p>
 
-*Referencia principal: `DPEJ-PERSONA`.*
+<!-- FUENTE: DPEJ-PERSONA -->
 
 ## 11. Nacimiento y protección del concebido
 
@@ -161,11 +168,12 @@ El nacimiento determina la personalidad. Esta se adquiere al nacer **con vida**,
 el concebido no tiene personalidad plena, pero el ordenamiento anticipa la protección de efectos favorables condicionados al nacimiento.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-08-nacimiento-personalidad.png`.
-:::
+<!-- VISUAL:t01-08-nacimiento-personalidad.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-08-nacimiento-personalidad.png" alt="Nacimiento personalidad" width="820">
+</p>
 
-*Referencia principal: `CC-PERSONA`.*
+<!-- FUENTE: CC-PERSONA -->
 
 ## 12. Extinción de la personalidad y conmoriencia
 
@@ -175,7 +183,7 @@ La personalidad civil se extingue por la muerte. Si dos o más personas llamadas
 la conmoriencia es una regla probatoria para el caso de duda, no una afirmación de que realmente murieron en el mismo instante.
 :::
 
-*Referencia principal: `CC-PERSONA`.*
+<!-- FUENTE: CC-PERSONA -->
 
 ## 13. Capacidad jurídica y capacidad de obrar
 
@@ -185,11 +193,12 @@ La capacidad jurídica es la aptitud para ser titular de derechos y obligaciones
 apoyo no equivale automáticamente a sustitución de la voluntad.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-09-capacidad-apoyos.png`.
-:::
+<!-- VISUAL:t01-09-capacidad-juridica-obrar.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-09-capacidad-juridica-obrar.png" alt="Capacidad juridica obrar" width="820">
+</p>
 
-*Referencia principal: `DPEJ-CAPACIDAD`.*
+<!-- FUENTE: DPEJ-CAPACIDAD -->
 
 ## 14. Mayoría de edad y emancipación
 
@@ -199,13 +208,18 @@ La mayoría de edad comienza a los **dieciocho años**. El mayor puede realizar 
 el emancipado necesita consentimiento para tomar dinero a préstamo y para enajenar o gravar determinados bienes de especial importancia.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-10-mayoria-emancipacion.png`.
+<!-- VISUAL:t01-10-mayoria-edad-emancipacion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-10-mayoria-edad-emancipacion.png" alt="Mayoria edad emancipacion" width="820">
+</p>
 
-**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · autonomía progresiva a los 14, 16 y 18 años.
-:::
+<!-- VISUAL:t01-il-02-14-16-18-anos.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-02-14-16-18-anos.png" alt="autonomía progresiva a los 14, 16 y 18 años" width="600">
+</p>
+<p align="center"><em>Ilustración: autonomía progresiva a los 14, 16 y 18 años.</em></p>
 
-*Referencia principal: `CC-CAPACIDAD`.*
+<!-- FUENTE: CC-CAPACIDAD -->
 
 ## 15. Personas jurídicas: clases y constitución
 
@@ -215,7 +229,7 @@ El Código Civil reconoce como personas jurídicas las corporaciones, asociacion
 el reconocimiento de personalidad no depende siempre de una inscripción idéntica para todas las entidades; cada tipo se rige por su normativa.
 :::
 
-*Referencia principal: `CC-PERSONA`.*
+<!-- FUENTE: CC-PERSONA -->
 
 ## 16. Capacidad y extinción de las personas jurídicas
 
@@ -225,7 +239,7 @@ La capacidad de corporaciones, asociaciones y fundaciones se determina por sus l
 si no se ha previsto destino para los bienes tras la extinción, el Código Civil establece una regla orientada a fines análogos de interés territorial.
 :::
 
-*Referencia principal: `CC-PERSONA`.*
+<!-- FUENTE: CC-PERSONA -->
 
 ## 17. Nacionalidad española: marco constitucional
 
@@ -235,13 +249,18 @@ La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artí
 «no puede ser privado» no significa que un español de origen jamás pueda perderla en los casos legalmente previstos.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+<!-- VISUAL:t01-11-vias-nacionalidad.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-11-vias-nacionalidad.png" alt="Vias nacionalidad" width="820">
+</p>
 
-**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · distintas vías pueden conducir a la nacionalidad española.
-:::
+<!-- VISUAL:t01-il-03-caminos-nacionalidad.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-03-caminos-nacionalidad.png" alt="distintas vías pueden conducir a la nacionalidad española" width="600">
+</p>
+<p align="center"><em>Ilustración: distintas vías pueden conducir a la nacionalidad española.</em></p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 18. Españoles de origen
 
@@ -251,11 +270,12 @@ Son españoles de origen los nacidos de padre o madre españoles y determinados 
 si filiación o nacimiento en España se determina después de los dieciocho años, no hay adquisición automática; cabe optar durante dos años.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-12-espanoles-origen.png`.
-:::
+<!-- VISUAL:t01-12-espanoles-de-origen.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-12-espanoles-de-origen.png" alt="Espanoles de origen" width="820">
+</p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 19. Consolidación por posesión de estado y adopción
 
@@ -265,7 +285,7 @@ La posesión y utilización continuadas de la nacionalidad durante **diez años*
 consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
 :::
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 20. Derecho de opción
 
@@ -275,11 +295,12 @@ Pueden optar quienes estén o hayan estado sujetos a patria potestad de español
 la opción del hijo de padre o madre originariamente español y nacido en España no está sujeta a límite de edad.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-14-opcion-nacionalidad.png`.
-:::
+<!-- VISUAL:t01-13-nacionalidad-por-opcion.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-13-nacionalidad-por-opcion.png" alt="Nacionalidad por opcion" width="820">
+</p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 21. Carta de naturaleza y nacionalidad por residencia
 
@@ -289,7 +310,7 @@ La carta de naturaleza se otorga discrecionalmente mediante **Real Decreto** cua
 ambas concesiones caducan a los **180 días** de la notificación si no se comparece para cumplir los requisitos del artículo 23.
 :::
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 22. Plazos de residencia para la nacionalidad
 
@@ -299,11 +320,12 @@ La residencia debe ser legal, continuada e inmediatamente anterior a la petició
 recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente en una de las letras legales.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-15-plazos-residencia.png`.
-:::
+<!-- VISUAL:t01-14-nacionalidad-por-residencia.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-14-nacionalidad-por-residencia.png" alt="Nacionalidad por residencia" width="820">
+</p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 23. Requisitos comunes de adquisición
 
@@ -313,7 +335,7 @@ Para la validez de la adquisición por opción, carta de naturaleza o residencia
 la renuncia tiene excepciones; la inscripción no.
 :::
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 24. Conservación y pérdida de la nacionalidad
 
@@ -323,11 +345,12 @@ Los españoles emancipados que residan habitualmente en el extranjero pueden per
 adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea Ecuatorial o Portugal no basta por sí solo para que un español de origen pierda la española.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-16-perdida-conservacion.png`.
-:::
+<!-- VISUAL:t01-16-perdida-de-la-nacionalidad.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-16-perdida-de-la-nacionalidad.png" alt="Perdida de la nacionalidad" width="820">
+</p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 25. Recuperación de la nacionalidad
 
@@ -337,11 +360,13 @@ Para recuperar la nacionalidad se exige, como regla, residencia legal en España
 recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 :::
 
-:::visual
-**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · conservar actúa antes de la pérdida; recuperar, después.
-:::
+<!-- VISUAL:t01-il-06-conservar-recuperar.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-06-conservar-recuperar.png" alt="conservar actúa antes de la pérdida; recuperar, después" width="600">
+</p>
+<p align="center"><em>Ilustración: conservar actúa antes de la pérdida; recuperar, después.</em></p>
 
-*Referencia principal: `CC-NACIONALIDAD`.*
+<!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 26. El domicilio
 
@@ -351,11 +376,12 @@ El domicilio civil de la persona natural es el lugar de su **residencia habitual
 domicilio civil, empadronamiento y domicilio constitucional no son conceptos idénticos.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-18-domicilio-conceptos.png`.
-:::
+<!-- VISUAL:t01-20-domicilio.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-20-domicilio.png" alt="Domicilio" width="820">
+</p>
 
-*Referencia principal: `CC-DOMICILIO`.*
+<!-- FUENTE: CC-DOMICILIO -->
 
 ## 27. Vecindad civil: concepto y atribución inicial
 
@@ -365,11 +391,12 @@ La vecindad civil determina la sujeción al Derecho civil común o especial o fo
 vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad administrativa.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-19-vecindad-atribucion.png`.
-:::
+<!-- VISUAL:t01-19-vecindad-civil.png -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-19-vecindad-civil.png" alt="Vecindad civil" width="820">
+</p>
 
-*Referencia principal: `CC-VECINDAD`.*
+<!-- FUENTE: CC-VECINDAD -->
 
 ## 28. Opción y adquisición de vecindad por residencia
 
@@ -379,11 +406,9 @@ Desde los catorce años y hasta un año después de la emancipación puede optar
 «2 si lo declaras; 10 si no declaras lo contrario». El matrimonio no altera automáticamente la vecindad.
 :::
 
-:::visual
-**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png`.
-:::
+<!-- VISUAL PENDIENTE: t01-20-vecindad-dos-diez.png -->
 
-*Referencia principal: `CC-VECINDAD`.*
+<!-- FUENTE: CC-VECINDAD -->
 
 ## 29. Vecindad en nacionalización y recuperación
 
@@ -393,7 +418,7 @@ Al adquirir la nacionalidad española debe optarse, según las conexiones legale
 el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
 :::
 
-*Referencia principal: `CC-VECINDAD`.*
+<!-- FUENTE: CC-VECINDAD -->
 
 # Hablemos claro
 
