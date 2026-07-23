@@ -106,7 +106,8 @@ def alt_desde_nombre(archivo: str) -> str:
 VISUAL_BLOCK_RE = re.compile(r':::visual\n(.*?)\n:::', re.S)
 VISUAL_REF_RE = re.compile(
     r'\*\*(?P<tipo>Referencia visual prevista|Ilustración simple|Mapa general previsto):\*\*\s*'
-    r'`(?P<archivo>[\w\-]+\.(?:png|svg|jpg))`(?P<resto>[^\n]*)'
+    r'`(?P<archivo>[\w\-]+\.(?:webp|png|svg|jpe?g))`(?P<resto>[^\n]*)',
+    re.I,
 )
 
 

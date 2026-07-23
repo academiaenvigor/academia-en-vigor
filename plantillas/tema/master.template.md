@@ -16,7 +16,7 @@ Dato clave pendiente.
 :::
 
 :::visual
-`t{{NN}}-01-recurso-pendiente.png` · Recurso visual pendiente de producir.
+`t{{NN}}-01-recurso-pendiente.webp` · Recurso visual pendiente de producir.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -45,7 +45,7 @@ Pendiente.
 :::
 
 :::visual
-`t{{NN}}-01-recurso-pendiente.png` · Recurso visual pendiente de producir.
+`t{{NN}}-01-recurso-pendiente.webp` · Recurso visual pendiente de producir.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->

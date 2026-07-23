@@ -74,7 +74,7 @@ Perla pendiente.
 :::
 
 :::visual
-**Referencia visual prevista:** `t{nn}-01-pendiente.png` · descripción pendiente.
+**Referencia visual prevista:** `t{nn}-01-pendiente.webp` · descripción pendiente.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -93,7 +93,7 @@ Prioridad de examen pendiente.
 :::
 
 :::visual
-**Referencia visual prevista:** `t{nn}-01-pendiente.png` · descripción pendiente.
+**Referencia visual prevista:** `t{nn}-01-pendiente.webp` · descripción pendiente.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
@@ -102,7 +102,7 @@ Prioridad de examen pendiente.
 # Mapa del tema
 
 :::visual
-**Mapa general previsto:** `t{nn}-01-mapa-general.png` · recorrido completo del tema.
+**Mapa general previsto:** `t{nn}-01-mapa-general.webp` · recorrido completo del tema.
 :::
 
 <!-- LAYER:CONTENIDO -->

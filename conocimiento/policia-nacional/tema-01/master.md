@@ -51,7 +51,7 @@ el derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-02-acepciones-derecho.png`.
+**Referencia visual prevista:** `t01-02-acepciones-derecho.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -78,7 +78,7 @@ los distractores suelen intercambiar objetivo/subjetivo y positivo/natural.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-02-acepciones-derecho.png` · cinco tarjetas con ejemplo de cada acepción.
+**Referencia visual prevista:** `t01-02-acepciones-derecho.webp` · cinco tarjetas con ejemplo de cada acepción.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 02 END -->
@@ -125,7 +125,7 @@ norma jurídica no equivale necesariamente a artículo ni a sanción.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-03-anatomia-norma.png`.
+**Referencia visual prevista:** `t01-03-anatomia-norma.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -144,7 +144,7 @@ concepto; positividad; obligatoriedad; posibilidad de normas organizativas y per
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-03-anatomia-norma.png` · artículo, norma, supuesto y efecto.
+**Referencia visual prevista:** `t01-03-anatomia-norma.webp` · artículo, norma, supuesto y efecto.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 04 END -->
@@ -188,7 +188,7 @@ una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particul
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-04-clases-normas.png`.
+**Referencia visual prevista:** `t01-04-clases-normas.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -215,7 +215,7 @@ imperativa frente a dispositiva; especialidad no equivale a superioridad jerárq
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-04-clases-normas.png` · matriz de clasificaciones sin mezclarlas.
+**Referencia visual prevista:** `t01-04-clases-normas.webp` · matriz de clasificaciones sin mezclarlas.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 06 END -->
@@ -258,7 +258,7 @@ la costumbre rige en defecto de ley aplicable; los principios generales, en defe
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-05-fuentes-jerarquia.png`.
+**Referencia visual prevista:** `t01-05-fuentes-jerarquia.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -283,9 +283,9 @@ orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia co
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-05-fuentes-jerarquia.png` · doble esquema: fuentes civiles y jerarquía normativa.
+**Referencia visual prevista:** `t01-05-fuentes-jerarquia.webp` · doble esquema: fuentes civiles y jerarquía normativa.
 
-**Ilustración simple:** `t01-il-01-jerarquia-normativa.png` · una norma inferior no puede contradecir a la superior.
+**Ilustración simple:** `t01-il-01-jerarquia-normativa.webp` · una norma inferior no puede contradecir a la superior.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 08 END -->
@@ -301,7 +301,7 @@ derogar una ley no hace revivir automáticamente las que esta había derogado.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-06-vigencia-eficacia.png`.
+**Referencia visual prevista:** `t01-06-vigencia-eficacia.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -322,7 +322,7 @@ no basta «vestir» una conducta con una norma aparentemente permitida si el obj
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-06-vigencia-eficacia.png` · línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.
+**Referencia visual prevista:** `t01-06-vigencia-eficacia.webp` · línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 09 END -->
@@ -338,7 +338,7 @@ ser persona jurídica no significa ser una persona humana; significa ser un suje
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png`.
+**Referencia visual prevista:** `t01-07-persona-fisica-juridica.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -357,7 +357,7 @@ concepto de persona; clases; personalidad separada de la persona jurídica.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-07-persona-fisica-juridica.png` · comparación de nacimiento, organización, patrimonio y extinción.
+**Referencia visual prevista:** `t01-07-persona-fisica-juridica.webp` · comparación de nacimiento, organización, patrimonio y extinción.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 10 END -->
@@ -373,7 +373,7 @@ el concebido no tiene personalidad plena, pero el ordenamiento anticipa la prote
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-08-nacimiento-personalidad.png`.
+**Referencia visual prevista:** `t01-08-nacimiento-personalidad.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -392,7 +392,7 @@ artículos 29 y 30; nacimiento con vida; entero desprendimiento; efectos favorab
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-08-nacimiento-personalidad.png` · secuencia concebido → nacimiento → personalidad.
+**Referencia visual prevista:** `t01-08-nacimiento-personalidad.webp` · secuencia concebido → nacimiento → personalidad.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 11 END -->
@@ -435,7 +435,7 @@ apoyo no equivale automáticamente a sustitución de la voluntad.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-09-capacidad-juridica-obrar.png`.
+**Referencia visual prevista:** `t01-09-capacidad-apoyos.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -458,7 +458,7 @@ diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-09-capacidad-juridica-obrar.png` · «tener derechos / ejercerlos» y catálogo básico de apoyos.
+**Referencia visual prevista:** `t01-09-capacidad-apoyos.webp` · titularidad, ejercicio y catálogo básico de apoyos.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 13 END -->
@@ -474,9 +474,9 @@ el emancipado necesita consentimiento para tomar dinero a préstamo y para enaje
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-10-mayoria-edad-emancipacion.png`.
+**Referencia visual prevista:** `t01-10-mayoria-emancipacion.webp`.
 
-**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · autonomía progresiva a los 14, 16 y 18 años.
+**Ilustración simple:** `t01-il-02-14-16-18-anos.webp` · autonomía progresiva a los 14, 16 y 18 años.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -495,9 +495,9 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-10-mayoria-edad-emancipacion.png` · escalera 14–16–18 y actos permitidos/limitados.
+**Referencia visual prevista:** `t01-10-mayoria-emancipacion.webp` · autonomía progresiva a los 14, 16 y 18 años.
 
-**Ilustración simple:** `t01-il-02-14-16-18-anos.png` · la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.
+**Ilustración simple:** `t01-il-02-14-16-18-anos.webp` · la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->
@@ -568,9 +568,9 @@ La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artí
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-11-vias-nacionalidad.png`.
+**Referencia visual prevista:** `t01-11-vias-nacionalidad.webp`.
 
-**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · distintas vías pueden conducir a la nacionalidad española.
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.webp` · distintas vías pueden conducir a la nacionalidad española.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -589,9 +589,9 @@ artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacional
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-11-vias-nacionalidad.png` · origen, opción, carta, residencia y consolidación.
+**Referencia visual prevista:** `t01-11-vias-nacionalidad.webp` · origen, opción, carta, residencia y consolidación.
 
-**Ilustración simple:** `t01-il-03-caminos-nacionalidad.png` · cinco vías diferentes con un mismo resultado jurídico.
+**Ilustración simple:** `t01-il-03-caminos-nacionalidad.webp` · cinco vías diferentes con un mismo resultado jurídico.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 17 END -->
@@ -607,7 +607,7 @@ si filiación o nacimiento en España se determina después de los dieciocho añ
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-12-espanoles-de-origen.png`.
+**Referencia visual prevista:** `t01-12-espanoles-origen.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -631,7 +631,7 @@ cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-12-espanoles-de-origen.png` · árbol de decisión del artículo 17.
+**Referencia visual prevista:** `t01-12-espanoles-origen.webp` · árbol de decisión del artículo 17.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
@@ -662,7 +662,7 @@ requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-13-adopcion-posesion.png` (PENDIENTE DE GENERAR) · dos circuitos completamente separados.
+**Referencia visual prevista:** `t01-13-adopcion-posesion.webp` · dos circuitos completamente separados.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 19 END -->
@@ -678,7 +678,7 @@ la opción del hijo de padre o madre originariamente español y nacido en Españ
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-13-nacionalidad-por-opcion.png`.
+**Referencia visual prevista:** `t01-14-opcion-nacionalidad.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -697,7 +697,7 @@ grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de ed
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-13-nacionalidad-por-opcion.png` · sujeto, representante, asistencia y plazos.
+**Referencia visual prevista:** `t01-14-opcion-nacionalidad.webp` · sujeto, representante, asistencia y plazos.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
@@ -728,10 +728,6 @@ carta = decisión excepcional del Gobierno por Real Decreto; residencia = expedi
 :::lo-que-cae
 órgano, instrumento, discrecionalidad, motivación y caducidad de 180 días.
 :::
-:::visual
-**Referencia visual prevista:** `t01-15-carta-de-naturaleza.png` · requisitos y carácter discrecional de la concesión.
-:::
-
 <!-- ATESTADO END -->
 <!-- BLOCK 21 END -->
 
@@ -746,7 +742,7 @@ recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-14-nacionalidad-por-residencia.png`.
+**Referencia visual prevista:** `t01-15-plazos-residencia.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -772,7 +768,7 @@ lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inm
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-14-nacionalidad-por-residencia.png` · infografía estrella con cuatro columnas y condiciones.
+**Referencia visual prevista:** `t01-15-plazos-residencia.webp` · plazos 10–5–2–1 y condiciones comunes.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
@@ -815,7 +811,7 @@ adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-16-perdida-de-la-nacionalidad.png`.
+**Referencia visual prevista:** `t01-16-perdida-conservacion.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -838,9 +834,7 @@ tres años; conservación; países exceptuados; renuncia; guerra; causas del no 
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-16-perdida-de-la-nacionalidad.png` · árbol de decisión origen/no origen.
-
-**Referencia visual prevista:** `t01-18-doble-nacionalidad.png` · países con convenio y efecto sobre la conservación.
+**Referencia visual prevista:** `t01-16-perdida-conservacion.webp` · pérdida, conservación y diferencias entre españoles de origen y no originarios.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 24 END -->
@@ -856,7 +850,7 @@ recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 :::
 
 :::visual
-**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · conservar actúa antes de la pérdida; recuperar, después.
+**Ilustración simple:** `t01-il-06-conservar-recuperar.webp` · conservar actúa antes de la pérdida; recuperar, después.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -875,9 +869,9 @@ residencia, declaración e inscripción; excepciones; habilitación del Gobierno
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-17-recuperacion-de-la-nacionalidad.png` · tres requisitos y dos excepciones.
+**Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.webp` · tres requisitos y excepciones.
 
-**Ilustración simple:** `t01-il-06-conservar-recuperar.png` · vínculo conservado frente a vínculo recuperado tras la pérdida.
+**Ilustración simple:** `t01-il-06-conservar-recuperar.webp` · vínculo conservado frente a vínculo recuperado tras la pérdida.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 25 END -->
@@ -893,7 +887,7 @@ domicilio civil, empadronamiento y domicilio constitucional no son conceptos id�
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-domicilio.png`.
+**Referencia visual prevista:** `t01-18-domicilio-conceptos.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -916,9 +910,9 @@ residencia habitual; diplomáticos; orden de criterios de personas jurídicas; d
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-domicilio.png` · seis conceptos próximos y su función.
+**Referencia visual prevista:** `t01-18-domicilio-conceptos.webp` · conceptos de domicilio y funciones jurídicas diferenciadas.
 
-**Ilustración simple:** `t01-il-04-domicilios.png` · residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.
+**Ilustración simple:** `t01-il-04-domicilios.webp` · residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 26 END -->
@@ -934,7 +928,7 @@ vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad admini
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-19-vecindad-civil.png`.
+**Referencia visual prevista:** `t01-19-vecindad-atribucion.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -953,9 +947,9 @@ función; regla de padres iguales; orden cuando difieren; seis meses; adopción;
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-19-vecindad-civil.png` · árbol de decisión de atribución inicial.
+**Referencia visual prevista:** `t01-19-vecindad-atribucion.webp` · árbol de decisión de atribución inicial.
 
-**Ilustración simple:** `t01-il-05-familia-vecindad-civil.png` · familia, territorio y opción como conexiones de vecindad civil.
+**Ilustración simple:** `t01-il-05-familia-vecindad-civil.webp` · familia, territorio y opción como conexiones de vecindad civil.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 27 END -->
@@ -971,7 +965,7 @@ Desde los catorce años y hasta un año después de la emancipación puede optar
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` (PENDIENTE DE GENERAR).
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.webp`.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -992,7 +986,7 @@ en dos años hay que pedir el cambio; en diez años se produce si no dejaste con
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-20-vecindad-dos-diez.png` (PENDIENTE DE GENERAR) · cronología comparada y matrimonio.
+**Referencia visual prevista:** `t01-20-vecindad-dos-diez.webp` · cronología comparada y matrimonio.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 28 END -->
@@ -1023,7 +1017,7 @@ cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad
 :::
 
 :::visual
-**Referencia visual prevista:** `t01-21-nacionalidad-y-vecindad.png` · cuatro caminos de opción y recuperación.
+**Referencia visual prevista:** `t01-21-vecindad-nacionalizacion.webp` · cuatro conexiones de opción y recuperación de la vecindad anterior.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 29 END -->
@@ -1045,7 +1039,7 @@ cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad
 La parte más densa es nacionalidad: conviene estudiarla como una secuencia de **sujeto → vía → plazo → autoridad → declaración → inscripción → efecto**. En vecindad civil, separa atribución inicial, opción y residencia.
 
 :::visual
-**Mapa general previsto:** `t01-01-mapa-general.png`.
+**Mapa general previsto:** `t01-01-mapa-general.webp`.
 :::
 
 

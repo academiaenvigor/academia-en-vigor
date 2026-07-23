@@ -56,7 +56,7 @@ Referencia oficial verificada conforme al protocolo histórico.
 :::
 
 :::visual
-**Referencia visual prevista:** `tNN-XX-nombre.png` · descripción del recurso.
+**Referencia visual prevista:** `tNN-XX-nombre.webp` · descripción del recurso.
 :::
 ```
 
@@ -111,6 +111,10 @@ La cobertura del 100 % significa que cada hecho inventariado tiene pregunta. No 
 ## 6. Imágenes y materiales didácticos
 
 Las imágenes integradas en El Parte o El Atestado se guardan en `assets/<oposicion>/tema-NN/` y se registran en su manifest.
+
+El formato de publicación ordinario es **WebP**. Los PNG originales se conservan fuera del repositorio como archivos maestros; el repositorio contiene únicamente las copias WebP optimizadas. Las excepciones SVG, PNG o JPG deben estar justificadas en el manifiesto.
+
+Cada copia WebP debe conservar la legibilidad del texto en móvil, mantener la proporción del original y quedar por debajo de 1 MB. La conversión no autoriza a reducir la calidad hasta degradar cifras, tildes, artículos o etiquetas.
 
 Se distinguen dos funciones:
 

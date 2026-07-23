@@ -19,12 +19,10 @@
 
 La parte más densa es nacionalidad: conviene estudiarla como una secuencia de **sujeto → vía → plazo → autoridad → declaración → inscripción → efecto**. En vecindad civil, separa atribución inicial, opción y residencia.
 
-<!-- VISUAL:t01-01-mapa-general.png -->
+<!-- VISUAL:t01-01-mapa-general.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-01-mapa-general.png" alt="Mapa general" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-01-mapa-general.webp" alt="Mapa general" width="820">
 </p>
-
-> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 # Contenido
 
@@ -48,7 +46,9 @@ cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo 
 concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p1-audio -->
+<!-- MATERIAL PENDIENTE: t01-p1-video -->
+<!-- MATERIAL PENDIENTE: t01-p1-presentacion -->
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -76,13 +76,15 @@ objetivo es la regla; subjetivo es la facultad que esa regla reconoce. Positivo 
 los distractores suelen intercambiar objetivo/subjetivo y positivo/natural.
 :::
 
-<!-- VISUAL:t01-02-acepciones-derecho.png -->
+<!-- VISUAL:t01-02-acepciones-derecho.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-02-acepciones-derecho.png" alt="cinco tarjetas con ejemplo de cada acepción" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-02-acepciones-derecho.webp" alt="cinco tarjetas con ejemplo de cada acepción" width="820">
 </p>
 <p align="center"><em>Infografía: cinco tarjetas con ejemplo de cada acepción.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p1-audio -->
+<!-- MATERIAL PENDIENTE: t01-p1-video -->
+<!-- MATERIAL PENDIENTE: t01-p1-presentacion -->
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -106,7 +108,9 @@ una potestad de identificación pertenece al Derecho público. Un contrato de ar
 criterio público/privado; especialidad frente a jerarquía; función supletoria del Derecho común.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p1-audio -->
+<!-- MATERIAL PENDIENTE: t01-p1-video -->
+<!-- MATERIAL PENDIENTE: t01-p1-presentacion -->
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -126,13 +130,15 @@ el artículo es el envase; la norma es la regla que extraemos de uno o varios pr
 concepto; positividad; obligatoriedad; posibilidad de normas organizativas y permisivas.
 :::
 
-<!-- VISUAL:t01-03-anatomia-norma.png -->
+<!-- VISUAL:t01-03-anatomia-norma.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-03-anatomia-norma.png" alt="artículo, norma, supuesto y efecto" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-03-anatomia-norma.webp" alt="artículo, norma, supuesto y efecto" width="820">
 </p>
 <p align="center"><em>Infografía: artículo, norma, supuesto y efecto.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -152,7 +158,9 @@ La consecuencia puede consistir en el nacimiento, modificación o extinción de 
 supuesto de hecho, consecuencia jurídica y diferencia entre consecuencia y sanción.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -180,13 +188,15 @@ una misma norma puede ser, por ejemplo, imperativa, especial y temporal a la vez
 imperativa frente a dispositiva; especialidad no equivale a superioridad jerárquica.
 :::
 
-<!-- VISUAL:t01-04-clases-normas.png -->
+<!-- VISUAL:t01-04-clases-normas.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-04-clases-normas.png" alt="matriz de clasificaciones sin mezclarlas" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-04-clases-normas.webp" alt="matriz de clasificaciones sin mezclarlas" width="820">
 </p>
 <p align="center"><em>Infografía: matriz de clasificaciones sin mezclarlas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -206,7 +216,9 @@ Son caracteres doctrinales: ayudan a comprender la norma, pero no deben presenta
 definición de generalidad, abstracción, heteronomía y coercibilidad.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -232,19 +244,21 @@ una instrucción interna no puede crear por sí sola una potestad contraria a un
 orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia complementaria; jerarquía frente a competencia y especialidad.
 :::
 
-<!-- VISUAL:t01-05-fuentes-jerarquia.png -->
+<!-- VISUAL:t01-05-fuentes-jerarquia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-05-fuentes-jerarquia.png" alt="doble esquema: fuentes civiles y jerarquía normativa" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-05-fuentes-jerarquia.webp" alt="doble esquema: fuentes civiles y jerarquía normativa" width="820">
 </p>
 <p align="center"><em>Infografía: doble esquema: fuentes civiles y jerarquía normativa.</em></p>
 
-<!-- VISUAL:t01-il-01-jerarquia-normativa.png -->
+<!-- VISUAL:t01-il-01-jerarquia-normativa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-01-jerarquia-normativa.png" alt="una norma inferior no puede contradecir a la superior" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-01-jerarquia-normativa.webp" alt="una norma inferior no puede contradecir a la superior" width="600">
 </p>
 <p align="center"><em>Ilustración: una norma inferior no puede contradecir a la superior.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: CC-PRELIMINAR -->
 
@@ -266,13 +280,15 @@ no basta «vestir» una conducta con una norma aparentemente permitida si el obj
 20 días; derogación; no reviviscencia; ignorancia; fraude; nulidad; buena fe; límites de analogía.
 :::
 
-<!-- VISUAL:t01-06-vigencia-eficacia.png -->
+<!-- VISUAL:t01-06-vigencia-eficacia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-06-vigencia-eficacia.png" alt="línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-06-vigencia-eficacia.webp" alt="línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7" width="820">
 </p>
 <p align="center"><em>Infografía: línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p2-audio -->
+<!-- MATERIAL PENDIENTE: t01-p2-video -->
+<!-- MATERIAL PENDIENTE: t01-p2-presentacion -->
 
 <!-- FUENTE: CC-PRELIMINAR -->
 
@@ -292,13 +308,15 @@ una asociación puede firmar un contrato a su nombre porque el Derecho la trata 
 concepto de persona; clases; personalidad separada de la persona jurídica.
 :::
 
-<!-- VISUAL:t01-07-persona-fisica-juridica.png -->
+<!-- VISUAL:t01-07-persona-fisica-juridica.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-07-persona-fisica-juridica.png" alt="comparación de nacimiento, organización, patrimonio y extinción" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-07-persona-fisica-juridica.webp" alt="comparación de nacimiento, organización, patrimonio y extinción" width="820">
 </p>
 <p align="center"><em>Infografía: comparación de nacimiento, organización, patrimonio y extinción.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: DPEJ-PERSONA -->
 
@@ -318,13 +336,15 @@ la ley «guarda el sitio» al concebido para lo que le beneficie, pero la adquis
 artículos 29 y 30; nacimiento con vida; entero desprendimiento; efectos favorables del concebido.
 :::
 
-<!-- VISUAL:t01-08-nacimiento-personalidad.png -->
+<!-- VISUAL:t01-08-nacimiento-personalidad.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-08-nacimiento-personalidad.png" alt="secuencia concebido → nacimiento → personalidad" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-08-nacimiento-personalidad.webp" alt="secuencia concebido → nacimiento → personalidad" width="820">
 </p>
 <p align="center"><em>Infografía: secuencia concebido → nacimiento → personalidad.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -344,7 +364,9 @@ si nadie puede demostrar el orden de las muertes, la ley corta la cadena sucesor
 muerte como extinción; carga de la prueba y efecto de la conmoriencia.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -368,13 +390,15 @@ la existencia de una discapacidad no autoriza a presumir incapacidad ni a ignora
 diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto a voluntad y preferencias.
 :::
 
-<!-- VISUAL:t01-09-capacidad-juridica-obrar.png -->
+<!-- VISUAL:t01-09-capacidad-apoyos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-09-capacidad-juridica-obrar.png" alt="«tener derechos / ejercerlos» y catálogo básico de apoyos" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-09-capacidad-apoyos.webp" alt="titularidad, ejercicio y catálogo básico de apoyos" width="820">
 </p>
-<p align="center"><em>Infografía: «tener derechos / ejercerlos» y catálogo básico de apoyos.</em></p>
+<p align="center"><em>Infografía: titularidad, ejercicio y catálogo básico de apoyos.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: DPEJ-CAPACIDAD -->
 
@@ -394,19 +418,21 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 18 años; 16 años; consentimiento; vida independiente; límites del artículo 247.
 :::
 
-<!-- VISUAL:t01-10-mayoria-edad-emancipacion.png -->
+<!-- VISUAL:t01-10-mayoria-emancipacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-10-mayoria-edad-emancipacion.png" alt="escalera 14–16–18 y actos permitidos/limitados" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-10-mayoria-emancipacion.webp" alt="autonomía progresiva a los 14, 16 y 18 años" width="820">
 </p>
-<p align="center"><em>Infografía: escalera 14–16–18 y actos permitidos/limitados.</em></p>
+<p align="center"><em>Infografía: autonomía progresiva a los 14, 16 y 18 años.</em></p>
 
-<!-- VISUAL:t01-il-02-14-16-18-anos.png -->
+<!-- VISUAL:t01-il-02-14-16-18-anos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-02-14-16-18-anos.png" alt="la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-02-14-16-18-anos.webp" alt="la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes" width="600">
 </p>
 <p align="center"><em>Ilustración: la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: CC-CAPACIDAD -->
 
@@ -426,7 +452,9 @@ La clasificación del Código Civil es general. Para conocer el momento exacto d
 artículo 35; personalidad independiente; válida constitución; remisión del artículo 36.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -446,7 +474,9 @@ la entidad actúa a través de personas físicas, pero el patrimonio y las oblig
 fuentes de capacidad según tipo; facultades del artículo 38; causas y efectos de extinción.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p3-audio -->
+<!-- MATERIAL PENDIENTE: t01-p3-video -->
+<!-- MATERIAL PENDIENTE: t01-p3-presentacion -->
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -466,19 +496,21 @@ El Código Civil distingue nacionalidad **de origen** y nacionalidad adquirida p
 artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacionalidad.
 :::
 
-<!-- VISUAL:t01-11-vias-nacionalidad.png -->
+<!-- VISUAL:t01-11-vias-nacionalidad.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-11-vias-nacionalidad.png" alt="origen, opción, carta, residencia y consolidación" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-11-vias-nacionalidad.webp" alt="origen, opción, carta, residencia y consolidación" width="820">
 </p>
 <p align="center"><em>Infografía: origen, opción, carta, residencia y consolidación.</em></p>
 
-<!-- VISUAL:t01-il-03-caminos-nacionalidad.png -->
+<!-- VISUAL:t01-il-03-caminos-nacionalidad.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-03-caminos-nacionalidad.png" alt="cinco vías diferentes con un mismo resultado jurídico" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-03-caminos-nacionalidad.webp" alt="cinco vías diferentes con un mismo resultado jurídico" width="600">
 </p>
 <p align="center"><em>Ilustración: cinco vías diferentes con un mismo resultado jurídico.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -503,13 +535,15 @@ no memorices «nacido en España = español». España no aplica una regla terri
 cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido de estancia; opción de dos años del 17.2.
 :::
 
-<!-- VISUAL:t01-12-espanoles-de-origen.png -->
+<!-- VISUAL:t01-12-espanoles-origen.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-12-espanoles-de-origen.png" alt="árbol de decisión del artículo 17" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-12-espanoles-origen.webp" alt="árbol de decisión del artículo 17" width="820">
 </p>
 <p align="center"><em>Infografía: árbol de decisión del artículo 17.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -529,9 +563,15 @@ el menor la adquiere; el mayor recibe un derecho de opción. Y la posesión de e
 requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
 :::
 
-<!-- VISUAL PENDIENTE: t01-13-adopcion-posesion.png -->
+<!-- VISUAL:t01-13-adopcion-posesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-13-adopcion-posesion.webp" alt="dos circuitos completamente separados" width="820">
+</p>
+<p align="center"><em>Infografía: dos circuitos completamente separados.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -551,13 +591,15 @@ primero identifica por qué se puede optar; después, quién debe formular la de
 grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de edad del 20.1.b.
 :::
 
-<!-- VISUAL:t01-13-nacionalidad-por-opcion.png -->
+<!-- VISUAL:t01-14-opcion-nacionalidad.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-13-nacionalidad-por-opcion.png" alt="sujeto, representante, asistencia y plazos" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-14-opcion-nacionalidad.webp" alt="sujeto, representante, asistencia y plazos" width="820">
 </p>
 <p align="center"><em>Infografía: sujeto, representante, asistencia y plazos.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -578,13 +620,10 @@ carta = decisión excepcional del Gobierno por Real Decreto; residencia = expedi
 :::lo-que-cae
 órgano, instrumento, discrecionalidad, motivación y caducidad de 180 días.
 :::
-<!-- VISUAL:t01-15-carta-de-naturaleza.png -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-15-carta-de-naturaleza.png" alt="requisitos y carácter discrecional de la concesión" width="820">
-</p>
-<p align="center"><em>Infografía: requisitos y carácter discrecional de la concesión.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -611,13 +650,15 @@ casarse con una persona española no concede automáticamente la nacionalidad: r
 lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inmediatamente anterior; buena conducta e integración.
 :::
 
-<!-- VISUAL:t01-14-nacionalidad-por-residencia.png -->
+<!-- VISUAL:t01-15-plazos-residencia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-14-nacionalidad-por-residencia.png" alt="infografía estrella con cuatro columnas y condiciones" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-15-plazos-residencia.webp" alt="plazos 10–5–2–1 y condiciones comunes" width="820">
 </p>
-<p align="center"><em>Infografía: infografía estrella con cuatro columnas y condiciones.</em></p>
+<p align="center"><em>Infografía: plazos 10–5–2–1 y condiciones comunes.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -637,7 +678,9 @@ obtener una resolución favorable no basta si después no se completan las forma
 edad de 14 años; juramento/promesa; renuncia y excepciones; inscripción registral.
 :::
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -661,19 +704,15 @@ primero distingue español de origen o no; después comprueba residencia en el e
 tres años; conservación; países exceptuados; renuncia; guerra; causas del no originario; nulidad por fraude y quince años.
 :::
 
-<!-- VISUAL:t01-16-perdida-de-la-nacionalidad.png -->
+<!-- VISUAL:t01-16-perdida-conservacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-16-perdida-de-la-nacionalidad.png" alt="árbol de decisión origen/no origen" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-16-perdida-conservacion.webp" alt="pérdida, conservación y diferencias entre españoles de origen y no originarios" width="820">
 </p>
-<p align="center"><em>Infografía: árbol de decisión origen/no origen.</em></p>
+<p align="center"><em>Infografía: pérdida, conservación y diferencias entre españoles de origen y no originarios.</em></p>
 
-<!-- VISUAL:t01-18-doble-nacionalidad.png -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-18-doble-nacionalidad.png" alt="países con convenio y efecto sobre la conservación" width="820">
-</p>
-<p align="center"><em>Infografía: países con convenio y efecto sobre la conservación.</em></p>
-
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -693,19 +732,21 @@ conservar es cerrar la puerta antes de que se pierda; recuperar es volver a entr
 residencia, declaración e inscripción; excepciones; habilitación del Gobierno; conservación frente a recuperación.
 :::
 
-<!-- VISUAL:t01-17-recuperacion-de-la-nacionalidad.png -->
+<!-- VISUAL:t01-17-recuperacion-nacionalidad.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-17-recuperacion-de-la-nacionalidad.png" alt="tres requisitos y dos excepciones" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-17-recuperacion-nacionalidad.webp" alt="tres requisitos y excepciones" width="820">
 </p>
-<p align="center"><em>Infografía: tres requisitos y dos excepciones.</em></p>
+<p align="center"><em>Infografía: tres requisitos y excepciones.</em></p>
 
-<!-- VISUAL:t01-il-06-conservar-recuperar.png -->
+<!-- VISUAL:t01-il-06-conservar-recuperar.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-06-conservar-recuperar.png" alt="vínculo conservado frente a vínculo recuperado tras la pérdida" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-06-conservar-recuperar.webp" alt="vínculo conservado frente a vínculo recuperado tras la pérdida" width="600">
 </p>
 <p align="center"><em>Ilustración: vínculo conservado frente a vínculo recuperado tras la pérdida.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p4-audio -->
+<!-- MATERIAL PENDIENTE: t01-p4-video -->
+<!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -729,19 +770,21 @@ para determinar la protección frente a una entrada importa el concepto constitu
 residencia habitual; diplomáticos; orden de criterios de personas jurídicas; diferencias domicilio/residencia/padrón/protección constitucional.
 :::
 
-<!-- VISUAL:t01-20-domicilio.png -->
+<!-- VISUAL:t01-18-domicilio-conceptos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-20-domicilio.png" alt="seis conceptos próximos y su función" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-18-domicilio-conceptos.webp" alt="conceptos de domicilio y funciones jurídicas diferenciadas" width="820">
 </p>
-<p align="center"><em>Infografía: seis conceptos próximos y su función.</em></p>
+<p align="center"><em>Infografía: conceptos de domicilio y funciones jurídicas diferenciadas.</em></p>
 
-<!-- VISUAL:t01-il-04-domicilios.png -->
+<!-- VISUAL:t01-il-04-domicilios.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-04-domicilios.png" alt="residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-04-domicilios.webp" alt="residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas" width="600">
 </p>
 <p align="center"><em>Ilustración: residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p5-audio -->
+<!-- MATERIAL PENDIENTE: t01-p5-video -->
+<!-- MATERIAL PENDIENTE: t01-p5-presentacion -->
 
 <!-- FUENTE: CC-DOMICILIO -->
 
@@ -761,19 +804,21 @@ la vecindad civil es la «llave» que decide qué Derecho civil español se apli
 función; regla de padres iguales; orden cuando difieren; seis meses; adopción; cambio parental sin efecto automático.
 :::
 
-<!-- VISUAL:t01-19-vecindad-civil.png -->
+<!-- VISUAL:t01-19-vecindad-atribucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-19-vecindad-civil.png" alt="árbol de decisión de atribución inicial" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-19-vecindad-atribucion.webp" alt="árbol de decisión de atribución inicial" width="820">
 </p>
 <p align="center"><em>Infografía: árbol de decisión de atribución inicial.</em></p>
 
-<!-- VISUAL:t01-il-05-familia-vecindad-civil.png -->
+<!-- VISUAL:t01-il-05-familia-vecindad-civil.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-il-05-familia-vecindad-civil.png" alt="familia, territorio y opción como conexiones de vecindad civil" width="600">
+  <img src="../../../assets/policia-nacional/tema-01/t01-il-05-familia-vecindad-civil.webp" alt="familia, territorio y opción como conexiones de vecindad civil" width="600">
 </p>
 <p align="center"><em>Ilustración: familia, territorio y opción como conexiones de vecindad civil.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p5-audio -->
+<!-- MATERIAL PENDIENTE: t01-p5-video -->
+<!-- MATERIAL PENDIENTE: t01-p5-presentacion -->
 
 <!-- FUENTE: CC-VECINDAD -->
 
@@ -795,9 +840,15 @@ en dos años hay que pedir el cambio; en diez años se produce si no dejaste con
 14 años; un año tras emancipación; opciones; matrimonio; 2/10 años; declaraciones no reiterables; duda.
 :::
 
-<!-- VISUAL PENDIENTE: t01-20-vecindad-dos-diez.png -->
+<!-- VISUAL:t01-20-vecindad-dos-diez.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-20-vecindad-dos-diez.webp" alt="cronología comparada y matrimonio" width="820">
+</p>
+<p align="center"><em>Infografía: cronología comparada y matrimonio.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p5-audio -->
+<!-- MATERIAL PENDIENTE: t01-p5-video -->
+<!-- MATERIAL PENDIENTE: t01-p5-presentacion -->
 
 <!-- FUENTE: CC-VECINDAD -->
 
@@ -817,13 +868,15 @@ primero se entra en la nacionalidad española; al inscribirla se fija también c
 cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad anterior; Derecho interregional.
 :::
 
-<!-- VISUAL:t01-21-nacionalidad-y-vecindad.png -->
+<!-- VISUAL:t01-21-vecindad-nacionalizacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-01/t01-21-nacionalidad-y-vecindad.png" alt="cuatro caminos de opción y recuperación" width="820">
+  <img src="../../../assets/policia-nacional/tema-01/t01-21-vecindad-nacionalizacion.webp" alt="cuatro conexiones de opción y recuperación de la vecindad anterior" width="820">
 </p>
-<p align="center"><em>Infografía: cuatro caminos de opción y recuperación.</em></p>
+<p align="center"><em>Infografía: cuatro conexiones de opción y recuperación de la vecindad anterior.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t01-p5-audio -->
+<!-- MATERIAL PENDIENTE: t01-p5-video -->
+<!-- MATERIAL PENDIENTE: t01-p5-presentacion -->
 
 <!-- FUENTE: CC-VECINDAD -->
 

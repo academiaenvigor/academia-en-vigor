@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ALLOWED_CATEGORIES = {'infografias', 'presentaciones', 'audios', 'videos'}
 ALLOWED_STATUS = {'planned', 'in_production', 'pending_review', 'approved_internal', 'published', 'retired'}
 ALLOWED_OWNERSHIP = {'own', 'licensed', 'authorized'}
-ALLOWED_SCOPE = {'tema', 'bloque'}
+ALLOWED_SCOPE = {'tema', 'parte', 'bloque'}
 ALLOWED_TIER = {'gratis', 'mensual', 'trimestral', 'completa'}
 # Un recurso aún no producido no puede tener URL todavía
 STATUS_SIN_URL = {'planned', 'in_production'}
@@ -35,8 +35,11 @@ def main() -> int:
                 errors.append(f'{path.relative_to(ROOT)}: falta versión fuente en {rid}')
             if resource.get('scope') not in ALLOWED_SCOPE:
                 errors.append(f'{path.relative_to(ROOT)}: ámbito inválido en {rid}')
-            if resource.get('access_tier') not in ALLOWED_TIER:
+            access_tier = resource.get('access_tier')
+            if access_tier is not None and access_tier not in ALLOWED_TIER:
                 errors.append(f'{path.relative_to(ROOT)}: plan de acceso inválido en {rid}')
+            if resource.get('scope') == 'parte' and not resource.get('part_number'):
+                errors.append(f'{path.relative_to(ROOT)}: recurso de parte sin número de parte en {rid}')
             if resource.get('scope') == 'bloque' and not resource.get('blocks'):
                 errors.append(f'{path.relative_to(ROOT)}: recurso de bloque sin bloque asignado en {rid}')
             storage = resource.get('storage', {})

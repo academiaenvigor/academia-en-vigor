@@ -62,9 +62,9 @@
   },
   "assets": {
     "manifest": "assets/policia-nacional/tema-01/manifest.json",
-    "total": 0,
-    "planned": 27,
-    "integration_status": "references_ready_assets_pending"
+    "total": 27,
+    "planned": 0,
+    "integration_status": "integrated_webp"
   },
   "teaching_materials": {
     "manifest": "materiales-didacticos/policia-nacional/tema-01/manifest.json",
@@ -76,7 +76,7 @@
     ],
     "production": "materiales-didacticos/policia-nacional/tema-01/produccion"
   },
-  "visual_version": "0.2.2",
+  "visual_version": "0.3.0",
   "pedagogical_version": "0.2.0",
   "atestado_style": "narrative_explained",
   "official_exam_index": "banco-preguntas/policia-nacional/tema-01/indice-oficiales.json",
