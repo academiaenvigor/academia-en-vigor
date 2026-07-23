@@ -1,5 +1,5 @@
-# Infografias · Tema 3
+# Resúmenes visuales · Tema 3
 
-Infografías y láminas visuales que el alumno consulta como recurso independiente.
+Los seis resúmenes PDF se producen por partes P1–P6 y se alojan externamente.
 
-Cada recurso debe añadirse también al `manifest.json` del tema.
+No se confunden con las 17 infografías integradas dentro del temario. Se actualiza la entrada ya preparada en `../manifest.json`.

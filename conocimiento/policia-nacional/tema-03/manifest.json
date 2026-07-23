@@ -67,8 +67,9 @@
     "total": 28,
     "infographics": 17,
     "illustrations": 11,
-    "integration_status": "integrated",
-    "visual_review_file": "conocimiento/policia-nacional/tema-03/revision-visual-0.1.md"
+    "integration_status": "integrated_webp_pending_visual_review",
+    "visual_review_file": "conocimiento/policia-nacional/tema-03/revision-visual-0.2.md",
+    "planned": 0
   },
   "teaching_materials": {
     "manifest": "materiales-didacticos/policia-nacional/tema-03/manifest.json",
@@ -80,7 +81,7 @@
     ],
     "production": "materiales-didacticos/policia-nacional/tema-03/produccion"
   },
-  "visual_version": "0.1.0",
+  "visual_version": "0.2.0",
   "pedagogical_version": "0.2.0",
   "atestado_style": "narrative_explained",
   "topic_number": 3,

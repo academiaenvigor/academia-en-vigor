@@ -1,5 +1,5 @@
 # Audios · Tema 3
 
-Audios explicativos, repasos, pódcast y enlaces a archivos pesados alojados en Drive.
+Los seis audios se producen por partes P1–P6 y se alojan externamente.
 
-Cada recurso debe añadirse también al `manifest.json` del tema.
+No se suben archivos `.m4a` al repositorio. Se actualiza la entrada ya preparada en `../manifest.json`.

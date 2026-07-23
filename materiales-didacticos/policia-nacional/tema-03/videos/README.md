@@ -1,5 +1,5 @@
-# Videos · Tema 3
+# Vídeos · Tema 3
 
-Vídeos explicativos y enlaces a los archivos o plataformas donde estén alojados.
+Los seis vídeos se producen por partes P1–P6 y se alojan externamente.
 
-Cada recurso debe añadirse también al `manifest.json` del tema.
+No se suben archivos `.mp4` al repositorio. Se actualiza la entrada ya preparada en `../manifest.json`.

@@ -6,22 +6,20 @@
 
 # Mapa del tema
 
-<!-- VISUAL:t03-ilu-01-portada-constitucion-instituciones.png -->
+<!-- VISUAL:t03-ilu-01-portada-constitucion-instituciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-01-portada-constitucion-instituciones.png" alt="Constitución e instituciones del Estado" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-01-portada-constitucion-instituciones.webp" alt="Constitución e instituciones del Estado" width="600">
 </p>
 <p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
-
-> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
 
-<!-- VISUAL:t03-ilu-02-corona-estado.png -->
+<!-- VISUAL:t03-ilu-02-corona-estado.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-02-corona-estado.png" alt="La Corona como Jefatura del Estado" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-02-corona-estado.webp" alt="La Corona como Jefatura del Estado" width="600">
 </p>
 <p align="center"><em>Ilustración: La Corona como Jefatura del Estado.</em></p>
 
@@ -57,13 +55,15 @@ Piensa siempre en esta cadena: acto del Rey, autoridad que refrenda y persona qu
 
 > **Lo que cae:** Jefatura del Estado; Inviolabilidad y responsabilidad; Validez del acto regio; Refrendo ordinario; Refrendo del Presidente del Congreso; Responsabilidad del refrendante.
 
-<!-- VISUAL:t03-01-corona-refrendo.png -->
+<!-- VISUAL:t03-01-corona-refrendo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-01-corona-refrendo.png" alt="La Corona y el refrendo" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-01-corona-refrendo.webp" alt="La Corona y el refrendo" width="820">
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -101,13 +101,15 @@ Memoriza las preferencias como una escalera: línea, grado, sexo y edad. Solo de
 
 > **Lo que cae:** Primogenitura y representación; Preferencia de líneas; Preferencia de grado; Preferencia por sexo; Preferencia por edad; Exclusión por matrimonio prohibido; Abdicaciones y renuncias; Consorte.
 
-<!-- VISUAL:t03-02-sucesion-corona.png -->
+<!-- VISUAL:t03-02-sucesion-corona.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.png" alt="Sucesión a la Corona" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.webp" alt="Sucesión a la Corona" width="820">
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -149,13 +151,15 @@ Resuelve los casos preguntándote primero si se necesita ejercer las funciones d
 
 > **Lo que cae:** Regencia por minoría de edad; Inhabilitación del Rey; Regencia nombrada por las Cortes; Requisitos del Regente; Naturaleza de la Regencia; Tutor testamentario; Acumulación de Regencia y tutela; Incompatibilidad de la tutela; Juramento del Rey.
 
-<!-- VISUAL:t03-03-regencia-tutela.png -->
+<!-- VISUAL:t03-03-regencia-tutela.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.png" alt="Regencia y tutela" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.webp" alt="Regencia y tutela" width="820">
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -193,21 +197,23 @@ Clasifica las funciones en cuatro grupos: leyes, Gobierno, Fuerzas Armadas y rel
 
 > **Lo que cae:** Sanción y promulgación; Convocatoria y disolución; Presidente del Gobierno; Miembros del Gobierno; Presidencia del Consejo de Ministros; Mando supremo; Derecho de gracia; Guerra y paz.
 
-<!-- VISUAL:t03-04-funciones-rey.png -->
+<!-- VISUAL:t03-04-funciones-rey.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.png" alt="Funciones del Rey" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.webp" alt="Funciones del Rey" width="820">
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
 
-<!-- VISUAL:t03-ilu-03-cortes-debate-parlamentario.png -->
+<!-- VISUAL:t03-ilu-03-cortes-debate-parlamentario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-03-cortes-debate-parlamentario.png" alt="Las Cortes Generales y el debate parlamentario" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-03-cortes-debate-parlamentario.webp" alt="Las Cortes Generales y el debate parlamentario" width="600">
 </p>
 <p align="center"><em>Ilustración: Las Cortes Generales y el debate parlamentario.</em></p>
 
@@ -239,13 +245,15 @@ Fija primero las tres grandes funciones de las Cortes y, después, estudia en qu
 
 > **Lo que cae:** Representación popular; Funciones de las Cortes; Incompatibilidad entre Cámaras; Mandato imperativo.
 
-<!-- VISUAL:t03-05-cortes-generales.png -->
+<!-- VISUAL:t03-05-cortes-generales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.png" alt="Cortes Generales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.webp" alt="Cortes Generales" width="820">
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -291,13 +299,15 @@ Haz dos columnas: Congreso y Senado. No mezcles la cifra constitucional de diput
 
 > **Lo que cae:** Número constitucional de diputados; Circunscripción electoral; Representación proporcional; Mandato del Congreso; Plazo electoral; Constitución del Congreso; Naturaleza del Senado; Senadores provinciales; Islas mayores; Ceuta y Melilla; Senadores autonómicos.
 
-<!-- VISUAL:t03-06-congreso-senado.png -->
+<!-- VISUAL:t03-06-congreso-senado.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-06-congreso-senado.png" alt="Congreso y Senado" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-06-congreso-senado.webp" alt="Congreso y Senado" width="820">
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -333,13 +343,15 @@ Usa tres preguntas: qué protege la inviolabilidad, cuándo opera la inmunidad y
 
 > **Lo que cae:** Inviolabilidad parlamentaria; Inmunidad parlamentaria; Suplicatorio; Aforamiento; Mayoría para reglamentos; Sesiones conjuntas.
 
-<!-- VISUAL:t03-07-prerrogativas-parlamentarias.png -->
+<!-- VISUAL:t03-07-prerrogativas-parlamentarias.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.png" alt="Prerrogativas parlamentarias" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.webp" alt="Prerrogativas parlamentarias" width="820">
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -403,21 +415,23 @@ Asocia cada número con una institución concreta. Evita memorizar 21, mayoría 
 
 > **Lo que cae:** Períodos ordinarios; Sesiones extraordinarias; Decisiones bicamerales especiales; Inicio del procedimiento bicameral; Materias indelegables; Conclusiones de investigación; Composición de Diputación Permanente; Funciones de Diputación Permanente; Quórum; Mayoría ordinaria; Publicidad de sesiones.
 
-<!-- VISUAL:t03-08-funcionamiento-camaras.png -->
+<!-- VISUAL:t03-08-funcionamiento-camaras.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-08-funcionamiento-camaras.png" alt="Funcionamiento de las Cámaras" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-08-funcionamiento-camaras.webp" alt="Funcionamiento de las Cámaras" width="820">
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
 ## 09. Leyes orgánicas y delegación legislativa
 
-<!-- VISUAL:t03-ilu-04-recorrido-de-una-ley.png -->
+<!-- VISUAL:t03-ilu-04-recorrido-de-una-ley.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-04-recorrido-de-una-ley.png" alt="El recorrido de una ley" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-04-recorrido-de-una-ley.webp" alt="El recorrido de una ley" width="600">
 </p>
 <p align="center"><em>Ilustración: El recorrido de una ley.</em></p>
 
@@ -463,13 +477,15 @@ Repite la pareja básica: ley de bases–texto articulado; ley ordinaria de dele
 
 > **Lo que cae:** Materias de ley orgánica; Mayoría de ley orgánica; Ley de bases; Ley ordinaria de refundición; Requisitos de delegación; Prohibiciones de delegación; Límites de las leyes de bases; Nombre de los decretos legislativos.
 
-<!-- VISUAL:t03-09-leyes-organicas.png -->
+<!-- VISUAL:t03-09-leyes-organicas.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.png" alt="Leyes orgánicas y delegación legislativa" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.webp" alt="Leyes orgánicas y delegación legislativa" width="820">
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -529,13 +545,15 @@ Dibuja el recorrido de una ley y coloca aparte el decreto-ley. Son dos lógicas 
 
 > **Lo que cae:** Presupuesto del decreto-ley; Límites del decreto-ley; Convalidación del decreto-ley; Iniciativa autonómica; Firmas de iniciativa popular; Materias excluidas de iniciativa popular; Proyectos de ley; Plazo ordinario del Senado; Mayoría para veto; Levantamiento inmediato del veto; Levantamiento diferido del veto; Urgencia en el Senado.
 
-<!-- VISUAL:t03-10-decreto-ley-iniciativa.png -->
+<!-- VISUAL:t03-10-decreto-ley-iniciativa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-10-decreto-ley-iniciativa.png" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-10-decreto-ley-iniciativa.webp" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -577,21 +595,23 @@ Ordena los tratados de mayor a menor intensidad de control: ley orgánica, autor
 
 > **Lo que cae:** Atribución de competencias internacionales; Tratados políticos y militares; Integridad territorial y Título I; Medidas legislativas; Tratado contrario a la Constitución; Consulta al Tribunal Constitucional; Incorporación al ordenamiento.
 
-<!-- VISUAL:t03-11-tratados-internacionales.png -->
+<!-- VISUAL:t03-11-tratados-internacionales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.png" alt="Tratados internacionales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.webp" alt="Tratados internacionales" width="820">
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
 ## 12. Gobierno: funciones, composición, investidura y cese
 
-<!-- VISUAL:t03-ilu-05-gobierno-y-parlamento.png -->
+<!-- VISUAL:t03-ilu-05-gobierno-y-parlamento.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-05-gobierno-y-parlamento.png" alt="Gobierno y control parlamentario" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-05-gobierno-y-parlamento.webp" alt="Gobierno y control parlamentario" width="600">
 </p>
 <p align="center"><em>Ilustración: Gobierno y control parlamentario.</em></p>
 
@@ -639,13 +659,15 @@ Estudia la investidura como una línea temporal y marca tres datos: mayoría abs
 
 > **Lo que cae:** Dirección política; Funciones normativa y ejecutiva; Composición del Gobierno; Funciones del Presidente; Propuesta de candidato; Primera votación de investidura; Segunda votación de investidura; Plazo de dos meses; Refrendo de la disolución automática; Nombramiento de ministros; Causas de cese; Gobierno en funciones.
 
-<!-- VISUAL:t03-12-gobierno-investidura.png -->
+<!-- VISUAL:t03-12-gobierno-investidura.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-12-gobierno-investidura.png" alt="Gobierno e investidura" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-12-gobierno-investidura.webp" alt="Gobierno e investidura" width="820">
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -697,13 +719,15 @@ Lee los artículos 103 a 107 como una historia sobre cómo actúa, se controla y
 
 > **Lo que cae:** Responsabilidad penal del Gobierno; Traición y seguridad del Estado; Mayoría para acusación especial; Exclusión del derecho de gracia; Objetividad de la Administración; Principios administrativos; Sometimiento al Derecho; Acceso a función pública; Dependencia de las FCS; Misión constitucional de las FCS; Ley orgánica de las FCS; Acceso a archivos.
 
-<!-- VISUAL:t03-13-responsabilidad-gobierno.png -->
+<!-- VISUAL:t03-13-responsabilidad-gobierno.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-13-responsabilidad-gobierno.png" alt="Responsabilidad del Gobierno y Administración" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-13-responsabilidad-gobierno.webp" alt="Responsabilidad del Gobierno y Administración" width="820">
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -743,13 +767,15 @@ Distingue control de información y control de confianza. Preguntas e interpelac
 
 > **Lo que cae:** Responsabilidad solidaria; Comparecencia del Gobierno; Preguntas e interpelaciones.
 
-<!-- VISUAL:t03-14-control-parlamentario.png -->
+<!-- VISUAL:t03-14-control-parlamentario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.png" alt="Control parlamentario" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.webp" alt="Control parlamentario" width="820">
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -793,21 +819,23 @@ Compara en una tabla iniciativa, mayoría, candidato alternativo, plazo y efecto
 
 > **Lo que cae:** Titular de la cuestión de confianza; Objeto de la confianza; Mayoría de confianza; Mayoría de censura; Proponentes de censura; Candidato alternativo; Plazo de votación; Mociones alternativas; Efecto de negar confianza; Efecto de aprobar censura; Propuesta de disolución; Límite por censura.
 
-<!-- VISUAL:t03-15-censura-disolucion.png -->
+<!-- VISUAL:t03-15-censura-disolucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.png" alt="Moción de censura y disolución" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.webp" alt="Moción de censura y disolución" width="820">
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
 ## 16. Estados de alarma, excepción y sitio
 
-<!-- VISUAL:t03-ilu-06-crisis-y-respuesta-constitucional.png -->
+<!-- VISUAL:t03-ilu-06-crisis-y-respuesta-constitucional.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-06-crisis-y-respuesta-constitucional.png" alt="Crisis y respuesta constitucional" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-06-crisis-y-respuesta-constitucional.webp" alt="Crisis y respuesta constitucional" width="600">
 </p>
 <p align="center"><em>Ilustración: Crisis y respuesta constitucional.</em></p>
 
@@ -875,21 +903,23 @@ Construye una tabla con declarante, Congreso, duración, causas y derechos. Esa 
 
 > **Lo que cae:** Principio de necesidad; Proporcionalidad; Declaración de alarma; Duración inicial de alarma; Prórroga de alarma; Supuestos de alarma; Medidas de alarma; Declaración de excepción; Duración de excepción; Presupuesto de excepción; Declaración de sitio; Presupuesto de sitio.
 
-<!-- VISUAL:t03-16-estados-excepcionales.png -->
+<!-- VISUAL:t03-16-estados-excepcionales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-16-estados-excepcionales.png" alt="Estados excepcionales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-16-estados-excepcionales.webp" alt="Estados excepcionales" width="820">
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
 
-<!-- VISUAL:t03-ilu-07-justicia-independiente.png -->
+<!-- VISUAL:t03-ilu-07-justicia-independiente.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-07-justicia-independiente.png" alt="Independencia judicial" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-07-justicia-independiente.webp" alt="Independencia judicial" width="600">
 </p>
 <p align="center"><em>Ilustración: Independencia judicial.</em></p>
 
@@ -931,15 +961,17 @@ No memorices los principios como sinónimos. Define en una frase independencia, 
 
 > **Lo que cae:** Origen de la justicia; Estatuto judicial; Exclusividad jurisdiccional; Unidad jurisdiccional; Jurisdicción militar; Tribunales de excepción; Justicia gratuita; Publicidad judicial; Motivación y publicidad de sentencias.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p4-audio -->
+<!-- MATERIAL PENDIENTE: t03-p4-video -->
+<!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
 
 <!-- FUENTE: CE-JUDICIAL -->
 
 ## 18. Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial
 
-<!-- VISUAL:t03-ilu-08-policia-judicial-investigacion.png -->
+<!-- VISUAL:t03-ilu-08-policia-judicial-investigacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-08-policia-judicial-investigacion.png" alt="Policía Judicial e investigación" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-08-policia-judicial-investigacion.webp" alt="Policía Judicial e investigación" width="600">
 </p>
 <p align="center"><em>Ilustración: Policía Judicial e investigación.</em></p>
 
@@ -993,15 +1025,17 @@ Asigna un verbo a cada órgano: CGPJ gobierna, Tribunal Supremo juzga en la cús
 
 > **Lo que cae:** Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p4-audio -->
+<!-- MATERIAL PENDIENTE: t03-p4-video -->
+<!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
 
 <!-- FUENTE: LOPJ -->
 
 ## 19. Principios territoriales y Administración local
 
-<!-- VISUAL:t03-ilu-09-territorio-y-autonomia.png -->
+<!-- VISUAL:t03-ilu-09-territorio-y-autonomia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-09-territorio-y-autonomia.png" alt="Territorio, autonomía y solidaridad" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-09-territorio-y-autonomia.webp" alt="Territorio, autonomía y solidaridad" width="600">
 </p>
 <p align="center"><em>Ilustración: Territorio, autonomía y solidaridad.</em></p>
 
@@ -1051,7 +1085,9 @@ Mantén la frase guía: autonomía dentro de la Constitución, equilibrada por s
 
 > **Lo que cae:** Entidades territoriales; Autonomía territorial; Solidaridad territorial; Hecho insular; Prohibición de privilegios; Igualdad territorial de derechos; Libre circulación; Autonomía municipal; Gobierno municipal; Provincia; Límites provinciales; Haciendas locales.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1097,7 +1133,9 @@ Separa tres momentos: iniciativa autonómica, elaboración del Estatuto y conten
 
 > **Lo que cae:** Titulares de iniciativa autonómica; Iniciativa autonómica común; Plazo de la iniciativa; Reiteración de iniciativa; Autonomía uniprovincial excepcional; Prohibición de federación; Acuerdos de cooperación; Norma institucional básica; Contenido mínimo del Estatuto; Reforma estatutaria.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1157,7 +1195,9 @@ No intentes aprender las dos listas de una sola vez. Agrupa las materias por sec
 
 > **Lo que cae:** Sanidad e higiene; Vigilancia y policía local; Ampliación competencial; Nacionalidad y extranjería; Armas y explosivos; Seguridad pública; Referéndum; Cláusula de asunción; Cláusula residual estatal; Prevalencia del Derecho estatal; Supletoriedad.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1205,7 +1245,9 @@ Para el artículo 150 memoriza instrumento, finalidad y control. Después estudi
 
 > **Lo que cae:** Leyes marco; Transferencia o delegación; Leyes de armonización; Mayoría para armonización; Iniciativa autonómica especial; Referéndum de iniciativa; Mayoría del proyecto especial; Aprobación provincial; Asamblea legislativa autonómica; Presidente autonómico; Funciones del Presidente autonómico; Tribunal Superior de Justicia.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1259,15 +1301,17 @@ Haz tres cajas: controles ordinarios, artículo 155 y financiación. Mezclarlas 
 
 > **Lo que cae:** Control del TC; Control del Gobierno; Control contencioso-administrativo; Control del Tribunal de Cuentas; Delegado del Gobierno; Presupuesto del artículo 155; Requerimiento previo; Mayoría del Senado; Instrucciones a autoridades autonómicas; Autonomía financiera; Principios financieros; Recursos autonómicos tributarios.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 24. Tribunal Constitucional
 
-<!-- VISUAL:t03-ilu-10-guardian-de-la-constitucion.png -->
+<!-- VISUAL:t03-ilu-10-guardian-de-la-constitucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-10-guardian-de-la-constitucion.png" alt="El Tribunal Constitucional como garante" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-10-guardian-de-la-constitucion.webp" alt="El Tribunal Constitucional como garante" width="600">
 </p>
 <p align="center"><em>Ilustración: El Tribunal Constitucional como garante.</em></p>
 
@@ -1349,15 +1393,17 @@ Aprende primero el mapa del Tribunal y después los procesos. Composición y com
 
 > **Lo que cae:** Composición del Tribunal Constitucional; Propuesta del Congreso; Propuesta del Senado; Propuesta de Gobierno y CGPJ; Experiencia profesional; Mandato del Tribunal Constitucional; Incompatibilidades del TC; Presidente del TC; Recurso de inconstitucionalidad; Recurso de amparo; Conflictos de competencia; Impugnación de disposiciones autonómicas.
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p6-audio -->
+<!-- MATERIAL PENDIENTE: t03-p6-video -->
+<!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
 
 <!-- FUENTE: LOTC -->
 
 ## 25. Reforma constitucional
 
-<!-- VISUAL:t03-ilu-11-reforma-de-la-constitucion.png -->
+<!-- VISUAL:t03-ilu-11-reforma-de-la-constitucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-11-reforma-de-la-constitucion.png" alt="Reforma de la Constitución" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-11-reforma-de-la-constitucion.webp" alt="Reforma de la Constitución" width="600">
 </p>
 <p align="center"><em>Ilustración: Reforma de la Constitución.</em></p>
 
@@ -1399,13 +1445,15 @@ Compara 167 y 168 por mayoría, disolución y referéndum. Son los tres elemento
 
 > **Lo que cae:** Iniciativa de reforma; Exclusión de iniciativa popular; Mayoría ordinaria; Fórmula subsidiaria; Referéndum facultativo; Supuestos de reforma agravada; Primera mayoría agravada; Disolución inmediata; Mayoría final agravada; Referéndum obligatorio; Límite temporal de reforma.
 
-<!-- VISUAL:t03-17-reforma-constitucional.png -->
+<!-- VISUAL:t03-17-reforma-constitucional.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.png" alt="Reforma constitucional" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.webp" alt="Reforma constitucional" width="820">
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p6-audio -->
+<!-- MATERIAL PENDIENTE: t03-p6-video -->
+<!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
 
 <!-- FUENTE: CE-REFORMA -->
 

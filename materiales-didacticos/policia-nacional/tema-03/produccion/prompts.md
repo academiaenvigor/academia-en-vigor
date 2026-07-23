@@ -1,23 +1,23 @@
 # Prompts base de producción · Tema 3 v0.3.0
 
-Estos prompts pueden adaptarse a ChatGPT, NotebookLM, Gemini, Canva u otra herramienta.
+Se repite el proceso para P1–P6 utilizando únicamente los bloques asignados en `../manifest.json`.
 
-## Audio completo
+## Regla común
 
-Explica el Tema 3 siguiendo exactamente la estructura del Atestado. Diferencia órgano, mayoría, plazo, efecto y excepción. No añadas datos externos ni preguntas oficiales no trazadas.
+Usa El Atestado como fuente. Diferencia siempre órgano, competencia, mayoría, plazo, efecto y excepción. No añadas datos externos ni atribuciones a exámenes que no estén trazadas.
 
-## Audio de repaso
+## Audio
 
-Crea un repaso rápido centrado en refrendo, sucesión, composición de cámaras, procedimiento legislativo, investidura, confianza y censura, estados excepcionales, CGPJ, artículos 148-155, Tribunal Constitucional y reforma.
-
-## Presentación
-
-Genera una diapositiva por bloque semántico y diapositivas comparativas para los conceptos que se confunden. Incluye siempre la referencia de artículo.
-
-## Infografía
-
-Resume en un mapa visual las mayorías, plazos, composiciones y relaciones entre órganos. No uses fechas de convocatorias ni preguntas atribuidas a exámenes.
+Explica la parte con un orden claro y lenguaje oral. Empieza con un mapa de lo que se estudiará, desarrolla cada bloque, compara los conceptos confundibles y termina con un repaso. No leas el texto de forma mecánica.
 
 ## Vídeo
 
-Crea un guion audiovisual por bloques, con introducción, explicación, comparaciones, recapitulación y cierre. No incorpores afirmaciones que no aparezcan en las fuentes autorizadas.
+Crea un guion audiovisual de la parte con introducción, explicación por bloques, comparaciones, recapitulación y cierre. Las cifras, mayorías y plazos deben verse en pantalla.
+
+## Presentación
+
+Genera una presentación de la parte. Usa una diapositiva por idea principal y diapositivas comparativas para conceptos confundibles. Incluye las referencias normativas necesarias, sin saturar cada diapositiva.
+
+## Resumen visual
+
+Genera un PDF de repaso de la parte. Debe contener solo la información decisiva para recordar relaciones, mayorías, plazos, competencias y excepciones. No reutilices las infografías integradas como si fueran un documento distinto.

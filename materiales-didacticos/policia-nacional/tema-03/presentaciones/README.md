@@ -1,5 +1,5 @@
 # Presentaciones · Tema 3
 
-Presentaciones, diapositivas o enlaces a Google Slides y archivos equivalentes.
+Las seis presentaciones se producen por partes P1–P6 y se registran como PDF externo.
 
-Cada recurso debe añadirse también al `manifest.json` del tema.
+Se actualiza la entrada ya preparada en `../manifest.json` sin crear identificadores nuevos.

@@ -6,22 +6,20 @@
 
 # Mapa del tema
 
-<!-- VISUAL:t03-ilu-01-portada-constitucion-instituciones.png -->
+<!-- VISUAL:t03-ilu-01-portada-constitucion-instituciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-01-portada-constitucion-instituciones.png" alt="Constitución e instituciones del Estado" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-01-portada-constitucion-instituciones.webp" alt="Constitución e instituciones del Estado" width="600">
 </p>
 <p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
-
-> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
 
-<!-- VISUAL:t03-ilu-02-corona-estado.png -->
+<!-- VISUAL:t03-ilu-02-corona-estado.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-02-corona-estado.png" alt="La Corona como Jefatura del Estado" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-02-corona-estado.webp" alt="La Corona como Jefatura del Estado" width="600">
 </p>
 <p align="center"><em>Ilustración: La Corona como Jefatura del Estado.</em></p>
 
@@ -34,13 +32,15 @@
 - De los actos del Rey responden las personas que los refrendan. **(64.2)**
 - El Rey nombra y releva libremente a los miembros civiles y militares de su Casa. **(65.2)**
 
-<!-- VISUAL:t03-01-corona-refrendo.png -->
+<!-- VISUAL:t03-01-corona-refrendo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-01-corona-refrendo.png" alt="La Corona y el refrendo" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-01-corona-refrendo.webp" alt="La Corona y el refrendo" width="820">
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -56,13 +56,15 @@
 - Las abdicaciones, renuncias y dudas sucesorias se resuelven mediante ley orgánica. **(57.5)**
 - La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia. **(58)**
 
-<!-- VISUAL:t03-02-sucesion-corona.png -->
+<!-- VISUAL:t03-02-sucesion-corona.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.png" alt="Sucesión a la Corona" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.webp" alt="Sucesión a la Corona" width="820">
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -78,13 +80,15 @@
 - La tutela del Rey es incompatible con todo cargo o representación política. **(60.2)**
 - El Rey, al ser proclamado ante las Cortes, jura desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar derechos y autonomías. **(61.1)**
 
-<!-- VISUAL:t03-03-regencia-tutela.png -->
+<!-- VISUAL:t03-03-regencia-tutela.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.png" alt="Regencia y tutela" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.webp" alt="Regencia y tutela" width="820">
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -101,21 +105,23 @@
 - Corresponde al Rey manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados. **(63.2)**
 - Corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales. **(63.3)**
 
-<!-- VISUAL:t03-04-funciones-rey.png -->
+<!-- VISUAL:t03-04-funciones-rey.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.png" alt="Funciones del Rey" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.webp" alt="Funciones del Rey" width="820">
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p1-audio -->
+<!-- MATERIAL PENDIENTE: t03-p1-video -->
+<!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
 
 <!-- FUENTE: CE-CORONA -->
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
 
-<!-- VISUAL:t03-ilu-03-cortes-debate-parlamentario.png -->
+<!-- VISUAL:t03-ilu-03-cortes-debate-parlamentario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-03-cortes-debate-parlamentario.png" alt="Las Cortes Generales y el debate parlamentario" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-03-cortes-debate-parlamentario.webp" alt="Las Cortes Generales y el debate parlamentario" width="600">
 </p>
 <p align="center"><em>Ilustración: Las Cortes Generales y el debate parlamentario.</em></p>
 
@@ -125,13 +131,15 @@
 - Nadie puede ser miembro simultáneamente del Congreso y del Senado. **(67.1)**
 - Los miembros de las Cortes Generales no están ligados por mandato imperativo. **(67.2)**
 
-<!-- VISUAL:t03-05-cortes-generales.png -->
+<!-- VISUAL:t03-05-cortes-generales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.png" alt="Cortes Generales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.webp" alt="Cortes Generales" width="820">
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -152,13 +160,15 @@
 - El Senado es elegido por cuatro años y el mandato termina cuatro años después de la elección o el día de la disolución. **(69.6)**
 - Entre las causas constitucionalmente mencionadas figuran determinados altos cargos, miembros del Tribunal Constitucional, Defensor del Pueblo, magistrados, jueces y fiscales en activo, militares y policías en activo y miembros de juntas electorales. **(70.1)**
 
-<!-- VISUAL:t03-06-congreso-senado.png -->
+<!-- VISUAL:t03-06-congreso-senado.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-06-congreso-senado.png" alt="Congreso y Senado" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-06-congreso-senado.webp" alt="Congreso y Senado" width="820">
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -172,13 +182,15 @@
 - Los reglamentos y sus reformas se someten a una votación final sobre su totalidad que requiere mayoría absoluta. **(72.1)**
 - Las sesiones conjuntas son presididas por el Presidente del Congreso y se rigen por un reglamento de las Cortes aprobado por mayoría absoluta de cada Cámara. **(72.2)**
 
-<!-- VISUAL:t03-07-prerrogativas-parlamentarias.png -->
+<!-- VISUAL:t03-07-prerrogativas-parlamentarias.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.png" alt="Prerrogativas parlamentarias" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.webp" alt="Prerrogativas parlamentarias" width="820">
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -202,13 +214,15 @@
 - El voto de senadores y diputados es personal e indelegable. **(79.3)**
 - Las sesiones plenarias son públicas, salvo acuerdo en contrario adoptado por mayoría absoluta o con arreglo al reglamento. **(80)**
 
-<!-- VISUAL:t03-08-funcionamiento-camaras.png -->
+<!-- VISUAL:t03-08-funcionamiento-camaras.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-08-funcionamiento-camaras.png" alt="Funcionamiento de las Cámaras" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-08-funcionamiento-camaras.webp" alt="Funcionamiento de las Cámaras" width="820">
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -224,13 +238,15 @@
 - Las leyes de bases no pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas. **(83)**
 - Las disposiciones del Gobierno que contienen legislación delegada reciben el título de decretos legislativos. **(85)**
 
-<!-- VISUAL:t03-09-leyes-organicas.png -->
+<!-- VISUAL:t03-09-leyes-organicas.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.png" alt="Leyes orgánicas y delegación legislativa" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.webp" alt="Leyes orgánicas y delegación legislativa" width="820">
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -256,13 +272,15 @@
 - Las decisiones políticas de especial trascendencia pueden someterse a referéndum consultivo de todos los ciudadanos. **(92.1)**
 - El referéndum consultivo es convocado por el Rey a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso. **(92.2)**
 
-<!-- VISUAL:t03-10-decreto-ley-iniciativa.png -->
+<!-- VISUAL:t03-10-decreto-ley-iniciativa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-10-decreto-ley-iniciativa.png" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-10-decreto-ley-iniciativa.webp" alt="Decreto-ley, iniciativa y procedimiento legislativo" width="820">
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -277,21 +295,23 @@
 - Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno. **(96.1)**
 - Para denunciar tratados se utiliza el mismo procedimiento previsto para su aprobación en el artículo 94. **(96.2)**
 
-<!-- VISUAL:t03-11-tratados-internacionales.png -->
+<!-- VISUAL:t03-11-tratados-internacionales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.png" alt="Tratados internacionales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.webp" alt="Tratados internacionales" width="820">
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p2-audio -->
+<!-- MATERIAL PENDIENTE: t03-p2-video -->
+<!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
 
 <!-- FUENTE: CE-CORTES -->
 
 ## 12. Gobierno: funciones, composición, investidura y cese
 
-<!-- VISUAL:t03-ilu-05-gobierno-y-parlamento.png -->
+<!-- VISUAL:t03-ilu-05-gobierno-y-parlamento.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-05-gobierno-y-parlamento.png" alt="Gobierno y control parlamentario" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-05-gobierno-y-parlamento.webp" alt="Gobierno y control parlamentario" width="600">
 </p>
 <p align="center"><em>Ilustración: Gobierno y control parlamentario.</em></p>
 
@@ -308,13 +328,15 @@
 - El Gobierno cesa tras elecciones generales, pérdida de confianza, dimisión o fallecimiento de su Presidente. **(101.1)**
 - El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno. **(101.2)**
 
-<!-- VISUAL:t03-12-gobierno-investidura.png -->
+<!-- VISUAL:t03-12-gobierno-investidura.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-12-gobierno-investidura.png" alt="Gobierno e investidura" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-12-gobierno-investidura.webp" alt="Gobierno e investidura" width="820">
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -336,13 +358,15 @@
 - Los particulares tienen derecho a indemnización por lesiones causadas por servicios públicos, salvo fuerza mayor y en los términos legales. **(106.2)**
 - El Consejo de Estado es el supremo órgano consultivo del Gobierno y una ley orgánica regula su composición y competencia. **(107)**
 
-<!-- VISUAL:t03-13-responsabilidad-gobierno.png -->
+<!-- VISUAL:t03-13-responsabilidad-gobierno.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-13-responsabilidad-gobierno.png" alt="Responsabilidad del Gobierno y Administración" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-13-responsabilidad-gobierno.webp" alt="Responsabilidad del Gobierno y Administración" width="820">
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -354,13 +378,15 @@
 - El Gobierno y cada uno de sus miembros están sometidos a preguntas e interpelaciones parlamentarias. **(111.1)**
 - Toda interpelación puede dar lugar a una moción en la que la Cámara manifieste su posición. **(111.2)**
 
-<!-- VISUAL:t03-14-control-parlamentario.png -->
+<!-- VISUAL:t03-14-control-parlamentario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.png" alt="Control parlamentario" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.webp" alt="Control parlamentario" width="820">
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -381,13 +407,15 @@
 - No puede proponerse la disolución mientras esté en trámite una moción de censura. **(115.2)**
 - No procede una nueva disolución antes de un año desde la anterior, salvo el artículo 99.5. **(115.3)**
 
-<!-- VISUAL:t03-15-censura-disolucion.png -->
+<!-- VISUAL:t03-15-censura-disolucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.png" alt="Moción de censura y disolución" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.webp" alt="Moción de censura y disolución" width="820">
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -411,21 +439,23 @@
 - El funcionamiento de las Cámaras y demás poderes constitucionales no puede interrumpirse durante los estados excepcionales. **(116.5)**
 - La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes. **(116.6)**
 
-<!-- VISUAL:t03-16-estados-excepcionales.png -->
+<!-- VISUAL:t03-16-estados-excepcionales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-16-estados-excepcionales.png" alt="Estados excepcionales" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-16-estados-excepcionales.webp" alt="Estados excepcionales" width="820">
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p3-audio -->
+<!-- MATERIAL PENDIENTE: t03-p3-video -->
+<!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
 
 <!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
 
-<!-- VISUAL:t03-ilu-07-justicia-independiente.png -->
+<!-- VISUAL:t03-ilu-07-justicia-independiente.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-07-justicia-independiente.png" alt="Independencia judicial" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-07-justicia-independiente.webp" alt="Independencia judicial" width="600">
 </p>
 <p align="center"><em>Ilustración: Independencia judicial.</em></p>
 
@@ -441,7 +471,9 @@
 - Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento. **(120.1)**
 - Las sentencias deben ser motivadas y pronunciarse en audiencia pública. **(120.3)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p4-audio -->
+<!-- MATERIAL PENDIENTE: t03-p4-video -->
+<!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
 
 <!-- FUENTE: CE-JUDICIAL -->
 
@@ -463,15 +495,17 @@
 - La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales. **(126)**
 - Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos. **(127.1)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p4-audio -->
+<!-- MATERIAL PENDIENTE: t03-p4-video -->
+<!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
 
 <!-- FUENTE: LOPJ -->
 
 ## 19. Principios territoriales y Administración local
 
-<!-- VISUAL:t03-ilu-09-territorio-y-autonomia.png -->
+<!-- VISUAL:t03-ilu-09-territorio-y-autonomia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-09-territorio-y-autonomia.png" alt="Territorio, autonomía y solidaridad" width="420">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-09-territorio-y-autonomia.webp" alt="Territorio, autonomía y solidaridad" width="600">
 </p>
 <p align="center"><em>Ilustración: Territorio, autonomía y solidaridad.</em></p>
 
@@ -491,7 +525,9 @@
 - En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos. **(141.4)**
 - Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos. **(142)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -510,7 +546,9 @@
 - El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso. **(147.2)**
 - La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica. **(147.3)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -533,7 +571,9 @@
 - En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica. **(149.3)**
 - El Derecho estatal es supletorio del Derecho autonómico. **(149.3)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -554,7 +594,9 @@
 - El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella. **(152.1)**
 - Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo. **(152.1)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -576,15 +618,17 @@
 - Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales. **(158.1)**
 - El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión. **(158.2)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p5-audio -->
+<!-- MATERIAL PENDIENTE: t03-p5-video -->
+<!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 24. Tribunal Constitucional
 
-<!-- VISUAL:t03-ilu-10-guardian-de-la-constitucion.png -->
+<!-- VISUAL:t03-ilu-10-guardian-de-la-constitucion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-10-guardian-de-la-constitucion.png" alt="El Tribunal Constitucional como garante" width="600">
+  <img src="../../../assets/policia-nacional/tema-03/t03-ilu-10-guardian-de-la-constitucion.webp" alt="El Tribunal Constitucional como garante" width="600">
 </p>
 <p align="center"><em>Ilustración: El Tribunal Constitucional como garante.</em></p>
 
@@ -614,7 +658,9 @@
 - El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda. **(LOTC art. 7)**
 - Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados. **(LOTC art. 8)**
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p6-audio -->
+<!-- MATERIAL PENDIENTE: t03-p6-video -->
+<!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
 
 <!-- FUENTE: LOTC -->
 
@@ -633,13 +679,15 @@
 - La reforma agravada aprobada se somete siempre a referéndum de ratificación. **(168.3)**
 - No puede iniciarse una reforma constitucional en tiempo de guerra ni durante los estados del artículo 116. **(169)**
 
-<!-- VISUAL:t03-17-reforma-constitucional.png -->
+<!-- VISUAL:t03-17-reforma-constitucional.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.png" alt="Reforma constitucional" width="820">
+  <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.webp" alt="Reforma constitucional" width="820">
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t03-p6-audio -->
+<!-- MATERIAL PENDIENTE: t03-p6-video -->
+<!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
 
 <!-- FUENTE: CE-REFORMA -->
 
