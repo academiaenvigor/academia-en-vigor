@@ -24,6 +24,8 @@ La parte más densa es nacionalidad: conviene estudiarla como una secuencia de *
   <img src="../../../assets/policia-nacional/tema-01/t01-01-mapa-general.png" alt="Mapa general" width="820">
 </p>
 
+> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 # Contenido
 
 ## 01. El Derecho: concepto y función
@@ -45,6 +47,8 @@ cuando una norma permite a un agente actuar en un supuesto concreto y, al mismo 
 :::lo-que-cae
 concepto amplio de Derecho; funciones; diferencia entre coercibilidad y sanción.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -78,6 +82,8 @@ los distractores suelen intercambiar objetivo/subjetivo y positivo/natural.
 </p>
 <p align="center"><em>Infografía: cinco tarjetas con ejemplo de cada acepción.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-DERECHO -->
 
 ## 03. Derecho público, privado, común y especial
@@ -99,6 +105,8 @@ una potestad de identificación pertenece al Derecho público. Un contrato de ar
 :::lo-que-cae
 criterio público/privado; especialidad frente a jerarquía; función supletoria del Derecho común.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -124,6 +132,8 @@ concepto; positividad; obligatoriedad; posibilidad de normas organizativas y per
 </p>
 <p align="center"><em>Infografía: artículo, norma, supuesto y efecto.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-NORMA -->
 
 ## 05. Estructura de la norma jurídica
@@ -141,6 +151,8 @@ La consecuencia puede consistir en el nacimiento, modificación o extinción de 
 :::lo-que-cae
 supuesto de hecho, consecuencia jurídica y diferencia entre consecuencia y sanción.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -174,6 +186,8 @@ imperativa frente a dispositiva; especialidad no equivale a superioridad jerárq
 </p>
 <p align="center"><em>Infografía: matriz de clasificaciones sin mezclarlas.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-NORMA -->
 
 ## 07. Caracteres de las normas jurídicas
@@ -191,6 +205,8 @@ Son caracteres doctrinales: ayudan a comprender la norma, pero no deben presenta
 :::lo-que-cae
 definición de generalidad, abstracción, heteronomía y coercibilidad.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -228,6 +244,8 @@ orden del artículo 1 CC; posición de costumbre y principios; jurisprudencia co
 </p>
 <p align="center"><em>Ilustración: una norma inferior no puede contradecir a la superior.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PRELIMINAR -->
 
 ## 09. Publicación, vigencia y eficacia de las normas
@@ -254,6 +272,8 @@ no basta «vestir» una conducta con una norma aparentemente permitida si el obj
 </p>
 <p align="center"><em>Infografía: línea temporal publicación–vacatio–entrada y cuadro de artículos 2, 4, 6 y 7.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PRELIMINAR -->
 
 ## 10. La persona en sentido jurídico
@@ -277,6 +297,8 @@ concepto de persona; clases; personalidad separada de la persona jurídica.
   <img src="../../../assets/policia-nacional/tema-01/t01-07-persona-fisica-juridica.png" alt="comparación de nacimiento, organización, patrimonio y extinción" width="820">
 </p>
 <p align="center"><em>Infografía: comparación de nacimiento, organización, patrimonio y extinción.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-PERSONA -->
 
@@ -302,6 +324,8 @@ artículos 29 y 30; nacimiento con vida; entero desprendimiento; efectos favorab
 </p>
 <p align="center"><em>Infografía: secuencia concebido → nacimiento → personalidad.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PERSONA -->
 
 ## 12. Extinción de la personalidad y conmoriencia
@@ -319,6 +343,8 @@ si nadie puede demostrar el orden de las muertes, la ley corta la cadena sucesor
 :::lo-que-cae
 muerte como extinción; carga de la prueba y efecto de la conmoriencia.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -347,6 +373,8 @@ diferencia titularidad/ejercicio; cambio de paradigma de 2021; apoyos y respeto 
   <img src="../../../assets/policia-nacional/tema-01/t01-09-capacidad-juridica-obrar.png" alt="«tener derechos / ejercerlos» y catálogo básico de apoyos" width="820">
 </p>
 <p align="center"><em>Infografía: «tener derechos / ejercerlos» y catálogo básico de apoyos.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-CAPACIDAD -->
 
@@ -378,6 +406,8 @@ emanciparse abre gran parte de la puerta, pero no entrega todas las llaves patri
 </p>
 <p align="center"><em>Ilustración: la autonomía aumenta por etapas; emancipación y mayoría de edad no son equivalentes.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-CAPACIDAD -->
 
 ## 15. Personas jurídicas: clases y constitución
@@ -396,6 +426,8 @@ La clasificación del Código Civil es general. Para conocer el momento exacto d
 artículo 35; personalidad independiente; válida constitución; remisión del artículo 36.
 :::
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PERSONA -->
 
 ## 16. Capacidad y extinción de las personas jurídicas
@@ -413,6 +445,8 @@ la entidad actúa a través de personas físicas, pero el patrimonio y las oblig
 :::lo-que-cae
 fuentes de capacidad según tipo; facultades del artículo 38; causas y efectos de extinción.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -444,6 +478,8 @@ artículo 11 CE; origen/derivativa; privación frente a pérdida; doble nacional
 </p>
 <p align="center"><em>Ilustración: cinco vías diferentes con un mismo resultado jurídico.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 18. Españoles de origen
@@ -473,6 +509,8 @@ cuatro grupos del artículo 17.1; excepción diplomática; primer lugar conocido
 </p>
 <p align="center"><em>Infografía: árbol de decisión del artículo 17.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 19. Consolidación por posesión de estado y adopción
@@ -492,6 +530,8 @@ requisitos del artículo 18; menor/mayor de 18 en adopción; plazo de dos años.
 :::
 
 <!-- VISUAL PENDIENTE: t01-13-adopcion-posesion.png -->
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -517,6 +557,8 @@ grupos del artículo 20.1; 14/18/20 años; asistencia; opción sin límite de ed
 </p>
 <p align="center"><em>Infografía: sujeto, representante, asistencia y plazos.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 21. Carta de naturaleza y nacionalidad por residencia
@@ -541,6 +583,8 @@ carta = decisión excepcional del Gobierno por Real Decreto; residencia = expedi
   <img src="../../../assets/policia-nacional/tema-01/t01-15-carta-de-naturaleza.png" alt="requisitos y carácter discrecional de la concesión" width="820">
 </p>
 <p align="center"><em>Infografía: requisitos y carácter discrecional de la concesión.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -573,6 +617,8 @@ lista 10–5–2–1; «nacional de origen»; residencia legal, continuada e inm
 </p>
 <p align="center"><em>Infografía: infografía estrella con cuatro columnas y condiciones.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 23. Requisitos comunes de adquisición
@@ -590,6 +636,8 @@ obtener una resolución favorable no basta si después no se completan las forma
 :::lo-que-cae
 edad de 14 años; juramento/promesa; renuncia y excepciones; inscripción registral.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -625,6 +673,8 @@ tres años; conservación; países exceptuados; renuncia; guerra; causas del no 
 </p>
 <p align="center"><em>Infografía: países con convenio y efecto sobre la conservación.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 25. Recuperación de la nacionalidad
@@ -654,6 +704,8 @@ residencia, declaración e inscripción; excepciones; habilitación del Gobierno
   <img src="../../../assets/policia-nacional/tema-01/t01-il-06-conservar-recuperar.png" alt="vínculo conservado frente a vínculo recuperado tras la pérdida" width="600">
 </p>
 <p align="center"><em>Ilustración: vínculo conservado frente a vínculo recuperado tras la pérdida.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -689,6 +741,8 @@ residencia habitual; diplomáticos; orden de criterios de personas jurídicas; d
 </p>
 <p align="center"><em>Ilustración: residencia habitual, alojamiento temporal y conexión fiscal cumplen funciones distintas.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-DOMICILIO -->
 
 ## 27. Vecindad civil: concepto y atribución inicial
@@ -719,6 +773,8 @@ función; regla de padres iguales; orden cuando difieren; seis meses; adopción;
 </p>
 <p align="center"><em>Ilustración: familia, territorio y opción como conexiones de vecindad civil.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-VECINDAD -->
 
 ## 28. Opción y adquisición de vecindad por residencia
@@ -740,6 +796,8 @@ en dos años hay que pedir el cambio; en diez años se produce si no dejaste con
 :::
 
 <!-- VISUAL PENDIENTE: t01-20-vecindad-dos-diez.png -->
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-VECINDAD -->
 
@@ -764,6 +822,8 @@ cuatro conexiones; carta de naturaleza; recuperación automática de la vecindad
   <img src="../../../assets/policia-nacional/tema-01/t01-21-nacionalidad-y-vecindad.png" alt="cuatro caminos de opción y recuperación" width="820">
 </p>
 <p align="center"><em>Infografía: cuatro caminos de opción y recuperación.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-VECINDAD -->
 

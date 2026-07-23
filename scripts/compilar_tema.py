@@ -145,6 +145,61 @@ def render_visuals(text: str, opposition: str, topic: int) -> str:
     return VISUAL_BLOCK_RE.sub(render_block, text)
 
 
+
+ICONOS_MATERIAL = {
+    'audios': '🎧', 'videos': '🎬', 'presentaciones': '📊', 'infografias': '🖼',
+}
+ETIQUETAS_MATERIAL = {
+    'audios': 'Audio', 'videos': 'Vídeo',
+    'presentaciones': 'Presentación', 'infografias': 'Infografía',
+}
+MATERIAL_DISPONIBLE = {'approved_internal', 'published'}
+
+
+def cargar_materiales(opposition: str, topic: int) -> dict:
+    """Lee el manifest de materiales y lo indexa por bloque y por tema."""
+    ruta = ROOT / 'materiales-didacticos' / opposition / f'tema-{topic:02d}' / 'manifest.json'
+    if not ruta.exists():
+        return {'por_bloque': {}, 'general': [], 'mostrar_planificados': False}
+    data = json.loads(ruta.read_text(encoding='utf-8'))
+    mostrar = bool(data.get('display_policy', {}).get('show_planned_in_temas'))
+    por_bloque, general = {}, []
+    for recurso in data.get('resources', []):
+        if recurso.get('scope') == 'tema':
+            general.append(recurso)
+        for bloque in recurso.get('blocks', []):
+            por_bloque.setdefault(str(bloque), []).append(recurso)
+    return {'por_bloque': por_bloque, 'general': general, 'mostrar_planificados': mostrar}
+
+
+def tira_materiales(recursos: list, mostrar_planificados: bool, titulo: str) -> str:
+    """Genera la tira de accesos al material didáctico de un punto o del tema.
+
+    La infografía no se incluye: ya se muestra incrustada en el propio texto.
+    """
+    piezas = []
+    for recurso in recursos:
+        categoria = recurso.get('category')
+        if categoria == 'infografias':
+            continue
+        icono = ICONOS_MATERIAL.get(categoria, '📎')
+        etiqueta = ETIQUETAS_MATERIAL.get(categoria, 'Material')
+        segundos = recurso.get('duration_seconds')
+        duracion = f' · {round(segundos / 60)} min' if segundos else ''
+        url = (recurso.get('storage') or {}).get('url') or ''
+        disponible = recurso.get('status') in MATERIAL_DISPONIBLE and url
+        if disponible:
+            piezas.append(f'[{icono} {etiqueta}{duracion}]({url})')
+        elif mostrar_planificados:
+            piezas.append(f'{icono} {etiqueta} *(en producción)*')
+        else:
+            piezas.append(f'<!-- MATERIAL PENDIENTE: {recurso.get("id")} -->')
+    visibles = [x for x in piezas if not x.startswith('<!--')]
+    if not visibles:
+        return '\n'.join(piezas)
+    return f'> **{titulo}:** ' + ' · '.join(visibles)
+
+
 def render(kind: str, manifest: dict, blocks: list[dict], layers: dict,
            opposition: str = 'policia-nacional', topic: int | None = None) -> str:
     number = int(manifest.get('topic_number') or str(manifest['topic']).split('-')[-1])
@@ -156,15 +211,24 @@ def render(kind: str, manifest: dict, blocks: list[dict], layers: dict,
         f'**Versión de contenido:** {manifest["content_version"]}\n'
         f'**Estado editorial:** {manifest["editorial_status"]} · **Publicación:** {manifest["publication_status"]}\n'
     ]
+    materiales_mapa = cargar_materiales(opposition, topic or number)
+    tira_general = tira_materiales(materiales_mapa['general'],
+                                   materiales_mapa['mostrar_planificados'],
+                                   'Material completo del tema')
     output.append(f'# {layers["MAPA"][0]}\n\n'
-                  f'{render_visuals(layers["MAPA"][1], opposition, topic or number)}\n')
+                  f'{render_visuals(layers["MAPA"][1], opposition, topic or number)}\n'
+                  + (f'\n{tira_general}\n' if tira_general else ''))
     output.append('# Contenido\n')
+    materiales = cargar_materiales(opposition, topic or number)
     for block in blocks:
         body = normalize_fact_markers(block[kind])
         body = render_visuals(body, opposition, topic or number)
         output.append(
             f'## {block["number"]}. {block["title"]}\n\n{body}\n\n'
-            f'<!-- FUENTE: {block["source"]} -->\n'
+            + (tira + '\n\n' if (tira := tira_materiales(
+                materiales['por_bloque'].get(str(block['number']), []),
+                materiales['mostrar_planificados'], 'Material de este punto')) else '')
+            + f'<!-- FUENTE: {block["source"]} -->\n'
         )
     for key in LAYERS[2:]:
         layer_title, body = layers[key]

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-01",
   "content_version": "0.2.0",
@@ -18,5 +18,2534 @@
   },
   "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
   "rights_policy": "own_or_explicitly_authorized_only",
-  "resources": []
+  "resources": [
+    {
+      "id": "t01-general-audio",
+      "category": "audios",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Audio general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/general/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-general-video",
+      "category": "videos",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Vídeo general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/general/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-general-presentacion",
+      "category": "presentaciones",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Presentación general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/general/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-general-infografia",
+      "category": "infografias",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Infografía general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/general/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b01-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Audio · El Derecho: concepto y función",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b01/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b01-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Vídeo · El Derecho: concepto y función",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b01/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b01-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Presentación · El Derecho: concepto y función",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b01/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b01-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Infografía · El Derecho: concepto y función",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b01/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b02-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Audio · Acepciones del Derecho",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b02/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b02-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Vídeo · Acepciones del Derecho",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b02/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b02-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Presentación · Acepciones del Derecho",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b02/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b02-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Infografía · Acepciones del Derecho",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b02/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b03-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Audio · Derecho público, privado, común y especial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b03/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b03-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Vídeo · Derecho público, privado, común y especial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b03/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b03-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Presentación · Derecho público, privado, común y especial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b03/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b03-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Infografía · Derecho público, privado, común y especial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b03/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b04-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Audio · La norma jurídica positiva",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b04/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b04-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Vídeo · La norma jurídica positiva",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b04/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b04-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Presentación · La norma jurídica positiva",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b04/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b04-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Infografía · La norma jurídica positiva",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b04/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b05-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Audio · Estructura de la norma jurídica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b05/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b05-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Vídeo · Estructura de la norma jurídica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b05/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b05-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Presentación · Estructura de la norma jurídica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b05/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b05-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Infografía · Estructura de la norma jurídica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b05/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b06-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Audio · Clases de normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b06/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b06-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Vídeo · Clases de normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b06/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b06-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Presentación · Clases de normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b06/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b06-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Infografía · Clases de normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b06/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b07-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Audio · Caracteres de las normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b07/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b07-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Vídeo · Caracteres de las normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b07/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b07-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Presentación · Caracteres de las normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b07/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b07-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Infografía · Caracteres de las normas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b07/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b08-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Audio · Fuentes y principio de jerarquía normativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b08/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b08-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Vídeo · Fuentes y principio de jerarquía normativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b08/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b08-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Presentación · Fuentes y principio de jerarquía normativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b08/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b08-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Infografía · Fuentes y principio de jerarquía normativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b08/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b09-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Audio · Publicación, vigencia y eficacia de las normas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b09/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b09-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Vídeo · Publicación, vigencia y eficacia de las normas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b09/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b09-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Presentación · Publicación, vigencia y eficacia de las normas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b09/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b09-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Infografía · Publicación, vigencia y eficacia de las normas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b09/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b10-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Audio · La persona en sentido jurídico",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b10/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b10-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Vídeo · La persona en sentido jurídico",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b10/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b10-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Presentación · La persona en sentido jurídico",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b10/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b10-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Infografía · La persona en sentido jurídico",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b10/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b11-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Audio · Nacimiento y protección del concebido",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b11/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b11-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Vídeo · Nacimiento y protección del concebido",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b11/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b11-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Presentación · Nacimiento y protección del concebido",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b11/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b11-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Infografía · Nacimiento y protección del concebido",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b11/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b12-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Audio · Extinción de la personalidad y conmoriencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b12/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b12-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Vídeo · Extinción de la personalidad y conmoriencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b12/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b12-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Presentación · Extinción de la personalidad y conmoriencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b12/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b12-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Infografía · Extinción de la personalidad y conmoriencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b12/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b13-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Audio · Capacidad jurídica y capacidad de obrar",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b13/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b13-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Vídeo · Capacidad jurídica y capacidad de obrar",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b13/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b13-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Presentación · Capacidad jurídica y capacidad de obrar",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b13/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b13-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Infografía · Capacidad jurídica y capacidad de obrar",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b13/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b14-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Audio · Mayoría de edad y emancipación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b14/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b14-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Vídeo · Mayoría de edad y emancipación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b14/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b14-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Presentación · Mayoría de edad y emancipación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b14/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b14-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Infografía · Mayoría de edad y emancipación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b14/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b15-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Audio · Personas jurídicas: clases y constitución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b15/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b15-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Vídeo · Personas jurídicas: clases y constitución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b15/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b15-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Presentación · Personas jurídicas: clases y constitución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b15/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b15-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Infografía · Personas jurídicas: clases y constitución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b15/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b16-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Audio · Capacidad y extinción de las personas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b16/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b16-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Vídeo · Capacidad y extinción de las personas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b16/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b16-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Presentación · Capacidad y extinción de las personas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b16/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b16-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Infografía · Capacidad y extinción de las personas jurídicas",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b16/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b17-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Audio · Nacionalidad española: marco constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b17/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b17-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Vídeo · Nacionalidad española: marco constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b17/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b17-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Presentación · Nacionalidad española: marco constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b17/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b17-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Infografía · Nacionalidad española: marco constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b17/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b18-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Audio · Españoles de origen",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b18/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b18-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Vídeo · Españoles de origen",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b18/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b18-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Presentación · Españoles de origen",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b18/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b18-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Infografía · Españoles de origen",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b18/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b19-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Audio · Consolidación por posesión de estado y adopción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b19/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b19-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Vídeo · Consolidación por posesión de estado y adopción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b19/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b19-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Presentación · Consolidación por posesión de estado y adopción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b19/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b19-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Infografía · Consolidación por posesión de estado y adopción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b19/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b20-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Audio · Derecho de opción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b20/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b20-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Vídeo · Derecho de opción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b20/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b20-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Presentación · Derecho de opción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b20/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b20-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Infografía · Derecho de opción",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b20/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b21-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Audio · Carta de naturaleza y nacionalidad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b21/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b21-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Vídeo · Carta de naturaleza y nacionalidad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b21/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b21-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Presentación · Carta de naturaleza y nacionalidad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b21/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b21-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Infografía · Carta de naturaleza y nacionalidad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b21/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b22-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Audio · Plazos de residencia para la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b22/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b22-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Vídeo · Plazos de residencia para la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b22/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b22-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Presentación · Plazos de residencia para la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b22/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b22-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Infografía · Plazos de residencia para la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b22/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b23-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Audio · Requisitos comunes de adquisición",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b23/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b23-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Vídeo · Requisitos comunes de adquisición",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b23/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b23-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Presentación · Requisitos comunes de adquisición",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b23/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b23-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Infografía · Requisitos comunes de adquisición",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b23/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b24-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Audio · Conservación y pérdida de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b24/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b24-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Vídeo · Conservación y pérdida de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b24/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b24-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Presentación · Conservación y pérdida de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b24/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b24-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Infografía · Conservación y pérdida de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b24/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b25-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Audio · Recuperación de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b25/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b25-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Vídeo · Recuperación de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b25/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b25-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Presentación · Recuperación de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b25/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b25-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Infografía · Recuperación de la nacionalidad",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b25/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b26-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "26"
+      ],
+      "title": "Audio · El domicilio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b26/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b26-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "26"
+      ],
+      "title": "Vídeo · El domicilio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b26/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b26-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "26"
+      ],
+      "title": "Presentación · El domicilio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b26/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b26-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "26"
+      ],
+      "title": "Infografía · El domicilio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b26/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b27-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "27"
+      ],
+      "title": "Audio · Vecindad civil: concepto y atribución inicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b27/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b27-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "27"
+      ],
+      "title": "Vídeo · Vecindad civil: concepto y atribución inicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b27/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b27-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "27"
+      ],
+      "title": "Presentación · Vecindad civil: concepto y atribución inicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b27/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b27-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "27"
+      ],
+      "title": "Infografía · Vecindad civil: concepto y atribución inicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b27/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b28-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "28"
+      ],
+      "title": "Audio · Opción y adquisición de vecindad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b28/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b28-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "28"
+      ],
+      "title": "Vídeo · Opción y adquisición de vecindad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b28/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b28-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "28"
+      ],
+      "title": "Presentación · Opción y adquisición de vecindad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b28/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b28-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "28"
+      ],
+      "title": "Infografía · Opción y adquisición de vecindad por residencia",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b28/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b29-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "29"
+      ],
+      "title": "Audio · Vecindad en nacionalización y recuperación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b29/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b29-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "29"
+      ],
+      "title": "Vídeo · Vecindad en nacionalización y recuperación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b29/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b29-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "29"
+      ],
+      "title": "Presentación · Vecindad en nacionalización y recuperación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b29/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t01-b29-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "29"
+      ],
+      "title": "Infografía · Vecindad en nacionalización y recuperación",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.2.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-01/b29/infografia",
+        "url": ""
+      }
+    }
+  ],
+  "storage_config": {
+    "current_provider": "google_drive",
+    "account": "academiaenvigor@gmail.com",
+    "access_model": "enlace_privado_provisional",
+    "migration_target": "servidor_propio_con_url_firmada_por_usuario",
+    "resolution_note": "Los recursos se identifican por asset_key, no por su URL. Al migrar a servidor propio con autenticación basta con cambiar este bloque y el resolvedor de la plataforma: los manifests de los 45 temas no se tocan."
+  },
+  "display_policy": {
+    "show_planned_in_temas": true,
+    "note": "Poner en false al lanzar: entonces solo se mostrará el material realmente disponible."
+  },
+  "access_tiers": {
+    "general_tema": "mensual",
+    "por_bloque": "completa",
+    "note": "El material general de cada tema entra en el plan más barato; el material punto por punto es el valor de la Completa."
+  }
 }

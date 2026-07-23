@@ -13,6 +13,8 @@
 <p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
 
+> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
@@ -38,6 +40,8 @@
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORONA -->
 
 ## 02. Sucesión a la Corona y consorte
@@ -58,6 +62,8 @@
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORONA -->
 
 ## 03. Regencia, tutela y juramento
@@ -77,6 +83,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-03-regencia-tutela.png" alt="Regencia y tutela" width="820">
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -99,6 +107,8 @@
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORONA -->
 
 ## 05. Cortes Generales: naturaleza, funciones y mandato representativo
@@ -120,6 +130,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.png" alt="Cortes Generales" width="820">
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -146,6 +158,8 @@
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 07. Prerrogativas parlamentarias y autonomía de las Cámaras
@@ -163,6 +177,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.png" alt="Prerrogativas parlamentarias" width="820">
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -192,6 +208,8 @@
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 09. Leyes orgánicas y delegación legislativa
@@ -211,6 +229,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.png" alt="Leyes orgánicas y delegación legislativa" width="820">
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -242,6 +262,8 @@
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 11. Tratados internacionales
@@ -260,6 +282,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.png" alt="Tratados internacionales" width="820">
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -290,6 +314,8 @@
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-GOBIERNO -->
 
 ## 13. Responsabilidad del Gobierno y Administración Pública
@@ -316,6 +342,8 @@
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-GOBIERNO -->
 
 ## 14. Control parlamentario ordinario del Gobierno
@@ -331,6 +359,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.png" alt="Control parlamentario" width="820">
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -356,6 +386,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.png" alt="Moción de censura y disolución" width="820">
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -385,6 +417,8 @@
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
@@ -407,6 +441,8 @@
 - Las actuaciones judiciales son públicas, salvo excepciones previstas por las leyes de procedimiento. **(120.1)**
 - Las sentencias deben ser motivadas y pronunciarse en audiencia pública. **(120.3)**
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-JUDICIAL -->
 
 ## 18. Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial
@@ -426,6 +462,8 @@
 - La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus funciones de investigación. **(126)**
 - La Policía Judicial averigua el delito y descubre y asegura al delincuente en los términos legales. **(126)**
 - Jueces, magistrados y fiscales en activo no pueden desempeñar otros cargos públicos ni pertenecer a partidos o sindicatos. **(127.1)**
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: LOPJ -->
 
@@ -453,6 +491,8 @@
 - En los archipiélagos, las islas tienen administración propia mediante cabildos o consejos. **(141.4)**
 - Las haciendas locales deben disponer de medios suficientes y se nutren principalmente de tributos propios y participación en tributos estatal y autonómicos. **(142)**
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 20. Acceso a la autonomía y Estatutos
@@ -469,6 +509,8 @@
 - Los Estatutos son la norma institucional básica de cada comunidad y el Estado los reconoce como parte de su ordenamiento. **(147.1)**
 - El Estatuto debe contener denominación, delimitación territorial, organización institucional y competencias asumidas con bases de traspaso. **(147.2)**
 - La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica. **(147.3)**
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -491,6 +533,8 @@
 - En caso de conflicto, las normas estatales prevalecen salvo en materias de competencia exclusiva autonómica. **(149.3)**
 - El Derecho estatal es supletorio del Derecho autonómico. **(149.3)**
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 22. Técnicas del artículo 150 y vía especial del artículo 151
@@ -509,6 +553,8 @@
 - El Presidente es elegido por la Asamblea entre sus miembros y nombrado por el Rey. **(152.1)**
 - El Presidente dirige el Consejo, representa supremamente a la comunidad y representa ordinariamente al Estado en ella. **(152.1)**
 - Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo. **(152.1)**
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -529,6 +575,8 @@
 - Las comunidades no pueden gravar bienes fuera de su territorio ni obstaculizar libre circulación de mercancías o servicios. **(157.2)**
 - Los Presupuestos pueden asignar recursos según volumen de servicios para garantizar un nivel mínimo de servicios públicos fundamentales. **(158.1)**
 - El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión. **(158.2)**
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -566,6 +614,8 @@
 - El Presidente preside la Sala Primera y el Vicepresidente la Sala Segunda. **(LOTC art. 7)**
 - Las Secciones están compuestas por el Presidente correspondiente o sustituto y dos magistrados. **(LOTC art. 8)**
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: LOTC -->
 
 ## 25. Reforma constitucional
@@ -588,6 +638,8 @@
   <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.png" alt="Reforma constitucional" width="820">
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-REFORMA -->
 

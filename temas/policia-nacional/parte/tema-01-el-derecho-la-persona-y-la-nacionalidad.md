@@ -24,6 +24,8 @@ La parte más densa es nacionalidad: conviene estudiarla como una secuencia de *
   <img src="../../../assets/policia-nacional/tema-01/t01-01-mapa-general.png" alt="Mapa general" width="820">
 </p>
 
+> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 # Contenido
 
 ## 01. El Derecho: concepto y función
@@ -33,6 +35,8 @@ El Derecho es el sistema de normas, principios e instituciones que ordena la con
 :::perla-vigor
 la coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -53,6 +57,8 @@ el derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.
   <img src="../../../assets/policia-nacional/tema-01/t01-02-acepciones-derecho.png" alt="Acepciones derecho" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-DERECHO -->
 
 ## 03. Derecho público, privado, común y especial
@@ -62,6 +68,8 @@ El Derecho público regula la organización de los poderes públicos y las relac
 :::perla-vigor
 que intervenga una Administración no convierte por sí solo toda relación en Derecho público.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-DERECHO -->
 
@@ -78,6 +86,8 @@ norma jurídica no equivale necesariamente a artículo ni a sanción.
   <img src="../../../assets/policia-nacional/tema-01/t01-03-anatomia-norma.png" alt="Anatomia norma" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-NORMA -->
 
 ## 05. Estructura de la norma jurídica
@@ -87,6 +97,8 @@ La estructura lógica clásica distingue **supuesto de hecho** y **consecuencia 
 :::trampa
 consecuencia jurídica no significa necesariamente castigo.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -103,6 +115,8 @@ una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particul
   <img src="../../../assets/policia-nacional/tema-01/t01-04-clases-normas.png" alt="Clases normas" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-NORMA -->
 
 ## 07. Caracteres de las normas jurídicas
@@ -112,6 +126,8 @@ Entre los caracteres doctrinales destacan generalidad, abstracción, obligatorie
 :::trampa
 generalidad no significa que la norma se aplique a todas las personas, sino a una categoría definida de destinatarios o supuestos.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-NORMA -->
 
@@ -128,6 +144,8 @@ la costumbre rige en defecto de ley aplicable; los principios generales, en defe
   <img src="../../../assets/policia-nacional/tema-01/t01-05-fuentes-jerarquia.png" alt="Fuentes jerarquia" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PRELIMINAR -->
 
 ## 09. Publicación, vigencia y eficacia de las normas
@@ -142,6 +160,8 @@ derogar una ley no hace revivir automáticamente las que esta había derogado.
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-01/t01-06-vigencia-eficacia.png" alt="Vigencia eficacia" width="820">
 </p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-PRELIMINAR -->
 
@@ -158,6 +178,8 @@ ser persona jurídica no significa ser una persona humana; significa ser un suje
   <img src="../../../assets/policia-nacional/tema-01/t01-07-persona-fisica-juridica.png" alt="Persona fisica juridica" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: DPEJ-PERSONA -->
 
 ## 11. Nacimiento y protección del concebido
@@ -173,6 +195,8 @@ el concebido no tiene personalidad plena, pero el ordenamiento anticipa la prote
   <img src="../../../assets/policia-nacional/tema-01/t01-08-nacimiento-personalidad.png" alt="Nacimiento personalidad" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PERSONA -->
 
 ## 12. Extinción de la personalidad y conmoriencia
@@ -182,6 +206,8 @@ La personalidad civil se extingue por la muerte. Si dos o más personas llamadas
 :::trampa
 la conmoriencia es una regla probatoria para el caso de duda, no una afirmación de que realmente murieron en el mismo instante.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -197,6 +223,8 @@ apoyo no equivale automáticamente a sustitución de la voluntad.
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-01/t01-09-capacidad-juridica-obrar.png" alt="Capacidad juridica obrar" width="820">
 </p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: DPEJ-CAPACIDAD -->
 
@@ -219,6 +247,8 @@ el emancipado necesita consentimiento para tomar dinero a préstamo y para enaje
 </p>
 <p align="center"><em>Ilustración: autonomía progresiva a los 14, 16 y 18 años.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-CAPACIDAD -->
 
 ## 15. Personas jurídicas: clases y constitución
@@ -229,6 +259,8 @@ El Código Civil reconoce como personas jurídicas las corporaciones, asociacion
 el reconocimiento de personalidad no depende siempre de una inscripción idéntica para todas las entidades; cada tipo se rige por su normativa.
 :::
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-PERSONA -->
 
 ## 16. Capacidad y extinción de las personas jurídicas
@@ -238,6 +270,8 @@ La capacidad de corporaciones, asociaciones y fundaciones se determina por sus l
 :::perla-vigor
 si no se ha previsto destino para los bienes tras la extinción, el Código Civil establece una regla orientada a fines análogos de interés territorial.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-PERSONA -->
 
@@ -260,6 +294,8 @@ La nacionalidad es el vínculo jurídico entre una persona y el Estado. El artí
 </p>
 <p align="center"><em>Ilustración: distintas vías pueden conducir a la nacionalidad española.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 18. Españoles de origen
@@ -275,6 +311,8 @@ si filiación o nacimiento en España se determina después de los dieciocho añ
   <img src="../../../assets/policia-nacional/tema-01/t01-12-espanoles-de-origen.png" alt="Espanoles de origen" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 19. Consolidación por posesión de estado y adopción
@@ -284,6 +322,8 @@ La posesión y utilización continuadas de la nacionalidad durante **diez años*
 :::trampa
 consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -300,6 +340,8 @@ la opción del hijo de padre o madre originariamente español y nacido en Españ
   <img src="../../../assets/policia-nacional/tema-01/t01-13-nacionalidad-por-opcion.png" alt="Nacionalidad por opcion" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 21. Carta de naturaleza y nacionalidad por residencia
@@ -309,6 +351,8 @@ La carta de naturaleza se otorga discrecionalmente mediante **Real Decreto** cua
 :::perla-vigor
 ambas concesiones caducan a los **180 días** de la notificación si no se comparece para cumplir los requisitos del artículo 23.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -325,6 +369,8 @@ recuerda la secuencia **10–5–2–1**, pero el año exige encajar exactamente
   <img src="../../../assets/policia-nacional/tema-01/t01-14-nacionalidad-por-residencia.png" alt="Nacionalidad por residencia" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 23. Requisitos comunes de adquisición
@@ -334,6 +380,8 @@ Para la validez de la adquisición por opción, carta de naturaleza o residencia
 :::trampa
 la renuncia tiene excepciones; la inscripción no.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -349,6 +397,8 @@ adquirir la nacionalidad de un país iberoamericano, Andorra, Filipinas, Guinea 
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-01/t01-16-perdida-de-la-nacionalidad.png" alt="Perdida de la nacionalidad" width="820">
 </p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-NACIONALIDAD -->
 
@@ -366,6 +416,8 @@ recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 </p>
 <p align="center"><em>Ilustración: conservar actúa antes de la pérdida; recuperar, después.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-NACIONALIDAD -->
 
 ## 26. El domicilio
@@ -380,6 +432,8 @@ domicilio civil, empadronamiento y domicilio constitucional no son conceptos id�
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-01/t01-20-domicilio.png" alt="Domicilio" width="820">
 </p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-DOMICILIO -->
 
@@ -396,6 +450,8 @@ vecindad civil no es empadronamiento, domicilio, nacionalidad ni vecindad admini
   <img src="../../../assets/policia-nacional/tema-01/t01-19-vecindad-civil.png" alt="Vecindad civil" width="820">
 </p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-VECINDAD -->
 
 ## 28. Opción y adquisición de vecindad por residencia
@@ -408,6 +464,8 @@ Desde los catorce años y hasta un año después de la emancipación puede optar
 
 <!-- VISUAL PENDIENTE: t01-20-vecindad-dos-diez.png -->
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CC-VECINDAD -->
 
 ## 29. Vecindad en nacionalización y recuperación
@@ -417,6 +475,8 @@ Al adquirir la nacionalidad española debe optarse, según las conexiones legale
 :::trampa
 el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
 :::
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CC-VECINDAD -->
 

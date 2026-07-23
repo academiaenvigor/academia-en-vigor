@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-03",
   "content_version": "0.3.0",
@@ -17,9 +17,2202 @@
     "sources": "produccion/fuentes.md",
     "prompts": "produccion/prompts.md"
   },
-  "resources": [],
+  "resources": [
+    {
+      "id": "t03-general-audio",
+      "category": "audios",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Audio general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/general/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-general-video",
+      "category": "videos",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Vídeo general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/general/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-general-presentacion",
+      "category": "presentaciones",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Presentación general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/general/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-general-infografia",
+      "category": "infografias",
+      "scope": "tema",
+      "blocks": [],
+      "title": "Infografía general del tema",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "mensual",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/general/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b01-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Audio · La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b01/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b01-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Vídeo · La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b01/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b01-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Presentación · La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b01/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b01-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "01"
+      ],
+      "title": "Infografía · La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b01/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b02-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Audio · Sucesión a la Corona y consorte",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b02/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b02-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Vídeo · Sucesión a la Corona y consorte",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b02/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b02-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Presentación · Sucesión a la Corona y consorte",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b02/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b02-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "02"
+      ],
+      "title": "Infografía · Sucesión a la Corona y consorte",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b02/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b03-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Audio · Regencia, tutela y juramento",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b03/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b03-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Vídeo · Regencia, tutela y juramento",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b03/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b03-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Presentación · Regencia, tutela y juramento",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b03/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b03-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "03"
+      ],
+      "title": "Infografía · Regencia, tutela y juramento",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b03/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b04-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Audio · Funciones nacionales e internacionales del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b04/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b04-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Vídeo · Funciones nacionales e internacionales del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b04/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b04-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Presentación · Funciones nacionales e internacionales del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b04/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b04-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "04"
+      ],
+      "title": "Infografía · Funciones nacionales e internacionales del Rey",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b04/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b05-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Audio · Cortes Generales: naturaleza, funciones y mandato representativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b05/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b05-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Vídeo · Cortes Generales: naturaleza, funciones y mandato representativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b05/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b05-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Presentación · Cortes Generales: naturaleza, funciones y mandato representativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b05/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b05-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "05"
+      ],
+      "title": "Infografía · Cortes Generales: naturaleza, funciones y mandato representativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b05/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b06-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Audio · Congreso, Senado e incompatibilidades",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b06/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b06-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Vídeo · Congreso, Senado e incompatibilidades",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b06/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b06-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Presentación · Congreso, Senado e incompatibilidades",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b06/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b06-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "06"
+      ],
+      "title": "Infografía · Congreso, Senado e incompatibilidades",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b06/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b07-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Audio · Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b07/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b07-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Vídeo · Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b07/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b07-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Presentación · Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b07/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b07-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "07"
+      ],
+      "title": "Infografía · Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b07/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b08-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Audio · Funcionamiento de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b08/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b08-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Vídeo · Funcionamiento de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b08/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b08-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Presentación · Funcionamiento de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b08/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b08-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "08"
+      ],
+      "title": "Infografía · Funcionamiento de las Cámaras",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b08/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b09-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Audio · Leyes orgánicas y delegación legislativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b09/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b09-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Vídeo · Leyes orgánicas y delegación legislativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b09/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b09-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Presentación · Leyes orgánicas y delegación legislativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b09/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b09-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "09"
+      ],
+      "title": "Infografía · Leyes orgánicas y delegación legislativa",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b09/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b10-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Audio · Decreto-ley, iniciativa y procedimiento legislativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b10/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b10-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Vídeo · Decreto-ley, iniciativa y procedimiento legislativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b10/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b10-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Presentación · Decreto-ley, iniciativa y procedimiento legislativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b10/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b10-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "10"
+      ],
+      "title": "Infografía · Decreto-ley, iniciativa y procedimiento legislativo",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b10/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b11-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Audio · Tratados internacionales",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b11/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b11-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Vídeo · Tratados internacionales",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b11/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b11-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Presentación · Tratados internacionales",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b11/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b11-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "11"
+      ],
+      "title": "Infografía · Tratados internacionales",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b11/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b12-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Audio · Gobierno: funciones, composición, investidura y cese",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b12/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b12-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Vídeo · Gobierno: funciones, composición, investidura y cese",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b12/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b12-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Presentación · Gobierno: funciones, composición, investidura y cese",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b12/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b12-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "12"
+      ],
+      "title": "Infografía · Gobierno: funciones, composición, investidura y cese",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b12/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b13-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Audio · Responsabilidad del Gobierno y Administración Pública",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b13/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b13-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Vídeo · Responsabilidad del Gobierno y Administración Pública",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b13/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b13-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Presentación · Responsabilidad del Gobierno y Administración Pública",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b13/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b13-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "13"
+      ],
+      "title": "Infografía · Responsabilidad del Gobierno y Administración Pública",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b13/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b14-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Audio · Control parlamentario ordinario del Gobierno",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b14/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b14-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Vídeo · Control parlamentario ordinario del Gobierno",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b14/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b14-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Presentación · Control parlamentario ordinario del Gobierno",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b14/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b14-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "14"
+      ],
+      "title": "Infografía · Control parlamentario ordinario del Gobierno",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b14/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b15-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Audio · Confianza, censura y disolución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b15/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b15-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Vídeo · Confianza, censura y disolución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b15/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b15-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Presentación · Confianza, censura y disolución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b15/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b15-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "15"
+      ],
+      "title": "Infografía · Confianza, censura y disolución",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b15/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b16-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Audio · Estados de alarma, excepción y sitio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b16/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b16-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Vídeo · Estados de alarma, excepción y sitio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b16/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b16-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Presentación · Estados de alarma, excepción y sitio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b16/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b16-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "16"
+      ],
+      "title": "Infografía · Estados de alarma, excepción y sitio",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b16/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b17-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Audio · Poder Judicial: principios y proceso",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b17/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b17-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Vídeo · Poder Judicial: principios y proceso",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b17/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b17-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Presentación · Poder Judicial: principios y proceso",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b17/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b17-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "17"
+      ],
+      "title": "Infografía · Poder Judicial: principios y proceso",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b17/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b18-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Audio · Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b18/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b18-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Vídeo · Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b18/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b18-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Presentación · Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b18/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b18-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "18"
+      ],
+      "title": "Infografía · Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b18/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b19-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Audio · Principios territoriales y Administración local",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b19/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b19-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Vídeo · Principios territoriales y Administración local",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b19/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b19-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Presentación · Principios territoriales y Administración local",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b19/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b19-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "19"
+      ],
+      "title": "Infografía · Principios territoriales y Administración local",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b19/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b20-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Audio · Acceso a la autonomía y Estatutos",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b20/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b20-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Vídeo · Acceso a la autonomía y Estatutos",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b20/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b20-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Presentación · Acceso a la autonomía y Estatutos",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b20/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b20-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "20"
+      ],
+      "title": "Infografía · Acceso a la autonomía y Estatutos",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b20/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b21-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Audio · Distribución de competencias: artículos 148 y 149",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b21/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b21-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Vídeo · Distribución de competencias: artículos 148 y 149",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b21/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b21-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Presentación · Distribución de competencias: artículos 148 y 149",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b21/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b21-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "21"
+      ],
+      "title": "Infografía · Distribución de competencias: artículos 148 y 149",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b21/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b22-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Audio · Técnicas del artículo 150 y vía especial del artículo 151",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b22/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b22-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Vídeo · Técnicas del artículo 150 y vía especial del artículo 151",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b22/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b22-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Presentación · Técnicas del artículo 150 y vía especial del artículo 151",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b22/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b22-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "22"
+      ],
+      "title": "Infografía · Técnicas del artículo 150 y vía especial del artículo 151",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b22/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b23-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Audio · Instituciones, controles, coerción y financiación autonómica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b23/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b23-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Vídeo · Instituciones, controles, coerción y financiación autonómica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b23/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b23-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Presentación · Instituciones, controles, coerción y financiación autonómica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b23/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b23-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "23"
+      ],
+      "title": "Infografía · Instituciones, controles, coerción y financiación autonómica",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b23/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b24-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Audio · Tribunal Constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b24/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b24-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Vídeo · Tribunal Constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b24/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b24-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Presentación · Tribunal Constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b24/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b24-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "24"
+      ],
+      "title": "Infografía · Tribunal Constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b24/infografia",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b25-audio",
+      "category": "audios",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Audio · Reforma constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b25/audio",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b25-video",
+      "category": "videos",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Vídeo · Reforma constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b25/video",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b25-presentacion",
+      "category": "presentaciones",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Presentación · Reforma constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b25/presentacion",
+        "url": ""
+      }
+    },
+    {
+      "id": "t03-b25-infografia",
+      "category": "infografias",
+      "scope": "bloque",
+      "blocks": [
+        "25"
+      ],
+      "title": "Infografía · Reforma constitucional",
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "0.3.0",
+      "access_tier": "completa",
+      "tool": "",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-03/b25/infografia",
+        "url": ""
+      }
+    }
+  ],
   "rule": "Todo recurso debe registrar la versión del temario utilizada, su herramienta de origen y su estado de revisión antes de publicarse.",
   "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
   "rights_policy": "own_or_explicitly_authorized_only",
-  "repository_visibility_required": "private"
+  "repository_visibility_required": "private",
+  "storage_config": {
+    "current_provider": "google_drive",
+    "account": "academiaenvigor@gmail.com",
+    "access_model": "enlace_privado_provisional",
+    "migration_target": "servidor_propio_con_url_firmada_por_usuario",
+    "resolution_note": "Los recursos se identifican por asset_key, no por su URL. Al migrar a servidor propio con autenticación basta con cambiar este bloque y el resolvedor de la plataforma: los manifests de los 45 temas no se tocan."
+  },
+  "display_policy": {
+    "show_planned_in_temas": true,
+    "note": "Poner en false al lanzar: entonces solo se mostrará el material realmente disponible."
+  },
+  "access_tiers": {
+    "general_tema": "mensual",
+    "por_bloque": "completa",
+    "note": "El material general de cada tema entra en el plan más barato; el material punto por punto es el valor de la Completa."
+  }
 }

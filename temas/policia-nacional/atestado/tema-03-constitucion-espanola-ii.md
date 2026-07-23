@@ -13,6 +13,8 @@
 <p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
 
+> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
@@ -61,6 +63,8 @@ Piensa siempre en esta cadena: acto del Rey, autoridad que refrenda y persona qu
 </p>
 <p align="center"><em>Infografía: La Corona y el refrendo.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORONA -->
 
 ## 02. Sucesión a la Corona y consorte
@@ -102,6 +106,8 @@ Memoriza las preferencias como una escalera: línea, grado, sexo y edad. Solo de
   <img src="../../../assets/policia-nacional/tema-03/t03-02-sucesion-corona.png" alt="Sucesión a la Corona" width="820">
 </p>
 <p align="center"><em>Infografía: Sucesión a la Corona.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -149,6 +155,8 @@ Resuelve los casos preguntándote primero si se necesita ejercer las funciones d
 </p>
 <p align="center"><em>Infografía: Regencia y tutela.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORONA -->
 
 ## 04. Funciones nacionales e internacionales del Rey
@@ -190,6 +198,8 @@ Clasifica las funciones en cuatro grupos: leyes, Gobierno, Fuerzas Armadas y rel
   <img src="../../../assets/policia-nacional/tema-03/t03-04-funciones-rey.png" alt="Funciones del Rey" width="820">
 </p>
 <p align="center"><em>Infografía: Funciones del Rey.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -234,6 +244,8 @@ Fija primero las tres grandes funciones de las Cortes y, después, estudia en qu
   <img src="../../../assets/policia-nacional/tema-03/t03-05-cortes-generales.png" alt="Cortes Generales" width="820">
 </p>
 <p align="center"><em>Infografía: Cortes Generales.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -285,6 +297,8 @@ Haz dos columnas: Congreso y Senado. No mezcles la cifra constitucional de diput
 </p>
 <p align="center"><em>Infografía: Congreso y Senado.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 07. Prerrogativas parlamentarias y autonomía de las Cámaras
@@ -324,6 +338,8 @@ Usa tres preguntas: qué protege la inviolabilidad, cuándo opera la inmunidad y
   <img src="../../../assets/policia-nacional/tema-03/t03-07-prerrogativas-parlamentarias.png" alt="Prerrogativas parlamentarias" width="820">
 </p>
 <p align="center"><em>Infografía: Prerrogativas parlamentarias.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -393,6 +409,8 @@ Asocia cada número con una institución concreta. Evita memorizar 21, mayoría 
 </p>
 <p align="center"><em>Infografía: Funcionamiento de las Cámaras.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 09. Leyes orgánicas y delegación legislativa
@@ -450,6 +468,8 @@ Repite la pareja básica: ley de bases–texto articulado; ley ordinaria de dele
   <img src="../../../assets/policia-nacional/tema-03/t03-09-leyes-organicas.png" alt="Leyes orgánicas y delegación legislativa" width="820">
 </p>
 <p align="center"><em>Infografía: Leyes orgánicas y delegación legislativa.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -515,6 +535,8 @@ Dibuja el recorrido de una ley y coloca aparte el decreto-ley. Son dos lógicas 
 </p>
 <p align="center"><em>Infografía: Decreto-ley, iniciativa y procedimiento legislativo.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-CORTES -->
 
 ## 11. Tratados internacionales
@@ -560,6 +582,8 @@ Ordena los tratados de mayor a menor intensidad de control: ley orgánica, autor
   <img src="../../../assets/policia-nacional/tema-03/t03-11-tratados-internacionales.png" alt="Tratados internacionales" width="820">
 </p>
 <p align="center"><em>Infografía: Tratados internacionales.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -621,6 +645,8 @@ Estudia la investidura como una línea temporal y marca tres datos: mayoría abs
 </p>
 <p align="center"><em>Infografía: Gobierno e investidura.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-GOBIERNO -->
 
 ## 13. Responsabilidad del Gobierno y Administración Pública
@@ -677,6 +703,8 @@ Lee los artículos 103 a 107 como una historia sobre cómo actúa, se controla y
 </p>
 <p align="center"><em>Infografía: Responsabilidad del Gobierno y Administración.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-GOBIERNO -->
 
 ## 14. Control parlamentario ordinario del Gobierno
@@ -720,6 +748,8 @@ Distingue control de información y control de confianza. Preguntas e interpelac
   <img src="../../../assets/policia-nacional/tema-03/t03-14-control-parlamentario.png" alt="Control parlamentario" width="820">
 </p>
 <p align="center"><em>Infografía: Control parlamentario.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -768,6 +798,8 @@ Compara en una tabla iniciativa, mayoría, candidato alternativo, plazo y efecto
   <img src="../../../assets/policia-nacional/tema-03/t03-15-censura-disolucion.png" alt="Moción de censura y disolución" width="820">
 </p>
 <p align="center"><em>Infografía: Moción de censura y disolución.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -849,6 +881,8 @@ Construye una tabla con declarante, Congreso, duración, causas y derechos. Esa 
 </p>
 <p align="center"><em>Infografía: Estados excepcionales.</em></p>
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: LOAES -->
 
 ## 17. Poder Judicial: principios y proceso
@@ -896,6 +930,8 @@ Independencia, inamovilidad, responsabilidad, exclusividad y unidad jurisdiccion
 No memorices los principios como sinónimos. Define en una frase independencia, exclusividad, unidad y publicidad.
 
 > **Lo que cae:** Origen de la justicia; Estatuto judicial; Exclusividad jurisdiccional; Unidad jurisdiccional; Jurisdicción militar; Tribunales de excepción; Justicia gratuita; Publicidad judicial; Motivación y publicidad de sentencias.
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-JUDICIAL -->
 
@@ -957,6 +993,8 @@ Asigna un verbo a cada órgano: CGPJ gobierna, Tribunal Supremo juzga en la cús
 
 > **Lo que cae:** Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: LOPJ -->
 
 ## 19. Principios territoriales y Administración local
@@ -1013,6 +1051,8 @@ Mantén la frase guía: autonomía dentro de la Constitución, equilibrada por s
 
 > **Lo que cae:** Entidades territoriales; Autonomía territorial; Solidaridad territorial; Hecho insular; Prohibición de privilegios; Igualdad territorial de derechos; Libre circulación; Autonomía municipal; Gobierno municipal; Provincia; Límites provinciales; Haciendas locales.
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 20. Acceso a la autonomía y Estatutos
@@ -1056,6 +1096,8 @@ El Estatuto de Autonomía culmina ese proceso y actúa como norma institucional 
 Separa tres momentos: iniciativa autonómica, elaboración del Estatuto y contenido obligatorio del Estatuto.
 
 > **Lo que cae:** Titulares de iniciativa autonómica; Iniciativa autonómica común; Plazo de la iniciativa; Reiteración de iniciativa; Autonomía uniprovincial excepcional; Prohibición de federación; Acuerdos de cooperación; Norma institucional básica; Contenido mínimo del Estatuto; Reforma estatutaria.
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1115,6 +1157,8 @@ No intentes aprender las dos listas de una sola vez. Agrupa las materias por sec
 
 > **Lo que cae:** Sanidad e higiene; Vigilancia y policía local; Ampliación competencial; Nacionalidad y extranjería; Armas y explosivos; Seguridad pública; Referéndum; Cláusula de asunción; Cláusula residual estatal; Prevalencia del Derecho estatal; Supletoriedad.
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: CE-TERRITORIAL -->
 
 ## 22. Técnicas del artículo 150 y vía especial del artículo 151
@@ -1160,6 +1204,8 @@ El bloque incorpora también la vía especial del artículo 151, que permite acc
 Para el artículo 150 memoriza instrumento, finalidad y control. Después estudia el artículo 151 como un procedimiento distinto.
 
 > **Lo que cae:** Leyes marco; Transferencia o delegación; Leyes de armonización; Mayoría para armonización; Iniciativa autonómica especial; Referéndum de iniciativa; Mayoría del proyecto especial; Aprobación provincial; Asamblea legislativa autonómica; Presidente autonómico; Funciones del Presidente autonómico; Tribunal Superior de Justicia.
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1212,6 +1258,8 @@ El artículo 155 no es un control ordinario. Es un mecanismo de coerción estata
 Haz tres cajas: controles ordinarios, artículo 155 y financiación. Mezclarlas es la principal fuente de errores.
 
 > **Lo que cae:** Control del TC; Control del Gobierno; Control contencioso-administrativo; Control del Tribunal de Cuentas; Delegado del Gobierno; Presupuesto del artículo 155; Requerimiento previo; Mayoría del Senado; Instrucciones a autoridades autonómicas; Autonomía financiera; Principios financieros; Recursos autonómicos tributarios.
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -1301,6 +1349,8 @@ Aprende primero el mapa del Tribunal y después los procesos. Composición y com
 
 > **Lo que cae:** Composición del Tribunal Constitucional; Propuesta del Congreso; Propuesta del Senado; Propuesta de Gobierno y CGPJ; Experiencia profesional; Mandato del Tribunal Constitucional; Incompatibilidades del TC; Presidente del TC; Recurso de inconstitucionalidad; Recurso de amparo; Conflictos de competencia; Impugnación de disposiciones autonómicas.
 
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+
 <!-- FUENTE: LOTC -->
 
 ## 25. Reforma constitucional
@@ -1354,6 +1404,8 @@ Compara 167 y 168 por mayoría, disolución y referéndum. Son los tres elemento
   <img src="../../../assets/policia-nacional/tema-03/t03-17-reforma-constitucional.png" alt="Reforma constitucional" width="820">
 </p>
 <p align="center"><em>Infografía: Reforma constitucional.</em></p>
+
+> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: CE-REFORMA -->
 

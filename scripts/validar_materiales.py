@@ -9,6 +9,10 @@ ROOT = Path(__file__).resolve().parents[1]
 ALLOWED_CATEGORIES = {'infografias', 'presentaciones', 'audios', 'videos'}
 ALLOWED_STATUS = {'planned', 'in_production', 'pending_review', 'approved_internal', 'published', 'retired'}
 ALLOWED_OWNERSHIP = {'own', 'licensed', 'authorized'}
+ALLOWED_SCOPE = {'tema', 'bloque'}
+ALLOWED_TIER = {'gratis', 'mensual', 'trimestral', 'completa'}
+# Un recurso aún no producido no puede tener URL todavía
+STATUS_SIN_URL = {'planned', 'in_production'}
 LOCAL_ALLOWED = {'.png', '.jpg', '.jpeg', '.webp', '.svg', '.md', '.json'}
 
 
@@ -29,10 +33,18 @@ def main() -> int:
                 errors.append(f'{path.relative_to(ROOT)}: autoría o permiso no acreditado en {rid}')
             if not resource.get('source_content_version'):
                 errors.append(f'{path.relative_to(ROOT)}: falta versión fuente en {rid}')
+            if resource.get('scope') not in ALLOWED_SCOPE:
+                errors.append(f'{path.relative_to(ROOT)}: ámbito inválido en {rid}')
+            if resource.get('access_tier') not in ALLOWED_TIER:
+                errors.append(f'{path.relative_to(ROOT)}: plan de acceso inválido en {rid}')
+            if resource.get('scope') == 'bloque' and not resource.get('blocks'):
+                errors.append(f'{path.relative_to(ROOT)}: recurso de bloque sin bloque asignado en {rid}')
             storage = resource.get('storage', {})
             storage_type = storage.get('type')
             if storage_type == 'external':
-                if not storage.get('url'):
+                if not storage.get('asset_key'):
+                    errors.append(f'{path.relative_to(ROOT)}: falta asset_key en {rid}')
+                if not storage.get('url') and resource.get('status') not in STATUS_SIN_URL:
                     errors.append(f'{path.relative_to(ROOT)}: falta URL externa en {rid}')
             elif storage_type == 'local':
                 relative = storage.get('path')
