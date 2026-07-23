@@ -27,3 +27,20 @@ Solo se activa si se cumplen simultáneamente:
 5. `counts_for_ha_caido` es `true`.
 
 Las respuestas propuestas no se presentan como oficiales.
+
+## Marca de aparición durante la lectura
+
+La marca compacta `Preguntado en examen · AÑO` tiene una finalidad distinta:
+indica que un bloque del temario está relacionado con un enunciado del banco
+histórico cuyo mapeo editorial se ha revisado.
+
+- Se genera desde `indice-oficiales.json`; los años no se escriben a mano en el
+  temario.
+- Puede mostrarse aunque la respuesta final siga en cuarentena.
+- Al desplegarla se muestra el enunciado, pero no se señala una solución como
+  oficial.
+- Solo las preguntas que cumplan todos los requisitos de la sección anterior
+  pueden activar la capa «Ha caído».
+
+Esta separación permite enseñar antecedentes útiles sin convertir una respuesta
+propuesta o una plantilla no cotejada en una respuesta oficial.

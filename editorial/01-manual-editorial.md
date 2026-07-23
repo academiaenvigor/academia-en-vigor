@@ -156,6 +156,9 @@ Toda revisión debe indicar:
 - Una respuesta disponible puede registrarse como `proposed_answer_option_id`, pero no como oficial definitiva.
 - «Ha caído» exige `status: verified`, `official_answer_option_id` y constancia de plantilla final oficial.
 - Cada tema usa `indice-oficiales.json` para referenciar IDs; no duplica los enunciados.
+- La marca compacta `Preguntado en examen · AÑO` puede mostrar una aparición
+  histórica con mapeo editorial revisado aunque su respuesta siga en
+  cuarentena. En ese estado nunca destaca una opción como solución oficial.
 
 ## 9. Materiales didácticos
 

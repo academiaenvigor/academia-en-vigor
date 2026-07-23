@@ -159,13 +159,30 @@ def main() -> int:
     topic_files = sorted((repo_root / "banco-preguntas" / "policia-nacional").glob("tema-*/indice-oficiales.json"))
     for topic_file in topic_files:
         topic = json.loads(topic_file.read_text(encoding="utf-8"))
+        seen_topic_ids: set[str] = set()
         for item in topic.get("questions", []):
             qid = item.get("question_id")
             if qid not in seen_ids:
                 fail(errors, f"{topic_file.name}: referencia pregunta inexistente {qid}")
+            if qid in seen_topic_ids:
+                fail(errors, f"{topic_file.name}: referencia pregunta duplicada {qid}")
+            seen_topic_ids.add(qid)
             for fact_id in item.get("fact_refs", []):
                 if not re.match(r"^PN-T\d{2}-F\d{3}$", fact_id):
                     fail(errors, f"{topic_file.name}: fact_id con formato inválido {fact_id}")
+            block_refs = item.get("block_refs", [])
+            if block_refs and (
+                not isinstance(block_refs, list)
+                or any(not isinstance(block, int) or block < 1 for block in block_refs)
+            ):
+                fail(errors, f"{topic_file.name}: block_refs inválido en {qid}")
+            if item.get("appearance_status") == "reviewed":
+                if not block_refs and not item.get("fact_refs"):
+                    fail(errors, f"{topic_file.name}: aparición revisada sin ancla en {qid}")
+                if not isinstance(item.get("series_year"), int):
+                    fail(errors, f"{topic_file.name}: aparición revisada sin año en {qid}")
+                if not isinstance(item.get("question_number"), int):
+                    fail(errors, f"{topic_file.name}: aparición revisada sin número en {qid}")
             if item.get("counts_for_ha_caido") and item.get("verification_status") != "verified":
                 fail(errors, f"{topic_file.name}: referencia no verificada contabilizada en Ha caído")
 
