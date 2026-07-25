@@ -151,6 +151,8 @@ La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
 
 <!-- VISUAL PENDIENTE: t02-05-articulo-9-3.webp -->
 
+<!-- VISUAL PENDIENTE: t02-05-articulo-9-3-2.webp -->
+
 :::trampa
 El artículo 9.3 no menciona expresamente proporcionalidad ni igualdad.
 :::

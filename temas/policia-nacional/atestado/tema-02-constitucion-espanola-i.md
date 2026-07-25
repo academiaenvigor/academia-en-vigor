@@ -379,6 +379,8 @@ La Constitución garantiza:
 
 <!-- VISUAL PENDIENTE: t02-05-articulo-9-3.webp -->
 
+<!-- VISUAL PENDIENTE: t02-05-articulo-9-3-2.webp -->
+
 ⭐ Mnemotecnia: **LE-JE-PU-I-SE-RE-IN**.
 
 ⚠️ La irretroactividad constitucional no afecta a toda norma desfavorable. El artículo 9.3 se refiere a disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
