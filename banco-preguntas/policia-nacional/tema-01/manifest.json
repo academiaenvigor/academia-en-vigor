@@ -3,24 +3,75 @@
   "content_version": "0.2.0",
   "oposicion": "policia-nacional",
   "tema": 1,
-  "estado": "draft",
+  "estado": "generado_pendiente_revision_editorial",
   "publicacion": "not_published",
-  "total_preguntas": 0,
-  "total_hechos": 0,
-  "hechos_cubiertos": 0,
-  "cobertura_por_hechos": 0.0,
+  "total_preguntas": 203,
+  "total_hechos": 200,
+  "hechos_cubiertos": 200,
+  "cobertura_por_hechos": 100.0,
   "distribucion_respuestas": {
-    "A": 0,
-    "B": 0,
-    "C": 0
+    "A": 68,
+    "B": 70,
+    "C": 65
+  },
+  "distribucion_dificultad": {
+    "media": 76,
+    "baja": 15,
+    "alta": 112
+  },
+  "distribucion_tipo": {
+    "literal_discriminacion": 122,
+    "concepto_aplicado": 35,
+    "trampa_frecuente": 37,
+    "supuesto_practico": 9
+  },
+  "preguntas_por_bloque": {
+    "1": 12,
+    "2": 8,
+    "3": 9,
+    "4": 7,
+    "5": 6,
+    "6": 11,
+    "7": 8,
+    "8": 10,
+    "9": 10,
+    "10": 6,
+    "11": 5,
+    "12": 6,
+    "13": 7,
+    "14": 8,
+    "15": 5,
+    "16": 5,
+    "17": 7,
+    "18": 5,
+    "19": 5,
+    "20": 6,
+    "21": 6,
+    "22": 7,
+    "23": 4,
+    "24": 9,
+    "25": 5,
+    "26": 5,
+    "27": 7,
+    "28": 9,
+    "29": 5
   },
   "caracter": {
-    "propias": 0,
+    "propias": 203,
     "oficiales": 0
+  },
+  "retroalimentacion": {
+    "formato": "retroalimentacion.acierto y retroalimentacion.fallo, cada una con humor y explicacion",
+    "criterio": "El comentario con humor precede a la explicación para que el alumno asocie la broma al contenido."
+  },
+  "generacion_de_tests": {
+    "por_bloque": "filtrar por el campo bloque",
+    "por_punto": "filtrar por el campo punto",
+    "test_completo": "muestreo repartido por punto y ponderado por riesgo_examen, tamaños de 25 o 50 preguntas"
   },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-01/master.md",
   "cobertura": "../../../conocimiento/policia-nacional/tema-01/cobertura.json",
   "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-01/plan.json",
   "official_exam_index": "indice-oficiales.json",
-  "note": "Banco aplazado hasta la aprobación editorial de El Parte y El Atestado."
+  "note": "Banco generado a partir de los hechos atómicos extraídos del master.md v0.2.0. Pendiente de revisión editorial: al validarlo, cambiar estado_revision de cada pregunta a revisado_fuente_oficial."
 }

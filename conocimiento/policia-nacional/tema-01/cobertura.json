@@ -1,8 +1,2965 @@
 {
   "schema_version": "1.0.0",
   "content_version": "0.2.0",
-  "topic": "tema-01",
-  "facts": [],
-  "status": "pending_atomic_fact_extraction",
-  "note": "La extracción de hechos atómicos y el banco se realizarán después de aprobar los dos temarios."
+  "oposicion": "policia-nacional",
+  "tema": 1,
+  "normative_version": "2026-07-16",
+  "total_atomic_facts": 200,
+  "covered_atomic_facts": 200,
+  "coverage_percent": 100.0,
+  "total_questions": 203,
+  "rule": "Todo hecho atómico del Atestado debe tener al menos una pregunta; los hechos de riesgo 5 tienen una pregunta adicional de artículo.",
+  "status": "generado_pendiente_revision_editorial",
+  "facts": [
+    {
+      "id": "PN-T01-F001",
+      "block": 1,
+      "article": null,
+      "concept": "Concepto de Derecho",
+      "statement": "El Derecho es el sistema de normas, principios e instituciones que ordena la convivencia, atribuye derechos, deberes y potestades y ofrece cauces institucionales para prevenir y resolver conflictos.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q001",
+        "PN-T01-Q002"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F002",
+      "block": 1,
+      "article": null,
+      "concept": "Carácter sistemático",
+      "statement": "El Derecho es un sistema: sus normas se relacionan entre sí, se ordenan por rango y atribuyen competencias, y quedan completadas por principios e instituciones.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q003"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F003",
+      "block": 1,
+      "article": null,
+      "concept": "Función ordenadora",
+      "statement": "La función ordenadora del Derecho consiste en organizar la convivencia.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q004"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F004",
+      "block": 1,
+      "article": null,
+      "concept": "Función atributiva",
+      "statement": "La función atributiva del Derecho consiste en reconocer derechos, deberes y potestades.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q005"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F005",
+      "block": 1,
+      "article": null,
+      "concept": "Función protectora",
+      "statement": "La función protectora del Derecho consiste en tutelar bienes e intereses legítimos.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q006"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F006",
+      "block": 1,
+      "article": null,
+      "concept": "Función resolutiva",
+      "statement": "La función resolutiva del Derecho consiste en sustituir la fuerza privada por procedimientos.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q007"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F007",
+      "block": 1,
+      "article": null,
+      "concept": "Función limitadora del poder",
+      "statement": "La función limitadora del poder implica que toda potestad pública nace y se ejerce dentro del ordenamiento.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q008"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F008",
+      "block": 1,
+      "article": null,
+      "concept": "Coercibilidad",
+      "statement": "La coercibilidad significa que el Derecho dispone de mecanismos legítimos para lograr el cumplimiento o aplicar la consecuencia prevista.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q009"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F009",
+      "block": 1,
+      "article": null,
+      "concept": "Coercibilidad y sanción",
+      "statement": "La coercibilidad no debe confundirse con violencia ni con sanción penal.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q010"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F010",
+      "block": 1,
+      "article": null,
+      "concept": "Consecuencias no penales",
+      "statement": "Una norma civil puede producir nulidad, una administrativa la pérdida de una autorización y una norma organizativa puede limitarse a atribuir competencia.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q011"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F011",
+      "block": 1,
+      "article": null,
+      "concept": "Coacción y reglas sociales",
+      "statement": "La coacción distingue al Derecho de otras reglas sociales, pero no significa que toda norma contenga una pena ni que siempre sea necesario emplear la fuerza.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q012"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F012",
+      "block": 2,
+      "article": null,
+      "concept": "Derecho objetivo",
+      "statement": "El Derecho objetivo es el conjunto de normas del ordenamiento.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q013"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F013",
+      "block": 2,
+      "article": null,
+      "concept": "Derecho subjetivo",
+      "statement": "El Derecho subjetivo es la facultad o poder reconocido a una persona.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q014"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F014",
+      "block": 2,
+      "article": null,
+      "concept": "Derecho positivo",
+      "statement": "El Derecho positivo es el Derecho establecido y vigente en un lugar y tiempo determinados.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q015"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F015",
+      "block": 2,
+      "article": null,
+      "concept": "Derecho natural",
+      "statement": "El Derecho natural son los principios de justicia concebidos como anteriores o superiores al legislador.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q016"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F016",
+      "block": 2,
+      "article": null,
+      "concept": "Ciencia del Derecho",
+      "statement": "La ciencia del Derecho es la disciplina que estudia, interpreta y sistematiza el fenómeno jurídico.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q017"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F017",
+      "block": 2,
+      "article": null,
+      "concept": "Relación objetivo-subjetivo",
+      "statement": "El derecho subjetivo existe y se ejerce dentro del marco del Derecho objetivo.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q018"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F018",
+      "block": 2,
+      "article": null,
+      "concept": "Validez y justicia",
+      "statement": "Una norma puede pertenecer al Derecho positivo aunque sea discutida desde una determinada concepción de justicia; esa discusión no la elimina automáticamente del ordenamiento.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q019"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F019",
+      "block": 2,
+      "article": null,
+      "concept": "Identificación por el uso",
+      "statement": "«El Derecho español» corresponde al Derecho objetivo; «tengo derecho a» al subjetivo; «norma vigente hoy» al positivo; «principios universales de justicia» al natural; «estudiar Derecho» a la ciencia jurídica.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q020"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F020",
+      "block": 3,
+      "article": null,
+      "concept": "Derecho público",
+      "statement": "El Derecho público regula la organización de los poderes públicos y las relaciones en las que se ejercen potestades públicas.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q021"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F021",
+      "block": 3,
+      "article": null,
+      "concept": "Derecho privado",
+      "statement": "El Derecho privado regula principalmente relaciones de coordinación entre particulares.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q022"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F022",
+      "block": 3,
+      "article": null,
+      "concept": "Ramas del Derecho público",
+      "statement": "Son ramas del Derecho público el constitucional, el administrativo, el penal, el procesal y el tributario.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q023"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F023",
+      "block": 3,
+      "article": null,
+      "concept": "Ramas del Derecho privado",
+      "statement": "Son ramas del Derecho privado el civil y el mercantil.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q024"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F024",
+      "block": 3,
+      "article": null,
+      "concept": "Carácter de la división",
+      "statement": "La división entre Derecho público y Derecho privado es doctrinal y sirve para situar una relación jurídica.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q025"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F025",
+      "block": 3,
+      "article": null,
+      "concept": "Frontera público-privado",
+      "statement": "Que intervenga una Administración no convierte por sí solo toda relación en Derecho público: importa con qué posición jurídica actúa.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q026"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F026",
+      "block": 3,
+      "article": null,
+      "concept": "Derecho común",
+      "statement": "El Derecho común contiene la regulación general y puede actuar supletoriamente.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q027"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F027",
+      "block": 3,
+      "article": null,
+      "concept": "Derecho especial",
+      "statement": "El Derecho especial regula con mayor precisión una materia, colectivo o supuesto, y en su ámbito se aplica con preferencia.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q028"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F028",
+      "block": 3,
+      "article": null,
+      "concept": "Especialidad y jerarquía",
+      "statement": "Especial no significa de mayor rango ni más importante: significa que regula un supuesto más concreto, y no deroga en bloque toda la regulación común.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-DERECHO",
+      "question_ids": [
+        "PN-T01-Q029"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F029",
+      "block": 4,
+      "article": null,
+      "concept": "Concepto de norma jurídica positiva",
+      "statement": "La norma jurídica positiva es una regla de conducta u organización integrada en un ordenamiento vigente y producida o reconocida conforme a su sistema de fuentes.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q030"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F030",
+      "block": 4,
+      "article": null,
+      "concept": "Contenido posible de la norma",
+      "statement": "La norma puede mandar, prohibir, permitir, atribuir potestades, reconocer derechos, definir conceptos u organizar procedimientos.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q031"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F031",
+      "block": 4,
+      "article": null,
+      "concept": "Positividad",
+      "statement": "La positividad de la norma indica su pertenencia a un Derecho efectivamente establecido.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q032"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F032",
+      "block": 4,
+      "article": null,
+      "concept": "Juridicidad",
+      "statement": "La juridicidad de la norma deriva de haber sido creada o reconocida conforme al sistema de competencias, fuentes y procedimientos.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q033"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F033",
+      "block": 4,
+      "article": null,
+      "concept": "Normas organizativas",
+      "statement": "Además de las preceptivas, prohibitivas y permisivas, existen normas que crean órganos, atribuyen competencias, definen estados civiles, establecen procedimientos o determinan efectos jurídicos.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q034"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F034",
+      "block": 4,
+      "article": null,
+      "concept": "Norma y artículo",
+      "statement": "Norma y artículo no son términos idénticos: un artículo puede contener varias reglas y una norma completa puede construirse con preceptos repartidos en distintos artículos.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q035"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F035",
+      "block": 4,
+      "article": null,
+      "concept": "Norma sin sanción",
+      "statement": "No toda norma contiene una sanción: puede reconocer un derecho o producir automáticamente un estado jurídico.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q036"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F036",
+      "block": 5,
+      "article": null,
+      "concept": "Estructura lógica",
+      "statement": "La estructura lógica clásica de la norma distingue supuesto de hecho y consecuencia jurídica.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q037"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F037",
+      "block": 5,
+      "article": null,
+      "concept": "Supuesto de hecho",
+      "statement": "El supuesto de hecho es la conducta, acontecimiento, cualidad o situación prevista por la norma.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q038"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F038",
+      "block": 5,
+      "article": null,
+      "concept": "Consecuencia jurídica",
+      "statement": "La consecuencia jurídica es el efecto que el ordenamiento asocia a la realización del supuesto de hecho.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q039"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F039",
+      "block": 5,
+      "article": null,
+      "concept": "Alcance de la consecuencia",
+      "statement": "La consecuencia puede consistir en el nacimiento, modificación o extinción de una relación jurídica, en la atribución de una competencia, en la nulidad de un acto o en una sanción.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q040"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F040",
+      "block": 5,
+      "article": null,
+      "concept": "Sanción y consecuencia",
+      "statement": "La sanción es una especie de consecuencia jurídica, no su sinónimo.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q041"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F041",
+      "block": 5,
+      "article": null,
+      "concept": "Ejemplo de supuesto y consecuencia",
+      "statement": "Cumplir dieciocho años es el supuesto de hecho y alcanzar la mayoría de edad es la consecuencia jurídica.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q042"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F042",
+      "block": 6,
+      "article": null,
+      "concept": "Carácter de las clasificaciones",
+      "statement": "Las clasificaciones de normas son doctrinales, responden a criterios distintos y pueden combinarse entre sí.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q043"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F043",
+      "block": 6,
+      "article": null,
+      "concept": "Normas imperativas",
+      "statement": "Las normas imperativas no pueden desplazarse libremente por la voluntad de los particulares.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q044",
+        "PN-T01-Q045"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F044",
+      "block": 6,
+      "article": null,
+      "concept": "Normas dispositivas",
+      "statement": "Las normas dispositivas actúan en defecto de pacto válido.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q046"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F045",
+      "block": 6,
+      "article": null,
+      "concept": "Alcance de la dispositiva",
+      "statement": "Una norma dispositiva no es inútil ni voluntaria: se aplica cuando los particulares no han establecido válidamente otra regulación.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q047"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F046",
+      "block": 6,
+      "article": null,
+      "concept": "Clases por su mandato",
+      "statement": "Según su contenido las normas son preceptivas, que ordenan hacer; prohibitivas, que ordenan abstenerse; y permisivas, que autorizan una conducta.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q048"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F047",
+      "block": 6,
+      "article": null,
+      "concept": "Clases por su ámbito",
+      "statement": "Según su ámbito las normas son generales o especiales.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q049"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F048",
+      "block": 6,
+      "article": null,
+      "concept": "Clases por su duración",
+      "statement": "Según su duración las normas son permanentes o temporales.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q050"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F049",
+      "block": 6,
+      "article": null,
+      "concept": "Normas de remisión",
+      "statement": "Según necesiten otra disposición para completar su sentido, las normas son completas o de remisión.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q051"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F050",
+      "block": 6,
+      "article": null,
+      "concept": "Perfectas e imperfectas",
+      "statement": "La clasificación en normas perfectas, menos que perfectas e imperfectas atiende a la reacción frente a su infracción y no debe mezclarse con la distinción entre imperativas y dispositivas.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q052"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F051",
+      "block": 6,
+      "article": null,
+      "concept": "Combinación de criterios",
+      "statement": "Una misma norma puede ser a la vez imperativa, especial y temporal.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q053"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F052",
+      "block": 7,
+      "article": null,
+      "concept": "Enumeración de caracteres",
+      "statement": "Entre los caracteres doctrinales de la norma destacan generalidad, abstracción, obligatoriedad, heteronomía, exterioridad, bilateralidad y coercibilidad.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q054"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F053",
+      "block": 7,
+      "article": null,
+      "concept": "Generalidad",
+      "statement": "La generalidad significa que la norma se dirige a una categoría de sujetos o situaciones, no necesariamente a todas las personas.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q055"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F054",
+      "block": 7,
+      "article": null,
+      "concept": "Abstracción",
+      "statement": "La abstracción significa que la norma formula un supuesto tipo susceptible de repetirse.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q056"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F055",
+      "block": 7,
+      "article": null,
+      "concept": "Obligatoriedad",
+      "statement": "La obligatoriedad expresa la fuerza vinculante de la norma.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q057"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F056",
+      "block": 7,
+      "article": null,
+      "concept": "Heteronomía",
+      "statement": "La heteronomía significa que la regla procede de una voluntad distinta de la individual del destinatario.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q058"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F057",
+      "block": 7,
+      "article": null,
+      "concept": "Bilateralidad",
+      "statement": "La bilateralidad pone de relieve que muchas normas relacionan facultades de unos con deberes de otros.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q059"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F058",
+      "block": 7,
+      "article": null,
+      "concept": "Exterioridad",
+      "statement": "La exterioridad indica que el Derecho atiende principalmente a conductas y manifestaciones relevantes externamente, aunque en ciertos ámbitos valore intención, conocimiento o buena fe.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q060"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F059",
+      "block": 7,
+      "article": null,
+      "concept": "Naturaleza doctrinal",
+      "statement": "Los caracteres son doctrinales, no una enumeración legal cerrada, y no se manifiestan del mismo modo en todas las normas.",
+      "essential": true,
+      "risk": 3,
+      "source": "DPEJ-NORMA",
+      "question_ids": [
+        "PN-T01-Q061"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F060",
+      "block": 8,
+      "article": "1.1",
+      "concept": "Fuentes del ordenamiento",
+      "statement": "El artículo 1.1 del Código Civil enumera como fuentes del ordenamiento jurídico español la ley, la costumbre y los principios generales del Derecho.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q062",
+        "PN-T01-Q063"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F061",
+      "block": 8,
+      "article": "1.3",
+      "concept": "Régimen de la costumbre",
+      "statement": "La costumbre solo rige en defecto de ley aplicable, debe probarse y no puede ser contraria a la moral ni al orden público.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q064"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F062",
+      "block": 8,
+      "article": "1.3",
+      "concept": "Usos jurídicos",
+      "statement": "Los usos jurídicos que no sean meramente interpretativos tienen la consideración de costumbre.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q065"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F063",
+      "block": 8,
+      "article": "1.4",
+      "concept": "Principios generales",
+      "statement": "Los principios generales del Derecho se aplican en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q066"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F064",
+      "block": 8,
+      "article": "1.6",
+      "concept": "Jurisprudencia",
+      "statement": "La jurisprudencia no figura como fuente en el mismo plano: complementa el ordenamiento con la doctrina reiterada del Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q067"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F065",
+      "block": 8,
+      "article": "9.3",
+      "concept": "Jerarquía normativa",
+      "statement": "El artículo 9.3 de la Constitución garantiza el principio de jerarquía normativa: una norma inferior debe respetar a la superior.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q068"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F066",
+      "block": 8,
+      "article": null,
+      "concept": "Jerarquía, competencia y especialidad",
+      "statement": "Para resolver conflictos entre normas también importan la competencia, la especialidad y la sucesión temporal: no toda relación entre normas se explica solo con una pirámide.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q069"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F067",
+      "block": 8,
+      "article": null,
+      "concept": "Orden reglamentario",
+      "statement": "En el ámbito reglamentario estatal las disposiciones se ordenan según el órgano que las aprueba.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q070"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F068",
+      "block": 8,
+      "article": null,
+      "concept": "Límite de la potestad reglamentaria",
+      "statement": "Ninguna disposición administrativa puede vulnerar la Constitución o las leyes ni regular materias reservadas a la ley.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q071"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F069",
+      "block": 9,
+      "article": "2.1",
+      "concept": "Entrada en vigor",
+      "statement": "Las leyes entran en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q072"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F070",
+      "block": 9,
+      "article": "2.1",
+      "concept": "Vacatio propia",
+      "statement": "La propia norma puede fijar su entrada en vigor inmediata, una fecha posterior o una vacatio distinta de los veinte días.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q073"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F071",
+      "block": 9,
+      "article": "2.2",
+      "concept": "Derogación",
+      "statement": "Las leyes solo se derogan por otras posteriores.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q074"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F072",
+      "block": 9,
+      "article": "2.2",
+      "concept": "Formas de derogación",
+      "statement": "La derogación puede ser expresa o resultar de la incompatibilidad o de la nueva regulación de la misma materia.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q075"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F073",
+      "block": 9,
+      "article": "2.2",
+      "concept": "No reviviscencia",
+      "statement": "La simple derogación de una ley no restablece las que aquella hubiera derogado.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q076"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F074",
+      "block": 9,
+      "article": "6.1",
+      "concept": "Ignorancia y error de Derecho",
+      "statement": "La ignorancia de las leyes no excusa de su cumplimiento y el error de Derecho solo produce los efectos que las leyes determinen.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q077"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F075",
+      "block": 9,
+      "article": "6.3",
+      "concept": "Nulidad de pleno derecho",
+      "statement": "Los actos contrarios a normas imperativas o prohibitivas son nulos de pleno derecho, salvo que en ellas se establezca un efecto distinto para el caso de contravención.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q078"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F076",
+      "block": 9,
+      "article": "6.4",
+      "concept": "Fraude de ley",
+      "statement": "Los actos realizados al amparo del texto de una norma para conseguir un resultado prohibido por el ordenamiento constituyen fraude de ley y quedan sometidos a la norma que se hubiere tratado de eludir.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q079"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F077",
+      "block": 9,
+      "article": "7",
+      "concept": "Buena fe y abuso de derecho",
+      "statement": "El artículo 7 exige que los derechos se ejerciten conforme a la buena fe y prohíbe el abuso del derecho o su ejercicio antisocial.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q080"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F078",
+      "block": 9,
+      "article": "4.1",
+      "concept": "Analogía y sus límites",
+      "statement": "La analogía permite aplicar la regulación de un supuesto a otro semejante cuando exista identidad de razón, pero las leyes penales, excepcionales y temporales no se aplican a supuestos distintos de los expresamente comprendidos en ellas.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PRELIMINAR",
+      "question_ids": [
+        "PN-T01-Q081"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F079",
+      "block": 10,
+      "article": null,
+      "concept": "Concepto de persona",
+      "statement": "Persona en sentido jurídico es todo sujeto al que el ordenamiento reconoce aptitud para ser titular de derechos, deberes y relaciones jurídicas.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q082"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F080",
+      "block": 10,
+      "article": null,
+      "concept": "Clases de persona",
+      "statement": "Se distinguen las personas naturales o físicas y las personas jurídicas.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q083"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F081",
+      "block": 10,
+      "article": null,
+      "concept": "Independencia de la condición de persona",
+      "statement": "La condición de persona no depende de poseer patrimonio, nacionalidad española ni plena autonomía para actuar.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q084"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F082",
+      "block": 10,
+      "article": null,
+      "concept": "Persona jurídica",
+      "statement": "La persona jurídica es una organización o entidad a la que la ley reconoce personalidad propia, de modo que puede adquirir bienes, contraer obligaciones y ejercitar acciones con independencia de las personas que la componen.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q085"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F083",
+      "block": 10,
+      "article": null,
+      "concept": "Función de la personalidad jurídica",
+      "statement": "La personalidad jurídica permite imputar derechos, deberes, patrimonio y responsabilidad a un sujeto diferenciado, sin convertir a sus miembros en inexistentes ni eliminar automáticamente su posible responsabilidad cuando la ley la establezca.",
+      "essential": true,
+      "risk": 4,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q086"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F084",
+      "block": 10,
+      "article": null,
+      "concept": "Persona jurídica y persona humana",
+      "statement": "Ser persona jurídica no significa ser una persona humana, sino ser un sujeto reconocido por el Derecho.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-PERSONA",
+      "question_ids": [
+        "PN-T01-Q087"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F085",
+      "block": 11,
+      "article": "29",
+      "concept": "Nacimiento y personalidad",
+      "statement": "El artículo 29 del Código Civil declara que el nacimiento determina la personalidad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q088"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F086",
+      "block": 11,
+      "article": "29",
+      "concept": "Protección del concebido",
+      "statement": "El concebido se tiene por nacido para todos los efectos que le sean favorables, siempre que nazca con las condiciones del artículo 30.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q089"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F087",
+      "block": 11,
+      "article": "30",
+      "concept": "Condiciones de adquisición",
+      "statement": "La personalidad se adquiere en el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q090"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F088",
+      "block": 11,
+      "article": "30",
+      "concept": "Sin plazo de supervivencia",
+      "statement": "La regla vigente no exige la supervivencia durante un número determinado de horas.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q091"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F089",
+      "block": 11,
+      "article": "29",
+      "concept": "Carácter condicionado",
+      "statement": "La protección del concebido opera de manera condicionada: el efecto reservado a su favor solo se consolida definitivamente si nace con vida y completamente separado.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q092"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F090",
+      "block": 12,
+      "article": "32",
+      "concept": "Extinción de la personalidad",
+      "statement": "La personalidad civil se extingue por la muerte.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q093"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F091",
+      "block": 12,
+      "article": "32",
+      "concept": "Efecto de la muerte",
+      "statement": "Con la muerte cesa la aptitud de la persona para adquirir nuevas relaciones jurídicas, aunque el fallecimiento desencadene efectos sucesorios, familiares o patrimoniales.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q094"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F092",
+      "block": 12,
+      "article": "33",
+      "concept": "Carga de la prueba en conmoriencia",
+      "statement": "Cuando exista duda sobre cuál de dos o más personas llamadas a sucederse murió primero, quien sostenga la muerte anterior o posterior debe probarla.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q095"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F093",
+      "block": 12,
+      "article": "33",
+      "concept": "Efecto de la conmoriencia",
+      "statement": "Si no existe prueba, se presumen muertas al mismo tiempo y no tiene lugar la transmisión de derechos de una a otra.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q096"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F094",
+      "block": 12,
+      "article": "33",
+      "concept": "Naturaleza de la conmoriencia",
+      "statement": "La conmoriencia es una regla probatoria para el caso de duda, no una afirmación de que las personas murieran realmente en el mismo instante.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q097"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F095",
+      "block": 12,
+      "article": null,
+      "concept": "Muerte y declaración de fallecimiento",
+      "statement": "No debe confundirse la muerte con la declaración de fallecimiento, que es una resolución jurídica aplicable a situaciones de desaparición y sometida a sus propias reglas.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q098"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F096",
+      "block": 13,
+      "article": null,
+      "concept": "Capacidad jurídica",
+      "statement": "La capacidad jurídica acompaña a la personalidad y es la aptitud general para ser titular de derechos y obligaciones.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q099"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F097",
+      "block": 13,
+      "article": null,
+      "concept": "Capacidad de obrar",
+      "statement": "La capacidad de obrar o de ejercicio es la aptitud para realizar por uno mismo actos jurídicos eficaces.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q100"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F098",
+      "block": 13,
+      "article": null,
+      "concept": "Discapacidad y capacidad jurídica",
+      "statement": "Las personas con discapacidad tienen capacidad jurídica en igualdad de condiciones y, cuando sea necesario, reciben medidas de apoyo para ejercerla.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q101"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F099",
+      "block": 13,
+      "article": null,
+      "concept": "Requisitos de las medidas de apoyo",
+      "statement": "Las medidas de apoyo deben respetar los derechos, la voluntad y las preferencias de la persona, ser proporcionales y adaptarse a las circunstancias.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q102"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F100",
+      "block": 13,
+      "article": null,
+      "concept": "Clases de apoyo",
+      "statement": "Los apoyos pueden ser voluntarios o legales y comprenden, según el caso, la guarda de hecho, la curatela y el defensor judicial.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q103"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F101",
+      "block": 13,
+      "article": null,
+      "concept": "Carácter excepcional de la representación",
+      "statement": "La representación es excepcional y solo procede cuando, pese a un esfuerzo considerable, no sea posible determinar la voluntad, deseos y preferencias de la persona.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q104"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F102",
+      "block": 13,
+      "article": null,
+      "concept": "Apoyo y sustitución",
+      "statement": "El apoyo no equivale automáticamente a sustitución de la voluntad de la persona.",
+      "essential": true,
+      "risk": 5,
+      "source": "DPEJ-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q105"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F103",
+      "block": 14,
+      "article": "12 CE / 240",
+      "concept": "Mayoría de edad",
+      "statement": "La mayoría de edad comienza a los dieciocho años cumplidos, conforme al artículo 12 de la Constitución y al artículo 240 del Código Civil.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q106"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F104",
+      "block": 14,
+      "article": "315",
+      "concept": "Cómputo de la edad",
+      "statement": "Para el cómputo de la mayoría de edad se incluye completo el día del nacimiento.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q107"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F105",
+      "block": 14,
+      "article": "246",
+      "concept": "Efectos de la mayoría",
+      "statement": "El mayor de edad puede realizar todos los actos de la vida civil, salvo las excepciones establecidas para casos especiales.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q108"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F106",
+      "block": 14,
+      "article": null,
+      "concept": "Causas de emancipación",
+      "statement": "Son causas de emancipación la mayoría de edad, la concesión de quienes ejercen la patria potestad y la concesión judicial.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q109"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F107",
+      "block": 14,
+      "article": null,
+      "concept": "Requisitos de la concesión parental",
+      "statement": "Para la emancipación por concesión de quienes ejercen la patria potestad se requiere que el menor tenga dieciséis años cumplidos y la consienta.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q110"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F108",
+      "block": 14,
+      "article": null,
+      "concept": "Vida independiente",
+      "statement": "Se considera emancipado, con consentimiento de los progenitores, al mayor de dieciséis años que vive independientemente, si bien ese consentimiento puede revocarse.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q111"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F109",
+      "block": 14,
+      "article": "247",
+      "concept": "Límites del emancipado",
+      "statement": "El emancipado necesita consentimiento hasta la mayoría de edad para tomar dinero a préstamo y para gravar o enajenar bienes inmuebles, establecimientos mercantiles o industriales u objetos de extraordinario valor.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q112"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F110",
+      "block": 14,
+      "article": null,
+      "concept": "Emancipación y mayoría",
+      "statement": "Las limitaciones patrimoniales del emancipado impiden equiparar la emancipación a la mayoría de edad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-CAPACIDAD",
+      "question_ids": [
+        "PN-T01-Q113"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F111",
+      "block": 15,
+      "article": "35",
+      "concept": "Primer grupo del artículo 35",
+      "statement": "Son personas jurídicas las corporaciones, asociaciones y fundaciones de interés público reconocidas por la ley.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q114"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F112",
+      "block": 15,
+      "article": "35",
+      "concept": "Segundo grupo del artículo 35",
+      "statement": "También son personas jurídicas las asociaciones de interés particular, civiles, mercantiles o industriales, a las que la ley conceda personalidad propia independiente de la de cada asociado.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q115"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F113",
+      "block": 15,
+      "article": "35",
+      "concept": "Inicio de la personalidad",
+      "statement": "La personalidad de las entidades del primer grupo comienza desde el instante mismo en que quedan válidamente constituidas con arreglo a Derecho.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q116"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F114",
+      "block": 15,
+      "article": "36",
+      "concept": "Remisión del artículo 36",
+      "statement": "Las asociaciones de interés particular se rigen por las disposiciones relativas al contrato de sociedad y por su normativa específica.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q117"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F115",
+      "block": 15,
+      "article": null,
+      "concept": "Carácter general de la clasificación",
+      "statement": "La clasificación del Código Civil es general: para conocer el momento exacto de adquisición de la personalidad, los requisitos de inscripción o la responsabilidad de miembros y administradores debe acudirse a la ley reguladora de cada tipo.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q118"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F116",
+      "block": 16,
+      "article": "37",
+      "concept": "Fuentes de la capacidad",
+      "statement": "La capacidad civil de las corporaciones se regula por las leyes que las crean o reconocen; la de las asociaciones, por sus estatutos; y la de las fundaciones, por sus reglas de institución debidamente aprobadas.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q119"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F117",
+      "block": 16,
+      "article": "38",
+      "concept": "Facultades de la persona jurídica",
+      "statement": "Las personas jurídicas pueden adquirir y poseer bienes, contraer obligaciones y ejercitar acciones civiles o criminales conforme a las leyes y reglas de su constitución.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q120"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F118",
+      "block": 16,
+      "article": "38",
+      "concept": "Actuación por órganos",
+      "statement": "La persona jurídica actúa materialmente mediante sus órganos y representantes, pero los efectos se imputan a la entidad.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q121"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F119",
+      "block": 16,
+      "article": "39",
+      "concept": "Causas de extinción",
+      "statement": "Son causas de extinción de la persona jurídica la expiración del plazo, la realización del fin o la imposibilidad de aplicar al mismo la actividad y los medios de que disponía.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q122"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F120",
+      "block": 16,
+      "article": "39",
+      "concept": "Destino de los bienes",
+      "statement": "El destino de los bienes tras la extinción se ajusta a la ley, los estatutos o las cláusulas fundacionales y, en su defecto, se aplica a fines análogos de interés territorial según la regla legal.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-PERSONA",
+      "question_ids": [
+        "PN-T01-Q123"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F121",
+      "block": 17,
+      "article": null,
+      "concept": "Concepto de nacionalidad",
+      "statement": "La nacionalidad es el vínculo jurídico entre una persona y el Estado y produce efectos en materia de derechos, deberes, estado civil y protección.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q124"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F122",
+      "block": 17,
+      "article": "11.1",
+      "concept": "Remisión a la ley",
+      "statement": "El artículo 11.1 de la Constitución remite a la ley la adquisición, conservación y pérdida de la nacionalidad española.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q125"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F123",
+      "block": 17,
+      "article": "11.2",
+      "concept": "Prohibición de privación",
+      "statement": "Ningún español de origen podrá ser privado de su nacionalidad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q126"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F124",
+      "block": 17,
+      "article": "11.2",
+      "concept": "Privación y pérdida",
+      "statement": "Debe diferenciarse la privación sancionadora de la pérdida producida por actos y condiciones regulados legalmente.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q127"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F125",
+      "block": 17,
+      "article": "11.3",
+      "concept": "Doble nacionalidad",
+      "statement": "El artículo 11.3 permite concertar tratados de doble nacionalidad con países iberoamericanos o especialmente vinculados con España.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q128"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F126",
+      "block": 17,
+      "article": null,
+      "concept": "Origen y derivativa",
+      "statement": "El Código Civil distingue la nacionalidad de origen y la adquirida por vías derivativas.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q129"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F127",
+      "block": 17,
+      "article": null,
+      "concept": "Alcance de «de origen»",
+      "statement": "Ser español de origen no significa necesariamente haber nacido en España: puede depender de la filiación o de otros supuestos legales.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q130"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F128",
+      "block": 18,
+      "article": "17.1.a",
+      "concept": "Ius sanguinis",
+      "statement": "Son españoles de origen los nacidos de padre o madre españoles, sin que se exija el nacimiento en España.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q131"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F129",
+      "block": 18,
+      "article": "17.1.b",
+      "concept": "Doble nacimiento en España",
+      "statement": "Son españoles de origen los nacidos en España de padres extranjeros si al menos uno de ellos hubiera nacido también en España, salvo los hijos de funcionario diplomático o consular acreditado en España.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q132"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F130",
+      "block": 18,
+      "article": "17.1.c",
+      "concept": "Prevención de apatridia",
+      "statement": "Son españoles de origen los nacidos en España de padres extranjeros si ambos carecen de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q133"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F131",
+      "block": 18,
+      "article": "17.1.d",
+      "concept": "Filiación no determinada",
+      "statement": "Son españoles de origen los nacidos en España cuya filiación no resulte determinada, y se presume nacido en España el menor cuyo primer lugar conocido de estancia sea territorio español.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q134"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F132",
+      "block": 18,
+      "article": "17.2",
+      "concept": "Determinación tardía",
+      "statement": "Si la filiación o el nacimiento en España se determinan después de los dieciocho años, ese hecho no produce por sí solo la nacionalidad, pero el interesado puede optar por la nacionalidad española de origen en el plazo de dos años desde la determinación.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q135"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F133",
+      "block": 19,
+      "article": "18",
+      "concept": "Consolidación por posesión de estado",
+      "statement": "La posesión y utilización continuada de la nacionalidad española durante diez años, con buena fe y basada en un título inscrito en el Registro Civil, consolida la nacionalidad aunque se anule el título que la originó.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q136"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F134",
+      "block": 19,
+      "article": "18",
+      "concept": "Requisitos acumulativos",
+      "statement": "Los elementos del artículo 18 son acumulativos: diez años, uso continuado, buena fe y título inscrito.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q137"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F135",
+      "block": 19,
+      "article": "18",
+      "concept": "Distinción con la residencia",
+      "statement": "La consolidación del artículo 18 no es la nacionalidad por residencia del artículo 22 y no exige la residencia legal e integración propias de esta.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q138"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F136",
+      "block": 19,
+      "article": "19.1",
+      "concept": "Adopción de menor",
+      "statement": "El extranjero menor de dieciocho años adoptado por un español adquiere la nacionalidad española de origen desde la adopción.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q139"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F137",
+      "block": 19,
+      "article": "19.2",
+      "concept": "Adopción de mayor",
+      "statement": "Si el adoptado es mayor de dieciocho años, puede optar por la nacionalidad española de origen en los dos años siguientes a la constitución de la adopción.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q140"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F138",
+      "block": 20,
+      "article": "20.1",
+      "concept": "Grupos con derecho de opción",
+      "statement": "Tienen derecho de opción las personas que estén o hayan estado sujetas a la patria potestad de un español, aquellas cuyo padre o madre hubiera sido originariamente español y nacido en España, y quienes se encuentren en los supuestos de los artículos 17.2 y 19.2.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q141"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F139",
+      "block": 20,
+      "article": "20.2",
+      "concept": "Optante menor de catorce años",
+      "statement": "Si el optante es menor de catorce años, la declaración la formula su representante legal.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q142"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F140",
+      "block": 20,
+      "article": "20.2",
+      "concept": "Optante mayor de catorce años",
+      "statement": "El mayor de catorce años actúa asistido para formular la declaración de opción.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q143"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F141",
+      "block": 20,
+      "article": "20.2",
+      "concept": "Optante emancipado o mayor de edad",
+      "statement": "El emancipado o mayor de dieciocho años formula la declaración por sí solo.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q144"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F142",
+      "block": 20,
+      "article": "20.2.c",
+      "concept": "Caducidad de la opción",
+      "statement": "Como regla general, la opción formulada por el emancipado o mayor de dieciocho años caduca a los veinte años de edad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q145"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F143",
+      "block": 20,
+      "article": "20.1.b",
+      "concept": "Opción sin límite de edad",
+      "statement": "La opción basada en tener padre o madre originariamente español y nacido en España no está sujeta a límite de edad.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q146"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F144",
+      "block": 21,
+      "article": "21.1",
+      "concept": "Carta de naturaleza",
+      "statement": "La carta de naturaleza se otorga discrecionalmente mediante Real Decreto cuando en el interesado concurran circunstancias excepcionales.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q147"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F145",
+      "block": 21,
+      "article": "21.1",
+      "concept": "Ausencia de derecho automático",
+      "statement": "No existe un derecho automático a obtener la carta de naturaleza por reunir una lista cerrada de requisitos.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q148"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F146",
+      "block": 21,
+      "article": "21.2",
+      "concept": "Concesión por residencia",
+      "statement": "La nacionalidad por residencia se adquiere mediante concesión otorgada por el Ministro de Justicia.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q149"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F147",
+      "block": 21,
+      "article": "21.2",
+      "concept": "Denegación motivada",
+      "statement": "La concesión por residencia puede denegarse de forma motivada por razones de orden público o interés nacional, quedando a salvo la vía contencioso-administrativa.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q150"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F148",
+      "block": 21,
+      "article": "21.3",
+      "concept": "Legitimación para solicitar",
+      "statement": "Pueden formular la solicitud el interesado emancipado o mayor de dieciocho años, el mayor de catorce asistido, el representante legal del menor de catorce y el interesado con discapacidad con los apoyos y ajustes necesarios.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q151"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F149",
+      "block": 21,
+      "article": "21.4",
+      "concept": "Caducidad de 180 días",
+      "statement": "Las concesiones por carta de naturaleza o por residencia caducan a los ciento ochenta días desde su notificación si el interesado no comparece ante funcionario competente para cumplir los requisitos del artículo 23.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q152"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F150",
+      "block": 22,
+      "article": "22.1",
+      "concept": "Plazo general",
+      "statement": "El plazo general de residencia para la concesión de la nacionalidad es de diez años.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q153"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F151",
+      "block": 22,
+      "article": "22.1",
+      "concept": "Plazo de refugiados",
+      "statement": "El plazo se reduce a cinco años para quienes hayan obtenido la condición de refugiado.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q154"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F152",
+      "block": 22,
+      "article": "22.1",
+      "concept": "Plazo de dos años",
+      "statement": "Bastan dos años para los nacionales de origen de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal, así como para los sefardíes.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q155"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F153",
+      "block": 22,
+      "article": "22.2",
+      "concept": "Supuestos de un año",
+      "statement": "Basta un año de residencia para quien haya nacido en territorio español, no haya ejercitado oportunamente la opción, haya estado dos años consecutivos bajo tutela, curatela representativa plena, guarda o acogimiento de ciudadano o institución españoles, lleve un año casado con español sin separación legal ni de hecho, sea viudo de español sin separación al fallecimiento, o haya nacido fuera de España de padre, madre, abuelo o abuela originariamente españoles.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q156"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F154",
+      "block": 22,
+      "article": "22.3",
+      "concept": "Caracteres de la residencia",
+      "statement": "En todos los casos la residencia debe ser legal, continuada e inmediatamente anterior a la petición.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q157"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F155",
+      "block": 22,
+      "article": "22.4",
+      "concept": "Buena conducta e integración",
+      "statement": "El interesado debe justificar buena conducta cívica y suficiente grado de integración en la sociedad española.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q158"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F156",
+      "block": 22,
+      "article": "22.2.d",
+      "concept": "Matrimonio con español",
+      "statement": "Casarse con una persona española no concede automáticamente la nacionalidad: reduce a un año el plazo de residencia cuando se cumplen las demás condiciones.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q159"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F157",
+      "block": 23,
+      "article": "23.a",
+      "concept": "Juramento o promesa",
+      "statement": "El mayor de catorce años capaz de prestar declaración por sí debe jurar o prometer fidelidad al Rey y obediencia a la Constitución y a las leyes.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q160"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F158",
+      "block": 23,
+      "article": "23.b",
+      "concept": "Renuncia y excepciones",
+      "statement": "Debe declarar que renuncia a su nacionalidad anterior, salvo los naturales de los países exceptuados por el artículo 24.1 y los sefardíes originarios de España.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q161"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F159",
+      "block": 23,
+      "article": "23.c",
+      "concept": "Inscripción registral",
+      "statement": "La adquisición debe inscribirse en el Registro Civil español.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q162"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F160",
+      "block": 23,
+      "article": "23",
+      "concept": "Alcance de las excepciones",
+      "statement": "La obligación de renunciar a la nacionalidad anterior admite excepciones; la inscripción en el Registro Civil no.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q163"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F161",
+      "block": 24,
+      "article": "24.1",
+      "concept": "Supuesto general de pérdida",
+      "statement": "Los españoles emancipados que residan habitualmente en el extranjero pierden la nacionalidad si adquieren voluntariamente otra o utilizan exclusivamente la nacionalidad extranjera que tuvieran atribuida antes de la emancipación.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q164"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F162",
+      "block": 24,
+      "article": "24.1",
+      "concept": "Cómputo del plazo",
+      "statement": "El plazo de tres años se cuenta, respectivamente, desde la adquisición de la nacionalidad extranjera o desde la emancipación.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q165"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F163",
+      "block": 24,
+      "article": "24.1",
+      "concept": "Declaración de conservación",
+      "statement": "La pérdida puede evitarse declarando la voluntad de conservar la nacionalidad española dentro del plazo de tres años.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q166"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F164",
+      "block": 24,
+      "article": "24.1",
+      "concept": "Países exceptuados",
+      "statement": "La adquisición de la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal no basta para producir la pérdida de la nacionalidad de los españoles de origen.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q167"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F165",
+      "block": 24,
+      "article": "24.3",
+      "concept": "Nacidos y residentes en el extranjero",
+      "statement": "Quienes nacen y residen en el extranjero siendo hijos de padre o madre españoles nacidos también en el extranjero deben declarar su voluntad de conservar la nacionalidad dentro de los tres años contados desde la mayoría de edad o la emancipación cuando las leyes del país les atribuyan su nacionalidad.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q168"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F166",
+      "block": 24,
+      "article": "24.2",
+      "concept": "Renuncia expresa",
+      "statement": "El emancipado que tenga otra nacionalidad y resida habitualmente en el extranjero pierde la española si renuncia expresamente a ella.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q169"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F167",
+      "block": 24,
+      "article": "24.4",
+      "concept": "Cláusula de guerra",
+      "statement": "No se pierde la nacionalidad española en virtud de estas reglas mientras España se encuentre en guerra.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q170"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F168",
+      "block": 24,
+      "article": "25.1",
+      "concept": "Causas del no originario",
+      "statement": "Los españoles no originarios pueden perder la nacionalidad si durante tres años utilizan exclusivamente la nacionalidad a la que declararon renunciar al adquirir la española, o si entran voluntariamente al servicio de las armas o ejercen cargo político en un Estado extranjero contra la prohibición expresa del Gobierno.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q171"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F169",
+      "block": 24,
+      "article": "25.2",
+      "concept": "Nulidad por fraude",
+      "statement": "La sentencia firme que declare falsedad, ocultación o fraude en la adquisición produce su nulidad sin perjudicar a terceros de buena fe; la acción corresponde al Ministerio Fiscal y está sujeta al plazo de quince años.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q172"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F170",
+      "block": 25,
+      "article": "26.1",
+      "concept": "Requisitos de la recuperación",
+      "statement": "Para recuperar la nacionalidad española se exige residir legalmente en España, declarar ante el encargado del Registro Civil la voluntad de recuperar e inscribir la recuperación en el Registro Civil.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q173"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F171",
+      "block": 25,
+      "article": "26.1.a",
+      "concept": "Exención de residencia",
+      "statement": "La residencia legal en España no se exige a los emigrantes ni a sus hijos.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q174"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F172",
+      "block": 25,
+      "article": "26.1.a",
+      "concept": "Dispensa ministerial",
+      "statement": "El Ministro de Justicia puede dispensar el requisito de residencia cuando concurran circunstancias excepcionales.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q175"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F173",
+      "block": 25,
+      "article": "26.2",
+      "concept": "Habilitación del Gobierno",
+      "statement": "Quienes perdieron la nacionalidad por las causas del artículo 25 necesitan además habilitación discrecional previa concedida por el Gobierno.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q176"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F174",
+      "block": 25,
+      "article": null,
+      "concept": "Conservar frente a recuperar",
+      "statement": "La conservación evita una futura pérdida, mientras que la recuperación actúa después de que la pérdida ya se ha producido.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-NACIONALIDAD",
+      "question_ids": [
+        "PN-T01-Q177"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F175",
+      "block": 26,
+      "article": "40",
+      "concept": "Domicilio de la persona natural",
+      "statement": "Para el ejercicio de los derechos y el cumplimiento de las obligaciones civiles, el domicilio de las personas naturales es el lugar de su residencia habitual, sin perjuicio de los domicilios establecidos por la ley procesal.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-DOMICILIO",
+      "question_ids": [
+        "PN-T01-Q178"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F176",
+      "block": 26,
+      "article": "40",
+      "concept": "Domicilio de los diplomáticos",
+      "statement": "El domicilio de los diplomáticos españoles que residan en el extranjero por razón de su cargo y gocen de extraterritorialidad es el último que hubieran tenido en territorio español.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-DOMICILIO",
+      "question_ids": [
+        "PN-T01-Q179"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F177",
+      "block": 26,
+      "article": "41",
+      "concept": "Domicilio de la persona jurídica",
+      "statement": "El domicilio de la persona jurídica es el fijado por su ley de creación, estatutos o reglas fundacionales y, si nada establecen, el lugar donde se encuentre su representación legal o donde ejerza sus principales funciones.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-DOMICILIO",
+      "question_ids": [
+        "PN-T01-Q180"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F178",
+      "block": 26,
+      "article": null,
+      "concept": "Empadronamiento",
+      "statement": "El empadronamiento es una inscripción administrativa que puede ser indicio de residencia, pero no sustituye por sí solo las reglas civiles sobre el domicilio.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-DOMICILIO",
+      "question_ids": [
+        "PN-T01-Q181"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F179",
+      "block": 26,
+      "article": "18.2",
+      "concept": "Domicilio constitucional",
+      "statement": "El domicilio constitucional protege el espacio en el que se desarrolla la vida privada y puede comprender una habitación de hotel aunque no sea residencia habitual a efectos civiles.",
+      "essential": true,
+      "risk": 5,
+      "source": "CE",
+      "question_ids": [
+        "PN-T01-Q182"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F180",
+      "block": 27,
+      "article": "14.1",
+      "concept": "Función de la vecindad civil",
+      "statement": "La sujeción al Derecho civil común o al especial o foral se determina por la vecindad civil.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q183"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F181",
+      "block": 27,
+      "article": null,
+      "concept": "Vecindad y nacionalidad",
+      "statement": "La vecindad civil es una conexión interna del ordenamiento español: presupone la nacionalidad española, pero no se identifica con ella.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q184"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F182",
+      "block": 27,
+      "article": "14.2",
+      "concept": "Progenitores con igual vecindad",
+      "statement": "El nacido de progenitores con la misma vecindad civil adquiere esa vecindad, y el adoptado no emancipado adquiere la de los adoptantes.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q185"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F183",
+      "block": 27,
+      "article": "14.3",
+      "concept": "Progenitores con distinta vecindad",
+      "statement": "Si los progenitores tienen vecindad civil distinta, corresponde al hijo la de aquel respecto del cual se determinó antes la filiación; en su defecto, la del lugar de nacimiento; y, en último término, la vecindad de Derecho común.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q186"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F184",
+      "block": 27,
+      "article": "14.3",
+      "concept": "Atribución en seis meses",
+      "statement": "Los progenitores o quien ejerza la patria potestad pueden atribuir al hijo la vecindad civil de cualquiera de ellos mientras no transcurran seis meses desde el nacimiento o la adopción.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q187"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F185",
+      "block": 27,
+      "article": "14.3",
+      "concept": "Cambio posterior de los progenitores",
+      "statement": "El cambio posterior de vecindad civil de los progenitores no altera por sí solo la del hijo.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q188"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F186",
+      "block": 27,
+      "article": null,
+      "concept": "Distinción de figuras",
+      "statement": "La vecindad civil no equivale al empadronamiento, al domicilio, a la nacionalidad ni a la vecindad administrativa.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q189"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F187",
+      "block": 28,
+      "article": "14.3",
+      "concept": "Opción del hijo",
+      "statement": "El hijo puede optar, desde que cumple catorce años y hasta que transcurra un año después de su emancipación, por la vecindad civil del lugar de su nacimiento o por la última vecindad de cualquiera de sus progenitores.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q190"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F188",
+      "block": 28,
+      "article": "14.3",
+      "concept": "Asistencia del representante",
+      "statement": "Si el optante no está emancipado, debe ser asistido por su representante legal.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q191"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F189",
+      "block": 28,
+      "article": "14.4",
+      "concept": "Matrimonio y vecindad",
+      "statement": "El matrimonio no altera la vecindad civil de los cónyuges.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q192"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F190",
+      "block": 28,
+      "article": "14.4",
+      "concept": "Opción entre cónyuges",
+      "statement": "Cualquiera de los cónyuges no separados legalmente o de hecho puede optar en cualquier momento por la vecindad civil del otro.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q193"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F191",
+      "block": 28,
+      "article": "14.5",
+      "concept": "Residencia de dos años",
+      "statement": "La vecindad civil se adquiere por residencia continuada durante dos años, siempre que el interesado manifieste su voluntad en tal sentido.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q194"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F192",
+      "block": 28,
+      "article": "14.5",
+      "concept": "Residencia de diez años",
+      "statement": "La vecindad civil se adquiere por residencia continuada durante diez años, sin declaración en contrario durante ese plazo.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q195"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F193",
+      "block": 28,
+      "article": "14.5",
+      "concept": "Constancia registral",
+      "statement": "Ambas declaraciones se hacen constar en el Registro Civil y no necesitan ser reiteradas.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q196"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F194",
+      "block": 28,
+      "article": "14.6",
+      "concept": "Regla de la duda",
+      "statement": "En caso de duda prevalece la vecindad civil correspondiente al lugar de nacimiento.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q197"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F195",
+      "block": 28,
+      "article": null,
+      "concept": "Insuficiencia del traslado",
+      "statement": "El empadronamiento o un simple traslado no producen por sí solos el cambio de vecindad civil: debe cumplirse la residencia continuada y la modalidad legal aplicable.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q198"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F196",
+      "block": 29,
+      "article": "15.1",
+      "concept": "Opción del nacionalizado",
+      "statement": "El extranjero que adquiere la nacionalidad española debe optar, al inscribirla, por la vecindad civil del lugar de residencia, la del lugar de nacimiento, la última vecindad de cualquiera de sus progenitores o adoptantes, o la del cónyuge.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q199"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F197",
+      "block": 29,
+      "article": "15.2",
+      "concept": "Carta de naturaleza y vecindad",
+      "statement": "En la adquisición de la nacionalidad por carta de naturaleza, el Real Decreto de concesión puede determinar la vecindad civil atendiendo a la opción del interesado y a las circunstancias concurrentes.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q200"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F198",
+      "block": 29,
+      "article": "15.3",
+      "concept": "Recuperación de la vecindad",
+      "statement": "Quien recupera la nacionalidad española recupera también la vecindad civil que ostentaba al perderla.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q201"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F199",
+      "block": 29,
+      "article": null,
+      "concept": "Necesidad de conexión legal",
+      "statement": "El nacionalizado no elige libremente cualquier vecindad civil: debe existir alguna de las conexiones legalmente previstas.",
+      "essential": true,
+      "risk": 5,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q202"
+      ],
+      "covered": true
+    },
+    {
+      "id": "PN-T01-F200",
+      "block": 29,
+      "article": "16",
+      "concept": "Derecho interregional",
+      "statement": "Los conflictos entre las legislaciones civiles coexistentes en España se resuelven mediante las normas de Derecho interregional, con las particularidades del artículo 16.",
+      "essential": true,
+      "risk": 4,
+      "source": "CC-VECINDAD",
+      "question_ids": [
+        "PN-T01-Q203"
+      ],
+      "covered": true
+    }
+  ],
+  "blocks": [
+    {
+      "block": 1,
+      "facts": 11,
+      "questions": 12
+    },
+    {
+      "block": 2,
+      "facts": 8,
+      "questions": 8
+    },
+    {
+      "block": 3,
+      "facts": 9,
+      "questions": 9
+    },
+    {
+      "block": 4,
+      "facts": 7,
+      "questions": 7
+    },
+    {
+      "block": 5,
+      "facts": 6,
+      "questions": 6
+    },
+    {
+      "block": 6,
+      "facts": 10,
+      "questions": 11
+    },
+    {
+      "block": 7,
+      "facts": 8,
+      "questions": 8
+    },
+    {
+      "block": 8,
+      "facts": 9,
+      "questions": 10
+    },
+    {
+      "block": 9,
+      "facts": 10,
+      "questions": 10
+    },
+    {
+      "block": 10,
+      "facts": 6,
+      "questions": 6
+    },
+    {
+      "block": 11,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 12,
+      "facts": 6,
+      "questions": 6
+    },
+    {
+      "block": 13,
+      "facts": 7,
+      "questions": 7
+    },
+    {
+      "block": 14,
+      "facts": 8,
+      "questions": 8
+    },
+    {
+      "block": 15,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 16,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 17,
+      "facts": 7,
+      "questions": 7
+    },
+    {
+      "block": 18,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 19,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 20,
+      "facts": 6,
+      "questions": 6
+    },
+    {
+      "block": 21,
+      "facts": 6,
+      "questions": 6
+    },
+    {
+      "block": 22,
+      "facts": 7,
+      "questions": 7
+    },
+    {
+      "block": 23,
+      "facts": 4,
+      "questions": 4
+    },
+    {
+      "block": 24,
+      "facts": 9,
+      "questions": 9
+    },
+    {
+      "block": 25,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 26,
+      "facts": 5,
+      "questions": 5
+    },
+    {
+      "block": 27,
+      "facts": 7,
+      "questions": 7
+    },
+    {
+      "block": 28,
+      "facts": 9,
+      "questions": 9
+    },
+    {
+      "block": 29,
+      "facts": 5,
+      "questions": 5
+    }
+  ]
 }
