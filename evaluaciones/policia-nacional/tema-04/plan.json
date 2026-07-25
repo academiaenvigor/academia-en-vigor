@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "0.1.0",
+  "opposition": "policia-nacional",
+  "topic_number": 4,
+  "topic_title": "La Unión Europea",
+  "id_prefix": "PN-T04",
+  "bank": "banco-preguntas/policia-nacional/tema-04/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-04/tests-generados",
+  "status": "planned_after_question_bank",
+  "coverage_tests": {
+    "description": "Pendiente de hechos y preguntas",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "La construcción europea: referencia histórica"
+      },
+      {
+        "number": 2,
+        "title": "Tratados constitutivos y modificativos"
+      },
+      {
+        "number": 3,
+        "title": "Ampliaciones, adhesión y retirada de la Unión"
+      },
+      {
+        "number": 4,
+        "title": "El Alto Representante y la acción exterior"
+      },
+      {
+        "number": 5,
+        "title": "Naturaleza del ordenamiento europeo: primacía y efecto directo"
+      },
+      {
+        "number": 6,
+        "title": "Derecho primario u originario"
+      },
+      {
+        "number": 7,
+        "title": "Derecho derivado: los actos del artículo 288 TFUE"
+      },
+      {
+        "number": 8,
+        "title": "Derecho subsidiario, jurisprudencia y derechos fundamentales"
+      },
+      {
+        "number": 9,
+        "title": "El Parlamento Europeo: naturaleza, composición y sedes"
+      },
+      {
+        "number": 10,
+        "title": "Presidente, Mesa y órganos de gobierno del Parlamento"
+      },
+      {
+        "number": 11,
+        "title": "Grupos políticos, comisiones y funciones del Parlamento"
+      },
+      {
+        "number": 12,
+        "title": "El Consejo Europeo: naturaleza, composición y funciones"
+      },
+      {
+        "number": 13,
+        "title": "La Presidencia del Consejo Europeo y su funcionamiento"
+      },
+      {
+        "number": 14,
+        "title": "El Consejo de la Unión Europea"
+      },
+      {
+        "number": 15,
+        "title": "La Comisión Europea: composición y nombramiento"
+      },
+      {
+        "number": 16,
+        "title": "Funciones de la Comisión y el triángulo institucional"
+      },
+      {
+        "number": 17,
+        "title": "El Tribunal de Justicia de la Unión Europea: estructura"
+      },
+      {
+        "number": 18,
+        "title": "Recursos ante el TJUE y la reforma de 2024"
+      },
+      {
+        "number": 19,
+        "title": "El Tribunal de Cuentas Europeo"
+      },
+      {
+        "number": 20,
+        "title": "El Banco Central Europeo y la zona euro"
+      },
+      {
+        "number": 21,
+        "title": "El SEAE y el Comité Económico y Social Europeo"
+      },
+      {
+        "number": 22,
+        "title": "El Comité de las Regiones y el Defensor del Pueblo Europeo"
+      },
+      {
+        "number": 23,
+        "title": "El BEI y el Supervisor Europeo de Protección de Datos"
+      },
+      {
+        "number": 24,
+        "title": "Interpol"
+      },
+      {
+        "number": 25,
+        "title": "Europol y la cooperación policial en la Unión"
+      },
+      {
+        "number": 26,
+        "title": "La Orden de Detención Europea"
+      },
+      {
+        "number": 27,
+        "title": "El Consejo de Europa y el TEDH"
+      },
+      {
+        "number": 28,
+        "title": "La dualidad jurisdiccional europea: TEDH frente a TJUE"
+      }
+    ]
+  },
+  "part_tests": [
+    {
+      "number": 1,
+      "title": "La Unión Europea: historia y tratados",
+      "blocks": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "title": "El Derecho de la Unión Europea",
+      "blocks": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Instituciones (I): el Parlamento Europeo",
+      "blocks": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Instituciones (II): los Consejos",
+      "blocks": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Instituciones (III): la Comisión",
+      "blocks": [
+        15,
+        16
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Instituciones (IV): control jurisdiccional y financiero",
+      "blocks": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "number": 7,
+      "title": "El BCE y los órganos consultivos y auxiliares",
+      "blocks": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Cooperación policial internacional",
+      "blocks": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  ],
+  "full_tests": {
+    "sizes": [
+      25,
+      50
+    ],
+    "rule": "Muestreo repartido por parte y ponderado por riesgo_examen."
+  }
+}
