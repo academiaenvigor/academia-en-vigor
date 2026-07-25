@@ -23,9 +23,9 @@
 
 La parte más extensa es la de instituciones (bloques 9 a 23). Conviene estudiarla siempre con el mismo esquema —**naturaleza → composición → nombramiento → mandato → funciones → sede**— porque el tribunal pregunta esos seis datos de cada órgano. La parte 8 es la de aplicación policial directa y se retiene mejor si se estudia después de las instituciones.
 
-<!-- VISUAL:t04-00-mapa-general.png -->
+<!-- VISUAL:t04-00-mapa-general.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.png" alt="Mapa general" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.webp" alt="Mapa general" width="820">
 </p>
 
 > **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -48,14 +48,14 @@ El 9 de mayo es el Día de Europa porque ese día, en 1950, se pronunció la Dec
 Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania» sin más: es la **República Federal de Alemania**, porque en 1951 Alemania estaba dividida.
 :::
 
-<!-- VISUAL:t04-01-linea-tiempo.png -->
+<!-- VISUAL:t04-01-linea-tiempo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-01-linea-tiempo.png" alt="Línea de tiempo de la construcción europea" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-01-linea-tiempo.webp" alt="Línea de tiempo de la construcción europea" width="820">
 </p>
 
-<!-- VISUAL:t04-il-01-nace-europa.png -->
+<!-- VISUAL:t04-il-01-nace-europa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-01-nace-europa.png" alt="el proyecto europeo nace de la posguerra" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-01-nace-europa.webp" alt="el proyecto europeo nace de la posguerra" width="600">
 </p>
 <p align="center"><em>Ilustración: el proyecto europeo nace como respuesta a la posguerra.</em></p>
 
@@ -77,9 +77,9 @@ Regla de las dos fechas: firma y entrada en vigor nunca coinciden. Maastricht se
 El Tratado constitucional de 2004 **se firmó** pero **nunca entró en vigor**. Que una opción diga «se firmó en Roma en 2004» no la convierte en falsa: lo falso es decir que llegó a estar vigente.
 :::
 
-<!-- VISUAL:t04-02-tratados-cronologia.png -->
+<!-- VISUAL:t04-02-tratados-cronologia.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-02-tratados-cronologia.png" alt="Cronología de los tratados" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-02-tratados-cronologia.webp" alt="Cronología de los tratados" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -100,14 +100,14 @@ Copenhague son tres criterios y tres preguntas: ¿es democracia?, ¿aguanta el m
 El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **notificación 2017**, **salida efectiva 31 de enero de 2020** y **fin del periodo transitorio 31 de diciembre de 2020**.
 :::
 
-<!-- VISUAL:t04-03-mapa-ampliaciones.png -->
+<!-- VISUAL:t04-03-mapa-ampliaciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-03-mapa-ampliaciones.png" alt="Mapa de las ampliaciones sucesivas" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-03-mapa-ampliaciones.webp" alt="Mapa de las ampliaciones sucesivas" width="820">
 </p>
 
-<!-- VISUAL:t04-il-03-entrada-salida.png -->
+<!-- VISUAL:t04-il-03-entrada-salida.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-03-entrada-salida.png" alt="la Unión tiene puerta de entrada y puerta de salida" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-03-entrada-salida.webp" alt="la Unión tiene puerta de entrada y puerta de salida" width="600">
 </p>
 <p align="center"><em>Ilustración: el artículo 49 regula la entrada; el artículo 50, la salida.</em></p>
 
@@ -129,9 +129,9 @@ Doble sombrero: preside el Consejo de Asuntos Exteriores y es Vicepresidente de 
 El Alto Representante **participa** en los trabajos del Consejo Europeo, pero **no es miembro** de él. Los miembros son los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión.
 :::
 
-<!-- VISUAL:t04-04-alto-representante.png -->
+<!-- VISUAL:t04-04-alto-representante.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-04-alto-representante.png" alt="Doble sombrero del Alto Representante" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-04-alto-representante.webp" alt="Doble sombrero del Alto Representante" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -154,14 +154,14 @@ Orden cronológico y alfabético coinciden al revés: **Van Gend en Loos (1963)*
 Primacía y efecto directo **no están escritos en los Tratados**: son jurisprudencia del Tribunal de Justicia. Cualquier opción que los atribuya a un artículo del TUE es falsa.
 :::
 
-<!-- VISUAL:t04-05-primacia-efecto-directo.png -->
+<!-- VISUAL:t04-05-primacia-efecto-directo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-05-primacia-efecto-directo.png" alt="Primacía y efecto directo" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-05-primacia-efecto-directo.webp" alt="Primacía y efecto directo" width="820">
 </p>
 
-<!-- VISUAL:t04-il-05-piramide.png -->
+<!-- VISUAL:t04-il-05-piramide.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-05-piramide.png" alt="el Derecho de la Unión se sitúa por encima de la norma interna en caso de conflicto" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-05-piramide.webp" alt="el Derecho de la Unión se sitúa por encima de la norma interna en caso de conflicto" width="600">
 </p>
 <p align="center"><em>Ilustración: ante un conflicto, el juez nacional inaplica la norma interna contraria.</em></p>
 
@@ -183,9 +183,9 @@ Protocolos y anexos **sí** forman parte de los Tratados. Las declaraciones anej
 El TUE **no está por encima** del TFUE. Desde Lisboa ambos tienen exactamente el mismo valor jurídico.
 :::
 
-<!-- VISUAL:t04-06-piramide-fuentes.png -->
+<!-- VISUAL:t04-06-piramide-fuentes.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-06-piramide-fuentes.png" alt="Pirámide de fuentes del Derecho de la Unión" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-06-piramide-fuentes.webp" alt="Pirámide de fuentes del Derecho de la Unión" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -206,14 +206,14 @@ Reglamento, directiva y decisión obligan; recomendación y dictamen, no. Y de l
 La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero **no horizontal** entre particulares. Es la asimetría que más cae de todo el bloque de fuentes.
 :::
 
-<!-- VISUAL:t04-07-actos-tipicos.png -->
+<!-- VISUAL:t04-07-actos-tipicos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-07-actos-tipicos.png" alt="Cuadro comparativo de los actos del artículo 288" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-07-actos-tipicos.webp" alt="Cuadro comparativo de los actos del artículo 288" width="820">
 </p>
 
-<!-- VISUAL:t04-il-07-reglamento-directiva.png -->
+<!-- VISUAL:t04-il-07-reglamento-directiva.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-07-reglamento-directiva.png" alt="el reglamento se aplica directamente y la directiva necesita transposición" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-07-reglamento-directiva.webp" alt="el reglamento se aplica directamente y la directiva necesita transposición" width="600">
 </p>
 <p align="center"><em>Ilustración: el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga.</em></p>
 
@@ -235,9 +235,9 @@ La Carta tiene siete títulos y se recuerdan con la secuencia **DLISCJD**: Digni
 La Carta se **proclamó en 2000** pero solo es **vinculante desde 2009**. Y vincula a los Estados **únicamente cuando aplican Derecho de la Unión**, no en cualquier asunto interno.
 :::
 
-<!-- VISUAL:t04-08-derechos-fundamentales.png -->
+<!-- VISUAL:t04-08-derechos-fundamentales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-08-derechos-fundamentales.png" alt="Sistemas de protección de derechos en Europa" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-08-derechos-fundamentales.webp" alt="Sistemas de protección de derechos en Europa" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -260,14 +260,14 @@ Tres ciudades y tres funciones: **Estrasburgo** plenos, **Bruselas** comisiones,
 La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre la mayor parte de la actividad diaria.
 :::
 
-<!-- VISUAL:t04-09-reparto-escanos.png -->
+<!-- VISUAL:t04-09-reparto-escanos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-09-reparto-escanos.png" alt="Reparto de escaños por Estado miembro" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-09-reparto-escanos.webp" alt="Reparto de escaños por Estado miembro" width="820">
 </p>
 
-<!-- VISUAL:t04-il-09-tres-sedes.png -->
+<!-- VISUAL:t04-il-09-tres-sedes.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-09-tres-sedes.png" alt="el Parlamento reparte su actividad entre tres ciudades" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-09-tres-sedes.webp" alt="el Parlamento reparte su actividad entre tres ciudades" width="600">
 </p>
 <p align="center"><em>Ilustración: el Parlamento es itinerante: plenos, comisiones y administración se reparten.</em></p>
 
@@ -289,9 +289,9 @@ Mesa igual a organización interna; Conferencia de Presidentes igual a orden del
 Los **Cuestores son cinco** y tienen **voz pero no voto**. Y el mandato del Presidente es de **dos años y medio**, no de cinco.
 :::
 
-<!-- VISUAL:t04-10-organos-parlamento.png -->
+<!-- VISUAL:t04-10-organos-parlamento.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-10-organos-parlamento.png" alt="Órganos de gobierno del Parlamento" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-10-organos-parlamento.webp" alt="Órganos de gobierno del Parlamento" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -312,9 +312,9 @@ Para formar grupo: **23 diputados** de al menos **una cuarta parte de los Estado
 La moción de censura tumba a **toda la Comisión en bloque**. El Parlamento **no puede cesar a un comisario individual**.
 :::
 
-<!-- VISUAL:t04-11-funciones-parlamento.png -->
+<!-- VISUAL:t04-11-funciones-parlamento.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-11-funciones-parlamento.png" alt="Funciones del Parlamento Europeo" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-11-funciones-parlamento.webp" alt="Funciones del Parlamento Europeo" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -337,14 +337,14 @@ Tres Consejos: el **Europeo** manda (líderes), el **de la Unión** legisla (min
 El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, pero no aprueba reglamentos ni directivas.
 :::
 
-<!-- VISUAL:t04-12-tres-consejos.png -->
+<!-- VISUAL:t04-12-tres-consejos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-12-tres-consejos.png" alt="Los tres Consejos que no deben confundirse" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-12-tres-consejos.webp" alt="Los tres Consejos que no deben confundirse" width="820">
 </p>
 
-<!-- VISUAL:t04-il-12-no-confundir.png -->
+<!-- VISUAL:t04-il-12-no-confundir.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-12-no-confundir.png" alt="tres instituciones distintas comparten la palabra Consejo" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-12-no-confundir.webp" alt="tres instituciones distintas comparten la palabra Consejo" width="600">
 </p>
 <p align="center"><em>Ilustración: Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas.</em></p>
 
@@ -366,9 +366,9 @@ Dos años y medio renovables **una sola vez**, igual duración que el Presidente
 La periodicidad se enuncia como **dos veces por semestre**, que son cuatro al año. Si una opción dice «dos veces al año», es falsa.
 :::
 
-<!-- VISUAL:t04-13-presidencia-consejo-europeo.png -->
+<!-- VISUAL:t04-13-presidencia-consejo-europeo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-13-presidencia-consejo-europeo.png" alt="Presidencia del Consejo Europeo" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-13-presidencia-consejo-europeo.webp" alt="Presidencia del Consejo Europeo" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -389,14 +389,14 @@ La doble mayoría en tres cifras: **55 % de Estados, 15 mínimo, 65 % de poblaci
 El **COREPER II es el político** y el **I el técnico**, al revés de lo que sugiere la numeración. Y el Consejo de Asuntos Exteriores **no rota**: lo preside siempre el Alto Representante.
 :::
 
-<!-- VISUAL:t04-14-mayoria-cualificada.png -->
+<!-- VISUAL:t04-14-mayoria-cualificada.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-14-mayoria-cualificada.png" alt="La doble mayoría en el Consejo" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-14-mayoria-cualificada.webp" alt="La doble mayoría en el Consejo" width="820">
 </p>
 
-<!-- VISUAL:t04-il-14-balanza-votos.png -->
+<!-- VISUAL:t04-il-14-balanza-votos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-14-balanza-votos.png" alt="la mayoría cualificada pesa Estados y población a la vez" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-14-balanza-votos.webp" alt="la mayoría cualificada pesa Estados y población a la vez" width="600">
 </p>
 <p align="center"><em>Ilustración: la doble mayoría exige contar Estados y población simultáneamente.</em></p>
 
@@ -420,9 +420,9 @@ Cuatro pasos: **proponen** (Consejo Europeo) → **eligen** (Parlamento) → **a
 El Parlamento **elige al Presidente** pero **aprueba al Colegio en bloque**. Quien **nombra** formalmente a la Comisión es el **Consejo Europeo**.
 :::
 
-<!-- VISUAL:t04-15-nombramiento-comision.png -->
+<!-- VISUAL:t04-15-nombramiento-comision.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-15-nombramiento-comision.png" alt="Proceso de nombramiento de la Comisión" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-15-nombramiento-comision.webp" alt="Proceso de nombramiento de la Comisión" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -443,14 +443,14 @@ La Comisión propone, el Parlamento y el Consejo deciden. Si en una pregunta el 
 La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados prevén supuestos en los que la propuesta no procede de la Comisión.
 :::
 
-<!-- VISUAL:t04-16-triangulo-institucional.png -->
+<!-- VISUAL:t04-16-triangulo-institucional.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-16-triangulo-institucional.png" alt="El triángulo institucional" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-16-triangulo-institucional.webp" alt="El triángulo institucional" width="820">
 </p>
 
-<!-- VISUAL:t04-il-16-procedimiento-ordinario.png -->
+<!-- VISUAL:t04-il-16-procedimiento-ordinario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-16-procedimiento-ordinario.png" alt="la Comisión propone y Parlamento y Consejo deciden" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-16-procedimiento-ordinario.webp" alt="la Comisión propone y Parlamento y Consejo deciden" width="600">
 </p>
 <p align="center"><em>Ilustración: quién propone y quién decide: el reparto básico de papeles.</em></p>
 
@@ -474,9 +474,9 @@ Los jueces se nombran **de común acuerdo por los Gobiernos** para **seis años 
 Las **conclusiones del abogado general no vinculan** al Tribunal. Y el abogado general **no es un juez**: no participa en la deliberación del fallo.
 :::
 
-<!-- VISUAL:t04-17-estructura-tjue.png -->
+<!-- VISUAL:t04-17-estructura-tjue.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-17-estructura-tjue.png" alt="Estructura del TJUE" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-17-estructura-tjue.webp" alt="Estructura del TJUE" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -497,14 +497,14 @@ La cuestión prejudicial la plantea **el juez**, no las partes. Y si su decisió
 El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de Derecho**: no revisa los hechos ni la valoración de la prueba.
 :::
 
-<!-- VISUAL:t04-18-tipos-recursos.png -->
+<!-- VISUAL:t04-18-tipos-recursos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-18-tipos-recursos.png" alt="Tipos de recursos ante el TJUE" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-18-tipos-recursos.webp" alt="Tipos de recursos ante el TJUE" width="820">
 </p>
 
-<!-- VISUAL:t04-il-18-cuestion-prejudicial.png -->
+<!-- VISUAL:t04-il-18-cuestion-prejudicial.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.png" alt="el juez nacional pregunta al Tribunal de Justicia antes de resolver" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.webp" alt="el juez nacional pregunta al Tribunal de Justicia antes de resolver" width="600">
 </p>
 <p align="center"><em>Ilustración: la cuestión prejudicial: el juez nacional consulta antes de decidir.</em></p>
 
@@ -526,9 +526,9 @@ El Tribunal de Cuentas **audita, no sanciona**. Si huele a fraude, llama a la OL
 No confundir sus **seis años** de mandato con los **ocho no renovables** del Comité Ejecutivo del BCE ni con los **cinco** de la Comisión.
 :::
 
-<!-- VISUAL:t04-19-tribunal-cuentas.png -->
+<!-- VISUAL:t04-19-tribunal-cuentas.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-19-tribunal-cuentas.png" alt="Funciones del Tribunal de Cuentas" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-19-tribunal-cuentas.webp" alt="Funciones del Tribunal de Cuentas" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -551,14 +551,14 @@ Conviene distinguir el **SEBC** (BCE más los bancos centrales de **los veintisi
 La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios que dicen veinte están desactualizados desde la entrada de Bulgaria.
 :::
 
-<!-- VISUAL:t04-20-organos-bce.png -->
+<!-- VISUAL:t04-20-organos-bce.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-20-organos-bce.png" alt="Órganos decisorios del BCE" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-20-organos-bce.webp" alt="Órganos decisorios del BCE" width="820">
 </p>
 
-<!-- VISUAL:t04-il-20-zona-euro.png -->
+<!-- VISUAL:t04-il-20-zona-euro.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-20-zona-euro.png" alt="no todos los Estados miembros comparten la moneda única" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-20-zona-euro.webp" alt="no todos los Estados miembros comparten la moneda única" width="600">
 </p>
 <p align="center"><em>Ilustración: pertenecer a la Unión y pertenecer a la zona euro no es lo mismo.</em></p>
 
@@ -580,9 +580,9 @@ El techo de **350 miembros** y el mandato de **cinco años** son comunes al CESE
 El CESE es **órgano consultivo**, no institución. Las instituciones son solo las **siete** del artículo 13 del TUE.
 :::
 
-<!-- VISUAL:t04-21-seae-cese.png -->
+<!-- VISUAL:t04-21-seae-cese.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-21-seae-cese.png" alt="SEAE y CESE" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-21-seae-cese.webp" alt="SEAE y CESE" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -603,9 +603,9 @@ El Defensor del Pueblo Europeo vigila a **Bruselas, no a Madrid**. Para lo nacio
 Su mandato **coincide con la legislatura del Parlamento Europeo**. No son cinco años fijos como el del Defensor del Pueblo español.
 :::
 
-<!-- VISUAL:t04-22-cdr-defensor.png -->
+<!-- VISUAL:t04-22-cdr-defensor.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-22-cdr-defensor.png" alt="Comité de las Regiones y Defensor del Pueblo Europeo" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-22-cdr-defensor.webp" alt="Comité de las Regiones y Defensor del Pueblo Europeo" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -626,9 +626,9 @@ Siete instituciones, artículo 13 TUE: **Parlamento, Consejo Europeo, Consejo, C
 El **BEI no es una institución** aunque tenga personalidad jurídica propia. Tampoco lo son el CESE, el Comité de las Regiones ni el Defensor del Pueblo Europeo.
 :::
 
-<!-- VISUAL:t04-23-organos-organismos.png -->
+<!-- VISUAL:t04-23-organos-organismos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-23-organos-organismos.png" alt="Órganos, organismos y agencias" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-23-organos-organismos.webp" alt="Órganos, organismos y agencias" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -651,14 +651,14 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
 **Interpol no detiene ni tiene agentes con facultades coercitivas.** Y la prohibición del artículo 3 son cuatro materias: político, militar, religioso y racial.
 :::
 
-<!-- VISUAL:t04-24-notificaciones-interpol.png -->
+<!-- VISUAL:t04-24-notificaciones-interpol.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-24-notificaciones-interpol.png" alt="Sistema de notificaciones de Interpol" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-24-notificaciones-interpol.webp" alt="Sistema de notificaciones de Interpol" width="820">
 </p>
 
-<!-- VISUAL:t04-il-24-interpol-no-detiene.png -->
+<!-- VISUAL:t04-il-24-interpol-no-detiene.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-24-interpol-no-detiene.png" alt="Interpol difunde información pero no practica detenciones" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-24-interpol-no-detiene.webp" alt="Interpol difunde información pero no practica detenciones" width="600">
 </p>
 <p align="center"><em>Ilustración: Interpol coordina y difunde; quien detiene es la policía del país.</em></p>
 
@@ -680,14 +680,14 @@ Completan el mapa **Eurojust** (cooperación judicial penal, La Haya), **Frontex
 Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: incluye a cuatro Estados no miembros y deja fuera a Irlanda y Chipre.
 :::
 
-<!-- VISUAL:t04-25-agencias-cooperacion.png -->
+<!-- VISUAL:t04-25-agencias-cooperacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-25-agencias-cooperacion.png" alt="Agencias de cooperación en la Unión" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-25-agencias-cooperacion.webp" alt="Agencias de cooperación en la Unión" width="820">
 </p>
 
-<!-- VISUAL:t04-il-25-europol-analiza.png -->
+<!-- VISUAL:t04-il-25-europol-analiza.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.png" alt="Europol analiza y coordina información entre Estados" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.webp" alt="Europol analiza y coordina información entre Estados" width="600">
 </p>
 <p align="center"><em>Ilustración: Europol es un centro de análisis, no una policía con competencias operativas.</em></p>
 
@@ -709,14 +709,14 @@ Tres cifras y su supuesto: **12 meses** para juzgar, **4 meses** para cumplir co
 La euroorden es un procedimiento **entre autoridades judiciales**. Si una opción atribuye la decisión al Gobierno o al Ministerio de Justicia, describe la extradición clásica, no la euroorden.
 :::
 
-<!-- VISUAL:t04-26-euroorden-procedimiento.png -->
+<!-- VISUAL:t04-26-euroorden-procedimiento.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-26-euroorden-procedimiento.png" alt="Procedimiento de la Euroorden" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-26-euroorden-procedimiento.webp" alt="Procedimiento de la Euroorden" width="820">
 </p>
 
-<!-- VISUAL:t04-il-26-euroorden.png -->
+<!-- VISUAL:t04-il-26-euroorden.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-26-euroorden.png" alt="la euroorden sustituye a la extradición entre Estados miembros" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-26-euroorden.webp" alt="la euroorden sustituye a la extradición entre Estados miembros" width="600">
 </p>
 <p align="center"><em>Ilustración: de la extradición entre Gobiernos a la entrega entre autoridades judiciales.</em></p>
 
@@ -738,9 +738,9 @@ El Convenio se firma en **Roma**, pero el tribunal está en **Estrasburgo**. Jue
 El plazo para demandar es de **cuatro meses** desde el 1 de febrero de 2022. Los temarios antiguos siguen diciendo seis.
 :::
 
-<!-- VISUAL:t04-27-tedh-estructura.png -->
+<!-- VISUAL:t04-27-tedh-estructura.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-27-tedh-estructura.png" alt="Estructura del TEDH" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-27-tedh-estructura.webp" alt="Estructura del TEDH" width="820">
 </p>
 
 > **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
@@ -761,14 +761,14 @@ No existe entre ellos **relación jerárquica ni de instancia**. Convergen en ma
 No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una sentencia del TJUE ante el TEDH ni al revés.
 :::
 
-<!-- VISUAL:t04-28-tedh-vs-tjue.png -->
+<!-- VISUAL:t04-28-tedh-vs-tjue.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-28-tedh-vs-tjue.png" alt="TEDH frente a TJUE" width="820">
+  <img src="../../../assets/policia-nacional/tema-04/t04-28-tedh-vs-tjue.webp" alt="TEDH frente a TJUE" width="820">
 </p>
 
-<!-- VISUAL:t04-il-28-dos-tribunales.png -->
+<!-- VISUAL:t04-il-28-dos-tribunales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-28-dos-tribunales.png" alt="dos tribunales europeos distintos con funciones diferentes" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-28-dos-tribunales.webp" alt="dos tribunales europeos distintos con funciones diferentes" width="600">
 </p>
 <p align="center"><em>Ilustración: Estrasburgo y Luxemburgo: dos tribunales que responden a preguntas distintas.</em></p>
 
