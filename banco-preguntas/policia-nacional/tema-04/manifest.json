@@ -1,36 +1,86 @@
 {
-  "schema_version": "1.3.0",
-  "content_version": "0.1.0",
+  "schema_version": "1.4.0",
+  "content_version": "1.0.0",
   "oposicion": "policia-nacional",
   "tema": 4,
-  "estado": "skeleton",
+  "estado": "generado_pendiente_revision_editorial",
   "publicacion": "not_published",
-  "total_preguntas": 0,
-  "total_hechos": 0,
-  "hechos_cubiertos": 0,
-  "cobertura_por_hechos": 0.0,
+  "total_preguntas": 367,
+  "total_hechos": 367,
+  "hechos_cubiertos": 367,
+  "cobertura_por_hechos": 100.0,
   "distribucion_respuestas": {
-    "A": 0,
-    "B": 0,
-    "C": 0
+    "A": 124,
+    "B": 124,
+    "C": 119
+  },
+  "distribucion_dificultad": {
+    "media": 115,
+    "alta": 251,
+    "baja": 1
+  },
+  "distribucion_tipo": {
+    "concepto_aplicado": 79,
+    "literal_discriminacion": 241,
+    "trampa_frecuente": 47
+  },
+  "preguntas_por_bloque": {
+    "1": 12,
+    "2": 13,
+    "3": 18,
+    "4": 9,
+    "5": 13,
+    "6": 8,
+    "7": 12,
+    "8": 8,
+    "9": 14,
+    "10": 8,
+    "11": 14,
+    "12": 9,
+    "13": 10,
+    "14": 15,
+    "15": 14,
+    "16": 13,
+    "17": 13,
+    "18": 12,
+    "19": 13,
+    "20": 16,
+    "21": 13,
+    "22": 14,
+    "23": 13,
+    "24": 22,
+    "25": 18,
+    "26": 16,
+    "27": 16,
+    "28": 11
+  },
+  "preguntas_por_parte": {
+    "1": 52,
+    "2": 41,
+    "3": 36,
+    "4": 34,
+    "5": 27,
+    "6": 38,
+    "7": 56,
+    "8": 83
   },
   "caracter": {
-    "propias": 0,
+    "propias": 367,
     "oficiales": 0
   },
   "retroalimentacion": {
     "feedback": "Explicación por opción: por qué es correcta o por qué es incorrecta.",
-    "retroalimentacion": "acierto y fallo, cada uno con humor y explicacion."
+    "retroalimentacion": "acierto y fallo, cada uno con humor y explicacion. El comentario con humor precede a la explicación."
   },
   "generacion_de_tests": {
-    "por_bloque": "filtrar por el campo bloque",
-    "por_parte": "filtrar por el campo parte",
-    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50"
+    "por_bloque": "filtrar por el campo bloque (1 a 28)",
+    "por_parte": "filtrar por el campo parte (1 a 8)",
+    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50 preguntas"
   },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-04/master.md",
   "cobertura": "../../../conocimiento/policia-nacional/tema-04/cobertura.json",
   "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-04/plan.json",
   "official_exam_index": "indice-oficiales.json",
   "publication_gate": "Revisión humana de distractores y feedback antes de publicar.",
-  "note": "Banco aplazado hasta que el master.md esté redactado y se extraigan los hechos atómicos."
+  "volatile_data_note": "Varias preguntas dependen de datos que caducan (escaños, zona euro, Schengen, miembros de Interpol y del Consejo de Europa). Ver volatile_data en el manifiesto de conocimiento y recomprobar antes de cada convocatoria."
 }
