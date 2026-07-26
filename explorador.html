@@ -37,6 +37,7 @@ main{flex:1;overflow-y:auto;padding:0}.top{position:sticky;top:0;background:#fff
 @media(max-width:800px){body{display:block;overflow:auto}body>aside{width:100%;position:relative;height:auto;max-height:42vh;border-right:0;border-bottom:2px solid var(--tinta)}main{height:auto;overflow:visible}.top{position:sticky}.cuerpo{padding:18px 16px}.filtro{font-size:.68rem}}
 @media(max-width:800px){.acciones-tema,.grid-recursos{grid-template-columns:1fr}.visor{padding:6px}.visor-panel{width:100%;height:96vh}}
 .gen-test{background:#fff;border:1.5px solid var(--linea);border-radius:12px;padding:18px;margin:16px 0}.gen-test h3{font-size:1.05rem;margin-bottom:4px}.gen-test .sub{font-size:.78rem;color:var(--gris);margin-bottom:14px}.gen-fila{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px}.gen-fila label{font-size:.76rem;color:var(--gris);min-width:78px}.gen-fila select,.gen-fila button{border:1px solid var(--linea);border-radius:8px;padding:7px 10px;font-size:.8rem;background:#fff;cursor:pointer}.gen-fila button.primario{background:var(--tinta);color:#fff;border:0;font-weight:700}.gen-fila button.primario:hover{background:var(--azul-osc)}.gen-progreso{font-size:.76rem;color:var(--gris)}.test-cab{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}.test-cab b{font-size:1.05rem}.test-marcador{margin-left:auto;background:var(--tinta);color:#fff;border-radius:999px;padding:5px 12px;font-weight:700;font-size:.8rem}.opt.elegida{border-color:var(--azul);background:var(--azulc)}.opt.fallo{background:var(--rojoc);border-color:var(--rojo)}
+.simul-barra{position:sticky;top:0;z-index:9;background:var(--tinta);color:#fff;border-radius:10px;padding:10px 14px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}.simul-barra .reloj{font-family:monospace;font-size:1.25rem;font-weight:800;letter-spacing:1px}.simul-barra .reloj.aviso{color:#fca5a5}.simul-barra .reloj.agotado{color:#fca5a5;animation:parp 1s steps(2) infinite}@keyframes parp{50%{opacity:.35}}.simul-barra .prog{font-size:.78rem;opacity:.85}.simul-barra button{margin-left:auto;border:0;border-radius:8px;background:#fff;color:var(--tinta);padding:7px 12px;font-weight:700;cursor:pointer}.modal-tiempo{position:fixed;inset:0;background:rgba(15,23,42,.8);z-index:200;display:none;align-items:center;justify-content:center;padding:20px}.modal-tiempo.abierto{display:flex}.modal-tiempo .caja{background:#fff;border-radius:14px;padding:26px;max-width:440px;text-align:center}.modal-tiempo h3{font-size:1.3rem;margin-bottom:8px}.modal-tiempo p{color:var(--gris);font-size:.88rem;line-height:1.5;margin-bottom:18px}.modal-tiempo .bts{display:flex;gap:10px;justify-content:center}.modal-tiempo button{border:0;border-radius:9px;padding:10px 16px;font-weight:700;cursor:pointer}.modal-tiempo .seguir{background:var(--crema);color:var(--tinta)}.modal-tiempo .corregir{background:var(--tinta);color:#fff}.retro-of{margin-top:9px;padding:9px 11px;background:var(--azulc);border-left:4px solid var(--azul);border-radius:0 8px 8px 0;font-size:.82rem;line-height:1.45}.retro-of b{color:var(--azul-osc);display:block;font-size:.7rem;text-transform:uppercase;letter-spacing:.4px;margin-bottom:3px}.retro-of .fuente{display:block;margin-top:5px;font-size:.68rem;color:var(--gris)}.retro-of.discrepa{background:var(--amarilloc);border-color:#f59e0b}.opt.bloq{cursor:not-allowed;opacity:.85}
 </style>
 </head>
 <body>
@@ -48,6 +49,7 @@ main{flex:1;overflow-y:auto;padding:0}.top{position:sticky;top:0;background:#fff
   <div class="top"><div class="topline"><span class="ruta" id="ruta">Selecciona un elemento del panel</span></div><div class="filtros" id="filtros"></div></div>
   <div class="cuerpo" id="cuerpo"><div class="bienvenida"><h2>Explorador de contenido</h2><p>Navega por el temario, los bancos de preguntas y los exámenes oficiales.<br>Todo se lee en directo desde el repositorio.</p><div class="stats" id="stats"></div></div></div>
 </main>
+<div class="modal-tiempo" id="modal-tiempo"><div class="caja"><h3>Tiempo terminado</h3><p>Han pasado los 50 minutos del ritmo oficial. Puedes seguir contestando o entregar el examen y corregirlo ahora.</p><div class="bts"><button class="seguir" onclick="seguirTrasAviso()">Seguir con el examen</button><button class="corregir" onclick="corregirTrasAviso()">Corregir ahora</button></div></div></div>
 <div class="visor" id="visor" role="dialog" aria-modal="true" aria-labelledby="visor-titulo">
   <div class="visor-panel">
     <div class="visor-cab"><b id="visor-titulo">Material</b><a id="visor-externo" href="#" target="_blank" rel="noopener">Abrir aparte</a><button type="button" onclick="cerrarVisor()" aria-label="Cerrar">✕</button></div>
@@ -134,6 +136,32 @@ async function cargarBancoOficial(cb){
  __bancoOficial=lotes.flat();
  return __bancoOficial;
 }
+
+let __retroOf=null;
+async function cargarRetroOf(){if(__retroOf)return __retroOf;try{const d=await fetchJson(`banco-preguntas/${OP}/oficiales/retroalimentacion.json`);__retroOf=d.retroalimentacion||{}}catch(e){__retroOf={}}return __retroOf}
+function fmtReloj(seg){const s=Math.max(0,seg);const m=Math.floor(s/60),r=s%60;return String(m).padStart(2,'0')+':'+String(r).padStart(2,'0')}
+function pararReloj(){if(window.__test&&window.__test.tick){clearInterval(window.__test.tick);window.__test.tick=null}}
+function tickSimulacro(){
+ const t=window.__test;if(!t||t.corregido)return;
+ t.restante--;
+ const el=document.getElementById('simul-reloj');
+ if(el){el.textContent=fmtReloj(t.restante);
+   el.className='reloj'+(t.restante<=0?' agotado':(t.restante<=300?' aviso':''))}
+ if(t.restante<=0&&!t.avisado){
+   t.avisado=true;
+   if(t.modo==='estricto'){pararReloj();t.bloqueado=true;corregirTestOficial();}
+   else{document.getElementById('modal-tiempo').classList.add('abierto');}
+ }
+}
+function seguirTrasAviso(){document.getElementById('modal-tiempo').classList.remove('abierto')}
+function corregirTrasAviso(){document.getElementById('modal-tiempo').classList.remove('abierto');corregirTestOficial()}
+function barraSimulacro(){
+ const t=window.__test;if(!t||!t.simulacro)return'';
+ const cont=Object.keys(t.respuestas).length;
+ return `<div class="simul-barra"><span class="reloj" id="simul-reloj">${fmtReloj(t.restante)}</span>
+   <span class="prog">${cont} de ${t.preguntas.length} contestadas &middot; modo ${t.modo==='estricto'?'con tiempo':'sin tiempo'}</span>
+   ${t.corregido?'':'<button onclick="corregirTestOficial()">Entregar y corregir</button>'}</div>`;
+}
 function respuestaDe(p){return p.answer?.proposed_option_id||p.proposed_answer_option_id||p.correct_option_id||null}
 async function verGeneradorOficiales(el){
  activar(el);ruta('evaluaciones · test de preguntas oficiales');
@@ -156,6 +184,9 @@ async function verGeneradorOficiales(el){
        <option value="tema">Un tema del temario</option></select>
      <select id="g-promo" style="display:none">${promos.map(p=>`<option value="${p}">${p}</option>`).join('')}</select>
      <select id="g-tema" style="display:none">${temasOpts}</select></div>
+   <div class="gen-fila"><label>Modo</label>
+     <select id="g-simul"><option value="practica">Practica &middot; sin reloj</option><option value="relajado">Simulacro sin tiempo &middot; avisa al terminar</option><option value="estricto">Simulacro con tiempo &middot; se cierra al terminar</option></select></div>
+   <div class="gen-fila"><span class="gen-progreso">Ritmo oficial: 100 preguntas en 50 minutos. Para 50 preguntas, 25 minutos.</span></div>
    <div class="gen-fila"><button class="primario" onclick="generarTestOficial()">Generar test</button>
      <span class="gen-progreso" id="g-prog"></span></div>
  </div>
@@ -181,8 +212,13 @@ async function generarTestOficial(){
  const sel=pool.slice();
  for(let i=sel.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[sel[i],sel[j]]=[sel[j],sel[i]];}
  const test=sel.slice(0,Math.min(tam,sel.length));
- window.__test={preguntas:test,respuestas:{},corregido:false};
+ await cargarRetroOf();
+ const simul=document.getElementById('g-simul').value;
+ const segs=Math.round(test.length*30);
+ window.__test={preguntas:test,respuestas:{},corregido:false,
+   simulacro:simul!=='practica',modo:simul,restante:segs,avisado:false,bloqueado:false,tick:null};
  pintarTestOficial();
+ if(simul!=='practica'){window.__test.tick=setInterval(tickSimulacro,1000);}
 }
 function pintarTestOficial(){
  const t=window.__test;const total=t.preguntas.length;
@@ -191,20 +227,24 @@ function pintarTestOficial(){
    const correcta=respuestaDe(p);const elegida=t.respuestas[i];
    const opts=(p.options||[]).map(o=>{
      let cls='opt';
-     if(t.corregido){if(o.id===correcta)cls+=' ok';else if(o.id===elegida)cls+=' fallo';}
+     if(t.corregido){cls+=' bloq';if(o.id===correcta)cls+=' ok';else if(o.id===elegida)cls+=' fallo';}
      else if(o.id===elegida)cls+=' elegida';
      return `<div class="${cls}" onclick="marcarTest(${i},'${o.id}')"><b>${o.source_label||''})</b> ${escaparHtml(o.text||'')}</div>`}).join('');
    const meta=`${p.exam?.series_year||''} · Promoción ${p.exam?.promotion_roman||''} · pregunta ${p.exam?.question_number||''}`;
-   return `<div class="preg"><div class="num">${i+1} de ${total} — ${meta}</div><div class="enun">${escaparHtml(p.prompt||'')}</div>${opts}</div>`}).join('');
+   let retro='';
+   if(t.corregido){const rr=(__retroOf||{})[p.id];
+     if(rr)retro=`<div class="retro-of${rr.coherente_con_respuesta===false?' discrepa':''}"><b>${rr.coherente_con_respuesta===false?'Atencion: la explicacion no concuerda con la respuesta marcada':'Por que'}</b>${escaparHtml(rr.explicacion)}<span class="fuente">Tema ${String(rr.tema||'').replace('pn-t','')} · bloque ${rr.bloque} · hecho ${rr.fact_id}</span></div>`;}
+   return `<div class="preg"><div class="num">${i+1} de ${total} — ${meta}</div><div class="enun">${escaparHtml(p.prompt||'')}</div>${opts}${retro}</div>`}).join('');
  document.getElementById('g-salida').innerHTML=
+  barraSimulacro()+
   `<div class="test-cab"><b>Test de ${total} preguntas</b>
     <span class="test-marcador">${t.corregido?`${aciertos} / ${total}`:`${Object.keys(t.respuestas).length} contestadas`}</span></div>
    ${t.corregido?'':'<div class="gen-fila"><button class="primario" onclick="corregirTestOficial()">Corregir</button></div>'}
    ${cuerpo}
    ${t.corregido?'<div class="aviso">Corrección basada en respuestas de fuente secundaria. Verifica siempre con la plantilla oficial.</div>':''}`;
 }
-function marcarTest(i,opt){if(window.__test.corregido)return;window.__test.respuestas[i]=opt;pintarTestOficial()}
-function corregirTestOficial(){window.__test.corregido=true;pintarTestOficial();window.scrollTo({top:0,behavior:'smooth'})}
+function marcarTest(i,opt){if(window.__test.corregido||window.__test.bloqueado)return;window.__test.respuestas[i]=opt;pintarTestOficial()}
+function corregirTestOficial(){pararReloj();window.__test.corregido=true;pintarTestOficial();window.scrollTo({top:0,behavior:'smooth'})}
 
 async function verMd(path,titulo,el){activar(el);cargando();ruta(path);try{insertarMarkdown(await fetchTexto(path),null)}catch(e){document.getElementById('cuerpo').innerHTML=`<div class="aviso">No disponible: ${path}</div>`}}
 async function cargarTemario(){
