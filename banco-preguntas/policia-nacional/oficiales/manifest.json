@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 300,
+  "quarantined_questions": 200,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -198,15 +198,18 @@
       "P36-XXXVI",
       "P37-XXXVII",
       "P38-XXXVIII",
-      "P39-XXXIX"
+      "P39-XXXIX",
+      "P40-XL"
     ],
-    "questions_reviewed": 700,
+    "questions_reviewed": 800,
     "answers_corrected_vs_proposal": 51,
+    "answers_created_from_scratch": 301,
     "por_examen": {
       "P33-XXXIII": {
         "revisadas": 100,
         "correcciones": 7,
         "sobre_propuestas": 34,
+        "desde_cero": 66,
         "anuladas": 0,
         "tasa_error_fuente": 20.6
       },
@@ -214,6 +217,7 @@
         "revisadas": 100,
         "correcciones": 0,
         "sobre_propuestas": 100,
+        "desde_cero": 0,
         "anuladas": 0,
         "tasa_error_fuente": 0.0
       },
@@ -221,6 +225,7 @@
         "revisadas": 100,
         "correcciones": 8,
         "sobre_propuestas": 59,
+        "desde_cero": 41,
         "anuladas": 0,
         "tasa_error_fuente": 13.6
       },
@@ -228,6 +233,7 @@
         "revisadas": 100,
         "correcciones": 7,
         "sobre_propuestas": 66,
+        "desde_cero": 34,
         "anuladas": 1,
         "tasa_error_fuente": 10.6
       },
@@ -235,6 +241,7 @@
         "revisadas": 100,
         "correcciones": 18,
         "sobre_propuestas": 76,
+        "desde_cero": 24,
         "anuladas": 0,
         "tasa_error_fuente": 23.7
       },
@@ -242,6 +249,7 @@
         "revisadas": 100,
         "correcciones": 9,
         "sobre_propuestas": 64,
+        "desde_cero": 36,
         "anuladas": 0,
         "tasa_error_fuente": 14.1
       },
@@ -249,8 +257,17 @@
         "revisadas": 100,
         "correcciones": 2,
         "sobre_propuestas": 100,
+        "desde_cero": 0,
         "anuladas": 0,
         "tasa_error_fuente": 2.0
+      },
+      "P40-XL": {
+        "revisadas": 100,
+        "correcciones": 0,
+        "sobre_propuestas": 0,
+        "desde_cero": 100,
+        "anuladas": 0,
+        "tasa_error_fuente": null
       }
     },
     "tasa_error_fuente_secundaria": 10.2,
