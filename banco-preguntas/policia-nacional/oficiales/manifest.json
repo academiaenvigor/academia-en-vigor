@@ -12,7 +12,7 @@
   "official_final_answers": 0,
   "verified_questions": 0,
   "quarantined_questions": 1000,
-  "mapped_questions_all_topics": 30,
+  "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
     "ha_caido_requires_status": "verified",
@@ -173,5 +173,20 @@
       "official_answers": 0,
       "annulment_flags": 0
     }
-  ]
+  ],
+  "mapping": {
+    "generated_at": "2026-07-26",
+    "method": "auto_keyword_and_fact_token_overlap",
+    "status": "auto_proposed_pending_human_review",
+    "mapped_to_theme": 232,
+    "mapped_to_block": 127,
+    "unmapped": 768,
+    "note": "Las preguntas no mapeadas corresponden a temas del programa aún no redactados.",
+    "por_tema": {
+      "pn-t01": 46,
+      "pn-t03": 105,
+      "pn-t04": 54,
+      "pn-t02": 27
+    }
+  }
 }

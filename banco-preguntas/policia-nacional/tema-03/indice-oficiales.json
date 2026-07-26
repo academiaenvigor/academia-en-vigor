@@ -1,568 +1,870 @@
 {
-  "schema_version": "1.1.0",
-  "profile_id": "pn",
-  "theme_id": "pn-t03",
-  "theme_number": 3,
-  "theme_title": "La Constitución Española (II)",
-  "generated_at": "2026-07-20",
-  "rule": "El tema referencia IDs estables; el enunciado vive únicamente en el archivo del examen.",
-  "ha_caido_rule": {
-    "required_verification_status": "verified",
-    "required_counts_for_ha_caido": true
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 3,
+  "titulo": "La Constitución Española (II)",
+  "generated_at": "2026-07-26",
+  "mapping_method": "auto_keyword_and_fact_token_overlap",
+  "review_status": "auto_proposed_pending_human_review",
+  "warning": "Mapeo automático. Requiere validación humana antes de mostrarse al alumno como referencia firme.",
+  "total_referencias": 105,
+  "con_bloque_asignado": 0,
+  "con_respuesta_propuesta": 80,
+  "answer_status": "Ninguna respuesta es oficial. Las propuestas proceden de fuente secundaria sin cotejar.",
+  "por_bloque": {
+    "None": [
+      {
+        "question_id": "of-pn-p33-a-q005",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 5,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q006",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 6,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q012",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 12,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q013",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 13,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q035",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 35,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q036",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 36,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p33-a-q089",
+        "promocion": "XXXIII",
+        "anio": 2016,
+        "numero": 89,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q007",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 7,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q008",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 8,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q009",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 9,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q010",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 10,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q013",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 13,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q014",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 14,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q015",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 15,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q019",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 19,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q021",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 21,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q029",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 29,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q063",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 63,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q085",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 85,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q086",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 86,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p34-a-q089",
+        "promocion": "XXXIV",
+        "anio": 2017,
+        "numero": 89,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q020",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 20,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q023",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 23,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q027",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 27,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q062",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 62,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q065",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 65,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q071",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 71,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q081",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 81,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q087",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 87,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q093",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 93,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p35-a-q094",
+        "promocion": "XXXV",
+        "anio": 2018,
+        "numero": 94,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q002",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 2,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q032",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 32,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q037",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 37,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q039",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 39,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q056",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 56,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q058",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 58,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q072",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 72,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p36-a-q088",
+        "promocion": "XXXVI",
+        "anio": 2019,
+        "numero": 88,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q001",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 1,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q006",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 6,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q009",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 9,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q012",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 12,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q013",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 13,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q017",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 17,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q019",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 19,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q029",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 29,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q037",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 37,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q063",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 63,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q069",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 69,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q071",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 71,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q080",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 80,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q088",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 88,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p37-a-q093",
+        "promocion": "XXXVII",
+        "anio": 2020,
+        "numero": 93,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q004",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 4,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q006",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 6,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q007",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 7,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q008",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 8,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q011",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 11,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q013",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 13,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q014",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 14,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q017",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 17,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q024",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 24,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q034",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 34,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q056",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 56,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q061",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 61,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p38-a-q082",
+        "promocion": "XXXVIII",
+        "anio": 2021,
+        "numero": 82,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q006",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 6,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p39-a-q016",
+        "promocion": "XXXIX",
+        "anio": 2023,
+        "numero": 16,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p39-a-q017",
+        "promocion": "XXXIX",
+        "anio": 2023,
+        "numero": 17,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q020",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 20,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q021",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 21,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q039",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 39,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q040",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 40,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q050",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 50,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q053",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 53,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q055",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 55,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q064",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 64,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q068",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 68,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p40-a-q092",
+        "promocion": "XL",
+        "anio": 2023,
+        "numero": 92,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q003",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 3,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q008",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 8,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q011",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 11,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q014",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 14,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q024",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 24,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q032",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 32,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q037",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 37,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q051",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 51,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q060",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 60,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q072",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 72,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q078",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 78,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q098",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 98,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p41-a-q099",
+        "promocion": "XLI",
+        "anio": 2024,
+        "numero": 99,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q002",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 2,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q012",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 12,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q015",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 15,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q036",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 36,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q039",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 39,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q059",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 59,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q065",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 65,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q067",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 67,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q070",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 70,
+        "respuesta_propuesta": false,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q071",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 71,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q091",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 91,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      },
+      {
+        "question_id": "of-pn-p42-a-q097",
+        "promocion": "XLII",
+        "anio": 2025,
+        "numero": 97,
+        "respuesta_propuesta": true,
+        "confianza_mapeo": 0
+      }
+    ]
   },
-  "statistics": {
-    "mapped_questions": 30,
-    "direct_mappings": 15,
-    "partial_mappings": 14,
-    "fact_gaps": 15,
-    "currently_counting_for_ha_caido": 0,
-    "verified_questions": 0,
-    "active_ha_caido": 0
-  },
-  "questions": [
-    {
-      "question_id": "of-pn-p38-a-q007",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 7,
-      "fact_refs": [
-        "PN-T03-F463"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Referéndum facultativo de la reforma ordinaria.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p38-a-q008",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 8,
-      "fact_refs": [
-        "PN-T03-F092"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Clausura de las sesiones extraordinarias al agotarse el orden del día.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p38-a-q011",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 11,
-      "fact_refs": [
-        "PN-T03-F183"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Límite concreto del Gobierno en funciones no desarrollado como hecho independiente.",
-      "issues": [
-        "fact_gap_government_in_office_budget_bill"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p38-a-q014",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 14,
-      "fact_refs": [
-        "PN-T03-F407"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Competencia específica del Delegado del Gobierno.",
-      "issues": [
-        "fact_gap_delegate_government_security_competence"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p38-a-q021",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 21,
-      "fact_refs": [
-        "PN-T03-F280",
-        "PN-T03-F281"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Composición funcional amplia de la Policía Judicial.",
-      "issues": [
-        "fact_gap_police_judicial_constituent_bodies"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p38-a-q061",
-      "exam_id": "of-pn-p38-a",
-      "promotion_number": 38,
-      "promotion_roman": "XXXVIII",
-      "series_year": 2021,
-      "model": "A",
-      "question_number": 61,
-      "fact_refs": [
-        "PN-T03-F278"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Composición concreta del Tribunal del Jurado.",
-      "issues": [
-        "fact_gap_jury_composition"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p39-a-q017",
-      "exam_id": "of-pn-p39-a",
-      "promotion_number": 39,
-      "promotion_roman": "XXXIX",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 17,
-      "fact_refs": [
-        "PN-T03-F383"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Mayoría para apreciar la necesidad de una ley de armonización.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p39-a-q027",
-      "exam_id": "of-pn-p39-a",
-      "promotion_number": 39,
-      "promotion_roman": "XXXIX",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 27,
-      "fact_refs": [],
-      "mapping_status": "fact_gap",
-      "mapping_note": "Carácter secreto de las deliberaciones del Consejo de Ministros.",
-      "issues": [
-        "fact_gap_council_ministers_secret_deliberations"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p39-a-q067",
-      "exam_id": "of-pn-p39-a",
-      "promotion_number": 39,
-      "promotion_roman": "XXXIX",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 67,
-      "fact_refs": [
-        "PN-T03-F285",
-        "PN-T03-F286",
-        "PN-T03-F287",
-        "PN-T03-F290"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Contenido general del Título VIII: organización, autonomía, solidaridad e igualdad.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p40-a-q015",
-      "exam_id": "of-pn-p40-a",
-      "promotion_number": 40,
-      "promotion_roman": "XL",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 15,
-      "fact_refs": [
-        "PN-T03-F435"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Plazo del recurso de amparo del artículo 43 LOTC.",
-      "issues": [
-        "fact_gap_amparo_deadline_lotc_43"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p40-a-q020",
-      "exam_id": "of-pn-p40-a",
-      "promotion_number": 40,
-      "promotion_roman": "XL",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 20,
-      "fact_refs": [
-        "PN-T03-F093"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Sesión conjunta para competencias no legislativas del Título II.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p40-a-q068",
-      "exam_id": "of-pn-p40-a",
-      "promotion_number": 40,
-      "promotion_roman": "XL",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 68,
-      "fact_refs": [
-        "PN-T03-F183"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Facultades vedadas al Presidente del Gobierno en funciones.",
-      "issues": [
-        "fact_gap_specific_limits_government_in_office"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p40-a-q092",
-      "exam_id": "of-pn-p40-a",
-      "promotion_number": 40,
-      "promotion_roman": "XL",
-      "series_year": 2023,
-      "model": "A",
-      "question_number": 92,
-      "fact_refs": [
-        "PN-T03-F278"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Número de votos para declarar la culpabilidad.",
-      "issues": [
-        "fact_gap_jury_guilty_votes"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q003",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 3,
-      "fact_refs": [
-        "PN-T03-F269"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Número y denominación de las Salas del Tribunal Supremo.",
-      "issues": [
-        "fact_gap_supreme_court_five_chambers"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q008",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 8,
-      "fact_refs": [
-        "PN-T03-F108"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Composición mínima de la Diputación Permanente.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q011",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 11,
-      "fact_refs": [
-        "PN-T03-F238"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Declaración del estado de sitio.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q014",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 14,
-      "fact_refs": [
-        "PN-T03-F169",
-        "PN-T03-F200"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Control político y jurisdiccional de los actos del Gobierno.",
-      "issues": [
-        "fact_gap_government_act_control_law_50_1997_art29"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q060",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 60,
-      "fact_refs": [
-        "PN-T03-F433"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Nombramiento del Presidente del Tribunal Constitucional.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q072",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 72,
-      "fact_refs": [
-        "PN-T03-F440"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Legitimación para el recurso de inconstitucionalidad.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q078",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 78,
-      "fact_refs": [
-        "PN-T03-F278"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Delitos competencia del Tribunal del Jurado.",
-      "issues": [
-        "fact_gap_jury_offences_competence"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q098",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 98,
-      "fact_refs": [
-        "PN-T03-F460"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Mayoría de tres quintos para la reforma ordinaria.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p41-a-q099",
-      "exam_id": "of-pn-p41-a",
-      "promotion_number": 41,
-      "promotion_roman": "XLI",
-      "series_year": 2024,
-      "model": "A",
-      "question_number": 99,
-      "fact_refs": [
-        "PN-T03-F280"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Dependencia orgánica de las unidades adscritas de Policía Judicial.",
-      "issues": [
-        "fact_gap_police_judicial_organic_dependence"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q015",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 15,
-      "fact_refs": [
-        "PN-T03-F451"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Número de Salas del Tribunal Constitucional.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q036",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 36,
-      "fact_refs": [
-        "PN-T03-F183"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Cuestión de confianza durante el Gobierno en funciones.",
-      "issues": [
-        "fact_gap_specific_limitation_government_in_office"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q039",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 39,
-      "fact_refs": [
-        "PN-T03-F202"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Consejo de Estado como supremo órgano consultivo.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q062",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 62,
-      "fact_refs": [
-        "PN-T03-F400"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Tribunal Superior de Justicia.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q070",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 70,
-      "fact_refs": [
-        "PN-T03-F213"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Mayoría simple en la cuestión de confianza.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q071",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 71,
-      "fact_refs": [
-        "PN-T03-F276"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Nombramiento del Fiscal General del Estado.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q091",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 91,
-      "fact_refs": [
-        "PN-T03-F229",
-        "PN-T03-F238"
-      ],
-      "mapping_status": "partial",
-      "mapping_note": "Competencias del Consejo de Ministros sobre estados excepcionales.",
-      "issues": [
-        "fact_gap_council_of_ministers_specific_powers",
-        "feedback_legal_reference_requires_review"
-      ],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    },
-    {
-      "question_id": "of-pn-p42-a-q097",
-      "exam_id": "of-pn-p42-a",
-      "promotion_number": 42,
-      "promotion_roman": "XLII",
-      "series_year": 2025,
-      "model": "A",
-      "question_number": 97,
-      "fact_refs": [
-        "PN-T03-F293"
-      ],
-      "mapping_status": "direct",
-      "mapping_note": "Gobierno y administración municipal.",
-      "issues": [],
-      "verification_status": "quarantine",
-      "counts_for_ha_caido": false
-    }
-  ],
-  "path_policy": "El enunciado vive en banco-preguntas/policia-nacional/oficiales; este archivo solo contiene referencias."
+  "por_promocion": {
+    "XXXIII": 7,
+    "XXXIV": 14,
+    "XXXV": 10,
+    "XXXVI": 8,
+    "XXXVII": 15,
+    "XXXVIII": 13,
+    "XL": 11,
+    "XXXIX": 2,
+    "XLI": 13,
+    "XLII": 12
+  }
 }

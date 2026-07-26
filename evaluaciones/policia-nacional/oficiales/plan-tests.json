@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "generated_at": "2026-07-26",
+  "id": "test-oficiales-pn",
+  "titulo": "Test de preguntas de exámenes oficiales",
+  "fuente": "banco-preguntas/policia-nacional/oficiales/",
+  "tamanos": [
+    50,
+    100
+  ],
+  "universo_total": 1000,
+  "universo_utilizable": 662,
+  "regla_universo": "Solo pueden entrar en un test las preguntas con respuesta propuesta. Sin respuesta no se puede corregir.",
+  "modos": [
+    {
+      "id": "aleatorio_general",
+      "descripcion": "Muestreo aleatorio sobre todas las preguntas utilizables.",
+      "disponibles": 662
+    },
+    {
+      "id": "por_promocion",
+      "descripcion": "Todas las preguntas de una promoción concreta.",
+      "promociones": [
+        "XL",
+        "XLI",
+        "XLII",
+        "XXXIII",
+        "XXXIV",
+        "XXXIX",
+        "XXXV",
+        "XXXVI",
+        "XXXVII",
+        "XXXVIII"
+      ]
+    },
+    {
+      "id": "por_tema",
+      "descripcion": "Solo preguntas mapeadas a un tema del temario.",
+      "disponibles_por_tema": {
+        "pn-t01": 35,
+        "pn-t03": 80,
+        "pn-t04": 39,
+        "pn-t02": 21
+      }
+    }
+  ],
+  "aviso_al_alumno": "Las respuestas de estos tests proceden de fuentes secundarias y no de la plantilla oficial definitiva. Pueden contener errores y no deben tomarse como corrección oficial.",
+  "correccion": {
+    "formato": "3 opciones",
+    "respuesta": "proposed_answer_option_id",
+    "sin_respuesta": "excluir de la generación"
+  }
+}
