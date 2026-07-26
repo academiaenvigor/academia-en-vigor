@@ -33,5 +33,27 @@
     "verified_questions": 0,
     "active_ha_caido": 0,
     "status": "mapped_quarantine"
-  }
+  },
+  "preguntas_por_parte": {
+    "1": 82,
+    "2": 178,
+    "3": 139,
+    "4": 59,
+    "5": 199,
+    "6": 81
+  },
+  "partes": {
+    "1": "La Corona",
+    "2": "Cortes Generales y producción normativa",
+    "3": "Gobierno, control y estados excepcionales",
+    "4": "Poder Judicial",
+    "5": "Organización territorial del Estado",
+    "6": "Tribunal Constitucional y reforma"
+  },
+  "generacion_de_tests": {
+    "por_bloque": "filtrar por el campo bloque",
+    "por_parte": "filtrar por el campo parte",
+    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50"
+  },
+  "parte_field_added_at": "2026-07-26"
 }

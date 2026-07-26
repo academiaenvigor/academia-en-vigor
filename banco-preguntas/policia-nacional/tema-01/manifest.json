@@ -66,12 +66,27 @@
   },
   "generacion_de_tests": {
     "por_bloque": "filtrar por el campo bloque",
-    "por_punto": "filtrar por el campo punto",
-    "test_completo": "muestreo repartido por punto y ponderado por riesgo_examen, tamaños de 25 o 50 preguntas"
+    "por_parte": "filtrar por el campo parte",
+    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50"
   },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-01/master.md",
   "cobertura": "../../../conocimiento/policia-nacional/tema-01/cobertura.json",
   "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-01/plan.json",
   "official_exam_index": "indice-oficiales.json",
-  "note": "Banco generado a partir de los hechos atómicos extraídos del master.md v0.2.0. Pendiente de revisión editorial: al validarlo, cambiar estado_revision de cada pregunta a revisado_fuente_oficial."
+  "note": "Banco generado a partir de los hechos atómicos extraídos del master.md v0.2.0. Pendiente de revisión editorial: al validarlo, cambiar estado_revision de cada pregunta a revisado_fuente_oficial.",
+  "preguntas_por_parte": {
+    "1": 29,
+    "2": 52,
+    "3": 42,
+    "4": 54,
+    "5": 26
+  },
+  "partes": {
+    "1": "Concepto y acepciones del Derecho",
+    "2": "Normas jurídicas y jerarquía normativa",
+    "3": "La persona en sentido jurídico",
+    "4": "Nacionalidad española",
+    "5": "Domicilio y vecindad civil"
+  },
+  "parte_field_added_at": "2026-07-26"
 }
