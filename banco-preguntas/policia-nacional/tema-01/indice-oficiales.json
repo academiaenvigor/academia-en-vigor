@@ -1,16 +1,588 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "oposicion": "policia-nacional",
   "tema": 1,
   "titulo": "El Derecho, la persona y la nacionalidad",
   "generated_at": "2026-07-26",
   "mapping_method": "auto_keyword_article_and_fact_token_overlap",
   "review_status": "auto_proposed_pending_human_review",
-  "warning": "Mapeo automático. Requiere validación humana antes de mostrarse al alumno como referencia firme.",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "show_auto_proposed": true,
+    "auto_proposed_label": "Mapeo automático sin revisar",
+    "never_show_answer_as_official": true
+  },
+  "warning": "Mapeo automático. Requiere validación humana antes de presentarse como referencia firme.",
+  "answer_status": "Ninguna respuesta es oficial. Las propuestas proceden de fuente secundaria sin cotejar.",
   "total_referencias": 46,
   "con_bloque_asignado": 46,
   "con_respuesta_propuesta": 35,
-  "answer_status": "Ninguna respuesta es oficial. Las propuestas proceden de fuente secundaria sin cotejar.",
+  "por_promocion": {
+    "XXXV": 4,
+    "XXXIX": 10,
+    "XLI": 6,
+    "XXXVII": 4,
+    "XXXVIII": 4,
+    "XL": 4,
+    "XXXVI": 4,
+    "XXXIII": 3,
+    "XLII": 2,
+    "XXXIV": 5
+  },
+  "questions": [
+    {
+      "question_id": "of-pn-p35-a-q041",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 41,
+      "block_refs": [
+        1
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 2
+    },
+    {
+      "question_id": "of-pn-p39-a-q028",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 28,
+      "block_refs": [
+        1
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p41-a-q049",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 49,
+      "block_refs": [
+        2
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 3
+    },
+    {
+      "question_id": "of-pn-p39-a-q034",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 34,
+      "block_refs": [
+        6
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 1
+    },
+    {
+      "question_id": "of-pn-p37-a-q068",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 68,
+      "block_refs": [
+        8
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 6
+    },
+    {
+      "question_id": "of-pn-p38-a-q040",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 40,
+      "block_refs": [
+        8
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p40-a-q014",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 14,
+      "block_refs": [
+        8
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 4
+    },
+    {
+      "question_id": "of-pn-p37-a-q039",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 39,
+      "block_refs": [
+        9
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 15
+    },
+    {
+      "question_id": "of-pn-p39-a-q036",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 36,
+      "block_refs": [
+        10
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 3
+    },
+    {
+      "question_id": "of-pn-p36-a-q057",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 57,
+      "block_refs": [
+        11
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 11
+    },
+    {
+      "question_id": "of-pn-p37-a-q024",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 24,
+      "block_refs": [
+        11
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 14
+    },
+    {
+      "question_id": "of-pn-p41-a-q075",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 75,
+      "block_refs": [
+        11
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 27
+    },
+    {
+      "question_id": "of-pn-p39-a-q062",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 62,
+      "block_refs": [
+        13
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p41-a-q087",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 87,
+      "block_refs": [
+        13
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 4
+    },
+    {
+      "question_id": "of-pn-p38-a-q046",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 46,
+      "block_refs": [
+        14
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 3
+    },
+    {
+      "question_id": "of-pn-p39-a-q057",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 57,
+      "block_refs": [
+        14
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 2
+    },
+    {
+      "question_id": "of-pn-p39-a-q047",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 47,
+      "block_refs": [
+        16
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 4
+    },
+    {
+      "question_id": "of-pn-p39-a-q055",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 55,
+      "block_refs": [
+        17
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 7
+    },
+    {
+      "question_id": "of-pn-p33-a-q002",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 2,
+      "block_refs": [
+        18
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 13
+    },
+    {
+      "question_id": "of-pn-p36-a-q066",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 66,
+      "block_refs": [
+        18
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 6
+    },
+    {
+      "question_id": "of-pn-p42-a-q025",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 25,
+      "block_refs": [
+        18
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 8
+    },
+    {
+      "question_id": "of-pn-p34-a-q002",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 2,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 19
+    },
+    {
+      "question_id": "of-pn-p35-a-q099",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 99,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 11
+    },
+    {
+      "question_id": "of-pn-p36-a-q090",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 90,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 12
+    },
+    {
+      "question_id": "of-pn-p39-a-q081",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 81,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 13
+    },
+    {
+      "question_id": "of-pn-p42-a-q017",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 17,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p40-a-q089",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 89,
+      "block_refs": [
+        20
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 18
+    },
+    {
+      "question_id": "of-pn-p34-a-q056",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 56,
+      "block_refs": [
+        21
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 3
+    },
+    {
+      "question_id": "of-pn-p33-a-q041",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 41,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p34-a-q054",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 54,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 8
+    },
+    {
+      "question_id": "of-pn-p34-a-q065",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 65,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 7
+    },
+    {
+      "question_id": "of-pn-p35-a-q069",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 69,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 10
+    },
+    {
+      "question_id": "of-pn-p40-a-q077",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 77,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 13
+    },
+    {
+      "question_id": "of-pn-p41-a-q081",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 81,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 19
+    },
+    {
+      "question_id": "of-pn-p41-a-q094",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 94,
+      "block_refs": [
+        22
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 11
+    },
+    {
+      "question_id": "of-pn-p35-a-q061",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 61,
+      "block_refs": [
+        24
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 34
+    },
+    {
+      "question_id": "of-pn-p38-a-q070",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 70,
+      "block_refs": [
+        24
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 5
+    },
+    {
+      "question_id": "of-pn-p38-a-q002",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 2,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 13
+    },
+    {
+      "question_id": "of-pn-p36-a-q024",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 24,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 6
+    },
+    {
+      "question_id": "of-pn-p39-a-q078",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 78,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 2
+    },
+    {
+      "question_id": "of-pn-p39-a-q050",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 50,
+      "block_refs": [
+        27
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 4
+    },
+    {
+      "question_id": "of-pn-p34-a-q004",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 4,
+      "block_refs": [
+        28
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 10
+    },
+    {
+      "question_id": "of-pn-p37-a-q045",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 45,
+      "block_refs": [
+        28
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 23
+    },
+    {
+      "question_id": "of-pn-p40-a-q038",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 38,
+      "block_refs": [
+        28
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 15
+    },
+    {
+      "question_id": "of-pn-p41-a-q074",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 74,
+      "block_refs": [
+        28
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": true,
+      "mapping_confidence": 11
+    },
+    {
+      "question_id": "of-pn-p33-a-q001",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 1,
+      "block_refs": [
+        29
+      ],
+      "appearance_status": "auto_proposed",
+      "has_proposed_answer": false,
+      "mapping_confidence": 14
+    }
+  ],
   "por_bloque": {
     "1": [
       {
@@ -424,17 +996,5 @@
         "confianza_mapeo": 14
       }
     ]
-  },
-  "por_promocion": {
-    "XXXV": 4,
-    "XXXIX": 10,
-    "XLI": 6,
-    "XXXVII": 4,
-    "XXXVIII": 4,
-    "XL": 4,
-    "XXXVI": 4,
-    "XXXIII": 3,
-    "XLII": 2,
-    "XXXIV": 5
   }
 }
