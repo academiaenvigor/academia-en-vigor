@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 200,
+  "quarantined_questions": 100,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -199,11 +199,12 @@
       "P37-XXXVII",
       "P38-XXXVIII",
       "P39-XXXIX",
-      "P40-XL"
+      "P40-XL",
+      "P41-XLI"
     ],
-    "questions_reviewed": 800,
-    "answers_corrected_vs_proposal": 51,
-    "answers_created_from_scratch": 301,
+    "questions_reviewed": 900,
+    "answers_corrected_vs_proposal": 64,
+    "answers_created_from_scratch": 314,
     "por_examen": {
       "P33-XXXIII": {
         "revisadas": 100,
@@ -268,9 +269,17 @@
         "desde_cero": 100,
         "anuladas": 0,
         "tasa_error_fuente": null
+      },
+      "P41-XLI": {
+        "revisadas": 100,
+        "correcciones": 13,
+        "sobre_propuestas": 87,
+        "desde_cero": 13,
+        "anuladas": 0,
+        "tasa_error_fuente": 14.9
       }
     },
-    "tasa_error_fuente_secundaria": 10.2,
+    "tasa_error_fuente_secundaria": 10.9,
     "annulled": 1
   }
 }
