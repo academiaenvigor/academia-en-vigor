@@ -6,7 +6,10 @@
 
 # Mapa del tema
 
-<!-- VISUAL PENDIENTE: t02-02-plano-constitucion.webp -->
+<!-- VISUAL:t02-02-plano-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
+</p>
 
 El tema se estudia en siete partes: Constitución; valores y modelo de Estado; Título I; libertades públicas; derechos ciudadanos y principios rectores; garantías y suspensión; y Defensor del Pueblo.
 
@@ -77,7 +80,10 @@ La Comisión de Asuntos Constitucionales y Libertades Públicas del Congreso des
 
 #### 2.3. Fechas esenciales
 
-<!-- VISUAL PENDIENTE: t02-01-linea-tiempo-1978.webp -->
+<!-- VISUAL:t02-01-linea-tiempo-1978.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-01-linea-tiempo-1978.webp" alt="Cuatro fechas esenciales del proceso constituyente" width="820">
+</p>
 
 | Acto | Fecha | Quién interviene |
 |---|---|---|
@@ -104,7 +110,10 @@ Elecciones constituyentes; Ponencia constitucional; Aprobación parlamentaria; R
 
 ## 03. Estructura De La Constitución
 
-<!-- VISUAL PENDIENTE: t02-02-plano-constitucion.webp -->
+<!-- VISUAL:t02-02-plano-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
+</p>
 
 #### 3.1. Estructura formal
 
@@ -164,7 +173,10 @@ Articulado; Títulos; Disposiciones; Parte dogmática; Parte orgánica; Preámbu
 
 ## 04. Reformas Constitucionales Realizadas
 
-<!-- VISUAL PENDIENTE: t02-03-reformas-constitucionales.webp -->
+<!-- VISUAL:t02-03-reformas-constitucionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-03-reformas-constitucionales.webp" alt="Reformas de 1992, 2011, 2024 y 2026" width="820">
+</p>
 
 A julio de 2026, la Constitución ha sido reformada **cuatro veces**:
 
@@ -377,9 +389,15 @@ La Constitución garantiza:
 6. **Responsabilidad.** Los poderes responden por actuaciones contrarias al Derecho en los términos legales.
 7. **Interdicción de la arbitrariedad.** El poder no puede decidir caprichosamente o sin justificación.
 
-<!-- VISUAL PENDIENTE: t02-05-articulo-9-3.webp -->
+<!-- VISUAL:t02-05-articulo-9-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3.webp" alt="Garantías expresas del artículo 9.3" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-05-articulo-9-3-2.webp -->
+<!-- VISUAL:t02-05-articulo-9-3-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3-2.webp" alt="Garantías del artículo 9.3, versión ampliada y explicativa" width="820">
+</p>
 
 ⭐ Mnemotecnia: **LE-JE-PU-I-SE-RE-IN**.
 
@@ -461,7 +479,10 @@ Forma política; Jefatura y Gobierno; Refrendo; Responsabilidad política.
 
 ## 11. El Estado Autonomista
 
-<!-- VISUAL PENDIENTE: t02-04-cinco-pilares.webp -->
+<!-- VISUAL:t02-04-cinco-pilares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-04-cinco-pilares.webp" alt="Estado democrático, de Derecho, social, monarquía parlamentaria y Estado autonómico" width="820">
+</p>
 
 El artículo 2 combina tres ideas:
 
@@ -516,7 +537,10 @@ Unidad; Autonomía; Solidaridad; Lengua oficial; Banderas autonómicas; Capital.
 
 ## 12. Mapa Del Título I
 
-<!-- VISUAL PENDIENTE: t02-06-arbol-titulo-i.webp -->
+<!-- VISUAL:t02-06-arbol-titulo-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-06-arbol-titulo-i.webp" alt="Capítulos, secciones y artículos del Título I" width="820">
+</p>
 
 El Título I se denomina **«De los derechos y deberes fundamentales»** y comprende los artículos 10 a 55:
 
@@ -634,7 +658,10 @@ La lista termina con una cláusula abierta. No toda diferencia de trato es discr
 
 El artículo 14 está en el Capítulo II, pero **fuera** de sus dos secciones. Disfruta de procedimiento preferente y sumario y recurso de amparo, pero su desarrollo no queda automáticamente sometido a la reserva de ley orgánica propia de los derechos de la Sección 1.ª ni su reforma al artículo 168.
 
-<!-- VISUAL PENDIENTE: t02-07-titulares-derechos.webp -->
+<!-- VISUAL:t02-07-titulares-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-07-titulares-derechos.webp" alt="Todos, españoles, ciudadanos y trabajadores" width="820">
+</p>
 
 #### 14.5. Titularidad: palabras que cambian la respuesta
 
@@ -707,7 +734,10 @@ España es un Estado **aconfesional**, no un Estado que prohíba toda relación 
 
 #### 15.3. Artículo 17: libertad y seguridad
 
-<!-- VISUAL PENDIENTE: t02-08-reloj-detencion.webp -->
+<!-- VISUAL:t02-08-reloj-detencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-08-reloj-detencion.webp" alt="Necesidad, máximo de 72 horas, información, abogado y habeas corpus" width="820">
+</p>
 
 ##### Regla general
 
@@ -765,7 +795,10 @@ Ninguna entrada o registro puede realizarse sin:
 2. resolución judicial;
 3. flagrante delito.
 
-<!-- VISUAL PENDIENTE: t02-09-cojufla-domicilio.webp -->
+<!-- VISUAL:t02-09-cojufla-domicilio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-09-cojufla-domicilio.webp" alt="Consentimiento, resolución judicial y flagrante delito" width="820">
+</p>
 
 ⭐ Mnemotecnia: **CO-JU-FLA**.
 
@@ -848,7 +881,10 @@ Estas libertades tienen su límite en los derechos del Título I, las leyes que 
 
 #### 16.2. Artículo 21: derecho de reunión
 
-<!-- VISUAL PENDIENTE: t02-10-semaforo-reunion.webp -->
+<!-- VISUAL:t02-10-semaforo-reunion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-10-semaforo-reunion.webp" alt="Reunión libre, comunicación y prohibición excepcional" width="820">
+</p>
 
 ##### Reunión pacífica y sin armas
 
@@ -1315,7 +1351,10 @@ La ley regula organizaciones profesionales que defienden intereses económicos p
 
 #### 24.3. Mapa completo de los principios rectores
 
-<!-- VISUAL PENDIENTE: t02-11-principios-rectores.webp -->
+<!-- VISUAL:t02-11-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-11-principios-rectores.webp" alt="Mapa de los artículos 39 a 52" width="820">
+</p>
 
 | Artículo | Clave |
 |---:|---|
@@ -1396,7 +1435,10 @@ Garantías normativas; Garantías judiciales; Garantías institucionales; Garant
 
 ## 26. Los Tres Apartados Del Artículo 53
 
-<!-- VISUAL PENDIENTE: t02-12-tres-niveles-garantias.webp -->
+<!-- VISUAL:t02-12-tres-niveles-garantias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-12-tres-niveles-garantias.webp" alt="Artículo 53.1, 53.2 y 53.3" width="820">
+</p>
 
 #### 26.1. Artículo 53.1: todo el Capítulo II
 
@@ -1559,7 +1601,10 @@ Naturaleza del amparo; Subsidiariedad; Legitimación; Objeto.
 
 ## 29. Suspensión General De Derechos (Art. 55.1)
 
-<!-- VISUAL PENDIENTE: t02-13-suspension-derechos.webp -->
+<!-- VISUAL:t02-13-suspension-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-13-suspension-derechos.webp" alt="Suspensión general e individual" width="820">
+</p>
 
 La suspensión general solo puede acordarse al declarar **estado de excepción o de sitio**, en los términos constitucionales.
 
@@ -1725,7 +1770,10 @@ Artículo 18.4; Derecho a la protección de datos; Regulación transversal.
 
 ## 33. Naturaleza, Finalidad Y Normativa
 
-<!-- VISUAL PENDIENTE: t02-14-defensor-352.webp -->
+<!-- VISUAL:t02-14-defensor-352.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-14-defensor-352.webp" alt="Elección, mandato, Adjuntos, quejas e informes" width="820">
+</p>
 
 El artículo 54 ordena que una ley orgánica regule al Defensor del Pueblo como:
 

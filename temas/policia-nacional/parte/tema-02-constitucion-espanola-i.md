@@ -6,7 +6,10 @@
 
 # Mapa del tema
 
-<!-- VISUAL PENDIENTE: t02-02-plano-constitucion.webp -->
+<!-- VISUAL:t02-02-plano-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
+</p>
 
 El tema se estudia en siete partes: Constitución; valores y modelo de Estado; Título I; libertades públicas; derechos ciudadanos y principios rectores; garantías y suspensión; y Defensor del Pueblo.
 
@@ -19,7 +22,11 @@ El tema se estudia en siete partes: Constitución; valores y modelo de Estado; T
 **Fuerza normativa.** La Constitución es una norma jurídica vinculante y no una mera declaración política. <!-- FACT:PN-T02-F003 -->
 **Sujeción constitucional.** El artículo 9.1 somete a ciudadanos y poderes públicos a la Constitución y al resto del ordenamiento. <!-- FACT:PN-T02-F004 -->
 
-<!-- VISUAL PENDIENTE: t02-ilu-01-constitucion-norma-suprema.webp -->
+<!-- VISUAL:t02-ilu-01-constitucion-norma-suprema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-01-constitucion-norma-suprema.webp" alt="La Constitución por encima del resto del ordenamiento" width="600">
+</p>
+<p align="center"><em>Ilustración: la constitución por encima del resto del ordenamiento.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p1-audio -->
 <!-- MATERIAL PENDIENTE: t02-p1-video -->
@@ -36,9 +43,16 @@ El tema se estudia en siete partes: Constitución; valores y modelo de Estado; T
 **Sanción y promulgación.** El Rey sancionó y promulgó la Constitución el 27 de diciembre de 1978. <!-- FACT:PN-T02-F009 -->
 **Entrada en vigor.** La Constitución se publicó y entró en vigor el 29 de diciembre de 1978. <!-- FACT:PN-T02-F010 -->
 
-<!-- VISUAL PENDIENTE: t02-01-linea-tiempo-1978.webp -->
+<!-- VISUAL:t02-01-linea-tiempo-1978.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-01-linea-tiempo-1978.webp" alt="Cuatro fechas esenciales del proceso constituyente" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-ilu-02-consenso-constituyente.webp -->
+<!-- VISUAL:t02-ilu-02-consenso-constituyente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-02-consenso-constituyente.webp" alt="Siete ponentes construyen un texto común" width="600">
+</p>
+<p align="center"><em>Ilustración: siete ponentes construyen un texto común.</em></p>
 
 :::trampa
 No confundas referéndum, sanción y entrada en vigor: 6, 27 y 29 de diciembre cumplen funciones distintas.
@@ -59,7 +73,10 @@ No confundas referéndum, sanción y entrada en vigor: 6, 27 y 29 de diciembre c
 **Parte orgánica.** La parte orgánica comprende esencialmente los Títulos II a X. <!-- FACT:PN-T02-F015 -->
 **Preámbulo.** El preámbulo tiene valor interpretativo, pero no está dividido en artículos. <!-- FACT:PN-T02-F016 -->
 
-<!-- VISUAL PENDIENTE: t02-02-plano-constitucion.webp -->
+<!-- VISUAL:t02-02-plano-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
+</p>
 
 :::trampa
 La formulación precisa es un Título Preliminar y diez títulos numerados.
@@ -79,7 +96,10 @@ La formulación precisa es un Título Preliminar y diez títulos numerados.
 **Reforma de 2026.** La reforma de 2026 modificó el artículo 69.3 para que Formentera elija un senador propio. <!-- FACT:PN-T02-F020 -->
 **Número de reformas.** A 23 de julio de 2026 la Constitución Española ha sido reformada cuatro veces. <!-- FACT:PN-T02-F021 -->
 
-<!-- VISUAL PENDIENTE: t02-03-reformas-constitucionales.webp -->
+<!-- VISUAL:t02-03-reformas-constitucionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-03-reformas-constitucionales.webp" alt="Reformas de 1992, 2011, 2024 y 2026" width="820">
+</p>
 
 :::trampa
 La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
@@ -114,7 +134,11 @@ La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
 **Igualdad.** La igualdad del artículo 1.1 se proyecta también en los artículos 9.2 y 14. <!-- FACT:PN-T02-F031 -->
 **Pluralismo político.** El pluralismo político se expresa especialmente a través de los partidos políticos. <!-- FACT:PN-T02-F032 -->
 
-<!-- VISUAL PENDIENTE: t02-ilu-03-valores-constitucionales.webp -->
+<!-- VISUAL:t02-ilu-03-valores-constitucionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-03-valores-constitucionales.webp" alt="Libertad, justicia, igualdad y pluralismo político" width="600">
+</p>
+<p align="center"><em>Ilustración: libertad, justicia, igualdad y pluralismo político.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p2-audio -->
 <!-- MATERIAL PENDIENTE: t02-p2-video -->
@@ -130,7 +154,11 @@ La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
 **Partidos políticos.** Los partidos expresan el pluralismo, concurren a formar la voluntad popular y son instrumento de participación. <!-- FACT:PN-T02-F036 -->
 **Democracia interna.** La estructura interna y el funcionamiento de los partidos deben ser democráticos. <!-- FACT:PN-T02-F037 -->
 
-<!-- VISUAL PENDIENTE: t02-ilu-04-cinco-modelos-estado.webp -->
+<!-- VISUAL:t02-ilu-04-cinco-modelos-estado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-04-cinco-modelos-estado.webp" alt="Cinco caras complementarias del régimen constitucional" width="600">
+</p>
+<p align="center"><em>Ilustración: cinco caras complementarias del régimen constitucional.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p2-audio -->
 <!-- MATERIAL PENDIENTE: t02-p2-video -->
@@ -149,9 +177,15 @@ La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
 **Responsabilidad.** La Constitución garantiza la responsabilidad de los poderes públicos. <!-- FACT:PN-T02-F044 -->
 **Interdicción de la arbitrariedad.** La Constitución prohíbe la arbitrariedad de los poderes públicos. <!-- FACT:PN-T02-F045 -->
 
-<!-- VISUAL PENDIENTE: t02-05-articulo-9-3.webp -->
+<!-- VISUAL:t02-05-articulo-9-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3.webp" alt="Garantías expresas del artículo 9.3" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-05-articulo-9-3-2.webp -->
+<!-- VISUAL:t02-05-articulo-9-3-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3-2.webp" alt="Garantías del artículo 9.3, versión ampliada y explicativa" width="820">
+</p>
 
 :::trampa
 El artículo 9.3 no menciona expresamente proporcionalidad ni igualdad.
@@ -199,7 +233,10 @@ El artículo 9.3 no menciona expresamente proporcionalidad ni igualdad.
 **Capital.** La capital del Estado es la villa de Madrid. <!-- FACT:PN-T02-F059 -->
 **Fuerzas Armadas.** El artículo 8 CE enumera literalmente el Ejército de Tierra, la Armada y el Ejército del Aire. <!-- FACT:PN-T02-F060 -->
 
-<!-- VISUAL PENDIENTE: t02-04-cinco-pilares.webp -->
+<!-- VISUAL:t02-04-cinco-pilares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-04-cinco-pilares.webp" alt="Estado democrático, de Derecho, social, monarquía parlamentaria y Estado autonómico" width="820">
+</p>
 
 <!-- MATERIAL PENDIENTE: t02-p2-audio -->
 <!-- MATERIAL PENDIENTE: t02-p2-video -->
@@ -216,7 +253,10 @@ El artículo 9.3 no menciona expresamente proporcionalidad ni igualdad.
 **Capítulo IV.** El Capítulo IV regula las garantías y el Defensor del Pueblo en los artículos 53 y 54. <!-- FACT:PN-T02-F065 -->
 **Capítulo V.** El Capítulo V regula la suspensión de derechos y libertades en el artículo 55. <!-- FACT:PN-T02-F066 -->
 
-<!-- VISUAL PENDIENTE: t02-06-arbol-titulo-i.webp -->
+<!-- VISUAL:t02-06-arbol-titulo-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-06-arbol-titulo-i.webp" alt="Capítulos, secciones y artículos del Título I" width="820">
+</p>
 
 :::trampa
 El artículo 14 está dentro del Capítulo II, pero antes de sus dos secciones.
@@ -251,7 +291,10 @@ El artículo 14 está dentro del Capítulo II, pero antes de sus dos secciones.
 **Extradición.** La extradición se concede conforme a tratado o ley y reciprocidad; el terrorismo no se considera delito político. <!-- FACT:PN-T02-F076 -->
 **Igualdad ante la ley.** El artículo 14 proclama la igualdad de los españoles ante la ley y prohíbe la discriminación. <!-- FACT:PN-T02-F077 -->
 
-<!-- VISUAL PENDIENTE: t02-07-titulares-derechos.webp -->
+<!-- VISUAL:t02-07-titulares-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-07-titulares-derechos.webp" alt="Todos, españoles, ciudadanos y trabajadores" width="820">
+</p>
 
 <!-- MATERIAL PENDIENTE: t02-p3-audio -->
 <!-- MATERIAL PENDIENTE: t02-p3-video -->
@@ -273,11 +316,21 @@ El artículo 14 está dentro del Capítulo II, pero antes de sus dos secciones.
 **Secreto de comunicaciones.** Las comunicaciones son secretas salvo resolución judicial. <!-- FACT:PN-T02-F087 -->
 **Circulación y residencia.** Los españoles pueden elegir residencia, circular por el territorio y entrar y salir de España en los términos legales. <!-- FACT:PN-T02-F088 -->
 
-<!-- VISUAL PENDIENTE: t02-08-reloj-detencion.webp -->
+<!-- VISUAL:t02-08-reloj-detencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-08-reloj-detencion.webp" alt="Necesidad, máximo de 72 horas, información, abogado y habeas corpus" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-09-cojufla-domicilio.webp -->
+<!-- VISUAL:t02-09-cojufla-domicilio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-09-cojufla-domicilio.webp" alt="Consentimiento, resolución judicial y flagrante delito" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-ilu-05-derechos-persona.webp -->
+<!-- VISUAL:t02-ilu-05-derechos-persona.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-05-derechos-persona.webp" alt="La persona protegida por derechos conectados" width="600">
+</p>
+<p align="center"><em>Ilustración: la persona protegida por derechos conectados.</em></p>
 
 :::trampa
 Setenta y dos horas es un máximo, no una duración automática.
@@ -301,7 +354,10 @@ Setenta y dos horas es un máximo, no una duración automática.
 **Participación pública.** Los ciudadanos participan en asuntos públicos directamente o mediante representantes elegidos por sufragio universal. <!-- FACT:PN-T02-F096 -->
 **Acceso a funciones públicas.** Los ciudadanos acceden en igualdad a funciones y cargos públicos con los requisitos legales. <!-- FACT:PN-T02-F097 -->
 
-<!-- VISUAL PENDIENTE: t02-10-semaforo-reunion.webp -->
+<!-- VISUAL:t02-10-semaforo-reunion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-10-semaforo-reunion.webp" alt="Reunión libre, comunicación y prohibición excepcional" width="820">
+</p>
 
 :::trampa
 La manifestación se comunica; no se solicita autorización.
@@ -375,7 +431,10 @@ La Constitución dice «correspondiente indemnización», no siempre «indemniza
 **Alegación judicial.** Los principios rectores solo pueden alegarse ante la jurisdicción conforme a las leyes que los desarrollen. <!-- FACT:PN-T02-F124 -->
 **Ausencia de amparo directo.** Los principios rectores no son directamente protegibles mediante recurso de amparo. <!-- FACT:PN-T02-F125 -->
 
-<!-- VISUAL PENDIENTE: t02-11-principios-rectores.webp -->
+<!-- VISUAL:t02-11-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-11-principios-rectores.webp" alt="Mapa de los artículos 39 a 52" width="820">
+</p>
 
 <!-- MATERIAL PENDIENTE: t02-p5-audio -->
 <!-- MATERIAL PENDIENTE: t02-p5-video -->
@@ -446,7 +505,11 @@ La Constitución dice «correspondiente indemnización», no siempre «indemniza
 **Garantías institucionales.** El Tribunal Constitucional y el Defensor del Pueblo forman parte del sistema institucional de garantías. <!-- FACT:PN-T02-F148 -->
 **Garantía internacional.** El artículo 10.2 conecta la interpretación de los derechos con la Declaración Universal y los tratados ratificados. <!-- FACT:PN-T02-F149 -->
 
-<!-- VISUAL PENDIENTE: t02-ilu-06-garantias-escudo.webp -->
+<!-- VISUAL:t02-ilu-06-garantias-escudo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-06-garantias-escudo.webp" alt="Las garantías convierten los derechos en protección efectiva" width="600">
+</p>
+<p align="center"><em>Ilustración: las garantías convierten los derechos en protección efectiva.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p6-audio -->
 <!-- MATERIAL PENDIENTE: t02-p6-video -->
@@ -461,7 +524,10 @@ La Constitución dice «correspondiente indemnización», no siempre «indemniza
 **Objeción de conciencia.** El recurso de amparo se extiende a la objeción de conciencia del artículo 30.2. <!-- FACT:PN-T02-F152 -->
 **Artículo 53.3.** Los principios del Capítulo III informan legislación, práctica judicial y actuación pública y se alegan conforme a sus leyes de desarrollo. <!-- FACT:PN-T02-F153 -->
 
-<!-- VISUAL PENDIENTE: t02-12-tres-niveles-garantias.webp -->
+<!-- VISUAL:t02-12-tres-niveles-garantias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-12-tres-niveles-garantias.webp" alt="Artículo 53.1, 53.2 y 53.3" width="820">
+</p>
 
 :::trampa
 El artículo 30.2 tiene amparo, pero no pertenece a la Sección 1.ª.
@@ -507,9 +573,16 @@ El artículo 30.2 tiene amparo, pero no pertenece a la Sección 1.ª.
 **Estado de alarma.** El estado de alarma no permite suspender derechos fundamentales. <!-- FACT:PN-T02-F165 -->
 **Proporcionalidad.** La suspensión debe limitarse a lo previsto en la Constitución, la ley y la declaración correspondiente. <!-- FACT:PN-T02-F166 -->
 
-<!-- VISUAL PENDIENTE: t02-13-suspension-derechos.webp -->
+<!-- VISUAL:t02-13-suspension-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-13-suspension-derechos.webp" alt="Suspensión general e individual" width="820">
+</p>
 
-<!-- VISUAL PENDIENTE: t02-ilu-07-excepcion-no-normalidad.webp -->
+<!-- VISUAL:t02-ilu-07-excepcion-no-normalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-07-excepcion-no-normalidad.webp" alt="La suspensión como medida excepcional y limitada" width="600">
+</p>
+<p align="center"><em>Ilustración: la suspensión como medida excepcional y limitada.</em></p>
 
 :::trampa
 Alarma puede limitar derechos conforme a la ley, pero no suspenderlos.
@@ -568,7 +641,11 @@ Alarma puede limitar derechos conforme a la ley, pero no suspenderlos.
 **Norma reguladora.** La institución se regula por la Ley Orgánica 3/1981. <!-- FACT:PN-T02-F182 -->
 **Legitimación constitucional.** El Defensor está legitimado para interponer recursos de inconstitucionalidad y de amparo. <!-- FACT:PN-T02-F183 -->
 
-<!-- VISUAL PENDIENTE: t02-ilu-08-defensor-supervision.webp -->
+<!-- VISUAL:t02-ilu-08-defensor-supervision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-08-defensor-supervision.webp" alt="El Defensor supervisa sin sustituir a jueces ni Administración" width="600">
+</p>
+<p align="center"><em>Ilustración: el defensor supervisa sin sustituir a jueces ni administración.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p7-audio -->
 <!-- MATERIAL PENDIENTE: t02-p7-video -->
@@ -584,7 +661,10 @@ Alarma puede limitar derechos conforme a la ley, pero no suspenderlos.
 **Procedimiento subsidiario.** Si fracasa la mayoría inicial, basta tres quintos del Congreso y mayoría absoluta del Senado. <!-- FACT:PN-T02-F187 -->
 **Nombramiento.** El nombramiento se acredita con las firmas de los Presidentes del Congreso y del Senado y se publica en el BOE. <!-- FACT:PN-T02-F188 -->
 
-<!-- VISUAL PENDIENTE: t02-14-defensor-352.webp -->
+<!-- VISUAL:t02-14-defensor-352.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-14-defensor-352.webp" alt="Elección, mandato, Adjuntos, quejas e informes" width="820">
+</p>
 
 :::trampa
 En la fase subsidiaria el Senado necesita mayoría absoluta, no tres quintos.
