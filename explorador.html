@@ -262,7 +262,20 @@ async function cargarTemario(){
   const t=await fetchJson('temario.json');
   const tops=t?.oppositions?.[OP]?.topics||[];
   TEMAS={};
-  tops.forEach(x=>{if(x&&x.number&&x.slug)TEMAS[x.number]={slug:x.slug,titulo:x.title||('Tema '+x.number),estado:x.editorial_status||'',publicacion:x.publication_status||''}});
+  tops.forEach(x=>{
+    if(!x||!x.number)return;
+    // el slug de temario.json es corto; el nombre de archivo lleva el prefijo tema-NN-.
+    // Se toma de las rutas explicitas si existen, y si no se reconstruye.
+    const nn=String(x.number).padStart(2,'0');
+    let stem='';
+    const ruta=x.parte||x.atestado||'';
+    const m=String(ruta).match(/([^/]+)\.md$/);
+    if(m)stem=m[1];
+    else if(x.slug)stem=String(x.slug).startsWith('tema-')?x.slug:('tema-'+nn+'-'+x.slug);
+    if(!stem)return;
+    TEMAS[x.number]={slug:stem,titulo:x.title||('Tema '+x.number),
+      estado:x.editorial_status||'',publicacion:x.publication_status||''};
+  });
  }catch(e){
   TEMAS={1:{slug:'tema-01-el-derecho-la-persona-y-la-nacionalidad',titulo:'El Derecho, la persona y la nacionalidad'},
          2:{slug:'tema-02-constitucion-espanola-i',titulo:'Constitución Española I'},
