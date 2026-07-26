@@ -6,10 +6,11 @@
 
 # Mapa del tema
 
-<!-- VISUAL:t02-02-plano-constitucion.webp -->
+<!-- VISUAL:t02-ilu-01-constitucion-norma-suprema.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-01-constitucion-norma-suprema.webp" alt="La Constitución por encima del resto del ordenamiento" width="600">
 </p>
+<p align="center"><em>Ilustración: la Constitución por encima del resto del ordenamiento.</em></p>
 
 El tema se estudia en siete partes: Constitución; valores y modelo de Estado; Título I; libertades públicas; derechos ciudadanos y principios rectores; garantías y suspensión; y Defensor del Pueblo.
 
