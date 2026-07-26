@@ -176,12 +176,12 @@
   ],
   "mapping": {
     "generated_at": "2026-07-26",
-    "method": "auto_keyword_and_fact_token_overlap",
+    "method": "auto_keyword_article_and_fact_token_overlap",
     "status": "auto_proposed_pending_human_review",
     "mapped_to_theme": 232,
-    "mapped_to_block": 127,
+    "mapped_to_block": 232,
     "unmapped": 768,
-    "note": "Las preguntas no mapeadas corresponden a temas del programa aún no redactados.",
+    "note": "Las no mapeadas corresponden a temas del programa aún no redactados.",
     "por_tema": {
       "pn-t01": 46,
       "pn-t03": 105,
