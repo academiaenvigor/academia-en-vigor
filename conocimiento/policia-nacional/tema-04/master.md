@@ -17,6 +17,11 @@ Fuente de verdad del tema. Cada enunciado es cerrado y comprobable, y de ellos s
 
 > Estas cifras caducan. Comprobarlas antes de cada convocatoria.
 
+<!-- VISUAL:t04-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.webp" alt="Mapa general del Tema 4 · La Unión Europea" width="820">
+</p>
+
 ---
 
 ## 01. La construcción europea: referencia histórica
