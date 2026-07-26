@@ -1,22 +1,24 @@
 {
-  "schema_version": "2.1.0",
+  "schema_version": "3.0.0",
   "oposicion": "policia-nacional",
   "tema": 1,
   "titulo": "El Derecho, la persona y la nacionalidad",
   "generated_at": "2026-07-26",
   "mapping_method": "auto_keyword_article_and_fact_token_overlap",
-  "review_status": "auto_proposed_pending_human_review",
+  "mapping_status": "auto_proposed_pending_human_review",
+  "answer_status": "verificada_por_autor",
   "display_policy": {
     "show_reviewed_appearances": true,
     "show_auto_proposed": true,
-    "auto_proposed_label": "Mapeo automático sin revisar",
-    "never_show_answer_as_official": true
+    "show_answer": true,
+    "show_feedback": true,
+    "never_present_as_official_plantilla": true
   },
-  "warning": "Mapeo automático. Requiere validación humana antes de presentarse como referencia firme.",
-  "answer_status": "Ninguna respuesta es oficial. Las propuestas proceden de fuente secundaria sin cotejar.",
+  "aviso": "La relación de cada pregunta con este punto del temario es automática y está pendiente de revisión. Las respuestas sí están verificadas por la academia.",
   "total_referencias": 46,
   "con_bloque_asignado": 46,
-  "con_respuesta_propuesta": 35,
+  "con_respuesta_verificada": 46,
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
   "por_promocion": {
     "XXXV": 4,
     "XXXIX": 10,
@@ -39,7 +41,9 @@
         1
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 2
     },
     {
@@ -51,7 +55,9 @@
         1
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -63,7 +69,9 @@
         2
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 3
     },
     {
@@ -75,7 +83,9 @@
         6
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 1
     },
     {
@@ -87,7 +97,9 @@
         8
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 6
     },
     {
@@ -99,7 +111,9 @@
         8
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -111,7 +125,9 @@
         8
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 4
     },
     {
@@ -123,7 +139,9 @@
         9
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 15
     },
     {
@@ -135,7 +153,9 @@
         10
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 3
     },
     {
@@ -147,7 +167,9 @@
         11
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 11
     },
     {
@@ -159,7 +181,9 @@
         11
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 14
     },
     {
@@ -171,7 +195,9 @@
         11
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 27
     },
     {
@@ -183,7 +209,9 @@
         13
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -195,7 +223,9 @@
         13
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 4
     },
     {
@@ -207,7 +237,9 @@
         14
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 3
     },
     {
@@ -219,7 +251,9 @@
         14
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 2
     },
     {
@@ -231,7 +265,9 @@
         16
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 4
     },
     {
@@ -243,7 +279,9 @@
         17
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 7
     },
     {
@@ -255,7 +293,9 @@
         18
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 13
     },
     {
@@ -267,7 +307,9 @@
         18
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 6
     },
     {
@@ -279,7 +321,9 @@
         18
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 8
     },
     {
@@ -291,7 +335,9 @@
         19
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 19
     },
     {
@@ -303,7 +349,9 @@
         19
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 11
     },
     {
@@ -315,7 +363,9 @@
         19
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 12
     },
     {
@@ -327,7 +377,9 @@
         19
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 13
     },
     {
@@ -339,7 +391,9 @@
         19
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -351,7 +405,9 @@
         20
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 18
     },
     {
@@ -363,7 +419,9 @@
         21
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 3
     },
     {
@@ -375,7 +433,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -387,7 +447,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 8
     },
     {
@@ -399,7 +461,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 7
     },
     {
@@ -411,7 +475,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 10
     },
     {
@@ -423,7 +489,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 13
     },
     {
@@ -435,7 +503,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 19
     },
     {
@@ -447,7 +517,9 @@
         22
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 11
     },
     {
@@ -459,7 +531,9 @@
         24
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 34
     },
     {
@@ -471,7 +545,9 @@
         24
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 5
     },
     {
@@ -483,7 +559,9 @@
         25
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 13
     },
     {
@@ -495,7 +573,9 @@
         26
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 6
     },
     {
@@ -507,7 +587,9 @@
         26
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 2
     },
     {
@@ -519,7 +601,9 @@
         27
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "C",
+      "anulada": false,
       "mapping_confidence": 4
     },
     {
@@ -531,7 +615,9 @@
         28
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 10
     },
     {
@@ -543,7 +629,9 @@
         28
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 23
     },
     {
@@ -555,7 +643,9 @@
         28
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 15
     },
     {
@@ -567,7 +657,9 @@
         28
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": true,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "B",
+      "anulada": false,
       "mapping_confidence": 11
     },
     {
@@ -579,7 +671,9 @@
         29
       ],
       "appearance_status": "auto_proposed",
-      "has_proposed_answer": false,
+      "answer_status": "verificada_por_autor",
+      "respuesta": "A",
+      "anulada": false,
       "mapping_confidence": 14
     }
   ],
@@ -590,7 +684,7 @@
         "promocion": "XXXV",
         "anio": 2018,
         "numero": 41,
-        "respuesta_propuesta": false,
+        "respuesta": "C",
         "confianza_mapeo": 2
       },
       {
@@ -598,7 +692,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 28,
-        "respuesta_propuesta": true,
+        "respuesta": "A",
         "confianza_mapeo": 5
       }
     ],
@@ -608,7 +702,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 49,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 3
       }
     ],
@@ -618,7 +712,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 34,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 1
       }
     ],
@@ -628,7 +722,7 @@
         "promocion": "XXXVII",
         "anio": 2020,
         "numero": 68,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 6
       },
       {
@@ -636,7 +730,7 @@
         "promocion": "XXXVIII",
         "anio": 2021,
         "numero": 40,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 5
       },
       {
@@ -644,7 +738,7 @@
         "promocion": "XL",
         "anio": 2023,
         "numero": 14,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 4
       }
     ],
@@ -654,7 +748,7 @@
         "promocion": "XXXVII",
         "anio": 2020,
         "numero": 39,
-        "respuesta_propuesta": true,
+        "respuesta": "A",
         "confianza_mapeo": 15
       }
     ],
@@ -664,7 +758,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 36,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 3
       }
     ],
@@ -674,7 +768,7 @@
         "promocion": "XXXVI",
         "anio": 2019,
         "numero": 57,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 11
       },
       {
@@ -682,7 +776,7 @@
         "promocion": "XXXVII",
         "anio": 2020,
         "numero": 24,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 14
       },
       {
@@ -690,7 +784,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 75,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 27
       }
     ],
@@ -700,7 +794,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 62,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 5
       },
       {
@@ -708,7 +802,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 87,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 4
       }
     ],
@@ -718,7 +812,7 @@
         "promocion": "XXXVIII",
         "anio": 2021,
         "numero": 46,
-        "respuesta_propuesta": false,
+        "respuesta": "C",
         "confianza_mapeo": 3
       },
       {
@@ -726,7 +820,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 57,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 2
       }
     ],
@@ -736,7 +830,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 47,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 4
       }
     ],
@@ -746,7 +840,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 55,
-        "respuesta_propuesta": true,
+        "respuesta": "A",
         "confianza_mapeo": 7
       }
     ],
@@ -756,7 +850,7 @@
         "promocion": "XXXIII",
         "anio": 2016,
         "numero": 2,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 13
       },
       {
@@ -764,7 +858,7 @@
         "promocion": "XXXVI",
         "anio": 2019,
         "numero": 66,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 6
       },
       {
@@ -772,7 +866,7 @@
         "promocion": "XLII",
         "anio": 2025,
         "numero": 25,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 8
       }
     ],
@@ -782,7 +876,7 @@
         "promocion": "XXXIV",
         "anio": 2017,
         "numero": 2,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 19
       },
       {
@@ -790,7 +884,7 @@
         "promocion": "XXXV",
         "anio": 2018,
         "numero": 99,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 11
       },
       {
@@ -798,7 +892,7 @@
         "promocion": "XXXVI",
         "anio": 2019,
         "numero": 90,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 12
       },
       {
@@ -806,7 +900,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 81,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 13
       },
       {
@@ -814,7 +908,7 @@
         "promocion": "XLII",
         "anio": 2025,
         "numero": 17,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 5
       }
     ],
@@ -824,7 +918,7 @@
         "promocion": "XL",
         "anio": 2023,
         "numero": 89,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 18
       }
     ],
@@ -834,7 +928,7 @@
         "promocion": "XXXIV",
         "anio": 2017,
         "numero": 56,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 3
       }
     ],
@@ -844,7 +938,7 @@
         "promocion": "XXXIII",
         "anio": 2016,
         "numero": 41,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 5
       },
       {
@@ -852,7 +946,7 @@
         "promocion": "XXXIV",
         "anio": 2017,
         "numero": 54,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 8
       },
       {
@@ -860,7 +954,7 @@
         "promocion": "XXXIV",
         "anio": 2017,
         "numero": 65,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 7
       },
       {
@@ -868,7 +962,7 @@
         "promocion": "XXXV",
         "anio": 2018,
         "numero": 69,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 10
       },
       {
@@ -876,7 +970,7 @@
         "promocion": "XL",
         "anio": 2023,
         "numero": 77,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 13
       },
       {
@@ -884,7 +978,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 81,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 19
       },
       {
@@ -892,7 +986,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 94,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 11
       }
     ],
@@ -902,7 +996,7 @@
         "promocion": "XXXV",
         "anio": 2018,
         "numero": 61,
-        "respuesta_propuesta": true,
+        "respuesta": "A",
         "confianza_mapeo": 34
       },
       {
@@ -910,7 +1004,7 @@
         "promocion": "XXXVIII",
         "anio": 2021,
         "numero": 70,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 5
       }
     ],
@@ -920,7 +1014,7 @@
         "promocion": "XXXVIII",
         "anio": 2021,
         "numero": 2,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 13
       }
     ],
@@ -930,7 +1024,7 @@
         "promocion": "XXXVI",
         "anio": 2019,
         "numero": 24,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 6
       },
       {
@@ -938,7 +1032,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 78,
-        "respuesta_propuesta": true,
+        "respuesta": "A",
         "confianza_mapeo": 2
       }
     ],
@@ -948,7 +1042,7 @@
         "promocion": "XXXIX",
         "anio": 2023,
         "numero": 50,
-        "respuesta_propuesta": true,
+        "respuesta": "C",
         "confianza_mapeo": 4
       }
     ],
@@ -958,7 +1052,7 @@
         "promocion": "XXXIV",
         "anio": 2017,
         "numero": 4,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 10
       },
       {
@@ -966,7 +1060,7 @@
         "promocion": "XXXVII",
         "anio": 2020,
         "numero": 45,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 23
       },
       {
@@ -974,7 +1068,7 @@
         "promocion": "XL",
         "anio": 2023,
         "numero": 38,
-        "respuesta_propuesta": false,
+        "respuesta": "B",
         "confianza_mapeo": 15
       },
       {
@@ -982,7 +1076,7 @@
         "promocion": "XLI",
         "anio": 2024,
         "numero": 74,
-        "respuesta_propuesta": true,
+        "respuesta": "B",
         "confianza_mapeo": 11
       }
     ],
@@ -992,7 +1086,7 @@
         "promocion": "XXXIII",
         "anio": 2016,
         "numero": 1,
-        "respuesta_propuesta": false,
+        "respuesta": "A",
         "confianza_mapeo": 14
       }
     ]
