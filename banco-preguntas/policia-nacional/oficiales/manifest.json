@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 1000,
+  "quarantined_questions": 900,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -188,5 +188,14 @@
       "pn-t04": 54,
       "pn-t02": 27
     }
+  },
+  "author_review": {
+    "updated_at": "2026-07-26",
+    "exams_reviewed": [
+      "P33-XXXIII"
+    ],
+    "questions_reviewed": 100,
+    "answers_corrected_vs_proposal": 7,
+    "note": "Examen revisado por el autor: respuestas verificadas y retroalimentación de acierto y fallo. Liberado de cuarentena."
   }
 }

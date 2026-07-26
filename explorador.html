@@ -162,7 +162,8 @@ function barraSimulacro(){
    <span class="prog">${cont} de ${t.preguntas.length} contestadas &middot; modo ${t.modo==='estricto'?'con tiempo':'sin tiempo'}</span>
    ${t.corregido?'':'<button onclick="corregirTestOficial()">Entregar y corregir</button>'}</div>`;
 }
-function respuestaDe(p){return p.answer?.proposed_option_id||p.proposed_answer_option_id||p.correct_option_id||null}
+function respuestaDe(p){return p.answer?.verified_option_id||p.verified_answer_option_id||p.answer?.proposed_option_id||p.proposed_answer_option_id||p.correct_option_id||null}
+function esVerificada(p){return !!(p.answer?.verified_option_id||p.verified_answer_option_id)}
 async function verGeneradorOficiales(el){
  activar(el);ruta('evaluaciones · test de preguntas oficiales');
  let plan={};try{plan=await fetchJson(OFICIALES_PLAN)}catch(e){}
@@ -233,7 +234,16 @@ function pintarTestOficial(){
    const meta=`${p.exam?.series_year||''} · Promoción ${p.exam?.promotion_roman||''} · pregunta ${p.exam?.question_number||''}`;
    let retro='';
    if(t.corregido){const rr=(__retroOf||{})[p.id];
-     if(rr)retro=`<div class="retro-of${rr.coherente_con_respuesta===false?' discrepa':''}"><b>${rr.coherente_con_respuesta===false?'Atencion: la explicacion no concuerda con la respuesta marcada':'Por que'}</b>${escaparHtml(rr.explicacion)}<span class="fuente">Tema ${String(rr.tema||'').replace('pn-t','')} · bloque ${rr.bloque} · hecho ${rr.fact_id}</span></div>`;}
+     if(rr){const acerto=elegida&&elegida===correcta;
+       const rama=acerto?rr.acierto:rr.fallo;
+       const txt=rama||rr.explicacion;
+       if(txt){const disc=(rr.coherente_con_respuesta===false)&&!rr.acierto;
+         const cab=disc?'Atencion: la explicacion no concuerda con la respuesta marcada':(rama?(acerto?'Bien':'Repasa esto'):'Por que');
+         let pie='';
+         if(rr.origen==='revision_autor')pie='Respuesta verificada por la academia';
+         else if(rr.fact_id)pie='Tema '+String(rr.tema||'').replace('pn-t','')+' \u00b7 bloque '+rr.bloque+' \u00b7 hecho '+rr.fact_id;
+         retro='<div class="retro-of'+(disc?' discrepa':'')+'"><b>'+cab+'</b>'+escaparHtml(txt)+(pie?'<span class="fuente">'+pie+'</span>':'')+'</div>';
+       }}}
    return `<div class="preg"><div class="num">${i+1} de ${total} — ${meta}</div><div class="enun">${escaparHtml(p.prompt||'')}</div>${opts}${retro}</div>`}).join('');
  document.getElementById('g-salida').innerHTML=
   barraSimulacro()+

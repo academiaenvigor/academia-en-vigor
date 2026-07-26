@@ -3,9 +3,9 @@
  "oposicion": "policia-nacional",
  "generated_at": "2026-07-26",
  "origen": "Enlace automático de cada pregunta oficial con el hecho atómico verificado de su bloque.",
- "total": 173,
+ "total": 264,
  "coherentes_con_respuesta_propuesta": 140,
- "advertencia": "La explicación procede del temario propio, verificado y con fuente. La respuesta marcada procede de fuente secundaria y no es oficial. Si ambas no concuerdan, prevalece la duda: revisar.",
+ "advertencia": "Las entradas con origen revision_autor tienen respuesta verificada por el autor. El resto sigue apoyándose en propuestas de fuente secundaria.",
  "retroalimentacion": {
   "of-pn-p33-a-q002": {
    "fact_id": "PN-T01-F132",
@@ -14,7 +14,12 @@
    "explicacion": "Si la filiación o el nacimiento en España se determinan después de los dieciocho años, ese hecho no produce por sí solo la nacionalidad, pero el interesado puede optar por la nacionalidad española de origen en el plazo de dos años desde la determinación.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 6,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! Para el cónyuge de español basta un año de matrimonio sin separación y un año de residencia legal. El artículo 22.3 del Código Civil considera residencia legal en España la del cónyuge que convive con funcionario diplomático o consular español acreditado en el extranjero.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La residencia del cónyuge del diplomático español se considera legal en España a estos efectos y, tras más de un año de matrimonio sin separación, puede aplicarse el plazo reducido de un año.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p33-a-q005": {
    "fact_id": "PN-T03-F217",
@@ -23,7 +28,12 @@
    "explicacion": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación.",
    "fuente": "CE-RELACIONES",
    "solidez": 6,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación; durante los dos primeros pueden presentarse mociones alternativas.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El plazo constitucional es de cinco días, no de diez ni de quince; recuerda la pareja «5 para votar, 2 para alternativas».",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p33-a-q006": {
    "fact_id": "PN-T03-F410",
@@ -32,7 +42,12 @@
    "explicacion": "Si el requerimiento no es atendido, las medidas requieren aprobación por mayoría absoluta del Senado.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar jurídico! El artículo 155 CE exige requerimiento previo al presidente autonómico y, si no es atendido, aprobación por mayoría absoluta del Senado.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La autorización corresponde al Senado, no al Congreso ni a ambas Cámaras, y el requerimiento se dirige al presidente de la comunidad autónoma.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p33-a-q007": {
    "fact_id": "PN-T04-F217",
@@ -41,7 +56,12 @@
    "explicacion": "El Tribunal de Cuentas examina la legalidad y regularidad de los ingresos y gastos de la Unión y garantiza la buena gestión financiera.",
    "fuente": "UE-TCE",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! El Tribunal de Cuentas Europeo fiscaliza los ingresos y gastos de la Unión y aporta conocimiento técnico sobre buena gestión financiera y rendición de cuentas.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. El Comité Económico y Social es consultivo para intereses socioeconómicos y el BEI financia proyectos; la fiscalización financiera corresponde al Tribunal de Cuentas Europeo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p33-a-q008": {
    "fact_id": "PN-T04-F328",
@@ -50,7 +70,12 @@
    "explicacion": "La Orden de Detención Europea es una resolución judicial dictada por la autoridad judicial de un Estado miembro para la detención y entrega de una persona por otro Estado miembro.",
    "fuente": "COOP-ODE",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! La persona detenida por una orden europea de detención y entrega debe pasar a disposición del Juzgado Central de Instrucción de la Audiencia Nacional en el plazo máximo de setenta y dos horas.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. La ejecución en España de una ODE la tramita el Juzgado Central de Instrucción; no el órgano penal del Estado emisor ni el Juzgado Central de lo Penal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p33-a-q013": {
    "fact_id": "PN-T03-F388",
@@ -59,7 +84,12 @@
    "explicacion": "La Asamblea de parlamentarios aprueba el proyecto de Estatuto por mayoría absoluta de sus miembros.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! La pena principal o accesoria de inhabilitación absoluta o especial, cuando la sentencia es firme, causa la pérdida de la condición de funcionario en los términos del artículo 66 TREBEP.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. La ley habla de pena «principal o accesoria», no de inhabilitación total, parcial, subsidiaria ni de otras combinaciones inventadas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p33-a-q024": {
    "fact_id": "PN-T04-F328",
@@ -68,7 +98,12 @@
    "explicacion": "La Orden de Detención Europea es una resolución judicial dictada por la autoridad judicial de un Estado miembro para la detención y entrega de una persona por otro Estado miembro.",
    "fuente": "COOP-ODE",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! La respuesta histórica permitía al titular de tarjeta azul obtener autorización en España como profesional altamente cualificado tras residir al menos dieciocho meses en otro Estado miembro.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta histórica es la C. A exigía indebidamente un año previo para reagrupar y B omitía requisitos de la larga duración. La movilidad de titulares de tarjeta azul ha sido reformada: no reutilices esta redacción como norma vigente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p33-a-q035": {
    "fact_id": "PN-T03-F061",
@@ -77,7 +112,12 @@
    "explicacion": "La circunscripción electoral para el Congreso es la provincia; Ceuta y Melilla están representadas cada una por un diputado.",
    "fuente": "CE-CORTES",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Punto para la neurona de guardia! La respuesta esperada es la Ley Orgánica del Poder Judicial, que permite establecer juzgados de lo Penal con jurisdicción inferior a una provincia cuando lo aconsejan las circunstancias. La demarcación concreta se articula después en su normativa específica.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta esperada es la B, no la C propuesta. La pregunta fue discutida porque mezcla habilitación orgánica y demarcación efectiva; si se reutiliza, debe citar el precepto y preguntar exactamente por la habilitación de la LOPJ.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p33-a-q036": {
    "fact_id": "PN-T03-F276",
@@ -86,7 +126,12 @@
    "explicacion": "El Fiscal General del Estado es nombrado por el Rey a propuesta del Gobierno, oído el CGPJ.",
    "fuente": "LOPJ",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Ni el distractor te vio venir! El plazo ordinario de las diligencias de investigación del Ministerio Fiscal es de seis meses, salvo prórroga motivada; para determinadas diligencias de la Fiscalía Anticorrupción el plazo ordinario es de doce meses.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. No confundas estas diligencias preprocesales del fiscal con los plazos de la instrucción judicial del artículo 324 LECrim.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q002": {
    "fact_id": "PN-T01-F133",
@@ -1563,6 +1608,650 @@
    "fuente": "CE-GOBIERNO",
    "solidez": 2,
    "coherente_con_respuesta": true
+  },
+  "of-pn-p33-a-q001": {
+   "acierto": "¡Diana normativa! El artículo 15.1 del Código Civil permite optar por la vecindad del lugar de residencia, la del lugar de nacimiento, la última de cualquiera de los progenitores o adoptantes, o la del cónyuge.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La lista legal incluye expresamente el lugar de nacimiento y habla de la última vecindad de cualquiera de los progenitores o adoptantes; no existe una vecindad elegida libremente fuera de esas opciones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q003": {
+   "acierto": "¡Punto para la neurona de guardia! El artículo 29.2 CE limita a los miembros de las Fuerzas o Institutos armados y cuerpos sometidos a disciplina militar: solo pueden ejercer el derecho de petición individualmente y conforme a su legislación específica.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. El derecho general es individual y colectivo y corresponde a todos los españoles; la especialidad examinada es la limitación impuesta a los cuerpos sometidos a disciplina militar.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q004": {
+   "acierto": "¡Ni el distractor te vio venir! El estado de sitio lo declara la mayoría absoluta del Congreso, a propuesta exclusiva del Gobierno. Alarma dura inicialmente quince días y excepción hasta treinta, por lo que A y B alteran los plazos.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. Alarma no dura treinta días y excepción no dura quince: el dato exacto es que el sitio lo declara el Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q009": {
+   "acierto": "¡Diana normativa! El Tribunal de Justicia cuenta con un juez por cada Estado miembro y está asistido por once abogados generales.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. La A omite a los abogados generales y la C confunde la composición del Tribunal con una cifra y un sistema de designación inexistentes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q010": {
+   "acierto": "¡Cazaste la trampa! La denominación exacta «Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad» nace con el Tratado de Lisboa. Ámsterdam creó su antecedente, el Alto Representante para la PESC.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta esperada es la C. La trampa está en Ámsterdam: allí apareció el cargo precursor, pero Lisboa creó la figura con el nombre y funciones que usa el enunciado. La pregunta fue discutida en 2017 y conviene formularla con esa precisión.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q011": {
+   "acierto": "¡Punto para la neurona de guardia! El secretario general técnico es un órgano directivo de los ministerios y tiene categoría de director general. «Subsecretario de Estado» y «Subsecretario de CCAA» no son categorías orgánicas legales.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La propuesta B estaba mal: la Ley 40/2015 reconoce al secretario general técnico como órgano directivo; las otras dos denominaciones son señuelos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q012": {
+   "acierto": "¡Ni el distractor te vio venir! En las comunidades autónomas pluriprovinciales, el delegado del Gobierno nombra a los subdelegados por libre designación entre funcionarios A1.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. No los nombra el Consejo de Ministros ni el presidente autonómico: dependen inmediatamente del delegado del Gobierno.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q014": {
+   "acierto": "¡Muy fino ese radar jurídico! En el marco histórico del examen, la creación se atribuía al Real Decreto 991/2006. Es una pregunta orgánica antigua y no debe reutilizarse como cuestión vigente sin actualizar estructura y norma.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta histórica es la B. Las otras normas regularon estructuras posteriores, pero no fueron la disposición creadora preguntada. Esta pregunta estaba fuera de temario y hoy necesita una reescritura completa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q015": {
+   "acierto": "¡Objetivo localizado! La función incorrecta es elaborar informes semestrales: la norma atribuía al CITCO informes anuales. Recibir y analizar información y fijar criterios de coordinación sí eran funciones suyas.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. La propuesta B estaba mal: el verbo tramposo está en «semestrales»; el CITCO elaboraba informes anuales, mientras las funciones de análisis y coordinación sí le correspondían.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q016": {
+   "acierto": "¡La memoria estaba de servicio! En la estructura examinada, la investigación penal del dopaje deportivo correspondía a la Unidad Central de Delincuencia Especializada y Violenta (UDEV), no a la Oficina Nacional de Deportes.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. La propuesta B confundía prevención y coordinación de la violencia deportiva con investigación de delitos de dopaje, que asumía la UDEV.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q017": {
+   "acierto": "¡Diana normativa! Históricamente, la Oficina Nacional de Deportes estaba adscrita a la Secretaría General de la Comisaría General de Seguridad Ciudadana.",
+   "fallo": "¡La trampa hizo horas extra! La correcta histórica es la A. No dependía de la Jefatura de UIP ni de la Jefatura de Unidades Especiales. Al ser una pregunta de organigrama antiguo, debe actualizarse antes de reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q018": {
+   "acierto": "¡Cazaste la trampa! En la estructura vigente al celebrarse el examen, la Brigada de Respuesta a la Inmigración Clandestina dependía de la Unidad Central de Fronteras.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta histórica es la C. No dependía del Centro Nacional ni de la Unidad de Expulsiones y Repatriaciones. Es organigrama histórico y no debe mezclarse con la estructura actual.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q019": {
+   "acierto": "¡Punto para la neurona de guardia! En la estructura preguntada, la Unidad Central de Coordinación Operativa asumía las inspecciones oculares, la reseña fotográfica y la tecnología de la imagen.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta histórica es la A. La reseña fotográfica no se atribuía en ese organigrama a Identificación ni a Criminalística; la competencia se encuadraba en Coordinación Operativa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q020": {
+   "acierto": "¡Ni el distractor te vio venir! El deber de impedir prácticas abusivas, arbitrarias o discriminatorias que entrañen violencia física o moral figura en el principio de relaciones con la comunidad del artículo 5.2 LO 2/1986.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. Aunque toda actuación debe ajustarse a la ley, la ubicación sistemática exacta de esa frase es «relaciones con la comunidad», no dedicación profesional.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q021": {
+   "acierto": "¡Respuesta con placa y número! La negociación colectiva en la Policía Nacional se lleva a cabo por medio de las organizaciones sindicales representativas, conforme a su régimen estatutario.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El Consejo de Policía es un órgano de participación, pero la opción B formula de manera imprecisa el sujeto que ejerce la negociación y la C exagera esa participación hasta convertirla en toma de decisiones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q022": {
+   "acierto": "¡Muy fino ese radar jurídico! La autorización para trabajar por cuenta ajena en actividades de temporada, con el límite temporal indicado, se documentaba mediante el visado de residencia y trabajo de temporada.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. El visado de investigación tiene otra finalidad y el visado genérico de residencia y trabajo no recoge la especialidad temporal descrita.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q023": {
+   "acierto": "¡Objetivo localizado! Una tarjeta de residencia de familiar de ciudadano de la Unión válida, expedida por otro Estado del EEE, exime de visado de entrada y evita el sellado de entrada o salida.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Las opciones A y B niegan indebidamente la exención de visado; además, la tarjeta válida evita que se estampe el sello en el pasaporte.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q025": {
+   "acierto": "¡Diana normativa! La pregunta pide prescripción de sanciones: muy graves a los cinco años, graves a los dos y leves al año. Los plazos de tres años, dos años y seis meses corresponden a infracciones.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La propuesta C confundía dos relojes distintos: 3-2-6 meses son los plazos de prescripción de las infracciones; para las sanciones rige 5-2-1.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q026": {
+   "acierto": "¡Cazaste la trampa! Pueden solicitar protección internacional las personas nacionales no comunitarias y las apátridas presentes en territorio español.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. Los ciudadanos de la Unión no forman la categoría ordinaria descrita y la opción C añade a los refugiados como si fueran un tercer grupo previo a la solicitud.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q027": {
+   "acierto": "¡Punto para la neurona de guardia! El Reglamento EURODAC (UE) 603/2013 regula la base de datos dactilares y, bajo condiciones estrictas, el acceso policial para prevenir, detectar o investigar terrorismo y delitos graves.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. Dublín determina el Estado responsable de una solicitud y la Directiva 2013/32 regula procedimientos; la base de huellas es EURODAC.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q028": {
+   "acierto": "¡Ni el distractor te vio venir! La Ley 5/2014 incluye vigilantes —y vigilantes de explosivos—, escoltas, guardas rurales —y sus especialidades—, jefes y directores de seguridad y detectives privados.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. B omite a los escoltas privados y C borra especialidades y directores de seguridad; la lista legal completa es la de A.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q029": {
+   "acierto": "¡Respuesta con placa y número! Son personal acreditado los profesores de centros de formación, ingenieros y técnicos que cumplen tareas legales y los operadores de seguridad.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. A define al personal de seguridad privada habilitado y C a los usuarios de seguridad privada; ninguna de ellas describe al personal acreditado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q030": {
+   "acierto": "¡Muy fino ese radar jurídico! En la clasificación utilizada por el examen, los DCS distribuyen el control de procesos automáticos entre controladores de una instalación o zona determinada; SCADA supervisa y adquiere datos, normalmente sobre sistemas más dispersos.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta esperada es la A. MTU es una unidad maestra dentro de ciertos sistemas y SCADA enfatiza supervisión remota; el enunciado apunta al control distribuido de procesos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q031": {
+   "acierto": "¡Objetivo localizado! Una infraestructura crítica europea está situada en un Estado miembro y su perturbación o destrucción afectaría gravemente al menos a dos Estados miembros.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. B describe de forma incompleta una infraestructura estratégica y C cambia «al menos dos» por «más de dos», elevando indebidamente el umbral.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q032": {
+   "acierto": "¡La memoria estaba de servicio! La clasificación de una infraestructura como estratégica y, en su caso, crítica o crítica europea corresponde al Ministerio del Interior, conforme al sistema de la Ley 8/2011.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Ni el presidente del CNPIC ni el pleno de la Comisión realizan por sí solos la clasificación que la ley atribuye al Ministerio del Interior.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q033": {
+   "acierto": "¡Diana normativa! La respuesta esperada en 2017 fue grave, menos grave y profesional. Sin embargo, «profesional» no es un tercer grado general paralelo a grave y menos grave; es una modalidad con consecuencias específicas. La pregunta es técnicamente defectuosa.",
+   "fallo": "¡La trampa hizo horas extra! La respuesta histórica esperada es la A. B inventa «muy grave» y C mezcla categorías incorrectas, pero esta pregunta no debe reutilizarse: el Código Penal no presenta esas tres expresiones como una clasificación general cerrada y homogénea.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q034": {
+   "acierto": "¡Cazaste la trampa! Hay conspiración cuando dos o más personas se conciertan para ejecutar un delito y resuelven ejecutarlo, según el artículo 17 CP.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La proposición parte de quien ya resolvió delinquir e invita a otros; la provocación incita públicamente. El acuerdo plural para ejecutar es conspiración.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q037": {
+   "acierto": "¡Respuesta con placa y número! Los menores de dieciséis años no pueden ser objeto de detención incomunicada. Al tener quince años, no procede solicitar ni acordar esa medida.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. La relación con terrorismo no elimina la prohibición específica para menores de dieciséis años; por eso A y C no son posibles.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q038": {
+   "acierto": "¡Muy fino ese radar jurídico! La Audiencia Nacional conoce del enjuiciamiento de determinados delitos de falsificación de tarjetas de crédito cometidos por organizaciones o grupos criminales.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La combinación de falsificación de tarjetas y grupo criminal activa la competencia de la Sala de lo Penal de la Audiencia Nacional, no la de un juzgado ordinario o una audiencia provincial.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q039": {
+   "acierto": "¡Objetivo localizado! Con responsabilidades familiares, la ayuda puede alcanzar el equivalente a dieciocho meses de subsidio; puede llegar a veinticuatro meses si concurre discapacidad igual o superior al 33 % en la víctima o un familiar conviviente.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. A usa veintidós meses, cifra inexistente, y C reduce indebidamente a seis meses el supuesto de discapacidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q040": {
+   "acierto": "¡La memoria estaba de servicio! La equidad de género se define como distribución justa de derechos, beneficios, obligaciones, oportunidades y recursos, reconociendo y respetando las diferencias entre mujeres y hombres.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. A describe perspectiva de género y C igualdad de género. Ojo: se trata de una ley autonómica catalana de 2015; el enunciado original omitía esa precisión y fue impugnable.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q041": {
+   "acierto": "¡Diana normativa! La discriminación inversa o acción positiva introduce un trato desigual favorable para compensar una desventaja real sufrida por un grupo discriminado.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. A describe igualdad formal sin medida compensatoria y C restringe indebidamente el concepto a personas inmigrantes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q042": {
+   "acierto": "¡Cazaste la trampa! La respuesta histórica es el Instituto Nacional de Seguridad e Higiene en el Trabajo, órgano científico-técnico estatal. Desde 2018 su nombre es Instituto Nacional de Seguridad y Salud en el Trabajo (INSST).",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta histórica es la B. La Inspección controla el cumplimiento y la supuesta Agencia no era el órgano legal. Para una pregunta vigente debe usarse la denominación actual INSST.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q043": {
+   "acierto": "¡Punto para la neurona de guardia! El artículo 15 LPRL obliga a tener en cuenta la evolución de la técnica. También ordena evitar riesgos y anteponer la protección colectiva a la individual.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. A invierte la regla —se evalúan los riesgos que no se pueden evitar— y B también la invierte —la protección colectiva prevalece sobre la individual—.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q044": {
+   "acierto": "¡Ni el distractor te vio venir! En el régimen de prevención de riesgos laborales de la Policía Nacional, la evaluación debe revisarse y actualizarse cada cuatro años, sin perjuicio de revisiones anticipadas por daños, nuevos equipos o insuficiencia preventiva.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. Tres y dos años son distractores; el ciclo ordinario era cuatrienal, pero las circunstancias descritas obligan a revisar antes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q045": {
+   "acierto": "¡Respuesta con placa y número! La respuesta esperada atribuía al director general de la Policía la designación de los representantes de la Administración en estos órganos de consulta preventiva.",
+   "fallo": "¡Falsa alarma en la central! La correcta esperada es la B. No corresponde al secretario de Estado ni automáticamente al subdirector. El enunciado usa «Comité de seguridad y control», denominación discutida; debe corregirse antes de reutilizarlo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q046": {
+   "acierto": "¡Muy fino ese radar jurídico! Actúa como secretario de la Comisión el representante de la Administración que designe el presidente.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. No se elige por menor nivel del puesto ni por votación del Pleno; la designación corresponde al presidente entre los representantes de la Administración.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q047": {
+   "acierto": "¡Objetivo localizado! El artículo 5.1 del Protocolo fija inicialmente diez miembros en el Subcomité y eleva el número a veinticinco tras la quincuagésima ratificación o adhesión.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. Las otras opciones cambian tanto el artículo como las cifras; la pareja que hay que memorizar es 10 y 25.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q048": {
+   "acierto": "¡La memoria estaba de servicio! Las visitas las realizan al menos dos miembros del Subcomité, que pueden ir acompañados de expertos cuando sea necesario.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. No son inspectores designados por el Estado anfitrión ni se exige un mínimo de cuatro miembros con acompañamiento paritario.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q049": {
+   "acierto": "¡Diana normativa! El Comité contra la Tortura elige su Mesa por dos años y sus miembros pueden ser reelegidos.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El Convenio no establece mandatos de tres o cuatro años para la Mesa; el dato literal es dos años.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q050": {
+   "acierto": "¡Cazaste la trampa! El Foro Social Mundial nació como plataforma abierta para debatir alternativas y estrategias de resistencia frente al modelo dominante de globalización.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. B lo convierte en apoyo al modelo que cuestiona y C añade una participación militar ajena a su naturaleza civil.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q051": {
+   "acierto": "¡Punto para la neurona de guardia! La respuesta histórica atribuye a Ignacio Ramonet el impulso fundador de ATTAC a partir de su editorial en Le Monde diplomatique.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta esperada es la C. Bernard Cassen tuvo un papel directivo relevante, pero el examen vincula la iniciativa fundacional al llamamiento de Ignacio Ramonet.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q052": {
+   "acierto": "¡Ni el distractor te vio venir! El concepto «glocalización» fue desarrollado y popularizado en sociología por Roland Robertson. El apellido aparecía mal escrito como «Roberston» en el examen.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. MacLuhan se asocia a la «aldea global» y Castells a la sociedad red; «glocal» se vincula a Roland Robertson. La errata del apellido debe corregirse al reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q053": {
+   "acierto": "¡Respuesta con placa y número! La tasa Tobin grava las transacciones financieras internacionales, especialmente las especulativas; sus defensores proponen destinar la recaudación a fines sociales y de desarrollo.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. No es un índice alternativo al PIB ni consiste en condonar directamente deuda externa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q054": {
+   "acierto": "¡Muy fino ese radar jurídico! El primer Foro Social Mundial se celebró en Porto Alegre, Brasil, en enero de 2001.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. India acogió una edición posterior y Canadá no fue el país de inicio del FSM.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q055": {
+   "acierto": "¡Objetivo localizado! La respuesta esperada atribuye el lema a Le Monde diplomatique en mayo de 1998. Es una cuestión de fuente histórica muy discutida y poco apropiada para un test jurídico actual.",
+   "fallo": "¡El señuelo pidió identificación! La correcta histórica esperada es la B. Seattle y Porto Alegre popularizaron el movimiento y el lema, pero no son la fuente que utilizó la plantilla. No conviene reutilizar esta pregunta sin una fuente primaria explícita.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q056": {
+   "acierto": "¡La memoria estaba de servicio! Leon Festinger formuló la teoría de la disonancia cognitiva, que explica la tensión causada por cogniciones incompatibles y la tendencia a reducirla.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Hovland investigó persuasión y cambio de actitudes, y Newcomb trabajó procesos de equilibrio y comunicación; la disonancia es de Festinger.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q057": {
+   "acierto": "¡Diana normativa! Culpar a los inmigrantes de un problema propio protege la autoestima desplazando la causa hacia un grupo externo: es una función defensiva del yo.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. No expresa valores ni organiza conocimiento; funciona como mecanismo psicológico de defensa ante una amenaza personal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q058": {
+   "acierto": "¡Cazaste la trampa! I. N. Taylor, desde un enfoque marxista, interpretó el hooliganismo como resistencia obrera al aburguesamiento del fútbol.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Leicester estudió configuraciones sociales y Marsh desarrolló un enfoque etogénico; la lectura de conflicto de clase corresponde a Taylor.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q059": {
+   "acierto": "¡Punto para la neurona de guardia! El Consejo de Participación de la Mujer es el órgano colegiado de consulta y asesoramiento que canaliza la participación institucional de las mujeres en materia de igualdad.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La Comisión Interministerial coordina departamentos y las Unidades de Igualdad actúan en cada ministerio; ninguna cumple la función consultiva descrita.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q060": {
+   "acierto": "¡Ni el distractor te vio venir! La definición se atribuye a Michael D. Langone. El examen escribió «Langore», una errata que debe corregirse en cualquier versión nueva.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C por la intención del examen, pero el nombre correcto es Michael D. Langone. Katz estudió funciones de las actitudes y Erdely no es el autor de la definición citada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q061": {
+   "acierto": "¡Respuesta con placa y número! El modelo asociado a Ravenstein explica la migración mediante factores de expulsión en el origen y de atracción en el destino: push-pull.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. Brain drain describe fuga de talento y «evolutivo» no es la denominación del modelo preguntado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q062": {
+   "acierto": "¡Muy fino ese radar jurídico! El modelo gravitatorio relaciona el volumen de los flujos migratorios con el tamaño de las poblaciones y la distancia que las separa.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. Las otras opciones recogen factores cualitativos, pero no las variables básicas del modelo gravitatorio.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q063": {
+   "acierto": "¡Objetivo localizado! La Red Natura 2000 incluye tanto las Zonas Especiales de Conservación (ZEC) como las Zonas de Especial Protección para las Aves (ZEPA).",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La propuesta C estaba incompleta: las ZEPA forman parte de la Red, pero también las ZEC; por eso la opción que integra ambas es la válida.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q064": {
+   "acierto": "¡La memoria estaba de servicio! Elias Canetti distinguió, entre otros fenómenos colectivos, masas de acoso, fuga, prohibición, inversión, fiesta, guerra y lamento.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. Le Bon y Tarde son autores clásicos de psicología de masas, pero esa tipología concreta pertenece a Canetti.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q065": {
+   "acierto": "¡Diana normativa! La Cumbre de Río de 1992 impulsó la participación de ONG, sindicatos, consumidores y comunidad científica en políticas de desarrollo sostenible, especialmente a través de la Agenda 21.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Estocolmo inició la gran agenda ambiental internacional y Kioto se centró en emisiones; los cauces participativos descritos remiten a Río.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q066": {
+   "acierto": "¡Cazaste la trampa! Red Azul es el plan integral de colaboración de la Policía Nacional con el sector de la seguridad privada.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. No es un convenio general con policías locales ni un proyecto Policía-Guardia Civil; su pareja conceptual es Policía Nacional-seguridad privada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q067": {
+   "acierto": "¡Punto para la neurona de guardia! La clasificación reproducida por el examen distingue consumidores experimentales, esporádicos u ocasionales y habituales.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta esperada es la A. Las otras opciones mezclan «toxicómano» y «adicto», términos que describen dependencia, con categorías de frecuencia de consumo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q068": {
+   "acierto": "¡Ni el distractor te vio venir! La Estrategia 2009-2016 recogía como principio rector la evidencia científica para priorizar y desarrollar las intervenciones.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. La propuesta B confundía «participación social» con una formulación inexistente de «participación institucional»; C además usa «integridad» donde correspondería hablar de integralidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q069": {
+   "acierto": "¡Respuesta con placa y número! Los tres pilares clásicos del desarrollo sostenible son el desarrollo económico, el desarrollo social y la protección del medio ambiente.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Las otras combinaciones mezclan problemas o procesos, pero no los tres pilares reconocidos del concepto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q070": {
+   "acierto": "¡Muy fino ese radar jurídico! Ecuador no firmó el Acuerdo de París el 22 de abril de 2016; lo firmó posteriormente. El Salvador y Honduras sí constaban entre los firmantes de esa fecha.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La pregunta no pide quién terminó siendo parte, sino quién no firmó exactamente el 22 de abril de 2016.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q071": {
+   "acierto": "¡Objetivo localizado! Los buses son los canales de interconexión por los que circulan datos, direcciones y señales de control entre las unidades funcionales de un ordenador.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Un byte es una unidad de información y un procesador ejecuta instrucciones; ninguno es el medio de interconexión.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q072": {
+   "acierto": "¡La memoria estaba de servicio! L1 es más pequeña y rápida; L2 suele ser mayor y más lenta. Por eso es falsa la afirmación de que L2 sea a la vez mayor y más rápida que L1.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C porque el enunciado pide la afirmación incorrecta. A y B describen correctamente la jerarquía de caché.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q073": {
+   "acierto": "¡Diana normativa! El procesamiento paralelo distribuye trabajo entre varias unidades y puede reducir el cuello de botella propio de una ejecución estrictamente secuencial.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. «Ordenado» no es el tipo relevante y el procesamiento secuencial concentra las tareas, por lo que no evita el cuello de botella.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q074": {
+   "acierto": "¡Cazaste la trampa! En Word 2010, la secuencia examinada requiere cinco pulsaciones de F8 para llegar a seleccionar todo el documento: la primera activa el modo de selección y las siguientes amplían el alcance.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta histórica es la A. Cuatro pulsaciones después de activar el modo pueden seleccionar el documento, pero contando la activación son cinco. Es una pregunta dependiente de versión y fue discutida.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q075": {
+   "acierto": "¡Punto para la neurona de guardia! Una macro es una secuencia o conjunto de comandos e instrucciones que se guarda para ejecutar automáticamente una tarea.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. No es un conjunto de hojas ni de celdas. Aunque la respuesta es clara, la pregunta se consideró fuera del programa concreto de aquel examen.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q076": {
+   "acierto": "¡Ni el distractor te vio venir! Una referencia cruzada remite a un elemento situado en otra parte del mismo documento, como un título, figura, nota o marcador.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. Un hipervínculo también puede apuntar fuera del documento y «referencia propia» no es la función de Word descrita.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q077": {
+   "acierto": "¡Respuesta con placa y número! En las versiones iniciales de Windows 10 venían instalados Microsoft Edge e Internet Explorer 11, aunque Edge era el navegador predeterminado y sucesor.",
+   "fallo": "¡Falsa alarma en la central! La correcta histórica es la A. B omite Edge y C omite Internet Explorer. Hoy la pregunta está obsoleta: Internet Explorer fue retirado y no debe reutilizarse para Windows actual.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q078": {
+   "acierto": "¡Muy fino ese radar jurídico! Xing es una red social orientada a contactos y perfiles profesionales.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Instagram es generalista y visual; «So Job» no corresponde a la red profesional reconocida en la pregunta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q079": {
+   "acierto": "¡Objetivo localizado! Un flooder envía mensajes repetidos y masivos para saturar un canal o sistema. La repetición y el colapso son las pistas decisivas.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. B define un exploit y C un dialer que altera la conexión para usar números de tarificación adicional.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q080": {
+   "acierto": "¡La memoria estaba de servicio! La observación de comunicaciones postales y telegráficas puede acordarse por resolución motivada hasta tres meses, prorrogables por periodos iguales o inferiores, con un máximo total de dieciocho meses.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. B exige indebidamente prórrogas solo iguales y C permite periodos superiores; la ley dice iguales o inferiores.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q081": {
+   "acierto": "¡Diana normativa! Ese fraude se conocía como police ransomware: bloqueaba el equipo, suplantaba a la policía y exigía una supuesta multa.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. Las otras expresiones no son denominaciones reconocidas de esa modalidad de ransomware.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q082": {
+   "acierto": "¡Cazaste la trampa! Los componentes básicos señalados son usuarios, software, hardware y datos; mediante ellos se capturan, gestionan, analizan y representan datos geográficos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. «Escenario» y «lógica» no sustituyen a los componentes esenciales omitidos en las otras opciones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q083": {
+   "acierto": "¡Punto para la neurona de guardia! La plantilla de 2017 marcó WNO, siglas de World Nature Organization. Sin embargo, WNO era una organización, no un «programa telemático»; probablemente el enunciado confundió WNO con WMO. La pregunta es defectuosa.",
+   "fallo": "¡Te hicieron un regate normativo! La respuesta histórica marcada fue la A, pero no es una pregunta fiable: GNSS es un sistema de navegación y WORD 3 no encaja, mientras WNO tampoco era el programa descrito. Debe retirarse o reescribirse, no memorizarse sin más.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q084": {
+   "acierto": "¡Ni el distractor te vio venir! Las armas del sistema Flobert se clasifican en la 7.ª categoría del Reglamento de Armas.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. No pertenecen a la 5.ª ni a la 3.ª categoría; la referencia específica está en la categoría 7.ª.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q085": {
+   "acierto": "¡Respuesta con placa y número! La copa es el recipiente metálico del pistón en el que se aloja la mezcla fulminante.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. La vaina contiene el conjunto del cartucho y el yunque es la pieza contra la que actúa la percusión; el pequeño recipiente es la copa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q086": {
+   "acierto": "¡Muy fino ese radar jurídico! El Reglamento de Armas define arma antigua como la de fuego cuyo modelo o año de fabricación es anterior al 1 de enero de 1890.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Ni 1950 ni 1900 son el corte reglamentario de esta definición; la fecha literal es 1 de enero de 1890.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q087": {
+   "acierto": "¡Objetivo localizado! La señal luminosa V-1 debe ser visible en todas las direcciones a una distancia mínima de cincuenta metros y no perjudicar la visibilidad del conductor.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. Cien y ciento cincuenta metros son distractores; la cifra reglamentaria es cincuenta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q088": {
+   "acierto": "¡La memoria estaba de servicio! Un catadióptrico indica la presencia del vehículo reflejando luz procedente de una fuente independiente del propio vehículo.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. Las placas de matrícula y ciertas señales retrorreflectantes se excluyen de esta definición técnica específica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q089": {
+   "acierto": "¡Diana normativa! La regla figura en el Reglamento General de Circulación aprobado por el Real Decreto 1428/2003: los prioritarios pueden exceptuar determinadas normas, pero nunca las órdenes de los agentes.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. El Reglamento de Conductores no contiene esta regla y el RD 965/2006 fue una modificación, no la norma aprobatoria que pide el enunciado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q090": {
+   "acierto": "¡Cazaste la trampa! En los vehículos celulares de más de nueve plazas el anexo exige dos extintores de polvo de doce kilogramos, uno delante y otro detrás; por eso nunca basta uno solo.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. A no corresponde al anexo citado y B falla por el «solo»: para más de nueve plazas se exigen dos extintores de doce kilogramos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q091": {
+   "acierto": "¡Punto para la neurona de guardia! Los conductores de vehículos de servicio de urgencia no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. Las parejas 0,2/0,10 y 0,4/0,20 no son las tasas reglamentarias aplicables a estos vehículos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q092": {
+   "acierto": "¡Ni el distractor te vio venir! Para reducir el latigazo cervical, la separación entre la cabeza y el reposacabezas debe ser inferior a cuatro centímetros.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. Seis u ocho centímetros dejan demasiado recorrido antes del apoyo; la referencia preventiva es menos de cuatro.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q093": {
+   "acierto": "¡Respuesta con placa y número! ISO 39001 establece los requisitos de los sistemas de gestión de la seguridad vial.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. ISO 14001 se ocupa de gestión ambiental e ISO 9001 de gestión de la calidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q094": {
+   "acierto": "¡Muy fino ese radar jurídico! Las coordenadas cartesianas se basan en ejes perpendiculares entre sí; por tanto, son coordenadas ortogonales.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. «Regulares» y «radiocéntricas» no describen el sistema cartesiano.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q095": {
+   "acierto": "¡Objetivo localizado! El acimut es el ángulo horizontal medido desde el norte, normalmente en sentido horario, hasta la dirección del punto observado.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. El alzado es una representación vertical y la cota expresa altura; ninguno es el ángulo horizontal descrito.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q096": {
+   "acierto": "¡La memoria estaba de servicio! La respuesta histórica denomina «banco de nivel» al punto fijo de elevación conocida usado para determinar otras cotas. En España es más habitual hablar de señal, clavo o punto de nivelación.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta esperada es la A. «Nivel de referencia» es genérico y «plano de emplazamiento» es un documento gráfico. La terminología del enunciado es poco española y la pregunta fue discutida.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q097": {
+   "acierto": "¡Diana normativa! En los pagos anticipados el IVA se devenga en el momento del cobro por las cantidades efectivamente percibidas.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. No se espera a completar la prestación ni basta con contraer la obligación: el cobro anticipa el devengo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p33-a-q098": {
+   "acierto": "¡Cazaste la trampa! El patrimonio neto se obtiene restando al activo el pasivo exigible. Bienes más derechos menos obligaciones expresa económicamente la misma relación, por lo que el test contiene dos formulaciones equivalentes.",
+   "fallo": "¡Ese distractor llevaba sirena! La respuesta oficial esperada es la A, pero B es materialmente equivalente. La pregunta es ambigua y no debe reutilizarse sin cambiar una de esas opciones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p33-a-q099": {
+   "acierto": "¡Punto para la neurona de guardia! La candela es la unidad básica del Sistema Internacional para la intensidad luminosa.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. El amperio mide intensidad de corriente eléctrica y el mol cantidad de sustancia.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p33-a-q100": {
+   "acierto": "¡Ni el distractor te vio venir! La capacidad calorífica es el calor necesario para elevar un grado la temperatura de un cuerpo o cantidad determinada de sustancia. El calor específico expresa esa magnitud por unidad de masa.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La mención a una «determinada cantidad» apunta a capacidad calorífica; el calor específico está normalizado por masa y el poder calorífico mide energía liberada por combustión.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   }
+ },
+ "con_acierto_y_fallo": 100,
+ "solo_explicacion_desde_hechos": 164,
+ "esquema": {
+  "acierto": "Texto que lee el alumno cuando responde bien. Solo en las revisadas por el autor.",
+  "fallo": "Texto que lee cuando se equivoca. Solo en las revisadas por el autor.",
+  "explicacion": "Explicación única derivada de un hecho atómico del temario. En las no revisadas."
  }
 }
