@@ -182,11 +182,6 @@ La reforma de 2026 es la cuarta; la de 2024 afectó al artículo 49.
   <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3.webp" alt="Garantías expresas del artículo 9.3" width="820">
 </p>
 
-<!-- VISUAL:t02-05-articulo-9-3-2.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-02/t02-05-articulo-9-3-2.webp" alt="Garantías del artículo 9.3, versión ampliada y explicativa" width="820">
-</p>
-
 :::trampa
 El artículo 9.3 no menciona expresamente proporcionalidad ni igualdad.
 :::

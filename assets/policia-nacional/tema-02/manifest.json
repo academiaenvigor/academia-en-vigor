@@ -94,24 +94,6 @@
       "max_bytes": 1000000
     },
     {
-      "id": "t02-visual-05b",
-      "asset_key": "pn/tema-02/t02-05-articulo-9-3-2",
-      "file": "t02-05-articulo-9-3-2.webp",
-      "type": "infografia",
-      "status": "integrated_webp",
-      "block": 8,
-      "documents": [
-        "parte",
-        "atestado"
-      ],
-      "description": "Garantías del artículo 9.3, versión ampliada y explicativa",
-      "source_content_version": "0.1.0",
-      "required_format": "webp",
-      "max_bytes": 1000000,
-      "variant_of": "t02-visual-05",
-      "variant_note": "Segunda versión de la misma infografía, con más texto explicativo. Se muestran ambas: la esquemática primero y la explicativa después."
-    },
-    {
       "id": "t02-visual-06",
       "asset_key": "pn/tema-02/t02-06-arbol-titulo-i",
       "file": "t02-06-arbol-titulo-i.webp",
@@ -385,9 +367,10 @@
     }
   ],
   "totals": {
-    "planned": 23,
-    "produced": 23
+    "planned": 22,
+    "produced": 22
   },
   "integration_status": "integrated",
-  "integrated_at": "2026-07-26"
+  "integrated_at": "2026-07-26",
+  "format_note": "Todas las imágenes en .webp, referenciadas con etiquetas img en El Parte y El Atestado."
 }
