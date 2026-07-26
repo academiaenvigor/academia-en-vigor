@@ -3,7 +3,7 @@
  "oposicion": "policia-nacional",
  "generated_at": "2026-07-26",
  "origen": "Enlace automático de cada pregunta oficial con el hecho atómico verificado de su bloque.",
- "total": 659,
+ "total": 740,
  "coherentes_con_respuesta_propuesta": 140,
  "advertencia": "La explicación procede del temario propio, verificado y con fuente. La respuesta marcada procede de fuente secundaria y no es oficial. Si ambas no concuerdan, prevalece la duda: revisar.",
  "retroalimentacion": {
@@ -1724,7 +1724,13 @@
    "explicacion": "La divisa de la Unión es «Unida en la diversidad» y su himno es una adaptación del Himno a la Alegría de la Novena Sinfonía de Beethoven.",
    "fuente": "UE-HISTORIA",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! La divisa oficial de la Unión Europea es «Unida en la diversidad»: expresa que la diversidad europea convive dentro de un proyecto común.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La divisa oficial de la Unión Europea es «Unida en la diversidad»: expresa que la diversidad europea convive dentro de un proyecto común.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q013": {
    "fact_id": "PN-T04-F286",
@@ -1733,7 +1739,13 @@
    "explicacion": "Interpol es una organización internacional independiente y no forma parte de la Unión Europea ni de la Organización de las Naciones Unidas.",
    "fuente": "COOP-INTERPOL",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! El real decreto denomina «desplazadas» a las personas de terceros países o apátridas que han tenido que abandonar su país o región de origen.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El real decreto denomina «desplazadas» a las personas de terceros países o apátridas que han tenido que abandonar su país o región de origen.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
   },
   "of-pn-p39-a-q016": {
    "fact_id": "PN-T03-F185",
@@ -1742,7 +1754,13 @@
    "explicacion": "La acusación por traición o delito contra la seguridad del Estado cometido en el ejercicio del cargo solo puede plantearse por iniciativa de una cuarta parte del Congreso.",
    "fuente": "CE-GOBIERNO",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! El artículo 149.1.29 de la Constitución reserva al Estado la competencia exclusiva sobre seguridad pública, sin perjuicio de las policías autonómicas previstas legalmente.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. El artículo 149.1.29 de la Constitución reserva al Estado la competencia exclusiva sobre seguridad pública, sin perjuicio de las policías autonómicas previstas legalmente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q017": {
    "fact_id": "PN-T03-F382",
@@ -1751,7 +1769,13 @@
    "explicacion": "El Estado puede dictar leyes de armonización de disposiciones autonómicas cuando lo exija el interés general.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 7,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Diana normativa! La necesidad de una ley de armonización debe apreciarla las Cortes Generales por mayoría absoluta de cada Cámara.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. La necesidad de una ley de armonización debe apreciarla las Cortes Generales por mayoría absoluta de cada Cámara.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q024": {
    "fact_id": "PN-T04-F021",
@@ -1760,7 +1784,13 @@
    "explicacion": "El Tratado por el que se establecía una Constitución para Europa se firmó en Roma el 29 de octubre de 2004 y no llegó a entrar en vigor.",
    "fuente": "UE-TRATADOS",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! María entra con pasaporte o documento de identidad; Abayomi, que no queda incluido en el supuesto como familiar comunitario beneficiario, necesita pasaporte y visado.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. María entra con pasaporte o documento de identidad; Abayomi, que no queda incluido en el supuesto como familiar comunitario beneficiario, necesita pasaporte y visado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q028": {
    "fact_id": "PN-T01-F007",
@@ -1769,7 +1799,13 @@
    "explicacion": "La función limitadora del poder implica que toda potestad pública nace y se ejerce dentro del ordenamiento.",
    "fuente": "DPEJ-DERECHO",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Ni el distractor te vio venir! El consumo de drogas en vía pública y la negativa o aportación de datos falsos para impedir la identificación son dos infracciones graves de los apartados 16 y 6 del artículo 36.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. El consumo de drogas en vía pública y la negativa o aportación de datos falsos para impedir la identificación son dos infracciones graves de los apartados 16 y 6 del artículo 36.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
   },
   "of-pn-p39-a-q036": {
    "fact_id": "PN-T01-F083",
@@ -1778,7 +1814,13 @@
    "explicacion": "La personalidad jurídica permite imputar derechos, deberes, patrimonio y responsabilidad a un sujeto diferenciado, sin convertir a sus miembros en inexistentes ni eliminar automáticamente su posible responsabilidad cuando la ley la establezca.",
    "fuente": "DPEJ-PERSONA",
    "solidez": 1,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Ni el distractor te vio venir! El indulto extingue la responsabilidad criminal en los términos del Código Penal; reparar el daño o transformar una persona jurídica no produce por sí solo ese efecto.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El indulto extingue la responsabilidad criminal en los términos del Código Penal; reparar el daño o transformar una persona jurídica no produce por sí solo ese efecto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q038": {
    "fact_id": "PN-T04-F328",
@@ -1787,7 +1829,13 @@
    "explicacion": "La Orden de Detención Europea es una resolución judicial dictada por la autoridad judicial de un Estado miembro para la detención y entrega de una persona por otro Estado miembro.",
    "fuente": "COOP-ODE",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! La autorización puede concederse para uno o varios viajes durante un período máximo de doce meses y se hace constar en la Tarjeta Europea de Armas de Fuego.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La autorización puede concederse para uno o varios viajes durante un período máximo de doce meses y se hace constar en la Tarjeta Europea de Armas de Fuego.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q039": {
    "fact_id": "PN-T02-F085",
@@ -1796,7 +1844,13 @@
    "explicacion": "La ley regula un procedimiento de habeas corpus para la inmediata puesta a disposición judicial del detenido ilegalmente.",
    "fuente": "CE-T02",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! El habeas corpus de un menor detenido corresponde al juez de instrucción del lugar de la detención; no se desplaza al juez o fiscal de menores.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. El habeas corpus de un menor detenido corresponde al juez de instrucción del lugar de la detención; no se desplaza al juez o fiscal de menores.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q041": {
    "fact_id": "PN-T02-F081",
@@ -1805,7 +1859,13 @@
    "explicacion": "Toda persona tiene derecho a la libertad y a la seguridad.",
    "fuente": "CE-T02",
    "solidez": 1,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Diana normativa! Los registros corporales externos pueden practicarse contra la voluntad del afectado cuando concurren los requisitos legales; por eso esa prohibición absoluta es la afirmación incorrecta.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Los registros corporales externos pueden practicarse contra la voluntad del afectado cuando concurren los requisitos legales; por eso esa prohibición absoluta es la afirmación incorrecta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q042": {
    "fact_id": "PN-T04-F318",
@@ -1814,7 +1874,13 @@
    "explicacion": "CEPOL es la Agencia de la Unión Europea para la Formación Policial y tiene su sede en Budapest.",
    "fuente": "COOP-EUROPOL",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! CEPOL es la Agencia de la Unión Europea para la Formación Policial y desarrolla, coordina y apoya formación para agentes con funciones policiales.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. CEPOL es la Agencia de la Unión Europea para la Formación Policial y desarrolla, coordina y apoya formación para agentes con funciones policiales.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q050": {
    "fact_id": "PN-T01-F183",
@@ -1823,7 +1889,13 @@
    "explicacion": "Si los progenitores tienen vecindad civil distinta, corresponde al hijo la de aquel respecto del cual se determinó antes la filiación; en su defecto, la del lugar de nacimiento; y, en último término, la vecindad de Derecho común.",
    "fuente": "CC-VECINDAD",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! El concepto de accidente in itinere se refiere al daño corporal sufrido en el trayecto; los daños exclusivamente materiales no reciben esa calificación.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. El concepto de accidente in itinere se refiere al daño corporal sufrido en el trayecto; los daños exclusivamente materiales no reciben esa calificación.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q053": {
    "fact_id": "PN-T02-F081",
@@ -1832,7 +1904,13 @@
    "explicacion": "Toda persona tiene derecho a la libertad y a la seguridad.",
    "fuente": "CE-T02",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! La Oficina Nacional de Garantía de los Derechos Humanos impulsa y coordina estas actuaciones en Policía Nacional y Guardia Civil. Su encaje orgánico puede variar.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. La Oficina Nacional de Garantía de los Derechos Humanos impulsa y coordina estas actuaciones en Policía Nacional y Guardia Civil. Su encaje orgánico puede variar.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
   },
   "of-pn-p39-a-q055": {
    "fact_id": "PN-T01-F122",
@@ -1841,7 +1919,13 @@
    "explicacion": "El artículo 11.1 de la Constitución remite a la ley la adquisición, conservación y pérdida de la nacionalidad española.",
    "fuente": "CE",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! La adquisición de la nacionalidad se encuadra, entre otras normas, en la Constitución, el Código Civil y la Ley de Memoria Democrática.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. La adquisición de la nacionalidad se encuadra, entre otras normas, en la Constitución, el Código Civil y la Ley de Memoria Democrática.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
   },
   "of-pn-p39-a-q057": {
    "fact_id": "PN-T01-F109",
@@ -1850,7 +1934,13 @@
    "explicacion": "El emancipado necesita consentimiento hasta la mayoría de edad para tomar dinero a préstamo y para gravar o enajenar bienes inmuebles, establecimientos mercantiles o industriales u objetos de extraordinario valor.",
    "fuente": "CC-CAPACIDAD",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Diana normativa! Dejar a la víctima atada dos días excede la inmovilización necesaria para el robo y constituye detención ilegal. No hay secuestro porque no se exige condición para liberarla.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Dejar a la víctima atada dos días excede la inmovilización necesaria para el robo y constituye detención ilegal. No hay secuestro porque no se exige condición para liberarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q061": {
    "fact_id": "PN-T02-F201",
@@ -1859,7 +1949,13 @@
    "explicacion": "La queja debe presentarse en el plazo máximo de un año desde el conocimiento de los hechos.",
    "fuente": "LODP",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! La queja ante el Defensor del Pueblo debe presentarse, como máximo, dentro del año siguiente a conocer los hechos.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. La queja ante el Defensor del Pueblo debe presentarse, como máximo, dentro del año siguiente a conocer los hechos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q062": {
    "fact_id": "PN-T01-F096",
@@ -1868,7 +1964,13 @@
    "explicacion": "La capacidad jurídica acompaña a la personalidad y es la aptitud general para ser titular de derechos y obligaciones.",
    "fuente": "DPEJ-CAPACIDAD",
    "solidez": 1,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Muy fino ese radar! Los detectives deben comunicar inmediatamente a la autoridad judicial o policial competente los hechos delictivos conocidos por su trabajo; el libro-registro no puede tener un formato meramente propio.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. Los detectives deben comunicar inmediatamente a la autoridad judicial o policial competente los hechos delictivos conocidos por su trabajo; el libro-registro no puede tener un formato meramente propio.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p39-a-q078": {
    "fact_id": "PN-T01-F175",
@@ -1877,7 +1979,13 @@
    "explicacion": "Para el ejercicio de los derechos y el cumplimiento de las obligaciones civiles, el domicilio de las personas naturales es el lugar de su residencia habitual, sin perjuicio de los domicilios establecidos por la ley procesal.",
    "fuente": "CC-DOMICILIO",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! Una escopeta con los cañones recortados es un arma prohibida; su tenencia puede integrar el delito del artículo 563 del Código Penal.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Una escopeta con los cañones recortados es un arma prohibida; su tenencia puede integrar el delito del artículo 563 del Código Penal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
   },
   "of-pn-p39-a-q081": {
    "fact_id": "PN-T01-F136",
@@ -1886,7 +1994,13 @@
    "explicacion": "El extranjero menor de dieciocho años adoptado por un español adquiere la nacionalidad española de origen desde la adopción.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 7,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Diana normativa! Al ser adoptada después de cumplir dieciocho años, Noor no adquiere automáticamente la nacionalidad, pero puede optar por ella dentro de los dos años siguientes a la adopción.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Al ser adoptada después de cumplir dieciocho años, Noor no adquiere automáticamente la nacionalidad, pero puede optar por ella dentro de los dos años siguientes a la adopción.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   },
   "of-pn-p41-a-q001": {
    "fact_id": "PN-T04-F074",
@@ -6135,9 +6249,657 @@
    "revisado_en": "2026-07-26",
    "respuesta_verificada": "C",
    "anulada": false
+  },
+  "of-pn-p39-a-q001": {
+   "acierto": "¡Diana normativa! La difusión no consentida de imágenes íntimas obtenidas con consentimiento encaja en el artículo 197.7 del Código Penal, dentro de la revelación de secretos.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La difusión no consentida de imágenes íntimas obtenidas con consentimiento encaja en el artículo 197.7 del Código Penal, dentro de la revelación de secretos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q002": {
+   "acierto": "¡Cazaste la trampa! La norma atribuye la resolución de la compatibilidad al ministerio competente en función pública, a propuesta de la Dirección General de la Policía. La denominación ministerial de la opción es histórica.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La norma atribuye la resolución de la compatibilidad al ministerio competente en función pública, a propuesta de la Dirección General de la Policía. La denominación ministerial de la opción es histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q003": {
+   "acierto": "¡Punto para la neurona de guardia! La locución latina asentada es «grosso modo», sin la preposición «a» y con dos eses en «grosso».",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La locución latina asentada es «grosso modo», sin la preposición «a» y con dos eses en «grosso».",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q004": {
+   "acierto": "¡Ni el distractor te vio venir! «Haya investigado» es el pretérito perfecto de subjuntivo; «hubiera investigado» es pluscuamperfecto y «hubiere investigado», futuro perfecto.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. «Haya investigado» es el pretérito perfecto de subjuntivo; «hubiera investigado» es pluscuamperfecto y «hubiere investigado», futuro perfecto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q005": {
+   "acierto": "¡Respuesta con placa y número! El CNPIC es el órgano encargado del proceso de identificación y catalogación de una infraestructura como crítica.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El CNPIC es el órgano encargado del proceso de identificación y catalogación de una infraestructura como crítica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q006": {
+   "acierto": "¡Muy fino ese radar! El artículo 16.3 de la Declaración Universal de Derechos Humanos define a la familia como elemento natural y fundamental de la sociedad.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. El artículo 16.3 de la Declaración Universal de Derechos Humanos define a la familia como elemento natural y fundamental de la sociedad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q008": {
+   "acierto": "¡La memoria estaba de servicio! LUKS, BitLocker y FileVault son soluciones reales de cifrado de disco asociadas, respectivamente, a Linux, Windows y macOS.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. LUKS, BitLocker y FileVault son soluciones reales de cifrado de disco asociadas, respectivamente, a Linux, Windows y macOS.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q009": {
+   "acierto": "¡Diana normativa! La encomienda por dedicación al servicio policial reconocida en el supuesto incrementa el período ordinario hasta veintiséis días hábiles. Es una cuestión de régimen histórico.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. La encomienda por dedicación al servicio policial reconocida en el supuesto incrementa el período ordinario hasta veintiséis días hábiles. Es una cuestión de régimen histórico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q010": {
+   "acierto": "¡Cazaste la trampa! Un bot malicioso puede exfiltrar información, propagarse a otros equipos y enviar correo basura; por eso la opción que reúne las tres funciones es la completa.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Un bot malicioso puede exfiltrar información, propagarse a otros equipos y enviar correo basura; por eso la opción que reúne las tres funciones es la completa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q011": {
+   "acierto": "¡Punto para la neurona de guardia! «Conminar» es transitivo: se conmina a alguien, de modo que el pronombre de complemento directo correcto en la frase es «la».",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. «Conminar» es transitivo: se conmina a alguien, de modo que el pronombre de complemento directo correcto en la frase es «la».",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q012": {
+   "acierto": "¡Ni el distractor te vio venir! La víctima puede estar acompañada por una persona de su elección durante la declaración, salvo decisión motivada de la autoridad o del funcionario competente.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La víctima puede estar acompañada por una persona de su elección durante la declaración, salvo decisión motivada de la autoridad o del funcionario competente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q014": {
+   "acierto": "¡Muy fino ese radar! La ayuda alcanza dieciocho meses de subsidio cuando la víctima tiene especiales dificultades de empleo y responsabilidades familiares en los términos del supuesto.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La ayuda alcanza dieciocho meses de subsidio cuando la víctima tiene especiales dificultades de empleo y responsabilidades familiares en los términos del supuesto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q015": {
+   "acierto": "¡Objetivo localizado! El discurso de odio abarca cualquier forma de expresión, no solo la verbal o la escrita, que difunda, incite, promueva o justifique odio basado en la intolerancia.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. El discurso de odio abarca cualquier forma de expresión, no solo la verbal o la escrita, que difunda, incite, promueva o justifique odio basado en la intolerancia.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q018": {
+   "acierto": "¡Cazaste la trampa! «Vicisitud» está correctamente escrita; las otras formas correctas serían «idiosincrasia» y «beneficencia».",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. «Vicisitud» está correctamente escrita; las otras formas correctas serían «idiosincrasia» y «beneficencia».",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q019": {
+   "acierto": "¡Punto para la neurona de guardia! La autorización puede solicitarse cuando se dicta una orden de protección o existe informe del Ministerio Fiscal con indicios de violencia de género; la mera solicitud no basta.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La autorización puede solicitarse cuando se dicta una orden de protección o existe informe del Ministerio Fiscal con indicios de violencia de género; la mera solicitud no basta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q020": {
+   "acierto": "¡Ni el distractor te vio venir! La contravención de una prohibición de entrada da lugar a devolución y, si no puede ejecutarse en setenta y dos horas, se solicita al juez el internamiento.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. La contravención de una prohibición de entrada da lugar a devolución y, si no puede ejecutarse en setenta y dos horas, se solicita al juez el internamiento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q021": {
+   "acierto": "¡Respuesta con placa y número! La Ley Orgánica 7/2021 fija, con carácter general, veinte años como plazo máximo para la supresión, sin perjuicio de la revisión periódica de la necesidad de conservar los datos.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. La Ley Orgánica 7/2021 fija, con carácter general, veinte años como plazo máximo para la supresión, sin perjuicio de la revisión periódica de la necesidad de conservar los datos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q022": {
+   "acierto": "¡Muy fino ese radar! La entidad descrita es INCIBE, referencia española en ciberseguridad y confianza digital. La adscripción ministerial indicada corresponde al organigrama de la época.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La entidad descrita es INCIBE, referencia española en ciberseguridad y confianza digital. La adscripción ministerial indicada corresponde al organigrama de la época.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q023": {
+   "acierto": "¡Objetivo localizado! La tortura se consuma al infligir sufrimientos graves con una finalidad típica; no exige que el autor consiga finalmente la información buscada.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. La tortura se consuma al infligir sufrimientos graves con una finalidad típica; no exige que el autor consiga finalmente la información buscada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q025": {
+   "acierto": "¡Diana normativa! La reforma impone la privación de la patria potestad respecto del hijo común cuando el autor es condenado por homicidio o asesinato de la otra persona progenitora.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. La reforma impone la privación de la patria potestad respecto del hijo común cuando el autor es condenado por homicidio o asesinato de la otra persona progenitora.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q026": {
+   "acierto": "¡Cazaste la trampa! Las dos ramas de laurel unidas por los troncos corresponden a la segunda categoría de la Escala Ejecutiva y a la Escala de Subinspección.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Las dos ramas de laurel unidas por los troncos corresponden a la segunda categoría de la Escala Ejecutiva y a la Escala de Subinspección.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q027": {
+   "acierto": "¡Punto para la neurona de guardia! La Ley del Gobierno establece que las deliberaciones del Consejo de Ministros son secretas, no simplemente reservadas o clasificadas.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. La Ley del Gobierno establece que las deliberaciones del Consejo de Ministros son secretas, no simplemente reservadas o clasificadas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q029": {
+   "acierto": "¡Respuesta con placa y número! En una comparación de edad se dice «mayor que»; «más mayor» no es la forma estándar en este contexto comparativo.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. En una comparación de edad se dice «mayor que»; «más mayor» no es la forma estándar en este contexto comparativo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q030": {
+   "acierto": "¡Muy fino ese radar! La diligencia dura únicamente el tiempo estrictamente necesario y, además, está sometida al límite máximo legal de seis horas.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La diligencia dura únicamente el tiempo estrictamente necesario y, además, está sometida al límite máximo legal de seis horas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q031": {
+   "acierto": "¡Objetivo localizado! Tras presentar la denuncia, la víctima tiene derecho a obtener una copia debidamente certificada, no el original ni un simple resumen.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Tras presentar la denuncia, la víctima tiene derecho a obtener una copia debidamente certificada, no el original ni un simple resumen.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q032": {
+   "acierto": "¡La memoria estaba de servicio! La Policía Judicial debe detener a quien se fuga estando detenido o preso por causa pendiente; las otras opciones, formuladas de manera absoluta, no bastan.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. La Policía Judicial debe detener a quien se fuga estando detenido o preso por causa pendiente; las otras opciones, formuladas de manera absoluta, no bastan.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q033": {
+   "acierto": "¡Diana normativa! La mezcla de hachís con clonazepam, a menudo combinada con alcohol o pegamento, recibe el nombre de karkubi.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La mezcla de hachís con clonazepam, a menudo combinada con alcohol o pegamento, recibe el nombre de karkubi.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q034": {
+   "acierto": "¡Cazaste la trampa! La OMS concibe la salud como bienestar físico, mental y social, no como mera ausencia de enfermedad.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. La OMS concibe la salud como bienestar físico, mental y social, no como mera ausencia de enfermedad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q035": {
+   "acierto": "¡Punto para la neurona de guardia! La tarjeta de residencia de familiar de ciudadano de la Unión exime del visado y también de la estampación del sello de entrada.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La tarjeta de residencia de familiar de ciudadano de la Unión exime del visado y también de la estampación del sello de entrada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q037": {
+   "acierto": "¡Respuesta con placa y número! «Bíceps» es llana y lleva tilde porque termina en un grupo consonántico en el que la «s» va precedida de otra consonante.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. «Bíceps» es llana y lleva tilde porque termina en un grupo consonántico en el que la «s» va precedida de otra consonante.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q040": {
+   "acierto": "¡La memoria estaba de servicio! Una población con crecimiento lento o nulo presenta una pirámide estacionaria, con grupos de edad relativamente equilibrados.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. Una población con crecimiento lento o nulo presenta una pirámide estacionaria, con grupos de edad relativamente equilibrados.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q043": {
+   "acierto": "¡Punto para la neurona de guardia! Exigir la devolución de una deuda vencida y anunciar una denuncia por una obra ilegal no constituye, tal como está descrito, amenaza o chantaje penal.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. Exigir la devolución de una deuda vencida y anunciar una denuncia por una obra ilegal no constituye, tal como está descrito, amenaza o chantaje penal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q044": {
+   "acierto": "¡Ni el distractor te vio venir! El racismo simbólico admite formalmente la igualdad, pero introduce matices o restricciones para situaciones concretas; esa aceptación condicionada es su rasgo distintivo.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El racismo simbólico admite formalmente la igualdad, pero introduce matices o restricciones para situaciones concretas; esa aceptación condicionada es su rasgo distintivo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q045": {
+   "acierto": "¡Respuesta con placa y número! Hay conspiración cuando dos o más personas se conciertan para ejecutar un delito y resuelven llevarlo a cabo; «más de una» expresa ese mínimo.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Hay conspiración cuando dos o más personas se conciertan para ejecutar un delito y resuelven llevarlo a cabo; «más de una» expresa ese mínimo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q046": {
+   "acierto": "¡Muy fino ese radar! En Windows se cierra una ventana con Alt+F4 y en macOS se sale de una aplicación con Comando+Q.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. En Windows se cierra una ventana con Alt+F4 y en macOS se sale de una aplicación con Comando+Q.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q047": {
+   "acierto": "¡Objetivo localizado! El Estatuto comprende tanto a la víctima directa como a determinadas víctimas indirectas vinculadas a quien muere o desaparece a causa del delito.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. El Estatuto comprende tanto a la víctima directa como a determinadas víctimas indirectas vinculadas a quien muere o desaparece a causa del delito.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q048": {
+   "acierto": "¡La memoria estaba de servicio! La ley penal de menores impone «medidas», no penas. Internamiento, libertad vigilada y centro de día son medidas, así que ninguna opción formulada como pena es correcta.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. La ley penal de menores impone «medidas», no penas. Internamiento, libertad vigilada y centro de día son medidas, así que ninguna opción formulada como pena es correcta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q049": {
+   "acierto": "¡Diana normativa! El propietario que sustrae por sí mismo una cosa mueble de valor superior a 400 euros a quien la posee legítimamente comete el denominado furtum possessionis, modalidad de hurto.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. El propietario que sustrae por sí mismo una cosa mueble de valor superior a 400 euros a quien la posee legítimamente comete el denominado furtum possessionis, modalidad de hurto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q051": {
+   "acierto": "¡Punto para la neurona de guardia! En la redacción aplicable al examen de 2023, el plazo era de quince días desde la notificación. La normativa vigente lo amplió posteriormente a veinte días.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. En la redacción aplicable al examen de 2023, el plazo era de quince días desde la notificación. La normativa vigente lo amplió posteriormente a veinte días.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q052": {
+   "acierto": "¡Ni el distractor te vio venir! La sentencia, la orden de protección y determinadas resoluciones judiciales o informes pueden acreditar la situación; una resolución administrativa que acuerde una medida cautelar no es el título descrito por la ley.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La sentencia, la orden de protección y determinadas resoluciones judiciales o informes pueden acreditar la situación; una resolución administrativa que acuerde una medida cautelar no es el título descrito por la ley.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q054": {
+   "acierto": "¡Muy fino ese radar! Los delegados de prevención son designados por las organizaciones sindicales con representación en el Consejo de Policía.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Los delegados de prevención son designados por las organizaciones sindicales con representación en el Consejo de Policía.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q056": {
+   "acierto": "¡La memoria estaba de servicio! En autopista o autovía, los vehículos prioritarios en servicio urgente pueden excepcionalmente dar media vuelta o circular marcha atrás si no comprometen la seguridad.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. En autopista o autovía, los vehículos prioritarios en servicio urgente pueden excepcionalmente dar media vuelta o circular marcha atrás si no comprometen la seguridad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q058": {
+   "acierto": "¡Cazaste la trampa! La inyección SQL introduce instrucciones maliciosas aprovechando una aplicación web vulnerable para manipular o acceder a su base de datos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. La inyección SQL introduce instrucciones maliciosas aprovechando una aplicación web vulnerable para manipular o acceder a su base de datos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q059": {
+   "acierto": "¡Punto para la neurona de guardia! La potestad sancionadora en extranjería se tramita mediante los procedimientos ordinario, preferente y simplificado.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La potestad sancionadora en extranjería se tramita mediante los procedimientos ordinario, preferente y simplificado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q060": {
+   "acierto": "¡Ni el distractor te vio venir! La amenaza interna o insider threat surge cuando una persona con acceso autorizado abusa de sus privilegios y perjudica sistemas o información de la organización.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La amenaza interna o insider threat surge cuando una persona con acceso autorizado abusa de sus privilegios y perjudica sistemas o información de la organización.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q063": {
+   "acierto": "¡Objetivo localizado! La Administración dispone de seis meses para resolver una petición de rehabilitación de la condición de funcionario.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La Administración dispone de seis meses para resolver una petición de rehabilitación de la condición de funcionario.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q064": {
+   "acierto": "¡La memoria estaba de servicio! DNS traduce nombres de dominio comprensibles para las personas en direcciones IP utilizadas por los equipos.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. DNS traduce nombres de dominio comprensibles para las personas en direcciones IP utilizadas por los equipos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q065": {
+   "acierto": "¡Diana normativa! Los CETI son centros de estancia temporal de inmigrantes gestionados por el ministerio competente en inclusión y migraciones. La denominación orgánica es histórica.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Los CETI son centros de estancia temporal de inmigrantes gestionados por el ministerio competente en inclusión y migraciones. La denominación orgánica es histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q066": {
+   "acierto": "¡Cazaste la trampa! Invitar directamente a otra persona a agredir al agente fuera de servicio constituye proposición para cometer lesiones; no hay atentado por el mero antecedente policial.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. Invitar directamente a otra persona a agredir al agente fuera de servicio constituye proposición para cometer lesiones; no hay atentado por el mero antecedente policial.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q067": {
+   "acierto": "¡Punto para la neurona de guardia! El título VIII regula la organización territorial del Estado sobre los principios de autonomía, solidaridad e igualdad.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. El título VIII regula la organización territorial del Estado sobre los principios de autonomía, solidaridad e igualdad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q068": {
+   "acierto": "¡Ni el distractor te vio venir! «No Logo», de Naomi Klein, se convirtió en una obra emblemática de la crítica a las marcas y de los movimientos antiglobalización.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. «No Logo», de Naomi Klein, se convirtió en una obra emblemática de la crítica a las marcas y de los movimientos antiglobalización.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q069": {
+   "acierto": "¡Respuesta con placa y número! La opción A describe una finalidad propia de la seguridad privada, no uno de los fines enumerados en el artículo 3 de la Ley de Seguridad Ciudadana.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. La opción A describe una finalidad propia de la seguridad privada, no uno de los fines enumerados en el artículo 3 de la Ley de Seguridad Ciudadana.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q070": {
+   "acierto": "¡Muy fino ese radar! La señal V-3 consiste en la rotulación de los laterales del vehículo y permite identificar su carácter policial y el cuerpo al que pertenece.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La señal V-3 consiste en la rotulación de los laterales del vehículo y permite identificar su carácter policial y el cuerpo al que pertenece.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q071": {
+   "acierto": "¡Objetivo localizado! Al no restituirse el vehículo en cuarenta y ocho horas, el artículo 244.3 remite al hurto o al robo según el caso; la fractura de la cerradura determina robo con fuerza.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. Al no restituirse el vehículo en cuarenta y ocho horas, el artículo 244.3 remite al hurto o al robo según el caso; la fractura de la cerradura determina robo con fuerza.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q072": {
+   "acierto": "¡La memoria estaba de servicio! La detención ilegal protege la libertad ambulatoria o de deambulación, es decir, la facultad de decidir dónde permanecer y desplazarse.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. La detención ilegal protege la libertad ambulatoria o de deambulación, es decir, la facultad de decidir dónde permanecer y desplazarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q073": {
+   "acierto": "¡Diana normativa! En una motocicleta, la señal V-1 puede situarse atrás sobre un cabezal telescópico que permita elevarla por encima de la parte más alta.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. En una motocicleta, la señal V-1 puede situarse atrás sobre un cabezal telescópico que permita elevarla por encima de la parte más alta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q074": {
+   "acierto": "¡Cazaste la trampa! La matrícula y el seudónimo pueden identificar o hacer identificable a una persona y, por ello, entran en el concepto de dato personal.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. La matrícula y el seudónimo pueden identificar o hacer identificable a una persona y, por ello, entran en el concepto de dato personal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q075": {
+   "acierto": "¡Punto para la neurona de guardia! La cartuchería comprende los cartuchos con vaina, dotados de pistón o de fuego anular y cargados de pólvora, lleven o no proyectiles.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La cartuchería comprende los cartuchos con vaina, dotados de pistón o de fuego anular y cargados de pólvora, lleven o no proyectiles.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q076": {
+   "acierto": "¡Ni el distractor te vio venir! El jefe de la División de Formación y Perfeccionamiento tiene competencia para incoar procedimientos por falta leve; el jefe de una comisaría de distrito no aparece entre los órganos enumerados para ello.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El jefe de la División de Formación y Perfeccionamiento tiene competencia para incoar procedimientos por falta leve; el jefe de una comisaría de distrito no aparece entre los órganos enumerados para ello.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q077": {
+   "acierto": "¡Respuesta con placa y número! El golpe deliberado con una piedra en la cabeza cuando la agresión previa ya había terminado permite apreciar dolo homicida y encaja en el artículo 138.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. El golpe deliberado con una piedra en la cabeza cuando la agresión previa ya había terminado permite apreciar dolo homicida y encaja en el artículo 138.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q079": {
+   "acierto": "¡Objetivo localizado! La Dirección Adjunta Operativa dirige, impulsa y coordina las funciones policiales operativas conforme a las directrices de la Dirección General.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La Dirección Adjunta Operativa dirige, impulsa y coordina las funciones policiales operativas conforme a las directrices de la Dirección General.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q080": {
+   "acierto": "¡La memoria estaba de servicio! Los conductores de vehículos de servicio urgente o de transportes especiales no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado. Es una regla histórica del examen.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Los conductores de vehículos de servicio urgente o de transportes especiales no pueden superar 0,3 g/l en sangre ni 0,15 mg/l en aire espirado. Es una regla histórica del examen.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q082": {
+   "acierto": "¡Cazaste la trampa! Como regla general, el menor puede consentir el tratamiento de sus datos cuando es mayor de catorce años, salvo los supuestos en que la ley exige asistencia de sus representantes.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. Como regla general, el menor puede consentir el tratamiento de sus datos cuando es mayor de catorce años, salvo los supuestos en que la ley exige asistencia de sus representantes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q083": {
+   "acierto": "¡Punto para la neurona de guardia! El riesgo laboral es la posibilidad de que una persona trabajadora sufra un daño derivado del trabajo; las otras opciones definen daño laboral y riesgo grave e inminente.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. El riesgo laboral es la posibilidad de que una persona trabajadora sufra un daño derivado del trabajo; las otras opciones definen daño laboral y riesgo grave e inminente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q084": {
+   "acierto": "¡Ni el distractor te vio venir! La Sala de lo Penal de la Audiencia Nacional conoce del enjuiciamiento de delitos cometidos fuera de España cuando la competencia corresponde a los tribunales españoles.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La Sala de lo Penal de la Audiencia Nacional conoce del enjuiciamiento de delitos cometidos fuera de España cuando la competencia corresponde a los tribunales españoles.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q085": {
+   "acierto": "¡Respuesta con placa y número! Cuando una dependencia dispone de más de 250 funcionarios, las organizaciones sindicales representativas tienen derecho a un local adecuado.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Cuando una dependencia dispone de más de 250 funcionarios, las organizaciones sindicales representativas tienen derecho a un local adecuado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q086": {
+   "acierto": "¡Muy fino ese radar! Los buscadores generalistas y Maltego son herramientas habituales para obtener y relacionar información de fuentes abiertas, por lo que ambas respuestas son válidas.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. Los buscadores generalistas y Maltego son herramientas habituales para obtener y relacionar información de fuentes abiertas, por lo que ambas respuestas son válidas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q087": {
+   "acierto": "¡Objetivo localizado! La PCP es fenciclidina y se conoce como «polvo de ángel», no «lágrimas de ángel»; por eso la opción B es la incorrecta.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La PCP es fenciclidina y se conoce como «polvo de ángel», no «lágrimas de ángel»; por eso la opción B es la incorrecta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q088": {
+   "acierto": "¡La memoria estaba de servicio! Agredir a un profesional sanitario que ejerce funciones públicas propias de su cargo puede constituir atentado contra la autoridad o sus agentes.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. Agredir a un profesional sanitario que ejerce funciones públicas propias de su cargo puede constituir atentado contra la autoridad o sus agentes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q089": {
+   "acierto": "¡Diana normativa! La investigación de conductas delictivas o contrarias a la ética profesional dentro de la Policía corresponde a la Unidad de Asuntos Internos.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La investigación de conductas delictivas o contrarias a la ética profesional dentro de la Policía corresponde a la Unidad de Asuntos Internos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q090": {
+   "acierto": "¡Cazaste la trampa! La vigilancia y protección de bienes, establecimientos, lugares y eventos es una función propia de los vigilantes de seguridad.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La vigilancia y protección de bienes, establecimientos, lugares y eventos es una función propia de los vigilantes de seguridad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q091": {
+   "acierto": "¡Punto para la neurona de guardia! En un arma corta son componentes esenciales el armazón, el cañón, el tambor y la corredera o el cerrojo, según su diseño.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. En un arma corta son componentes esenciales el armazón, el cañón, el tambor y la corredera o el cerrojo, según su diseño.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q092": {
+   "acierto": "¡Ni el distractor te vio venir! El síndrome del emigrante con estrés crónico y múltiple es conocido como síndrome de Ulises.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El síndrome del emigrante con estrés crónico y múltiple es conocido como síndrome de Ulises.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q093": {
+   "acierto": "¡Respuesta con placa y número! El responsable del tratamiento VioGén es la persona titular de la Dirección General de Coordinación y Estudios del Ministerio del Interior. Es una adscripción orgánica revisable.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El responsable del tratamiento VioGén es la persona titular de la Dirección General de Coordinación y Estudios del Ministerio del Interior. Es una adscripción orgánica revisable.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A",
+   "anulada": false
+  },
+  "of-pn-p39-a-q094": {
+   "acierto": "¡Muy fino ese radar! Usar una tarjeta ajena en un cajero para obtener efectivo constituye estafa mediante instrumento de pago, además de las responsabilidades que procedan por la cartera.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. Usar una tarjeta ajena en un cajero para obtener efectivo constituye estafa mediante instrumento de pago, además de las responsabilidades que procedan por la cartera.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q095": {
+   "acierto": "¡Objetivo localizado! El artículo 89.9 excluye la sustitución por expulsión en condenas por trata de seres humanos, que es el delito descrito.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. El artículo 89.9 excluye la sustitución por expulsión en condenas por trata de seres humanos, que es el delito descrito.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q096": {
+   "acierto": "¡La memoria estaba de servicio! ACNUR, la Agencia de la ONU para los Refugiados, tiene su sede en Ginebra.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. ACNUR, la Agencia de la ONU para los Refugiados, tiene su sede en Ginebra.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q097": {
+   "acierto": "¡Diana normativa! Las autoridades judiciales civiles no son autoridad competente a efectos de la Ley Orgánica 7/2021; sí lo son el Ministerio Fiscal y Vigilancia Aduanera en sus ámbitos.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Las autoridades judiciales civiles no son autoridad competente a efectos de la Ley Orgánica 7/2021; sí lo son el Ministerio Fiscal y Vigilancia Aduanera en sus ámbitos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q098": {
+   "acierto": "¡Cazaste la trampa! Para un nacimiento ocurrido en enero de 2021, el permiso era de dieciséis semanas retribuidas e intransferibles; no todas debían disfrutarse seguidas. Es contenido histórico.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Para un nacimiento ocurrido en enero de 2021, el permiso era de dieciséis semanas retribuidas e intransferibles; no todas debían disfrutarse seguidas. Es contenido histórico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C",
+   "anulada": false
+  },
+  "of-pn-p39-a-q099": {
+   "acierto": "¡Punto para la neurona de guardia! Los padres de la Constitución incluyen a Gabriel Cisneros, Gregorio Peces-Barba y Jordi Solé Tura; «Jordi Roca Soler» no pertenece a ese grupo.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Los padres de la Constitución incluyen a Gabriel Cisneros, Gregorio Peces-Barba y Jordi Solé Tura; «Jordi Roca Soler» no pertenece a ese grupo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
+  },
+  "of-pn-p39-a-q100": {
+   "acierto": "¡Ni el distractor te vio venir! En promoción interna, el Reglamento de 2022 ordena realizar primero las pruebas de concurso-oposición y después las de antigüedad selectiva.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. En promoción interna, el Reglamento de 2022 ordena realizar primero las pruebas de concurso-oposición y después las de antigüedad selectiva.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B",
+   "anulada": false
   }
  },
- "con_acierto_y_fallo": 600,
- "solo_explicacion_desde_hechos": 59,
+ "con_acierto_y_fallo": 700,
+ "solo_explicacion_desde_hechos": 40,
  "anuladas": 1
 }
