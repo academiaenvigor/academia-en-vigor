@@ -3,9 +3,9 @@
  "oposicion": "policia-nacional",
  "generated_at": "2026-07-26",
  "origen": "Enlace automático de cada pregunta oficial con el hecho atómico verificado de su bloque.",
- "total": 338,
+ "total": 425,
  "coherentes_con_respuesta_propuesta": 140,
- "advertencia": "Las entradas con origen revision_autor tienen respuesta verificada por el autor. El resto sigue apoyándose en propuestas de fuente secundaria.",
+ "advertencia": "Las entradas con origen revision_autor tienen respuesta verificada. El resto se apoya en propuestas de fuente secundaria.",
  "retroalimentacion": {
   "of-pn-p33-a-q002": {
    "fact_id": "PN-T01-F132",
@@ -504,7 +504,12 @@
    "explicacion": "La ley regula un procedimiento de habeas corpus para la inmediata puesta a disposición judicial del detenido ilegalmente.",
    "fuente": "CE-T02",
    "solidez": 3,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Objetivo localizado! La sencillez del habeas corpus se manifiesta en la comparecencia verbal y en que no sea preceptiva la intervención de abogado ni procurador. La rapidez y la generalidad son principios distintos.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La sencillez del habeas corpus se manifiesta en la comparecencia verbal y en que no sea preceptiva la intervención de abogado ni procurador. La rapidez y la generalidad son principios distintos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q020": {
    "fact_id": "PN-T03-F265",
@@ -513,7 +518,12 @@
    "explicacion": "El CGPJ está integrado por el Presidente del Tribunal Supremo y 20 miembros nombrados por el Rey por cinco años.",
    "fuente": "LOPJ",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Ni el distractor te vio venir! El Consejo Fiscal incluye al Teniente Fiscal del Tribunal Supremo, al Fiscal Jefe Inspector y a nueve fiscales pertenecientes a cualquiera de las categorías. El CGPJ no integra este órgano.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. El Consejo Fiscal incluye al Teniente Fiscal del Tribunal Supremo, al Fiscal Jefe Inspector y a nueve fiscales pertenecientes a cualquiera de las categorías. El CGPJ no integra este órgano.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q023": {
    "fact_id": "PN-T03-F440",
@@ -522,7 +532,12 @@
    "explicacion": "Están legitimados el Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y órganos autonómicos en su ámbito.",
    "fuente": "CE-TC",
    "solidez": 2,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Objetivo localizado! El presidente del Gobierno en funciones no puede plantear una cuestión de confianza. La interposición de un recurso de inconstitucionalidad no aparece entre esas prohibiciones expresas.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. El presidente del Gobierno en funciones no puede plantear una cuestión de confianza. La interposición de un recurso de inconstitucionalidad no aparece entre esas prohibiciones expresas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q027": {
    "fact_id": "PN-T03-F194",
@@ -531,7 +546,12 @@
    "explicacion": "Las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno.",
    "fuente": "CE-GOBIERNO",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Punto para la neurona de guardia! Cuando no puede determinarse con seguridad la minoría de edad de un extranjero indocumentado, los servicios de protección de menores deben prestarle de inmediato la atención necesaria y se pone el hecho en conocimiento del Ministerio Fiscal.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Cuando no puede determinarse con seguridad la minoría de edad de un extranjero indocumentado, los servicios de protección de menores deben prestarle de inmediato la atención necesaria y se pone el hecho en conocimiento del Ministerio Fiscal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q048": {
    "fact_id": "PN-T02-F198",
@@ -540,7 +560,12 @@
    "explicacion": "El Defensor ejerce las funciones del Mecanismo Nacional de Prevención de la Tortura.",
    "fuente": "LODP",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! El Consejo Asesor está formado por los adjuntos al Defensor del Pueblo, como miembros natos, y por un máximo de diez vocales.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. El Consejo Asesor está formado por los adjuntos al Defensor del Pueblo, como miembros natos, y por un máximo de diez vocales.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q056": {
    "fact_id": "PN-T04-F153",
@@ -549,7 +574,12 @@
    "explicacion": "El Consejo de Asuntos Generales vela por la coherencia de los trabajos de las distintas formaciones del Consejo.",
    "fuente": "UE-CONSEJO-UE",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! El Consejo Europeo adopta por mayoría cualificada la decisión que establece la lista de formaciones del Consejo distintas de Asuntos Generales y Asuntos Exteriores.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. El Consejo Europeo adopta por mayoría cualificada la decisión que establece la lista de formaciones del Consejo distintas de Asuntos Generales y Asuntos Exteriores.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q061": {
    "fact_id": "PN-T01-F161",
@@ -558,7 +588,12 @@
    "explicacion": "Los españoles emancipados que residan habitualmente en el extranjero pierden la nacionalidad si adquieren voluntariamente otra o utilizan exclusivamente la nacionalidad extranjera que tuvieran atribuida antes de la emancipación.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 13,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! Los emancipados que residen habitualmente en el extranjero pueden perder la nacionalidad si adquieren voluntariamente otra o utilizan exclusivamente la extranjera que tenían antes de emanciparse.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Los emancipados que residen habitualmente en el extranjero pueden perder la nacionalidad si adquieren voluntariamente otra o utilizan exclusivamente la extranjera que tenían antes de emanciparse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q062": {
    "fact_id": "PN-T03-F029",
@@ -567,7 +602,12 @@
    "explicacion": "La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey.",
    "fuente": "CE-CORONA",
    "solidez": 5,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey, conforme al artículo 59.5 de la Constitución.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La Regencia se ejerce por mandato constitucional y siempre en nombre del Rey, conforme al artículo 59.5 de la Constitución.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q071": {
    "fact_id": "PN-T03-F223",
@@ -576,7 +616,12 @@
    "explicacion": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros y bajo su responsabilidad, puede proponer la disolución de una o ambas Cámaras.",
    "fuente": "CE-RELACIONES",
    "solidez": 7,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! No puede proponerse la disolución de las Cámaras mientras esté en trámite una moción de censura. La opción A está mal construida: es el presidente quien propone al Rey, previa deliberación del Consejo de Ministros.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. No puede proponerse la disolución de las Cámaras mientras esté en trámite una moción de censura. La opción A está mal construida: es el presidente quien propone al Rey, previa deliberación del Consejo de Ministros.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p35-a-q087": {
    "fact_id": "PN-T03-F438",
@@ -585,7 +630,12 @@
    "explicacion": "El Gobierno puede impugnar ante el TC disposiciones y resoluciones autonómicas.",
    "fuente": "CE-TC",
    "solidez": 5,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Objetivo localizado! El Gobierno puede impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las comunidades autónomas.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. El Gobierno puede impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las comunidades autónomas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q093": {
    "fact_id": "PN-T03-F248",
@@ -594,7 +644,12 @@
    "explicacion": "La declaración de alarma, excepción o sitio no modifica la responsabilidad del Gobierno ni de sus agentes.",
    "fuente": "CE-RELACIONES",
    "solidez": 3,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Respuesta con placa y número! Una ley orgánica regula los estados de alarma, excepción y sitio, así como sus competencias y limitaciones. No todos se declaran del mismo modo.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Una ley orgánica regula los estados de alarma, excepción y sitio, así como sus competencias y limitaciones. No todos se declaran del mismo modo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q094": {
    "fact_id": "PN-T03-F424",
@@ -603,7 +658,12 @@
    "explicacion": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey.",
    "fuente": "CE-TC",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! La disposición transitoria novena estableció que, a los tres años de la primera elección del Tribunal Constitucional, se sortearía el grupo de cuatro miembros que debía cesar y renovarse.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La disposición transitoria novena estableció que, a los tres años de la primera elección del Tribunal Constitucional, se sortearía el grupo de cuatro miembros que debía cesar y renovarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p35-a-q099": {
    "fact_id": "PN-T01-F137",
@@ -612,7 +672,12 @@
    "explicacion": "Si el adoptado es mayor de dieciocho años, puede optar por la nacionalidad española de origen en los dos años siguientes a la constitución de la adopción.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 9,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Punto para la neurona de guardia! Si el adoptado es mayor de edad puede optar por la nacionalidad española de origen durante los dos años siguientes a la constitución de la adopción.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Si el adoptado es mayor de edad puede optar por la nacionalidad española de origen durante los dos años siguientes a la constitución de la adopción.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p36-a-q002": {
    "fact_id": "PN-T03-F341",
@@ -2893,13 +2958,622 @@
    "origen": "revision_autor",
    "revisado_en": "2026-07-26",
    "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q001": {
+   "acierto": "¡Diana normativa! El IVA es un impuesto indirecto porque grava el consumo. El IRPF y el impuesto sobre sucesiones y donaciones son impuestos directos.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El IVA es un impuesto indirecto porque grava el consumo. El IRPF y el impuesto sobre sucesiones y donaciones son impuestos directos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q002": {
+   "acierto": "¡Cazaste la trampa! La respuesta histórica esperada es el GHB. La clasificación utilizada por el antiguo Plan Nacional sobre Drogas no es suficientemente precisa, pues otras sustancias de las opciones también son sintéticas; conviene reformular la pregunta antes de reutilizarla.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. La respuesta histórica esperada es el GHB. La clasificación utilizada por el antiguo Plan Nacional sobre Drogas no es suficientemente precisa, pues otras sustancias de las opciones también son sintéticas; conviene reformular la pregunta antes de reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q003": {
+   "acierto": "¡Punto para la neurona de guardia! El vigilante de explosivos es una especialidad del vigilante de seguridad, por lo que primero debe obtenerse la habilitación como vigilante de seguridad. El escolta privado no es una especialidad de este, sino otra categoría de personal de seguridad privada.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. El vigilante de explosivos es una especialidad del vigilante de seguridad, por lo que primero debe obtenerse la habilitación como vigilante de seguridad. El escolta privado no es una especialidad de este, sino otra categoría de personal de seguridad privada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q004": {
+   "acierto": "¡Ni el distractor te vio venir! El artículo 14.3 del Código Penal dispone que el error invencible sobre la ilicitud del hecho excluye la responsabilidad criminal. Si el error es vencible, se aplica la pena inferior en uno o dos grados.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El artículo 14.3 del Código Penal dispone que el error invencible sobre la ilicitud del hecho excluye la responsabilidad criminal. Si el error es vencible, se aplica la pena inferior en uno o dos grados.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q005": {
+   "acierto": "¡Respuesta con placa y número! La comunicación a la CEAR no figura entre los derechos del artículo 18. Sí se reconoce la comunicación al ACNUR y la atención sanitaria en caso de necesidad.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. La comunicación a la CEAR no figura entre los derechos del artículo 18. Sí se reconoce la comunicación al ACNUR y la atención sanitaria en caso de necesidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q006": {
+   "acierto": "¡Muy fino ese radar! Yemen no firmó el Acuerdo de París en la ceremonia del 22 de abril de 2016. Es un dato histórico ligado a aquella fecha y no debe confundirse con ratificaciones o adhesiones posteriores.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. Yemen no firmó el Acuerdo de París en la ceremonia del 22 de abril de 2016. Es un dato histórico ligado a aquella fecha y no debe confundirse con ratificaciones o adhesiones posteriores.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q008": {
+   "acierto": "¡La memoria estaba de servicio! Terminada la audiencia, el juez de menores dispone de un máximo de cinco días para dictar sentencia. Es una regla procesal específica de la Ley Orgánica 5/2000.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. Terminada la audiencia, el juez de menores dispone de un máximo de cinco días para dictar sentencia. Es una regla procesal específica de la Ley Orgánica 5/2000.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q009": {
+   "acierto": "¡Diana normativa! La respuesta histórica era 24 años para el permiso D. La normativa admite actualmente excepciones vinculadas a cualificaciones profesionales y edades inferiores, por lo que la pregunta no debe reutilizarse sin actualizarla.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. La respuesta histórica era 24 años para el permiso D. La normativa admite actualmente excepciones vinculadas a cualificaciones profesionales y edades inferiores, por lo que la pregunta no debe reutilizarse sin actualizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q010": {
+   "acierto": "¡Cazaste la trampa! Concluida la instrucción, la Oficina de Asilo y Refugio eleva la propuesta al Ministro del Interior, que es quien resuelve el procedimiento de reconocimiento del estatuto de apátrida.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. Concluida la instrucción, la Oficina de Asilo y Refugio eleva la propuesta al Ministro del Interior, que es quien resuelve el procedimiento de reconocimiento del estatuto de apátrida.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q011": {
+   "acierto": "¡Punto para la neurona de guardia! El cónyuge no separado y la persona unida por análoga relación de afectividad están exentos del deber de denunciar. La opción de los parientes es incorrecta porque extiende la exención colateral hasta el tercer grado.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. El cónyuge no separado y la persona unida por análoga relación de afectividad están exentos del deber de denunciar. La opción de los parientes es incorrecta porque extiende la exención colateral hasta el tercer grado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q012": {
+   "acierto": "¡Ni el distractor te vio venir! El cinturón de seguridad es un elemento de seguridad pasiva: no evita el accidente, sino que reduce sus consecuencias. El sistema de frenos pertenece a la seguridad activa.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El cinturón de seguridad es un elemento de seguridad pasiva: no evita el accidente, sino que reduce sus consecuencias. El sistema de frenos pertenece a la seguridad activa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q013": {
+   "acierto": "¡Respuesta con placa y número! Sin convocatoria regular, el Pleno del Consejo de Policía solo queda válidamente constituido si están presentes todos sus miembros y lo acuerdan por unanimidad.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. Sin convocatoria regular, el Pleno del Consejo de Policía solo queda válidamente constituido si están presentes todos sus miembros y lo acuerdan por unanimidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q014": {
+   "acierto": "¡Muy fino ese radar! La planimetría es la representación y medición sobre un plano de una parte de la superficie terrestre. Las otras opciones describen coordenadas y un plano catastral o urbano.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La planimetría es la representación y medición sobre un plano de una parte de la superficie terrestre. Las otras opciones describen coordenadas y un plano catastral o urbano.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q015": {
+   "acierto": "¡Objetivo localizado! La estancia en los antiguos Centros de Acogida de Refugiados tenía, como regla general, una duración de seis meses. El sistema de acogida ha cambiado y la pregunta debe tratarse como histórica.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La estancia en los antiguos Centros de Acogida de Refugiados tenía, como regla general, una duración de seis meses. El sistema de acogida ha cambiado y la pregunta debe tratarse como histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q016": {
+   "acierto": "¡La memoria estaba de servicio! Los tipos del IVA se agrupan en general, reducido y superreducido. «Mínimo» no es la denominación legal de una categoría impositiva.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. Los tipos del IVA se agrupan en general, reducido y superreducido. «Mínimo» no es la denominación legal de una categoría impositiva.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q017": {
+   "acierto": "¡Diana normativa! El mol es la unidad básica del Sistema Internacional para la cantidad de sustancia. La candela mide intensidad luminosa y el amperio intensidad de corriente.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. El mol es la unidad básica del Sistema Internacional para la cantidad de sustancia. La candela mide intensidad luminosa y el amperio intensidad de corriente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q018": {
+   "acierto": "¡Cazaste la trampa! El hombro es la zona de transición entre la banda de rodadura y el flanco del neumático. El talón es la parte que se ajusta a la llanta.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. El hombro es la zona de transición entre la banda de rodadura y el flanco del neumático. El talón es la parte que se ajusta a la llanta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q019": {
+   "acierto": "¡Punto para la neurona de guardia! La Orden INT/2573/2015 exigía que las salidas de socorro tuviesen una superficie de abertura mínima de 0,4 m².",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La Orden INT/2573/2015 exigía que las salidas de socorro tuviesen una superficie de abertura mínima de 0,4 m².",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q021": {
+   "acierto": "¡Respuesta con placa y número! El Estado parte dispone de un año desde la entrada en vigor o adhesión al Protocolo Facultativo para establecer o designar su mecanismo nacional de prevención.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. El Estado parte dispone de un año desde la entrada en vigor o adhesión al Protocolo Facultativo para establecer o designar su mecanismo nacional de prevención.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q022": {
+   "acierto": "¡Muy fino ese radar! Ferri agrupó los factores del delito en antropológicos, físicos o cosmo-telúricos y sociales. Es la clasificación característica de su positivismo criminológico.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Ferri agrupó los factores del delito en antropológicos, físicos o cosmo-telúricos y sociales. Es la clasificación característica de su positivismo criminológico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q024": {
+   "acierto": "¡La memoria estaba de servicio! La intersección determina puntos desconocidos a partir de puntos conocidos midiendo magnitudes angulares. Los itinerarios y métodos poligonales combinan una sucesión de lados y ángulos.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. La intersección determina puntos desconocidos a partir de puntos conocidos midiendo magnitudes angulares. Los itinerarios y métodos poligonales combinan una sucesión de lados y ángulos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q025": {
+   "acierto": "¡Diana normativa! Las medidas de seguridad prescriben a los diez años si son privativas de libertad superiores a tres años y a los cinco años si duran tres años o menos o tienen otro contenido.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Las medidas de seguridad prescriben a los diez años si son privativas de libertad superiores a tres años y a los cinco años si duran tres años o menos o tienen otro contenido.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q026": {
+   "acierto": "¡Cazaste la trampa! La afirmación incorrecta es la C: la detención por un particular del procesado por delito grave exige además circunstancias que hagan presumir que no comparecerá. Las opciones A y B recogen supuestos de detención ciudadana.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. La afirmación incorrecta es la C: la detención por un particular del procesado por delito grave exige además circunstancias que hagan presumir que no comparecerá. Las opciones A y B recogen supuestos de detención ciudadana.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q028": {
+   "acierto": "¡Ni el distractor te vio venir! Un agonista se une a un receptor y produce una respuesta similar a la de la sustancia de referencia. Antabús es un nombre comercial del disulfiram.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. Un agonista se une a un receptor y produce una respuesta similar a la de la sustancia de referencia. Antabús es un nombre comercial del disulfiram.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q029": {
+   "acierto": "¡Respuesta con placa y número! El taquímetro permite medir direcciones mediante un ángulo horizontal o azimutal y otro vertical o cenital. GPS y distanciómetro láser cumplen funciones diferentes.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. El taquímetro permite medir direcciones mediante un ángulo horizontal o azimutal y otro vertical o cenital. GPS y distanciómetro láser cumplen funciones diferentes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q030": {
+   "acierto": "¡Muy fino ese radar! La energía mareomotriz aprovecha el movimiento periódico de las mareas. La energía de las olas es undimotriz y la del calor terrestre es geotérmica.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La energía mareomotriz aprovecha el movimiento periódico de las mareas. La energía de las olas es undimotriz y la del calor terrestre es geotérmica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q031": {
+   "acierto": "¡Objetivo localizado! Los guardapescas marítimos forman parte del personal que puede ejercer funciones de seguridad privada. Porteros de discoteca y policías municipales no actúan como personal de seguridad privada.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Los guardapescas marítimos forman parte del personal que puede ejercer funciones de seguridad privada. Porteros de discoteca y policías municipales no actúan como personal de seguridad privada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q032": {
+   "acierto": "¡La memoria estaba de servicio! La opción incorrecta es «formar»: el deber legal es informar de inmediato al superior acerca de las situaciones de riesgo. Cooperar y contribuir al cumplimiento preventivo sí son obligaciones.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. La opción incorrecta es «formar»: el deber legal es informar de inmediato al superior acerca de las situaciones de riesgo. Cooperar y contribuir al cumplimiento preventivo sí son obligaciones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q033": {
+   "acierto": "¡Diana normativa! Las dos afirmaciones describen la mCPP según la fuente histórica del examen, por lo que la respuesta es «ambas son correctas». La terminología sobre drogas debe actualizarse antes de reutilizarla.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Las dos afirmaciones describen la mCPP según la fuente histórica del examen, por lo que la respuesta es «ambas son correctas». La terminología sobre drogas debe actualizarse antes de reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q034": {
+   "acierto": "¡Cazaste la trampa! La información confidencial obtenida por el Mecanismo Nacional de Prevención tiene carácter reservado y no pueden publicarse datos personales sin consentimiento expreso.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La información confidencial obtenida por el Mecanismo Nacional de Prevención tiene carácter reservado y no pueden publicarse datos personales sin consentimiento expreso.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q035": {
+   "acierto": "¡Punto para la neurona de guardia! La plantilla histórica consideró la ketamina una droga alucinógena por sus efectos disociativos. La respuesta fue discutida porque farmacológicamente también se clasifica como depresora y anestésica; la pregunta es impugnable y no debería reutilizarse.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La plantilla histórica consideró la ketamina una droga alucinógena por sus efectos disociativos. La respuesta fue discutida porque farmacológicamente también se clasifica como depresora y anestésica; la pregunta es impugnable y no debería reutilizarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q036": {
+   "acierto": "¡Ni el distractor te vio venir! Las armas de sistema Flobert pertenecían a la 7.ª categoría. Las armas de aire comprimido de la opción A y las largas rayadas del calibre .22 se clasifican en otras categorías.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. Las armas de sistema Flobert pertenecían a la 7.ª categoría. Las armas de aire comprimido de la opción A y las largas rayadas del calibre .22 se clasifican en otras categorías.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q037": {
+   "acierto": "¡Respuesta con placa y número! La biomasa es la energía química contenida en materia y residuos orgánicos, aprovechable para producir energía térmica o eléctrica.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. La biomasa es la energía química contenida en materia y residuos orgánicos, aprovechable para producir energía térmica o eléctrica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q038": {
+   "acierto": "¡Muy fino ese radar! La dilación extraordinaria e indebida, no atribuible al acusado y desproporcionada respecto de la complejidad de la causa, es la atenuante del artículo 21.6. La opción B cita erróneamente el número 3 del artículo 20.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La dilación extraordinaria e indebida, no atribuible al acusado y desproporcionada respecto de la complejidad de la causa, es la atenuante del artículo 21.6. La opción B cita erróneamente el número 3 del artículo 20.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q039": {
+   "acierto": "¡Objetivo localizado! La detención preventiva solo puede durar el tiempo estrictamente necesario para esclarecer los hechos y, en todo caso, como máximo setenta y dos horas antes de la libertad o puesta a disposición judicial.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. La detención preventiva solo puede durar el tiempo estrictamente necesario para esclarecer los hechos y, en todo caso, como máximo setenta y dos horas antes de la libertad o puesta a disposición judicial.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q040": {
+   "acierto": "¡La memoria estaba de servicio! La señal luminosa V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros y no puede perjudicar la visibilidad del conductor.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. La señal luminosa V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros y no puede perjudicar la visibilidad del conductor.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q041": {
+   "acierto": "¡Diana normativa! El juez puede autorizar la obtención de imágenes y la grabación de conversaciones del agente encubierto, incluso dentro de un domicilio, con las garantías constitucionales y procesales exigibles.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El juez puede autorizar la obtención de imágenes y la grabación de conversaciones del agente encubierto, incluso dentro de un domicilio, con las garantías constitucionales y procesales exigibles.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q042": {
+   "acierto": "¡Cazaste la trampa! La energía potencial es la que depende de la posición de un objeto en un campo de fuerzas o de la configuración de un sistema. La cinética depende del movimiento.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La energía potencial es la que depende de la posición de un objeto en un campo de fuerzas o de la configuración de un sistema. La cinética depende del movimiento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q043": {
+   "acierto": "¡Punto para la neurona de guardia! En la estructura de 2018, la Unidad de Investigación Tecnológica asumía la investigación nacional y transnacional del ciberdelito. El organigrama policial ha cambiado y la pregunta debe actualizarse.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. En la estructura de 2018, la Unidad de Investigación Tecnológica asumía la investigación nacional y transnacional del ciberdelito. El organigrama policial ha cambiado y la pregunta debe actualizarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q044": {
+   "acierto": "¡Ni el distractor te vio venir! El desarrollo sostenible se apoya en tres dimensiones: sociedad, economía y medio ambiente. El equilibrio entre ellas evita confundir crecimiento económico con sostenibilidad.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. El desarrollo sostenible se apoya en tres dimensiones: sociedad, economía y medio ambiente. El equilibrio entre ellas evita confundir crecimiento económico con sostenibilidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q045": {
+   "acierto": "¡Respuesta con placa y número! Las cámaras integradas en medidas de seguridad obligatorias o en sistemas de alarmas no requerían autorización administrativa para su instalación, empleo o utilización.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Las cámaras integradas en medidas de seguridad obligatorias o en sistemas de alarmas no requerían autorización administrativa para su instalación, empleo o utilización.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q046": {
+   "acierto": "¡Muy fino ese radar! En el contexto del examen, un megatón de TNT es una unidad equivalente de energía. La redacción es imprecisa porque «megatón» es literalmente una unidad de masa y solo expresa energía al hablar de equivalente de TNT.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. En el contexto del examen, un megatón de TNT es una unidad equivalente de energía. La redacción es imprecisa porque «megatón» es literalmente una unidad de masa y solo expresa energía al hablar de equivalente de TNT.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q047": {
+   "acierto": "¡Objetivo localizado! Hay conspiración cuando dos o más personas se conciertan para ejecutar un delito y deciden llevarlo a cabo. La proposición consiste en invitar a otros después de haber resuelto cometerlo.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. Hay conspiración cuando dos o más personas se conciertan para ejecutar un delito y deciden llevarlo a cabo. La proposición consiste en invitar a otros después de haber resuelto cometerlo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q049": {
+   "acierto": "¡Diana normativa! Las instalaciones, redes y sistemas que sustentan servicios esenciales son infraestructuras estratégicas. Solo son críticas cuando su funcionamiento es indispensable y su perturbación tendría un impacto grave.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Las instalaciones, redes y sistemas que sustentan servicios esenciales son infraestructuras estratégicas. Solo son críticas cuando su funcionamiento es indispensable y su perturbación tendría un impacto grave.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q050": {
+   "acierto": "¡Cazaste la trampa! La suspensión de la obligación de cotizar para trabajadoras autónomas víctimas de violencia de género se establecía durante seis meses. Es una medida histórica que debe cotejarse con la regulación vigente.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. La suspensión de la obligación de cotizar para trabajadoras autónomas víctimas de violencia de género se establecía durante seis meses. Es una medida histórica que debe cotejarse con la regulación vigente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q051": {
+   "acierto": "¡Punto para la neurona de guardia! En la versión española de Word 2007/2010, Ctrl+E seleccionaba todo el contenido. El atajo depende del programa y del idioma; en muchas aplicaciones actuales se emplea Ctrl+A, por lo que la pregunta es tecnológica e históricamente dependiente.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. En la versión española de Word 2007/2010, Ctrl+E seleccionaba todo el contenido. El atajo depende del programa y del idioma; en muchas aplicaciones actuales se emplea Ctrl+A, por lo que la pregunta es tecnológica e históricamente dependiente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q052": {
+   "acierto": "¡Ni el distractor te vio venir! El artículo 68 establece que la circunscripción electoral es la provincia, que Ceuta y Melilla eligen un diputado cada una y que existe una representación mínima inicial por circunscripción.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El artículo 68 establece que la circunscripción electoral es la provincia, que Ceuta y Melilla eligen un diputado cada una y que existe una representación mínima inicial por circunscripción.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q053": {
+   "acierto": "¡Respuesta con placa y número! La teledetección activa emite radiación y capta su reflejo en la superficie. La pasiva registra energía natural emitida o reflejada sin generar la señal.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. La teledetección activa emite radiación y capta su reflejo en la superficie. La pasiva registra energía natural emitida o reflejada sin generar la señal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q054": {
+   "acierto": "¡Muy fino ese radar! La línea vertical intermitente donde aparecerá el texto escrito es el punto de inserción. Las barras de desplazamiento sirven para mover la vista del documento.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La línea vertical intermitente donde aparecerá el texto escrito es el punto de inserción. Las barras de desplazamiento sirven para mover la vista del documento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q055": {
+   "acierto": "¡Objetivo localizado! IKONOS fue un satélite comercial de observación de la Tierra promovido por iniciativa privada. Las otras denominaciones no corresponden a esa referencia.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. IKONOS fue un satélite comercial de observación de la Tierra promovido por iniciativa privada. Las otras denominaciones no corresponden a esa referencia.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q057": {
+   "acierto": "¡Diana normativa! La respuesta histórica usa cuatro fases de la transición de la movilidad de Zelinsky: inicial, inicio de la transición, conclusión de la transición y postransicional. Es una simplificación académica del modelo original y conviene aclararla.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. La respuesta histórica usa cuatro fases de la transición de la movilidad de Zelinsky: inicial, inicio de la transición, conclusión de la transición y postransicional. Es una simplificación académica del modelo original y conviene aclararla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q058": {
+   "acierto": "¡Cazaste la trampa! En Word, F7 inicia la revisión ortográfica y gramatical. F8 amplía una selección y F9 actualiza campos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. En Word, F7 inicia la revisión ortográfica y gramatical. F8 amplía una selección y F9 actualiza campos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q059": {
+   "acierto": "¡Punto para la neurona de guardia! El modelo tridimensional de Rosenberg y Hovland distingue componentes afectivo, cognitivo y conductual de la actitud.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. El modelo tridimensional de Rosenberg y Hovland distingue componentes afectivo, cognitivo y conductual de la actitud.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q060": {
+   "acierto": "¡Ni el distractor te vio venir! El cierre de puestos fronterizos puede acordarse, entre otros motivos, por defensa nacional, seguridad del Estado o protección de la salud y seguridad ciudadanas. La autoridad y el procedimiento han cambiado, por lo que la pregunta es histórica.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. El cierre de puestos fronterizos puede acordarse, entre otros motivos, por defensa nacional, seguridad del Estado o protección de la salud y seguridad ciudadanas. La autoridad y el procedimiento han cambiado, por lo que la pregunta es histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q063": {
+   "acierto": "¡Objetivo localizado! La respuesta histórica exige residencia continuada como titular de tarjeta azul-UE y que los dos años inmediatamente anteriores a la solicitud se hayan residido en España. La regulación europea ha sido reformada y debe actualizarse.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La respuesta histórica exige residencia continuada como titular de tarjeta azul-UE y que los dos años inmediatamente anteriores a la solicitud se hayan residido en España. La regulación europea ha sido reformada y debe actualizarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q064": {
+   "acierto": "¡La memoria estaba de servicio! El procedimiento disciplinario se inicia siempre de oficio por el órgano competente, por iniciativa propia, orden superior, moción razonada o denuncia. Un proceso penal no impide necesariamente incoar el disciplinario.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. El procedimiento disciplinario se inicia siempre de oficio por el órgano competente, por iniciativa propia, orden superior, moción razonada o denuncia. Un proceso penal no impide necesariamente incoar el disciplinario.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q065": {
+   "acierto": "¡Diana normativa! El delegado o subdelegado del Gobierno resolvía la propuesta sobre el periodo de restablecimiento y reflexión en un plazo máximo de cinco días.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El delegado o subdelegado del Gobierno resolvía la propuesta sobre el periodo de restablecimiento y reflexión en un plazo máximo de cinco días.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q066": {
+   "acierto": "¡Cazaste la trampa! En la percusión anular, la aguja golpea el anillo periférico del culote, donde se encuentra el fulminante. Golpear el centro corresponde a la percusión central.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. En la percusión anular, la aguja golpea el anillo periférico del culote, donde se encuentra el fulminante. Golpear el centro corresponde a la percusión central.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q067": {
+   "acierto": "¡Punto para la neurona de guardia! La geografía de la población estudia la distribución espacial de los grupos humanos y la evolución de los fenómenos demográficos.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La geografía de la población estudia la distribución espacial de los grupos humanos y la evolución de los fenómenos demográficos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q068": {
+   "acierto": "¡Ni el distractor te vio venir! Con la redacción histórica del EBEP, la vacante ocupada por un interino debía incluirse en la oferta del ejercicio del nombramiento o, si no era posible, en la del siguiente. La norma ha sido reformada y la pregunta está obsoleta.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. Con la redacción histórica del EBEP, la vacante ocupada por un interino debía incluirse en la oferta del ejercicio del nombramiento o, si no era posible, en la del siguiente. La norma ha sido reformada y la pregunta está obsoleta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q069": {
+   "acierto": "¡Respuesta con placa y número! Los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o de origen sefardí pueden solicitar la nacionalidad por residencia tras dos años.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o de origen sefardí pueden solicitar la nacionalidad por residencia tras dos años.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q070": {
+   "acierto": "¡Muy fino ese radar! Merton incluye conformidad, innovación, ritualismo, retraimiento y rebelión como formas de adaptación a la tensión entre metas culturales y medios institucionales.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Merton incluye conformidad, innovación, ritualismo, retraimiento y rebelión como formas de adaptación a la tensión entre metas culturales y medios institucionales.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q072": {
+   "acierto": "¡La memoria estaba de servicio! En el procedimiento ordinario de expulsión, el plazo de salida voluntaria oscila entre siete y treinta días.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. En el procedimiento ordinario de expulsión, el plazo de salida voluntaria oscila entre siete y treinta días.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q073": {
+   "acierto": "¡Diana normativa! La respuesta histórica era que el mandato de los jueces del TEDH terminaba al alcanzar los 70 años. El Protocolo n.º 15 sustituyó esa regla por un límite de edad para ser candidato, por lo que la pregunta está obsoleta.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. La respuesta histórica era que el mandato de los jueces del TEDH terminaba al alcanzar los 70 años. El Protocolo n.º 15 sustituyó esa regla por un límite de edad para ser candidato, por lo que la pregunta está obsoleta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q074": {
+   "acierto": "¡Cazaste la trampa! El incumplimiento de medidas impuestas por seguridad pública, presentación periódica o alejamiento es uno de los supuestos graves que permiten tramitar el procedimiento preferente.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. El incumplimiento de medidas impuestas por seguridad pública, presentación periódica o alejamiento es uno de los supuestos graves que permiten tramitar el procedimiento preferente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q075": {
+   "acierto": "¡Punto para la neurona de guardia! Un script kiddie utiliza herramientas y programas creados por otros sin poseer conocimientos avanzados y suele buscar notoriedad con objetivos poco seleccionados.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Un script kiddie utiliza herramientas y programas creados por otros sin poseer conocimientos avanzados y suele buscar notoriedad con objetivos poco seleccionados.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q076": {
+   "acierto": "¡Ni el distractor te vio venir! La opción de Word se denomina «Control de líneas viudas y huérfanas» y evita que una línea aislada de un párrafo quede al principio o al final de una página.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La opción de Word se denomina «Control de líneas viudas y huérfanas» y evita que una línea aislada de un párrafo quede al principio o al final de una página.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q077": {
+   "acierto": "¡Respuesta con placa y número! Quien recibe un visado o autorización para permanecer más de seis meses debe solicitar personalmente la TIE en el plazo de un mes desde la entrada o concesión, salvo las excepciones previstas.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Quien recibe un visado o autorización para permanecer más de seis meses debe solicitar personalmente la TIE en el plazo de un mes desde la entrada o concesión, salvo las excepciones previstas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p35-a-q078": {
+   "acierto": "¡Muy fino ese radar! El Foro Social Mundial celebró su primera edición en Porto Alegre en 2001 como espacio alternativo al Foro Económico Mundial.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. El Foro Social Mundial celebró su primera edición en Porto Alegre en 2001 como espacio alternativo al Foro Económico Mundial.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q079": {
+   "acierto": "¡Objetivo localizado! La respuesta histórica es servicios especiales para quien accede a la condición de miembro de una asamblea legislativa autonómica. La situación puede depender de dedicación y retribución, por lo que el enunciado es demasiado categórico.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La respuesta histórica es servicios especiales para quien accede a la condición de miembro de una asamblea legislativa autonómica. La situación puede depender de dedicación y retribución, por lo que el enunciado es demasiado categórico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q080": {
+   "acierto": "¡La memoria estaba de servicio! La contratación de trabajadores extranjeros sin la autorización previa de residencia y trabajo constituye infracción muy grave cuando no es delito.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. La contratación de trabajadores extranjeros sin la autorización previa de residencia y trabajo constituye infracción muy grave cuando no es delito.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q081": {
+   "acierto": "¡Diana normativa! El mayor de catorce años capaz de prestar la declaración por sí debe jurar o prometer fidelidad al Rey y obediencia a la Constitución y a las leyes.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. El mayor de catorce años capaz de prestar la declaración por sí debe jurar o prometer fidelidad al Rey y obediencia a la Constitución y a las leyes.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q082": {
+   "acierto": "¡Cazaste la trampa! Google+ no era un navegador, sino una red social de Google, clausurada para consumidores en 2019. Brave y Samsung Internet sí son navegadores; la pregunta ha quedado anticuada.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. Google+ no era un navegador, sino una red social de Google, clausurada para consumidores en 2019. Brave y Samsung Internet sí son navegadores; la pregunta ha quedado anticuada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q083": {
+   "acierto": "¡Punto para la neurona de guardia! Las armas de aire u otro gas comprimido cuya energía en boca excedía de 24,2 julios pertenecían a la 3.ª categoría. La clasificación reglamentaria debe cotejarse con el texto vigente.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Las armas de aire u otro gas comprimido cuya energía en boca excedía de 24,2 julios pertenecían a la 3.ª categoría. La clasificación reglamentaria debe cotejarse con el texto vigente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q084": {
+   "acierto": "¡Ni el distractor te vio venir! El Foro Social Mundial surgió como contrapunto al neoliberalismo representado por el Foro Económico Mundial de Davos. Nació en 2001, no en 2002.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. El Foro Social Mundial surgió como contrapunto al neoliberalismo representado por el Foro Económico Mundial de Davos. Nació en 2001, no en 2002.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q085": {
+   "acierto": "¡Respuesta con placa y número! Los gadgets eran miniprogramas que permanecían en el escritorio y aportaban funciones concretas. Microsoft los retiró por problemas de seguridad, por lo que la pregunta solo tiene valor histórico.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Los gadgets eran miniprogramas que permanecían en el escritorio y aportaban funciones concretas. Microsoft los retiró por problemas de seguridad, por lo que la pregunta solo tiene valor histórico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q086": {
+   "acierto": "¡Muy fino ese radar! Los extranjeros que se encuentran en España tienen derecho a asistencia jurídica gratuita en las mismas condiciones que los españoles, con independencia de la regularidad de su entrada.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. Los extranjeros que se encuentran en España tienen derecho a asistencia jurídica gratuita en las mismas condiciones que los españoles, con independencia de la regularidad de su entrada.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q088": {
+   "acierto": "¡La memoria estaba de servicio! Un hub repite la misma señal hacia sus distintos puertos. Un router conecta redes y una LAN es un tipo de red, no un dispositivo.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Un hub repite la misma señal hacia sus distintos puertos. Un router conecta redes y una LAN es un tipo de red, no un dispositivo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q089": {
+   "acierto": "¡Diana normativa! La plantilla histórica señalaba como piezas fundamentales de las armas cortas el armazón, el cilindro o cerrojo, el cañón y el mecanismo de cierre. La normativa y la terminología de componentes esenciales han cambiado y deben actualizarse.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. La plantilla histórica señalaba como piezas fundamentales de las armas cortas el armazón, el cilindro o cerrojo, el cañón y el mecanismo de cierre. La normativa y la terminología de componentes esenciales han cambiado y deben actualizarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q090": {
+   "acierto": "¡Cazaste la trampa! Las armas blancas y, en general, las de hoja cortante o punzante no prohibidas pertenecen a la 5.ª categoría.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. Las armas blancas y, en general, las de hoja cortante o punzante no prohibidas pertenecen a la 5.ª categoría.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q091": {
+   "acierto": "¡Punto para la neurona de guardia! SATA es la interfaz utilizada para conectar internamente unidades de almacenamiento. SVGA es un estándar de vídeo y «PCET» no es ese conector.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. SATA es la interfaz utilizada para conectar internamente unidades de almacenamiento. SVGA es un estándar de vídeo y «PCET» no es ese conector.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q092": {
+   "acierto": "¡Ni el distractor te vio venir! Es incorrecto afirmar que ser personal eventual pueda constituir mérito para acceder a la función pública o promocionar internamente. Su nombramiento y cese son libres y sus funciones son de confianza o asesoramiento.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. Es incorrecto afirmar que ser personal eventual pueda constituir mérito para acceder a la función pública o promocionar internamente. Su nombramiento y cese son libres y sus funciones son de confianza o asesoramiento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q095": {
+   "acierto": "¡Objetivo localizado! El artículo 9.3 garantiza legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. El artículo 9.3 garantiza legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q096": {
+   "acierto": "¡La memoria estaba de servicio! La fase convencional suele caracterizar el pensamiento de adolescentes y de muchos adultos, orientado por normas y expectativas sociales. Las descripciones de las fases preconvencional y postconvencional están intercambiadas.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. La fase convencional suele caracterizar el pensamiento de adolescentes y de muchos adultos, orientado por normas y expectativas sociales. Las descripciones de las fases preconvencional y postconvencional están intercambiadas.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p35-a-q097": {
+   "acierto": "¡Diana normativa! El phishing busca obtener información personal mediante correos fraudulentos o páginas web falsas. La estafa específica por SMS se denomina smishing.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El phishing busca obtener información personal mediante correos fraudulentos o páginas web falsas. La estafa específica por SMS se denomina smishing.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q098": {
+   "acierto": "¡Cazaste la trampa! Los tribunales de excepción están prohibidos por el artículo 117.6 de la Constitución. No pueden crearse ni siquiera para asuntos excepcionales o secretos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Los tribunales de excepción están prohibidos por el artículo 117.6 de la Constitución. No pueden crearse ni siquiera para asuntos excepcionales o secretos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p35-a-q100": {
+   "acierto": "¡Ni el distractor te vio venir! La desobediencia a órdenes o instrucciones legítimas de superiores o responsables del servicio constituye falta grave, salvo que la orden infrinja manifiestamente el ordenamiento jurídico.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. La desobediencia a órdenes o instrucciones legítimas de superiores o responsables del servicio constituye falta grave, salvo que la orden infrinja manifiestamente el ordenamiento jurídico.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   }
  },
- "con_acierto_y_fallo": 200,
- "solo_explicacion_desde_hechos": 138,
+ "con_acierto_y_fallo": 300,
+ "solo_explicacion_desde_hechos": 125,
  "esquema": {
-  "acierto": "Texto que lee el alumno cuando responde bien. Solo en las revisadas por el autor.",
-  "fallo": "Texto que lee cuando se equivoca. Solo en las revisadas por el autor.",
-  "explicacion": "Explicación única derivada de un hecho atómico del temario. En las no revisadas."
+  "acierto": "Texto cuando el alumno responde bien. Solo en las revisadas por el autor.",
+  "fallo": "Texto cuando se equivoca. Solo en las revisadas por el autor.",
+  "explicacion": "Explicación única derivada de un hecho atómico del temario."
  }
 }
