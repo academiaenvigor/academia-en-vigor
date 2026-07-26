@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 600,
+  "quarantined_questions": 500,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -195,37 +195,50 @@
       "P33-XXXIII",
       "P34-XXXIV",
       "P35-XXXV",
-      "P36-XXXVI"
+      "P36-XXXVI",
+      "P37-XXXVII"
     ],
-    "questions_reviewed": 400,
-    "answers_corrected_vs_proposal": 22,
+    "questions_reviewed": 500,
+    "answers_corrected_vs_proposal": 40,
     "annulled": 1,
     "por_examen": {
       "P33-XXXIII": {
         "revisadas": 100,
         "correcciones": 7,
-        "sin_propuesta_previa": 66,
-        "anuladas": 0
+        "sobre_propuestas": 34,
+        "anuladas": 0,
+        "tasa_error_fuente": 20.6
       },
       "P34-XXXIV": {
         "revisadas": 100,
         "correcciones": 0,
-        "sin_propuesta_previa": 0,
-        "anuladas": 0
+        "sobre_propuestas": 100,
+        "anuladas": 0,
+        "tasa_error_fuente": 0.0
       },
       "P35-XXXV": {
         "revisadas": 100,
         "correcciones": 8,
-        "sin_propuesta_previa": 41,
-        "anuladas": 0
+        "sobre_propuestas": 59,
+        "anuladas": 0,
+        "tasa_error_fuente": 13.6
       },
       "P36-XXXVI": {
         "revisadas": 100,
         "correcciones": 7,
-        "sin_propuesta_previa": 34,
-        "anuladas": 1
+        "sobre_propuestas": 66,
+        "anuladas": 1,
+        "tasa_error_fuente": 10.6
+      },
+      "P37-XXXVII": {
+        "revisadas": 100,
+        "correcciones": 18,
+        "sobre_propuestas": 76,
+        "anuladas": 0,
+        "tasa_error_fuente": 23.7
       }
     },
-    "note": "Revisados por el autor. Las anuladas quedan registradas pero se excluyen de la generación de tests."
+    "tasa_error_fuente_secundaria": 11.9,
+    "note": "Revisados por el autor. Las anuladas se excluyen de la generación de tests."
   }
 }
