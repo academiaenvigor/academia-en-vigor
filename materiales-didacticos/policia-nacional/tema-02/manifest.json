@@ -216,7 +216,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Elaboración, estructura y caracteres",
-      "filename": "T02-P1-PRESENTACION-elaboracion-estructura-y-caracteres.pdf",
+      "filename": "T02-P1-PRES-elaboracion-estructura-y-caracteres.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -343,7 +343,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Valores y principios del régimen constitucional",
-      "filename": "T02-P2-PRESENTACION-valores-y-principios-del-regimen-constitucional.pdf",
+      "filename": "T02-P2-PRES-valores-y-principios-del-regimen-constitucional.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -462,7 +462,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Estructura del Título I y titulares",
-      "filename": "T02-P3-PRESENTACION-estructura-del-titulo-i-y-titulares.pdf",
+      "filename": "T02-P3-PRES-estructura-del-titulo-i-y-titulares.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -581,7 +581,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Derechos fundamentales y libertades públicas",
-      "filename": "T02-P4-PRESENTACION-derechos-fundamentales-y-libertades-publicas.pdf",
+      "filename": "T02-P4-PRES-derechos-fundamentales-y-libertades-publicas.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -707,7 +707,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Derechos de los ciudadanos y principios rectores",
-      "filename": "T02-P5-PRESENTACION-derechos-de-los-ciudadanos-y-principios-rectores.pdf",
+      "filename": "T02-P5-PRES-derechos-de-los-ciudadanos-y-principios-rectores.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -841,7 +841,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · Garantías y suspensión de derechos",
-      "filename": "T02-P6-PRESENTACION-garantias-y-suspension-de-derechos.pdf",
+      "filename": "T02-P6-PRES-garantias-y-suspension-de-derechos.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -968,7 +968,7 @@
       "tool": "notebooklm",
       "duration_seconds": null,
       "title": "Presentacion · El Defensor del Pueblo",
-      "filename": "T02-P7-PRESENTACION-el-defensor-del-pueblo.pdf",
+      "filename": "T02-P7-PRES-el-defensor-del-pueblo.pdf",
       "mime_type": "application/pdf",
       "storage": {
         "type": "external",
@@ -1009,5 +1009,9 @@
         "url": ""
       }
     }
-  ]
+  ],
+  "nomenclature": {
+    "presentation_tag": "PRES",
+    "note": "Etiqueta unificada en PRES para los cuatro temas. El Tema 2 usaba PRESENTACION hasta el 26-07-2026."
+  }
 }
