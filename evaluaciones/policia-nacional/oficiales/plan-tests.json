@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "oposicion": "policia-nacional",
   "generated_at": "2026-07-26",
   "id": "test-oficiales-pn",
@@ -10,13 +10,14 @@
     100
   ],
   "universo_total": 1000,
-  "universo_utilizable": 662,
-  "regla_universo": "Solo entran preguntas con respuesta propuesta. Sin respuesta no se puede corregir.",
+  "universo_utilizable": 999,
+  "regla_universo": "Entran todas las preguntas con respuesta verificada. Se excluyen las anuladas por el tribunal.",
+  "estado_revision": "completa · los diez exámenes revisados por el autor",
   "modos": [
     {
       "id": "aleatorio_general",
-      "descripcion": "Muestreo aleatorio sobre todas las utilizables.",
-      "disponibles": 662
+      "descripcion": "Muestreo aleatorio sobre las 999 utilizables.",
+      "disponibles": 999
     },
     {
       "id": "por_promocion",
@@ -36,24 +37,40 @@
     },
     {
       "id": "por_tema",
-      "descripcion": "Solo preguntas mapeadas a un tema.",
+      "descripcion": "Solo preguntas mapeadas a un tema del temario.",
       "disponibles_por_tema": {
-        "pn-t01": 35,
-        "pn-t03": 80,
-        "pn-t04": 39,
-        "pn-t02": 21
+        "pn-t01": 46,
+        "pn-t03": 105,
+        "pn-t04": 54,
+        "pn-t02": 27
       }
     },
     {
       "id": "por_bloque",
-      "descripcion": "Solo preguntas mapeadas a un bloque concreto de un tema.",
-      "nota": "Requiere indice-oficiales.json del tema."
+      "descripcion": "Preguntas mapeadas a un bloque concreto. Requiere indice-oficiales.json del tema."
     }
   ],
-  "aviso_al_alumno": "Las respuestas proceden de fuentes secundarias y no de la plantilla oficial definitiva. Pueden contener errores y no constituyen corrección oficial.",
+  "simulacro": {
+    "ritmo_oficial_segundos_por_pregunta": 30,
+    "modos": [
+      "practica",
+      "relajado",
+      "estricto"
+    ],
+    "nota": "100 preguntas en 50 minutos, 50 en 25 minutos."
+  },
+  "retroalimentacion": {
+    "fuente": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+    "ramas": [
+      "acierto",
+      "fallo"
+    ],
+    "cobertura": 1000
+  },
+  "aviso_al_alumno": "Respuestas verificadas por la academia. No proceden de la plantilla oficial definitiva publicada por la Administración.",
   "correccion": {
     "formato": "3 opciones",
-    "respuesta": "proposed_answer_option_id",
-    "sin_respuesta": "excluir"
+    "respuesta": "answer.verified_option_id",
+    "excluir": "preguntas con answer.annulled true"
   }
 }

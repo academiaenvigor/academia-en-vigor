@@ -10,8 +10,8 @@
   "question_count": 1000,
   "proposed_answers": 662,
   "official_final_answers": 0,
-  "verified_questions": 0,
-  "quarantined_questions": 100,
+  "verified_questions": 999,
+  "quarantined_questions": 0,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -200,11 +200,12 @@
       "P38-XXXVIII",
       "P39-XXXIX",
       "P40-XL",
-      "P41-XLI"
+      "P41-XLI",
+      "P42-XLII"
     ],
-    "questions_reviewed": 900,
-    "answers_corrected_vs_proposal": 64,
-    "answers_created_from_scratch": 314,
+    "questions_reviewed": 1000,
+    "answers_corrected_vs_proposal": 74,
+    "answers_created_from_scratch": 338,
     "por_examen": {
       "P33-XXXIII": {
         "revisadas": 100,
@@ -277,9 +278,20 @@
         "desde_cero": 13,
         "anuladas": 0,
         "tasa_error_fuente": 14.9
+      },
+      "P42-XLII": {
+        "revisadas": 100,
+        "correcciones": 10,
+        "sobre_propuestas": 76,
+        "desde_cero": 24,
+        "anuladas": 0,
+        "tasa_error_fuente": 13.2
       }
     },
-    "tasa_error_fuente_secundaria": 10.9,
-    "annulled": 1
-  }
+    "tasa_error_fuente_secundaria": 11.2,
+    "annulled": 1,
+    "estado": "revision_completa",
+    "note": "Los diez exámenes revisados. Todas las preguntas tienen respuesta verificada y retroalimentación."
+  },
+  "usable_for_tests": 999
 }
