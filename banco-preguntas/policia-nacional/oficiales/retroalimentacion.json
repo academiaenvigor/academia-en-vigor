@@ -3,7 +3,7 @@
  "oposicion": "policia-nacional",
  "generated_at": "2026-07-26",
  "origen": "Enlace automático de cada pregunta oficial con el hecho atómico verificado de su bloque.",
- "total": 264,
+ "total": 338,
  "coherentes_con_respuesta_propuesta": 140,
  "advertencia": "Las entradas con origen revision_autor tienen respuesta verificada por el autor. El resto sigue apoyándose en propuestas de fuente secundaria.",
  "retroalimentacion": {
@@ -140,7 +140,12 @@
    "explicacion": "La posesión y utilización continuada de la nacionalidad española durante diez años, con buena fe y basada en un título inscrito en el Registro Civil, consolida la nacionalidad aunque se anule el título que la originó.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 17,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! El artículo 18 del Código Civil exige posesión y utilización continuada durante diez años, buena fe y un título inscrito; la nacionalidad se consolida aunque después se anule ese título.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. El artículo 18 del Código Civil exige posesión y utilización continuada durante diez años, buena fe y un título inscrito; la nacionalidad se consolida aunque después se anule ese título.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q004": {
    "fact_id": "PN-T01-F187",
@@ -149,7 +154,12 @@
    "explicacion": "El hijo puede optar, desde que cumple catorce años y hasta que transcurra un año después de su emancipación, por la vecindad civil del lugar de su nacimiento o por la última vecindad de cualquiera de sus progenitores.",
    "fuente": "CC-VECINDAD",
    "solidez": 6,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Ni el distractor te vio venir! La respuesta histórica es la B. Desde los catorce años se puede optar por determinadas vecindades civiles y, si el menor no está emancipado, necesita asistencia de su representante legal. La opción B es verdadera, pero la regla legal es más amplia y la pregunta está formulada de manera incompleta.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. La respuesta histórica es la B. Desde los catorce años se puede optar por determinadas vecindades civiles y, si el menor no está emancipado, necesita asistencia de su representante legal. La opción B es verdadera, pero la regla legal es más amplia y la pregunta está formulada de manera incompleta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q007": {
    "fact_id": "PN-T03-F229",
@@ -158,7 +168,12 @@
    "explicacion": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros.",
    "fuente": "CE-RELACIONES",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! El estado de alarma lo declara el Gobierno por un máximo inicial de quince días y debe dar cuenta al Congreso de los Diputados. «Cortes Generales» no sustituye al órgano citado literalmente por la Constitución.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. El estado de alarma lo declara el Gobierno por un máximo inicial de quince días y debe dar cuenta al Congreso de los Diputados. «Cortes Generales» no sustituye al órgano citado literalmente por la Constitución.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p34-a-q008": {
    "fact_id": "PN-T03-F133",
@@ -167,7 +182,12 @@
    "explicacion": "El decreto-ley no puede afectar a instituciones básicas del Estado, derechos del Título I, régimen autonómico ni derecho electoral general.",
    "fuente": "CE-CORTES",
    "solidez": 2,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡La memoria estaba de servicio! El Defensor del Pueblo se regula por ley orgánica como alto comisionado de las Cortes Generales para proteger los derechos del Título I y supervisar la Administración.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. El Defensor del Pueblo se regula por ley orgánica como alto comisionado de las Cortes Generales para proteger los derechos del Título I y supervisar la Administración.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p34-a-q009": {
    "fact_id": "PN-T03-F440",
@@ -176,7 +196,12 @@
    "explicacion": "Están legitimados el Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y órganos autonómicos en su ámbito.",
    "fuente": "CE-TC",
    "solidez": 2,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Diana normativa! El nombramiento del Defensor del Pueblo se acredita conjuntamente con las firmas de las presidencias del Congreso y del Senado y se publica en el BOE.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. El nombramiento del Defensor del Pueblo se acredita conjuntamente con las firmas de las presidencias del Congreso y del Senado y se publica en el BOE.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q010": {
    "fact_id": "PN-T03-F317",
@@ -185,7 +210,12 @@
    "explicacion": "La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 7,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! La reforma de un Estatuto de Autonomía sigue el procedimiento previsto en él y requiere, en todo caso, aprobación de las Cortes Generales mediante ley orgánica.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. La reforma de un Estatuto de Autonomía sigue el procedimiento previsto en él y requiere, en todo caso, aprobación de las Cortes Generales mediante ley orgánica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q013": {
    "fact_id": "PN-T03-F022",
@@ -194,7 +224,12 @@
    "explicacion": "La Reina consorte o el consorte de la Reina no puede asumir funciones constitucionales, salvo lo dispuesto para la Regencia.",
    "fuente": "CE-CORONA",
    "solidez": 8,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! El artículo 58 de la Constitución impide que la reina consorte o el consorte de la reina asuman funciones constitucionales, salvo lo dispuesto para la Regencia.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. El artículo 58 de la Constitución impide que la reina consorte o el consorte de la reina asuman funciones constitucionales, salvo lo dispuesto para la Regencia.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q014": {
    "fact_id": "PN-T03-F068",
@@ -203,7 +238,12 @@
    "explicacion": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.",
    "fuente": "CE-CORTES",
    "solidez": 7,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! El Congreso electo debe ser convocado dentro de los veinticinco días siguientes a las elecciones, conforme al artículo 68.6 de la Constitución.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. El Congreso electo debe ser convocado dentro de los veinticinco días siguientes a las elecciones, conforme al artículo 68.6 de la Constitución.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q015": {
    "fact_id": "PN-T03-F047",
@@ -212,7 +252,12 @@
    "explicacion": "El Rey ejerce el derecho de gracia con arreglo a la ley, que no puede autorizar indultos generales.",
    "fuente": "CE-CORONA",
    "solidez": 7,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! La afirmación incorrecta es que el Rey pueda autorizar indultos generales: el artículo 62.i de la Constitución los prohíbe expresamente. Sí ejerce el derecho de gracia con arreglo a la ley.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La afirmación incorrecta es que el Rey pueda autorizar indultos generales: el artículo 62.i de la Constitución los prohíbe expresamente. Sí ejerce el derecho de gracia con arreglo a la ley.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q019": {
    "fact_id": "PN-T03-F225",
@@ -221,7 +266,12 @@
    "explicacion": "No puede proponerse la disolución mientras esté en trámite una moción de censura.",
    "fuente": "CE-RELACIONES",
    "solidez": 4,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Punto para la neurona de guardia! No puede presentarse una propuesta de disolución del Congreso, Senado o Cortes Generales mientras esté en trámite una moción de censura. La iniciativa corresponde al presidente del Gobierno previa deliberación del Consejo de Ministros.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. No puede presentarse una propuesta de disolución del Congreso, Senado o Cortes Generales mientras esté en trámite una moción de censura. La iniciativa corresponde al presidente del Gobierno previa deliberación del Consejo de Ministros.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q021": {
    "fact_id": "PN-T03-F154",
@@ -230,7 +280,12 @@
    "explicacion": "El referéndum consultivo es convocado por el Rey a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso.",
    "fuente": "CE-CORTES",
    "solidez": 7,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! El referéndum lo convoca el Rey a propuesta del presidente del Gobierno, previamente autorizado por el Congreso de los Diputados.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. El referéndum lo convoca el Rey a propuesta del presidente del Gobierno, previamente autorizado por el Congreso de los Diputados.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q022": {
    "fact_id": "PN-T04-F313",
@@ -239,7 +294,12 @@
    "explicacion": "Cada Estado miembro debe designar una unidad nacional de Europol, que actúa como órgano de enlace entre Europol y las autoridades nacionales competentes.",
    "fuente": "COOP-EUROPOL",
    "solidez": 3,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Muy fino ese radar! La Célula de Coordinación de Emergencias se encuadraba en EUROJUST conforme al marco europeo vigente en 2017. Es una pregunta orgánica histórica que debe actualizarse antes de reutilizarla.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. La Célula de Coordinación de Emergencias se encuadraba en EUROJUST conforme al marco europeo vigente en 2017. Es una pregunta orgánica histórica que debe actualizarse antes de reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q029": {
    "fact_id": "PN-T03-F101",
@@ -248,7 +308,12 @@
    "explicacion": "Congreso y Senado, conjuntamente o por separado, pueden nombrar comisiones de investigación sobre asuntos de interés público.",
    "fuente": "CE-CORTES",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! Personal laboral es quien presta servicios retribuidos a una Administración en virtud de contrato de trabajo escrito. Las otras opciones describen interinos y personal eventual.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Personal laboral es quien presta servicios retribuidos a una Administración en virtud de contrato de trabajo escrito. Las otras opciones describen interinos y personal eventual.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p34-a-q034": {
    "fact_id": "PN-T04-F313",
@@ -257,7 +322,12 @@
    "explicacion": "Cada Estado miembro debe designar una unidad nacional de Europol, que actúa como órgano de enlace entre Europol y las autoridades nacionales competentes.",
    "fuente": "COOP-EUROPOL",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Cazaste la trampa! La respuesta histórica es la Unidad Central de Fronteras (UCF), que coordinaba entradas, salidas y puestos fronterizos. Se ha corregido la sigla errónea «UCP» del documento original.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. La respuesta histórica es la Unidad Central de Fronteras (UCF), que coordinaba entradas, salidas y puestos fronterizos. Se ha corregido la sigla errónea «UCP» del documento original.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p34-a-q043": {
    "fact_id": "PN-T02-F081",
@@ -266,7 +336,12 @@
    "explicacion": "Toda persona tiene derecho a la libertad y a la seguridad.",
    "fuente": "CE-T02",
    "solidez": 1,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Punto para la neurona de guardia! No presentarse cuando se ordena ante una alteración grave de la seguridad ciudadana constituye falta grave; el funcionario debía ponerse a disposición de su dependencia o de la más próxima.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. No presentarse cuando se ordena ante una alteración grave de la seguridad ciudadana constituye falta grave; el funcionario debía ponerse a disposición de su dependencia o de la más próxima.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q054": {
    "fact_id": "PN-T01-F153",
@@ -275,7 +350,12 @@
    "explicacion": "Basta un año de residencia para quien haya nacido en territorio español, no haya ejercitado oportunamente la opción, haya estado dos años consecutivos bajo tutela, curatela representativa plena, guarda o acogimiento de ciudadano o institución españoles, lleve un año casado con español sin separación legal ni de hecho, sea viudo de español sin separación al fallecimiento, o haya nacido fuera de España de padre, madre, abuelo o abuela originariamente españoles.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 6,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! El derecho de residencia permanente de ciudadanos del EEE se pierde, como regla general, por ausencia de España durante más de dos años consecutivos.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. El derecho de residencia permanente de ciudadanos del EEE se pierde, como regla general, por ausencia de España durante más de dos años consecutivos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q056": {
    "fact_id": "PN-T01-F144",
@@ -284,7 +364,12 @@
    "explicacion": "La carta de naturaleza se otorga discrecionalmente mediante Real Decreto cuando en el interesado concurran circunstancias excepcionales.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡La memoria estaba de servicio! Las tarjetas de armas de 4.ª categoría tienen validez limitada al término municipal que las expide.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Las tarjetas de armas de 4.ª categoría tienen validez limitada al término municipal que las expide.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q057": {
    "fact_id": "PN-T02-F088",
@@ -293,7 +378,12 @@
    "explicacion": "Los españoles pueden elegir residencia, circular por el territorio y entrar y salir de España en los términos legales.",
    "fuente": "CE-T02",
    "solidez": 5,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Diana normativa! Las medidas limitativas de circulación y residencia para extranjeros en situación regular pueden acordarse en los estados de excepción o de sitio, no por la mera declaración del estado de alarma.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Las medidas limitativas de circulación y residencia para extranjeros en situación regular pueden acordarse en los estados de excepción o de sitio, no por la mera declaración del estado de alarma.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q061": {
    "fact_id": "PN-T04-F273",
@@ -302,7 +392,12 @@
    "explicacion": "Los accionistas del Banco Europeo de Inversiones son los Estados miembros de la Unión Europea.",
    "fuente": "UE-ORGANOS",
    "solidez": 3,
-   "coherente_con_respuesta": false
+   "coherente_con_respuesta": false,
+   "acierto": "¡Respuesta con placa y número! En el supuesto de evacuación, la protección temporal se declaraba por acuerdo del Consejo de Ministros a propuesta del ministro de Asuntos Exteriores. Es una regulación histórica que debe revisarse antes de reutilizarla.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. En el supuesto de evacuación, la protección temporal se declaraba por acuerdo del Consejo de Ministros a propuesta del ministro de Asuntos Exteriores. Es una regulación histórica que debe revisarse antes de reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q063": {
    "fact_id": "PN-T03-F288",
@@ -311,7 +406,12 @@
    "explicacion": "La garantía de equilibrio territorial debe atender en particular a las circunstancias del hecho insular.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Objetivo localizado! El menor no acompañado solicitante de protección internacional se remite a los servicios de protección de menores y el hecho se comunica al Ministerio Fiscal.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. El menor no acompañado solicitante de protección internacional se remite a los servicios de protección de menores y el hecho se comunica al Ministerio Fiscal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q065": {
    "fact_id": "PN-T01-F156",
@@ -320,7 +420,12 @@
    "explicacion": "Casarse con una persona española no concede automáticamente la nacionalidad: reduce a un año el plazo de residencia cuando se cumplen las demás condiciones.",
    "fuente": "CC-NACIONALIDAD",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Diana normativa! El estatuto de apátrida cesa automáticamente cuando la persona obtiene la nacionalidad española, pues deja de carecer de nacionalidad.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. El estatuto de apátrida cesa automáticamente cuando la persona obtiene la nacionalidad española, pues deja de carecer de nacionalidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q078": {
    "fact_id": "PN-T04-F043",
@@ -329,7 +434,12 @@
    "explicacion": "Tras la retirada del Reino Unido, la Unión Europea está integrada por veintisiete Estados miembros.",
    "fuente": "UE-AMPLIACION",
    "solidez": 3,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! Las condenas firmes dictadas en otros Estados de la Unión Europea pueden producir reincidencia, salvo que el antecedente se haya cancelado o pudiera cancelarse conforme al Derecho español.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. Las condenas firmes dictadas en otros Estados de la Unión Europea pueden producir reincidencia, salvo que el antecedente se haya cancelado o pudiera cancelarse conforme al Derecho español.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
   },
   "of-pn-p34-a-q084": {
    "fact_id": "PN-T02-F085",
@@ -338,7 +448,12 @@
    "explicacion": "La ley regula un procedimiento de habeas corpus para la inmediata puesta a disposición judicial del detenido ilegalmente.",
    "fuente": "CE-T02",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Ni el distractor te vio venir! Contra la resolución que pone fin al procedimiento de habeas corpus no cabe recurso ordinario, sin perjuicio de las vías constitucionales que puedan proceder.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. Contra la resolución que pone fin al procedimiento de habeas corpus no cabe recurso ordinario, sin perjuicio de las vías constitucionales que puedan proceder.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q085": {
    "fact_id": "PN-T03-F103",
@@ -347,7 +462,12 @@
    "explicacion": "El resultado de una investigación parlamentaria puede comunicarse al Ministerio Fiscal para el ejercicio de acciones oportunas.",
    "fuente": "CE-CORTES",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Respuesta con placa y número! Los miembros del Ministerio Fiscal pueden actuar y constituirse en cualquier punto del territorio de su propia Fiscalía.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. Los miembros del Ministerio Fiscal pueden actuar y constituirse en cualquier punto del territorio de su propia Fiscalía.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   },
   "of-pn-p34-a-q086": {
    "fact_id": "PN-T03-F184",
@@ -356,7 +476,12 @@
    "explicacion": "La responsabilidad criminal del Presidente y ministros se exige ante la Sala de lo Penal del Tribunal Supremo.",
    "fuente": "CE-GOBIERNO",
    "solidez": 1,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Muy fino ese radar! La legitimación incluía a las asociaciones cuyo objetivo único fuera la defensa de los intereses de la mujer. Se ha corregido la cita: es la Ley 34/1988, no la inexistente referencia «34/1998» usada en el documento.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La legitimación incluía a las asociaciones cuyo objetivo único fuera la defensa de los intereses de la mujer. Se ha corregido la cita: es la Ley 34/1988, no la inexistente referencia «34/1998» usada en el documento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p34-a-q089": {
    "fact_id": "PN-T03-F339",
@@ -365,7 +490,12 @@
    "explicacion": "Las comunidades autónomas pueden asumir competencias sobre vigilancia y protección de edificios e instalaciones y coordinación y otras facultades sobre policías locales conforme a ley orgánica.",
    "fuente": "CE-TERRITORIAL",
    "solidez": 2,
-   "coherente_con_respuesta": true
+   "coherente_con_respuesta": true,
+   "acierto": "¡Diana normativa! En 2017 la regla general era la orden de protección y, excepcionalmente, el informe del Ministerio Fiscal con indicios. La acreditación de la violencia de género ha sido ampliada por reformas posteriores; la pregunta es histórica.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. En 2017 la regla general era la orden de protección y, excepcionalmente, el informe del Ministerio Fiscal con indicios. La acreditación de la violencia de género ha sido ampliada por reformas posteriores; la pregunta es histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
   },
   "of-pn-p35-a-q007": {
    "fact_id": "PN-T02-F085",
@@ -2245,10 +2375,528 @@
    "origen": "revision_autor",
    "revisado_en": "2026-07-26",
    "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q001": {
+   "acierto": "¡Diana normativa! Windows 10 muestra por defecto los archivos visibles y oculta los marcados como ocultos, aunque el usuario puede habilitar su visualización. Es una pregunta ligada a una versión antigua del sistema.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Windows 10 muestra por defecto los archivos visibles y oculta los marcados como ocultos, aunque el usuario puede habilitar su visualización. Es una pregunta ligada a una versión antigua del sistema.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q003": {
+   "acierto": "¡Punto para la neurona de guardia! El derecho subjetivo es la facultad o poder que una norma reconoce a una persona frente a otras. El derecho objetivo es el conjunto de normas y el positivo es el vigente.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. El derecho subjetivo es la facultad o poder que una norma reconoce a una persona frente a otras. El derecho objetivo es el conjunto de normas y el positivo es el vigente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q005": {
+   "acierto": "¡Respuesta con placa y número! Las protestas contra la Ronda del Milenio de la OMC se concentraron en Seattle en 1999. Porto Alegre se vincula al Foro Social Mundial y París no es el hito preguntado.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la A. Las protestas contra la Ronda del Milenio de la OMC se concentraron en Seattle en 1999. Porto Alegre se vincula al Foro Social Mundial y París no es el hito preguntado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q006": {
+   "acierto": "¡Muy fino ese radar! La ALU realiza operaciones aritméticas y lógicas y forma parte de la CPU junto con la unidad de control y los registros internos.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la B. La ALU realiza operaciones aritméticas y lógicas y forma parte de la CPU junto con la unidad de control y los registros internos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q011": {
+   "acierto": "¡Punto para la neurona de guardia! Para aplicar diseños de página distintos en Word hay que separar las páginas mediante secciones y configurar cada sección. Un simple salto de página no permite cambiar todas las propiedades de diseño.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Para aplicar diseños de página distintos en Word hay que separar las páginas mediante secciones y configurar cada sección. Un simple salto de página no permite cambiar todas las propiedades de diseño.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q012": {
+   "acierto": "¡Ni el distractor te vio venir! El artículo 3 de la Declaración Universal reconoce el derecho a la vida, la libertad y la seguridad personal. La esclavitud aparece en el artículo 4 y la tortura en el 5.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. El artículo 3 de la Declaración Universal reconoce el derecho a la vida, la libertad y la seguridad personal. La esclavitud aparece en el artículo 4 y la tortura en el 5.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q016": {
+   "acierto": "¡La memoria estaba de servicio! El comando ping utiliza ICMP para enviar mensajes de eco y comprobar alcance y respuesta. RIP es un protocolo de encaminamiento e IGMP gestiona grupos multicast.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. El comando ping utiliza ICMP para enviar mensajes de eco y comprobar alcance y respuesta. RIP es un protocolo de encaminamiento e IGMP gestiona grupos multicast.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q017": {
+   "acierto": "¡Diana normativa! El artículo 120.2 de la Constitución dispone que el procedimiento será predominantemente oral, sobre todo en materia criminal.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. El artículo 120.2 de la Constitución dispone que el procedimiento será predominantemente oral, sobre todo en materia criminal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q018": {
+   "acierto": "¡Cazaste la trampa! Marc Prensky denomina inmigrantes digitales a quienes nacieron antes de la expansión de la tecnología digital y después adoptaron sus herramientas y hábitos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Marc Prensky denomina inmigrantes digitales a quienes nacieron antes de la expansión de la tecnología digital y después adoptaron sus herramientas y hábitos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q020": {
+   "acierto": "¡Ni el distractor te vio venir! La respuesta histórica esperada es Safari. Sin embargo, Safari nació para Mac OS X y llegó después a iPhone OS/iOS; decir que fue desarrollado «en principio» para iOS es inexacto. Esta pregunta no debe reutilizarse con esa redacción.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. La respuesta histórica esperada es Safari. Sin embargo, Safari nació para Mac OS X y llegó después a iPhone OS/iOS; decir que fue desarrollado «en principio» para iOS es inexacto. Esta pregunta no debe reutilizarse con esa redacción.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q023": {
+   "acierto": "¡Objetivo localizado! Pueden existir ministros sin cartera y su ámbito competencial, estructura y medios se determinan mediante real decreto.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. Pueden existir ministros sin cartera y su ámbito competencial, estructura y medios se determinan mediante real decreto.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q024": {
+   "acierto": "¡La memoria estaba de servicio! Una arquitectura de red se define esencialmente por la topología, el método de acceso al medio y los protocolos de comunicación.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Una arquitectura de red se define esencialmente por la topología, el método de acceso al medio y los protocolos de comunicación.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q025": {
+   "acierto": "¡Diana normativa! Rokeach empleó «dogmatismo» para describir una organización cognitiva cerrada, rígida y apoyada en convicciones absolutas que favorece la intolerancia.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. Rokeach empleó «dogmatismo» para describir una organización cognitiva cerrada, rígida y apoyada en convicciones absolutas que favorece la intolerancia.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q026": {
+   "acierto": "¡Cazaste la trampa! Los secretarios generales técnicos tienen, a todos los efectos, categoría de director general.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. Los secretarios generales técnicos tienen, a todos los efectos, categoría de director general.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q027": {
+   "acierto": "¡Punto para la neurona de guardia! La opción incorrecta es el límite de un año: los programas temporales podían durar hasta tres años, ampliables hasta doce meses por las leyes de función pública. Los plazos de interinos han sufrido reformas y conviene revisar el texto vigente al reutilizarla.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La opción incorrecta es el límite de un año: los programas temporales podían durar hasta tres años, ampliables hasta doce meses por las leyes de función pública. Los plazos de interinos han sufrido reformas y conviene revisar el texto vigente al reutilizarla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q028": {
+   "acierto": "¡Ni el distractor te vio venir! La respuesta histórica es la investigación del terrorismo y de formas graves de delincuencia organizada, excluida del régimen ordinario de la antigua LO 15/1999. Esa ley fue sustituida por la LO 3/2018 y el RGPD, por lo que la pregunta está obsoleta.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. La respuesta histórica es la investigación del terrorismo y de formas graves de delincuencia organizada, excluida del régimen ordinario de la antigua LO 15/1999. Esa ley fue sustituida por la LO 3/2018 y el RGPD, por lo que la pregunta está obsoleta.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q030": {
+   "acierto": "¡Muy fino ese radar! En el organigrama de 2017, la Dirección General de Relaciones Internacionales y Extranjería no dependía de la Subsecretaría del Interior. Es una pregunta de estructura administrativa histórica, no válida para memorizar el organigrama actual.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. En el organigrama de 2017, la Dirección General de Relaciones Internacionales y Extranjería no dependía de la Subsecretaría del Interior. Es una pregunta de estructura administrativa histórica, no válida para memorizar el organigrama actual.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q031": {
+   "acierto": "¡Objetivo localizado! Kohlberg organiza el desarrollo moral en tres niveles —preconvencional, convencional y posconvencional— con dos estadios en cada uno.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Kohlberg organiza el desarrollo moral en tres niveles —preconvencional, convencional y posconvencional— con dos estadios en cada uno.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q032": {
+   "acierto": "¡La memoria estaba de servicio! Una VPN crea un túnel protegido y, en el enfoque del examen, los datagramas se transmiten cifrados. Un simple hash aportaría integridad, no confidencialidad.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Una VPN crea un túnel protegido y, en el enfoque del examen, los datagramas se transmiten cifrados. Un simple hash aportaría integridad, no confidencialidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q033": {
+   "acierto": "¡Diana normativa! En la estructura examinada, el CEISE se integraba en la Subdirección General de Prevención, Planificación y Emergencias. El organigrama es histórico y debe actualizarse.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. En la estructura examinada, el CEISE se integraba en la Subdirección General de Prevención, Planificación y Emergencias. El organigrama es histórico y debe actualizarse.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q035": {
+   "acierto": "¡Punto para la neurona de guardia! La Sección de Acústica Forense se integraba en la Unidad Central de Criminalística junto con otras especialidades periciales. La estructura orgánica debe tratarse como histórica.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. La Sección de Acústica Forense se integraba en la Unidad Central de Criminalística junto con otras especialidades periciales. La estructura orgánica debe tratarse como histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q036": {
+   "acierto": "¡Ni el distractor te vio venir! La plantilla marcó la opción A, pero el enunciado es impreciso: el pharming manipula DNS o la resolución de nombres para redirigir a una web falsa, mientras la opción describe de forma más general la suplantación propia del phishing. Conviene reescribirla.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. La plantilla marcó la opción A, pero el enunciado es impreciso: el pharming manipula DNS o la resolución de nombres para redirigir a una web falsa, mientras la opción describe de forma más general la suplantación propia del phishing. Conviene reescribirla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q037": {
+   "acierto": "¡Respuesta con placa y número! Por una falta grave puede imponerse suspensión de funciones. La separación del servicio corresponde a faltas muy graves y el traslado forzoso no es la sanción aplicable aquí.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. Por una falta grave puede imponerse suspensión de funciones. La separación del servicio corresponde a faltas muy graves y el traslado forzoso no es la sanción aplicable aquí.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q038": {
+   "acierto": "¡Muy fino ese radar! En 2017 el Observatorio Permanente de la Inmigración dependía del Ministerio de Empleo y Seguridad Social. La dependencia ministerial ha cambiado y la pregunta es puramente histórica.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. En 2017 el Observatorio Permanente de la Inmigración dependía del Ministerio de Empleo y Seguridad Social. La dependencia ministerial ha cambiado y la pregunta es puramente histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q039": {
+   "acierto": "¡Objetivo localizado! La plantilla de 2017 consideró a las UPR como unidad especializada en seguridad ciudadana. La clasificación y el organigrama policial deben actualizarse antes de incorporar la pregunta a un banco vigente.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. La plantilla de 2017 consideró a las UPR como unidad especializada en seguridad ciudadana. La clasificación y el organigrama policial deben actualizarse antes de incorporar la pregunta a un banco vigente.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q040": {
+   "acierto": "¡La memoria estaba de servicio! El Consejo Asesor de Medio Ambiente es el órgano colegiado de participación y seguimiento de las políticas generales orientadas al desarrollo sostenible.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. El Consejo Asesor de Medio Ambiente es el órgano colegiado de participación y seguimiento de las políticas generales orientadas al desarrollo sostenible.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q041": {
+   "acierto": "¡Diana normativa! En la estructura de 2017, el seguimiento y análisis correspondía al Gabinete de Estudios de la Unidad Central de Atención a la Familia y Mujer. Es una atribución orgánica histórica.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la A. En la estructura de 2017, el seguimiento y análisis correspondía al Gabinete de Estudios de la Unidad Central de Atención a la Familia y Mujer. Es una atribución orgánica histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q042": {
+   "acierto": "¡Cazaste la trampa! El Instituto de Estudios de la Policía dependía del Centro de Altos Estudios Policiales dentro de la División de Formación y Perfeccionamiento. La estructura puede haber variado.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. El Instituto de Estudios de la Policía dependía del Centro de Altos Estudios Policiales dentro de la División de Formación y Perfeccionamiento. La estructura puede haber variado.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q044": {
+   "acierto": "¡Ni el distractor te vio venir! GLONASS fue desarrollado por la Unión Soviética y actualmente es administrado por Rusia; es el equivalente ruso de GPS y Galileo.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. GLONASS fue desarrollado por la Unión Soviética y actualmente es administrado por Rusia; es el equivalente ruso de GPS y Galileo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q045": {
+   "acierto": "¡Respuesta con placa y número! El Foro para la Integración Social de los Inmigrantes es el órgano de consulta, información y asesoramiento previsto en la legislación de extranjería.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. El Foro para la Integración Social de los Inmigrantes es el órgano de consulta, información y asesoramiento previsto en la legislación de extranjería.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q046": {
+   "acierto": "¡Muy fino ese radar! La Policía Nacional ejerce DNI y pasaportes, control de fronteras, lucha contra la droga y competencias de extranjería, asilo y extradición. Armas y explosivos y la conducción interurbana de presos corresponden a la Guardia Civil.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La Policía Nacional ejerce DNI y pasaportes, control de fronteras, lucha contra la droga y competencias de extranjería, asilo y extradición. Armas y explosivos y la conducción interurbana de presos corresponden a la Guardia Civil.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q047": {
+   "acierto": "¡Objetivo localizado! La aprobación de los planes de coordinación en seguridad e infraestructura policial corresponde al Consejo de Política de Seguridad.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. La aprobación de los planes de coordinación en seguridad e infraestructura policial corresponde al Consejo de Política de Seguridad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q048": {
+   "acierto": "¡La memoria estaba de servicio! El radiómetro es un sensor pasivo que capta y mide energía electromagnética radiante emitida por los objetos; no emite una señal activa para medir distancias.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la A. El radiómetro es un sensor pasivo que capta y mide energía electromagnética radiante emitida por los objetos; no emite una señal activa para medir distancias.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q049": {
+   "acierto": "¡Diana normativa! La Mesa Electoral Única del Consejo de Policía se constituía en Madrid el decimocuarto día siguiente al de la convocatoria.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. La Mesa Electoral Única del Consejo de Policía se constituía en Madrid el decimocuarto día siguiente al de la convocatoria.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q050": {
+   "acierto": "¡Cazaste la trampa! La denominación histórica era visado de investigación, destinado a proyectos realizados mediante convenio de acogida con un organismo investigador. La normativa migratoria ha cambiado y exige actualización.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. La denominación histórica era visado de investigación, destinado a proyectos realizados mediante convenio de acogida con un organismo investigador. La normativa migratoria ha cambiado y exige actualización.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q051": {
+   "acierto": "¡Punto para la neurona de guardia! La Ley 4/1989 clasificaba estos espacios en parques, reservas naturales, monumentos naturales y paisajes protegidos. Esa ley fue derogada por la Ley 42/2007, por lo que la pregunta solo sirve como referencia histórica.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la A. La Ley 4/1989 clasificaba estos espacios en parques, reservas naturales, monumentos naturales y paisajes protegidos. Esa ley fue derogada por la Ley 42/2007, por lo que la pregunta solo sirve como referencia histórica.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q052": {
+   "acierto": "¡Ni el distractor te vio venir! En el régimen de drones utilizado por el examen, superar 25 kg obligaba a inscripción registral y certificado de aeronavegabilidad. La normativa europea y española actual es distinta; no debe reutilizarse sin rehacerla.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la B. En el régimen de drones utilizado por el examen, superar 25 kg obligaba a inscripción registral y certificado de aeronavegabilidad. La normativa europea y española actual es distinta; no debe reutilizarse sin rehacerla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q053": {
+   "acierto": "¡Respuesta con placa y número! La Oficina de Extranjería era el órgano competente para tramitar la prórroga del visado de estancia de corta duración.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. La Oficina de Extranjería era el órgano competente para tramitar la prórroga del visado de estancia de corta duración.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q055": {
+   "acierto": "¡Objetivo localizado! La residencia temporal autoriza a permanecer en España más de noventa días y menos de cinco años.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La residencia temporal autoriza a permanecer en España más de noventa días y menos de cinco años.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q058": {
+   "acierto": "¡Cazaste la trampa! Las infracciones de extranjería prescriben a los tres años las muy graves, dos años las graves y seis meses las leves.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. Las infracciones de extranjería prescriben a los tres años las muy graves, dos años las graves y seis meses las leves.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q059": {
+   "acierto": "¡Punto para la neurona de guardia! En la tramitación ordinaria de expulsión, el plazo de salida voluntaria se sitúa entre siete y treinta días.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. En la tramitación ordinaria de expulsión, el plazo de salida voluntaria se sitúa entre siete y treinta días.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q060": {
+   "acierto": "¡Ni el distractor te vio venir! Un arma de fuego corta es aquella cuyo cañón no excede de 30 cm o cuya longitud total no supera 60 cm.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. Un arma de fuego corta es aquella cuyo cañón no excede de 30 cm o cuya longitud total no supera 60 cm.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q062": {
+   "acierto": "¡Muy fino ese radar! Homer Hoyt propuso el modelo sectorial: la ciudad crece desde el centro en sectores o cuñas asociados a diferentes usos.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la C. Homer Hoyt propuso el modelo sectorial: la ciudad crece desde el centro en sectores o cuñas asociados a diferentes usos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q064": {
+   "acierto": "¡La memoria estaba de servicio! Una persona ajena a la Policía podía conducir un vehículo oficial con autorización expresa y nominal del Director General de la Policía, delegada en el área competente. El antiguo permiso BTP ya no existe.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. Una persona ajena a la Policía podía conducir un vehículo oficial con autorización expresa y nominal del Director General de la Policía, delegada en el área competente. El antiguo permiso BTP ya no existe.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q066": {
+   "acierto": "¡Cazaste la trampa! Non-refoulement prohíbe expulsar o devolver a un refugiado a un territorio donde peligren su vida o libertad por los motivos protegidos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Non-refoulement prohíbe expulsar o devolver a un refugiado a un territorio donde peligren su vida o libertad por los motivos protegidos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q067": {
+   "acierto": "¡Punto para la neurona de guardia! La denegación exige razones fundadas de peligro para la seguridad de España o una condena firme por delito grave que convierta a la persona en amenaza para la comunidad.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. La denegación exige razones fundadas de peligro para la seguridad de España o una condena firme por delito grave que convierta a la persona en amenaza para la comunidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q068": {
+   "acierto": "¡Ni el distractor te vio venir! El control de estabilidad es seguridad activa porque ayuda a evitar el accidente. Neck-brace y chaqueta airbag reducen daños y son seguridad pasiva.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. El control de estabilidad es seguridad activa porque ayuda a evitar el accidente. Neck-brace y chaqueta airbag reducen daños y son seguridad pasiva.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q069": {
+   "acierto": "¡Respuesta con placa y número! Las imágenes y sonidos obtenidos por detectives privados deben destruirse a los tres años, salvo relación con un procedimiento judicial, investigación policial o expediente sancionador.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. Las imágenes y sonidos obtenidos por detectives privados deben destruirse a los tres años, salvo relación con un procedimiento judicial, investigación policial o expediente sancionador.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q070": {
+   "acierto": "¡Muy fino ese radar! La sinecología estudia comunidades biológicas y sus relaciones con los ecosistemas; la etología estudia el comportamiento animal.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. La sinecología estudia comunidades biológicas y sus relaciones con los ecosistemas; la etología estudia el comportamiento animal.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q071": {
+   "acierto": "¡Objetivo localizado! Uno de los fines expresos de la Ley 5/2014 es contribuir a la seguridad pública, prevenir infracciones y aportar información a procedimientos vinculados con sus actuaciones.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la C. Uno de los fines expresos de la Ley 5/2014 es contribuir a la seguridad pública, prevenir infracciones y aportar información a procedimientos vinculados con sus actuaciones.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q072": {
+   "acierto": "¡La memoria estaba de servicio! El chaleco reflectante de alta visibilidad de los agentes debe ser visible a una distancia mínima de 150 metros.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. El chaleco reflectante de alta visibilidad de los agentes debe ser visible a una distancia mínima de 150 metros.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q073": {
+   "acierto": "¡Diana normativa! El Catálogo Nacional de Infraestructuras Estratégicas tiene la clasificación de SECRETO conforme a la normativa de secretos oficiales.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. El Catálogo Nacional de Infraestructuras Estratégicas tiene la clasificación de SECRETO conforme a la normativa de secretos oficiales.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q074": {
+   "acierto": "¡Cazaste la trampa! Los operadores críticos deben elaborar un Plan de Protección Específico para cada infraestructura crítica que gestionen.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. Los operadores críticos deben elaborar un Plan de Protección Específico para cada infraestructura crítica que gestionen.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q075": {
+   "acierto": "¡Punto para la neurona de guardia! La conurbación surge cuando núcleos urbanos inicialmente independientes crecen hasta unirse y funcionar como una unidad.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. La conurbación surge cuando núcleos urbanos inicialmente independientes crecen hasta unirse y funcionar como una unidad.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q076": {
+   "acierto": "¡Ni el distractor te vio venir! El parentesco es una circunstancia mixta: puede atenuar o agravar según la naturaleza, los motivos y los efectos del delito.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la A. El parentesco es una circunstancia mixta: puede atenuar o agravar según la naturaleza, los motivos y los efectos del delito.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q077": {
+   "acierto": "¡Respuesta con placa y número! El plano ortogonal presenta calles rectas que se cortan perpendicularmente y forman una cuadrícula.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la B. El plano ortogonal presenta calles rectas que se cortan perpendicularmente y forman una cuadrícula.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q079": {
+   "acierto": "¡Objetivo localizado! La plantilla considera correcta la cuota diaria de 50 euros para una persona jurídica porque está dentro del intervalo legal de 30 a 5.000 euros. La pregunta es débil: cualquier cifra dentro del rango sería verdadera y debería preguntarse por los límites.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la B. La plantilla considera correcta la cuota diaria de 50 euros para una persona jurídica porque está dentro del intervalo legal de 30 a 5.000 euros. La pregunta es débil: cualquier cifra dentro del rango sería verdadera y debería preguntarse por los límites.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q080": {
+   "acierto": "¡La memoria estaba de servicio! Hay alevosía cuando, en un delito contra las personas, se emplean medios que aseguran la ejecución eliminando el riesgo procedente de la defensa del ofendido. Aumentar el sufrimiento describe ensañamiento.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la B. Hay alevosía cuando, en un delito contra las personas, se emplean medios que aseguran la ejecución eliminando el riesgo procedente de la defensa del ofendido. Aumentar el sufrimiento describe ensañamiento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q081": {
+   "acierto": "¡Diana normativa! La privación del derecho a residir o acudir a determinados lugares por más de cinco años es pena grave, no menos grave. Las inhabilitaciones especiales hasta cinco años y las multas de más de tres meses sí son menos graves.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la B. La privación del derecho a residir o acudir a determinados lugares por más de cinco años es pena grave, no menos grave. Las inhabilitaciones especiales hasta cinco años y las multas de más de tres meses sí son menos graves.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q082": {
+   "acierto": "¡Cazaste la trampa! El teodolito mide ángulos horizontales y verticales y permite trabajos de dirección y nivelación. El planímetro mide áreas y el azimut es un ángulo, no un instrumento.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la A. El teodolito mide ángulos horizontales y verticales y permite trabajos de dirección y nivelación. El planímetro mide áreas y el azimut es un ángulo, no un instrumento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q083": {
+   "acierto": "¡Punto para la neurona de guardia! Adolphe Quételet formuló las llamadas leyes térmicas de la delincuencia al relacionar estadísticamente ciertos delitos con estaciones y clima.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. Adolphe Quételet formuló las llamadas leyes térmicas de la delincuencia al relacionar estadísticamente ciertos delitos con estaciones y clima.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q087": {
+   "acierto": "¡Objetivo localizado! Los fondos propios aparecen tradicionalmente en el lado de financiación del balance. Técnicamente, el Plan General de Contabilidad actual separa «patrimonio neto» y «pasivo», por lo que la redacción es contablemente imprecisa.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. Los fondos propios aparecen tradicionalmente en el lado de financiación del balance. Técnicamente, el Plan General de Contabilidad actual separa «patrimonio neto» y «pasivo», por lo que la redacción es contablemente imprecisa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q088": {
+   "acierto": "¡La memoria estaba de servicio! El tercer nivel de Maslow es afiliación o pertenencia, después de las necesidades fisiológicas y de seguridad y antes del reconocimiento.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. El tercer nivel de Maslow es afiliación o pertenencia, después de las necesidades fisiológicas y de seguridad y antes del reconocimiento.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q090": {
+   "acierto": "¡Cazaste la trampa! El derecho se extendía a los causahabientes cuando fallecía la víctima, siempre que no hubieran participado en los hechos.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la C. El derecho se extendía a los causahabientes cuando fallecía la víctima, siempre que no hubieran participado en los hechos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q091": {
+   "acierto": "¡Punto para la neurona de guardia! La respuesta histórica es la B porque la fórmula legal de garantías destacaba información, asistencia social integral y asistencia jurídica; la opción añade una categoría distinta. La redacción es confusa y no debería reutilizarse sin reformularla.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la B. La respuesta histórica es la B porque la fórmula legal de garantías destacaba información, asistencia social integral y asistencia jurídica; la opción añade una categoría distinta. La redacción es confusa y no debería reutilizarse sin reformularla.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q092": {
+   "acierto": "¡Ni el distractor te vio venir! La psilocibina y el LSD son alucinógenos, pues alteran intensamente la percepción, la cognición y la experiencia sensorial.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. La psilocibina y el LSD son alucinógenos, pues alteran intensamente la percepción, la cognición y la experiencia sensorial.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q093": {
+   "acierto": "¡Respuesta con placa y número! El mol es la unidad básica del Sistema Internacional para cantidad de sustancia. Kelvin mide temperatura y candela intensidad luminosa.",
+   "fallo": "¡Falsa alarma en la central! La correcta es la C. El mol es la unidad básica del Sistema Internacional para cantidad de sustancia. Kelvin mide temperatura y candela intensidad luminosa.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q094": {
+   "acierto": "¡Muy fino ese radar! El anexo del RD 1299/2006 incluye agentes químicos, físicos, biológicos y carcinogénicos, entre otros grupos; no contempla una categoría de agentes transgénicos.",
+   "fallo": "¡Aquí el dato se dio a la fuga! La correcta es la A. El anexo del RD 1299/2006 incluye agentes químicos, físicos, biológicos y carcinogénicos, entre otros grupos; no contempla una categoría de agentes transgénicos.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q095": {
+   "acierto": "¡Objetivo localizado! Riesgo laboral grave e inminente es el que razonablemente puede materializarse en un futuro inmediato y causar un daño grave a la salud.",
+   "fallo": "¡El señuelo pidió identificación! La correcta es la A. Riesgo laboral grave e inminente es el que razonablemente puede materializarse en un futuro inmediato y causar un daño grave a la salud.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "A"
+  },
+  "of-pn-p34-a-q096": {
+   "acierto": "¡La memoria estaba de servicio! La Agencia Europea de Medio Ambiente tiene su sede en Copenhague y proporciona información para diseñar, ejecutar y evaluar políticas ambientales.",
+   "fallo": "¡Toca levantar acta del despiste! La correcta es la C. La Agencia Europea de Medio Ambiente tiene su sede en Copenhague y proporciona información para diseñar, ejecutar y evaluar políticas ambientales.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q097": {
+   "acierto": "¡Diana normativa! Los delegados de prevención de la Policía Nacional pueden estar en activo o en segunda actividad y son designados por organizaciones sindicales con representación en el Consejo de Policía.",
+   "fallo": "¡La trampa hizo horas extra! La correcta es la C. Los delegados de prevención de la Policía Nacional pueden estar en activo o en segunda actividad y son designados por organizaciones sindicales con representación en el Consejo de Policía.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q098": {
+   "acierto": "¡Cazaste la trampa! La respuesta histórica era el Instituto Nacional de Seguridad e Higiene en el Trabajo. Desde 2018 su denominación es Instituto Nacional de Seguridad y Salud en el Trabajo (INSST); la propia pregunta ya fue considerada impugnable en 2017 y no debe reutilizarse con el nombre antiguo.",
+   "fallo": "¡Ese distractor llevaba sirena! La correcta es la B. La respuesta histórica era el Instituto Nacional de Seguridad e Higiene en el Trabajo. Desde 2018 su denominación es Instituto Nacional de Seguridad y Salud en el Trabajo (INSST); la propia pregunta ya fue considerada impugnable en 2017 y no debe reutilizarse con el nombre antiguo.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "B"
+  },
+  "of-pn-p34-a-q099": {
+   "acierto": "¡Punto para la neurona de guardia! La energía de las olas es undimotriz. La mareomotriz aprovecha las mareas y la hidráulica el movimiento o desnivel del agua.",
+   "fallo": "¡Te hicieron un regate normativo! La correcta es la C. La energía de las olas es undimotriz. La mareomotriz aprovecha las mareas y la hidráulica el movimiento o desnivel del agua.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
+  },
+  "of-pn-p34-a-q100": {
+   "acierto": "¡Ni el distractor te vio venir! «Los límites del crecimiento» fue un informe encargado por el Club de Roma al MIT y publicado en 1972. La autoría académica corresponde al equipo de Donella Meadows, pero la respuesta histórica esperada es el Club de Roma.",
+   "fallo": "¡La opción mala venía disfrazada! La correcta es la C. «Los límites del crecimiento» fue un informe encargado por el Club de Roma al MIT y publicado en 1972. La autoría académica corresponde al equipo de Donella Meadows, pero la respuesta histórica esperada es el Club de Roma.",
+   "origen": "revision_autor",
+   "revisado_en": "2026-07-26",
+   "respuesta_verificada": "C"
   }
  },
- "con_acierto_y_fallo": 100,
- "solo_explicacion_desde_hechos": 164,
+ "con_acierto_y_fallo": 200,
+ "solo_explicacion_desde_hechos": 138,
  "esquema": {
   "acierto": "Texto que lee el alumno cuando responde bien. Solo en las revisadas por el autor.",
   "fallo": "Texto que lee cuando se equivoca. Solo en las revisadas por el autor.",

@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 900,
+  "quarantined_questions": 800,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -192,10 +192,21 @@
   "author_review": {
     "updated_at": "2026-07-26",
     "exams_reviewed": [
-      "P33-XXXIII"
+      "P33-XXXIII",
+      "P34-XXXIV"
     ],
-    "questions_reviewed": 100,
+    "questions_reviewed": 200,
     "answers_corrected_vs_proposal": 7,
-    "note": "Examen revisado por el autor: respuestas verificadas y retroalimentación de acierto y fallo. Liberado de cuarentena."
+    "note": "Examen revisado por el autor: respuestas verificadas y retroalimentación de acierto y fallo. Liberado de cuarentena.",
+    "por_examen": {
+      "P33-XXXIII": {
+        "revisadas": 100,
+        "correcciones": 7
+      },
+      "P34-XXXIV": {
+        "revisadas": 100,
+        "correcciones": 0
+      }
+    }
   }
 }
