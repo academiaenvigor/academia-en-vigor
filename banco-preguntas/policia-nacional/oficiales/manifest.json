@@ -11,7 +11,7 @@
   "proposed_answers": 662,
   "official_final_answers": 0,
   "verified_questions": 0,
-  "quarantined_questions": 700,
+  "quarantined_questions": 600,
   "mapped_questions_all_topics": 232,
   "canonical_id_pattern": "of-pn-p<promotion>-<model>-q<number>",
   "verification_policy": {
@@ -194,27 +194,38 @@
     "exams_reviewed": [
       "P33-XXXIII",
       "P34-XXXIV",
-      "P35-XXXV"
+      "P35-XXXV",
+      "P36-XXXVI"
     ],
-    "questions_reviewed": 300,
-    "answers_corrected_vs_proposal": 15,
+    "questions_reviewed": 400,
+    "answers_corrected_vs_proposal": 22,
+    "annulled": 1,
     "por_examen": {
       "P33-XXXIII": {
         "revisadas": 100,
         "correcciones": 7,
-        "sin_propuesta_previa": 66
+        "sin_propuesta_previa": 66,
+        "anuladas": 0
       },
       "P34-XXXIV": {
         "revisadas": 100,
         "correcciones": 0,
-        "sin_propuesta_previa": 0
+        "sin_propuesta_previa": 0,
+        "anuladas": 0
       },
       "P35-XXXV": {
         "revisadas": 100,
         "correcciones": 8,
-        "sin_propuesta_previa": 41
+        "sin_propuesta_previa": 41,
+        "anuladas": 0
+      },
+      "P36-XXXVI": {
+        "revisadas": 100,
+        "correcciones": 7,
+        "sin_propuesta_previa": 34,
+        "anuladas": 1
       }
     },
-    "note": "Exámenes revisados por el autor: respuesta verificada y retroalimentación de acierto y fallo. Liberados de cuarentena."
+    "note": "Revisados por el autor. Las anuladas quedan registradas pero se excluyen de la generación de tests."
   }
 }
