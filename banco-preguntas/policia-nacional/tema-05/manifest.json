@@ -150,5 +150,10 @@
     "bloques_totales": 35,
     "hechos_extraidos": 383,
     "enunciados_maestros": 390
-  }
+  },
+  "retroalimentacion": {
+    "feedback": "Compatibilidad: correcta/incorrecta con lead+explicacion (formato original de esta remesa).",
+    "retroalimentacion": "acierto y fallo, cada uno con humor y explicacion, añadido para unificar con los Temas 1, 2 y 4."
+  },
+  "fix_note": "27-07-2026: añadido el campo retroalimentacion (acierto/fallo, humor/explicacion) a las 657 preguntas para que el explorador las muestre igual que el resto de temas. El campo feedback original se conserva sin tocar."
 }
