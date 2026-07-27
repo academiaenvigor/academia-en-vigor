@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "1.0.1",
+  "opposition": "policia-nacional",
+  "topic_number": 6,
+  "topic_title": "Los funcionarios públicos: concepto y clases. Adquisición y pérdida de la condición de funcionario",
+  "id_prefix": "PN-T06",
+  "bank": "banco-preguntas/policia-nacional/tema-06/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-06/tests-generados",
+  "coverage_tests": {
+    "description": "Plan bloqueado hasta aprobación del temario",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y marco normativo"
+      },
+      {
+        "number": 2,
+        "title": "Empleado público: concepto y clasificación"
+      },
+      {
+        "number": 3,
+        "title": "Funcionarios de carrera"
+      },
+      {
+        "number": 4,
+        "title": "Funcionarios interinos: concepto y cuatro supuestos"
+      },
+      {
+        "number": 5,
+        "title": "Interinos: selección, cese y control de la temporalidad"
+      },
+      {
+        "number": 6,
+        "title": "Personal laboral"
+      },
+      {
+        "number": 7,
+        "title": "Personal eventual"
+      },
+      {
+        "number": 8,
+        "title": "Personal directivo profesional"
+      },
+      {
+        "number": 9,
+        "title": "Adquisición de la condición de funcionario de carrera: TREBEP"
+      },
+      {
+        "number": 10,
+        "title": "Adquisición y régimen específico en Policía Nacional"
+      },
+      {
+        "number": 11,
+        "title": "Causas de pérdida: regla general y Policía Nacional"
+      },
+      {
+        "number": 12,
+        "title": "Renuncia, nacionalidad e inhabilitación"
+      },
+      {
+        "number": 13,
+        "title": "Jubilación: régimen general y Policía Nacional"
+      },
+      {
+        "number": 14,
+        "title": "Rehabilitación y recuperación de la condición"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [],
+    "parts": []
+  },
+  "final_tests": [],
+  "status": "not_started_by_user_instruction"
+}

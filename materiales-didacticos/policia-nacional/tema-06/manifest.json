@@ -1,0 +1,98 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-06",
+  "content_version": "1.0.1",
+  "source_version": "1.0.1",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "NotebookLM exporta actualmente los audios con extensión .m4a.",
+  "storage_root": {
+    "provider": "google_drive",
+    "folder_id": "",
+    "folder_url": "",
+    "path": "ACADEMIA EN VIGOR / 01 TEMARIO / T06 - Los funcionarios públicos"
+  },
+  "categories": {
+    "audios": "Audios",
+    "videos": "Vídeos",
+    "presentaciones": "Presentaciones",
+    "infografias": "Infografías y resúmenes"
+  },
+  "scopes": {
+    "parte": "Material de una parte concreta",
+    "tema": "Material que cubre el tema entero"
+  },
+  "nomenclature": {
+    "presentation_tag": "PRES"
+  },
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Marco y clasificación de los empleados públicos",
+      "blocks": ["01", "02", "03"],
+      "anchor_blocks": ["01"]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Funcionarios interinos",
+      "blocks": ["04", "05"],
+      "anchor_blocks": ["04"]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Personal laboral, eventual y directivo",
+      "blocks": ["06", "07", "08"],
+      "anchor_blocks": ["06"]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Adquisición de la condición de funcionario",
+      "blocks": ["09", "10"],
+      "anchor_blocks": ["09"]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Pérdida, jubilación y rehabilitación",
+      "blocks": ["11", "12", "13", "14"],
+      "anchor_blocks": ["11"]
+    }
+  ],
+  "resources": [
+    {"id":"t06-p1-audio","category":"audios","scope":"parte","part_number":1,"blocks":["01","02","03"],"anchor_blocks":["01"],"title":"Audio · Marco y clasificación de los empleados públicos","filename":"T06-P1-AUDIO-marco-clasificacion.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p01/audio","drive_file_id":"","url":""}},
+    {"id":"t06-p1-video","category":"videos","scope":"parte","part_number":1,"blocks":["01","02","03"],"anchor_blocks":["01"],"title":"Vídeo · Marco y clasificación de los empleados públicos","filename":"T06-P1-VIDEO-marco-clasificacion.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p01/video","drive_file_id":"","url":""}},
+    {"id":"t06-p1-pres","category":"presentaciones","scope":"parte","part_number":1,"blocks":["01","02","03"],"anchor_blocks":["01"],"title":"Presentación · Marco y clasificación de los empleados públicos","filename":"T06-P1-PRES-marco-clasificacion.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p01/pres","drive_file_id":"","url":""}},
+    {"id":"t06-p1-resumen","category":"infografias","scope":"parte","part_number":1,"blocks":["01","02","03"],"anchor_blocks":["01"],"title":"Resumen visual · Marco y clasificación de los empleados públicos","filename":"T06-P1-RESUMEN-marco-clasificacion.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p01/resumen","drive_file_id":"","url":""}},
+
+    {"id":"t06-p2-audio","category":"audios","scope":"parte","part_number":2,"blocks":["04","05"],"anchor_blocks":["04"],"title":"Audio · Funcionarios interinos","filename":"T06-P2-AUDIO-funcionarios-interinos.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p02/audio","drive_file_id":"","url":""}},
+    {"id":"t06-p2-video","category":"videos","scope":"parte","part_number":2,"blocks":["04","05"],"anchor_blocks":["04"],"title":"Vídeo · Funcionarios interinos","filename":"T06-P2-VIDEO-funcionarios-interinos.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p02/video","drive_file_id":"","url":""}},
+    {"id":"t06-p2-pres","category":"presentaciones","scope":"parte","part_number":2,"blocks":["04","05"],"anchor_blocks":["04"],"title":"Presentación · Funcionarios interinos","filename":"T06-P2-PRES-funcionarios-interinos.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p02/pres","drive_file_id":"","url":""}},
+    {"id":"t06-p2-resumen","category":"infografias","scope":"parte","part_number":2,"blocks":["04","05"],"anchor_blocks":["04"],"title":"Resumen visual · Funcionarios interinos","filename":"T06-P2-RESUMEN-funcionarios-interinos.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p02/resumen","drive_file_id":"","url":""}},
+
+    {"id":"t06-p3-audio","category":"audios","scope":"parte","part_number":3,"blocks":["06","07","08"],"anchor_blocks":["06"],"title":"Audio · Personal laboral, eventual y directivo","filename":"T06-P3-AUDIO-laboral-eventual-directivo.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p03/audio","drive_file_id":"","url":""}},
+    {"id":"t06-p3-video","category":"videos","scope":"parte","part_number":3,"blocks":["06","07","08"],"anchor_blocks":["06"],"title":"Vídeo · Personal laboral, eventual y directivo","filename":"T06-P3-VIDEO-laboral-eventual-directivo.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p03/video","drive_file_id":"","url":""}},
+    {"id":"t06-p3-pres","category":"presentaciones","scope":"parte","part_number":3,"blocks":["06","07","08"],"anchor_blocks":["06"],"title":"Presentación · Personal laboral, eventual y directivo","filename":"T06-P3-PRES-laboral-eventual-directivo.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p03/pres","drive_file_id":"","url":""}},
+    {"id":"t06-p3-resumen","category":"infografias","scope":"parte","part_number":3,"blocks":["06","07","08"],"anchor_blocks":["06"],"title":"Resumen visual · Personal laboral, eventual y directivo","filename":"T06-P3-RESUMEN-laboral-eventual-directivo.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p03/resumen","drive_file_id":"","url":""}},
+
+    {"id":"t06-p4-audio","category":"audios","scope":"parte","part_number":4,"blocks":["09","10"],"anchor_blocks":["09"],"title":"Audio · Adquisición de la condición de funcionario","filename":"T06-P4-AUDIO-adquisicion-funcionario.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p04/audio","drive_file_id":"","url":""}},
+    {"id":"t06-p4-video","category":"videos","scope":"parte","part_number":4,"blocks":["09","10"],"anchor_blocks":["09"],"title":"Vídeo · Adquisición de la condición de funcionario","filename":"T06-P4-VIDEO-adquisicion-funcionario.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p04/video","drive_file_id":"","url":""}},
+    {"id":"t06-p4-pres","category":"presentaciones","scope":"parte","part_number":4,"blocks":["09","10"],"anchor_blocks":["09"],"title":"Presentación · Adquisición de la condición de funcionario","filename":"T06-P4-PRES-adquisicion-funcionario.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p04/pres","drive_file_id":"","url":""}},
+    {"id":"t06-p4-resumen","category":"infografias","scope":"parte","part_number":4,"blocks":["09","10"],"anchor_blocks":["09"],"title":"Resumen visual · Adquisición de la condición de funcionario","filename":"T06-P4-RESUMEN-adquisicion-funcionario.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p04/resumen","drive_file_id":"","url":""}},
+
+    {"id":"t06-p5-audio","category":"audios","scope":"parte","part_number":5,"blocks":["11","12","13","14"],"anchor_blocks":["11"],"title":"Audio · Pérdida, jubilación y rehabilitación","filename":"T06-P5-AUDIO-perdida-jubilacion-rehabilitacion.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p05/audio","drive_file_id":"","url":""}},
+    {"id":"t06-p5-video","category":"videos","scope":"parte","part_number":5,"blocks":["11","12","13","14"],"anchor_blocks":["11"],"title":"Vídeo · Pérdida, jubilación y rehabilitación","filename":"T06-P5-VIDEO-perdida-jubilacion-rehabilitacion.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p05/video","drive_file_id":"","url":""}},
+    {"id":"t06-p5-pres","category":"presentaciones","scope":"parte","part_number":5,"blocks":["11","12","13","14"],"anchor_blocks":["11"],"title":"Presentación · Pérdida, jubilación y rehabilitación","filename":"T06-P5-PRES-perdida-jubilacion-rehabilitacion.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p05/pres","drive_file_id":"","url":""}},
+    {"id":"t06-p5-resumen","category":"infografias","scope":"parte","part_number":5,"blocks":["11","12","13","14"],"anchor_blocks":["11"],"title":"Resumen visual · Pérdida, jubilación y rehabilitación","filename":"T06-P5-RESUMEN-perdida-jubilacion-rehabilitacion.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/p05/resumen","drive_file_id":"","url":""}},
+
+    {"id":"t06-todo-audio","category":"audios","scope":"tema","part_number":null,"blocks":["01","02","03","04","05","06","07","08","09","10","11","12","13","14"],"title":"Audio · Tema 6 completo","filename":"T06-TODO-AUDIO-funcionarios-publicos.m4a","mime_type":"audio/x-m4a","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/tema/audio","drive_file_id":"","url":""}},
+    {"id":"t06-todo-video","category":"videos","scope":"tema","part_number":null,"blocks":["01","02","03","04","05","06","07","08","09","10","11","12","13","14"],"title":"Vídeo · Tema 6 completo","filename":"T06-TODO-VIDEO-funcionarios-publicos.mp4","mime_type":"video/mp4","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/tema/video","drive_file_id":"","url":""}},
+    {"id":"t06-todo-pres","category":"presentaciones","scope":"tema","part_number":null,"blocks":["01","02","03","04","05","06","07","08","09","10","11","12","13","14"],"title":"Presentación · Tema 6 completo","filename":"T06-TODO-PRES-funcionarios-publicos.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/tema/pres","drive_file_id":"","url":""}},
+    {"id":"t06-todo-resumen","category":"infografias","scope":"tema","part_number":null,"blocks":["01","02","03","04","05","06","07","08","09","10","11","12","13","14"],"title":"Resumen visual · Tema 6 completo","filename":"T06-TODO-RESUMEN-funcionarios-publicos.pdf","mime_type":"application/pdf","file_size_bytes":null,"ownership":"own","status":"planned","source_content_version":"1.0.1","tool":"notebooklm","duration_seconds":null,"storage":{"type":"external","provider":"google_drive","asset_key":"pn/tema-06/tema/resumen","drive_file_id":"","url":""}}
+  ]
+}

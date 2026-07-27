@@ -1,6 +1,6 @@
 {
-  "catalog_version": "0.4.0",
-  "checked_at": "2026-07-23",
+  "catalog_version": "0.5.0",
+  "checked_at": "2026-07-27",
   "sources": [
     {
       "id": "CE-CORONA",
@@ -247,6 +247,42 @@
       "boe_id": "BOE-A-1981-10325",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325",
       "scope": "texto completo y Reglamento de Organización y Funcionamiento",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-T06",
+      "title": "Constitución Española: acceso y estatuto de los funcionarios",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "artículos 23.2, 103.3 y 104.2",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "TREBEP-T06",
+      "title": "Texto refundido del Estatuto Básico del Empleado Público",
+      "boe_id": "BOE-A-2015-11719",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+      "scope": "artículos 4, 7-13 y 62-68; disposición adicional decimoséptima",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LO9-2015-T06",
+      "title": "Ley Orgánica 9/2015, de Régimen de Personal de la Policía Nacional",
+      "boe_id": "BOE-A-2015-8468",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8468",
+      "scope": "artículos 1-6 y 26.1",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD2669-1998",
+      "title": "Procedimiento de rehabilitación de funcionarios en la AGE",
+      "boe_id": "BOE-A-1998-29722",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-29722",
+      "scope": "artículos 2-8",
       "official": true,
       "traceable": true
     }
