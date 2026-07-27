@@ -171,6 +171,8 @@ La **descentralización funcional** consiste en atribuir competencias a **entida
 
 La **jerarquía** es la estructura de mando vertical, y la **coordinación** busca la armonía entre órganos y evitar duplicidades.
 
+Además, el artículo 54.1 exige garantizar la **presencia equilibrada de mujeres y hombres** en los nombramientos y designaciones de titulares de órganos superiores y directivos y en el personal de alta dirección del sector público institucional estatal. Los artículos 55 bis y 84 bis concretan la regla: las personas de cada sexo no pueden superar el **60 %** ni quedar por debajo del **40 %** en sus respectivos ámbitos.
+
 :::perla-vigor
 **Descentralización cambia de persona jurídica; desconcentración se queda dentro.** Esa es toda la diferencia.
 :::
@@ -196,7 +198,7 @@ La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio.
 
 ## 07. Competencias residuales en materia de organización
 
-Cuando una competencia sobre **organización administrativa, régimen de personal, procedimientos o inspección de servicios** no está atribuida específicamente a nadie, se entiende atribuida al **ministerio competente en materia de función pública**. Es una cláusula de cierre: no deja huecos.
+Cuando una competencia sobre **organización administrativa, régimen de personal, procedimientos o inspección de servicios** no está atribuida específicamente **por una ley** a otro órgano de la AGE **ni al Gobierno**, se entiende atribuida al **ministerio competente en materia de función pública**. Es una cláusula de cierre: no deja huecos.
 
 A la fecha de esta versión ese ministerio es el **Ministerio para la Transformación Digital y de la Función Pública**. Las referencias que la Ley 40/2015 hace al antiguo *Ministerio de Hacienda y Administraciones Públicas* deben entenderse hechas al que tenga en cada momento la competencia: **función pública** para organización y personal, **hacienda** para lo presupuestario.
 
@@ -304,11 +306,13 @@ El Gobierno responde solidariamente ante el **Congreso de los Diputados**, no an
 
 ## 11. Composición del Gobierno
 
-Conforme al **artículo 98.1 CE** y al **artículo 1.2 LG**, el Gobierno se compone del **Presidente**, de los **Vicepresidentes en su caso**, de los **Ministros** y de los demás miembros que establezca la ley.
+Conforme al **artículo 98.1 CE**, el Gobierno se compone del **Presidente**, de los **Vicepresidentes en su caso**, de los **Ministros** y de los demás miembros que establezca la ley. El **artículo 1.2 LG** concreta actualmente la composición en Presidente, Vicepresidente o Vicepresidentes en su caso y Ministros.
 
 Dos precisiones que se preguntan mucho. Los **Vicepresidentes son potestativos**: puede haber uno, varios o ninguno. Y los **Secretarios de Estado no son miembros del Gobierno**, aunque sean órganos superiores.
 
-Sus miembros deben ser **españoles, mayores de edad**, con **derechos de sufragio activo y pasivo** y sin inhabilitación por sentencia firme. No pueden ejercer otras funciones representativas salvo el mandato parlamentario, ni actividad profesional o mercantil alguna.
+Sus miembros deben ser **españoles, mayores de edad**, con **derechos de sufragio activo y pasivo**, sin inhabilitación por sentencia firme y reunir los restantes requisitos de **idoneidad de la Ley 3/2015**. No pueden ejercer otras funciones representativas salvo el mandato parlamentario, ni actividad profesional o mercantil alguna.
+
+Desde 2024, el nombramiento conjunto de titulares de las **Vicepresidencias y los Ministerios** debe respetar la **presencia equilibrada**: cada sexo debe representar, como mínimo, el **40 %**.
 
 :::perla-vigor
 **Vicepresidentes «en su caso»** significa potestativos. Y los **Secretarios de Estado no son miembros del Gobierno**.
@@ -329,9 +333,9 @@ Un ministro **sí puede** ser simultáneamente diputado o senador. El mandato pa
 
 ## 12. El Presidente del Gobierno: dirección y funciones
 
-El **artículo 2 de la Ley del Gobierno** define al Presidente con dos verbos: **dirige la acción del Gobierno** y **coordina las funciones** de sus miembros. Sus funciones más preguntadas:
+El **artículo 2 de la Ley del Gobierno** define al Presidente con dos verbos: **dirige la acción del Gobierno** y **coordina las funciones** de sus miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros. Sus funciones más preguntadas:
 
-Representa al Gobierno y **establece el programa político**. Propone al Rey la **disolución** del Congreso, del Senado o de las Cortes. Plantea la **cuestión de confianza**, previa deliberación del Consejo de Ministros. Propone el **referéndum consultivo**, previa autorización del Congreso. **Dirige la política de defensa**. **Convoca, preside y fija el orden del día** del Consejo de Ministros. **Refrenda** actos del Rey y le propone el nombramiento y separación de los demás miembros del Gobierno. Interpone el **recurso de inconstitucionalidad**. **Crea, modifica y suprime por real decreto los Departamentos ministeriales y las Secretarías de Estado**. Resuelve **conflictos de atribuciones entre Ministerios** e **imparte instrucciones**.
+Representa al Gobierno, **establece el programa político** y vela por su cumplimiento. Propone al Rey la **disolución** del Congreso, del Senado o de las Cortes, previa deliberación del Consejo de Ministros. Plantea la **cuestión de confianza**, también previa deliberación del Consejo de Ministros. Propone el **referéndum consultivo**, previa autorización del Congreso. **Dirige la política de defensa**. **Convoca, preside y fija el orden del día** del Consejo de Ministros. **Refrenda** actos del Rey y le somete para sanción las leyes y demás normas con rango de ley; además, propone el nombramiento y separación de Vicepresidentes y Ministros. Interpone el **recurso de inconstitucionalidad**. **Crea, modifica y suprime por real decreto los Departamentos ministeriales y las Secretarías de Estado**. Resuelve **conflictos de atribuciones entre Ministerios** e **imparte instrucciones**.
 
 :::perla-vigor
 El Presidente **crea, modifica y suprime ministerios y Secretarías de Estado por real decreto**, él solo. De ahí que los nombres bailen tanto.
@@ -383,7 +387,7 @@ En caso de **vacante, ausencia o enfermedad**, las funciones del Presidente las 
 
 La **suplencia de los Ministros** se determina por **real decreto del Presidente del Gobierno**, debe recaer **necesariamente en otro miembro del Gobierno** y el real decreto debe expresar **la causa y el carácter** de la suplencia.
 
-Un matiz práctico: la **interrupción transitoria de la asistencia** a una reunión de un órgano colegiado **no se considera ausencia**; en ese caso actúa la autoridad de **rango inmediatamente inferior** que esté presente.
+Un matiz práctico: la **interrupción transitoria de la asistencia** a una reunión de un órgano colegiado **no se considera ausencia**; en ese caso actúa la **siguiente autoridad en rango presente**.
 
 :::perla-vigor
 Presidente: **Vicepresidentes y, en su defecto, Ministros**. Ministro: **real decreto del Presidente** y el suplente **debe ser otro miembro del Gobierno**.
@@ -410,7 +414,7 @@ A los **Vicepresidentes** les corresponden **las funciones que les encomiende el
 
 Los **Ministros** tienen competencia y responsabilidad en la esfera específica de su actuación. **Desarrollan la acción del Gobierno** en su Departamento conforme a los acuerdos del Consejo de Ministros o a las directrices del Presidente, **ejercen la potestad reglamentaria** en sus materias y **refrendan los actos del Rey** en materia de su competencia.
 
-Pueden existir **Ministros sin cartera**, con responsabilidad sobre determinadas funciones gubernamentales, creados por **real decreto del Presidente del Gobierno**.
+Pueden existir **Ministros sin cartera**, con responsabilidad sobre determinadas funciones gubernamentales. Cuando existan, un **real decreto** determina sus competencias, estructura y medios; su separación lleva aparejada la extinción del correspondiente órgano.
 
 :::perla-vigor
 El Ministro tiene **doble naturaleza**: miembro del Gobierno (Ley 50/1997) y jefe del Departamento (Ley 40/2015).
@@ -433,16 +437,18 @@ Un **Ministro sin cartera es ministro de pleno derecho**: es miembro del Gobiern
 
 El **artículo 20 de la Ley del Gobierno** regula la delegación. El **Presidente** puede delegar en **Vicepresidentes y Ministros**. Los **Ministros** pueden delegar competencias propias en **Secretarios de Estado y Subsecretarios** dependientes de ellos, en los **Delegados del Gobierno** en las comunidades autónomas y en los demás **órganos directivos** del Ministerio.
 
-No son delegables en ningún caso: las competencias **atribuidas directamente por la Constitución**; las de **nombramiento y separación de altos cargos** atribuidas al Consejo de Ministros; las atribuidas a los **órganos colegiados del Gobierno**, salvo autorización expresa por ley; y las atribuidas por una **ley que prohíba expresamente la delegación**.
+También pueden delegarse, a propuesta del Presidente, las **funciones administrativas del Consejo de Ministros** en las Comisiones Delegadas del Gobierno.
 
-La **avocación** es la operación inversa: el órgano superior **atrae para sí** un asunto que correspondería al inferior. Y una diferencia clave: en la delegación el órgano superior **conserva la titularidad** y solo cede el **ejercicio**.
+No son delegables en ningún caso: las competencias **atribuidas directamente por la Constitución**; las de **nombramiento y separación de altos cargos** atribuidas al Consejo de Ministros; las atribuidas a los **órganos colegiados del Gobierno**, salvo la excepción anterior; y las atribuidas por una **ley que prohíba expresamente la delegación**.
+
+El **Consejo de Ministros** puede avocar para sí, a propuesta del Presidente, un asunto que corresponda a una Comisión Delegada. Debe hacerlo por **acuerdo motivado**, mencionar la avocación en la decisión final y el acuerdo de avocación no admite recurso autónomo, aunque sí puede discutirse al recurrir la decisión final. En la delegación el órgano superior **conserva la titularidad** y solo cede el **ejercicio**.
 
 :::perla-vigor
 **Delegación cede el ejercicio; desconcentración cede la titularidad.** Y la **avocación** es el camino de vuelta: el superior atrae el asunto.
 :::
 
 :::trampa
-Las competencias de los órganos colegiados del Gobierno **no son delegables salvo autorización expresa por ley**. No basta con que el propio órgano lo acuerde.
+Las competencias de los órganos colegiados del Gobierno **no son delegables**, salvo la delegación de funciones administrativas del Consejo de Ministros en Comisiones Delegadas prevista expresamente en el artículo 20.2 LG.
 :::
 
 <!-- VISUAL:t05-16-delegacion-y-avocacion.webp -->
@@ -462,9 +468,9 @@ Las competencias de los órganos colegiados del Gobierno **no son delegables sal
 
 ## 17. El Consejo de Ministros
 
-El **Consejo de Ministros** (artículo 5 LG) lo integran el **Presidente**, los **Vicepresidentes en su caso**, los **Ministros** y los demás miembros que establezca la ley. Los **Secretarios de Estado pueden asistir cuando sean convocados**. Sus **deliberaciones son secretas**.
+El **Consejo de Ministros** (artículo 5 LG) es el órgano colegiado del Gobierno integrado por el **Presidente**, los **Vicepresidentes en su caso** y los **Ministros**. Los **Secretarios de Estado pueden asistir cuando sean convocados**. Sus **deliberaciones son secretas**.
 
-Entre sus competencias: aprobar los **proyectos de ley** y remitirlos a las Cámaras; aprobar el **Proyecto de Ley de Presupuestos**; aprobar los **reales decretos-leyes y decretos legislativos**; acordar la **negociación y firma de tratados**; **declarar los estados de alarma y de excepción** y proponer al Congreso el de **sitio**; disponer la **emisión de deuda pública** cuando lo autorice una ley; y aprobar los **reglamentos** de desarrollo y ejecución de las leyes.
+Entre sus competencias: aprobar los **proyectos de ley** y remitirlos a las Cámaras; aprobar el **Proyecto de Ley de Presupuestos**; aprobar los **reales decretos-leyes y decretos legislativos**; acordar la **negociación y firma de tratados**; **declarar los estados de alarma y de excepción** y proponer al Congreso el de **sitio**; disponer la **emisión de deuda pública** cuando lo autorice una ley; aprobar los **reglamentos** de desarrollo y ejecución de las leyes; crear, modificar y suprimir los **órganos directivos** de los Departamentos; y adoptar programas, planes y directrices vinculantes para toda la AGE.
 
 De cada sesión se levanta **acta** con el tiempo y lugar, los asistentes, los acuerdos y los informes presentados.
 
@@ -487,11 +493,11 @@ El acta del Consejo de Ministros **no recoge opiniones ni votos**: solo tiempo y
 
 ## 18. Las Comisiones Delegadas del Gobierno
 
-Las **Comisiones Delegadas del Gobierno** (artículo 6 LG) se **crean, modifican y suprimen por real decreto del Consejo de Ministros, a propuesta del Presidente**. El real decreto debe especificar **quién la preside, quién la integra, qué funciones tiene y quién actúa como secretario**.
+Las **Comisiones Delegadas del Gobierno** (artículo 6 LG) se **crean, modifican y suprimen por real decreto del Consejo de Ministros, a propuesta del Presidente**. El real decreto debe especificar **quién la preside, qué miembros del Gobierno y, en su caso, Secretarios de Estado la integran, qué funciones tiene, quién ejerce la secretaría y cuál es su régimen interno**, especialmente convocatorias y suplencias.
 
 Pueden ser convocados los titulares de otros **órganos superiores y directivos** de la AGE que se estime conveniente.
 
-Sus funciones: **examinar** cuestiones generales que afecten a varios Departamentos; **estudiar** asuntos que requieran propuesta conjunta previa a su resolución por el Consejo de Ministros; y **resolver** los asuntos que, afectando a más de un Ministerio, no requieran elevarse al Consejo. Sus **deliberaciones son secretas**.
+Sus funciones: **examinar** cuestiones generales que afecten a varios Departamentos; **estudiar** asuntos que requieran propuesta conjunta previa a su resolución por el Consejo de Ministros; **resolver** los asuntos que, afectando a más de un Ministerio, no requieran elevarse al Consejo; y ejercer las atribuciones que les confiera el ordenamiento o les delegue el Consejo. Sus **deliberaciones son secretas**.
 
 :::perla-vigor
 Ministerios los crea el **Presidente**. Comisiones Delegadas las crea el **Consejo de Ministros a propuesta del Presidente**.
@@ -551,10 +557,12 @@ Los **órganos de colaboración y apoyo** del Gobierno son cuatro: los **Secreta
 
 Los **Secretarios de Estado** son **órganos superiores** de la AGE, **directamente responsables de la ejecución** de la acción del Gobierno en un sector específico. Actúan bajo la dirección del **Ministro** o, si la Secretaría está adscrita a Presidencia, del **Presidente**.
 
-La **Comisión General** la integran los **Secretarios de Estado y los Subsecretarios**, y la preside un **Vicepresidente** o, en su defecto, el **Ministro de la Presidencia**. **Todos los asuntos que vayan al Consejo de Ministros deben examinarse antes por ella**, salvo excepción reglamentaria. Sus deliberaciones son **secretas** y **no puede adoptar decisiones o acuerdos por delegación del Gobierno**.
+La **Comisión General** la integran los **Secretarios de Estado y los Subsecretarios**, y la preside un **Vicepresidente** o, en su defecto, el **Ministro de la Presidencia**. La secretaría corresponde al **Subsecretario de la Presidencia** y, si falta, al **Director del Secretariado del Gobierno**.
+
+Examina los asuntos que vayan al Consejo de Ministros, salvo **nombramientos, ceses, ascensos a empleos de oficiales generales** y asuntos que deban elevarse directamente por **urgencia**. También analiza asuntos que afecten a varios Ministerios y no sean competencia del Consejo ni de sus Comisiones Delegadas cuando los someta su presidente. Sus deliberaciones son **reservadas** y **no puede adoptar decisiones o acuerdos por delegación del Gobierno**.
 
 :::perla-vigor
-La Comisión General es el **filtro previo** del Consejo de Ministros: todo pasa por ella, pero **no puede decidir por delegación del Gobierno**.
+La Comisión General es el **filtro previo ordinario** del Consejo de Ministros, con excepciones tasadas, y **no puede decidir por delegación del Gobierno**.
 :::
 
 :::trampa
@@ -572,12 +580,16 @@ La Comisión General **no adopta acuerdos por delegación**. Examina y prepara, 
 
 ## 21. El Secretariado del Gobierno y los Gabinetes
 
-El **Secretariado del Gobierno** es el órgano de apoyo del **Consejo de Ministros**, de las **Comisiones Delegadas** y de la **Comisión General**, y se integra en la estructura del **Ministerio de la Presidencia**. Le corresponde asistir al **Ministro-Secretario del Consejo de Ministros**, remitir las **convocatorias**, **archivar y custodiar** convocatorias, órdenes del día y actas, y **velar por la correcta publicación** en el BOE de las disposiciones del Gobierno.
+El **Secretariado del Gobierno** apoya al **Consejo de Ministros**, a las **Comisiones Delegadas** y a la **Comisión General**, y se integra en el **Ministerio de la Presidencia**. Asiste al Ministro-Secretario; remite convocatorias; colabora con las Secretarías Técnicas; archiva convocatorias, órdenes del día y actas; vela por la buena regulación y la calidad técnica; y garantiza la publicación correcta y fiel en el BOE.
 
-Los **Gabinetes** son órganos de **apoyo político y técnico** del Presidente, los Vicepresidentes, los Ministros y los Secretarios de Estado. Sus miembros realizan tareas de **confianza y asesoramiento especial**, **no pueden adoptar actos o resoluciones** que correspondan legalmente a órganos de la AGE, y pueden ser **cesados libremente**.
+Como órgano de asistencia al Ministro de la Presidencia, tramita también la sanción y promulgación real de las leyes, la expedición de reales decretos y determinados actos del Rey y del Presidente. Su Director ejerce la **secretaría adjunta de la Comisión General**.
+
+Los **Gabinetes** prestan apoyo político y técnico al Presidente, Vicepresidentes, Ministros y Secretarios de Estado. Sus miembros realizan tareas de confianza y asesoramiento especial y no pueden adoptar actos reservados a órganos de la AGE o de sus organizaciones adscritas. Esta prohibición no impide su pertenencia a órganos colegiados; además, los **Directores de Gabinete sí pueden dictar los actos propios de la jefatura de su unidad**.
+
+Los Directores de Gabinete del Presidente, Vicepresidentes y Ministros se nombran y separan por **real decreto aprobado en Consejo de Ministros**; los de Secretarios de Estado, por **orden ministerial**, previo conocimiento del Consejo. Cesan con el titular, salvo durante el Gobierno en funciones, cuando continúan hasta la formación del nuevo Gobierno.
 
 :::perla-vigor
-El Secretariado es **técnico y permanente**; los Gabinetes son **personales y de confianza**. Y ningún miembro de Gabinete puede firmar una resolución.
+El Secretariado es **técnico y permanente**; los Gabinetes son **políticos y de confianza**. El Director de Gabinete conserva los actos de jefatura de su propia unidad.
 :::
 
 :::trampa
@@ -595,12 +607,12 @@ El Secretariado del Gobierno se integra en el **Ministerio de la Presidencia**, 
 
 ## 22. La jerarquía normativa de las disposiciones del Gobierno
 
-El **artículo 24 de la Ley del Gobierno** ordena las disposiciones en **tres niveles**. En el primero, las aprobadas por **real decreto del Presidente del Gobierno** o **acordadas en Consejo de Ministros**. En el segundo, las aprobadas por **orden de las Comisiones Delegadas del Gobierno**. En el tercero, las aprobadas por **orden ministerial**.
+El **artículo 24 de la Ley del Gobierno** establece solo **dos niveles reglamentarios**. En el primero están las disposiciones aprobadas por **real decreto del Presidente del Gobierno** o acordado en **Consejo de Ministros**. En el segundo, las aprobadas por **orden ministerial**.
 
-Por debajo de todas ellas rigen dos límites infranqueables: **no pueden vulnerar la Constitución ni las leyes**, y un reglamento **no puede regular materias reservadas a la ley ni establecer penas ni tributos**. Los reglamentos ilegales son **nulos de pleno derecho**.
+Los acuerdos de las **Comisiones Delegadas** se formalizan mediante orden del Ministro competente o del Ministro de la Presidencia si afectan a varios Ministros; por eso **no crean un tercer nivel autónomo**. Las disposiciones contrarias a la Constitución, las leyes o una norma superior, las que invaden materias reservadas a la ley y las que establecen retroactividad sancionadora desfavorable son **nulas de pleno derecho**.
 
 :::perla-vigor
-Tres peldaños: **real decreto** (Presidente o Consejo), **orden de Comisión Delegada**, **orden ministerial**.
+Dos peldaños: **real decreto** (Presidente o Consejo) y **orden ministerial**.
 :::
 
 :::trampa
@@ -622,7 +634,9 @@ El **Consejo de Estado** (artículo 107 CE y **Ley Orgánica 3/1980**) es el **s
 
 Se compone del **Presidente**, los **Consejeros permanentes**, los **natos**, los **electivos** y el **Secretario general**. Actúa en **Pleno**, **Comisión Permanente** y **Comisión de Estudios**.
 
-Sus **dictámenes no son vinculantes**, salvo que la ley disponga lo contrario. Los asuntos dictaminados por él **no pueden someterse a informe de ningún otro órgano** de la Administración del Estado. Y las fórmulas: **«oído el Consejo de Estado»** si la resolución se aparta del dictamen, **«de acuerdo con el Consejo de Estado»** si lo sigue.
+Sus **dictámenes no son vinculantes**, salvo que la ley disponga lo contrario. Si dictaminó el **Pleno**, ningún otro órgano de la Administración del Estado puede informar después; si dictaminó la **Comisión Permanente**, solo puede informar posteriormente el **Pleno**. Si el Ministro consultante disiente en un asunto de consulta preceptiva, resuelve el **Consejo de Ministros**.
+
+Las fórmulas son inequívocas: **«oído el Consejo de Estado»** si la resolución se aparta del dictamen y **«de acuerdo con el Consejo de Estado»** si lo sigue.
 
 :::perla-vigor
 **«De acuerdo con»** significa que se siguió el dictamen; **«oído»** significa que se apartó de él. Oído es escucharlo y hacer otra cosa.
@@ -651,7 +665,7 @@ Los dictámenes del Consejo de Estado **no son vinculantes** con carácter gener
 
 La consulta al Consejo de Estado es **preceptiva** en los casos previstos por la ley y **facultativa** en los demás. La **omisión de un dictamen preceptivo puede determinar la invalidez** de la resolución.
 
-**Al Pleno** le corresponde dictaminar, entre otros, sobre los **anteproyectos de reforma constitucional**, los **anteproyectos de ley** que ejecuten tratados internacionales o Derecho de la Unión, los **proyectos de decretos legislativos** y las **transacciones sobre derechos de la Hacienda Pública**.
+**Al Pleno** le corresponde dictaminar, entre otros, sobre los **anteproyectos de reforma constitucional**, los **anteproyectos de ley** que ejecuten tratados internacionales o Derecho de la Unión, los **proyectos de decretos legislativos**, las **transacciones sobre derechos de la Hacienda Pública** y el sometimiento a **arbitraje** de las controversias sobre esos derechos.
 
 **A la Comisión Permanente** le corresponde dictaminar sobre las **disposiciones reglamentarias** que desarrollen tratados o Derecho de la Unión, los **reglamentos ejecutivos de las leyes** y sus modificaciones, la **revisión de oficio** de actos administrativos, la **responsabilidad patrimonial** en la cuantía legal, y la **interpretación, nulidad y resolución de contratos administrativos**.
 
@@ -676,11 +690,11 @@ Regla del rango: **rango de ley o reforma constitucional al Pleno; reglamentos y
 
 ## 25. El estatuto del Alto Cargo
 
-El estatuto del alto cargo se regula en la **Ley 3/2015, de 30 de marzo**. Tienen esa consideración: los **miembros del Gobierno y Secretarios de Estado**; los **Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos y Directores Generales**; los **Delegados del Gobierno** en las comunidades autónomas y en **Ceuta y Melilla**; los **embajadores y representantes permanentes** ante organizaciones internacionales; los máximos responsables de las **entidades del sector público institucional estatal**; y los miembros de los **organismos reguladores y de supervisión**.
+El estatuto del alto cargo se regula en la **Ley 3/2015, de 30 de marzo**. Tienen esa consideración los **miembros del Gobierno y Secretarios de Estado**; **Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos y Directores Generales**; **Delegados del Gobierno**; jefes de misión diplomática y de representación permanente; determinados máximos responsables del sector público estatal; y titulares de órganos reguladores y de supervisión.
 
 **Los Subdirectores Generales no son alto cargo.**
 
-Su ejercicio se rige por los principios de **interés general, integridad, objetividad, transparencia y responsabilidad, y austeridad**, y su nombramiento atiende a **mérito, capacidad e idoneidad**, incluida la **honorabilidad**.
+Su ejercicio se rige por los principios de **interés general, integridad, objetividad, transparencia y responsabilidad, y austeridad**. El nombramiento debe recaer en personas **idóneas**, entendiendo por tales las que reúnen **honorabilidad y la debida formación y experiencia**. La idoneidad la aprecian tanto quien propone como quien nombra.
 
 :::perla-vigor
 Todos los órganos directivos son alto cargo **salvo los Subdirectores Generales**. Esa es la frontera.
@@ -709,7 +723,7 @@ Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero 
 
 El **artículo 61 de la Ley 40/2015** regula a los Ministros como **órganos superiores** de la AGE. Son los **jefes superiores del Departamento** y superiores jerárquicos directos de los **Secretarios de Estado y Subsecretarios**.
 
-Entre sus competencias: ejercer la **potestad reglamentaria** en sus materias; **fijar objetivos**, aprobar planes y asignar recursos; mantener relaciones con las **comunidades autónomas** y convocar las **Conferencias Sectoriales**; **determinar y proponer la organización interna**; **nombrar y separar a los titulares de los órganos directivos** cuando no corresponda al Consejo de Ministros; imponer la sanción de **separación del servicio** por faltas muy graves; **administrar los créditos** y aprobar modificaciones presupuestarias; **celebrar contratos y convenios** y conceder subvenciones; **resolver recursos** y **declarar la lesividad** de actos; **resolver conflictos de atribuciones** dentro del Ministerio; y ejercer el **control de eficacia**.
+Entre sus competencias: ejercer la **potestad reglamentaria** en sus materias; **fijar objetivos**, aprobar planes y asignar recursos; mantener relaciones con las **comunidades autónomas** y convocar las **Conferencias Sectoriales**; **determinar y proponer la organización interna**; **nombrar y separar a los titulares de los órganos directivos** cuando la competencia no corresponda al Consejo de Ministros, a otro órgano o al propio organismo; imponer la sanción de **separación del servicio** por faltas muy graves; **administrar los créditos** y aprobar modificaciones presupuestarias; **celebrar contratos y convenios** y conceder subvenciones; **resolver recursos** y **declarar la lesividad** de actos; **resolver conflictos de atribuciones** dentro del Ministerio; y ejercer el **control de eficacia**.
 
 :::perla-vigor
 El Ministro impone la **separación del servicio** por faltas muy graves. Es la sanción más grave y está reservada a él.
@@ -743,7 +757,7 @@ El Subsecretario sanciona faltas **graves y muy graves salvo la separación del 
 :::
 
 :::trampa
-El Subsecretario es **obligatorio** en todo Ministerio y **debe ser funcionario A1 sin excepción**. Los opcionales son las Secretarías de Estado y las Secretarías Generales.
+El Subsecretario es **obligatorio** en todo Ministerio. Su nombramiento debe recaer en un **funcionario de carrera A1** del Estado, de una comunidad autónoma o de una entidad local, o en quien hubiera perdido esa condición por **jubilación**; en todo caso debe reunir los requisitos de **idoneidad** de la Ley 3/2015. Los opcionales son las Secretarías de Estado y las Secretarías Generales.
 :::
 
 <!-- VISUAL:t05-27-subsecretarios.webp -->
@@ -757,9 +771,9 @@ El Subsecretario es **obligatorio** en todo Ministerio y **debe ser funcionario 
 
 ## 28. Secretarios Generales y Secretarios Generales Técnicos
 
-Los **Secretarios Generales** (artículo 64) son órganos directivos **excepcionales y opcionales**, creados solo cuando lo exige el volumen de gestión de un sector. Tienen **categoría de Subsecretario**, se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro o del Presidente**, y **no exigen ser funcionario**: basta con cualificación y experiencia en gestión pública o privada.
+Los **Secretarios Generales** (artículo 64) son órganos directivos **opcionales**: pueden preverse en la estructura de un Ministerio para gestionar un sector de actividad administrativa determinado. Tienen **categoría de Subsecretario**, se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro o del Presidente**, y **no exigen ser funcionario**: deben reunir cualificación y experiencia en puestos de responsabilidad de gestión pública o privada, además de los requisitos legales de **idoneidad**.
 
-Los **Secretarios Generales Técnicos** (artículo 65) son **obligatorios** en cada Ministerio, **dependen directamente del Subsecretario** y tienen **categoría de Director General**. Sus competencias son los servicios comunes y, **en todo caso, la producción normativa, la asistencia jurídica y las publicaciones**. Se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro** y deben ser **funcionarios de carrera del Subgrupo A1**.
+Los **Secretarios Generales Técnicos** (artículo 65) son **obligatorios** en cada Ministerio, **dependen directamente del Subsecretario** y tienen **categoría de Director General**. Sus competencias son los servicios comunes y, **en todo caso, la producción normativa, la asistencia jurídica y las publicaciones**. Se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro**, deben ser **funcionarios de carrera del Subgrupo A1** y reunir los requisitos legales de **idoneidad**.
 
 :::perla-vigor
 **Secretario General**: opcional, rango de Subsecretario, **no requiere ser funcionario**. **Secretario General Técnico**: obligatorio, rango de Director General, **funcionario A1**.
@@ -780,12 +794,12 @@ El **Secretario General** es el único órgano directivo que no exige la condici
 
 ## 29. Directores Generales y Subdirectores Generales
 
-Los **Directores Generales** (artículo 66) gestionan **una o varias áreas funcionalmente homogéneas**. Proponen los proyectos de su Dirección General y dirigen su ejecución, ejercen las competencias atribuidas, desconcentradas o delegadas, y supervisan la gestión ordinaria. Se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro o del Presidente**, entre **funcionarios de carrera del Subgrupo A1**, **salvo que el real decreto de estructura lo exceptúe** en atención a las características del puesto, lo que exige **memoria razonada**.
+Los **Directores Generales** (artículo 66) gestionan **una o varias áreas funcionalmente homogéneas**. Proponen los proyectos de su Dirección General y dirigen su ejecución, ejercen las competencias atribuidas, desconcentradas o delegadas, y supervisan la gestión ordinaria. Se nombran por **real decreto del Consejo de Ministros a propuesta del Ministro o del Presidente**, entre **funcionarios de carrera del Subgrupo A1** o personas que hubieran perdido esa condición por **jubilación**. Excepcionalmente, el real decreto de estructura puede dispensar ese requisito por las características específicas del puesto, con **memoria razonada**. En todo caso deben reunir los requisitos de **idoneidad**.
 
-Los **Subdirectores Generales** (artículo 67) son los **responsables inmediatos de la ejecución**. Los nombra y cesa el **Ministro, Secretario de Estado o Subsecretario del que dependan**, por **libre designación entre funcionarios A1**. **No son alto cargo.**
+Los **Subdirectores Generales** (artículo 67) son los **responsables inmediatos de la ejecución**. Los nombra, respetando los principios de **igualdad, mérito y capacidad**, y los cesa el **Ministro, Secretario de Estado o Subsecretario del que dependan**. Deben ser **funcionarios de carrera A1** del Estado o de otras Administraciones cuando lo permitan las normas aplicables. **No son alto cargo.**
 
 :::perla-vigor
-Escalera de exigencia: Subsecretario y SGT **siempre funcionarios**; Director General **salvo excepción motivada**; Secretario General **no hace falta**.
+Escalera de exigencia: el SGT debe ser **funcionario A1**; el Subsecretario y el Director General admiten también a quien perdió esa condición por **jubilación**; el Director General permite además una **excepción motivada**; el Secretario General **no exige ser funcionario**.
 :::
 
 :::trampa
@@ -805,7 +819,7 @@ El **Subdirector General no se nombra por real decreto** ni es alto cargo. Lo no
 
 La **creación de órganos** sigue tres niveles. **Ministerios y Secretarías de Estado**: real decreto del **Presidente del Gobierno**. **Subsecretarías, Secretarías Generales, Secretarías Generales Técnicas, Direcciones Generales y Subdirecciones Generales**: real decreto del **Consejo de Ministros**, a **iniciativa del Ministro** y a **propuesta del ministerio de función pública**. **Órganos de nivel inferior a Subdirección General**: **orden del Ministro**, previa autorización del ministerio de función pública.
 
-Los **servicios comunes** (artículo 68) prestan asesoramiento, apoyo técnico y gestión en materias transversales: planificación, presupuesto, asistencia jurídica, recursos humanos, producción normativa, estadística y demás. El Gobierno puede acordar su **gestión compartida** entre varios Ministerios.
+Los **servicios comunes** (artículo 68) prestan asesoramiento, apoyo técnico y, en su caso, gestión directa en materias transversales. Su **gestión compartida** puede preverse mediante **real decreto** y coordinarse por el ministerio competente en hacienda o un organismo autónomo dependiente de él para varios Ministerios, o por la Subsecretaría de cada Ministerio o un organismo autónomo dependiente de ella para todo el Departamento.
 
 Las **unidades administrativas** son los elementos organizativos básicos, se establecen mediante las **relaciones de puestos de trabajo** y tienen un **jefe responsable** de su funcionamiento.
 
@@ -888,7 +902,7 @@ El **Delegado del Gobierno no necesita ser funcionario**; el **Subdelegado sí**
 
 El **artículo 73** agrupa las competencias del Delegado en cinco áreas.
 
-**Dirección de la AGE:** impulsar, dirigir, coordinar y supervisar los servicios estatales en el territorio; **nombrar a los Subdelegados**; e **informar preceptivamente** los nombramientos de titulares de órganos territoriales no integrados.
+**Dirección de la AGE:** impulsar, coordinar y supervisar con carácter general su actividad en el territorio y, cuando se trate de **servicios integrados**, dirigirla; **nombrar a los Subdelegados y, en su caso, a los Directores Insulares**; e **informar preceptivamente** las propuestas de nombramiento de titulares de órganos territoriales de la AGE y organismos públicos estatales de ámbito autonómico y provincial en la Delegación.
 
 **Información y ciudadanía:** coordinar la información sobre programas del Gobierno y **elevar anualmente un informe** al Gobierno sobre el funcionamiento de los servicios estatales.
 
@@ -942,11 +956,13 @@ El Subdelegado dirige las Fuerzas y Cuerpos de Seguridad en la provincia **bajo 
 
 ## 35. El sector público institucional estatal: organismos autónomos y entidades públicas empresariales
 
-El **artículo 84** enumera los integrantes del **sector público institucional estatal**: los **organismos públicos** —que comprenden los **organismos autónomos** y las **entidades públicas empresariales**—, las **autoridades administrativas independientes**, las **sociedades mercantiles estatales**, los **consorcios**, las **fundaciones del sector público**, los **fondos sin personalidad jurídica** y las **universidades públicas no transferidas**.
+El **artículo 84** enumera los integrantes del **sector público institucional estatal**: los **organismos públicos** —que comprenden los **organismos autónomos**, las **entidades públicas empresariales** y las **agencias estatales**—, las **autoridades administrativas independientes**, las **sociedades mercantiles estatales**, los **consorcios**, las **fundaciones del sector público**, los **fondos sin personalidad jurídica** y las **universidades públicas no transferidas**.
 
-Los **organismos autónomos** (artículos 98 y 99) se rigen por el **Derecho administrativo**, tienen **personalidad jurídica pública diferenciada, patrimonio y tesorería propios** y **autonomía de gestión**. Dependen de un Ministerio, al que corresponde la **dirección estratégica, la evaluación de resultados y el control de eficacia**. Su denominación debe incluir **«Organismo Autónomo»** o **«O.A.»**.
+El **artículo 84 bis** exige presencia equilibrada entre mujeres y hombres —cada sexo entre el **40 % y el 60 %**— entre los máximos responsables y las personas con contratos de alta dirección de cada entidad, y también en sus órganos colegiados de gobierno.
 
-Las **entidades públicas empresariales** (artículos 103 y 104) se financian **mayoritariamente con ingresos de mercado** y se rigen por el **Derecho privado**, salvo en la **formación de la voluntad de sus órganos**, en el **ejercicio de potestades administrativas** y en lo específicamente regulado por la ley. Pueden depender de la **AGE o de un organismo autónomo**. Su denominación debe incluir **«Entidad Pública Empresarial»** o **«E.P.E.»**.
+Los **organismos autónomos** (artículos 98 y 99) se rigen por el **Derecho administrativo**, tienen **personalidad jurídica pública diferenciada, patrimonio y tesorería propios** y **autonomía de gestión**. Dependen de la **AGE**, a la que corresponde la **dirección estratégica, la evaluación de resultados y el control de eficacia**. Su denominación debe incluir **«Organismo Autónomo»** o **«O.A.»**.
+
+Las **entidades públicas empresariales** (artículos 103 y 104) se financian con **ingresos de mercado**, salvo las que sean o puedan ser declaradas **medio propio personificado**, y se rigen por el **Derecho privado**, salvo en la **formación de la voluntad de sus órganos**, en el **ejercicio de potestades administrativas** y en lo específicamente regulado por la ley. Pueden depender de la **AGE o de un organismo autónomo**. Su denominación debe incluir **«Entidad Pública Empresarial»** o **«E.P.E.»**. La financiación mayoritaria con ingresos de mercado se determina por su condición de **productor de mercado conforme al Sistema Europeo de Cuentas**.
 
 :::perla-vigor
 **Organismo autónomo: Derecho administrativo y dinero público.** **Entidad pública empresarial: Derecho privado e ingresos de mercado.**

@@ -16,8 +16,8 @@
     "atestado": "temas/policia-nacional/atestado/tema-05-organizacion-y-funcionamiento-de-la-age.md"
   },
   "semantic_blocks": 35,
-  "atomic_facts": 0,
-  "master_statements": 339,
+  "atomic_facts": 383,
+  "master_statements": 390,
   "coverage_file": "conocimiento/policia-nacional/tema-05/cobertura.json",
   "official_references": [
     "CONV-PN-2026",
@@ -53,7 +53,8 @@
   "review": {
     "legal": "first_pass_official_sources",
     "pedagogical": "first_pass_vigor",
-    "editorial": "pending_user_review"
+    "editorial": "pending_user_review",
+    "question_bank": "draft_pending_human_review"
   },
   "layers": [
     "Mapa del tema",
@@ -66,8 +67,9 @@
   "question_bank": {
     "path": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
     "manifest": "banco-preguntas/policia-nacional/tema-05/manifest.json",
-    "questions": 0,
-    "coverage_by_atomic_facts": 0.0
+    "questions": 657,
+    "coverage_by_atomic_facts": 100.0,
+    "scope": "complete_blocks_01_35"
   },
   "evaluations": {
     "plan": "evaluaciones/policia-nacional/tema-05/plan.json"
