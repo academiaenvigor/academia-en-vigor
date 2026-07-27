@@ -1,0 +1,421 @@
+{
+  "schema_version": "1.2.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-05",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "resources": [
+    {
+      "id": "PN-T05-DG00",
+      "file": "t05-00-mapa-general.webp",
+      "title": "Mapa general del tema",
+      "type": "diagrama",
+      "placement": "El Parte · Mapa del tema",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG02",
+      "file": "t05-01-la-administraci-n-general-del-esta.webp",
+      "title": "La Administración General del Estado: concepto y posición constitucional",
+      "type": "diagrama",
+      "placement": "Bloque 01",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG03",
+      "file": "t05-02-la-estructura-territorial-de-la-ag.webp",
+      "title": "La estructura territorial de la AGE: central, periférica y exterior",
+      "type": "diagrama",
+      "placement": "Bloque 02",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG04",
+      "file": "t05-03-mbito-subjetivo-qu-es-sector-p-bl.webp",
+      "title": "Ámbito subjetivo: qué es sector público",
+      "type": "diagrama",
+      "placement": "Bloque 03",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG05",
+      "file": "t05-04-sector-p-blico-frente-a-administra.webp",
+      "title": "Sector público frente a Administraciones Públicas",
+      "type": "diagrama",
+      "placement": "Bloque 04",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL01",
+      "file": "t05-il-04-dos-circulos.webp",
+      "title": "Sector público y Administración Pública como círculos concéntricos",
+      "type": "ilustracion",
+      "placement": "Bloque 04",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG06",
+      "file": "t05-05-principios-generales-de-actuaci-n.webp",
+      "title": "Principios generales de actuación: el artículo 3 de la Ley 40/2015",
+      "type": "diagrama",
+      "placement": "Bloque 05",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG07",
+      "file": "t05-06-principios-de-organizaci-n-de-la-a.webp",
+      "title": "Principios de organización de la AGE: el artículo 54",
+      "type": "diagrama",
+      "placement": "Bloque 06",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL02",
+      "file": "t05-il-06-descentralizar-desconcentrar.webp",
+      "title": "Descentralización cruza la personalidad jurídica; desconcentración no",
+      "type": "ilustracion",
+      "placement": "Bloque 06",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG08",
+      "file": "t05-07-competencias-residuales-en-materia.webp",
+      "title": "Competencias residuales en materia de organización",
+      "type": "diagrama",
+      "placement": "Bloque 07",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG09",
+      "file": "t05-08-principios-de-intervenci-n-el-art.webp",
+      "title": "Principios de intervención: el artículo 4 de la Ley 40/2015",
+      "type": "diagrama",
+      "placement": "Bloque 08",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG10",
+      "file": "t05-09-el-l-mite-del-art-culo-25-3-de-la.webp",
+      "title": "El límite del artículo 25.3 de la Constitución",
+      "type": "diagrama",
+      "placement": "Bloque 09",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL03",
+      "file": "t05-il-09-limite-libertad.webp",
+      "title": "La Administración civil no puede privar de libertad",
+      "type": "ilustracion",
+      "placement": "Bloque 09",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG11",
+      "file": "t05-10-el-gobierno-naturaleza-y-funciones.webp",
+      "title": "El Gobierno: naturaleza y funciones",
+      "type": "diagrama",
+      "placement": "Bloque 10",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG12",
+      "file": "t05-11-composici-n-del-gobierno.webp",
+      "title": "Composición del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 11",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG13",
+      "file": "t05-12-el-presidente-del-gobierno-direcci.webp",
+      "title": "El Presidente del Gobierno: dirección y funciones",
+      "type": "diagrama",
+      "placement": "Bloque 12",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG14",
+      "file": "t05-13-nombramiento-y-cese-del-presidente.webp",
+      "title": "Nombramiento y cese del Presidente del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 13",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG15",
+      "file": "t05-14-suplencia-y-orden-de-prelaci-n.webp",
+      "title": "Suplencia y orden de prelación",
+      "type": "diagrama",
+      "placement": "Bloque 14",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG16",
+      "file": "t05-15-los-vicepresidentes-y-los-ministro.webp",
+      "title": "Los Vicepresidentes y los Ministros como miembros del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 15",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG17",
+      "file": "t05-16-delegaci-n-y-avocaci-n-de-competen.webp",
+      "title": "Delegación y avocación de competencias",
+      "type": "diagrama",
+      "placement": "Bloque 16",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL04",
+      "file": "t05-il-16-delegar-avocar.webp",
+      "title": "La delegación cede el ejercicio y la avocación atrae el asunto",
+      "type": "ilustracion",
+      "placement": "Bloque 16",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG18",
+      "file": "t05-17-el-consejo-de-ministros.webp",
+      "title": "El Consejo de Ministros",
+      "type": "diagrama",
+      "placement": "Bloque 17",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG19",
+      "file": "t05-18-las-comisiones-delegadas-del-gobie.webp",
+      "title": "Las Comisiones Delegadas del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 18",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG20",
+      "file": "t05-19-el-gobierno-en-funciones.webp",
+      "title": "El Gobierno en funciones",
+      "type": "diagrama",
+      "placement": "Bloque 19",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL05",
+      "file": "t05-il-19-gobierno-en-funciones.webp",
+      "title": "El Gobierno en funciones despacha lo ordinario",
+      "type": "ilustracion",
+      "placement": "Bloque 19",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG21",
+      "file": "t05-20-rganos-de-colaboraci-n-y-apoyo-lo.webp",
+      "title": "Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General",
+      "type": "diagrama",
+      "placement": "Bloque 20",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG22",
+      "file": "t05-21-el-secretariado-del-gobierno-y-los.webp",
+      "title": "El Secretariado del Gobierno y los Gabinetes",
+      "type": "diagrama",
+      "placement": "Bloque 21",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG23",
+      "file": "t05-22-la-jerarqu-a-normativa-de-las-disp.webp",
+      "title": "La jerarquía normativa de las disposiciones del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 22",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG24",
+      "file": "t05-23-el-consejo-de-estado-naturaleza-co.webp",
+      "title": "El Consejo de Estado: naturaleza, composición y dictámenes",
+      "type": "diagrama",
+      "placement": "Bloque 23",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL06",
+      "file": "t05-il-23-oido-o-de-acuerdo.webp",
+      "title": "Las dos fórmulas del dictamen del Consejo de Estado",
+      "type": "ilustracion",
+      "placement": "Bloque 23",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG25",
+      "file": "t05-24-la-consulta-preceptiva-al-consejo.webp",
+      "title": "La consulta preceptiva al Consejo de Estado",
+      "type": "diagrama",
+      "placement": "Bloque 24",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG26",
+      "file": "t05-25-el-estatuto-del-alto-cargo.webp",
+      "title": "El estatuto del Alto Cargo",
+      "type": "diagrama",
+      "placement": "Bloque 25",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL07",
+      "file": "t05-il-25-frontera-alto-cargo.webp",
+      "title": "La frontera del alto cargo pasa por el Subdirector General",
+      "type": "ilustracion",
+      "placement": "Bloque 25",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG27",
+      "file": "t05-26-los-ministros-como-rgano-superior.webp",
+      "title": "Los Ministros como órgano superior del Departamento",
+      "type": "diagrama",
+      "placement": "Bloque 26",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG28",
+      "file": "t05-27-los-subsecretarios.webp",
+      "title": "Los Subsecretarios",
+      "type": "diagrama",
+      "placement": "Bloque 27",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG29",
+      "file": "t05-28-secretarios-generales-y-secretario.webp",
+      "title": "Secretarios Generales y Secretarios Generales Técnicos",
+      "type": "diagrama",
+      "placement": "Bloque 28",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG30",
+      "file": "t05-29-directores-generales-y-subdirector.webp",
+      "title": "Directores Generales y Subdirectores Generales",
+      "type": "diagrama",
+      "placement": "Bloque 29",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG31",
+      "file": "t05-30-creaci-n-de-rganos-servicios-comun.webp",
+      "title": "Creación de órganos, servicios comunes y unidades administrativas",
+      "type": "diagrama",
+      "placement": "Bloque 30",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG32",
+      "file": "t05-31-delegaciones-y-subdelegaciones-del.webp",
+      "title": "Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales",
+      "type": "diagrama",
+      "placement": "Bloque 31",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL08",
+      "file": "t05-il-31-integrados-no-integrados.webp",
+      "title": "Servicios integrados y no integrados en la Delegación",
+      "type": "ilustracion",
+      "placement": "Bloque 31",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG33",
+      "file": "t05-32-los-delegados-del-gobierno-natural.webp",
+      "title": "Los Delegados del Gobierno: naturaleza y nombramiento",
+      "type": "diagrama",
+      "placement": "Bloque 32",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG34",
+      "file": "t05-33-competencias-de-los-delegados-del.webp",
+      "title": "Competencias de los Delegados del Gobierno",
+      "type": "diagrama",
+      "placement": "Bloque 33",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG35",
+      "file": "t05-34-subdelegados-del-gobierno-y-direct.webp",
+      "title": "Subdelegados del Gobierno y Directores Insulares",
+      "type": "diagrama",
+      "placement": "Bloque 34",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-DG36",
+      "file": "t05-35-el-sector-p-blico-institucional-es.webp",
+      "title": "El sector público institucional estatal: organismos autónomos y entidades públicas empresariales",
+      "type": "diagrama",
+      "placement": "Bloque 35",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    },
+    {
+      "id": "PN-T05-IL09",
+      "file": "t05-il-35-oa-frente-epe.webp",
+      "title": "Organismo autónomo frente a entidad pública empresarial",
+      "type": "ilustracion",
+      "placement": "Bloque 35",
+      "status": "planned",
+      "source_content_version": "1.0.0"
+    }
+  ],
+  "totals": {
+    "planned": 45,
+    "produced": 0,
+    "diagramas": 36,
+    "ilustraciones": 9
+  },
+  "format_note": "Todas las imágenes en .webp. Diagramas a 820 px e ilustraciones a 600 px con pie de figura."
+}

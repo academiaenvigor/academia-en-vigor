@@ -88,6 +88,27 @@
           "official_exam_mapped": 0,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 5,
+          "slug": "organizacion-y-funcionamiento-de-la-age",
+          "title": "Organización y funcionamiento de la Administración General del Estado",
+          "content_version": "1.0.0",
+          "editorial_status": "draft_review",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-05/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-05-organizacion-y-funcionamiento-de-la-age.md",
+          "atestado": "temas/policia-nacional/atestado/tema-05-organizacion-y-funcionamiento-de-la-age.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-05/plan.json",
+          "assets": "assets/policia-nacional/tema-05/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-05/manifest.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-05/indice-oficiales.json",
+          "official_exam_mapped": 0,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

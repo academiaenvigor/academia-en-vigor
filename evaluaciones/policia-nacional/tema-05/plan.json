@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.1.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 5,
+  "topic_title": "Organización y funcionamiento de la Administración General del Estado",
+  "id_prefix": "PN-T05",
+  "bank": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
+  "status": "planned_after_question_bank",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "La Administración General del Estado: concepto y posición constitucional"
+      },
+      {
+        "number": 2,
+        "title": "La estructura territorial de la AGE: central, periférica y exterior"
+      },
+      {
+        "number": 3,
+        "title": "Ámbito subjetivo: qué es sector público"
+      },
+      {
+        "number": 4,
+        "title": "Sector público frente a Administraciones Públicas"
+      },
+      {
+        "number": 5,
+        "title": "Principios generales de actuación: el artículo 3 de la Ley 40/2015"
+      },
+      {
+        "number": 6,
+        "title": "Principios de organización de la AGE: el artículo 54"
+      },
+      {
+        "number": 7,
+        "title": "Competencias residuales en materia de organización"
+      },
+      {
+        "number": 8,
+        "title": "Principios de intervención: el artículo 4 de la Ley 40/2015"
+      },
+      {
+        "number": 9,
+        "title": "El límite del artículo 25.3 de la Constitución"
+      },
+      {
+        "number": 10,
+        "title": "El Gobierno: naturaleza y funciones"
+      },
+      {
+        "number": 11,
+        "title": "Composición del Gobierno"
+      },
+      {
+        "number": 12,
+        "title": "El Presidente del Gobierno: dirección y funciones"
+      },
+      {
+        "number": 13,
+        "title": "Nombramiento y cese del Presidente del Gobierno"
+      },
+      {
+        "number": 14,
+        "title": "Suplencia y orden de prelación"
+      },
+      {
+        "number": 15,
+        "title": "Los Vicepresidentes y los Ministros como miembros del Gobierno"
+      },
+      {
+        "number": 16,
+        "title": "Delegación y avocación de competencias"
+      },
+      {
+        "number": 17,
+        "title": "El Consejo de Ministros"
+      },
+      {
+        "number": 18,
+        "title": "Las Comisiones Delegadas del Gobierno"
+      },
+      {
+        "number": 19,
+        "title": "El Gobierno en funciones"
+      },
+      {
+        "number": 20,
+        "title": "Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General"
+      },
+      {
+        "number": 21,
+        "title": "El Secretariado del Gobierno y los Gabinetes"
+      },
+      {
+        "number": 22,
+        "title": "La jerarquía normativa de las disposiciones del Gobierno"
+      },
+      {
+        "number": 23,
+        "title": "El Consejo de Estado: naturaleza, composición y dictámenes"
+      },
+      {
+        "number": 24,
+        "title": "La consulta preceptiva al Consejo de Estado"
+      },
+      {
+        "number": 25,
+        "title": "El estatuto del Alto Cargo"
+      },
+      {
+        "number": 26,
+        "title": "Los Ministros como órgano superior del Departamento"
+      },
+      {
+        "number": 27,
+        "title": "Los Subsecretarios"
+      },
+      {
+        "number": 28,
+        "title": "Secretarios Generales y Secretarios Generales Técnicos"
+      },
+      {
+        "number": 29,
+        "title": "Directores Generales y Subdirectores Generales"
+      },
+      {
+        "number": 30,
+        "title": "Creación de órganos, servicios comunes y unidades administrativas"
+      },
+      {
+        "number": 31,
+        "title": "Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales"
+      },
+      {
+        "number": 32,
+        "title": "Los Delegados del Gobierno: naturaleza y nombramiento"
+      },
+      {
+        "number": 33,
+        "title": "Competencias de los Delegados del Gobierno"
+      },
+      {
+        "number": 34,
+        "title": "Subdelegados del Gobierno y Directores Insulares"
+      },
+      {
+        "number": 35,
+        "title": "El sector público institucional estatal: organismos autónomos y entidades públicas empresariales"
+      }
+    ]
+  },
+  "part_tests": [
+    {
+      "number": 1,
+      "title": "La AGE y sus principios",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Organización, funcionamiento e intervención",
+      "blocks": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "number": 3,
+      "title": "El Gobierno: composición y Presidente",
+      "blocks": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Órganos del Gobierno",
+      "blocks": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Colaboración, apoyo y consulta",
+      "blocks": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Órganos superiores y altos cargos",
+      "blocks": [
+        25,
+        26
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Órganos directivos",
+      "blocks": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Administración periférica y sector público institucional",
+      "blocks": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    }
+  ],
+  "full_tests": {
+    "sizes": [
+      25,
+      50
+    ],
+    "rule": "Muestreo repartido por parte y ponderado por riesgo_examen."
+  }
+}

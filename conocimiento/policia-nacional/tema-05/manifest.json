@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.3.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-05",
+  "topic_number": 5,
+  "slug": "organizacion-y-funcionamiento-de-la-age",
+  "title": "Organización y funcionamiento de la Administración General del Estado",
+  "content_version": "1.0.0",
+  "editorial_status": "draft_review",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-07-27",
+  "source_file": "conocimiento/policia-nacional/tema-05/master.md",
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-05-organizacion-y-funcionamiento-de-la-age.md",
+    "atestado": "temas/policia-nacional/atestado/tema-05-organizacion-y-funcionamiento-de-la-age.md"
+  },
+  "semantic_blocks": 35,
+  "atomic_facts": 0,
+  "master_statements": 339,
+  "coverage_file": "conocimiento/policia-nacional/tema-05/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE",
+    "L40-2015",
+    "L50-1997",
+    "L3-2015",
+    "LO3-1980",
+    "AGE-ALTOS-CARGOS",
+    "AGE-AMBITO",
+    "AGE-CONCEPTO",
+    "AGE-DIRECTIVOS",
+    "AGE-ESTRUCTURA",
+    "AGE-INSTITUCIONAL",
+    "AGE-INTERVENCION",
+    "AGE-ORGANIZACION",
+    "AGE-ORGANOS",
+    "AGE-PERIFERICA",
+    "AGE-PRINCIPIOS",
+    "AGE-SUPERIORES",
+    "GOB-APOYO",
+    "GOB-COMISIONES",
+    "GOB-COMPOSICION",
+    "GOB-CONSEJO",
+    "GOB-CONSEJO-ESTADO",
+    "GOB-DELEGACION",
+    "GOB-FUNCIONES",
+    "GOB-MIEMBROS",
+    "GOB-NATURALEZA",
+    "GOB-NORMAS",
+    "GOB-PRESIDENTE"
+  ],
+  "review": {
+    "legal": "first_pass_official_sources",
+    "pedagogical": "first_pass_vigor",
+    "editorial": "pending_user_review"
+  },
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-05/manifest.json",
+    "questions": 0,
+    "coverage_by_atomic_facts": 0.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-05/plan.json"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-05/manifest.json",
+    "total": 0,
+    "planned": 45,
+    "integration_status": "planned"
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-05/manifest.json"
+  },
+  "visual_version": "0.1.0",
+  "pedagogical_version": "1.0.0",
+  "atestado_style": "narrative_explained",
+  "volatile_data": {
+    "note": "Datos que cambian entre convocatorias y deben recomprobarse antes de publicar.",
+    "checked_on": "2026-07-27",
+    "items": [
+      "Denominación del ministerio competente en materia de función pública",
+      "Denominación del ministerio competente en materia de política territorial",
+      "Número y denominación de los Departamentos ministeriales",
+      "Existencia y número de Vicepresidencias del Gobierno"
+    ]
+  }
+}
