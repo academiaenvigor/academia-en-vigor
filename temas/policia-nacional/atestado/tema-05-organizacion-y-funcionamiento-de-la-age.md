@@ -49,9 +49,9 @@ Y tres leyes que van a aparecer constantemente. La Ley 40/2015, de Régimen Jur�
 La AGE tiene **personalidad jurídica única**, no una por ministerio. Los organismos con personalidad propia son precisamente los que se han separado de ella.
 :::
 
-<!-- VISUAL:t05-01-la-administraci-n-general-del-esta.webp -->
+<!-- VISUAL:t05-01-concepto-de-age.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-01-la-administraci-n-general-del-esta.webp" alt="La Administración General del Estado: concepto y posición constitucional" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-01-concepto-de-age.webp" alt="La Administración General del Estado: concepto y posición constitucional" width="820">
 </p>
 
 <!-- FUENTE: AGE-CONCEPTO -->
@@ -74,9 +74,9 @@ Tres niveles y un solo criterio: **todo el territorio** (central), **parte del t
 Periférica no significa secundaria. La diferencia es **territorial**, no jerárquica: un Delegado del Gobierno tiene rango de Subsecretario.
 :::
 
-<!-- VISUAL:t05-02-la-estructura-territorial-de-la-ag.webp -->
+<!-- VISUAL:t05-02-estructura-territorial.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-02-la-estructura-territorial-de-la-ag.webp" alt="La estructura territorial de la AGE: central, periférica y exterior" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-02-estructura-territorial.webp" alt="La estructura territorial de la AGE: central, periférica y exterior" width="820">
 </p>
 
 <!-- FUENTE: AGE-ESTRUCTURA -->
@@ -99,9 +99,9 @@ Sector público = **Estado + CCAA + Local + institucional**. El institucional es
 Una entidad de derecho privado del sector público **sí queda sujeta** a las Leyes 39 y 40 de 2015 **cuando ejerce potestades administrativas**. La forma privada no la exime.
 :::
 
-<!-- VISUAL:t05-03-mbito-subjetivo-qu-es-sector-p-bl.webp -->
+<!-- VISUAL:t05-03-sector-publico.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-03-mbito-subjetivo-qu-es-sector-p-bl.webp" alt="Ámbito subjetivo: qué es sector público" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-03-sector-publico.webp" alt="Ámbito subjetivo: qué es sector público" width="820">
 </p>
 
 <!-- FUENTE: AGE-AMBITO -->
@@ -126,9 +126,9 @@ Dos círculos: **sector público** es el grande, **Administración Pública** el
 Una sociedad mercantil estatal **es sector público pero no es Administración Pública**. Confundirlo es el error más repetido del bloque.
 :::
 
-<!-- VISUAL:t05-04-sector-p-blico-frente-a-administra.webp -->
+<!-- VISUAL:t05-04-sector-vs-administracion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-04-sector-p-blico-frente-a-administra.webp" alt="Sector público frente a Administraciones Públicas" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-04-sector-vs-administracion.webp" alt="Sector público frente a Administraciones Públicas" width="820">
 </p>
 
 <!-- VISUAL:t05-il-04-dos-circulos.webp -->
@@ -161,9 +161,9 @@ Tres grupos según a quién miran: **al ciudadano**, **hacia dentro** y **a las 
 **Interoperabilidad** no es lo mismo que digitalización: es que los sistemas de distintas Administraciones **se entiendan entre sí**.
 :::
 
-<!-- VISUAL:t05-05-principios-generales-de-actuaci-n.webp -->
+<!-- VISUAL:t05-05-principios-articulo-3.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-05-principios-generales-de-actuaci-n.webp" alt="Principios generales de actuación: el artículo 3 de la Ley 40/2015" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-05-principios-articulo-3.webp" alt="Principios generales de actuación: el artículo 3 de la Ley 40/2015" width="820">
 </p>
 
 <!-- FUENTE: AGE-PRINCIPIOS -->
@@ -194,9 +194,9 @@ Los otros dos principios son más intuitivos. La jerarquía ordena verticalmente
 La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio. Si solo se cede el ejercicio y el superior conserva la competencia, eso es delegación, que es otra figura.
 :::
 
-<!-- VISUAL:t05-06-principios-de-organizaci-n-de-la-a.webp -->
+<!-- VISUAL:t05-06-principios-organizacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-06-principios-de-organizaci-n-de-la-a.webp" alt="Principios de organización de la AGE: el artículo 54" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-06-principios-organizacion.webp" alt="Principios de organización de la AGE: el artículo 54" width="820">
 </p>
 
 <!-- VISUAL:t05-il-06-descentralizar-desconcentrar.webp -->
@@ -227,9 +227,9 @@ Las referencias a ministerios se leen **por competencia, no por nombre**: organi
 El nombre del ministerio es el dato que antes caduca de todo el tema. Se fija por **real decreto del Presidente del Gobierno** y cambia con cada legislatura.
 :::
 
-<!-- VISUAL:t05-07-competencias-residuales-en-materia.webp -->
+<!-- VISUAL:t05-07-competencias-residuales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-07-competencias-residuales-en-materia.webp" alt="Competencias residuales en materia de organización" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-07-competencias-residuales.webp" alt="Competencias residuales en materia de organización" width="820">
 </p>
 
 <!-- FUENTE: AGE-ORGANIZACION -->
@@ -254,9 +254,9 @@ Proporcionalidad no es «medida suave»: es **la menos restrictiva de las que si
 La Administración debe **evaluar periódicamente** las medidas limitativas. No basta con que estuvieran justificadas cuando se impusieron.
 :::
 
-<!-- VISUAL:t05-08-principios-de-intervenci-n-el-art.webp -->
+<!-- VISUAL:t05-08-principios-intervencion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-08-principios-de-intervenci-n-el-art.webp" alt="Principios de intervención: el artículo 4 de la Ley 40/2015" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-08-principios-intervencion.webp" alt="Principios de intervención: el artículo 4 de la Ley 40/2015" width="820">
 </p>
 
 <!-- FUENTE: AGE-INTERVENCION -->
@@ -281,9 +281,9 @@ Ni **directa** ni **subsidiariamente**. Una multa administrativa nunca puede aca
 El precepto dice **Administración civil**, no «Administración» a secas. Y prohíbe también la privación de libertad **subsidiaria**, que es lo que suele omitir el distractor.
 :::
 
-<!-- VISUAL:t05-09-el-l-mite-del-art-culo-25-3-de-la.webp -->
+<!-- VISUAL:t05-09-limite-articulo-25-3.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-09-el-l-mite-del-art-culo-25-3-de-la.webp" alt="El límite del artículo 25.3 de la Constitución" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-09-limite-articulo-25-3.webp" alt="El límite del artículo 25.3 de la Constitución" width="820">
 </p>
 
 <!-- VISUAL:t05-il-09-limite-libertad.webp -->
@@ -316,9 +316,9 @@ Artículo 97: dirige **política interior y exterior**, **Administración civil 
 El Gobierno responde solidariamente ante el **Congreso de los Diputados**, no ante las Cortes Generales. El Senado queda fuera de la relación de confianza.
 :::
 
-<!-- VISUAL:t05-10-el-gobierno-naturaleza-y-funciones.webp -->
+<!-- VISUAL:t05-10-gobierno-funciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-10-el-gobierno-naturaleza-y-funciones.webp" alt="El Gobierno: naturaleza y funciones" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-10-gobierno-funciones.webp" alt="El Gobierno: naturaleza y funciones" width="820">
 </p>
 
 <!-- FUENTE: GOB-NATURALEZA -->
@@ -343,9 +343,9 @@ El régimen de incompatibilidades es estricto y tiene una excepción notable: se
 Un ministro **sí puede** ser simultáneamente diputado o senador. El mandato parlamentario es la única función representativa compatible.
 :::
 
-<!-- VISUAL:t05-11-composici-n-del-gobierno.webp -->
+<!-- VISUAL:t05-11-composicion-gobierno.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-11-composici-n-del-gobierno.webp" alt="Composición del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-11-composicion-gobierno.webp" alt="Composición del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: GOB-COMPOSICION -->
@@ -374,9 +374,9 @@ El Presidente **crea, modifica y suprime ministerios y Secretarías de Estado po
 La cuestión de confianza exige **deliberación previa del Consejo de Ministros**; el referéndum consultivo exige **autorización previa del Congreso**. Son requisitos distintos y se cruzan en los distractores.
 :::
 
-<!-- VISUAL:t05-12-el-presidente-del-gobierno-direcci.webp -->
+<!-- VISUAL:t05-12-presidente-funciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-12-el-presidente-del-gobierno-direcci.webp" alt="El Presidente del Gobierno: dirección y funciones" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-12-presidente-funciones.webp" alt="El Presidente del Gobierno: dirección y funciones" width="820">
 </p>
 
 <!-- FUENTE: GOB-PRESIDENTE -->
@@ -405,9 +405,9 @@ Cuatro causas de cese: **elecciones, pérdida de confianza, dimisión y fallecim
 El Gobierno cesa por la **celebración** de elecciones generales, no por la disolución de las Cámaras ni por la constitución del nuevo Congreso.
 :::
 
-<!-- VISUAL:t05-13-nombramiento-y-cese-del-presidente.webp -->
+<!-- VISUAL:t05-13-presidente-nombramiento-cese.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-13-nombramiento-y-cese-del-presidente.webp" alt="Nombramiento y cese del Presidente del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-13-presidente-nombramiento-cese.webp" alt="Nombramiento y cese del Presidente del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: GOB-PRESIDENTE -->
@@ -432,9 +432,9 @@ Presidente: **Vicepresidentes y, en su defecto, Ministros**. Ministro: **real de
 Un Secretario de Estado **no puede suplir a un Ministro**: la suplencia debe recaer en otro miembro del Gobierno, y él no lo es.
 :::
 
-<!-- VISUAL:t05-14-suplencia-y-orden-de-prelaci-n.webp -->
+<!-- VISUAL:t05-14-suplencia-y-prelacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-14-suplencia-y-orden-de-prelaci-n.webp" alt="Suplencia y orden de prelación" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-14-suplencia-y-prelacion.webp" alt="Suplencia y orden de prelación" width="820">
 </p>
 
 <!-- FUENTE: GOB-PRESIDENTE -->
@@ -461,9 +461,9 @@ El Ministro tiene **doble naturaleza**: miembro del Gobierno (Ley 50/1997) y jef
 Un **Ministro sin cartera es ministro de pleno derecho**: es miembro del Gobierno y vota en el Consejo de Ministros. Lo que no tiene es departamento.
 :::
 
-<!-- VISUAL:t05-15-los-vicepresidentes-y-los-ministro.webp -->
+<!-- VISUAL:t05-15-vicepresidentes-y-ministros.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-15-los-vicepresidentes-y-los-ministro.webp" alt="Los Vicepresidentes y los Ministros como miembros del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-15-vicepresidentes-y-ministros.webp" alt="Los Vicepresidentes y los Ministros como miembros del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: GOB-MIEMBROS -->
@@ -494,9 +494,9 @@ Y, por último, cuando una **ley prohíbe expresamente** la delegación, no hay 
 Las competencias de los órganos colegiados del Gobierno **no son delegables salvo autorización expresa por ley**. No basta con que el propio órgano lo acuerde.
 :::
 
-<!-- VISUAL:t05-16-delegaci-n-y-avocaci-n-de-competen.webp -->
+<!-- VISUAL:t05-16-delegacion-y-avocacion.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-16-delegaci-n-y-avocaci-n-de-competen.webp" alt="Delegación y avocación de competencias" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-16-delegacion-y-avocacion.webp" alt="Delegación y avocación de competencias" width="820">
 </p>
 
 <!-- VISUAL:t05-il-16-delegar-avocar.webp -->
@@ -529,9 +529,9 @@ Alarma y excepción las **declara** el Consejo de Ministros; el estado de sitio 
 El acta del Consejo de Ministros **no recoge opiniones ni votos**: solo tiempo y lugar, asistentes, acuerdos e informes. Las deliberaciones son secretas.
 :::
 
-<!-- VISUAL:t05-17-el-consejo-de-ministros.webp -->
+<!-- VISUAL:t05-17-consejo-de-ministros.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-17-el-consejo-de-ministros.webp" alt="El Consejo de Ministros" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-17-consejo-de-ministros.webp" alt="El Consejo de Ministros" width="820">
 </p>
 
 <!-- FUENTE: GOB-CONSEJO -->
@@ -558,9 +558,9 @@ Ministerios los crea el **Presidente**. Comisiones Delegadas las crea el **Conse
 Las Comisiones Delegadas **resuelven** asuntos, no solo los preparan. Tienen capacidad decisoria propia cuando el asunto no debe elevarse al Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-18-las-comisiones-delegadas-del-gobie.webp -->
+<!-- VISUAL:t05-18-comisiones-delegadas.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-18-las-comisiones-delegadas-del-gobie.webp" alt="Las Comisiones Delegadas del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-18-comisiones-delegadas.webp" alt="Las Comisiones Delegadas del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: GOB-COMISIONES -->
@@ -589,9 +589,9 @@ Tres prohibiciones son **del Presidente** (disolución, confianza, referéndum) 
 Las delegaciones legislativas se suspenden **solo si el Gobierno está en funciones por celebración de elecciones generales**, no en los demás supuestos de cese.
 :::
 
-<!-- VISUAL:t05-19-el-gobierno-en-funciones.webp -->
+<!-- VISUAL:t05-19-gobierno-en-funciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-19-el-gobierno-en-funciones.webp" alt="El Gobierno en funciones" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-19-gobierno-en-funciones.webp" alt="El Gobierno en funciones" width="820">
 </p>
 
 <!-- VISUAL:t05-il-19-gobierno-en-funciones.webp -->
@@ -626,9 +626,9 @@ La Comisión General es el **filtro previo** del Consejo de Ministros: todo pasa
 La Comisión General **no adopta acuerdos por delegación**. Examina y prepara, pero la decisión sigue siendo del Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-20-rganos-de-colaboraci-n-y-apoyo-lo.webp -->
+<!-- VISUAL:t05-20-secretarios-estado-y-comision-general.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-20-rganos-de-colaboraci-n-y-apoyo-lo.webp" alt="Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-20-secretarios-estado-y-comision-general.webp" alt="Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General" width="820">
 </p>
 
 <!-- FUENTE: GOB-APOYO -->
@@ -655,9 +655,9 @@ El Secretariado es **técnico y permanente**; los Gabinetes son **personales y d
 El Secretariado del Gobierno se integra en el **Ministerio de la Presidencia**, no en Presidencia del Gobierno ni en un órgano autónomo.
 :::
 
-<!-- VISUAL:t05-21-el-secretariado-del-gobierno-y-los.webp -->
+<!-- VISUAL:t05-21-secretariado-y-gabinetes.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-21-el-secretariado-del-gobierno-y-los.webp" alt="El Secretariado del Gobierno y los Gabinetes" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-21-secretariado-y-gabinetes.webp" alt="El Secretariado del Gobierno y los Gabinetes" width="820">
 </p>
 
 <!-- FUENTE: GOB-APOYO -->
@@ -684,9 +684,9 @@ Tres peldaños: **real decreto** (Presidente o Consejo), **orden de Comisión De
 Los reales decretos del **Presidente** y los del **Consejo de Ministros** están en el **mismo nivel**. No hay jerarquía entre ellos.
 :::
 
-<!-- VISUAL:t05-22-la-jerarqu-a-normativa-de-las-disp.webp -->
+<!-- VISUAL:t05-22-jerarquia-normativa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-22-la-jerarqu-a-normativa-de-las-disp.webp" alt="La jerarquía normativa de las disposiciones del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-22-jerarquia-normativa.webp" alt="La jerarquía normativa de las disposiciones del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: GOB-NORMAS -->
@@ -715,9 +715,9 @@ Y una regla de exclusividad: lo dictaminado por el Consejo de Estado **no puede 
 Los dictámenes del Consejo de Estado **no son vinculantes** con carácter general. Solo lo son cuando una ley lo dispone expresamente.
 :::
 
-<!-- VISUAL:t05-23-el-consejo-de-estado-naturaleza-co.webp -->
+<!-- VISUAL:t05-23-consejo-de-estado.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-23-el-consejo-de-estado-naturaleza-co.webp" alt="El Consejo de Estado: naturaleza, composición y dictámenes" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-23-consejo-de-estado.webp" alt="El Consejo de Estado: naturaleza, composición y dictámenes" width="820">
 </p>
 
 <!-- VISUAL:t05-il-23-oido-o-de-acuerdo.webp -->
@@ -754,9 +754,9 @@ Regla del rango: **rango de ley o reforma constitucional al Pleno; reglamentos y
 **Preceptivo no es vinculante.** Un dictamen puede ser obligatorio de pedir y, aun así, el Gobierno puede apartarse de él usando la fórmula «oído el Consejo de Estado».
 :::
 
-<!-- VISUAL:t05-24-la-consulta-preceptiva-al-consejo.webp -->
+<!-- VISUAL:t05-24-consulta-preceptiva.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-24-la-consulta-preceptiva-al-consejo.webp" alt="La consulta preceptiva al Consejo de Estado" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-24-consulta-preceptiva.webp" alt="La consulta preceptiva al Consejo de Estado" width="820">
 </p>
 
 <!-- FUENTE: GOB-CONSEJO-ESTADO -->
@@ -787,9 +787,9 @@ Todos los órganos directivos son alto cargo **salvo los Subdirectores Generales
 Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero **no es alto cargo**. Es el error más repetido del tema.
 :::
 
-<!-- VISUAL:t05-25-el-estatuto-del-alto-cargo.webp -->
+<!-- VISUAL:t05-25-estatuto-alto-cargo.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-25-el-estatuto-del-alto-cargo.webp" alt="El estatuto del Alto Cargo" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-25-estatuto-alto-cargo.webp" alt="El estatuto del Alto Cargo" width="820">
 </p>
 
 <!-- VISUAL:t05-il-25-frontera-alto-cargo.webp -->
@@ -826,9 +826,9 @@ El Ministro impone la **separación del servicio** por faltas muy graves. Es la 
 **Declarar la lesividad** no es anular. La Administración declara lesivo el acto y luego debe impugnarlo ante los tribunales: no puede anularlo por sí sola.
 :::
 
-<!-- VISUAL:t05-26-los-ministros-como-rgano-superior.webp -->
+<!-- VISUAL:t05-26-ministros-organo-superior.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-26-los-ministros-como-rgano-superior.webp" alt="Los Ministros como órgano superior del Departamento" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-26-ministros-organo-superior.webp" alt="Los Ministros como órgano superior del Departamento" width="820">
 </p>
 
 <!-- FUENTE: AGE-SUPERIORES -->
@@ -859,9 +859,9 @@ El Subsecretario sanciona faltas **graves y muy graves salvo la separación del 
 El Subsecretario es **obligatorio** en todo Ministerio y **debe ser funcionario A1 sin excepción**. Los opcionales son las Secretarías de Estado y las Secretarías Generales.
 :::
 
-<!-- VISUAL:t05-27-los-subsecretarios.webp -->
+<!-- VISUAL:t05-27-subsecretarios.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-27-los-subsecretarios.webp" alt="Los Subsecretarios" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-27-subsecretarios.webp" alt="Los Subsecretarios" width="820">
 </p>
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
@@ -890,9 +890,9 @@ Una forma de no confundirlos: el **General** es el opcional y de arriba; el **Ge
 El **Secretario General** es el único órgano directivo que no exige la condición de funcionario de carrera. No lo confundas con el Secretario General Técnico, que sí la exige.
 :::
 
-<!-- VISUAL:t05-28-secretarios-generales-y-secretario.webp -->
+<!-- VISUAL:t05-28-secretarios-generales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-28-secretarios-generales-y-secretario.webp" alt="Secretarios Generales y Secretarios Generales Técnicos" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-28-secretarios-generales.webp" alt="Secretarios Generales y Secretarios Generales Técnicos" width="820">
 </p>
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
@@ -921,9 +921,9 @@ Escalera de exigencia: Subsecretario y SGT **siempre funcionarios**; Director Ge
 El **Subdirector General no se nombra por real decreto** ni es alto cargo. Lo nombra el Ministro, Secretario de Estado o Subsecretario del que dependa.
 :::
 
-<!-- VISUAL:t05-29-directores-generales-y-subdirector.webp -->
+<!-- VISUAL:t05-29-directores-y-subdirectores.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-29-directores-generales-y-subdirector.webp" alt="Directores Generales y Subdirectores Generales" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-29-directores-y-subdirectores.webp" alt="Directores Generales y Subdirectores Generales" width="820">
 </p>
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
@@ -952,9 +952,9 @@ Tres niveles: **Presidente** crea ministerios; **Consejo de Ministros** crea ór
 Las **unidades administrativas se crean por las relaciones de puestos de trabajo**, no por real decreto ni por orden ministerial.
 :::
 
-<!-- VISUAL:t05-30-creaci-n-de-rganos-servicios-comun.webp -->
+<!-- VISUAL:t05-30-creacion-de-organos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-30-creaci-n-de-rganos-servicios-comun.webp" alt="Creación de órganos, servicios comunes y unidades administrativas" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-30-creacion-de-organos.webp" alt="Creación de órganos, servicios comunes y unidades administrativas" width="820">
 </p>
 
 <!-- FUENTE: AGE-ORGANOS -->
@@ -989,9 +989,9 @@ Y dos apoyos especializados que conviene retener por su nombre exacto: la **Abog
 En comunidades **uniprovinciales** puede crearse Subdelegación **por real decreto** si lo justifican población, volumen de gestión o singularidades. No está prohibido, solo no es la regla.
 :::
 
-<!-- VISUAL:t05-31-delegaciones-y-subdelegaciones-del.webp -->
+<!-- VISUAL:t05-31-delegaciones-y-subdelegaciones.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-31-delegaciones-y-subdelegaciones-del.webp" alt="Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-31-delegaciones-y-subdelegaciones.webp" alt="Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales" width="820">
 </p>
 
 <!-- VISUAL:t05-il-31-integrados-no-integrados.webp -->
@@ -1026,9 +1026,9 @@ Doble dependencia: **orgánica de Presidencia del Gobierno**, **funcional del mi
 El **Delegado del Gobierno no necesita ser funcionario**; el **Subdelegado sí**, obligatoriamente funcionario de carrera A1.
 :::
 
-<!-- VISUAL:t05-32-los-delegados-del-gobierno-natural.webp -->
+<!-- VISUAL:t05-32-delegados-naturaleza.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-32-los-delegados-del-gobierno-natural.webp" alt="Los Delegados del Gobierno: naturaleza y nombramiento" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-32-delegados-naturaleza.webp" alt="Los Delegados del Gobierno: naturaleza y nombramiento" width="820">
 </p>
 
 <!-- FUENTE: AGE-PERIFERICA -->
@@ -1061,9 +1061,9 @@ En seguridad ciudadana el Delegado actúa **bajo dependencia funcional del Minis
 Los **Subdelegados los nombra el Delegado del Gobierno**, no el Ministro ni el Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-33-competencias-de-los-delegados-del.webp -->
+<!-- VISUAL:t05-33-delegados-competencias.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-33-competencias-de-los-delegados-del.webp" alt="Competencias de los Delegados del Gobierno" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-33-delegados-competencias.webp" alt="Competencias de los Delegados del Gobierno" width="820">
 </p>
 
 <!-- FUENTE: AGE-PERIFERICA -->
@@ -1096,9 +1096,9 @@ Delegado y Subdelegado en cuatro contrastes: **Subsecretario/Subdirector General
 El Subdelegado dirige las Fuerzas y Cuerpos de Seguridad en la provincia **bajo la dirección del Delegado del Gobierno**, no de forma autónoma.
 :::
 
-<!-- VISUAL:t05-34-subdelegados-del-gobierno-y-direct.webp -->
+<!-- VISUAL:t05-34-subdelegados-e-insulares.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-34-subdelegados-del-gobierno-y-direct.webp" alt="Subdelegados del Gobierno y Directores Insulares" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-34-subdelegados-e-insulares.webp" alt="Subdelegados del Gobierno y Directores Insulares" width="820">
 </p>
 
 <!-- FUENTE: AGE-PERIFERICA -->
@@ -1129,9 +1129,9 @@ Y las **denominaciones obligatorias**, que parecen anecdóticas y caen: «Organi
 La entidad pública empresarial se rige por Derecho privado **salvo tres excepciones**: formación de la voluntad de sus órganos, ejercicio de potestades administrativas y lo regulado específicamente por la ley.
 :::
 
-<!-- VISUAL:t05-35-el-sector-p-blico-institucional-es.webp -->
+<!-- VISUAL:t05-35-organismos-y-entidades.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-35-el-sector-p-blico-institucional-es.webp" alt="El sector público institucional estatal: organismos autónomos y entidades públicas empresariales" width="820">
+  <img src="../../../assets/policia-nacional/tema-05/t05-35-organismos-y-entidades.webp" alt="El sector público institucional estatal: organismos autónomos y entidades públicas empresariales" width="820">
 </p>
 
 <!-- VISUAL:t05-il-35-oa-frente-epe.webp -->
