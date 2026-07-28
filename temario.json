@@ -132,7 +132,7 @@
           "slug": "funcionarios-publicos",
           "title": "Los funcionarios públicos: concepto y clases. Adquisición y pérdida de la condición de funcionario",
           "content_version": "1.0.1",
-          "editorial_status": "ready_for_user_approval",
+          "editorial_status": "approved_internal",
           "publication_status": "not_published",
           "manifest": "conocimiento/policia-nacional/tema-06/manifest.json",
           "parte": "temas/policia-nacional/parte/tema-06-funcionarios-publicos.md",
@@ -141,15 +141,15 @@
           "evaluation_plan": "evaluaciones/policia-nacional/tema-06/plan.json",
           "assets": "assets/policia-nacional/tema-06/manifest.json",
           "teaching_materials": "materiales-didacticos/policia-nacional/tema-06/manifest.json",
-          "visual_version": "1.0.0",
-          "visual_assets": 11,
+          "visual_version": "1.1.0",
+          "visual_assets": 16,
           "official_exam_index": "banco-preguntas/policia-nacional/tema-06/indice-oficiales.json",
           "official_exam_mapped": 15,
           "official_exam_verified": 15,
           "ha_caido_active": 0,
           "visual_planned": 0,
           "atomic_facts": 94,
-          "question_count": 0
+          "question_count": 160
         }
       ]
     }

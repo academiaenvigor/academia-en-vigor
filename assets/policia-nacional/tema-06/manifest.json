@@ -3,15 +3,15 @@
   "opposition": "policia-nacional",
   "topic": "tema-06",
   "content_version": "1.0.1",
-  "visual_version": "1.0.0",
+  "visual_version": "1.1.0",
   "status": "integrated",
   "totals": {
-    "resources": 11,
-    "integrated": 11,
+    "resources": 16,
+    "integrated": 16,
     "planned": 0
   },
   "integration_status": "complete",
-  "integrated_at": "2026-07-27",
+  "integrated_at": "2026-07-28",
   "resources": [
     {
       "id": "PN-T06-DG01",
@@ -196,6 +196,91 @@
         "atestado"
       ],
       "description": "Dos vías: causa objetiva e inhabilitación; órganos y efectos del silencio",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T06-IL01",
+      "file": "t06-il-02-cuatro-clases-no-cinco.webp",
+      "title": "Cuatro clases del artículo 8 y el personal directivo fuera de la lista",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T06-IL02",
+      "file": "t06-il-04-reloj-interinidad.webp",
+      "title": "Reloj mnemotécnico de la interinidad: 3, necesario, 3+1 y 9 en 18",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Regla mnemotécnica de los cuatro supuestos de interinidad",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T06-IL03",
+      "file": "t06-il-08-escalera-adquisicion.webp",
+      "title": "Cuatro peldaños para adquirir la condición de funcionario de carrera",
+      "type": "ilustracion_simple",
+      "placement": "Bloques 09-10",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Superar, nombrar, acatar y tomar posesión como secuencia visual",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T06-IL04",
+      "file": "t06-il-09-separacion-no-suspension.webp",
+      "title": "Separación del servicio frente a suspensión",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "La separación pierde la condición; la suspensión la conserva",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T06-IL05",
+      "file": "t06-il-11-dos-llaves-rehabilitacion.webp",
+      "title": "Dos llaves de rehabilitación: vía reglada y vía excepcional",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Causa objetiva reglada frente a inhabilitación excepcional",
       "source_content_version": "1.0.1",
       "required_format": "webp",
       "max_bytes": 1000000

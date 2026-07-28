@@ -2,7 +2,7 @@
 
 **Policía Nacional · Método VIGOR · PARTE**
 **Versión de contenido:** 1.0.1
-**Estado editorial:** ready_for_user_approval · **Publicación:** not_published
+**Estado editorial:** approved_internal · **Publicación:** not_published
 
 # Mapa del tema
 
@@ -64,6 +64,12 @@ Cuatro casillas: carrera, interino, laboral y eventual. Si aparece «personal ac
 </p>
 <p align="center"><em>Infografía: las cuatro clases del artículo 8.</em></p>
 
+<!-- VISUAL:t06-il-02-cuatro-clases-no-cinco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-02-cuatro-clases-no-cinco.webp" alt="cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista" width="600">
+</p>
+<p align="center"><em>Ilustración: cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista.</em></p>
+
 <!-- MATERIAL PENDIENTE: t06-p1-audio -->
 <!-- MATERIAL PENDIENTE: t06-p1-video -->
 <!-- MATERIAL PENDIENTE: t06-p1-pres -->
@@ -115,6 +121,12 @@ Supuestos del artículo 10:
   <img src="../../../assets/policia-nacional/tema-06/t06-04-interinos-cuatro-supuestos.webp" alt="cuatro supuestos de interinidad y sus plazos" width="820">
 </p>
 <p align="center"><em>Infografía: cuatro supuestos de interinidad y sus plazos.</em></p>
+
+<!-- VISUAL:t06-il-04-reloj-interinidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-04-reloj-interinidad.webp" alt="regla mnemotécnica 3, necesario, 3+1 y 9 en 18" width="600">
+</p>
+<p align="center"><em>Ilustración: regla mnemotécnica 3, necesario, 3+1 y 9 en 18.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p2-audio -->
 <!-- MATERIAL PENDIENTE: t06-p2-video -->
@@ -236,6 +248,12 @@ El último requisito es la **toma de posesión**.
 </p>
 <p align="center"><em>Infografía: cuatro requisitos sucesivos de adquisición.</em></p>
 
+<!-- VISUAL:t06-il-08-escalera-adquisicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-08-escalera-adquisicion.webp" alt="los cuatro peldaños hasta adquirir la condición" width="600">
+</p>
+<p align="center"><em>Ilustración: los cuatro peldaños hasta adquirir la condición.</em></p>
+
 <!-- MATERIAL PENDIENTE: t06-p4-audio -->
 <!-- MATERIAL PENDIENTE: t06-p4-video -->
 <!-- MATERIAL PENDIENTE: t06-p4-pres -->
@@ -282,6 +300,12 @@ La Ley Orgánica 9/2015 recoge para Policía Nacional: jubilación, renuncia, p�
   <img src="../../../assets/policia-nacional/tema-06/t06-09-cinco-causas-perdida.webp" alt="comparación de las cinco causas de pérdida" width="820">
 </p>
 <p align="center"><em>Infografía: comparación de las cinco causas de pérdida.</em></p>
+
+<!-- VISUAL:t06-il-09-separacion-no-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-09-separacion-no-suspension.webp" alt="separación del servicio frente a suspensión" width="600">
+</p>
+<p align="center"><em>Ilustración: separación del servicio frente a suspensión.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p5-audio -->
 <!-- MATERIAL PENDIENTE: t06-p5-video -->
@@ -355,6 +379,12 @@ Policía Nacional:
   <img src="../../../assets/policia-nacional/tema-06/t06-11-rehabilitacion-dos-vias.webp" alt="dos vías de rehabilitación" width="820">
 </p>
 <p align="center"><em>Infografía: dos vías de rehabilitación.</em></p>
+
+<!-- VISUAL:t06-il-11-dos-llaves-rehabilitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-11-dos-llaves-rehabilitacion.webp" alt="vía reglada por causa objetiva frente a vía excepcional por inhabilitación" width="600">
+</p>
+<p align="center"><em>Ilustración: vía reglada por causa objetiva frente a vía excepcional por inhabilitación.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p5-audio -->
 <!-- MATERIAL PENDIENTE: t06-p5-video -->

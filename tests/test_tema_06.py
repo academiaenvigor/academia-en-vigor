@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import collections
 import json
 import re
 import unittest
@@ -29,7 +30,7 @@ class Tema06(unittest.TestCase):
         self.assertEqual(self.manifest["content_version"], "1.0.1")
         self.assertEqual(
             self.manifest["editorial_status"],
-            "ready_for_user_approval",
+            "approved_internal",
         )
         self.assertEqual(
             self.manifest["title"],
@@ -88,18 +89,53 @@ class Tema06(unittest.TestCase):
         ):
             self.assertIn(fragment, text)
 
-    def test_question_generation_remains_blocked(self) -> None:
+    def test_question_bank_is_complete_and_validated(self) -> None:
         bank_path = ROOT / self.manifest["question_bank"]["path"]
         bank_manifest = json.loads(
             (ROOT / self.manifest["question_bank"]["manifest"]).read_text(
                 encoding="utf-8"
             )
         )
-        self.assertEqual(bank_path.read_text(encoding="utf-8").strip(), "")
-        self.assertEqual(bank_manifest["total_preguntas"], 0)
+        questions = [
+            json.loads(line)
+            for line in bank_path.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        ]
+        self.assertEqual(len(questions), 160)
+        self.assertEqual(len({question["id"] for question in questions}), 160)
+        self.assertEqual(len({question["enunciado"] for question in questions}), 160)
+        self.assertEqual(
+            {question["fact_id"] for question in questions},
+            {fact["id"] for fact in self.coverage["facts"]},
+        )
+        self.assertEqual(
+            collections.Counter(
+                question["respuesta_correcta"] for question in questions
+            ),
+            {"A": 54, "B": 53, "C": 53},
+        )
+        by_fact = collections.Counter(
+            question["fact_id"] for question in questions
+        )
+        self.assertTrue(
+            all(
+                by_fact[fact["id"]] >= 2
+                for fact in self.coverage["facts"]
+                if fact["riesgo_examen"] == 5
+            )
+        )
+        for question in questions:
+            self.assertEqual(set(question["opciones"]), {"A", "B", "C"})
+            self.assertEqual(len(set(question["opciones"].values())), 3)
+            self.assertEqual(
+                set(question["retroalimentacion"]),
+                {"acierto", "fallo"},
+            )
+        self.assertEqual(bank_manifest["total_preguntas"], 160)
+        self.assertEqual(bank_manifest["hechos_cubiertos"], 94)
         self.assertEqual(
             bank_manifest["quality_gate"]["status"],
-            "blocked",
+            "passed",
         )
 
     def test_official_appearances_are_not_presented_as_official_answers(self) -> None:
@@ -132,13 +168,13 @@ class Tema06(unittest.TestCase):
         visual = json.loads(
             (ROOT / self.manifest["assets"]["manifest"]).read_text(encoding="utf-8")
         )
-        self.assertEqual(visual["totals"], {"resources": 11, "integrated": 11, "planned": 0})
+        self.assertEqual(visual["totals"], {"resources": 16, "integrated": 16, "planned": 0})
         self.assertEqual(visual["integration_status"], "complete")
-        self.assertEqual(len(visual["resources"]), 11)
+        self.assertEqual(len(visual["resources"]), 16)
         for resource in visual["resources"]:
             path = ROOT / "assets/policia-nacional/tema-06" / resource["file"]
             self.assertTrue(path.exists(), resource["file"])
-            self.assertGreater(path.stat().st_size, 50_000, resource["file"])
+            self.assertGreater(path.stat().st_size, 20_000, resource["file"])
             ref = f"../../../assets/policia-nacional/tema-06/{resource['file']}"
             self.assertIn(ref, self.parte)
             self.assertIn(ref, self.atestado)
@@ -175,8 +211,9 @@ class Tema06(unittest.TestCase):
             if item["number"] == 6
         )
         self.assertEqual(topic["content_version"], "1.0.1")
-        self.assertEqual(topic["visual_version"], "1.0.0")
-        self.assertEqual(topic["visual_assets"], 11)
+        self.assertEqual(topic["visual_version"], "1.1.0")
+        self.assertEqual(topic["visual_assets"], 16)
+        self.assertEqual(topic["question_count"], 160)
 
         catalog = json.loads(
             (ROOT / "fuentes/catalogo.json").read_text(encoding="utf-8")

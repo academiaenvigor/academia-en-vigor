@@ -4,7 +4,7 @@
   "oposicion": "policia-nacional",
   "topic": "tema-06",
   "tema": 6,
-  "status": "complete_atomic_fact_extraction_no_questions",
+  "status": "complete_validated_question_bank",
   "scope": {
     "blocks_completed": [
       1,
@@ -27,9 +27,9 @@
     "remaining_blocks": []
   },
   "total_atomic_facts": 94,
-  "covered_atomic_facts": 0,
-  "coverage_percent": 0.0,
-  "total_questions": 0,
+  "covered_atomic_facts": 94,
+  "coverage_percent": 100.0,
+  "total_questions": 160,
   "requirements": {},
   "facts": [
     {
@@ -43,12 +43,15 @@
       "punto": 1,
       "enunciado_atomico": "El Tema 6 oficial comprende el concepto y las clases de funcionarios públicos, además de la adquisición y pérdida de la condición de funcionario.",
       "fuente": "CONV-PN-2026",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q001",
+        "PN-T06-Q002"
+      ],
+      "covered": true,
       "anchor_score": 1.0667
     },
     {
@@ -62,12 +65,14 @@
       "punto": 1,
       "enunciado_atomico": "El artículo 23.2 reconoce el derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
       "fuente": "CE-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q003"
+      ],
+      "covered": true,
       "anchor_score": 1.0889
     },
     {
@@ -81,12 +86,15 @@
       "punto": 1,
       "enunciado_atomico": "El artículo 103.3 dispone que la ley regulará el estatuto de los funcionarios y el acceso a la función pública conforme a mérito y capacidad.",
       "fuente": "CE-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q004",
+        "PN-T06-Q005"
+      ],
+      "covered": true,
       "anchor_score": 1.0963
     },
     {
@@ -100,12 +108,15 @@
       "punto": 1,
       "enunciado_atomico": "El artículo 4 del TREBEP incluye al personal de las Fuerzas y Cuerpos de Seguridad entre el personal con legislación específica propia, al que el Estatuto solo se aplica directamente cuando así lo disponga esa legislación.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q006",
+        "PN-T06-Q007"
+      ],
+      "covered": true,
       "anchor_score": 1.0766
     },
     {
@@ -119,12 +130,15 @@
       "punto": 1,
       "enunciado_atomico": "El régimen estatutario de los Policías Nacionales se rige por la Ley Orgánica 9/2015 y sus normas de desarrollo, y utiliza como derecho supletorio la legislación de los funcionarios civiles de la Administración General del Estado.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q008",
+        "PN-T06-Q009"
+      ],
+      "covered": true,
       "anchor_score": 1.0851
     },
     {
@@ -138,12 +152,15 @@
       "punto": 2,
       "enunciado_atomico": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q010",
+        "PN-T06-Q011"
+      ],
+      "covered": true,
       "anchor_score": 1.0857
     },
     {
@@ -157,12 +174,15 @@
       "punto": 2,
       "enunciado_atomico": "El artículo 8.2 del TREBEP clasifica a los empleados públicos en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q012",
+        "PN-T06-Q013"
+      ],
+      "covered": true,
       "anchor_score": 1.1048
     },
     {
@@ -176,12 +196,14 @@
       "punto": 2,
       "enunciado_atomico": "El personal laboral puede ser fijo, por tiempo indefinido o temporal.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q014"
+      ],
+      "covered": true,
       "anchor_score": 1.0762
     },
     {
@@ -195,12 +217,14 @@
       "punto": 2,
       "enunciado_atomico": "La expresión «personal accidental» no figura entre las clases de empleados públicos del artículo 8.2 del TREBEP.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q015"
+      ],
+      "covered": true,
       "anchor_score": 1.0857
     },
     {
@@ -214,12 +238,15 @@
       "punto": 2,
       "enunciado_atomico": "El personal directivo profesional no aparece como quinta clase en la enumeración cerrada del artículo 8.2, sino en un capítulo separado.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q016",
+        "PN-T06-Q017"
+      ],
+      "covered": true,
       "anchor_score": 1.0963
     },
     {
@@ -233,12 +260,15 @@
       "punto": 3,
       "enunciado_atomico": "Es funcionario de carrera quien, por nombramiento legal, queda vinculado a una Administración Pública mediante una relación estatutaria regulada por el Derecho Administrativo para prestar servicios profesionales retribuidos de carácter permanente.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q018",
+        "PN-T06-Q019"
+      ],
+      "covered": true,
       "anchor_score": 1.1313
     },
     {
@@ -252,12 +282,14 @@
       "punto": 3,
       "enunciado_atomico": "La relación del funcionario de carrera es estatutaria: sus derechos y obligaciones se determinan por normas y no por un contrato individual de trabajo.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q020"
+      ],
+      "covered": true,
       "anchor_score": 1.1222
     },
     {
@@ -271,12 +303,14 @@
       "punto": 3,
       "enunciado_atomico": "El carácter permanente se predica de la relación de servicio, no de la intangibilidad de un puesto concreto.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 3,
       "risk": 3,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q021"
+      ],
+      "covered": true,
       "anchor_score": 1.0889
     },
     {
@@ -290,12 +324,15 @@
       "punto": 3,
       "enunciado_atomico": "Las funciones que impliquen participación directa o indirecta en potestades públicas o salvaguardia de intereses generales corresponden exclusivamente a funcionarios públicos, en los términos de la ley de desarrollo de cada Administración.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q022",
+        "PN-T06-Q023"
+      ],
+      "covered": true,
       "anchor_score": 1.1152
     },
     {
@@ -309,12 +346,15 @@
       "punto": 4,
       "enunciado_atomico": "El funcionario interino es nombrado con carácter temporal, por razones expresamente justificadas de necesidad y urgencia, para desempeñar funciones propias de funcionarios de carrera.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q024",
+        "PN-T06-Q025"
+      ],
+      "covered": true,
       "anchor_score": 1.1111
     },
     {
@@ -328,12 +368,15 @@
       "punto": 4,
       "enunciado_atomico": "Puede nombrarse personal interino por plazas vacantes no cubiertas por funcionarios de carrera, por un máximo de tres años y con las reglas del artículo 10.4.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q026",
+        "PN-T06-Q027"
+      ],
+      "covered": true,
       "anchor_score": 0.9827
     },
     {
@@ -347,12 +390,14 @@
       "punto": 4,
       "enunciado_atomico": "Puede nombrarse personal interino para la sustitución transitoria de titulares durante el tiempo estrictamente necesario.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q028"
+      ],
+      "covered": true,
       "anchor_score": 1.0417
     },
     {
@@ -366,12 +411,15 @@
       "punto": 4,
       "enunciado_atomico": "Los programas temporales pueden justificar interinos durante un máximo de tres años, ampliable hasta doce meses más por las leyes de Función Pública de desarrollo.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q029",
+        "PN-T06-Q030"
+      ],
+      "covered": true,
       "anchor_score": 1.0708
     },
     {
@@ -385,12 +433,15 @@
       "punto": 4,
       "enunciado_atomico": "El exceso o acumulación de tareas permite nombrar interinos por un máximo de nueve meses dentro de un periodo de dieciocho meses.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q031",
+        "PN-T06-Q032"
+      ],
+      "covered": true,
       "anchor_score": 1.05
     },
     {
@@ -404,12 +455,15 @@
       "punto": 5,
       "enunciado_atomico": "La selección de funcionarios interinos debe ser pública y respetar igualdad, mérito, capacidad, publicidad y celeridad.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q033",
+        "PN-T06-Q034"
+      ],
+      "covered": true,
       "anchor_score": 1.0889
     },
     {
@@ -423,12 +477,15 @@
       "punto": 5,
       "enunciado_atomico": "La selección interina busca la cobertura inmediata del puesto y el nombramiento nunca reconoce por sí mismo la condición de funcionario de carrera.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q035",
+        "PN-T06-Q036"
+      ],
+      "covered": true,
       "anchor_score": 1.0963
     },
     {
@@ -442,12 +499,14 @@
       "punto": 5,
       "enunciado_atomico": "La cobertura reglada del puesto por personal funcionario de carrera pone fin a la interinidad sin compensación.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q037"
+      ],
+      "covered": true,
       "anchor_score": 1.0833
     },
     {
@@ -461,12 +520,14 @@
       "punto": 5,
       "enunciado_atomico": "La supresión o amortización del puesto por razones organizativas pone fin a la interinidad sin compensación.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q038"
+      ],
+      "covered": true,
       "anchor_score": 1.075
     },
     {
@@ -480,12 +541,14 @@
       "punto": 5,
       "enunciado_atomico": "La finalización del plazo autorizado en el nombramiento pone fin a la interinidad sin compensación.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q039"
+      ],
+      "covered": true,
       "anchor_score": 1.0667
     },
     {
@@ -499,12 +562,14 @@
       "punto": 5,
       "enunciado_atomico": "La desaparición de la causa que justificó el nombramiento pone fin a la interinidad sin compensación.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q040"
+      ],
+      "covered": true,
       "anchor_score": 1.0667
     },
     {
@@ -518,12 +583,15 @@
       "punto": 5,
       "enunciado_atomico": "Tras tres años desde el nombramiento por vacante finaliza la interinidad y la vacante solo puede ocuparla personal de carrera, salvo proceso selectivo desierto.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q041",
+        "PN-T06-Q042"
+      ],
+      "covered": true,
       "anchor_score": 1.0042
     },
     {
@@ -537,12 +605,15 @@
       "punto": 5,
       "enunciado_atomico": "El interino puede permanecer excepcionalmente si la convocatoria se publicó dentro de los tres años y hasta que se resuelva en plazo, sin compensación al cesar.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q043",
+        "PN-T06-Q044"
+      ],
+      "covered": true,
       "anchor_score": 0.9863
     },
     {
@@ -556,12 +627,15 @@
       "punto": 5,
       "enunciado_atomico": "Al interino se aplica el régimen del funcionario de carrera cuando sea compatible con su temporalidad, salvo derechos inherentes a la condición de carrera.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q045",
+        "PN-T06-Q046"
+      ],
+      "covered": true,
       "anchor_score": 0.9764
     },
     {
@@ -575,12 +649,15 @@
       "punto": 5,
       "enunciado_atomico": "La compensación de la disposición adicional decimoséptima nace por incumplir el plazo máximo de permanencia, no por un cese regular.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q047",
+        "PN-T06-Q048"
+      ],
+      "covered": true,
       "anchor_score": 1.0579
     },
     {
@@ -594,12 +671,15 @@
       "punto": 5,
       "enunciado_atomico": "La compensación del interino afectado equivale a veinte días de retribuciones fijas por año, prorrateados por meses y con máximo de doce mensualidades.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q049",
+        "PN-T06-Q050"
+      ],
+      "covered": true,
       "anchor_score": 1.0737
     },
     {
@@ -613,12 +693,14 @@
       "punto": 5,
       "enunciado_atomico": "No hay derecho a esa compensación por terminación disciplinaria o renuncia voluntaria.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q051"
+      ],
+      "covered": true,
       "anchor_score": 0.7816
     },
     {
@@ -632,12 +714,15 @@
       "punto": 6,
       "enunciado_atomico": "Es personal laboral quien presta servicios retribuidos a una Administración mediante contrato de trabajo escrito y conforme a la legislación laboral.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q052",
+        "PN-T06-Q053"
+      ],
+      "covered": true,
       "anchor_score": 1.0322
     },
     {
@@ -651,12 +736,14 @@
       "punto": 6,
       "enunciado_atomico": "Según la duración del contrato, el personal laboral puede ser fijo, por tiempo indefinido o temporal.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q054"
+      ],
+      "covered": true,
       "anchor_score": 1.1
     },
     {
@@ -670,12 +757,15 @@
       "punto": 6,
       "enunciado_atomico": "Las leyes de Función Pública determinan qué puestos puede desempeñar personal laboral, respetando la reserva funcional del artículo 9.2.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q055",
+        "PN-T06-Q056"
+      ],
+      "covered": true,
       "anchor_score": 1.0813
     },
     {
@@ -689,12 +779,14 @@
       "punto": 6,
       "enunciado_atomico": "La selección del personal laboral debe ser pública y respetar igualdad, mérito y capacidad.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q057"
+      ],
+      "covered": true,
       "anchor_score": 1.0625
     },
     {
@@ -708,12 +800,14 @@
       "punto": 6,
       "enunciado_atomico": "La selección del personal laboral temporal añade celeridad y exige razones justificadas de necesidad y urgencia.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q058"
+      ],
+      "covered": true,
       "anchor_score": 0.9716
     },
     {
@@ -727,12 +821,14 @@
       "punto": 6,
       "enunciado_atomico": "El personal laboral se rige por la legislación laboral, normas convencionales y los preceptos del TREBEP que así lo dispongan.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q059"
+      ],
+      "covered": true,
       "anchor_score": 1.0769
     },
     {
@@ -746,12 +842,15 @@
       "punto": 7,
       "enunciado_atomico": "El personal eventual, por nombramiento y con carácter no permanente, solo realiza funciones de confianza o asesoramiento especial.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q060",
+        "PN-T06-Q061"
+      ],
+      "covered": true,
       "anchor_score": 1.1
     },
     {
@@ -765,12 +864,14 @@
       "punto": 7,
       "enunciado_atomico": "La retribución del eventual se carga a créditos presupuestarios consignados para esa finalidad.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 3,
       "risk": 3,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q062"
+      ],
+      "covered": true,
       "anchor_score": 1.0727
     },
     {
@@ -784,12 +885,14 @@
       "punto": 7,
       "enunciado_atomico": "Las leyes determinan qué órganos pueden disponer de eventual, y su número máximo y condiciones retributivas son públicos.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q063"
+      ],
+      "covered": true,
       "anchor_score": 1.0649
     },
     {
@@ -803,12 +906,15 @@
       "punto": 7,
       "enunciado_atomico": "El nombramiento y cese del eventual son libres, y cesa en todo caso al cesar la autoridad a la que asesora.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q064",
+        "PN-T06-Q065"
+      ],
+      "covered": true,
       "anchor_score": 0.8668
     },
     {
@@ -822,12 +928,15 @@
       "punto": 7,
       "enunciado_atomico": "La condición de eventual no puede ser mérito para acceso a la función pública ni promoción interna.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q066",
+        "PN-T06-Q067"
+      ],
+      "covered": true,
       "anchor_score": 0.9947
     },
     {
@@ -841,12 +950,14 @@
       "punto": 7,
       "enunciado_atomico": "Al eventual se aplica el régimen general de carrera en lo adecuado a su naturaleza.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q068"
+      ],
+      "covered": true,
       "anchor_score": 1.0737
     },
     {
@@ -860,12 +971,14 @@
       "punto": 8,
       "enunciado_atomico": "Es personal directivo quien desarrolla funciones directivas profesionales definidas por las normas específicas.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q069"
+      ],
+      "covered": true,
       "anchor_score": 1.08
     },
     {
@@ -879,12 +992,15 @@
       "punto": 8,
       "enunciado_atomico": "La designación directiva atiende a mérito, capacidad e idoneidad y garantiza publicidad y concurrencia.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q070",
+        "PN-T06-Q071"
+      ],
+      "covered": true,
       "anchor_score": 0.8338
     },
     {
@@ -898,12 +1014,14 @@
       "punto": 8,
       "enunciado_atomico": "El directivo se evalúa por eficacia, eficiencia, responsabilidad de gestión y control de resultados.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q072"
+      ],
+      "covered": true,
       "anchor_score": 1.0471
     },
     {
@@ -917,12 +1035,14 @@
       "punto": 8,
       "enunciado_atomico": "Sus condiciones de empleo no son materia objeto de negociación colectiva a efectos del TREBEP.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q073"
+      ],
+      "covered": true,
       "anchor_score": 0.9359
     },
     {
@@ -936,12 +1056,14 @@
       "punto": 8,
       "enunciado_atomico": "El directivo laboral queda sometido a la relación laboral especial de alta dirección.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q074"
+      ],
+      "covered": true,
       "anchor_score": 1.0471
     },
     {
@@ -955,12 +1077,15 @@
       "punto": 9,
       "enunciado_atomico": "La condición de funcionario de carrera se adquiere cumpliendo sucesivamente los cuatro requisitos del artículo 62 TREBEP.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q075",
+        "PN-T06-Q076"
+      ],
+      "covered": true,
       "anchor_score": 0.9
     },
     {
@@ -974,12 +1099,14 @@
       "punto": 9,
       "enunciado_atomico": "El primer requisito es superar el proceso selectivo.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q077"
+      ],
+      "covered": true,
       "anchor_score": 1.0323
     },
     {
@@ -993,12 +1120,15 @@
       "punto": 9,
       "enunciado_atomico": "El segundo es el nombramiento competente publicado en el diario oficial correspondiente.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q078",
+        "PN-T06-Q079"
+      ],
+      "covered": true,
       "anchor_score": 0.8959
     },
     {
@@ -1012,12 +1142,15 @@
       "punto": 9,
       "enunciado_atomico": "El tercero es acatar la Constitución y, en su caso, el Estatuto de Autonomía y el resto del ordenamiento.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q080",
+        "PN-T06-Q081"
+      ],
+      "covered": true,
       "anchor_score": 0.9202
     },
     {
@@ -1031,12 +1164,15 @@
       "punto": 9,
       "enunciado_atomico": "El cuarto y último requisito es tomar posesión dentro del plazo.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q082",
+        "PN-T06-Q083"
+      ],
+      "covered": true,
       "anchor_score": 1.0452
     },
     {
@@ -1050,12 +1186,15 @@
       "punto": 9,
       "enunciado_atomico": "Quien no acredite los requisitos de la convocatoria tras aprobar no puede ser funcionario y ve sin efecto las actuaciones relativas a su nombramiento.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q084",
+        "PN-T06-Q085"
+      ],
+      "covered": true,
       "anchor_score": 1.0231
     },
     {
@@ -1069,12 +1208,14 @@
       "punto": 10,
       "enunciado_atomico": "Los funcionarios de carrera de la Policía Nacional reciben la denominación genérica de Policías Nacionales.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q086"
+      ],
+      "covered": true,
       "anchor_score": 1.0947
     },
     {
@@ -1088,12 +1229,15 @@
       "punto": 10,
       "enunciado_atomico": "La condición de funcionario de carrera de Policía Nacional se adquiere por cuatro requisitos sucesivos.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q087",
+        "PN-T06-Q088"
+      ],
+      "covered": true,
       "anchor_score": 0.946
     },
     {
@@ -1107,12 +1251,15 @@
       "punto": 10,
       "enunciado_atomico": "Los requisitos policiales son superar el proceso, nombramiento competente, acatamiento y toma de posesión.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q089",
+        "PN-T06-Q090"
+      ],
+      "covered": true,
       "anchor_score": 0.75
     },
     {
@@ -1126,12 +1273,15 @@
       "punto": 10,
       "enunciado_atomico": "El artículo 4 LO 9/2015 no menciona expresamente la publicación del nombramiento, a diferencia del artículo 62 TREBEP.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q091",
+        "PN-T06-Q092"
+      ],
+      "covered": true,
       "anchor_score": 1.0593
     },
     {
@@ -1145,12 +1295,15 @@
       "punto": 10,
       "enunciado_atomico": "El acatamiento policial no incluye la referencia expresa al Estatuto de Autonomía que aparece en el TREBEP.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q093",
+        "PN-T06-Q094"
+      ],
+      "covered": true,
       "anchor_score": 0.9481
     },
     {
@@ -1164,12 +1317,14 @@
       "punto": 10,
       "enunciado_atomico": "El Título I LO 9/2015 regula carrera policial, no la clasificación general de todos los empleados públicos.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q095"
+      ],
+      "covered": true,
       "anchor_score": 0.9857
     },
     {
@@ -1183,12 +1338,15 @@
       "punto": 11,
       "enunciado_atomico": "El TREBEP fija cinco causas: renuncia, pérdida de nacionalidad, jubilación total, separación firme e inhabilitación firme.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q096",
+        "PN-T06-Q097"
+      ],
+      "covered": true,
       "anchor_score": 0.99
     },
     {
@@ -1202,12 +1360,15 @@
       "punto": 11,
       "enunciado_atomico": "La separación del servicio solo causa pérdida cuando la sanción es firme.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q098",
+        "PN-T06-Q099"
+      ],
+      "covered": true,
       "anchor_score": 0.9217
     },
     {
@@ -1221,12 +1382,15 @@
       "punto": 11,
       "enunciado_atomico": "La inhabilitación causa pérdida cuando es pena principal o accesoria, absoluta o especial, impuesta por sentencia firme.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q100",
+        "PN-T06-Q101"
+      ],
+      "covered": true,
       "anchor_score": 0.99
     },
     {
@@ -1240,12 +1404,15 @@
       "punto": 11,
       "enunciado_atomico": "La LO 9/2015 fija cinco causas policiales: jubilación, renuncia, pérdida de nacionalidad española, separación firme e inhabilitación firme.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q102",
+        "PN-T06-Q103"
+      ],
+      "covered": true,
       "anchor_score": 0.9109
     },
     {
@@ -1259,12 +1426,15 @@
       "punto": 11,
       "enunciado_atomico": "El TREBEP dice jubilación total; la LO 9/2015 dice jubilación y desarrolla modalidades.",
       "fuente": "TREBEP-T06,LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q104",
+        "PN-T06-Q105"
+      ],
+      "covered": true,
       "anchor_score": 0.8924
     },
     {
@@ -1278,12 +1448,15 @@
       "punto": 11,
       "enunciado_atomico": "En Policía la causa es pérdida de nacionalidad española; en el régimen general se atiende a la nacionalidad relevante para el nombramiento.",
       "fuente": "TREBEP-T06,LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q106",
+        "PN-T06-Q107"
+      ],
+      "covered": true,
       "anchor_score": 1.0588
     },
     {
@@ -1297,12 +1470,15 @@
       "punto": 12,
       "enunciado_atomico": "La renuncia general debe constar por escrito y aceptarse expresamente.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q108",
+        "PN-T06-Q109"
+      ],
+      "covered": true,
       "anchor_score": 0.8985
     },
     {
@@ -1316,12 +1492,15 @@
       "punto": 12,
       "enunciado_atomico": "La renuncia general no se acepta con expediente disciplinario o auto de procesamiento o apertura de juicio oral por algún delito.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q110",
+        "PN-T06-Q111"
+      ],
+      "covered": true,
       "anchor_score": 0.9925
     },
     {
@@ -1335,12 +1514,15 @@
       "punto": 12,
       "enunciado_atomico": "La renuncia no impide volver a ingresar mediante un nuevo proceso selectivo.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q112",
+        "PN-T06-Q113"
+      ],
+      "covered": true,
       "anchor_score": 0.6595
     },
     {
@@ -1354,12 +1536,15 @@
       "punto": 12,
       "enunciado_atomico": "La renuncia policial debe aceptarse expresamente en un máximo de tres meses.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q114",
+        "PN-T06-Q115"
+      ],
+      "covered": true,
       "anchor_score": 0.9187
     },
     {
@@ -1373,12 +1558,15 @@
       "punto": 12,
       "enunciado_atomico": "En Policía no se acepta con expediente disciplinario o auto de procesamiento o apertura de juicio oral por delito doloso.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q116",
+        "PN-T06-Q117"
+      ],
+      "covered": true,
       "anchor_score": 1.0688
     },
     {
@@ -1392,12 +1580,14 @@
       "punto": 12,
       "enunciado_atomico": "La renuncia policial no impide un nuevo ingreso conforme a la ley.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q118"
+      ],
+      "covered": true,
       "anchor_score": 0.8946
     },
     {
@@ -1411,12 +1601,15 @@
       "punto": 12,
       "enunciado_atomico": "La pérdida de la nacionalidad relevante causa pérdida salvo adquisición simultánea de otra nacionalidad habilitante.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q119",
+        "PN-T06-Q120"
+      ],
+      "covered": true,
       "anchor_score": 0.6056
     },
     {
@@ -1430,12 +1623,15 @@
       "punto": 12,
       "enunciado_atomico": "La pérdida de nacionalidad española causa pérdida de la condición de Policía Nacional.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q121",
+        "PN-T06-Q122"
+      ],
+      "covered": true,
       "anchor_score": 1.07
     },
     {
@@ -1449,12 +1645,15 @@
       "punto": 12,
       "enunciado_atomico": "La inhabilitación absoluta firme alcanza todos los empleos o cargos.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q123",
+        "PN-T06-Q124"
+      ],
+      "covered": true,
       "anchor_score": 0.9321
     },
     {
@@ -1468,12 +1667,15 @@
       "punto": 12,
       "enunciado_atomico": "La inhabilitación especial firme alcanza solo los empleos o cargos de la sentencia.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q125",
+        "PN-T06-Q126"
+      ],
+      "covered": true,
       "anchor_score": 0.9625
     },
     {
@@ -1487,12 +1689,15 @@
       "punto": 13,
       "enunciado_atomico": "El TREBEP contempla jubilación voluntaria, forzosa y por incapacidad permanente.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q127",
+        "PN-T06-Q128"
+      ],
+      "covered": true,
       "anchor_score": 1.0737
     },
     {
@@ -1506,12 +1711,14 @@
       "punto": 13,
       "enunciado_atomico": "La jubilación voluntaria exige los requisitos del régimen de Seguridad Social aplicable.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q129"
+      ],
+      "covered": true,
       "anchor_score": 1.0842
     },
     {
@@ -1525,12 +1732,15 @@
       "punto": 13,
       "enunciado_atomico": "El artículo 67.3 fija como regla general la jubilación forzosa de oficio a los sesenta y cinco años.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q130",
+        "PN-T06-Q131"
+      ],
+      "covered": true,
       "anchor_score": 1.044
     },
     {
@@ -1544,12 +1754,15 @@
       "punto": 13,
       "enunciado_atomico": "Puede solicitarse prolongación como máximo hasta setenta años y la decisión debe motivarse.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q132",
+        "PN-T06-Q133"
+      ],
+      "covered": true,
       "anchor_score": 0.6644
     },
     {
@@ -1563,12 +1776,15 @@
       "punto": 13,
       "enunciado_atomico": "La regla de 65 y prolongación hasta 70 excluye a funcionarios con normas estatales específicas.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q134",
+        "PN-T06-Q135"
+      ],
+      "covered": true,
       "anchor_score": 0.903
     },
     {
@@ -1582,12 +1798,15 @@
       "punto": 13,
       "enunciado_atomico": "Para funcionarios del Régimen General rige la edad ordinaria contributiva sin coeficiente reductor.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q136",
+        "PN-T06-Q137"
+      ],
+      "covered": true,
       "anchor_score": 0.8058
     },
     {
@@ -1601,12 +1820,15 @@
       "punto": 13,
       "enunciado_atomico": "La jubilación policial puede ser voluntaria, forzosa o por incapacidad permanente.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q138",
+        "PN-T06-Q139"
+      ],
+      "covered": true,
       "anchor_score": 1.039
     },
     {
@@ -1620,12 +1842,15 @@
       "punto": 13,
       "enunciado_atomico": "La jubilación forzosa policial se declara a los 65 si se cumplen requisitos de Seguridad Social.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q140",
+        "PN-T06-Q141"
+      ],
+      "covered": true,
       "anchor_score": 1.039
     },
     {
@@ -1639,12 +1864,15 @@
       "punto": 13,
       "enunciado_atomico": "La persona titular de la Dirección Adjunta Operativa puede seguir activa tras los 65 mientras mantenga el cargo.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q142",
+        "PN-T06-Q143"
+      ],
+      "covered": true,
       "anchor_score": 0.7939
     },
     {
@@ -1658,12 +1886,14 @@
       "punto": 13,
       "enunciado_atomico": "La incapacidad policial debe ser permanente para las funciones atribuidas a Policía Nacional.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 4,
       "risk": 4,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q144"
+      ],
+      "covered": true,
       "anchor_score": 0.9279
     },
     {
@@ -1677,12 +1907,15 @@
       "punto": 14,
       "enunciado_atomico": "Desaparecida la causa de pérdida de nacionalidad o jubilación por incapacidad, la rehabilitación general debe concederse.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q145",
+        "PN-T06-Q146"
+      ],
+      "covered": true,
       "anchor_score": 1.0556
     },
     {
@@ -1696,12 +1929,15 @@
       "punto": 14,
       "enunciado_atomico": "La rehabilitación general tras inhabilitación es excepcional y atiende a circunstancias y entidad del delito.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q147",
+        "PN-T06-Q148"
+      ],
+      "covered": true,
       "anchor_score": 0.9333
     },
     {
@@ -1715,12 +1951,15 @@
       "punto": 14,
       "enunciado_atomico": "El silencio en la rehabilitación excepcional por inhabilitación del artículo 68.2 TREBEP es desestimatorio.",
       "fuente": "TREBEP-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q149",
+        "PN-T06-Q150"
+      ],
+      "covered": true,
       "anchor_score": 0.8935
     },
     {
@@ -1734,12 +1973,15 @@
       "punto": 14,
       "enunciado_atomico": "El RD 2669/1998 fija seis meses como duración máxima del procedimiento de rehabilitación en AGE.",
       "fuente": "RD2669-1998",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q151",
+        "PN-T06-Q152"
+      ],
+      "covered": true,
       "anchor_score": 0.8727
     },
     {
@@ -1753,12 +1995,15 @@
       "punto": 14,
       "enunciado_atomico": "La regla posterior del artículo 68.2 TREBEP impone silencio negativo para inhabilitación pese a la regla general positiva del RD 2669/1998.",
       "fuente": "TREBEP-T06,RD2669-1998",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q153",
+        "PN-T06-Q154"
+      ],
+      "covered": true,
       "anchor_score": 0.8298
     },
     {
@@ -1772,12 +2017,15 @@
       "punto": 14,
       "enunciado_atomico": "La recuperación policial tras nacionalidad o incapacidad exige cumplir también los requisitos del artículo 26.1.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q155",
+        "PN-T06-Q156"
+      ],
+      "covered": true,
       "anchor_score": 0.8356
     },
     {
@@ -1791,12 +2039,15 @@
       "punto": 14,
       "enunciado_atomico": "La rehabilitación policial tras inhabilitación puede concederla el Consejo de Ministros a propuesta del Ministro del Interior.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q157",
+        "PN-T06-Q158"
+      ],
+      "covered": true,
       "anchor_score": 1.0489
     },
     {
@@ -1810,12 +2061,15 @@
       "punto": 14,
       "enunciado_atomico": "El silencio en la rehabilitación policial excepcional por inhabilitación es desestimatorio.",
       "fuente": "LO9-2015-T06",
-      "estado_revision": "fuente_oficial_comprobada_lista_para_aprobacion",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
       "content_version": "1.0.1",
       "riesgo_examen": 5,
       "risk": 5,
-      "preguntas": [],
-      "covered": false,
+      "preguntas": [
+        "PN-T06-Q159",
+        "PN-T06-Q160"
+      ],
+      "covered": true,
       "anchor_score": 0.6909
     }
   ],
@@ -1824,85 +2078,85 @@
       "number": 1,
       "title": null,
       "facts": 5,
-      "covered_facts": 0
+      "covered_facts": 5
     },
     {
       "number": 2,
       "title": null,
       "facts": 5,
-      "covered_facts": 0
+      "covered_facts": 5
     },
     {
       "number": 3,
       "title": null,
       "facts": 4,
-      "covered_facts": 0
+      "covered_facts": 4
     },
     {
       "number": 4,
       "title": null,
       "facts": 5,
-      "covered_facts": 0
+      "covered_facts": 5
     },
     {
       "number": 5,
       "title": null,
       "facts": 12,
-      "covered_facts": 0
+      "covered_facts": 12
     },
     {
       "number": 6,
       "title": null,
       "facts": 6,
-      "covered_facts": 0
+      "covered_facts": 6
     },
     {
       "number": 7,
       "title": null,
       "facts": 6,
-      "covered_facts": 0
+      "covered_facts": 6
     },
     {
       "number": 8,
       "title": null,
       "facts": 5,
-      "covered_facts": 0
+      "covered_facts": 5
     },
     {
       "number": 9,
       "title": null,
       "facts": 6,
-      "covered_facts": 0
+      "covered_facts": 6
     },
     {
       "number": 10,
       "title": null,
       "facts": 6,
-      "covered_facts": 0
+      "covered_facts": 6
     },
     {
       "number": 11,
       "title": null,
       "facts": 6,
-      "covered_facts": 0
+      "covered_facts": 6
     },
     {
       "number": 12,
       "title": null,
       "facts": 10,
-      "covered_facts": 0
+      "covered_facts": 10
     },
     {
       "number": 13,
       "title": null,
       "facts": 10,
-      "covered_facts": 0
+      "covered_facts": 10
     },
     {
       "number": 14,
       "title": null,
       "facts": 8,
-      "covered_facts": 0
+      "covered_facts": 8
     }
   ]
 }

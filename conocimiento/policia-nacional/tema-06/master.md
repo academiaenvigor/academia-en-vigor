@@ -2,7 +2,7 @@
 
 <!-- content_version: 1.0.1 -->
 <!-- opposition: policia-nacional -->
-<!-- status: ready_for_user_approval; publication: not_published -->
+<!-- status: approved_internal; publication: not_published -->
 
 Base creada con redacción propia a partir de fuentes oficiales. El documento aportado se ha utilizado únicamente como lista de control de contenidos.
 
@@ -58,6 +58,7 @@ Cuatro casillas: carrera, interino, laboral y eventual. Si aparece «personal ac
 
 :::visual
 **Referencia visual prevista:** `t06-02-cuatro-clases.webp` · las cuatro clases del artículo 8.
+**Ilustración simple:** `t06-il-02-cuatro-clases-no-cinco.webp` · cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -77,6 +78,7 @@ No confundas «personal por tiempo indefinido» con funcionario de carrera. Sigu
 
 :::visual
 **Referencia visual prevista:** `t06-02-cuatro-clases.webp` · paraguas de empleado público con las cuatro categorías del artículo 8.
+**Ilustración simple:** `t06-il-02-cuatro-clases-no-cinco.webp` · cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 02 END -->
@@ -134,6 +136,7 @@ Supuestos del artículo 10:
 
 :::visual
 **Referencia visual prevista:** `t06-04-interinos-cuatro-supuestos.webp` · cuatro supuestos de interinidad y sus plazos.
+**Ilustración simple:** `t06-il-04-reloj-interinidad.webp` · regla mnemotécnica 3, necesario, 3+1 y 9 en 18.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -151,6 +154,7 @@ Las preguntas antiguas de 2017 y 2018 reflejan una redacción anterior. Hoy el e
 
 :::visual
 **Referencia visual prevista:** `t06-04-interinos-cuatro-supuestos.webp` · cuatro puertas de entrada de la interinidad y sus plazos vigentes.
+**Ilustración simple:** `t06-il-04-reloj-interinidad.webp` · regla mnemotécnica 3, necesario, 3+1 y 9 en 18.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 04 END -->
@@ -296,6 +300,7 @@ El último requisito es la **toma de posesión**.
 
 :::visual
 **Referencia visual prevista:** `t06-08-cuatro-pasos-adquisicion.webp` · cuatro requisitos sucesivos de adquisición.
+**Ilustración simple:** `t06-il-08-escalera-adquisicion.webp` · los cuatro peldaños hasta adquirir la condición.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -311,6 +316,7 @@ Secuencia: **superar, nombrar, acatar, tomar posesión**. La toma de posesión c
 
 :::visual
 **Referencia visual prevista:** `t06-08-cuatro-pasos-adquisicion.webp` · escalera de los cuatro requisitos sucesivos.
+**Ilustración simple:** `t06-il-08-escalera-adquisicion.webp` · los cuatro peldaños hasta adquirir la condición.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 09 END -->
@@ -359,6 +365,7 @@ La Ley Orgánica 9/2015 recoge para Policía Nacional: jubilación, renuncia, p�
 
 :::visual
 **Referencia visual prevista:** `t06-09-cinco-causas-perdida.webp` · comparación de las cinco causas de pérdida.
+**Ilustración simple:** `t06-il-09-separacion-no-suspension.webp` · separación del servicio frente a suspensión.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -372,6 +379,7 @@ Las listas son casi gemelas, pero no idénticas. El examen puede explotar dos pa
 
 :::visual
 **Referencia visual prevista:** `t06-09-cinco-causas-perdida.webp` · comparación paralela de las cinco causas en ambos regímenes.
+**Ilustración simple:** `t06-il-09-separacion-no-suspension.webp` · separación del servicio frente a suspensión.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 11 END -->
@@ -454,6 +462,7 @@ Policía Nacional:
 
 :::visual
 **Referencia visual prevista:** `t06-11-rehabilitacion-dos-vias.webp` · dos vías de rehabilitación.
+**Ilustración simple:** `t06-il-11-dos-llaves-rehabilitacion.webp` · vía reglada por causa objetiva frente a vía excepcional por inhabilitación.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -473,6 +482,7 @@ No sostengas que el régimen general siempre tiene silencio positivo y el polici
 
 :::visual
 **Referencia visual prevista:** `t06-11-rehabilitacion-dos-vias.webp` · bifurcación entre causa objetiva e inhabilitación, con órgano y efecto del silencio.
+**Ilustración simple:** `t06-il-11-dos-llaves-rehabilitacion.webp` · vía reglada por causa objetiva frente a vía excepcional por inhabilitación.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->

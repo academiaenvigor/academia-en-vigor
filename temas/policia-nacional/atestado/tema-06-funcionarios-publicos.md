@@ -2,7 +2,7 @@
 
 **Policía Nacional · Método VIGOR · ATESTADO**
 **Versión de contenido:** 1.0.1
-**Estado editorial:** ready_for_user_approval · **Publicación:** not_published
+**Estado editorial:** approved_internal · **Publicación:** not_published
 
 # Mapa del tema
 
@@ -67,6 +67,12 @@ No confundas «personal por tiempo indefinido» con funcionario de carrera. Sigu
 </p>
 <p align="center"><em>Infografía: paraguas de empleado público con las cuatro categorías del artículo 8.</em></p>
 
+<!-- VISUAL:t06-il-02-cuatro-clases-no-cinco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-02-cuatro-clases-no-cinco.webp" alt="cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista" width="600">
+</p>
+<p align="center"><em>Ilustración: cuatro clases dentro del artículo 8 y el directivo profesional fuera de la lista.</em></p>
+
 <!-- MATERIAL PENDIENTE: t06-p1-audio -->
 <!-- MATERIAL PENDIENTE: t06-p1-video -->
 <!-- MATERIAL PENDIENTE: t06-p1-pres -->
@@ -126,6 +132,12 @@ Las preguntas antiguas de 2017 y 2018 reflejan una redacción anterior. Hoy el e
   <img src="../../../assets/policia-nacional/tema-06/t06-04-interinos-cuatro-supuestos.webp" alt="cuatro puertas de entrada de la interinidad y sus plazos vigentes" width="820">
 </p>
 <p align="center"><em>Infografía: cuatro puertas de entrada de la interinidad y sus plazos vigentes.</em></p>
+
+<!-- VISUAL:t06-il-04-reloj-interinidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-04-reloj-interinidad.webp" alt="regla mnemotécnica 3, necesario, 3+1 y 9 en 18" width="600">
+</p>
+<p align="center"><em>Ilustración: regla mnemotécnica 3, necesario, 3+1 y 9 en 18.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p2-audio -->
 <!-- MATERIAL PENDIENTE: t06-p2-video -->
@@ -262,6 +274,12 @@ Secuencia: **superar, nombrar, acatar, tomar posesión**. La toma de posesión c
 </p>
 <p align="center"><em>Infografía: escalera de los cuatro requisitos sucesivos.</em></p>
 
+<!-- VISUAL:t06-il-08-escalera-adquisicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-08-escalera-adquisicion.webp" alt="los cuatro peldaños hasta adquirir la condición" width="600">
+</p>
+<p align="center"><em>Ilustración: los cuatro peldaños hasta adquirir la condición.</em></p>
+
 <!-- MATERIAL PENDIENTE: t06-p4-audio -->
 <!-- MATERIAL PENDIENTE: t06-p4-video -->
 <!-- MATERIAL PENDIENTE: t06-p4-pres -->
@@ -309,6 +327,12 @@ Las listas son casi gemelas, pero no idénticas. El examen puede explotar dos pa
   <img src="../../../assets/policia-nacional/tema-06/t06-09-cinco-causas-perdida.webp" alt="comparación paralela de las cinco causas en ambos regímenes" width="820">
 </p>
 <p align="center"><em>Infografía: comparación paralela de las cinco causas en ambos regímenes.</em></p>
+
+<!-- VISUAL:t06-il-09-separacion-no-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-09-separacion-no-suspension.webp" alt="separación del servicio frente a suspensión" width="600">
+</p>
+<p align="center"><em>Ilustración: separación del servicio frente a suspensión.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p5-audio -->
 <!-- MATERIAL PENDIENTE: t06-p5-video -->
@@ -390,6 +414,12 @@ No sostengas que el régimen general siempre tiene silencio positivo y el polici
   <img src="../../../assets/policia-nacional/tema-06/t06-11-rehabilitacion-dos-vias.webp" alt="bifurcación entre causa objetiva e inhabilitación, con órgano y efecto del silencio" width="820">
 </p>
 <p align="center"><em>Infografía: bifurcación entre causa objetiva e inhabilitación, con órgano y efecto del silencio.</em></p>
+
+<!-- VISUAL:t06-il-11-dos-llaves-rehabilitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-06/t06-il-11-dos-llaves-rehabilitacion.webp" alt="vía reglada por causa objetiva frente a vía excepcional por inhabilitación" width="600">
+</p>
+<p align="center"><em>Ilustración: vía reglada por causa objetiva frente a vía excepcional por inhabilitación.</em></p>
 
 <!-- MATERIAL PENDIENTE: t06-p5-audio -->
 <!-- MATERIAL PENDIENTE: t06-p5-video -->

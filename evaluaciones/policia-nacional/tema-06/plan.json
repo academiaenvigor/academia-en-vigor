@@ -5,11 +5,10 @@
   "topic_number": 6,
   "topic_title": "Los funcionarios públicos: concepto y clases. Adquisición y pérdida de la condición de funcionario",
   "id_prefix": "PN-T06",
-  "status": "not_started_by_user_instruction",
+  "status": "ready",
   "bank": "banco-preguntas/policia-nacional/tema-06/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-06/tests-generados",
   "coverage_tests": {
-    "description": "Plan bloqueado hasta aprobación del temario",
     "max_questions_per_test": 25,
     "blocks": [
       {
@@ -71,9 +70,84 @@
     ]
   },
   "part_tests": {
-    "questions_per_test": 25,
-    "variants": [],
-    "parts": []
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Marco y clasificación",
+        "blocks": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Funcionarios interinos",
+        "blocks": [
+          4,
+          5
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Laboral, eventual y directivo",
+        "blocks": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Adquisición de la condición",
+        "blocks": [
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Pérdida, jubilación y rehabilitación",
+        "blocks": [
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    ]
   },
-  "final_tests": []
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
 }
