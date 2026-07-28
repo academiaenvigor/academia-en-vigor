@@ -1,9 +1,9 @@
 {
-  "schema_version": "1.4.0",
+  "schema_version": "2.0.0",
   "content_version": "1.0.0",
   "oposicion": "policia-nacional",
   "tema": 4,
-  "estado": "generado_pendiente_revision_editorial",
+  "estado": "draft",
   "publicacion": "not_published",
   "total_preguntas": 367,
   "total_hechos": 367,
@@ -15,9 +15,9 @@
     "C": 119
   },
   "distribucion_dificultad": {
-    "media": 115,
     "alta": 251,
-    "baja": 1
+    "baja": 1,
+    "media": 115
   },
   "distribucion_tipo": {
     "concepto_aplicado": 79,
@@ -68,19 +68,29 @@
     "propias": 367,
     "oficiales": 0
   },
-  "retroalimentacion": {
-    "feedback": "Explicación por opción: por qué es correcta o por qué es incorrecta.",
-    "retroalimentacion": "acierto y fallo, cada uno con humor y explicacion. El comentario con humor precede a la explicación."
-  },
-  "generacion_de_tests": {
-    "por_bloque": "filtrar por el campo bloque (1 a 28)",
-    "por_parte": "filtrar por el campo parte (1 a 8)",
-    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50 preguntas"
-  },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-04/master.md",
   "cobertura": "../../../conocimiento/policia-nacional/tema-04/cobertura.json",
   "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-04/plan.json",
   "official_exam_index": "indice-oficiales.json",
-  "publication_gate": "Revisión humana de distractores y feedback antes de publicar.",
-  "volatile_data_note": "Varias preguntas dependen de datos que caducan (escaños, zona euro, Schengen, miembros de Interpol y del Consejo de Europa). Ver volatile_data en el manifiesto de conocimiento y recomprobar antes de cada convocatoria."
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "blocked_until_editorial_approval",
+  "quality_gate": {
+    "status": "blocked",
+    "reasons": [
+      "risk5_second_formulations_pending",
+      "answer_distribution_pending"
+    ],
+    "risk5_second_formulations_pending": 251
+  }
 }

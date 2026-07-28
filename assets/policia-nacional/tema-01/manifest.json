@@ -1,9 +1,17 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-01",
   "content_version": "0.2.0",
   "visual_version": "0.3.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 27,
+    "integrated": 27,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": null,
   "resources": [
     {
       "id": "PN-T01-IL01",
@@ -12,7 +20,14 @@
       "type": "ilustracion_simple",
       "placement": "El Atestado · Bloque 8",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 8,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Jerarquía normativa",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-IL02",
@@ -21,7 +36,15 @@
       "type": "ilustracion_simple",
       "placement": "El Parte y El Atestado · Bloque 14",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Autonomía progresiva: 14, 16 y 18 años",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-IL03",
@@ -30,7 +53,15 @@
       "type": "ilustracion_simple",
       "placement": "El Parte y El Atestado · Bloque 17",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Caminos hacia la nacionalidad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-IL04",
@@ -39,7 +70,14 @@
       "type": "ilustracion_simple",
       "placement": "El Atestado · Bloque 26",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 26,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Funciones jurídicas del domicilio",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-IL05",
@@ -48,7 +86,14 @@
       "type": "ilustracion_simple",
       "placement": "El Atestado · Bloque 27",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 27,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Familia y vecindad civil",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-IL06",
@@ -57,7 +102,15 @@
       "type": "ilustracion_simple",
       "placement": "El Parte y El Atestado · Bloque 25",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Conservar antes y recuperar después",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V01",
@@ -66,7 +119,15 @@
       "type": "infografia",
       "placement": "El Parte y El Atestado",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general del Tema 1",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V02",
@@ -75,7 +136,15 @@
       "type": "infografia",
       "placement": "Bloque 2",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Acepciones del Derecho",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V03",
@@ -84,7 +153,15 @@
       "type": "infografia",
       "placement": "Bloques 4 y 5",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Estructura de la norma jurídica",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V04",
@@ -93,7 +170,15 @@
       "type": "infografia",
       "placement": "Bloque 6",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Clases de normas",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V05",
@@ -102,7 +187,15 @@
       "type": "infografia",
       "placement": "Bloque 8",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Fuentes y jerarquía normativa",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V06",
@@ -111,7 +204,15 @@
       "type": "infografia",
       "placement": "Bloque 9",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vigencia y eficacia",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V07",
@@ -120,7 +221,15 @@
       "type": "infografia",
       "placement": "Bloques 10, 15 y 16",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Persona física y jurídica",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V08",
@@ -129,7 +238,15 @@
       "type": "infografia",
       "placement": "Bloque 11",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Nacimiento y personalidad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V09",
@@ -138,7 +255,15 @@
       "type": "infografia",
       "placement": "Bloque 13",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Capacidad y medidas de apoyo",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V10",
@@ -147,7 +272,15 @@
       "type": "infografia",
       "placement": "Bloque 14",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mayoría y emancipación",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V11",
@@ -156,7 +289,15 @@
       "type": "infografia",
       "placement": "Bloque 17",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vías de nacionalidad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V12",
@@ -165,7 +306,15 @@
       "type": "infografia",
       "placement": "Bloque 18",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Españoles de origen",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V13",
@@ -174,7 +323,15 @@
       "type": "infografia",
       "placement": "Bloque 19",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Adopción y posesión de estado",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V14",
@@ -183,7 +340,15 @@
       "type": "infografia",
       "placement": "Bloque 20",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Opción a la nacionalidad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V15",
@@ -192,7 +357,15 @@
       "type": "infografia",
       "placement": "Bloque 22",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Plazos 10-5-2-1",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V16",
@@ -201,7 +374,15 @@
       "type": "infografia",
       "placement": "Bloque 24",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Pérdida y conservación",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V17",
@@ -210,7 +391,15 @@
       "type": "infografia",
       "placement": "Bloque 25",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recuperación de nacionalidad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V18",
@@ -219,7 +408,15 @@
       "type": "infografia",
       "placement": "Bloque 26",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 26,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Conceptos de domicilio",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V19",
@@ -228,7 +425,15 @@
       "type": "infografia",
       "placement": "Bloque 27",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Atribución inicial de vecindad",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V20",
@@ -237,7 +442,15 @@
       "type": "infografia",
       "placement": "Bloque 28",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 28,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vecindad por residencia 2/10",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T01-V21",
@@ -246,7 +459,16 @@
       "type": "infografia",
       "placement": "Bloque 29",
       "status": "approved_internal",
-      "source_content_version": "0.2.0"
+      "block": 29,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vecindad del nacionalizado",
+      "source_content_version": "0.2.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     }
-  ]
+  ],
+  "planned_resources": []
 }

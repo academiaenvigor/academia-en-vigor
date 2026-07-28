@@ -23,16 +23,13 @@
 
 El tema encadena tres leyes: la **Ley 40/2015** organiza la Administración, la **Ley 50/1997** regula el Gobierno y la **Ley 3/2015** el estatuto de los altos cargos. Conviene estudiar cada órgano con el mismo esquema —**naturaleza, carácter obligatorio u opcional, nombramiento, requisitos, funciones y rango**—, porque el tribunal pregunta esos seis datos de cada uno.
 
-<!-- VISUAL:t05-00-mapa-general.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-00-mapa-general.webp" alt="Mapa general del tema" width="820">
-</p>
+El Atestado desarrolla los mismos bloques que El Parte con mayor extensión: aquí se razona el porqué de cada regla, se traduce el vocabulario técnico y se comparan las figuras que se confunden entre sí. El Parte es la versión de repaso; El Atestado, la de comprensión.
 
-> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 # Contenido
-
-<!-- PARTE 1: La AGE y sus principios -->
 
 ## 01. La Administración General del Estado: concepto y posición constitucional
 
@@ -50,12 +47,14 @@ Tres leyes vertebran el tema: la **Ley 40/2015 (LRJSP)** para la organización, 
 La AGE tiene **personalidad jurídica única**, no una por ministerio. Los organismos con personalidad propia son precisamente los que se han separado de ella.
 :::
 
-<!-- VISUAL:t05-01-concepto-de-age.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-01-concepto-de-age.webp" alt="La Administración General del Estado: concepto y posición constitucional" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-01-concepto-de-age.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p1-audio -->
+<!-- MATERIAL PENDIENTE: t05-p1-video -->
+<!-- MATERIAL PENDIENTE: t05-p1-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-CONCEPTO -->
 
@@ -73,12 +72,14 @@ Tres niveles y un solo criterio: **todo el territorio** (central), **parte del t
 Periférica no significa secundaria. La diferencia es **territorial**, no jerárquica: un Delegado del Gobierno tiene rango de Subsecretario.
 :::
 
-<!-- VISUAL:t05-02-estructura-territorial.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-02-estructura-territorial.webp" alt="La estructura territorial de la AGE: central, periférica y exterior" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-02-estructura-territorial.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p1-audio -->
+<!-- MATERIAL PENDIENTE: t05-p1-video -->
+<!-- MATERIAL PENDIENTE: t05-p1-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-ESTRUCTURA -->
 
@@ -96,12 +97,14 @@ Sector público = **Estado + CCAA + Local + institucional**. El institucional es
 Una entidad de derecho privado del sector público **sí queda sujeta** a las Leyes 39 y 40 de 2015 **cuando ejerce potestades administrativas**. La forma privada no la exime.
 :::
 
-<!-- VISUAL:t05-03-sector-publico.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-03-sector-publico.webp" alt="Ámbito subjetivo: qué es sector público" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-03-sector-publico.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p1-audio -->
+<!-- MATERIAL PENDIENTE: t05-p1-video -->
+<!-- MATERIAL PENDIENTE: t05-p1-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-AMBITO -->
 
@@ -121,18 +124,16 @@ Dos círculos: **sector público** es el grande, **Administración Pública** el
 Una sociedad mercantil estatal **es sector público pero no es Administración Pública**. Confundirlo es el error más repetido del bloque.
 :::
 
-<!-- VISUAL:t05-04-sector-vs-administracion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-04-sector-vs-administracion.webp" alt="Sector público frente a Administraciones Públicas" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-04-sector-vs-administracion.webp -->
 
-<!-- VISUAL:t05-il-04-dos-circulos.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-04-dos-circulos.webp" alt="Sector público y Administración Pública como círculos concéntricos" width="600">
-</p>
-<p align="center"><em>Ilustración: sector público y administración pública como círculos concéntricos.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-04-dos-circulos.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p1-audio -->
+<!-- MATERIAL PENDIENTE: t05-p1-video -->
+<!-- MATERIAL PENDIENTE: t05-p1-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-AMBITO -->
 
@@ -152,16 +153,21 @@ Tres grupos según a quién miran: **al ciudadano**, **hacia dentro** y **a las 
 **Interoperabilidad** no es lo mismo que digitalización: es que los sistemas de distintas Administraciones **se entiendan entre sí**.
 :::
 
-<!-- VISUAL:t05-05-principios-articulo-3.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-05-principios-articulo-3.webp" alt="Principios generales de actuación: el artículo 3 de la Ley 40/2015" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-05-principios-articulo-3.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: AGE-PRINCIPIOS -->
 
 <!-- PARTE 2: Organización, funcionamiento e intervención -->
+
+<!-- MATERIAL PENDIENTE: t05-p1-audio -->
+<!-- MATERIAL PENDIENTE: t05-p1-video -->
+<!-- MATERIAL PENDIENTE: t05-p1-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: AGE-PRINCIPIOS -->
 
 ## 06. Principios de organización de la AGE: el artículo 54
 
@@ -181,18 +187,16 @@ Además, el artículo 54.1 exige garantizar la **presencia equilibrada de mujere
 La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio. Si solo se cede el ejercicio y el superior conserva la competencia, eso es delegación, que es otra figura.
 :::
 
-<!-- VISUAL:t05-06-principios-organizacion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-06-principios-organizacion.webp" alt="Principios de organización de la AGE: el artículo 54" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-06-principios-organizacion.webp -->
 
-<!-- VISUAL:t05-il-06-descentralizar-desconcentrar.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-06-descentralizar-desconcentrar.webp" alt="Descentralización cruza la personalidad jurídica; desconcentración no" width="600">
-</p>
-<p align="center"><em>Ilustración: descentralización cruza la personalidad jurídica; desconcentración no.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-06-descentralizar-desconcentrar.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p2-audio -->
+<!-- MATERIAL PENDIENTE: t05-p2-video -->
+<!-- MATERIAL PENDIENTE: t05-p2-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-ORGANIZACION -->
 
@@ -212,12 +216,14 @@ Las referencias a ministerios se leen **por competencia, no por nombre**: organi
 El nombre del ministerio es el dato que antes caduca de todo el tema. Se fija por **real decreto del Presidente del Gobierno** y cambia con cada legislatura.
 :::
 
-<!-- VISUAL:t05-07-competencias-residuales.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-07-competencias-residuales.webp" alt="Competencias residuales en materia de organización" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-07-competencias-residuales.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p2-audio -->
+<!-- MATERIAL PENDIENTE: t05-p2-video -->
+<!-- MATERIAL PENDIENTE: t05-p2-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-ORGANIZACION -->
 
@@ -237,12 +243,14 @@ Proporcionalidad no es «medida suave»: es **la menos restrictiva de las que si
 La Administración debe **evaluar periódicamente** las medidas limitativas. No basta con que estuvieran justificadas cuando se impusieron.
 :::
 
-<!-- VISUAL:t05-08-principios-intervencion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-08-principios-intervencion.webp" alt="Principios de intervención: el artículo 4 de la Ley 40/2015" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-08-principios-intervencion.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p2-audio -->
+<!-- MATERIAL PENDIENTE: t05-p2-video -->
+<!-- MATERIAL PENDIENTE: t05-p2-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-INTERVENCION -->
 
@@ -262,22 +270,23 @@ Ni **directa** ni **subsidiariamente**. Una multa administrativa nunca puede aca
 El precepto dice **Administración civil**, no «Administración» a secas. Y prohíbe también la privación de libertad **subsidiaria**, que es lo que suele omitir el distractor.
 :::
 
-<!-- VISUAL:t05-09-limite-articulo-25-3.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-09-limite-articulo-25-3.webp" alt="El límite del artículo 25.3 de la Constitución" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-09-limite-articulo-25-3.webp -->
 
-<!-- VISUAL:t05-il-09-limite-libertad.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-09-limite-libertad.webp" alt="La Administración civil no puede privar de libertad" width="600">
-</p>
-<p align="center"><em>Ilustración: la administración civil no puede privar de libertad.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-09-limite-libertad.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: AGE-INTERVENCION -->
 
 <!-- PARTE 3: El Gobierno: composición y Presidente -->
+
+<!-- MATERIAL PENDIENTE: t05-p2-audio -->
+<!-- MATERIAL PENDIENTE: t05-p2-video -->
+<!-- MATERIAL PENDIENTE: t05-p2-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: AGE-INTERVENCION -->
 
 ## 10. El Gobierno: naturaleza y funciones
 
@@ -295,12 +304,14 @@ Artículo 97: dirige **política interior y exterior**, **Administración civil 
 El Gobierno responde solidariamente ante el **Congreso de los Diputados**, no ante las Cortes Generales. El Senado queda fuera de la relación de confianza.
 :::
 
-<!-- VISUAL:t05-10-gobierno-funciones.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-10-gobierno-funciones.webp" alt="El Gobierno: naturaleza y funciones" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-10-gobierno-funciones.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p3-audio -->
+<!-- MATERIAL PENDIENTE: t05-p3-video -->
+<!-- MATERIAL PENDIENTE: t05-p3-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-NATURALEZA -->
 
@@ -322,12 +333,14 @@ Desde 2024, el nombramiento conjunto de titulares de las **Vicepresidencias y lo
 Un ministro **sí puede** ser simultáneamente diputado o senador. El mandato parlamentario es la única función representativa compatible.
 :::
 
-<!-- VISUAL:t05-11-composicion-gobierno.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-11-composicion-gobierno.webp" alt="Composición del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-11-composicion-gobierno.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p3-audio -->
+<!-- MATERIAL PENDIENTE: t05-p3-video -->
+<!-- MATERIAL PENDIENTE: t05-p3-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-COMPOSICION -->
 
@@ -345,12 +358,14 @@ El Presidente **crea, modifica y suprime ministerios y Secretarías de Estado po
 La cuestión de confianza exige **deliberación previa del Consejo de Ministros**; el referéndum consultivo exige **autorización previa del Congreso**. Son requisitos distintos y se cruzan en los distractores.
 :::
 
-<!-- VISUAL:t05-12-presidente-funciones.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-12-presidente-funciones.webp" alt="El Presidente del Gobierno: dirección y funciones" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-12-presidente-funciones.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p3-audio -->
+<!-- MATERIAL PENDIENTE: t05-p3-video -->
+<!-- MATERIAL PENDIENTE: t05-p3-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-PRESIDENTE -->
 
@@ -372,12 +387,14 @@ Cuatro causas de cese: **elecciones, pérdida de confianza, dimisión y fallecim
 El Gobierno cesa por la **celebración** de elecciones generales, no por la disolución de las Cámaras ni por la constitución del nuevo Congreso.
 :::
 
-<!-- VISUAL:t05-13-presidente-nombramiento-cese.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-13-presidente-nombramiento-cese.webp" alt="Nombramiento y cese del Presidente del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-13-presidente-nombramiento-cese.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p3-audio -->
+<!-- MATERIAL PENDIENTE: t05-p3-video -->
+<!-- MATERIAL PENDIENTE: t05-p3-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-PRESIDENTE -->
 
@@ -397,16 +414,21 @@ Presidente: **Vicepresidentes y, en su defecto, Ministros**. Ministro: **real de
 Un Secretario de Estado **no puede suplir a un Ministro**: la suplencia debe recaer en otro miembro del Gobierno, y él no lo es.
 :::
 
-<!-- VISUAL:t05-14-suplencia-y-prelacion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-14-suplencia-y-prelacion.webp" alt="Suplencia y orden de prelación" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-14-suplencia-y-prelacion.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: GOB-PRESIDENTE -->
 
 <!-- PARTE 4: Órganos del Gobierno -->
+
+<!-- MATERIAL PENDIENTE: t05-p3-audio -->
+<!-- MATERIAL PENDIENTE: t05-p3-video -->
+<!-- MATERIAL PENDIENTE: t05-p3-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: GOB-PRESIDENTE -->
 
 ## 15. Los Vicepresidentes y los Ministros como miembros del Gobierno
 
@@ -424,12 +446,14 @@ El Ministro tiene **doble naturaleza**: miembro del Gobierno (Ley 50/1997) y jef
 Un **Ministro sin cartera es ministro de pleno derecho**: es miembro del Gobierno y vota en el Consejo de Ministros. Lo que no tiene es departamento.
 :::
 
-<!-- VISUAL:t05-15-vicepresidentes-y-ministros.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-15-vicepresidentes-y-ministros.webp" alt="Los Vicepresidentes y los Ministros como miembros del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-15-vicepresidentes-y-ministros.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p4-audio -->
+<!-- MATERIAL PENDIENTE: t05-p4-video -->
+<!-- MATERIAL PENDIENTE: t05-p4-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-MIEMBROS -->
 
@@ -451,18 +475,16 @@ El **Consejo de Ministros** puede avocar para sí, a propuesta del Presidente, u
 Las competencias de los órganos colegiados del Gobierno **no son delegables**, salvo la delegación de funciones administrativas del Consejo de Ministros en Comisiones Delegadas prevista expresamente en el artículo 20.2 LG.
 :::
 
-<!-- VISUAL:t05-16-delegacion-y-avocacion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-16-delegacion-y-avocacion.webp" alt="Delegación y avocación de competencias" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-16-delegacion-y-avocacion.webp -->
 
-<!-- VISUAL:t05-il-16-delegar-avocar.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-16-delegar-avocar.webp" alt="La delegación cede el ejercicio y la avocación atrae el asunto" width="600">
-</p>
-<p align="center"><em>Ilustración: la delegación cede el ejercicio y la avocación atrae el asunto.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-16-delegar-avocar.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p4-audio -->
+<!-- MATERIAL PENDIENTE: t05-p4-video -->
+<!-- MATERIAL PENDIENTE: t05-p4-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-DELEGACION -->
 
@@ -482,12 +504,14 @@ Alarma y excepción las **declara** el Consejo de Ministros; el estado de sitio 
 El acta del Consejo de Ministros **no recoge opiniones ni votos**: solo tiempo y lugar, asistentes, acuerdos e informes. Las deliberaciones son secretas.
 :::
 
-<!-- VISUAL:t05-17-consejo-de-ministros.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-17-consejo-de-ministros.webp" alt="El Consejo de Ministros" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-17-consejo-de-ministros.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p4-audio -->
+<!-- MATERIAL PENDIENTE: t05-p4-video -->
+<!-- MATERIAL PENDIENTE: t05-p4-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-CONSEJO -->
 
@@ -507,12 +531,14 @@ Ministerios los crea el **Presidente**. Comisiones Delegadas las crea el **Conse
 Las Comisiones Delegadas **resuelven** asuntos, no solo los preparan. Tienen capacidad decisoria propia cuando el asunto no debe elevarse al Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-18-comisiones-delegadas.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-18-comisiones-delegadas.webp" alt="Las Comisiones Delegadas del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-18-comisiones-delegadas.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p4-audio -->
+<!-- MATERIAL PENDIENTE: t05-p4-video -->
+<!-- MATERIAL PENDIENTE: t05-p4-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-COMISIONES -->
 
@@ -534,22 +560,23 @@ Tres prohibiciones son **del Presidente** (disolución, confianza, referéndum) 
 Las delegaciones legislativas se suspenden **solo si el Gobierno está en funciones por celebración de elecciones generales**, no en los demás supuestos de cese.
 :::
 
-<!-- VISUAL:t05-19-gobierno-en-funciones.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-19-gobierno-en-funciones.webp" alt="El Gobierno en funciones" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-19-gobierno-en-funciones.webp -->
 
-<!-- VISUAL:t05-il-19-gobierno-en-funciones.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-19-gobierno-en-funciones.webp" alt="El Gobierno en funciones despacha lo ordinario" width="600">
-</p>
-<p align="center"><em>Ilustración: el gobierno en funciones despacha lo ordinario.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-19-gobierno-en-funciones.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: GOB-FUNCIONES -->
 
 <!-- PARTE 5: Colaboración, apoyo y consulta -->
+
+<!-- MATERIAL PENDIENTE: t05-p4-audio -->
+<!-- MATERIAL PENDIENTE: t05-p4-video -->
+<!-- MATERIAL PENDIENTE: t05-p4-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: GOB-FUNCIONES -->
 
 ## 20. Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General
 
@@ -569,12 +596,14 @@ La Comisión General es el **filtro previo ordinario** del Consejo de Ministros,
 La Comisión General **no adopta acuerdos por delegación**. Examina y prepara, pero la decisión sigue siendo del Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-20-secretarios-estado-y-comision-general.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-20-secretarios-estado-y-comision-general.webp" alt="Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-20-secretarios-estado-y-comision-general.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p5-audio -->
+<!-- MATERIAL PENDIENTE: t05-p5-video -->
+<!-- MATERIAL PENDIENTE: t05-p5-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-APOYO -->
 
@@ -596,12 +625,14 @@ El Secretariado es **técnico y permanente**; los Gabinetes son **políticos y d
 El Secretariado del Gobierno se integra en el **Ministerio de la Presidencia**, no en Presidencia del Gobierno ni en un órgano autónomo.
 :::
 
-<!-- VISUAL:t05-21-secretariado-y-gabinetes.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-21-secretariado-y-gabinetes.webp" alt="El Secretariado del Gobierno y los Gabinetes" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-21-secretariado-y-gabinetes.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p5-audio -->
+<!-- MATERIAL PENDIENTE: t05-p5-video -->
+<!-- MATERIAL PENDIENTE: t05-p5-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-APOYO -->
 
@@ -619,12 +650,14 @@ Dos peldaños: **real decreto** (Presidente o Consejo) y **orden ministerial**.
 Los reales decretos del **Presidente** y los del **Consejo de Ministros** están en el **mismo nivel**. No hay jerarquía entre ellos.
 :::
 
-<!-- VISUAL:t05-22-jerarquia-normativa.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-22-jerarquia-normativa.webp" alt="La jerarquía normativa de las disposiciones del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-22-jerarquia-normativa.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p5-audio -->
+<!-- MATERIAL PENDIENTE: t05-p5-video -->
+<!-- MATERIAL PENDIENTE: t05-p5-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-NORMAS -->
 
@@ -646,18 +679,16 @@ Las fórmulas son inequívocas: **«oído el Consejo de Estado»** si la resoluc
 Los dictámenes del Consejo de Estado **no son vinculantes** con carácter general. Solo lo son cuando una ley lo dispone expresamente.
 :::
 
-<!-- VISUAL:t05-23-consejo-de-estado.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-23-consejo-de-estado.webp" alt="El Consejo de Estado: naturaleza, composición y dictámenes" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-23-consejo-de-estado.webp -->
 
-<!-- VISUAL:t05-il-23-oido-o-de-acuerdo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-23-oido-o-de-acuerdo.webp" alt="Las dos fórmulas del dictamen del Consejo de Estado" width="600">
-</p>
-<p align="center"><em>Ilustración: las dos fórmulas del dictamen del consejo de estado.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-23-oido-o-de-acuerdo.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p5-audio -->
+<!-- MATERIAL PENDIENTE: t05-p5-video -->
+<!-- MATERIAL PENDIENTE: t05-p5-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: GOB-CONSEJO-ESTADO -->
 
@@ -677,16 +708,21 @@ Regla del rango: **rango de ley o reforma constitucional al Pleno; reglamentos y
 **Preceptivo no es vinculante.** Un dictamen puede ser obligatorio de pedir y, aun así, el Gobierno puede apartarse de él usando la fórmula «oído el Consejo de Estado».
 :::
 
-<!-- VISUAL:t05-24-consulta-preceptiva.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-24-consulta-preceptiva.webp" alt="La consulta preceptiva al Consejo de Estado" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-24-consulta-preceptiva.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: GOB-CONSEJO-ESTADO -->
 
 <!-- PARTE 6: Órganos superiores y altos cargos -->
+
+<!-- MATERIAL PENDIENTE: t05-p5-audio -->
+<!-- MATERIAL PENDIENTE: t05-p5-video -->
+<!-- MATERIAL PENDIENTE: t05-p5-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: GOB-CONSEJO-ESTADO -->
 
 ## 25. El estatuto del Alto Cargo
 
@@ -704,18 +740,16 @@ Todos los órganos directivos son alto cargo **salvo los Subdirectores Generales
 Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero **no es alto cargo**. Es el error más repetido del tema.
 :::
 
-<!-- VISUAL:t05-25-estatuto-alto-cargo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-25-estatuto-alto-cargo.webp" alt="El estatuto del Alto Cargo" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-25-estatuto-alto-cargo.webp -->
 
-<!-- VISUAL:t05-il-25-frontera-alto-cargo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-25-frontera-alto-cargo.webp" alt="La frontera del alto cargo pasa por el Subdirector General" width="600">
-</p>
-<p align="center"><em>Ilustración: la frontera del alto cargo pasa por el subdirector general.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-25-frontera-alto-cargo.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p6-audio -->
+<!-- MATERIAL PENDIENTE: t05-p6-video -->
+<!-- MATERIAL PENDIENTE: t05-p6-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-ALTOS-CARGOS -->
 
@@ -733,16 +767,21 @@ El Ministro impone la **separación del servicio** por faltas muy graves. Es la 
 **Declarar la lesividad** no es anular. La Administración declara lesivo el acto y luego debe impugnarlo ante los tribunales: no puede anularlo por sí sola.
 :::
 
-<!-- VISUAL:t05-26-ministros-organo-superior.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-26-ministros-organo-superior.webp" alt="Los Ministros como órgano superior del Departamento" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-26-ministros-organo-superior.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: AGE-SUPERIORES -->
 
 <!-- PARTE 7: Órganos directivos -->
+
+<!-- MATERIAL PENDIENTE: t05-p6-audio -->
+<!-- MATERIAL PENDIENTE: t05-p6-video -->
+<!-- MATERIAL PENDIENTE: t05-p6-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: AGE-SUPERIORES -->
 
 ## 27. Los Subsecretarios
 
@@ -760,12 +799,14 @@ El Subsecretario sanciona faltas **graves y muy graves salvo la separación del 
 El Subsecretario es **obligatorio** en todo Ministerio. Su nombramiento debe recaer en un **funcionario de carrera A1** del Estado, de una comunidad autónoma o de una entidad local, o en quien hubiera perdido esa condición por **jubilación**; en todo caso debe reunir los requisitos de **idoneidad** de la Ley 3/2015. Los opcionales son las Secretarías de Estado y las Secretarías Generales.
 :::
 
-<!-- VISUAL:t05-27-subsecretarios.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-27-subsecretarios.webp" alt="Los Subsecretarios" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-27-subsecretarios.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p7-audio -->
+<!-- MATERIAL PENDIENTE: t05-p7-video -->
+<!-- MATERIAL PENDIENTE: t05-p7-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
 
@@ -783,12 +824,14 @@ Los **Secretarios Generales Técnicos** (artículo 65) son **obligatorios** en c
 El **Secretario General** es el único órgano directivo que no exige la condición de funcionario de carrera. No lo confundas con el Secretario General Técnico, que sí la exige.
 :::
 
-<!-- VISUAL:t05-28-secretarios-generales.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-28-secretarios-generales.webp" alt="Secretarios Generales y Secretarios Generales Técnicos" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-28-secretarios-generales.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p7-audio -->
+<!-- MATERIAL PENDIENTE: t05-p7-video -->
+<!-- MATERIAL PENDIENTE: t05-p7-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
 
@@ -806,12 +849,14 @@ Escalera de exigencia: el SGT debe ser **funcionario A1**; el Subsecretario y el
 El **Subdirector General no se nombra por real decreto** ni es alto cargo. Lo nombra el Ministro, Secretario de Estado o Subsecretario del que dependa.
 :::
 
-<!-- VISUAL:t05-29-directores-y-subdirectores.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-29-directores-y-subdirectores.webp" alt="Directores Generales y Subdirectores Generales" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-29-directores-y-subdirectores.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p7-audio -->
+<!-- MATERIAL PENDIENTE: t05-p7-video -->
+<!-- MATERIAL PENDIENTE: t05-p7-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-DIRECTIVOS -->
 
@@ -831,16 +876,21 @@ Tres niveles: **Presidente** crea ministerios; **Consejo de Ministros** crea ór
 Las **unidades administrativas se crean por las relaciones de puestos de trabajo**, no por real decreto ni por orden ministerial.
 :::
 
-<!-- VISUAL:t05-30-creacion-de-organos.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-30-creacion-de-organos.webp" alt="Creación de órganos, servicios comunes y unidades administrativas" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-30-creacion-de-organos.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: AGE-ORGANOS -->
 
 <!-- PARTE 8: Administración periférica y sector público institucional -->
+
+<!-- MATERIAL PENDIENTE: t05-p7-audio -->
+<!-- MATERIAL PENDIENTE: t05-p7-video -->
+<!-- MATERIAL PENDIENTE: t05-p7-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
+
+<!-- FUENTE: AGE-ORGANOS -->
 
 ## 31. Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales
 
@@ -858,18 +908,16 @@ En cada Delegación y Subdelegación existe una **Secretaría General obligatori
 En comunidades **uniprovinciales** puede crearse Subdelegación **por real decreto** si lo justifican población, volumen de gestión o singularidades. No está prohibido, solo no es la regla.
 :::
 
-<!-- VISUAL:t05-31-delegaciones-y-subdelegaciones.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-31-delegaciones-y-subdelegaciones.webp" alt="Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-31-delegaciones-y-subdelegaciones.webp -->
 
-<!-- VISUAL:t05-il-31-integrados-no-integrados.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-31-integrados-no-integrados.webp" alt="Servicios integrados y no integrados en la Delegación" width="600">
-</p>
-<p align="center"><em>Ilustración: servicios integrados y no integrados en la delegación.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-31-integrados-no-integrados.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p8-audio -->
+<!-- MATERIAL PENDIENTE: t05-p8-video -->
+<!-- MATERIAL PENDIENTE: t05-p8-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-PERIFERICA -->
 
@@ -889,12 +937,14 @@ Doble dependencia: **orgánica de Presidencia del Gobierno**, **funcional del mi
 El **Delegado del Gobierno no necesita ser funcionario**; el **Subdelegado sí**, obligatoriamente funcionario de carrera A1.
 :::
 
-<!-- VISUAL:t05-32-delegados-naturaleza.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-32-delegados-naturaleza.webp" alt="Los Delegados del Gobierno: naturaleza y nombramiento" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-32-delegados-naturaleza.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p8-audio -->
+<!-- MATERIAL PENDIENTE: t05-p8-video -->
+<!-- MATERIAL PENDIENTE: t05-p8-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-PERIFERICA -->
 
@@ -920,12 +970,14 @@ En seguridad ciudadana el Delegado actúa **bajo dependencia funcional del Minis
 Los **Subdelegados los nombra el Delegado del Gobierno**, no el Ministro ni el Consejo de Ministros.
 :::
 
-<!-- VISUAL:t05-33-delegados-competencias.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-33-delegados-competencias.webp" alt="Competencias de los Delegados del Gobierno" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-33-delegados-competencias.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p8-audio -->
+<!-- MATERIAL PENDIENTE: t05-p8-video -->
+<!-- MATERIAL PENDIENTE: t05-p8-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-PERIFERICA -->
 
@@ -945,12 +997,14 @@ Delegado y Subdelegado en cuatro contrastes: **Subsecretario/Subdirector General
 El Subdelegado dirige las Fuerzas y Cuerpos de Seguridad en la provincia **bajo la dirección del Delegado del Gobierno**, no de forma autónoma.
 :::
 
-<!-- VISUAL:t05-34-subdelegados-e-insulares.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-34-subdelegados-e-insulares.webp" alt="Subdelegados del Gobierno y Directores Insulares" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-34-subdelegados-e-insulares.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p8-audio -->
+<!-- MATERIAL PENDIENTE: t05-p8-video -->
+<!-- MATERIAL PENDIENTE: t05-p8-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-PERIFERICA -->
 
@@ -972,18 +1026,16 @@ Las **entidades públicas empresariales** (artículos 103 y 104) se financian co
 La entidad pública empresarial se rige por Derecho privado **salvo tres excepciones**: formación de la voluntad de sus órganos, ejercicio de potestades administrativas y lo regulado específicamente por la ley.
 :::
 
-<!-- VISUAL:t05-35-organismos-y-entidades.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-35-organismos-y-entidades.webp" alt="El sector público institucional estatal: organismos autónomos y entidades públicas empresariales" width="820">
-</p>
+<!-- VISUAL PENDIENTE: t05-35-organismos-y-entidades.webp -->
 
-<!-- VISUAL:t05-il-35-oa-frente-epe.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-05/t05-il-35-oa-frente-epe.webp" alt="Organismo autónomo frente a entidad pública empresarial" width="600">
-</p>
-<p align="center"><em>Ilustración: organismo autónomo frente a entidad pública empresarial.</em></p>
+<!-- VISUAL PENDIENTE: t05-il-35-oa-frente-epe.webp -->
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t05-p8-audio -->
+<!-- MATERIAL PENDIENTE: t05-p8-video -->
+<!-- MATERIAL PENDIENTE: t05-p8-pres -->
+<!-- MATERIAL PENDIENTE: t05-todo-audio -->
+<!-- MATERIAL PENDIENTE: t05-todo-video -->
+<!-- MATERIAL PENDIENTE: t05-todo-pres -->
 
 <!-- FUENTE: AGE-INSTITUCIONAL -->
 

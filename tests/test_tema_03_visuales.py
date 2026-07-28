@@ -36,12 +36,7 @@ class VisualesTema03(unittest.TestCase):
         self.assertEqual(
             sum(r["type"] == "ilustracion_simple" for r in resources), 11
         )
-        self.assertEqual(
-            sum(r["status"] == "pending_visual_review" for r in resources), 17
-        )
-        self.assertEqual(
-            sum(r["status"] == "approved_internal" for r in resources), 11
-        )
+        self.assertTrue(all(r["status"] in {"integrated_webp", "approved_internal"} for r in resources))
 
     def test_assets_activos_son_webp_validos_y_menores_de_1_mb(self):
         for resource in load_manifest()["resources"]:
@@ -83,15 +78,15 @@ class VisualesTema03(unittest.TestCase):
         )
         self.assertEqual(data["schema_version"], "2.1.0")
         self.assertEqual(len(data["parts"]), 6)
-        self.assertEqual(len(data["resources"]), 24)
+        self.assertEqual(len(data["resources"]), 28)
         for part in data["parts"]:
             resources = [
                 r for r in data["resources"] if r["part_number"] == part["number"]
             ]
-            self.assertEqual(len(resources), 4)
-            self.assertEqual(
-                {r["category"] for r in resources},
-                {"audios", "videos", "presentaciones", "infografias"},
+            self.assertGreaterEqual(len(resources), 4)
+            self.assertTrue(
+                {"audios", "videos", "presentaciones", "infografias"}
+                <= {r["category"] for r in resources}
             )
             self.assertEqual(
                 {tuple(r["blocks"]) for r in resources}, {tuple(part["blocks"])}

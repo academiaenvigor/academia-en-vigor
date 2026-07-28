@@ -2,12 +2,15 @@
   "schema_version": "2.1.0",
   "opposition": "policia-nacional",
   "topic": "tema-04",
-  "content_version": "0.1.0",
-  "source_version": "0.1.0",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
   "status": "estructura_preparada",
   "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
   "rights_policy": "own_or_explicitly_authorized_only",
   "audio_note": "NotebookLM exporta actualmente los audios con extensión .m4a.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
   "storage_root": {
     "provider": "google_drive",
     "folder_id": "",
@@ -20,6 +23,11 @@
     "presentaciones": "Presentaciones",
     "infografias": "Infografías y resúmenes"
   },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
   "parts": [
     {
       "id": "p1",
@@ -30,6 +38,9 @@
         "02",
         "03",
         "04"
+      ],
+      "anchor_blocks": [
+        "01"
       ]
     },
     {
@@ -41,6 +52,9 @@
         "06",
         "07",
         "08"
+      ],
+      "anchor_blocks": [
+        "05"
       ]
     },
     {
@@ -51,6 +65,9 @@
         "09",
         "10",
         "11"
+      ],
+      "anchor_blocks": [
+        "09"
       ]
     },
     {
@@ -61,6 +78,9 @@
         "12",
         "13",
         "14"
+      ],
+      "anchor_blocks": [
+        "12"
       ]
     },
     {
@@ -70,6 +90,9 @@
       "blocks": [
         "15",
         "16"
+      ],
+      "anchor_blocks": [
+        "15"
       ]
     },
     {
@@ -80,6 +103,9 @@
         "17",
         "18",
         "19"
+      ],
+      "anchor_blocks": [
+        "17"
       ]
     },
     {
@@ -91,6 +117,9 @@
         "21",
         "22",
         "23"
+      ],
+      "anchor_blocks": [
+        "20"
       ]
     },
     {
@@ -103,6 +132,9 @@
         "26",
         "27",
         "28"
+      ],
+      "anchor_blocks": [
+        "24"
       ]
     }
   ],
@@ -133,7 +165,11 @@
         "asset_key": "pn/tema-04/p01/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "01"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p1-video",
@@ -161,7 +197,11 @@
         "asset_key": "pn/tema-04/p01/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "01"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p1-presentacion",
@@ -189,7 +229,11 @@
         "asset_key": "pn/tema-04/p01/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "01"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p1-resumen",
@@ -217,7 +261,11 @@
         "asset_key": "pn/tema-04/p01/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "01"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p2-audio",
@@ -245,7 +293,11 @@
         "asset_key": "pn/tema-04/p02/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "05"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p2-video",
@@ -273,7 +325,11 @@
         "asset_key": "pn/tema-04/p02/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "05"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p2-presentacion",
@@ -301,7 +357,11 @@
         "asset_key": "pn/tema-04/p02/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "05"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p2-resumen",
@@ -329,7 +389,11 @@
         "asset_key": "pn/tema-04/p02/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "05"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p3-audio",
@@ -356,7 +420,11 @@
         "asset_key": "pn/tema-04/p03/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "09"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p3-video",
@@ -383,7 +451,11 @@
         "asset_key": "pn/tema-04/p03/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "09"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p3-presentacion",
@@ -410,7 +482,11 @@
         "asset_key": "pn/tema-04/p03/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "09"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p3-resumen",
@@ -437,7 +513,11 @@
         "asset_key": "pn/tema-04/p03/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "09"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p4-audio",
@@ -464,7 +544,11 @@
         "asset_key": "pn/tema-04/p04/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "12"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p4-video",
@@ -491,7 +575,11 @@
         "asset_key": "pn/tema-04/p04/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "12"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p4-presentacion",
@@ -518,7 +606,11 @@
         "asset_key": "pn/tema-04/p04/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "12"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p4-resumen",
@@ -545,7 +637,11 @@
         "asset_key": "pn/tema-04/p04/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "12"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p5-audio",
@@ -571,7 +667,11 @@
         "asset_key": "pn/tema-04/p05/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "15"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p5-video",
@@ -597,7 +697,11 @@
         "asset_key": "pn/tema-04/p05/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "15"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p5-presentacion",
@@ -623,7 +727,11 @@
         "asset_key": "pn/tema-04/p05/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "15"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p5-resumen",
@@ -649,7 +757,11 @@
         "asset_key": "pn/tema-04/p05/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "15"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p6-audio",
@@ -676,7 +788,11 @@
         "asset_key": "pn/tema-04/p06/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "17"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p6-video",
@@ -703,7 +819,11 @@
         "asset_key": "pn/tema-04/p06/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "17"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p6-presentacion",
@@ -730,7 +850,11 @@
         "asset_key": "pn/tema-04/p06/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "17"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p6-resumen",
@@ -757,7 +881,11 @@
         "asset_key": "pn/tema-04/p06/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "17"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p7-audio",
@@ -785,7 +913,11 @@
         "asset_key": "pn/tema-04/p07/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "20"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p7-video",
@@ -813,7 +945,11 @@
         "asset_key": "pn/tema-04/p07/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "20"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p7-presentacion",
@@ -841,7 +977,11 @@
         "asset_key": "pn/tema-04/p07/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "20"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p7-resumen",
@@ -869,7 +1009,11 @@
         "asset_key": "pn/tema-04/p07/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "20"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p8-audio",
@@ -898,7 +1042,11 @@
         "asset_key": "pn/tema-04/p08/audio",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "24"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p8-video",
@@ -927,7 +1075,11 @@
         "asset_key": "pn/tema-04/p08/video",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "24"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p8-presentacion",
@@ -956,7 +1108,11 @@
         "asset_key": "pn/tema-04/p08/presentacion",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "24"
+      ],
+      "resource_type": null
     },
     {
       "id": "t04-p8-resumen",
@@ -985,7 +1141,11 @@
         "asset_key": "pn/tema-04/p08/resumen",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "anchor_blocks": [
+        "24"
+      ],
+      "resource_type": null
     }
   ]
 }

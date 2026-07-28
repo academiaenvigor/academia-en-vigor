@@ -1,440 +1,490 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-03",
   "content_version": "0.3.0",
   "visual_version": "0.2.0",
-  "purpose": "Imágenes WebP integradas en El Parte y El Atestado; las infografías heredadas requieren revisión textual final",
-  "summary": {
-    "total": 28,
-    "infografias": 17,
-    "ilustraciones": 11,
-    "webp": 28,
-    "approved_internal": 11,
-    "pending_visual_review": 17
+  "status": "integrated",
+  "totals": {
+    "resources": 28,
+    "integrated": 28,
+    "planned": 0
   },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-26",
   "resources": [
     {
       "id": "PN-T03-INF-001",
-      "type": "infografia",
-      "title": "La Corona y el refrendo",
       "file": "t03-01-corona-refrendo.webp",
-      "aspect_ratio": "16:9",
+      "title": "La Corona y el refrendo",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "La Corona y el refrendo",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-002",
-      "type": "infografia",
-      "title": "Sucesión a la Corona",
       "file": "t03-02-sucesion-corona.webp",
-      "aspect_ratio": "16:9",
+      "title": "Sucesión a la Corona",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Sucesión a la Corona",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-003",
-      "type": "infografia",
-      "title": "Regencia y tutela",
       "file": "t03-03-regencia-tutela.webp",
-      "aspect_ratio": "16:9",
+      "title": "Regencia y tutela",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Regencia y tutela",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-004",
-      "type": "infografia",
-      "title": "Funciones del Rey",
       "file": "t03-04-funciones-rey.webp",
-      "aspect_ratio": "16:9",
+      "title": "Funciones del Rey",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Funciones del Rey",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-005",
-      "type": "infografia",
-      "title": "Cortes Generales",
       "file": "t03-05-cortes-generales.webp",
-      "aspect_ratio": "16:9",
+      "title": "Cortes Generales",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Cortes Generales",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-006",
-      "type": "infografia",
-      "title": "Congreso y Senado",
       "file": "t03-06-congreso-senado.webp",
-      "aspect_ratio": "16:9",
+      "title": "Congreso y Senado",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Congreso y Senado",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-007",
-      "type": "infografia",
-      "title": "Prerrogativas parlamentarias",
       "file": "t03-07-prerrogativas-parlamentarias.webp",
-      "aspect_ratio": "16:9",
+      "title": "Prerrogativas parlamentarias",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Prerrogativas parlamentarias",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-008",
-      "type": "infografia",
-      "title": "Funcionamiento de las Cámaras",
       "file": "t03-08-funcionamiento-camaras.webp",
-      "aspect_ratio": "16:9",
+      "title": "Funcionamiento de las Cámaras",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Funcionamiento de las Cámaras",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-009",
-      "type": "infografia",
-      "title": "Leyes orgánicas y delegación legislativa",
       "file": "t03-09-leyes-organicas.webp",
-      "aspect_ratio": "16:9",
+      "title": "Leyes orgánicas y delegación legislativa",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Leyes orgánicas y delegación legislativa",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-010",
-      "type": "infografia",
-      "title": "Decreto-ley, iniciativa y procedimiento legislativo",
       "file": "t03-10-decreto-ley-iniciativa.webp",
-      "aspect_ratio": "16:9",
+      "title": "Decreto-ley, iniciativa y procedimiento legislativo",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Decreto-ley, iniciativa y procedimiento legislativo",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-011",
-      "type": "infografia",
-      "title": "Tratados internacionales",
       "file": "t03-11-tratados-internacionales.webp",
-      "aspect_ratio": "16:9",
+      "title": "Tratados internacionales",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Tratados internacionales",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-012",
-      "type": "infografia",
-      "title": "Gobierno e investidura",
       "file": "t03-12-gobierno-investidura.webp",
-      "aspect_ratio": "16:9",
+      "title": "Gobierno e investidura",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Gobierno e investidura",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-013",
-      "type": "infografia",
-      "title": "Responsabilidad del Gobierno y Administración",
       "file": "t03-13-responsabilidad-gobierno.webp",
-      "aspect_ratio": "16:9",
+      "title": "Responsabilidad del Gobierno y Administración",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Responsabilidad del Gobierno y Administración",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-014",
-      "type": "infografia",
-      "title": "Control parlamentario",
       "file": "t03-14-control-parlamentario.webp",
-      "aspect_ratio": "16:9",
+      "title": "Control parlamentario",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Control parlamentario",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-015",
-      "type": "infografia",
-      "title": "Moción de censura y disolución",
       "file": "t03-15-censura-disolucion.webp",
-      "aspect_ratio": "16:9",
+      "title": "Moción de censura y disolución",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Moción de censura y disolución",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-016",
-      "type": "infografia",
-      "title": "Estados excepcionales",
       "file": "t03-16-estados-excepcionales.webp",
-      "aspect_ratio": "16:9",
+      "title": "Estados excepcionales",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Estados excepcionales",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-INF-017",
-      "type": "infografia",
-      "title": "Reforma constitucional",
       "file": "t03-17-reforma-constitucional.webp",
-      "aspect_ratio": "16:9",
+      "title": "Reforma constitucional",
+      "type": "infografia",
+      "placement": "end_of_block",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "end_of_block",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Reforma constitucional",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-001",
-      "type": "ilustracion_simple",
-      "title": "Constitución e instituciones del Estado",
       "file": "t03-ilu-01-portada-constitucion-instituciones.webp",
-      "aspect_ratio": "4:3",
+      "title": "Constitución e instituciones del Estado",
+      "type": "ilustracion_simple",
+      "placement": "mapa",
+      "status": "integrated_webp",
       "block": null,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "mapa",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Constitución e instituciones del Estado",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-002",
-      "type": "ilustracion_simple",
-      "title": "La Corona como Jefatura del Estado",
       "file": "t03-ilu-02-corona-estado.webp",
-      "aspect_ratio": "1:1",
+      "title": "La Corona como Jefatura del Estado",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "La Corona como Jefatura del Estado",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-003",
-      "type": "ilustracion_simple",
-      "title": "Las Cortes Generales y el debate parlamentario",
       "file": "t03-ilu-03-cortes-debate-parlamentario.webp",
-      "aspect_ratio": "16:9",
+      "title": "Las Cortes Generales y el debate parlamentario",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Las Cortes Generales y el debate parlamentario",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-004",
-      "type": "ilustracion_simple",
-      "title": "El recorrido de una ley",
       "file": "t03-ilu-04-recorrido-de-una-ley.webp",
-      "aspect_ratio": "16:9",
+      "title": "El recorrido de una ley",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "El recorrido de una ley",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-005",
-      "type": "ilustracion_simple",
-      "title": "Gobierno y control parlamentario",
       "file": "t03-ilu-05-gobierno-y-parlamento.webp",
-      "aspect_ratio": "4:3",
+      "title": "Gobierno y control parlamentario",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Gobierno y control parlamentario",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-006",
-      "type": "ilustracion_simple",
-      "title": "Crisis y respuesta constitucional",
       "file": "t03-ilu-06-crisis-y-respuesta-constitucional.webp",
-      "aspect_ratio": "16:9",
+      "title": "Crisis y respuesta constitucional",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Crisis y respuesta constitucional",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-007",
-      "type": "ilustracion_simple",
-      "title": "Independencia judicial",
       "file": "t03-ilu-07-justicia-independiente.webp",
-      "aspect_ratio": "1:1",
+      "title": "Independencia judicial",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Independencia judicial",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-008",
-      "type": "ilustracion_simple",
-      "title": "Policía Judicial e investigación",
       "file": "t03-ilu-08-policia-judicial-investigacion.webp",
-      "aspect_ratio": "4:3",
+      "title": "Policía Judicial e investigación",
+      "type": "ilustracion_simple",
+      "placement": "end",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
         "atestado"
       ],
-      "placement": "end",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Policía Judicial e investigación",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-009",
-      "type": "ilustracion_simple",
-      "title": "Territorio, autonomía y solidaridad",
       "file": "t03-ilu-09-territorio-y-autonomia.webp",
-      "aspect_ratio": "1:1",
+      "title": "Territorio, autonomía y solidaridad",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Territorio, autonomía y solidaridad",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-010",
-      "type": "ilustracion_simple",
-      "title": "El Tribunal Constitucional como garante",
       "file": "t03-ilu-10-guardian-de-la-constitucion.webp",
-      "aspect_ratio": "4:3",
+      "title": "El Tribunal Constitucional como garante",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
         "parte",
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "El Tribunal Constitucional como garante",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T03-ILU-011",
-      "type": "ilustracion_simple",
-      "title": "Reforma de la Constitución",
       "file": "t03-ilu-11-reforma-de-la-constitucion.webp",
-      "aspect_ratio": "4:3",
+      "title": "Reforma de la Constitución",
+      "type": "ilustracion_simple",
+      "placement": "start",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
         "atestado"
       ],
-      "placement": "start",
-      "status": "integrated_webp",
-      "source_content_version": "0.3.0"
+      "description": "Reforma de la Constitución",
+      "source_content_version": "0.3.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     }
   ],
-  "totals": {
-    "planned": 28,
-    "produced": 28
-  },
-  "integration_status": "integrated",
-  "integrated_at": "2026-07-26"
+  "planned_resources": []
 }

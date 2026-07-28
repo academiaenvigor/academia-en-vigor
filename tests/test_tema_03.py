@@ -32,7 +32,11 @@ class Tema03(unittest.TestCase):
         self.assertEqual(self.c["coverage_percent"], 100.0)
 
     def test_all_articles(self):
-        self.assertEqual(self.c["required_constitution_articles"], self.c["covered_constitution_articles"])
+        requirements = self.c["requirements"]
+        self.assertEqual(
+            requirements["required_constitution_articles"],
+            requirements["covered_constitution_articles"],
+        )
 
     def test_derivatives(self):
         self.assertGreater(len(self.atestado), len(self.parte) * 2)
@@ -60,9 +64,9 @@ class Tema03(unittest.TestCase):
 
     def test_visual_assets(self):
         visual = json.loads((ROOT / "assets/policia-nacional/tema-03/manifest.json").read_text(encoding="utf-8"))
-        self.assertEqual(visual["summary"]["total"], 28)
-        self.assertEqual(visual["summary"]["infografias"], 17)
-        self.assertEqual(visual["summary"]["ilustraciones"], 11)
+        self.assertEqual(visual["totals"]["resources"], 28)
+        self.assertEqual(sum(r["type"] == "infografia" for r in visual["resources"]), 17)
+        self.assertEqual(sum(r["type"] == "ilustracion_simple" for r in visual["resources"]), 11)
         for resource in visual["resources"]:
             path = ROOT / "assets/policia-nacional/tema-03" / resource["file"]
             self.assertTrue(path.exists(), resource["file"])

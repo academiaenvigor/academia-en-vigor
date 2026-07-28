@@ -1,9 +1,9 @@
 {
-  "schema_version": "1.4.0",
+  "schema_version": "2.0.0",
   "content_version": "0.1.0",
   "oposicion": "policia-nacional",
   "tema": 2,
-  "estado": "generado_pendiente_revision_editorial",
+  "estado": "draft",
   "publicacion": "not_published",
   "total_preguntas": 212,
   "total_hechos": 209,
@@ -15,15 +15,15 @@
     "C": 70
   },
   "distribucion_dificultad": {
-    "media": 88,
     "alta": 117,
-    "baja": 7
+    "baja": 7,
+    "media": 88
   },
   "distribucion_tipo": {
-    "literal_discriminacion": 175,
     "concepto_aplicado": 28,
-    "trampa_frecuente": 8,
-    "supuesto_practico": 1
+    "literal_discriminacion": 175,
+    "supuesto_practico": 1,
+    "trampa_frecuente": 8
   },
   "preguntas_por_bloque": {
     "1": 4,
@@ -77,19 +77,28 @@
     "propias": 212,
     "oficiales": 0
   },
-  "retroalimentacion": {
-    "feedback": "Explicación por opción: por qué es correcta o por qué es incorrecta.",
-    "retroalimentacion": "acierto y fallo, cada uno con humor y explicacion. El comentario con humor precede a la explicación."
-  },
-  "generacion_de_tests": {
-    "por_bloque": "filtrar por el campo bloque",
-    "por_parte": "filtrar por el campo parte",
-    "test_completo": "muestreo repartido por parte y ponderado por riesgo_examen, tamaños de 25 o 50 preguntas"
-  },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-02/master.md",
   "cobertura": "../../../conocimiento/policia-nacional/tema-02/cobertura.json",
   "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-02/plan.json",
   "official_exam_index": "indice-oficiales.json",
-  "publication_gate": "Revisión humana de distractores y feedback antes de publicar.",
-  "migration_note": "Sustituye al banco de 418 preguntas generadas por plantilla (209 concept_to_statement + 209 statement_to_concept), cuyo enunciado revelaba el concepto preguntado y cuyo feedback repetía el mismo texto en las tres opciones. Las preguntas anteriores quedan en el historial de git."
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "blocked_until_editorial_approval",
+  "quality_gate": {
+    "status": "blocked",
+    "reasons": [
+      "risk5_second_formulations_pending"
+    ],
+    "risk5_second_formulations_pending": 167
+  }
 }

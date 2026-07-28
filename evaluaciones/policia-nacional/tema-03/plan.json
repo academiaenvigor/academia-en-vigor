@@ -1,6 +1,11 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "2.0.0",
   "content_version": "0.3.0",
+  "opposition": "policia-nacional",
+  "topic_number": 3,
+  "topic_title": "La Constitución Española (II)",
+  "id_prefix": "PN-T03",
+  "status": "planned",
   "bank": "banco-preguntas/policia-nacional/tema-03/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-03/tests-generados",
   "coverage_tests": {
@@ -205,9 +210,5 @@
       "questions": 100,
       "offset": 23
     }
-  ],
-  "opposition": "policia-nacional",
-  "topic_number": 3,
-  "topic_title": "La Constitución Española (II)",
-  "id_prefix": "PN-T03"
+  ]
 }

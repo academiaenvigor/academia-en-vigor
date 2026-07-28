@@ -13,6 +13,10 @@
 <p align="center"><em>Ilustración: Constitución e instituciones del Estado.</em></p>
 1. Corona (bloques 1-4) → 2. Cortes y producción normativa (5-11) → 3. Gobierno, control y estados excepcionales (12-16) → 4. Poder Judicial (17-18) → 5. Organización territorial (19-23) → 6. Tribunal Constitucional y reforma (24-25).
 
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
+
 # Contenido
 
 ## 01. La Corona: posición, inviolabilidad, refrendo y Casa del Rey
@@ -41,6 +45,9 @@
 <!-- MATERIAL PENDIENTE: t03-p1-audio -->
 <!-- MATERIAL PENDIENTE: t03-p1-video -->
 <!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -65,6 +72,9 @@
 <!-- MATERIAL PENDIENTE: t03-p1-audio -->
 <!-- MATERIAL PENDIENTE: t03-p1-video -->
 <!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -89,6 +99,9 @@
 <!-- MATERIAL PENDIENTE: t03-p1-audio -->
 <!-- MATERIAL PENDIENTE: t03-p1-video -->
 <!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -114,6 +127,9 @@
 <!-- MATERIAL PENDIENTE: t03-p1-audio -->
 <!-- MATERIAL PENDIENTE: t03-p1-video -->
 <!-- MATERIAL PENDIENTE: t03-p1-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORONA -->
 
@@ -140,6 +156,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -169,6 +188,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -191,6 +213,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -223,6 +248,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -247,6 +275,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -281,6 +312,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -304,6 +338,9 @@
 <!-- MATERIAL PENDIENTE: t03-p2-audio -->
 <!-- MATERIAL PENDIENTE: t03-p2-video -->
 <!-- MATERIAL PENDIENTE: t03-p2-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-CORTES -->
 
@@ -337,6 +374,9 @@
 <!-- MATERIAL PENDIENTE: t03-p3-audio -->
 <!-- MATERIAL PENDIENTE: t03-p3-video -->
 <!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -367,6 +407,9 @@
 <!-- MATERIAL PENDIENTE: t03-p3-audio -->
 <!-- MATERIAL PENDIENTE: t03-p3-video -->
 <!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-GOBIERNO -->
 
@@ -387,6 +430,9 @@
 <!-- MATERIAL PENDIENTE: t03-p3-audio -->
 <!-- MATERIAL PENDIENTE: t03-p3-video -->
 <!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -416,6 +462,9 @@
 <!-- MATERIAL PENDIENTE: t03-p3-audio -->
 <!-- MATERIAL PENDIENTE: t03-p3-video -->
 <!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-RELACIONES -->
 
@@ -448,6 +497,9 @@
 <!-- MATERIAL PENDIENTE: t03-p3-audio -->
 <!-- MATERIAL PENDIENTE: t03-p3-video -->
 <!-- MATERIAL PENDIENTE: t03-p3-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: LOAES -->
 
@@ -474,6 +526,9 @@
 <!-- MATERIAL PENDIENTE: t03-p4-audio -->
 <!-- MATERIAL PENDIENTE: t03-p4-video -->
 <!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-JUDICIAL -->
 
@@ -498,6 +553,9 @@
 <!-- MATERIAL PENDIENTE: t03-p4-audio -->
 <!-- MATERIAL PENDIENTE: t03-p4-video -->
 <!-- MATERIAL PENDIENTE: t03-p4-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: LOPJ -->
 
@@ -528,6 +586,9 @@
 <!-- MATERIAL PENDIENTE: t03-p5-audio -->
 <!-- MATERIAL PENDIENTE: t03-p5-video -->
 <!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -549,6 +610,9 @@
 <!-- MATERIAL PENDIENTE: t03-p5-audio -->
 <!-- MATERIAL PENDIENTE: t03-p5-video -->
 <!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -574,6 +638,9 @@
 <!-- MATERIAL PENDIENTE: t03-p5-audio -->
 <!-- MATERIAL PENDIENTE: t03-p5-video -->
 <!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -597,6 +664,9 @@
 <!-- MATERIAL PENDIENTE: t03-p5-audio -->
 <!-- MATERIAL PENDIENTE: t03-p5-video -->
 <!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -621,6 +691,9 @@
 <!-- MATERIAL PENDIENTE: t03-p5-audio -->
 <!-- MATERIAL PENDIENTE: t03-p5-video -->
 <!-- MATERIAL PENDIENTE: t03-p5-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-TERRITORIAL -->
 
@@ -661,6 +734,9 @@
 <!-- MATERIAL PENDIENTE: t03-p6-audio -->
 <!-- MATERIAL PENDIENTE: t03-p6-video -->
 <!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: LOTC -->
 
@@ -688,6 +764,9 @@
 <!-- MATERIAL PENDIENTE: t03-p6-audio -->
 <!-- MATERIAL PENDIENTE: t03-p6-video -->
 <!-- MATERIAL PENDIENTE: t03-p6-presentacione -->
+<!-- MATERIAL PENDIENTE: t03-todo-audio -->
+<!-- MATERIAL PENDIENTE: t03-todo-video -->
+<!-- MATERIAL PENDIENTE: t03-todo-pres -->
 
 <!-- FUENTE: CE-REFORMA -->
 

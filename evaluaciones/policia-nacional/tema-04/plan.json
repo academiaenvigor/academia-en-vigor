@@ -1,13 +1,13 @@
 {
-  "schema_version": "1.1.0",
-  "content_version": "0.1.0",
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
   "opposition": "policia-nacional",
   "topic_number": 4,
   "topic_title": "La Unión Europea",
   "id_prefix": "PN-T04",
+  "status": "planned_after_question_bank",
   "bank": "banco-preguntas/policia-nacional/tema-04/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-04/tests-generados",
-  "status": "planned_after_question_bank",
   "coverage_tests": {
     "description": "Pendiente de hechos y preguntas",
     "max_questions_per_test": 25,
@@ -204,7 +204,7 @@
       ]
     }
   ],
-  "full_tests": {
+  "final_tests": {
     "sizes": [
       25,
       50

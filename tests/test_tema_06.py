@@ -98,8 +98,8 @@ class Tema06(unittest.TestCase):
         self.assertEqual(bank_path.read_text(encoding="utf-8").strip(), "")
         self.assertEqual(bank_manifest["total_preguntas"], 0)
         self.assertEqual(
-            bank_manifest["generation_status"],
-            "blocked_until_topic_approval",
+            bank_manifest["quality_gate"]["status"],
+            "blocked",
         )
 
     def test_official_appearances_are_not_presented_as_official_answers(self) -> None:
@@ -111,12 +111,8 @@ class Tema06(unittest.TestCase):
         self.assertEqual(index["con_respuesta_verificada"], 15)
         self.assertEqual(sum(index["por_promocion"].values()), 15)
         self.assertEqual(
-            {
-                item["question_id"]
-                for appearances in index["por_bloque"].values()
-                for item in appearances
-            },
-            {item["question_id"] for item in index["questions"]},
+            sum(index["por_bloque"].values()),
+            sum(len(item["block_refs"]) for item in index["questions"]),
         )
         self.assertEqual(
             index["retroalimentacion"],
@@ -136,8 +132,8 @@ class Tema06(unittest.TestCase):
         visual = json.loads(
             (ROOT / self.manifest["assets"]["manifest"]).read_text(encoding="utf-8")
         )
-        self.assertEqual(visual["totals"], {"planned": 11, "produced": 11})
-        self.assertEqual(visual["integration_status"], "integrated")
+        self.assertEqual(visual["totals"], {"resources": 11, "integrated": 11, "planned": 0})
+        self.assertEqual(visual["integration_status"], "complete")
         self.assertEqual(len(visual["resources"]), 11)
         for resource in visual["resources"]:
             path = ROOT / "assets/policia-nacional/tema-06" / resource["file"]
@@ -185,7 +181,7 @@ class Tema06(unittest.TestCase):
         catalog = json.loads(
             (ROOT / "fuentes/catalogo.json").read_text(encoding="utf-8")
         )
-        self.assertEqual(catalog["catalog_version"], "0.5.0")
+        self.assertEqual(catalog["catalog_version"], "1.0.0")
         source_ids = {source["id"] for source in catalog["sources"]}
         self.assertTrue(set(self.manifest["official_references"]) <= source_ids)
 

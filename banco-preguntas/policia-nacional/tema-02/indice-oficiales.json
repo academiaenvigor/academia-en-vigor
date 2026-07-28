@@ -1,5 +1,5 @@
 {
-  "schema_version": "3.0.0",
+  "schema_version": "2.0.0",
   "oposicion": "policia-nacional",
   "tema": 2,
   "titulo": "La Constitución Española (I)",
@@ -18,18 +18,30 @@
   "total_referencias": 27,
   "con_bloque_asignado": 27,
   "con_respuesta_verificada": 27,
-  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
-  "por_promocion": {
-    "XLII": 3,
-    "XL": 3,
-    "XXXVIII": 4,
-    "XXXIV": 3,
-    "XXXV": 2,
-    "XXXVI": 4,
-    "XXXVII": 3,
-    "XXXIX": 4,
-    "XLI": 1
+  "por_bloque": {
+    "3": 1,
+    "6": 1,
+    "11": 1,
+    "15": 14,
+    "17": 1,
+    "19": 1,
+    "25": 1,
+    "29": 1,
+    "34": 1,
+    "36": 3,
+    "37": 2
   },
+  "por_promocion": {
+    "2017": 3,
+    "2018": 2,
+    "2019": 4,
+    "2020": 3,
+    "2021": 4,
+    "2023": 7,
+    "2024": 1,
+    "2025": 3
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
   "questions": [
     {
       "question_id": "of-pn-p42-a-q049",
@@ -409,245 +421,5 @@
       "anulada": false,
       "mapping_confidence": 9
     }
-  ],
-  "por_bloque": {
-    "3": [
-      {
-        "question_id": "of-pn-p42-a-q049",
-        "promocion": "XLII",
-        "anio": 2025,
-        "numero": 49,
-        "respuesta": "A",
-        "confianza_mapeo": 13
-      }
-    ],
-    "6": [
-      {
-        "question_id": "of-pn-p40-a-q098",
-        "promocion": "XL",
-        "anio": 2023,
-        "numero": 98,
-        "respuesta": "B",
-        "confianza_mapeo": 9
-      }
-    ],
-    "11": [
-      {
-        "question_id": "of-pn-p38-a-q036",
-        "promocion": "XXXVIII",
-        "anio": 2021,
-        "numero": 36,
-        "respuesta": "A",
-        "confianza_mapeo": 2
-      }
-    ],
-    "15": [
-      {
-        "question_id": "of-pn-p34-a-q043",
-        "promocion": "XXXIV",
-        "anio": 2017,
-        "numero": 43,
-        "respuesta": "B",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p34-a-q057",
-        "promocion": "XXXIV",
-        "anio": 2017,
-        "numero": 57,
-        "respuesta": "C",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p34-a-q084",
-        "promocion": "XXXIV",
-        "anio": 2017,
-        "numero": 84,
-        "respuesta": "B",
-        "confianza_mapeo": 3
-      },
-      {
-        "question_id": "of-pn-p35-a-q007",
-        "promocion": "XXXV",
-        "anio": 2018,
-        "numero": 7,
-        "respuesta": "B",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p36-a-q044",
-        "promocion": "XXXVI",
-        "anio": 2019,
-        "numero": 44,
-        "respuesta": "A",
-        "confianza_mapeo": 4
-      },
-      {
-        "question_id": "of-pn-p36-a-q049",
-        "promocion": "XXXVI",
-        "anio": 2019,
-        "numero": 49,
-        "respuesta": "C",
-        "confianza_mapeo": 6
-      },
-      {
-        "question_id": "of-pn-p37-a-q084",
-        "promocion": "XXXVII",
-        "anio": 2020,
-        "numero": 84,
-        "respuesta": "C",
-        "confianza_mapeo": 12
-      },
-      {
-        "question_id": "of-pn-p38-a-q059",
-        "promocion": "XXXVIII",
-        "anio": 2021,
-        "numero": 59,
-        "respuesta": "A",
-        "confianza_mapeo": 5
-      },
-      {
-        "question_id": "of-pn-p39-a-q039",
-        "promocion": "XXXIX",
-        "anio": 2023,
-        "numero": 39,
-        "respuesta": "C",
-        "confianza_mapeo": 5
-      },
-      {
-        "question_id": "of-pn-p39-a-q041",
-        "promocion": "XXXIX",
-        "anio": 2023,
-        "numero": 41,
-        "respuesta": "C",
-        "confianza_mapeo": 3
-      },
-      {
-        "question_id": "of-pn-p39-a-q053",
-        "promocion": "XXXIX",
-        "anio": 2023,
-        "numero": 53,
-        "respuesta": "C",
-        "confianza_mapeo": 9
-      },
-      {
-        "question_id": "of-pn-p41-a-q057",
-        "promocion": "XLI",
-        "anio": 2024,
-        "numero": 57,
-        "respuesta": "A",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p42-a-q056",
-        "promocion": "XLII",
-        "anio": 2025,
-        "numero": 56,
-        "respuesta": "A",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p42-a-q074",
-        "promocion": "XLII",
-        "anio": 2025,
-        "numero": 74,
-        "respuesta": "A",
-        "confianza_mapeo": 5
-      }
-    ],
-    "17": [
-      {
-        "question_id": "of-pn-p37-a-q016",
-        "promocion": "XXXVII",
-        "anio": 2020,
-        "numero": 16,
-        "respuesta": "A",
-        "confianza_mapeo": 7
-      }
-    ],
-    "19": [
-      {
-        "question_id": "of-pn-p38-a-q003",
-        "promocion": "XXXVIII",
-        "anio": 2021,
-        "numero": 3,
-        "respuesta": "B",
-        "confianza_mapeo": 6
-      }
-    ],
-    "25": [
-      {
-        "question_id": "of-pn-p37-a-q031",
-        "promocion": "XXXVII",
-        "anio": 2020,
-        "numero": 31,
-        "respuesta": "C",
-        "confianza_mapeo": 4
-      }
-    ],
-    "29": [
-      {
-        "question_id": "of-pn-p40-a-q044",
-        "promocion": "XL",
-        "anio": 2023,
-        "numero": 44,
-        "respuesta": "C",
-        "confianza_mapeo": 9
-      }
-    ],
-    "34": [
-      {
-        "question_id": "of-pn-p36-a-q051",
-        "promocion": "XXXVI",
-        "anio": 2019,
-        "numero": 51,
-        "respuesta": "C",
-        "confianza_mapeo": 12
-      }
-    ],
-    "36": [
-      {
-        "question_id": "of-pn-p35-a-q048",
-        "promocion": "XXXV",
-        "anio": 2018,
-        "numero": 48,
-        "respuesta": "A",
-        "confianza_mapeo": 8
-      },
-      {
-        "question_id": "of-pn-p36-a-q076",
-        "promocion": "XXXVI",
-        "anio": 2019,
-        "numero": 76,
-        "respuesta": "B",
-        "confianza_mapeo": 11
-      },
-      {
-        "question_id": "of-pn-p38-a-q072",
-        "promocion": "XXXVIII",
-        "anio": 2021,
-        "numero": 72,
-        "respuesta": "C",
-        "confianza_mapeo": 6
-      }
-    ],
-    "37": [
-      {
-        "question_id": "of-pn-p40-a-q042",
-        "promocion": "XL",
-        "anio": 2023,
-        "numero": 42,
-        "respuesta": "B",
-        "confianza_mapeo": 7
-      },
-      {
-        "question_id": "of-pn-p39-a-q061",
-        "promocion": "XXXIX",
-        "anio": 2023,
-        "numero": 61,
-        "respuesta": "B",
-        "confianza_mapeo": 9
-      }
-    ]
-  }
+  ]
 }

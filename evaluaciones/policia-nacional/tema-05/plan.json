@@ -1,12 +1,13 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "2.0.0",
   "content_version": "1.0.0",
   "opposition": "policia-nacional",
   "topic_number": 5,
   "topic_title": "Organización y funcionamiento de la Administración General del Estado",
   "id_prefix": "PN-T05",
-  "bank": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
   "status": "planned_after_question_bank",
+  "bank": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-05/tests-generados",
   "coverage_tests": {
     "max_questions_per_test": 25,
     "blocks": [
@@ -237,7 +238,7 @@
       ]
     }
   ],
-  "full_tests": {
+  "final_tests": {
     "sizes": [
       25,
       50

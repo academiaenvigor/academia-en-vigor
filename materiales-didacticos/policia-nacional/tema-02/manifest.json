@@ -23,6 +23,14 @@
     "presentaciones": "Presentaciones",
     "infografias": "Infografías y resúmenes"
   },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": {
+    "presentation_tag": "PRES",
+    "note": "Etiqueta unificada en PRES para los cuatro temas. El Tema 2 usaba PRESENTACION hasta el 26-07-2026."
+  },
   "parts": [
     {
       "id": "p1",
@@ -162,7 +170,9 @@
         "asset_key": "pn/tema-02/p01/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p1-video",
@@ -193,7 +203,9 @@
         "asset_key": "pn/tema-02/p01/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p1-presentacione",
@@ -224,7 +236,9 @@
         "asset_key": "pn/tema-02/p01/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p1-infografia",
@@ -255,7 +269,9 @@
         "asset_key": "pn/tema-02/p01/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p2-audio",
@@ -287,7 +303,9 @@
         "asset_key": "pn/tema-02/p02/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p2-video",
@@ -319,7 +337,9 @@
         "asset_key": "pn/tema-02/p02/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p2-presentacione",
@@ -351,7 +371,9 @@
         "asset_key": "pn/tema-02/p02/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p2-infografia",
@@ -383,7 +405,9 @@
         "asset_key": "pn/tema-02/p02/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p3-audio",
@@ -412,7 +436,9 @@
         "asset_key": "pn/tema-02/p03/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p3-video",
@@ -441,7 +467,9 @@
         "asset_key": "pn/tema-02/p03/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p3-presentacione",
@@ -470,7 +498,9 @@
         "asset_key": "pn/tema-02/p03/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p3-infografia",
@@ -499,7 +529,9 @@
         "asset_key": "pn/tema-02/p03/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p4-audio",
@@ -529,7 +561,9 @@
         "asset_key": "pn/tema-02/p04/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p4-video",
@@ -559,7 +593,9 @@
         "asset_key": "pn/tema-02/p04/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p4-presentacione",
@@ -589,7 +625,9 @@
         "asset_key": "pn/tema-02/p04/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p4-infografia",
@@ -619,7 +657,9 @@
         "asset_key": "pn/tema-02/p04/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p5-audio",
@@ -651,7 +691,9 @@
         "asset_key": "pn/tema-02/p05/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p5-video",
@@ -683,7 +725,9 @@
         "asset_key": "pn/tema-02/p05/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p5-presentacione",
@@ -715,7 +759,9 @@
         "asset_key": "pn/tema-02/p05/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p5-infografia",
@@ -747,7 +793,9 @@
         "asset_key": "pn/tema-02/p05/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p6-audio",
@@ -781,7 +829,9 @@
         "asset_key": "pn/tema-02/p06/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p6-video",
@@ -815,7 +865,9 @@
         "asset_key": "pn/tema-02/p06/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p6-presentacione",
@@ -849,7 +901,9 @@
         "asset_key": "pn/tema-02/p06/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p6-infografia",
@@ -883,7 +937,9 @@
         "asset_key": "pn/tema-02/p06/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p7-audio",
@@ -914,7 +970,9 @@
         "asset_key": "pn/tema-02/p07/audios",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p7-video",
@@ -945,7 +1003,9 @@
         "asset_key": "pn/tema-02/p07/videos",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p7-presentacione",
@@ -976,7 +1036,9 @@
         "asset_key": "pn/tema-02/p07/presentaciones",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     },
     {
       "id": "t02-p7-infografia",
@@ -1007,11 +1069,9 @@
         "asset_key": "pn/tema-02/p07/infografias",
         "drive_file_id": "",
         "url": ""
-      }
+      },
+      "file_size_bytes": null,
+      "resource_type": null
     }
-  ],
-  "nomenclature": {
-    "presentation_tag": "PRES",
-    "note": "Etiqueta unificada en PRES para los cuatro temas. El Tema 2 usaba PRESENTACION hasta el 26-07-2026."
-  }
+  ]
 }

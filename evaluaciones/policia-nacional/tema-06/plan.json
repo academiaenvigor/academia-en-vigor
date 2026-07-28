@@ -1,10 +1,11 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "2.0.0",
   "content_version": "1.0.1",
   "opposition": "policia-nacional",
   "topic_number": 6,
   "topic_title": "Los funcionarios públicos: concepto y clases. Adquisición y pérdida de la condición de funcionario",
   "id_prefix": "PN-T06",
+  "status": "not_started_by_user_instruction",
   "bank": "banco-preguntas/policia-nacional/tema-06/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-06/tests-generados",
   "coverage_tests": {
@@ -74,6 +75,5 @@
     "variants": [],
     "parts": []
   },
-  "final_tests": [],
-  "status": "not_started_by_user_instruction"
+  "final_tests": []
 }

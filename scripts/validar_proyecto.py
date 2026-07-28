@@ -13,7 +13,9 @@ errors = []
 required_root = [
     'README.md', 'COPYRIGHT.md', 'SECURITY.md', 'temario.json',
     'editorial/00-codigo-vigor.md', 'editorial/01-manual-editorial.md', 'editorial/02-estandar-tecnico.md',
+    'editorial/04-contrato-unico-de-tema.md',
     'fuentes/catalogo.json', 'scripts/compilar_tema.py', 'scripts/validar_bancos.py',
+    'scripts/validar_temas.py',
     'scripts/validar_examenes_oficiales.py', 'scripts/validar_materiales.py', 'scripts/validar_derechos.py',
     'banco-preguntas/policia-nacional/oficiales/manifest.json',
 ]
@@ -44,24 +46,35 @@ for opposition, info in project.get('oppositions', {}).items():
                     errors.append(f'JSON inválido {relative}: {exc}')
 
 assets_root = ROOT / 'assets'
+active_asset_states = {'approved_internal', 'integrated_webp', 'published'}
 for manifest_path in assets_root.glob('*/tema-*/manifest.json'):
     data = json.loads(manifest_path.read_text(encoding='utf-8'))
     topic_root = manifest_path.parent
     for resource in data.get('resources', []):
         target = topic_root / resource['file']
-        if not target.exists():
+        if resource.get('status') in active_asset_states and not target.exists():
             errors.append(f'Falta asset {target.relative_to(ROOT)}')
 
 if errors:
     print('\n'.join(f'ERROR: {error}' for error in errors))
     raise SystemExit(1)
 
-for script in ('validar_derechos.py', 'validar_examenes_oficiales.py', 'validar_materiales.py'):
+for script in (
+    'validar_derechos.py', 'validar_examenes_oficiales.py',
+    'validar_materiales.py', 'validar_temas.py',
+):
     result = subprocess.run([sys.executable, str(ROOT / 'scripts' / script), str(ROOT)] if script == 'validar_examenes_oficiales.py' else [sys.executable, str(ROOT / 'scripts' / script)], cwd=ROOT)
     if result.returncode:
         raise SystemExit(result.returncode)
 
 result = subprocess.run([sys.executable, str(ROOT / 'scripts/validar_bancos.py'), '--all'], cwd=ROOT)
+if result.returncode:
+    raise SystemExit(result.returncode)
+
+result = subprocess.run(
+    [sys.executable, str(ROOT / 'scripts/compilar_tema.py'), '--all', '--check'],
+    cwd=ROOT,
+)
 if result.returncode:
     raise SystemExit(result.returncode)
 

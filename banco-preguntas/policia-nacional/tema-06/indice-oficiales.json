@@ -1,5 +1,5 @@
 {
-  "schema_version": "3.0.0",
+  "schema_version": "2.0.0",
   "oposicion": "policia-nacional",
   "tema": 6,
   "titulo": "Los funcionarios públicos: concepto y clases. Adquisición y pérdida de la condición de funcionario",
@@ -16,18 +16,31 @@
   "total_referencias": 15,
   "con_bloque_asignado": 15,
   "con_respuesta_verificada": 15,
-  "por_promocion": {
-    "XXXIII": 1,
-    "XXXIV": 2,
-    "XXXV": 2,
-    "XXXVI": 1,
-    "XXXVII": 2,
-    "XXXVIII": 1,
-    "XXXIX": 1,
-    "XL": 2,
-    "XLI": 2,
-    "XLII": 1
+  "por_bloque": {
+    "1": 1,
+    "2": 2,
+    "4": 2,
+    "5": 2,
+    "6": 1,
+    "7": 3,
+    "9": 1,
+    "11": 1,
+    "12": 2,
+    "13": 1,
+    "14": 1
   },
+  "por_promocion": {
+    "2016": 1,
+    "2017": 2,
+    "2018": 2,
+    "2019": 1,
+    "2020": 2,
+    "2021": 1,
+    "2023": 3,
+    "2024": 2,
+    "2025": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
   "questions": [
     {
       "question_id": "of-pn-p37-a-q037",
@@ -196,47 +209,5 @@
       "answer_status": "verificada_por_autor_no_plantilla_oficial",
       "rule_status_2026": "current"
     }
-  ],
-  "por_bloque": {
-    "1": [
-      {"question_id":"of-pn-p37-a-q037","promocion":"XXXVII","anio":2020,"numero":37,"respuesta":"B"}
-    ],
-    "2": [
-      {"question_id":"of-pn-p41-a-q024","promocion":"XLI","anio":2024,"numero":24,"respuesta":"B"},
-      {"question_id":"of-pn-p42-a-q067","promocion":"XLII","anio":2025,"numero":67,"respuesta":"C"}
-    ],
-    "4": [
-      {"question_id":"of-pn-p34-a-q027","promocion":"XXXIV","anio":2017,"numero":27,"respuesta":"B"},
-      {"question_id":"of-pn-p35-a-q068","promocion":"XXXV","anio":2018,"numero":68,"respuesta":"C"}
-    ],
-    "5": [
-      {"question_id":"of-pn-p35-a-q068","promocion":"XXXV","anio":2018,"numero":68,"respuesta":"C"},
-      {"question_id":"of-pn-p37-a-q083","promocion":"XXXVII","anio":2020,"numero":83,"respuesta":"C"}
-    ],
-    "6": [
-      {"question_id":"of-pn-p34-a-q029","promocion":"XXXIV","anio":2017,"numero":29,"respuesta":"A"}
-    ],
-    "7": [
-      {"question_id":"of-pn-p35-a-q092","promocion":"XXXV","anio":2018,"numero":92,"respuesta":"C"},
-      {"question_id":"of-pn-p38-a-q016","promocion":"XXXVIII","anio":2021,"numero":16,"respuesta":"B"},
-      {"question_id":"of-pn-p40-a-q076","promocion":"XL","anio":2023,"numero":76,"respuesta":"C"}
-    ],
-    "9": [
-      {"question_id":"of-pn-p41-a-q037","promocion":"XLI","anio":2024,"numero":37,"respuesta":"C"}
-    ],
-    "11": [
-      {"question_id":"of-pn-p33-a-q013","promocion":"XXXIII","anio":2016,"numero":13,"respuesta":"C"}
-    ],
-    "12": [
-      {"question_id":"of-pn-p33-a-q013","promocion":"XXXIII","anio":2016,"numero":13,"respuesta":"C"},
-      {"question_id":"of-pn-p36-a-q074","promocion":"XXXVI","anio":2019,"numero":74,"respuesta":"B"}
-    ],
-    "13": [
-      {"question_id":"of-pn-p40-a-q078","promocion":"XL","anio":2023,"numero":78,"respuesta":"C"}
-    ],
-    "14": [
-      {"question_id":"of-pn-p39-a-q063","promocion":"XXXIX","anio":2023,"numero":63,"respuesta":"C"}
-    ]
-  },
-  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json"
+  ]
 }

@@ -23,16 +23,9 @@
 
 La parte más extensa es la de instituciones (bloques 9 a 23). Conviene estudiarla siempre con el mismo esquema —**naturaleza → composición → nombramiento → mandato → funciones → sede**— porque el tribunal pregunta esos seis datos de cada órgano. La parte 8 es la de aplicación policial directa y se retiene mejor si se estudia después de las instituciones.
 
-<!-- VISUAL:t04-00-mapa-general.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.webp" alt="Mapa general" width="820">
-</p>
-
-> **Material completo del tema:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+El Atestado desarrolla los mismos bloques que El Parte con mayor extensión: aquí se razona el porqué de cada regla, se comparan las figuras que se confunden entre sí y se explican los datos en su contexto. El Parte es la versión de repaso; El Atestado, la de comprensión.
 
 # Contenido
-
-<!-- PARTE 1: La Unión Europea: historia y tratados -->
 
 ## 01. La construcción europea: referencia histórica
 
@@ -52,14 +45,17 @@ Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania�
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-01-linea-tiempo.webp" alt="Línea de tiempo de la construcción europea" width="820">
 </p>
+<p align="center"><em>Infografía: Línea de tiempo de la construcción europea.</em></p>
 
 <!-- VISUAL:t04-il-01-nace-europa.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-01-nace-europa.webp" alt="el proyecto europeo nace de la posguerra" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-01-nace-europa.webp" alt="el proyecto europeo nace como respuesta a la posguerra" width="600">
 </p>
 <p align="center"><em>Ilustración: el proyecto europeo nace como respuesta a la posguerra.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p1-audio -->
+<!-- MATERIAL PENDIENTE: t04-p1-video -->
+<!-- MATERIAL PENDIENTE: t04-p1-presentacion -->
 
 <!-- FUENTE: UE-HISTORIA -->
 
@@ -81,8 +77,11 @@ El Tratado constitucional de 2004 **se firmó** pero **nunca entró en vigor**. 
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-02-tratados-cronologia.webp" alt="Cronología de los tratados" width="820">
 </p>
+<p align="center"><em>Infografía: Cronología de los tratados.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p1-audio -->
+<!-- MATERIAL PENDIENTE: t04-p1-video -->
+<!-- MATERIAL PENDIENTE: t04-p1-presentacion -->
 
 <!-- FUENTE: UE-TRATADOS -->
 
@@ -104,14 +103,17 @@ El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-03-mapa-ampliaciones.webp" alt="Mapa de las ampliaciones sucesivas" width="820">
 </p>
+<p align="center"><em>Infografía: Mapa de las ampliaciones sucesivas.</em></p>
 
 <!-- VISUAL:t04-il-03-entrada-salida.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-03-entrada-salida.webp" alt="la Unión tiene puerta de entrada y puerta de salida" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-03-entrada-salida.webp" alt="el artículo 49 regula la entrada; el artículo 50, la salida" width="600">
 </p>
 <p align="center"><em>Ilustración: el artículo 49 regula la entrada; el artículo 50, la salida.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p1-audio -->
+<!-- MATERIAL PENDIENTE: t04-p1-video -->
+<!-- MATERIAL PENDIENTE: t04-p1-presentacion -->
 
 <!-- FUENTE: UE-AMPLIACION -->
 
@@ -133,12 +135,18 @@ El Alto Representante **participa** en los trabajos del Consejo Europeo, pero **
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-04-alto-representante.webp" alt="Doble sombrero del Alto Representante" width="820">
 </p>
+<p align="center"><em>Infografía: Doble sombrero del Alto Representante.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-EXTERIOR -->
 
 <!-- PARTE 2: El Derecho de la Unión Europea -->
+
+<!-- MATERIAL PENDIENTE: t04-p1-audio -->
+<!-- MATERIAL PENDIENTE: t04-p1-video -->
+<!-- MATERIAL PENDIENTE: t04-p1-presentacion -->
+
+<!-- FUENTE: UE-EXTERIOR -->
 
 ## 05. Naturaleza del ordenamiento europeo: primacía y efecto directo
 
@@ -158,14 +166,17 @@ Primacía y efecto directo **no están escritos en los Tratados**: son jurisprud
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-05-primacia-efecto-directo.webp" alt="Primacía y efecto directo" width="820">
 </p>
+<p align="center"><em>Infografía: Primacía y efecto directo.</em></p>
 
 <!-- VISUAL:t04-il-05-piramide.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-05-piramide.webp" alt="el Derecho de la Unión se sitúa por encima de la norma interna en caso de conflicto" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-05-piramide.webp" alt="ante un conflicto, el juez nacional inaplica la norma interna contraria" width="600">
 </p>
 <p align="center"><em>Ilustración: ante un conflicto, el juez nacional inaplica la norma interna contraria.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p2-audio -->
+<!-- MATERIAL PENDIENTE: t04-p2-video -->
+<!-- MATERIAL PENDIENTE: t04-p2-presentacion -->
 
 <!-- FUENTE: UE-PRINCIPIOS -->
 
@@ -187,8 +198,11 @@ El TUE **no está por encima** del TFUE. Desde Lisboa ambos tienen exactamente e
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-06-piramide-fuentes.webp" alt="Pirámide de fuentes del Derecho de la Unión" width="820">
 </p>
+<p align="center"><em>Infografía: Pirámide de fuentes del Derecho de la Unión.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p2-audio -->
+<!-- MATERIAL PENDIENTE: t04-p2-video -->
+<!-- MATERIAL PENDIENTE: t04-p2-presentacion -->
 
 <!-- FUENTE: UE-FUENTES -->
 
@@ -210,14 +224,17 @@ La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-07-actos-tipicos.webp" alt="Cuadro comparativo de los actos del artículo 288" width="820">
 </p>
+<p align="center"><em>Infografía: Cuadro comparativo de los actos del artículo 288.</em></p>
 
 <!-- VISUAL:t04-il-07-reglamento-directiva.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-07-reglamento-directiva.webp" alt="el reglamento se aplica directamente y la directiva necesita transposición" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-07-reglamento-directiva.webp" alt="el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga" width="600">
 </p>
 <p align="center"><em>Ilustración: el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p2-audio -->
+<!-- MATERIAL PENDIENTE: t04-p2-video -->
+<!-- MATERIAL PENDIENTE: t04-p2-presentacion -->
 
 <!-- FUENTE: UE-FUENTES -->
 
@@ -239,12 +256,18 @@ La Carta se **proclamó en 2000** pero solo es **vinculante desde 2009**. Y vinc
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-08-derechos-fundamentales.webp" alt="Sistemas de protección de derechos en Europa" width="820">
 </p>
+<p align="center"><em>Infografía: Sistemas de protección de derechos en Europa.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-FUENTES -->
 
 <!-- PARTE 3: Instituciones (I): el Parlamento Europeo -->
+
+<!-- MATERIAL PENDIENTE: t04-p2-audio -->
+<!-- MATERIAL PENDIENTE: t04-p2-video -->
+<!-- MATERIAL PENDIENTE: t04-p2-presentacion -->
+
+<!-- FUENTE: UE-FUENTES -->
 
 ## 09. El Parlamento Europeo: naturaleza, composición y sedes
 
@@ -264,14 +287,17 @@ La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre l
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-09-reparto-escanos.webp" alt="Reparto de escaños por Estado miembro" width="820">
 </p>
+<p align="center"><em>Infografía: Reparto de escaños por Estado miembro.</em></p>
 
 <!-- VISUAL:t04-il-09-tres-sedes.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-09-tres-sedes.webp" alt="el Parlamento reparte su actividad entre tres ciudades" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-09-tres-sedes.webp" alt="el Parlamento es itinerante: plenos, comisiones y administración se reparten" width="600">
 </p>
 <p align="center"><em>Ilustración: el Parlamento es itinerante: plenos, comisiones y administración se reparten.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p3-audio -->
+<!-- MATERIAL PENDIENTE: t04-p3-video -->
+<!-- MATERIAL PENDIENTE: t04-p3-presentacion -->
 
 <!-- FUENTE: UE-PE -->
 
@@ -293,8 +319,11 @@ Los **Cuestores son cinco** y tienen **voz pero no voto**. Y el mandato del Pres
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-10-organos-parlamento.webp" alt="Órganos de gobierno del Parlamento" width="820">
 </p>
+<p align="center"><em>Infografía: Órganos de gobierno del Parlamento.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p3-audio -->
+<!-- MATERIAL PENDIENTE: t04-p3-video -->
+<!-- MATERIAL PENDIENTE: t04-p3-presentacion -->
 
 <!-- FUENTE: UE-PE -->
 
@@ -316,12 +345,18 @@ La moción de censura tumba a **toda la Comisión en bloque**. El Parlamento **n
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-11-funciones-parlamento.webp" alt="Funciones del Parlamento Europeo" width="820">
 </p>
+<p align="center"><em>Infografía: Funciones del Parlamento Europeo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-PE -->
 
 <!-- PARTE 4: Instituciones (II): los Consejos -->
+
+<!-- MATERIAL PENDIENTE: t04-p3-audio -->
+<!-- MATERIAL PENDIENTE: t04-p3-video -->
+<!-- MATERIAL PENDIENTE: t04-p3-presentacion -->
+
+<!-- FUENTE: UE-PE -->
 
 ## 12. El Consejo Europeo: naturaleza, composición y funciones
 
@@ -341,14 +376,17 @@ El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, 
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-12-tres-consejos.webp" alt="Los tres Consejos que no deben confundirse" width="820">
 </p>
+<p align="center"><em>Infografía: Los tres Consejos que no deben confundirse.</em></p>
 
 <!-- VISUAL:t04-il-12-no-confundir.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-12-no-confundir.webp" alt="tres instituciones distintas comparten la palabra Consejo" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-12-no-confundir.webp" alt="Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas" width="600">
 </p>
 <p align="center"><em>Ilustración: Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p4-audio -->
+<!-- MATERIAL PENDIENTE: t04-p4-video -->
+<!-- MATERIAL PENDIENTE: t04-p4-presentacion -->
 
 <!-- FUENTE: UE-CONSEJO-EUROPEO -->
 
@@ -370,8 +408,11 @@ La periodicidad se enuncia como **dos veces por semestre**, que son cuatro al a�
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-13-presidencia-consejo-europeo.webp" alt="Presidencia del Consejo Europeo" width="820">
 </p>
+<p align="center"><em>Infografía: Presidencia del Consejo Europeo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p4-audio -->
+<!-- MATERIAL PENDIENTE: t04-p4-video -->
+<!-- MATERIAL PENDIENTE: t04-p4-presentacion -->
 
 <!-- FUENTE: UE-CONSEJO-EUROPEO -->
 
@@ -393,18 +434,24 @@ El **COREPER II es el político** y el **I el técnico**, al revés de lo que su
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-14-mayoria-cualificada.webp" alt="La doble mayoría en el Consejo" width="820">
 </p>
+<p align="center"><em>Infografía: La doble mayoría en el Consejo.</em></p>
 
 <!-- VISUAL:t04-il-14-balanza-votos.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-14-balanza-votos.webp" alt="la mayoría cualificada pesa Estados y población a la vez" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-14-balanza-votos.webp" alt="la doble mayoría exige contar Estados y población simultáneamente" width="600">
 </p>
 <p align="center"><em>Ilustración: la doble mayoría exige contar Estados y población simultáneamente.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-CONSEJO-UE -->
 
 <!-- PARTE 5: Instituciones (III): la Comisión -->
+
+<!-- MATERIAL PENDIENTE: t04-p4-audio -->
+<!-- MATERIAL PENDIENTE: t04-p4-video -->
+<!-- MATERIAL PENDIENTE: t04-p4-presentacion -->
+
+<!-- FUENTE: UE-CONSEJO-UE -->
 
 ## 15. La Comisión Europea: composición y nombramiento
 
@@ -424,8 +471,11 @@ El Parlamento **elige al Presidente** pero **aprueba al Colegio en bloque**. Qui
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-15-nombramiento-comision.webp" alt="Proceso de nombramiento de la Comisión" width="820">
 </p>
+<p align="center"><em>Infografía: Proceso de nombramiento de la Comisión.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p5-audio -->
+<!-- MATERIAL PENDIENTE: t04-p5-video -->
+<!-- MATERIAL PENDIENTE: t04-p5-presentacion -->
 
 <!-- FUENTE: UE-COMISION -->
 
@@ -447,18 +497,24 @@ La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados pre
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-16-triangulo-institucional.webp" alt="El triángulo institucional" width="820">
 </p>
+<p align="center"><em>Infografía: El triángulo institucional.</em></p>
 
 <!-- VISUAL:t04-il-16-procedimiento-ordinario.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-16-procedimiento-ordinario.webp" alt="la Comisión propone y Parlamento y Consejo deciden" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-16-procedimiento-ordinario.webp" alt="quién propone y quién decide: el reparto básico de papeles" width="600">
 </p>
 <p align="center"><em>Ilustración: quién propone y quién decide: el reparto básico de papeles.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-COMISION -->
 
 <!-- PARTE 6: Instituciones (IV): control jurisdiccional y financiero -->
+
+<!-- MATERIAL PENDIENTE: t04-p5-audio -->
+<!-- MATERIAL PENDIENTE: t04-p5-video -->
+<!-- MATERIAL PENDIENTE: t04-p5-presentacion -->
+
+<!-- FUENTE: UE-COMISION -->
 
 ## 17. El Tribunal de Justicia de la Unión Europea: estructura
 
@@ -478,8 +534,11 @@ Las **conclusiones del abogado general no vinculan** al Tribunal. Y el abogado g
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-17-estructura-tjue.webp" alt="Estructura del TJUE" width="820">
 </p>
+<p align="center"><em>Infografía: Estructura del TJUE.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p6-audio -->
+<!-- MATERIAL PENDIENTE: t04-p6-video -->
+<!-- MATERIAL PENDIENTE: t04-p6-presentacion -->
 
 <!-- FUENTE: UE-TJUE -->
 
@@ -501,14 +560,17 @@ El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-18-tipos-recursos.webp" alt="Tipos de recursos ante el TJUE" width="820">
 </p>
+<p align="center"><em>Infografía: Tipos de recursos ante el TJUE.</em></p>
 
 <!-- VISUAL:t04-il-18-cuestion-prejudicial.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.webp" alt="el juez nacional pregunta al Tribunal de Justicia antes de resolver" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.webp" alt="la cuestión prejudicial: el juez nacional consulta antes de decidir" width="600">
 </p>
 <p align="center"><em>Ilustración: la cuestión prejudicial: el juez nacional consulta antes de decidir.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p6-audio -->
+<!-- MATERIAL PENDIENTE: t04-p6-video -->
+<!-- MATERIAL PENDIENTE: t04-p6-presentacion -->
 
 <!-- FUENTE: UE-TJUE -->
 
@@ -530,12 +592,18 @@ No confundir sus **seis años** de mandato con los **ocho no renovables** del Co
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-19-tribunal-cuentas.webp" alt="Funciones del Tribunal de Cuentas" width="820">
 </p>
+<p align="center"><em>Infografía: Funciones del Tribunal de Cuentas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-TCE -->
 
 <!-- PARTE 7: El BCE y los órganos consultivos y auxiliares -->
+
+<!-- MATERIAL PENDIENTE: t04-p6-audio -->
+<!-- MATERIAL PENDIENTE: t04-p6-video -->
+<!-- MATERIAL PENDIENTE: t04-p6-presentacion -->
+
+<!-- FUENTE: UE-TCE -->
 
 ## 20. El Banco Central Europeo y la zona euro
 
@@ -555,14 +623,17 @@ La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-20-organos-bce.webp" alt="Órganos decisorios del BCE" width="820">
 </p>
+<p align="center"><em>Infografía: Órganos decisorios del BCE.</em></p>
 
 <!-- VISUAL:t04-il-20-zona-euro.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-20-zona-euro.webp" alt="no todos los Estados miembros comparten la moneda única" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-20-zona-euro.webp" alt="pertenecer a la Unión y pertenecer a la zona euro no es lo mismo" width="600">
 </p>
 <p align="center"><em>Ilustración: pertenecer a la Unión y pertenecer a la zona euro no es lo mismo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p7-audio -->
+<!-- MATERIAL PENDIENTE: t04-p7-video -->
+<!-- MATERIAL PENDIENTE: t04-p7-presentacion -->
 
 <!-- FUENTE: UE-BCE -->
 
@@ -584,8 +655,11 @@ El CESE es **órgano consultivo**, no institución. Las instituciones son solo l
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-21-seae-cese.webp" alt="SEAE y CESE" width="820">
 </p>
+<p align="center"><em>Infografía: SEAE y CESE.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p7-audio -->
+<!-- MATERIAL PENDIENTE: t04-p7-video -->
+<!-- MATERIAL PENDIENTE: t04-p7-presentacion -->
 
 <!-- FUENTE: UE-ORGANOS -->
 
@@ -607,8 +681,11 @@ Su mandato **coincide con la legislatura del Parlamento Europeo**. No son cinco 
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-22-cdr-defensor.webp" alt="Comité de las Regiones y Defensor del Pueblo Europeo" width="820">
 </p>
+<p align="center"><em>Infografía: Comité de las Regiones y Defensor del Pueblo Europeo.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p7-audio -->
+<!-- MATERIAL PENDIENTE: t04-p7-video -->
+<!-- MATERIAL PENDIENTE: t04-p7-presentacion -->
 
 <!-- FUENTE: UE-ORGANOS -->
 
@@ -630,12 +707,18 @@ El **BEI no es una institución** aunque tenga personalidad jurídica propia. Ta
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-23-organos-organismos.webp" alt="Órganos, organismos y agencias" width="820">
 </p>
+<p align="center"><em>Infografía: Órganos, organismos y agencias.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
 
 <!-- FUENTE: UE-ORGANOS -->
 
 <!-- PARTE 8: Cooperación policial internacional -->
+
+<!-- MATERIAL PENDIENTE: t04-p7-audio -->
+<!-- MATERIAL PENDIENTE: t04-p7-video -->
+<!-- MATERIAL PENDIENTE: t04-p7-presentacion -->
+
+<!-- FUENTE: UE-ORGANOS -->
 
 ## 24. Interpol
 
@@ -655,14 +738,17 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-24-notificaciones-interpol.webp" alt="Sistema de notificaciones de Interpol" width="820">
 </p>
+<p align="center"><em>Infografía: Sistema de notificaciones de Interpol.</em></p>
 
 <!-- VISUAL:t04-il-24-interpol-no-detiene.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-24-interpol-no-detiene.webp" alt="Interpol difunde información pero no practica detenciones" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-24-interpol-no-detiene.webp" alt="Interpol coordina y difunde; quien detiene es la policía del país" width="600">
 </p>
 <p align="center"><em>Ilustración: Interpol coordina y difunde; quien detiene es la policía del país.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p8-audio -->
+<!-- MATERIAL PENDIENTE: t04-p8-video -->
+<!-- MATERIAL PENDIENTE: t04-p8-presentacion -->
 
 <!-- FUENTE: COOP-INTERPOL -->
 
@@ -684,14 +770,17 @@ Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: inc
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-25-agencias-cooperacion.webp" alt="Agencias de cooperación en la Unión" width="820">
 </p>
+<p align="center"><em>Infografía: Agencias de cooperación en la Unión.</em></p>
 
 <!-- VISUAL:t04-il-25-europol-analiza.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.webp" alt="Europol analiza y coordina información entre Estados" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.webp" alt="Europol es un centro de análisis, no una policía con competencias operativas" width="600">
 </p>
 <p align="center"><em>Ilustración: Europol es un centro de análisis, no una policía con competencias operativas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p8-audio -->
+<!-- MATERIAL PENDIENTE: t04-p8-video -->
+<!-- MATERIAL PENDIENTE: t04-p8-presentacion -->
 
 <!-- FUENTE: COOP-EUROPOL -->
 
@@ -713,14 +802,17 @@ La euroorden es un procedimiento **entre autoridades judiciales**. Si una opció
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-26-euroorden-procedimiento.webp" alt="Procedimiento de la Euroorden" width="820">
 </p>
+<p align="center"><em>Infografía: Procedimiento de la Euroorden.</em></p>
 
 <!-- VISUAL:t04-il-26-euroorden.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-26-euroorden.webp" alt="la euroorden sustituye a la extradición entre Estados miembros" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-26-euroorden.webp" alt="de la extradición entre Gobiernos a la entrega entre autoridades judiciales" width="600">
 </p>
 <p align="center"><em>Ilustración: de la extradición entre Gobiernos a la entrega entre autoridades judiciales.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p8-audio -->
+<!-- MATERIAL PENDIENTE: t04-p8-video -->
+<!-- MATERIAL PENDIENTE: t04-p8-presentacion -->
 
 <!-- FUENTE: COOP-ODE -->
 
@@ -742,8 +834,11 @@ El plazo para demandar es de **cuatro meses** desde el 1 de febrero de 2022. Los
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-27-tedh-estructura.webp" alt="Estructura del TEDH" width="820">
 </p>
+<p align="center"><em>Infografía: Estructura del TEDH.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p8-audio -->
+<!-- MATERIAL PENDIENTE: t04-p8-video -->
+<!-- MATERIAL PENDIENTE: t04-p8-presentacion -->
 
 <!-- FUENTE: COOP-TEDH -->
 
@@ -765,14 +860,17 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-28-tedh-vs-tjue.webp" alt="TEDH frente a TJUE" width="820">
 </p>
+<p align="center"><em>Infografía: TEDH frente a TJUE.</em></p>
 
 <!-- VISUAL:t04-il-28-dos-tribunales.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-04/t04-il-28-dos-tribunales.webp" alt="dos tribunales europeos distintos con funciones diferentes" width="600">
+  <img src="../../../assets/policia-nacional/tema-04/t04-il-28-dos-tribunales.webp" alt="Estrasburgo y Luxemburgo: dos tribunales que responden a preguntas distintas" width="600">
 </p>
 <p align="center"><em>Ilustración: Estrasburgo y Luxemburgo: dos tribunales que responden a preguntas distintas.</em></p>
 
-> **Material de este punto:** 🎧 Audio *(en producción)* · 🎬 Vídeo *(en producción)* · 📊 Presentación *(en producción)*
+<!-- MATERIAL PENDIENTE: t04-p8-audio -->
+<!-- MATERIAL PENDIENTE: t04-p8-video -->
+<!-- MATERIAL PENDIENTE: t04-p8-presentacion -->
 
 <!-- FUENTE: COOP-TEDH -->
 

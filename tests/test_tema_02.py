@@ -19,8 +19,9 @@ class Tema02(unittest.TestCase):
 
     def test_articles_and_reforms(self):
         coverage = json.loads((ROOT / self.manifest["coverage_file"]).read_text(encoding="utf-8"))
-        self.assertEqual(coverage["required_constitution_articles"], list(range(1, 56)))
-        self.assertEqual(coverage["covered_constitution_articles"], list(range(1, 56)))
+        requirements = coverage["requirements"]
+        self.assertEqual(requirements["required_constitution_articles"], list(range(1, 56)))
+        self.assertEqual(requirements["covered_constitution_articles"], list(range(1, 56)))
         self.assertIn("cuatro veces", self.parte.lower())
         self.assertIn("69.3", self.atestado)
 
@@ -38,17 +39,17 @@ class Tema02(unittest.TestCase):
     def test_visual_and_multimedia(self):
         visual = json.loads((ROOT / self.manifest["assets"]["manifest"]).read_text(encoding="utf-8"))
         media = json.loads((ROOT / self.manifest["teaching_materials"]["manifest"]).read_text(encoding="utf-8"))
-        self.assertEqual(visual["summary"]["total"], 22)
-        self.assertEqual(visual["summary"]["infografias"], 14)
-        self.assertEqual(visual["summary"]["ilustraciones"], 8)
+        self.assertEqual(visual["totals"]["resources"], 22)
+        self.assertEqual(sum(r["type"] == "infografia" for r in visual["resources"]), 14)
+        self.assertEqual(sum(r["type"] == "ilustracion_simple" for r in visual["resources"]), 8)
         self.assertEqual(len(media["parts"]), 7)
         self.assertEqual(len(media["resources"]), 28)
 
     def test_official_markers_safe(self):
         index = json.loads((ROOT / self.manifest["official_exam_index"]).read_text(encoding="utf-8"))
-        self.assertEqual(index["statistics"]["mapped_questions"], 26)
-        self.assertEqual(index["statistics"]["active_ha_caido"], 0)
-        self.assertTrue(all(not q["counts_for_ha_caido"] for q in index["questions"]))
+        self.assertEqual(index["con_bloque_asignado"], index["total_referencias"])
+        self.assertEqual(index["con_respuesta_verificada"], index["total_referencias"])
+        self.assertTrue(index["display_policy"]["never_present_as_official_plantilla"])
 
 if __name__ == "__main__":
     unittest.main()

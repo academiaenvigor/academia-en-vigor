@@ -1,9 +1,17 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-06",
   "content_version": "1.0.1",
   "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 11,
+    "integrated": 11,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-27",
   "resources": [
     {
       "id": "PN-T06-DG01",
@@ -12,7 +20,15 @@
       "type": "diagrama",
       "placement": "Mapa del tema",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general: cuatro clases, cuatro pasos de adquisición, cinco causas de pérdida y doble carril TREBEP/Policía",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG02",
@@ -21,7 +37,15 @@
       "type": "diagrama",
       "placement": "Bloque 02",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Infografía de las cuatro clases del artículo 8 y exclusión de «personal accidental»",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG03",
@@ -30,7 +54,15 @@
       "type": "diagrama",
       "placement": "Bloque 03",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Definición del funcionario de carrera y reserva de funciones públicas",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG04",
@@ -39,7 +71,15 @@
       "type": "diagrama",
       "placement": "Bloque 04",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Cuatro supuestos de interinidad con los plazos 3 / necesario / 3+1 / 9 en 18",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG05",
@@ -48,7 +88,15 @@
       "type": "diagrama",
       "placement": "Bloque 05",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Cese ordinario, excepción de convocatoria y compensación por incumplimiento",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG06",
@@ -57,7 +105,15 @@
       "type": "diagrama",
       "placement": "Bloques 06-07",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparación entre contrato laboral, interinidad y confianza eventual",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG07",
@@ -66,7 +122,15 @@
       "type": "diagrama",
       "placement": "Bloque 08",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Personal directivo como capítulo separado, no quinta clase",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG08",
@@ -75,7 +139,15 @@
       "type": "diagrama",
       "placement": "Bloques 09-10",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escalera superar, nombrar, acatar y tomar posesión",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG09",
@@ -84,7 +156,15 @@
       "type": "diagrama",
       "placement": "Bloque 11",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparativa de pérdida TREBEP y Policía Nacional",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG10",
@@ -93,7 +173,15 @@
       "type": "diagrama",
       "placement": "Bloque 13",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Árbol 65/70, Régimen General, normas específicas y excepción DAO",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T06-DG11",
@@ -102,15 +190,16 @@
       "type": "diagrama",
       "placement": "Bloque 14",
       "status": "integrated_webp",
-      "source_content_version": "1.0.1"
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Dos vías: causa objetiva e inhabilitación; órganos y efectos del silencio",
+      "source_content_version": "1.0.1",
+      "required_format": "webp",
+      "max_bytes": 1000000
     }
   ],
-  "planned_resources": 0,
-  "status": "integrated",
-  "totals": {
-    "planned": 11,
-    "produced": 11
-  },
-  "integration_status": "integrated",
-  "integrated_at": "2026-07-27"
+  "planned_resources": []
 }

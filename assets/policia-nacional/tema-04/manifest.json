@@ -1,9 +1,17 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-04",
-  "content_version": "0.1.0",
+  "content_version": "1.0.0",
   "visual_version": "0.1.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 43,
+    "integrated": 43,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-26",
   "resources": [
     {
       "id": "PN-T04-DG01",
@@ -12,7 +20,14 @@
       "type": "diagrama",
       "placement": "El Parte · Mapa del tema",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": null,
+      "documents": [
+        "parte"
+      ],
+      "description": "Mapa general",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG02",
@@ -21,7 +36,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 01",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 1,
+      "documents": [
+        "parte"
+      ],
+      "description": "Línea de tiempo de la construcción europea",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL01",
@@ -30,7 +52,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 01",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 1,
+      "documents": [
+        "parte"
+      ],
+      "description": "el proyecto europeo nace de la posguerra",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG03",
@@ -39,7 +68,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 02",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 2,
+      "documents": [
+        "parte"
+      ],
+      "description": "Cronología de los tratados",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG04",
@@ -48,7 +84,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 03",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 3,
+      "documents": [
+        "parte"
+      ],
+      "description": "Mapa de las ampliaciones sucesivas",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL02",
@@ -57,7 +100,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 03",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 3,
+      "documents": [
+        "parte"
+      ],
+      "description": "la Unión tiene puerta de entrada y puerta de salida",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG05",
@@ -66,7 +116,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 04",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 4,
+      "documents": [
+        "parte"
+      ],
+      "description": "Doble sombrero del Alto Representante",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG06",
@@ -75,7 +132,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 05",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 5,
+      "documents": [
+        "parte"
+      ],
+      "description": "Primacía y efecto directo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL03",
@@ -84,7 +148,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 05",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 5,
+      "documents": [
+        "parte"
+      ],
+      "description": "el Derecho de la Unión se sitúa por encima de la norma interna en caso de conflicto",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG07",
@@ -93,7 +164,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 06",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 6,
+      "documents": [
+        "parte"
+      ],
+      "description": "Pirámide de fuentes del Derecho de la Unión",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG08",
@@ -102,7 +180,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 07",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 7,
+      "documents": [
+        "parte"
+      ],
+      "description": "Cuadro comparativo de los actos del artículo 288",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL04",
@@ -111,7 +196,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 07",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 7,
+      "documents": [
+        "parte"
+      ],
+      "description": "el reglamento se aplica directamente y la directiva necesita transposición",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG09",
@@ -120,7 +212,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 08",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 8,
+      "documents": [
+        "parte"
+      ],
+      "description": "Sistemas de protección de derechos en Europa",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG10",
@@ -129,7 +228,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 09",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 9,
+      "documents": [
+        "parte"
+      ],
+      "description": "Reparto de escaños por Estado miembro",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL05",
@@ -138,7 +244,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 09",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 9,
+      "documents": [
+        "parte"
+      ],
+      "description": "el Parlamento reparte su actividad entre tres ciudades",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG11",
@@ -147,7 +260,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 10",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 10,
+      "documents": [
+        "parte"
+      ],
+      "description": "Órganos de gobierno del Parlamento",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG12",
@@ -156,7 +276,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 11",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 11,
+      "documents": [
+        "parte"
+      ],
+      "description": "Funciones del Parlamento Europeo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG13",
@@ -165,7 +292,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 12",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 12,
+      "documents": [
+        "parte"
+      ],
+      "description": "Los tres Consejos que no deben confundirse",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL06",
@@ -174,7 +308,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 12",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 12,
+      "documents": [
+        "parte"
+      ],
+      "description": "tres instituciones distintas comparten la palabra Consejo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG14",
@@ -183,7 +324,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 13",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 13,
+      "documents": [
+        "parte"
+      ],
+      "description": "Presidencia del Consejo Europeo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG15",
@@ -192,7 +340,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 14",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 14,
+      "documents": [
+        "parte"
+      ],
+      "description": "La doble mayoría en el Consejo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL07",
@@ -201,7 +356,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 14",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 14,
+      "documents": [
+        "parte"
+      ],
+      "description": "la mayoría cualificada pesa Estados y población a la vez",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG16",
@@ -210,7 +372,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 15",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 15,
+      "documents": [
+        "parte"
+      ],
+      "description": "Proceso de nombramiento de la Comisión",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG17",
@@ -219,7 +388,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 16",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 16,
+      "documents": [
+        "parte"
+      ],
+      "description": "El triángulo institucional",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL08",
@@ -228,7 +404,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 16",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 16,
+      "documents": [
+        "parte"
+      ],
+      "description": "la Comisión propone y Parlamento y Consejo deciden",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG18",
@@ -237,7 +420,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 17",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 17,
+      "documents": [
+        "parte"
+      ],
+      "description": "Estructura del TJUE",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG19",
@@ -246,7 +436,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 18",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 18,
+      "documents": [
+        "parte"
+      ],
+      "description": "Tipos de recursos ante el TJUE",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL09",
@@ -255,7 +452,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 18",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 18,
+      "documents": [
+        "parte"
+      ],
+      "description": "el juez nacional pregunta al Tribunal de Justicia antes de resolver",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG20",
@@ -264,7 +468,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 19",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 19,
+      "documents": [
+        "parte"
+      ],
+      "description": "Funciones del Tribunal de Cuentas",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG21",
@@ -273,7 +484,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 20",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 20,
+      "documents": [
+        "parte"
+      ],
+      "description": "Órganos decisorios del BCE",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL10",
@@ -282,7 +500,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 20",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 20,
+      "documents": [
+        "parte"
+      ],
+      "description": "no todos los Estados miembros comparten la moneda única",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG22",
@@ -291,7 +516,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 21",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 21,
+      "documents": [
+        "parte"
+      ],
+      "description": "SEAE y CESE",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG23",
@@ -300,7 +532,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 22",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 22,
+      "documents": [
+        "parte"
+      ],
+      "description": "Comité de las Regiones y Defensor del Pueblo Europeo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG24",
@@ -309,7 +548,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 23",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 23,
+      "documents": [
+        "parte"
+      ],
+      "description": "Órganos, organismos y agencias",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG25",
@@ -318,7 +564,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 24",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 24,
+      "documents": [
+        "parte"
+      ],
+      "description": "Sistema de notificaciones de Interpol",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL11",
@@ -327,7 +580,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 24",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 24,
+      "documents": [
+        "parte"
+      ],
+      "description": "Interpol difunde información pero no practica detenciones",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG26",
@@ -336,7 +596,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 25",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 25,
+      "documents": [
+        "parte"
+      ],
+      "description": "Agencias de cooperación en la Unión",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL12",
@@ -345,7 +612,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 25",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 25,
+      "documents": [
+        "parte"
+      ],
+      "description": "Europol analiza y coordina información entre Estados",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG27",
@@ -354,7 +628,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 26",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 26,
+      "documents": [
+        "parte"
+      ],
+      "description": "Procedimiento de la Euroorden",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL13",
@@ -363,7 +644,14 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 26",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 26,
+      "documents": [
+        "parte"
+      ],
+      "description": "la euroorden sustituye a la extradición entre Estados miembros",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG28",
@@ -372,7 +660,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 27",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 27,
+      "documents": [
+        "parte"
+      ],
+      "description": "Estructura del TEDH",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-DG29",
@@ -381,7 +676,14 @@
       "type": "diagrama",
       "placement": "El Parte · Bloque 28",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 28,
+      "documents": [
+        "parte"
+      ],
+      "description": "TEDH frente a TJUE",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     },
     {
       "id": "PN-T04-IL14",
@@ -390,14 +692,15 @@
       "type": "ilustracion_simple",
       "placement": "El Parte · Bloque 28",
       "status": "integrated_webp",
-      "source_content_version": "0.1.0"
+      "block": 28,
+      "documents": [
+        "parte"
+      ],
+      "description": "dos tribunales europeos distintos con funciones diferentes",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
     }
   ],
-  "totals": {
-    "planned": 43,
-    "produced": 43
-  },
-  "format_note": "El Parte y El Atestado referencian los archivos en .webp, igual que el tema 1. Los nombres siguen el patrón t04-NN-slug.webp para diagramas y t04-il-NN-slug.webp para ilustraciones.",
-  "integration_status": "integrated",
-  "integrated_at": "2026-07-26"
+  "planned_resources": []
 }

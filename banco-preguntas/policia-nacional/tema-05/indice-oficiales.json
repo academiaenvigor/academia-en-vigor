@@ -1,10 +1,19 @@
 {
-  "schema_version": "3.0.0",
+  "schema_version": "2.0.0",
   "oposicion": "policia-nacional",
   "tema": 5,
   "titulo": "Organización y funcionamiento de la Administración General del Estado",
+  "generated_at": "2026-07-27",
+  "mapping_method": "manual_editorial",
+  "mapping_status": "empty",
+  "answer_status": "pending",
+  "display_policy": "verified_only",
+  "aviso": "Pendiente de mapear las preguntas oficiales que corresponden a este tema.",
   "total_referencias": 0,
-  "questions": [],
+  "con_bloque_asignado": 0,
+  "con_respuesta_verificada": 0,
   "por_bloque": {},
-  "note": "Pendiente de mapear las preguntas oficiales que corresponden a este tema."
+  "por_promocion": {},
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": []
 }
