@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 7,
+  "estado": "planned",
+  "publicacion": "not_published",
+  "total_preguntas": 0,
+  "total_hechos": 0,
+  "hechos_cubiertos": 0,
+  "cobertura_por_hechos": 0,
+  "caracter": {
+    "propias": 0,
+    "oficiales": 0
+  },
+  "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-07/plan.json",
+  "publication_gate": "blocked_until_question_bank_is_ready",
+  "quality_gate": {
+    "status": "pending",
+    "reasons": [
+      "Banco de preguntas todavía no generado"
+    ]
+  }
+}

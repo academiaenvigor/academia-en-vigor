@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0",
-  "project_version": "0.7.0",
+  "project_version": "0.8.0",
   "academy": "Academia En Vigor",
   "slogan": "El temario que nunca duerme",
   "oppositions": {
@@ -150,6 +150,29 @@
           "visual_planned": 0,
           "atomic_facts": 94,
           "question_count": 160
+        },
+        {
+          "number": 7,
+          "slug": "ministerio-interior-secretaria-estado-seguridad",
+          "title": "El Ministerio del Interior. La Secretaría de Estado de Seguridad",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-07/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-07-ministerio-interior-secretaria-estado-seguridad.md",
+          "atestado": "temas/policia-nacional/atestado/tema-07-ministerio-interior-secretaria-estado-seguridad.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-07/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-07/plan.json",
+          "assets": "assets/policia-nacional/tema-07/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-07/manifest.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "official_exam_mapped": 0,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0,
+          "visual_planned": 8,
+          "atomic_facts": 0,
+          "question_count": 0
         }
       ]
     }

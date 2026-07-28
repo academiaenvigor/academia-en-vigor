@@ -1,0 +1,57 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-07",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "categories": {
+    "audios": "Audios",
+    "videos": "Vídeos",
+    "presentaciones": "Presentaciones",
+    "infografias": "Infografías y resúmenes"
+  },
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Ministerio: competencias, mando y estructura",
+      "blocks": ["01", "02", "03", "04"],
+      "anchor_blocks": ["01"]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Secretaría de Estado de Seguridad: posición y funciones",
+      "blocks": ["05", "06"],
+      "anchor_blocks": ["05"]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Núcleo directo de la Secretaría de Estado",
+      "blocks": ["07", "08", "09", "10", "11", "12"],
+      "anchor_blocks": ["07"]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Órganos directivos",
+      "blocks": ["13", "14", "15"],
+      "anchor_blocks": ["13"]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Reglas especiales y cierre",
+      "blocks": ["16"],
+      "anchor_blocks": ["16"]
+    }
+  ],
+  "resources": []
+}

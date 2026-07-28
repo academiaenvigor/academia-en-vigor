@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 7,
+  "topic_title": "El Ministerio del Interior. La Secretaría de Estado de Seguridad",
+  "id_prefix": "PN-T07",
+  "status": "blocked_pending_question_bank",
+  "bank": "banco-preguntas/policia-nacional/tema-07/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-07/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": []
+  },
+  "part_tests": {
+    "questions_per_test": 10,
+    "variants": [],
+    "parts": []
+  },
+  "final_tests": []
+}
