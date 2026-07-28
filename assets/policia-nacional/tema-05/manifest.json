@@ -6,12 +6,13 @@
   "visual_version": "0.1.0",
   "status": "partial",
   "totals": {
-    "resources": 45,
-    "integrated": 0,
-    "planned": 45
+    "planned": 45,
+    "produced": 45,
+    "diagramas": 36,
+    "ilustraciones": 0
   },
-  "integration_status": "pending_assets",
-  "integrated_at": null,
+  "integration_status": "integrated",
+  "integrated_at": "2026-07-27",
   "resources": [
     {
       "id": "PN-T05-DG00",
@@ -19,7 +20,7 @@
       "title": "Mapa general del tema",
       "type": "diagrama",
       "placement": "El Parte · Mapa del tema",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": null,
       "documents": [
         "parte"
@@ -35,7 +36,7 @@
       "title": "La Administración General del Estado: concepto y posición constitucional",
       "type": "diagrama",
       "placement": "Bloque 01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
         "parte",
@@ -52,7 +53,7 @@
       "title": "La estructura territorial de la AGE: central, periférica y exterior",
       "type": "diagrama",
       "placement": "Bloque 02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
         "parte",
@@ -69,7 +70,7 @@
       "title": "Ámbito subjetivo: qué es sector público",
       "type": "diagrama",
       "placement": "Bloque 03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
         "parte",
@@ -86,7 +87,7 @@
       "title": "Sector público frente a Administraciones Públicas",
       "type": "diagrama",
       "placement": "Bloque 04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
         "parte",
@@ -103,7 +104,7 @@
       "title": "Sector público y Administración Pública como círculos concéntricos",
       "type": "ilustracion_simple",
       "placement": "Bloque 04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
         "parte",
@@ -120,7 +121,7 @@
       "title": "Principios generales de actuación: el artículo 3 de la Ley 40/2015",
       "type": "diagrama",
       "placement": "Bloque 05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
         "parte",
@@ -137,7 +138,7 @@
       "title": "Principios de organización de la AGE: el artículo 54",
       "type": "diagrama",
       "placement": "Bloque 06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
         "parte",
@@ -154,7 +155,7 @@
       "title": "Descentralización cruza la personalidad jurídica; desconcentración no",
       "type": "ilustracion_simple",
       "placement": "Bloque 06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
         "parte",
@@ -171,7 +172,7 @@
       "title": "Competencias residuales en materia de organización",
       "type": "diagrama",
       "placement": "Bloque 07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
         "parte",
@@ -188,7 +189,7 @@
       "title": "Principios de intervención: el artículo 4 de la Ley 40/2015",
       "type": "diagrama",
       "placement": "Bloque 08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
         "parte",
@@ -205,7 +206,7 @@
       "title": "El límite del artículo 25.3 de la Constitución",
       "type": "diagrama",
       "placement": "Bloque 09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
         "parte",
@@ -222,7 +223,7 @@
       "title": "La Administración civil no puede privar de libertad",
       "type": "ilustracion_simple",
       "placement": "Bloque 09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
         "parte",
@@ -239,7 +240,7 @@
       "title": "El Gobierno: naturaleza y funciones",
       "type": "diagrama",
       "placement": "Bloque 10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
         "parte",
@@ -256,7 +257,7 @@
       "title": "Composición del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
         "parte",
@@ -273,7 +274,7 @@
       "title": "El Presidente del Gobierno: dirección y funciones",
       "type": "diagrama",
       "placement": "Bloque 12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
         "parte",
@@ -290,7 +291,7 @@
       "title": "Nombramiento y cese del Presidente del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
         "parte",
@@ -307,7 +308,7 @@
       "title": "Suplencia y orden de prelación",
       "type": "diagrama",
       "placement": "Bloque 14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
         "parte",
@@ -324,7 +325,7 @@
       "title": "Los Vicepresidentes y los Ministros como miembros del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
         "parte",
@@ -341,7 +342,7 @@
       "title": "Delegación y avocación de competencias",
       "type": "diagrama",
       "placement": "Bloque 16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
         "parte",
@@ -358,7 +359,7 @@
       "title": "La delegación cede el ejercicio y la avocación atrae el asunto",
       "type": "ilustracion_simple",
       "placement": "Bloque 16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
         "parte",
@@ -375,7 +376,7 @@
       "title": "El Consejo de Ministros",
       "type": "diagrama",
       "placement": "Bloque 17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
         "parte",
@@ -392,7 +393,7 @@
       "title": "Las Comisiones Delegadas del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
         "parte",
@@ -409,7 +410,7 @@
       "title": "El Gobierno en funciones",
       "type": "diagrama",
       "placement": "Bloque 19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
         "parte",
@@ -426,7 +427,7 @@
       "title": "El Gobierno en funciones despacha lo ordinario",
       "type": "ilustracion_simple",
       "placement": "Bloque 19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
         "parte",
@@ -443,7 +444,7 @@
       "title": "Órganos de colaboración y apoyo: los Secretarios de Estado y la Comisión General",
       "type": "diagrama",
       "placement": "Bloque 20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
         "parte",
@@ -460,7 +461,7 @@
       "title": "El Secretariado del Gobierno y los Gabinetes",
       "type": "diagrama",
       "placement": "Bloque 21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
         "parte",
@@ -477,7 +478,7 @@
       "title": "La jerarquía normativa de las disposiciones del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
         "parte",
@@ -494,7 +495,7 @@
       "title": "El Consejo de Estado: naturaleza, composición y dictámenes",
       "type": "diagrama",
       "placement": "Bloque 23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
         "parte",
@@ -511,7 +512,7 @@
       "title": "Las dos fórmulas del dictamen del Consejo de Estado",
       "type": "ilustracion_simple",
       "placement": "Bloque 23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
         "parte",
@@ -528,7 +529,7 @@
       "title": "La consulta preceptiva al Consejo de Estado",
       "type": "diagrama",
       "placement": "Bloque 24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
         "parte",
@@ -545,7 +546,7 @@
       "title": "El estatuto del Alto Cargo",
       "type": "diagrama",
       "placement": "Bloque 25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
         "parte",
@@ -562,7 +563,7 @@
       "title": "La frontera del alto cargo pasa por el Subdirector General",
       "type": "ilustracion_simple",
       "placement": "Bloque 25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
         "parte",
@@ -579,7 +580,7 @@
       "title": "Los Ministros como órgano superior del Departamento",
       "type": "diagrama",
       "placement": "Bloque 26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
         "parte",
@@ -596,7 +597,7 @@
       "title": "Los Subsecretarios",
       "type": "diagrama",
       "placement": "Bloque 27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
         "parte",
@@ -613,7 +614,7 @@
       "title": "Secretarios Generales y Secretarios Generales Técnicos",
       "type": "diagrama",
       "placement": "Bloque 28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
         "parte",
@@ -630,7 +631,7 @@
       "title": "Directores Generales y Subdirectores Generales",
       "type": "diagrama",
       "placement": "Bloque 29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
         "parte",
@@ -647,7 +648,7 @@
       "title": "Creación de órganos, servicios comunes y unidades administrativas",
       "type": "diagrama",
       "placement": "Bloque 30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
         "parte",
@@ -664,7 +665,7 @@
       "title": "Delegaciones y Subdelegaciones del Gobierno: estructura y servicios territoriales",
       "type": "diagrama",
       "placement": "Bloque 31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
         "parte",
@@ -681,7 +682,7 @@
       "title": "Servicios integrados y no integrados en la Delegación",
       "type": "ilustracion_simple",
       "placement": "Bloque 31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
         "parte",
@@ -698,7 +699,7 @@
       "title": "Los Delegados del Gobierno: naturaleza y nombramiento",
       "type": "diagrama",
       "placement": "Bloque 32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
         "parte",
@@ -715,7 +716,7 @@
       "title": "Competencias de los Delegados del Gobierno",
       "type": "diagrama",
       "placement": "Bloque 33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
         "parte",
@@ -732,7 +733,7 @@
       "title": "Subdelegados del Gobierno y Directores Insulares",
       "type": "diagrama",
       "placement": "Bloque 34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
         "parte",
@@ -749,7 +750,7 @@
       "title": "El sector público institucional estatal: organismos autónomos y entidades públicas empresariales",
       "type": "diagrama",
       "placement": "Bloque 35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
         "parte",
@@ -766,7 +767,7 @@
       "title": "Organismo autónomo frente a entidad pública empresarial",
       "type": "ilustracion_simple",
       "placement": "Bloque 35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
         "parte",
