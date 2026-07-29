@@ -32,7 +32,9 @@
 **Ilustración simple:** `t03-ilu-02-corona-estado.webp` · La Corona como Jefatura del Estado.
 :::
 
-> **Hablemos claro:** La inviolabilidad no significa poder sin control: el refrendo desplaza la responsabilidad al órgano que firma.
+:::hablemos-claro
+La inviolabilidad no significa poder sin control: el refrendo desplaza la responsabilidad al órgano que firma.
+:::
 
 ### Para entender el bloque
 
@@ -40,7 +42,9 @@ La Corona ocupa una posición singular: el Rey es Jefe del Estado, pero no dirig
 
 La clave está en el refrendo. Como la persona del Rey es inviolable y no está sujeta a responsabilidad, los actos regios necesitan, con carácter general, la firma de otra autoridad. Esa firma no es decorativa: identifica a quien asume la responsabilidad jurídica y política del acto. Las excepciones del artículo 65 son internas y muy concretas; no deben extenderse a todas las decisiones de la Corona.
 
-> **Ejemplo mental:** Si el Rey nombra formalmente a un ministro, la decisión política no nace de una elección personal del Rey: existe una propuesta del Presidente del Gobierno y el acto queda sometido al refrendo correspondiente.
+:::en-la-calle
+Si el Rey nombra formalmente a un ministro, la decisión política no nace de una elección personal del Rey: existe una propuesta del Presidente del Gobierno y el acto queda sometido al refrendo correspondiente.
+:::
 
 ### Desarrollo explicado
 
@@ -62,7 +66,9 @@ La clave está en el refrendo. Como la persona del Rey es inviolable y no está 
 
 Piensa siempre en esta cadena: acto del Rey, autoridad que refrenda y persona que responde. Si falta uno de esos elementos, probablemente la opción sea incorrecta.
 
-> **Lo que cae:** Jefatura del Estado; Inviolabilidad y responsabilidad; Validez del acto regio; Refrendo ordinario; Refrendo del Presidente del Congreso; Responsabilidad del refrendante.
+:::lo-que-cae
+Jefatura del Estado; Inviolabilidad y responsabilidad; Validez del acto regio; Refrendo ordinario; Refrendo del Presidente del Congreso; Responsabilidad del refrendante.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-01-corona-refrendo.webp` · La Corona y el refrendo.
@@ -89,7 +95,9 @@ Piensa siempre en esta cadena: acto del Rey, autoridad que refrenda y persona qu
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** La sucesión se ordena por criterios encadenados; hay que aplicarlos en el orden constitucional.
+:::hablemos-claro
+La sucesión se ordena por criterios encadenados; hay que aplicarlos en el orden constitucional.
+:::
 
 ### Para entender el bloque
 
@@ -97,7 +105,9 @@ La sucesión a la Corona no se resuelve eligiendo libremente entre posibles here
 
 Este sistema se completa con reglas sobre la dignidad del heredero, la extinción de las líneas sucesorias, los matrimonios celebrados contra prohibición expresa y la intervención de una ley orgánica en abdicaciones, renuncias o dudas. El consorte ocupa una posición propia: comparte la condición familiar, pero no recibe por ello funciones constitucionales.
 
-> **Ejemplo mental:** Ante dos posibles herederos no se compara directamente la edad. Antes hay que comprobar si pertenecen a la misma línea, al mismo grado y al mismo sexo.
+:::en-la-calle
+Ante dos posibles herederos no se compara directamente la edad. Antes hay que comprobar si pertenecen a la misma línea, al mismo grado y al mismo sexo.
+:::
 
 ### Desarrollo explicado
 
@@ -119,7 +129,9 @@ Este sistema se completa con reglas sobre la dignidad del heredero, la extinció
 
 Memoriza las preferencias como una escalera: línea, grado, sexo y edad. Solo después añade las reglas especiales sobre exclusión, renuncia y consorte.
 
-> **Lo que cae:** Primogenitura y representación; Preferencia de líneas; Preferencia de grado; Preferencia por sexo; Preferencia por edad; Exclusión por matrimonio prohibido; Abdicaciones y renuncias; Consorte.
+:::lo-que-cae
+Primogenitura y representación; Preferencia de líneas; Preferencia de grado; Preferencia por sexo; Preferencia por edad; Exclusión por matrimonio prohibido; Abdicaciones y renuncias; Consorte.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-02-sucesion-corona.webp` · Sucesión a la Corona.
@@ -146,7 +158,9 @@ Memoriza las preferencias como una escalera: línea, grado, sexo y edad. Solo de
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Regencia y tutela no son lo mismo: una ejerce funciones regias; la otra protege a la persona del Rey menor.
+:::hablemos-claro
+Regencia y tutela no son lo mismo: una ejerce funciones regias; la otra protege a la persona del Rey menor.
+:::
 
 ### Para entender el bloque
 
@@ -154,7 +168,9 @@ La Regencia y la tutela aparecen cuando la persona que ocupa la Corona no puede 
 
 Para resolver cualquier pregunta conviene seguir una secuencia: identificar la causa, comprobar quién está llamado en primer lugar, revisar los requisitos personales y, por último, atender a las incompatibilidades. El juramento cierra el bloque porque expresa el compromiso del Rey, del heredero y de los regentes con la Constitución y con el orden institucional.
 
-> **Ejemplo mental:** Un Regente firma actos constitucionales en nombre del Rey; un tutor se ocupa de la esfera personal del Rey menor. Pueden coincidir solo en los supuestos permitidos.
+:::en-la-calle
+Un Regente firma actos constitucionales en nombre del Rey; un tutor se ocupa de la esfera personal del Rey menor. Pueden coincidir solo en los supuestos permitidos.
+:::
 
 ### Desarrollo explicado
 
@@ -180,7 +196,9 @@ Para resolver cualquier pregunta conviene seguir una secuencia: identificar la c
 
 Resuelve los casos preguntándote primero si se necesita ejercer las funciones del Rey o proteger a un Rey menor. Esa pregunta separa Regencia y tutela.
 
-> **Lo que cae:** Regencia por minoría de edad; Inhabilitación del Rey; Regencia nombrada por las Cortes; Requisitos del Regente; Naturaleza de la Regencia; Tutor testamentario; Acumulación de Regencia y tutela; Incompatibilidad de la tutela; Juramento del Rey.
+:::lo-que-cae
+Regencia por minoría de edad; Inhabilitación del Rey; Regencia nombrada por las Cortes; Requisitos del Regente; Naturaleza de la Regencia; Tutor testamentario; Acumulación de Regencia y tutela; Incompatibilidad de la tutela; Juramento del Rey.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-03-regencia-tutela.webp` · Regencia y tutela.
@@ -208,7 +226,9 @@ Resuelve los casos preguntándote primero si se necesita ejercer las funciones d
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** El Rey formaliza y representa; el Gobierno dirige y responde políticamente.
+:::hablemos-claro
+El Rey formaliza y representa; el Gobierno dirige y responde políticamente.
+:::
 
 ### Para entender el bloque
 
@@ -216,7 +236,9 @@ Las funciones del Rey parecen numerosas porque la Constitución enumera actos na
 
 Al estudiar este bloque no basta con memorizar verbos. Hay que relacionar cada función con el órgano que realmente adopta la decisión y con el refrendo correspondiente. Así se entiende por qué el Rey sanciona leyes, nombra ministros o declara la guerra, pero no ejerce libremente la potestad legislativa, la dirección política ni la función ejecutiva.
 
-> **Ejemplo mental:** Que el Rey expida un decreto no significa que lo haya decidido: el decreto ha sido acordado por el Consejo de Ministros.
+:::en-la-calle
+Que el Rey expida un decreto no significa que lo haya decidido: el decreto ha sido acordado por el Consejo de Ministros.
+:::
 
 ### Desarrollo explicado
 
@@ -238,7 +260,9 @@ Al estudiar este bloque no basta con memorizar verbos. Hay que relacionar cada f
 
 Clasifica las funciones en cuatro grupos: leyes, Gobierno, Fuerzas Armadas y relaciones internacionales. Después conecta cada una con el refrendo.
 
-> **Lo que cae:** Sanción y promulgación; Convocatoria y disolución; Presidente del Gobierno; Miembros del Gobierno; Presidencia del Consejo de Ministros; Mando supremo; Derecho de gracia; Guerra y paz.
+:::lo-que-cae
+Sanción y promulgación; Convocatoria y disolución; Presidente del Gobierno; Miembros del Gobierno; Presidencia del Consejo de Ministros; Mando supremo; Derecho de gracia; Guerra y paz.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-04-funciones-rey.webp` · Funciones del Rey.
@@ -269,7 +293,9 @@ Clasifica las funciones en cuatro grupos: leyes, Gobierno, Fuerzas Armadas y rel
 **Ilustración simple:** `t03-ilu-03-cortes-debate-parlamentario.webp` · Las Cortes Generales y el debate parlamentario.
 :::
 
-> **Hablemos claro:** Las Cortes son bicamerales, pero no todo se decide conjuntamente ni ambas Cámaras tienen el mismo peso.
+:::hablemos-claro
+Las Cortes son bicamerales, pero no todo se decide conjuntamente ni ambas Cámaras tienen el mismo peso.
+:::
 
 ### Para entender el bloque
 
@@ -277,7 +303,9 @@ Las Cortes Generales representan al pueblo español y constituyen el centro de l
 
 Este bloque sirve como puerta de entrada al Derecho parlamentario. Antes de estudiar composiciones, plazos y procedimientos conviene fijar las funciones generales de las Cortes, su inviolabilidad, las incompatibilidades entre mandatos y la prohibición del mandato imperativo. El parlamentario representa al conjunto del pueblo y no actúa jurídicamente como delegado sometido a instrucciones obligatorias.
 
-> **Ejemplo mental:** Una sesión conjunta no convierte Congreso y Senado en una tercera Cámara. Siguen siendo dos Cámaras que actúan reunidas para funciones concretas.
+:::en-la-calle
+Una sesión conjunta no convierte Congreso y Senado en una tercera Cámara. Siguen siendo dos Cámaras que actúan reunidas para funciones concretas.
+:::
 
 ### Desarrollo explicado
 
@@ -295,7 +323,9 @@ Este bloque sirve como puerta de entrada al Derecho parlamentario. Antes de estu
 
 Fija primero las tres grandes funciones de las Cortes y, después, estudia en qué asuntos actúan conjuntamente o por separado.
 
-> **Lo que cae:** Representación popular; Funciones de las Cortes; Incompatibilidad entre Cámaras; Mandato imperativo.
+:::lo-que-cae
+Representación popular; Funciones de las Cortes; Incompatibilidad entre Cámaras; Mandato imperativo.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-05-cortes-generales.webp` · Cortes Generales.
@@ -327,7 +357,9 @@ Fija primero las tres grandes funciones de las Cortes y, después, estudia en qu
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** No confundas cifras constitucionales con cifras fijadas por la legislación electoral.
+:::hablemos-claro
+No confundas cifras constitucionales con cifras fijadas por la legislación electoral.
+:::
 
 ### Para entender el bloque
 
@@ -335,7 +367,9 @@ Congreso y Senado son las dos Cámaras de las Cortes Generales, pero responden a
 
 Las preguntas suelen mezclar la horquilla constitucional del Congreso con la cifra fijada por la legislación electoral, o confundir senadores elegidos directamente con senadores designados por las comunidades autónomas. La forma más segura de estudiarlo es separar composición, circunscripción, sistema electoral, duración del mandato e incompatibilidades.
 
-> **Ejemplo mental:** La Constitución no dice que el Congreso tenga siempre 350 diputados; fija una horquilla y la ley electoral concreta la cifra.
+:::en-la-calle
+La Constitución no dice que el Congreso tenga siempre 350 diputados; fija una horquilla y la ley electoral concreta la cifra.
+:::
 
 ### Desarrollo explicado
 
@@ -365,7 +399,9 @@ Las preguntas suelen mezclar la horquilla constitucional del Congreso con la cif
 
 Haz dos columnas: Congreso y Senado. No mezcles la cifra constitucional de diputados con la cifra legal ni la elección provincial con la designación autonómica.
 
-> **Lo que cae:** Número constitucional de diputados; Circunscripción electoral; Representación proporcional; Mandato del Congreso; Plazo electoral; Constitución del Congreso; Naturaleza del Senado; Senadores provinciales; Islas mayores; Ceuta y Melilla; Senadores autonómicos.
+:::lo-que-cae
+Número constitucional de diputados; Circunscripción electoral; Representación proporcional; Mandato del Congreso; Plazo electoral; Constitución del Congreso; Naturaleza del Senado; Senadores provinciales; Islas mayores; Ceuta y Melilla; Senadores autonómicos.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-06-congreso-senado.webp` · Congreso y Senado.
@@ -390,7 +426,9 @@ Haz dos columnas: Congreso y Senado. No mezcles la cifra constitucional de diput
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Inviolabilidad, inmunidad y aforamiento protegen cosas distintas.
+:::hablemos-claro
+Inviolabilidad, inmunidad y aforamiento protegen cosas distintas.
+:::
 
 ### Para entender el bloque
 
@@ -398,7 +436,9 @@ Las prerrogativas parlamentarias no son privilegios personales concedidos al dip
 
 La inviolabilidad protege determinadas opiniones, la inmunidad limita la detención y el procesamiento durante el mandato y el aforamiento determina el órgano judicial competente. Junto a estas garantías, la autonomía de las Cámaras permite que aprueben sus reglamentos, presupuestos y órganos internos sin depender del Gobierno.
 
-> **Ejemplo mental:** Una opinión parlamentaria puede quedar protegida por inviolabilidad, mientras que una detención afecta a la inmunidad. Son problemas distintos.
+:::en-la-calle
+Una opinión parlamentaria puede quedar protegida por inviolabilidad, mientras que una detención afecta a la inmunidad. Son problemas distintos.
+:::
 
 ### Desarrollo explicado
 
@@ -418,7 +458,9 @@ La inviolabilidad protege determinadas opiniones, la inmunidad limita la detenci
 
 Usa tres preguntas: qué protege la inviolabilidad, cuándo opera la inmunidad y qué órgano determina el aforamiento.
 
-> **Lo que cae:** Inviolabilidad parlamentaria; Inmunidad parlamentaria; Suplicatorio; Aforamiento; Mayoría para reglamentos; Sesiones conjuntas.
+:::lo-que-cae
+Inviolabilidad parlamentaria; Inmunidad parlamentaria; Suplicatorio; Aforamiento; Mayoría para reglamentos; Sesiones conjuntas.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-07-prerrogativas-parlamentarias.webp` · Prerrogativas parlamentarias.
@@ -453,7 +495,9 @@ Usa tres preguntas: qué protege la inviolabilidad, cuándo opera la inmunidad y
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Períodos, sesiones, comisiones, Diputaciones Permanentes y mayorías forman un bloque clásico de preguntas numéricas.
+:::hablemos-claro
+Períodos, sesiones, comisiones, Diputaciones Permanentes y mayorías forman un bloque clásico de preguntas numéricas.
+:::
 
 ### Para entender el bloque
 
@@ -461,7 +505,9 @@ El funcionamiento parlamentario se apoya en un calendario, unos órganos y unas 
 
 Este bloque contiene muchos números, pero no debe estudiarse como una sucesión aislada de cifras. Cada plazo y mayoría responde a una situación concreta: convocatoria de sesiones, delegación legislativa, comisiones de investigación, adopción de acuerdos o actuación de la Diputación Permanente. Relacionar la cifra con su función reduce mucho los errores.
 
-> **Ejemplo mental:** La Diputación Permanente no sustituye de forma general al Pleno; mantiene determinadas funciones cuando la Cámara no puede actuar con normalidad.
+:::en-la-calle
+La Diputación Permanente no sustituye de forma general al Pleno; mantiene determinadas funciones cuando la Cámara no puede actuar con normalidad.
+:::
 
 ### Desarrollo explicado
 
@@ -509,7 +555,9 @@ Este bloque contiene muchos números, pero no debe estudiarse como una sucesión
 
 Asocia cada número con una institución concreta. Evita memorizar 21, mayoría absoluta o dos períodos sin recordar a qué regla pertenecen.
 
-> **Lo que cae:** Períodos ordinarios; Sesiones extraordinarias; Decisiones bicamerales especiales; Inicio del procedimiento bicameral; Materias indelegables; Conclusiones de investigación; Composición de Diputación Permanente; Funciones de Diputación Permanente; Quórum; Mayoría ordinaria; Publicidad de sesiones.
+:::lo-que-cae
+Períodos ordinarios; Sesiones extraordinarias; Decisiones bicamerales especiales; Inicio del procedimiento bicameral; Materias indelegables; Conclusiones de investigación; Composición de Diputación Permanente; Funciones de Diputación Permanente; Quórum; Mayoría ordinaria; Publicidad de sesiones.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-08-funcionamiento-camaras.webp` · Funcionamiento de las Cámaras.
@@ -540,7 +588,9 @@ Asocia cada número con una institución concreta. Evita memorizar 21, mayoría 
 **Ilustración simple:** `t03-ilu-04-recorrido-de-una-ley.webp` · El recorrido de una ley.
 :::
 
-> **Hablemos claro:** La ley de bases produce texto articulado; la ley ordinaria de delegación produce texto refundido.
+:::hablemos-claro
+La ley de bases produce texto articulado; la ley ordinaria de delegación produce texto refundido.
+:::
 
 ### Para entender el bloque
 
@@ -548,7 +598,9 @@ La Constitución permite que el Gobierno dicte normas con rango de ley, pero sol
 
 Hay dos caminos principales: la ley de bases conduce a un texto articulado y la ley ordinaria de delegación permite refundir textos. El resultado recibe el nombre de decreto legislativo. La ley orgánica, en cambio, no es una modalidad de delegación, sino una clase de ley reservada para materias especialmente relevantes y sometida a una mayoría específica.
 
-> **Ejemplo mental:** Si las Cortes autorizan al Gobierno a ordenar y unificar varias leyes, el resultado será un texto refundido aprobado mediante decreto legislativo.
+:::en-la-calle
+Si las Cortes autorizan al Gobierno a ordenar y unificar varias leyes, el resultado será un texto refundido aprobado mediante decreto legislativo.
+:::
 
 ### Desarrollo explicado
 
@@ -580,7 +632,9 @@ Hay dos caminos principales: la ley de bases conduce a un texto articulado y la 
 
 Repite la pareja básica: ley de bases–texto articulado; ley ordinaria de delegación–texto refundido.
 
-> **Lo que cae:** Materias de ley orgánica; Mayoría de ley orgánica; Ley de bases; Ley ordinaria de refundición; Requisitos de delegación; Prohibiciones de delegación; Límites de las leyes de bases; Nombre de los decretos legislativos.
+:::lo-que-cae
+Materias de ley orgánica; Mayoría de ley orgánica; Ley de bases; Ley ordinaria de refundición; Requisitos de delegación; Prohibiciones de delegación; Límites de las leyes de bases; Nombre de los decretos legislativos.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-09-leyes-organicas.webp` · Leyes orgánicas y delegación legislativa.
@@ -617,7 +671,9 @@ Repite la pareja básica: ley de bases–texto articulado; ley ordinaria de dele
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** El decreto-ley nace de urgencia; el decreto legislativo nace de delegación.
+:::hablemos-claro
+El decreto-ley nace de urgencia; el decreto legislativo nace de delegación.
+:::
 
 ### Para entender el bloque
 
@@ -625,7 +681,9 @@ Este bloque reúne instituciones que se parecen porque todas participan en la cr
 
 Para estudiarlo conviene seguir el recorrido temporal. Primero se identifica quién inicia, después cómo intervienen Congreso y Senado, qué ocurre con vetos y enmiendas y, finalmente, cómo se produce la sanción y promulgación. El decreto-ley debe mantenerse separado de ese esquema porque nace directamente del Gobierno y necesita después el control del Congreso.
 
-> **Ejemplo mental:** Una situación urgente puede justificar un decreto-ley, pero no permite al Gobierno regular cualquier materia ni evitar el control del Congreso.
+:::en-la-calle
+Una situación urgente puede justificar un decreto-ley, pero no permite al Gobierno regular cualquier materia ni evitar el control del Congreso.
+:::
 
 ### Desarrollo explicado
 
@@ -669,7 +727,9 @@ Para estudiarlo conviene seguir el recorrido temporal. Primero se identifica qui
 
 Dibuja el recorrido de una ley y coloca aparte el decreto-ley. Son dos lógicas distintas: procedimiento parlamentario frente a urgencia gubernamental.
 
-> **Lo que cae:** Presupuesto del decreto-ley; Límites del decreto-ley; Convalidación del decreto-ley; Iniciativa autonómica; Firmas de iniciativa popular; Materias excluidas de iniciativa popular; Proyectos de ley; Plazo ordinario del Senado; Mayoría para veto; Levantamiento inmediato del veto; Levantamiento diferido del veto; Urgencia en el Senado.
+:::lo-que-cae
+Presupuesto del decreto-ley; Límites del decreto-ley; Convalidación del decreto-ley; Iniciativa autonómica; Firmas de iniciativa popular; Materias excluidas de iniciativa popular; Proyectos de ley; Plazo ordinario del Senado; Mayoría para veto; Levantamiento inmediato del veto; Levantamiento diferido del veto; Urgencia en el Senado.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-10-decreto-ley-iniciativa.webp` · Decreto-ley, iniciativa y procedimiento legislativo.
@@ -695,7 +755,9 @@ Dibuja el recorrido de una ley y coloca aparte el decreto-ley. Son dos lógicas 
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Distingue autorización mediante ley orgánica, autorización previa de las Cortes y simple información.
+:::hablemos-claro
+Distingue autorización mediante ley orgánica, autorización previa de las Cortes y simple información.
+:::
 
 ### Para entender el bloque
 
@@ -703,7 +765,9 @@ Los tratados internacionales pueden producir efectos internos y comprometer al E
 
 La pregunta central es qué exige cada tipo de tratado: una ley orgánica cuando se atribuye el ejercicio de competencias derivadas de la Constitución; autorización previa de las Cortes en determinadas materias; o simple información en los restantes casos. Si el contenido contradice la Constitución, el problema debe resolverse antes de prestar válidamente el consentimiento del Estado.
 
-> **Ejemplo mental:** Un tratado militar requiere autorización previa de las Cortes; un tratado que atribuya competencias constitucionales necesita además la autorización mediante ley orgánica prevista en el artículo 93.
+:::en-la-calle
+Un tratado militar requiere autorización previa de las Cortes; un tratado que atribuya competencias constitucionales necesita además la autorización mediante ley orgánica prevista en el artículo 93.
+:::
 
 ### Desarrollo explicado
 
@@ -729,7 +793,9 @@ La pregunta central es qué exige cada tipo de tratado: una ley orgánica cuando
 
 Ordena los tratados de mayor a menor intensidad de control: ley orgánica, autorización previa y simple información.
 
-> **Lo que cae:** Atribución de competencias internacionales; Tratados políticos y militares; Integridad territorial y Título I; Medidas legislativas; Tratado contrario a la Constitución; Consulta al Tribunal Constitucional; Incorporación al ordenamiento.
+:::lo-que-cae
+Atribución de competencias internacionales; Tratados políticos y militares; Integridad territorial y Título I; Medidas legislativas; Tratado contrario a la Constitución; Consulta al Tribunal Constitucional; Incorporación al ordenamiento.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-11-tratados-internacionales.webp` · Tratados internacionales.
@@ -767,7 +833,9 @@ Ordena los tratados de mayor a menor intensidad de control: ley orgánica, autor
 **Ilustración simple:** `t03-ilu-05-gobierno-y-parlamento.webp` · Gobierno y control parlamentario.
 :::
 
-> **Hablemos claro:** La investidura se decide en el Congreso y sus plazos se cuentan desde la primera votación.
+:::hablemos-claro
+La investidura se decide en el Congreso y sus plazos se cuentan desde la primera votación.
+:::
 
 ### Para entender el bloque
 
@@ -775,7 +843,9 @@ El Gobierno dirige la política y ejerce la función ejecutiva, pero su Presiden
 
 La investidura debe visualizarse como una secuencia. El Rey propone candidato, el candidato expone su programa y el Congreso vota. La mayoría cambia entre la primera y la segunda votación, y el plazo de dos meses comienza con la primera votación de investidura. Mientras no toma posesión el nuevo Gobierno, el anterior continúa en funciones para evitar un vacío institucional.
 
-> **Ejemplo mental:** Si el candidato no obtiene mayoría absoluta, no se repite la misma exigencia: 48 horas después basta mayoría simple.
+:::en-la-calle
+Si el candidato no obtiene mayoría absoluta, no se repite la misma exigencia: 48 horas después basta mayoría simple.
+:::
 
 ### Desarrollo explicado
 
@@ -809,7 +879,9 @@ La investidura debe visualizarse como una secuencia. El Rey propone candidato, e
 
 Estudia la investidura como una línea temporal y marca tres datos: mayoría absoluta, 48 horas y dos meses.
 
-> **Lo que cae:** Dirección política; Funciones normativa y ejecutiva; Composición del Gobierno; Funciones del Presidente; Propuesta de candidato; Primera votación de investidura; Segunda votación de investidura; Plazo de dos meses; Refrendo de la disolución automática; Nombramiento de ministros; Causas de cese; Gobierno en funciones.
+:::lo-que-cae
+Dirección política; Funciones normativa y ejecutiva; Composición del Gobierno; Funciones del Presidente; Propuesta de candidato; Primera votación de investidura; Segunda votación de investidura; Plazo de dos meses; Refrendo de la disolución automática; Nombramiento de ministros; Causas de cese; Gobierno en funciones.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-12-gobierno-investidura.webp` · Gobierno e investidura.
@@ -842,7 +914,9 @@ Estudia la investidura como una línea temporal y marca tres datos: mayoría abs
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Los artículos 103 a 107 conectan Administración, Policía, participación, control judicial y Consejo de Estado.
+:::hablemos-claro
+Los artículos 103 a 107 conectan Administración, Policía, participación, control judicial y Consejo de Estado.
+:::
 
 ### Para entender el bloque
 
@@ -850,7 +924,9 @@ La responsabilidad del Gobierno no se limita al control político. Sus miembros 
 
 Los artículos 103 a 107 forman un recorrido coherente: primero se define cómo debe actuar la Administración; después se regula el acceso y estatuto de sus empleados; se sitúan las Fuerzas y Cuerpos de Seguridad bajo la dependencia del Gobierno; se reconocen participación y audiencia de los ciudadanos; y se garantiza el control de tribunales y Consejo de Estado.
 
-> **Ejemplo mental:** Una actuación administrativa puede ser legal en apariencia y, aun así, ser anulada si se aparta del fin que justificaba la potestad utilizada.
+:::en-la-calle
+Una actuación administrativa puede ser legal en apariencia y, aun así, ser anulada si se aparta del fin que justificaba la potestad utilizada.
+:::
 
 ### Desarrollo explicado
 
@@ -886,7 +962,9 @@ Los artículos 103 a 107 forman un recorrido coherente: primero se define cómo 
 
 Lee los artículos 103 a 107 como una historia sobre cómo actúa, se controla y asesora la Administración.
 
-> **Lo que cae:** Responsabilidad penal del Gobierno; Traición y seguridad del Estado; Mayoría para acusación especial; Exclusión del derecho de gracia; Objetividad de la Administración; Principios administrativos; Sometimiento al Derecho; Acceso a función pública; Dependencia de las FCS; Misión constitucional de las FCS; Ley orgánica de las FCS; Acceso a archivos.
+:::lo-que-cae
+Responsabilidad penal del Gobierno; Traición y seguridad del Estado; Mayoría para acusación especial; Exclusión del derecho de gracia; Objetividad de la Administración; Principios administrativos; Sometimiento al Derecho; Acceso a función pública; Dependencia de las FCS; Misión constitucional de las FCS; Ley orgánica de las FCS; Acceso a archivos.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-13-responsabilidad-gobierno.webp` · Responsabilidad del Gobierno y Administración.
@@ -909,7 +987,9 @@ Lee los artículos 103 a 107 como una historia sobre cómo actúa, se controla y
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Información, comparecencias, preguntas e interpelaciones no equivalen a retirar la confianza.
+:::hablemos-claro
+Información, comparecencias, preguntas e interpelaciones no equivalen a retirar la confianza.
+:::
 
 ### Para entender el bloque
 
@@ -917,7 +997,9 @@ El Parlamento controla al Gobierno de forma cotidiana sin necesidad de retirar f
 
 La diferencia esencial está en los efectos. Una pregunta puede exigir una explicación y una interpelación puede abrir un debate político, pero ninguna de ellas provoca por sí sola la dimisión del Gobierno. Las figuras que afectan directamente a la confianza parlamentaria se estudian en el bloque siguiente.
 
-> **Ejemplo mental:** Que un ministro comparezca y responda preguntas no implica que el Congreso esté votando la continuidad del Gobierno.
+:::en-la-calle
+Que un ministro comparezca y responda preguntas no implica que el Congreso esté votando la continuidad del Gobierno.
+:::
 
 ### Desarrollo explicado
 
@@ -941,7 +1023,9 @@ La diferencia esencial está en los efectos. Una pregunta puede exigir una expli
 
 Distingue control de información y control de confianza. Preguntas e interpelaciones pertenecen al primero.
 
-> **Lo que cae:** Responsabilidad solidaria; Comparecencia del Gobierno; Preguntas e interpelaciones.
+:::lo-que-cae
+Responsabilidad solidaria; Comparecencia del Gobierno; Preguntas e interpelaciones.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-14-control-parlamentario.webp` · Control parlamentario.
@@ -973,7 +1057,9 @@ Distingue control de información y control de confianza. Preguntas e interpelac
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** La confianza exige mayoría simple; la censura, mayoría absoluta y candidato alternativo.
+:::hablemos-claro
+La confianza exige mayoría simple; la censura, mayoría absoluta y candidato alternativo.
+:::
 
 ### Para entender el bloque
 
@@ -981,7 +1067,9 @@ Cuestión de confianza, moción de censura y disolución conectan la estabilidad
 
 La cuestión de confianza parte del Presidente del Gobierno y busca confirmar el apoyo parlamentario. La moción de censura parte de los diputados y debe proponer una alternativa de Gobierno, por eso es constructiva. La disolución permite anticipar elecciones, pero está sometida a límites temporales y no puede utilizarse para neutralizar una moción de censura en trámite.
 
-> **Ejemplo mental:** La moción de censura no solo pretende derribar al Gobierno: debe ofrecer simultáneamente un candidato alternativo.
+:::en-la-calle
+La moción de censura no solo pretende derribar al Gobierno: debe ofrecer simultáneamente un candidato alternativo.
+:::
 
 ### Desarrollo explicado
 
@@ -1009,7 +1097,9 @@ La cuestión de confianza parte del Presidente del Gobierno y busca confirmar el
 
 Compara en una tabla iniciativa, mayoría, candidato alternativo, plazo y efecto de cada mecanismo.
 
-> **Lo que cae:** Titular de la cuestión de confianza; Objeto de la confianza; Mayoría de confianza; Mayoría de censura; Proponentes de censura; Candidato alternativo; Plazo de votación; Mociones alternativas; Efecto de negar confianza; Efecto de aprobar censura; Propuesta de disolución; Límite por censura.
+:::lo-que-cae
+Titular de la cuestión de confianza; Objeto de la confianza; Mayoría de confianza; Mayoría de censura; Proponentes de censura; Candidato alternativo; Plazo de votación; Mociones alternativas; Efecto de negar confianza; Efecto de aprobar censura; Propuesta de disolución; Límite por censura.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-15-censura-disolucion.webp` · Moción de censura y disolución.
@@ -1048,7 +1138,9 @@ Compara en una tabla iniciativa, mayoría, candidato alternativo, plazo y efecto
 **Ilustración simple:** `t03-ilu-06-crisis-y-respuesta-constitucional.webp` · Crisis y respuesta constitucional.
 :::
 
-> **Hablemos claro:** La gravedad aumenta junto con el control parlamentario y la intensidad de las medidas.
+:::hablemos-claro
+La gravedad aumenta junto con el control parlamentario y la intensidad de las medidas.
+:::
 
 ### Para entender el bloque
 
@@ -1056,7 +1148,9 @@ Los estados de alarma, excepción y sitio son respuestas constitucionales a cris
 
 La mejor forma de estudiarlos es comparar cinco elementos: quién declara, qué intervención tiene el Congreso, cuánto dura, qué circunstancias lo justifican y qué intensidad pueden alcanzar las medidas. La alarma permite limitaciones; excepción y sitio pueden llegar a la suspensión de determinados derechos en los términos constitucionales.
 
-> **Ejemplo mental:** Una crisis grave no permite elegir libremente cualquier estado excepcional; deben concurrir sus presupuestos y respetarse la duración y el control previstos.
+:::en-la-calle
+Una crisis grave no permite elegir libremente cualquier estado excepcional; deben concurrir sus presupuestos y respetarse la duración y el control previstos.
+:::
 
 ### Desarrollo explicado
 
@@ -1110,7 +1204,9 @@ La mejor forma de estudiarlos es comparar cinco elementos: quién declara, qué 
 
 Construye una tabla con declarante, Congreso, duración, causas y derechos. Esa tabla resuelve casi todas las preguntas.
 
-> **Lo que cae:** Principio de necesidad; Proporcionalidad; Declaración de alarma; Duración inicial de alarma; Prórroga de alarma; Supuestos de alarma; Medidas de alarma; Declaración de excepción; Duración de excepción; Presupuesto de excepción; Declaración de sitio; Presupuesto de sitio.
+:::lo-que-cae
+Principio de necesidad; Proporcionalidad; Declaración de alarma; Duración inicial de alarma; Prórroga de alarma; Supuestos de alarma; Medidas de alarma; Declaración de excepción; Duración de excepción; Presupuesto de excepción; Declaración de sitio; Presupuesto de sitio.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-16-estados-excepcionales.webp` · Estados excepcionales.
@@ -1143,7 +1239,9 @@ Construye una tabla con declarante, Congreso, duración, causas y derechos. Esa 
 **Ilustración simple:** `t03-ilu-07-justicia-independiente.webp` · Independencia judicial.
 :::
 
-> **Hablemos claro:** Independencia, exclusividad jurisdiccional, unidad y publicidad son conceptos separados.
+:::hablemos-claro
+Independencia, exclusividad jurisdiccional, unidad y publicidad son conceptos separados.
+:::
 
 ### Para entender el bloque
 
@@ -1151,7 +1249,9 @@ El Poder Judicial no se define solo por los órganos que lo integran, sino por l
 
 Independencia, inamovilidad, responsabilidad, exclusividad y unidad jurisdiccional son conceptos diferentes. También deben distinguirse la publicidad de las actuaciones, la oralidad del procedimiento, la motivación de las sentencias y la gratuidad de la justicia en los casos previstos.
 
-> **Ejemplo mental:** La independencia judicial significa que el juez decide conforme a la ley, no que pueda actuar al margen de la ley o sin responsabilidad.
+:::en-la-calle
+La independencia judicial significa que el juez decide conforme a la ley, no que pueda actuar al margen de la ley o sin responsabilidad.
+:::
 
 ### Desarrollo explicado
 
@@ -1179,7 +1279,9 @@ Independencia, inamovilidad, responsabilidad, exclusividad y unidad jurisdiccion
 
 No memorices los principios como sinónimos. Define en una frase independencia, exclusividad, unidad y publicidad.
 
-> **Lo que cae:** Origen de la justicia; Estatuto judicial; Exclusividad jurisdiccional; Unidad jurisdiccional; Jurisdicción militar; Tribunales de excepción; Justicia gratuita; Publicidad judicial; Motivación y publicidad de sentencias.
+:::lo-que-cae
+Origen de la justicia; Estatuto judicial; Exclusividad jurisdiccional; Unidad jurisdiccional; Jurisdicción militar; Tribunales de excepción; Justicia gratuita; Publicidad judicial; Motivación y publicidad de sentencias.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 17 END -->
 
@@ -1208,7 +1310,9 @@ No memorices los principios como sinónimos. Define en una frase independencia, 
 **Ilustración simple:** `t03-ilu-08-policia-judicial-investigacion.webp` · Policía Judicial e investigación.
 :::
 
-> **Hablemos claro:** La dependencia funcional de la Policía Judicial no elimina su dependencia orgánica policial.
+:::hablemos-claro
+La dependencia funcional de la Policía Judicial no elimina su dependencia orgánica policial.
+:::
 
 ### Para entender el bloque
 
@@ -1216,7 +1320,9 @@ Este bloque presenta las instituciones que completan el sistema judicial: Consej
 
 El CGPJ gobierna el Poder Judicial, pero no juzga los asuntos ordinarios. El Tribunal Supremo es el órgano jurisdiccional superior salvo en garantías constitucionales. El Ministerio Fiscal promueve la acción de la justicia. La Policía Judicial investiga delitos bajo dependencia funcional de jueces, tribunales y fiscales, manteniendo al mismo tiempo su dependencia orgánica policial.
 
-> **Ejemplo mental:** Un agente puede depender orgánicamente de su cuerpo policial y, durante una investigación concreta, depender funcionalmente del juez o fiscal.
+:::en-la-calle
+Un agente puede depender orgánicamente de su cuerpo policial y, durante una investigación concreta, depender funcionalmente del juez o fiscal.
+:::
 
 ### Desarrollo explicado
 
@@ -1256,7 +1362,9 @@ El CGPJ gobierna el Poder Judicial, pero no juzga los asuntos ordinarios. El Tri
 
 Asigna un verbo a cada órgano: CGPJ gobierna, Tribunal Supremo juzga en la cúspide, Ministerio Fiscal promueve y Policía Judicial investiga.
 
-> **Lo que cae:** Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
+:::lo-que-cae
+Error judicial; Gobierno del Poder Judicial; Composición del CGPJ; Vocales judiciales; Vocales juristas; Propuesta de vocales juristas; Tribunal Supremo; Misión del Ministerio Fiscal; Principios del Ministerio Fiscal; Fiscal General del Estado; Jurado; Dependencia funcional de Policía Judicial.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
 
@@ -1289,7 +1397,9 @@ Asigna un verbo a cada órgano: CGPJ gobierna, Tribunal Supremo juzga en la cús
 **Ilustración simple:** `t03-ilu-09-territorio-y-autonomia.webp` · Territorio, autonomía y solidaridad.
 :::
 
-> **Hablemos claro:** Autonomía no significa soberanía; municipios, provincias y comunidades gestionan sus intereses dentro de la Constitución.
+:::hablemos-claro
+Autonomía no significa soberanía; municipios, provincias y comunidades gestionan sus intereses dentro de la Constitución.
+:::
 
 ### Para entender el bloque
 
@@ -1297,7 +1407,9 @@ La organización territorial parte de una idea básica: municipios, provincias y
 
 El sistema se equilibra mediante solidaridad, igualdad de derechos, libre circulación y prohibición de privilegios territoriales. Municipios y provincias tienen personalidad jurídica y órganos de gobierno propios, mientras que las islas cuentan con formas específicas de administración.
 
-> **Ejemplo mental:** Una comunidad autónoma puede gestionar sus intereses, pero no puede crear privilegios que rompan la igualdad de derechos en el territorio nacional.
+:::en-la-calle
+Una comunidad autónoma puede gestionar sus intereses, pero no puede crear privilegios que rompan la igualdad de derechos en el territorio nacional.
+:::
 
 ### Desarrollo explicado
 
@@ -1333,7 +1445,9 @@ El sistema se equilibra mediante solidaridad, igualdad de derechos, libre circul
 
 Mantén la frase guía: autonomía dentro de la Constitución, equilibrada por solidaridad e igualdad.
 
-> **Lo que cae:** Entidades territoriales; Autonomía territorial; Solidaridad territorial; Hecho insular; Prohibición de privilegios; Igualdad territorial de derechos; Libre circulación; Autonomía municipal; Gobierno municipal; Provincia; Límites provinciales; Haciendas locales.
+:::lo-que-cae
+Entidades territoriales; Autonomía territorial; Solidaridad territorial; Hecho insular; Prohibición de privilegios; Igualdad territorial de derechos; Libre circulación; Autonomía municipal; Gobierno municipal; Provincia; Límites provinciales; Haciendas locales.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 19 END -->
 
@@ -1355,7 +1469,9 @@ Mantén la frase guía: autonomía dentro de la Constitución, equilibrada por s
 - La reforma de los Estatutos se ajusta a su procedimiento y requiere aprobación de las Cortes mediante ley orgánica. **(147.3)**
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** La vía común, las intervenciones excepcionales de las Cortes y el contenido estatutario tienen requisitos propios.
+:::hablemos-claro
+La vía común, las intervenciones excepcionales de las Cortes y el contenido estatutario tienen requisitos propios.
+:::
 
 ### Para entender el bloque
 
@@ -1363,7 +1479,9 @@ El acceso a la autonomía no es automático ni idéntico para todos los territor
 
 El Estatuto de Autonomía culmina ese proceso y actúa como norma institucional básica de la comunidad. Por eso debe contener denominación, territorio, instituciones, competencias y procedimiento de reforma. También se prohíbe la federación entre comunidades, aunque se permiten determinados acuerdos de cooperación.
 
-> **Ejemplo mental:** El Estatuto no es una simple ley organizativa: es la norma institucional básica que identifica territorio, instituciones y competencias.
+:::en-la-calle
+El Estatuto no es una simple ley organizativa: es la norma institucional básica que identifica territorio, instituciones y competencias.
+:::
 
 ### Desarrollo explicado
 
@@ -1393,7 +1511,9 @@ El Estatuto de Autonomía culmina ese proceso y actúa como norma institucional 
 
 Separa tres momentos: iniciativa autonómica, elaboración del Estatuto y contenido obligatorio del Estatuto.
 
-> **Lo que cae:** Titulares de iniciativa autonómica; Iniciativa autonómica común; Plazo de la iniciativa; Reiteración de iniciativa; Autonomía uniprovincial excepcional; Prohibición de federación; Acuerdos de cooperación; Norma institucional básica; Contenido mínimo del Estatuto; Reforma estatutaria.
+:::lo-que-cae
+Titulares de iniciativa autonómica; Iniciativa autonómica común; Plazo de la iniciativa; Reiteración de iniciativa; Autonomía uniprovincial excepcional; Prohibición de federación; Acuerdos de cooperación; Norma institucional básica; Contenido mínimo del Estatuto; Reforma estatutaria.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
 
@@ -1419,7 +1539,9 @@ Separa tres momentos: iniciativa autonómica, elaboración del Estatuto y conten
 - El Derecho estatal es supletorio del Derecho autonómico. **(149.3)**
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** El examen mezcla competencias autonómicas asumibles, competencias exclusivas estatales y cláusulas residuales.
+:::hablemos-claro
+El examen mezcla competencias autonómicas asumibles, competencias exclusivas estatales y cláusulas residuales.
+:::
 
 ### Para entender el bloque
 
@@ -1427,7 +1549,9 @@ Los artículos 148 y 149 distribuyen materias entre comunidades autónomas y Est
 
 El estudio debe hacerse por familias: organización territorial y obras públicas, economía y recursos, cultura y asistencia social, seguridad, legislación básica y relaciones exteriores. Después deben añadirse las cláusulas de cierre: las materias no atribuidas expresamente al Estado pueden corresponder a las comunidades por sus Estatutos, mientras que lo no asumido estatutariamente permanece en el Estado.
 
-> **Ejemplo mental:** Seguridad pública es competencia exclusiva del Estado, aunque la Constitución permite la creación de policías autonómicas en el marco estatutario y legal.
+:::en-la-calle
+Seguridad pública es competencia exclusiva del Estado, aunque la Constitución permite la creación de policías autonómicas en el marco estatutario y legal.
+:::
 
 ### Desarrollo explicado
 
@@ -1471,7 +1595,9 @@ El estudio debe hacerse por familias: organización territorial y obras pública
 
 No intentes aprender las dos listas de una sola vez. Agrupa las materias por sectores y repásalas mediante preguntas comparativas.
 
-> **Lo que cae:** Sanidad e higiene; Vigilancia y policía local; Ampliación competencial; Nacionalidad y extranjería; Armas y explosivos; Seguridad pública; Referéndum; Cláusula de asunción; Cláusula residual estatal; Prevalencia del Derecho estatal; Supletoriedad.
+:::lo-que-cae
+Sanidad e higiene; Vigilancia y policía local; Ampliación competencial; Nacionalidad y extranjería; Armas y explosivos; Seguridad pública; Referéndum; Cláusula de asunción; Cláusula residual estatal; Prevalencia del Derecho estatal; Supletoriedad.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 21 END -->
 
@@ -1495,7 +1621,9 @@ No intentes aprender las dos listas de una sola vez. Agrupa las materias por sec
 - Un Tribunal Superior de Justicia culmina la organización judicial en el territorio, sin perjuicio del Tribunal Supremo. **(152.1)**
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** Leyes marco, transferencia y armonización son tres técnicas diferentes.
+:::hablemos-claro
+Leyes marco, transferencia y armonización son tres técnicas diferentes.
+:::
 
 ### Para entender el bloque
 
@@ -1503,7 +1631,9 @@ El artículo 150 ofrece tres técnicas para flexibilizar la distribución de com
 
 El bloque incorpora también la vía especial del artículo 151, que permite acceder desde el inicio a un nivel competencial más amplio, pero exige apoyos territoriales, referéndum y un procedimiento estatutario reforzado. No debe confundirse esta vía de acceso con las técnicas de relación competencial del artículo 150.
 
-> **Ejemplo mental:** Una ley de armonización no transfiere competencias: establece principios necesarios para coordinar normas autonómicas cuando lo exige el interés general.
+:::en-la-calle
+Una ley de armonización no transfiere competencias: establece principios necesarios para coordinar normas autonómicas cuando lo exige el interés general.
+:::
 
 ### Desarrollo explicado
 
@@ -1535,7 +1665,9 @@ El bloque incorpora también la vía especial del artículo 151, que permite acc
 
 Para el artículo 150 memoriza instrumento, finalidad y control. Después estudia el artículo 151 como un procedimiento distinto.
 
-> **Lo que cae:** Leyes marco; Transferencia o delegación; Leyes de armonización; Mayoría para armonización; Iniciativa autonómica especial; Referéndum de iniciativa; Mayoría del proyecto especial; Aprobación provincial; Asamblea legislativa autonómica; Presidente autonómico; Funciones del Presidente autonómico; Tribunal Superior de Justicia.
+:::lo-que-cae
+Leyes marco; Transferencia o delegación; Leyes de armonización; Mayoría para armonización; Iniciativa autonómica especial; Referéndum de iniciativa; Mayoría del proyecto especial; Aprobación provincial; Asamblea legislativa autonómica; Presidente autonómico; Funciones del Presidente autonómico; Tribunal Superior de Justicia.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
 
@@ -1560,7 +1692,9 @@ Para el artículo 150 memoriza instrumento, finalidad y control. Después estudi
 - El Fondo de Compensación corrige desequilibrios y destina recursos a gastos de inversión. **(158.2)**
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-> **Hablemos claro:** No confundas control ordinario del artículo 153 con coerción estatal del 155 ni con financiación de los artículos 156 a 158.
+:::hablemos-claro
+No confundas control ordinario del artículo 153 con coerción estatal del 155 ni con financiación de los artículos 156 a 158.
+:::
 
 ### Para entender el bloque
 
@@ -1568,7 +1702,9 @@ Una vez constituidas, las comunidades autónomas están sometidas a controles di
 
 El artículo 155 no es un control ordinario. Es un mecanismo de coerción estatal para incumplimientos graves y exige requerimiento previo y autorización del Senado. La autonomía financiera, los recursos autonómicos y los fondos de compensación completan el sistema y permiten conectar autonomía con solidaridad territorial.
 
-> **Ejemplo mental:** El artículo 155 exige primero un requerimiento. No permite pasar directamente del incumplimiento a las medidas coercitivas.
+:::en-la-calle
+El artículo 155 exige primero un requerimiento. No permite pasar directamente del incumplimiento a las medidas coercitivas.
+:::
 
 ### Desarrollo explicado
 
@@ -1606,7 +1742,9 @@ El artículo 155 no es un control ordinario. Es un mecanismo de coerción estata
 
 Haz tres cajas: controles ordinarios, artículo 155 y financiación. Mezclarlas es la principal fuente de errores.
 
-> **Lo que cae:** Control del TC; Control del Gobierno; Control contencioso-administrativo; Control del Tribunal de Cuentas; Delegado del Gobierno; Presupuesto del artículo 155; Requerimiento previo; Mayoría del Senado; Instrucciones a autoridades autonómicas; Autonomía financiera; Principios financieros; Recursos autonómicos tributarios.
+:::lo-que-cae
+Control del TC; Control del Gobierno; Control contencioso-administrativo; Control del Tribunal de Cuentas; Delegado del Gobierno; Presupuesto del artículo 155; Requerimiento previo; Mayoría del Senado; Instrucciones a autoridades autonómicas; Autonomía financiera; Principios financieros; Recursos autonómicos tributarios.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 23 END -->
 
@@ -1649,7 +1787,9 @@ Haz tres cajas: controles ordinarios, artículo 155 y financiación. Mezclarlas 
 **Ilustración simple:** `t03-ilu-10-guardian-de-la-constitucion.webp` · El Tribunal Constitucional como garante.
 :::
 
-> **Hablemos claro:** El Tribunal Constitucional controla la constitucionalidad, pero no pertenece al Poder Judicial ordinario.
+:::hablemos-claro
+El Tribunal Constitucional controla la constitucionalidad, pero no pertenece al Poder Judicial ordinario.
+:::
 
 ### Para entender el bloque
 
@@ -1657,7 +1797,9 @@ El Tribunal Constitucional es un órgano constitucional independiente y no forma
 
 Para dominar el bloque hay que separar composición, estatuto de sus miembros, organización interna y competencias. También deben distinguirse el recurso de inconstitucionalidad, la cuestión de inconstitucionalidad y el recurso de amparo: cambian quién los promueve, su objeto y el momento en que se plantean.
 
-> **Ejemplo mental:** Un juez que duda de la constitucionalidad de una ley aplicable a un proceso no presenta recurso de amparo: plantea una cuestión de inconstitucionalidad.
+:::en-la-calle
+Un juez que duda de la constitucionalidad de una ley aplicable a un proceso no presenta recurso de amparo: plantea una cuestión de inconstitucionalidad.
+:::
 
 ### Desarrollo explicado
 
@@ -1725,7 +1867,9 @@ Para dominar el bloque hay que separar composición, estatuto de sus miembros, o
 
 Aprende primero el mapa del Tribunal y después los procesos. Composición y competencias no deben estudiarse en la misma lista.
 
-> **Lo que cae:** Composición del Tribunal Constitucional; Propuesta del Congreso; Propuesta del Senado; Propuesta de Gobierno y CGPJ; Experiencia profesional; Mandato del Tribunal Constitucional; Incompatibilidades del TC; Presidente del TC; Recurso de inconstitucionalidad; Recurso de amparo; Conflictos de competencia; Impugnación de disposiciones autonómicas.
+:::lo-que-cae
+Composición del Tribunal Constitucional; Propuesta del Congreso; Propuesta del Senado; Propuesta de Gobierno y CGPJ; Experiencia profesional; Mandato del Tribunal Constitucional; Incompatibilidades del TC; Presidente del TC; Recurso de inconstitucionalidad; Recurso de amparo; Conflictos de competencia; Impugnación de disposiciones autonómicas.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 24 END -->
 
@@ -1755,7 +1899,9 @@ Aprende primero el mapa del Tribunal y después los procesos. Composición y com
 **Ilustración simple:** `t03-ilu-11-reforma-de-la-constitucion.webp` · Reforma de la Constitución.
 :::
 
-> **Hablemos claro:** El procedimiento agravado protege materias concretas y siempre termina en referéndum.
+:::hablemos-claro
+El procedimiento agravado protege materias concretas y siempre termina en referéndum.
+:::
 
 ### Para entender el bloque
 
@@ -1763,7 +1909,9 @@ La Constitución puede reformarse, pero no mediante un procedimiento legislativo
 
 El artículo 167 regula el procedimiento ordinario y permite un referéndum facultativo. El artículo 168 se aplica a la revisión total y a determinadas materias especialmente protegidas; exige dos aprobaciones parlamentarias separadas por elecciones y concluye siempre con referéndum. Además, existen límites temporales que impiden iniciar la reforma en situaciones excepcionales.
 
-> **Ejemplo mental:** Una reforma del Título Preliminar no puede tramitarse por el artículo 167; entra en el procedimiento agravado del artículo 168.
+:::en-la-calle
+Una reforma del Título Preliminar no puede tramitarse por el artículo 167; entra en el procedimiento agravado del artículo 168.
+:::
 
 ### Desarrollo explicado
 
@@ -1791,7 +1939,9 @@ El artículo 167 regula el procedimiento ordinario y permite un referéndum facu
 
 Compara 167 y 168 por mayoría, disolución y referéndum. Son los tres elementos que mejor los diferencian.
 
-> **Lo que cae:** Iniciativa de reforma; Exclusión de iniciativa popular; Mayoría ordinaria; Fórmula subsidiaria; Referéndum facultativo; Supuestos de reforma agravada; Primera mayoría agravada; Disolución inmediata; Mayoría final agravada; Referéndum obligatorio; Límite temporal de reforma.
+:::lo-que-cae
+Iniciativa de reforma; Exclusión de iniciativa popular; Mayoría ordinaria; Fórmula subsidiaria; Referéndum facultativo; Supuestos de reforma agravada; Primera mayoría agravada; Disolución inmediata; Mayoría final agravada; Referéndum obligatorio; Límite temporal de reforma.
+:::
 
 :::visual
 **Referencia visual prevista:** `t03-17-reforma-constitucional.webp` · Reforma constitucional.

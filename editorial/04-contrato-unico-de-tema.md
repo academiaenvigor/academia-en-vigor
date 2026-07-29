@@ -101,15 +101,45 @@ división explícita por partes. Cada parte tiene bloques y un bloque de anclaje
 Los archivos pesados se almacenan fuera del repositorio y deben ser propios o
 estar expresamente autorizados.
 
+## Índice derivado
+
+`temario.json` no contiene ningún dato primario. Todos sus contadores y estados
+se calculan desde el manifiesto, la cobertura, el banco, el índice de
+antecedentes y el manifiesto visual de cada tema. Nunca se editan a mano:
+
+```bash
+python scripts/sincronizar_temario.py --write
+```
+
+La única excepción es `ha_caido_active`, que es una decisión editorial y exige
+que el bloque tenga escrito su callout `:::ha-caido`.
+
+## Sintaxis de los avisos
+
+Los seis avisos pedagógicos se escriben siempre con la sintaxis `:::tipo`. La
+forma antigua en cita (`> **Hablemos claro:**`) queda fuera de los filtros del
+explorador y no cuenta como capa del tema. Para convertir un tema heredado:
+
+```bash
+python scripts/migrar_callouts.py --write
+python scripts/compilar_tema.py --all --write
+```
+
 ## Validación obligatoria
 
 Antes de entregar o publicar un tema:
 
 ```bash
+python scripts/compilar_tema.py --all --check
+python scripts/sincronizar_temario.py --check
+python scripts/migrar_callouts.py --check
 python scripts/validar_temas.py
 python -m unittest discover -s tests -v
 python scripts/validar_proyecto.py
 ```
+
+Las pruebas se escriben con `unittest`. `discover` no recoge funciones sueltas
+al estilo pytest: un archivo de pruebas escrito así no se ejecuta en CI.
 
 Los errores impiden la entrega. Los avisos de puerta de calidad permiten
 conservar un borrador, pero impiden declararlo terminado.

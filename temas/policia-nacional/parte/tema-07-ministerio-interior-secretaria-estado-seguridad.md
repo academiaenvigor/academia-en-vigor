@@ -31,8 +31,9 @@ El Tema 7 tiene dos núcleos:
 4. **Los cuatro órganos directivos de la SES:** ubicación y funciones que pueden confundirse.
 5. **Trampas, exámenes oficiales y última vuelta.**
 
-> ⚠️ **ALERTA DEL VIGÍA**
-> La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
+:::trampa
+La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
+:::
 
 <!-- VISUAL:t07-01-mapa-ministerio.webp -->
 <p align="center">
@@ -83,8 +84,9 @@ El Ministerio del Interior propone y ejecuta la política del Gobierno en estas 
 - prisiones + elecciones;
 - protección civil + tráfico.
 
-> 💡 **HABLEMOS CLARO**
-> Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
+:::hablemos-claro
+Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
+:::
 
 <!-- VISUAL:t07-il-01-interior-no-es-solo-policia.webp -->
 <p align="center">
@@ -148,11 +150,13 @@ Dependen de ella dos piezas que no deben confundirse:
 </p>
 <p align="center"><em>Ilustración: regla mnemotécnica de los tres peldaños del mando.</em></p>
 
-> 🎯 **LO QUE CAE**
-> La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
+:::lo-que-cae
+La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
+:::
 
-> 🚔 **EN LA CALLE**
-> Ante un dispositivo que exige una línea política común para Policía Nacional y Guardia Civil, el nivel departamental corresponde al Ministro y la coordinación ejecutiva a la SES. La dirección cotidiana de las unidades de Policía Nacional corresponde a la Dirección General de la Policía. El ejemplo sirve para separar niveles; no convierte a la SES en una jefatura operativa de cada unidad.
+:::en-la-calle
+Ante un dispositivo que exige una línea política común para Policía Nacional y Guardia Civil, el nivel departamental corresponde al Ministro y la coordinación ejecutiva a la SES. La dirección cotidiana de las unidades de Policía Nacional corresponde a la Dirección General de la Policía. El ejemplo sirve para separar niveles; no convierte a la SES en una jefatura operativa de cada unidad.
+:::
 
 <!-- MATERIAL PENDIENTE: t07-p1-audio -->
 <!-- MATERIAL PENDIENTE: t07-p1-video -->
@@ -205,8 +209,9 @@ Desde el **27 de abril de 2026**:
 - la Dirección General de Protección Civil y Emergencias depende de esa Secretaría General;
 - la Subsecretaría ya no incluye Protección Civil entre sus direcciones generales.
 
-> 🎯 **LO QUE CAE**
-> Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
+:::lo-que-cae
+Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
+:::
 
 <!-- VISUAL:t07-03-cambio-proteccion-civil-2026.webp -->
 <p align="center">
@@ -290,8 +295,8 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 </p>
 <p align="center"><em>Ilustración: la SES como torre de control que coordina, supervisa e integra.</em></p>
 
-> 🎯 **LO QUE CAE**
->
+:::lo-que-cae
+:::
 > - **Planificar y coordinar** políticas de infraestructuras no equivale a **aprobar** planes y programas: ambas funciones pertenecen a la SES, pero son dos letras distintas del artículo 2.1.
 > - La cooperación policial internacional menciona expresamente EUROPOL, INTERPOL, SIRENE, Schengen y CCPA.
 > - La reunión y manifestación aparecen como competencia departamental gestionada por la SES.
@@ -397,9 +402,9 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 </p>
 <p align="center"><em>Ilustración: CITCO integra, analiza y coordina sin ejercer el mando operativo general.</em></p>
 
-> 🎯 **LO QUE CAE**
->
-> - Los informes son **anuales**, no semestrales.
+:::lo-que-cae
+- Los informes son **anuales**, no semestrales.
+:::
 > - **UNECI depende de CITCO**.
 > - ONIP actúa como **PIU nacional**.
 > - La dirección del Gabinete ejerce la Relatoría; CITCO presta apoyo técnico como punto focal.
@@ -517,11 +522,11 @@ De ella dependen tres subdirecciones:
 
 **Mnemotecnia:** **Policía — Migración — Europa**.
 
-> 🎯 **LO QUE CAE**
->
-> - La DGRIE depende de la **SES**, no de la Subsecretaría.
-> - «Protección Internacional» y «Relaciones Internacionales y Extranjería» son direcciones generales distintas. La primera depende de la Subsecretaría; la segunda, de la SES.
-> - La DGRIE coordina la dimensión internacional; no sustituye a la Oficina de Asilo y Refugio ni a la Dirección General de Protección Internacional.
+:::lo-que-cae
+- La DGRIE depende de la **SES**, no de la Subsecretaría.
+- «Protección Internacional» y «Relaciones Internacionales y Extranjería» son direcciones generales distintas. La primera depende de la Subsecretaría; la segunda, de la SES.
+- La DGRIE coordina la dimensión internacional; no sustituye a la Oficina de Asilo y Refugio ni a la Dirección General de Protección Internacional.
+:::
 
 <!-- MATERIAL PENDIENTE: t07-p4-audio -->
 <!-- MATERIAL PENDIENTE: t07-p4-video -->
@@ -562,13 +567,13 @@ De la DGCE depende la **Inspección de Personal y Servicios de Seguridad**, con 
 </p>
 <p align="center"><em>Ilustración: la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.</em></p>
 
-> 🎯 **LO QUE CAE**
->
-> - La **Inspección de Personal y Servicios de Seguridad depende de la DGCE** y tiene nivel de subdirección general.
-> - La **ONGADH** depende funcionalmente de esa Inspección.
-> - El **CNPIC** está en la órbita funcional de la DGCE, que auxilia a la SES como responsable superior del sistema.
-> - La **OCC** no es la unidad policial que investiga todos los ciberdelitos: coordina, intercambia información y presta soporte como CSIRT-MIR-PJ.
-> - CITCO y DGCE colaboran en estadísticas, pero CITCO no sustituye a la DGCE como órgano general de coordinación y estudios.
+:::lo-que-cae
+- La **Inspección de Personal y Servicios de Seguridad depende de la DGCE** y tiene nivel de subdirección general.
+- La **ONGADH** depende funcionalmente de esa Inspección.
+- El **CNPIC** está en la órbita funcional de la DGCE, que auxilia a la SES como responsable superior del sistema.
+- La **OCC** no es la unidad policial que investiga todos los ciberdelitos: coordina, intercambia información y presta soporte como CSIRT-MIR-PJ.
+- CITCO y DGCE colaboran en estadísticas, pero CITCO no sustituye a la DGCE como órgano general de coordinación y estudios.
+:::
 
 ---
 

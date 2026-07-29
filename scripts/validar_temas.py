@@ -235,6 +235,18 @@ def validate_topic(opposition: str, topic: dict) -> tuple[list[str], list[str]]:
 
     add(errors, official["total_referencias"] == len(official["questions"]), f"{label}: total_referencias incoherente")
     add(errors, official["con_respuesta_verificada"] <= official["total_referencias"], f"{label}: verificados imposibles")
+    add(errors, topic["official_exam_mapped"] == official["con_bloque_asignado"],
+        f"{label}: official_exam_mapped en temario.json incoherente")
+    add(errors, topic["official_exam_verified"] == official["con_respuesta_verificada"],
+        f"{label}: official_exam_verified en temario.json incoherente")
+    add(errors, topic["content_version"] == knowledge["content_version"],
+        f"{label}: content_version en temario.json incoherente")
+    add(errors, topic["editorial_status"] == knowledge["editorial_status"],
+        f"{label}: editorial_status en temario.json incoherente")
+    add(errors, topic["publication_status"] == knowledge["publication_status"],
+        f"{label}: publication_status en temario.json incoherente")
+    add(errors, topic["visual_version"] == assets["visual_version"],
+        f"{label}: visual_version en temario.json incoherente")
     add(errors, evaluation["bank"] == topic["question_bank"], f"{label}: plan apunta a otro banco")
     add(errors, "full_tests" not in evaluation, f"{label}: usa full_tests obsoleto")
 

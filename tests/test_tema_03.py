@@ -45,7 +45,9 @@ class Tema03(unittest.TestCase):
     def test_narrative_atestado(self):
         self.assertEqual(self.atestado.count("### Para entender el bloque"), 25)
         self.assertEqual(self.atestado.count("### Cómo estudiarlo"), 25)
-        self.assertEqual(self.atestado.count("> **Ejemplo mental:**"), 25)
+        # Migrado de "> **Ejemplo mental:**" a la sintaxis :::en-la-calle
+        # del contrato 2.0.0 (scripts/migrar_callouts.py).
+        self.assertEqual(self.atestado.count(":::en-la-calle"), 25)
         bullet_lines = [line for line in self.atestado.splitlines() if line.startswith("- ")]
         self.assertLessEqual(len(bullet_lines), 5)
 

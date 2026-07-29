@@ -2080,9 +2080,9 @@ Añade dos matices:
 
 ---
 
-# 🎯 38. LO QUE CAE Y CÓMO LO CONFUNDEN
+### 🎯 Anexo · Lo que cae y cómo lo confunden
 
-#### 38.1. Preguntas localizadas en el banco interno
+#### Preguntas localizadas en el banco interno
 
 Sin reproducir enunciados ajenos, los exámenes cargados muestran preguntas sobre:
 
@@ -2139,7 +2139,7 @@ Las etiquetas históricas deben mantenerse vinculadas al documento original del 
 - Suspensión individual: **17-18-18**.
 - Defensor: **3/5-5-2-1-15**.
 
-# 🧪 39. TEST FINAL DEL ATESTADO
+### 🧪 Anexo · Test final del Atestado
 
 #### Preguntas
 
@@ -2321,7 +2321,7 @@ Las etiquetas históricas deben mantenerse vinculadas al documento original del 
 24. **a)** Plazo de un año, gratuidad y sin abogado ni procurador preceptivos.
 25. **b)** Son cuatro: Defensor, dos Adjuntos y Secretario General.
 
-# 🎙️ 40. GUION PARA RECURSOS DERIVADOS
+### 🎙️ Anexo · Guion para recursos derivados
 
 #### Audio 1 · La Constitución por fuera
 

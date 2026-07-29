@@ -31,8 +31,9 @@ El Tema 7 tiene dos núcleos:
 4. **Los cuatro órganos directivos de la SES:** ubicación y funciones que pueden confundirse.
 5. **Trampas, exámenes oficiales y última vuelta.**
 
-> ⚠️ **ALERTA DEL VIGÍA**
-> La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
+:::trampa
+La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
+:::
 
 <!-- VISUAL:t07-01-mapa-ministerio.webp -->
 <p align="center">
@@ -83,8 +84,9 @@ El Ministerio del Interior propone y ejecuta la política del Gobierno en estas 
 - prisiones + elecciones;
 - protección civil + tráfico.
 
-> 💡 **HABLEMOS CLARO**
-> Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
+:::hablemos-claro
+Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
+:::
 
 <!-- VISUAL:t07-il-01-interior-no-es-solo-policia.webp -->
 <p align="center">
@@ -170,11 +172,13 @@ Dependen de ella dos piezas que no deben confundirse:
 </p>
 <p align="center"><em>Ilustración: regla mnemotécnica de los tres peldaños del mando.</em></p>
 
-> 🎯 **LO QUE CAE**
-> La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
+:::lo-que-cae
+La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
+:::
 
-> 🚔 **EN LA CALLE**
-> Ante un dispositivo que exige una línea política común para Policía Nacional y Guardia Civil, el nivel departamental corresponde al Ministro y la coordinación ejecutiva a la SES. La dirección cotidiana de las unidades de Policía Nacional corresponde a la Dirección General de la Policía. El ejemplo sirve para separar niveles; no convierte a la SES en una jefatura operativa de cada unidad.
+:::en-la-calle
+Ante un dispositivo que exige una línea política común para Policía Nacional y Guardia Civil, el nivel departamental corresponde al Ministro y la coordinación ejecutiva a la SES. La dirección cotidiana de las unidades de Policía Nacional corresponde a la Dirección General de la Policía. El ejemplo sirve para separar niveles; no convierte a la SES en una jefatura operativa de cada unidad.
+:::
 
  <!-- FACT:PN-T07-F012 -->
 
@@ -224,8 +228,9 @@ De ella dependen:
 
 **Mnemotecnia de la SES:** **P-G-R-C** → Policía, Guardia Civil, Relaciones Internacionales y Coordinación y Estudios.
 
-> 💡 **HABLEMOS CLARO**
-> «Estar en el primer escalón del organigrama» no convierte a todos sus integrantes en órganos superiores. Según la Ley 40/2015, en la organización central son órganos superiores los ministros y los secretarios de Estado. Subsecretarios, secretarios generales, secretarios generales técnicos, directores generales y subdirectores generales son órganos directivos. Por eso la SES es órgano superior; las dos secretarías generales y la Subsecretaría son órganos directivos, aunque aparezcan al mismo nivel visual bajo el Ministro.
+:::hablemos-claro
+«Estar en el primer escalón del organigrama» no convierte a todos sus integrantes en órganos superiores. Según la Ley 40/2015, en la organización central son órganos superiores los ministros y los secretarios de Estado. Subsecretarios, secretarios generales, secretarios generales técnicos, directores generales y subdirectores generales son órganos directivos. Por eso la SES es órgano superior; las dos secretarías generales y la Subsecretaría son órganos directivos, aunque aparezcan al mismo nivel visual bajo el Ministro.
+:::
 
 ### El cambio que invalida los esquemas antiguos
 
@@ -236,8 +241,9 @@ Desde el **27 de abril de 2026**:
 - la Dirección General de Protección Civil y Emergencias depende de esa Secretaría General;
 - la Subsecretaría ya no incluye Protección Civil entre sus direcciones generales.
 
-> 🎯 **LO QUE CAE**
-> Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
+:::lo-que-cae
+Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
+:::
 
 <!-- VISUAL:t07-03-cambio-proteccion-civil-2026.webp -->
 <p align="center">
@@ -351,19 +357,21 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 </p>
 <p align="center"><em>Ilustración: la SES como torre de control que coordina, supervisa e integra.</em></p>
 
-> 💡 **HABLEMOS CLARO**
-> La SES no sustituye a las Direcciones Generales. Marca dirección común, coordina, supervisa y asume sistemas transversales que afectan a varios cuerpos: cooperación internacional, fronteras, infraestructuras críticas, ciberseguridad o PNR. La idea que debe quedar es: **la SES integra la política de seguridad que no puede gestionarse como compartimentos policiales aislados**.
+:::hablemos-claro
+La SES no sustituye a las Direcciones Generales. Marca dirección común, coordina, supervisa y asume sistemas transversales que afectan a varios cuerpos: cooperación internacional, fronteras, infraestructuras críticas, ciberseguridad o PNR. La idea que debe quedar es: **la SES integra la política de seguridad que no puede gestionarse como compartimentos policiales aislados**.
+:::
 
-> 🎯 **LO QUE CAE**
->
+:::lo-que-cae
+:::
 > - **Planificar y coordinar** políticas de infraestructuras no equivale a **aprobar** planes y programas: ambas funciones pertenecen a la SES, pero son dos letras distintas del artículo 2.1.
 > - La cooperación policial internacional menciona expresamente EUROPOL, INTERPOL, SIRENE, Schengen y CCPA.
 > - La reunión y manifestación aparecen como competencia departamental gestionada por la SES.
 > - El blanqueo citado aquí está vinculado al tráfico de drogas y a sus delitos conexos; no se formula como una competencia ilimitada sobre cualquier blanqueo.
 > - La ciberseguridad se limita al ámbito competencial del Ministerio.
 
-> 🚔 **EN LA CALLE**
-> Una investigación puede comenzar en un cuerpo y producir efectos en varios Estados, afectar a fronteras y requerir cooperación europea. Cada unidad conserva sus competencias operativas, pero la SES dispone de órganos para coordinar el plano transversal. El ejemplo explica la arquitectura; no atribuye a la SES la instrucción directa de cada diligencia.
+:::en-la-calle
+Una investigación puede comenzar en un cuerpo y producir efectos en varios Estados, afectar a fronteras y requerir cooperación europea. Cada unidad conserva sus competencias operativas, pero la SES dispone de órganos para coordinar el plano transversal. El ejemplo explica la arquitectura; no atribuye a la SES la instrucción directa de cada diligencia.
+:::
 
 ---
 
@@ -508,8 +516,9 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 </p>
 <p align="center"><em>Ilustración: CITCO integra, analiza y coordina sin ejercer el mando operativo general.</em></p>
 
-> 💡 **HABLEMOS CLARO**
-> CITCO no es una comisaría general ni una unidad de la Policía Nacional. Es un centro de la SES que trabaja sobre información procedente de distintos actores, genera inteligencia estratégica y coordina concurrencias. **No confundir inteligencia estratégica con dirección ordinaria de todas las investigaciones**.
+:::hablemos-claro
+CITCO no es una comisaría general ni una unidad de la Policía Nacional. Es un centro de la SES que trabaja sobre información procedente de distintos actores, genera inteligencia estratégica y coordina concurrencias. **No confundir inteligencia estratégica con dirección ordinaria de todas las investigaciones**.
+:::
 
 **Mnemotecnia:** **I-C-E-E-R-P-D**:
 
@@ -521,9 +530,9 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 - **P**recursores;
 - **D**estruir alijos.
 
-> 🎯 **LO QUE CAE**
->
-> - Los informes son **anuales**, no semestrales.
+:::lo-que-cae
+- Los informes son **anuales**, no semestrales.
+:::
 > - **UNECI depende de CITCO**.
 > - ONIP actúa como **PIU nacional**.
 > - La dirección del Gabinete ejerce la Relatoría; CITCO presta apoyo técnico como punto focal.
@@ -634,8 +643,9 @@ Se ocupa del soporte **digital y de comunicaciones**:
 </p>
 <p align="center"><em>Ilustración: contraste entre infraestructuras y medios frente a información y comunicaciones.</em></p>
 
-> 💡 **HABLEMOS CLARO**
-> Las dos subdirecciones no compran y operan todo por sí solas. Planifican, proponen, coordinan o gestionan dentro de los créditos y encargos de la SES, respetando las competencias propias de Policía, Guardia Civil, la Gerencia y otros órganos. En un test, los verbos absolutos —«asume en exclusiva», «dirige todos los sistemas»— son sospechosos.
+:::hablemos-claro
+Las dos subdirecciones no compran y operan todo por sí solas. Planifican, proponen, coordinan o gestionan dentro de los créditos y encargos de la SES, respetando las competencias propias de Policía, Guardia Civil, la Gerencia y otros órganos. En un test, los verbos absolutos —«asume en exclusiva», «dirige todos los sistemas»— son sospechosos.
+:::
 
  <!-- FACT:PN-T07-F064 -->
 
@@ -758,11 +768,11 @@ Gestiona el **Punto Nacional de Contacto con la Guardia Europea de Fronteras y C
 
 **Mnemotecnia:** **Policía — Migración — Europa**.
 
-> 🎯 **LO QUE CAE**
->
-> - La DGRIE depende de la **SES**, no de la Subsecretaría.
-> - «Protección Internacional» y «Relaciones Internacionales y Extranjería» son direcciones generales distintas. La primera depende de la Subsecretaría; la segunda, de la SES.
-> - La DGRIE coordina la dimensión internacional; no sustituye a la Oficina de Asilo y Refugio ni a la Dirección General de Protección Internacional.
+:::lo-que-cae
+- La DGRIE depende de la **SES**, no de la Subsecretaría.
+- «Protección Internacional» y «Relaciones Internacionales y Extranjería» son direcciones generales distintas. La primera depende de la Subsecretaría; la segunda, de la SES.
+- La DGRIE coordina la dimensión internacional; no sustituye a la Oficina de Asilo y Refugio ni a la Dirección General de Protección Internacional.
+:::
 
  <!-- FACT:PN-T07-F079 -->
 
@@ -828,19 +838,21 @@ Entre sus funciones:
 </p>
 <p align="center"><em>Ilustración: la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.</em></p>
 
-> 💡 **HABLEMOS CLARO**
-> La DGCE es el «cuadro de mando» de la SES. No manda directamente cada comisaría o comandancia: crea planes comunes, integra estadísticas, inspecciona, conecta cuerpos y administra sistemas transversales. CITCO se concentra en terrorismo y delincuencia organizada o grave; la DGCE cubre coordinación general, estudios, infraestructuras críticas, ciberseguridad y evaluación de servicios.
+:::hablemos-claro
+La DGCE es el «cuadro de mando» de la SES. No manda directamente cada comisaría o comandancia: crea planes comunes, integra estadísticas, inspecciona, conecta cuerpos y administra sistemas transversales. CITCO se concentra en terrorismo y delincuencia organizada o grave; la DGCE cubre coordinación general, estudios, infraestructuras críticas, ciberseguridad y evaluación de servicios.
+:::
 
-> 🎯 **LO QUE CAE**
->
-> - La **Inspección de Personal y Servicios de Seguridad depende de la DGCE** y tiene nivel de subdirección general.
-> - La **ONGADH** depende funcionalmente de esa Inspección.
-> - El **CNPIC** está en la órbita funcional de la DGCE, que auxilia a la SES como responsable superior del sistema.
-> - La **OCC** no es la unidad policial que investiga todos los ciberdelitos: coordina, intercambia información y presta soporte como CSIRT-MIR-PJ.
-> - CITCO y DGCE colaboran en estadísticas, pero CITCO no sustituye a la DGCE como órgano general de coordinación y estudios.
+:::lo-que-cae
+- La **Inspección de Personal y Servicios de Seguridad depende de la DGCE** y tiene nivel de subdirección general.
+- La **ONGADH** depende funcionalmente de esa Inspección.
+- El **CNPIC** está en la órbita funcional de la DGCE, que auxilia a la SES como responsable superior del sistema.
+- La **OCC** no es la unidad policial que investiga todos los ciberdelitos: coordina, intercambia información y presta soporte como CSIRT-MIR-PJ.
+- CITCO y DGCE colaboran en estadísticas, pero CITCO no sustituye a la DGCE como órgano general de coordinación y estudios.
+:::
 
-> 🚔 **EN LA CALLE**
-> Si se necesita comparar datos de criminalidad de Policía Nacional, Guardia Civil y policías territoriales, diseñar una instrucción común y evaluar su ejecución, la DGCE aporta la estructura transversal. Si el problema es una investigación concreta de terrorismo con concurrencia de cuerpos, CITCO puede fijar criterios de coordinación en su ámbito. La clave es la materia y la función, no que ambos órganos «coordinen».
+:::en-la-calle
+Si se necesita comparar datos de criminalidad de Policía Nacional, Guardia Civil y policías territoriales, diseñar una instrucción común y evaluar su ejecución, la DGCE aporta la estructura transversal. Si el problema es una investigación concreta de terrorismo con concurrencia de cuerpos, CITCO puede fijar criterios de coordinación en su ámbito. La clave es la materia y la función, no que ambos órganos «coordinen».
+:::
 
 ### Recuperación activa · Parte 4
 
