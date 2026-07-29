@@ -21,37 +21,786 @@
       "id": "p1",
       "number": 1,
       "title": "Ministerio: competencias, mando y estructura",
-      "blocks": ["01", "02", "03", "04"],
-      "anchor_blocks": ["01"]
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
     },
     {
       "id": "p2",
       "number": 2,
       "title": "Secretaría de Estado de Seguridad: posición y funciones",
-      "blocks": ["05", "06"],
-      "anchor_blocks": ["05"]
+      "blocks": [
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "05"
+      ]
     },
     {
       "id": "p3",
       "number": 3,
       "title": "Núcleo directo de la Secretaría de Estado",
-      "blocks": ["07", "08", "09", "10", "11", "12"],
-      "anchor_blocks": ["07"]
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ]
     },
     {
       "id": "p4",
       "number": 4,
       "title": "Órganos directivos",
-      "blocks": ["13", "14", "15"],
-      "anchor_blocks": ["13"]
+      "blocks": [
+        "13",
+        "14",
+        "15"
+      ],
+      "anchor_blocks": [
+        "13"
+      ]
     },
     {
       "id": "p5",
       "number": 5,
       "title": "Reglas especiales y cierre",
-      "blocks": ["16"],
-      "anchor_blocks": ["16"]
+      "blocks": [
+        "16"
+      ],
+      "anchor_blocks": [
+        "16"
+      ]
     }
   ],
-  "resources": []
+  "resources": [
+    {
+      "id": "t07-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "title": "Audio · Ministerio: competencias, mando y estructura",
+      "filename": "T07-P1-AUDIO-ministerio-competencias-mando-y-estructura.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p01/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "title": "Vídeo · Ministerio: competencias, mando y estructura",
+      "filename": "T07-P1-VIDEO-ministerio-competencias-mando-y-estructura.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p01/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p1-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "title": "Presentación · Ministerio: competencias, mando y estructura",
+      "filename": "T07-P1-PRES-ministerio-competencias-mando-y-estructura.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p01/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p1-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04"
+      ],
+      "title": "Resumen visual · Ministerio: competencias, mando y estructura",
+      "filename": "T07-P1-RESUMEN-ministerio-competencias-mando-y-estructura.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p01/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "05",
+        "06"
+      ],
+      "title": "Audio · Secretaría de Estado de Seguridad: posición y funciones",
+      "filename": "T07-P2-AUDIO-secretaria-de-estado-de-seguridad-posicion.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p02/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "05",
+        "06"
+      ],
+      "title": "Vídeo · Secretaría de Estado de Seguridad: posición y funciones",
+      "filename": "T07-P2-VIDEO-secretaria-de-estado-de-seguridad-posicion.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p02/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p2-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "05",
+        "06"
+      ],
+      "title": "Presentación · Secretaría de Estado de Seguridad: posición y funciones",
+      "filename": "T07-P2-PRES-secretaria-de-estado-de-seguridad-posicion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p02/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p2-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "05",
+        "06"
+      ],
+      "title": "Resumen visual · Secretaría de Estado de Seguridad: posición y funciones",
+      "filename": "T07-P2-RESUMEN-secretaria-de-estado-de-seguridad-posicion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p02/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "title": "Audio · Núcleo directo de la Secretaría de Estado",
+      "filename": "T07-P3-AUDIO-nucleo-directo-de-la-secretaria-de-estado.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p03/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "title": "Vídeo · Núcleo directo de la Secretaría de Estado",
+      "filename": "T07-P3-VIDEO-nucleo-directo-de-la-secretaria-de-estado.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p03/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p3-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "title": "Presentación · Núcleo directo de la Secretaría de Estado",
+      "filename": "T07-P3-PRES-nucleo-directo-de-la-secretaria-de-estado.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p03/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p3-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "title": "Resumen visual · Núcleo directo de la Secretaría de Estado",
+      "filename": "T07-P3-RESUMEN-nucleo-directo-de-la-secretaria-de-estado.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p03/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "13",
+        "14",
+        "15"
+      ],
+      "title": "Audio · Órganos directivos",
+      "filename": "T07-P4-AUDIO-organos-directivos.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p04/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "13",
+        "14",
+        "15"
+      ],
+      "title": "Vídeo · Órganos directivos",
+      "filename": "T07-P4-VIDEO-organos-directivos.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p04/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p4-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "13",
+        "14",
+        "15"
+      ],
+      "title": "Presentación · Órganos directivos",
+      "filename": "T07-P4-PRES-organos-directivos.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p04/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p4-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "13",
+        "14",
+        "15"
+      ],
+      "title": "Resumen visual · Órganos directivos",
+      "filename": "T07-P4-RESUMEN-organos-directivos.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p04/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "16"
+      ],
+      "title": "Audio · Reglas especiales y cierre",
+      "filename": "T07-P5-AUDIO-reglas-especiales-y-cierre.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p05/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "16"
+      ],
+      "title": "Vídeo · Reglas especiales y cierre",
+      "filename": "T07-P5-VIDEO-reglas-especiales-y-cierre.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p05/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p5-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "16"
+      ],
+      "title": "Presentación · Reglas especiales y cierre",
+      "filename": "T07-P5-PRES-reglas-especiales-y-cierre.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p05/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-p5-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "16"
+      ],
+      "title": "Resumen visual · Reglas especiales y cierre",
+      "filename": "T07-P5-RESUMEN-reglas-especiales-y-cierre.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/p05/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-todo-audio",
+      "category": "audios",
+      "scope": "tema",
+      "part_number": null,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "title": "Audio · Tema 7 completo",
+      "filename": "T07-TODO-AUDIO-ministerio-interior.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/tema/audio",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-todo-video",
+      "category": "videos",
+      "scope": "tema",
+      "part_number": null,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "title": "Vídeo · Tema 7 completo",
+      "filename": "T07-TODO-VIDEO-ministerio-interior.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/tema/video",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-todo-pres",
+      "category": "presentaciones",
+      "scope": "tema",
+      "part_number": null,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "title": "Presentación · Tema 7 completo",
+      "filename": "T07-TODO-PRES-ministerio-interior.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/tema/pres",
+        "drive_file_id": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "t07-todo-resumen",
+      "category": "infografias",
+      "scope": "tema",
+      "part_number": null,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "title": "Resumen visual · Tema 7 completo",
+      "filename": "T07-TODO-RESUMEN-ministerio-interior.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-07/tema/resumen",
+        "drive_file_id": "",
+        "url": ""
+      }
+    }
+  ],
+  "scopes": {
+    "parte": "Material de una parte concreta",
+    "tema": "Material que cubre el tema entero"
+  },
+  "nomenclature": {
+    "presentation_tag": "PRES"
+  },
+  "storage_root": {
+    "provider": "google_drive",
+    "folder_id": "",
+    "folder_url": "",
+    "path": "ACADEMIA EN VIGOR / 01 TEMARIO / T07 - Ministerio del Interior"
+  }
 }
