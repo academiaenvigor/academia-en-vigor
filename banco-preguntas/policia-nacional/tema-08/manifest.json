@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "0.9.0",
+  "oposicion": "policia-nacional",
+  "tema": 8,
+  "estado": "draft",
+  "publicacion": "not_published",
+  "total_preguntas": 0,
+  "total_hechos": 0,
+  "hechos_cubiertos": 0,
+  "cobertura_por_hechos": 0.0,
+  "distribucion_respuestas": {
+    "A": 0,
+    "B": 0,
+    "C": 0
+  },
+  "distribucion_dificultad": {},
+  "distribucion_tipo": {},
+  "preguntas_por_bloque": {},
+  "preguntas_por_parte": {},
+  "caracter": {
+    "propias": 0,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-08/master.md",
+  "cobertura": "../../../conocimiento/policia-nacional/tema-08/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-08/plan.json",
+  "official_exam_index": "indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "blocked_until_editorial_approval",
+  "quality_gate": {
+    "status": "blocked",
+    "reasons": [
+      "question_bank_not_started"
+    ],
+    "risk5_second_formulations_pending": 0
+  }
+}
