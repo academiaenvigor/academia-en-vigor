@@ -5,159 +5,17 @@
   "topic_number": 7,
   "topic_title": "El Ministerio del Interior. La Secretaría de Estado de Seguridad",
   "id_prefix": "PN-T07",
-  "status": "ready",
+  "status": "blocked_pending_question_bank",
   "bank": "banco-preguntas/policia-nacional/tema-07/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-07/tests-generados",
   "coverage_tests": {
     "max_questions_per_test": 25,
-    "blocks": [
-      {
-        "number": 1,
-        "title": "Competencias del Ministerio del Interior"
-      },
-      {
-        "number": 2,
-        "title": "Ministro, Gabinete y Oficina de Comunicación"
-      },
-      {
-        "number": 3,
-        "title": "Tres niveles de mando"
-      },
-      {
-        "number": 4,
-        "title": "Estructura orgánica básica vigente"
-      },
-      {
-        "number": 5,
-        "title": "Posición de la Secretaría de Estado de Seguridad"
-      },
-      {
-        "number": 6,
-        "title": "Funciones de la Secretaría de Estado de Seguridad"
-      },
-      {
-        "number": 7,
-        "title": "Mapa de dependencias de la Secretaría de Estado"
-      },
-      {
-        "number": 8,
-        "title": "Gabinete de la Secretaría de Estado"
-      },
-      {
-        "number": 9,
-        "title": "CITCO"
-      },
-      {
-        "number": 10,
-        "title": "Comité Ejecutivo de Coordinación"
-      },
-      {
-        "number": 11,
-        "title": "Subdirecciones generales propias de la Secretaría de Estado"
-      },
-      {
-        "number": 12,
-        "title": "Gerencia de Infraestructuras y Equipamiento"
-      },
-      {
-        "number": 13,
-        "title": "Direcciones Generales de Policía y Guardia Civil"
-      },
-      {
-        "number": 14,
-        "title": "Dirección General de Relaciones Internacionales y Extranjería"
-      },
-      {
-        "number": 15,
-        "title": "Dirección General de Coordinación y Estudios"
-      },
-      {
-        "number": 16,
-        "title": "Disposiciones y reglas de cierre"
-      }
-    ]
+    "blocks": []
   },
   "part_tests": {
     "questions_per_test": 10,
-    "variants": [
-      {
-        "id": "A",
-        "offset": 0
-      },
-      {
-        "id": "B",
-        "offset": 1
-      }
-    ],
-    "parts": [
-      {
-        "code": "P1",
-        "title": "Ministerio: competencias, mando y estructura",
-        "blocks": [
-          1,
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "code": "P2",
-        "title": "Secretaría de Estado: posición y funciones",
-        "blocks": [
-          5,
-          6
-        ]
-      },
-      {
-        "code": "P3",
-        "title": "Núcleo directo de la Secretaría de Estado",
-        "blocks": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "code": "P4",
-        "title": "Órganos directivos de la Secretaría de Estado",
-        "blocks": [
-          13,
-          14,
-          15
-        ]
-      },
-      {
-        "code": "P5",
-        "title": "Disposiciones y reglas de cierre",
-        "blocks": [
-          16
-        ]
-      }
-    ]
+    "variants": [],
+    "parts": []
   },
-  "final_tests": [
-    {
-      "questions": 25,
-      "variant": "A",
-      "offset": 0
-    },
-    {
-      "questions": 25,
-      "variant": "B",
-      "offset": 1
-    },
-    {
-      "questions": 50,
-      "variant": "A",
-      "offset": 0
-    },
-    {
-      "questions": 50,
-      "variant": "B",
-      "offset": 2
-    }
-  ]
+  "final_tests": []
 }

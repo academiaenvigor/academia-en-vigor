@@ -41,6 +41,7 @@ def main() -> None:
         "evaluation_plan",
         "assets",
         "teaching_materials",
+        "official_exam_index",
     )
     for clave in claves_de_ruta:
         ruta = ROOT / topic[clave]

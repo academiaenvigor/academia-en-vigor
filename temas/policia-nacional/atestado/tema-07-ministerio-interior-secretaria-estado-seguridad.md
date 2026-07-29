@@ -47,7 +47,9 @@ El Tema 7 tiene dos núcleos:
 > ⚠️ **ALERTA DEL VIGÍA**
 > La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
 
-<!-- 🎨 WEBP · img/t07-01-mapa-ministerio.webp · organigrama vigente del Ministerio tras el RD 328/2026 -->
+:::visual
+**Recurso visual:** `t07-01-mapa-ministerio.webp` · organigrama vigente del Ministerio tras el Real Decreto 328/2026.
+:::
 
 ## Estrategia de estudio
 
@@ -91,6 +93,10 @@ El Ministerio del Interior propone y ejecuta la política del Gobierno en estas 
 > 💡 **HABLEMOS CLARO**
 > Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
 
+:::visual
+**Ilustración didáctica:** `t07-il-01-interior-no-es-solo-policia.webp` · los seis grandes ámbitos del Ministerio del Interior.
+:::
+
 ## 2. La persona titular del Ministerio y su asistencia inmediata
 
 La persona titular del Ministerio:
@@ -117,7 +123,13 @@ Dependen de ella dos piezas que no deben confundirse:
 | 2 | **Secretario de Estado de Seguridad** | **Ejercicio del mando** de las Fuerzas y Cuerpos de Seguridad del Estado. |
 | 3 | **Director General de la Policía / Guardia Civil** | **Mando directo** del Cuerpo correspondiente. |
 
-<!-- 🎨 WEBP · img/t07-02-tres-niveles-mando.webp · Ministro, SES y directores generales con los tres verbos competenciales -->
+:::visual
+**Recurso visual:** `t07-02-tres-niveles-mando.webp` · Ministro, SES y direcciones generales con los tres verbos competenciales.
+:::
+
+:::visual
+**Ilustración didáctica:** `t07-il-02-la-escalera-del-mando.webp` · regla mnemotécnica de los tres peldaños del mando.
+:::
 
 > 🎯 **LO QUE CAE**
 > La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
@@ -173,7 +185,9 @@ Desde el **27 de abril de 2026**:
 > 🎯 **LO QUE CAE**
 > Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
 
-<!-- 🎨 WEBP · img/t07-03-cambio-proteccion-civil-2026.webp · antes y después de la reforma de abril de 2026 -->
+:::visual
+**Recurso visual:** `t07-03-cambio-proteccion-civil-2026.webp` · antes y después de la reforma de abril de 2026.
+:::
 
 ## Recuperación activa · Parte 1
 
@@ -233,7 +247,13 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 - Mandar la participación española en la Guardia Europea de Fronteras y Costas.
 - Mantener las relaciones con la Agencia Europea de la Guardia de Fronteras y Costas.
 
-<!-- 🎨 WEBP · img/t07-04-funciones-ses.webp · seis bloques visuales de funciones de la SES -->
+:::visual
+**Recurso visual:** `t07-04-funciones-ses.webp` · seis bloques visuales para ordenar las funciones de la SES.
+:::
+
+:::visual
+**Ilustración didáctica:** `t07-il-03-ses-torre-de-control.webp` · la SES como torre de control que coordina, supervisa e integra.
+:::
 
 > 💡 **HABLEMOS CLARO**
 > La SES no sustituye a las Direcciones Generales. Marca dirección común, coordina, supervisa y asume sistemas transversales que afectan a varios cuerpos: cooperación internacional, fronteras, infraestructuras críticas, ciberseguridad o PNR. La idea que debe quedar es: **la SES integra la política de seguridad que no puede gestionarse como compartimentos policiales aislados**.
@@ -265,7 +285,9 @@ Dependen o se integran en el entorno inmediato de la persona titular de la SES:
 6. Organismo autónomo **Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado**, adscrito a la SES.
 7. Los cuatro órganos directivos: DGP, DGGC, DGRIE y DGCE.
 
-<!-- 🎨 WEBP · img/t07-05-estructura-ses.webp · mapa radial de dependencias de la SES -->
+:::visual
+**Recurso visual:** `t07-05-estructura-ses.webp` · mapa de dependencias directas y órganos directivos de la SES.
+:::
 
 ## 8. Gabinete de la SES
 
@@ -307,7 +329,13 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 - punto nacional de contacto sobre localización y recuperación de activos (**ORA**);
 - punto de contacto nacional para precursores de explosivos.
 
-<!-- 🎨 WEBP · img/t07-06-citco.webp · CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL -->
+:::visual
+**Recurso visual:** `t07-06-citco.webp` · CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL.
+:::
+
+:::visual
+**Ilustración didáctica:** `t07-il-04-citco-no-es-una-comisaria.webp` · CITCO integra, analiza y coordina sin ejercer el mando operativo general.
+:::
 
 > 💡 **HABLEMOS CLARO**
 > CITCO no es una comisaría general ni una unidad de la Policía Nacional. Es un centro de la SES que trabaja sobre información procedente de distintos actores, genera inteligencia estratégica y coordina concurrencias. **No confundir inteligencia estratégica con dirección ordinaria de todas las investigaciones**.
@@ -376,6 +404,10 @@ Se ocupa del soporte **digital y de comunicaciones**:
 - bajo dependencia funcional de la Subsecretaría, ejerce determinadas funciones comunes TIC previstas en el artículo 9.3.
 
 **Regla de memoria:** **piedra y píxel**. La primera gestiona inmuebles y medios; la segunda, información y comunicaciones.
+
+:::visual
+**Ilustración didáctica:** `t07-il-05-piedra-y-pixel.webp` · contraste entre infraestructuras y medios frente a información y comunicaciones.
+:::
 
 > 💡 **HABLEMOS CLARO**
 > Las dos subdirecciones no compran y operan todo por sí solas. Planifican, proponen, coordinan o gestionan dentro de los créditos y encargos de la SES, respetando las competencias propias de Policía, Guardia Civil, la Gerencia y otros órganos. En un test, los verbos absolutos —«asume en exclusiva», «dirige todos los sistemas»— son sospechosos.
@@ -481,7 +513,13 @@ Entre sus funciones:
 - promover integridad profesional y deontológica;
 - dirigir la **Oficina Nacional de Garantías de los Derechos Humanos (ONGADH)**.
 
-<!-- 🎨 WEBP · img/t07-07-dgce.webp · ocho áreas de la DGCE y la Inspección con la ONGADH -->
+:::visual
+**Recurso visual:** `t07-07-dgce.webp` · ocho áreas de la DGCE y la Inspección con la ONGADH.
+:::
+
+:::visual
+**Ilustración didáctica:** `t07-il-06-dgce-cuadro-de-mando.webp` · la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.
+:::
 
 > 💡 **HABLEMOS CLARO**
 > La DGCE es el «cuadro de mando» de la SES. No manda directamente cada comisaría o comandancia: crea planes comunes, integra estadísticas, inspecciona, conecta cuerpos y administra sistemas transversales. CITCO se concentra en terrorismo y delincuencia organizada o grave; la DGCE cubre coordinación general, estudios, infraestructuras críticas, ciberseguridad y evaluación de servicios.
