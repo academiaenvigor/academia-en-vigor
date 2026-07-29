@@ -222,6 +222,30 @@
           "official_exam_mapped": 27,
           "official_exam_verified": 27,
           "ha_caido_active": 0
+        },
+        {
+          "number": 10,
+          "slug": "entrada-libre-circulacion-derechos-autorizaciones-extranjeria",
+          "title": "Entrada, libre circulación, derechos y autorizaciones de extranjería",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-10/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-10-entrada-libre-circulacion-derechos-autorizaciones-extranjeria.md",
+          "atestado": "temas/policia-nacional/atestado/tema-10-entrada-libre-circulacion-derechos-autorizaciones-extranjeria.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-10/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-10/plan.json",
+          "assets": "assets/policia-nacional/tema-10/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-10/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-10/indice-oficiales.json",
+          "visual_version": "1.0.0",
+          "visual_assets": 26,
+          "visual_planned": 0,
+          "atomic_facts": 187,
+          "question_count": 299,
+          "official_exam_mapped": 29,
+          "official_exam_verified": 29,
+          "ha_caido_active": 0
         }
       ]
     }

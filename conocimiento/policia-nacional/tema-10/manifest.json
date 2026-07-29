@@ -1,0 +1,80 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-10",
+  "topic_number": 10,
+  "slug": "entrada-libre-circulacion-derechos-autorizaciones-extranjeria",
+  "title": "Entrada, libre circulación, derechos y autorizaciones de extranjería",
+  "content_version": "1.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-07-29",
+  "source_file": "conocimiento/policia-nacional/tema-10/master.md",
+  "source_rights": {
+    "third_party_document_used_as": "coverage_checklist_only",
+    "third_party_text_reused": false,
+    "official_sources_only_for_legal_content": true
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-10-entrada-libre-circulacion-derechos-autorizaciones-extranjeria.md",
+    "atestado": "temas/policia-nacional/atestado/tema-10-entrada-libre-circulacion-derechos-autorizaciones-extranjeria.md"
+  },
+  "semantic_blocks": 40,
+  "atomic_facts": 187,
+  "master_statements": 187,
+  "coverage_file": "conocimiento/policia-nacional/tema-10/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "DIR2004-38-T10",
+    "RD240-2007-T10",
+    "LO4-2000-T10",
+    "RD1155-2024-T10",
+    "RUE2016-399-T10",
+    "RUE2018-1806-T10"
+  ],
+  "official_exam_items": 29,
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-10/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrative_explained",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-10/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-10/manifest.json",
+    "questions": 299,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-10/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-10/manifest.json",
+    "total": 26,
+    "planned": 0
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-10/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-07-29",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-10/revision-1.0.md"
+  },
+  "pedagogical_version": "1.0.0",
+  "visual_version": "1.0.0"
+}

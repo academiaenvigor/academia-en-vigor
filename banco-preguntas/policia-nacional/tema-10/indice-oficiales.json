@@ -1,0 +1,581 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 10,
+  "titulo": "Entrada, libre circulación, derechos y autorizaciones de extranjería",
+  "generated_at": "2026-07-29",
+  "mapping_method": "manual_editorial_review",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "verificada_por_autor_no_plantilla_oficial",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "El mapeo acredita coincidencias temáticas históricas. Las respuestas fueron revisadas por la academia, no proceden de una plantilla oficial final y permanecen ocultas.",
+  "total_referencias": 29,
+  "con_bloque_asignado": 29,
+  "con_respuesta_verificada": 29,
+  "por_bloque": {
+    "2": 1,
+    "3": 2,
+    "6": 2,
+    "11": 2,
+    "15": 1,
+    "16": 1,
+    "18": 1,
+    "21": 1,
+    "26": 3,
+    "28": 1,
+    "30": 1,
+    "31": 3,
+    "33": 2,
+    "34": 3,
+    "36": 2,
+    "37": 1,
+    "39": 1,
+    "40": 2
+  },
+  "por_promocion": {
+    "XL": 3,
+    "XLI": 2,
+    "XLII": 2,
+    "XXXIII": 2,
+    "XXXIV": 4,
+    "XXXIX": 4,
+    "XXXV": 4,
+    "XXXVI": 3,
+    "XXXVII": 2,
+    "XXXVIII": 3
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q022",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 22,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "PN-T10-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p33-a-q023",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 23,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "PN-T10-F010"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p34-a-q053",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 53,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "PN-T10-F134"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p34-a-q054",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 54,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T10-F029"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p34-a-q055",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 55,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "PN-T10-F148"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p34-a-q057",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 57,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "PN-T10-F047"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p35-a-q060",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 60,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "PN-T10-F080"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p35-a-q063",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 63,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "PN-T10-F178"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p35-a-q077",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 77,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "PN-T10-F186"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p35-a-q086",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 86,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "PN-T10-F069"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p36-a-q007",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 7,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "PN-T10-F115"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p36-a-q030",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 30,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T10-F029"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p36-a-q084",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 84,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "PN-T10-F095"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p37-a-q035",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 35,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "PN-T10-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p37-a-q084",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 84,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "PN-T10-F047"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p38-a-q026",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 26,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "PN-T10-F184"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p38-a-q029",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 29,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T10-F139"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p38-a-q030",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 30,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "PN-T10-F115"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q019",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 19,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "PN-T10-F168",
+        "PN-T10-F169"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q020",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 20,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "PN-T10-F115"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q024",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 24,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "PN-T10-F009"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q035",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 35,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "PN-T10-F012"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q004",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 4,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T10-F142"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q035",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 35,
+      "block_refs": [
+        28,
+        31
+      ],
+      "fact_refs": [
+        "PN-T10-F127",
+        "PN-T10-F139"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q070",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 70,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T10-F073"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "A",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p41-a-q043",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 43,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "PN-T10-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p41-a-q046",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 46,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T10-F163",
+        "PN-T10-F166"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "B",
+      "rule_status_2026": "historical_rule_changed",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p42-a-q042",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 42,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T10-F164"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p42-a-q060",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 60,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "PN-T10-F148"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "respuesta": "C",
+      "rule_status_2026": "current",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    }
+  ]
+}

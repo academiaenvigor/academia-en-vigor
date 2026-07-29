@@ -1,0 +1,289 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 10,
+  "topic_title": "Entrada, libre circulación, derechos y autorizaciones de extranjería",
+  "id_prefix": "PN-T10",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-10/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-10/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "El mapa normativo: ciudadanía de la Unión, EEE y régimen general"
+      },
+      {
+        "number": 2,
+        "title": "Familiares incluidos y familia extensa"
+      },
+      {
+        "number": 3,
+        "title": "Entrada y salida de beneficiarios del régimen europeo"
+      },
+      {
+        "number": 4,
+        "title": "Permanencia inferior y superior a tres meses"
+      },
+      {
+        "number": 5,
+        "title": "Registro del ciudadano y tarjeta del familiar"
+      },
+      {
+        "number": 6,
+        "title": "Conservación y residencia permanente"
+      },
+      {
+        "number": 7,
+        "title": "Expedición y prueba del derecho permanente"
+      },
+      {
+        "number": 8,
+        "title": "Trabajo, igualdad de trato y trámites"
+      },
+      {
+        "number": 9,
+        "title": "Limitaciones por orden público, seguridad y salud"
+      },
+      {
+        "number": 10,
+        "title": "Titularidad de derechos e interpretación"
+      },
+      {
+        "number": 11,
+        "title": "Circulación, participación, reunión y asociación"
+      },
+      {
+        "number": 12,
+        "title": "Educación, trabajo, sindicación y huelga"
+      },
+      {
+        "number": 13,
+        "title": "Salud, vivienda, prestaciones y transferencias"
+      },
+      {
+        "number": 14,
+        "title": "Vida familiar y reagrupación"
+      },
+      {
+        "number": 15,
+        "title": "Garantías jurídicas y asistencia letrada"
+      },
+      {
+        "number": 16,
+        "title": "Actos discriminatorios y tutela"
+      },
+      {
+        "number": 17,
+        "title": "Política migratoria e integración social"
+      },
+      {
+        "number": 18,
+        "title": "Fronteras y forma de entrada"
+      },
+      {
+        "number": 19,
+        "title": "Documentos de viaje, visado y autorización de regreso"
+      },
+      {
+        "number": 20,
+        "title": "Justificación del viaje, medios económicos y sanidad"
+      },
+      {
+        "number": 21,
+        "title": "Prohibición y denegación de entrada"
+      },
+      {
+        "number": 22,
+        "title": "Declaración y registro de entrada"
+      },
+      {
+        "number": 23,
+        "title": "Obligaciones de las compañías transportistas"
+      },
+      {
+        "number": 24,
+        "title": "Salida voluntaria y control de salida"
+      },
+      {
+        "number": 25,
+        "title": "Prohibiciones de salida"
+      },
+      {
+        "number": 26,
+        "title": "Devolución: supuestos y garantías"
+      },
+      {
+        "number": 27,
+        "title": "Salidas obligatorias"
+      },
+      {
+        "number": 28,
+        "title": "Situaciones: tránsito, estancia y residencia"
+      },
+      {
+        "number": 29,
+        "title": "Estancia de corta duración y regla 90/180"
+      },
+      {
+        "number": 30,
+        "title": "Prórroga de estancia corta"
+      },
+      {
+        "number": 31,
+        "title": "Estancia de larga duración por estudios y formación"
+      },
+      {
+        "number": 32,
+        "title": "Estancia excepcional con entrada o documentación irregular"
+      },
+      {
+        "number": 33,
+        "title": "Residencia temporal: concepto y grandes modalidades"
+      },
+      {
+        "number": 34,
+        "title": "Residencia y trabajo"
+      },
+      {
+        "number": 35,
+        "title": "Familiares de personas con nacionalidad española"
+      },
+      {
+        "number": 36,
+        "title": "Circunstancias excepcionales y cinco arraigos"
+      },
+      {
+        "number": 37,
+        "title": "Víctimas y colaboración con autoridades"
+      },
+      {
+        "number": 38,
+        "title": "Razones humanitarias y otras circunstancias excepcionales"
+      },
+      {
+        "number": 39,
+        "title": "Residencia de larga duración-UE y nacional"
+      },
+      {
+        "number": 40,
+        "title": "Documentación: NIE, TIE y deberes"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Ciudadanía de la Unión y régimen UE/EEE",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Derechos, libertades e integración social",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Entrada en territorio español",
+        "blocks": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Salida, devolución y salidas obligatorias",
+        "blocks": [
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Autorizaciones de estancia",
+        "blocks": [
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Autorizaciones de residencia",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

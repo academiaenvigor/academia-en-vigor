@@ -1,0 +1,460 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-10",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 26,
+    "integrated": 26,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-29",
+  "resources": [
+    {
+      "id": "PN-T10-DG01",
+      "file": "t10-01-mapa-general.webp",
+      "title": "Mapa general del Tema 10 como viaje entre seis distritos jurídicos",
+      "type": "infografia",
+      "placement": "Mapa del tema",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general del Tema 10 como viaje entre seis distritos jurídicos. Familia compositiva: mapa urbano radial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG02",
+      "file": "t10-02-familia-regimen-ue.webp",
+      "title": "Árbol familiar situado alrededor de un pasaporte europeo, con núcleo familiar y familia extensa en dos anillos",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Árbol familiar situado alrededor de un pasaporte europeo, con núcleo familiar y familia extensa en dos anillos. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG03",
+      "file": "t10-il-01-frontera-dos-pasaportes.webp",
+      "title": "Escena de frontera con dos viajeros, documento de identidad europeo y pasaporte de familiar extracomunitario",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena de frontera con dos viajeros, documento de identidad europeo y pasaporte de familiar extracomunitario. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG04",
+      "file": "t10-04-reloj-tres-meses.webp",
+      "title": "Gran reloj de noventa días que se abre en dos caminos: permanencia corta y residencia superior a tres meses",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Gran reloj de noventa días que se abre en dos caminos: permanencia corta y residencia superior a tres meses. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG05",
+      "file": "t10-06-camino-residencia-permanente.webp",
+      "title": "Camino de cinco hitos con interrupciones permitidas y una puerta final de residencia permanente",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Camino de cinco hitos con interrupciones permitidas y una puerta final de residencia permanente. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG06",
+      "file": "t10-il-02-escudo-limites-ue.webp",
+      "title": "Viajero ante un escudo con tres sectores: orden público, seguridad pública y salud pública",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Viajero ante un escudo con tres sectores: orden público, seguridad pública y salud pública. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG07",
+      "file": "t10-10-mapa-derechos-extranjeros.webp",
+      "title": "Plaza pública con escenas de educación, trabajo, salud, reunión, justicia y vida familiar conectadas",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Plaza pública con escenas de educación, trabajo, salud, reunión, justicia y vida familiar conectadas. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG08",
+      "file": "t10-il-03-puente-reagrupacion.webp",
+      "title": "Familia cruzando un puente documental entre país de origen y residencia en España",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Familia cruzando un puente documental entre país de origen y residencia en España. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG09",
+      "file": "t10-15-ruta-garantias.webp",
+      "title": "Expediente que atraviesa cinco estaciones: audiencia, motivación, recurso, asistencia letrada e intérprete",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Expediente que atraviesa cinco estaciones: audiencia, motivación, recurso, asistencia letrada e intérprete. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG10",
+      "file": "t10-il-04-plaza-integracion.webp",
+      "title": "Plaza cívica con escuela, centro de salud, empleo y asociaciones conectadas por caminos",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Plaza cívica con escuela, centro de salud, empleo y asociaciones conectadas por caminos. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG11",
+      "file": "t10-17-viaje-entrada-regular.webp",
+      "title": "Recorrido de un viajero desde el transporte hasta el sello de entrada, con cinco controles visuales",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recorrido de un viajero desde el transporte hasta el sello de entrada, con cinco controles visuales. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG12",
+      "file": "t10-18-mesa-documental.webp",
+      "title": "Mesa de control con pasaporte, visado, tarjeta y autorización de regreso unidos a sus funciones",
+      "type": "infografia",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mesa de control con pasaporte, visado, tarjeta y autorización de regreso unidos a sus funciones. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG13",
+      "file": "t10-il-05-maleta-requisitos.webp",
+      "title": "Maleta abierta con alojamiento, billete de regreso, recursos, seguro y motivo del viaje",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Maleta abierta con alojamiento, billete de regreso, recursos, seguro y motivo del viaje. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG14",
+      "file": "t10-20-bifurcacion-frontera.webp",
+      "title": "Control fronterizo que se bifurca entre admisión y denegación motivada, con ruta de recurso y retorno",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Control fronterizo que se bifurca entre admisión y denegación motivada, con ruta de recurso y retorno. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG15",
+      "file": "t10-23-puerta-salida.webp",
+      "title": "Puerta de salida con tres carriles: voluntaria, obligatoria y prohibida temporalmente",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Puerta de salida con tres carriles: voluntaria, obligatoria y prohibida temporalmente. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG16",
+      "file": "t10-il-06-semáforo-salida.webp",
+      "title": "Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 25",
+      "status": "integrated_webp",
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG17",
+      "file": "t10-25-dos-supuestos-devolucion.webp",
+      "title": "Dos rutas que desembocan en devolución: incumplimiento de prohibición y entrada irregular interceptada",
+      "type": "infografia",
+      "placement": "Bloque 26",
+      "status": "integrated_webp",
+      "block": 26,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Dos rutas que desembocan en devolución: incumplimiento de prohibición y entrada irregular interceptada. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG18",
+      "file": "t10-27-metro-situaciones.webp",
+      "title": "Mapa de metro con líneas de tránsito, estancia corta, estancia larga y residencia",
+      "type": "infografia",
+      "placement": "Bloque 28",
+      "status": "integrated_webp",
+      "block": 28,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa de metro con líneas de tránsito, estancia corta, estancia larga y residencia. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG19",
+      "file": "t10-28-calendario-90-180.webp",
+      "title": "Calendario móvil de 180 días con 90 fichas de estancia distribuidas",
+      "type": "infografia",
+      "placement": "Bloque 29",
+      "status": "integrated_webp",
+      "block": 29,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Calendario móvil de 180 días con 90 fichas de estancia distribuidas. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG20",
+      "file": "t10-il-07-campus-movilidad.webp",
+      "title": "Campus con estudiante, laboratorio, voluntariado y flechas de movilidad europea",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Campus con estudiante, laboratorio, voluntariado y flechas de movilidad europea. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG21",
+      "file": "t10-31-arbol-residencia-temporal.webp",
+      "title": "Árbol de autorizaciones con ramas no lucrativa, reagrupación, trabajo, excepción y familiar de español",
+      "type": "infografia",
+      "placement": "Bloque 33",
+      "status": "integrated_webp",
+      "block": 33,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Árbol de autorizaciones con ramas no lucrativa, reagrupación, trabajo, excepción y familiar de español. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG22",
+      "file": "t10-33-tres-regimenes-familia.webp",
+      "title": "Tres puertas familiares diferenciadas: familiar UE, familiar de español y reagrupación general",
+      "type": "infografia",
+      "placement": "Bloque 35",
+      "status": "integrated_webp",
+      "block": 35,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres puertas familiares diferenciadas: familiar UE, familiar de español y reagrupación general. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG23",
+      "file": "t10-34-cinco-raices-arraigo.webp",
+      "title": "Árbol con cinco raíces rotuladas: segunda oportunidad, sociolaboral, social, socioformativo y familiar",
+      "type": "infografia",
+      "placement": "Bloque 36",
+      "status": "integrated_webp",
+      "block": 36,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Árbol con cinco raíces rotuladas: segunda oportunidad, sociolaboral, social, socioformativo y familiar. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG24",
+      "file": "t10-il-08-red-proteccion.webp",
+      "title": "Persona protegida por una red coordinada de policía, justicia, asistencia social y autorización documental",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 37",
+      "status": "integrated_webp",
+      "block": 37,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Persona protegida por una red coordinada de policía, justicia, asistencia social y autorización documental. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG25",
+      "file": "t10-37-doble-larga-duracion.webp",
+      "title": "Dos credenciales indefinidas conectadas: larga duración-UE con movilidad y larga duración nacional",
+      "type": "infografia",
+      "placement": "Bloque 39",
+      "status": "integrated_webp",
+      "block": 39,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Dos credenciales indefinidas conectadas: larga duración-UE con movilidad y larga duración nacional. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T10-DG26",
+      "file": "t10-38-nie-tie-pasaporte.webp",
+      "title": "Tres objetos separados y conectados a su función: número NIE, tarjeta TIE y pasaporte",
+      "type": "infografia",
+      "placement": "Bloque 40",
+      "status": "integrated_webp",
+      "block": 40,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres objetos separados y conectados a su función: número NIE, tarjeta TIE y pasaporte. Familia compositiva: dirección individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}
