@@ -1,0 +1,41 @@
+{
+  "id": "PN-T08-B26-B",
+  "titulo": "Tema 8 · Bloque 26: Sanciones, competencia y prescripción · Test B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      26
+    ]
+  },
+  "numero_preguntas": 1,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q347",
+      "fact_id": "PN-T08-F178",
+      "bloque": 26,
+      "concepto": "Restricción tras traslado",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Restricción tras traslado». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Exactamente cinco años en todo caso.",
+        "B": "De uno a seis meses.",
+        "C": "De uno a tres años, según determine la resolución."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q347",
+      "respuesta_correcta": "C",
+      "explicacion": "La resolución sancionadora fija un período de uno a tres años.",
+      "fact_id": "PN-T08-F178",
+      "articulo": "Ley Orgánica 4/2010"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

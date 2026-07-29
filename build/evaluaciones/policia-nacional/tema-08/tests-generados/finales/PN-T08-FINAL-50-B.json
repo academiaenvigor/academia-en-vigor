@@ -1,0 +1,1146 @@
+{
+  "id": "PN-T08-FINAL-50-B",
+  "titulo": "Tema 8 · La Dirección General de la Policía y la Policía Nacional · Test final B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_final",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  "numero_preguntas": 50,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q004",
+      "fact_id": "PN-T08-F002",
+      "bloque": 1,
+      "concepto": "Rango del titular",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Rango del titular». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Rango de subsecretario.",
+        "B": "Rango de secretario de Estado.",
+        "C": "Rango de director general sin equivalencia orgánica."
+      }
+    },
+    {
+      "id": "PN-T08-Q002",
+      "fact_id": "PN-T08-F001",
+      "bloque": 1,
+      "concepto": "Naturaleza de la DGP",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Naturaleza de la DGP». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Es un órgano superior con rango de secretaría de Estado.",
+        "B": "Es una unidad operativa dependiente del Gabinete Técnico.",
+        "C": "Es un órgano directivo del Ministerio del Interior."
+      }
+    },
+    {
+      "id": "PN-T08-Q016",
+      "fact_id": "PN-T08-F009",
+      "bloque": 2,
+      "concepto": "Comisarías Generales",
+      "articulo": "Orden INT/859/2023, arts. 1 y 2",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Comisarías Generales». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "De la Dirección Adjunta Operativa.",
+        "B": "Directamente del Ministro del Interior.",
+        "C": "De Recursos Humanos y Formación."
+      }
+    },
+    {
+      "id": "PN-T08-Q011",
+      "fact_id": "PN-T08-F007",
+      "bloque": 2,
+      "concepto": "Cuatro órganos centrales",
+      "articulo": "Orden INT/859/2023, arts. 1 y 2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es la relación completa de órganos con nivel de subdirección general en la organización central?",
+      "opciones": {
+        "A": "DAO, Cooperación Internacional, Policía Judicial y Gabinete Técnico.",
+        "B": "Recursos Humanos, División de Personal, División de Documentación y DAO.",
+        "C": "DAO, Recursos Humanos y Formación, Logística e Innovación y Gabinete Técnico."
+      }
+    },
+    {
+      "id": "PN-T08-Q025",
+      "fact_id": "PN-T08-F015",
+      "bloque": 3,
+      "concepto": "Unidad Nacional EUROPOL",
+      "articulo": "Orden INT/859/2023, art. 2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué órgano enlaza a las autoridades nacionales con la Agencia de la Unión Europea para la cooperación policial?",
+      "opciones": {
+        "A": "La Unidad Nacional de EUROPOL.",
+        "B": "La OCN INTERPOL.",
+        "C": "La Unidad de Planificación Estratégica."
+      }
+    },
+    {
+      "id": "PN-T08-Q023",
+      "fact_id": "PN-T08-F014",
+      "bloque": 3,
+      "concepto": "OCN INTERPOL",
+      "articulo": "Orden INT/859/2023, art. 2",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué órgano es interlocutor con la Secretaría General de INTERPOL?",
+      "opciones": {
+        "A": "La Unidad Nacional de EUROPOL.",
+        "B": "La Oficina SIRENE.",
+        "C": "La Oficina Central Nacional de INTERPOL."
+      }
+    },
+    {
+      "id": "PN-T08-Q037",
+      "fact_id": "PN-T08-F021",
+      "bloque": 4,
+      "concepto": "Secretaría General DAO",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Secretaría General DAO». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Con una Secretaría General.",
+        "B": "Con una Oficina SIRENE.",
+        "C": "Con un Consejo Asesor independiente."
+      }
+    },
+    {
+      "id": "PN-T08-Q032",
+      "fact_id": "PN-T08-F019",
+      "bloque": 4,
+      "concepto": "Misión de la DAO",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es la misión general de la Dirección Adjunta Operativa?",
+      "opciones": {
+        "A": "Gestionar exclusivamente retribuciones y expedientes personales.",
+        "B": "Expedir DNI y pasaportes.",
+        "C": "Colaborar en la dirección, coordinación y supervisión de las unidades operativas."
+      }
+    },
+    {
+      "id": "PN-T08-Q046",
+      "fact_id": "PN-T08-F026",
+      "bloque": 5,
+      "concepto": "Unidad Aérea",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dos áreas incluye la Unidad Aérea de la Policía?",
+      "opciones": {
+        "A": "Medios Aéreos y Seguridad y Protección Aérea.",
+        "B": "Helicópteros y Aeropuertos Fronterizos.",
+        "C": "Aviación Civil y Control Aduanero."
+      }
+    },
+    {
+      "id": "PN-T08-Q044",
+      "fact_id": "PN-T08-F025",
+      "bloque": 5,
+      "concepto": "Coordinación operativa",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué área de la División de Operaciones y Transformación Digital coordina la actividad operativa?",
+      "opciones": {
+        "A": "El Área de Retribuciones.",
+        "B": "El Área de Tratamiento Documental.",
+        "C": "El Área de Coordinación Operativa."
+      }
+    },
+    {
+      "id": "PN-T08-Q058",
+      "fact_id": "PN-T08-F032",
+      "bloque": 6,
+      "concepto": "Áreas de Planificación",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué áreas dependen de la Unidad de Planificación Estratégica y Coordinación?",
+      "opciones": {
+        "A": "Seguimiento, Inteligencia y Coordinación; y Planificación y Prospectiva.",
+        "B": "Personal; y Retribuciones.",
+        "C": "Criminalística; y Documentación."
+      }
+    },
+    {
+      "id": "PN-T08-Q056",
+      "fact_id": "PN-T08-F031",
+      "bloque": 6,
+      "concepto": "Inteligencia criminal",
+      "articulo": "Orden INT/859/2023, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué órgano trabaja estadística delincuencial, inteligencia criminal y prospectiva?",
+      "opciones": {
+        "A": "La Unidad Nacional de EUROPOL.",
+        "B": "La Oficina de Comunicación.",
+        "C": "La Unidad de Planificación Estratégica y Coordinación."
+      }
+    },
+    {
+      "id": "PN-T08-Q070",
+      "fact_id": "PN-T08-F038",
+      "bloque": 7,
+      "concepto": "Relación de Comisarías",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Relación de Comisarías». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Información, Policía Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Policía Científica.",
+        "B": "Información, Tráfico, Protección Civil, Policía Judicial y Documentación.",
+        "C": "Policía Judicial, Personal, Logística, Científica y Cooperación Internacional."
+      }
+    },
+    {
+      "id": "PN-T08-Q068",
+      "fact_id": "PN-T08-F037",
+      "bloque": 7,
+      "concepto": "Número de Comisarías Generales",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Número de Comisarías Generales». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Cuatro.",
+        "B": "Seis.",
+        "C": "Cinco."
+      }
+    },
+    {
+      "id": "PN-T08-Q082",
+      "fact_id": "PN-T08-F044",
+      "bloque": 8,
+      "concepto": "Antiterrorismo",
+      "articulo": "Orden INT/859/2023, art. 4",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Antiterrorismo». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Antiterrorismo.",
+        "B": "Contratación pública.",
+        "C": "Formación de ingreso."
+      }
+    },
+    {
+      "id": "PN-T08-Q080",
+      "fact_id": "PN-T08-F043",
+      "bloque": 8,
+      "concepto": "Misión de Información",
+      "articulo": "Orden INT/859/2023, art. 4",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Misión de Información». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Gestionar retribuciones y destinos.",
+        "B": "Expedir documentos de identidad.",
+        "C": "Captar, tratar y utilizar operativamente información de interés para el orden y la seguridad pública."
+      }
+    },
+    {
+      "id": "PN-T08-Q091",
+      "fact_id": "PN-T08-F049",
+      "bloque": 9,
+      "concepto": "UDEF",
+      "articulo": "Orden INT/859/2023, art. 5",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «UDEF». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Delincuencia económica y fiscal.",
+        "B": "Terrorismo y radicalización.",
+        "C": "Seguridad privada y participación ciudadana."
+      }
+    },
+    {
+      "id": "PN-T08-Q086",
+      "fact_id": "PN-T08-F047",
+      "bloque": 9,
+      "concepto": "Ámbito Policía Judicial",
+      "articulo": "Orden INT/859/2023, art. 5",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué caracteriza el ámbito de la Comisaría General de Policía Judicial?",
+      "opciones": {
+        "A": "Gestiona exclusivamente delitos leves de ámbito local.",
+        "B": "Se limita a elaborar pericias sin investigar.",
+        "C": "Investiga infracciones supraterritoriales y delincuencia organizada, económica, tecnológica y violenta."
+      }
+    },
+    {
+      "id": "PN-T08-Q103",
+      "fact_id": "PN-T08-F055",
+      "bloque": 10,
+      "concepto": "Especialidades Seguridad Ciudadana",
+      "articulo": "Orden INT/859/2023, arts. 6 y 7",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Especialidades Seguridad Ciudadana». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Prevención y reacción, protección, seguridad privada y participación ciudadana.",
+        "B": "Retribuciones, archivos y formación selectiva.",
+        "C": "Drogas, blanqueo y ciberdelincuencia."
+      }
+    },
+    {
+      "id": "PN-T08-Q101",
+      "fact_id": "PN-T08-F054",
+      "bloque": 10,
+      "concepto": "Misión Seguridad Ciudadana",
+      "articulo": "Orden INT/859/2023, arts. 6 y 7",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Misión Seguridad Ciudadana». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Investigar exclusivamente delitos fiscales.",
+        "B": "Gestionar pasaportes y archivos.",
+        "C": "Prevenir, mantener y, en su caso, restablecer el orden y la seguridad ciudadana."
+      }
+    },
+    {
+      "id": "PN-T08-Q121",
+      "fact_id": "PN-T08-F064",
+      "bloque": 11,
+      "concepto": "Criminalística",
+      "articulo": "Orden INT/859/2023, art. 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Criminalística». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "La Unidad Central de Criminalística.",
+        "B": "La UDEF Central.",
+        "C": "La División de Documentación."
+      }
+    },
+    {
+      "id": "PN-T08-Q116",
+      "fact_id": "PN-T08-F062",
+      "bloque": 11,
+      "concepto": "Misión Policía Científica",
+      "articulo": "Orden INT/859/2023, art. 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué servicios presta Policía Científica?",
+      "opciones": {
+        "A": "Seguridad privada, participación y protección.",
+        "B": "Selección, formación y promoción interna.",
+        "C": "Criminalística, identificación, analítica e investigación técnica."
+      }
+    },
+    {
+      "id": "PN-T08-Q130",
+      "fact_id": "PN-T08-F069",
+      "bloque": 12,
+      "concepto": "Prevención y acción social",
+      "articulo": "Orden INT/859/2023, art. 9",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Prevención y acción social». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "En Recursos Humanos y Formación.",
+        "B": "En Logística e Innovación.",
+        "C": "En la DAO."
+      }
+    },
+    {
+      "id": "PN-T08-Q125",
+      "fact_id": "PN-T08-F067",
+      "bloque": 12,
+      "concepto": "Misión Recursos Humanos",
+      "articulo": "Orden INT/859/2023, art. 9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dirige Recursos Humanos y Formación?",
+      "opciones": {
+        "A": "Presupuesto, automoción, armamento y documentación.",
+        "B": "Investigación judicial y seguridad ciudadana.",
+        "C": "Personal, selección, formación, prevención de riesgos y acción social."
+      }
+    },
+    {
+      "id": "PN-T08-Q139",
+      "fact_id": "PN-T08-F074",
+      "bloque": 13,
+      "concepto": "Régimen disciplinario orgánico",
+      "articulo": "Orden INT/859/2023, art. 10",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Régimen disciplinario orgánico». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "En la División de Personal.",
+        "B": "En la Unidad de Asuntos Internos.",
+        "C": "En el Gabinete Técnico."
+      }
+    },
+    {
+      "id": "PN-T08-Q134",
+      "fact_id": "PN-T08-F072",
+      "bloque": 13,
+      "concepto": "Ámbito División de Personal",
+      "articulo": "Orden INT/859/2023, art. 10",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué gestiona la División de Personal?",
+      "opciones": {
+        "A": "Operaciones antiterroristas y fronteras.",
+        "B": "Presupuesto, vehículos y armamento.",
+        "C": "Régimen estatutario, retribuciones, expedientes, puestos, destinos y situaciones administrativas."
+      }
+    },
+    {
+      "id": "PN-T08-Q148",
+      "fact_id": "PN-T08-F079",
+      "bloque": 14,
+      "concepto": "Escuela Nacional de Policía",
+      "articulo": "Orden INT/859/2023, art. 11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué función caracteriza a la Escuela Nacional de Policía?",
+      "opciones": {
+        "A": "Formar, entre otros, al alumnado de Inspector y Policía.",
+        "B": "Gestionar ascensos por libre designación.",
+        "C": "Realizar pericias criminalísticas."
+      }
+    },
+    {
+      "id": "PN-T08-Q146",
+      "fact_id": "PN-T08-F078",
+      "bloque": 14,
+      "concepto": "Centros y unidades",
+      "articulo": "Orden INT/859/2023, art. 11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué conjunto integra Formación y Perfeccionamiento?",
+      "opciones": {
+        "A": "Escuela Nacional, SIRENE, UDEF y Oficina de Marca.",
+        "B": "CAE, UCOT, División de Personal y FRONTEX.",
+        "C": "Secretaría General, Escuela Nacional, CAE, CAEP y Procesos Selectivos."
+      }
+    },
+    {
+      "id": "PN-T08-Q160",
+      "fact_id": "PN-T08-F085",
+      "bloque": 15,
+      "concepto": "Divisiones dependientes",
+      "articulo": "Orden INT/859/2023, art. 12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué divisiones dependen de Logística e Innovación?",
+      "opciones": {
+        "A": "Económica y Técnica, y Documentación.",
+        "B": "Personal, y Formación y Perfeccionamiento.",
+        "C": "Policía Judicial, y Policía Científica."
+      }
+    },
+    {
+      "id": "PN-T08-Q158",
+      "fact_id": "PN-T08-F084",
+      "bloque": 15,
+      "concepto": "Estructura propia",
+      "articulo": "Orden INT/859/2023, art. 12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué unidad propia integra Logística e Innovación junto a su Secretaría General?",
+      "opciones": {
+        "A": "La Unidad Central de Ciberdelincuencia.",
+        "B": "La Unidad Central de Apoyo Tecnológico.",
+        "C": "La Unidad de Informática y Telecomunicación."
+      }
+    },
+    {
+      "id": "PN-T08-Q172",
+      "fact_id": "PN-T08-F091",
+      "bloque": 16,
+      "concepto": "Materias Gabinete Técnico",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué materias coordina el Gabinete Técnico?",
+      "opciones": {
+        "A": "Estudios, informes, relaciones institucionales, normativa, calidad, publicaciones, protocolo e identidad corporativa.",
+        "B": "Fronteras, drogas, criminalística y seguridad privada.",
+        "C": "Retribuciones, destinos y excedencias."
+      }
+    },
+    {
+      "id": "PN-T08-Q170",
+      "fact_id": "PN-T08-F090",
+      "bloque": 16,
+      "concepto": "Misión Gabinete Técnico",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es la misión general del Gabinete Técnico?",
+      "opciones": {
+        "A": "Dirigir todas las Comisarías Generales.",
+        "B": "Resolver expedientes disciplinarios por faltas leves.",
+        "C": "Apoyar y asistir a la persona titular de la DGP."
+      }
+    },
+    {
+      "id": "PN-T08-Q184",
+      "fact_id": "PN-T08-F097",
+      "bloque": 17,
+      "concepto": "Vicepresidencia Junta",
+      "articulo": "Orden INT/859/2023, arts. 16 y 17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Quién ejerce la Vicepresidencia de la Junta de Gobierno?",
+      "opciones": {
+        "A": "La persona titular de la DAO.",
+        "B": "La jefatura de la División de Personal.",
+        "C": "La persona titular del Gabinete Técnico."
+      }
+    },
+    {
+      "id": "PN-T08-Q182",
+      "fact_id": "PN-T08-F096",
+      "bloque": 17,
+      "concepto": "Presidencia Junta",
+      "articulo": "Orden INT/859/2023, arts. 16 y 17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Quién preside la Junta de Gobierno?",
+      "opciones": {
+        "A": "La persona titular de la DAO.",
+        "B": "La persona titular del Ministerio del Interior.",
+        "C": "La persona titular de la DGP."
+      }
+    },
+    {
+      "id": "PN-T08-Q199",
+      "fact_id": "PN-T08-F104",
+      "bloque": 18,
+      "concepto": "UCOT",
+      "articulo": "Orden INT/859/2023, arts. 18 a 27",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «UCOT». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "En la Jefatura Superior.",
+        "B": "En la Comisaría Provincial como regla general.",
+        "C": "En la Comisaría General de Policía Judicial."
+      }
+    },
+    {
+      "id": "PN-T08-Q194",
+      "fact_id": "PN-T08-F102",
+      "bloque": 18,
+      "concepto": "Niveles territoriales",
+      "articulo": "Orden INT/859/2023, arts. 18 a 27",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué órganos forman parte de la organización territorial?",
+      "opciones": {
+        "A": "Solo Jefaturas Superiores y Puestos Fronterizos.",
+        "B": "Únicamente Comisarías Generales y Divisiones centrales.",
+        "C": "Jefaturas Superiores, Comisarías Provinciales y Locales, entre otras unidades territoriales."
+      }
+    },
+    {
+      "id": "PN-T08-Q217",
+      "fact_id": "PN-T08-F113",
+      "bloque": 19,
+      "concepto": "Entradas y salidas",
+      "articulo": "Ley Orgánica 2/1986, art. 12.1.a",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Entradas y salidas». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "A la Policía Nacional.",
+        "B": "A las policías locales.",
+        "C": "Al Servicio de Vigilancia Aduanera en exclusiva."
+      }
+    },
+    {
+      "id": "PN-T08-Q212",
+      "fact_id": "PN-T08-F111",
+      "bloque": 19,
+      "concepto": "Ámbito territorial PN",
+      "articulo": "Ley Orgánica 2/1986, art. 12.1.a",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Dónde ejerce la Policía Nacional las funciones comunes y exclusivas que le corresponden?",
+      "opciones": {
+        "A": "Solo en fronteras exteriores.",
+        "B": "Únicamente en municipios de más de 500.000 habitantes.",
+        "C": "En capitales de provincia y demás núcleos que determine el Gobierno."
+      }
+    },
+    {
+      "id": "PN-T08-Q232",
+      "fact_id": "PN-T08-F121",
+      "bloque": 20,
+      "concepto": "Escala Ejecutiva",
+      "articulo": "Ley Orgánica 9/2015, art. 17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué categorías integran la Escala Ejecutiva y qué grupo les corresponde?",
+      "opciones": {
+        "A": "Inspector Jefe e Inspector; grupo A1.",
+        "B": "Comisario Principal y Comisario; grupo A2.",
+        "C": "Oficial de Policía y Policía; grupo C1."
+      }
+    },
+    {
+      "id": "PN-T08-Q230",
+      "fact_id": "PN-T08-F120",
+      "bloque": 20,
+      "concepto": "Escala Superior",
+      "articulo": "Ley Orgánica 9/2015, art. 17",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué categorías integran la Escala Superior y qué grupo les corresponde?",
+      "opciones": {
+        "A": "Inspector Jefe e Inspector; grupo A2.",
+        "B": "Subinspector y Oficial de Policía; grupo C1.",
+        "C": "Comisario Principal y Comisario; grupo A1."
+      }
+    },
+    {
+      "id": "PN-T08-Q247",
+      "fact_id": "PN-T08-F128",
+      "bloque": 21,
+      "concepto": "Función Escala Ejecutiva",
+      "articulo": "Ley Orgánica 9/2015, arts. 18 y 19",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Función Escala Ejecutiva». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "El mando de los servicios policiales.",
+        "B": "La dirección de los servicios policiales.",
+        "C": "La supervisión de los servicios policiales."
+      }
+    },
+    {
+      "id": "PN-T08-Q245",
+      "fact_id": "PN-T08-F127",
+      "bloque": 21,
+      "concepto": "Función Escala Superior",
+      "articulo": "Ley Orgánica 9/2015, arts. 18 y 19",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Función Escala Superior». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "El mando de los servicios policiales.",
+        "B": "La ejecución material de las funciones.",
+        "C": "La dirección de los servicios policiales."
+      }
+    },
+    {
+      "id": "PN-T08-Q262",
+      "fact_id": "PN-T08-F136",
+      "bloque": 22,
+      "concepto": "Principios técnicos",
+      "articulo": "Ley Orgánica 9/2015 y RD 853/2022",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué principio adicional rige los procesos selectivos?",
+      "opciones": {
+        "A": "La adecuación entre las pruebas y las funciones.",
+        "B": "La preferencia automática por familiares de policías.",
+        "C": "La reserva general de actuaciones."
+      }
+    },
+    {
+      "id": "PN-T08-Q260",
+      "fact_id": "PN-T08-F135",
+      "bloque": 22,
+      "concepto": "Principios constitucionales",
+      "articulo": "Ley Orgánica 9/2015 y RD 853/2022",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué principios básicos rigen el acceso?",
+      "opciones": {
+        "A": "Antigüedad, discrecionalidad, secreto y libre designación.",
+        "B": "Jerarquía, oportunidad y confianza política.",
+        "C": "Igualdad, mérito, capacidad y publicidad."
+      }
+    },
+    {
+      "id": "PN-T08-Q272",
+      "fact_id": "PN-T08-F141",
+      "bloque": 23,
+      "concepto": "Edad",
+      "articulo": "RD 853/2022 y convocatoria EB 2026",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué requisito de edad se exige?",
+      "opciones": {
+        "A": "Tener veintiún años y no superar los cuarenta.",
+        "B": "Tener dieciséis años con autorización.",
+        "C": "Tener dieciocho años y no exceder la edad máxima de jubilación."
+      }
+    },
+    {
+      "id": "PN-T08-Q290",
+      "fact_id": "PN-T08-F150",
+      "bloque": 24,
+      "concepto": "Fases de ingreso",
+      "articulo": "RD 853/2022",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué secuencia completa el ingreso?",
+      "opciones": {
+        "A": "Concurso, entrevista laboral y nombramiento directo.",
+        "B": "Oposición y destino definitivo sin formación.",
+        "C": "Oposición, curso de formación y módulo de formación práctica."
+      }
+    },
+    {
+      "id": "PN-T08-Q308",
+      "fact_id": "PN-T08-F159",
+      "bloque": 25,
+      "concepto": "Ámbito disciplinario",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿A quién se aplica la Ley Orgánica 4/2010 en el ámbito ordinario?",
+      "opciones": {
+        "A": "A todo el personal jubilado y a sus familiares.",
+        "B": "Solo al alumnado de ingreso, con exclusión del personal de carrera.",
+        "C": "A personal en servicio activo y en segunda actividad ocupando destino."
+      }
+    },
+    {
+      "id": "PN-T08-Q323",
+      "fact_id": "PN-T08-F166",
+      "bloque": 26,
+      "concepto": "Sanciones muy graves",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Sanciones muy graves». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Solo apercibimiento y pérdida de un día de sueldo.",
+        "B": "Suspensión de uno a cuatro días exclusivamente.",
+        "C": "Separación, suspensión de tres meses y un día a seis años o traslado forzoso."
+      }
+    },
+    {
+      "id": "PN-T08-Q350",
+      "fact_id": "PN-T08-F180",
+      "bloque": 27,
+      "concepto": "Relación de situaciones",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "Señale la relación completa de situaciones administrativas.",
+      "opciones": {
+        "A": "Servicio activo, reserva, expectativa de destino, excedencia y jubilación.",
+        "B": "Servicio activo, comisión, adscripción, excedencia y licencia.",
+        "C": "Servicio activo, servicios especiales, servicio en otras administraciones, excedencia, suspensión y segunda actividad."
+      }
+    },
+    {
+      "id": "PN-T08-Q368",
+      "fact_id": "PN-T08-F189",
+      "bloque": 28,
+      "concepto": "Clases de suspensión",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué clases de suspensión de funciones existen?",
+      "opciones": {
+        "A": "Temporal y definitiva.",
+        "B": "Preventiva y honorífica.",
+        "C": "Provisional y firme."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q004",
+      "respuesta_correcta": "A",
+      "explicacion": "La persona titular de la DGP tiene rango de subsecretario.",
+      "fact_id": "PN-T08-F002",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q002",
+      "respuesta_correcta": "C",
+      "explicacion": "La DGP es un órgano directivo del Ministerio del Interior.",
+      "fact_id": "PN-T08-F001",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q016",
+      "respuesta_correcta": "A",
+      "explicacion": "Las cinco Comisarías Generales dependen de la DAO.",
+      "fact_id": "PN-T08-F009",
+      "articulo": "Orden INT/859/2023, arts. 1 y 2"
+    },
+    {
+      "id": "PN-T08-Q011",
+      "respuesta_correcta": "C",
+      "explicacion": "La Orden enumera cuatro: DAO, dos Subdirecciones Generales y Gabinete Técnico.",
+      "fact_id": "PN-T08-F007",
+      "articulo": "Orden INT/859/2023, arts. 1 y 2"
+    },
+    {
+      "id": "PN-T08-Q025",
+      "respuesta_correcta": "A",
+      "explicacion": "La Unidad Nacional de EUROPOL actúa como enlace nacional con la Agencia.",
+      "fact_id": "PN-T08-F015",
+      "articulo": "Orden INT/859/2023, art. 2"
+    },
+    {
+      "id": "PN-T08-Q023",
+      "respuesta_correcta": "C",
+      "explicacion": "La OCN INTERPOL canaliza la cooperación con la Secretaría General de INTERPOL.",
+      "fact_id": "PN-T08-F014",
+      "articulo": "Orden INT/859/2023, art. 2"
+    },
+    {
+      "id": "PN-T08-Q037",
+      "respuesta_correcta": "A",
+      "explicacion": "La DAO cuenta con una Secretaría General.",
+      "fact_id": "PN-T08-F021",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q032",
+      "respuesta_correcta": "C",
+      "explicacion": "La DAO es el núcleo de dirección y coordinación operativa.",
+      "fact_id": "PN-T08-F019",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q046",
+      "respuesta_correcta": "A",
+      "explicacion": "La Unidad Aérea se divide en Medios Aéreos y Seguridad y Protección Aérea.",
+      "fact_id": "PN-T08-F026",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q044",
+      "respuesta_correcta": "C",
+      "explicacion": "La División incluye un Área de Coordinación Operativa.",
+      "fact_id": "PN-T08-F025",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q058",
+      "respuesta_correcta": "A",
+      "explicacion": "La Unidad se apoya en esas dos áreas especializadas.",
+      "fact_id": "PN-T08-F032",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q056",
+      "respuesta_correcta": "C",
+      "explicacion": "Esas funciones corresponden a Planificación Estratégica y Coordinación.",
+      "fact_id": "PN-T08-F031",
+      "articulo": "Orden INT/859/2023, art. 3"
+    },
+    {
+      "id": "PN-T08-Q070",
+      "respuesta_correcta": "A",
+      "explicacion": "La regla de cinco reúne Información, Judicial, Seguridad Ciudadana, Extranjería y Científica.",
+      "fact_id": "PN-T08-F038",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q068",
+      "respuesta_correcta": "C",
+      "explicacion": "Son cinco Comisarías Generales.",
+      "fact_id": "PN-T08-F037",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q082",
+      "respuesta_correcta": "A",
+      "explicacion": "Su actividad operativa destaca especialmente en materia antiterrorista.",
+      "fact_id": "PN-T08-F044",
+      "articulo": "Orden INT/859/2023, art. 4"
+    },
+    {
+      "id": "PN-T08-Q080",
+      "respuesta_correcta": "C",
+      "explicacion": "Información trabaja información de interés para el orden y la seguridad pública.",
+      "fact_id": "PN-T08-F043",
+      "articulo": "Orden INT/859/2023, art. 4"
+    },
+    {
+      "id": "PN-T08-Q091",
+      "respuesta_correcta": "A",
+      "explicacion": "UDEF investiga delincuencia económica y fiscal.",
+      "fact_id": "PN-T08-F049",
+      "articulo": "Orden INT/859/2023, art. 5"
+    },
+    {
+      "id": "PN-T08-Q086",
+      "respuesta_correcta": "C",
+      "explicacion": "Policía Judicial investiga formas complejas y supraterritoriales de delincuencia.",
+      "fact_id": "PN-T08-F047",
+      "articulo": "Orden INT/859/2023, art. 5"
+    },
+    {
+      "id": "PN-T08-Q103",
+      "respuesta_correcta": "A",
+      "explicacion": "Esas especialidades se integran en Seguridad Ciudadana.",
+      "fact_id": "PN-T08-F055",
+      "articulo": "Orden INT/859/2023, arts. 6 y 7"
+    },
+    {
+      "id": "PN-T08-Q101",
+      "respuesta_correcta": "C",
+      "explicacion": "Seguridad Ciudadana actúa sobre prevención, mantenimiento y restablecimiento del orden.",
+      "fact_id": "PN-T08-F054",
+      "articulo": "Orden INT/859/2023, arts. 6 y 7"
+    },
+    {
+      "id": "PN-T08-Q121",
+      "respuesta_correcta": "A",
+      "explicacion": "Esas pericias técnicas corresponden a Criminalística.",
+      "fact_id": "PN-T08-F064",
+      "articulo": "Orden INT/859/2023, art. 8"
+    },
+    {
+      "id": "PN-T08-Q116",
+      "respuesta_correcta": "C",
+      "explicacion": "Policía Científica presta apoyo pericial, identificativo y técnico.",
+      "fact_id": "PN-T08-F062",
+      "articulo": "Orden INT/859/2023, art. 8"
+    },
+    {
+      "id": "PN-T08-Q130",
+      "respuesta_correcta": "A",
+      "explicacion": "La unidad se integra en la Subdirección General de Recursos Humanos y Formación.",
+      "fact_id": "PN-T08-F069",
+      "articulo": "Orden INT/859/2023, art. 9"
+    },
+    {
+      "id": "PN-T08-Q125",
+      "respuesta_correcta": "C",
+      "explicacion": "La Subdirección coordina el ciclo profesional y la protección del personal.",
+      "fact_id": "PN-T08-F067",
+      "articulo": "Orden INT/859/2023, art. 9"
+    },
+    {
+      "id": "PN-T08-Q139",
+      "respuesta_correcta": "A",
+      "explicacion": "La unidad administrativa de disciplina se integra en Personal; Asuntos Internos investiga conductas.",
+      "fact_id": "PN-T08-F074",
+      "articulo": "Orden INT/859/2023, art. 10"
+    },
+    {
+      "id": "PN-T08-Q134",
+      "respuesta_correcta": "C",
+      "explicacion": "La División de Personal gestiona la trayectoria administrativa del personal.",
+      "fact_id": "PN-T08-F072",
+      "articulo": "Orden INT/859/2023, art. 10"
+    },
+    {
+      "id": "PN-T08-Q148",
+      "respuesta_correcta": "A",
+      "explicacion": "La Escuela imparte la formación de ingreso, entre otras.",
+      "fact_id": "PN-T08-F079",
+      "articulo": "Orden INT/859/2023, art. 11"
+    },
+    {
+      "id": "PN-T08-Q146",
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura reúne Escuela, actualización, altos estudios y selección.",
+      "fact_id": "PN-T08-F078",
+      "articulo": "Orden INT/859/2023, art. 11"
+    },
+    {
+      "id": "PN-T08-Q160",
+      "respuesta_correcta": "A",
+      "explicacion": "Logística dirige la División Económica y Técnica y la de Documentación.",
+      "fact_id": "PN-T08-F085",
+      "articulo": "Orden INT/859/2023, art. 12"
+    },
+    {
+      "id": "PN-T08-Q158",
+      "respuesta_correcta": "C",
+      "explicacion": "Informática y Telecomunicación presta soporte corporativo desde Logística.",
+      "fact_id": "PN-T08-F084",
+      "articulo": "Orden INT/859/2023, art. 12"
+    },
+    {
+      "id": "PN-T08-Q172",
+      "respuesta_correcta": "A",
+      "explicacion": "El Gabinete reúne apoyo normativo, institucional y de identidad.",
+      "fact_id": "PN-T08-F091",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15"
+    },
+    {
+      "id": "PN-T08-Q170",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gabinete Técnico presta apoyo estratégico y técnico a la DGP.",
+      "fact_id": "PN-T08-F090",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15"
+    },
+    {
+      "id": "PN-T08-Q184",
+      "respuesta_correcta": "A",
+      "explicacion": "La DAO ocupa la Vicepresidencia.",
+      "fact_id": "PN-T08-F097",
+      "articulo": "Orden INT/859/2023, arts. 16 y 17"
+    },
+    {
+      "id": "PN-T08-Q182",
+      "respuesta_correcta": "C",
+      "explicacion": "La presidencia corresponde a la persona titular de la DGP.",
+      "fact_id": "PN-T08-F096",
+      "articulo": "Orden INT/859/2023, arts. 16 y 17"
+    },
+    {
+      "id": "PN-T08-Q199",
+      "respuesta_correcta": "A",
+      "explicacion": "La UCOT es la unidad operativa de coordinación de la Jefatura Superior.",
+      "fact_id": "PN-T08-F104",
+      "articulo": "Orden INT/859/2023, arts. 18 a 27"
+    },
+    {
+      "id": "PN-T08-Q194",
+      "respuesta_correcta": "C",
+      "explicacion": "La organización territorial combina jefaturas, comisarías y centros o unidades especializados.",
+      "fact_id": "PN-T08-F102",
+      "articulo": "Orden INT/859/2023, arts. 18 a 27"
+    },
+    {
+      "id": "PN-T08-Q217",
+      "respuesta_correcta": "A",
+      "explicacion": "La Policía Nacional controla entradas y salidas de españoles y extranjeros.",
+      "fact_id": "PN-T08-F113",
+      "articulo": "Ley Orgánica 2/1986, art. 12.1.a"
+    },
+    {
+      "id": "PN-T08-Q212",
+      "respuesta_correcta": "C",
+      "explicacion": "La LO 2/1986 atribuye su ámbito a capitales y núcleos determinados por el Gobierno.",
+      "fact_id": "PN-T08-F111",
+      "articulo": "Ley Orgánica 2/1986, art. 12.1.a"
+    },
+    {
+      "id": "PN-T08-Q232",
+      "respuesta_correcta": "A",
+      "explicacion": "La Escala Ejecutiva reúne Inspector Jefe e Inspector, ambos A1.",
+      "fact_id": "PN-T08-F121",
+      "articulo": "Ley Orgánica 9/2015, art. 17"
+    },
+    {
+      "id": "PN-T08-Q230",
+      "respuesta_correcta": "C",
+      "explicacion": "La Escala Superior reúne Comisario Principal y Comisario, ambos A1.",
+      "fact_id": "PN-T08-F120",
+      "articulo": "Ley Orgánica 9/2015, art. 17"
+    },
+    {
+      "id": "PN-T08-Q247",
+      "respuesta_correcta": "A",
+      "explicacion": "La Escala Ejecutiva manda.",
+      "fact_id": "PN-T08-F128",
+      "articulo": "Ley Orgánica 9/2015, arts. 18 y 19"
+    },
+    {
+      "id": "PN-T08-Q245",
+      "respuesta_correcta": "C",
+      "explicacion": "La Escala Superior dirige.",
+      "fact_id": "PN-T08-F127",
+      "articulo": "Ley Orgánica 9/2015, arts. 18 y 19"
+    },
+    {
+      "id": "PN-T08-Q262",
+      "respuesta_correcta": "A",
+      "explicacion": "Las pruebas deben ser adecuadas a las funciones a desempeñar.",
+      "fact_id": "PN-T08-F136",
+      "articulo": "Ley Orgánica 9/2015 y RD 853/2022"
+    },
+    {
+      "id": "PN-T08-Q260",
+      "respuesta_correcta": "C",
+      "explicacion": "El acceso respeta igualdad, mérito, capacidad y publicidad.",
+      "fact_id": "PN-T08-F135",
+      "articulo": "Ley Orgánica 9/2015 y RD 853/2022"
+    },
+    {
+      "id": "PN-T08-Q272",
+      "respuesta_correcta": "C",
+      "explicacion": "La edad mínima es dieciocho y el límite superior se vincula a la jubilación.",
+      "fact_id": "PN-T08-F141",
+      "articulo": "RD 853/2022 y convocatoria EB 2026"
+    },
+    {
+      "id": "PN-T08-Q290",
+      "respuesta_correcta": "C",
+      "explicacion": "El ingreso combina oposición, formación y prácticas.",
+      "fact_id": "PN-T08-F150",
+      "articulo": "RD 853/2022"
+    },
+    {
+      "id": "PN-T08-Q308",
+      "respuesta_correcta": "C",
+      "explicacion": "La LO 4/2010 se aplica a quienes están en servicio activo y en segunda actividad ocupando destino.",
+      "fact_id": "PN-T08-F159",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q323",
+      "respuesta_correcta": "C",
+      "explicacion": "Las faltas muy graves admiten separación, suspensión larga o traslado.",
+      "fact_id": "PN-T08-F166",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q350",
+      "respuesta_correcta": "C",
+      "explicacion": "Son seis y la segunda actividad es específica de Policía Nacional.",
+      "fact_id": "PN-T08-F180",
+      "articulo": "Ley Orgánica 9/2015"
+    },
+    {
+      "id": "PN-T08-Q368",
+      "respuesta_correcta": "C",
+      "explicacion": "La suspensión puede ser provisional o firme.",
+      "fact_id": "PN-T08-F189",
+      "articulo": "Ley Orgánica 9/2015"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

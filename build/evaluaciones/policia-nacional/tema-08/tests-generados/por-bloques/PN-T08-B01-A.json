@@ -1,0 +1,239 @@
+{
+  "id": "PN-T08-B01-A",
+  "titulo": "Tema 8 · Bloque 1: DGP: posición, mando y funciones · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      1
+    ]
+  },
+  "numero_preguntas": 10,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q001",
+      "fact_id": "PN-T08-F001",
+      "bloque": 1,
+      "concepto": "Naturaleza de la DGP",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué posición ocupa la Dirección General de la Policía?",
+      "opciones": {
+        "A": "Es un órgano directivo del Ministerio del Interior.",
+        "B": "Es un órgano superior con rango de secretaría de Estado.",
+        "C": "Es una unidad operativa dependiente del Gabinete Técnico."
+      }
+    },
+    {
+      "id": "PN-T08-Q003",
+      "fact_id": "PN-T08-F002",
+      "bloque": 1,
+      "concepto": "Rango del titular",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué rango tiene la persona titular de la DGP?",
+      "opciones": {
+        "A": "Rango de director general sin equivalencia orgánica.",
+        "B": "Rango de subsecretario.",
+        "C": "Rango de secretario de Estado."
+      }
+    },
+    {
+      "id": "PN-T08-Q002",
+      "fact_id": "PN-T08-F001",
+      "bloque": 1,
+      "concepto": "Naturaleza de la DGP",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Naturaleza de la DGP». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Es un órgano superior con rango de secretaría de Estado.",
+        "B": "Es una unidad operativa dependiente del Gabinete Técnico.",
+        "C": "Es un órgano directivo del Ministerio del Interior."
+      }
+    },
+    {
+      "id": "PN-T08-Q004",
+      "fact_id": "PN-T08-F002",
+      "bloque": 1,
+      "concepto": "Rango del titular",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Rango del titular». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Rango de subsecretario.",
+        "B": "Rango de secretario de Estado.",
+        "C": "Rango de director general sin equivalencia orgánica."
+      }
+    },
+    {
+      "id": "PN-T08-Q006",
+      "fact_id": "PN-T08-F003",
+      "bloque": 1,
+      "concepto": "Dependencia y mando",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Dependencia y mando». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "La Secretaría de Estado depende de la DGP para el mando operativo.",
+        "B": "La DGP depende de la Secretaría de Estado de Seguridad y ejerce el mando directo de la Policía Nacional.",
+        "C": "La DGP depende del Ministro y ejerce solo coordinación técnica."
+      }
+    },
+    {
+      "id": "PN-T08-Q005",
+      "fact_id": "PN-T08-F003",
+      "bloque": 1,
+      "concepto": "Dependencia y mando",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "Señale la relación jerárquica correcta.",
+      "opciones": {
+        "A": "La DGP depende del Ministro y ejerce solo coordinación técnica.",
+        "B": "La Secretaría de Estado depende de la DGP para el mando operativo.",
+        "C": "La DGP depende de la Secretaría de Estado de Seguridad y ejerce el mando directo de la Policía Nacional."
+      }
+    },
+    {
+      "id": "PN-T08-Q007",
+      "fact_id": "PN-T08-F004",
+      "bloque": 1,
+      "concepto": "Ámbito funcional",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Qué función corresponde a la DGP?",
+      "opciones": {
+        "A": "Dirigir los servicios centrales y territoriales de la Policía Nacional.",
+        "B": "Dirigir todos los cuerpos de policía local.",
+        "C": "Ejercer la jurisdicción penal sobre delitos policiales."
+      }
+    },
+    {
+      "id": "PN-T08-Q009",
+      "fact_id": "PN-T08-F005",
+      "bloque": 1,
+      "concepto": "Medios y planes",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Medios y planes». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Autorizar tratados internacionales de cooperación policial.",
+        "B": "Distribuir medios y proponer planes operativos de la Policía Nacional.",
+        "C": "Aprobar los Presupuestos Generales del Estado."
+      }
+    },
+    {
+      "id": "PN-T08-Q008",
+      "fact_id": "PN-T08-F005",
+      "bloque": 1,
+      "concepto": "Medios y planes",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué competencia combina recursos y planificación operativa?",
+      "opciones": {
+        "A": "Aprobar los Presupuestos Generales del Estado.",
+        "B": "Autorizar tratados internacionales de cooperación policial.",
+        "C": "Distribuir medios y proponer planes operativos de la Policía Nacional."
+      }
+    },
+    {
+      "id": "PN-T08-Q010",
+      "fact_id": "PN-T08-F006",
+      "bloque": 1,
+      "concepto": "Personal y control",
+      "articulo": "RD 207/2024, art. 3",
+      "tipo": "literal_discriminacion",
+      "dificultad": "media",
+      "enunciado": "¿Qué materias de personal se integran en las funciones de la DGP?",
+      "opciones": {
+        "A": "Selección, formación y régimen disciplinario.",
+        "B": "Nombramiento de jueces, fiscales y letrados.",
+        "C": "Negociación colectiva de toda la Administración General del Estado."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q001",
+      "respuesta_correcta": "A",
+      "explicacion": "La DGP es un órgano directivo del Ministerio del Interior.",
+      "fact_id": "PN-T08-F001",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q003",
+      "respuesta_correcta": "B",
+      "explicacion": "La persona titular de la DGP tiene rango de subsecretario.",
+      "fact_id": "PN-T08-F002",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q002",
+      "respuesta_correcta": "C",
+      "explicacion": "La DGP es un órgano directivo del Ministerio del Interior.",
+      "fact_id": "PN-T08-F001",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q004",
+      "respuesta_correcta": "A",
+      "explicacion": "La persona titular de la DGP tiene rango de subsecretario.",
+      "fact_id": "PN-T08-F002",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q006",
+      "respuesta_correcta": "B",
+      "explicacion": "La Secretaría de Estado ejerce la superior dirección y la DGP el mando directo.",
+      "fact_id": "PN-T08-F003",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q005",
+      "respuesta_correcta": "C",
+      "explicacion": "La Secretaría de Estado ejerce la superior dirección y la DGP el mando directo.",
+      "fact_id": "PN-T08-F003",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q007",
+      "respuesta_correcta": "A",
+      "explicacion": "La DGP dirige los servicios centrales y territoriales de la Policía Nacional.",
+      "fact_id": "PN-T08-F004",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q009",
+      "respuesta_correcta": "B",
+      "explicacion": "La DGP distribuye medios y propone planes operativos en su ámbito.",
+      "fact_id": "PN-T08-F005",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q008",
+      "respuesta_correcta": "C",
+      "explicacion": "La DGP distribuye medios y propone planes operativos en su ámbito.",
+      "fact_id": "PN-T08-F005",
+      "articulo": "RD 207/2024, art. 3"
+    },
+    {
+      "id": "PN-T08-Q010",
+      "respuesta_correcta": "A",
+      "explicacion": "La selección, formación y disciplina policial forman parte de sus funciones.",
+      "fact_id": "PN-T08-F006",
+      "articulo": "RD 207/2024, art. 3"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

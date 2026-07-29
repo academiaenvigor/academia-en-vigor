@@ -1,0 +1,283 @@
+{
+  "id": "PN-T08-B07-A",
+  "titulo": "Tema 8 · Bloque 7: Las cinco Comisarías Generales · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      7
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q067",
+      "fact_id": "PN-T08-F037",
+      "bloque": 7,
+      "concepto": "Número de Comisarías Generales",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuántas Comisarías Generales dependen de la DAO?",
+      "opciones": {
+        "A": "Cinco.",
+        "B": "Cuatro.",
+        "C": "Seis."
+      }
+    },
+    {
+      "id": "PN-T08-Q069",
+      "fact_id": "PN-T08-F038",
+      "bloque": 7,
+      "concepto": "Relación de Comisarías",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "Señale la relación correcta de las cinco Comisarías Generales.",
+      "opciones": {
+        "A": "Policía Judicial, Personal, Logística, Científica y Cooperación Internacional.",
+        "B": "Información, Policía Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Policía Científica.",
+        "C": "Información, Tráfico, Protección Civil, Policía Judicial y Documentación."
+      }
+    },
+    {
+      "id": "PN-T08-Q068",
+      "fact_id": "PN-T08-F037",
+      "bloque": 7,
+      "concepto": "Número de Comisarías Generales",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Número de Comisarías Generales». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Cuatro.",
+        "B": "Seis.",
+        "C": "Cinco."
+      }
+    },
+    {
+      "id": "PN-T08-Q070",
+      "fact_id": "PN-T08-F038",
+      "bloque": 7,
+      "concepto": "Relación de Comisarías",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Relación de Comisarías». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Información, Policía Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Policía Científica.",
+        "B": "Información, Tráfico, Protección Civil, Policía Judicial y Documentación.",
+        "C": "Policía Judicial, Personal, Logística, Científica y Cooperación Internacional."
+      }
+    },
+    {
+      "id": "PN-T08-Q072",
+      "fact_id": "PN-T08-F039",
+      "bloque": 7,
+      "concepto": "Nivel orgánico",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Nivel orgánico». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Secretaría general técnica.",
+        "B": "Subdirección general.",
+        "C": "Dirección general."
+      }
+    },
+    {
+      "id": "PN-T08-Q071",
+      "fact_id": "PN-T08-F039",
+      "bloque": 7,
+      "concepto": "Nivel orgánico",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué nivel orgánico tienen las Comisarías Generales?",
+      "opciones": {
+        "A": "Dirección general.",
+        "B": "Secretaría general técnica.",
+        "C": "Subdirección general."
+      }
+    },
+    {
+      "id": "PN-T08-Q073",
+      "fact_id": "PN-T08-F040",
+      "bloque": 7,
+      "concepto": "UCOT central",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿En cuáles existe una Unidad Central de Coordinación Operativa y Técnica?",
+      "opciones": {
+        "A": "En Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Científica.",
+        "B": "Solo en Información y Judicial.",
+        "C": "En las cinco sin excepción."
+      }
+    },
+    {
+      "id": "PN-T08-Q075",
+      "fact_id": "PN-T08-F041",
+      "bloque": 7,
+      "concepto": "Jefe Central de Operaciones",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué cargo dirige la Unidad Central de Coordinación Operativa y Técnica?",
+      "opciones": {
+        "A": "El Director Adjunto Operativo.",
+        "B": "El Jefe o Jefa Central de Operaciones.",
+        "C": "El Jefe o Jefa Regional de Operaciones."
+      }
+    },
+    {
+      "id": "PN-T08-Q074",
+      "fact_id": "PN-T08-F040",
+      "bloque": 7,
+      "concepto": "UCOT central",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «UCOT central». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Solo en Información y Judicial.",
+        "B": "En las cinco sin excepción.",
+        "C": "En Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Científica."
+      }
+    },
+    {
+      "id": "PN-T08-Q076",
+      "fact_id": "PN-T08-F041",
+      "bloque": 7,
+      "concepto": "Jefe Central de Operaciones",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Jefe Central de Operaciones». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "El Jefe o Jefa Central de Operaciones.",
+        "B": "El Jefe o Jefa Regional de Operaciones.",
+        "C": "El Director Adjunto Operativo."
+      }
+    },
+    {
+      "id": "PN-T08-Q078",
+      "fact_id": "PN-T08-F042",
+      "bloque": 7,
+      "concepto": "Suplencia Comisaría General",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Suplencia Comisaría General». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "El Jefe o Jefa Provincial de Operaciones.",
+        "B": "El Jefe o Jefa Central de Operaciones.",
+        "C": "El titular del Gabinete Técnico."
+      }
+    },
+    {
+      "id": "PN-T08-Q077",
+      "fact_id": "PN-T08-F042",
+      "bloque": 7,
+      "concepto": "Suplencia Comisaría General",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "En las Comisarías con UCCOT, ¿quién sustituye a su titular?",
+      "opciones": {
+        "A": "El titular del Gabinete Técnico.",
+        "B": "El Jefe o Jefa Provincial de Operaciones.",
+        "C": "El Jefe o Jefa Central de Operaciones."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q067",
+      "respuesta_correcta": "A",
+      "explicacion": "Son cinco Comisarías Generales.",
+      "fact_id": "PN-T08-F037",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q069",
+      "respuesta_correcta": "B",
+      "explicacion": "La regla de cinco reúne Información, Judicial, Seguridad Ciudadana, Extranjería y Científica.",
+      "fact_id": "PN-T08-F038",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q068",
+      "respuesta_correcta": "C",
+      "explicacion": "Son cinco Comisarías Generales.",
+      "fact_id": "PN-T08-F037",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q070",
+      "respuesta_correcta": "A",
+      "explicacion": "La regla de cinco reúne Información, Judicial, Seguridad Ciudadana, Extranjería y Científica.",
+      "fact_id": "PN-T08-F038",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q072",
+      "respuesta_correcta": "B",
+      "explicacion": "Todas tienen nivel orgánico de subdirección general.",
+      "fact_id": "PN-T08-F039",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q071",
+      "respuesta_correcta": "C",
+      "explicacion": "Todas tienen nivel orgánico de subdirección general.",
+      "fact_id": "PN-T08-F039",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q073",
+      "respuesta_correcta": "A",
+      "explicacion": "Información es la excepción; las otras cuatro cuentan con UCCOT.",
+      "fact_id": "PN-T08-F040",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q075",
+      "respuesta_correcta": "B",
+      "explicacion": "La persona responsable recibe la denominación de Jefe o Jefa Central de Operaciones.",
+      "fact_id": "PN-T08-F041",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q074",
+      "respuesta_correcta": "C",
+      "explicacion": "Información es la excepción; las otras cuatro cuentan con UCCOT.",
+      "fact_id": "PN-T08-F040",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q076",
+      "respuesta_correcta": "A",
+      "explicacion": "La persona responsable recibe la denominación de Jefe o Jefa Central de Operaciones.",
+      "fact_id": "PN-T08-F041",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q078",
+      "respuesta_correcta": "B",
+      "explicacion": "La jefatura de la UCCOT ejerce la suplencia.",
+      "fact_id": "PN-T08-F042",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    },
+    {
+      "id": "PN-T08-Q077",
+      "respuesta_correcta": "C",
+      "explicacion": "La jefatura de la UCCOT ejerce la suplencia.",
+      "fact_id": "PN-T08-F042",
+      "articulo": "Orden INT/859/2023, arts. 4 a 8"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

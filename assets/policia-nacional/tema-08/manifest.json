@@ -2,16 +2,16 @@
   "schema_version": "2.0.0",
   "opposition": "policia-nacional",
   "topic": "tema-08",
-  "content_version": "0.9.0",
-  "visual_version": "0.0.0",
-  "status": "planned",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
   "totals": {
     "resources": 23,
-    "integrated": 0,
-    "planned": 23
+    "integrated": 23,
+    "planned": 0
   },
-  "integration_status": "pending_production",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-07-29",
   "resources": [
     {
       "id": "PN-T08-DG01",
@@ -19,11 +19,14 @@
       "title": "Mapa general del Tema 8",
       "type": "infografia",
       "placement": "Mapa del tema",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": null,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "DGP, estructura, carrera, disciplina y situaciones administrativas",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -33,11 +36,14 @@
       "title": "Cuatro órganos centrales",
       "type": "infografia",
       "placement": "Bloques 02 y 17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "DAO, Recursos Humanos, Logística y Gabinete Técnico",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -47,11 +53,14 @@
       "title": "Cooperación internacional",
       "type": "infografia",
       "placement": "Bloque 03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "INTERPOL, EUROPOL, SIRENE y coordinación internacional",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -61,11 +70,14 @@
       "title": "Mapa operativo de la DAO",
       "type": "infografia",
       "placement": "Bloques 04 a 06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "División de Operaciones, planificación y unidades especiales",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -75,11 +87,14 @@
       "title": "Las cinco Comisarías Generales",
       "type": "infografia",
       "placement": "Bloques 07 y 08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Información, Judicial, Seguridad Ciudadana, Extranjería y Científica",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -89,11 +104,14 @@
       "title": "Policía Judicial",
       "type": "infografia",
       "placement": "Bloque 09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Unidades centrales y materias de investigación",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -103,11 +121,14 @@
       "title": "Seguridad Ciudadana",
       "type": "infografia",
       "placement": "Bloque 10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Prevención, orden, seguridad privada, participación y deportes",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -117,11 +138,14 @@
       "title": "Extranjería y Fronteras",
       "type": "infografia",
       "placement": "Bloque 10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Fronteras, redes, repatriaciones y FRONTEX",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -131,11 +155,14 @@
       "title": "Policía Científica",
       "type": "infografia",
       "placement": "Bloque 11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Identificación, criminalística, técnica y conducta",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -145,11 +172,14 @@
       "title": "Recursos humanos y logística",
       "type": "infografia",
       "placement": "Bloques 12 a 16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Personal, formación, medios, documentación y apoyo técnico",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -159,11 +189,14 @@
       "title": "Organización territorial",
       "type": "infografia",
       "placement": "Bloque 18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Jefaturas, comisarías y unidades territoriales",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -173,11 +206,14 @@
       "title": "Funciones exclusivas",
       "type": "infografia",
       "placement": "Bloque 19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Funciones del artículo 12 de la Ley Orgánica 2/1986",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -187,11 +223,14 @@
       "title": "Escalas y categorías",
       "type": "infografia",
       "placement": "Bloques 20 y 21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Cuatro escalas, siete categorías, grupos y funciones",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -201,11 +240,14 @@
       "title": "Sistemas de acceso",
       "type": "infografia",
       "placement": "Bloques 22 a 24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Ingreso, promoción, requisitos, fases y regla 7-5-4",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -215,11 +257,14 @@
       "title": "Régimen disciplinario",
       "type": "infografia",
       "placement": "Bloques 25 y 26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Faltas, sanciones, autoridades y prescripción",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -229,11 +274,14 @@
       "title": "Situaciones administrativas",
       "type": "infografia",
       "placement": "Bloques 27 y 28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Seis situaciones, excedencias, suspensión y segunda actividad",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -243,11 +291,13 @@
       "title": "Los cuatro pilares de la DGP",
       "type": "ilustracion_didactica",
       "placement": "Bloque 02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Operaciones, personas, medios y estrategia",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -257,11 +307,13 @@
       "title": "DAO, corazón operativo",
       "type": "ilustracion_didactica",
       "placement": "Bloques 04 y 06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "La DAO como centro de coordinación operativa",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -271,11 +323,13 @@
       "title": "Cinco equipos especialistas",
       "type": "ilustracion_didactica",
       "placement": "Bloque 07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Metáfora de las cinco Comisarías Generales",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -285,11 +339,13 @@
       "title": "Doble dependencia territorial",
       "type": "ilustracion_didactica",
       "placement": "Bloque 18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Dependencia orgánica y funcional",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -299,11 +355,13 @@
       "title": "La escalera profesional",
       "type": "ilustracion_didactica",
       "placement": "Bloques 20 y 21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Dirección, mando, supervisión y ejecución",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -313,11 +371,13 @@
       "title": "Semáforo disciplinario",
       "type": "ilustracion_didactica",
       "placement": "Bloques 25 y 26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Gravedad, sanción y prescripción",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     },
@@ -327,11 +387,13 @@
       "title": "Seis estaciones administrativas",
       "type": "ilustracion_didactica",
       "placement": "Bloques 27 y 28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
-      "documents": ["atestado"],
+      "documents": [
+        "atestado"
+      ],
       "description": "Metáfora de las situaciones administrativas",
-      "source_content_version": "0.9.0",
+      "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
     }

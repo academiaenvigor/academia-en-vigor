@@ -1,0 +1,242 @@
+{
+  "id": "PN-T08-P7-A",
+  "titulo": "Tema 8 · Disciplina y situaciones administrativas · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  "numero_preguntas": 10,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q310",
+      "fact_id": "PN-T08-F160",
+      "bloque": 25,
+      "concepto": "Clases de faltas",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cómo se clasifican las faltas disciplinarias?",
+      "opciones": {
+        "A": "Muy graves, graves y leves.",
+        "B": "Gravísimas, ordinarias y leves.",
+        "C": "Penales, administrativas y civiles."
+      }
+    },
+    {
+      "id": "PN-T08-Q309",
+      "fact_id": "PN-T08-F159",
+      "bloque": 25,
+      "concepto": "Ámbito disciplinario",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Ámbito disciplinario». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Solo al alumnado de ingreso, con exclusión del personal de carrera.",
+        "B": "A personal en servicio activo y en segunda actividad ocupando destino.",
+        "C": "A todo el personal jubilado y a sus familiares."
+      }
+    },
+    {
+      "id": "PN-T08-Q350",
+      "fact_id": "PN-T08-F180",
+      "bloque": 27,
+      "concepto": "Relación de situaciones",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "Señale la relación completa de situaciones administrativas.",
+      "opciones": {
+        "A": "Servicio activo, reserva, expectativa de destino, excedencia y jubilación.",
+        "B": "Servicio activo, comisión, adscripción, excedencia y licencia.",
+        "C": "Servicio activo, servicios especiales, servicio en otras administraciones, excedencia, suspensión y segunda actividad."
+      }
+    },
+    {
+      "id": "PN-T08-Q322",
+      "fact_id": "PN-T08-F166",
+      "bloque": 26,
+      "concepto": "Sanciones muy graves",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué sanciones pueden imponerse por falta muy grave?",
+      "opciones": {
+        "A": "Separación, suspensión de tres meses y un día a seis años o traslado forzoso.",
+        "B": "Solo apercibimiento y pérdida de un día de sueldo.",
+        "C": "Suspensión de uno a cuatro días exclusivamente."
+      }
+    },
+    {
+      "id": "PN-T08-Q324",
+      "fact_id": "PN-T08-F167",
+      "bloque": 26,
+      "concepto": "Sanción grave",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué suspensión corresponde a una falta grave?",
+      "opciones": {
+        "A": "De tres meses y un día a seis años.",
+        "B": "De cinco días a tres meses.",
+        "C": "De uno a cuatro días."
+      }
+    },
+    {
+      "id": "PN-T08-Q349",
+      "fact_id": "PN-T08-F179",
+      "bloque": 27,
+      "concepto": "Número de situaciones",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Número de situaciones». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Seis.",
+        "B": "Cinco.",
+        "C": "Siete."
+      }
+    },
+    {
+      "id": "PN-T08-Q369",
+      "fact_id": "PN-T08-F189",
+      "bloque": 28,
+      "concepto": "Clases de suspensión",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Clases de suspensión». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Preventiva y honorífica.",
+        "B": "Provisional y firme.",
+        "C": "Temporal y definitiva."
+      }
+    },
+    {
+      "id": "PN-T08-Q370",
+      "fact_id": "PN-T08-F190",
+      "bloque": 28,
+      "concepto": "Límite provisional grave",
+      "articulo": "Ley Orgánica 9/2015",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el límite general de suspensión provisional por falta grave?",
+      "opciones": {
+        "A": "Tres meses.",
+        "B": "Seis meses.",
+        "C": "Un año."
+      }
+    },
+    {
+      "id": "PN-T08-Q327",
+      "fact_id": "PN-T08-F168",
+      "bloque": 26,
+      "concepto": "Sanciones leves",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Sanciones leves». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Suspensión de cinco días a tres meses.",
+        "B": "Suspensión de uno a cuatro días o apercibimiento.",
+        "C": "Traslado forzoso o separación."
+      }
+    },
+    {
+      "id": "PN-T08-Q313",
+      "fact_id": "PN-T08-F161",
+      "bloque": 25,
+      "concepto": "Tipicidad",
+      "articulo": "Ley Orgánica 4/2010",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Tipicidad». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Que la conducta encaje en una infracción prevista.",
+        "B": "Que cualquier conducta inconveniente pueda sancionarse sin norma.",
+        "C": "Que la jefatura elija libremente la infracción."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q310",
+      "respuesta_correcta": "A",
+      "explicacion": "La LO 4/2010 establece tres grados.",
+      "fact_id": "PN-T08-F160",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q309",
+      "respuesta_correcta": "B",
+      "explicacion": "La LO 4/2010 se aplica a quienes están en servicio activo y en segunda actividad ocupando destino.",
+      "fact_id": "PN-T08-F159",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q350",
+      "respuesta_correcta": "C",
+      "explicacion": "Son seis y la segunda actividad es específica de Policía Nacional.",
+      "fact_id": "PN-T08-F180",
+      "articulo": "Ley Orgánica 9/2015"
+    },
+    {
+      "id": "PN-T08-Q322",
+      "respuesta_correcta": "A",
+      "explicacion": "Las faltas muy graves admiten separación, suspensión larga o traslado.",
+      "fact_id": "PN-T08-F166",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q324",
+      "respuesta_correcta": "B",
+      "explicacion": "La franja de falta grave es cinco días a tres meses.",
+      "fact_id": "PN-T08-F167",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q349",
+      "respuesta_correcta": "A",
+      "explicacion": "La ley enumera seis situaciones.",
+      "fact_id": "PN-T08-F179",
+      "articulo": "Ley Orgánica 9/2015"
+    },
+    {
+      "id": "PN-T08-Q369",
+      "respuesta_correcta": "B",
+      "explicacion": "La suspensión puede ser provisional o firme.",
+      "fact_id": "PN-T08-F189",
+      "articulo": "Ley Orgánica 9/2015"
+    },
+    {
+      "id": "PN-T08-Q370",
+      "respuesta_correcta": "A",
+      "explicacion": "Por falta grave no excede con carácter general de tres meses.",
+      "fact_id": "PN-T08-F190",
+      "articulo": "Ley Orgánica 9/2015"
+    },
+    {
+      "id": "PN-T08-Q327",
+      "respuesta_correcta": "B",
+      "explicacion": "Las leves se sancionan con suspensión corta o apercibimiento.",
+      "fact_id": "PN-T08-F168",
+      "articulo": "Ley Orgánica 4/2010"
+    },
+    {
+      "id": "PN-T08-Q313",
+      "respuesta_correcta": "A",
+      "explicacion": "No hay sanción disciplinaria sin conducta tipificada.",
+      "fact_id": "PN-T08-F161",
+      "articulo": "Ley Orgánica 4/2010"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

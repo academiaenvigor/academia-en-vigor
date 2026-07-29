@@ -1,0 +1,243 @@
+{
+  "id": "PN-T08-P3-A",
+  "titulo": "Tema 8 · Recursos, formación, logística y apoyo · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "numero_preguntas": 10,
+  "preguntas": [
+    {
+      "id": "PN-T08-Q127",
+      "fact_id": "PN-T08-F068",
+      "bloque": 12,
+      "concepto": "Planificación RH",
+      "articulo": "Orden INT/859/2023, art. 9",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué unidad propia planifica las necesidades de personal?",
+      "opciones": {
+        "A": "La Unidad de Planificación de Recursos Humanos.",
+        "B": "La Unidad de Planificación Estratégica y Coordinación.",
+        "C": "La Unidad Central de Coordinación Operativa y Técnica."
+      }
+    },
+    {
+      "id": "PN-T08-Q126",
+      "fact_id": "PN-T08-F067",
+      "bloque": 12,
+      "concepto": "Misión Recursos Humanos",
+      "articulo": "Orden INT/859/2023, art. 9",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Misión Recursos Humanos». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Investigación judicial y seguridad ciudadana.",
+        "B": "Personal, selección, formación, prevención de riesgos y acción social.",
+        "C": "Presupuesto, automoción, armamento y documentación."
+      }
+    },
+    {
+      "id": "PN-T08-Q146",
+      "fact_id": "PN-T08-F078",
+      "bloque": 14,
+      "concepto": "Centros y unidades",
+      "articulo": "Orden INT/859/2023, art. 11",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué conjunto integra Formación y Perfeccionamiento?",
+      "opciones": {
+        "A": "Escuela Nacional, SIRENE, UDEF y Oficina de Marca.",
+        "B": "CAE, UCOT, División de Personal y FRONTEX.",
+        "C": "Secretaría General, Escuela Nacional, CAE, CAEP y Procesos Selectivos."
+      }
+    },
+    {
+      "id": "PN-T08-Q136",
+      "fact_id": "PN-T08-F073",
+      "bloque": 13,
+      "concepto": "Estructura Personal",
+      "articulo": "Orden INT/859/2023, art. 10",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué unidades integran la División de Personal?",
+      "opciones": {
+        "A": "Secretaría General, Gestión de Personal Policial y Régimen Disciplinario.",
+        "B": "Secretaría General, INTERPOL y SIRENE.",
+        "C": "Retribuciones, UDYCO y Criminalística."
+      }
+    },
+    {
+      "id": "PN-T08-Q135",
+      "fact_id": "PN-T08-F072",
+      "bloque": 13,
+      "concepto": "Ámbito División de Personal",
+      "articulo": "Orden INT/859/2023, art. 10",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Ámbito División de Personal». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Presupuesto, vehículos y armamento.",
+        "B": "Régimen estatutario, retribuciones, expedientes, puestos, destinos y situaciones administrativas.",
+        "C": "Operaciones antiterroristas y fronteras."
+      }
+    },
+    {
+      "id": "PN-T08-Q158",
+      "fact_id": "PN-T08-F084",
+      "bloque": 15,
+      "concepto": "Estructura propia",
+      "articulo": "Orden INT/859/2023, art. 12",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Qué unidad propia integra Logística e Innovación junto a su Secretaría General?",
+      "opciones": {
+        "A": "La Unidad Central de Ciberdelincuencia.",
+        "B": "La Unidad Central de Apoyo Tecnológico.",
+        "C": "La Unidad de Informática y Telecomunicación."
+      }
+    },
+    {
+      "id": "PN-T08-Q145",
+      "fact_id": "PN-T08-F077",
+      "bloque": 14,
+      "concepto": "Misión Formación",
+      "articulo": "Orden INT/859/2023, art. 11",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Misión Formación». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Planifica y ejecuta la formación policial.",
+        "B": "Gestiona fronteras y repatriaciones.",
+        "C": "Coordina el presupuesto y el armamento."
+      }
+    },
+    {
+      "id": "PN-T08-Q170",
+      "fact_id": "PN-T08-F090",
+      "bloque": 16,
+      "concepto": "Misión Gabinete Técnico",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15",
+      "tipo": "literal_discriminacion",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es la misión general del Gabinete Técnico?",
+      "opciones": {
+        "A": "Dirigir todas las Comisarías Generales.",
+        "B": "Resolver expedientes disciplinarios por faltas leves.",
+        "C": "Apoyar y asistir a la persona titular de la DGP."
+      }
+    },
+    {
+      "id": "PN-T08-Q157",
+      "fact_id": "PN-T08-F083",
+      "bloque": 15,
+      "concepto": "Misión Logística",
+      "articulo": "Orden INT/859/2023, art. 12",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Misión Logística». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Recursos económicos y materiales, tecnologías corporativas, telecomunicaciones, innovación y documentación.",
+        "B": "Unidades operativas, inteligencia criminal y asuntos internos.",
+        "C": "Selección, formación y régimen disciplinario."
+      }
+    },
+    {
+      "id": "PN-T08-Q169",
+      "fact_id": "PN-T08-F089",
+      "bloque": 16,
+      "concepto": "Estructura Documentación",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15",
+      "tipo": "supuesto_aplicado",
+      "dificultad": "alta",
+      "enunciado": "Un aspirante revisa «Estructura Documentación». ¿Qué afirmación debe conservar porque se ajusta a la normativa vigente?",
+      "opciones": {
+        "A": "Secretaría General, Documentación de Españoles y Extranjeros, y Tratamiento Documental y Archivo.",
+        "B": "Secretaría General, INTERPOL y Unidad Nacional EUROPOL.",
+        "C": "Área Jurídica, Oficina de Marca y Banda de Música."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "PN-T08-Q127",
+      "respuesta_correcta": "A",
+      "explicacion": "La planificación de recursos humanos corresponde a la unidad homónima.",
+      "fact_id": "PN-T08-F068",
+      "articulo": "Orden INT/859/2023, art. 9"
+    },
+    {
+      "id": "PN-T08-Q126",
+      "respuesta_correcta": "B",
+      "explicacion": "La Subdirección coordina el ciclo profesional y la protección del personal.",
+      "fact_id": "PN-T08-F067",
+      "articulo": "Orden INT/859/2023, art. 9"
+    },
+    {
+      "id": "PN-T08-Q146",
+      "respuesta_correcta": "C",
+      "explicacion": "La estructura reúne Escuela, actualización, altos estudios y selección.",
+      "fact_id": "PN-T08-F078",
+      "articulo": "Orden INT/859/2023, art. 11"
+    },
+    {
+      "id": "PN-T08-Q136",
+      "respuesta_correcta": "A",
+      "explicacion": "La División reúne apoyo general, gestión de personal y disciplina.",
+      "fact_id": "PN-T08-F073",
+      "articulo": "Orden INT/859/2023, art. 10"
+    },
+    {
+      "id": "PN-T08-Q135",
+      "respuesta_correcta": "B",
+      "explicacion": "La División de Personal gestiona la trayectoria administrativa del personal.",
+      "fact_id": "PN-T08-F072",
+      "articulo": "Orden INT/859/2023, art. 10"
+    },
+    {
+      "id": "PN-T08-Q158",
+      "respuesta_correcta": "C",
+      "explicacion": "Informática y Telecomunicación presta soporte corporativo desde Logística.",
+      "fact_id": "PN-T08-F084",
+      "articulo": "Orden INT/859/2023, art. 12"
+    },
+    {
+      "id": "PN-T08-Q145",
+      "respuesta_correcta": "A",
+      "explicacion": "La División planifica y ejecuta la formación policial.",
+      "fact_id": "PN-T08-F077",
+      "articulo": "Orden INT/859/2023, art. 11"
+    },
+    {
+      "id": "PN-T08-Q170",
+      "respuesta_correcta": "C",
+      "explicacion": "El Gabinete Técnico presta apoyo estratégico y técnico a la DGP.",
+      "fact_id": "PN-T08-F090",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15"
+    },
+    {
+      "id": "PN-T08-Q157",
+      "respuesta_correcta": "A",
+      "explicacion": "Logística e Innovación sostiene los medios y sistemas corporativos.",
+      "fact_id": "PN-T08-F083",
+      "articulo": "Orden INT/859/2023, art. 12"
+    },
+    {
+      "id": "PN-T08-Q169",
+      "respuesta_correcta": "A",
+      "explicacion": "La División agrupa gestión documental y archivo.",
+      "fact_id": "PN-T08-F089",
+      "articulo": "Orden INT/859/2023, arts. 14 y 15"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}
