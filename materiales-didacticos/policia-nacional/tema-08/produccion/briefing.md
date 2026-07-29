@@ -2,7 +2,7 @@
 
 Fuente: `temas/policia-nacional/atestado/tema-08-direccion-general-policia-policia-nacional.md`.
 
-Versión de contenido: `0.9.0`.
+Versión de contenido: `1.0.0`.
 
 ## Partes de producción
 
