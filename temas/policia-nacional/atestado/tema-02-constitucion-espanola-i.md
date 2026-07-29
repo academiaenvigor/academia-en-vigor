@@ -576,7 +576,8 @@ TÍTULO I (arts. 10-55)
 ├── Capítulo III (39-52) · Principios rectores de política social y económica
 ├── Capítulo IV (53-54) · Garantías y Defensor del Pueblo
 └── Capítulo V (55) · Suspensión de derechos y libertades
-```  <!-- FACT:PN-T02-F062 --> <!-- FACT:PN-T02-F063 --> <!-- FACT:PN-T02-F064 --> <!-- FACT:PN-T02-F065 --> <!-- FACT:PN-T02-F066 -->
+```
+<!-- FACT:PN-T02-F062 --> <!-- FACT:PN-T02-F063 --> <!-- FACT:PN-T02-F064 --> <!-- FACT:PN-T02-F065 --> <!-- FACT:PN-T02-F066 -->
 
 Esta ubicación determina las garantías. No basta con que un precepto emplee la palabra «derecho»: propiedad, vivienda y tutela judicial no tienen el mismo nivel de protección porque están situados en zonas diferentes.
 
