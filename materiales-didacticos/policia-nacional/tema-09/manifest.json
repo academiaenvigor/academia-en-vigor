@@ -1,0 +1,897 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-09",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "plan_produccion_completo",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-09",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Bases comunes de la LO 2/1986",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Estatuto común y Fuerzas estatales",
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Representación colectiva y Consejo de Policía",
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "anchor_blocks": [
+        "13"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Policía Judicial",
+      "blocks": [
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "18"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Policías autonómicas y coordinación territorial",
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Policías Locales",
+      "blocks": [
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "26"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "t09-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Audio · Bases comunes de la LO 2/1986",
+      "filename": "T09-P1-AUDIO-bases-comunes-de-la-lo-2-1986.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p01/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Video · Bases comunes de la LO 2/1986",
+      "filename": "T09-P1-VIDEO-bases-comunes-de-la-lo-2-1986.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p01/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p1-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Pres · Bases comunes de la LO 2/1986",
+      "filename": "T09-P1-PRES-bases-comunes-de-la-lo-2-1986.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p01/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p1-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Resumen · Bases comunes de la LO 2/1986",
+      "filename": "T09-P1-RESUMEN-bases-comunes-de-la-lo-2-1986.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p01/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Audio · Estatuto común y Fuerzas estatales",
+      "filename": "T09-P2-AUDIO-estatuto-comun-y-fuerzas-estatales.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p02/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Video · Estatuto común y Fuerzas estatales",
+      "filename": "T09-P2-VIDEO-estatuto-comun-y-fuerzas-estatales.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p02/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p2-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Pres · Estatuto común y Fuerzas estatales",
+      "filename": "T09-P2-PRES-estatuto-comun-y-fuerzas-estatales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p02/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p2-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Resumen · Estatuto común y Fuerzas estatales",
+      "filename": "T09-P2-RESUMEN-estatuto-comun-y-fuerzas-estatales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p02/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Audio · Representación colectiva y Consejo de Policía",
+      "filename": "T09-P3-AUDIO-representacion-colectiva-y-consejo-de-policia.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p03/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Video · Representación colectiva y Consejo de Policía",
+      "filename": "T09-P3-VIDEO-representacion-colectiva-y-consejo-de-policia.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p03/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p3-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Pres · Representación colectiva y Consejo de Policía",
+      "filename": "T09-P3-PRES-representacion-colectiva-y-consejo-de-policia.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p03/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p3-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Resumen · Representación colectiva y Consejo de Policía",
+      "filename": "T09-P3-RESUMEN-representacion-colectiva-y-consejo-de-policia.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p03/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "18"
+      ],
+      "title": "Audio · Policía Judicial",
+      "filename": "T09-P4-AUDIO-policia-judicial.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p04/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "18"
+      ],
+      "title": "Video · Policía Judicial",
+      "filename": "T09-P4-VIDEO-policia-judicial.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p04/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p4-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "18"
+      ],
+      "title": "Pres · Policía Judicial",
+      "filename": "T09-P4-PRES-policia-judicial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p04/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p4-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "18"
+      ],
+      "title": "Resumen · Policía Judicial",
+      "filename": "T09-P4-RESUMEN-policia-judicial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p04/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ],
+      "title": "Audio · Policías autonómicas y coordinación territorial",
+      "filename": "T09-P5-AUDIO-policias-autonomicas-y-coordinacion-territorial.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p05/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ],
+      "title": "Video · Policías autonómicas y coordinación territorial",
+      "filename": "T09-P5-VIDEO-policias-autonomicas-y-coordinacion-territorial.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p05/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p5-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ],
+      "title": "Pres · Policías autonómicas y coordinación territorial",
+      "filename": "T09-P5-PRES-policias-autonomicas-y-coordinacion-territorial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p05/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p5-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ],
+      "title": "Resumen · Policías autonómicas y coordinación territorial",
+      "filename": "T09-P5-RESUMEN-policias-autonomicas-y-coordinacion-territorial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p05/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p6-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Audio · Policías Locales",
+      "filename": "T09-P6-AUDIO-policias-locales.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p06/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p6-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Video · Policías Locales",
+      "filename": "T09-P6-VIDEO-policias-locales.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p06/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p6-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Pres · Policías Locales",
+      "filename": "T09-P6-PRES-policias-locales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p06/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t09-p6-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Resumen · Policías Locales",
+      "filename": "T09-P6-RESUMEN-policias-locales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-09/p06/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    }
+  ]
+}

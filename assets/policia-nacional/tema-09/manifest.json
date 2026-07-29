@@ -1,0 +1,409 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-09",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 23,
+    "integrated": 23,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-29",
+  "resources": [
+    {
+      "id": "PN-T09-DG01",
+      "file": "t09-01-mapa-sistema-seguridad.webp",
+      "title": "Mapa del sistema policial",
+      "type": "infografia",
+      "placement": "Mapa del tema",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa del sistema policial",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG02",
+      "file": "t09-02-seis-principios-actuacion.webp",
+      "title": "Seis principios básicos de actuación",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Seis principios básicos de actuación",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG03",
+      "file": "t09-03-secuencia-detencion.webp",
+      "title": "Secuencia de la detención",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Secuencia de la detención",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG04",
+      "file": "t09-04-estatuto-comun.webp",
+      "title": "Estatuto común",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Estatuto común",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG05",
+      "file": "t09-05-pn-gc-naturaleza.webp",
+      "title": "Policía Nacional y Guardia Civil",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Policía Nacional y Guardia Civil",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG06",
+      "file": "t09-06-articulo-11-territorio.webp",
+      "title": "Artículo 11: función y territorio",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Artículo 11: función y territorio",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG07",
+      "file": "t09-07-competencias-pn-gc.webp",
+      "title": "Distribución material de competencias",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Distribución material de competencias",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG08",
+      "file": "t09-08-cambio-normativo-consejo.webp",
+      "title": "Norma vigente de representación",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Norma vigente de representación",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG09",
+      "file": "t09-09-representatividad-sindical.webp",
+      "title": "Representatividad sindical",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Representatividad sindical",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG10",
+      "file": "t09-10-consejo-policia.webp",
+      "title": "Consejo de Policía",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Consejo de Policía",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG11",
+      "file": "t09-11-policia-judicial-dos-niveles.webp",
+      "title": "Dos niveles de Policía Judicial",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Dos niveles de Policía Judicial",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG12",
+      "file": "t09-12-garantias-investigacion.webp",
+      "title": "Garantías de la investigación",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Garantías de la investigación",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG13",
+      "file": "t09-13-tres-vias-autonomicas.webp",
+      "title": "Tres vías autonómicas",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres vías autonómicas",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG14",
+      "file": "t09-14-tres-columnas-autonomicas.webp",
+      "title": "Funciones autonómicas",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Funciones autonómicas",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG15",
+      "file": "t09-15-tres-organos-coordinacion.webp",
+      "title": "Órganos de coordinación",
+      "type": "infografia",
+      "placement": "Bloque 25",
+      "status": "integrated_webp",
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Órganos de coordinación",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG16",
+      "file": "t09-16-territorio-local.webp",
+      "title": "Territorio de la Policía Local",
+      "type": "infografia",
+      "placement": "Bloque 26",
+      "status": "integrated_webp",
+      "block": 26,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Territorio de la Policía Local",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-DG17",
+      "file": "t09-17-funciones-policia-local.webp",
+      "title": "Funciones de la Policía Local",
+      "type": "infografia",
+      "placement": "Bloque 27",
+      "status": "integrated_webp",
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Funciones de la Policía Local",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL01",
+      "file": "t09-il-01-triple-filtro-fuerza.webp",
+      "title": "Triple filtro del uso de la fuerza",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Triple filtro del uso de la fuerza",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL02",
+      "file": "t09-il-02-agente-no-autoridad.webp",
+      "title": "Agente de la autoridad: regla y excepción",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Agente de la autoridad: regla y excepción",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL03",
+      "file": "t09-il-03-reloj-sindical.webp",
+      "title": "Reloj de la actividad sindical",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Reloj de la actividad sindical",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL04",
+      "file": "t09-il-04-balanza-paritaria.webp",
+      "title": "Balanza paritaria del Consejo",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Balanza paritaria del Consejo",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL05",
+      "file": "t09-il-05-doble-dependencia.webp",
+      "title": "Doble dependencia de Policía Judicial",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Doble dependencia de Policía Judicial",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T09-IL06",
+      "file": "t09-il-06-enchufe-doble-adscritas.webp",
+      "title": "Unidad completa y dos dependencias",
+      "type": "ilustracion_didactica",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Unidad completa y dos dependencias",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,224 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 9,
+  "topic_title": "Ley Orgánica 2/1986: Fuerzas y Cuerpos de Seguridad",
+  "id_prefix": "PN-T09",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-09/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-09/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Arquitectura general de la seguridad pública"
+      },
+      {
+        "number": 2,
+        "title": "Quién integra las Fuerzas y Cuerpos de Seguridad"
+      },
+      {
+        "number": 3,
+        "title": "Principios: adecuación al ordenamiento jurídico"
+      },
+      {
+        "number": 4,
+        "title": "Principios: relaciones con la comunidad y uso de la fuerza"
+      },
+      {
+        "number": 5,
+        "title": "Principios: personas detenidas"
+      },
+      {
+        "number": 6,
+        "title": "Dedicación, secreto y responsabilidad"
+      },
+      {
+        "number": 7,
+        "title": "Promoción, formación y condiciones estatutarias"
+      },
+      {
+        "number": 8,
+        "title": "Retribución, horario, incompatibilidad, huelga y disciplina"
+      },
+      {
+        "number": 9,
+        "title": "Agente de la autoridad y jurisdicción"
+      },
+      {
+        "number": 10,
+        "title": "Composición y dependencia de las Fuerzas estatales"
+      },
+      {
+        "number": 11,
+        "title": "Funciones comunes y distribución territorial"
+      },
+      {
+        "number": 12,
+        "title": "Distribución material entre Policía Nacional y Guardia Civil"
+      },
+      {
+        "number": 13,
+        "title": "Régimen vigente de representación colectiva"
+      },
+      {
+        "number": 14,
+        "title": "Constitución y representatividad sindical"
+      },
+      {
+        "number": 15,
+        "title": "Actividad sindical y sus límites"
+      },
+      {
+        "number": 16,
+        "title": "Consejo de Policía: naturaleza y funciones"
+      },
+      {
+        "number": 17,
+        "title": "Consejo de Policía: composición, elecciones y mandato"
+      },
+      {
+        "number": 18,
+        "title": "Policía Judicial: función general y unidades especializadas"
+      },
+      {
+        "number": 19,
+        "title": "Dependencias y adscripción de las unidades"
+      },
+      {
+        "number": 20,
+        "title": "Especialización, exclusividad y garantías de investigación"
+      },
+      {
+        "number": 21,
+        "title": "Policías autonómicas: creación y vías de ejercicio"
+      },
+      {
+        "number": 22,
+        "title": "Funciones de las policías autonómicas"
+      },
+      {
+        "number": 23,
+        "title": "Naturaleza, territorio, uniforme y mandos autonómicos"
+      },
+      {
+        "number": 24,
+        "title": "Colaboración, auxilio y unidades adscritas"
+      },
+      {
+        "number": 25,
+        "title": "Órganos de coordinación Estado-comunidades"
+      },
+      {
+        "number": 26,
+        "title": "Policías Locales: creación, naturaleza y territorio"
+      },
+      {
+        "number": 27,
+        "title": "Funciones y coordinación de las Policías Locales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Bases comunes de la LO 2/1986",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Estatuto común y Fuerzas estatales",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Representación colectiva y Consejo de Policía",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Policía Judicial",
+        "blocks": [
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Policías autonómicas y coordinación territorial",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Policías Locales",
+        "blocks": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
