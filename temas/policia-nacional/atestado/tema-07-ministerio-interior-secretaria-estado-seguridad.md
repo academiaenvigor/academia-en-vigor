@@ -1,32 +1,19 @@
-<!-- Archivo generado. No editar cambios sustantivos aquí. -->
-<!-- Fuente: conocimiento/policia-nacional/tema-07/ -->
-<!-- Tema: pn-t07 · Contenido: 1.0.0 · Corte normativo: 2026-07-28 -->
+# TEMA 7 · EL MINISTERIO DEL INTERIOR. LA SECRETARÍA DE ESTADO DE SEGURIDAD
 
-# TEMA 7 · EL MINISTERIO DEL INTERIOR
-## Temario Completo — EL ATESTADO
+**Policía Nacional · Método VIGOR · ATESTADO**
+**Versión de contenido:** 1.0.0
+**Estado editorial:** approved_internal · **Publicación:** not_published
 
-**Policía Nacional · Escala Básica · Bloque A: Ciencias Jurídicas**
+# Mapa del tema
 
-🛡️ **ACADEMIA EN VIGOR** · *El temario que nunca duerme*
-
-**Versión:** 1.0.0 · **Corte normativo:** 28/07/2026 · **Estado:** publicado
-
-**Programa oficial cubierto:** «El Ministerio del Interior: estructura orgánica básica. La Secretaría de Estado de Seguridad: estructura y funciones».
-
-Este tema desarrolla la estructura general del Departamento y profundiza en la Secretaría de Estado de Seguridad. La Dirección General de la Policía se sitúa correctamente en el organigrama, pero su estructura interna se remite al Tema 8 para evitar duplicidades y contradicciones.
-
----
-
-# 📋 MAPA DEL TEMA
-
-## Qué exige el programa
+### Qué exige el programa
 
 El Tema 7 tiene dos núcleos:
 
 1. **Ministerio del Interior:** competencias, mando y estructura orgánica básica.
 2. **Secretaría de Estado de Seguridad (SES):** posición, funciones y órganos que dependen de ella.
 
-## Normativa clave
+### Normativa clave
 
 | Norma | Función dentro del tema |
 |---|---|
@@ -36,7 +23,7 @@ El Tema 7 tiene dos núcleos:
 | **Real Decreto 1009/2023, de 5 de diciembre** | Establece la estructura básica de los departamentos ministeriales. |
 | **Ley 40/2015, de 1 de octubre** | Regula órganos superiores y directivos y las funciones generales de ministros, secretarios de Estado, subsecretarios y secretarios generales. |
 
-## División de estudio
+### División de estudio
 
 1. **El Ministerio:** qué hace, quién manda y cómo queda el organigrama en 2026.
 2. **La SES:** sus quince grandes funciones.
@@ -47,11 +34,13 @@ El Tema 7 tiene dos núcleos:
 > ⚠️ **ALERTA DEL VIGÍA**
 > La reforma de abril de 2026 sacó Protección Civil de la Subsecretaría y creó una **Secretaría General de Protección Civil y Emergencias**, dependiente directamente de la persona titular del Ministerio. Cualquier organigrama que coloque todavía la Dirección General de Protección Civil y Emergencias bajo la Subsecretaría está desactualizado.
 
-:::visual
-**Recurso visual:** `t07-01-mapa-ministerio.webp` · organigrama vigente del Ministerio tras el Real Decreto 328/2026.
-:::
+<!-- VISUAL:t07-01-mapa-ministerio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-01-mapa-ministerio.webp" alt="organigrama vigente del Ministerio tras el Real Decreto 328/2026" width="820">
+</p>
+<p align="center"><em>Infografía: organigrama vigente del Ministerio tras el Real Decreto 328/2026.</em></p>
 
-## Estrategia de estudio
+### Estrategia de estudio
 
 No conviene memorizar este tema como una lista plana. Hay tres relaciones distintas:
 
@@ -65,9 +54,13 @@ La prioridad es dominar el detalle que permite contestar preguntas reales sin du
 
 ---
 
-# 🟦 PARTE 1 · EL MINISTERIO DEL INTERIOR
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
 
-## 1. Competencias del Departamento
+# Contenido
+
+## 01. Competencias del Ministerio del Interior
 
 El Ministerio del Interior propone y ejecuta la política del Gobierno en estas materias:
 
@@ -93,11 +86,34 @@ El Ministerio del Interior propone y ejecuta la política del Gobierno en estas 
 > 💡 **HABLEMOS CLARO**
 > Interior no es «el ministerio de la Policía». Su campo es mucho más amplio: seguridad pública, extranjería y asilo, prisiones, elecciones, emergencias y tráfico. La Policía Nacional y la Guardia Civil son piezas esenciales, pero no agotan el Departamento. La idea que debe quedar es esta: **Interior protege seguridad, derechos y movilidad, y administra varios sistemas estatales críticos**.
 
-:::visual
-**Ilustración didáctica:** `t07-il-01-interior-no-es-solo-policia.webp` · los seis grandes ámbitos del Ministerio del Interior.
-:::
+<!-- VISUAL:t07-il-01-interior-no-es-solo-policia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-01-interior-no-es-solo-policia.webp" alt="los seis grandes ámbitos del Ministerio del Interior" width="600">
+</p>
+<p align="center"><em>Ilustración: los seis grandes ámbitos del Ministerio del Interior.</em></p>
 
-## 2. La persona titular del Ministerio y su asistencia inmediata
+ <!-- FACT:PN-T07-F001 -->
+
+ <!-- FACT:PN-T07-F002 -->
+
+ <!-- FACT:PN-T07-F003 -->
+
+ <!-- FACT:PN-T07-F004 -->
+
+ <!-- FACT:PN-T07-F005 -->
+
+ <!-- FACT:PN-T07-F006 -->
+
+<!-- MATERIAL PENDIENTE: t07-p1-audio -->
+<!-- MATERIAL PENDIENTE: t07-p1-video -->
+<!-- MATERIAL PENDIENTE: t07-p1-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 02. Ministro, Gabinete y Oficina de Comunicación
 
 La persona titular del Ministerio:
 
@@ -115,7 +131,26 @@ Dependen de ella dos piezas que no deben confundirse:
 
 ⚠️ El **Gabinete del Ministro** tiene nivel de **dirección general**. El **Gabinete de la SES** tiene nivel de **subdirección general**.
 
-## 3. La escalera del mando: superior, ejercicio y directo
+ <!-- FACT:PN-T07-F007 -->
+
+ <!-- FACT:PN-T07-F008 -->
+
+ <!-- FACT:PN-T07-F009 -->
+
+ <!-- FACT:PN-T07-F010 -->
+
+ <!-- FACT:PN-T07-F011 -->
+
+<!-- MATERIAL PENDIENTE: t07-p1-audio -->
+<!-- MATERIAL PENDIENTE: t07-p1-video -->
+<!-- MATERIAL PENDIENTE: t07-p1-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 03. Tres niveles de mando
 
 | Nivel | Titular | Fórmula examinable |
 |---|---|---|
@@ -123,13 +158,17 @@ Dependen de ella dos piezas que no deben confundirse:
 | 2 | **Secretario de Estado de Seguridad** | **Ejercicio del mando** de las Fuerzas y Cuerpos de Seguridad del Estado. |
 | 3 | **Director General de la Policía / Guardia Civil** | **Mando directo** del Cuerpo correspondiente. |
 
-:::visual
-**Recurso visual:** `t07-02-tres-niveles-mando.webp` · Ministro, SES y direcciones generales con los tres verbos competenciales.
-:::
+<!-- VISUAL:t07-02-tres-niveles-mando.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-02-tres-niveles-mando.webp" alt="Ministro, SES y direcciones generales con los tres verbos competenciales" width="820">
+</p>
+<p align="center"><em>Infografía: Ministro, SES y direcciones generales con los tres verbos competenciales.</em></p>
 
-:::visual
-**Ilustración didáctica:** `t07-il-02-la-escalera-del-mando.webp` · regla mnemotécnica de los tres peldaños del mando.
-:::
+<!-- VISUAL:t07-il-02-la-escalera-del-mando.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-02-la-escalera-del-mando.webp" alt="regla mnemotécnica de los tres peldaños del mando" width="600">
+</p>
+<p align="center"><em>Ilustración: regla mnemotécnica de los tres peldaños del mando.</em></p>
 
 > 🎯 **LO QUE CAE**
 > La trampa no está en el órgano, sino en el adjetivo. El Ministro no ejerce el mando «directo» de la Policía Nacional y el Director General no ostenta el mando «superior» de todas las Fuerzas y Cuerpos de Seguridad del Estado.
@@ -137,7 +176,22 @@ Dependen de ella dos piezas que no deben confundirse:
 > 🚔 **EN LA CALLE**
 > Ante un dispositivo que exige una línea política común para Policía Nacional y Guardia Civil, el nivel departamental corresponde al Ministro y la coordinación ejecutiva a la SES. La dirección cotidiana de las unidades de Policía Nacional corresponde a la Dirección General de la Policía. El ejemplo sirve para separar niveles; no convierte a la SES en una jefatura operativa de cada unidad.
 
-## 4. Estructura orgánica básica vigente
+ <!-- FACT:PN-T07-F012 -->
+
+ <!-- FACT:PN-T07-F013 -->
+
+ <!-- FACT:PN-T07-F014 -->
+
+<!-- MATERIAL PENDIENTE: t07-p1-audio -->
+<!-- MATERIAL PENDIENTE: t07-p1-video -->
+<!-- MATERIAL PENDIENTE: t07-p1-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 04. Estructura orgánica básica vigente
 
 ### A. Secretaría de Estado de Seguridad
 
@@ -185,11 +239,13 @@ Desde el **27 de abril de 2026**:
 > 🎯 **LO QUE CAE**
 > Un test puede ofrecer como opción la antigua dependencia «Subsecretaría → Dirección General de Protección Civil y Emergencias». Esa relación fue válida antes de la reforma, pero hoy es falsa.
 
-:::visual
-**Recurso visual:** `t07-03-cambio-proteccion-civil-2026.webp` · antes y después de la reforma de abril de 2026.
-:::
+<!-- VISUAL:t07-03-cambio-proteccion-civil-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-03-cambio-proteccion-civil-2026.webp" alt="antes y después de la reforma de abril de 2026" width="820">
+</p>
+<p align="center"><em>Infografía: antes y después de la reforma de abril de 2026.</em></p>
 
-## Recuperación activa · Parte 1
+### Recuperación activa · Parte 1
 
 Sin mirar:
 
@@ -201,13 +257,49 @@ Sin mirar:
 
 ---
 
-# 🟦 PARTE 2 · LA SECRETARÍA DE ESTADO DE SEGURIDAD
+ <!-- FACT:PN-T07-F015 -->
 
-## 5. Posición de la SES
+ <!-- FACT:PN-T07-F016 -->
+
+ <!-- FACT:PN-T07-F017 -->
+
+ <!-- FACT:PN-T07-F018 -->
+
+ <!-- FACT:PN-T07-F019 -->
+
+ <!-- FACT:PN-T07-F020 -->
+
+ <!-- FACT:PN-T07-F021 -->
+
+ <!-- FACT:PN-T07-F022 -->
+
+<!-- MATERIAL PENDIENTE: t07-p1-audio -->
+<!-- MATERIAL PENDIENTE: t07-p1-video -->
+<!-- MATERIAL PENDIENTE: t07-p1-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 05. Posición de la Secretaría de Estado de Seguridad
 
 La persona titular de la SES actúa bajo la **inmediata autoridad** de la persona titular del Ministerio. Ejerce las funciones generales de los secretarios de Estado del artículo 62 de la Ley 40/2015 y dirige, coordina y supervisa los órganos directivos que dependen de la Secretaría de Estado.
 
-## 6. Funciones específicas de la SES
+ <!-- FACT:PN-T07-F023 -->
+
+ <!-- FACT:PN-T07-F024 -->
+
+<!-- MATERIAL PENDIENTE: t07-p2-audio -->
+<!-- MATERIAL PENDIENTE: t07-p2-video -->
+<!-- MATERIAL PENDIENTE: t07-p2-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 06. Funciones de la Secretaría de Estado de Seguridad
 
 Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 
@@ -247,13 +339,17 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 - Mandar la participación española en la Guardia Europea de Fronteras y Costas.
 - Mantener las relaciones con la Agencia Europea de la Guardia de Fronteras y Costas.
 
-:::visual
-**Recurso visual:** `t07-04-funciones-ses.webp` · seis bloques visuales para ordenar las funciones de la SES.
-:::
+<!-- VISUAL:t07-04-funciones-ses.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-04-funciones-ses.webp" alt="seis bloques visuales para ordenar las funciones de la SES" width="820">
+</p>
+<p align="center"><em>Infografía: seis bloques visuales para ordenar las funciones de la SES.</em></p>
 
-:::visual
-**Ilustración didáctica:** `t07-il-03-ses-torre-de-control.webp` · la SES como torre de control que coordina, supervisa e integra.
-:::
+<!-- VISUAL:t07-il-03-ses-torre-de-control.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-03-ses-torre-de-control.webp" alt="la SES como torre de control que coordina, supervisa e integra" width="600">
+</p>
+<p align="center"><em>Ilustración: la SES como torre de control que coordina, supervisa e integra.</em></p>
 
 > 💡 **HABLEMOS CLARO**
 > La SES no sustituye a las Direcciones Generales. Marca dirección común, coordina, supervisa y asume sistemas transversales que afectan a varios cuerpos: cooperación internacional, fronteras, infraestructuras críticas, ciberseguridad o PNR. La idea que debe quedar es: **la SES integra la política de seguridad que no puede gestionarse como compartimentos policiales aislados**.
@@ -271,9 +367,46 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 
 ---
 
-# 🟦 PARTE 3 · EL NÚCLEO DIRECTO DE LA SES
+ <!-- FACT:PN-T07-F025 -->
 
-## 7. Mapa de dependencias
+ <!-- FACT:PN-T07-F026 -->
+
+ <!-- FACT:PN-T07-F027 -->
+
+ <!-- FACT:PN-T07-F028 -->
+
+ <!-- FACT:PN-T07-F029 -->
+
+ <!-- FACT:PN-T07-F030 -->
+
+ <!-- FACT:PN-T07-F031 -->
+
+ <!-- FACT:PN-T07-F032 -->
+
+ <!-- FACT:PN-T07-F033 -->
+
+ <!-- FACT:PN-T07-F034 -->
+
+ <!-- FACT:PN-T07-F035 -->
+
+ <!-- FACT:PN-T07-F036 -->
+
+ <!-- FACT:PN-T07-F037 -->
+
+ <!-- FACT:PN-T07-F038 -->
+
+ <!-- FACT:PN-T07-F039 -->
+
+<!-- MATERIAL PENDIENTE: t07-p2-audio -->
+<!-- MATERIAL PENDIENTE: t07-p2-video -->
+<!-- MATERIAL PENDIENTE: t07-p2-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 07. Mapa de dependencias de la Secretaría de Estado
 
 Dependen o se integran en el entorno inmediato de la persona titular de la SES:
 
@@ -285,11 +418,30 @@ Dependen o se integran en el entorno inmediato de la persona titular de la SES:
 6. Organismo autónomo **Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado**, adscrito a la SES.
 7. Los cuatro órganos directivos: DGP, DGGC, DGRIE y DGCE.
 
-:::visual
-**Recurso visual:** `t07-05-estructura-ses.webp` · mapa de dependencias directas y órganos directivos de la SES.
-:::
+<!-- VISUAL:t07-05-estructura-ses.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-05-estructura-ses.webp" alt="mapa de dependencias directas y órganos directivos de la SES" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de dependencias directas y órganos directivos de la SES.</em></p>
 
-## 8. Gabinete de la SES
+ <!-- FACT:PN-T07-F040 -->
+
+ <!-- FACT:PN-T07-F041 -->
+
+ <!-- FACT:PN-T07-F042 -->
+
+ <!-- FACT:PN-T07-F043 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 08. Gabinete de la Secretaría de Estado
 
 Es el órgano de asistencia inmediata y tiene nivel orgánico de **subdirección general**.
 
@@ -300,7 +452,22 @@ La persona que dirige el Gabinete:
 
 ⚠️ La Relatoría corresponde a la persona titular de la **dirección del Gabinete**, no al CITCO. El CITCO actúa como punto focal de apoyo y asistencia técnica a esa Relatoría.
 
-## 9. CITCO
+ <!-- FACT:PN-T07-F044 -->
+
+ <!-- FACT:PN-T07-F045 -->
+
+ <!-- FACT:PN-T07-F046 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 09. CITCO
 
 El **Centro de Inteligencia contra el Terrorismo y el Crimen Organizado** depende de la persona titular de la SES y tiene nivel orgánico de **subdirección general**.
 
@@ -329,13 +496,17 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 - punto nacional de contacto sobre localización y recuperación de activos (**ORA**);
 - punto de contacto nacional para precursores de explosivos.
 
-:::visual
-**Recurso visual:** `t07-06-citco.webp` · CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL.
-:::
+<!-- VISUAL:t07-06-citco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-06-citco.webp" alt="CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL" width="820">
+</p>
+<p align="center"><em>Infografía: CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL.</em></p>
 
-:::visual
-**Ilustración didáctica:** `t07-il-04-citco-no-es-una-comisaria.webp` · CITCO integra, analiza y coordina sin ejercer el mando operativo general.
-:::
+<!-- VISUAL:t07-il-04-citco-no-es-una-comisaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-04-citco-no-es-una-comisaria.webp" alt="CITCO integra, analiza y coordina sin ejercer el mando operativo general" width="600">
+</p>
+<p align="center"><em>Ilustración: CITCO integra, analiza y coordina sin ejercer el mando operativo general.</em></p>
 
 > 💡 **HABLEMOS CLARO**
 > CITCO no es una comisaría general ni una unidad de la Policía Nacional. Es un centro de la SES que trabaja sobre información procedente de distintos actores, genera inteligencia estratégica y coordina concurrencias. **No confundir inteligencia estratégica con dirección ordinaria de todas las investigaciones**.
@@ -358,6 +529,41 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 > - La dirección del Gabinete ejerce la Relatoría; CITCO presta apoyo técnico como punto focal.
 > - CITCO depende de la SES, no de la Dirección General de la Policía.
 
+ <!-- FACT:PN-T07-F047 -->
+
+ <!-- FACT:PN-T07-F048 -->
+
+ <!-- FACT:PN-T07-F049 -->
+
+ <!-- FACT:PN-T07-F050 -->
+
+ <!-- FACT:PN-T07-F051 -->
+
+ <!-- FACT:PN-T07-F052 -->
+
+ <!-- FACT:PN-T07-F053 -->
+
+ <!-- FACT:PN-T07-F054 -->
+
+ <!-- FACT:PN-T07-F055 -->
+
+ <!-- FACT:PN-T07-F056 -->
+
+ <!-- FACT:PN-T07-F057 -->
+
+ <!-- FACT:PN-T07-F058 -->
+
+ <!-- FACT:PN-T07-F059 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
 ## 10. Comité Ejecutivo de Coordinación
 
 Bajo dirección y supervisión de la persona titular del Ministerio, lo preside la persona titular de la SES.
@@ -375,7 +581,24 @@ Lo integran las personas titulares de:
 
 ⚠️ La redacción vigente del artículo 2.4 no incorporó a la nueva Secretaría General de Protección Civil y Emergencias a esta composición.
 
-## 11. Las dos subdirecciones generales propias de la SES
+ <!-- FACT:PN-T07-F060 -->
+
+ <!-- FACT:PN-T07-F061 -->
+
+ <!-- FACT:PN-T07-F062 -->
+
+ <!-- FACT:PN-T07-F063 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 11. Subdirecciones generales propias de la Secretaría de Estado
 
 ### 11.1. Planificación y Gestión de Infraestructuras y Medios para la Seguridad
 
@@ -405,14 +628,41 @@ Se ocupa del soporte **digital y de comunicaciones**:
 
 **Regla de memoria:** **piedra y píxel**. La primera gestiona inmuebles y medios; la segunda, información y comunicaciones.
 
-:::visual
-**Ilustración didáctica:** `t07-il-05-piedra-y-pixel.webp` · contraste entre infraestructuras y medios frente a información y comunicaciones.
-:::
+<!-- VISUAL:t07-il-05-piedra-y-pixel.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-05-piedra-y-pixel.webp" alt="contraste entre infraestructuras y medios frente a información y comunicaciones" width="600">
+</p>
+<p align="center"><em>Ilustración: contraste entre infraestructuras y medios frente a información y comunicaciones.</em></p>
 
 > 💡 **HABLEMOS CLARO**
 > Las dos subdirecciones no compran y operan todo por sí solas. Planifican, proponen, coordinan o gestionan dentro de los créditos y encargos de la SES, respetando las competencias propias de Policía, Guardia Civil, la Gerencia y otros órganos. En un test, los verbos absolutos —«asume en exclusiva», «dirige todos los sistemas»— son sospechosos.
 
-## 12. Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado
+ <!-- FACT:PN-T07-F064 -->
+
+ <!-- FACT:PN-T07-F065 -->
+
+ <!-- FACT:PN-T07-F066 -->
+
+ <!-- FACT:PN-T07-F067 -->
+
+ <!-- FACT:PN-T07-F068 -->
+
+ <!-- FACT:PN-T07-F069 -->
+
+ <!-- FACT:PN-T07-F070 -->
+
+ <!-- FACT:PN-T07-F071 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 12. Gerencia de Infraestructuras y Equipamiento
 
 Es un **organismo autónomo adscrito a la SES**. Su Estatuto fue aprobado por el Real Decreto 904/2021.
 
@@ -420,7 +670,7 @@ La disposición transitoria tercera del Real Decreto 207/2024 establece que, has
 
 ⚠️ La Gerencia no es una subdirección general y la Subdirección de Infraestructuras no depende de la Gerencia: ambas se relacionan, pero ocupan posiciones diferentes.
 
-## Recuperación activa · Parte 3
+### Recuperación activa · Parte 3
 
 1. ¿Qué nivel tienen el Gabinete de la SES y CITCO?
 2. ¿Quién ejerce la Relatoría Nacional contra la Trata?
@@ -431,9 +681,22 @@ La disposición transitoria tercera del Real Decreto 207/2024 establece que, has
 
 ---
 
-# 🟦 PARTE 4 · LOS ÓRGANOS DIRECTIVOS DE LA SES
+ <!-- FACT:PN-T07-F072 -->
 
-## 13. Visión de conjunto
+ <!-- FACT:PN-T07-F073 -->
+
+ <!-- FACT:PN-T07-F074 -->
+
+<!-- MATERIAL PENDIENTE: t07-p3-audio -->
+<!-- MATERIAL PENDIENTE: t07-p3-video -->
+<!-- MATERIAL PENDIENTE: t07-p3-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 13. Direcciones Generales de Policía y Guardia Civil
 
 | Órgano directivo | Idea nuclear |
 |---|---|
@@ -449,6 +712,23 @@ El Tema 8 desarrolla la Dirección General de la Policía. En el Tema 7 basta co
 Las dos Direcciones Generales dependen de la SES y sus titulares tienen rango de subsecretario. La Policía Nacional recibe directrices de la persona titular del Ministerio del Interior. La Guardia Civil presenta una singularidad: sus misiones se desarrollan conforme a las directrices de Interior y Defensa dentro de sus respectivas competencias.
 
 No se reproduce aquí la estructura interna de la Dirección General de la Policía porque el programa la sitúa expresamente en el Tema 8. Tampoco se desarrolla toda la estructura de la Guardia Civil: en el Tema 7 interesa identificarla como órgano directivo dependiente de la SES y diferenciarla de la Policía Nacional.
+
+ <!-- FACT:PN-T07-F075 -->
+
+ <!-- FACT:PN-T07-F076 -->
+
+ <!-- FACT:PN-T07-F077 -->
+
+ <!-- FACT:PN-T07-F078 -->
+
+<!-- MATERIAL PENDIENTE: t07-p4-audio -->
+<!-- MATERIAL PENDIENTE: t07-p4-video -->
+<!-- MATERIAL PENDIENTE: t07-p4-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
 
 ## 14. Dirección General de Relaciones Internacionales y Extranjería
 
@@ -484,6 +764,29 @@ Gestiona el **Punto Nacional de Contacto con la Guardia Europea de Fronteras y C
 > - «Protección Internacional» y «Relaciones Internacionales y Extranjería» son direcciones generales distintas. La primera depende de la Subsecretaría; la segunda, de la SES.
 > - La DGRIE coordina la dimensión internacional; no sustituye a la Oficina de Asilo y Refugio ni a la Dirección General de Protección Internacional.
 
+ <!-- FACT:PN-T07-F079 -->
+
+ <!-- FACT:PN-T07-F080 -->
+
+ <!-- FACT:PN-T07-F081 -->
+
+ <!-- FACT:PN-T07-F082 -->
+
+ <!-- FACT:PN-T07-F083 -->
+
+ <!-- FACT:PN-T07-F084 -->
+
+ <!-- FACT:PN-T07-F085 -->
+
+<!-- MATERIAL PENDIENTE: t07-p4-audio -->
+<!-- MATERIAL PENDIENTE: t07-p4-video -->
+<!-- MATERIAL PENDIENTE: t07-p4-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
 ## 15. Dirección General de Coordinación y Estudios
 
 La **DGCE** es el órgano de apoyo y asesoramiento mediante el cual la SES coordina y supervisa la actuación de Policía Nacional y Guardia Civil y colabora con policías autonómicas y locales.
@@ -513,13 +816,17 @@ Entre sus funciones:
 - promover integridad profesional y deontológica;
 - dirigir la **Oficina Nacional de Garantías de los Derechos Humanos (ONGADH)**.
 
-:::visual
-**Recurso visual:** `t07-07-dgce.webp` · ocho áreas de la DGCE y la Inspección con la ONGADH.
-:::
+<!-- VISUAL:t07-07-dgce.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-07-dgce.webp" alt="ocho áreas de la DGCE y la Inspección con la ONGADH" width="820">
+</p>
+<p align="center"><em>Infografía: ocho áreas de la DGCE y la Inspección con la ONGADH.</em></p>
 
-:::visual
-**Ilustración didáctica:** `t07-il-06-dgce-cuadro-de-mando.webp` · la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.
-:::
+<!-- VISUAL:t07-il-06-dgce-cuadro-de-mando.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-07/t07-il-06-dgce-cuadro-de-mando.webp" alt="la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH" width="600">
+</p>
+<p align="center"><em>Ilustración: la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.</em></p>
 
 > 💡 **HABLEMOS CLARO**
 > La DGCE es el «cuadro de mando» de la SES. No manda directamente cada comisaría o comandancia: crea planes comunes, integra estadísticas, inspecciona, conecta cuerpos y administra sistemas transversales. CITCO se concentra en terrorismo y delincuencia organizada o grave; la DGCE cubre coordinación general, estudios, infraestructuras críticas, ciberseguridad y evaluación de servicios.
@@ -535,7 +842,7 @@ Entre sus funciones:
 > 🚔 **EN LA CALLE**
 > Si se necesita comparar datos de criminalidad de Policía Nacional, Guardia Civil y policías territoriales, diseñar una instrucción común y evaluar su ejecución, la DGCE aporta la estructura transversal. Si el problema es una investigación concreta de terrorismo con concurrencia de cuerpos, CITCO puede fijar criterios de coordinación en su ámbito. La clave es la materia y la función, no que ambos órganos «coordinen».
 
-## Recuperación activa · Parte 4
+### Recuperación activa · Parte 4
 
 1. ¿Qué cuatro direcciones generales dependen de la SES?
 2. ¿Cuál coordina la acción exterior del Ministerio?
@@ -547,9 +854,38 @@ Entre sus funciones:
 
 ---
 
-# 🟦 PARTE 5 · DISPOSICIONES Y REGLAS DE CIERRE
+ <!-- FACT:PN-T07-F086 -->
 
-## 16. Reglas especiales con capacidad de cambiar una respuesta
+ <!-- FACT:PN-T07-F087 -->
+
+ <!-- FACT:PN-T07-F088 -->
+
+ <!-- FACT:PN-T07-F089 -->
+
+ <!-- FACT:PN-T07-F090 -->
+
+ <!-- FACT:PN-T07-F091 -->
+
+ <!-- FACT:PN-T07-F092 -->
+
+ <!-- FACT:PN-T07-F093 -->
+
+ <!-- FACT:PN-T07-F094 -->
+
+ <!-- FACT:PN-T07-F095 -->
+
+ <!-- FACT:PN-T07-F096 -->
+
+<!-- MATERIAL PENDIENTE: t07-p4-audio -->
+<!-- MATERIAL PENDIENTE: t07-p4-video -->
+<!-- MATERIAL PENDIENTE: t07-p4-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+## 16. Disposiciones y reglas de cierre
 
 ### Nombramiento de los directores generales de Policía y Guardia Civil
 
@@ -573,7 +909,7 @@ La competencia está desconcentrada en la persona titular de la **SES** cuando l
 
 El Real Decreto 207/2024 entró en vigor al día siguiente de su publicación: **29 de febrero de 2024**. Su estructura fue reformada con efectos de **27 de abril de 2026** por el Real Decreto 328/2026.
 
-## 17. Resto de disposiciones del Real Decreto 207/2024
+### 17. Resto de disposiciones del Real Decreto 207/2024
 
 Para cerrar la norma sin convertir el tema en una copia del BOE:
 
@@ -590,9 +926,7 @@ Estas reglas tienen menor prioridad que los artículos 1 y 2, pero son útiles p
 
 ---
 
-# 🎯 CIERRE DEL TEMA
-
-## Última vuelta: 20 datos que deben salir de memoria
+### Última vuelta: 20 datos que deben salir de memoria
 
 1. Ministro: **mando superior**; SES: **ejercicio del mando**; directores generales: **mando directo**.
 2. Gabinete del Ministro: dirección general; Oficina de Comunicación: subdirección general.
@@ -615,7 +949,7 @@ Estas reglas tienen menor prioridad que los artículos 1 y 2, pero son útiles p
 19. La ONGADH está dirigida por esa Inspección.
 20. El cierre temporal de puestos fronterizos por razones de seguridad corresponde a la SES.
 
-## Trampas del tribunal
+### Trampas del tribunal
 
 | Si el enunciado dice... | Debes comprobar... |
 |---|---|
@@ -630,20 +964,7 @@ Estas reglas tienen menor prioridad que los artículos 1 y 2, pero son útiles p
 | «La Inspección depende directamente de la SES» | Depende de la DGCE. |
 | «ONGADH» con singular «Garantía» | La denominación vigente es Oficina Nacional de **Garantías** de los Derechos Humanos. |
 
-## 📅 Ha caído
-
-Referencias verificadas en los exámenes conservados en el proyecto:
-
-- **2015, preguntas 24-26:** ejercicio del mando por la SES; dependencia de la Subdirección de Infraestructuras; identificación de la DGRIE como órgano directivo de la SES.
-- **2016, pregunta 15:** funciones de CITCO; el distractor cambiaba «informes anuales» por «semestrales».
-- **2017, pregunta 30:** DGRIE no dependía de la Subsecretaría. La relación principal sigue vigente, aunque el resto del organigrama debe contestarse con la estructura de 2026.
-- **2019, pregunta 13:** protección de infraestructuras críticas. La formulación respondía a la estructura entonces vigente; hoy debe estudiarse mediante la SES y la DGCE/CNPIC.
-- **2025, pregunta 77:** Inspección de Personal y Servicios de Seguridad → DGCE; nivel de subdirección general.
-- **2025, pregunta 78:** UNECI → CITCO.
-
-No se reutiliza como vigente la pregunta de 2016 sobre la norma histórica de creación de la DGRIE: fue impugnada o quedó fuera de temario y sus opciones pertenecen a estructuras ya superadas.
-
-## Recuperación final razonada
+### Recuperación final razonada
 
 Responde sin mirar y explica el distractor:
 
@@ -671,7 +992,7 @@ Responde sin mirar y explica el distractor:
 9. El Real Decreto la sitúa bajo la DGCE, con nivel de subdirección general.
 10. Todos se integran funcionalmente en el ámbito de la DGCE: CNPIC, OCC y CEPIC en sus funciones directas; ONGADH bajo la Inspección.
 
-## Fuentes oficiales
+### Fuentes oficiales
 
 - [Convocatoria de Escala Básica de 2026 — BOE-A-2026-15055](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055)
 - [Real Decreto 207/2024, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793)
@@ -679,3 +1000,52 @@ Responde sin mirar y explica el distractor:
 - [Real Decreto 1009/2023, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2023-24842)
 - [Ley 40/2015, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
 - [Organigrama oficial del Ministerio del Interior](https://www.interior.gob.es/opencms/es/el-ministerio/organigrama/)
+
+ <!-- FACT:PN-T07-F097 -->
+
+ <!-- FACT:PN-T07-F098 -->
+
+ <!-- FACT:PN-T07-F099 -->
+
+ <!-- FACT:PN-T07-F100 -->
+
+ <!-- FACT:PN-T07-F101 -->
+
+ <!-- FACT:PN-T07-F102 -->
+
+ <!-- FACT:PN-T07-F103 -->
+
+ <!-- FACT:PN-T07-F104 -->
+
+ <!-- FACT:PN-T07-F105 -->
+
+ <!-- FACT:PN-T07-F106 -->
+
+<!-- MATERIAL PENDIENTE: t07-p5-audio -->
+<!-- MATERIAL PENDIENTE: t07-p5-video -->
+<!-- MATERIAL PENDIENTE: t07-p5-pres -->
+<!-- MATERIAL PENDIENTE: t07-todo-audio -->
+<!-- MATERIAL PENDIENTE: t07-todo-video -->
+<!-- MATERIAL PENDIENTE: t07-todo-pres -->
+
+<!-- FUENTE: DGP-RD207-2024 -->
+
+# Hablemos claro
+
+La dificultad no está en memorizar nombres aislados, sino en separar dependencia, rango y competencia. Un órgano puede coordinar sin ejercer mando directo y dos órganos situados juntos en un organigrama pueden tener distinta naturaleza jurídica.
+
+# En la calle
+
+Ante una actuación conjunta, el Ministerio fija la dirección política, la Secretaría de Estado coordina el sistema y las direcciones generales ejercen el mando directo sobre sus respectivos cuerpos. Esa cadena evita confundir coordinación estratégica con dirección cotidiana de unidades.
+
+# Lo que cae
+
+Prioriza los verbos competenciales, los niveles orgánicos, las dependencias de CITCO, DGCE y DGRIE, y el cambio de Protección Civil vigente desde el 27 de abril de 2026. Los esquemas anteriores a esa reforma ya no sirven como respuesta actual.
+
+# Ha caído
+
+El índice histórico conserva 69 apariciones candidatas mapeadas por bloque y 69 respuestas verificadas por la autoría académica. El mapeo de apariciones sigue pendiente de revisión humana; por eso se muestra como antecedente de estudio y nunca como plantilla oficial ni como prueba de vigencia normativa.
+
+---
+
+*Academia En Vigor · El temario que nunca duerme · Tema 7 · v1.0.0 · Documento interno no publicado.*

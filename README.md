@@ -1,32 +1,37 @@
-# Academia En Vigor · Tema 7
+# Academia En Vigor
 
-Paquete editorial del Tema 7 de Policía Nacional, Escala Básica:
+Repositorio editorial del temario de Policía Nacional. Cada tema se mantiene bajo
+un contrato único y reproducible:
 
-> El Ministerio del Interior: estructura orgánica básica. La Secretaría de Estado de Seguridad: estructura y funciones.
+- `conocimiento/.../master.md` es la fuente canónica;
+- El Parte y El Atestado se compilan en `temas/`;
+- los hechos atómicos y su cobertura viven en `conocimiento/`;
+- las preguntas, evaluaciones, recursos visuales y materiales didácticos se
+  inventarían en sus carpetas específicas;
+- `temario.json` actúa como índice global.
 
-## Contenido
-
-- `conocimiento/policia-nacional/tema-07/manifest.json`: identidad, fuentes, conceptos, revisiones y salidas.
-- `conocimiento/policia-nacional/tema-07/master.md`: fuente canónica con bloques VIGOR.
-- `temas/policia-nacional/parte/...md`: Temario Esencial — El Parte.
-- `temas/policia-nacional/atestado/...md`: Temario Completo — El Atestado.
-- `scripts/compilar_tema_07.py`: recompila ambas vistas desde el maestro.
-- `word/`: copias de lectura en DOCX.
-
-## Estado
-
-- Versión: `1.0.0`
-- Corte normativo: `28/07/2026`
-- Programa: convocatoria de Escala Básica publicada en el BOE el 14/07/2026.
-- Reforma crítica incorporada: Real Decreto 328/2026, de 22 de abril.
-- Redacción: propia y construida sobre fuentes oficiales; el documento de muestra se utilizó únicamente para contrastar cobertura.
-
-## Compilación
-
-Desde la raíz del paquete:
+## Flujo de trabajo
 
 ```bash
-python scripts/compilar_tema_07.py
+python3 scripts/compilar_tema.py --all --check
+python3 scripts/validar_proyecto.py
+python3 -m unittest discover -s tests -v
 ```
 
-Los archivos de `temas/` son salidas generadas. Las correcciones sustantivas deben realizarse en `master.md`.
+Para recompilar un tema concreto:
+
+```bash
+python3 scripts/compilar_tema.py --oposicion policia-nacional --tema 7 --write
+python3 scripts/validar_temas.py --oposicion policia-nacional --tema 7
+```
+
+Las correcciones sustantivas se hacen en el Máster; El Parte y El Atestado son
+salidas generadas. Los binarios pesados y los documentos de terceros no se
+almacenan en el repositorio.
+
+## Contrato editorial
+
+El estándar vigente está documentado en `editorial/04-contrato-unico-de-tema.md`.
+Las fuentes normativas deben figurar en `fuentes/catalogo.json`, los recursos
+visuales integrados deben ser WEBP inventariados bajo `assets/`, y ninguna
+aparición histórica se presenta como plantilla oficial sin trazabilidad.

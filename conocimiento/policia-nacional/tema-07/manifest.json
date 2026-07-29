@@ -1,289 +1,79 @@
 {
-  "schema_version": "1.0",
-  "id": "pn-t07",
-  "profile_id": "pn",
-  "program_id": "pn-escala-basica-2026",
-  "number": 7,
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-07",
+  "topic_number": 7,
   "slug": "ministerio-interior-secretaria-estado-seguridad",
   "title": "El Ministerio del Interior. La Secretaría de Estado de Seguridad",
   "content_version": "1.0.0",
-  "status": "approved_internal",
-  "normative_cutoff": "2026-07-28",
-  "program_epigraph_refs": [
-    "pn-t07-e01",
-    "pn-t07-e02"
-  ],
-  "program_epigraphs": [
-    {
-      "id": "pn-t07-e01",
-      "text": "El Ministerio del Interior: estructura orgánica básica"
-    },
-    {
-      "id": "pn-t07-e02",
-      "text": "La Secretaría de Estado de Seguridad: estructura y funciones"
-    }
-  ],
-  "source_refs": [
-    "src-es-boe-a-2026-15055#tema-7",
-    "src-es-boe-a-2024-3793#art-1",
-    "src-es-boe-a-2024-3793#art-2",
-    "src-es-boe-a-2024-3793#art-5",
-    "src-es-boe-a-2024-3793#art-6",
-    "src-es-boe-a-2024-3793#disposiciones",
-    "src-es-boe-a-2026-9079",
-    "src-es-boe-a-2015-10566#arts-59-64"
-  ],
-  "concepts": [
-    {
-      "id": "pn-t07-c001",
-      "label": "Alcance oficial y normativa",
-      "epigraph_refs": [
-        "pn-t07-e01",
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2026-15055#tema-7"
-      ],
-      "importance": "high",
-      "difficulty": "low",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c002",
-      "label": "Competencias del Ministerio del Interior",
-      "epigraph_refs": [
-        "pn-t07-e01"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-1"
-      ],
-      "importance": "high",
-      "difficulty": "medium",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c003",
-      "label": "Ministro, Gabinete y Oficina de Comunicación",
-      "epigraph_refs": [
-        "pn-t07-e01"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-1"
-      ],
-      "importance": "medium",
-      "difficulty": "medium",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c004",
-      "label": "Estructura general del Departamento tras la reforma de 2026",
-      "epigraph_refs": [
-        "pn-t07-e01"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-1",
-        "src-es-boe-a-2026-9079"
-      ],
-      "importance": "critical",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c005",
-      "label": "Posición y funciones de la Secretaría de Estado de Seguridad",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2"
-      ],
-      "importance": "critical",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c006",
-      "label": "Gabinete de la Secretaría de Estado",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2.2"
-      ],
-      "importance": "high",
-      "difficulty": "medium",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c007",
-      "label": "CITCO y unidades dependientes",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2.3"
-      ],
-      "importance": "critical",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c008",
-      "label": "Comité Ejecutivo de Coordinación",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2.4"
-      ],
-      "importance": "high",
-      "difficulty": "medium",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c009",
-      "label": "Subdirecciones propias de la Secretaría de Estado",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2.5"
-      ],
-      "importance": "critical",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c010",
-      "label": "Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-2.6"
-      ],
-      "importance": "high",
-      "difficulty": "medium",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c011",
-      "label": "Dirección General de Relaciones Internacionales y Extranjería",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-5"
-      ],
-      "importance": "high",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c012",
-      "label": "Dirección General de Coordinación y Estudios",
-      "epigraph_refs": [
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#art-6"
-      ],
-      "importance": "critical",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c013",
-      "label": "Disposiciones examinables y suplencias",
-      "epigraph_refs": [
-        "pn-t07-e01",
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "src-es-boe-a-2024-3793#disposiciones"
-      ],
-      "importance": "medium",
-      "difficulty": "high",
-      "status": "reviewed"
-    },
-    {
-      "id": "pn-t07-c014",
-      "label": "Evidencia de exámenes oficiales",
-      "epigraph_refs": [
-        "pn-t07-e01",
-        "pn-t07-e02"
-      ],
-      "source_refs": [
-        "of-pn-2015-q024",
-        "of-pn-2015-q025",
-        "of-pn-2015-q026",
-        "of-pn-2016-q015",
-        "of-pn-2017-q030",
-        "of-pn-2019-q013",
-        "of-pn-2025-q077",
-        "of-pn-2025-q078"
-      ],
-      "importance": "critical",
-      "difficulty": "medium",
-      "status": "verified"
-    }
-  ],
-  "dependencies": [
-    {
-      "type": "topic",
-      "target": "pn-t06",
-      "reason": "Jerarquía y categorías de órganos superiores y directivos"
-    },
-    {
-      "type": "topic",
-      "target": "pn-t08",
-      "reason": "Desarrollo completo de la Dirección General de la Policía"
-    },
-    {
-      "type": "topic",
-      "target": "pn-t09",
-      "reason": "Fuerzas y Cuerpos de Seguridad y competencias policiales"
-    }
-  ],
+  "pedagogical_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-07-29",
+  "source_file": "conocimiento/policia-nacional/tema-07/master.md",
+  "source_rights": {
+    "third_party_document_used_as": "coverage_checklist_only",
+    "third_party_text_reused": false,
+    "official_sources_only_for_legal_content": true
+  },
   "outputs": {
     "parte": "temas/policia-nacional/parte/tema-07-ministerio-interior-secretaria-estado-seguridad.md",
     "atestado": "temas/policia-nacional/atestado/tema-07-ministerio-interior-secretaria-estado-seguridad.md"
   },
-  "reviews": {
-    "legal": {
-      "status": "source_checked",
-      "reviewer": "Codex",
-      "reviewed_at": "2026-07-28"
-    },
-    "pedagogical": {
-      "status": "source_checked",
-      "reviewer": "Codex",
-      "reviewed_at": "2026-07-28"
-    },
-    "editorial": {
-      "status": "source_checked",
-      "reviewer": "Codex",
-      "reviewed_at": "2026-07-28"
-    },
-    "technical": {
-      "status": "passed",
-      "reviewer": "Codex",
-      "reviewed_at": "2026-07-28"
-    }
-  },
-  "build": {
-    "generator": "scripts/compilar_tema_07.py",
-    "generated_from": "conocimiento/policia-nacional/tema-07/master.md",
-    "copyright_method": "original_redaction_from_official_sources"
-  },
+  "semantic_blocks": 16,
   "atomic_facts": 106,
+  "master_statements": 106,
   "coverage_file": "conocimiento/policia-nacional/tema-07/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "DGP-RD207-2024",
+    "MI-RD328-2026",
+    "MI-RD1009-2023",
+    "L40-2015",
+    "GIESE-RD904-2021"
+  ],
+  "official_exam_items": 69,
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-07/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrative_explained",
   "question_bank": {
     "path": "banco-preguntas/policia-nacional/tema-07/preguntas.jsonl",
     "manifest": "banco-preguntas/policia-nacional/tema-07/manifest.json",
     "questions": 190,
     "coverage_by_atomic_facts": 100.0
   },
-  "official_exam_index": "banco-preguntas/policia-nacional/tema-07/indice-oficiales.json",
-  "evaluation_plan": "evaluaciones/policia-nacional/tema-07/plan.json"
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-07/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-07/manifest.json",
+    "total": 13,
+    "planned": 0
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-07/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-07-29",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_by_user",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-07/revision-homologacion-1.0.md"
+  }
 }

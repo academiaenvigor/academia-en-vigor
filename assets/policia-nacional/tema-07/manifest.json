@@ -7,8 +7,6 @@
   "status": "integrated",
   "totals": {
     "resources": 13,
-    "infographics": 7,
-    "illustrations": 6,
     "integrated": 13,
     "planned": 0
   },
@@ -23,11 +21,13 @@
       "placement": "Mapa del tema",
       "status": "integrated_webp",
       "block": null,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Organigrama vigente del Ministerio tras la reforma de 2026",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -38,11 +38,13 @@
       "placement": "Bloque 03",
       "status": "integrated_webp",
       "block": 3,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Mando superior, ejercicio del mando y mando directo",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -53,11 +55,13 @@
       "placement": "Bloque 04",
       "status": "integrated_webp",
       "block": 4,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Comparación antes y después de la reforma de abril de 2026",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -68,11 +72,13 @@
       "placement": "Bloque 06",
       "status": "integrated_webp",
       "block": 6,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Seis bloques visuales para ordenar las funciones de la SES",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -83,11 +89,13 @@
       "placement": "Bloque 07",
       "status": "integrated_webp",
       "block": 7,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Dependencias directas y órganos directivos de la SES",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -98,11 +106,13 @@
       "placement": "Bloque 09",
       "status": "integrated_webp",
       "block": 9,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Ocho funciones, tres unidades y puntos nacionales de contacto del CITCO",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -113,11 +123,13 @@
       "placement": "Bloque 15",
       "status": "integrated_webp",
       "block": 15,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Ocho áreas de la DGCE y cadena DGCE, Inspección y ONGADH",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -128,11 +140,13 @@
       "placement": "Bloque 01",
       "status": "integrated_webp",
       "block": 1,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Seis grandes ámbitos competenciales del Ministerio del Interior",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x461",
       "max_bytes": 1000000
     },
     {
@@ -143,11 +157,13 @@
       "placement": "Bloque 03",
       "status": "integrated_webp",
       "block": 3,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Metáfora visual de los tres niveles del mando",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x820",
       "max_bytes": 1000000
     },
     {
@@ -158,11 +174,13 @@
       "placement": "Bloque 06",
       "status": "integrated_webp",
       "block": 6,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "La SES coordina, supervisa e integra sin sustituir a los órganos operativos",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x615",
       "max_bytes": 1000000
     },
     {
@@ -173,11 +191,13 @@
       "placement": "Bloque 09",
       "status": "integrated_webp",
       "block": 9,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "CITCO integra, analiza y coordina sin ejercer el mando operativo general",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x615",
       "max_bytes": 1000000
     },
     {
@@ -188,11 +208,13 @@
       "placement": "Bloque 11",
       "status": "integrated_webp",
       "block": 11,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Infraestructuras y medios frente a información y comunicaciones",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x547",
       "max_bytes": 1000000
     },
     {
@@ -203,12 +225,15 @@
       "placement": "Bloque 15",
       "status": "integrated_webp",
       "block": 15,
-      "documents": ["parte", "atestado"],
+      "documents": [
+        "parte",
+        "atestado"
+      ],
       "description": "Funciones transversales y cadena DGCE, Inspección y ONGADH",
       "source_content_version": "1.0.0",
       "required_format": "webp",
-      "dimensions": "820x820",
       "max_bytes": 1000000
     }
-  ]
+  ],
+  "planned_resources": []
 }
