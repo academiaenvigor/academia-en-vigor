@@ -3,17 +3,559 @@
   "oposicion": "policia-nacional",
   "tema": 8,
   "titulo": "La Dirección General de la Policía y la Policía Nacional",
-  "generated_at": null,
-  "mapping_method": "manual_editorial",
-  "mapping_status": "empty",
-  "answer_status": "pending",
-  "display_policy": "verified_only",
-  "aviso": "Las referencias no alimentan estadísticas de «Ha caído» hasta estar verificadas.",
-  "total_referencias": 0,
-  "con_bloque_asignado": 0,
-  "con_respuesta_verificada": 0,
-  "por_bloque": {},
-  "por_promocion": {},
+  "generated_at": "2026-07-29",
+  "mapping_method": "manual_editorial_review",
+  "mapping_status": "reviewed",
+  "answer_status": "verificada_por_autor_no_plantilla_oficial",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "show_answer": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las referencias acreditan que el concepto apareció en un examen histórico. Las respuestas están revisadas por la academia, pero no proceden de una plantilla oficial final.",
+  "total_referencias": 42,
+  "con_bloque_asignado": 42,
+  "con_respuesta_verificada": 42,
+  "por_bloque": {
+    "3": 1,
+    "4": 3,
+    "5": 4,
+    "9": 3,
+    "10": 4,
+    "11": 2,
+    "12": 1,
+    "13": 1,
+    "14": 3,
+    "16": 1,
+    "17": 1,
+    "18": 1,
+    "19": 2,
+    "21": 1,
+    "24": 2,
+    "25": 7,
+    "26": 5,
+    "27": 2,
+    "28": 1
+  },
+  "por_promocion": {
+    "2016": 2,
+    "2017": 4,
+    "2018": 4,
+    "2019": 2,
+    "2020": 5,
+    "2021": 1,
+    "2023": 7,
+    "2024": 9,
+    "2025": 8
+  },
   "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
-  "questions": []
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q017",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 17,
+      "block_refs": [
+        10
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "historical_rule_changed"
+    },
+    {
+      "question_id": "of-pn-p33-a-q019",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 19,
+      "block_refs": [
+        11
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "historical_rule_changed"
+    },
+    {
+      "question_id": "of-pn-p34-a-q037",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 37,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p34-a-q042",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 42,
+      "block_refs": [
+        14
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p34-a-q043",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 43,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p34-a-q046",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 46,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p35-a-q043",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 43,
+      "block_refs": [
+        9
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "historical_rule_changed"
+    },
+    {
+      "question_id": "of-pn-p35-a-q064",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 64,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p35-a-q079",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 79,
+      "block_refs": [
+        27
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p35-a-q100",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 100,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p36-a-q055",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 55,
+      "block_refs": [
+        9
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p36-a-q068",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 68,
+      "block_refs": [
+        24
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p37-a-q015",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 15,
+      "block_refs": [
+        4,
+        5
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p37-a-q032",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 32,
+      "block_refs": [
+        27
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p37-a-q034",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 34,
+      "block_refs": [
+        5
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p37-a-q053",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 53,
+      "block_refs": [
+        10
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "historical_rule_changed"
+    },
+    {
+      "question_id": "of-pn-p37-a-q098",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 98,
+      "block_refs": [
+        28
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p38-a-q020",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 20,
+      "block_refs": [
+        14,
+        24
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p39-a-q076",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 76,
+      "block_refs": [
+        25,
+        26
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p39-a-q079",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 79,
+      "block_refs": [
+        4
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p40-a-q003",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 3,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p40-a-q009",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 9,
+      "block_refs": [
+        18
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p40-a-q051",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 51,
+      "block_refs": [
+        16
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p40-a-q069",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 69,
+      "block_refs": [
+        5
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p40-a-q079",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 79,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q010",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 10,
+      "block_refs": [
+        9
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q038",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 38,
+      "block_refs": [
+        21
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q049",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 49,
+      "block_refs": [
+        4
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q051",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 51,
+      "block_refs": [
+        5
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q052",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 52,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q058",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 58,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q059",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 59,
+      "block_refs": [
+        11
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q095",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 95,
+      "block_refs": [
+        10
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p41-a-q100",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 100,
+      "block_refs": [
+        3
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q018",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 18,
+      "block_refs": [
+        26
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q022",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 22,
+      "block_refs": [
+        10
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q023",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 23,
+      "block_refs": [
+        25
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q026",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 26,
+      "block_refs": [
+        19
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q043",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 43,
+      "block_refs": [
+        13
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q065",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 65,
+      "block_refs": [
+        17
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q081",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 81,
+      "block_refs": [
+        14
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    },
+    {
+      "question_id": "of-pn-p42-a-q087",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 87,
+      "block_refs": [
+        12
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "verificada_por_autor_no_plantilla_oficial",
+      "rule_status_2026": "current"
+    }
+  ]
 }

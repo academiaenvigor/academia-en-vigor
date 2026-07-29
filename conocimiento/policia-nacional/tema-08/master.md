@@ -1,8 +1,8 @@
 # TEMA 8 · LA DIRECCIÓN GENERAL DE LA POLICÍA Y LA POLICÍA NACIONAL
 
-<!-- content_version: 0.9.0 -->
+<!-- content_version: 1.0.0 -->
 <!-- opposition: policia-nacional -->
-<!-- status: draft; publication: not_published -->
+<!-- status: approved_internal; publication: not_published -->
 
 > Alcance editorial: programa oficial de Escala Básica publicado el 10 de julio de 2026. El documento de partida se ha usado como referencia pedagógica, pero la redacción y la actualización normativa proceden de fuentes oficiales.
 
@@ -40,6 +40,12 @@ No confundas «superior dirección» con «mando directo». Tampoco confundas el
 :::visual
 **Referencia visual prevista:** `t08-01-mapa-general.webp` · cadena de dependencia y mando.
 :::
+<!-- FACT:PN-T08-F001 -->
+<!-- FACT:PN-T08-F002 -->
+<!-- FACT:PN-T08-F003 -->
+<!-- FACT:PN-T08-F004 -->
+<!-- FACT:PN-T08-F005 -->
+<!-- FACT:PN-T08-F006 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
 
@@ -77,6 +83,12 @@ La suplencia del Director General corresponde a la Dirección Adjunta Operativa.
 :::visual
 **Referencia visual prevista:** `t08-il-01-cuatro-pilares-dgp.webp` · metáfora visual de operaciones, personas, medios y estrategia.
 :::
+<!-- FACT:PN-T08-F007 -->
+<!-- FACT:PN-T08-F008 -->
+<!-- FACT:PN-T08-F009 -->
+<!-- FACT:PN-T08-F010 -->
+<!-- FACT:PN-T08-F011 -->
+<!-- FACT:PN-T08-F012 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 02 END -->
 
@@ -114,6 +126,12 @@ Dependencia directa de la DGP y reparto INTERPOL–EUROPOL–SIRENE.
 :::visual
 **Referencia visual prevista:** `t08-03-cooperacion-internacional.webp` · tres canales, tres pistas de examen.
 :::
+<!-- FACT:PN-T08-F013 -->
+<!-- FACT:PN-T08-F014 -->
+<!-- FACT:PN-T08-F015 -->
+<!-- FACT:PN-T08-F016 -->
+<!-- FACT:PN-T08-F017 -->
+<!-- FACT:PN-T08-F018 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 03 END -->
 
@@ -151,6 +169,11 @@ Memoriza la secuencia de suplencia de la DAO: Recursos Humanos, Logística, Gabi
 :::visual
 **Referencia visual prevista:** `t08-il-02-dao-corazon-operativo.webp` · DAO como nodo de coordinación.
 :::
+<!-- FACT:PN-T08-F019 -->
+<!-- FACT:PN-T08-F020 -->
+<!-- FACT:PN-T08-F021 -->
+<!-- FACT:PN-T08-F022 -->
+<!-- FACT:PN-T08-F023 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 04 END -->
 
@@ -188,6 +211,12 @@ Las Comisarías Especiales del Senado, Congreso, Casa Real y otros órganos cons
 :::visual
 **Referencia visual prevista:** `t08-04-dao-mapa-operativo.webp` · diferencia entre tecnología operativa y soporte corporativo.
 :::
+<!-- FACT:PN-T08-F024 -->
+<!-- FACT:PN-T08-F025 -->
+<!-- FACT:PN-T08-F026 -->
+<!-- FACT:PN-T08-F027 -->
+<!-- FACT:PN-T08-F028 -->
+<!-- FACT:PN-T08-F029 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 05 END -->
 
@@ -225,6 +254,13 @@ GEO: Guadalajara. Asuntos Internos: delito y ética profesional del personal.
 :::visual
 **Referencia visual prevista:** `t08-il-02-dao-corazon-operativo.webp` · cuatro funciones diferenciadas.
 :::
+<!-- FACT:PN-T08-F030 -->
+<!-- FACT:PN-T08-F031 -->
+<!-- FACT:PN-T08-F032 -->
+<!-- FACT:PN-T08-F033 -->
+<!-- FACT:PN-T08-F034 -->
+<!-- FACT:PN-T08-F035 -->
+<!-- FACT:PN-T08-F036 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 06 END -->
 
@@ -262,6 +298,12 @@ Número, nombres y dependencia de las cinco Comisarías Generales.
 :::visual
 **Referencia visual prevista:** `t08-il-03-cinco-equipos-especialistas.webp` · cinco equipos con misiones distintas.
 :::
+<!-- FACT:PN-T08-F037 -->
+<!-- FACT:PN-T08-F038 -->
+<!-- FACT:PN-T08-F039 -->
+<!-- FACT:PN-T08-F040 -->
+<!-- FACT:PN-T08-F041 -->
+<!-- FACT:PN-T08-F042 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 07 END -->
 
@@ -297,6 +339,10 @@ Especialidad antiterrorista y estructura por Orden Comunicada.
 :::visual
 **Referencia visual prevista:** `t08-05-cinco-comisarias.webp` · flujo dato → análisis → actuación.
 :::
+<!-- FACT:PN-T08-F043 -->
+<!-- FACT:PN-T08-F044 -->
+<!-- FACT:PN-T08-F045 -->
+<!-- FACT:PN-T08-F046 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 08 END -->
 
@@ -334,6 +380,13 @@ Asociación unidad–materia y la figura del Jefe o Jefa Central de Operaciones.
 :::visual
 **Referencia visual prevista:** `t08-06-policia-judicial.webp` · árbol de especialidades.
 :::
+<!-- FACT:PN-T08-F047 -->
+<!-- FACT:PN-T08-F048 -->
+<!-- FACT:PN-T08-F049 -->
+<!-- FACT:PN-T08-F050 -->
+<!-- FACT:PN-T08-F051 -->
+<!-- FACT:PN-T08-F052 -->
+<!-- FACT:PN-T08-F053 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 09 END -->
 
@@ -371,6 +424,14 @@ Deportes y asuntos taurinos frente a fronteras, repatriaciones y FRONTEX.
 :::visual
 **Referencia visual prevista:** `t08-08-extranjeria-fronteras.webp` · frontera, inmigración irregular, repatriación y FRONTEX.
 :::
+<!-- FACT:PN-T08-F054 -->
+<!-- FACT:PN-T08-F055 -->
+<!-- FACT:PN-T08-F056 -->
+<!-- FACT:PN-T08-F057 -->
+<!-- FACT:PN-T08-F058 -->
+<!-- FACT:PN-T08-F059 -->
+<!-- FACT:PN-T08-F060 -->
+<!-- FACT:PN-T08-F061 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 10 END -->
 
@@ -408,6 +469,11 @@ Documentoscopia y falsedad documental: Unidad Central de Criminalística.
 :::visual
 **Referencia visual prevista:** `t08-09-policia-cientifica.webp` · recorrido indicio → análisis → informe pericial.
 :::
+<!-- FACT:PN-T08-F062 -->
+<!-- FACT:PN-T08-F063 -->
+<!-- FACT:PN-T08-F064 -->
+<!-- FACT:PN-T08-F065 -->
+<!-- FACT:PN-T08-F066 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 11 END -->
 
@@ -445,6 +511,11 @@ Dos Divisiones dependientes: Personal y Formación y Perfeccionamiento.
 :::visual
 **Referencia visual prevista:** `t08-10-recursos-logistica.webp` · ciclo profesional.
 :::
+<!-- FACT:PN-T08-F067 -->
+<!-- FACT:PN-T08-F068 -->
+<!-- FACT:PN-T08-F069 -->
+<!-- FACT:PN-T08-F070 -->
+<!-- FACT:PN-T08-F071 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 12 END -->
 
@@ -482,6 +553,11 @@ Ubicación de Régimen Disciplinario y del Área de Documentación y Expediente 
 :::visual
 **Referencia visual prevista:** `t08-10-recursos-logistica.webp` · doble carril: gestión y disciplina.
 :::
+<!-- FACT:PN-T08-F072 -->
+<!-- FACT:PN-T08-F073 -->
+<!-- FACT:PN-T08-F074 -->
+<!-- FACT:PN-T08-F075 -->
+<!-- FACT:PN-T08-F076 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 13 END -->
 
@@ -519,6 +595,12 @@ Diferencia entre Escuela, Actualización, Altos Estudios y Procesos Selectivos.
 :::visual
 **Referencia visual prevista:** `t08-14-sistemas-acceso.webp` · itinerario selectivo y formativo.
 :::
+<!-- FACT:PN-T08-F077 -->
+<!-- FACT:PN-T08-F078 -->
+<!-- FACT:PN-T08-F079 -->
+<!-- FACT:PN-T08-F080 -->
+<!-- FACT:PN-T08-F081 -->
+<!-- FACT:PN-T08-F082 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->
 
@@ -556,6 +638,12 @@ Dos Divisiones: Económica y Técnica; Documentación.
 :::visual
 **Referencia visual prevista:** `t08-10-recursos-logistica.webp` · cadena recurso → distribución → servicio.
 :::
+<!-- FACT:PN-T08-F083 -->
+<!-- FACT:PN-T08-F084 -->
+<!-- FACT:PN-T08-F085 -->
+<!-- FACT:PN-T08-F086 -->
+<!-- FACT:PN-T08-F087 -->
+<!-- FACT:PN-T08-F088 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 15 END -->
 
@@ -593,6 +681,12 @@ Cadena orgánica de la Banda de Música y funciones del Gabinete Técnico.
 :::visual
 **Referencia visual prevista:** `t08-10-recursos-logistica.webp` · dos columnas: documentación y apoyo a dirección.
 :::
+<!-- FACT:PN-T08-F089 -->
+<!-- FACT:PN-T08-F090 -->
+<!-- FACT:PN-T08-F091 -->
+<!-- FACT:PN-T08-F092 -->
+<!-- FACT:PN-T08-F093 -->
+<!-- FACT:PN-T08-F094 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 16 END -->
 
@@ -630,6 +724,13 @@ Presidencia, Vicepresidencia y Secretaría de la Junta; Secretaría del Consejo.
 :::visual
 **Referencia visual prevista:** `t08-02-cuatro-centros-directivos.webp` · comparación Junta/Consejo.
 :::
+<!-- FACT:PN-T08-F095 -->
+<!-- FACT:PN-T08-F096 -->
+<!-- FACT:PN-T08-F097 -->
+<!-- FACT:PN-T08-F098 -->
+<!-- FACT:PN-T08-F099 -->
+<!-- FACT:PN-T08-F100 -->
+<!-- FACT:PN-T08-F101 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 17 END -->
 
@@ -667,6 +768,15 @@ Jefe Regional de Operaciones sustituye al Jefe Superior; Jefe Provincial de Oper
 :::visual
 **Referencia visual prevista:** `t08-il-04-doble-dependencia-territorial.webp` · dependencia orgánica y funcional.
 :::
+<!-- FACT:PN-T08-F102 -->
+<!-- FACT:PN-T08-F103 -->
+<!-- FACT:PN-T08-F104 -->
+<!-- FACT:PN-T08-F105 -->
+<!-- FACT:PN-T08-F106 -->
+<!-- FACT:PN-T08-F107 -->
+<!-- FACT:PN-T08-F108 -->
+<!-- FACT:PN-T08-F109 -->
+<!-- FACT:PN-T08-F110 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
 
@@ -704,6 +814,14 @@ Listado del artículo 12 y discriminación frente a funciones propias de Guardia
 :::visual
 **Referencia visual prevista:** `t08-12-funciones-policia-nacional.webp` · rueda de competencias.
 :::
+<!-- FACT:PN-T08-F111 -->
+<!-- FACT:PN-T08-F112 -->
+<!-- FACT:PN-T08-F113 -->
+<!-- FACT:PN-T08-F114 -->
+<!-- FACT:PN-T08-F115 -->
+<!-- FACT:PN-T08-F116 -->
+<!-- FACT:PN-T08-F117 -->
+<!-- FACT:PN-T08-F118 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 19 END -->
 
@@ -748,6 +866,14 @@ Orden completo, grupos y cuál es la primera categoría de cada escala.
 :::visual
 **Referencia visual prevista:** `t08-il-05-escalera-profesional.webp` · ascenso por escalones.
 :::
+<!-- FACT:PN-T08-F119 -->
+<!-- FACT:PN-T08-F120 -->
+<!-- FACT:PN-T08-F121 -->
+<!-- FACT:PN-T08-F122 -->
+<!-- FACT:PN-T08-F123 -->
+<!-- FACT:PN-T08-F124 -->
+<!-- FACT:PN-T08-F125 -->
+<!-- FACT:PN-T08-F126 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
 
@@ -785,6 +911,13 @@ Verbo asociado a cada escala y listado de áreas de actividad.
 :::visual
 **Referencia visual prevista:** `t08-il-05-escalera-profesional.webp` · cuatro verbos de responsabilidad.
 :::
+<!-- FACT:PN-T08-F127 -->
+<!-- FACT:PN-T08-F128 -->
+<!-- FACT:PN-T08-F129 -->
+<!-- FACT:PN-T08-F130 -->
+<!-- FACT:PN-T08-F131 -->
+<!-- FACT:PN-T08-F132 -->
+<!-- FACT:PN-T08-F133 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 21 END -->
 
@@ -822,6 +955,12 @@ Categorías de ingreso libre y porcentaje 40/60 en Inspector.
 :::visual
 **Referencia visual prevista:** `t08-14-sistemas-acceso.webp` · mapa de rutas.
 :::
+<!-- FACT:PN-T08-F134 -->
+<!-- FACT:PN-T08-F135 -->
+<!-- FACT:PN-T08-F136 -->
+<!-- FACT:PN-T08-F137 -->
+<!-- FACT:PN-T08-F138 -->
+<!-- FACT:PN-T08-F139 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
 
@@ -859,6 +998,16 @@ Escala Básica: Bachiller o equivalente. Escala Ejecutiva: Grado. Convocatoria 2
 :::visual
 **Referencia visual prevista:** `t08-14-sistemas-acceso.webp` · checklist actualizado.
 :::
+<!-- FACT:PN-T08-F140 -->
+<!-- FACT:PN-T08-F141 -->
+<!-- FACT:PN-T08-F142 -->
+<!-- FACT:PN-T08-F143 -->
+<!-- FACT:PN-T08-F144 -->
+<!-- FACT:PN-T08-F145 -->
+<!-- FACT:PN-T08-F146 -->
+<!-- FACT:PN-T08-F147 -->
+<!-- FACT:PN-T08-F148 -->
+<!-- FACT:PN-T08-F149 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 23 END -->
 
@@ -896,6 +1045,15 @@ Aunque falten dos miembros, el tribunal puede actuar si conserva cinco presentes
 :::visual
 **Referencia visual prevista:** `t08-14-sistemas-acceso.webp` · regla 7–5–4.
 :::
+<!-- FACT:PN-T08-F150 -->
+<!-- FACT:PN-T08-F151 -->
+<!-- FACT:PN-T08-F152 -->
+<!-- FACT:PN-T08-F153 -->
+<!-- FACT:PN-T08-F154 -->
+<!-- FACT:PN-T08-F155 -->
+<!-- FACT:PN-T08-F156 -->
+<!-- FACT:PN-T08-F157 -->
+<!-- FACT:PN-T08-F158 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 24 END -->
 
@@ -903,6 +1061,8 @@ Aunque falten dos miembros, el tribunal puede actuar si conserva cinco presentes
 ## 25. Régimen disciplinario: faltas
 **Fuente principal:** `LO4-2010-T08`
 <!-- PARTE START -->
+La Ley Orgánica 4/2010 se aplica a los policías nacionales en servicio activo y a quienes se encuentran en segunda actividad ocupando destino. Quienes estén en segunda actividad sin destino quedan sometidos al régimen disciplinario general de la función pública.
+
 La responsabilidad disciplinaria se exige por faltas muy graves, graves y leves. La tipificación es cerrada: una conducta solo puede sancionarse si encaja en una infracción prevista y mediante el procedimiento correspondiente.
 
 Las faltas muy graves y graves se enumeran en la Ley Orgánica 4/2010; las leves incluyen, entre otras, incorrecciones, retrasos o negligencias de menor entidad y determinadas infracciones de deberes profesionales cuando no constituyan falta superior.
@@ -927,12 +1087,19 @@ El instructor debe identificar hechos, tipo disciplinario y grado antes de propo
 :::
 
 :::lo-que-cae
-Clasificación tripartita y principio de tipicidad.
+Ámbito de aplicación, clasificación tripartita y principio de tipicidad.
 :::
 
 :::visual
 **Referencia visual prevista:** `t08-il-06-semaforo-disciplinario.webp` · muy grave, grave y leve.
 :::
+<!-- FACT:PN-T08-F159 -->
+<!-- FACT:PN-T08-F160 -->
+<!-- FACT:PN-T08-F161 -->
+<!-- FACT:PN-T08-F162 -->
+<!-- FACT:PN-T08-F163 -->
+<!-- FACT:PN-T08-F164 -->
+<!-- FACT:PN-T08-F165 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 25 END -->
 
@@ -942,7 +1109,9 @@ Clasificación tripartita y principio de tipicidad.
 <!-- PARTE START -->
 Por falta muy grave pueden imponerse separación del servicio, suspensión de funciones de tres meses y un día a seis años o traslado forzoso. Por falta grave, suspensión de cinco días a tres meses. Por falta leve, suspensión de uno a cuatro días o apercibimiento.
 
-La separación corresponde al Ministro del Interior; la suspensión de tres años y un día a seis años y el traslado forzoso, a la Secretaría de Estado de Seguridad; las restantes sanciones por faltas muy graves y las sanciones por faltas graves, a la Dirección General. Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves al mes; las sanciones prescriben en los mismos plazos según su gravedad.
+La separación corresponde al Ministro del Interior; la suspensión de tres años y un día a seis años y el traslado forzoso, a la Secretaría de Estado de Seguridad; la suspensión de hasta tres años por falta muy grave y las sanciones por faltas graves, a la Dirección General. Las sanciones por faltas leves pueden imponerlas los Delegados del Gobierno y las jefaturas centrales, superiores, provinciales, locales y de unidades adscritas que enumera la ley, respecto de su personal o ámbito.
+
+Quien sea sancionado con traslado forzoso no podrá obtener un nuevo destino en el centro, unidad o plantilla de procedencia durante el período de uno a tres años fijado en la resolución. Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves al mes; las sanciones prescriben en los mismos plazos según su gravedad.
 
 :::perla-vigor
 Escala temporal de sanción: leve 1–4 días; grave 5 días–3 meses; muy grave 3 meses y 1 día–6 años, además de traslado o separación.
@@ -964,12 +1133,25 @@ Una propuesta de separación del servicio no la resuelve el Director General, si
 :::
 
 :::lo-que-cae
-Fronteras 4/5 días y 3 meses/3 meses+1 día; Ministro–SES–DGP; prescripción 3 años–2 años–1 mes.
+Fronteras 4/5 días y 3 meses/3 meses+1 día; Ministro–SES–DGP–jefaturas; traslado 1–3 años; prescripción 3 años–2 años–1 mes.
 :::
 
 :::visual
 **Referencia visual prevista:** `t08-il-06-semaforo-disciplinario.webp` · línea temporal sin solapamientos.
 :::
+<!-- FACT:PN-T08-F166 -->
+<!-- FACT:PN-T08-F167 -->
+<!-- FACT:PN-T08-F168 -->
+<!-- FACT:PN-T08-F169 -->
+<!-- FACT:PN-T08-F170 -->
+<!-- FACT:PN-T08-F171 -->
+<!-- FACT:PN-T08-F172 -->
+<!-- FACT:PN-T08-F173 -->
+<!-- FACT:PN-T08-F174 -->
+<!-- FACT:PN-T08-F175 -->
+<!-- FACT:PN-T08-F176 -->
+<!-- FACT:PN-T08-F177 -->
+<!-- FACT:PN-T08-F178 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 26 END -->
 
@@ -1007,6 +1189,16 @@ Lista de seis situaciones, cinco excedencias y efectos de interés particular fr
 :::visual
 **Referencia visual prevista:** `t08-il-07-seis-estaciones-administrativas.webp` · recorrido por las situaciones.
 :::
+<!-- FACT:PN-T08-F179 -->
+<!-- FACT:PN-T08-F180 -->
+<!-- FACT:PN-T08-F181 -->
+<!-- FACT:PN-T08-F182 -->
+<!-- FACT:PN-T08-F183 -->
+<!-- FACT:PN-T08-F184 -->
+<!-- FACT:PN-T08-F185 -->
+<!-- FACT:PN-T08-F186 -->
+<!-- FACT:PN-T08-F187 -->
+<!-- FACT:PN-T08-F188 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 27 END -->
 
@@ -1016,7 +1208,7 @@ Lista de seis situaciones, cinco excedencias y efectos de interés particular fr
 <!-- PARTE START -->
 La suspensión puede ser provisional o firme. La provisional no excede, con carácter general, de tres meses por falta grave ni de seis por falta muy grave, salvo paralización imputable al interesado o procedimiento penal. La suspensión firme superior a seis meses determina la pérdida del puesto de trabajo.
 
-La segunda actividad garantiza la aptitud psicofísica del personal y puede declararse por insuficiencia psicofísica o a petición propia. Las edades de petición son 64 años en Escala Superior, 62 en Ejecutiva, 60 en Subinspección y 58 en Básica; también puede solicitarse tras veinticinco años efectivos en situaciones computables. Se permanece sin destino y a disposición de la DGP.
+La segunda actividad garantiza la aptitud psicofísica del personal y puede declararse por insuficiencia psicofísica o a petición propia. Las edades de petición son 64 años en Escala Superior, 62 en Ejecutiva, 60 en Subinspección y 58 en Básica; también puede solicitarse tras veinticinco años efectivos en situaciones computables. No conlleva ocupación de destino y se permanece a disposición del Ministro del Interior para funciones policiales cuando razones excepcionales de seguridad ciudadana lo requieran.
 
 :::perla-vigor
 Edades: 64–62–60–58. Otra puerta: 25 años efectivos.
@@ -1044,6 +1236,17 @@ Tres meses grave, seis muy grave; pérdida de puesto si la suspensión firme sup
 :::visual
 **Referencia visual prevista:** `t08-il-07-seis-estaciones-administrativas.webp` · segunda actividad no disciplinaria.
 :::
+<!-- FACT:PN-T08-F189 -->
+<!-- FACT:PN-T08-F190 -->
+<!-- FACT:PN-T08-F191 -->
+<!-- FACT:PN-T08-F192 -->
+<!-- FACT:PN-T08-F193 -->
+<!-- FACT:PN-T08-F194 -->
+<!-- FACT:PN-T08-F195 -->
+<!-- FACT:PN-T08-F196 -->
+<!-- FACT:PN-T08-F197 -->
+<!-- FACT:PN-T08-F198 -->
+<!-- FACT:PN-T08-F199 -->
 <!-- ATESTADO END -->
 <!-- BLOCK 28 END -->
 
@@ -1092,5 +1295,5 @@ Prioridad alta: cuatro órganos centrales, cinco Comisarías Generales, dependen
 # Ha caído
 
 :::ha-caido
-El histórico del proyecto confirma preguntas sobre la UCOT, suplencias de la DAO, Comisarías Especiales, Banda de Música, Oficina Nacional de Deportes, SIRENE, Policía Científica, escalas, acceso, disciplina y segunda actividad. El índice oficial detallado queda bloqueado hasta completar el mapeo pregunta–bloque y la revisión editorial.
+El índice histórico revisado localiza 42 preguntas entre 2016 y 2025 vinculadas a 19 bloques del tema. Han aparecido, entre otros, la UCOT, suplencias de la DAO, Comisarías Especiales, Banda de Música, Oficina Nacional de Deportes, SIRENE, Policía Científica, escalas, acceso, disciplina y segunda actividad. Las respuestas están revisadas por la academia, pero no se presentan como plantilla oficial final.
 :::

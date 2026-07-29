@@ -1,8 +1,8 @@
 # TEMA 8 · LA DIRECCIÓN GENERAL DE LA POLICÍA Y LA POLICÍA NACIONAL
 
 **Policía Nacional · Método VIGOR · PARTE**
-**Versión de contenido:** 0.9.0
-**Estado editorial:** draft · **Publicación:** not_published
+**Versión de contenido:** 1.0.0
+**Estado editorial:** approved_internal · **Publicación:** not_published
 
 # Mapa del tema
 
@@ -14,7 +14,11 @@
 6. Ingreso, promoción y proceso selectivo.
 7. Régimen disciplinario y situaciones administrativas.
 
-<!-- VISUAL PENDIENTE: t08-01-mapa-general.webp -->
+<!-- VISUAL:t08-01-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-01-mapa-general.webp" alt="recorrido completo del Tema 8 en siete partes" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido completo del Tema 8 en siete partes.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-todo-audio -->
 <!-- MATERIAL PENDIENTE: t08-todo-video -->
@@ -32,7 +36,11 @@ Sus funciones abarcan la dirección de los servicios centrales y territoriales, 
 La Secretaría de Estado de Seguridad ejerce la superior dirección; la persona titular de la DGP ejerce el mando directo de la Policía Nacional.
 :::
 
-<!-- VISUAL PENDIENTE: t08-01-mapa-general.webp -->
+<!-- VISUAL:t08-01-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-01-mapa-general.webp" alt="relación Ministerio del Interior → Secretaría de Estado de Seguridad → Dirección General de la Policía" width="820">
+</p>
+<p align="center"><em>Infografía: relación Ministerio del Interior → Secretaría de Estado de Seguridad → Dirección General de la Policía.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -53,7 +61,11 @@ También forman parte de ella la División de Cooperación Internacional, depend
 Son cuatro órganos con nivel de subdirección general, pero la División de Cooperación Internacional también depende directamente de la DGP: no la conviertas por eso en un «quinto centro directivo» del mismo nivel.
 :::
 
-<!-- VISUAL PENDIENTE: t08-02-cuatro-centros-directivos.webp -->
+<!-- VISUAL:t08-02-cuatro-centros-directivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-02-cuatro-centros-directivos.webp" alt="cuatro pilares y órganos de dependencia directa" width="820">
+</p>
+<p align="center"><em>Infografía: cuatro pilares y órganos de dependencia directa.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -74,7 +86,11 @@ INTERPOL canaliza la cooperación con su Secretaría General; EUROPOL enlaza a l
 Prüm post-hit y materialización de entregas por una Orden Europea de Detención y Entrega: Oficina SIRENE.
 :::
 
-<!-- VISUAL PENDIENTE: t08-03-cooperacion-internacional.webp -->
+<!-- VISUAL:t08-03-cooperacion-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-03-cooperacion-internacional.webp" alt="INTERPOL, EUROPOL, SIRENE y coordinación internacional" width="820">
+</p>
+<p align="center"><em>Infografía: INTERPOL, EUROPOL, SIRENE y coordinación internacional.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -95,7 +111,11 @@ La DAO cuenta con una Secretaría General. Su suplencia corresponde, por este or
 La DAO es el corazón operativo; las cinco Comisarías Generales dependen de ella.
 :::
 
-<!-- VISUAL PENDIENTE: t08-04-dao-mapa-operativo.webp -->
+<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="mapa de dependencias de la DAO" width="820">
+</p>
+<p align="center"><em>Infografía: mapa de dependencias de la DAO.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -116,7 +136,11 @@ La Unidad Aérea incluye las áreas de Medios Aéreos y de Seguridad y Protecci�
 Comisarías Especiales y Unidades Adscritas: División de Operaciones y Transformación Digital.
 :::
 
-<!-- VISUAL PENDIENTE: t08-04-dao-mapa-operativo.webp -->
+<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="operaciones, aviación, tecnología y unidades adscritas" width="820">
+</p>
+<p align="center"><em>Infografía: operaciones, aviación, tecnología y unidades adscritas.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -137,7 +161,11 @@ El Grupo Especial de Operaciones interviene en situaciones de especial cualifica
 Plan Estratégico y sistema nacional de inteligencia criminal: Unidad de Planificación Estratégica y Coordinación.
 :::
 
-<!-- VISUAL PENDIENTE: t08-04-dao-mapa-operativo.webp -->
+<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="planificación, GEO, Asuntos Internos y apoyo operativo" width="820">
+</p>
+<p align="center"><em>Infografía: planificación, GEO, Asuntos Internos y apoyo operativo.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -158,7 +186,11 @@ En Policía Judicial, Seguridad Ciudadana, Extranjería y Fronteras y Policía C
 Regla de cinco: Información, Judicial, Seguridad Ciudadana, Extranjería y Fronteras, Científica.
 :::
 
-<!-- VISUAL PENDIENTE: t08-05-cinco-comisarias.webp -->
+<!-- VISUAL:t08-05-cinco-comisarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-05-cinco-comisarias.webp" alt="cinco áreas operativas" width="820">
+</p>
+<p align="center"><em>Infografía: cinco áreas operativas.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -177,7 +209,11 @@ La Comisaría General de Información capta, recibe, trata y desarrolla informac
 Que la Orden pública no detalle sus unidades es intencionado: la estructura se determina mediante Orden Comunicada.
 :::
 
-<!-- VISUAL PENDIENTE: t08-05-cinco-comisarias.webp -->
+<!-- VISUAL:t08-05-cinco-comisarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-05-cinco-comisarias.webp" alt="Información como especialidad de inteligencia y antiterrorismo" width="820">
+</p>
+<p align="center"><em>Infografía: Información como especialidad de inteligencia y antiterrorismo.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -198,7 +234,11 @@ La UDYCO aborda droga y crimen organizado; la UDEF, delincuencia económica y fi
 UDYCO = droga y crimen organizado. UDEF = delincuencia económica y fiscal. UFAM = familia y mujer.
 :::
 
-<!-- VISUAL PENDIENTE: t08-06-policia-judicial.webp -->
+<!-- VISUAL:t08-06-policia-judicial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-06-policia-judicial.webp" alt="reparto de especialidades de investigación" width="820">
+</p>
+<p align="center"><em>Infografía: reparto de especialidades de investigación.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -219,7 +259,11 @@ Extranjería y Fronteras controla entradas y salidas, aplica la normativa de ext
 Oficina Nacional de Deportes: Seguridad Ciudadana. FRONTEX: Extranjería y Fronteras.
 :::
 
-<!-- VISUAL PENDIENTE: t08-07-seguridad-ciudadana.webp -->
+<!-- VISUAL:t08-07-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-07-seguridad-ciudadana.webp" alt="prevención, orden, protección y participación" width="820">
+</p>
+<p align="center"><em>Infografía: prevención, orden, protección y participación.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -240,7 +284,11 @@ La Unidad Central de Criminalística se ocupa, entre otras áreas, de balística
 Documento falso como pericia técnica: Criminalística. Investigación de una red: la unidad investigadora competente.
 :::
 
-<!-- VISUAL PENDIENTE: t08-09-policia-cientifica.webp -->
+<!-- VISUAL:t08-09-policia-cientifica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-09-policia-cientifica.webp" alt="identificación, indicios, laboratorio y conducta" width="820">
+</p>
+<p align="center"><em>Infografía: identificación, indicios, laboratorio y conducta.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -261,7 +309,11 @@ De ella dependen la División de Personal y la División de Formación y Perfecc
 Recursos Humanos planifica; Personal gestiona la trayectoria profesional; Formación prepara y perfecciona.
 :::
 
-<!-- VISUAL PENDIENTE: t08-10-recursos-logistica.webp -->
+<!-- VISUAL:t08-10-recursos-logistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="personas, formación y medios" width="820">
+</p>
+<p align="center"><em>Infografía: personas, formación y medios.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -282,7 +334,11 @@ La Unidad de Régimen Disciplinario administra el régimen disciplinario y su Á
 Situaciones administrativas: Área de Documentación y Expediente Personal. Régimen disciplinario: unidad propia dentro de la División de Personal.
 :::
 
-<!-- VISUAL PENDIENTE: t08-10-recursos-logistica.webp -->
+<!-- VISUAL:t08-10-recursos-logistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="expediente, destino, retribución y disciplina" width="820">
+</p>
+<p align="center"><em>Infografía: expediente, destino, retribución y disciplina.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -303,7 +359,11 @@ La Escuela forma, entre otros, al alumnado de Inspector y Policía; el Centro de
 Ingreso y promoción: Unidad de Procesos Selectivos, dentro de Formación y Perfeccionamiento.
 :::
 
-<!-- VISUAL PENDIENTE: t08-14-sistemas-acceso.webp -->
+<!-- VISUAL:t08-14-sistemas-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="selección, escuela, actualización y altos estudios" width="820">
+</p>
+<p align="center"><em>Infografía: selección, escuela, actualización y altos estudios.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -324,7 +384,11 @@ De ella dependen la División Económica y Técnica y la División de Documentac
 Informática corporativa y telecomunicaciones: Logística e Innovación. Tecnología aplicada directamente a la operación: DAO.
 :::
 
-<!-- VISUAL PENDIENTE: t08-10-recursos-logistica.webp -->
+<!-- VISUAL:t08-10-recursos-logistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="presupuesto, infraestructura, vehículos, armamento, sistemas y documentación" width="820">
+</p>
+<p align="center"><em>Infografía: presupuesto, infraestructura, vehículos, armamento, sistemas y documentación.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -345,7 +409,11 @@ El Gabinete Técnico presta apoyo y asistencia a la persona titular de la DGP, c
 Banda de Música → Servicio de Protocolo → Área de Coordinación Institucional e Identidad Corporativa → Gabinete Técnico.
 :::
 
-<!-- VISUAL PENDIENTE: t08-10-recursos-logistica.webp -->
+<!-- VISUAL:t08-10-recursos-logistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="documentación frente a apoyo estratégico" width="820">
+</p>
+<p align="center"><em>Infografía: documentación frente a apoyo estratégico.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -366,7 +434,11 @@ El Consejo Asesor es un órgano colegiado permanente de asesoramiento en asuntos
 Junta de Gobierno: Secretario, jefe de la División de Personal. Consejo Asesor: Secretaría en el Gabinete Técnico.
 :::
 
-<!-- VISUAL PENDIENTE: t08-02-cuatro-centros-directivos.webp -->
+<!-- VISUAL:t08-02-cuatro-centros-directivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-02-cuatro-centros-directivos.webp" alt="órganos colegiados y presidencia" width="820">
+</p>
+<p align="center"><em>Infografía: órganos colegiados y presidencia.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p4-audio -->
 <!-- MATERIAL PENDIENTE: t08-p4-video -->
@@ -387,7 +459,11 @@ Las Jefaturas Superiores mandan, gestionan, coordinan e inspeccionan los servici
 Regional: UCOT en Jefatura Superior. Provincial: UCOP en Comisaría Provincial.
 :::
 
-<!-- VISUAL PENDIENTE: t08-11-organizacion-territorial.webp -->
+<!-- VISUAL:t08-11-organizacion-territorial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-11-organizacion-territorial.webp" alt="niveles y unidades territoriales" width="820">
+</p>
+<p align="center"><em>Infografía: niveles y unidades territoriales.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p4-audio -->
 <!-- MATERIAL PENDIENTE: t08-p4-video -->
@@ -408,7 +484,11 @@ Entre ellas: expedir DNI y pasaporte; controlar entrada y salida del territorio;
 DNI y pasaporte, extranjería, juego, drogas, cooperación internacional y seguridad privada: bloque clásico de funciones exclusivas.
 :::
 
-<!-- VISUAL PENDIENTE: t08-12-funciones-policia-nacional.webp -->
+<!-- VISUAL:t08-12-funciones-policia-nacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-12-funciones-policia-nacional.webp" alt="ocho áreas funcionales exclusivas" width="820">
+</p>
+<p align="center"><em>Infografía: ocho áreas funcionales exclusivas.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -436,7 +516,11 @@ Dentro de cada escala, la primera categoría es la de mayor rango. La ley emplea
 Dos escalas comparten A1: Superior y Ejecutiva. Subinspección es A2 y Básica es C1.
 :::
 
-<!-- VISUAL PENDIENTE: t08-13-escalas-categorias.webp -->
+<!-- VISUAL:t08-13-escalas-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-13-escalas-categorias.webp" alt="escalera de cuatro niveles y siete categorías" width="820">
+</p>
+<p align="center"><em>Infografía: escalera de cuatro niveles y siete categorías.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -457,7 +541,11 @@ Las áreas de actividad son: dirección y coordinación; información; policía 
 Superior dirige; Ejecutiva manda; Subinspección supervisa; Básica ejecuta.
 :::
 
-<!-- VISUAL PENDIENTE: t08-13-escalas-categorias.webp -->
+<!-- VISUAL:t08-13-escalas-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-13-escalas-categorias.webp" alt="función principal de cada escala" width="820">
+</p>
+<p align="center"><em>Infografía: función principal de cada escala.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -478,7 +566,11 @@ La promoción interna se articula mediante antigüedad selectiva y concurso-opos
 Ingreso externo: Policía o Inspector. Promoción interna: antigüedad selectiva o concurso-oposición.
 :::
 
-<!-- VISUAL PENDIENTE: t08-14-sistemas-acceso.webp -->
+<!-- VISUAL:t08-14-sistemas-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="dos puertas de ingreso y dos vías de promoción" width="820">
+</p>
+<p align="center"><em>Infografía: dos puertas de ingreso y dos vías de promoción.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -499,7 +591,11 @@ Para Escala Básica se exige Bachiller o equivalente; para Ejecutiva, título un
 No estudies una convocatoria antigua como si fuera la ley permanente: idioma, permiso y forma de acreditación deben comprobarse en cada convocatoria.
 :::
 
-<!-- VISUAL PENDIENTE: t08-14-sistemas-acceso.webp -->
+<!-- VISUAL:t08-14-sistemas-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="requisitos estructurales y requisitos variables" width="820">
+</p>
+<p align="center"><em>Infografía: requisitos estructurales y requisitos variables.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -520,7 +616,11 @@ La composición debe ser equilibrada entre mujeres y hombres. No pueden formar p
 Siete miembros al constituirse; cinco como mínimo para actuar; cuatro, al menos, policías nacionales en activo.
 :::
 
-<!-- VISUAL PENDIENTE: t08-14-sistemas-acceso.webp -->
+<!-- VISUAL:t08-14-sistemas-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="fases y composición del tribunal" width="820">
+</p>
+<p align="center"><em>Infografía: fases y composición del tribunal.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -533,6 +633,8 @@ Siete miembros al constituirse; cinco como mínimo para actuar; cuatro, al menos
 
 ## 25. Régimen disciplinario: faltas
 
+La Ley Orgánica 4/2010 se aplica a los policías nacionales en servicio activo y a quienes se encuentran en segunda actividad ocupando destino. Quienes estén en segunda actividad sin destino quedan sometidos al régimen disciplinario general de la función pública.
+
 La responsabilidad disciplinaria se exige por faltas muy graves, graves y leves. La tipificación es cerrada: una conducta solo puede sancionarse si encaja en una infracción prevista y mediante el procedimiento correspondiente.
 
 Las faltas muy graves y graves se enumeran en la Ley Orgánica 4/2010; las leves incluyen, entre otras, incorrecciones, retrasos o negligencias de menor entidad y determinadas infracciones de deberes profesionales cuando no constituyan falta superior.
@@ -541,7 +643,11 @@ Las faltas muy graves y graves se enumeran en la Ley Orgánica 4/2010; las leves
 Tres grados: muy grave, grave y leve. No confundas la gravedad de la conducta con la duración de la sanción.
 :::
 
-<!-- VISUAL PENDIENTE: t08-15-regimen-disciplinario.webp -->
+<!-- VISUAL:t08-15-regimen-disciplinario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-15-regimen-disciplinario.webp" alt="semáforo de faltas" width="820">
+</p>
+<p align="center"><em>Infografía: semáforo de faltas.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -556,13 +662,19 @@ Tres grados: muy grave, grave y leve. No confundas la gravedad de la conducta co
 
 Por falta muy grave pueden imponerse separación del servicio, suspensión de funciones de tres meses y un día a seis años o traslado forzoso. Por falta grave, suspensión de cinco días a tres meses. Por falta leve, suspensión de uno a cuatro días o apercibimiento.
 
-La separación corresponde al Ministro del Interior; la suspensión de tres años y un día a seis años y el traslado forzoso, a la Secretaría de Estado de Seguridad; las restantes sanciones por faltas muy graves y las sanciones por faltas graves, a la Dirección General. Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves al mes; las sanciones prescriben en los mismos plazos según su gravedad.
+La separación corresponde al Ministro del Interior; la suspensión de tres años y un día a seis años y el traslado forzoso, a la Secretaría de Estado de Seguridad; la suspensión de hasta tres años por falta muy grave y las sanciones por faltas graves, a la Dirección General. Las sanciones por faltas leves pueden imponerlas los Delegados del Gobierno y las jefaturas centrales, superiores, provinciales, locales y de unidades adscritas que enumera la ley, respecto de su personal o ámbito.
+
+Quien sea sancionado con traslado forzoso no podrá obtener un nuevo destino en el centro, unidad o plantilla de procedencia durante el período de uno a tres años fijado en la resolución. Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves al mes; las sanciones prescriben en los mismos plazos según su gravedad.
 
 :::perla-vigor
 Escala temporal de sanción: leve 1–4 días; grave 5 días–3 meses; muy grave 3 meses y 1 día–6 años, además de traslado o separación.
 :::
 
-<!-- VISUAL PENDIENTE: t08-15-regimen-disciplinario.webp -->
+<!-- VISUAL:t08-15-regimen-disciplinario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-15-regimen-disciplinario.webp" alt="sanción, autoridad y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: sanción, autoridad y prescripción.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -583,7 +695,11 @@ Las excedencias pueden ser por interés particular, agrupación familiar, cuidad
 Seis situaciones; cinco modalidades de excedencia.
 :::
 
-<!-- VISUAL PENDIENTE: t08-16-situaciones-administrativas.webp -->
+<!-- VISUAL:t08-16-situaciones-administrativas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-16-situaciones-administrativas.webp" alt="seis situaciones y cinco excedencias" width="820">
+</p>
+<p align="center"><em>Infografía: seis situaciones y cinco excedencias.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -598,13 +714,17 @@ Seis situaciones; cinco modalidades de excedencia.
 
 La suspensión puede ser provisional o firme. La provisional no excede, con carácter general, de tres meses por falta grave ni de seis por falta muy grave, salvo paralización imputable al interesado o procedimiento penal. La suspensión firme superior a seis meses determina la pérdida del puesto de trabajo.
 
-La segunda actividad garantiza la aptitud psicofísica del personal y puede declararse por insuficiencia psicofísica o a petición propia. Las edades de petición son 64 años en Escala Superior, 62 en Ejecutiva, 60 en Subinspección y 58 en Básica; también puede solicitarse tras veinticinco años efectivos en situaciones computables. Se permanece sin destino y a disposición de la DGP.
+La segunda actividad garantiza la aptitud psicofísica del personal y puede declararse por insuficiencia psicofísica o a petición propia. Las edades de petición son 64 años en Escala Superior, 62 en Ejecutiva, 60 en Subinspección y 58 en Básica; también puede solicitarse tras veinticinco años efectivos en situaciones computables. No conlleva ocupación de destino y se permanece a disposición del Ministro del Interior para funciones policiales cuando razones excepcionales de seguridad ciudadana lo requieran.
 
 :::perla-vigor
 Edades: 64–62–60–58. Otra puerta: 25 años efectivos.
 :::
 
-<!-- VISUAL PENDIENTE: t08-16-situaciones-administrativas.webp -->
+<!-- VISUAL:t08-16-situaciones-administrativas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-16-situaciones-administrativas.webp" alt="suspensión y segunda actividad" width="820">
+</p>
+<p align="center"><em>Infografía: suspensión y segunda actividad.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -636,9 +756,9 @@ Prioridad alta: cuatro órganos centrales, cinco Comisarías Generales, dependen
 # Ha caído
 
 :::ha-caido
-El histórico del proyecto confirma preguntas sobre la UCOT, suplencias de la DAO, Comisarías Especiales, Banda de Música, Oficina Nacional de Deportes, SIRENE, Policía Científica, escalas, acceso, disciplina y segunda actividad. El índice oficial detallado queda bloqueado hasta completar el mapeo pregunta–bloque y la revisión editorial.
+El índice histórico revisado localiza 42 preguntas entre 2016 y 2025 vinculadas a 19 bloques del tema. Han aparecido, entre otros, la UCOT, suplencias de la DAO, Comisarías Especiales, Banda de Música, Oficina Nacional de Deportes, SIRENE, Policía Científica, escalas, acceso, disciplina y segunda actividad. Las respuestas están revisadas por la academia, pero no se presentan como plantilla oficial final.
 :::
 
 ---
 
-*Academia En Vigor · El temario que nunca duerme · Tema 8 · v0.9.0 · Documento interno no publicado.*
+*Academia En Vigor · El temario que nunca duerme · Tema 8 · v1.0.0 · Documento interno no publicado.*

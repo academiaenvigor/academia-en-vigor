@@ -1,25 +1,68 @@
 {
   "schema_version": "2.0.0",
-  "content_version": "0.9.0",
+  "content_version": "1.0.0",
   "oposicion": "policia-nacional",
   "tema": 8,
-  "estado": "draft",
+  "estado": "ready",
   "publicacion": "not_published",
-  "total_preguntas": 0,
-  "total_hechos": 0,
-  "hechos_cubiertos": 0,
-  "cobertura_por_hechos": 0.0,
+  "total_preguntas": 389,
+  "total_hechos": 199,
+  "hechos_cubiertos": 199,
+  "cobertura_por_hechos": 100.0,
   "distribucion_respuestas": {
-    "A": 0,
-    "B": 0,
-    "C": 0
+    "A": 130,
+    "B": 129,
+    "C": 130
   },
-  "distribucion_dificultad": {},
-  "distribucion_tipo": {},
-  "preguntas_por_bloque": {},
-  "preguntas_por_parte": {},
+  "distribucion_dificultad": {
+    "alta": 380,
+    "media": 9
+  },
+  "distribucion_tipo": {
+    "literal_discriminacion": 199,
+    "supuesto_aplicado": 190
+  },
+  "preguntas_por_bloque": {
+    "1": 10,
+    "2": 10,
+    "3": 11,
+    "4": 10,
+    "5": 12,
+    "6": 13,
+    "7": 12,
+    "8": 7,
+    "9": 14,
+    "10": 16,
+    "11": 9,
+    "12": 9,
+    "13": 10,
+    "14": 12,
+    "15": 12,
+    "16": 12,
+    "17": 14,
+    "18": 18,
+    "19": 16,
+    "20": 16,
+    "21": 14,
+    "22": 12,
+    "23": 20,
+    "24": 18,
+    "25": 14,
+    "26": 26,
+    "27": 20,
+    "28": 22
+  },
+  "preguntas_por_parte": {
+    "1": 66,
+    "2": 58,
+    "3": 55,
+    "4": 32,
+    "5": 46,
+    "6": 50,
+    "7": 82
+  },
   "caracter": {
-    "propias": 0,
+    "propias": 389,
     "oficiales": 0
   },
   "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-08/master.md",
@@ -38,12 +81,10 @@
       50
     ]
   },
-  "publication_gate": "blocked_until_editorial_approval",
+  "publication_gate": "ready_after_editorial_approval",
   "quality_gate": {
-    "status": "blocked",
-    "reasons": [
-      "question_bank_not_started"
-    ],
+    "status": "passed",
+    "reasons": [],
     "risk5_second_formulations_pending": 0
   }
 }

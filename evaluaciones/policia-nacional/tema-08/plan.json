@@ -1,67 +1,235 @@
 {
   "schema_version": "2.0.0",
-  "content_version": "0.9.0",
+  "content_version": "1.0.0",
   "opposition": "policia-nacional",
   "topic_number": 8,
   "topic_title": "La Dirección General de la Policía y la Policía Nacional",
   "id_prefix": "PN-T08",
-  "status": "planned",
+  "status": "ready",
   "bank": "banco-preguntas/policia-nacional/tema-08/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-08/tests-generados",
   "coverage_tests": {
-    "description": "Un test por cada bloque cuando exista banco aprobado",
     "max_questions_per_test": 25,
     "blocks": [
-      {"number": 1, "title": "La Dirección General de la Policía"},
-      {"number": 2, "title": "Organización central y apoyo inmediato"},
-      {"number": 3, "title": "División de Cooperación Internacional"},
-      {"number": 4, "title": "Dirección Adjunta Operativa"},
-      {"number": 5, "title": "División de Operaciones y Transformación Digital"},
-      {"number": 6, "title": "Planificación y unidades especiales de la DAO"},
-      {"number": 7, "title": "Las cinco Comisarías Generales"},
-      {"number": 8, "title": "Comisaría General de Información"},
-      {"number": 9, "title": "Comisaría General de Policía Judicial"},
-      {"number": 10, "title": "Seguridad Ciudadana y Extranjería y Fronteras"},
-      {"number": 11, "title": "Comisaría General de Policía Científica"},
-      {"number": 12, "title": "Recursos Humanos y Formación"},
-      {"number": 13, "title": "División de Personal"},
-      {"number": 14, "title": "División de Formación y Perfeccionamiento"},
-      {"number": 15, "title": "Logística e Innovación"},
-      {"number": 16, "title": "División de Documentación y Gabinete Técnico"},
-      {"number": 17, "title": "Junta de Gobierno y Consejo Asesor"},
-      {"number": 18, "title": "Organización territorial"},
-      {"number": 19, "title": "Funciones exclusivas de la Policía Nacional"},
-      {"number": 20, "title": "Escalas, categorías y grupos"},
-      {"number": 21, "title": "Funciones por escala y áreas de actividad"},
-      {"number": 22, "title": "Sistemas y principios de acceso"},
-      {"number": 23, "title": "Requisitos de ingreso"},
-      {"number": 24, "title": "Proceso selectivo, formación y tribunales"},
-      {"number": 25, "title": "Régimen disciplinario: faltas"},
-      {"number": 26, "title": "Sanciones, competencia y prescripción"},
-      {"number": 27, "title": "Situaciones administrativas y excedencias"},
-      {"number": 28, "title": "Suspensión de funciones y segunda actividad"}
+      {
+        "number": 1,
+        "title": "DGP: posición, mando y funciones"
+      },
+      {
+        "number": 2,
+        "title": "Organización central y apoyo inmediato"
+      },
+      {
+        "number": 3,
+        "title": "División de Cooperación Internacional"
+      },
+      {
+        "number": 4,
+        "title": "Dirección Adjunta Operativa"
+      },
+      {
+        "number": 5,
+        "title": "Operaciones y Transformación Digital"
+      },
+      {
+        "number": 6,
+        "title": "Planificación y unidades especiales"
+      },
+      {
+        "number": 7,
+        "title": "Las cinco Comisarías Generales"
+      },
+      {
+        "number": 8,
+        "title": "Comisaría General de Información"
+      },
+      {
+        "number": 9,
+        "title": "Comisaría General de Policía Judicial"
+      },
+      {
+        "number": 10,
+        "title": "Seguridad Ciudadana y Extranjería y Fronteras"
+      },
+      {
+        "number": 11,
+        "title": "Comisaría General de Policía Científica"
+      },
+      {
+        "number": 12,
+        "title": "Recursos Humanos y Formación"
+      },
+      {
+        "number": 13,
+        "title": "División de Personal"
+      },
+      {
+        "number": 14,
+        "title": "Formación y Perfeccionamiento"
+      },
+      {
+        "number": 15,
+        "title": "Logística e Innovación"
+      },
+      {
+        "number": 16,
+        "title": "Documentación y Gabinete Técnico"
+      },
+      {
+        "number": 17,
+        "title": "Junta de Gobierno y Consejo Asesor"
+      },
+      {
+        "number": 18,
+        "title": "Organización territorial"
+      },
+      {
+        "number": 19,
+        "title": "Funciones exclusivas de la Policía Nacional"
+      },
+      {
+        "number": 20,
+        "title": "Escalas, categorías y grupos"
+      },
+      {
+        "number": 21,
+        "title": "Funciones por escala y áreas de actividad"
+      },
+      {
+        "number": 22,
+        "title": "Sistemas y principios de acceso"
+      },
+      {
+        "number": 23,
+        "title": "Requisitos de ingreso"
+      },
+      {
+        "number": 24,
+        "title": "Proceso selectivo, formación y tribunales"
+      },
+      {
+        "number": 25,
+        "title": "Régimen disciplinario: faltas"
+      },
+      {
+        "number": 26,
+        "title": "Sanciones, competencia y prescripción"
+      },
+      {
+        "number": 27,
+        "title": "Situaciones administrativas y excedencias"
+      },
+      {
+        "number": 28,
+        "title": "Suspensión y segunda actividad"
+      }
     ]
   },
   "part_tests": {
     "questions_per_test": 10,
     "variants": [
-      {"id": "A", "offset": 0},
-      {"id": "B", "offset": 1}
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
     ],
     "parts": [
-      {"code": "P1", "title": "Dirección General y Dirección Adjunta Operativa", "blocks": [1, 2, 3, 4, 5, 6]},
-      {"code": "P2", "title": "Las cinco Comisarías Generales", "blocks": [7, 8, 9, 10, 11]},
-      {"code": "P3", "title": "Recursos humanos, logística y Gabinete Técnico", "blocks": [12, 13, 14, 15, 16]},
-      {"code": "P4", "title": "Órganos colegiados y organización territorial", "blocks": [17, 18]},
-      {"code": "P5", "title": "Funciones, escalas y categorías", "blocks": [19, 20, 21]},
-      {"code": "P6", "title": "Sistemas de acceso", "blocks": [22, 23, 24]},
-      {"code": "P7", "title": "Régimen disciplinario y situaciones administrativas", "blocks": [25, 26, 27, 28]}
+      {
+        "code": "P1",
+        "title": "DGP, cooperación y núcleo operativo",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Comisarías Generales",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Recursos, formación, logística y apoyo",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Órganos colegiados y organización territorial",
+        "blocks": [
+          17,
+          18
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Funciones, escalas y carrera profesional",
+        "blocks": [
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Ingreso, promoción y formación selectiva",
+        "blocks": [
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Disciplina y situaciones administrativas",
+        "blocks": [
+          25,
+          26,
+          27,
+          28
+        ]
+      }
     ]
   },
   "final_tests": [
-    {"questions": 25, "variant": "A", "offset": 0},
-    {"questions": 25, "variant": "B", "offset": 1},
-    {"questions": 50, "variant": "A", "offset": 0},
-    {"questions": 50, "variant": "B", "offset": 2}
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
   ]
 }
