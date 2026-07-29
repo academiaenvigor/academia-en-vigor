@@ -191,12 +191,6 @@ El personal eventual:
 - cesa, en todo caso, cuando lo hace la autoridad a la que asesora;
 - no convierte su servicio en mérito para acceder a la función pública ni para promoción interna.
 
-<!-- VISUAL:t06-06-laboral-eventual.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-06/t06-06-laboral-eventual.webp" alt="contrato laboral, interinidad y confianza eventual" width="820">
-</p>
-<p align="center"><em>Infografía: contrato laboral, interinidad y confianza eventual.</em></p>
-
 <!-- MATERIAL PENDIENTE: t06-p3-audio -->
 <!-- MATERIAL PENDIENTE: t06-p3-video -->
 <!-- MATERIAL PENDIENTE: t06-p3-pres -->

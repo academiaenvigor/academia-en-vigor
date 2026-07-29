@@ -42,12 +42,11 @@ Una operación nacional, una redistribución extraordinaria de efectivos o una p
 No confundas «superior dirección» con «mando directo». Tampoco confundas el rango de subsecretario del Director General con una subdirección general.
 :::
 
-<!-- VISUAL:t08-01-mapa-general.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-01-mapa-general.webp" alt="cadena de dependencia y mando" width="820">
-</p>
-<p align="center"><em>Infografía: cadena de dependencia y mando.</em></p>
  <!-- FACT:PN-T08-F001 --> <!-- FACT:PN-T08-F002 --> <!-- FACT:PN-T08-F003 --> <!-- FACT:PN-T08-F004 --> <!-- FACT:PN-T08-F005 --> <!-- FACT:PN-T08-F006 -->
+
+:::trampa
+No conviertas «Dirección General de la Policía» y «Policía Nacional» en sinónimos. La primera es el centro directivo que organiza y dirige; la segunda es el cuerpo policial. En un test, identifica primero si preguntan por la estructura administrativa o por el cuerpo.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -79,7 +78,18 @@ La suplencia del Director General corresponde a la Dirección Adjunta Operativa.
   <img src="../../../assets/policia-nacional/tema-08/t08-il-01-cuatro-pilares-dgp.webp" alt="metáfora visual de operaciones, personas, medios y estrategia" width="820">
 </p>
 <p align="center"><em>Infografía: metáfora visual de operaciones, personas, medios y estrategia.</em></p>
+
  <!-- FACT:PN-T08-F007 --> <!-- FACT:PN-T08-F008 --> <!-- FACT:PN-T08-F009 --> <!-- FACT:PN-T08-F010 --> <!-- FACT:PN-T08-F011 --> <!-- FACT:PN-T08-F012 -->
+
+<!-- VISUAL:t08-02-cuatro-centros-directivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-02-cuatro-centros-directivos.webp" alt="DAO, Recursos Humanos, Logística y Gabinete Técnico" width="820">
+</p>
+<p align="center"><em>Infografía: DAO, Recursos Humanos, Logística y Gabinete Técnico.</em></p>
+
+:::trampa
+No metas todas las unidades centrales en el mismo nivel. Separa los centros directivos de los órganos que dependen directamente de la persona titular de la DGP; esa relación de dependencia es tan examinable como el nombre de la unidad.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -111,7 +121,12 @@ Dependencia directa de la DGP y reparto INTERPOL–EUROPOL–SIRENE.
   <img src="../../../assets/policia-nacional/tema-08/t08-03-cooperacion-internacional.webp" alt="tres canales, tres pistas de examen" width="820">
 </p>
 <p align="center"><em>Infografía: tres canales, tres pistas de examen.</em></p>
+
  <!-- FACT:PN-T08-F013 --> <!-- FACT:PN-T08-F014 --> <!-- FACT:PN-T08-F015 --> <!-- FACT:PN-T08-F016 --> <!-- FACT:PN-T08-F017 --> <!-- FACT:PN-T08-F018 -->
+
+:::trampa
+INTERPOL, EUROPOL y SIRENE son canales distintos. Si el enunciado cambia cooperación internacional general, cooperación policial de la Unión o alertas Schengen, también cambia la unidad o el cauce que debes elegir.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -143,7 +158,18 @@ Memoriza la secuencia de suplencia de la DAO: Recursos Humanos, Logística, Gabi
   <img src="../../../assets/policia-nacional/tema-08/t08-il-02-dao-corazon-operativo.webp" alt="DAO como nodo de coordinación" width="820">
 </p>
 <p align="center"><em>Infografía: DAO como nodo de coordinación.</em></p>
+
  <!-- FACT:PN-T08-F019 --> <!-- FACT:PN-T08-F020 --> <!-- FACT:PN-T08-F021 --> <!-- FACT:PN-T08-F022 --> <!-- FACT:PN-T08-F023 -->
+
+<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="División de Operaciones, planificación y unidades especiales" width="820">
+</p>
+<p align="center"><em>Infografía: División de Operaciones, planificación y unidades especiales.</em></p>
+
+:::trampa
+La DAO es el gran eje operativo, pero no absorbe toda la Dirección General. Antes de atribuirle una unidad, comprueba si depende de la DAO, de otra subdirección general o directamente de la persona titular de la DGP.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -170,12 +196,11 @@ La protección ante amenazas con drones y la coordinación de equipos territoria
 Las Comisarías Especiales del Senado, Congreso, Casa Real y otros órganos constitucionales se encuadran aquí.
 :::
 
-<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="diferencia entre tecnología operativa y soporte corporativo" width="820">
-</p>
-<p align="center"><em>Infografía: diferencia entre tecnología operativa y soporte corporativo.</em></p>
  <!-- FACT:PN-T08-F024 --> <!-- FACT:PN-T08-F025 --> <!-- FACT:PN-T08-F026 --> <!-- FACT:PN-T08-F027 --> <!-- FACT:PN-T08-F028 --> <!-- FACT:PN-T08-F029 -->
+
+:::trampa
+Transformación digital operativa no equivale a soporte informático corporativo. La palabra «operaciones» delimita el ámbito de esta división; no traslades automáticamente a ella cualquier competencia tecnológica que aparezca en el tema.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -202,12 +227,11 @@ Una investigación penal sobre un integrante de la organización por hechos vinc
 GEO: Guadalajara. Asuntos Internos: delito y ética profesional del personal.
 :::
 
-<!-- VISUAL:t08-il-02-dao-corazon-operativo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-il-02-dao-corazon-operativo.webp" alt="cuatro funciones diferenciadas" width="820">
-</p>
-<p align="center"><em>Infografía: cuatro funciones diferenciadas.</em></p>
  <!-- FACT:PN-T08-F030 --> <!-- FACT:PN-T08-F031 --> <!-- FACT:PN-T08-F032 --> <!-- FACT:PN-T08-F033 --> <!-- FACT:PN-T08-F034 --> <!-- FACT:PN-T08-F035 --> <!-- FACT:PN-T08-F036 -->
+
+:::trampa
+Planificación, GEO, Asuntos Internos y unidades adscritas no son cuatro nombres intercambiables. Memoriza cada función con su unidad y su dependencia; una pregunta suele conservar la función correcta y cambiar únicamente el órgano.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -239,7 +263,18 @@ Número, nombres y dependencia de las cinco Comisarías Generales.
   <img src="../../../assets/policia-nacional/tema-08/t08-il-03-cinco-equipos-especialistas.webp" alt="cinco equipos con misiones distintas" width="820">
 </p>
 <p align="center"><em>Infografía: cinco equipos con misiones distintas.</em></p>
+
  <!-- FACT:PN-T08-F037 --> <!-- FACT:PN-T08-F038 --> <!-- FACT:PN-T08-F039 --> <!-- FACT:PN-T08-F040 --> <!-- FACT:PN-T08-F041 --> <!-- FACT:PN-T08-F042 -->
+
+<!-- VISUAL:t08-05-cinco-comisarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-05-cinco-comisarias.webp" alt="Información, Judicial, Seguridad Ciudadana, Extranjería y Científica" width="820">
+</p>
+<p align="center"><em>Infografía: Información, Judicial, Seguridad Ciudadana, Extranjería y Científica.</em></p>
+
+:::trampa
+Son cinco Comisarías Generales y cada una responde a una especialidad. Si una opción mezcla dos misiones reales, decide cuál es la dominante: información, investigación, seguridad ciudadana, extranjería y fronteras o policía científica.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -266,12 +301,11 @@ El análisis de una amenaza terrorista combina obtención, tratamiento y explota
 Especialidad antiterrorista y estructura por Orden Comunicada.
 :::
 
-<!-- VISUAL:t08-05-cinco-comisarias.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-05-cinco-comisarias.webp" alt="flujo dato → análisis → actuación" width="820">
-</p>
-<p align="center"><em>Infografía: flujo dato → análisis → actuación.</em></p>
  <!-- FACT:PN-T08-F043 --> <!-- FACT:PN-T08-F044 --> <!-- FACT:PN-T08-F045 --> <!-- FACT:PN-T08-F046 -->
+
+:::trampa
+Información no es sinónimo de Policía Judicial. La primera trabaja sobre inteligencia y amenazas; la segunda investiga infracciones y estructuras delictivas. Que ambas analicen información no las convierte en la misma especialidad.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -303,7 +337,12 @@ Asociación unidad–materia y la figura del Jefe o Jefa Central de Operaciones.
   <img src="../../../assets/policia-nacional/tema-08/t08-06-policia-judicial.webp" alt="árbol de especialidades" width="820">
 </p>
 <p align="center"><em>Infografía: árbol de especialidades.</em></p>
+
  <!-- FACT:PN-T08-F047 --> <!-- FACT:PN-T08-F048 --> <!-- FACT:PN-T08-F049 --> <!-- FACT:PN-T08-F050 --> <!-- FACT:PN-T08-F051 --> <!-- FACT:PN-T08-F052 --> <!-- FACT:PN-T08-F053 -->
+
+:::trampa
+No confundas la Comisaría General de Policía Judicial, que es una unidad orgánica de la DGP, con la función genérica de policía judicial bajo jueces, tribunales y Ministerio Fiscal. El contexto del enunciado decide cuál se pregunta.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -335,7 +374,18 @@ Deportes y asuntos taurinos frente a fronteras, repatriaciones y FRONTEX.
   <img src="../../../assets/policia-nacional/tema-08/t08-08-extranjeria-fronteras.webp" alt="frontera, inmigración irregular, repatriación y FRONTEX" width="820">
 </p>
 <p align="center"><em>Infografía: frontera, inmigración irregular, repatriación y FRONTEX.</em></p>
+
  <!-- FACT:PN-T08-F054 --> <!-- FACT:PN-T08-F055 --> <!-- FACT:PN-T08-F056 --> <!-- FACT:PN-T08-F057 --> <!-- FACT:PN-T08-F058 --> <!-- FACT:PN-T08-F059 --> <!-- FACT:PN-T08-F060 --> <!-- FACT:PN-T08-F061 -->
+
+<!-- VISUAL:t08-07-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-07-seguridad-ciudadana.webp" alt="Prevención, orden, seguridad privada, participación y deportes" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención, orden, seguridad privada, participación y deportes.</em></p>
+
+:::trampa
+Seguridad Ciudadana y Extranjería y Fronteras comparten bloque, pero no competencias. Prevención y protección del orden pertenecen a una especialidad; fronteras, documentación de extranjeros e inmigración irregular, a la otra.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -367,7 +417,12 @@ Documentoscopia y falsedad documental: Unidad Central de Criminalística.
   <img src="../../../assets/policia-nacional/tema-08/t08-09-policia-cientifica.webp" alt="recorrido indicio → análisis → informe pericial" width="820">
 </p>
 <p align="center"><em>Infografía: recorrido indicio → análisis → informe pericial.</em></p>
+
  <!-- FACT:PN-T08-F062 --> <!-- FACT:PN-T08-F063 --> <!-- FACT:PN-T08-F064 --> <!-- FACT:PN-T08-F065 --> <!-- FACT:PN-T08-F066 -->
+
+:::trampa
+Policía Científica aporta identificación, análisis e informes periciales; no decide la culpabilidad ni sustituye a la investigación judicial. En las opciones, distingue el trabajo técnico sobre indicios de la dirección de la investigación.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -399,7 +454,12 @@ Dos Divisiones dependientes: Personal y Formación y Perfeccionamiento.
   <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="ciclo profesional" width="820">
 </p>
 <p align="center"><em>Infografía: ciclo profesional.</em></p>
+
  <!-- FACT:PN-T08-F067 --> <!-- FACT:PN-T08-F068 --> <!-- FACT:PN-T08-F069 --> <!-- FACT:PN-T08-F070 --> <!-- FACT:PN-T08-F071 -->
+
+:::trampa
+Recursos Humanos y Formación se coordinan, pero no son una sola función. Gestionar la vida profesional del personal y diseñar su formación son circuitos distintos, aunque ambos dependan del ámbito de personal y formación.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -426,12 +486,11 @@ Una excedencia afecta al expediente y a la situación administrativa; un expedie
 Ubicación de Régimen Disciplinario y del Área de Documentación y Expediente Personal.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="doble carril: gestión y disciplina" width="820">
-</p>
-<p align="center"><em>Infografía: doble carril: gestión y disciplina.</em></p>
  <!-- FACT:PN-T08-F072 --> <!-- FACT:PN-T08-F073 --> <!-- FACT:PN-T08-F074 --> <!-- FACT:PN-T08-F075 --> <!-- FACT:PN-T08-F076 -->
+
+:::trampa
+La División de Personal no asume por ser «de personal» toda materia relacionada con funcionarios. Separa gestión de expedientes, destinos y situaciones de los procesos formativos y selectivos atribuidos a la división competente en formación.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -463,7 +522,12 @@ Diferencia entre Escuela, Actualización, Altos Estudios y Procesos Selectivos.
   <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="itinerario selectivo y formativo" width="820">
 </p>
 <p align="center"><em>Infografía: itinerario selectivo y formativo.</em></p>
+
  <!-- FACT:PN-T08-F077 --> <!-- FACT:PN-T08-F078 --> <!-- FACT:PN-T08-F079 --> <!-- FACT:PN-T08-F080 --> <!-- FACT:PN-T08-F081 --> <!-- FACT:PN-T08-F082 -->
+
+:::trampa
+Formación de ingreso, actualización y perfeccionamiento pertenecen al mismo itinerario, pero no son la misma fase. Cuando el test pregunte por un centro o proceso, sitúalo antes, durante o después del acceso.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -490,12 +554,11 @@ La compra y distribución de vehículos corresponde al Área de Automoción; uni
 Dos Divisiones: Económica y Técnica; Documentación.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="cadena recurso → distribución → servicio" width="820">
-</p>
-<p align="center"><em>Infografía: cadena recurso → distribución → servicio.</em></p>
  <!-- FACT:PN-T08-F083 --> <!-- FACT:PN-T08-F084 --> <!-- FACT:PN-T08-F085 --> <!-- FACT:PN-T08-F086 --> <!-- FACT:PN-T08-F087 --> <!-- FACT:PN-T08-F088 -->
+
+:::trampa
+Logística e innovación se apoyan en tecnología, pero su referencia es la provisión y modernización de medios. No la confundas con la transformación digital operativa ni con las funciones de documentación.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -522,12 +585,11 @@ La coordinación de expedición documental territorial parte del área central e
 Cadena orgánica de la Banda de Música y funciones del Gabinete Técnico.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="dos columnas: documentación y apoyo a dirección" width="820">
-</p>
-<p align="center"><em>Infografía: dos columnas: documentación y apoyo a dirección.</em></p>
  <!-- FACT:PN-T08-F089 --> <!-- FACT:PN-T08-F090 --> <!-- FACT:PN-T08-F091 --> <!-- FACT:PN-T08-F092 --> <!-- FACT:PN-T08-F093 --> <!-- FACT:PN-T08-F094 -->
+
+:::trampa
+Documentación y Gabinete Técnico aparecen juntos en la estructura, pero cumplen cometidos diferentes. Una pista sobre documentos de identidad no conduce al órgano de apoyo estratégico, y una pista sobre estudios o coordinación no conduce a documentación.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
@@ -554,12 +616,11 @@ La definición del Plan Estratégico puede someterse a la Junta; un problema nov
 Presidencia, Vicepresidencia y Secretaría de la Junta; Secretaría del Consejo.
 :::
 
-<!-- VISUAL:t08-02-cuatro-centros-directivos.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-02-cuatro-centros-directivos.webp" alt="comparación Junta/Consejo" width="820">
-</p>
-<p align="center"><em>Infografía: comparación Junta/Consejo.</em></p>
  <!-- FACT:PN-T08-F095 --> <!-- FACT:PN-T08-F096 --> <!-- FACT:PN-T08-F097 --> <!-- FACT:PN-T08-F098 --> <!-- FACT:PN-T08-F099 --> <!-- FACT:PN-T08-F100 --> <!-- FACT:PN-T08-F101 -->
+
+:::trampa
+Junta de Gobierno y Consejo Asesor son órganos colegiados de apoyo y participación; no los conviertas en una nueva cadena de mando territorial. Aprende para cada uno composición, presidencia y finalidad.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p4-audio -->
 <!-- MATERIAL PENDIENTE: t08-p4-video -->
@@ -591,7 +652,18 @@ Jefe Regional de Operaciones sustituye al Jefe Superior; Jefe Provincial de Oper
   <img src="../../../assets/policia-nacional/tema-08/t08-il-04-doble-dependencia-territorial.webp" alt="dependencia orgánica y funcional" width="820">
 </p>
 <p align="center"><em>Infografía: dependencia orgánica y funcional.</em></p>
+
  <!-- FACT:PN-T08-F102 --> <!-- FACT:PN-T08-F103 --> <!-- FACT:PN-T08-F104 --> <!-- FACT:PN-T08-F105 --> <!-- FACT:PN-T08-F106 --> <!-- FACT:PN-T08-F107 --> <!-- FACT:PN-T08-F108 --> <!-- FACT:PN-T08-F109 --> <!-- FACT:PN-T08-F110 -->
+
+<!-- VISUAL:t08-11-organizacion-territorial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-11-organizacion-territorial.webp" alt="Jefaturas, comisarías y unidades territoriales" width="820">
+</p>
+<p align="center"><em>Infografía: Jefaturas, comisarías y unidades territoriales.</em></p>
+
+:::trampa
+La organización territorial combina dependencia orgánica y funcional. No elijas una opción solo porque acierta el territorio: comprueba además qué órgano dirige, coordina o ejerce la dependencia en esa materia.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p4-audio -->
 <!-- MATERIAL PENDIENTE: t08-p4-video -->
@@ -623,7 +695,12 @@ Listado del artículo 12 y discriminación frente a funciones propias de Guardia
   <img src="../../../assets/policia-nacional/tema-08/t08-12-funciones-policia-nacional.webp" alt="rueda de competencias" width="820">
 </p>
 <p align="center"><em>Infografía: rueda de competencias.</em></p>
+
  <!-- FACT:PN-T08-F111 --> <!-- FACT:PN-T08-F112 --> <!-- FACT:PN-T08-F113 --> <!-- FACT:PN-T08-F114 --> <!-- FACT:PN-T08-F115 --> <!-- FACT:PN-T08-F116 --> <!-- FACT:PN-T08-F117 --> <!-- FACT:PN-T08-F118 -->
+
+:::trampa
+Una función exclusiva de la Policía Nacional no es una función que solo pueda realizar un policía concreto. «Exclusiva» compara cuerpos estatales; el reparto debe leerse frente a Guardia Civil y a las funciones comunes.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -655,7 +732,18 @@ Orden completo, grupos y cuál es la primera categoría de cada escala.
   <img src="../../../assets/policia-nacional/tema-08/t08-il-05-escalera-profesional.webp" alt="ascenso por escalones" width="820">
 </p>
 <p align="center"><em>Infografía: ascenso por escalones.</em></p>
+
  <!-- FACT:PN-T08-F119 --> <!-- FACT:PN-T08-F120 --> <!-- FACT:PN-T08-F121 --> <!-- FACT:PN-T08-F122 --> <!-- FACT:PN-T08-F123 --> <!-- FACT:PN-T08-F124 --> <!-- FACT:PN-T08-F125 --> <!-- FACT:PN-T08-F126 -->
+
+<!-- VISUAL:t08-13-escalas-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-13-escalas-categorias.webp" alt="Cuatro escalas, siete categorías, grupos y funciones" width="820">
+</p>
+<p align="center"><em>Infografía: Cuatro escalas, siete categorías, grupos y funciones.</em></p>
+
+:::trampa
+Escala, categoría y grupo de clasificación son tres niveles distintos. La escala contiene categorías; el grupo expresa clasificación funcionarial. Una opción puede acertar dos nombres y fallar únicamente la relación entre ellos.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -682,12 +770,11 @@ En un dispositivo, la planificación superior, el mando operativo, la supervisi�
 Verbo asociado a cada escala y listado de áreas de actividad.
 :::
 
-<!-- VISUAL:t08-il-05-escalera-profesional.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-il-05-escalera-profesional.webp" alt="cuatro verbos de responsabilidad" width="820">
-</p>
-<p align="center"><em>Infografía: cuatro verbos de responsabilidad.</em></p>
  <!-- FACT:PN-T08-F127 --> <!-- FACT:PN-T08-F128 --> <!-- FACT:PN-T08-F129 --> <!-- FACT:PN-T08-F130 --> <!-- FACT:PN-T08-F131 --> <!-- FACT:PN-T08-F132 --> <!-- FACT:PN-T08-F133 -->
+
+:::trampa
+Las funciones de una escala describen responsabilidad profesional, pero no sustituyen la relación concreta de puestos. No deduzcas que toda persona de una escala ocupa siempre el mismo destino o realiza idéntica tarea.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
@@ -714,12 +801,11 @@ Una persona ajena a la Policía puede presentarse a Policía o Inspector si cump
 Categorías de ingreso libre y porcentaje 40/60 en Inspector.
 :::
 
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="mapa de rutas" width="820">
-</p>
-<p align="center"><em>Infografía: mapa de rutas.</em></p>
  <!-- FACT:PN-T08-F134 --> <!-- FACT:PN-T08-F135 --> <!-- FACT:PN-T08-F136 --> <!-- FACT:PN-T08-F137 --> <!-- FACT:PN-T08-F138 --> <!-- FACT:PN-T08-F139 -->
+
+:::trampa
+Sistema de acceso y principios de acceso no son lo mismo. Oposición, concurso-oposición o promoción describen vías; igualdad, mérito, capacidad y publicidad gobiernan el procedimiento.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -746,12 +832,11 @@ Cumplir el título académico no suple la acreditación lingüística cuando la 
 Escala Básica: Bachiller o equivalente. Escala Ejecutiva: Grado. Convocatoria 2026: A2 de inglés o francés.
 :::
 
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="checklist actualizado" width="820">
-</p>
-<p align="center"><em>Infografía: checklist actualizado.</em></p>
  <!-- FACT:PN-T08-F140 --> <!-- FACT:PN-T08-F141 --> <!-- FACT:PN-T08-F142 --> <!-- FACT:PN-T08-F143 --> <!-- FACT:PN-T08-F144 --> <!-- FACT:PN-T08-F145 --> <!-- FACT:PN-T08-F146 --> <!-- FACT:PN-T08-F147 --> <!-- FACT:PN-T08-F148 --> <!-- FACT:PN-T08-F149 -->
+
+:::trampa
+Separa requisitos generales de ingreso y requisitos vinculados a una convocatoria o modalidad. En un test normativo, una condición razonable puede ser falsa si se atribuye a la norma o fase equivocada.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -778,12 +863,11 @@ Aunque falten dos miembros, el tribunal puede actuar si conserva cinco presentes
 7–5–4: siete constituidos, cinco presentes, cuatro policías en activo.
 :::
 
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="regla 7–5–4" width="820">
-</p>
-<p align="center"><em>Infografía: regla 7–5–4.</em></p>
  <!-- FACT:PN-T08-F150 --> <!-- FACT:PN-T08-F151 --> <!-- FACT:PN-T08-F152 --> <!-- FACT:PN-T08-F153 --> <!-- FACT:PN-T08-F154 --> <!-- FACT:PN-T08-F155 --> <!-- FACT:PN-T08-F156 --> <!-- FACT:PN-T08-F157 --> <!-- FACT:PN-T08-F158 -->
+
+:::trampa
+Proceso selectivo, curso de formación y prácticas forman una secuencia. No adelantes la condición final ni atribuyas al tribunal funciones de un centro docente; identifica qué órgano interviene en cada fase.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -815,7 +899,18 @@ El instructor debe identificar hechos, tipo disciplinario y grado antes de propo
   <img src="../../../assets/policia-nacional/tema-08/t08-il-06-semaforo-disciplinario.webp" alt="muy grave, grave y leve" width="820">
 </p>
 <p align="center"><em>Infografía: muy grave, grave y leve.</em></p>
+
  <!-- FACT:PN-T08-F159 --> <!-- FACT:PN-T08-F160 --> <!-- FACT:PN-T08-F161 --> <!-- FACT:PN-T08-F162 --> <!-- FACT:PN-T08-F163 --> <!-- FACT:PN-T08-F164 --> <!-- FACT:PN-T08-F165 -->
+
+<!-- VISUAL:t08-15-regimen-disciplinario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-15-regimen-disciplinario.webp" alt="Faltas, sanciones, autoridades y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: Faltas, sanciones, autoridades y prescripción.</em></p>
+
+:::trampa
+La clasificación de la falta no es la sanción. Primero se determina si la conducta es muy grave, grave o leve; después se aplica la consecuencia prevista con el procedimiento y la competencia correspondientes.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -842,12 +937,11 @@ Una propuesta de separación del servicio no la resuelve el Director General, si
 Fronteras 4/5 días y 3 meses/3 meses+1 día; Ministro–SES–DGP–jefaturas; traslado 1–3 años; prescripción 3 años–2 años–1 mes.
 :::
 
-<!-- VISUAL:t08-il-06-semaforo-disciplinario.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-il-06-semaforo-disciplinario.webp" alt="línea temporal sin solapamientos" width="820">
-</p>
-<p align="center"><em>Infografía: línea temporal sin solapamientos.</em></p>
  <!-- FACT:PN-T08-F166 --> <!-- FACT:PN-T08-F167 --> <!-- FACT:PN-T08-F168 --> <!-- FACT:PN-T08-F169 --> <!-- FACT:PN-T08-F170 --> <!-- FACT:PN-T08-F171 --> <!-- FACT:PN-T08-F172 --> <!-- FACT:PN-T08-F173 --> <!-- FACT:PN-T08-F174 --> <!-- FACT:PN-T08-F175 --> <!-- FACT:PN-T08-F176 --> <!-- FACT:PN-T08-F177 --> <!-- FACT:PN-T08-F178 -->
+
+:::trampa
+No mezcles tres relojes: prescripción de la falta, prescripción de la sanción y duración de la sanción. Pueden aparecer juntos en una opción, pero responden a momentos jurídicos diferentes.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -879,7 +973,18 @@ Lista de seis situaciones, cinco excedencias y efectos de interés particular fr
   <img src="../../../assets/policia-nacional/tema-08/t08-il-07-seis-estaciones-administrativas.webp" alt="recorrido por las situaciones" width="820">
 </p>
 <p align="center"><em>Infografía: recorrido por las situaciones.</em></p>
+
  <!-- FACT:PN-T08-F179 --> <!-- FACT:PN-T08-F180 --> <!-- FACT:PN-T08-F181 --> <!-- FACT:PN-T08-F182 --> <!-- FACT:PN-T08-F183 --> <!-- FACT:PN-T08-F184 --> <!-- FACT:PN-T08-F185 --> <!-- FACT:PN-T08-F186 --> <!-- FACT:PN-T08-F187 --> <!-- FACT:PN-T08-F188 -->
+
+<!-- VISUAL:t08-16-situaciones-administrativas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-16-situaciones-administrativas.webp" alt="Seis situaciones, excedencias, suspensión y segunda actividad" width="820">
+</p>
+<p align="center"><em>Infografía: Seis situaciones, excedencias, suspensión y segunda actividad.</em></p>
+
+:::trampa
+Las situaciones administrativas describen la relación de servicio; las excedencias son algunas de esas situaciones, no un régimen separado. Localiza primero la situación y después sus requisitos y efectos.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
@@ -906,12 +1011,11 @@ Una insuficiencia psicofísica apreciada por el tribunal médico puede conducir 
 Tres meses grave, seis muy grave; pérdida de puesto si la suspensión firme supera seis meses; edades 64–62–60–58.
 :::
 
-<!-- VISUAL:t08-il-07-seis-estaciones-administrativas.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-il-07-seis-estaciones-administrativas.webp" alt="segunda actividad no disciplinaria" width="820">
-</p>
-<p align="center"><em>Infografía: segunda actividad no disciplinaria.</em></p>
  <!-- FACT:PN-T08-F189 --> <!-- FACT:PN-T08-F190 --> <!-- FACT:PN-T08-F191 --> <!-- FACT:PN-T08-F192 --> <!-- FACT:PN-T08-F193 --> <!-- FACT:PN-T08-F194 --> <!-- FACT:PN-T08-F195 --> <!-- FACT:PN-T08-F196 --> <!-- FACT:PN-T08-F197 --> <!-- FACT:PN-T08-F198 --> <!-- FACT:PN-T08-F199 -->
+
+:::trampa
+La suspensión puede aparecer como sanción y como situación administrativa, mientras que la segunda actividad tiene finalidad y régimen propios. La misma palabra no siempre desempeña la misma función jurídica.
+:::
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->

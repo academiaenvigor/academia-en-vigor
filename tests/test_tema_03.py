@@ -47,7 +47,8 @@ class Tema03(unittest.TestCase):
         self.assertEqual(self.atestado.count("### Cómo estudiarlo"), 25)
         # Migrado de "> **Ejemplo mental:**" a la sintaxis :::en-la-calle
         # del contrato 2.0.0 (scripts/migrar_callouts.py).
-        self.assertEqual(self.atestado.count(":::en-la-calle"), 25)
+        # Uno por bloque y uno adicional en la capa final «En la calle».
+        self.assertEqual(self.atestado.count(":::en-la-calle"), 26)
         bullet_lines = [line for line in self.atestado.splitlines() if line.startswith("- ")]
         self.assertLessEqual(len(bullet_lines), 5)
 

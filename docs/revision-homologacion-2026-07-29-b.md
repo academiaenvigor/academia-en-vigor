@@ -2,6 +2,9 @@
 
 **Fecha:** 29 de julio de 2026
 
+> Informe histórico. El estado vigente queda documentado en
+> `revision-integral-temas-01-09-2026-07-29.md`.
+
 **Motivo:** el informe `revision-homologacion-temas-01-09-2026-07-29.md`
 describía una homologación que no llegó al repositorio. `temario.json` seguía
 con los valores anteriores, `validar_proyecto.py` fallaba con seis errores y el
@@ -45,8 +48,10 @@ cuatro casos llevaban tiempo sin ejecutarse en CI.
 - `validar_proyecto.py` sin errores ni avisos;
 - 0 desvíos en el índice y 0 callouts en formato antiguo.
 
-## Pendiente
+## Pendiente en aquella revisión
 
-La densidad de avisos por bloque sigue siendo desigual y es trabajo editorial,
-no automatizable: los temas 4 y 5 no tienen capa de Atestado propia (repiten los
-avisos del Parte), los temas 8 y 9 no tienen trampas, y el tema 6 está a medias.
+La densidad de avisos por bloque seguía siendo desigual: los temas 4 y 5
+repetían avisos del Parte, los temas 8 y 9 no tenían trampas y el tema 6
+presentaba una densidad menor. La revisión integral posterior corrige los
+problemas estructurales, amplía el Atestado del Tema 8 y añade contrastes al
+Tema 9.

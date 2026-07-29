@@ -10,6 +10,12 @@
 
 **Organización y funcionamiento de la Administración General del Estado: principios de organización, funcionamiento y relaciones con los ciudadanos. Órganos superiores y órganos directivos en la organización central. El Gobierno: composición, organización y funciones.**
 
+<!-- VISUAL:t05-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-05/t05-00-mapa-general.webp" alt="visión conjunta de la AGE, el Gobierno, la organización central y la Administración periférica" width="820">
+</p>
+<p align="center"><em>Infografía: visión conjunta de la AGE, el Gobierno, la organización central y la Administración periférica.</em></p>
+
 ## Ruta de estudio
 
 1. **La AGE y sus principios:** bloques 1 a 5.
@@ -158,6 +164,8 @@ Una sociedad mercantil estatal **es sector público pero no es Administración P
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-04-dos-circulos.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-04-dos-circulos.webp" alt="recurso visual planificado" width="820">
@@ -245,6 +253,8 @@ La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio.
   <img src="../../../assets/policia-nacional/tema-05/t05-06-principios-organizacion.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-06-descentralizar-desconcentrar.webp -->
 <p align="center">
@@ -360,6 +370,8 @@ El precepto dice **Administración civil**, no «Administración» a secas. Y pr
   <img src="../../../assets/policia-nacional/tema-05/t05-09-limite-articulo-25-3.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-09-limite-libertad.webp -->
 <p align="center">
@@ -636,6 +648,8 @@ Las competencias de los órganos colegiados del Gobierno **no son delegables**, 
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-16-delegar-avocar.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-16-delegar-avocar.webp" alt="recurso visual planificado" width="820">
@@ -754,6 +768,8 @@ Las delegaciones legislativas se suspenden **solo si el Gobierno está en funcio
   <img src="../../../assets/policia-nacional/tema-05/t05-19-gobierno-en-funciones.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-19-gobierno-en-funciones.webp -->
 <p align="center">
@@ -923,6 +939,8 @@ Los dictámenes del Consejo de Estado **no son vinculantes** con carácter gener
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-23-oido-o-de-acuerdo.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-23-oido-o-de-acuerdo.webp" alt="recurso visual planificado" width="820">
@@ -1012,6 +1030,8 @@ Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero 
   <img src="../../../assets/policia-nacional/tema-05/t05-25-estatuto-alto-cargo.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-25-frontera-alto-cargo.webp -->
 <p align="center">
@@ -1283,6 +1303,8 @@ En comunidades **uniprovinciales** puede crearse Subdelegación **por real decre
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-31-integrados-no-integrados.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-31-integrados-no-integrados.webp" alt="recurso visual planificado" width="820">
@@ -1456,6 +1478,8 @@ La entidad pública empresarial se rige por Derecho privado **salvo tres excepci
   <img src="../../../assets/policia-nacional/tema-05/t05-35-organismos-y-entidades.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-35-oa-frente-epe.webp -->
 <p align="center">

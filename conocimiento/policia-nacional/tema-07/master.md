@@ -146,6 +146,8 @@ Dependen de ella dos piezas que no deben confundirse:
 **Referencia visual prevista:** `t07-02-tres-niveles-mando.webp` · Ministro, SES y direcciones generales con los tres verbos competenciales.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t07-il-02-la-escalera-del-mando.webp` · regla mnemotécnica de los tres peldaños del mando.
 :::
@@ -168,6 +170,8 @@ Ante un dispositivo que exige una línea política común para Policía Nacional
 :::visual
 **Referencia visual prevista:** `t07-02-tres-niveles-mando.webp` · Ministro, SES y direcciones generales con los tres verbos competenciales.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t07-il-02-la-escalera-del-mando.webp` · regla mnemotécnica de los tres peldaños del mando.
@@ -387,6 +391,8 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 **Referencia visual prevista:** `t07-04-funciones-ses.webp` · seis bloques visuales para ordenar las funciones de la SES.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t07-il-03-ses-torre-de-control.webp` · la SES como torre de control que coordina, supervisa e integra.
 :::
@@ -443,6 +449,8 @@ Para estudiarlas con lógica, se agrupan sin alterar su contenido examinable.
 :::visual
 **Referencia visual prevista:** `t07-04-funciones-ses.webp` · seis bloques visuales para ordenar las funciones de la SES.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t07-il-03-ses-torre-de-control.webp` · la SES como torre de control que coordina, supervisa e integra.
@@ -607,6 +615,8 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 **Referencia visual prevista:** `t07-06-citco.webp` · CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t07-il-04-citco-no-es-una-comisaria.webp` · CITCO integra, analiza y coordina sin ejercer el mando operativo general.
 :::
@@ -650,6 +660,8 @@ Su misión central es integrar y analizar información estratégica sobre delinc
 :::visual
 **Referencia visual prevista:** `t07-06-citco.webp` · CITCO con sus ocho funciones y las unidades UNECI, ONIP y TEPOL.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t07-il-04-citco-no-es-una-comisaria.webp` · CITCO integra, analiza y coordina sin ejercer el mando operativo general.
@@ -992,6 +1004,8 @@ De la DGCE depende la **Inspección de Personal y Servicios de Seguridad**, con 
 **Referencia visual prevista:** `t07-07-dgce.webp` · ocho áreas de la DGCE y la Inspección con la ONGADH.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t07-il-06-dgce-cuadro-de-mando.webp` · la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.
 :::
@@ -1037,6 +1051,8 @@ Entre sus funciones:
 :::visual
 **Referencia visual prevista:** `t07-07-dgce.webp` · ocho áreas de la DGCE y la Inspección con la ONGADH.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t07-il-06-dgce-cuadro-de-mando.webp` · la DGCE como cuadro de mando transversal y la cadena DGCE, Inspección y ONGADH.
@@ -1415,16 +1431,24 @@ El tema se desarrolla en dieciséis bloques trazables: competencias y mando del 
 
 <!-- LAYER:HABLEMOS_CLARO -->
 # Hablemos claro
+:::hablemos-claro
 La dificultad no está en memorizar nombres aislados, sino en separar dependencia, rango y competencia. Un órgano puede coordinar sin ejercer mando directo y dos órganos situados juntos en un organigrama pueden tener distinta naturaleza jurídica.
+:::
 
 <!-- LAYER:EN_LA_CALLE -->
 # En la calle
+:::en-la-calle
 Ante una actuación conjunta, el Ministerio fija la dirección política, la Secretaría de Estado coordina el sistema y las direcciones generales ejercen el mando directo sobre sus respectivos cuerpos. Esa cadena evita confundir coordinación estratégica con dirección cotidiana de unidades.
+:::
 
 <!-- LAYER:LO_QUE_CAE -->
 # Lo que cae
+:::lo-que-cae
 Prioriza los verbos competenciales, los niveles orgánicos, las dependencias de CITCO, DGCE y DGRIE, y el cambio de Protección Civil vigente desde el 27 de abril de 2026. Los esquemas anteriores a esa reforma ya no sirven como respuesta actual.
+:::
 
 <!-- LAYER:HA_CAIDO -->
 # Ha caído
+:::ha-caido
 El índice histórico conserva 69 apariciones candidatas mapeadas por bloque y 69 respuestas verificadas por la autoría académica. El mapeo de apariciones sigue pendiente de revisión humana; por eso se muestra como antecedente de estudio y nunca como plantilla oficial ni como prueba de vigencia normativa.
+:::

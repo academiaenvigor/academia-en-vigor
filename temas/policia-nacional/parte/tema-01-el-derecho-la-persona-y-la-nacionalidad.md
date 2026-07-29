@@ -357,6 +357,12 @@ La posesión y utilización continuadas de la nacionalidad durante **diez años*
 consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
 :::
 
+<!-- VISUAL:t01-13-adopcion-posesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-13-adopcion-posesion.webp" alt="Adopción y posesión de estado" width="820">
+</p>
+<p align="center"><em>Infografía: Adopción y posesión de estado.</em></p>
+
 <!-- MATERIAL PENDIENTE: t01-p4-audio -->
 <!-- MATERIAL PENDIENTE: t01-p4-video -->
 <!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
@@ -462,6 +468,14 @@ recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 </p>
 <p align="center"><em>Ilustración: conservar actúa antes de la pérdida; recuperar, después.</em></p>
 
+
+
+<!-- VISUAL:t01-17-recuperacion-nacionalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-17-recuperacion-nacionalidad.webp" alt="Recuperación de nacionalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Recuperación de nacionalidad.</em></p>
+
 <!-- MATERIAL PENDIENTE: t01-p4-audio -->
 <!-- MATERIAL PENDIENTE: t01-p4-video -->
 <!-- MATERIAL PENDIENTE: t01-p4-presentacion -->
@@ -532,6 +546,12 @@ Al adquirir la nacionalidad española debe optarse, según las conexiones legale
 :::trampa
 el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
 :::
+
+<!-- VISUAL:t01-21-vecindad-nacionalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-01/t01-21-vecindad-nacionalizacion.webp" alt="Vecindad del nacionalizado" width="820">
+</p>
+<p align="center"><em>Infografía: Vecindad del nacionalizado.</em></p>
 
 <!-- MATERIAL PENDIENTE: t01-p5-audio -->
 <!-- MATERIAL PENDIENTE: t01-p5-video -->

@@ -133,6 +133,10 @@ No conviertas el uso de armas en una respuesta automática: exige los riesgos gr
 </p>
 <p align="center"><em>Ilustración: principios: relaciones con la comunidad y uso de la fuerza.</em></p>
 
+:::trampa
+Los principios de congruencia, oportunidad y proporcionalidad son acumulativos: la fuerza no queda justificada por cumplir solo uno. El supuesto debe superar los tres filtros.
+:::
+
 <!-- MATERIAL PENDIENTE: t09-p1-audio -->
 <!-- MATERIAL PENDIENTE: t09-p1-video -->
 <!-- MATERIAL PENDIENTE: t09-p1-pres -->
@@ -281,6 +285,10 @@ El párrafo del artículo 8.1 que atribuía instrucción a la Audiencia Provinci
 </p>
 <p align="center"><em>Ilustración: agente de la autoridad y jurisdicción.</em></p>
 
+:::trampa
+La condición de agente de la autoridad no convierte automáticamente al miembro de las Fuerzas y Cuerpos de Seguridad en autoridad. Son categorías jurídicas distintas.
+:::
+
 <!-- MATERIAL PENDIENTE: t09-p2-audio -->
 <!-- MATERIAL PENDIENTE: t09-p2-video -->
 <!-- MATERIAL PENDIENTE: t09-p2-pres -->
@@ -377,6 +385,10 @@ Las listas se preguntan cruzando una materia de cada cuerpo.
 </p>
 <p align="center"><em>Infografía: distribución material entre policía nacional y guardia civil.</em></p>
 
+:::trampa
+Funciones comunes y distribución territorial no se sustituyen entre sí. Primero identifica la materia; después comprueba a qué cuerpo estatal corresponde y en qué ámbito.
+:::
+
 <!-- MATERIAL PENDIENTE: t09-p2-audio -->
 <!-- MATERIAL PENDIENTE: t09-p2-video -->
 <!-- MATERIAL PENDIENTE: t09-p2-pres -->
@@ -440,6 +452,10 @@ No confundas 10 % en una sola escala —representante a ciertos efectos— con l
   <img src="../../../assets/policia-nacional/tema-09/t09-09-representatividad-sindical.webp" alt="constitución y representatividad sindical" width="820">
 </p>
 <p align="center"><em>Infografía: constitución y representatividad sindical.</em></p>
+
+:::trampa
+Representatividad sindical y presencia en el Consejo de Policía están relacionadas, pero no son expresiones intercambiables. Atiende al requisito y al efecto que pregunta el enunciado.
+:::
 
 <!-- MATERIAL PENDIENTE: t09-p3-audio -->
 <!-- MATERIAL PENDIENTE: t09-p3-video -->
@@ -569,6 +585,10 @@ La trampa central es función genérica frente a unidad orgánica especializada.
 </p>
 <p align="center"><em>Infografía: policía judicial: función general y unidades especializadas.</em></p>
 
+:::trampa
+La Policía Judicial es función y también puede organizarse en unidades específicas. No confundas la dependencia orgánica del cuerpo con la dependencia funcional durante la investigación.
+:::
+
 <!-- MATERIAL PENDIENTE: t09-p4-audio -->
 <!-- MATERIAL PENDIENTE: t09-p4-video -->
 <!-- MATERIAL PENDIENTE: t09-p4-pres -->
@@ -696,6 +716,10 @@ Aprende las tres etiquetas antes de memorizar los ejemplos.
   <img src="../../../assets/policia-nacional/tema-09/t09-14-tres-columnas-autonomicas.webp" alt="funciones de las policías autonómicas" width="820">
 </p>
 <p align="center"><em>Infografía: funciones de las policías autonómicas.</em></p>
+
+:::trampa
+Policías autonómicas propias, unidades adscritas y colaboración no son tres nombres para el mismo modelo. Cada vía tiene fundamento, estructura y cadena de dependencia diferentes.
+:::
 
 <!-- MATERIAL PENDIENTE: t09-p5-audio -->
 <!-- MATERIAL PENDIENTE: t09-p5-video -->

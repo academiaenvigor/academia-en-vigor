@@ -647,6 +647,10 @@ La posesión y utilización continuadas de la nacionalidad durante **diez años*
 :::trampa
 consolidación del artículo 18 no es nacionalidad por residencia del artículo 22.
 :::
+
+:::visual
+**Referencia visual prevista:** `t01-13-adopcion-posesion.webp` · Adopción y posesión de estado.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 18 protege la apariencia jurídica mantenida de buena fe. La posesión y utilización continuadas de la nacionalidad española durante diez años, con buena fe y basadas en un título inscrito en el Registro Civil, consolidan la nacionalidad aunque se anule el título que la originó. <!-- FACT:PN-T01-F133 -->
@@ -854,6 +858,12 @@ recuperar nacionalidad no equivale a renovar DNI o pasaporte.
 :::visual
 **Ilustración simple:** `t01-il-06-conservar-recuperar.webp` · conservar actúa antes de la pérdida; recuperar, después.
 :::
+
+
+
+:::visual
+**Referencia visual prevista:** `t01-17-recuperacion-nacionalidad.webp` · Recuperación de nacionalidad.
+:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El artículo 26 establece tres requisitos generales: residir legalmente en España; declarar ante el encargado del Registro Civil la voluntad de recuperar; e inscribir la recuperación en el Registro Civil. <!-- FACT:PN-T01-F170 -->
@@ -1001,6 +1011,10 @@ Al adquirir la nacionalidad española debe optarse, según las conexiones legale
 
 :::trampa
 el nacionalizado no elige libremente cualquier vecindad civil; debe existir una conexión legal.
+:::
+
+:::visual
+**Referencia visual prevista:** `t01-21-vecindad-nacionalizacion.webp` · Vecindad del nacionalizado.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->

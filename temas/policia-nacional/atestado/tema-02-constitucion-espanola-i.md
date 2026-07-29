@@ -49,6 +49,12 @@ Para la actuación policial, la Constitución no es una introducción teórica. 
 Supremacía formal; Supremacía material; Fuerza normativa; Sujeción constitucional.
 :::
 
+<!-- VISUAL:t02-ilu-01-constitucion-norma-suprema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-01-constitucion-norma-suprema.webp" alt="La Constitución por encima del resto del ordenamiento" width="600">
+</p>
+<p align="center"><em>Ilustración: La Constitución por encima del resto del ordenamiento.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p1-audio -->
 <!-- MATERIAL PENDIENTE: t02-p1-video -->
 <!-- MATERIAL PENDIENTE: t02-p1-presentacione -->
@@ -104,6 +110,12 @@ La fórmula previa al preámbulo declara que **las Cortes han aprobado y el pueb
 Elecciones constituyentes; Ponencia constitucional; Aprobación parlamentaria; Referéndum; Sanción y promulgación; Entrada en vigor.
 :::
 
+<!-- VISUAL:t02-ilu-02-consenso-constituyente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-02-consenso-constituyente.webp" alt="Siete ponentes construyen un texto común" width="600">
+</p>
+<p align="center"><em>Ilustración: Siete ponentes construyen un texto común.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p1-audio -->
 <!-- MATERIAL PENDIENTE: t02-p1-video -->
 <!-- MATERIAL PENDIENTE: t02-p1-presentacione -->
@@ -111,12 +123,6 @@ Elecciones constituyentes; Ponencia constitucional; Aprobación parlamentaria; R
 <!-- FUENTE: CE-T02 -->
 
 ## 03. Estructura De La Constitución
-
-<!-- VISUAL:t02-02-plano-constitucion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="plano de la Constitución: parte dogmática, parte orgánica, artículos y disposiciones" width="820">
-</p>
-<p align="center"><em>Infografía: plano de la Constitución: parte dogmática, parte orgánica, artículos y disposiciones.</em></p>
 
 #### 3.1. Estructura formal
 
@@ -308,6 +314,12 @@ Reconoce la diversidad de opciones políticas dentro del marco constitucional. L
 Valores superiores; Libertad; Justicia; Igualdad; Pluralismo político.
 :::
 
+<!-- VISUAL:t02-ilu-03-valores-constitucionales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-03-valores-constitucionales.webp" alt="Libertad, justicia, igualdad y pluralismo político" width="600">
+</p>
+<p align="center"><em>Ilustración: Libertad, justicia, igualdad y pluralismo político.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p2-audio -->
 <!-- MATERIAL PENDIENTE: t02-p2-video -->
 <!-- MATERIAL PENDIENTE: t02-p2-presentacione -->
@@ -355,6 +367,12 @@ Democracia no significa que cualquier decisión mayoritaria sea válida. La mayo
 :::lo-que-cae
 Soberanía nacional; Origen de los poderes; Participación política; Partidos políticos; Democracia interna.
 :::
+
+<!-- VISUAL:t02-ilu-04-cinco-modelos-estado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-04-cinco-modelos-estado.webp" alt="Cinco caras complementarias del régimen constitucional" width="600">
+</p>
+<p align="center"><em>Ilustración: Cinco caras complementarias del régimen constitucional.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p2-audio -->
 <!-- MATERIAL PENDIENTE: t02-p2-video -->
@@ -841,6 +859,12 @@ Este derecho no puede limitarse por motivos políticos o ideológicos.
 Vida e integridad; Prohibición de tortura; Libertad ideológica y religiosa; Libertad y seguridad; Duración de la detención; Información al detenido.
 :::
 
+<!-- VISUAL:t02-ilu-05-derechos-persona.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-05-derechos-persona.webp" alt="La persona protegida por derechos conectados" width="600">
+</p>
+<p align="center"><em>Ilustración: La persona protegida por derechos conectados.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p4-audio -->
 <!-- MATERIAL PENDIENTE: t02-p4-video -->
 <!-- MATERIAL PENDIENTE: t02-p4-presentacione -->
@@ -1220,6 +1244,12 @@ No son declaraciones inútiles: vinculan como mandatos constitucionales y guían
 Naturaleza de los principios rectores; Función interpretativa; Alegación judicial; Ausencia de amparo directo.
 :::
 
+<!-- VISUAL:t02-11-principios-rectores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-11-principios-rectores.webp" alt="Mapa de los artículos 39 a 52" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa de los artículos 39 a 52.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p5-audio -->
 <!-- MATERIAL PENDIENTE: t02-p5-video -->
 <!-- MATERIAL PENDIENTE: t02-p5-presentacione -->
@@ -1357,12 +1387,6 @@ La ley regula organizaciones profesionales que defienden intereses económicos p
 
 #### 24.3. Mapa completo de los principios rectores
 
-<!-- VISUAL:t02-11-principios-rectores.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-02/t02-11-principios-rectores.webp" alt="Tabla visual de artículos 39 a 52 con palabra clave e icono" width="820">
-</p>
-<p align="center"><em>Infografía: Tabla visual de artículos 39 a 52 con palabra clave e icono.</em></p>
-
 | Artículo | Clave |
 |---:|---|
 | 39 | Familia e infancia |
@@ -1433,6 +1457,12 @@ Una garantía es un mecanismo para que el derecho no se quede en una frase. Pued
 :::lo-que-cae
 Garantías normativas; Garantías judiciales; Garantías institucionales; Garantía internacional.
 :::
+
+<!-- VISUAL:t02-ilu-06-garantias-escudo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-06-garantias-escudo.webp" alt="Las garantías convierten los derechos en protección efectiva" width="600">
+</p>
+<p align="center"><em>Ilustración: Las garantías convierten los derechos en protección efectiva.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p6-audio -->
 <!-- MATERIAL PENDIENTE: t02-p6-video -->
@@ -1650,6 +1680,12 @@ Suspender supone dejar temporalmente sin eficacia ordinaria determinadas garant�
 Suspensión general; Derechos suspendibles; Excepción del artículo 17.3; Estado de alarma; Proporcionalidad.
 :::
 
+<!-- VISUAL:t02-ilu-07-excepcion-no-normalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-07-excepcion-no-normalidad.webp" alt="La suspensión como medida excepcional y limitada" width="600">
+</p>
+<p align="center"><em>Ilustración: La suspensión como medida excepcional y limitada.</em></p>
+
 <!-- MATERIAL PENDIENTE: t02-p6-audio -->
 <!-- MATERIAL PENDIENTE: t02-p6-video -->
 <!-- MATERIAL PENDIENTE: t02-p6-presentacione -->
@@ -1819,6 +1855,12 @@ La declaración de estados de excepción o sitio no interrumpe la actividad del 
 :::lo-que-cae
 Alto comisionado; Finalidad; Supervisión administrativa; Norma reguladora; Legitimación constitucional.
 :::
+
+<!-- VISUAL:t02-ilu-08-defensor-supervision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-02/t02-ilu-08-defensor-supervision.webp" alt="El Defensor supervisa sin sustituir a jueces ni Administración" width="600">
+</p>
+<p align="center"><em>Ilustración: El Defensor supervisa sin sustituir a jueces ni Administración.</em></p>
 
 <!-- MATERIAL PENDIENTE: t02-p7-audio -->
 <!-- MATERIAL PENDIENTE: t02-p7-video -->

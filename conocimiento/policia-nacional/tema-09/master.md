@@ -158,6 +158,11 @@ No conviertas el uso de armas en una respuesta automática: exige los riesgos gr
 :::visual
 **Ilustración simple:** `t09-il-01-triple-filtro-fuerza.webp` · principios: relaciones con la comunidad y uso de la fuerza.
 :::
+
+:::trampa
+Los principios de congruencia, oportunidad y proporcionalidad son acumulativos: la fuerza no queda justificada por cumplir solo uno. El supuesto debe superar los tres filtros.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 04 END -->
 <!-- BLOCK 05 START -->
@@ -356,6 +361,11 @@ El párrafo del artículo 8.1 que atribuía instrucción a la Audiencia Provinci
 :::visual
 **Ilustración simple:** `t09-il-02-agente-no-autoridad.webp` · agente de la autoridad y jurisdicción.
 :::
+
+:::trampa
+La condición de agente de la autoridad no convierte automáticamente al miembro de las Fuerzas y Cuerpos de Seguridad en autoridad. Son categorías jurídicas distintas.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 09 END -->
 <!-- BLOCK 10 START -->
@@ -488,6 +498,11 @@ Las listas se preguntan cruzando una materia de cada cuerpo.
 :::visual
 **Referencia visual prevista:** `t09-07-competencias-pn-gc.webp` · distribución material entre policía nacional y guardia civil.
 :::
+
+:::trampa
+Funciones comunes y distribución territorial no se sustituyen entre sí. Primero identifica la materia; después comprueba a qué cuerpo estatal corresponde y en qué ámbito.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 12 END -->
 <!-- BLOCK 13 START -->
@@ -574,6 +589,11 @@ No confundas 10 % en una sola escala —representante a ciertos efectos— con l
 :::visual
 **Referencia visual prevista:** `t09-09-representatividad-sindical.webp` · constitución y representatividad sindical.
 :::
+
+:::trampa
+Representatividad sindical y presencia en el Consejo de Policía están relacionadas, pero no son expresiones intercambiables. Atiende al requisito y al efecto que pregunta el enunciado.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 14 END -->
 <!-- BLOCK 15 START -->
@@ -748,6 +768,11 @@ La trampa central es función genérica frente a unidad orgánica especializada.
 :::visual
 **Referencia visual prevista:** `t09-11-policia-judicial-dos-niveles.webp` · policía judicial: función general y unidades especializadas.
 :::
+
+:::trampa
+La Policía Judicial es función y también puede organizarse en unidades específicas. No confundas la dependencia orgánica del cuerpo con la dependencia funcional durante la investigación.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 18 END -->
 <!-- BLOCK 19 START -->
@@ -920,6 +945,11 @@ Aprende las tres etiquetas antes de memorizar los ejemplos.
 :::visual
 **Referencia visual prevista:** `t09-14-tres-columnas-autonomicas.webp` · funciones de las policías autonómicas.
 :::
+
+:::trampa
+Policías autonómicas propias, unidades adscritas y colaboración no son tres nombres para el mismo modelo. Cada vía tiene fundamento, estructura y cadena de dependencia diferentes.
+:::
+
 <!-- ATESTADO END -->
 <!-- BLOCK 22 END -->
 <!-- BLOCK 23 START -->

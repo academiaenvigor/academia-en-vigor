@@ -216,12 +216,6 @@ La condición de personal eventual no puede constituir mérito para el acceso a 
 Eventual no es sinónimo de temporal. El interino cubre necesidades administrativas y ejerce funciones propias de carrera; el eventual se limita a confianza o asesoramiento especial.
 :::
 
-<!-- VISUAL:t06-06-laboral-eventual.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-06/t06-06-laboral-eventual.webp" alt="diferencias entre laboral, interino y eventual" width="820">
-</p>
-<p align="center"><em>Infografía: diferencias entre laboral, interino y eventual.</em></p>
-
 <!-- MATERIAL PENDIENTE: t06-p3-audio -->
 <!-- MATERIAL PENDIENTE: t06-p3-video -->
 <!-- MATERIAL PENDIENTE: t06-p3-pres -->

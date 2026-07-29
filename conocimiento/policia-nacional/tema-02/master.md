@@ -51,6 +51,10 @@ Para la actuación policial, la Constitución no es una introducción teórica. 
 :::lo-que-cae
 Supremacía formal; Supremacía material; Fuerza normativa; Sujeción constitucional.
 :::
+
+:::visual
+**Ilustración simple:** `t02-ilu-01-constitucion-norma-suprema.webp` · La Constitución por encima del resto del ordenamiento.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->
 
@@ -68,6 +72,8 @@ Supremacía formal; Supremacía material; Fuerza normativa; Sujeción constituci
 :::visual
 **Referencia visual prevista:** `t02-01-linea-tiempo-1978.webp` · Cuatro fechas esenciales del proceso constituyente.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t02-ilu-02-consenso-constituyente.webp` · Siete ponentes construyen un texto común.
@@ -122,6 +128,10 @@ La fórmula previa al preámbulo declara que **las Cortes han aprobado y el pueb
 :::lo-que-cae
 Elecciones constituyentes; Ponencia constitucional; Aprobación parlamentaria; Referéndum; Sanción y promulgación; Entrada en vigor.
 :::
+
+:::visual
+**Ilustración simple:** `t02-ilu-02-consenso-constituyente.webp` · Siete ponentes construyen un texto común.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 02 END -->
 
@@ -136,19 +146,11 @@ Elecciones constituyentes; Ponencia constitucional; Aprobación parlamentaria; R
 **Parte orgánica.** La parte orgánica comprende esencialmente los Títulos II a X.
 **Preámbulo.** El preámbulo tiene valor interpretativo, pero no está dividido en artículos.
 
-:::visual
-**Referencia visual prevista:** `t02-02-plano-constitucion.webp` · Estructura formal, parte dogmática y parte orgánica.
-:::
-
 :::trampa
 La formulación precisa es un Título Preliminar y diez títulos numerados.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
-:::visual
-**Referencia visual prevista:** `t02-02-plano-constitucion.webp` · plano de la Constitución: parte dogmática, parte orgánica, artículos y disposiciones.
-:::
-
 #### 3.1. Estructura formal
 
 La Constitución contiene: <!-- FACT:PN-T02-F011 -->
@@ -364,6 +366,10 @@ Reconoce la diversidad de opciones políticas dentro del marco constitucional. L
 :::lo-que-cae
 Valores superiores; Libertad; Justicia; Igualdad; Pluralismo político.
 :::
+
+:::visual
+**Ilustración simple:** `t02-ilu-03-valores-constitucionales.webp` · Libertad, justicia, igualdad y pluralismo político.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 06 END -->
 
@@ -420,6 +426,10 @@ Democracia no significa que cualquier decisión mayoritaria sea válida. La mayo
 
 :::lo-que-cae
 Soberanía nacional; Origen de los poderes; Participación política; Partidos políticos; Democracia interna.
+:::
+
+:::visual
+**Ilustración simple:** `t02-ilu-04-cinco-modelos-estado.webp` · Cinco caras complementarias del régimen constitucional.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 07 END -->
@@ -828,9 +838,13 @@ Nacionalidad; Español de origen; Mayoría de edad; Extranjeros; Sufragio munici
 **Referencia visual prevista:** `t02-08-reloj-detencion.webp` · Necesidad, máximo de 72 horas, información, abogado y habeas corpus.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t02-09-cojufla-domicilio.webp` · Consentimiento, resolución judicial y flagrante delito.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t02-ilu-05-derechos-persona.webp` · La persona protegida por derechos conectados.
@@ -984,6 +998,10 @@ Este derecho no puede limitarse por motivos políticos o ideológicos.
 
 :::lo-que-cae
 Vida e integridad; Prohibición de tortura; Libertad ideológica y religiosa; Libertad y seguridad; Duración de la detención; Información al detenido.
+:::
+
+:::visual
+**Ilustración simple:** `t02-ilu-05-derechos-persona.webp` · La persona protegida por derechos conectados.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 15 END -->
@@ -1415,6 +1433,10 @@ No son declaraciones inútiles: vinculan como mandatos constitucionales y guían
 :::lo-que-cae
 Naturaleza de los principios rectores; Función interpretativa; Alegación judicial; Ausencia de amparo directo.
 :::
+
+:::visual
+**Referencia visual prevista:** `t02-11-principios-rectores.webp` · Mapa de los artículos 39 a 52.
+:::
 <!-- ATESTADO END -->
 <!-- BLOCK 20 END -->
 
@@ -1573,10 +1595,6 @@ La ley regula organizaciones profesionales que defienden intereses económicos p
 
 #### 24.3. Mapa completo de los principios rectores
 
-:::visual
-**Referencia visual prevista:** `t02-11-principios-rectores.webp` · Tabla visual de artículos 39 a 52 con palabra clave e icono.
-:::
-
 | Artículo | Clave |
 |---:|---|
 | 39 | Familia e infancia |
@@ -1654,6 +1672,10 @@ Una garantía es un mecanismo para que el derecho no se quede en una frase. Pued
 
 :::lo-que-cae
 Garantías normativas; Garantías judiciales; Garantías institucionales; Garantía internacional.
+:::
+
+:::visual
+**Ilustración simple:** `t02-ilu-06-garantias-escudo.webp` · Las garantías convierten los derechos en protección efectiva.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 25 END -->
@@ -1857,6 +1879,8 @@ Naturaleza del amparo; Subsidiariedad; Legitimación; Objeto.
 **Referencia visual prevista:** `t02-13-suspension-derechos.webp` · Suspensión general e individual.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t02-ilu-07-excepcion-no-normalidad.webp` · La suspensión como medida excepcional y limitada.
 :::
@@ -1903,6 +1927,10 @@ Suspender supone dejar temporalmente sin eficacia ordinaria determinadas garant�
 
 :::lo-que-cae
 Suspensión general; Derechos suspendibles; Excepción del artículo 17.3; Estado de alarma; Proporcionalidad.
+:::
+
+:::visual
+**Ilustración simple:** `t02-ilu-07-excepcion-no-normalidad.webp` · La suspensión como medida excepcional y limitada.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 29 END -->
@@ -2092,6 +2120,10 @@ La declaración de estados de excepción o sitio no interrumpe la actividad del 
 
 :::lo-que-cae
 Alto comisionado; Finalidad; Supervisión administrativa; Norma reguladora; Legitimación constitucional.
+:::
+
+:::visual
+**Ilustración simple:** `t02-ilu-08-defensor-supervision.webp` · El Defensor supervisa sin sustituir a jueces ni Administración.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 33 END -->

@@ -232,10 +232,6 @@ El personal eventual:
 - tiene nombramiento y cese libres;
 - cesa, en todo caso, cuando lo hace la autoridad a la que asesora;
 - no convierte su servicio en mérito para acceder a la función pública ni para promoción interna.
-
-:::visual
-**Referencia visual prevista:** `t06-06-laboral-eventual.webp` · contrato laboral, interinidad y confianza eventual.
-:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 El personal eventual, por nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial. Su retribución se carga a los créditos presupuestarios consignados específicamente para esa finalidad. <!-- FACT:PN-T06-F038 --> <!-- FACT:PN-T06-F039 -->
@@ -246,10 +242,6 @@ La condición de personal eventual no puede constituir mérito para el acceso a 
 
 :::trampa
 Eventual no es sinónimo de temporal. El interino cubre necesidades administrativas y ejerce funciones propias de carrera; el eventual se limita a confianza o asesoramiento especial.
-:::
-
-:::visual
-**Referencia visual prevista:** `t06-06-laboral-eventual.webp` · diferencias entre laboral, interino y eventual.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 07 END -->

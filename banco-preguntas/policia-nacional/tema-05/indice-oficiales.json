@@ -9,9 +9,9 @@
   "answer_status": "verificada_por_autor",
   "display_policy": {
     "show_reviewed_appearances": true,
-    "show_auto_proposed": true,
-    "show_answer": true,
-    "show_feedback": true,
+    "show_auto_proposed": false,
+    "show_answer": false,
+    "show_feedback": false,
     "never_present_as_official_plantilla": true
   },
   "aviso": "La relación de cada pregunta con este punto del temario es automática y está pendiente de revisión. Las respuestas sí están verificadas por la academia.",

@@ -1963,16 +1963,24 @@ El contenido se divide en 25 bloques y 470 hechos atómicos trazables. El Parte 
 
 <!-- LAYER:HABLEMOS_CLARO -->
 # Hablemos claro
+:::hablemos-claro
 El Tema 3 no se memoriza como una narración. Se domina separando órgano competente, procedimiento, mayoría, plazo, efecto jurídico y excepción. Cada hecho atómico del Atestado tiene una pregunta asociada y los hechos de riesgo máximo tienen una segunda pregunta inversa.
+:::
 
 <!-- LAYER:EN_LA_CALLE -->
 # En la calle
+:::en-la-calle
 Para Policía Nacional son especialmente operativos los artículos 104 y 126: las Fuerzas y Cuerpos de Seguridad dependen del Gobierno para su misión constitucional, mientras la Policía Judicial depende funcionalmente de jueces, tribunales y Ministerio Fiscal durante la investigación del delito.
+:::
 
 <!-- LAYER:LO_QUE_CAE -->
 # Lo que cae
+:::lo-que-cae
 Mayorías, plazos, composición de órganos, refrendo, sucesión, funcionamiento parlamentario, decreto-ley, tratados, investidura, censura, estados excepcionales, CGPJ, Policía Judicial, artículos 148 a 155, Tribunal Constitucional y reforma constitucional.
+:::
 
 <!-- LAYER:HA_CAIDO -->
 # Ha caído
+:::ha-caido
 Se han mapeado 30 referencias históricas al Tema 3. Ninguna alimenta todavía «Ha caído»: permanecen desactivadas hasta confirmar de forma independiente el cuestionario, la plantilla final oficial y la relación exacta con el hecho atómico.
+:::

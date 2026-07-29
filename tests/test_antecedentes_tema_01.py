@@ -45,8 +45,10 @@ class AntecedentesTema01Test(unittest.TestCase):
     def test_explorer_loads_index_and_never_promotes_answers(self):
         explorer = (ROOT / "explorador.html").read_text(encoding="utf-8")
         self.assertIn("inyectarAntecedentesOficiales", explorer)
-        self.assertIn("appearance_status==='reviewed'", explorer)
-        self.assertIn("No se muestra una solución como oficial", explorer)
+        self.assertIn("'reviewed'", explorer)
+        self.assertIn("'editorially_mapped'", explorer)
+        self.assertIn("politica.show_answer===true", explorer)
+        self.assertFalse(self.data["display_policy"]["show_answer"])
 
 
 if __name__ == "__main__":

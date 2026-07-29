@@ -310,15 +310,80 @@ function inyectarRecursosContextuales(n,data,recursos){const md=document.querySe
 async function enriquecerTemarioConMateriales(n){let data;try{data=await fetchJson(manifestMateriales(n))}catch(e){return}const recursos=(data.resources||[]).filter(visibleEnBiblioteca);recursosTemario[n]=recursos;inyectarResumenMateriales(n,data,recursos);inyectarRecursosContextuales(n,data,recursos)}
 function escaparHtml(valor){return String(valor??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function carpetaExamen(examId){const m=String(examId||'').match(/^of-pn-p(\d+)-/);if(!m)return'';const promo=Number(m[1]);const examen=EXAMENES.find(([,numero])=>numero===promo);return examen?examen[0]:''}
-async function cargarAntecedentes(elemento){if(!elemento.open||elemento.dataset.cargado==='1')return;await cargarRetroOf();const cuerpo=elemento.querySelector('.antecedente-cuerpo');let items=[];try{items=JSON.parse(decodeURIComponent(elemento.dataset.items||''))}catch(e){cuerpo.innerHTML='<div class="antecedente-cargando">No se pudo leer este antecedente.</div>';return}cuerpo.innerHTML='<div class="antecedente-cargando">Cargando preguntas…</div>';const carpetas=[...new Set(items.map(i=>carpetaExamen(i.exam_id)).filter(Boolean))];try{const lotes=await Promise.all(carpetas.map(async carpeta=>{const texto=await fetchTexto(`banco-preguntas/${OP}/oficiales/${carpeta}/preguntas.jsonl`);return texto.trim().split('\n').filter(Boolean).map(linea=>JSON.parse(linea))}));const preguntas=lotes.flat();const tarjetas=items.map(item=>{const pregunta=preguntas.find(p=>p.id===item.question_id);if(!pregunta)return'';
- const anul=pregunta.answer?.annulled===true;
- const correcta=anul?null:(pregunta.answer?.verified_option_id||pregunta.verified_answer_option_id||pregunta.answer?.proposed_option_id);
- const opts=(pregunta.options||[]).map(o=>`<div class="ant-opt${(!anul&&o.id===correcta)?' ok':''}"><b>${o.source_label||''})</b> ${escaparHtml(o.text||'')}</div>`).join('');
- const rr=(__retroOf||{})[pregunta.id];
- const retro=(rr&&(rr.acierto||rr.explicacion))?`<div class="ant-retro"><b>Por que</b>${escaparHtml(rr.acierto||rr.explicacion)}</div>`:'';
- const anio=item.series_year||pregunta.exam?.series_year||'';
- return`<article class="antecedente-pregunta"><div class="antecedente-meta">${anio} &middot; Promocion ${pregunta.exam?.promotion_roman||''} &middot; pregunta ${item.question_number}${anul?'<span class="ant-anulada">ANULADA</span>':''}</div><div class="antecedente-enunciado">${escaparHtml(pregunta.prompt)}</div><div class="ant-opts">${opts}</div>${retro}</article>`}).filter(Boolean).join('');cuerpo.innerHTML=tarjetas+`<p class="antecedente-nota">La relacion de estas preguntas con este punto del temario es automatica y esta pendiente de revision. Las respuestas estan verificadas por la academia, no proceden de la plantilla oficial. No se muestra una solución como oficial hasta cotejar la plantilla definitiva.</p>`;elemento.dataset.cargado='1'}catch(e){cuerpo.innerHTML='<div class="antecedente-cargando">No se pudieron cargar las preguntas. La marca de años sigue siendo válida.</div>'}}
-async function inyectarAntecedentesOficiales(n){const md=document.querySelector('.md');if(!md)return;let indice;try{indice=await fetchJson(`banco-preguntas/${OP}/tema-${String(n).padStart(2,'0')}/indice-oficiales.json`)}catch(e){return}if(indice.display_policy?.show_reviewed_appearances===false)return;const verAuto=indice.display_policy?.show_auto_proposed!==false;const preguntas=(indice.questions||[]).filter(p=>p.appearance_status==='reviewed'||(verAuto&&p.appearance_status==='auto_proposed'));window.__avisoAuto=preguntas.some(p=>p.appearance_status==='auto_proposed');if(!preguntas.length)return;md.querySelectorAll('h2').forEach(h2=>{const m=(h2.textContent||'').match(/^(\d{1,2})\./);if(!m)return;const bloque=Number(m[1]);const propias=preguntas.filter(p=>(p.block_refs||[]).map(Number).includes(bloque));if(!propias.length)return;const anos=[...new Set(propias.map(p=>Number(p.series_year)).filter(Boolean))].sort((a,b)=>a-b);const details=document.createElement('details');details.className='antecedente-oficial';details.dataset.items=encodeURIComponent(JSON.stringify(propias));details.addEventListener('toggle',()=>cargarAntecedentes(details));details.innerHTML=`<summary><span class="antecedente-etiqueta">📌 ${escaparHtml(indice.display_policy?.label||'Preguntado en examen')}</span>${anos.map(ano=>`<span class="antecedente-ano">${ano}</span>`).join('')}</summary><div class="antecedente-cuerpo"><div class="antecedente-cargando">Abre para ver las preguntas concretas.</div></div>`;h2.insertAdjacentElement('afterend',details)})}
+async function cargarAntecedentes(elemento){
+ let items=[],politica={};
+ const cuerpo=elemento.querySelector('.antecedente-cuerpo');
+ if(!elemento.open||elemento.dataset.cargado==='1')return;
+ try{
+  items=JSON.parse(decodeURIComponent(elemento.dataset.items||''));
+  politica=JSON.parse(decodeURIComponent(elemento.dataset.policy||''));
+ }catch(e){
+  cuerpo.innerHTML='<div class="antecedente-cargando">No se pudo leer este antecedente.</div>';
+  return;
+ }
+ if(politica.show_feedback===true)await cargarRetroOf();
+ cuerpo.innerHTML='<div class="antecedente-cargando">Cargando preguntas…</div>';
+ const carpetas=[...new Set(items.map(i=>carpetaExamen(i.exam_id)).filter(Boolean))];
+ try{
+  const lotes=await Promise.all(carpetas.map(async carpeta=>{
+   const texto=await fetchTexto(`banco-preguntas/${OP}/oficiales/${carpeta}/preguntas.jsonl`);
+   return texto.trim().split('\n').filter(Boolean).map(linea=>JSON.parse(linea));
+  }));
+  const preguntas=lotes.flat();
+  const tarjetas=items.map(item=>{
+   const pregunta=preguntas.find(p=>p.id===item.question_id);
+   if(!pregunta)return'';
+   const anul=pregunta.answer?.annulled===true;
+   const correcta=politica.show_answer===true&&!anul
+    ?(pregunta.answer?.verified_option_id||pregunta.verified_answer_option_id||pregunta.answer?.proposed_option_id)
+    :null;
+   const opts=(pregunta.options||[]).map(o=>`<div class="ant-opt${(correcta&&o.id===correcta)?' ok':''}"><b>${o.source_label||''})</b> ${escaparHtml(o.text||'')}</div>`).join('');
+   const rr=politica.show_feedback===true?(__retroOf||{})[pregunta.id]:null;
+   const retro=(rr&&(rr.acierto||rr.explicacion))?`<div class="ant-retro"><b>Por qué</b>${escaparHtml(rr.acierto||rr.explicacion)}</div>`:'';
+   const anio=item.series_year||pregunta.exam?.series_year||'';
+   return`<article class="antecedente-pregunta"><div class="antecedente-meta">${anio} &middot; Promoción ${pregunta.exam?.promotion_roman||''} &middot; pregunta ${item.question_number}${anul?'<span class="ant-anulada">ANULADA</span>':''}</div><div class="antecedente-enunciado">${escaparHtml(pregunta.prompt)}</div><div class="ant-opts">${opts}</div>${retro}</article>`;
+  }).filter(Boolean).join('');
+  const nota=politica.show_answer===true
+   ?'La relación con este punto ha sido revisada editorialmente. La respuesta mostrada es una verificación propia de la academia y nunca se presenta como plantilla oficial.'
+   :'La relación con este punto ha sido revisada editorialmente. Se ocultan respuesta y retroalimentación hasta completar el cotejo previsto por la política del repositorio.';
+  cuerpo.innerHTML=tarjetas+`<p class="antecedente-nota">${nota}</p>`;
+  elemento.dataset.cargado='1';
+ }catch(e){
+  cuerpo.innerHTML='<div class="antecedente-cargando">No se pudieron cargar las preguntas. La marca de años sigue siendo válida.</div>';
+ }
+}
+async function inyectarAntecedentesOficiales(n){
+ const md=document.querySelector('.md');
+ if(!md)return;
+ let indice;
+ try{
+  indice=await fetchJson(`banco-preguntas/${OP}/tema-${String(n).padStart(2,'0')}/indice-oficiales.json`);
+ }catch(e){return}
+ const politica=indice.display_policy||{};
+ if(politica.show_reviewed_appearances===false)return;
+ const estadosRevisados=new Set(['reviewed','editorially_mapped']);
+ const preguntas=(indice.questions||[]).filter(p=>
+  estadosRevisados.has(p.appearance_status)
+  ||(politica.show_auto_proposed===true&&p.appearance_status==='auto_proposed')
+ );
+ window.__avisoAuto=preguntas.some(p=>p.appearance_status==='auto_proposed');
+ if(!preguntas.length)return;
+ md.querySelectorAll('h2').forEach(h2=>{
+  const m=(h2.textContent||'').match(/^(\d{1,2})\./);
+  if(!m)return;
+  const bloque=Number(m[1]);
+  const propias=preguntas.filter(p=>(p.block_refs||[]).map(Number).includes(bloque));
+  if(!propias.length)return;
+  const anos=[...new Set(propias.map(p=>Number(p.series_year)).filter(Boolean))].sort((a,b)=>a-b);
+  const details=document.createElement('details');
+  details.className='antecedente-oficial';
+  details.dataset.items=encodeURIComponent(JSON.stringify(propias));
+  details.dataset.policy=encodeURIComponent(JSON.stringify(politica));
+  details.addEventListener('toggle',()=>cargarAntecedentes(details));
+  details.innerHTML=`<summary><span class="antecedente-etiqueta">📌 ${escaparHtml(politica.label||'Preguntado en examen')}</span>${anos.map(ano=>`<span class="antecedente-ano">${ano}</span>`).join('')}</summary><div class="antecedente-cuerpo"><div class="antecedente-cargando">Abre para ver las preguntas concretas.</div></div>`;
+  h2.insertAdjacentElement('afterend',details);
+ });
+}
 function urlVistaPrevia(url){let m;if((m=url.match(/drive\.google\.com\/file\/d\/([^/]+)/)))return`https://drive.google.com/file/d/${m[1]}/preview`;if((m=url.match(/[?&]id=([^&]+)/)))return`https://drive.google.com/file/d/${m[1]}/preview`;if((m=url.match(/docs\.google\.com\/(presentation|document|spreadsheets)\/d\/([^/]+)/)))return`https://docs.google.com/${m[1]}/d/${m[2]}/preview`;return url}
 function abrirRecurso(url,titulo){if(!url)return;const main=document.querySelector('main');posicionVisor={main:main?main.scrollTop:0,ventana:window.scrollY};document.getElementById('visor-titulo').textContent=titulo||'Material';document.getElementById('visor-externo').href=url;document.getElementById('visor-frame').src=urlVistaPrevia(url);document.getElementById('visor').classList.add('abierto');document.body.style.overflow='hidden'}
 function cerrarVisor(){document.getElementById('visor').classList.remove('abierto');document.getElementById('visor-frame').src='about:blank';document.body.style.overflow='';requestAnimationFrame(()=>{const main=document.querySelector('main');if(main)main.scrollTop=posicionVisor.main;window.scrollTo({top:posicionVisor.ventana,left:0,behavior:'auto'})})}

@@ -36,12 +36,6 @@ Sus funciones abarcan la dirección de los servicios centrales y territoriales, 
 La Secretaría de Estado de Seguridad ejerce la superior dirección; la persona titular de la DGP ejerce el mando directo de la Policía Nacional.
 :::
 
-<!-- VISUAL:t08-01-mapa-general.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-01-mapa-general.webp" alt="relación Ministerio del Interior → Secretaría de Estado de Seguridad → Dirección General de la Policía" width="820">
-</p>
-<p align="center"><em>Infografía: relación Ministerio del Interior → Secretaría de Estado de Seguridad → Dirección General de la Policía.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
 <!-- MATERIAL PENDIENTE: t08-p1-pres -->
@@ -136,12 +130,6 @@ La Unidad Aérea incluye las áreas de Medios Aéreos y de Seguridad y Protecci�
 Comisarías Especiales y Unidades Adscritas: División de Operaciones y Transformación Digital.
 :::
 
-<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="operaciones, aviación, tecnología y unidades adscritas" width="820">
-</p>
-<p align="center"><em>Infografía: operaciones, aviación, tecnología y unidades adscritas.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
 <!-- MATERIAL PENDIENTE: t08-p1-pres -->
@@ -160,12 +148,6 @@ El Grupo Especial de Operaciones interviene en situaciones de especial cualifica
 :::perla-vigor
 Plan Estratégico y sistema nacional de inteligencia criminal: Unidad de Planificación Estratégica y Coordinación.
 :::
-
-<!-- VISUAL:t08-04-dao-mapa-operativo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-04-dao-mapa-operativo.webp" alt="planificación, GEO, Asuntos Internos y apoyo operativo" width="820">
-</p>
-<p align="center"><em>Infografía: planificación, GEO, Asuntos Internos y apoyo operativo.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p1-audio -->
 <!-- MATERIAL PENDIENTE: t08-p1-video -->
@@ -208,12 +190,6 @@ La Comisaría General de Información capta, recibe, trata y desarrolla informac
 :::perla-vigor
 Que la Orden pública no detalle sus unidades es intencionado: la estructura se determina mediante Orden Comunicada.
 :::
-
-<!-- VISUAL:t08-05-cinco-comisarias.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-05-cinco-comisarias.webp" alt="Información como especialidad de inteligencia y antiterrorismo" width="820">
-</p>
-<p align="center"><em>Infografía: Información como especialidad de inteligencia y antiterrorismo.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -264,6 +240,14 @@ Oficina Nacional de Deportes: Seguridad Ciudadana. FRONTEX: Extranjería y Front
   <img src="../../../assets/policia-nacional/tema-08/t08-07-seguridad-ciudadana.webp" alt="prevención, orden, protección y participación" width="820">
 </p>
 <p align="center"><em>Infografía: prevención, orden, protección y participación.</em></p>
+
+
+
+<!-- VISUAL:t08-08-extranjeria-fronteras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-08/t08-08-extranjeria-fronteras.webp" alt="Fronteras, redes, repatriaciones y FRONTEX" width="820">
+</p>
+<p align="center"><em>Infografía: Fronteras, redes, repatriaciones y FRONTEX.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p2-audio -->
 <!-- MATERIAL PENDIENTE: t08-p2-video -->
@@ -334,12 +318,6 @@ La Unidad de Régimen Disciplinario administra el régimen disciplinario y su Á
 Situaciones administrativas: Área de Documentación y Expediente Personal. Régimen disciplinario: unidad propia dentro de la División de Personal.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="expediente, destino, retribución y disciplina" width="820">
-</p>
-<p align="center"><em>Infografía: expediente, destino, retribución y disciplina.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
 <!-- MATERIAL PENDIENTE: t08-p3-pres -->
@@ -384,12 +362,6 @@ De ella dependen la División Económica y Técnica y la División de Documentac
 Informática corporativa y telecomunicaciones: Logística e Innovación. Tecnología aplicada directamente a la operación: DAO.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="presupuesto, infraestructura, vehículos, armamento, sistemas y documentación" width="820">
-</p>
-<p align="center"><em>Infografía: presupuesto, infraestructura, vehículos, armamento, sistemas y documentación.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
 <!-- MATERIAL PENDIENTE: t08-p3-pres -->
@@ -409,12 +381,6 @@ El Gabinete Técnico presta apoyo y asistencia a la persona titular de la DGP, c
 Banda de Música → Servicio de Protocolo → Área de Coordinación Institucional e Identidad Corporativa → Gabinete Técnico.
 :::
 
-<!-- VISUAL:t08-10-recursos-logistica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-10-recursos-logistica.webp" alt="documentación frente a apoyo estratégico" width="820">
-</p>
-<p align="center"><em>Infografía: documentación frente a apoyo estratégico.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p3-audio -->
 <!-- MATERIAL PENDIENTE: t08-p3-video -->
 <!-- MATERIAL PENDIENTE: t08-p3-pres -->
@@ -433,12 +399,6 @@ El Consejo Asesor es un órgano colegiado permanente de asesoramiento en asuntos
 :::perla-vigor
 Junta de Gobierno: Secretario, jefe de la División de Personal. Consejo Asesor: Secretaría en el Gabinete Técnico.
 :::
-
-<!-- VISUAL:t08-02-cuatro-centros-directivos.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-02-cuatro-centros-directivos.webp" alt="órganos colegiados y presidencia" width="820">
-</p>
-<p align="center"><em>Infografía: órganos colegiados y presidencia.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p4-audio -->
 <!-- MATERIAL PENDIENTE: t08-p4-video -->
@@ -541,12 +501,6 @@ Las áreas de actividad son: dirección y coordinación; información; policía 
 Superior dirige; Ejecutiva manda; Subinspección supervisa; Básica ejecuta.
 :::
 
-<!-- VISUAL:t08-13-escalas-categorias.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-13-escalas-categorias.webp" alt="función principal de cada escala" width="820">
-</p>
-<p align="center"><em>Infografía: función principal de cada escala.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p5-audio -->
 <!-- MATERIAL PENDIENTE: t08-p5-video -->
 <!-- MATERIAL PENDIENTE: t08-p5-pres -->
@@ -565,12 +519,6 @@ La promoción interna se articula mediante antigüedad selectiva y concurso-opos
 :::perla-vigor
 Ingreso externo: Policía o Inspector. Promoción interna: antigüedad selectiva o concurso-oposición.
 :::
-
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="dos puertas de ingreso y dos vías de promoción" width="820">
-</p>
-<p align="center"><em>Infografía: dos puertas de ingreso y dos vías de promoción.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -591,12 +539,6 @@ Para Escala Básica se exige Bachiller o equivalente; para Ejecutiva, título un
 No estudies una convocatoria antigua como si fuera la ley permanente: idioma, permiso y forma de acreditación deben comprobarse en cada convocatoria.
 :::
 
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="requisitos estructurales y requisitos variables" width="820">
-</p>
-<p align="center"><em>Infografía: requisitos estructurales y requisitos variables.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
 <!-- MATERIAL PENDIENTE: t08-p6-pres -->
@@ -615,12 +557,6 @@ La composición debe ser equilibrada entre mujeres y hombres. No pueden formar p
 :::perla-vigor
 Siete miembros al constituirse; cinco como mínimo para actuar; cuatro, al menos, policías nacionales en activo.
 :::
-
-<!-- VISUAL:t08-14-sistemas-acceso.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-14-sistemas-acceso.webp" alt="fases y composición del tribunal" width="820">
-</p>
-<p align="center"><em>Infografía: fases y composición del tribunal.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p6-audio -->
 <!-- MATERIAL PENDIENTE: t08-p6-video -->
@@ -670,12 +606,6 @@ Quien sea sancionado con traslado forzoso no podrá obtener un nuevo destino en 
 Escala temporal de sanción: leve 1–4 días; grave 5 días–3 meses; muy grave 3 meses y 1 día–6 años, además de traslado o separación.
 :::
 
-<!-- VISUAL:t08-15-regimen-disciplinario.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-15-regimen-disciplinario.webp" alt="sanción, autoridad y prescripción" width="820">
-</p>
-<p align="center"><em>Infografía: sanción, autoridad y prescripción.</em></p>
-
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->
 <!-- MATERIAL PENDIENTE: t08-p7-pres -->
@@ -719,12 +649,6 @@ La segunda actividad garantiza la aptitud psicofísica del personal y puede decl
 :::perla-vigor
 Edades: 64–62–60–58. Otra puerta: 25 años efectivos.
 :::
-
-<!-- VISUAL:t08-16-situaciones-administrativas.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-08/t08-16-situaciones-administrativas.webp" alt="suspensión y segunda actividad" width="820">
-</p>
-<p align="center"><em>Infografía: suspensión y segunda actividad.</em></p>
 
 <!-- MATERIAL PENDIENTE: t08-p7-audio -->
 <!-- MATERIAL PENDIENTE: t08-p7-video -->

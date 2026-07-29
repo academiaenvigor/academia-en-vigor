@@ -10,6 +10,12 @@
 
 **La Unión Europea: referencia histórica. Los tratados. Las fuentes del Derecho de la Unión Europea. Las instituciones de la Unión. La cooperación policial internacional.**
 
+<!-- VISUAL:t04-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.webp" alt="recorrido completo de la construcción europea, sus instituciones y la cooperación policial" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido completo de la construcción europea, sus instituciones y la cooperación policial.</em></p>
+
 ## Ruta de estudio
 
 1. **La Unión Europea: historia y tratados:** bloques 1 a 4.
@@ -48,6 +54,8 @@ Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania�
   <img src="../../../assets/policia-nacional/tema-04/t04-01-linea-tiempo.webp" alt="Línea de tiempo de la construcción europea" width="820">
 </p>
 <p align="center"><em>Infografía: Línea de tiempo de la construcción europea.</em></p>
+
+
 
 <!-- VISUAL:t04-il-01-nace-europa.webp -->
 <p align="center">
@@ -114,6 +122,8 @@ El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **
   <img src="../../../assets/policia-nacional/tema-04/t04-03-mapa-ampliaciones.webp" alt="Mapa de las ampliaciones sucesivas" width="820">
 </p>
 <p align="center"><em>Infografía: Mapa de las ampliaciones sucesivas.</em></p>
+
+
 
 <!-- VISUAL:t04-il-03-entrada-salida.webp -->
 <p align="center">
@@ -187,6 +197,8 @@ Primacía y efecto directo **no están escritos en los Tratados**: son jurisprud
 </p>
 <p align="center"><em>Infografía: Primacía y efecto directo.</em></p>
 
+
+
 <!-- VISUAL:t04-il-05-piramide.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-05-piramide.webp" alt="ante un conflicto, el juez nacional inaplica la norma interna contraria" width="600">
@@ -250,6 +262,8 @@ La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero
   <img src="../../../assets/policia-nacional/tema-04/t04-07-actos-tipicos.webp" alt="Cuadro comparativo de los actos del artículo 288" width="820">
 </p>
 <p align="center"><em>Infografía: Cuadro comparativo de los actos del artículo 288.</em></p>
+
+
 
 <!-- VISUAL:t04-il-07-reglamento-directiva.webp -->
 <p align="center">
@@ -328,6 +342,8 @@ La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre l
   <img src="../../../assets/policia-nacional/tema-04/t04-09-reparto-escanos.webp" alt="Reparto de escaños por Estado miembro" width="820">
 </p>
 <p align="center"><em>Infografía: Reparto de escaños por Estado miembro.</em></p>
+
+
 
 <!-- VISUAL:t04-il-09-tres-sedes.webp -->
 <p align="center">
@@ -429,6 +445,8 @@ El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, 
 </p>
 <p align="center"><em>Infografía: Los tres Consejos que no deben confundirse.</em></p>
 
+
+
 <!-- VISUAL:t04-il-12-no-confundir.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-12-no-confundir.webp" alt="Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas" width="600">
@@ -492,6 +510,8 @@ El **COREPER II es el político** y el **I el técnico**, al revés de lo que su
   <img src="../../../assets/policia-nacional/tema-04/t04-14-mayoria-cualificada.webp" alt="La doble mayoría en el Consejo" width="820">
 </p>
 <p align="center"><em>Infografía: La doble mayoría en el Consejo.</em></p>
+
+
 
 <!-- VISUAL:t04-il-14-balanza-votos.webp -->
 <p align="center">
@@ -558,6 +578,8 @@ La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados pre
   <img src="../../../assets/policia-nacional/tema-04/t04-16-triangulo-institucional.webp" alt="El triángulo institucional" width="820">
 </p>
 <p align="center"><em>Infografía: El triángulo institucional.</em></p>
+
+
 
 <!-- VISUAL:t04-il-16-procedimiento-ordinario.webp -->
 <p align="center">
@@ -631,6 +653,8 @@ El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de
 </p>
 <p align="center"><em>Infografía: Tipos de recursos ante el TJUE.</em></p>
 
+
+
 <!-- VISUAL:t04-il-18-cuestion-prejudicial.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.webp" alt="la cuestión prejudicial: el juez nacional consulta antes de decidir" width="600">
@@ -700,6 +724,8 @@ La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios
   <img src="../../../assets/policia-nacional/tema-04/t04-20-organos-bce.webp" alt="Órganos decisorios del BCE" width="820">
 </p>
 <p align="center"><em>Infografía: Órganos decisorios del BCE.</em></p>
+
+
 
 <!-- VISUAL:t04-il-20-zona-euro.webp -->
 <p align="center">
@@ -829,6 +855,8 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
 </p>
 <p align="center"><em>Infografía: Sistema de notificaciones de Interpol.</em></p>
 
+
+
 <!-- VISUAL:t04-il-24-interpol-no-detiene.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-24-interpol-no-detiene.webp" alt="Interpol coordina y difunde; quien detiene es la policía del país" width="600">
@@ -865,6 +893,8 @@ Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: inc
 </p>
 <p align="center"><em>Infografía: Agencias de cooperación en la Unión.</em></p>
 
+
+
 <!-- VISUAL:t04-il-25-europol-analiza.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.webp" alt="Europol es un centro de análisis, no una policía con competencias operativas" width="600">
@@ -900,6 +930,8 @@ La euroorden es un procedimiento **entre autoridades judiciales**. Si una opció
   <img src="../../../assets/policia-nacional/tema-04/t04-26-euroorden-procedimiento.webp" alt="Procedimiento de la Euroorden" width="820">
 </p>
 <p align="center"><em>Infografía: Procedimiento de la Euroorden.</em></p>
+
+
 
 <!-- VISUAL:t04-il-26-euroorden.webp -->
 <p align="center">
@@ -974,6 +1006,8 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
   <img src="../../../assets/policia-nacional/tema-04/t04-28-tedh-vs-tjue.webp" alt="TEDH frente a TJUE" width="820">
 </p>
 <p align="center"><em>Infografía: TEDH frente a TJUE.</em></p>
+
+
 
 <!-- VISUAL:t04-il-28-dos-tribunales.webp -->
 <p align="center">

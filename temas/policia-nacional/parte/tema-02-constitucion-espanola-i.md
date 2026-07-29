@@ -50,6 +50,8 @@ El tema se estudia en siete partes: Constitución; valores y modelo de Estado; T
 </p>
 <p align="center"><em>Infografía: Cuatro fechas esenciales del proceso constituyente.</em></p>
 
+
+
 <!-- VISUAL:t02-ilu-02-consenso-constituyente.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-02/t02-ilu-02-consenso-constituyente.webp" alt="Siete ponentes construyen un texto común" width="600">
@@ -74,12 +76,6 @@ No confundas referéndum, sanción y entrada en vigor: 6, 27 y 29 de diciembre c
 **Parte dogmática.** La parte dogmática comprende el Título Preliminar y el Título I.
 **Parte orgánica.** La parte orgánica comprende esencialmente los Títulos II a X.
 **Preámbulo.** El preámbulo tiene valor interpretativo, pero no está dividido en artículos.
-
-<!-- VISUAL:t02-02-plano-constitucion.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-02/t02-02-plano-constitucion.webp" alt="Estructura formal, parte dogmática y parte orgánica" width="820">
-</p>
-<p align="center"><em>Infografía: Estructura formal, parte dogmática y parte orgánica.</em></p>
 
 :::trampa
 La formulación precisa es un Título Preliminar y diez títulos numerados.
@@ -325,11 +321,15 @@ El artículo 14 está dentro del Capítulo II, pero antes de sus dos secciones.
 </p>
 <p align="center"><em>Infografía: Necesidad, máximo de 72 horas, información, abogado y habeas corpus.</em></p>
 
+
+
 <!-- VISUAL:t02-09-cojufla-domicilio.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-02/t02-09-cojufla-domicilio.webp" alt="Consentimiento, resolución judicial y flagrante delito" width="820">
 </p>
 <p align="center"><em>Infografía: Consentimiento, resolución judicial y flagrante delito.</em></p>
+
+
 
 <!-- VISUAL:t02-ilu-05-derechos-persona.webp -->
 <p align="center">
@@ -586,6 +586,8 @@ El artículo 30.2 tiene amparo, pero no pertenece a la Sección 1.ª.
   <img src="../../../assets/policia-nacional/tema-02/t02-13-suspension-derechos.webp" alt="Suspensión general e individual" width="820">
 </p>
 <p align="center"><em>Infografía: Suspensión general e individual.</em></p>
+
+
 
 <!-- VISUAL:t02-ilu-07-excepcion-no-normalidad.webp -->
 <p align="center">

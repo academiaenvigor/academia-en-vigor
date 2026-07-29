@@ -24,6 +24,8 @@ Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania�
 **Referencia visual prevista:** `t04-01-linea-tiempo.webp` · Línea de tiempo de la construcción europea.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-01-nace-europa.webp` · el proyecto europeo nace como respuesta a la posguerra.
 :::
@@ -46,6 +48,8 @@ Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania�
 :::visual
 **Referencia visual prevista:** `t04-01-linea-tiempo.webp` · Línea de tiempo de la construcción europea.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-01-nace-europa.webp` · el proyecto europeo nace como respuesta a la posguerra.
@@ -118,6 +122,8 @@ El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **
 **Referencia visual prevista:** `t04-03-mapa-ampliaciones.webp` · Mapa de las ampliaciones sucesivas.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-03-entrada-salida.webp` · el artículo 49 regula la entrada; el artículo 50, la salida.
 :::
@@ -140,6 +146,8 @@ El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **
 :::visual
 **Referencia visual prevista:** `t04-03-mapa-ampliaciones.webp` · Mapa de las ampliaciones sucesivas.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-03-entrada-salida.webp` · el artículo 49 regula la entrada; el artículo 50, la salida.
@@ -170,7 +178,6 @@ El Alto Representante **participa** en los trabajos del Consejo Europeo, pero **
 :::visual
 **Referencia visual prevista:** `t04-04-alto-representante.webp` · Doble sombrero del Alto Representante.
 :::
-
 
 <!-- FUENTE: UE-EXTERIOR -->
 
@@ -221,6 +228,8 @@ Primacía y efecto directo **no están escritos en los Tratados**: son jurisprud
 **Referencia visual prevista:** `t04-05-primacia-efecto-directo.webp` · Primacía y efecto directo.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-05-piramide.webp` · ante un conflicto, el juez nacional inaplica la norma interna contraria.
 :::
@@ -245,6 +254,8 @@ Primacía y efecto directo **no están escritos en los Tratados**: son jurisprud
 :::visual
 **Referencia visual prevista:** `t04-05-primacia-efecto-directo.webp` · Primacía y efecto directo.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-05-piramide.webp` · ante un conflicto, el juez nacional inaplica la norma interna contraria.
@@ -313,6 +324,8 @@ La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero
 **Referencia visual prevista:** `t04-07-actos-tipicos.webp` · Cuadro comparativo de los actos del artículo 288.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-07-reglamento-directiva.webp` · el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga.
 :::
@@ -337,6 +350,8 @@ La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero
 :::visual
 **Referencia visual prevista:** `t04-07-actos-tipicos.webp` · Cuadro comparativo de los actos del artículo 288.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-07-reglamento-directiva.webp` · el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga.
@@ -367,7 +382,6 @@ La Carta se **proclamó en 2000** pero solo es **vinculante desde 2009**. Y vinc
 :::visual
 **Referencia visual prevista:** `t04-08-derechos-fundamentales.webp` · Sistemas de protección de derechos en Europa.
 :::
-
 
 <!-- FUENTE: UE-FUENTES -->
 
@@ -424,6 +438,8 @@ La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre l
 **Referencia visual prevista:** `t04-09-reparto-escanos.webp` · Reparto de escaños por Estado miembro.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-09-tres-sedes.webp` · el Parlamento es itinerante: plenos, comisiones y administración se reparten.
 :::
@@ -448,6 +464,8 @@ La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre l
 :::visual
 **Referencia visual prevista:** `t04-09-reparto-escanos.webp` · Reparto de escaños por Estado miembro.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-09-tres-sedes.webp` · el Parlamento es itinerante: plenos, comisiones y administración se reparten.
@@ -520,7 +538,6 @@ La moción de censura tumba a **toda la Comisión en bloque**. El Parlamento **n
 **Referencia visual prevista:** `t04-11-funciones-parlamento.webp` · Funciones del Parlamento Europeo.
 :::
 
-
 <!-- FUENTE: UE-PE -->
 
 <!-- PARTE 4: Instituciones (II): los Consejos -->
@@ -570,6 +587,8 @@ El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, 
 **Referencia visual prevista:** `t04-12-tres-consejos.webp` · Los tres Consejos que no deben confundirse.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-12-no-confundir.webp` · Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas.
 :::
@@ -594,6 +613,8 @@ El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, 
 :::visual
 **Referencia visual prevista:** `t04-12-tres-consejos.webp` · Los tres Consejos que no deben confundirse.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-12-no-confundir.webp` · Consejo Europeo, Consejo de la UE y Consejo de Europa son tres cosas distintas.
@@ -662,10 +683,11 @@ El **COREPER II es el político** y el **I el técnico**, al revés de lo que su
 **Referencia visual prevista:** `t04-14-mayoria-cualificada.webp` · La doble mayoría en el Consejo.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-14-balanza-votos.webp` · la doble mayoría exige contar Estados y población simultáneamente.
 :::
-
 
 <!-- FUENTE: UE-CONSEJO-UE -->
 
@@ -691,6 +713,8 @@ El **COREPER II es el político** y el **I el técnico**, al revés de lo que su
 :::visual
 **Referencia visual prevista:** `t04-14-mayoria-cualificada.webp` · La doble mayoría en el Consejo.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-14-balanza-votos.webp` · la doble mayoría exige contar Estados y población simultáneamente.
@@ -763,10 +787,11 @@ La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados pre
 **Referencia visual prevista:** `t04-16-triangulo-institucional.webp` · El triángulo institucional.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-16-procedimiento-ordinario.webp` · quién propone y quién decide: el reparto básico de papeles.
 :::
-
 
 <!-- FUENTE: UE-COMISION -->
 
@@ -790,6 +815,8 @@ La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados pre
 :::visual
 **Referencia visual prevista:** `t04-16-triangulo-institucional.webp` · El triángulo institucional.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-16-procedimiento-ordinario.webp` · quién propone y quién decide: el reparto básico de papeles.
@@ -866,6 +893,8 @@ El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de
 **Referencia visual prevista:** `t04-18-tipos-recursos.webp` · Tipos de recursos ante el TJUE.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-18-cuestion-prejudicial.webp` · la cuestión prejudicial: el juez nacional consulta antes de decidir.
 :::
@@ -890,6 +919,8 @@ El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de
 :::visual
 **Referencia visual prevista:** `t04-18-tipos-recursos.webp` · Tipos de recursos ante el TJUE.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-18-cuestion-prejudicial.webp` · la cuestión prejudicial: el juez nacional consulta antes de decidir.
@@ -916,7 +947,6 @@ No confundir sus **seis años** de mandato con los **ocho no renovables** del Co
 :::visual
 **Referencia visual prevista:** `t04-19-tribunal-cuentas.webp` · Funciones del Tribunal de Cuentas.
 :::
-
 
 <!-- FUENTE: UE-TCE -->
 
@@ -969,6 +999,8 @@ La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios
 **Referencia visual prevista:** `t04-20-organos-bce.webp` · Órganos decisorios del BCE.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-20-zona-euro.webp` · pertenecer a la Unión y pertenecer a la zona euro no es lo mismo.
 :::
@@ -993,6 +1025,8 @@ La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios
 :::visual
 **Referencia visual prevista:** `t04-20-organos-bce.webp` · Órganos decisorios del BCE.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-20-zona-euro.webp` · pertenecer a la Unión y pertenecer a la zona euro no es lo mismo.
@@ -1104,7 +1138,6 @@ El **BEI no es una institución** aunque tenga personalidad jurídica propia. Ta
 **Referencia visual prevista:** `t04-23-organos-organismos.webp` · Órganos, organismos y agencias.
 :::
 
-
 <!-- FUENTE: UE-ORGANOS -->
 
 <!-- PARTE 8: Cooperación policial internacional -->
@@ -1154,6 +1187,8 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
 **Referencia visual prevista:** `t04-24-notificaciones-interpol.webp` · Sistema de notificaciones de Interpol.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-24-interpol-no-detiene.webp` · Interpol coordina y difunde; quien detiene es la policía del país.
 :::
@@ -1181,6 +1216,8 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
 **Referencia visual prevista:** `t04-24-notificaciones-interpol.webp` · Sistema de notificaciones de Interpol.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-24-interpol-no-detiene.webp` · Interpol coordina y difunde; quien detiene es la policía del país.
 :::
@@ -1207,6 +1244,8 @@ Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: inc
 **Referencia visual prevista:** `t04-25-agencias-cooperacion.webp` · Agencias de cooperación en la Unión.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-25-europol-analiza.webp` · Europol es un centro de análisis, no una policía con competencias operativas.
 :::
@@ -1231,6 +1270,8 @@ Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: inc
 :::visual
 **Referencia visual prevista:** `t04-25-agencias-cooperacion.webp` · Agencias de cooperación en la Unión.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-25-europol-analiza.webp` · Europol es un centro de análisis, no una policía con competencias operativas.
@@ -1258,6 +1299,8 @@ La euroorden es un procedimiento **entre autoridades judiciales**. Si una opció
 **Referencia visual prevista:** `t04-26-euroorden-procedimiento.webp` · Procedimiento de la Euroorden.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-26-euroorden.webp` · de la extradición entre Gobiernos a la entrega entre autoridades judiciales.
 :::
@@ -1282,6 +1325,8 @@ La euroorden es un procedimiento **entre autoridades judiciales**. Si una opció
 :::visual
 **Referencia visual prevista:** `t04-26-euroorden-procedimiento.webp` · Procedimiento de la Euroorden.
 :::
+
+
 
 :::visual
 **Ilustración simple:** `t04-il-26-euroorden.webp` · de la extradición entre Gobiernos a la entrega entre autoridades judiciales.
@@ -1358,6 +1403,8 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
 **Referencia visual prevista:** `t04-28-tedh-vs-tjue.webp` · TEDH frente a TJUE.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-28-dos-tribunales.webp` · Estrasburgo y Luxemburgo: dos tribunales que responden a preguntas distintas.
 :::
@@ -1385,6 +1432,8 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
 **Referencia visual prevista:** `t04-28-tedh-vs-tjue.webp` · TEDH frente a TJUE.
 :::
 
+
+
 :::visual
 **Ilustración simple:** `t04-il-28-dos-tribunales.webp` · Estrasburgo y Luxemburgo: dos tribunales que responden a preguntas distintas.
 :::
@@ -1396,6 +1445,10 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
 ## Programa oficial cubierto
 
 **La Unión Europea: referencia histórica. Los tratados. Las fuentes del Derecho de la Unión Europea. Las instituciones de la Unión. La cooperación policial internacional.**
+
+:::visual
+**Mapa general previsto:** `t04-00-mapa-general.webp` · recorrido completo de la construcción europea, sus instituciones y la cooperación policial.
+:::
 
 ## Ruta de estudio
 

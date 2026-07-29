@@ -4,6 +4,9 @@
 
 **Versión del proyecto:** 0.9.0
 
+> Informe histórico. La revisión correctiva posterior queda documentada en
+> `revision-integral-temas-01-09-2026-07-29.md`.
+
 **Estado de publicación:** no publicado para alumnos
 
 ## Motivo
@@ -41,5 +44,5 @@ el contrato único vigente a los nueve temas existentes.
 - bancos completos, equilibrados y con doble formulación en riesgo 5;
 - evaluaciones generadas para los nueve temas con cobertura única del banco;
 - materiales, derechos y exámenes históricos validados;
-- 70 pruebas automatizadas superadas;
+- 70 pruebas automatizadas superadas en aquella revisión;
 - ausencia de PNG, fuentes privadas y binarios pesados no permitidos.

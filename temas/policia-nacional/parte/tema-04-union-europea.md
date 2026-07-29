@@ -10,6 +10,12 @@
 
 **La Unión Europea: referencia histórica. Los tratados. Las fuentes del Derecho de la Unión Europea. Las instituciones de la Unión. La cooperación policial internacional.**
 
+<!-- VISUAL:t04-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-04/t04-00-mapa-general.webp" alt="recorrido completo de la construcción europea, sus instituciones y la cooperación policial" width="820">
+</p>
+<p align="center"><em>Infografía: recorrido completo de la construcción europea, sus instituciones y la cooperación policial.</em></p>
+
 ## Ruta de estudio
 
 1. **La Unión Europea: historia y tratados:** bloques 1 a 4.
@@ -46,6 +52,8 @@ Los Estados fundadores son seis, no cinco ni siete. Y el sexto no es «Alemania�
   <img src="../../../assets/policia-nacional/tema-04/t04-01-linea-tiempo.webp" alt="Línea de tiempo de la construcción europea" width="820">
 </p>
 <p align="center"><em>Infografía: Línea de tiempo de la construcción europea.</em></p>
+
+
 
 <!-- VISUAL:t04-il-01-nace-europa.webp -->
 <p align="center">
@@ -105,6 +113,8 @@ El Brexit tiene cuatro fechas y se confunden entre sí: **referéndum 2016**, **
 </p>
 <p align="center"><em>Infografía: Mapa de las ampliaciones sucesivas.</em></p>
 
+
+
 <!-- VISUAL:t04-il-03-entrada-salida.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-03-entrada-salida.webp" alt="el artículo 49 regula la entrada; el artículo 50, la salida" width="600">
@@ -137,7 +147,6 @@ El Alto Representante **participa** en los trabajos del Consejo Europeo, pero **
 </p>
 <p align="center"><em>Infografía: Doble sombrero del Alto Representante.</em></p>
 
-
 <!-- FUENTE: UE-EXTERIOR -->
 
 <!-- PARTE 2: El Derecho de la Unión Europea -->
@@ -167,6 +176,8 @@ Primacía y efecto directo **no están escritos en los Tratados**: son jurisprud
   <img src="../../../assets/policia-nacional/tema-04/t04-05-primacia-efecto-directo.webp" alt="Primacía y efecto directo" width="820">
 </p>
 <p align="center"><em>Infografía: Primacía y efecto directo.</em></p>
+
+
 
 <!-- VISUAL:t04-il-05-piramide.webp -->
 <p align="center">
@@ -226,6 +237,8 @@ La directiva tiene efecto directo **vertical** cuando no se transpone bien, pero
 </p>
 <p align="center"><em>Infografía: Cuadro comparativo de los actos del artículo 288.</em></p>
 
+
+
 <!-- VISUAL:t04-il-07-reglamento-directiva.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-07-reglamento-directiva.webp" alt="el reglamento entra igual en todos; la directiva necesita que cada Estado la transponga" width="600">
@@ -258,7 +271,6 @@ La Carta se **proclamó en 2000** pero solo es **vinculante desde 2009**. Y vinc
 </p>
 <p align="center"><em>Infografía: Sistemas de protección de derechos en Europa.</em></p>
 
-
 <!-- FUENTE: UE-FUENTES -->
 
 <!-- PARTE 3: Instituciones (I): el Parlamento Europeo -->
@@ -288,6 +300,8 @@ La sede oficial es **Estrasburgo**, no Bruselas, aunque en Bruselas se celebre l
   <img src="../../../assets/policia-nacional/tema-04/t04-09-reparto-escanos.webp" alt="Reparto de escaños por Estado miembro" width="820">
 </p>
 <p align="center"><em>Infografía: Reparto de escaños por Estado miembro.</em></p>
+
+
 
 <!-- VISUAL:t04-il-09-tres-sedes.webp -->
 <p align="center">
@@ -347,7 +361,6 @@ La moción de censura tumba a **toda la Comisión en bloque**. El Parlamento **n
 </p>
 <p align="center"><em>Infografía: Funciones del Parlamento Europeo.</em></p>
 
-
 <!-- FUENTE: UE-PE -->
 
 <!-- PARTE 4: Instituciones (II): los Consejos -->
@@ -377,6 +390,8 @@ El Consejo Europeo **no legisla**. Da impulso político y define orientaciones, 
   <img src="../../../assets/policia-nacional/tema-04/t04-12-tres-consejos.webp" alt="Los tres Consejos que no deben confundirse" width="820">
 </p>
 <p align="center"><em>Infografía: Los tres Consejos que no deben confundirse.</em></p>
+
+
 
 <!-- VISUAL:t04-il-12-no-confundir.webp -->
 <p align="center">
@@ -436,12 +451,13 @@ El **COREPER II es el político** y el **I el técnico**, al revés de lo que su
 </p>
 <p align="center"><em>Infografía: La doble mayoría en el Consejo.</em></p>
 
+
+
 <!-- VISUAL:t04-il-14-balanza-votos.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-14-balanza-votos.webp" alt="la doble mayoría exige contar Estados y población simultáneamente" width="600">
 </p>
 <p align="center"><em>Ilustración: la doble mayoría exige contar Estados y población simultáneamente.</em></p>
-
 
 <!-- FUENTE: UE-CONSEJO-UE -->
 
@@ -499,12 +515,13 @@ La iniciativa legislativa es **cuasi exclusiva**, no exclusiva: los Tratados pre
 </p>
 <p align="center"><em>Infografía: El triángulo institucional.</em></p>
 
+
+
 <!-- VISUAL:t04-il-16-procedimiento-ordinario.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-16-procedimiento-ordinario.webp" alt="quién propone y quién decide: el reparto básico de papeles" width="600">
 </p>
 <p align="center"><em>Ilustración: quién propone y quién decide: el reparto básico de papeles.</em></p>
-
 
 <!-- FUENTE: UE-COMISION -->
 
@@ -562,6 +579,8 @@ El recurso de casación ante el Tribunal de Justicia se limita a **cuestiones de
 </p>
 <p align="center"><em>Infografía: Tipos de recursos ante el TJUE.</em></p>
 
+
+
 <!-- VISUAL:t04-il-18-cuestion-prejudicial.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-18-cuestion-prejudicial.webp" alt="la cuestión prejudicial: el juez nacional consulta antes de decidir" width="600">
@@ -594,7 +613,6 @@ No confundir sus **seis años** de mandato con los **ocho no renovables** del Co
 </p>
 <p align="center"><em>Infografía: Funciones del Tribunal de Cuentas.</em></p>
 
-
 <!-- FUENTE: UE-TCE -->
 
 <!-- PARTE 7: El BCE y los órganos consultivos y auxiliares -->
@@ -624,6 +642,8 @@ La zona euro son **veintiún** Estados desde el 1 de enero de 2026. Los temarios
   <img src="../../../assets/policia-nacional/tema-04/t04-20-organos-bce.webp" alt="Órganos decisorios del BCE" width="820">
 </p>
 <p align="center"><em>Infografía: Órganos decisorios del BCE.</em></p>
+
+
 
 <!-- VISUAL:t04-il-20-zona-euro.webp -->
 <p align="center">
@@ -709,7 +729,6 @@ El **BEI no es una institución** aunque tenga personalidad jurídica propia. Ta
 </p>
 <p align="center"><em>Infografía: Órganos, organismos y agencias.</em></p>
 
-
 <!-- FUENTE: UE-ORGANOS -->
 
 <!-- PARTE 8: Cooperación policial internacional -->
@@ -739,6 +758,8 @@ Colores: **roja** detención, **azul** información, **verde** reincidencia, **a
   <img src="../../../assets/policia-nacional/tema-04/t04-24-notificaciones-interpol.webp" alt="Sistema de notificaciones de Interpol" width="820">
 </p>
 <p align="center"><em>Infografía: Sistema de notificaciones de Interpol.</em></p>
+
+
 
 <!-- VISUAL:t04-il-24-interpol-no-detiene.webp -->
 <p align="center">
@@ -772,6 +793,8 @@ Schengen son **29 países**, no 27, y **no coincide con la Unión Europea**: inc
 </p>
 <p align="center"><em>Infografía: Agencias de cooperación en la Unión.</em></p>
 
+
+
 <!-- VISUAL:t04-il-25-europol-analiza.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-04/t04-il-25-europol-analiza.webp" alt="Europol es un centro de análisis, no una policía con competencias operativas" width="600">
@@ -803,6 +826,8 @@ La euroorden es un procedimiento **entre autoridades judiciales**. Si una opció
   <img src="../../../assets/policia-nacional/tema-04/t04-26-euroorden-procedimiento.webp" alt="Procedimiento de la Euroorden" width="820">
 </p>
 <p align="center"><em>Infografía: Procedimiento de la Euroorden.</em></p>
+
+
 
 <!-- VISUAL:t04-il-26-euroorden.webp -->
 <p align="center">
@@ -861,6 +886,8 @@ No hay **jerarquía ni recurso** de un tribunal a otro. No se puede recurrir una
   <img src="../../../assets/policia-nacional/tema-04/t04-28-tedh-vs-tjue.webp" alt="TEDH frente a TJUE" width="820">
 </p>
 <p align="center"><em>Infografía: TEDH frente a TJUE.</em></p>
+
+
 
 <!-- VISUAL:t04-il-28-dos-tribunales.webp -->
 <p align="center">

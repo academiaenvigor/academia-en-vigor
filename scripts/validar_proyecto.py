@@ -15,7 +15,7 @@ required_root = [
     'editorial/00-codigo-vigor.md', 'editorial/01-manual-editorial.md', 'editorial/02-estandar-tecnico.md',
     'editorial/04-contrato-unico-de-tema.md',
     'fuentes/catalogo.json', 'scripts/compilar_tema.py', 'scripts/validar_bancos.py',
-    'scripts/validar_temas.py',
+    'scripts/validar_temas.py', 'scripts/validar_activos_visuales.py',
     'scripts/validar_examenes_oficiales.py', 'scripts/validar_materiales.py', 'scripts/validar_derechos.py',
     'banco-preguntas/policia-nacional/oficiales/manifest.json',
 ]
@@ -61,7 +61,7 @@ if errors:
 
 for script in (
     'validar_derechos.py', 'validar_examenes_oficiales.py',
-    'validar_materiales.py', 'validar_temas.py',
+    'validar_materiales.py', 'validar_temas.py', 'validar_activos_visuales.py',
 ):
     result = subprocess.run([sys.executable, str(ROOT / 'scripts' / script), str(ROOT)] if script == 'validar_examenes_oficiales.py' else [sys.executable, str(ROOT / 'scripts' / script)], cwd=ROOT)
     if result.returncode:

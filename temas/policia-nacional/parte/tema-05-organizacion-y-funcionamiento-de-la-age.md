@@ -10,6 +10,12 @@
 
 **Organización y funcionamiento de la Administración General del Estado: principios de organización, funcionamiento y relaciones con los ciudadanos. Órganos superiores y órganos directivos en la organización central. El Gobierno: composición, organización y funciones.**
 
+<!-- VISUAL:t05-00-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-05/t05-00-mapa-general.webp" alt="visión conjunta de la AGE, el Gobierno, la organización central y la Administración periférica" width="820">
+</p>
+<p align="center"><em>Infografía: visión conjunta de la AGE, el Gobierno, la organización central y la Administración periférica.</em></p>
+
 ## Ruta de estudio
 
 1. **La AGE y sus principios:** bloques 1 a 5.
@@ -142,6 +148,8 @@ Una sociedad mercantil estatal **es sector público pero no es Administración P
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-04-dos-circulos.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-04-dos-circulos.webp" alt="recurso visual planificado" width="820">
@@ -179,7 +187,6 @@ Tres grupos según a quién miran: **al ciudadano**, **hacia dentro** y **a las 
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
-
 <!-- FUENTE: AGE-PRINCIPIOS -->
 
 <!-- PARTE 2: Organización, funcionamiento e intervención -->
@@ -216,6 +223,8 @@ La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio.
   <img src="../../../assets/policia-nacional/tema-05/t05-06-principios-organizacion.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-06-descentralizar-desconcentrar.webp -->
 <p align="center">
@@ -316,12 +325,13 @@ El precepto dice **Administración civil**, no «Administración» a secas. Y pr
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-09-limite-libertad.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-09-limite-libertad.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
-
 
 <!-- FUENTE: AGE-INTERVENCION -->
 
@@ -484,7 +494,6 @@ Un Secretario de Estado **no puede suplir a un Ministro**: la suplencia debe rec
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
-
 <!-- FUENTE: GOB-PRESIDENTE -->
 
 <!-- PARTE 4: Órganos del Gobierno -->
@@ -552,6 +561,8 @@ Las competencias de los órganos colegiados del Gobierno **no son delegables**, 
   <img src="../../../assets/policia-nacional/tema-05/t05-16-delegacion-y-avocacion.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-16-delegar-avocar.webp -->
 <p align="center">
@@ -654,12 +665,13 @@ Las delegaciones legislativas se suspenden **solo si el Gobierno está en funcio
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-19-gobierno-en-funciones.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-19-gobierno-en-funciones.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
-
 
 <!-- FUENTE: GOB-FUNCIONES -->
 
@@ -793,6 +805,8 @@ Los dictámenes del Consejo de Estado **no son vinculantes** con carácter gener
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-23-oido-o-de-acuerdo.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-23-oido-o-de-acuerdo.webp" alt="recurso visual planificado" width="820">
@@ -830,7 +844,6 @@ Regla del rango: **rango de ley o reforma constitucional al Pleno; reglamentos y
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
-
 <!-- FUENTE: GOB-CONSEJO-ESTADO -->
 
 <!-- PARTE 6: Órganos superiores y altos cargos -->
@@ -866,6 +879,8 @@ Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero 
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
+
+
 <!-- VISUAL:t05-il-25-frontera-alto-cargo.webp -->
 <p align="center">
   <img src="../../../assets/policia-nacional/tema-05/t05-il-25-frontera-alto-cargo.webp" alt="recurso visual planificado" width="820">
@@ -900,7 +915,6 @@ El Ministro impone la **separación del servicio** por faltas muy graves. Es la 
   <img src="../../../assets/policia-nacional/tema-05/t05-26-ministros-organo-superior.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
-
 
 <!-- FUENTE: AGE-SUPERIORES -->
 
@@ -1026,7 +1040,6 @@ Las **unidades administrativas se crean por las relaciones de puestos de trabajo
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
 
-
 <!-- FUENTE: AGE-ORGANOS -->
 
 <!-- PARTE 8: Administración periférica y sector público institucional -->
@@ -1061,6 +1074,8 @@ En comunidades **uniprovinciales** puede crearse Subdelegación **por real decre
   <img src="../../../assets/policia-nacional/tema-05/t05-31-delegaciones-y-subdelegaciones.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-31-integrados-no-integrados.webp -->
 <p align="center">
@@ -1199,6 +1214,8 @@ La entidad pública empresarial se rige por Derecho privado **salvo tres excepci
   <img src="../../../assets/policia-nacional/tema-05/t05-35-organismos-y-entidades.webp" alt="recurso visual planificado" width="820">
 </p>
 <p align="center"><em>Infografía: recurso visual planificado.</em></p>
+
+
 
 <!-- VISUAL:t05-il-35-oa-frente-epe.webp -->
 <p align="center">

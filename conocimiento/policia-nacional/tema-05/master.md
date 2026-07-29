@@ -159,6 +159,8 @@ Una sociedad mercantil estatal **es sector público pero no es Administración P
 **Referencia visual prevista:** `t05-04-sector-vs-administracion.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-04-dos-circulos.webp` · recurso visual planificado.
 :::
@@ -185,6 +187,8 @@ Una sociedad mercantil estatal **es sector público pero no es Administración P
 :::visual
 **Referencia visual prevista:** `t05-04-sector-vs-administracion.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-04-dos-circulos.webp` · recurso visual planificado.
@@ -213,7 +217,6 @@ Tres grupos según a quién miran: **al ciudadano**, **hacia dentro** y **a las 
 :::visual
 **Referencia visual prevista:** `t05-05-principios-articulo-3.webp` · recurso visual planificado.
 :::
-
 
 <!-- FUENTE: AGE-PRINCIPIOS -->
 
@@ -274,6 +277,8 @@ La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio.
 **Referencia visual prevista:** `t05-06-principios-organizacion.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-06-descentralizar-desconcentrar.webp` · recurso visual planificado.
 :::
@@ -306,6 +311,8 @@ La desconcentración traspasa **titularidad y ejercicio**, no solo el ejercicio.
 :::visual
 **Referencia visual prevista:** `t05-06-principios-organizacion.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-06-descentralizar-desconcentrar.webp` · recurso visual planificado.
@@ -433,10 +440,11 @@ El precepto dice **Administración civil**, no «Administración» a secas. Y pr
 **Referencia visual prevista:** `t05-09-limite-articulo-25-3.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-09-limite-libertad.webp` · recurso visual planificado.
 :::
-
 
 <!-- FUENTE: AGE-INTERVENCION -->
 
@@ -464,6 +472,8 @@ El precepto dice **Administración civil**, no «Administración» a secas. Y pr
 :::visual
 **Referencia visual prevista:** `t05-09-limite-articulo-25-3.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-09-limite-libertad.webp` · recurso visual planificado.
@@ -697,7 +707,6 @@ Un Secretario de Estado **no puede suplir a un Ministro**: la suplencia debe rec
 **Referencia visual prevista:** `t05-14-suplencia-y-prelacion.webp` · recurso visual planificado.
 :::
 
-
 <!-- FUENTE: GOB-PRESIDENTE -->
 
 <!-- PARTE 4: Órganos del Gobierno -->
@@ -802,6 +811,8 @@ Las competencias de los órganos colegiados del Gobierno **no son delegables**, 
 **Referencia visual prevista:** `t05-16-delegacion-y-avocacion.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-16-delegar-avocar.webp` · recurso visual planificado.
 :::
@@ -834,6 +845,8 @@ Las competencias de los órganos colegiados del Gobierno **no son delegables**, 
 :::visual
 **Referencia visual prevista:** `t05-16-delegacion-y-avocacion.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-16-delegar-avocar.webp` · recurso visual planificado.
@@ -963,10 +976,11 @@ Las delegaciones legislativas se suspenden **solo si el Gobierno está en funcio
 **Referencia visual prevista:** `t05-19-gobierno-en-funciones.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-19-gobierno-en-funciones.webp` · recurso visual planificado.
 :::
-
 
 <!-- FUENTE: GOB-FUNCIONES -->
 
@@ -998,6 +1012,8 @@ Las delegaciones legislativas se suspenden **solo si el Gobierno está en funcio
 :::visual
 **Referencia visual prevista:** `t05-19-gobierno-en-funciones.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-19-gobierno-en-funciones.webp` · recurso visual planificado.
@@ -1190,6 +1206,8 @@ Los dictámenes del Consejo de Estado **no son vinculantes** con carácter gener
 **Referencia visual prevista:** `t05-23-consejo-de-estado.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-23-oido-o-de-acuerdo.webp` · recurso visual planificado.
 :::
@@ -1221,6 +1239,8 @@ Los dictámenes del Consejo de Estado **no son vinculantes** con carácter gener
 **Referencia visual prevista:** `t05-23-consejo-de-estado.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-23-oido-o-de-acuerdo.webp` · recurso visual planificado.
 :::
@@ -1248,7 +1268,6 @@ Regla del rango: **rango de ley o reforma constitucional al Pleno; reglamentos y
 :::visual
 **Referencia visual prevista:** `t05-24-consulta-preceptiva.webp` · recurso visual planificado.
 :::
-
 
 <!-- FUENTE: GOB-CONSEJO-ESTADO -->
 
@@ -1311,6 +1330,8 @@ Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero 
 **Referencia visual prevista:** `t05-25-estatuto-alto-cargo.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-25-frontera-alto-cargo.webp` · recurso visual planificado.
 :::
@@ -1342,6 +1363,8 @@ Un **Subdirector General** es órgano directivo y debe ser funcionario A1, pero 
 **Referencia visual prevista:** `t05-25-estatuto-alto-cargo.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-25-frontera-alto-cargo.webp` · recurso visual planificado.
 :::
@@ -1367,7 +1390,6 @@ El Ministro impone la **separación del servicio** por faltas muy graves. Es la 
 :::visual
 **Referencia visual prevista:** `t05-26-ministros-organo-superior.webp` · recurso visual planificado.
 :::
-
 
 <!-- FUENTE: AGE-SUPERIORES -->
 
@@ -1591,7 +1613,6 @@ Las **unidades administrativas se crean por las relaciones de puestos de trabajo
 **Referencia visual prevista:** `t05-30-creacion-de-organos.webp` · recurso visual planificado.
 :::
 
-
 <!-- FUENTE: AGE-ORGANOS -->
 
 <!-- PARTE 8: Administración periférica y sector público institucional -->
@@ -1655,6 +1676,8 @@ En comunidades **uniprovinciales** puede crearse Subdelegación **por real decre
 **Referencia visual prevista:** `t05-31-delegaciones-y-subdelegaciones.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-31-integrados-no-integrados.webp` · recurso visual planificado.
 :::
@@ -1689,6 +1712,8 @@ En comunidades **uniprovinciales** puede crearse Subdelegación **por real decre
 :::visual
 **Referencia visual prevista:** `t05-31-delegaciones-y-subdelegaciones.webp` · recurso visual planificado.
 :::
+
+
 
 :::visual
 **Referencia visual prevista:** `t05-il-31-integrados-no-integrados.webp` · recurso visual planificado.
@@ -1887,6 +1912,8 @@ La entidad pública empresarial se rige por Derecho privado **salvo tres excepci
 **Referencia visual prevista:** `t05-35-organismos-y-entidades.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-35-oa-frente-epe.webp` · recurso visual planificado.
 :::
@@ -1922,6 +1949,8 @@ La entidad pública empresarial se rige por Derecho privado **salvo tres excepci
 **Referencia visual prevista:** `t05-35-organismos-y-entidades.webp` · recurso visual planificado.
 :::
 
+
+
 :::visual
 **Referencia visual prevista:** `t05-il-35-oa-frente-epe.webp` · recurso visual planificado.
 :::
@@ -1933,6 +1962,10 @@ La entidad pública empresarial se rige por Derecho privado **salvo tres excepci
 ## Programa oficial cubierto
 
 **Organización y funcionamiento de la Administración General del Estado: principios de organización, funcionamiento y relaciones con los ciudadanos. Órganos superiores y órganos directivos en la organización central. El Gobierno: composición, organización y funciones.**
+
+:::visual
+**Mapa general previsto:** `t05-00-mapa-general.webp` · visión conjunta de la AGE, el Gobierno, la organización central y la Administración periférica.
+:::
 
 ## Ruta de estudio
 
