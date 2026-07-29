@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 from collections import Counter
@@ -261,6 +262,16 @@ def validate_topic(opposition: str, topic: dict) -> tuple[list[str], list[str]]:
             if target.exists():
                 add(errors, target.suffix.lower() == ".webp", f"{label}: asset no WEBP {resource['file']}")
                 add(errors, target.stat().st_size <= resource["max_bytes"], f"{label}: asset supera límite {resource['file']}")
+    # Dos recursos con el mismo contenido byte a byte significan que uno de
+    # los dos nunca llegó a producirse: se copió el otro con su nombre. El
+    # alumno ve la misma imagen dos veces en el mismo bloque.
+    huellas: dict[str, list[str]] = {}
+    for path in sorted(asset_root.glob("*.webp")):
+        huellas.setdefault(hashlib.sha256(path.read_bytes()).hexdigest(), []).append(path.name)
+    for repetidos in huellas.values():
+        add(errors, len(repetidos) == 1,
+            f"{label}: imágenes idénticas entre sí {sorted(repetidos)}")
+
     actual_webp = {path.name for path in asset_root.glob("*.webp")}
     add(errors, actual_webp <= set(resource_files), f"{label}: hay WEBP no inventariados {sorted(actual_webp - set(resource_files))}")
     integrated = sum(resource["status"] in ACTIVE_ASSET_STATES for resource in assets["resources"])
