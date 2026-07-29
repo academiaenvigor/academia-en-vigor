@@ -5,11 +5,10 @@
   "topic_number": 2,
   "topic_title": "La Constitución Española (I)",
   "id_prefix": "PN-T02",
-  "status": "planned",
+  "status": "ready",
   "bank": "banco-preguntas/policia-nacional/tema-02/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-02/tests-generados",
   "coverage_tests": {
-    "description": "Banco inicial: dos direcciones de pregunta por hecho atómico.",
     "max_questions_per_test": 25,
     "blocks": [
       {
@@ -163,7 +162,7 @@
     ]
   },
   "part_tests": {
-    "questions_per_test": 25,
+    "questions_per_test": 10,
     "variants": [
       {
         "id": "A",
@@ -171,11 +170,7 @@
       },
       {
         "id": "B",
-        "offset": 7
-      },
-      {
-        "id": "C",
-        "offset": 14
+        "offset": 1
       }
     ],
     "parts": [
@@ -262,19 +257,24 @@
   },
   "final_tests": [
     {
-      "variant": "A",
       "questions": 25,
+      "variant": "A",
       "offset": 0
     },
     {
+      "questions": 25,
       "variant": "B",
-      "questions": 50,
-      "offset": 11
+      "offset": 1
     },
     {
-      "variant": "C",
-      "questions": 100,
-      "offset": 23
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
     }
   ]
 }

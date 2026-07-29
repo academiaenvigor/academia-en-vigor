@@ -5,7 +5,7 @@
   "topic_number": 5,
   "topic_title": "Organización y funcionamiento de la Administración General del Estado",
   "id_prefix": "PN-T05",
-  "status": "planned_after_question_bank",
+  "status": "ready",
   "bank": "banco-preguntas/policia-nacional/tema-05/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-05/tests-generados",
   "coverage_tests": {
@@ -153,96 +153,124 @@
       }
     ]
   },
-  "part_tests": [
-    {
-      "number": 1,
-      "title": "La AGE y sus principios",
-      "blocks": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
-    },
-    {
-      "number": 2,
-      "title": "Organización, funcionamiento e intervención",
-      "blocks": [
-        6,
-        7,
-        8,
-        9
-      ]
-    },
-    {
-      "number": 3,
-      "title": "El Gobierno: composición y Presidente",
-      "blocks": [
-        10,
-        11,
-        12,
-        13,
-        14
-      ]
-    },
-    {
-      "number": 4,
-      "title": "Órganos del Gobierno",
-      "blocks": [
-        15,
-        16,
-        17,
-        18,
-        19
-      ]
-    },
-    {
-      "number": 5,
-      "title": "Colaboración, apoyo y consulta",
-      "blocks": [
-        20,
-        21,
-        22,
-        23,
-        24
-      ]
-    },
-    {
-      "number": 6,
-      "title": "Órganos superiores y altos cargos",
-      "blocks": [
-        25,
-        26
-      ]
-    },
-    {
-      "number": 7,
-      "title": "Órganos directivos",
-      "blocks": [
-        27,
-        28,
-        29,
-        30
-      ]
-    },
-    {
-      "number": 8,
-      "title": "Administración periférica y sector público institucional",
-      "blocks": [
-        31,
-        32,
-        33,
-        34,
-        35
-      ]
-    }
-  ],
-  "final_tests": {
-    "sizes": [
-      25,
-      50
+  "part_tests": {
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
     ],
-    "rule": "Muestreo repartido por parte y ponderado por riesgo_examen."
-  }
+    "parts": [
+      {
+        "code": "P1",
+        "title": "La AGE y sus principios",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Organización, funcionamiento e intervención",
+        "blocks": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "El Gobierno: composición y Presidente",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Órganos del Gobierno",
+        "blocks": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Colaboración, apoyo y consulta",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Órganos superiores y altos cargos",
+        "blocks": [
+          25,
+          26
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Órganos directivos",
+        "blocks": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Administración periférica y sector público institucional",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
 }

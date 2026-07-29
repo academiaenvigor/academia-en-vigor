@@ -1,37 +1,23 @@
 # Banco propio · Tema 1
 
-203 preguntas propias sobre 200 hechos atómicos extraídos del
-`master.md` del Tema 1, versión 0.2.0. Cobertura por hechos: 100.0 %.
+349 preguntas propias sobre todos los hechos atómicos del Tema 1,
+versión de conocimiento 0.2.0.
 
-## Archivos
+## Cobertura y calidad
 
-- `preguntas.jsonl` — una pregunta por línea, numeradas de corrido y ordenadas por bloque.
-- `manifest.json` — totales, distribuciones y criterios de generación de tests.
-- `cobertura.json` — hechos atómicos con los identificadores de las preguntas que los cubren.
-  Sustituye al de `conocimiento/policia-nacional/tema-01/`, que estaba en
-  `pending_atomic_fact_extraction` con la lista de hechos vacía.
-
-## Formato de pregunta
-
-Igual que el banco del Tema 3, con un campo añadido:
-
-```json
-"retroalimentacion": {
-  "acierto": { "humor": "...", "explicacion": "..." },
-  "fallo":   { "humor": "...", "explicacion": "..." }
-}
-```
+- Cobertura de hechos: 100 %.
+- Cada hecho de riesgo 5 dispone de al menos dos formulaciones.
+- Reparto de respuestas A/B/C: 116/117/116.
+- Todas las preguntas tienen tres opciones, respuesta única y retroalimentación
+  separada de acierto y fallo.
+- Las preguntas añadidas en la homologación utilizan corrección de errores:
+  presentan una confusión concreta y obligan a sustituirla por la regla correcta.
 
 ## Generación de tests
 
-- Test por bloque: filtrar por `bloque`.
-- Test por puntos: filtrar por `punto`.
-- Test completo de 25 o 50: muestrear repartiendo por `punto` y ponderando por
-  `riesgo_examen`, de modo que los hechos de riesgo 5 aparezcan con más frecuencia.
-
-No hace falta almacenar los tests: se construyen al vuelo desde el banco.
+`evaluaciones/policia-nacional/tema-01/plan.json` define pruebas por bloques de
+un máximo de 25 preguntas, pruebas por partes y finales de 25 y 50 preguntas.
 
 ## Estado
 
-Todas las preguntas están en `estado_revision: "generado_pendiente_revision_editorial"`.
-Tras la revisión, cambiar a `revisado_fuente_oficial`, como en el Tema 3.
+Banco homologado y validado internamente. No publicado para alumnos.

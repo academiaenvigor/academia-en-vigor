@@ -3,65 +3,66 @@
   "content_version": "0.2.0",
   "oposicion": "policia-nacional",
   "tema": 1,
-  "estado": "draft",
+  "estado": "ready",
   "publicacion": "not_published",
-  "total_preguntas": 203,
+  "total_preguntas": 349,
   "total_hechos": 200,
   "hechos_cubiertos": 200,
   "cobertura_por_hechos": 100.0,
   "distribucion_respuestas": {
-    "A": 68,
-    "B": 70,
-    "C": 65
+    "A": 116,
+    "B": 117,
+    "C": 116
   },
   "distribucion_dificultad": {
-    "alta": 112,
+    "alta": 258,
     "baja": 15,
     "media": 76
   },
   "distribucion_tipo": {
     "concepto_aplicado": 35,
+    "correccion_de_error": 146,
     "literal_discriminacion": 122,
     "supuesto_practico": 9,
     "trampa_frecuente": 37
   },
   "preguntas_por_bloque": {
-    "1": 12,
-    "2": 8,
-    "3": 9,
-    "4": 7,
-    "5": 6,
-    "6": 11,
-    "7": 8,
-    "8": 10,
-    "9": 10,
-    "10": 6,
-    "11": 5,
-    "12": 6,
-    "13": 7,
-    "14": 8,
-    "15": 5,
-    "16": 5,
-    "17": 7,
-    "18": 5,
-    "19": 5,
-    "20": 6,
-    "21": 6,
-    "22": 7,
-    "23": 4,
-    "24": 9,
-    "25": 5,
-    "26": 5,
-    "27": 7,
-    "28": 9,
-    "29": 5
+    "1": 15,
+    "2": 13,
+    "3": 15,
+    "4": 10,
+    "5": 10,
+    "6": 13,
+    "7": 12,
+    "8": 16,
+    "9": 18,
+    "10": 10,
+    "11": 9,
+    "12": 10,
+    "13": 14,
+    "14": 16,
+    "15": 8,
+    "16": 9,
+    "17": 13,
+    "18": 10,
+    "19": 10,
+    "20": 12,
+    "21": 10,
+    "22": 14,
+    "23": 8,
+    "24": 16,
+    "25": 10,
+    "26": 10,
+    "27": 13,
+    "28": 16,
+    "29": 9
   },
   "preguntas_por_parte": {
-    "1": 29,
-    "2": 52,
-    "3": 42,
-    "4": 54,
-    "5": 26
+    "1": 43,
+    "2": 79,
+    "3": 76,
+    "4": 103,
+    "5": 48
   },
   "caracter": {
     "propias": 203,
@@ -83,13 +84,10 @@
       50
     ]
   },
-  "publication_gate": "blocked_until_editorial_approval",
+  "publication_gate": "ready_after_editorial_approval",
   "quality_gate": {
-    "status": "blocked",
-    "reasons": [
-      "risk5_second_formulations_pending",
-      "answer_distribution_pending"
-    ],
-    "risk5_second_formulations_pending": 146
+    "status": "passed",
+    "reasons": [],
+    "risk5_second_formulations_pending": 0
   }
 }

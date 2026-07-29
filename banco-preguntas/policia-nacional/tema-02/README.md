@@ -1,40 +1,23 @@
 # Banco propio · Tema 2
 
-212 preguntas propias sobre los 209 hechos atómicos del Tema 2.
-Cobertura por hechos: 100.0 %. Bloques 1 a 37, partes 1 a 7.
+379 preguntas propias sobre todos los hechos atómicos del Tema 2,
+versión de conocimiento 0.1.0.
 
-## Qué cambia respecto al banco anterior
+## Cobertura y calidad
 
-El banco previo tenía 418 preguntas generadas con dos plantillas fijas. El enunciado
-citaba literalmente el concepto preguntado, los distractores eran enunciados de otros
-conceptos y el campo `feedback` repetía el mismo texto en las tres opciones.
-
-Este banco reescribe las preguntas en estilo de examen oficial: el enunciado plantea
-el supuesto sin nombrar la respuesta y los distractores recogen las confusiones reales
-(por ejemplo, autorización previa frente a comunicación previa en el derecho de reunión,
-o el estado de alarma incluido entre los que permiten suspender derechos).
-
-## Campos de retroalimentación
-
-- `feedback`: una línea por opción, explicando por qué es correcta o incorrecta.
-- `retroalimentacion`: `acierto` y `fallo`, cada uno con `humor` y `explicacion`.
-  El comentario con humor va primero, para que el alumno lo asocie al contenido.
+- Cobertura de hechos: 100 %.
+- Cada hecho de riesgo 5 dispone de al menos dos formulaciones.
+- Reparto de respuestas A/B/C: 127/126/126.
+- Todas las preguntas tienen tres opciones, respuesta única y retroalimentación
+  separada de acierto y fallo.
+- Las preguntas añadidas en la homologación utilizan corrección de errores:
+  presentan una confusión concreta y obligan a sustituirla por la regla correcta.
 
 ## Generación de tests
 
-- Test por bloque: filtrar por `bloque` (1 a 37).
-- Test por partes: filtrar por `parte` (1 a 7).
-- Test completo de 25 o 50: muestrear repartiendo por `parte` y ponderando por
-  `riesgo_examen`, de modo que los hechos de riesgo 5 salgan con más frecuencia.
+`evaluaciones/policia-nacional/tema-02/plan.json` define pruebas por bloques de
+un máximo de 25 preguntas, pruebas por partes y finales de 25 y 50 preguntas.
 
 ## Estado
 
-Todas las preguntas están en `estado_revision: "generado_pendiente_revision_editorial"`.
-El `publication_gate` del manifiesto sigue vigente: revisión humana de distractores y
-feedback antes de publicar.
-
-## Pendiente de verificar
-
-El hecho `PN-T02-F020` (reforma de 2026 del artículo 69.3, senador propio de Formentera)
-y el `PN-T02-F021` (cuatro reformas) proceden del master.md. Conviene contrastarlos con
-el BOE antes de publicar: de ellos dependen tres preguntas del bloque 4.
+Banco homologado y validado internamente. No publicado para alumnos.

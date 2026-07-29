@@ -5,11 +5,10 @@
   "topic_number": 1,
   "topic_title": "El Derecho, la persona y la nacionalidad",
   "id_prefix": "PN-T01",
-  "status": "planned_after_question_bank",
+  "status": "ready",
   "bank": "banco-preguntas/policia-nacional/tema-01/preguntas.jsonl",
   "output": "build/evaluaciones/policia-nacional/tema-01/tests-generados",
   "coverage_tests": {
-    "description": "Pendiente de hechos y preguntas",
     "max_questions_per_test": 25,
     "blocks": [
       {
@@ -131,11 +130,20 @@
     ]
   },
   "part_tests": {
-    "questions_per_test": 25,
-    "variants": [],
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
     "parts": [
       {
-        "number": 1,
+        "code": "P1",
         "title": "Derecho y acepciones",
         "blocks": [
           1,
@@ -144,7 +152,7 @@
         ]
       },
       {
-        "number": 2,
+        "code": "P2",
         "title": "Norma, fuentes y eficacia",
         "blocks": [
           4,
@@ -156,7 +164,7 @@
         ]
       },
       {
-        "number": 3,
+        "code": "P3",
         "title": "Persona y capacidad",
         "blocks": [
           10,
@@ -169,7 +177,7 @@
         ]
       },
       {
-        "number": 4,
+        "code": "P4",
         "title": "Nacionalidad",
         "blocks": [
           17,
@@ -184,7 +192,7 @@
         ]
       },
       {
-        "number": 5,
+        "code": "P5",
         "title": "Domicilio y vecindad civil",
         "blocks": [
           26,
@@ -195,5 +203,26 @@
       }
     ]
   },
-  "final_tests": []
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
 }

@@ -4,12 +4,12 @@
   "oposicion": "policia-nacional",
   "topic": "tema-01",
   "tema": 1,
-  "status": "generado_pendiente_revision_editorial",
+  "status": "complete_validated_question_bank",
   "scope": "tema_completo",
   "total_atomic_facts": 200,
   "covered_atomic_facts": 200,
   "coverage_percent": 100.0,
-  "total_questions": 203,
+  "total_questions": 349,
   "requirements": {},
   "facts": [
     {
@@ -176,7 +176,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q009"
+        "PN-T01-Q009",
+        "PN-T01-Q204"
       ],
       "covered": true,
       "anchor_score": 1.0786
@@ -197,7 +198,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q010"
+        "PN-T01-Q010",
+        "PN-T01-Q205"
       ],
       "covered": true,
       "anchor_score": 1.0429
@@ -239,7 +241,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q012"
+        "PN-T01-Q012",
+        "PN-T01-Q206"
       ],
       "covered": true,
       "anchor_score": 0.1979
@@ -260,7 +263,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q013"
+        "PN-T01-Q013",
+        "PN-T01-Q207"
       ],
       "covered": true,
       "anchor_score": 1.0385
@@ -281,7 +285,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q014"
+        "PN-T01-Q014",
+        "PN-T01-Q208"
       ],
       "covered": true,
       "anchor_score": 0.6974
@@ -302,7 +307,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q015"
+        "PN-T01-Q015",
+        "PN-T01-Q209"
       ],
       "covered": true,
       "anchor_score": 0.7437
@@ -323,7 +329,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q016"
+        "PN-T01-Q016",
+        "PN-T01-Q210"
       ],
       "covered": true,
       "anchor_score": 0.6353
@@ -365,7 +372,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q018"
+        "PN-T01-Q018",
+        "PN-T01-Q211"
       ],
       "covered": true,
       "anchor_score": 0.4516
@@ -428,7 +436,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q021"
+        "PN-T01-Q021",
+        "PN-T01-Q212"
       ],
       "covered": true,
       "anchor_score": 0.648
@@ -449,7 +458,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q022"
+        "PN-T01-Q022",
+        "PN-T01-Q213"
       ],
       "covered": true,
       "anchor_score": 0.7543
@@ -533,7 +543,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q026"
+        "PN-T01-Q026",
+        "PN-T01-Q214"
       ],
       "covered": true,
       "anchor_score": 0.6417
@@ -554,7 +565,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q027"
+        "PN-T01-Q027",
+        "PN-T01-Q215"
       ],
       "covered": true,
       "anchor_score": 1.0696
@@ -575,7 +587,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q028"
+        "PN-T01-Q028",
+        "PN-T01-Q216"
       ],
       "covered": true,
       "anchor_score": 1.0957
@@ -596,7 +609,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q029"
+        "PN-T01-Q029",
+        "PN-T01-Q217"
       ],
       "covered": true,
       "anchor_score": 0.7211
@@ -617,7 +631,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q030"
+        "PN-T01-Q030",
+        "PN-T01-Q218"
       ],
       "covered": true,
       "anchor_score": 0.7884
@@ -722,7 +737,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q035"
+        "PN-T01-Q035",
+        "PN-T01-Q219"
       ],
       "covered": true,
       "anchor_score": 1.12
@@ -743,7 +759,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q036"
+        "PN-T01-Q036",
+        "PN-T01-Q220"
       ],
       "covered": true,
       "anchor_score": 1.088
@@ -764,7 +781,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q037"
+        "PN-T01-Q037",
+        "PN-T01-Q221"
       ],
       "covered": true,
       "anchor_score": 0.627
@@ -785,7 +803,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q038"
+        "PN-T01-Q038",
+        "PN-T01-Q222"
       ],
       "covered": true,
       "anchor_score": 1.1143
@@ -806,7 +825,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q039"
+        "PN-T01-Q039",
+        "PN-T01-Q223"
       ],
       "covered": true,
       "anchor_score": 1.1143
@@ -848,7 +868,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q041"
+        "PN-T01-Q041",
+        "PN-T01-Q224"
       ],
       "covered": true,
       "anchor_score": 1.0625
@@ -933,7 +954,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q046"
+        "PN-T01-Q046",
+        "PN-T01-Q225"
       ],
       "covered": true,
       "anchor_score": 1.0632
@@ -954,7 +976,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q047"
+        "PN-T01-Q047",
+        "PN-T01-Q226"
       ],
       "covered": true,
       "anchor_score": 1.2
@@ -1101,7 +1124,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q054"
+        "PN-T01-Q054",
+        "PN-T01-Q227"
       ],
       "covered": true,
       "anchor_score": 0.5855
@@ -1122,7 +1146,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q055"
+        "PN-T01-Q055",
+        "PN-T01-Q228"
       ],
       "covered": true,
       "anchor_score": 0.7467
@@ -1143,7 +1168,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q056"
+        "PN-T01-Q056",
+        "PN-T01-Q229"
       ],
       "covered": true,
       "anchor_score": 1.0533
@@ -1185,7 +1211,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q058"
+        "PN-T01-Q058",
+        "PN-T01-Q230"
       ],
       "covered": true,
       "anchor_score": 1.0533
@@ -1291,7 +1318,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q064"
+        "PN-T01-Q064",
+        "PN-T01-Q231"
       ],
       "covered": true,
       "anchor_score": 1.0875
@@ -1333,7 +1361,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q066"
+        "PN-T01-Q066",
+        "PN-T01-Q232"
       ],
       "covered": true,
       "anchor_score": 0.7939
@@ -1354,7 +1383,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q067"
+        "PN-T01-Q067",
+        "PN-T01-Q233"
       ],
       "covered": true,
       "anchor_score": 1.0861
@@ -1375,7 +1405,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q068"
+        "PN-T01-Q068",
+        "PN-T01-Q234"
       ],
       "covered": true,
       "anchor_score": 1.0846
@@ -1396,7 +1427,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q069"
+        "PN-T01-Q069",
+        "PN-T01-Q235"
       ],
       "covered": true,
       "anchor_score": 1.1077
@@ -1438,7 +1470,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q071"
+        "PN-T01-Q071",
+        "PN-T01-Q236"
       ],
       "covered": true,
       "anchor_score": 1.1158
@@ -1459,7 +1492,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q072"
+        "PN-T01-Q072",
+        "PN-T01-Q237"
       ],
       "covered": true,
       "anchor_score": 1.1077
@@ -1501,7 +1535,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q074"
+        "PN-T01-Q074",
+        "PN-T01-Q238"
       ],
       "covered": true,
       "anchor_score": 1.0476
@@ -1543,7 +1578,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q076"
+        "PN-T01-Q076",
+        "PN-T01-Q239"
       ],
       "covered": true,
       "anchor_score": 1.0667
@@ -1564,7 +1600,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q077"
+        "PN-T01-Q077",
+        "PN-T01-Q240"
       ],
       "covered": true,
       "anchor_score": 0.9462
@@ -1585,7 +1622,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q078"
+        "PN-T01-Q078",
+        "PN-T01-Q241"
       ],
       "covered": true,
       "anchor_score": 0.8115
@@ -1606,7 +1644,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q079"
+        "PN-T01-Q079",
+        "PN-T01-Q242"
       ],
       "covered": true,
       "anchor_score": 0.7674
@@ -1627,7 +1666,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q080"
+        "PN-T01-Q080",
+        "PN-T01-Q243"
       ],
       "covered": true,
       "anchor_score": 0.7844
@@ -1648,7 +1688,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q081"
+        "PN-T01-Q081",
+        "PN-T01-Q244"
       ],
       "covered": true,
       "anchor_score": 0.9994
@@ -1669,7 +1710,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q082"
+        "PN-T01-Q082",
+        "PN-T01-Q245"
       ],
       "covered": true,
       "anchor_score": 1.1217
@@ -1690,7 +1732,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q083"
+        "PN-T01-Q083",
+        "PN-T01-Q246"
       ],
       "covered": true,
       "anchor_score": 0.2087
@@ -1732,7 +1775,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q085"
+        "PN-T01-Q085",
+        "PN-T01-Q247"
       ],
       "covered": true,
       "anchor_score": 1.1039
@@ -1774,7 +1818,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q087"
+        "PN-T01-Q087",
+        "PN-T01-Q248"
       ],
       "covered": true,
       "anchor_score": 0.3594
@@ -1795,7 +1840,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q088"
+        "PN-T01-Q088",
+        "PN-T01-Q249"
       ],
       "covered": true,
       "anchor_score": 0.7731
@@ -1816,7 +1862,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q089"
+        "PN-T01-Q089",
+        "PN-T01-Q250"
       ],
       "covered": true,
       "anchor_score": 1.1294
@@ -1837,7 +1884,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q090"
+        "PN-T01-Q090",
+        "PN-T01-Q251"
       ],
       "covered": true,
       "anchor_score": 1.11
@@ -1858,7 +1906,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q091"
+        "PN-T01-Q091",
+        "PN-T01-Q252"
       ],
       "covered": true,
       "anchor_score": 0.9171
@@ -1900,7 +1949,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q093"
+        "PN-T01-Q093",
+        "PN-T01-Q253"
       ],
       "covered": true,
       "anchor_score": 1.0348
@@ -1942,7 +1992,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q095"
+        "PN-T01-Q095",
+        "PN-T01-Q254"
       ],
       "covered": true,
       "anchor_score": 1.1152
@@ -1963,7 +2014,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q096"
+        "PN-T01-Q096",
+        "PN-T01-Q255"
       ],
       "covered": true,
       "anchor_score": 1.0667
@@ -1984,7 +2036,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q097"
+        "PN-T01-Q097",
+        "PN-T01-Q256"
       ],
       "covered": true,
       "anchor_score": 0.3879
@@ -2026,7 +2079,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q099"
+        "PN-T01-Q099",
+        "PN-T01-Q257"
       ],
       "covered": true,
       "anchor_score": 1.0909
@@ -2047,7 +2101,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q100"
+        "PN-T01-Q100",
+        "PN-T01-Q258"
       ],
       "covered": true,
       "anchor_score": 1.0909
@@ -2068,7 +2123,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q101"
+        "PN-T01-Q101",
+        "PN-T01-Q259"
       ],
       "covered": true,
       "anchor_score": 1.0778
@@ -2089,7 +2145,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q102"
+        "PN-T01-Q102",
+        "PN-T01-Q260"
       ],
       "covered": true,
       "anchor_score": 0.9778
@@ -2110,7 +2167,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q103"
+        "PN-T01-Q103",
+        "PN-T01-Q261"
       ],
       "covered": true,
       "anchor_score": 1.0867
@@ -2131,7 +2189,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q104"
+        "PN-T01-Q104",
+        "PN-T01-Q262"
       ],
       "covered": true,
       "anchor_score": 1.0267
@@ -2152,7 +2211,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q105"
+        "PN-T01-Q105",
+        "PN-T01-Q263"
       ],
       "covered": true,
       "anchor_score": 0.3444
@@ -2173,7 +2233,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q106"
+        "PN-T01-Q106",
+        "PN-T01-Q264"
       ],
       "covered": true,
       "anchor_score": 0.7282
@@ -2194,7 +2255,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q107"
+        "PN-T01-Q107",
+        "PN-T01-Q265"
       ],
       "covered": true,
       "anchor_score": 1.0538
@@ -2215,7 +2277,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q108"
+        "PN-T01-Q108",
+        "PN-T01-Q266"
       ],
       "covered": true,
       "anchor_score": 1.1
@@ -2236,7 +2299,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q109"
+        "PN-T01-Q109",
+        "PN-T01-Q267"
       ],
       "covered": true,
       "anchor_score": 0.9716
@@ -2257,7 +2321,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q110"
+        "PN-T01-Q110",
+        "PN-T01-Q268"
       ],
       "covered": true,
       "anchor_score": 0.9981
@@ -2278,7 +2343,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q111"
+        "PN-T01-Q111",
+        "PN-T01-Q269"
       ],
       "covered": true,
       "anchor_score": 0.9149
@@ -2299,7 +2365,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q112"
+        "PN-T01-Q112",
+        "PN-T01-Q270"
       ],
       "covered": true,
       "anchor_score": 1.1267
@@ -2320,7 +2387,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q113"
+        "PN-T01-Q113",
+        "PN-T01-Q271"
       ],
       "covered": true,
       "anchor_score": 0.6583
@@ -2341,7 +2409,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q114"
+        "PN-T01-Q114",
+        "PN-T01-Q272"
       ],
       "covered": true,
       "anchor_score": 0.7583
@@ -2362,7 +2431,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q115"
+        "PN-T01-Q115",
+        "PN-T01-Q273"
       ],
       "covered": true,
       "anchor_score": 0.8059
@@ -2383,7 +2453,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q116"
+        "PN-T01-Q116",
+        "PN-T01-Q274"
       ],
       "covered": true,
       "anchor_score": 0.8447
@@ -2446,7 +2517,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q119"
+        "PN-T01-Q119",
+        "PN-T01-Q275"
       ],
       "covered": true,
       "anchor_score": 1.2
@@ -2467,7 +2539,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q120"
+        "PN-T01-Q120",
+        "PN-T01-Q276"
       ],
       "covered": true,
       "anchor_score": 1.0446
@@ -2509,7 +2582,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q122"
+        "PN-T01-Q122",
+        "PN-T01-Q277"
       ],
       "covered": true,
       "anchor_score": 0.8043
@@ -2530,7 +2604,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q123"
+        "PN-T01-Q123",
+        "PN-T01-Q278"
       ],
       "covered": true,
       "anchor_score": 1.0541
@@ -2572,7 +2647,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q125"
+        "PN-T01-Q125",
+        "PN-T01-Q279"
       ],
       "covered": true,
       "anchor_score": 0.8386
@@ -2593,7 +2669,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q126"
+        "PN-T01-Q126",
+        "PN-T01-Q280"
       ],
       "covered": true,
       "anchor_score": 1.0519
@@ -2614,7 +2691,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q127"
+        "PN-T01-Q127",
+        "PN-T01-Q281"
       ],
       "covered": true,
       "anchor_score": 1.0741
@@ -2635,7 +2713,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q128"
+        "PN-T01-Q128",
+        "PN-T01-Q282"
       ],
       "covered": true,
       "anchor_score": 0.9832
@@ -2656,7 +2735,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q129"
+        "PN-T01-Q129",
+        "PN-T01-Q283"
       ],
       "covered": true,
       "anchor_score": 1.0889
@@ -2677,7 +2757,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q130"
+        "PN-T01-Q130",
+        "PN-T01-Q284"
       ],
       "covered": true,
       "anchor_score": 0.3153
@@ -2698,7 +2779,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q131"
+        "PN-T01-Q131",
+        "PN-T01-Q285"
       ],
       "covered": true,
       "anchor_score": 0.5806
@@ -2719,7 +2801,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q132"
+        "PN-T01-Q132",
+        "PN-T01-Q286"
       ],
       "covered": true,
       "anchor_score": 0.9797
@@ -2740,7 +2823,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q133"
+        "PN-T01-Q133",
+        "PN-T01-Q287"
       ],
       "covered": true,
       "anchor_score": 0.9317
@@ -2761,7 +2845,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q134"
+        "PN-T01-Q134",
+        "PN-T01-Q288"
       ],
       "covered": true,
       "anchor_score": 0.99
@@ -2782,7 +2867,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q135"
+        "PN-T01-Q135",
+        "PN-T01-Q289"
       ],
       "covered": true,
       "anchor_score": 1.0948
@@ -2803,7 +2889,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q136"
+        "PN-T01-Q136",
+        "PN-T01-Q290"
       ],
       "covered": true,
       "anchor_score": 0.9508
@@ -2824,7 +2911,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q137"
+        "PN-T01-Q137",
+        "PN-T01-Q291"
       ],
       "covered": true,
       "anchor_score": 1.1048
@@ -2845,7 +2933,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q138"
+        "PN-T01-Q138",
+        "PN-T01-Q292"
       ],
       "covered": true,
       "anchor_score": 0.8071
@@ -2866,7 +2955,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q139"
+        "PN-T01-Q139",
+        "PN-T01-Q293"
       ],
       "covered": true,
       "anchor_score": 1.0815
@@ -2887,7 +2977,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q140"
+        "PN-T01-Q140",
+        "PN-T01-Q294"
       ],
       "covered": true,
       "anchor_score": 1.012
@@ -2908,7 +2999,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q141"
+        "PN-T01-Q141",
+        "PN-T01-Q295"
       ],
       "covered": true,
       "anchor_score": 1.1287
@@ -2929,7 +3021,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q142"
+        "PN-T01-Q142",
+        "PN-T01-Q296"
       ],
       "covered": true,
       "anchor_score": 1.039
@@ -2950,7 +3043,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q143"
+        "PN-T01-Q143",
+        "PN-T01-Q297"
       ],
       "covered": true,
       "anchor_score": 0.7793
@@ -2971,7 +3065,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q144"
+        "PN-T01-Q144",
+        "PN-T01-Q298"
       ],
       "covered": true,
       "anchor_score": 1.0341
@@ -2992,7 +3087,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q145"
+        "PN-T01-Q145",
+        "PN-T01-Q299"
       ],
       "covered": true,
       "anchor_score": 0.9074
@@ -3013,7 +3109,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q146"
+        "PN-T01-Q146",
+        "PN-T01-Q300"
       ],
       "covered": true,
       "anchor_score": 1.0889
@@ -3034,7 +3131,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q147"
+        "PN-T01-Q147",
+        "PN-T01-Q301"
       ],
       "covered": true,
       "anchor_score": 0.8318
@@ -3076,7 +3174,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q149"
+        "PN-T01-Q149",
+        "PN-T01-Q302"
       ],
       "covered": true,
       "anchor_score": 0.9288
@@ -3097,7 +3196,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q150"
+        "PN-T01-Q150",
+        "PN-T01-Q303"
       ],
       "covered": true,
       "anchor_score": 0.7721
@@ -3139,7 +3239,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q152"
+        "PN-T01-Q152",
+        "PN-T01-Q304"
       ],
       "covered": true,
       "anchor_score": 1.0617
@@ -3160,7 +3261,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q153"
+        "PN-T01-Q153",
+        "PN-T01-Q305"
       ],
       "covered": true,
       "anchor_score": 0.7543
@@ -3181,7 +3283,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q154"
+        "PN-T01-Q154",
+        "PN-T01-Q306"
       ],
       "covered": true,
       "anchor_score": 1.072
@@ -3202,7 +3305,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q155"
+        "PN-T01-Q155",
+        "PN-T01-Q307"
       ],
       "covered": true,
       "anchor_score": 1.0453
@@ -3223,7 +3327,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q156"
+        "PN-T01-Q156",
+        "PN-T01-Q308"
       ],
       "covered": true,
       "anchor_score": 1.1744
@@ -3244,7 +3349,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q157"
+        "PN-T01-Q157",
+        "PN-T01-Q309"
       ],
       "covered": true,
       "anchor_score": 1.0952
@@ -3265,7 +3371,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q158"
+        "PN-T01-Q158",
+        "PN-T01-Q310"
       ],
       "covered": true,
       "anchor_score": 0.9039
@@ -3286,7 +3393,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q159"
+        "PN-T01-Q159",
+        "PN-T01-Q311"
       ],
       "covered": true,
       "anchor_score": 0.2383
@@ -3307,7 +3415,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q160"
+        "PN-T01-Q160",
+        "PN-T01-Q312"
       ],
       "covered": true,
       "anchor_score": 1.1273
@@ -3328,7 +3437,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q161"
+        "PN-T01-Q161",
+        "PN-T01-Q313"
       ],
       "covered": true,
       "anchor_score": 1.1182
@@ -3349,7 +3459,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q162"
+        "PN-T01-Q162",
+        "PN-T01-Q314"
       ],
       "covered": true,
       "anchor_score": 1.0545
@@ -3370,7 +3481,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q163"
+        "PN-T01-Q163",
+        "PN-T01-Q315"
       ],
       "covered": true,
       "anchor_score": 0.4808
@@ -3391,7 +3503,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q164"
+        "PN-T01-Q164",
+        "PN-T01-Q316"
       ],
       "covered": true,
       "anchor_score": 0.7786
@@ -3412,7 +3525,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q165"
+        "PN-T01-Q165",
+        "PN-T01-Q317"
       ],
       "covered": true,
       "anchor_score": 1.0545
@@ -3433,7 +3547,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q166"
+        "PN-T01-Q166",
+        "PN-T01-Q318"
       ],
       "covered": true,
       "anchor_score": 1.0727
@@ -3454,7 +3569,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q167"
+        "PN-T01-Q167",
+        "PN-T01-Q319"
       ],
       "covered": true,
       "anchor_score": 1.0667
@@ -3517,7 +3633,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q170"
+        "PN-T01-Q170",
+        "PN-T01-Q320"
       ],
       "covered": true,
       "anchor_score": 1.1111
@@ -3538,7 +3655,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q171"
+        "PN-T01-Q171",
+        "PN-T01-Q321"
       ],
       "covered": true,
       "anchor_score": 1.1446
@@ -3559,7 +3677,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q172"
+        "PN-T01-Q172",
+        "PN-T01-Q322"
       ],
       "covered": true,
       "anchor_score": 1.1905
@@ -3580,7 +3699,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q173"
+        "PN-T01-Q173",
+        "PN-T01-Q323"
       ],
       "covered": true,
       "anchor_score": 0.9232
@@ -3601,7 +3721,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q174"
+        "PN-T01-Q174",
+        "PN-T01-Q324"
       ],
       "covered": true,
       "anchor_score": 0.8733
@@ -3622,7 +3743,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q175"
+        "PN-T01-Q175",
+        "PN-T01-Q325"
       ],
       "covered": true,
       "anchor_score": 0.864
@@ -3643,7 +3765,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q176"
+        "PN-T01-Q176",
+        "PN-T01-Q326"
       ],
       "covered": true,
       "anchor_score": 1.0047
@@ -3664,7 +3787,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q177"
+        "PN-T01-Q177",
+        "PN-T01-Q327"
       ],
       "covered": true,
       "anchor_score": 0.8386
@@ -3685,7 +3809,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q178"
+        "PN-T01-Q178",
+        "PN-T01-Q328"
       ],
       "covered": true,
       "anchor_score": 1.1
@@ -3706,7 +3831,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q179"
+        "PN-T01-Q179",
+        "PN-T01-Q329"
       ],
       "covered": true,
       "anchor_score": 1.0875
@@ -3727,7 +3853,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q180"
+        "PN-T01-Q180",
+        "PN-T01-Q330"
       ],
       "covered": true,
       "anchor_score": 1.181
@@ -3748,7 +3875,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q181"
+        "PN-T01-Q181",
+        "PN-T01-Q331"
       ],
       "covered": true,
       "anchor_score": 1.0029
@@ -3769,7 +3897,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q182"
+        "PN-T01-Q182",
+        "PN-T01-Q332"
       ],
       "covered": true,
       "anchor_score": 1.0326
@@ -3790,7 +3919,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q183"
+        "PN-T01-Q183",
+        "PN-T01-Q333"
       ],
       "covered": true,
       "anchor_score": 1.0842
@@ -3811,7 +3941,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q184"
+        "PN-T01-Q184",
+        "PN-T01-Q334"
       ],
       "covered": true,
       "anchor_score": 1.1158
@@ -3832,7 +3963,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q185"
+        "PN-T01-Q185",
+        "PN-T01-Q335"
       ],
       "covered": true,
       "anchor_score": 1.0714
@@ -3853,7 +3985,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q186"
+        "PN-T01-Q186",
+        "PN-T01-Q336"
       ],
       "covered": true,
       "anchor_score": 1.0857
@@ -3874,7 +4007,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q187"
+        "PN-T01-Q187",
+        "PN-T01-Q337"
       ],
       "covered": true,
       "anchor_score": 1.1636
@@ -3916,7 +4050,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q189"
+        "PN-T01-Q189",
+        "PN-T01-Q338"
       ],
       "covered": true,
       "anchor_score": 0.4602
@@ -3937,7 +4072,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q190"
+        "PN-T01-Q190",
+        "PN-T01-Q339"
       ],
       "covered": true,
       "anchor_score": 1.0923
@@ -3979,7 +4115,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q192"
+        "PN-T01-Q192",
+        "PN-T01-Q340"
       ],
       "covered": true,
       "anchor_score": 1.0667
@@ -4000,7 +4137,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q193"
+        "PN-T01-Q193",
+        "PN-T01-Q341"
       ],
       "covered": true,
       "anchor_score": 1.16
@@ -4021,7 +4159,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q194"
+        "PN-T01-Q194",
+        "PN-T01-Q342"
       ],
       "covered": true,
       "anchor_score": 0.9418
@@ -4042,7 +4181,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q195"
+        "PN-T01-Q195",
+        "PN-T01-Q343"
       ],
       "covered": true,
       "anchor_score": 1.0957
@@ -4084,7 +4224,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q197"
+        "PN-T01-Q197",
+        "PN-T01-Q344"
       ],
       "covered": true,
       "anchor_score": 1.0762
@@ -4105,7 +4246,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q198"
+        "PN-T01-Q198",
+        "PN-T01-Q345"
       ],
       "covered": true,
       "anchor_score": 1.1429
@@ -4126,7 +4268,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q199"
+        "PN-T01-Q199",
+        "PN-T01-Q346"
       ],
       "covered": true,
       "anchor_score": 1.1096
@@ -4147,7 +4290,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q200"
+        "PN-T01-Q200",
+        "PN-T01-Q347"
       ],
       "covered": true,
       "anchor_score": 1.0804
@@ -4168,7 +4312,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q201"
+        "PN-T01-Q201",
+        "PN-T01-Q348"
       ],
       "covered": true,
       "anchor_score": 0.9651
@@ -4189,7 +4334,8 @@
       "riesgo_examen": 5,
       "risk": 5,
       "preguntas": [
-        "PN-T01-Q202"
+        "PN-T01-Q202",
+        "PN-T01-Q349"
       ],
       "covered": true,
       "anchor_score": 0.1877
