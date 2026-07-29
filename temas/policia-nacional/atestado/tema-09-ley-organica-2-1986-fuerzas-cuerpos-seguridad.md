@@ -43,12 +43,6 @@ En un dispositivo conjunto pueden intervenir tres niveles administrativos, pero 
 Diferencia siempre competencia exclusiva, mantenimiento, participación y ejecución material.
 :::
 
-<!-- VISUAL:t09-01-mapa-sistema-seguridad.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-09/t09-01-mapa-sistema-seguridad.webp" alt="arquitectura general de la seguridad pública" width="820">
-</p>
-<p align="center"><em>Infografía: arquitectura general de la seguridad pública.</em></p>
-
 <!-- MATERIAL PENDIENTE: t09-p1-audio -->
 <!-- MATERIAL PENDIENTE: t09-p1-video -->
 <!-- MATERIAL PENDIENTE: t09-p1-pres -->

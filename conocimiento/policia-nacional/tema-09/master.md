@@ -16,10 +16,6 @@ La LO 2/1986 parte de una competencia estatal y articula la participación terri
 - Las comunidades autónomas participan en el mantenimiento de la seguridad pública en los términos de sus estatutos y en el marco de la LO 2/1986.
 - Las corporaciones locales participan en el mantenimiento de la seguridad pública conforme a la legislación de régimen local y a la LO 2/1986.
 - El mantenimiento de la seguridad pública se ejerce por las distintas Administraciones públicas a través de las Fuerzas y Cuerpos de Seguridad.
-
-:::visual
-**Referencia visual prevista:** `t09-01-mapa-sistema-seguridad.webp` · arquitectura general de la seguridad pública.
-:::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 La LO 2/1986 parte de una competencia estatal y articula la participación territorial. No confunde participación con titularidad de la competencia.
@@ -41,10 +37,6 @@ En un dispositivo conjunto pueden intervenir tres niveles administrativos, pero 
 
 :::lo-que-cae
 Diferencia siempre competencia exclusiva, mantenimiento, participación y ejecución material.
-:::
-
-:::visual
-**Referencia visual prevista:** `t09-01-mapa-sistema-seguridad.webp` · arquitectura general de la seguridad pública.
 :::
 <!-- ATESTADO END -->
 <!-- BLOCK 01 END -->

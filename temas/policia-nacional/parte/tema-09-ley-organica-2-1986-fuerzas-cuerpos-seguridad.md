@@ -32,12 +32,6 @@ La LO 2/1986 parte de una competencia estatal y articula la participación terri
 - Las corporaciones locales participan en el mantenimiento de la seguridad pública conforme a la legislación de régimen local y a la LO 2/1986.
 - El mantenimiento de la seguridad pública se ejerce por las distintas Administraciones públicas a través de las Fuerzas y Cuerpos de Seguridad.
 
-<!-- VISUAL:t09-01-mapa-sistema-seguridad.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-09/t09-01-mapa-sistema-seguridad.webp" alt="arquitectura general de la seguridad pública" width="820">
-</p>
-<p align="center"><em>Infografía: arquitectura general de la seguridad pública.</em></p>
-
 <!-- MATERIAL PENDIENTE: t09-p1-audio -->
 <!-- MATERIAL PENDIENTE: t09-p1-video -->
 <!-- MATERIAL PENDIENTE: t09-p1-pres -->
