@@ -1,0 +1,952 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-11",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-11",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Potestad sancionadora y reglas comunes",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Procedimientos sancionadores",
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Infracciones leves, graves y muy graves",
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "13"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Sanciones, graduación y prescripción",
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "anchor_blocks": [
+        "22"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Expulsión y devolución",
+      "blocks": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "27"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Denegación de entrada, garantías y repaso operativo",
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "33"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "t11-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Audio · Potestad sancionadora y reglas comunes",
+      "filename": "T11-P1-AUDIO-potestad-sancionadora-y-reglas-comunes.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p01/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Video · Potestad sancionadora y reglas comunes",
+      "filename": "T11-P1-VIDEO-potestad-sancionadora-y-reglas-comunes.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p01/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p1-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Pres · Potestad sancionadora y reglas comunes",
+      "filename": "T11-P1-PRES-potestad-sancionadora-y-reglas-comunes.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p01/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p1-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Resumen · Potestad sancionadora y reglas comunes",
+      "filename": "T11-P1-RESUMEN-potestad-sancionadora-y-reglas-comunes.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p01/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Audio · Procedimientos sancionadores",
+      "filename": "T11-P2-AUDIO-procedimientos-sancionadores.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p02/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Video · Procedimientos sancionadores",
+      "filename": "T11-P2-VIDEO-procedimientos-sancionadores.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p02/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p2-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Pres · Procedimientos sancionadores",
+      "filename": "T11-P2-PRES-procedimientos-sancionadores.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p02/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p2-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Resumen · Procedimientos sancionadores",
+      "filename": "T11-P2-RESUMEN-procedimientos-sancionadores.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p02/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Audio · Infracciones leves, graves y muy graves",
+      "filename": "T11-P3-AUDIO-infracciones-leves,-graves-y-muy-graves.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p03/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Video · Infracciones leves, graves y muy graves",
+      "filename": "T11-P3-VIDEO-infracciones-leves,-graves-y-muy-graves.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p03/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p3-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Pres · Infracciones leves, graves y muy graves",
+      "filename": "T11-P3-PRES-infracciones-leves,-graves-y-muy-graves.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p03/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p3-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "13"
+      ],
+      "title": "Resumen · Infracciones leves, graves y muy graves",
+      "filename": "T11-P3-RESUMEN-infracciones-leves,-graves-y-muy-graves.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p03/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Audio · Sanciones, graduación y prescripción",
+      "filename": "T11-P4-AUDIO-sanciones,-graduacion-y-prescripcion.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p04/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Video · Sanciones, graduación y prescripción",
+      "filename": "T11-P4-VIDEO-sanciones,-graduacion-y-prescripcion.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p04/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p4-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Pres · Sanciones, graduación y prescripción",
+      "filename": "T11-P4-PRES-sanciones,-graduacion-y-prescripcion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p04/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p4-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Resumen · Sanciones, graduación y prescripción",
+      "filename": "T11-P4-RESUMEN-sanciones,-graduacion-y-prescripcion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p04/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "27"
+      ],
+      "title": "Audio · Expulsión y devolución",
+      "filename": "T11-P5-AUDIO-expulsion-y-devolucion.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p05/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "27"
+      ],
+      "title": "Video · Expulsión y devolución",
+      "filename": "T11-P5-VIDEO-expulsion-y-devolucion.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p05/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p5-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "27"
+      ],
+      "title": "Pres · Expulsión y devolución",
+      "filename": "T11-P5-PRES-expulsion-y-devolucion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p05/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p5-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "anchor_blocks": [
+        "27"
+      ],
+      "title": "Resumen · Expulsión y devolución",
+      "filename": "T11-P5-RESUMEN-expulsion-y-devolucion.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p05/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p6-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "title": "Audio · Denegación de entrada, garantías y repaso operativo",
+      "filename": "T11-P6-AUDIO-denegacion-de-entrada,-garantias-y-repaso-operativo.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p06/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p6-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "title": "Video · Denegación de entrada, garantías y repaso operativo",
+      "filename": "T11-P6-VIDEO-denegacion-de-entrada,-garantias-y-repaso-operativo.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p06/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p6-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "title": "Pres · Denegación de entrada, garantías y repaso operativo",
+      "filename": "T11-P6-PRES-denegacion-de-entrada,-garantias-y-repaso-operativo.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p06/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t11-p6-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "33"
+      ],
+      "title": "Resumen · Denegación de entrada, garantías y repaso operativo",
+      "filename": "T11-P6-RESUMEN-denegacion-de-entrada,-garantias-y-repaso-operativo.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-11/p06/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    }
+  ]
+}

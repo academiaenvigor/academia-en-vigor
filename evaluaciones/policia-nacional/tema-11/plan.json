@@ -1,0 +1,279 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 11,
+  "topic_title": "Infracciones y régimen sancionador en materia de extranjería",
+  "id_prefix": "PN-T11",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-11/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-11/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa normativo y alcance del Tema 11"
+      },
+      {
+        "number": 2,
+        "title": "Principios de la potestad sancionadora"
+      },
+      {
+        "number": 3,
+        "title": "Responsables, autores y partícipes"
+      },
+      {
+        "number": 4,
+        "title": "Actuaciones previas e iniciación"
+      },
+      {
+        "number": 5,
+        "title": "Instructor, secretario y órganos competentes"
+      },
+      {
+        "number": 6,
+        "title": "Resolución, motivación y ejecución"
+      },
+      {
+        "number": 7,
+        "title": "Tres modalidades de procedimiento"
+      },
+      {
+        "number": 8,
+        "title": "Procedimiento ordinario: alegaciones y prueba"
+      },
+      {
+        "number": 9,
+        "title": "Procedimiento preferente: supuestos"
+      },
+      {
+        "number": 10,
+        "title": "Procedimiento preferente: garantías y rapidez"
+      },
+      {
+        "number": 11,
+        "title": "Procedimiento simplificado"
+      },
+      {
+        "number": 12,
+        "title": "Concurrencia y solicitudes de residencia"
+      },
+      {
+        "number": 13,
+        "title": "Infracciones leves: deberes documentales y comunicaciones"
+      },
+      {
+        "number": 14,
+        "title": "Infracciones leves: trabajo con residencia temporal"
+      },
+      {
+        "number": 15,
+        "title": "Infracciones graves de la persona extranjera"
+      },
+      {
+        "number": 16,
+        "title": "Seguridad, salidas y documentación como infracciones graves"
+      },
+      {
+        "number": 17,
+        "title": "Infracciones graves de empleadores y particulares"
+      },
+      {
+        "number": 18,
+        "title": "Infracciones muy graves: seguridad, redes y discriminación"
+      },
+      {
+        "number": 19,
+        "title": "Infracciones muy graves: contratación y simulación laboral"
+      },
+      {
+        "number": 20,
+        "title": "Reincidencia muy grave y transportistas"
+      },
+      {
+        "number": 21,
+        "title": "Excepción de protección internacional para transportistas"
+      },
+      {
+        "number": 22,
+        "title": "Multas por nivel de infracción"
+      },
+      {
+        "number": 23,
+        "title": "Sanciones especiales a transportistas"
+      },
+      {
+        "number": 24,
+        "title": "Graduación, capacidad económica y decomiso"
+      },
+      {
+        "number": 25,
+        "title": "Prescripción de infracciones"
+      },
+      {
+        "number": 26,
+        "title": "Prescripción de sanciones y expulsión"
+      },
+      {
+        "number": 27,
+        "title": "Expulsión en lugar de multa"
+      },
+      {
+        "number": 28,
+        "title": "Expulsión por condena y personas protegidas"
+      },
+      {
+        "number": 29,
+        "title": "Efectos de la expulsión y prohibición de entrada"
+      },
+      {
+        "number": 30,
+        "title": "Devolución: dos supuestos y garantías"
+      },
+      {
+        "number": 31,
+        "title": "Procedimiento de expulsión y salida voluntaria"
+      },
+      {
+        "number": 32,
+        "title": "Medidas cautelares e internamiento"
+      },
+      {
+        "number": 33,
+        "title": "Denegación de entrada: resolución y regreso"
+      },
+      {
+        "number": 34,
+        "title": "Demora superior a setenta y dos horas"
+      },
+      {
+        "number": 35,
+        "title": "Comunicaciones y asistencia en frontera"
+      },
+      {
+        "number": 36,
+        "title": "Distinción operativa: denegación, devolución y expulsión"
+      },
+      {
+        "number": 37,
+        "title": "Cuadro maestro de plazos"
+      },
+      {
+        "number": 38,
+        "title": "Errores frecuentes y doctrina de proporcionalidad"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 10,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Potestad sancionadora y reglas comunes",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Procedimientos sancionadores",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Infracciones leves, graves y muy graves",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Sanciones, graduación y prescripción",
+        "blocks": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Expulsión y devolución",
+        "blocks": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Denegación de entrada, garantías y repaso operativo",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
