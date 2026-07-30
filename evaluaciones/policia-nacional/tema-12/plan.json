@@ -1,0 +1,214 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 12,
+  "topic_title": "Protección internacional, acogida, apatridia y personas desplazadas",
+  "id_prefix": "PN-T12",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-12/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-12/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa normativo vigente en 2026"
+      },
+      {
+        "number": 2,
+        "title": "Asilo, refugiado y protección subsidiaria"
+      },
+      {
+        "number": 3,
+        "title": "Condición de refugiado: temor y motivos"
+      },
+      {
+        "number": 4,
+        "title": "Actos y agentes de persecución"
+      },
+      {
+        "number": 5,
+        "title": "Daños graves de la protección subsidiaria"
+      },
+      {
+        "number": 6,
+        "title": "Exclusión, denegación y no devolución"
+      },
+      {
+        "number": 7,
+        "title": "Derecho a solicitar y formalización"
+      },
+      {
+        "number": 8,
+        "title": "Derechos y obligaciones del solicitante"
+      },
+      {
+        "number": 9,
+        "title": "Primacía europea y procedimiento común"
+      },
+      {
+        "number": 10,
+        "title": "Procedimiento fronterizo de asilo"
+      },
+      {
+        "number": 11,
+        "title": "Garantías y examen inicial en frontera"
+      },
+      {
+        "number": 12,
+        "title": "Instrucción, evaluación, archivo y recursos"
+      },
+      {
+        "number": 13,
+        "title": "Régimen general de vulnerabilidad"
+      },
+      {
+        "number": 14,
+        "title": "Menores y el interés superior"
+      },
+      {
+        "number": 15,
+        "title": "Menores no acompañados"
+      },
+      {
+        "number": 16,
+        "title": "Sistema de acogida: finalidad y destinatarios"
+      },
+      {
+        "number": 17,
+        "title": "Tres fases del itinerario"
+      },
+      {
+        "number": 18,
+        "title": "Derechos, deberes y finalización de la acogida"
+      },
+      {
+        "number": 19,
+        "title": "Red de recursos y centros de migraciones"
+      },
+      {
+        "number": 20,
+        "title": "Concepto y reconocimiento de apátrida"
+      },
+      {
+        "number": 21,
+        "title": "Procedimiento y efectos de la apatridia"
+      },
+      {
+        "number": 22,
+        "title": "Protección temporal y personas desplazadas"
+      },
+      {
+        "number": 23,
+        "title": "Contenido y cese de la protección temporal"
+      },
+      {
+        "number": 24,
+        "title": "ACNUR y cooperación institucional"
+      },
+      {
+        "number": 25,
+        "title": "Método de resolución de supuestos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 6,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Sistema y estatutos de protección",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Solicitud y procedimiento vigente",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Menores y personas vulnerables",
+        "blocks": [
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Sistema de acogida y centros",
+        "blocks": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Apatridia y protección temporal",
+        "blocks": [
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Integración operativa y repaso",
+        "blocks": [
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

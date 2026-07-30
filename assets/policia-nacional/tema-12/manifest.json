@@ -1,0 +1,426 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-12",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 24,
+    "integrated": 24,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-30",
+  "resources": [
+    {
+      "id": "PN-T12-DG01",
+      "file": "t12-01-mapa-general.webp",
+      "title": "Mapa general ilustrado de las seis partes del Tema 12",
+      "type": "infografia",
+      "placement": "Mapa del tema",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general ilustrado de las seis partes del Tema 12. Familia compositiva: mapa general.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG02",
+      "file": "t12-02-mapa-normativo-2026.webp",
+      "title": "Pirámide normativa con reglas de primacía y compatibilidad",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Pirámide normativa con reglas de primacía y compatibilidad. Familia compositiva: pirámide normativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG03",
+      "file": "t12-03-dos-estatutos.webp",
+      "title": "Comparación visual entre asilo y protección subsidiaria",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparación visual entre asilo y protección subsidiaria. Familia compositiva: doble carril comparativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG04",
+      "file": "t12-il-01-red-de-persecucion.webp",
+      "title": "Persona rodeada por varias formas dibujadas de persecución y una protección inaccesible",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Persona rodeada por varias formas dibujadas de persecución y una protección inaccesible. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG05",
+      "file": "t12-06-triangulo-danos-graves.webp",
+      "title": "Triángulo didáctico de los tres daños graves",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Triángulo didáctico de los tres daños graves. Familia compositiva: triángulo conceptual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG06",
+      "file": "t12-07-tres-filtros.webp",
+      "title": "Tres filtros diferenciados: exclusión, denegación y no devolución",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres filtros diferenciados: exclusión, denegación y no devolución. Familia compositiva: filtros secuenciales.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG07",
+      "file": "t12-il-02-primera-escucha.webp",
+      "title": "Escena dibujada de primera escucha con intérprete y carpeta de solicitud",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena dibujada de primera escucha con intérprete y carpeta de solicitud. Familia compositiva: escena humana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG08",
+      "file": "t12-09-balanza-derechos-deberes.webp",
+      "title": "Balanza con derechos del solicitante y deberes de cooperación",
+      "type": "infografia",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Balanza con derechos del solicitante y deberes de cooperación. Familia compositiva: balanza informativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG09",
+      "file": "t12-10-puente-2025-2026.webp",
+      "title": "Puente temporal entre el régimen anterior y la aplicación plena en 2026",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Puente temporal entre el régimen anterior y la aplicación plena en 2026. Familia compositiva: línea de cambio normativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG10",
+      "file": "t12-11-cuatro-accesos-frontera.webp",
+      "title": "Cuatro accesos didácticos al procedimiento fronterizo",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Cuatro accesos didácticos al procedimiento fronterizo. Familia compositiva: mapa de accesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG11",
+      "file": "t12-12-reloj-con-garantias.webp",
+      "title": "Reloj procedimental rodeado de abogado, ACNUR, entrevista y resolución",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Reloj procedimental rodeado de abogado, ACNUR, entrevista y resolución. Familia compositiva: cronología garantista.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG12",
+      "file": "t12-il-03-expediente-protegido.webp",
+      "title": "Expediente protegido de miradas externas durante la evaluación",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Expediente protegido de miradas externas durante la evaluación. Familia compositiva: metáfora documental.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG13",
+      "file": "t12-14-radar-vulnerabilidad.webp",
+      "title": "Radar de necesidades específicas y respuestas de apoyo",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Radar de necesidades específicas y respuestas de apoyo. Familia compositiva: radar de detección.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG14",
+      "file": "t12-il-04-brujula-del-menor.webp",
+      "title": "Menor acompañado por una brújula protectora en un cruce de decisiones",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Menor acompañado por una brújula protectora en un cruce de decisiones. Familia compositiva: metáfora dibujada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG15",
+      "file": "t12-16-triangulo-mena.webp",
+      "title": "Triángulo de protección, Ministerio Fiscal y representación",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Triángulo de protección, Ministerio Fiscal y representación. Familia compositiva: triángulo operativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG16",
+      "file": "t12-17-itinerario-acogida.webp",
+      "title": "Itinerario completo de acogida desde la valoración hasta la autonomía",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Itinerario completo de acogida desde la valoración hasta la autonomía. Familia compositiva: ruta por fases.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG17",
+      "file": "t12-18-tres-fases-sapi.webp",
+      "title": "Tres estaciones del itinerario SAPI con prestaciones de cada fase",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres estaciones del itinerario SAPI con prestaciones de cada fase. Familia compositiva: línea de estaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG18",
+      "file": "t12-il-05-red-de-recursos.webp",
+      "title": "Mapa dibujado de CAR, vivienda y recurso especializado conectados",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa dibujado de CAR, vivienda y recurso especializado conectados. Familia compositiva: paisaje de red.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG19",
+      "file": "t12-21-apatridia-no-indocumentacion.webp",
+      "title": "Comparación entre apatridia e indocumentación",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparación entre apatridia e indocumentación. Familia compositiva: comparativa de conceptos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG20",
+      "file": "t12-22-ruta-apatridia.webp",
+      "title": "Ruta del expediente de apatridia desde inicio hasta resolución",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ruta del expediente de apatridia desde inicio hasta resolución. Familia compositiva: flujo procedimental.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG21",
+      "file": "t12-23-doble-via-temporal-asilo.webp",
+      "title": "Doble vía compatible entre protección temporal y solicitud individual",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Doble vía compatible entre protección temporal y solicitud individual. Familia compositiva: doble ruta.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG22",
+      "file": "t12-il-06-maleta-de-derechos.webp",
+      "title": "Familia desplazada con una maleta dibujada que contiene derechos básicos",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 23",
+      "status": "integrated_webp",
+      "block": 23,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Familia desplazada con una maleta dibujada que contiene derechos básicos. Familia compositiva: metáfora humana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG23",
+      "file": "t12-25-mesa-institucional.webp",
+      "title": "Mesa institucional con OAR, CIAR, Ministerio y ACNUR y sus verbos",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mesa institucional con OAR, CIAR, Ministerio y ACNUR y sus verbos. Familia compositiva: organigrama funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T12-DG24",
+      "file": "t12-26-tablero-cinco-casillas.webp",
+      "title": "Tablero de decisión con cinco casillas para resolver supuestos",
+      "type": "infografia",
+      "placement": "Bloque 25",
+      "status": "integrated_webp",
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tablero de decisión con cinco casillas para resolver supuestos. Familia compositiva: tablero operativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}

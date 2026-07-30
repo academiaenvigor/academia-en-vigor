@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0.0",
-  "checked_at": "2026-07-29",
+  "checked_at": "2026-07-30",
   "sources": [
     {
       "id": "AGE-ALTOS-CARGOS",
@@ -315,6 +315,15 @@
       "traceable": true
     },
     {
+      "id": "CONV1951-T12",
+      "title": "Convención de Ginebra de 1951 y Protocolo de 1967",
+      "boe_id": "BOE-A-1978-26331",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1978-26331",
+      "scope": "definición internacional y no devolución",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COOP-EUROPOL",
       "title": "Reglamento (UE) 2016/794 sobre Europol",
       "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0794",
@@ -538,6 +547,24 @@
       ]
     },
     {
+      "id": "INS11-2026-T12",
+      "title": "Instrucción de 11 de junio de 2026: aplicación del Pacto Europeo",
+      "boe_id": "BOE-A-2026-12855",
+      "url": "https://www.boe.es/eli/es/ins/2026/06/11/(1)",
+      "scope": "puente procedimental desde el 12 de junio de 2026",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "L12-2009-T12",
+      "title": "Ley 12/2009: asilo y protección subsidiaria",
+      "boe_id": "BOE-A-2009-17242",
+      "url": "https://www.boe.es/eli/es/l/2009/10/30/12/con",
+      "scope": "estatutos, garantías, procedimiento nacional compatible y personas vulnerables",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "L3-2015",
       "title": "Ley 3/2015, reguladora del ejercicio del alto cargo de la AGE",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3444",
@@ -547,6 +574,15 @@
       "derived_from": []
     },
     {
+      "id": "L39-2015-T11",
+      "title": "Ley 39/2015: procedimiento administrativo común",
+      "boe_id": "BOE-A-2015-10565",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+      "scope": "principios y reglas procedimentales",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "L40-2015",
       "title": "Ley 40/2015, de Régimen Jurídico del Sector Público",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
@@ -554,6 +590,15 @@
       "official": true,
       "traceable": true,
       "derived_from": []
+    },
+    {
+      "id": "L5-2014-T13",
+      "title": "Ley 5/2014, de Seguridad Privada",
+      "boe_id": "BOE-A-2014-3649",
+      "url": "https://www.boe.es/eli/es/l/2014/04/04/5/con",
+      "scope": "marco completo del epígrafe oficial",
+      "official": true,
+      "traceable": true
     },
     {
       "id": "L50-1997",
@@ -619,11 +664,29 @@
       "traceable": true
     },
     {
+      "id": "LO4-2000-T11",
+      "title": "Ley Orgánica 4/2000: régimen sancionador de extranjería",
+      "boe_id": "BOE-A-2000-544",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544&p=20250319&tn=1",
+      "scope": "título III, arts. 50 a 66",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LO4-2010-T08",
       "title": "Ley Orgánica 4/2010, del régimen disciplinario del Cuerpo Nacional de Policía",
       "boe_id": "BOE-A-2010-8115",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-8115",
       "scope": "clasificación de faltas, sanciones, competencia y prescripción",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LO4-2015-T11",
+      "title": "Ley Orgánica 4/2015: protección de la seguridad ciudadana",
+      "boe_id": "BOE-A-2015-3442",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+      "scope": "contexto vigente de remisiones históricas",
       "official": true,
       "traceable": true
     },
@@ -716,11 +779,83 @@
       "traceable": true
     },
     {
+      "id": "OINT314-2011-T13",
+      "title": "Orden INT/314/2011, sobre empresas de seguridad privada",
+      "boe_id": "BOE-A-2011-3168",
+      "url": "https://www.boe.es/eli/es/o/2011/02/01/int314/con",
+      "scope": "autorización, funcionamiento y obligaciones empresariales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OINT316-2011-T13",
+      "title": "Orden INT/316/2011, sobre sistemas de alarma",
+      "boe_id": "BOE-A-2011-3170",
+      "url": "https://www.boe.es/eli/es/o/2011/02/01/int316/con",
+      "scope": "funcionamiento, verificación y comunicación de alarmas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OINT317-2011-T13",
+      "title": "Orden INT/317/2011, sobre medidas de seguridad privada",
+      "boe_id": "BOE-A-2011-3171",
+      "url": "https://www.boe.es/eli/es/o/2011/02/01/int317/con",
+      "scope": "medidas en establecimientos obligados",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OINT318-2011-T13",
+      "title": "Orden INT/318/2011, sobre personal de seguridad privada",
+      "boe_id": "BOE-A-2011-3172",
+      "url": "https://www.boe.es/eli/es/o/2011/02/01/int318/con",
+      "scope": "habilitación, formación y documentación profesional",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RD1155-2024-T10",
       "title": "Real Decreto 1155/2024: Reglamento de extranjería",
       "boe_id": "BOE-A-2024-24099",
       "url": "https://www.boe.es/eli/es/rd/2024/11/19/1155/",
       "scope": "entrada, salida, estancia, residencia y documentación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD1155-2024-T11",
+      "title": "Real Decreto 1155/2024: procedimientos sancionadores",
+      "boe_id": "BOE-A-2024-24099",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099&p=20260416&tn=1",
+      "scope": "título XIV, arts. 215 a 254",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD1325-2003-T12",
+      "title": "Real Decreto 1325/2003: protección temporal",
+      "boe_id": "BOE-A-2003-19714",
+      "url": "https://www.boe.es/eli/es/rd/2003/10/24/1325/con",
+      "scope": "afluencia masiva de personas desplazadas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD220-2022-T12",
+      "title": "Real Decreto 220/2022: sistema de acogida",
+      "boe_id": "BOE-A-2022-4978",
+      "url": "https://www.boe.es/eli/es/rd/2022/03/29/220/con",
+      "scope": "itinerario, fases, recursos, derechos y deberes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD2364-1994-T13",
+      "title": "Reglamento de Seguridad Privada de 1994",
+      "boe_id": "BOE-A-1995-608",
+      "url": "https://www.boe.es/eli/es/rd/1994/12/09/2364/con",
+      "scope": "preceptos reglamentarios subsistentes compatibles",
       "official": true,
       "traceable": true
     },
@@ -739,6 +874,15 @@
       "boe_id": "BOE-A-1998-29722",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-29722",
       "scope": "artículos 2-8",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD316-2026-T11",
+      "title": "Real Decreto 316/2026: modificación del Reglamento de extranjería",
+      "boe_id": "BOE-A-2026-8284",
+      "url": "https://www.boe.es/eli/es/rd/2026/04/14/316",
+      "scope": "control de vigencia; título XIV no modificado",
       "official": true,
       "traceable": true
     },
@@ -770,6 +914,42 @@
       "traceable": true
     },
     {
+      "id": "RD865-2001-T12",
+      "title": "Real Decreto 865/2001: estatuto de apátrida",
+      "boe_id": "BOE-A-2001-14166",
+      "url": "https://www.boe.es/eli/es/rd/2001/07/20/865/con",
+      "scope": "solicitud, instrucción, resolución y efectos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RUE1348-2024-T12",
+      "title": "Reglamento (UE) 2024/1348: procedimiento común de protección internacional",
+      "boe_id": "DOUE-L-2024-80739",
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80739",
+      "scope": "procedimientos de examen, fronterizo, inadmisión y recursos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RUE1351-2024-T12",
+      "title": "Reglamento (UE) 2024/1351: gestión del asilo y la migración",
+      "boe_id": "DOUE-L-2024-80742",
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80742",
+      "scope": "Estado responsable y solidaridad",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RUE1356-2024-T12",
+      "title": "Reglamento (UE) 2024/1356: triaje en fronteras exteriores",
+      "boe_id": "DOUE-L-2024-80747",
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80747",
+      "scope": "triaje previo cuando proceda",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RUE2016-399-T10",
       "title": "Reglamento (UE) 2016/399: Código de fronteras Schengen",
       "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0399",
@@ -782,6 +962,15 @@
       "title": "Reglamento (UE) 2018/1806: listas de terceros países sujetos o exentos de visado",
       "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32018R1806",
       "scope": "exigencia de visado para estancias cortas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "STC17-2013-T11",
+      "title": "Sentencia del Tribunal Constitucional 17/2013",
+      "boe_id": "BOE-A-2013-2167",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2167",
+      "scope": "nulidad de prohibición de entrada automática en devolución",
       "official": true,
       "traceable": true
     },

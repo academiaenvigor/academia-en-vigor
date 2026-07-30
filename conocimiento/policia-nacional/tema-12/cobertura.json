@@ -1,0 +1,2199 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "topic": "tema-12",
+  "tema": 12,
+  "status": "complete_validated_question_bank",
+  "scope": {
+    "blocks_completed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "master_statements_total": 75,
+    "atomic_facts_extracted": 75,
+    "remaining_blocks": []
+  },
+  "total_atomic_facts": 75,
+  "covered_atomic_facts": 75,
+  "coverage_percent": 100.0,
+  "total_questions": 150,
+  "requirements": {},
+  "facts": [
+    {
+      "id": "PN-T12-F001",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 1,
+      "bloque_titulo": "Mapa normativo vigente en 2026",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 1,
+      "enunciado_atomico": "El Tema 12 oficial comprende protección internacional, procedimiento, personas vulnerables, centros de acogida, apatridia y personas desplazadas.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q001",
+        "PN-T12-Q002"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F002",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 1,
+      "bloque_titulo": "Mapa normativo vigente en 2026",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 1,
+      "enunciado_atomico": "Los reglamentos de la Unión son obligatorios en todos sus elementos y directamente aplicables.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q003",
+        "PN-T12-Q004"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F003",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 1,
+      "bloque_titulo": "Mapa normativo vigente en 2026",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 1,
+      "enunciado_atomico": "La Ley 12/2009 se aplica en 2026 en la medida en que sea compatible con el Derecho de la Unión directamente aplicable.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q005",
+        "PN-T12-Q006"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F004",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 2,
+      "bloque_titulo": "Asilo, refugiado y protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 2,
+      "enunciado_atomico": "El derecho de asilo es la protección dispensada a quien obtiene la condición de refugiado.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q007",
+        "PN-T12-Q008"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F005",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 2,
+      "bloque_titulo": "Asilo, refugiado y protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 2,
+      "enunciado_atomico": "La protección subsidiaria exige un riesgo real de daños graves y que no concurra causa de exclusión o denegación.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q009",
+        "PN-T12-Q010"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F006",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 2,
+      "bloque_titulo": "Asilo, refugiado y protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 2,
+      "enunciado_atomico": "Asilo y protección subsidiaria integran la protección internacional, pero responden a presupuestos jurídicos distintos.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q011",
+        "PN-T12-Q012"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F007",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 3,
+      "bloque_titulo": "Condición de refugiado: temor y motivos",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 3,
+      "enunciado_atomico": "La condición de refugiado exige fundados temores de persecución relacionados con alguno de los motivos protegidos.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q013",
+        "PN-T12-Q014"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F008",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 3,
+      "bloque_titulo": "Condición de refugiado: temor y motivos",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 3,
+      "enunciado_atomico": "La persecución puede vincularse a raza, religión, nacionalidad, opiniones políticas o pertenencia a determinado grupo social.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q015",
+        "PN-T12-Q016"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F009",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 3,
+      "bloque_titulo": "Condición de refugiado: temor y motivos",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 3,
+      "enunciado_atomico": "También puede ser refugiado el apátrida que no pueda o no quiera regresar a su anterior residencia habitual por esos temores.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q017",
+        "PN-T12-Q018"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F010",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 4,
+      "bloque_titulo": "Actos y agentes de persecución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 4,
+      "enunciado_atomico": "Los actos de persecución pueden consistir en violencia, medidas discriminatorias o procesamientos desproporcionados.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q019",
+        "PN-T12-Q020"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F011",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 4,
+      "bloque_titulo": "Actos y agentes de persecución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 4,
+      "enunciado_atomico": "Una acumulación suficientemente grave de medidas puede equivaler a una violación grave de derechos.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q021",
+        "PN-T12-Q022"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F012",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 4,
+      "bloque_titulo": "Actos y agentes de persecución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 4,
+      "enunciado_atomico": "Los agentes no estatales pueden causar persecución cuando el Estado u otros agentes de protección no puedan o no quieran brindar protección efectiva.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q023",
+        "PN-T12-Q024"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F013",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 5,
+      "bloque_titulo": "Daños graves de la protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 5,
+      "enunciado_atomico": "La condena a pena de muerte o el riesgo de su ejecución es un daño grave.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q025",
+        "PN-T12-Q026"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F014",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 5,
+      "bloque_titulo": "Daños graves de la protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 5,
+      "enunciado_atomico": "La tortura y los tratos inhumanos o degradantes en el país de origen son daños graves.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q027",
+        "PN-T12-Q028"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F015",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 5,
+      "bloque_titulo": "Daños graves de la protección subsidiaria",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 5,
+      "enunciado_atomico": "La amenaza grave contra la vida o integridad de civiles por violencia indiscriminada en conflicto puede constituir daño grave.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q029",
+        "PN-T12-Q030"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F016",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 6,
+      "bloque_titulo": "Exclusión, denegación y no devolución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 6,
+      "enunciado_atomico": "La exclusión del asilo puede fundarse en delitos contra la paz, de guerra o contra la humanidad.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q031",
+        "PN-T12-Q032"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F017",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 6,
+      "bloque_titulo": "Exclusión, denegación y no devolución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 6,
+      "enunciado_atomico": "El asilo se deniega a quien constituya por razones fundadas un peligro para la seguridad de España.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q033",
+        "PN-T12-Q034"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F018",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 6,
+      "bloque_titulo": "Exclusión, denegación y no devolución",
+      "parte": 1,
+      "parte_titulo": "Sistema y estatutos de protección",
+      "punto": 6,
+      "enunciado_atomico": "La no devolución protege frente al traslado al territorio donde la vida o la libertad quedarían amenazadas, con el alcance y excepciones del régimen aplicable.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q035",
+        "PN-T12-Q036"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F019",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 7,
+      "bloque_titulo": "Derecho a solicitar y formalización",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 7,
+      "enunciado_atomico": "Las personas nacionales no comunitarias y las apátridas presentes en España tienen derecho a solicitar protección internacional.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q037",
+        "PN-T12-Q038"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F020",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 7,
+      "bloque_titulo": "Derecho a solicitar y formalización",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 7,
+      "enunciado_atomico": "La solicitud se formaliza mediante comparecencia personal y entrevista individual, salvo imposibilidad prevista legalmente.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q039",
+        "PN-T12-Q040"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F021",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 7,
+      "bloque_titulo": "Derecho a solicitar y formalización",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 7,
+      "enunciado_atomico": "La falta de documentos de identidad no impide por sí sola formular la solicitud, aunque debe explicarse y aportarse lo disponible.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q041",
+        "PN-T12-Q042"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F022",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 8,
+      "bloque_titulo": "Derechos y obligaciones del solicitante",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 8,
+      "enunciado_atomico": "El solicitante tiene derecho a asistencia jurídica y a intérprete en los términos previstos.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q043",
+        "PN-T12-Q044"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F023",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 8,
+      "bloque_titulo": "Derechos y obligaciones del solicitante",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 8,
+      "enunciado_atomico": "La presentación de la solicitud suspende, con los límites legales, procesos de devolución, expulsión o extradición que pudieran afectar al solicitante.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q045",
+        "PN-T12-Q046"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F024",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 8,
+      "bloque_titulo": "Derechos y obligaciones del solicitante",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 8,
+      "enunciado_atomico": "El solicitante debe cooperar con las autoridades y proporcionar cuanto antes la información relevante.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q047",
+        "PN-T12-Q048"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F025",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 9,
+      "bloque_titulo": "Primacía europea y procedimiento común",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 9,
+      "enunciado_atomico": "El Reglamento (UE) 2024/1348 establece un procedimiento común de protección internacional.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q049",
+        "PN-T12-Q050"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F026",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 9,
+      "bloque_titulo": "Primacía europea y procedimiento común",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 9,
+      "enunciado_atomico": "La primacía exige no aplicar una norma nacional incompatible con una disposición europea de efecto directo.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q051",
+        "PN-T12-Q052"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F027",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 9,
+      "bloque_titulo": "Primacía europea y procedimiento común",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 9,
+      "enunciado_atomico": "La Instrucción de 11 de junio de 2026 se aplica desde el 12 de junio de 2026.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q053",
+        "PN-T12-Q054"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F028",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 10,
+      "bloque_titulo": "Procedimiento fronterizo de asilo",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 10,
+      "enunciado_atomico": "El procedimiento fronterizo puede seguir a una solicitud formulada en un puesto fronterizo de entrada.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q055",
+        "PN-T12-Q056"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F029",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 10,
+      "bloque_titulo": "Procedimiento fronterizo de asilo",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 10,
+      "enunciado_atomico": "También puede aplicarse tras aprehensión relacionada con cruce no autorizado o desembarco después de búsqueda y rescate.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q057",
+        "PN-T12-Q058"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F030",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 10,
+      "bloque_titulo": "Procedimiento fronterizo de asilo",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 10,
+      "enunciado_atomico": "Cuando proceda, el triaje del Reglamento (UE) 2024/1356 precede al procedimiento fronterizo.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q059",
+        "PN-T12-Q060"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F031",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 11,
+      "bloque_titulo": "Garantías y examen inicial en frontera",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 11,
+      "enunciado_atomico": "La asistencia jurídica es preceptiva en la formalización y durante el procedimiento fronterizo administrativo.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q061",
+        "PN-T12-Q062"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F032",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 11,
+      "bloque_titulo": "Garantías y examen inicial en frontera",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 11,
+      "enunciado_atomico": "Con consentimiento previo del solicitante, ACNUR puede acceder a la solicitud y ser oído antes de determinadas resoluciones.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q063",
+        "PN-T12-Q064"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F033",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 11,
+      "bloque_titulo": "Garantías y examen inicial en frontera",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 11,
+      "enunciado_atomico": "El examen inicial comprueba causas de inadmisión y determinados supuestos de desestimación previstos en el Reglamento 2024/1348.",
+      "fuente": "INS11-2026-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q065",
+        "PN-T12-Q066"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F034",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 12,
+      "bloque_titulo": "Instrucción, evaluación, archivo y recursos",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 12,
+      "enunciado_atomico": "La evaluación no debe informar a los responsables de la persecución de que la persona ha solicitado protección.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q067",
+        "PN-T12-Q068"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F035",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 12,
+      "bloque_titulo": "Instrucción, evaluación, archivo y recursos",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 12,
+      "enunciado_atomico": "Para una resolución favorable pueden bastar indicios suficientes de persecución o daños graves conforme a la Ley 12/2009.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q069",
+        "PN-T12-Q070"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F036",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 12,
+      "bloque_titulo": "Instrucción, evaluación, archivo y recursos",
+      "parte": 2,
+      "parte_titulo": "Solicitud y procedimiento vigente",
+      "punto": 12,
+      "enunciado_atomico": "La resolución debe informar del recurso y del órgano jurisdiccional competente.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q071",
+        "PN-T12-Q072"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F037",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 13,
+      "bloque_titulo": "Régimen general de vulnerabilidad",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 13,
+      "enunciado_atomico": "La situación de vulnerabilidad exige un tratamiento diferenciado cuando resulte necesario.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q073",
+        "PN-T12-Q074"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F038",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 13,
+      "bloque_titulo": "Régimen general de vulnerabilidad",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 13,
+      "enunciado_atomico": "La evaluación debe identificar necesidades específicas de acogida y de procedimiento.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q075",
+        "PN-T12-Q076"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F039",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 13,
+      "bloque_titulo": "Régimen general de vulnerabilidad",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 13,
+      "enunciado_atomico": "Las víctimas de trata, tortura o violencia grave pueden requerir atención especializada.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q077",
+        "PN-T12-Q078"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F040",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 14,
+      "bloque_titulo": "Menores y el interés superior",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 14,
+      "enunciado_atomico": "El interés superior del menor es consideración primordial en las decisiones que le afecten.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q079",
+        "PN-T12-Q080"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F041",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 14,
+      "bloque_titulo": "Menores y el interés superior",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 14,
+      "enunciado_atomico": "La información debe adaptarse a la edad y madurez del menor.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q081",
+        "PN-T12-Q082"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F042",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 14,
+      "bloque_titulo": "Menores y el interés superior",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 14,
+      "enunciado_atomico": "La unidad familiar y la seguridad del menor deben considerarse al asignar recursos.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q083",
+        "PN-T12-Q084"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F043",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 15,
+      "bloque_titulo": "Menores no acompañados",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 15,
+      "enunciado_atomico": "El menor no acompañado solicitante de protección internacional se remite a los servicios competentes de protección de menores.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q085",
+        "PN-T12-Q086"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F044",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 15,
+      "bloque_titulo": "Menores no acompañados",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 15,
+      "enunciado_atomico": "El hecho se pone en conocimiento del Ministerio Fiscal.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q087",
+        "PN-T12-Q088"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F045",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 15,
+      "bloque_titulo": "Menores no acompañados",
+      "parte": 3,
+      "parte_titulo": "Menores y personas vulnerables",
+      "punto": 15,
+      "enunciado_atomico": "La representación y asistencia deben permitir que el menor participe efectivamente en el procedimiento.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q089",
+        "PN-T12-Q090"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F046",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 16,
+      "bloque_titulo": "Sistema de acogida: finalidad y destinatarios",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 16,
+      "enunciado_atomico": "El sistema de acogida atiende a personas solicitantes y beneficiarias incluidas en su ámbito subjetivo.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q091",
+        "PN-T12-Q092"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F047",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 16,
+      "bloque_titulo": "Sistema de acogida: finalidad y destinatarios",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 16,
+      "enunciado_atomico": "La acogida se organiza como un itinerario adaptado a la situación y necesidades de la persona.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q093",
+        "PN-T12-Q094"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F048",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 16,
+      "bloque_titulo": "Sistema de acogida: finalidad y destinatarios",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 16,
+      "enunciado_atomico": "La carencia de recursos económicos es relevante para acceder a las condiciones materiales de acogida.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q095",
+        "PN-T12-Q096"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F049",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 17,
+      "bloque_titulo": "Tres fases del itinerario",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 17,
+      "enunciado_atomico": "La valoración inicial identifica perfil, vulnerabilidades y recurso adecuado.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q097",
+        "PN-T12-Q098"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F050",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 17,
+      "bloque_titulo": "Tres fases del itinerario",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 17,
+      "enunciado_atomico": "La fase de acogida proporciona alojamiento y actuaciones de atención integral.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q099",
+        "PN-T12-Q100"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F051",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 17,
+      "bloque_titulo": "Tres fases del itinerario",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 17,
+      "enunciado_atomico": "La fase de autonomía apoya la salida progresiva del recurso y la vida independiente.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q101",
+        "PN-T12-Q102"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F052",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 18,
+      "bloque_titulo": "Derechos, deberes y finalización de la acogida",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 18,
+      "enunciado_atomico": "La persona destinataria tiene derecho a información comprensible sobre condiciones, derechos, deberes y causas de reducción o retirada.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q103",
+        "PN-T12-Q104"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F053",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 18,
+      "bloque_titulo": "Derechos, deberes y finalización de la acogida",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 18,
+      "enunciado_atomico": "La persona destinataria debe respetar las normas de funcionamiento y cooperar cuando sea requerida.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q105",
+        "PN-T12-Q106"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F054",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 18,
+      "bloque_titulo": "Derechos, deberes y finalización de la acogida",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 18,
+      "enunciado_atomico": "La reducción o retirada de condiciones de acogida debe apoyarse en causas y procedimiento reglamentarios.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q107",
+        "PN-T12-Q108"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F055",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 19,
+      "bloque_titulo": "Red de recursos y centros de migraciones",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 19,
+      "enunciado_atomico": "Los Centros de Acogida a Refugiados forman parte de la red pública de centros de migraciones.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q109",
+        "PN-T12-Q110"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F056",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 19,
+      "bloque_titulo": "Red de recursos y centros de migraciones",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 19,
+      "enunciado_atomico": "Los recursos pueden ser de alojamiento colectivo, viviendas u otras modalidades previstas por el sistema.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q111",
+        "PN-T12-Q112"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F057",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 19,
+      "bloque_titulo": "Red de recursos y centros de migraciones",
+      "parte": 4,
+      "parte_titulo": "Sistema de acogida y centros",
+      "punto": 19,
+      "enunciado_atomico": "La asignación debe considerar disponibilidad, perfil y necesidades específicas.",
+      "fuente": "RD220-2022-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q113",
+        "PN-T12-Q114"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F058",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 20,
+      "bloque_titulo": "Concepto y reconocimiento de apátrida",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 20,
+      "enunciado_atomico": "Se reconoce como apátrida a quien no sea considerado nacional suyo por ningún Estado conforme a su legislación.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q115",
+        "PN-T12-Q116"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F059",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 20,
+      "bloque_titulo": "Concepto y reconocimiento de apátrida",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 20,
+      "enunciado_atomico": "El procedimiento puede iniciarse de oficio o a solicitud de la persona interesada.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q117",
+        "PN-T12-Q118"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F060",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 20,
+      "bloque_titulo": "Concepto y reconocimiento de apátrida",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 20,
+      "enunciado_atomico": "Apatridia y condición de refugiado responden a definiciones distintas.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q119",
+        "PN-T12-Q120"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F061",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 21,
+      "bloque_titulo": "Procedimiento y efectos de la apatridia",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 21,
+      "enunciado_atomico": "La Oficina de Asilo y Refugio instruye el procedimiento de reconocimiento de apatridia.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q121",
+        "PN-T12-Q122"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F062",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 21,
+      "bloque_titulo": "Procedimiento y efectos de la apatridia",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 21,
+      "enunciado_atomico": "Instruido el procedimiento, el trámite de audiencia es de quince días cuando proceda.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q123",
+        "PN-T12-Q124"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F063",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 21,
+      "bloque_titulo": "Procedimiento y efectos de la apatridia",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 21,
+      "enunciado_atomico": "La resolución favorable reconoce la condición de apátrida en los términos de la Convención de 1954.",
+      "fuente": "RD865-2001-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q125",
+        "PN-T12-Q126"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F064",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 22,
+      "bloque_titulo": "Protección temporal y personas desplazadas",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 22,
+      "enunciado_atomico": "La protección temporal se dirige a afluencias masivas de personas desplazadas que no pueden regresar en condiciones seguras y duraderas.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q127",
+        "PN-T12-Q128"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F065",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 22,
+      "bloque_titulo": "Protección temporal y personas desplazadas",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 22,
+      "enunciado_atomico": "Una decisión del Consejo de la Unión Europea puede activar el régimen de protección temporal.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q129",
+        "PN-T12-Q130"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F066",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 22,
+      "bloque_titulo": "Protección temporal y personas desplazadas",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 22,
+      "enunciado_atomico": "La protección temporal no impide presentar una solicitud individual de protección internacional.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q131",
+        "PN-T12-Q132"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F067",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 23,
+      "bloque_titulo": "Contenido y cese de la protección temporal",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 23,
+      "enunciado_atomico": "La persona beneficiaria recibe información escrita en una lengua que pueda comprender.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q133",
+        "PN-T12-Q134"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F068",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 23,
+      "bloque_titulo": "Contenido y cese de la protección temporal",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 23,
+      "enunciado_atomico": "El régimen contempla residencia y autorización para trabajar en los términos previstos.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q135",
+        "PN-T12-Q136"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F069",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 23,
+      "bloque_titulo": "Contenido y cese de la protección temporal",
+      "parte": 5,
+      "parte_titulo": "Apatridia y protección temporal",
+      "punto": 23,
+      "enunciado_atomico": "La reunificación familiar puede alcanzar a los familiares definidos reglamentariamente cuando concurran sus requisitos.",
+      "fuente": "RD1325-2003-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q137",
+        "PN-T12-Q138"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F070",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 24,
+      "bloque_titulo": "ACNUR y cooperación institucional",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 24,
+      "enunciado_atomico": "ACNUR puede intervenir en el procedimiento en los términos previstos por la ley.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q139",
+        "PN-T12-Q140"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F071",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 24,
+      "bloque_titulo": "ACNUR y cooperación institucional",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 24,
+      "enunciado_atomico": "La Comisión Interministerial de Asilo y Refugio formula propuestas en el sistema nacional.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q141",
+        "PN-T12-Q142"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F072",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 24,
+      "bloque_titulo": "ACNUR y cooperación institucional",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 24,
+      "enunciado_atomico": "La resolución administrativa corresponde a la autoridad española competente, no a ACNUR.",
+      "fuente": "L12-2009-T12",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q143",
+        "PN-T12-Q144"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F073",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 25,
+      "bloque_titulo": "Método de resolución de supuestos",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 25,
+      "enunciado_atomico": "La primera clasificación distingue protección internacional, apatridia y protección temporal.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q145",
+        "PN-T12-Q146"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F074",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 25,
+      "bloque_titulo": "Método de resolución de supuestos",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 25,
+      "enunciado_atomico": "El lugar de presentación puede condicionar el procedimiento, especialmente en frontera.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q147",
+        "PN-T12-Q148"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T12-F075",
+      "oposicion": "policia-nacional",
+      "tema": 12,
+      "bloque": 25,
+      "bloque_titulo": "Método de resolución de supuestos",
+      "parte": 6,
+      "parte_titulo": "Integración operativa y repaso",
+      "punto": 25,
+      "enunciado_atomico": "La vulnerabilidad y la acogida se analizan además del fondo de la solicitud.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T12-Q149",
+        "PN-T12-Q150"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    }
+  ],
+  "blocks": [
+    {
+      "number": 1,
+      "title": "Mapa normativo vigente en 2026",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F001",
+        "PN-T12-F002",
+        "PN-T12-F003"
+      ],
+      "questions": [
+        "PN-T12-Q001",
+        "PN-T12-Q002",
+        "PN-T12-Q003",
+        "PN-T12-Q004",
+        "PN-T12-Q005",
+        "PN-T12-Q006"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 2,
+      "title": "Asilo, refugiado y protección subsidiaria",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F004",
+        "PN-T12-F005",
+        "PN-T12-F006"
+      ],
+      "questions": [
+        "PN-T12-Q007",
+        "PN-T12-Q008",
+        "PN-T12-Q009",
+        "PN-T12-Q010",
+        "PN-T12-Q011",
+        "PN-T12-Q012"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 3,
+      "title": "Condición de refugiado: temor y motivos",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F007",
+        "PN-T12-F008",
+        "PN-T12-F009"
+      ],
+      "questions": [
+        "PN-T12-Q013",
+        "PN-T12-Q014",
+        "PN-T12-Q015",
+        "PN-T12-Q016",
+        "PN-T12-Q017",
+        "PN-T12-Q018"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 4,
+      "title": "Actos y agentes de persecución",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F010",
+        "PN-T12-F011",
+        "PN-T12-F012"
+      ],
+      "questions": [
+        "PN-T12-Q019",
+        "PN-T12-Q020",
+        "PN-T12-Q021",
+        "PN-T12-Q022",
+        "PN-T12-Q023",
+        "PN-T12-Q024"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 5,
+      "title": "Daños graves de la protección subsidiaria",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F013",
+        "PN-T12-F014",
+        "PN-T12-F015"
+      ],
+      "questions": [
+        "PN-T12-Q025",
+        "PN-T12-Q026",
+        "PN-T12-Q027",
+        "PN-T12-Q028",
+        "PN-T12-Q029",
+        "PN-T12-Q030"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 6,
+      "title": "Exclusión, denegación y no devolución",
+      "part": 1,
+      "part_title": "Sistema y estatutos de protección",
+      "facts": [
+        "PN-T12-F016",
+        "PN-T12-F017",
+        "PN-T12-F018"
+      ],
+      "questions": [
+        "PN-T12-Q031",
+        "PN-T12-Q032",
+        "PN-T12-Q033",
+        "PN-T12-Q034",
+        "PN-T12-Q035",
+        "PN-T12-Q036"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 7,
+      "title": "Derecho a solicitar y formalización",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F019",
+        "PN-T12-F020",
+        "PN-T12-F021"
+      ],
+      "questions": [
+        "PN-T12-Q037",
+        "PN-T12-Q038",
+        "PN-T12-Q039",
+        "PN-T12-Q040",
+        "PN-T12-Q041",
+        "PN-T12-Q042"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 8,
+      "title": "Derechos y obligaciones del solicitante",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F022",
+        "PN-T12-F023",
+        "PN-T12-F024"
+      ],
+      "questions": [
+        "PN-T12-Q043",
+        "PN-T12-Q044",
+        "PN-T12-Q045",
+        "PN-T12-Q046",
+        "PN-T12-Q047",
+        "PN-T12-Q048"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 9,
+      "title": "Primacía europea y procedimiento común",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F025",
+        "PN-T12-F026",
+        "PN-T12-F027"
+      ],
+      "questions": [
+        "PN-T12-Q049",
+        "PN-T12-Q050",
+        "PN-T12-Q051",
+        "PN-T12-Q052",
+        "PN-T12-Q053",
+        "PN-T12-Q054"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 10,
+      "title": "Procedimiento fronterizo de asilo",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F028",
+        "PN-T12-F029",
+        "PN-T12-F030"
+      ],
+      "questions": [
+        "PN-T12-Q055",
+        "PN-T12-Q056",
+        "PN-T12-Q057",
+        "PN-T12-Q058",
+        "PN-T12-Q059",
+        "PN-T12-Q060"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 11,
+      "title": "Garantías y examen inicial en frontera",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F031",
+        "PN-T12-F032",
+        "PN-T12-F033"
+      ],
+      "questions": [
+        "PN-T12-Q061",
+        "PN-T12-Q062",
+        "PN-T12-Q063",
+        "PN-T12-Q064",
+        "PN-T12-Q065",
+        "PN-T12-Q066"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 12,
+      "title": "Instrucción, evaluación, archivo y recursos",
+      "part": 2,
+      "part_title": "Solicitud y procedimiento vigente",
+      "facts": [
+        "PN-T12-F034",
+        "PN-T12-F035",
+        "PN-T12-F036"
+      ],
+      "questions": [
+        "PN-T12-Q067",
+        "PN-T12-Q068",
+        "PN-T12-Q069",
+        "PN-T12-Q070",
+        "PN-T12-Q071",
+        "PN-T12-Q072"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 13,
+      "title": "Régimen general de vulnerabilidad",
+      "part": 3,
+      "part_title": "Menores y personas vulnerables",
+      "facts": [
+        "PN-T12-F037",
+        "PN-T12-F038",
+        "PN-T12-F039"
+      ],
+      "questions": [
+        "PN-T12-Q073",
+        "PN-T12-Q074",
+        "PN-T12-Q075",
+        "PN-T12-Q076",
+        "PN-T12-Q077",
+        "PN-T12-Q078"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 14,
+      "title": "Menores y el interés superior",
+      "part": 3,
+      "part_title": "Menores y personas vulnerables",
+      "facts": [
+        "PN-T12-F040",
+        "PN-T12-F041",
+        "PN-T12-F042"
+      ],
+      "questions": [
+        "PN-T12-Q079",
+        "PN-T12-Q080",
+        "PN-T12-Q081",
+        "PN-T12-Q082",
+        "PN-T12-Q083",
+        "PN-T12-Q084"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 15,
+      "title": "Menores no acompañados",
+      "part": 3,
+      "part_title": "Menores y personas vulnerables",
+      "facts": [
+        "PN-T12-F043",
+        "PN-T12-F044",
+        "PN-T12-F045"
+      ],
+      "questions": [
+        "PN-T12-Q085",
+        "PN-T12-Q086",
+        "PN-T12-Q087",
+        "PN-T12-Q088",
+        "PN-T12-Q089",
+        "PN-T12-Q090"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 16,
+      "title": "Sistema de acogida: finalidad y destinatarios",
+      "part": 4,
+      "part_title": "Sistema de acogida y centros",
+      "facts": [
+        "PN-T12-F046",
+        "PN-T12-F047",
+        "PN-T12-F048"
+      ],
+      "questions": [
+        "PN-T12-Q091",
+        "PN-T12-Q092",
+        "PN-T12-Q093",
+        "PN-T12-Q094",
+        "PN-T12-Q095",
+        "PN-T12-Q096"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 17,
+      "title": "Tres fases del itinerario",
+      "part": 4,
+      "part_title": "Sistema de acogida y centros",
+      "facts": [
+        "PN-T12-F049",
+        "PN-T12-F050",
+        "PN-T12-F051"
+      ],
+      "questions": [
+        "PN-T12-Q097",
+        "PN-T12-Q098",
+        "PN-T12-Q099",
+        "PN-T12-Q100",
+        "PN-T12-Q101",
+        "PN-T12-Q102"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 18,
+      "title": "Derechos, deberes y finalización de la acogida",
+      "part": 4,
+      "part_title": "Sistema de acogida y centros",
+      "facts": [
+        "PN-T12-F052",
+        "PN-T12-F053",
+        "PN-T12-F054"
+      ],
+      "questions": [
+        "PN-T12-Q103",
+        "PN-T12-Q104",
+        "PN-T12-Q105",
+        "PN-T12-Q106",
+        "PN-T12-Q107",
+        "PN-T12-Q108"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 19,
+      "title": "Red de recursos y centros de migraciones",
+      "part": 4,
+      "part_title": "Sistema de acogida y centros",
+      "facts": [
+        "PN-T12-F055",
+        "PN-T12-F056",
+        "PN-T12-F057"
+      ],
+      "questions": [
+        "PN-T12-Q109",
+        "PN-T12-Q110",
+        "PN-T12-Q111",
+        "PN-T12-Q112",
+        "PN-T12-Q113",
+        "PN-T12-Q114"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 20,
+      "title": "Concepto y reconocimiento de apátrida",
+      "part": 5,
+      "part_title": "Apatridia y protección temporal",
+      "facts": [
+        "PN-T12-F058",
+        "PN-T12-F059",
+        "PN-T12-F060"
+      ],
+      "questions": [
+        "PN-T12-Q115",
+        "PN-T12-Q116",
+        "PN-T12-Q117",
+        "PN-T12-Q118",
+        "PN-T12-Q119",
+        "PN-T12-Q120"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 21,
+      "title": "Procedimiento y efectos de la apatridia",
+      "part": 5,
+      "part_title": "Apatridia y protección temporal",
+      "facts": [
+        "PN-T12-F061",
+        "PN-T12-F062",
+        "PN-T12-F063"
+      ],
+      "questions": [
+        "PN-T12-Q121",
+        "PN-T12-Q122",
+        "PN-T12-Q123",
+        "PN-T12-Q124",
+        "PN-T12-Q125",
+        "PN-T12-Q126"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 22,
+      "title": "Protección temporal y personas desplazadas",
+      "part": 5,
+      "part_title": "Apatridia y protección temporal",
+      "facts": [
+        "PN-T12-F064",
+        "PN-T12-F065",
+        "PN-T12-F066"
+      ],
+      "questions": [
+        "PN-T12-Q127",
+        "PN-T12-Q128",
+        "PN-T12-Q129",
+        "PN-T12-Q130",
+        "PN-T12-Q131",
+        "PN-T12-Q132"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 23,
+      "title": "Contenido y cese de la protección temporal",
+      "part": 5,
+      "part_title": "Apatridia y protección temporal",
+      "facts": [
+        "PN-T12-F067",
+        "PN-T12-F068",
+        "PN-T12-F069"
+      ],
+      "questions": [
+        "PN-T12-Q133",
+        "PN-T12-Q134",
+        "PN-T12-Q135",
+        "PN-T12-Q136",
+        "PN-T12-Q137",
+        "PN-T12-Q138"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 24,
+      "title": "ACNUR y cooperación institucional",
+      "part": 6,
+      "part_title": "Integración operativa y repaso",
+      "facts": [
+        "PN-T12-F070",
+        "PN-T12-F071",
+        "PN-T12-F072"
+      ],
+      "questions": [
+        "PN-T12-Q139",
+        "PN-T12-Q140",
+        "PN-T12-Q141",
+        "PN-T12-Q142",
+        "PN-T12-Q143",
+        "PN-T12-Q144"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 25,
+      "title": "Método de resolución de supuestos",
+      "part": 6,
+      "part_title": "Integración operativa y repaso",
+      "facts": [
+        "PN-T12-F073",
+        "PN-T12-F074",
+        "PN-T12-F075"
+      ],
+      "questions": [
+        "PN-T12-Q145",
+        "PN-T12-Q146",
+        "PN-T12-Q147",
+        "PN-T12-Q148",
+        "PN-T12-Q149",
+        "PN-T12-Q150"
+      ],
+      "status": "complete"
+    }
+  ]
+}
