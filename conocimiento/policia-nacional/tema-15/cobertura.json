@@ -1,0 +1,3678 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "topic": "tema-15",
+  "tema": 15,
+  "status": "complete_validated_question_bank",
+  "scope": {
+    "blocks_completed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "master_statements_total": 126,
+    "atomic_facts_extracted": 126,
+    "remaining_blocks": []
+  },
+  "total_atomic_facts": 126,
+  "covered_atomic_facts": 126,
+  "coverage_percent": 100.0,
+  "total_questions": 252,
+  "requirements": {},
+  "facts": [
+    {
+      "id": "PN-T15-F001",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 1,
+      "bloque_titulo": "Mapa general del Tema 15",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 1,
+      "enunciado_atomico": "El epígrafe oficial de 2026 incluye medidas de protección, Catálogo, Sistema de Protección de Infraestructuras Críticas y ciberseguridad.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q001",
+        "PN-T15-Q002"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F002",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 1,
+      "bloque_titulo": "Mapa general del Tema 15",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 1,
+      "enunciado_atomico": "La protección integral combina medidas físicas, lógicas, organizativas y de coordinación.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q003",
+        "PN-T15-Q004"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F003",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 1,
+      "bloque_titulo": "Mapa general del Tema 15",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 1,
+      "enunciado_atomico": "La secuencia didáctica correcta conecta servicio esencial, infraestructura, Catálogo, agente responsable, plan y respuesta.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q005",
+        "PN-T15-Q006"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F004",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 2,
+      "bloque_titulo": "Origen y evolución del sistema PIC",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 2,
+      "enunciado_atomico": "La Ley 8/2011 y el Real Decreto 704/2011 constituyen el núcleo vigente del Sistema PIC español.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q007",
+        "PN-T15-Q008"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F005",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 2,
+      "bloque_titulo": "Origen y evolución del sistema PIC",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 2,
+      "enunciado_atomico": "La responsabilidad de protección se comparte entre autoridades públicas y operadores, sin desplazar la dirección del Ministerio del Interior.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q009",
+        "PN-T15-Q010"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F006",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 2,
+      "bloque_titulo": "Origen y evolución del sistema PIC",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 2,
+      "enunciado_atomico": "Los proyectos de resiliencia y gobernanza se distinguen de las normas ya vigentes hasta su aprobación y entrada en vigor.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q011",
+        "PN-T15-Q012"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F007",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 3,
+      "bloque_titulo": "Objeto de la Ley 8/2011",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 3,
+      "enunciado_atomico": "La Ley 8/2011 busca dirigir y coordinar actuaciones públicas previa identificación y designación de las infraestructuras.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q013",
+        "PN-T15-Q014"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F008",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 3,
+      "bloque_titulo": "Objeto de la Ley 8/2011",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 3,
+      "enunciado_atomico": "La prevención, preparación y respuesta se proyectan frente a atentados terroristas u otras amenazas contra infraestructuras críticas.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q015",
+        "PN-T15-Q016"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F009",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 3,
+      "bloque_titulo": "Objeto de la Ley 8/2011",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 3,
+      "enunciado_atomico": "La ley impulsa la colaboración de gestores y propietarios para optimizar la protección contra ataques deliberados.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q017",
+        "PN-T15-Q018"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F010",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 4,
+      "bloque_titulo": "Servicio esencial, sector e infraestructura estratégica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 4,
+      "enunciado_atomico": "Un servicio esencial es necesario para funciones sociales básicas, salud, seguridad, bienestar o eficaz funcionamiento institucional.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q019",
+        "PN-T15-Q020"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F011",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 4,
+      "bloque_titulo": "Servicio esencial, sector e infraestructura estratégica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 4,
+      "enunciado_atomico": "Un sector estratégico proporciona un servicio esencial o garantiza autoridad del Estado o seguridad del país.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q021",
+        "PN-T15-Q022"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F012",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 4,
+      "bloque_titulo": "Servicio esencial, sector e infraestructura estratégica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 4,
+      "enunciado_atomico": "Las infraestructuras estratégicas son instalaciones, redes, sistemas y equipos físicos y TIC sobre los que descansan los servicios esenciales.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q023",
+        "PN-T15-Q024"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F013",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 5,
+      "bloque_titulo": "Infraestructura crítica, europea y zona crítica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 5,
+      "enunciado_atomico": "Una infraestructura crítica es estratégica, indispensable, sin solución alternativa y con grave impacto si se perturba o destruye.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q025",
+        "PN-T15-Q026"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F014",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 5,
+      "bloque_titulo": "Infraestructura crítica, europea y zona crítica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 5,
+      "enunciado_atomico": "Una infraestructura crítica europea es la que, situada en un Estado miembro, afectaría gravemente al menos a dos Estados miembros.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q027",
+        "PN-T15-Q028"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F015",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 5,
+      "bloque_titulo": "Infraestructura crítica, europea y zona crítica",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 5,
+      "enunciado_atomico": "La zona crítica es un área geográfica continua con varias infraestructuras críticas interdependientes de operadores diferentes.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q029",
+        "PN-T15-Q030"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F016",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 6,
+      "bloque_titulo": "Criterios horizontales de criticidad",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 6,
+      "enunciado_atomico": "El número de personas afectadas incluye víctimas mortales, lesiones graves y consecuencias para la salud pública.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q031",
+        "PN-T15-Q032"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F017",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 6,
+      "bloque_titulo": "Criterios horizontales de criticidad",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 6,
+      "enunciado_atomico": "El impacto económico y el medioambiental son criterios horizontales de criticidad.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q033",
+        "PN-T15-Q034"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F018",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 6,
+      "bloque_titulo": "Criterios horizontales de criticidad",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 6,
+      "enunciado_atomico": "El impacto público y social atiende, entre otros elementos, a la confianza, el sufrimiento y la alteración de la vida cotidiana.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q035",
+        "PN-T15-Q036"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F019",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 7,
+      "bloque_titulo": "Riesgo, interdependencia y protección",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 7,
+      "enunciado_atomico": "El análisis de riesgos estudia amenazas posibles, vulnerabilidades y repercusiones de la perturbación o destrucción.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q037",
+        "PN-T15-Q038"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F020",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 7,
+      "bloque_titulo": "Riesgo, interdependencia y protección",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 7,
+      "enunciado_atomico": "Las interdependencias pueden ser intrasectoriales o intersectoriales y tener alcance local, autonómico, nacional o internacional.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q039",
+        "PN-T15-Q040"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F021",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 7,
+      "bloque_titulo": "Riesgo, interdependencia y protección",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 7,
+      "enunciado_atomico": "La protección de infraestructuras críticas busca asegurar funcionalidad, continuidad e integridad y prevenir, paliar o neutralizar daños.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q041",
+        "PN-T15-Q042"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F022",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 8,
+      "bloque_titulo": "Ámbito y sectores estratégicos",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 8,
+      "enunciado_atomico": "La ley se aplica a infraestructuras críticas situadas en territorio nacional y vinculadas a los sectores estratégicos del anexo.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q043",
+        "PN-T15-Q044"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F023",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 8,
+      "bloque_titulo": "Ámbito y sectores estratégicos",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 8,
+      "enunciado_atomico": "El anexo incluye, entre otros, agua, energía, salud, TIC, transporte, alimentación y sistema financiero y tributario.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q045",
+        "PN-T15-Q046"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F024",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 8,
+      "bloque_titulo": "Ámbito y sectores estratégicos",
+      "parte": 1,
+      "parte_titulo": "Fundamento, conceptos y alcance",
+      "punto": 8,
+      "enunciado_atomico": "Las infraestructuras dependientes de Defensa y de las Fuerzas y Cuerpos de Seguridad se rigen, a efectos de control administrativo, por su propia normativa y procedimientos.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q047",
+        "PN-T15-Q048"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F025",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 9,
+      "bloque_titulo": "Naturaleza, contenido y calificación del Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 9,
+      "enunciado_atomico": "El Catálogo contiene información de todas las infraestructuras estratégicas nacionales, incluidas las críticas y críticas europeas que afecten a España.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q049",
+        "PN-T15-Q050"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F026",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 9,
+      "bloque_titulo": "Naturaleza, contenido y calificación del Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 9,
+      "enunciado_atomico": "Entre sus datos figuran descripción, ubicación, titularidad, servicios, contactos y nivel de seguridad.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q051",
+        "PN-T15-Q052"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F027",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 9,
+      "bloque_titulo": "Naturaleza, contenido y calificación del Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 9,
+      "enunciado_atomico": "El Catálogo Nacional de Infraestructuras Estratégicas tiene calificación de secreto.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q053",
+        "PN-T15-Q054"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F028",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 10,
+      "bloque_titulo": "Clasificación e identificación de infraestructuras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 10,
+      "enunciado_atomico": "La competencia para clasificar e incluir en el Catálogo corresponde al Ministerio del Interior a través de la Secretaría de Estado de Seguridad.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q055",
+        "PN-T15-Q056"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F029",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 10,
+      "bloque_titulo": "Clasificación e identificación de infraestructuras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 10,
+      "enunciado_atomico": "El proceso de identificación de una infraestructura como crítica lo realiza el CNPIC.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q057",
+        "PN-T15-Q058"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F030",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 10,
+      "bloque_titulo": "Clasificación e identificación de infraestructuras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 10,
+      "enunciado_atomico": "El CNPIC puede recabar participación y asesoramiento del interesado y de agentes competentes e informa del resultado.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q059",
+        "PN-T15-Q060"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F031",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 11,
+      "bloque_titulo": "Gestión, actualización y acceso al Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 11,
+      "enunciado_atomico": "La custodia, gestión y mantenimiento del Catálogo corresponden al Ministerio del Interior a través de la Secretaría de Estado de Seguridad.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q061",
+        "PN-T15-Q062"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F032",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 11,
+      "bloque_titulo": "Gestión, actualización y acceso al Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 11,
+      "enunciado_atomico": "Los operadores y demás agentes del Sistema facilitan información al CNPIC para nutrir el Catálogo.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q063",
+        "PN-T15-Q064"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F033",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 11,
+      "bloque_titulo": "Gestión, actualización y acceso al Catálogo",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 11,
+      "enunciado_atomico": "La actualización de los datos disponibles debe realizarse, en todo caso, con periodicidad anual.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q065",
+        "PN-T15-Q066"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F034",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 12,
+      "bloque_titulo": "Información sensible y comunicaciones seguras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 12,
+      "enunciado_atomico": "La información sensible es la que, revelada, podría utilizarse para planear acciones de perturbación o destrucción.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q067",
+        "PN-T15-Q068"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F035",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 12,
+      "bloque_titulo": "Información sensible y comunicaciones seguras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 12,
+      "enunciado_atomico": "Los sistemas, comunicaciones e información PIC deben garantizar confidencialidad, integridad y disponibilidad según su clasificación.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q069",
+        "PN-T15-Q070"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F036",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 12,
+      "bloque_titulo": "Información sensible y comunicaciones seguras",
+      "parte": 2,
+      "parte_titulo": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "punto": 12,
+      "enunciado_atomico": "El CNPIC administra los sistemas de información y comunicaciones PIC y el CCN acredita o certifica su seguridad en su ámbito.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q071",
+        "PN-T15-Q072"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F037",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 13,
+      "bloque_titulo": "Arquitectura del Sistema PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 13,
+      "enunciado_atomico": "El Sistema PIC combina agentes del sector público y privado.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q073",
+        "PN-T15-Q074"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F038",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 13,
+      "bloque_titulo": "Arquitectura del Sistema PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 13,
+      "enunciado_atomico": "La Secretaría de Estado de Seguridad es el órgano superior responsable del Sistema de Protección de Infraestructuras Críticas Nacionales.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q075",
+        "PN-T15-Q076"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F039",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 13,
+      "bloque_titulo": "Arquitectura del Sistema PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 13,
+      "enunciado_atomico": "La Dirección General de Coordinación y Estudios impulsa, coordina y supervisa a través del CNPIC las actividades de la Secretaría de Estado en esta materia.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q077",
+        "PN-T15-Q078"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F040",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 14,
+      "bloque_titulo": "Secretaría de Estado de Seguridad y CNPIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 14,
+      "enunciado_atomico": "La Secretaría de Estado de Seguridad diseña y dirige la estrategia nacional de protección de infraestructuras críticas.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q079",
+        "PN-T15-Q080"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F041",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 14,
+      "bloque_titulo": "Secretaría de Estado de Seguridad y CNPIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 14,
+      "enunciado_atomico": "El CNPIC asiste al Secretario de Estado y actúa como órgano de contacto y coordinación con los agentes del Sistema.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q081",
+        "PN-T15-Q082"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F042",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 14,
+      "bloque_titulo": "Secretaría de Estado de Seguridad y CNPIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 14,
+      "enunciado_atomico": "El CNPIC mantiene operativo y actualizado el Catálogo y el PNPIC y determina la criticidad de infraestructuras estratégicas.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q083",
+        "PN-T15-Q084"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F043",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 15,
+      "bloque_titulo": "Comisión Nacional PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 15,
+      "enunciado_atomico": "La Comisión Nacional PIC es un órgano colegiado adscrito a la Secretaría de Estado de Seguridad.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q085",
+        "PN-T15-Q086"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F044",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 15,
+      "bloque_titulo": "Comisión Nacional PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 15,
+      "enunciado_atomico": "La Comisión aprueba los Planes Estratégicos Sectoriales.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q087",
+        "PN-T15-Q088"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F045",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 15,
+      "bloque_titulo": "Comisión Nacional PIC",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 15,
+      "enunciado_atomico": "La Comisión designa operadores críticos a propuesta del Grupo de Trabajo Interdepartamental.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q089",
+        "PN-T15-Q090"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F046",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 16,
+      "bloque_titulo": "Grupo de Trabajo Interdepartamental",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 16,
+      "enunciado_atomico": "El Grupo de Trabajo elabora los Planes Estratégicos Sectoriales.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q091",
+        "PN-T15-Q092"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F047",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 16,
+      "bloque_titulo": "Grupo de Trabajo Interdepartamental",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 16,
+      "enunciado_atomico": "El Grupo propone a la Comisión la designación de operadores críticos.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q093",
+        "PN-T15-Q094"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F048",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 16,
+      "bloque_titulo": "Grupo de Trabajo Interdepartamental",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 16,
+      "enunciado_atomico": "El Grupo está presidido por el Director del CNPIC y se reúne ordinariamente al menos dos veces al año.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q095",
+        "PN-T15-Q096"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F049",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 17,
+      "bloque_titulo": "Ministerios, Delegaciones y Fuerzas de Seguridad",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 17,
+      "enunciado_atomico": "Los ministerios y organismos del Sistema actúan como puntos de contacto especializados de sus sectores.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q097",
+        "PN-T15-Q098"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F050",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 17,
+      "bloque_titulo": "Ministerios, Delegaciones y Fuerzas de Seguridad",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 17,
+      "enunciado_atomico": "Los Delegados del Gobierno coordinan la actuación de las Fuerzas y Cuerpos de Seguridad del Estado ante una alerta en su territorio.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q099",
+        "PN-T15-Q100"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F051",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 17,
+      "bloque_titulo": "Ministerios, Delegaciones y Fuerzas de Seguridad",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 17,
+      "enunciado_atomico": "Las Delegaciones pueden proponer a la Secretaría de Estado, a través del CNPIC, la declaración de zona crítica.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q101",
+        "PN-T15-Q102"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F052",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 18,
+      "bloque_titulo": "Comunidades autónomas y entidades locales",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 18,
+      "enunciado_atomico": "Las comunidades con competencias estatutarias de seguridad ejercen facultades específicas sobre infraestructuras situadas en su territorio.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q103",
+        "PN-T15-Q104"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F053",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 18,
+      "bloque_titulo": "Comunidades autónomas y entidades locales",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 18,
+      "enunciado_atomico": "La coordinación entre Fuerzas estatales y policías autonómicas se rige por los acuerdos de las Juntas de Seguridad correspondientes.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q105",
+        "PN-T15-Q106"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F054",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 18,
+      "bloque_titulo": "Comunidades autónomas y entidades locales",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 18,
+      "enunciado_atomico": "Las corporaciones locales participan a través de la asociación de entidades locales de mayor implantación nacional.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q107",
+        "PN-T15-Q108"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F055",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 19,
+      "bloque_titulo": "Designación y obligaciones del operador crítico",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 19,
+      "enunciado_atomico": "Para designar un operador crítico basta con que al menos una infraestructura que gestione tenga consideración de crítica.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q109",
+        "PN-T15-Q110"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F056",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 19,
+      "bloque_titulo": "Designación y obligaciones del operador crítico",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 19,
+      "enunciado_atomico": "El interesado dispone de quince días desde el día siguiente a la notificación para formular alegaciones.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q111",
+        "PN-T15-Q112"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F057",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 19,
+      "bloque_titulo": "Designación y obligaciones del operador crítico",
+      "parte": 3,
+      "parte_titulo": "Sistema, autoridades y operadores",
+      "punto": 19,
+      "enunciado_atomico": "La Comisión designa al operador a propuesta del Grupo de Trabajo tras el procedimiento reglamentario.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q113",
+        "PN-T15-Q114"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F058",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 20,
+      "bloque_titulo": "Plan Nacional de Protección de Infraestructuras Críticas",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 20,
+      "enunciado_atomico": "El PNPIC es elaborado por la Secretaría de Estado de Seguridad y aprobado por resolución de su titular.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q115",
+        "PN-T15-Q116"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F059",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 20,
+      "bloque_titulo": "Plan Nacional de Protección de Infraestructuras Críticas",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 20,
+      "enunciado_atomico": "El PNPIC prevé niveles de seguridad y de intervención policial según la evaluación de la amenaza.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q117",
+        "PN-T15-Q118"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F060",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 20,
+      "bloque_titulo": "Plan Nacional de Protección de Infraestructuras Críticas",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 20,
+      "enunciado_atomico": "El PNPIC se revisa cada cinco años por la Secretaría de Estado de Seguridad.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q119",
+        "PN-T15-Q120"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F061",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 21,
+      "bloque_titulo": "Planes Estratégicos Sectoriales",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 21,
+      "enunciado_atomico": "Los PES tienen alcance nacional y analizan servicios, funcionamiento, vulnerabilidades, consecuencias y medidas de un sector.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q121",
+        "PN-T15-Q122"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F062",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 21,
+      "bloque_titulo": "Planes Estratégicos Sectoriales",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 21,
+      "enunciado_atomico": "El Grupo de Trabajo elabora los PES y la Comisión los aprueba.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q123",
+        "PN-T15-Q124"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F063",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 21,
+      "bloque_titulo": "Planes Estratégicos Sectoriales",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 21,
+      "enunciado_atomico": "Los PES se revisan cada dos años por los ministerios y organismos del Sistema.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q125",
+        "PN-T15-Q126"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F064",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 22,
+      "bloque_titulo": "Plan de Seguridad del Operador: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 22,
+      "enunciado_atomico": "El PSO es el documento estratégico que define las políticas generales de seguridad del operador.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q127",
+        "PN-T15-Q128"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F065",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 22,
+      "bloque_titulo": "Plan de Seguridad del Operador: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 22,
+      "enunciado_atomico": "El operador debe presentar el PSO en seis meses desde la notificación de su designación.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q129",
+        "PN-T15-Q130"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F066",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 22,
+      "bloque_titulo": "Plan de Seguridad del Operador: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 22,
+      "enunciado_atomico": "El PSO incorpora metodología de análisis de riesgos y criterios frente a amenazas físicas y lógicas.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q131",
+        "PN-T15-Q132"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F067",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 23,
+      "bloque_titulo": "PSO: aprobación, registro y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 23,
+      "enunciado_atomico": "El Secretario de Estado de Seguridad aprueba el PSO, a propuesta del CNPIC, en el procedimiento inicial.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q133",
+        "PN-T15-Q134"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F068",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 23,
+      "bloque_titulo": "PSO: aprobación, registro y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 23,
+      "enunciado_atomico": "El CNPIC gestiona y custodia el registro central de los PSO.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q135",
+        "PN-T15-Q136"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F069",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 23,
+      "bloque_titulo": "PSO: aprobación, registro y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 23,
+      "enunciado_atomico": "El PSO se revisa cada dos años por el operador y la revisión debe ser aprobada por el CNPIC.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q137",
+        "PN-T15-Q138"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F070",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 24,
+      "bloque_titulo": "Plan de Protección Específico: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 24,
+      "enunciado_atomico": "El PPE es un documento operativo para una infraestructura crítica concreta.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q139",
+        "PN-T15-Q140"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F071",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 24,
+      "bloque_titulo": "Plan de Protección Específico: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 24,
+      "enunciado_atomico": "El PPE define medidas físicas y lógicas, permanentes y temporales.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q141",
+        "PN-T15-Q142"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F072",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 24,
+      "bloque_titulo": "Plan de Protección Específico: función y plazo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 24,
+      "enunciado_atomico": "El operador presenta cada PPE en cuatro meses desde la aprobación del PSO.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q143",
+        "PN-T15-Q144"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F073",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 25,
+      "bloque_titulo": "PPE: aprobación, revisión e inspección",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 25,
+      "enunciado_atomico": "El CNPIC analiza el PPE y lo propone para aprobación a la Secretaría de Estado de Seguridad.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q145",
+        "PN-T15-Q146"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F074",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 25,
+      "bloque_titulo": "PPE: aprobación, revisión e inspección",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 25,
+      "enunciado_atomico": "Los PPE se revisan cada dos años por los operadores críticos.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q147",
+        "PN-T15-Q148"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F075",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 25,
+      "bloque_titulo": "PPE: aprobación, revisión e inspección",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 25,
+      "enunciado_atomico": "Los Delegados del Gobierno o los órganos autonómicos competentes velan por la ejecución e inspección territorial del PPE.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q149",
+        "PN-T15-Q150"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F076",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 26,
+      "bloque_titulo": "Plan de Apoyo Operativo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 26,
+      "enunciado_atomico": "El PAO lo elabora el cuerpo policial estatal o autonómico competente en la demarcación.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q151",
+        "PN-T15-Q152"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F077",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 26,
+      "bloque_titulo": "Plan de Apoyo Operativo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 26,
+      "enunciado_atomico": "El PAO contempla medidas policiales complementarias a las previstas por el operador.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q153",
+        "PN-T15-Q154"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F078",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 26,
+      "bloque_titulo": "Plan de Apoyo Operativo",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 26,
+      "enunciado_atomico": "La Secretaría de Estado de Seguridad, a través del CNPIC, valida y aprueba los PAO.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q155",
+        "PN-T15-Q156"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F079",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 27,
+      "bloque_titulo": "PAO: registro, acceso y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 27,
+      "enunciado_atomico": "El CNPIC gestiona y custodia el registro central de PAO.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q157",
+        "PN-T15-Q158"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F080",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 27,
+      "bloque_titulo": "PAO: registro, acceso y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 27,
+      "enunciado_atomico": "El acceso a los PAO requiere necesidad de conocer y autorización correspondiente.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q159",
+        "PN-T15-Q160"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F081",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 27,
+      "bloque_titulo": "PAO: registro, acceso y revisión",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 27,
+      "enunciado_atomico": "El PAO se revisa cada dos años por el cuerpo policial competente y requiere aprobación expresa del CNPIC.",
+      "fuente": "RD704-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q161",
+        "PN-T15-Q162"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F082",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 28,
+      "bloque_titulo": "Comparativa de los cinco planes",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 28,
+      "enunciado_atomico": "PNPIC, PES, PSO, PPE y PAO son los cinco instrumentos de planificación de la Ley 8/2011.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q163",
+        "PN-T15-Q164"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F083",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 28,
+      "bloque_titulo": "Comparativa de los cinco planes",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 28,
+      "enunciado_atomico": "PSO y PPE los elabora el operador; el PAO lo elabora el cuerpo policial competente.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q165",
+        "PN-T15-Q166"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F084",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 28,
+      "bloque_titulo": "Comparativa de los cinco planes",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 28,
+      "enunciado_atomico": "El PSO se refiere al conjunto del operador y el PPE a cada infraestructura crítica.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q167",
+        "PN-T15-Q168"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F085",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 29,
+      "bloque_titulo": "Responsable de Seguridad y Enlace",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 29,
+      "enunciado_atomico": "El operador nombra y comunica al RSE dentro de tres meses desde su designación como operador crítico.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q169",
+        "PN-T15-Q170"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F086",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 29,
+      "bloque_titulo": "Responsable de Seguridad y Enlace",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 29,
+      "enunciado_atomico": "El RSE representa al operador ante la Secretaría de Estado en seguridad de infraestructuras y planes.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q171",
+        "PN-T15-Q172"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F087",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 29,
+      "bloque_titulo": "Responsable de Seguridad y Enlace",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 29,
+      "enunciado_atomico": "El RSE debe contar con habilitación de Director de Seguridad o equivalente según la normativa aplicable.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q173",
+        "PN-T15-Q174"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F088",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 30,
+      "bloque_titulo": "Delegado de Seguridad de la infraestructura",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 30,
+      "enunciado_atomico": "Debe existir un Delegado de Seguridad por cada infraestructura crítica o crítica europea.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q175",
+        "PN-T15-Q176"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F089",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 30,
+      "bloque_titulo": "Delegado de Seguridad de la infraestructura",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 30,
+      "enunciado_atomico": "Su identidad se comunica en tres meses desde la identificación de la infraestructura como crítica o crítica europea.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q177",
+        "PN-T15-Q178"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F090",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 30,
+      "bloque_titulo": "Delegado de Seguridad de la infraestructura",
+      "parte": 4,
+      "parte_titulo": "Instrumentos de planificación y figuras de enlace",
+      "punto": 30,
+      "enunciado_atomico": "El Delegado es el enlace operativo y canal de información sobre la seguridad concreta de la infraestructura.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q179",
+        "PN-T15-Q180"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F091",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 31,
+      "bloque_titulo": "Sistemas de control industrial: SCADA y DCS",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 31,
+      "enunciado_atomico": "SCADA se asocia a supervisión, adquisición de datos y control remoto de procesos distribuidos geográficamente.",
+      "fuente": "CNPIC-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q181",
+        "PN-T15-Q182"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F092",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 31,
+      "bloque_titulo": "Sistemas de control industrial: SCADA y DCS",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 31,
+      "enunciado_atomico": "DCS distribuye controladores para gobernar procesos dentro de una instalación compleja.",
+      "fuente": "CNPIC-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q183",
+        "PN-T15-Q184"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F093",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 31,
+      "bloque_titulo": "Sistemas de control industrial: SCADA y DCS",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 31,
+      "enunciado_atomico": "Comprometer un sistema industrial puede producir efectos físicos y afectar a la disponibilidad de un servicio esencial.",
+      "fuente": "CNPIC-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q185",
+        "PN-T15-Q186"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F094",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 32,
+      "bloque_titulo": "Dimensiones de seguridad: CIDAT",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 32,
+      "enunciado_atomico": "La confidencialidad evita el acceso o revelación no autorizados.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q187",
+        "PN-T15-Q188"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F095",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 32,
+      "bloque_titulo": "Dimensiones de seguridad: CIDAT",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 32,
+      "enunciado_atomico": "La integridad protege frente a modificaciones o destrucciones no autorizadas y la disponibilidad mantiene servicio y acceso oportunos.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q189",
+        "PN-T15-Q190"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F096",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 32,
+      "bloque_titulo": "Dimensiones de seguridad: CIDAT",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 32,
+      "enunciado_atomico": "Autenticidad y trazabilidad permiten verificar identidades, origen y secuencia de acciones.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q191",
+        "PN-T15-Q192"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F097",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 33,
+      "bloque_titulo": "Amenaza, vulnerabilidad, riesgo e incidente",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 33,
+      "enunciado_atomico": "Una vulnerabilidad es una debilidad susceptible de ser explotada por una amenaza.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q193",
+        "PN-T15-Q194"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F098",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 33,
+      "bloque_titulo": "Amenaza, vulnerabilidad, riesgo e incidente",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 33,
+      "enunciado_atomico": "El riesgo se gestiona mediante identificación, análisis, evaluación y tratamiento continuos.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q195",
+        "PN-T15-Q196"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F099",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 33,
+      "bloque_titulo": "Amenaza, vulnerabilidad, riesgo e incidente",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 33,
+      "enunciado_atomico": "Un incidente produce efectos adversos reales sobre la seguridad de redes y sistemas.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q197",
+        "PN-T15-Q198"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F100",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 34,
+      "bloque_titulo": "Amenazas físicas, humanas y lógicas",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 34,
+      "enunciado_atomico": "Las amenazas pueden ser humanas, físicas o lógicas y tener origen deliberado o accidental.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q199",
+        "PN-T15-Q200"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F101",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 34,
+      "bloque_titulo": "Amenazas físicas, humanas y lógicas",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 34,
+      "enunciado_atomico": "La ingeniería social busca manipular personas para obtener acceso, información o una acción.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q201",
+        "PN-T15-Q202"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F102",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 34,
+      "bloque_titulo": "Amenazas físicas, humanas y lógicas",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 34,
+      "enunciado_atomico": "La defensa por capas combina controles preventivos, detectivos, de respuesta y recuperación.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q203",
+        "PN-T15-Q204"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F103",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 35,
+      "bloque_titulo": "INCIBE y los CSIRT de referencia",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 35,
+      "enunciado_atomico": "INCIBE-CERT es CSIRT de referencia para entidades de derecho privado y ciudadanos fuera del ámbito de CCN-CERT.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q205",
+        "PN-T15-Q206"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F104",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 35,
+      "bloque_titulo": "INCIBE y los CSIRT de referencia",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 35,
+      "enunciado_atomico": "CCN-CERT es la capacidad de respuesta de referencia del Centro Criptológico Nacional para el sector público en su ámbito.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q207",
+        "PN-T15-Q208"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F105",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 35,
+      "bloque_titulo": "INCIBE y los CSIRT de referencia",
+      "parte": 5,
+      "parte_titulo": "Seguridad lógica, sistemas industriales y respuesta",
+      "punto": 35,
+      "enunciado_atomico": "Los CSIRT de referencia cooperan mediante la Plataforma Nacional de Notificación y Seguimiento de Ciberincidentes.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q209",
+        "PN-T15-Q210"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F106",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 36,
+      "bloque_titulo": "RDL 12/2018: ámbito y autoridades",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 36,
+      "enunciado_atomico": "El RDL 12/2018 regula seguridad de redes y sistemas y un sistema de notificación de incidentes.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q211",
+        "PN-T15-Q212"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F107",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 36,
+      "bloque_titulo": "RDL 12/2018: ámbito y autoridades",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 36,
+      "enunciado_atomico": "Su ámbito incluye servicios esenciales dependientes de redes y determinados servicios digitales.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q213",
+        "PN-T15-Q214"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F108",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 36,
+      "bloque_titulo": "RDL 12/2018: ámbito y autoridades",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 36,
+      "enunciado_atomico": "Para operadores de servicios esenciales que además sean críticos, la autoridad competente es la Secretaría de Estado de Seguridad a través del CNPIC.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q215",
+        "PN-T15-Q216"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F109",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 37,
+      "bloque_titulo": "Medidas de seguridad y responsable de la información",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 37,
+      "enunciado_atomico": "Las medidas deben gestionar riesgos con proporcionalidad al nivel de exposición e impacto.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q217",
+        "PN-T15-Q218"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F110",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 37,
+      "bloque_titulo": "Medidas de seguridad y responsable de la información",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 37,
+      "enunciado_atomico": "La declaración de aplicabilidad documenta las medidas de seguridad seleccionadas para cumplir las obligaciones.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q219",
+        "PN-T15-Q220"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F111",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 37,
+      "bloque_titulo": "Medidas de seguridad y responsable de la información",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 37,
+      "enunciado_atomico": "El responsable de seguridad de la información se designa en tres meses desde la designación como operador de servicios esenciales.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q221",
+        "PN-T15-Q222"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F112",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 38,
+      "bloque_titulo": "Gestión y notificación de ciberincidentes",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 38,
+      "enunciado_atomico": "Los operadores de servicios esenciales notifican sin dilación indebida los incidentes con efecto perturbador significativo.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q223",
+        "PN-T15-Q224"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F113",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 38,
+      "bloque_titulo": "Gestión y notificación de ciberincidentes",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 38,
+      "enunciado_atomico": "La secuencia puede incluir notificación inicial, actualizaciones intermedias y notificación final tras la resolución.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q225",
+        "PN-T15-Q226"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F114",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 38,
+      "bloque_titulo": "Gestión y notificación de ciberincidentes",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 38,
+      "enunciado_atomico": "La Plataforma Nacional de Notificación y Seguimiento de Ciberincidentes facilita cooperación y trazabilidad entre actores.",
+      "fuente": "RDL12-2018-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q227",
+        "PN-T15-Q228"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F115",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 39,
+      "bloque_titulo": "Esquema Nacional de Seguridad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 39,
+      "enunciado_atomico": "La seguridad como proceso integral incluye elementos humanos, materiales, técnicos, jurídicos y organizativos.",
+      "fuente": "RD311-2022-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q229",
+        "PN-T15-Q230"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F116",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 39,
+      "bloque_titulo": "Esquema Nacional de Seguridad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 39,
+      "enunciado_atomico": "El ENS exige gestión basada en riesgos, vigilancia continua y reevaluación periódica.",
+      "fuente": "RD311-2022-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q231",
+        "PN-T15-Q232"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F117",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 39,
+      "bloque_titulo": "Esquema Nacional de Seguridad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 39,
+      "enunciado_atomico": "El ENS incorpora líneas de defensa y diferenciación de responsabilidades.",
+      "fuente": "RD311-2022-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q233",
+        "PN-T15-Q234"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F118",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 40,
+      "bloque_titulo": "Estrategia Nacional y transición NIS2",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 40,
+      "enunciado_atomico": "La Estrategia Nacional de Ciberseguridad es un marco estratégico alineado con la Estrategia de Seguridad Nacional.",
+      "fuente": "ECN2019-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q235",
+        "PN-T15-Q236"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F119",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 40,
+      "bloque_titulo": "Estrategia Nacional y transición NIS2",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 40,
+      "enunciado_atomico": "La Orden PJC/522/2025 aprobó el procedimiento para elaborar una nueva Estrategia, no la nueva estrategia definitiva.",
+      "fuente": "ECN2019-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q237",
+        "PN-T15-Q238"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F120",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 40,
+      "bloque_titulo": "Estrategia Nacional y transición NIS2",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 40,
+      "enunciado_atomico": "NIS2 amplía el marco europeo, pero debe distinguirse de las obligaciones nacionales vigentes mientras culmina su incorporación.",
+      "fuente": "ECN2019-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q239",
+        "PN-T15-Q240"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F121",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 41,
+      "bloque_titulo": "Respuesta integral y continuidad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 41,
+      "enunciado_atomico": "La respuesta integral coordina seguridad física, ciberseguridad, continuidad y comunicación.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q241",
+        "PN-T15-Q242"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F122",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 41,
+      "bloque_titulo": "Respuesta integral y continuidad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 41,
+      "enunciado_atomico": "La recuperación busca restablecer redes, sistemas y servicio con seguridad y conservar evidencias.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q243",
+        "PN-T15-Q244"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F123",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 41,
+      "bloque_titulo": "Respuesta integral y continuidad",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 41,
+      "enunciado_atomico": "Las lecciones aprendidas deben alimentar análisis, medidas, planes, ejercicios y formación.",
+      "fuente": "L8-2011-T15",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q245",
+        "PN-T15-Q246"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F124",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 42,
+      "bloque_titulo": "Tablero final de examen",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 42,
+      "enunciado_atomico": "La infraestructura estratégica sostiene el servicio; la crítica añade indispensabilidad, ausencia de alternativa y grave impacto.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q247",
+        "PN-T15-Q248"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F125",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 42,
+      "bloque_titulo": "Tablero final de examen",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 42,
+      "enunciado_atomico": "El Catálogo es secreto; el CNPIC identifica; la Secretaría clasifica; la Comisión designa operadores a propuesta del Grupo.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q249",
+        "PN-T15-Q250"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T15-F126",
+      "oposicion": "policia-nacional",
+      "tema": 15,
+      "bloque": 42,
+      "bloque_titulo": "Tablero final de examen",
+      "parte": 6,
+      "parte_titulo": "Gobernanza de la ciberseguridad y cierre",
+      "punto": 42,
+      "enunciado_atomico": "El operador elabora PSO y PPE; el cuerpo policial elabora PAO; el PNPIC se revisa cada cinco años y los demás planes estudiados ordinariamente cada dos.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T15-Q251",
+        "PN-T15-Q252"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    }
+  ],
+  "blocks": [
+    {
+      "number": 1,
+      "title": "Mapa general del Tema 15",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F001",
+        "PN-T15-F002",
+        "PN-T15-F003"
+      ],
+      "questions": [
+        "PN-T15-Q001",
+        "PN-T15-Q002",
+        "PN-T15-Q003",
+        "PN-T15-Q004",
+        "PN-T15-Q005",
+        "PN-T15-Q006"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 2,
+      "title": "Origen y evolución del sistema PIC",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F004",
+        "PN-T15-F005",
+        "PN-T15-F006"
+      ],
+      "questions": [
+        "PN-T15-Q007",
+        "PN-T15-Q008",
+        "PN-T15-Q009",
+        "PN-T15-Q010",
+        "PN-T15-Q011",
+        "PN-T15-Q012"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 3,
+      "title": "Objeto de la Ley 8/2011",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F007",
+        "PN-T15-F008",
+        "PN-T15-F009"
+      ],
+      "questions": [
+        "PN-T15-Q013",
+        "PN-T15-Q014",
+        "PN-T15-Q015",
+        "PN-T15-Q016",
+        "PN-T15-Q017",
+        "PN-T15-Q018"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 4,
+      "title": "Servicio esencial, sector e infraestructura estratégica",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F010",
+        "PN-T15-F011",
+        "PN-T15-F012"
+      ],
+      "questions": [
+        "PN-T15-Q019",
+        "PN-T15-Q020",
+        "PN-T15-Q021",
+        "PN-T15-Q022",
+        "PN-T15-Q023",
+        "PN-T15-Q024"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 5,
+      "title": "Infraestructura crítica, europea y zona crítica",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F013",
+        "PN-T15-F014",
+        "PN-T15-F015"
+      ],
+      "questions": [
+        "PN-T15-Q025",
+        "PN-T15-Q026",
+        "PN-T15-Q027",
+        "PN-T15-Q028",
+        "PN-T15-Q029",
+        "PN-T15-Q030"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 6,
+      "title": "Criterios horizontales de criticidad",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F016",
+        "PN-T15-F017",
+        "PN-T15-F018"
+      ],
+      "questions": [
+        "PN-T15-Q031",
+        "PN-T15-Q032",
+        "PN-T15-Q033",
+        "PN-T15-Q034",
+        "PN-T15-Q035",
+        "PN-T15-Q036"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 7,
+      "title": "Riesgo, interdependencia y protección",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F019",
+        "PN-T15-F020",
+        "PN-T15-F021"
+      ],
+      "questions": [
+        "PN-T15-Q037",
+        "PN-T15-Q038",
+        "PN-T15-Q039",
+        "PN-T15-Q040",
+        "PN-T15-Q041",
+        "PN-T15-Q042"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 8,
+      "title": "Ámbito y sectores estratégicos",
+      "part": 1,
+      "part_title": "Fundamento, conceptos y alcance",
+      "facts": [
+        "PN-T15-F022",
+        "PN-T15-F023",
+        "PN-T15-F024"
+      ],
+      "questions": [
+        "PN-T15-Q043",
+        "PN-T15-Q044",
+        "PN-T15-Q045",
+        "PN-T15-Q046",
+        "PN-T15-Q047",
+        "PN-T15-Q048"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 9,
+      "title": "Naturaleza, contenido y calificación del Catálogo",
+      "part": 2,
+      "part_title": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "facts": [
+        "PN-T15-F025",
+        "PN-T15-F026",
+        "PN-T15-F027"
+      ],
+      "questions": [
+        "PN-T15-Q049",
+        "PN-T15-Q050",
+        "PN-T15-Q051",
+        "PN-T15-Q052",
+        "PN-T15-Q053",
+        "PN-T15-Q054"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 10,
+      "title": "Clasificación e identificación de infraestructuras",
+      "part": 2,
+      "part_title": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "facts": [
+        "PN-T15-F028",
+        "PN-T15-F029",
+        "PN-T15-F030"
+      ],
+      "questions": [
+        "PN-T15-Q055",
+        "PN-T15-Q056",
+        "PN-T15-Q057",
+        "PN-T15-Q058",
+        "PN-T15-Q059",
+        "PN-T15-Q060"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 11,
+      "title": "Gestión, actualización y acceso al Catálogo",
+      "part": 2,
+      "part_title": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "facts": [
+        "PN-T15-F031",
+        "PN-T15-F032",
+        "PN-T15-F033"
+      ],
+      "questions": [
+        "PN-T15-Q061",
+        "PN-T15-Q062",
+        "PN-T15-Q063",
+        "PN-T15-Q064",
+        "PN-T15-Q065",
+        "PN-T15-Q066"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 12,
+      "title": "Información sensible y comunicaciones seguras",
+      "part": 2,
+      "part_title": "Catálogo Nacional de Infraestructuras Estratégicas",
+      "facts": [
+        "PN-T15-F034",
+        "PN-T15-F035",
+        "PN-T15-F036"
+      ],
+      "questions": [
+        "PN-T15-Q067",
+        "PN-T15-Q068",
+        "PN-T15-Q069",
+        "PN-T15-Q070",
+        "PN-T15-Q071",
+        "PN-T15-Q072"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 13,
+      "title": "Arquitectura del Sistema PIC",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F037",
+        "PN-T15-F038",
+        "PN-T15-F039"
+      ],
+      "questions": [
+        "PN-T15-Q073",
+        "PN-T15-Q074",
+        "PN-T15-Q075",
+        "PN-T15-Q076",
+        "PN-T15-Q077",
+        "PN-T15-Q078"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 14,
+      "title": "Secretaría de Estado de Seguridad y CNPIC",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F040",
+        "PN-T15-F041",
+        "PN-T15-F042"
+      ],
+      "questions": [
+        "PN-T15-Q079",
+        "PN-T15-Q080",
+        "PN-T15-Q081",
+        "PN-T15-Q082",
+        "PN-T15-Q083",
+        "PN-T15-Q084"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 15,
+      "title": "Comisión Nacional PIC",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F043",
+        "PN-T15-F044",
+        "PN-T15-F045"
+      ],
+      "questions": [
+        "PN-T15-Q085",
+        "PN-T15-Q086",
+        "PN-T15-Q087",
+        "PN-T15-Q088",
+        "PN-T15-Q089",
+        "PN-T15-Q090"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 16,
+      "title": "Grupo de Trabajo Interdepartamental",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F046",
+        "PN-T15-F047",
+        "PN-T15-F048"
+      ],
+      "questions": [
+        "PN-T15-Q091",
+        "PN-T15-Q092",
+        "PN-T15-Q093",
+        "PN-T15-Q094",
+        "PN-T15-Q095",
+        "PN-T15-Q096"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 17,
+      "title": "Ministerios, Delegaciones y Fuerzas de Seguridad",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F049",
+        "PN-T15-F050",
+        "PN-T15-F051"
+      ],
+      "questions": [
+        "PN-T15-Q097",
+        "PN-T15-Q098",
+        "PN-T15-Q099",
+        "PN-T15-Q100",
+        "PN-T15-Q101",
+        "PN-T15-Q102"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 18,
+      "title": "Comunidades autónomas y entidades locales",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F052",
+        "PN-T15-F053",
+        "PN-T15-F054"
+      ],
+      "questions": [
+        "PN-T15-Q103",
+        "PN-T15-Q104",
+        "PN-T15-Q105",
+        "PN-T15-Q106",
+        "PN-T15-Q107",
+        "PN-T15-Q108"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 19,
+      "title": "Designación y obligaciones del operador crítico",
+      "part": 3,
+      "part_title": "Sistema, autoridades y operadores",
+      "facts": [
+        "PN-T15-F055",
+        "PN-T15-F056",
+        "PN-T15-F057"
+      ],
+      "questions": [
+        "PN-T15-Q109",
+        "PN-T15-Q110",
+        "PN-T15-Q111",
+        "PN-T15-Q112",
+        "PN-T15-Q113",
+        "PN-T15-Q114"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 20,
+      "title": "Plan Nacional de Protección de Infraestructuras Críticas",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F058",
+        "PN-T15-F059",
+        "PN-T15-F060"
+      ],
+      "questions": [
+        "PN-T15-Q115",
+        "PN-T15-Q116",
+        "PN-T15-Q117",
+        "PN-T15-Q118",
+        "PN-T15-Q119",
+        "PN-T15-Q120"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 21,
+      "title": "Planes Estratégicos Sectoriales",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F061",
+        "PN-T15-F062",
+        "PN-T15-F063"
+      ],
+      "questions": [
+        "PN-T15-Q121",
+        "PN-T15-Q122",
+        "PN-T15-Q123",
+        "PN-T15-Q124",
+        "PN-T15-Q125",
+        "PN-T15-Q126"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 22,
+      "title": "Plan de Seguridad del Operador: función y plazo",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F064",
+        "PN-T15-F065",
+        "PN-T15-F066"
+      ],
+      "questions": [
+        "PN-T15-Q127",
+        "PN-T15-Q128",
+        "PN-T15-Q129",
+        "PN-T15-Q130",
+        "PN-T15-Q131",
+        "PN-T15-Q132"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 23,
+      "title": "PSO: aprobación, registro y revisión",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F067",
+        "PN-T15-F068",
+        "PN-T15-F069"
+      ],
+      "questions": [
+        "PN-T15-Q133",
+        "PN-T15-Q134",
+        "PN-T15-Q135",
+        "PN-T15-Q136",
+        "PN-T15-Q137",
+        "PN-T15-Q138"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 24,
+      "title": "Plan de Protección Específico: función y plazo",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F070",
+        "PN-T15-F071",
+        "PN-T15-F072"
+      ],
+      "questions": [
+        "PN-T15-Q139",
+        "PN-T15-Q140",
+        "PN-T15-Q141",
+        "PN-T15-Q142",
+        "PN-T15-Q143",
+        "PN-T15-Q144"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 25,
+      "title": "PPE: aprobación, revisión e inspección",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F073",
+        "PN-T15-F074",
+        "PN-T15-F075"
+      ],
+      "questions": [
+        "PN-T15-Q145",
+        "PN-T15-Q146",
+        "PN-T15-Q147",
+        "PN-T15-Q148",
+        "PN-T15-Q149",
+        "PN-T15-Q150"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 26,
+      "title": "Plan de Apoyo Operativo",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F076",
+        "PN-T15-F077",
+        "PN-T15-F078"
+      ],
+      "questions": [
+        "PN-T15-Q151",
+        "PN-T15-Q152",
+        "PN-T15-Q153",
+        "PN-T15-Q154",
+        "PN-T15-Q155",
+        "PN-T15-Q156"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 27,
+      "title": "PAO: registro, acceso y revisión",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F079",
+        "PN-T15-F080",
+        "PN-T15-F081"
+      ],
+      "questions": [
+        "PN-T15-Q157",
+        "PN-T15-Q158",
+        "PN-T15-Q159",
+        "PN-T15-Q160",
+        "PN-T15-Q161",
+        "PN-T15-Q162"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 28,
+      "title": "Comparativa de los cinco planes",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F082",
+        "PN-T15-F083",
+        "PN-T15-F084"
+      ],
+      "questions": [
+        "PN-T15-Q163",
+        "PN-T15-Q164",
+        "PN-T15-Q165",
+        "PN-T15-Q166",
+        "PN-T15-Q167",
+        "PN-T15-Q168"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 29,
+      "title": "Responsable de Seguridad y Enlace",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F085",
+        "PN-T15-F086",
+        "PN-T15-F087"
+      ],
+      "questions": [
+        "PN-T15-Q169",
+        "PN-T15-Q170",
+        "PN-T15-Q171",
+        "PN-T15-Q172",
+        "PN-T15-Q173",
+        "PN-T15-Q174"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 30,
+      "title": "Delegado de Seguridad de la infraestructura",
+      "part": 4,
+      "part_title": "Instrumentos de planificación y figuras de enlace",
+      "facts": [
+        "PN-T15-F088",
+        "PN-T15-F089",
+        "PN-T15-F090"
+      ],
+      "questions": [
+        "PN-T15-Q175",
+        "PN-T15-Q176",
+        "PN-T15-Q177",
+        "PN-T15-Q178",
+        "PN-T15-Q179",
+        "PN-T15-Q180"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 31,
+      "title": "Sistemas de control industrial: SCADA y DCS",
+      "part": 5,
+      "part_title": "Seguridad lógica, sistemas industriales y respuesta",
+      "facts": [
+        "PN-T15-F091",
+        "PN-T15-F092",
+        "PN-T15-F093"
+      ],
+      "questions": [
+        "PN-T15-Q181",
+        "PN-T15-Q182",
+        "PN-T15-Q183",
+        "PN-T15-Q184",
+        "PN-T15-Q185",
+        "PN-T15-Q186"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 32,
+      "title": "Dimensiones de seguridad: CIDAT",
+      "part": 5,
+      "part_title": "Seguridad lógica, sistemas industriales y respuesta",
+      "facts": [
+        "PN-T15-F094",
+        "PN-T15-F095",
+        "PN-T15-F096"
+      ],
+      "questions": [
+        "PN-T15-Q187",
+        "PN-T15-Q188",
+        "PN-T15-Q189",
+        "PN-T15-Q190",
+        "PN-T15-Q191",
+        "PN-T15-Q192"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 33,
+      "title": "Amenaza, vulnerabilidad, riesgo e incidente",
+      "part": 5,
+      "part_title": "Seguridad lógica, sistemas industriales y respuesta",
+      "facts": [
+        "PN-T15-F097",
+        "PN-T15-F098",
+        "PN-T15-F099"
+      ],
+      "questions": [
+        "PN-T15-Q193",
+        "PN-T15-Q194",
+        "PN-T15-Q195",
+        "PN-T15-Q196",
+        "PN-T15-Q197",
+        "PN-T15-Q198"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 34,
+      "title": "Amenazas físicas, humanas y lógicas",
+      "part": 5,
+      "part_title": "Seguridad lógica, sistemas industriales y respuesta",
+      "facts": [
+        "PN-T15-F100",
+        "PN-T15-F101",
+        "PN-T15-F102"
+      ],
+      "questions": [
+        "PN-T15-Q199",
+        "PN-T15-Q200",
+        "PN-T15-Q201",
+        "PN-T15-Q202",
+        "PN-T15-Q203",
+        "PN-T15-Q204"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 35,
+      "title": "INCIBE y los CSIRT de referencia",
+      "part": 5,
+      "part_title": "Seguridad lógica, sistemas industriales y respuesta",
+      "facts": [
+        "PN-T15-F103",
+        "PN-T15-F104",
+        "PN-T15-F105"
+      ],
+      "questions": [
+        "PN-T15-Q205",
+        "PN-T15-Q206",
+        "PN-T15-Q207",
+        "PN-T15-Q208",
+        "PN-T15-Q209",
+        "PN-T15-Q210"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 36,
+      "title": "RDL 12/2018: ámbito y autoridades",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F106",
+        "PN-T15-F107",
+        "PN-T15-F108"
+      ],
+      "questions": [
+        "PN-T15-Q211",
+        "PN-T15-Q212",
+        "PN-T15-Q213",
+        "PN-T15-Q214",
+        "PN-T15-Q215",
+        "PN-T15-Q216"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 37,
+      "title": "Medidas de seguridad y responsable de la información",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F109",
+        "PN-T15-F110",
+        "PN-T15-F111"
+      ],
+      "questions": [
+        "PN-T15-Q217",
+        "PN-T15-Q218",
+        "PN-T15-Q219",
+        "PN-T15-Q220",
+        "PN-T15-Q221",
+        "PN-T15-Q222"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 38,
+      "title": "Gestión y notificación de ciberincidentes",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F112",
+        "PN-T15-F113",
+        "PN-T15-F114"
+      ],
+      "questions": [
+        "PN-T15-Q223",
+        "PN-T15-Q224",
+        "PN-T15-Q225",
+        "PN-T15-Q226",
+        "PN-T15-Q227",
+        "PN-T15-Q228"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 39,
+      "title": "Esquema Nacional de Seguridad",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F115",
+        "PN-T15-F116",
+        "PN-T15-F117"
+      ],
+      "questions": [
+        "PN-T15-Q229",
+        "PN-T15-Q230",
+        "PN-T15-Q231",
+        "PN-T15-Q232",
+        "PN-T15-Q233",
+        "PN-T15-Q234"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 40,
+      "title": "Estrategia Nacional y transición NIS2",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F118",
+        "PN-T15-F119",
+        "PN-T15-F120"
+      ],
+      "questions": [
+        "PN-T15-Q235",
+        "PN-T15-Q236",
+        "PN-T15-Q237",
+        "PN-T15-Q238",
+        "PN-T15-Q239",
+        "PN-T15-Q240"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 41,
+      "title": "Respuesta integral y continuidad",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F121",
+        "PN-T15-F122",
+        "PN-T15-F123"
+      ],
+      "questions": [
+        "PN-T15-Q241",
+        "PN-T15-Q242",
+        "PN-T15-Q243",
+        "PN-T15-Q244",
+        "PN-T15-Q245",
+        "PN-T15-Q246"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 42,
+      "title": "Tablero final de examen",
+      "part": 6,
+      "part_title": "Gobernanza de la ciberseguridad y cierre",
+      "facts": [
+        "PN-T15-F124",
+        "PN-T15-F125",
+        "PN-T15-F126"
+      ],
+      "questions": [
+        "PN-T15-Q247",
+        "PN-T15-Q248",
+        "PN-T15-Q249",
+        "PN-T15-Q250",
+        "PN-T15-Q251",
+        "PN-T15-Q252"
+      ],
+      "status": "complete"
+    }
+  ]
+}

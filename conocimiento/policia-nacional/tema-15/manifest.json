@@ -1,0 +1,85 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-15",
+  "topic_number": 15,
+  "slug": "proteccion-infraestructuras-criticas-ciberseguridad",
+  "title": "Protección de infraestructuras críticas y ciberseguridad",
+  "content_version": "1.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-07-30",
+  "source_file": "conocimiento/policia-nacional/tema-15/master.md",
+  "source_rights": {
+    "third_party_document_used_as": "coverage_checklist_only",
+    "third_party_text_reused": false,
+    "official_sources_only_for_legal_content": true
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-15-proteccion-infraestructuras-criticas-ciberseguridad.md",
+    "atestado": "temas/policia-nacional/atestado/tema-15-proteccion-infraestructuras-criticas-ciberseguridad.md"
+  },
+  "semantic_blocks": 42,
+  "atomic_facts": 126,
+  "master_statements": 126,
+  "coverage_file": "conocimiento/policia-nacional/tema-15/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "L8-2011-T15",
+    "RD704-2011-T15",
+    "RDL12-2018-T15",
+    "RD43-2021-T15",
+    "RD311-2022-T15",
+    "ECN2019-T15",
+    "PJC522-2025-T15",
+    "DIR2022-2555-T15",
+    "RD207-2024-T15",
+    "CNPIC-T15",
+    "INCIBE-T15"
+  ],
+  "official_exam_items": 12,
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-15/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrative_explained",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-15/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-15/manifest.json",
+    "questions": 252,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-15/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-15/manifest.json",
+    "total": 32,
+    "planned": 0
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-15/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-07-30",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-15/revision-1.0.md"
+  },
+  "pedagogical_version": "1.0.0",
+  "visual_version": "1.0.0"
+}

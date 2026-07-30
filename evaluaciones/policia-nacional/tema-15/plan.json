@@ -1,0 +1,299 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 15,
+  "topic_title": "Protección de infraestructuras críticas y ciberseguridad",
+  "id_prefix": "PN-T15",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-15/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-15/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa general del Tema 15"
+      },
+      {
+        "number": 2,
+        "title": "Origen y evolución del sistema PIC"
+      },
+      {
+        "number": 3,
+        "title": "Objeto de la Ley 8/2011"
+      },
+      {
+        "number": 4,
+        "title": "Servicio esencial, sector e infraestructura estratégica"
+      },
+      {
+        "number": 5,
+        "title": "Infraestructura crítica, europea y zona crítica"
+      },
+      {
+        "number": 6,
+        "title": "Criterios horizontales de criticidad"
+      },
+      {
+        "number": 7,
+        "title": "Riesgo, interdependencia y protección"
+      },
+      {
+        "number": 8,
+        "title": "Ámbito y sectores estratégicos"
+      },
+      {
+        "number": 9,
+        "title": "Naturaleza, contenido y calificación del Catálogo"
+      },
+      {
+        "number": 10,
+        "title": "Clasificación e identificación de infraestructuras"
+      },
+      {
+        "number": 11,
+        "title": "Gestión, actualización y acceso al Catálogo"
+      },
+      {
+        "number": 12,
+        "title": "Información sensible y comunicaciones seguras"
+      },
+      {
+        "number": 13,
+        "title": "Arquitectura del Sistema PIC"
+      },
+      {
+        "number": 14,
+        "title": "Secretaría de Estado de Seguridad y CNPIC"
+      },
+      {
+        "number": 15,
+        "title": "Comisión Nacional PIC"
+      },
+      {
+        "number": 16,
+        "title": "Grupo de Trabajo Interdepartamental"
+      },
+      {
+        "number": 17,
+        "title": "Ministerios, Delegaciones y Fuerzas de Seguridad"
+      },
+      {
+        "number": 18,
+        "title": "Comunidades autónomas y entidades locales"
+      },
+      {
+        "number": 19,
+        "title": "Designación y obligaciones del operador crítico"
+      },
+      {
+        "number": 20,
+        "title": "Plan Nacional de Protección de Infraestructuras Críticas"
+      },
+      {
+        "number": 21,
+        "title": "Planes Estratégicos Sectoriales"
+      },
+      {
+        "number": 22,
+        "title": "Plan de Seguridad del Operador: función y plazo"
+      },
+      {
+        "number": 23,
+        "title": "PSO: aprobación, registro y revisión"
+      },
+      {
+        "number": 24,
+        "title": "Plan de Protección Específico: función y plazo"
+      },
+      {
+        "number": 25,
+        "title": "PPE: aprobación, revisión e inspección"
+      },
+      {
+        "number": 26,
+        "title": "Plan de Apoyo Operativo"
+      },
+      {
+        "number": 27,
+        "title": "PAO: registro, acceso y revisión"
+      },
+      {
+        "number": 28,
+        "title": "Comparativa de los cinco planes"
+      },
+      {
+        "number": 29,
+        "title": "Responsable de Seguridad y Enlace"
+      },
+      {
+        "number": 30,
+        "title": "Delegado de Seguridad de la infraestructura"
+      },
+      {
+        "number": 31,
+        "title": "Sistemas de control industrial: SCADA y DCS"
+      },
+      {
+        "number": 32,
+        "title": "Dimensiones de seguridad: CIDAT"
+      },
+      {
+        "number": 33,
+        "title": "Amenaza, vulnerabilidad, riesgo e incidente"
+      },
+      {
+        "number": 34,
+        "title": "Amenazas físicas, humanas y lógicas"
+      },
+      {
+        "number": 35,
+        "title": "INCIBE y los CSIRT de referencia"
+      },
+      {
+        "number": 36,
+        "title": "RDL 12/2018: ámbito y autoridades"
+      },
+      {
+        "number": 37,
+        "title": "Medidas de seguridad y responsable de la información"
+      },
+      {
+        "number": 38,
+        "title": "Gestión y notificación de ciberincidentes"
+      },
+      {
+        "number": 39,
+        "title": "Esquema Nacional de Seguridad"
+      },
+      {
+        "number": 40,
+        "title": "Estrategia Nacional y transición NIS2"
+      },
+      {
+        "number": 41,
+        "title": "Respuesta integral y continuidad"
+      },
+      {
+        "number": 42,
+        "title": "Tablero final de examen"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 6,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamento, conceptos y alcance",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Catálogo Nacional de Infraestructuras Estratégicas",
+        "blocks": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Sistema, autoridades y operadores",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Instrumentos de planificación y figuras de enlace",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Seguridad lógica, sistemas industriales y respuesta",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Gobernanza de la ciberseguridad y cierre",
+        "blocks": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

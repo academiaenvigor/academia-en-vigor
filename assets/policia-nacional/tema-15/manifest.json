@@ -1,0 +1,562 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-15",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 32,
+    "integrated": 32,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-30",
+  "resources": [
+    {
+      "id": "PN-T15-DG01",
+      "file": "t15-01-mapa-general.webp",
+      "title": "Mapa general ilustrado de las seis partes del Tema 15",
+      "type": "infografia",
+      "placement": "Mapa del tema",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general ilustrado de las seis partes del Tema 15. Familia compositiva: mapa general.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG02",
+      "file": "t15-02-ruta-servicio-respuesta.webp",
+      "title": "Ruta completa desde el servicio esencial hasta la respuesta coordinada",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ruta completa desde el servicio esencial hasta la respuesta coordinada. Familia compositiva: recorrido panorámico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG03",
+      "file": "t15-il-01-efecto-domino-servicios.webp",
+      "title": "Ciudad conectada donde un fallo inicial amenaza varios servicios esenciales y una red coordinada contiene la cascada",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ciudad conectada donde un fallo inicial amenaza varios servicios esenciales y una red coordinada contiene la cascada. Familia compositiva: escena panorámica.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG04",
+      "file": "t15-04-cadena-servicio-sector-activo.webp",
+      "title": "Cadena explicada servicio esencial, sector estratégico e infraestructura estratégica",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Cadena explicada servicio esencial, sector estratégico e infraestructura estratégica. Familia compositiva: cadena de valor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG05",
+      "file": "t15-05-tres-niveles-criticidad.webp",
+      "title": "Comparativa explicada entre estratégica, crítica, crítica europea y zona crítica",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparativa explicada entre estratégica, crítica, crítica europea y zona crítica. Familia compositiva: escalera conceptual.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG06",
+      "file": "t15-06-cuatro-impactos-criticidad.webp",
+      "title": "Panel de cuatro impactos con preguntas de evaluación y ejemplos visuales",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Panel de cuatro impactos con preguntas de evaluación y ejemplos visuales. Familia compositiva: cuadrante analítico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG07",
+      "file": "t15-07-formula-riesgo-cascada.webp",
+      "title": "Fórmula visual amenaza, vulnerabilidad, impacto e interdependencia",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Fórmula visual amenaza, vulnerabilidad, impacto e interdependencia. Familia compositiva: ecuación ilustrada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG08",
+      "file": "t15-il-02-ciudad-doce-sectores.webp",
+      "title": "Ciudad viva donde agua, energía, salud, transporte, comunicaciones y alimentación funcionan como un ecosistema conectado",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ciudad viva donde agua, energía, salud, transporte, comunicaciones y alimentación funcionan como un ecosistema conectado. Familia compositiva: ecosistema urbano.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG09",
+      "file": "t15-09-ficha-secreta-catalogo.webp",
+      "title": "Ficha del Catálogo con campos exactos, finalidad operativa y sello SECRETO",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ficha del Catálogo con campos exactos, finalidad operativa y sello SECRETO. Familia compositiva: expediente clasificado.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG10",
+      "file": "t15-10-doble-llave-identificar-clasificar.webp",
+      "title": "Doble llave explicada: identificación técnica del CNPIC y clasificación de la Secretaría de Estado",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Doble llave explicada: identificación técnica del CNPIC y clasificación de la Secretaría de Estado. Familia compositiva: flujo de dos autoridades.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG11",
+      "file": "t15-11-ciclo-anual-catalogo.webp",
+      "title": "Ciclo de aporte, validación, actualización anual, custodia y acceso autorizado",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ciclo de aporte, validación, actualización anual, custodia y acceso autorizado. Familia compositiva: ciclo documental.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG12",
+      "file": "t15-12-tres-barreras-informacion.webp",
+      "title": "Tres barreras de acceso y triada de seguridad aplicada a información PIC",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres barreras de acceso y triada de seguridad aplicada a información PIC. Familia compositiva: fortaleza por capas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG13",
+      "file": "t15-13-organigrama-sistema-pic.webp",
+      "title": "Organigrama explicado desde Secretaría de Estado hasta operadores y cuerpos policiales",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Organigrama explicado desde Secretaría de Estado hasta operadores y cuerpos policiales. Familia compositiva: organigrama vertical.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG14",
+      "file": "t15-14-secretaria-cnpic-reparto.webp",
+      "title": "Reparto de funciones con verbos exactos entre Secretaría de Estado y CNPIC",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Reparto de funciones con verbos exactos entre Secretaría de Estado y CNPIC. Familia compositiva: comparativa engranada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG15",
+      "file": "t15-15-comision-tres-decisiones.webp",
+      "title": "Comisión Nacional con adscripción y tres decisiones clave explicadas",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comisión Nacional con adscripción y tres decisiones clave explicadas. Familia compositiva: mesa de decisiones.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG16",
+      "file": "t15-16-grupo-prepara-comision-decide.webp",
+      "title": "Flujo Grupo de Trabajo prepara y propone, Comisión aprueba y designa",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Flujo Grupo de Trabajo prepara y propone, Comisión aprueba y designa. Familia compositiva: cinta de producción normativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG17",
+      "file": "t15-17-matriz-sector-territorio.webp",
+      "title": "Matriz con funciones sectoriales de ministerios y territoriales de Delegaciones",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Matriz con funciones sectoriales de ministerios y territoriales de Delegaciones. Familia compositiva: matriz cruzada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG18",
+      "file": "t15-19-ruta-designacion-operador.webp",
+      "title": "Ruta de designación con propuesta, notificación, 15 días, Comisión y recurso",
+      "type": "infografia",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ruta de designación con propuesta, notificación, 15 días, Comisión y recurso. Familia compositiva: expediente cronológico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG19",
+      "file": "t15-20-pnpic-cinco-anos.webp",
+      "title": "Ficha completa del PNPIC con autor, aprobación, contenido, activación y revisión quinquenal",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ficha completa del PNPIC con autor, aprobación, contenido, activación y revisión quinquenal. Familia compositiva: panel de mando.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG20",
+      "file": "t15-21-pes-radiografia-sector.webp",
+      "title": "Radiografía sectorial con cinco contenidos, autor, aprobador y revisión bienal",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Radiografía sectorial con cinco contenidos, autor, aprobador y revisión bienal. Familia compositiva: corte transversal.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG21",
+      "file": "t15-22-pso-seis-meses.webp",
+      "title": "Reloj de seis meses y contenidos estratégicos del Plan de Seguridad del Operador",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Reloj de seis meses y contenidos estratégicos del Plan de Seguridad del Operador. Familia compositiva: reloj documental.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG22",
+      "file": "t15-24-ppe-cuatro-meses.webp",
+      "title": "Del PSO al PPE en cuatro meses con medidas físicas, lógicas, permanentes y temporales",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Del PSO al PPE en cuatro meses con medidas físicas, lógicas, permanentes y temporales. Familia compositiva: zoom estratégico-operativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG23",
+      "file": "t15-26-doble-escudo-ppe-pao.webp",
+      "title": "Doble escudo explicado: medidas del operador en PPE y apoyo policial en PAO",
+      "type": "infografia",
+      "placement": "Bloque 26",
+      "status": "integrated_webp",
+      "block": 26,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Doble escudo explicado: medidas del operador en PPE y apoyo policial en PAO. Familia compositiva: doble perímetro.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG24",
+      "file": "t15-28-tabla-cinco-planes.webp",
+      "title": "Gran comparativa textual de los cinco planes con escala, autor, aprobación, contenido y revisión",
+      "type": "infografia",
+      "placement": "Bloque 28",
+      "status": "integrated_webp",
+      "block": 28,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Gran comparativa textual de los cinco planes con escala, autor, aprobación, contenido y revisión. Familia compositiva: tabla ilustrada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG25",
+      "file": "t15-29-rse-ficha-completa.webp",
+      "title": "Ficha textual del RSE con plazo, requisito, ámbito, interlocutor y funciones",
+      "type": "infografia",
+      "placement": "Bloque 29",
+      "status": "integrated_webp",
+      "block": 29,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ficha textual del RSE con plazo, requisito, ámbito, interlocutor y funciones. Familia compositiva: tarjeta profesional ampliada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG26",
+      "file": "t15-30-rse-delegado-diferencias.webp",
+      "title": "Comparativa textual RSE frente a Delegado: ámbito, destinatario, inicio del plazo y función",
+      "type": "infografia",
+      "placement": "Bloque 30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparativa textual RSE frente a Delegado: ámbito, destinatario, inicio del plazo y función. Familia compositiva: duelo de roles.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG27",
+      "file": "t15-il-03-control-industrial-hibrido.webp",
+      "title": "Centro de control donde un equipo contiene una amenaza digital antes de que alcance bombas, red eléctrica y transporte",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Centro de control donde un equipo contiene una amenaza digital antes de que alcance bombas, red eléctrica y transporte. Familia compositiva: escena de tensión operativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG28",
+      "file": "t15-32-estrella-cidat.webp",
+      "title": "Estrella de cinco dimensiones con definición breve, fallo típico y control asociado",
+      "type": "infografia",
+      "placement": "Bloque 32",
+      "status": "integrated_webp",
+      "block": 32,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Estrella de cinco dimensiones con definición breve, fallo típico y control asociado. Familia compositiva: estrella radial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG29",
+      "file": "t15-34-radar-amenazas-controles.webp",
+      "title": "Radar de amenazas humanas, físicas, lógicas y de suministro con controles asociados",
+      "type": "infografia",
+      "placement": "Bloque 34",
+      "status": "integrated_webp",
+      "block": 34,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Radar de amenazas humanas, físicas, lógicas y de suministro con controles asociados. Familia compositiva: radar multicapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG30",
+      "file": "t15-36-doble-marco-pic-nis.webp",
+      "title": "Diagrama de solapamiento entre operador crítico, servicio esencial y servicio digital",
+      "type": "infografia",
+      "placement": "Bloque 36",
+      "status": "integrated_webp",
+      "block": 36,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Diagrama de solapamiento entre operador crítico, servicio esencial y servicio digital. Familia compositiva: diagrama de Venn operativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG31",
+      "file": "t15-37-tres-figuras-seguridad.webp",
+      "title": "Gran comparativa textual RSE, Delegado y RSI con norma, plazo, ámbito e interlocutor",
+      "type": "infografia",
+      "placement": "Bloque 37",
+      "status": "integrated_webp",
+      "block": 37,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Gran comparativa textual RSE, Delegado y RSI con norma, plazo, ámbito e interlocutor. Familia compositiva: triple ficha.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T15-DG32",
+      "file": "t15-38-linea-notificacion-incidente.webp",
+      "title": "Línea temporal textual desde detección hasta notificación final, con actores y contenido de cada fase",
+      "type": "infografia",
+      "placement": "Bloque 38",
+      "status": "integrated_webp",
+      "block": 38,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Línea temporal textual desde detección hasta notificación final, con actores y contenido de cada fase. Familia compositiva: cronología de crisis.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}
