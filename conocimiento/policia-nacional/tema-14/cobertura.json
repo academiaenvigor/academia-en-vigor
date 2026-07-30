@@ -1,0 +1,3678 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "topic": "tema-14",
+  "tema": 14,
+  "status": "complete_validated_question_bank",
+  "scope": {
+    "blocks_completed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "master_statements_total": 126,
+    "atomic_facts_extracted": 126,
+    "remaining_blocks": []
+  },
+  "total_atomic_facts": 126,
+  "covered_atomic_facts": 126,
+  "coverage_percent": 100.0,
+  "total_questions": 252,
+  "requirements": {},
+  "facts": [
+    {
+      "id": "PN-T14-F001",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 1,
+      "bloque_titulo": "Mapa de la Ley Orgánica 4/2015",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 1,
+      "enunciado_atomico": "El epígrafe oficial exige estudiar disposiciones generales, documentación, actuaciones de mantenimiento, potestades administrativas especiales y régimen sancionador.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q001",
+        "PN-T14-Q002"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F002",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 1,
+      "bloque_titulo": "Mapa de la Ley Orgánica 4/2015",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 1,
+      "enunciado_atomico": "La Ley Orgánica 4/2015 se estructura en cinco capítulos.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q003",
+        "PN-T14-Q004"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F003",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 1,
+      "bloque_titulo": "Mapa de la Ley Orgánica 4/2015",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 1,
+      "enunciado_atomico": "La lectura vigente debe integrar el texto legal, sus modificaciones y las interpretaciones del Tribunal Constitucional.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q005",
+        "PN-T14-Q006"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F004",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 2,
+      "bloque_titulo": "Objeto y ámbito de aplicación",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 2,
+      "enunciado_atomico": "La salvaguarda de la seguridad ciudadana, como bien jurídico colectivo, es función del Estado con sujeción a la Constitución y las leyes.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q007",
+        "PN-T14-Q008"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F005",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 2,
+      "bloque_titulo": "Objeto y ámbito de aplicación",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 2,
+      "enunciado_atomico": "La ley tutela la seguridad ciudadana mediante la protección de personas y bienes y el mantenimiento de la tranquilidad ciudadana.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q009",
+        "PN-T14-Q010"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F006",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 2,
+      "bloque_titulo": "Objeto y ámbito de aplicación",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 2,
+      "enunciado_atomico": "La Ley Orgánica 4/2015 se aplica en todo el territorio nacional sin perjuicio de las competencias autonómicas asumidas.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q011",
+        "PN-T14-Q012"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F007",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 3,
+      "bloque_titulo": "Fines de la ley",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 3,
+      "enunciado_atomico": "La protección del libre ejercicio de derechos y libertades y de los demás derechos reconocidos por el ordenamiento es un fin de la ley.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q013",
+        "PN-T14-Q014"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F008",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 3,
+      "bloque_titulo": "Fines de la ley",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 3,
+      "enunciado_atomico": "La preservación de la seguridad y la convivencia ciudadanas forma parte de los fines legales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q015",
+        "PN-T14-Q016"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F009",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 3,
+      "bloque_titulo": "Fines de la ley",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 3,
+      "enunciado_atomico": "La ley incluye entre sus fines la prevención de delitos e infracciones administrativas directamente relacionadas con sus objetivos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q017",
+        "PN-T14-Q018"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F010",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 4,
+      "bloque_titulo": "Principios de actuación y control",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 4,
+      "enunciado_atomico": "La intervención debe regirse por legalidad, igualdad de trato y no discriminación, oportunidad, proporcionalidad, eficacia, eficiencia y responsabilidad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q019",
+        "PN-T14-Q020"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F011",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 4,
+      "bloque_titulo": "Principios de actuación y control",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 4,
+      "enunciado_atomico": "La actividad de intervención se justifica por una amenaza concreta o un comportamiento objetivamente peligroso susceptible de provocar un perjuicio real.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q021",
+        "PN-T14-Q022"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F012",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 4,
+      "bloque_titulo": "Principios de actuación y control",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 4,
+      "enunciado_atomico": "Las medidas limitativas de derechos deben interpretarse y aplicarse del modo más favorable a la plena efectividad de los derechos fundamentales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q023",
+        "PN-T14-Q024"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F013",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 5,
+      "bloque_titulo": "Autoridades, cooperación y deber de colaboración",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 5,
+      "enunciado_atomico": "El Ministro del Interior y el Secretario de Estado de Seguridad son autoridades competentes en materia de seguridad ciudadana.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q025",
+        "PN-T14-Q026"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F014",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 5,
+      "bloque_titulo": "Autoridades, cooperación y deber de colaboración",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 5,
+      "enunciado_atomico": "Las administraciones con competencias se relacionan conforme a cooperación y lealtad institucional.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q027",
+        "PN-T14-Q028"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F015",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 5,
+      "bloque_titulo": "Autoridades, cooperación y deber de colaboración",
+      "parte": 1,
+      "parte_titulo": "Fundamento, fines y autoridades",
+      "punto": 5,
+      "enunciado_atomico": "La ayuda recabada de particulares debe ser necesaria y no puede implicar riesgo personal para ellos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q029",
+        "PN-T14-Q030"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F016",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 6,
+      "bloque_titulo": "DNI: naturaleza y valor acreditativo",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 6,
+      "enunciado_atomico": "El DNI es el único documento con suficiente valor por sí solo para acreditar, a todos los efectos, la identidad y los datos personales de su titular.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q031",
+        "PN-T14-Q032"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F017",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 6,
+      "bloque_titulo": "DNI: naturaleza y valor acreditativo",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 6,
+      "enunciado_atomico": "El Real Decreto 255/2025 regula el DNI en sus versiones física y digital.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q033",
+        "PN-T14-Q034"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F018",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 6,
+      "bloque_titulo": "DNI: naturaleza y valor acreditativo",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 6,
+      "enunciado_atomico": "La identificación digital mediante DNI puede realizarse de forma presencial o remota por un procedimiento seguro.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q035",
+        "PN-T14-Q036"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F019",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 7,
+      "bloque_titulo": "DNI: obtención, custodia y exhibición",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 7,
+      "enunciado_atomico": "La obtención del DNI es obligatoria a partir de los catorce años en los términos reglamentarios.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q037",
+        "PN-T14-Q038"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F020",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 7,
+      "bloque_titulo": "DNI: obtención, custodia y exhibición",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 7,
+      "enunciado_atomico": "El titular debe mantener el DNI en vigor y custodiarlo con diligencia.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q039",
+        "PN-T14-Q040"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F021",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 7,
+      "bloque_titulo": "DNI: obtención, custodia y exhibición",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 7,
+      "enunciado_atomico": "La obligación de exhibir el DNI cuando exista requerimiento legal no equivale a una obligación general de llevar siempre la tarjeta física.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q041",
+        "PN-T14-Q042"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F022",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 8,
+      "bloque_titulo": "Contenido del DNI y protección de datos",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 8,
+      "enunciado_atomico": "El DNI incorpora fotografía, firma y los datos personales determinados reglamentariamente con respeto a la intimidad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q043",
+        "PN-T14-Q044"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F023",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 8,
+      "bloque_titulo": "Contenido del DNI y protección de datos",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 8,
+      "enunciado_atomico": "El DNI no puede contener datos relativos, entre otros, a raza, religión, opinión o afiliación sindical.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q045",
+        "PN-T14-Q046"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F024",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 8,
+      "bloque_titulo": "Contenido del DNI y protección de datos",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 8,
+      "enunciado_atomico": "La tarjeta soporte incorpora medidas de seguridad para impedir su falsificación y manipulación.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q047",
+        "PN-T14-Q048"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F025",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 9,
+      "bloque_titulo": "Competencia y gestión del DNI",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 9,
+      "enunciado_atomico": "Corresponde al Ministerio del Interior la competencia exclusiva sobre dirección, organización y gestión del DNI.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q049",
+        "PN-T14-Q050"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F026",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 9,
+      "bloque_titulo": "Competencia y gestión del DNI",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 9,
+      "enunciado_atomico": "La Dirección General de la Policía ejerce la gestión del Documento Nacional de Identidad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q051",
+        "PN-T14-Q052"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F027",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 9,
+      "bloque_titulo": "Competencia y gestión del DNI",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 9,
+      "enunciado_atomico": "A cada DNI se asigna un número personal con consideración de identificador numérico personal de carácter general.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q053",
+        "PN-T14-Q054"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F028",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 10,
+      "bloque_titulo": "Pasaporte de ciudadanos españoles",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 10,
+      "enunciado_atomico": "El pasaporte español acredita, salvo prueba en contrario, identidad y nacionalidad de los españoles fuera de España.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q055",
+        "PN-T14-Q056"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F029",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 10,
+      "bloque_titulo": "Pasaporte de ciudadanos españoles",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 10,
+      "enunciado_atomico": "En territorio nacional la competencia para expedir el pasaporte corresponde a la Dirección General de la Policía.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q057",
+        "PN-T14-Q058"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F030",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 10,
+      "bloque_titulo": "Pasaporte de ciudadanos españoles",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 10,
+      "enunciado_atomico": "En el extranjero el pasaporte es expedido por las representaciones diplomáticas y consulares de España.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q059",
+        "PN-T14-Q060"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F031",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 11,
+      "bloque_titulo": "Documentación de ciudadanos extranjeros",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 11,
+      "enunciado_atomico": "Los extranjeros en España tienen derecho y obligación de conservar y portar la documentación de identidad y la de su situación regular.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q061",
+        "PN-T14-Q062"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F032",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 11,
+      "bloque_titulo": "Documentación de ciudadanos extranjeros",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 11,
+      "enunciado_atomico": "La documentación de origen no puede retirarse salvo en el curso de investigaciones judiciales de carácter penal.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q063",
+        "PN-T14-Q064"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F033",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 11,
+      "bloque_titulo": "Documentación de ciudadanos extranjeros",
+      "parte": 2,
+      "parte_titulo": "Documentación e identificación personal",
+      "punto": 11,
+      "enunciado_atomico": "Si no llevan la documentación consigo, los extranjeros pueden demostrar su identidad por cualquier otro medio.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q065",
+        "PN-T14-Q066"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F034",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 12,
+      "bloque_titulo": "Órdenes, prohibiciones y motivación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 12,
+      "enunciado_atomico": "Las órdenes y prohibiciones del artículo 14 deben adoptarse mediante resolución debidamente motivada.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q067",
+        "PN-T14-Q068"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F035",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 12,
+      "bloque_titulo": "Órdenes, prohibiciones y motivación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 12,
+      "enunciado_atomico": "Las actuaciones policiales dispuestas deben ser estrictamente necesarias para los fines de la ley.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q069",
+        "PN-T14-Q070"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F036",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 12,
+      "bloque_titulo": "Órdenes, prohibiciones y motivación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 12,
+      "enunciado_atomico": "Las autoridades competentes actúan de conformidad con las leyes y reglamentos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q071",
+        "PN-T14-Q072"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F037",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 13,
+      "bloque_titulo": "Entrada en domicilio y edificios públicos",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 13,
+      "enunciado_atomico": "La entrada y registro en domicilio solo procede en los casos permitidos por la Constitución y en los términos legales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q073",
+        "PN-T14-Q074"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F038",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 13,
+      "bloque_titulo": "Entrada en domicilio y edificios públicos",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 13,
+      "enunciado_atomico": "Evitar daños inminentes y graves en catástrofe, calamidad, ruina inminente u otra extrema y urgente necesidad es causa legítima suficiente.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q075",
+        "PN-T14-Q076"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F039",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 13,
+      "bloque_titulo": "Entrada en domicilio y edificios públicos",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 13,
+      "enunciado_atomico": "Tras entrar en un domicilio por las causas del artículo 15, el acta o atestado se remite sin dilación a la autoridad judicial competente.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q077",
+        "PN-T14-Q078"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F040",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 14,
+      "bloque_titulo": "Supuestos para requerir identificación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 14,
+      "enunciado_atomico": "Puede requerirse identificación cuando existan indicios de participación en una infracción.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q079",
+        "PN-T14-Q080"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F041",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 14,
+      "bloque_titulo": "Supuestos para requerir identificación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 14,
+      "enunciado_atomico": "También procede cuando sea razonablemente necesario acreditar la identidad para prevenir la comisión de un delito.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q081",
+        "PN-T14-Q082"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F042",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 14,
+      "bloque_titulo": "Supuestos para requerir identificación",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 14,
+      "enunciado_atomico": "Puede comprobarse la identidad de quien cubra su rostro cuando ello impida o dificulte identificar y resulte preciso para los fines legales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q083",
+        "PN-T14-Q084"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F043",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 15,
+      "bloque_titulo": "Traslado para identificación: límites y garantías",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 15,
+      "enunciado_atomico": "El traslado para identificar solo procede si no es posible la identificación por cualquier medio o si la persona se niega.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q085",
+        "PN-T14-Q086"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F044",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 15,
+      "bloque_titulo": "Traslado para identificación: límites y garantías",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 15,
+      "enunciado_atomico": "La permanencia a efectos exclusivos de identificación no puede superar seis horas.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q087",
+        "PN-T14-Q088"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F045",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 15,
+      "bloque_titulo": "Traslado para identificación: límites y garantías",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 15,
+      "enunciado_atomico": "A la salida debe entregarse un volante con tiempo de permanencia, causa e identidad de los agentes actuantes.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q089",
+        "PN-T14-Q090"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F046",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 16,
+      "bloque_titulo": "Igualdad, información y registro de identificaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 16,
+      "enunciado_atomico": "La identificación debe respetar estrictamente proporcionalidad, igualdad de trato y no discriminación.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q091",
+        "PN-T14-Q092"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F047",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 16,
+      "bloque_titulo": "Igualdad, información y registro de identificaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 16,
+      "enunciado_atomico": "La persona debe ser informada de modo inmediato y comprensible de las razones de la identificación.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q093",
+        "PN-T14-Q094"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F048",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 16,
+      "bloque_titulo": "Igualdad, información y registro de identificaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 16,
+      "enunciado_atomico": "El órgano competente remite mensualmente al Ministerio Fiscal un extracto de las diligencias con el tiempo empleado.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q095",
+        "PN-T14-Q096"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F049",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 17,
+      "bloque_titulo": "Restricción del tránsito y controles",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 17,
+      "enunciado_atomico": "Puede limitarse la circulación o permanencia ante alteración de la seguridad o indicios racionales de que vaya a producirse.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q097",
+        "PN-T14-Q098"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F050",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 17,
+      "bloque_titulo": "Restricción del tránsito y controles",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 17,
+      "enunciado_atomico": "Las zonas de seguridad se mantienen por el tiempo imprescindible para mantener o restablecer la seguridad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q099",
+        "PN-T14-Q100"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F051",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 17,
+      "bloque_titulo": "Restricción del tránsito y controles",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 17,
+      "enunciado_atomico": "Los controles del artículo 17.2 se vinculan a delitos de especial gravedad o generadores de alarma social.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q101",
+        "PN-T14-Q102"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F052",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 18,
+      "bloque_titulo": "Comprobaciones, registros e intervención",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 18,
+      "enunciado_atomico": "Las comprobaciones del artículo 18 requieren indicios de la eventual presencia de armas, explosivos u otros objetos de riesgo.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q103",
+        "PN-T14-Q104"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F053",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 18,
+      "bloque_titulo": "Comprobaciones, registros e intervención",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 18,
+      "enunciado_atomico": "Los agentes pueden intervenir los objetos detectados cuando proceda legalmente.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q105",
+        "PN-T14-Q106"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F054",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 18,
+      "bloque_titulo": "Comprobaciones, registros e intervención",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 18,
+      "enunciado_atomico": "La aprehensión durante la diligencia debe reflejarse en acta, que se firma por el interesado o deja constancia de su negativa.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q107",
+        "PN-T14-Q108"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F055",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 19,
+      "bloque_titulo": "Registro corporal externo",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 19,
+      "enunciado_atomico": "El registro corporal externo exige indicios racionales de que permitirá hallar objetos relevantes para funciones de indagación o prevención.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q109",
+        "PN-T14-Q110"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F056",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 19,
+      "bloque_titulo": "Registro corporal externo",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 19,
+      "enunciado_atomico": "Salvo urgencia por riesgo grave e inminente para los agentes, lo realiza un agente del mismo sexo.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q111",
+        "PN-T14-Q112"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F057",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 19,
+      "bloque_titulo": "Registro corporal externo",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 19,
+      "enunciado_atomico": "Si deja a la vista partes normalmente cubiertas, se realiza en lugar reservado y se deja constancia escrita.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q113",
+        "PN-T14-Q114"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F058",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 20,
+      "bloque_titulo": "Medidas extraordinarias y videocámaras",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 20,
+      "enunciado_atomico": "Las medidas extraordinarias se adoptan en situaciones de emergencia y durante el tiempo estrictamente necesario.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q115",
+        "PN-T14-Q116"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F059",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 20,
+      "bloque_titulo": "Medidas extraordinarias y videocámaras",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 20,
+      "enunciado_atomico": "Si la urgencia lo hace imprescindible, los agentes pueden adoptar estas medidas incluso mediante órdenes verbales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q117",
+        "PN-T14-Q118"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F060",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 20,
+      "bloque_titulo": "Medidas extraordinarias y videocámaras",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 20,
+      "enunciado_atomico": "La grabación mediante videocámaras fijas o móviles exige autorización legal y sujeción a la legislación vigente.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q119",
+        "PN-T14-Q120"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F061",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 21,
+      "bloque_titulo": "Reuniones y manifestaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 21,
+      "enunciado_atomico": "La autoridad debe adoptar medidas para proteger reuniones y manifestaciones e impedir perturbaciones de la seguridad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q121",
+        "PN-T14-Q122"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F062",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 21,
+      "bloque_titulo": "Reuniones y manifestaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 21,
+      "enunciado_atomico": "La disolución de reuniones y manifestaciones constituye el último recurso.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q123",
+        "PN-T14-Q124"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F063",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 21,
+      "bloque_titulo": "Reuniones y manifestaciones",
+      "parte": 3,
+      "parte_titulo": "Potestades generales y reuniones",
+      "punto": 21,
+      "enunciado_atomico": "Ante alteración con armas, explosivos u otros objetos peligrosos puede disolverse sin previo aviso.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q125",
+        "PN-T14-Q126"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F064",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 22,
+      "bloque_titulo": "Registro documental de actividades relevantes",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 22,
+      "enunciado_atomico": "Los centros gestores de residuos metálicos pueden quedar sujetos a registro documental e información.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q127",
+        "PN-T14-Q128"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F065",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 22,
+      "bloque_titulo": "Registro documental de actividades relevantes",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 22,
+      "enunciado_atomico": "La compraventa de joyas y metales es una actividad relevante sometida a las obligaciones aplicables.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q129",
+        "PN-T14-Q130"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F066",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 22,
+      "bloque_titulo": "Registro documental de actividades relevantes",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 22,
+      "enunciado_atomico": "Los titulares de embarcaciones de alta velocidad y aeronaves ligeras deben cumplir las actuaciones documentales previstas en la normativa.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q131",
+        "PN-T14-Q132"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F067",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 23,
+      "bloque_titulo": "Establecimientos, espectáculos y actividades recreativas",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 23,
+      "enunciado_atomico": "Puede exigirse reglamentariamente adoptar medidas de seguridad en instalaciones vulnerables o que generen riesgos directos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q133",
+        "PN-T14-Q134"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F068",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 23,
+      "bloque_titulo": "Establecimientos, espectáculos y actividades recreativas",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 23,
+      "enunciado_atomico": "Un espectáculo puede prohibirse o suspenderse ante peligro cierto para personas o bienes.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q135",
+        "PN-T14-Q136"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F069",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 23,
+      "bloque_titulo": "Establecimientos, espectáculos y actividades recreativas",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 23,
+      "enunciado_atomico": "Los espectáculos deportivos quedan sujetos a la legislación específica contra violencia, racismo, xenofobia e intolerancia.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q137",
+        "PN-T14-Q138"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F070",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 24,
+      "bloque_titulo": "Armas, explosivos y competencia administrativa",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 24,
+      "enunciado_atomico": "La intervención de armas, explosivos, cartuchería y pirotecnia corresponde al Ministerio del Interior a través de la Dirección General de la Guardia Civil.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q139",
+        "PN-T14-Q140"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F071",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 24,
+      "bloque_titulo": "Armas, explosivos y competencia administrativa",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 24,
+      "enunciado_atomico": "El Gobierno regula requisitos de fabricación, reparación, circulación, almacenamiento, comercio, adquisición, tenencia y uso.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q141",
+        "PN-T14-Q142"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F072",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 24,
+      "bloque_titulo": "Armas, explosivos y competencia administrativa",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 24,
+      "enunciado_atomico": "El control incluye inspección y comprobación de medidas de seguridad en fábricas, talleres, depósitos y lugares de utilización.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q143",
+        "PN-T14-Q144"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F073",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 25,
+      "bloque_titulo": "Medidas de control sobre armas y explosivos",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 25,
+      "enunciado_atomico": "Las licencias para armas de defensa personal tienen carácter restrictivo y se limitan a supuestos de estricta necesidad.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q145",
+        "PN-T14-Q146"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F074",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 25,
+      "bloque_titulo": "Medidas de control sobre armas y explosivos",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 25,
+      "enunciado_atomico": "Para conceder licencias se tienen en cuenta la conducta y los antecedentes del interesado.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q147",
+        "PN-T14-Q148"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F075",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 25,
+      "bloque_titulo": "Medidas de control sobre armas y explosivos",
+      "parte": 4,
+      "parte_titulo": "Policía administrativa especial",
+      "punto": 25,
+      "enunciado_atomico": "El solicitante presta consentimiento expreso para recabar sus antecedentes penales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q149",
+        "PN-T14-Q150"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F076",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 26,
+      "bloque_titulo": "Sujetos responsables y menores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 26,
+      "enunciado_atomico": "La responsabilidad por la infracción recae directamente en el autor del hecho.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q151",
+        "PN-T14-Q152"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F077",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 26,
+      "bloque_titulo": "Sujetos responsables y menores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 26,
+      "enunciado_atomico": "Los menores de catorce años están exentos de responsabilidad por las infracciones de esta ley.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q153",
+        "PN-T14-Q154"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F078",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 26,
+      "bloque_titulo": "Sujetos responsables y menores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 26,
+      "enunciado_atomico": "Puede ser organizador quien de hecho presida o dirija la reunión aunque no haya firmado la comunicación.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q155",
+        "PN-T14-Q156"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F079",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 27,
+      "bloque_titulo": "Concurso de normas y órganos sancionadores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 27,
+      "enunciado_atomico": "El precepto especial se aplica con preferencia al general.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q157",
+        "PN-T14-Q158"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F080",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 27,
+      "bloque_titulo": "Concurso de normas y órganos sancionadores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 27,
+      "enunciado_atomico": "El Ministro del Interior sanciona las infracciones muy graves en grado máximo.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q159",
+        "PN-T14-Q160"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F081",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 27,
+      "bloque_titulo": "Concurso de normas y órganos sancionadores",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 27,
+      "enunciado_atomico": "Los Delegados del Gobierno sancionan en la Administración General del Estado las infracciones graves y leves.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q161",
+        "PN-T14-Q162"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F082",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 28,
+      "bloque_titulo": "Graduación de las sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 28,
+      "enunciado_atomico": "Una infracción grave o muy grave se sanciona de partida en grado mínimo.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q163",
+        "PN-T14-Q164"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F083",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 28,
+      "bloque_titulo": "Graduación de las sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 28,
+      "enunciado_atomico": "La reincidencia relevante para el grado medio exige más de una infracción de la misma naturaleza en dos años declarada por resolución firme.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q165",
+        "PN-T14-Q166"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F084",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 28,
+      "bloque_titulo": "Graduación de las sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 28,
+      "enunciado_atomico": "El grado máximo solo procede cuando los hechos revistan especial gravedad y se justifique.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q167",
+        "PN-T14-Q168"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F085",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 29,
+      "bloque_titulo": "Infracciones muy graves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 29,
+      "enunciado_atomico": "La intrusión en una infraestructura básica es muy grave cuando genera riesgo para la vida o integridad física.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q169",
+        "PN-T14-Q170"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F086",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 29,
+      "bloque_titulo": "Infracciones muy graves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 29,
+      "enunciado_atomico": "Las conductas irregulares con armas o explosivos son muy graves cuando, además de no ser delito, causan perjuicios muy graves.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q171",
+        "PN-T14-Q172"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F087",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 29,
+      "bloque_titulo": "Infracciones muy graves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 29,
+      "enunciado_atomico": "Proyectar haces de luz sobre pilotos o conductores es muy grave si puede deslumbrar o distraer y provocar accidentes.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q173",
+        "PN-T14-Q174"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F088",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 30,
+      "bloque_titulo": "Infracciones graves: orden público y reuniones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 30,
+      "enunciado_atomico": "La negativa a identificarse a requerimiento legítimo puede constituir infracción grave cuando no sea delito.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q175",
+        "PN-T14-Q176"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F089",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 30,
+      "bloque_titulo": "Infracciones graves: orden público y reuniones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 30,
+      "enunciado_atomico": "Obstaculizar servicios de emergencia es grave si provoca o incrementa riesgo o agrava las consecuencias del suceso.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q177",
+        "PN-T14-Q178"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F090",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 30,
+      "bloque_titulo": "Infracciones graves: orden público y reuniones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 30,
+      "enunciado_atomico": "Perturbar una reunión o manifestación lícita es grave cuando no constituye infracción penal.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q179",
+        "PN-T14-Q180"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F091",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 31,
+      "bloque_titulo": "Infracciones graves: armas, servicios y drogas",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 31,
+      "enunciado_atomico": "Portar un arma incluso con licencia puede ser grave si se hace fuera de lugares habilitados y no constituye delito.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q181",
+        "PN-T14-Q182"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F092",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 31,
+      "bloque_titulo": "Infracciones graves: armas, servicios y drogas",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 31,
+      "enunciado_atomico": "El consumo o tenencia ilícitos de drogas en lugares públicos o transportes colectivos es infracción grave aunque no se destine al tráfico.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q183",
+        "PN-T14-Q184"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F093",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 31,
+      "bloque_titulo": "Infracciones graves: armas, servicios y drogas",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 31,
+      "enunciado_atomico": "La obstrucción deliberada de inspecciones reglamentarias en fábricas, locales, embarcaciones o aeronaves es grave.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q185",
+        "PN-T14-Q186"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F094",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 32,
+      "bloque_titulo": "Infracciones graves: registros, navegación e imágenes",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 32,
+      "enunciado_atomico": "El artículo 36.22 exige, conforme a la STC 13/2021, restricción por seguridad ciudadana y perjuicio real o amenaza concreta.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q187",
+        "PN-T14-Q188"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F095",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 32,
+      "bloque_titulo": "Infracciones graves: registros, navegación e imágenes",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 32,
+      "enunciado_atomico": "La STC 172/2020 anuló únicamente el inciso «no autorizado» del artículo 36.23.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q189",
+        "PN-T14-Q190"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F096",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 32,
+      "bloque_titulo": "Infracciones graves: registros, navegación e imágenes",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 32,
+      "enunciado_atomico": "El uso de imágenes solo encaja en el tipo residual si puede poner en peligro seguridad personal o familiar, instalaciones protegidas o el éxito de una operación, respetando el derecho a la información.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q191",
+        "PN-T14-Q192"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F097",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 33,
+      "bloque_titulo": "Infracciones leves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 33,
+      "enunciado_atomico": "Proyectar haces de luz sobre agentes para impedir o dificultar sus funciones es infracción leve.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q193",
+        "PN-T14-Q194"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F098",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 33,
+      "bloque_titulo": "Infracciones leves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 33,
+      "enunciado_atomico": "La tercera y posteriores pérdidas o extravíos de documentación en un año se consideran negligencia de custodia.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q195",
+        "PN-T14-Q196"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F099",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 33,
+      "bloque_titulo": "Infracciones leves",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 33,
+      "enunciado_atomico": "El consumo de alcohol en lugares o transportes públicos es leve cuando perturba gravemente la tranquilidad ciudadana.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q197",
+        "PN-T14-Q198"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F100",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 34,
+      "bloque_titulo": "Prescripción de infracciones y sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 34,
+      "enunciado_atomico": "Las infracciones leves prescriben a los seis meses, las graves al año y las muy graves a los dos años.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q199",
+        "PN-T14-Q200"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F101",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 34,
+      "bloque_titulo": "Prescripción de infracciones y sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 34,
+      "enunciado_atomico": "Las sanciones leves prescriben al año, las graves a los dos años y las muy graves a los tres años.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q201",
+        "PN-T14-Q202"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F102",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 34,
+      "bloque_titulo": "Prescripción de infracciones y sanciones",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 34,
+      "enunciado_atomico": "La prescripción de la sanción se computa desde el día siguiente a la firmeza administrativa.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q203",
+        "PN-T14-Q204"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F103",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 35,
+      "bloque_titulo": "Multas, accesorias y reparación",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 35,
+      "enunciado_atomico": "Las infracciones muy graves se sancionan con multa de 30.001 a 600.000 euros.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q205",
+        "PN-T14-Q206"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F104",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 35,
+      "bloque_titulo": "Multas, accesorias y reparación",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 35,
+      "enunciado_atomico": "Las graves se sancionan con 601 a 30.000 euros y las leves con 100 a 600 euros.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q207",
+        "PN-T14-Q208"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F105",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 35,
+      "bloque_titulo": "Multas, accesorias y reparación",
+      "parte": 5,
+      "parte_titulo": "Infracciones, responsables y sanciones",
+      "punto": 35,
+      "enunciado_atomico": "La resolución puede exigir reposición al estado originario y, si no es posible, indemnización de daños a la Administración.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q209",
+        "PN-T14-Q210"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F106",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 36,
+      "bloque_titulo": "Registro central y subsidiariedad penal",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 36,
+      "enunciado_atomico": "El Registro Central de Infracciones se crea exclusivamente para apreciar reincidencia.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q211",
+        "PN-T14-Q212"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F107",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 36,
+      "bloque_titulo": "Registro central y subsidiariedad penal",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 36,
+      "enunciado_atomico": "No pueden sancionarse dos veces hechos con identidad de sujeto, hecho y fundamento.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q213",
+        "PN-T14-Q214"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F108",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 36,
+      "bloque_titulo": "Registro central y subsidiariedad penal",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 36,
+      "enunciado_atomico": "Si la conducta puede ser delito, el órgano administrativo pasa el tanto de culpa y se abstiene de seguir hasta la decisión penal correspondiente.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q215",
+        "PN-T14-Q216"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F109",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 37,
+      "bloque_titulo": "Medidas provisionales y actuaciones previas",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 37,
+      "enunciado_atomico": "Las medidas provisionales no pueden tener carácter sancionador.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q217",
+        "PN-T14-Q218"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F110",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 37,
+      "bloque_titulo": "Medidas provisionales y actuaciones previas",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 37,
+      "enunciado_atomico": "Las medidas previas adoptadas por agentes ante riesgo grave deben revisarse en el acuerdo de incoación en un máximo de quince días.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q219",
+        "PN-T14-Q220"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F111",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 37,
+      "bloque_titulo": "Medidas provisionales y actuaciones previas",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 37,
+      "enunciado_atomico": "Las actuaciones previas no interrumpen la prescripción de las infracciones.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q221",
+        "PN-T14-Q222"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F112",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 38,
+      "bloque_titulo": "Caducidad, prueba y resolución",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 38,
+      "enunciado_atomico": "El procedimiento sancionador caduca al año desde su incoación si no se notifica resolución, con los ajustes legales.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q223",
+        "PN-T14-Q224"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F113",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 38,
+      "bloque_titulo": "Caducidad, prueba y resolución",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 38,
+      "enunciado_atomico": "Un procedimiento caducado no interrumpe el plazo de prescripción.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q225",
+        "PN-T14-Q226"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F114",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 38,
+      "bloque_titulo": "Caducidad, prueba y resolución",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 38,
+      "enunciado_atomico": "El valor de actas y atestados admite prueba en contrario y exige ratificación si los hechos son negados.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q227",
+        "PN-T14-Q228"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F115",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 39,
+      "bloque_titulo": "Ejecución y procedimiento abreviado",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 39,
+      "enunciado_atomico": "Las sanciones pecuniarias no abonadas deben hacerse efectivas dentro de los quince días siguientes a la firmeza.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q229",
+        "PN-T14-Q230"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F116",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 39,
+      "bloque_titulo": "Ejecución y procedimiento abreviado",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 39,
+      "enunciado_atomico": "El procedimiento abreviado se aplica a infracciones graves o leves, no a las muy graves.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q231",
+        "PN-T14-Q232"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F117",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 39,
+      "bloque_titulo": "Ejecución y procedimiento abreviado",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 39,
+      "enunciado_atomico": "El pago voluntario en plazo reduce la multa un 50 por ciento y supone renuncia a formular alegaciones.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q233",
+        "PN-T14-Q234"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F118",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 40,
+      "bloque_titulo": "Disposiciones adicionales y transitorias",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 40,
+      "enunciado_atomico": "La protección de infraestructuras críticas se rige por su normativa específica y supletoriamente por esta ley.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q235",
+        "PN-T14-Q236"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F119",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 40,
+      "bloque_titulo": "Disposiciones adicionales y transitorias",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 40,
+      "enunciado_atomico": "Las sanciones de menores por consumo o tenencia de drogas pueden suspenderse si acceden al tratamiento o reeducación previstos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q237",
+        "PN-T14-Q238"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F120",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 40,
+      "bloque_titulo": "Disposiciones adicionales y transitorias",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 40,
+      "enunciado_atomico": "Los procedimientos iniciados al entrar en vigor se rigen por la legislación anterior salvo norma nueva más favorable.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q239",
+        "PN-T14-Q240"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F121",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 41,
+      "bloque_titulo": "Naturaleza orgánica, competencia y vigencia",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 41,
+      "enunciado_atomico": "No todos los preceptos de la Ley Orgánica 4/2015 tienen carácter orgánico.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q241",
+        "PN-T14-Q242"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F122",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 41,
+      "bloque_titulo": "Naturaleza orgánica, competencia y vigencia",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 41,
+      "enunciado_atomico": "Los artículos 28 y 29 se dictan al amparo de la competencia estatal sobre producción, comercio, tenencia y uso de armas y explosivos.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q243",
+        "PN-T14-Q244"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F123",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 41,
+      "bloque_titulo": "Naturaleza orgánica, competencia y vigencia",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 41,
+      "enunciado_atomico": "La ley entró en vigor el 1 de julio de 2015, salvo la disposición final primera, vigente al día siguiente de la publicación.",
+      "fuente": "LO4-2015-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q245",
+        "PN-T14-Q246"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F124",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 42,
+      "bloque_titulo": "Jurisprudencia constitucional y método de examen",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 42,
+      "enunciado_atomico": "La STC 13/2021 consideró constitucional el artículo 20 sobre registros corporales externos con sus garantías.",
+      "fuente": "STC172-2020-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q247",
+        "PN-T14-Q248"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F125",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 42,
+      "bloque_titulo": "Jurisprudencia constitucional y método de examen",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 42,
+      "enunciado_atomico": "La constitucionalidad del rechazo fronterizo exige aplicación individualizada, control judicial y obligaciones internacionales.",
+      "fuente": "STC172-2020-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q249",
+        "PN-T14-Q250"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T14-F126",
+      "oposicion": "policia-nacional",
+      "tema": 14,
+      "bloque": 42,
+      "bloque_titulo": "Jurisprudencia constitucional y método de examen",
+      "parte": 6,
+      "parte_titulo": "Procedimiento, jurisprudencia y cierre",
+      "punto": 42,
+      "enunciado_atomico": "Una pregunta sobre un precepto interpretado debe resolverse con el texto vigente y la condición fijada por el Tribunal Constitucional.",
+      "fuente": "STC172-2020-T14",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T14-Q251",
+        "PN-T14-Q252"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    }
+  ],
+  "blocks": [
+    {
+      "number": 1,
+      "title": "Mapa de la Ley Orgánica 4/2015",
+      "part": 1,
+      "part_title": "Fundamento, fines y autoridades",
+      "facts": [
+        "PN-T14-F001",
+        "PN-T14-F002",
+        "PN-T14-F003"
+      ],
+      "questions": [
+        "PN-T14-Q001",
+        "PN-T14-Q002",
+        "PN-T14-Q003",
+        "PN-T14-Q004",
+        "PN-T14-Q005",
+        "PN-T14-Q006"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 2,
+      "title": "Objeto y ámbito de aplicación",
+      "part": 1,
+      "part_title": "Fundamento, fines y autoridades",
+      "facts": [
+        "PN-T14-F004",
+        "PN-T14-F005",
+        "PN-T14-F006"
+      ],
+      "questions": [
+        "PN-T14-Q007",
+        "PN-T14-Q008",
+        "PN-T14-Q009",
+        "PN-T14-Q010",
+        "PN-T14-Q011",
+        "PN-T14-Q012"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 3,
+      "title": "Fines de la ley",
+      "part": 1,
+      "part_title": "Fundamento, fines y autoridades",
+      "facts": [
+        "PN-T14-F007",
+        "PN-T14-F008",
+        "PN-T14-F009"
+      ],
+      "questions": [
+        "PN-T14-Q013",
+        "PN-T14-Q014",
+        "PN-T14-Q015",
+        "PN-T14-Q016",
+        "PN-T14-Q017",
+        "PN-T14-Q018"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 4,
+      "title": "Principios de actuación y control",
+      "part": 1,
+      "part_title": "Fundamento, fines y autoridades",
+      "facts": [
+        "PN-T14-F010",
+        "PN-T14-F011",
+        "PN-T14-F012"
+      ],
+      "questions": [
+        "PN-T14-Q019",
+        "PN-T14-Q020",
+        "PN-T14-Q021",
+        "PN-T14-Q022",
+        "PN-T14-Q023",
+        "PN-T14-Q024"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 5,
+      "title": "Autoridades, cooperación y deber de colaboración",
+      "part": 1,
+      "part_title": "Fundamento, fines y autoridades",
+      "facts": [
+        "PN-T14-F013",
+        "PN-T14-F014",
+        "PN-T14-F015"
+      ],
+      "questions": [
+        "PN-T14-Q025",
+        "PN-T14-Q026",
+        "PN-T14-Q027",
+        "PN-T14-Q028",
+        "PN-T14-Q029",
+        "PN-T14-Q030"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 6,
+      "title": "DNI: naturaleza y valor acreditativo",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F016",
+        "PN-T14-F017",
+        "PN-T14-F018"
+      ],
+      "questions": [
+        "PN-T14-Q031",
+        "PN-T14-Q032",
+        "PN-T14-Q033",
+        "PN-T14-Q034",
+        "PN-T14-Q035",
+        "PN-T14-Q036"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 7,
+      "title": "DNI: obtención, custodia y exhibición",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F019",
+        "PN-T14-F020",
+        "PN-T14-F021"
+      ],
+      "questions": [
+        "PN-T14-Q037",
+        "PN-T14-Q038",
+        "PN-T14-Q039",
+        "PN-T14-Q040",
+        "PN-T14-Q041",
+        "PN-T14-Q042"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 8,
+      "title": "Contenido del DNI y protección de datos",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F022",
+        "PN-T14-F023",
+        "PN-T14-F024"
+      ],
+      "questions": [
+        "PN-T14-Q043",
+        "PN-T14-Q044",
+        "PN-T14-Q045",
+        "PN-T14-Q046",
+        "PN-T14-Q047",
+        "PN-T14-Q048"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 9,
+      "title": "Competencia y gestión del DNI",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F025",
+        "PN-T14-F026",
+        "PN-T14-F027"
+      ],
+      "questions": [
+        "PN-T14-Q049",
+        "PN-T14-Q050",
+        "PN-T14-Q051",
+        "PN-T14-Q052",
+        "PN-T14-Q053",
+        "PN-T14-Q054"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 10,
+      "title": "Pasaporte de ciudadanos españoles",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F028",
+        "PN-T14-F029",
+        "PN-T14-F030"
+      ],
+      "questions": [
+        "PN-T14-Q055",
+        "PN-T14-Q056",
+        "PN-T14-Q057",
+        "PN-T14-Q058",
+        "PN-T14-Q059",
+        "PN-T14-Q060"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 11,
+      "title": "Documentación de ciudadanos extranjeros",
+      "part": 2,
+      "part_title": "Documentación e identificación personal",
+      "facts": [
+        "PN-T14-F031",
+        "PN-T14-F032",
+        "PN-T14-F033"
+      ],
+      "questions": [
+        "PN-T14-Q061",
+        "PN-T14-Q062",
+        "PN-T14-Q063",
+        "PN-T14-Q064",
+        "PN-T14-Q065",
+        "PN-T14-Q066"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 12,
+      "title": "Órdenes, prohibiciones y motivación",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F034",
+        "PN-T14-F035",
+        "PN-T14-F036"
+      ],
+      "questions": [
+        "PN-T14-Q067",
+        "PN-T14-Q068",
+        "PN-T14-Q069",
+        "PN-T14-Q070",
+        "PN-T14-Q071",
+        "PN-T14-Q072"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 13,
+      "title": "Entrada en domicilio y edificios públicos",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F037",
+        "PN-T14-F038",
+        "PN-T14-F039"
+      ],
+      "questions": [
+        "PN-T14-Q073",
+        "PN-T14-Q074",
+        "PN-T14-Q075",
+        "PN-T14-Q076",
+        "PN-T14-Q077",
+        "PN-T14-Q078"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 14,
+      "title": "Supuestos para requerir identificación",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F040",
+        "PN-T14-F041",
+        "PN-T14-F042"
+      ],
+      "questions": [
+        "PN-T14-Q079",
+        "PN-T14-Q080",
+        "PN-T14-Q081",
+        "PN-T14-Q082",
+        "PN-T14-Q083",
+        "PN-T14-Q084"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 15,
+      "title": "Traslado para identificación: límites y garantías",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F043",
+        "PN-T14-F044",
+        "PN-T14-F045"
+      ],
+      "questions": [
+        "PN-T14-Q085",
+        "PN-T14-Q086",
+        "PN-T14-Q087",
+        "PN-T14-Q088",
+        "PN-T14-Q089",
+        "PN-T14-Q090"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 16,
+      "title": "Igualdad, información y registro de identificaciones",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F046",
+        "PN-T14-F047",
+        "PN-T14-F048"
+      ],
+      "questions": [
+        "PN-T14-Q091",
+        "PN-T14-Q092",
+        "PN-T14-Q093",
+        "PN-T14-Q094",
+        "PN-T14-Q095",
+        "PN-T14-Q096"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 17,
+      "title": "Restricción del tránsito y controles",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F049",
+        "PN-T14-F050",
+        "PN-T14-F051"
+      ],
+      "questions": [
+        "PN-T14-Q097",
+        "PN-T14-Q098",
+        "PN-T14-Q099",
+        "PN-T14-Q100",
+        "PN-T14-Q101",
+        "PN-T14-Q102"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 18,
+      "title": "Comprobaciones, registros e intervención",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F052",
+        "PN-T14-F053",
+        "PN-T14-F054"
+      ],
+      "questions": [
+        "PN-T14-Q103",
+        "PN-T14-Q104",
+        "PN-T14-Q105",
+        "PN-T14-Q106",
+        "PN-T14-Q107",
+        "PN-T14-Q108"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 19,
+      "title": "Registro corporal externo",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F055",
+        "PN-T14-F056",
+        "PN-T14-F057"
+      ],
+      "questions": [
+        "PN-T14-Q109",
+        "PN-T14-Q110",
+        "PN-T14-Q111",
+        "PN-T14-Q112",
+        "PN-T14-Q113",
+        "PN-T14-Q114"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 20,
+      "title": "Medidas extraordinarias y videocámaras",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F058",
+        "PN-T14-F059",
+        "PN-T14-F060"
+      ],
+      "questions": [
+        "PN-T14-Q115",
+        "PN-T14-Q116",
+        "PN-T14-Q117",
+        "PN-T14-Q118",
+        "PN-T14-Q119",
+        "PN-T14-Q120"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 21,
+      "title": "Reuniones y manifestaciones",
+      "part": 3,
+      "part_title": "Potestades generales y reuniones",
+      "facts": [
+        "PN-T14-F061",
+        "PN-T14-F062",
+        "PN-T14-F063"
+      ],
+      "questions": [
+        "PN-T14-Q121",
+        "PN-T14-Q122",
+        "PN-T14-Q123",
+        "PN-T14-Q124",
+        "PN-T14-Q125",
+        "PN-T14-Q126"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 22,
+      "title": "Registro documental de actividades relevantes",
+      "part": 4,
+      "part_title": "Policía administrativa especial",
+      "facts": [
+        "PN-T14-F064",
+        "PN-T14-F065",
+        "PN-T14-F066"
+      ],
+      "questions": [
+        "PN-T14-Q127",
+        "PN-T14-Q128",
+        "PN-T14-Q129",
+        "PN-T14-Q130",
+        "PN-T14-Q131",
+        "PN-T14-Q132"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 23,
+      "title": "Establecimientos, espectáculos y actividades recreativas",
+      "part": 4,
+      "part_title": "Policía administrativa especial",
+      "facts": [
+        "PN-T14-F067",
+        "PN-T14-F068",
+        "PN-T14-F069"
+      ],
+      "questions": [
+        "PN-T14-Q133",
+        "PN-T14-Q134",
+        "PN-T14-Q135",
+        "PN-T14-Q136",
+        "PN-T14-Q137",
+        "PN-T14-Q138"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 24,
+      "title": "Armas, explosivos y competencia administrativa",
+      "part": 4,
+      "part_title": "Policía administrativa especial",
+      "facts": [
+        "PN-T14-F070",
+        "PN-T14-F071",
+        "PN-T14-F072"
+      ],
+      "questions": [
+        "PN-T14-Q139",
+        "PN-T14-Q140",
+        "PN-T14-Q141",
+        "PN-T14-Q142",
+        "PN-T14-Q143",
+        "PN-T14-Q144"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 25,
+      "title": "Medidas de control sobre armas y explosivos",
+      "part": 4,
+      "part_title": "Policía administrativa especial",
+      "facts": [
+        "PN-T14-F073",
+        "PN-T14-F074",
+        "PN-T14-F075"
+      ],
+      "questions": [
+        "PN-T14-Q145",
+        "PN-T14-Q146",
+        "PN-T14-Q147",
+        "PN-T14-Q148",
+        "PN-T14-Q149",
+        "PN-T14-Q150"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 26,
+      "title": "Sujetos responsables y menores",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F076",
+        "PN-T14-F077",
+        "PN-T14-F078"
+      ],
+      "questions": [
+        "PN-T14-Q151",
+        "PN-T14-Q152",
+        "PN-T14-Q153",
+        "PN-T14-Q154",
+        "PN-T14-Q155",
+        "PN-T14-Q156"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 27,
+      "title": "Concurso de normas y órganos sancionadores",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F079",
+        "PN-T14-F080",
+        "PN-T14-F081"
+      ],
+      "questions": [
+        "PN-T14-Q157",
+        "PN-T14-Q158",
+        "PN-T14-Q159",
+        "PN-T14-Q160",
+        "PN-T14-Q161",
+        "PN-T14-Q162"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 28,
+      "title": "Graduación de las sanciones",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F082",
+        "PN-T14-F083",
+        "PN-T14-F084"
+      ],
+      "questions": [
+        "PN-T14-Q163",
+        "PN-T14-Q164",
+        "PN-T14-Q165",
+        "PN-T14-Q166",
+        "PN-T14-Q167",
+        "PN-T14-Q168"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 29,
+      "title": "Infracciones muy graves",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F085",
+        "PN-T14-F086",
+        "PN-T14-F087"
+      ],
+      "questions": [
+        "PN-T14-Q169",
+        "PN-T14-Q170",
+        "PN-T14-Q171",
+        "PN-T14-Q172",
+        "PN-T14-Q173",
+        "PN-T14-Q174"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 30,
+      "title": "Infracciones graves: orden público y reuniones",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F088",
+        "PN-T14-F089",
+        "PN-T14-F090"
+      ],
+      "questions": [
+        "PN-T14-Q175",
+        "PN-T14-Q176",
+        "PN-T14-Q177",
+        "PN-T14-Q178",
+        "PN-T14-Q179",
+        "PN-T14-Q180"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 31,
+      "title": "Infracciones graves: armas, servicios y drogas",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F091",
+        "PN-T14-F092",
+        "PN-T14-F093"
+      ],
+      "questions": [
+        "PN-T14-Q181",
+        "PN-T14-Q182",
+        "PN-T14-Q183",
+        "PN-T14-Q184",
+        "PN-T14-Q185",
+        "PN-T14-Q186"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 32,
+      "title": "Infracciones graves: registros, navegación e imágenes",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F094",
+        "PN-T14-F095",
+        "PN-T14-F096"
+      ],
+      "questions": [
+        "PN-T14-Q187",
+        "PN-T14-Q188",
+        "PN-T14-Q189",
+        "PN-T14-Q190",
+        "PN-T14-Q191",
+        "PN-T14-Q192"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 33,
+      "title": "Infracciones leves",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F097",
+        "PN-T14-F098",
+        "PN-T14-F099"
+      ],
+      "questions": [
+        "PN-T14-Q193",
+        "PN-T14-Q194",
+        "PN-T14-Q195",
+        "PN-T14-Q196",
+        "PN-T14-Q197",
+        "PN-T14-Q198"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 34,
+      "title": "Prescripción de infracciones y sanciones",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F100",
+        "PN-T14-F101",
+        "PN-T14-F102"
+      ],
+      "questions": [
+        "PN-T14-Q199",
+        "PN-T14-Q200",
+        "PN-T14-Q201",
+        "PN-T14-Q202",
+        "PN-T14-Q203",
+        "PN-T14-Q204"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 35,
+      "title": "Multas, accesorias y reparación",
+      "part": 5,
+      "part_title": "Infracciones, responsables y sanciones",
+      "facts": [
+        "PN-T14-F103",
+        "PN-T14-F104",
+        "PN-T14-F105"
+      ],
+      "questions": [
+        "PN-T14-Q205",
+        "PN-T14-Q206",
+        "PN-T14-Q207",
+        "PN-T14-Q208",
+        "PN-T14-Q209",
+        "PN-T14-Q210"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 36,
+      "title": "Registro central y subsidiariedad penal",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F106",
+        "PN-T14-F107",
+        "PN-T14-F108"
+      ],
+      "questions": [
+        "PN-T14-Q211",
+        "PN-T14-Q212",
+        "PN-T14-Q213",
+        "PN-T14-Q214",
+        "PN-T14-Q215",
+        "PN-T14-Q216"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 37,
+      "title": "Medidas provisionales y actuaciones previas",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F109",
+        "PN-T14-F110",
+        "PN-T14-F111"
+      ],
+      "questions": [
+        "PN-T14-Q217",
+        "PN-T14-Q218",
+        "PN-T14-Q219",
+        "PN-T14-Q220",
+        "PN-T14-Q221",
+        "PN-T14-Q222"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 38,
+      "title": "Caducidad, prueba y resolución",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F112",
+        "PN-T14-F113",
+        "PN-T14-F114"
+      ],
+      "questions": [
+        "PN-T14-Q223",
+        "PN-T14-Q224",
+        "PN-T14-Q225",
+        "PN-T14-Q226",
+        "PN-T14-Q227",
+        "PN-T14-Q228"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 39,
+      "title": "Ejecución y procedimiento abreviado",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F115",
+        "PN-T14-F116",
+        "PN-T14-F117"
+      ],
+      "questions": [
+        "PN-T14-Q229",
+        "PN-T14-Q230",
+        "PN-T14-Q231",
+        "PN-T14-Q232",
+        "PN-T14-Q233",
+        "PN-T14-Q234"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 40,
+      "title": "Disposiciones adicionales y transitorias",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F118",
+        "PN-T14-F119",
+        "PN-T14-F120"
+      ],
+      "questions": [
+        "PN-T14-Q235",
+        "PN-T14-Q236",
+        "PN-T14-Q237",
+        "PN-T14-Q238",
+        "PN-T14-Q239",
+        "PN-T14-Q240"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 41,
+      "title": "Naturaleza orgánica, competencia y vigencia",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F121",
+        "PN-T14-F122",
+        "PN-T14-F123"
+      ],
+      "questions": [
+        "PN-T14-Q241",
+        "PN-T14-Q242",
+        "PN-T14-Q243",
+        "PN-T14-Q244",
+        "PN-T14-Q245",
+        "PN-T14-Q246"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 42,
+      "title": "Jurisprudencia constitucional y método de examen",
+      "part": 6,
+      "part_title": "Procedimiento, jurisprudencia y cierre",
+      "facts": [
+        "PN-T14-F124",
+        "PN-T14-F125",
+        "PN-T14-F126"
+      ],
+      "questions": [
+        "PN-T14-Q247",
+        "PN-T14-Q248",
+        "PN-T14-Q249",
+        "PN-T14-Q250",
+        "PN-T14-Q251",
+        "PN-T14-Q252"
+      ],
+      "status": "complete"
+    }
+  ]
+}

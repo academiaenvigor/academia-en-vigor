@@ -1,0 +1,299 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 14,
+  "topic_title": "Ley Orgánica 4/2015 de protección de la seguridad ciudadana",
+  "id_prefix": "PN-T14",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-14/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-14/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa de la Ley Orgánica 4/2015"
+      },
+      {
+        "number": 2,
+        "title": "Objeto y ámbito de aplicación"
+      },
+      {
+        "number": 3,
+        "title": "Fines de la ley"
+      },
+      {
+        "number": 4,
+        "title": "Principios de actuación y control"
+      },
+      {
+        "number": 5,
+        "title": "Autoridades, cooperación y deber de colaboración"
+      },
+      {
+        "number": 6,
+        "title": "DNI: naturaleza y valor acreditativo"
+      },
+      {
+        "number": 7,
+        "title": "DNI: obtención, custodia y exhibición"
+      },
+      {
+        "number": 8,
+        "title": "Contenido del DNI y protección de datos"
+      },
+      {
+        "number": 9,
+        "title": "Competencia y gestión del DNI"
+      },
+      {
+        "number": 10,
+        "title": "Pasaporte de ciudadanos españoles"
+      },
+      {
+        "number": 11,
+        "title": "Documentación de ciudadanos extranjeros"
+      },
+      {
+        "number": 12,
+        "title": "Órdenes, prohibiciones y motivación"
+      },
+      {
+        "number": 13,
+        "title": "Entrada en domicilio y edificios públicos"
+      },
+      {
+        "number": 14,
+        "title": "Supuestos para requerir identificación"
+      },
+      {
+        "number": 15,
+        "title": "Traslado para identificación: límites y garantías"
+      },
+      {
+        "number": 16,
+        "title": "Igualdad, información y registro de identificaciones"
+      },
+      {
+        "number": 17,
+        "title": "Restricción del tránsito y controles"
+      },
+      {
+        "number": 18,
+        "title": "Comprobaciones, registros e intervención"
+      },
+      {
+        "number": 19,
+        "title": "Registro corporal externo"
+      },
+      {
+        "number": 20,
+        "title": "Medidas extraordinarias y videocámaras"
+      },
+      {
+        "number": 21,
+        "title": "Reuniones y manifestaciones"
+      },
+      {
+        "number": 22,
+        "title": "Registro documental de actividades relevantes"
+      },
+      {
+        "number": 23,
+        "title": "Establecimientos, espectáculos y actividades recreativas"
+      },
+      {
+        "number": 24,
+        "title": "Armas, explosivos y competencia administrativa"
+      },
+      {
+        "number": 25,
+        "title": "Medidas de control sobre armas y explosivos"
+      },
+      {
+        "number": 26,
+        "title": "Sujetos responsables y menores"
+      },
+      {
+        "number": 27,
+        "title": "Concurso de normas y órganos sancionadores"
+      },
+      {
+        "number": 28,
+        "title": "Graduación de las sanciones"
+      },
+      {
+        "number": 29,
+        "title": "Infracciones muy graves"
+      },
+      {
+        "number": 30,
+        "title": "Infracciones graves: orden público y reuniones"
+      },
+      {
+        "number": 31,
+        "title": "Infracciones graves: armas, servicios y drogas"
+      },
+      {
+        "number": 32,
+        "title": "Infracciones graves: registros, navegación e imágenes"
+      },
+      {
+        "number": 33,
+        "title": "Infracciones leves"
+      },
+      {
+        "number": 34,
+        "title": "Prescripción de infracciones y sanciones"
+      },
+      {
+        "number": 35,
+        "title": "Multas, accesorias y reparación"
+      },
+      {
+        "number": 36,
+        "title": "Registro central y subsidiariedad penal"
+      },
+      {
+        "number": 37,
+        "title": "Medidas provisionales y actuaciones previas"
+      },
+      {
+        "number": 38,
+        "title": "Caducidad, prueba y resolución"
+      },
+      {
+        "number": 39,
+        "title": "Ejecución y procedimiento abreviado"
+      },
+      {
+        "number": 40,
+        "title": "Disposiciones adicionales y transitorias"
+      },
+      {
+        "number": 41,
+        "title": "Naturaleza orgánica, competencia y vigencia"
+      },
+      {
+        "number": 42,
+        "title": "Jurisprudencia constitucional y método de examen"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 6,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamento, fines y autoridades",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Documentación e identificación personal",
+        "blocks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Potestades generales y reuniones",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Policía administrativa especial",
+        "blocks": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Infracciones, responsables y sanciones",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Procedimiento, jurisprudencia y cierre",
+        "blocks": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

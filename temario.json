@@ -342,30 +342,6 @@
           "official_exam_mapped": 18,
           "official_exam_verified": 18,
           "ha_caido_active": 0
-        },
-        {
-          "number": 15,
-          "slug": "proteccion-infraestructuras-criticas-ciberseguridad",
-          "title": "Protección de infraestructuras críticas y ciberseguridad",
-          "content_version": "1.0.0",
-          "editorial_status": "approved_internal",
-          "publication_status": "not_published",
-          "manifest": "conocimiento/policia-nacional/tema-15/manifest.json",
-          "parte": "temas/policia-nacional/parte/tema-15-proteccion-infraestructuras-criticas-ciberseguridad.md",
-          "atestado": "temas/policia-nacional/atestado/tema-15-proteccion-infraestructuras-criticas-ciberseguridad.md",
-          "question_bank": "banco-preguntas/policia-nacional/tema-15/preguntas.jsonl",
-          "evaluation_plan": "evaluaciones/policia-nacional/tema-15/plan.json",
-          "assets": "assets/policia-nacional/tema-15/manifest.json",
-          "teaching_materials": "materiales-didacticos/policia-nacional/tema-15/manifest.json",
-          "official_exam_index": "banco-preguntas/policia-nacional/tema-15/indice-oficiales.json",
-          "visual_version": "1.0.0",
-          "visual_assets": 32,
-          "visual_planned": 0,
-          "atomic_facts": 126,
-          "question_count": 252,
-          "official_exam_mapped": 12,
-          "official_exam_verified": 12,
-          "ha_caido_active": 0
         }
       ]
     }

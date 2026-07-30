@@ -1,0 +1,972 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-14",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-14",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Fundamento, fines y autoridades",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Documentación e identificación personal",
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Potestades generales y reuniones",
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "12"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Policía administrativa especial",
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "22"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Infracciones, responsables y sanciones",
+      "blocks": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "anchor_blocks": [
+        "26"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Procedimiento, jurisprudencia y cierre",
+      "blocks": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "anchor_blocks": [
+        "36"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "t14-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Audio · Fundamento, fines y autoridades",
+      "filename": "T14-P1-AUDIO-fundamento,-fines-y-autoridades.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p01/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Video · Fundamento, fines y autoridades",
+      "filename": "T14-P1-VIDEO-fundamento,-fines-y-autoridades.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p01/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p1-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Pres · Fundamento, fines y autoridades",
+      "filename": "T14-P1-PRES-fundamento,-fines-y-autoridades.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p01/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p1-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Resumen · Fundamento, fines y autoridades",
+      "filename": "T14-P1-RESUMEN-fundamento,-fines-y-autoridades.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p01/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "title": "Audio · Documentación e identificación personal",
+      "filename": "T14-P2-AUDIO-documentacion-e-identificacion-personal.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p02/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "title": "Video · Documentación e identificación personal",
+      "filename": "T14-P2-VIDEO-documentacion-e-identificacion-personal.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p02/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p2-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "title": "Pres · Documentación e identificación personal",
+      "filename": "T14-P2-PRES-documentacion-e-identificacion-personal.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p02/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p2-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "06"
+      ],
+      "title": "Resumen · Documentación e identificación personal",
+      "filename": "T14-P2-RESUMEN-documentacion-e-identificacion-personal.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p02/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "title": "Audio · Potestades generales y reuniones",
+      "filename": "T14-P3-AUDIO-potestades-generales-y-reuniones.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p03/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "title": "Video · Potestades generales y reuniones",
+      "filename": "T14-P3-VIDEO-potestades-generales-y-reuniones.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p03/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p3-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "title": "Pres · Potestades generales y reuniones",
+      "filename": "T14-P3-PRES-potestades-generales-y-reuniones.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p03/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p3-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "12"
+      ],
+      "title": "Resumen · Potestades generales y reuniones",
+      "filename": "T14-P3-RESUMEN-potestades-generales-y-reuniones.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p03/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Audio · Policía administrativa especial",
+      "filename": "T14-P4-AUDIO-policia-administrativa-especial.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p04/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Video · Policía administrativa especial",
+      "filename": "T14-P4-VIDEO-policia-administrativa-especial.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p04/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p4-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Pres · Policía administrativa especial",
+      "filename": "T14-P4-PRES-policia-administrativa-especial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p04/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p4-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Resumen · Policía administrativa especial",
+      "filename": "T14-P4-RESUMEN-policia-administrativa-especial.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p04/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Audio · Infracciones, responsables y sanciones",
+      "filename": "T14-P5-AUDIO-infracciones,-responsables-y-sanciones.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p05/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Video · Infracciones, responsables y sanciones",
+      "filename": "T14-P5-VIDEO-infracciones,-responsables-y-sanciones.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p05/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p5-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Pres · Infracciones, responsables y sanciones",
+      "filename": "T14-P5-PRES-infracciones,-responsables-y-sanciones.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p05/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p5-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "anchor_blocks": [
+        "26"
+      ],
+      "title": "Resumen · Infracciones, responsables y sanciones",
+      "filename": "T14-P5-RESUMEN-infracciones,-responsables-y-sanciones.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p05/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p6-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "anchor_blocks": [
+        "36"
+      ],
+      "title": "Audio · Procedimiento, jurisprudencia y cierre",
+      "filename": "T14-P6-AUDIO-procedimiento,-jurisprudencia-y-cierre.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p06/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p6-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "anchor_blocks": [
+        "36"
+      ],
+      "title": "Video · Procedimiento, jurisprudencia y cierre",
+      "filename": "T14-P6-VIDEO-procedimiento,-jurisprudencia-y-cierre.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p06/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p6-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "anchor_blocks": [
+        "36"
+      ],
+      "title": "Pres · Procedimiento, jurisprudencia y cierre",
+      "filename": "T14-P6-PRES-procedimiento,-jurisprudencia-y-cierre.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p06/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t14-p6-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "anchor_blocks": [
+        "36"
+      ],
+      "title": "Resumen · Procedimiento, jurisprudencia y cierre",
+      "filename": "T14-P6-RESUMEN-procedimiento,-jurisprudencia-y-cierre.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-14/p06/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    }
+  ]
+}
