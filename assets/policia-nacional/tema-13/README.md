@@ -1,0 +1,3 @@
+# Assets · Tema 13
+
+PNG maestro externo; WEBP optimizado en el repositorio.

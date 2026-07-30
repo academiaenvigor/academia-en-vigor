@@ -1,0 +1,2721 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "topic": "tema-13",
+  "tema": 13,
+  "status": "complete_validated_question_bank",
+  "scope": {
+    "blocks_completed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "master_statements_total": 93,
+    "atomic_facts_extracted": 93,
+    "remaining_blocks": []
+  },
+  "total_atomic_facts": 93,
+  "covered_atomic_facts": 93,
+  "coverage_percent": 100.0,
+  "total_questions": 186,
+  "requirements": {},
+  "facts": [
+    {
+      "id": "PN-T13-F001",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 1,
+      "bloque_titulo": "Objeto, modelo y subordinación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 1,
+      "enunciado_atomico": "La Ley 5/2014 regula actividades, servicios, personal, empresas, medidas e investigación privada.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q001",
+        "PN-T13-Q002"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F002",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 1,
+      "bloque_titulo": "Objeto, modelo y subordinación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 1,
+      "enunciado_atomico": "Las actividades de seguridad privada son complementarias y subordinadas respecto de la seguridad pública.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q003",
+        "PN-T13-Q004"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F003",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 1,
+      "bloque_titulo": "Objeto, modelo y subordinación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 1,
+      "enunciado_atomico": "La seguridad privada puede ser contratada voluntariamente o venir impuesta legalmente.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q005",
+        "PN-T13-Q006"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F004",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 2,
+      "bloque_titulo": "Definiciones que no deben mezclarse",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 2,
+      "enunciado_atomico": "Las actividades son los ámbitos materiales en que actúan los prestadores.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q007",
+        "PN-T13-Q008"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F005",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 2,
+      "bloque_titulo": "Definiciones que no deben mezclarse",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 2,
+      "enunciado_atomico": "Los servicios son las acciones realizadas para materializar las actividades.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q009",
+        "PN-T13-Q010"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F006",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 2,
+      "bloque_titulo": "Definiciones que no deben mezclarse",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 2,
+      "enunciado_atomico": "Las funciones son las facultades atribuidas al personal de seguridad privada.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q011",
+        "PN-T13-Q012"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F007",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 3,
+      "bloque_titulo": "Ámbito subjetivo de aplicación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 3,
+      "enunciado_atomico": "La ley se aplica a empresas de seguridad, personal, despachos de detectives, servicios, medidas y contratos del sector.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q013",
+        "PN-T13-Q014"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F008",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 3,
+      "bloque_titulo": "Ámbito subjetivo de aplicación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 3,
+      "enunciado_atomico": "El régimen de inspección y sanción alcanza también a quien actúa sin autorización o habilitación.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q015",
+        "PN-T13-Q016"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F009",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 3,
+      "bloque_titulo": "Ámbito subjetivo de aplicación",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 3,
+      "enunciado_atomico": "Los usuarios y establecimientos obligados pueden quedar sujetos a las disposiciones que les resulten pertinentes.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q017",
+        "PN-T13-Q018"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F010",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 4,
+      "bloque_titulo": "Fines de la seguridad privada",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 4,
+      "enunciado_atomico": "Un fin es satisfacer necesidades legítimas de seguridad o información del usuario.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q019",
+        "PN-T13-Q020"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F011",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 4,
+      "bloque_titulo": "Fines de la seguridad privada",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 4,
+      "enunciado_atomico": "La seguridad privada contribuye a prevenir infracciones y aportar información a procedimientos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q021",
+        "PN-T13-Q022"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F012",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 4,
+      "bloque_titulo": "Fines de la seguridad privada",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 4,
+      "enunciado_atomico": "La seguridad privada integra funcionalmente medios y capacidades como recurso externo de la seguridad pública.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q023",
+        "PN-T13-Q024"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F013",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 5,
+      "bloque_titulo": "Principios rectores y colaboración",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 5,
+      "enunciado_atomico": "Los prestadores deben colaborar en todo momento y lugar con las Fuerzas y Cuerpos de Seguridad.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q025",
+        "PN-T13-Q026"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F014",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 5,
+      "bloque_titulo": "Principios rectores y colaboración",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 5,
+      "enunciado_atomico": "Deben seguir las instrucciones policiales relacionadas con servicios que afecten a la seguridad pública o a sus competencias.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q027",
+        "PN-T13-Q028"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F015",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 5,
+      "bloque_titulo": "Principios rectores y colaboración",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 5,
+      "enunciado_atomico": "La prestación debe respetar la Constitución y el resto del ordenamiento jurídico.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q029",
+        "PN-T13-Q030"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F016",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 6,
+      "bloque_titulo": "Prohibiciones y reserva de información",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 6,
+      "enunciado_atomico": "No puede ejercerse control sobre opiniones políticas, sindicales o religiosas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q031",
+        "PN-T13-Q032"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F017",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 6,
+      "bloque_titulo": "Prohibiciones y reserva de información",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 6,
+      "enunciado_atomico": "La información conocida por razón del servicio está sometida a reserva, salvo comunicación legítima a autoridades judiciales o policiales.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q033",
+        "PN-T13-Q034"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F018",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 6,
+      "bloque_titulo": "Prohibiciones y reserva de información",
+      "parte": 1,
+      "parte_titulo": "Bases y disposiciones generales",
+      "punto": 6,
+      "enunciado_atomico": "Está prohibido ejercer funciones de seguridad privada sin habilitación o acreditación exigible.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q035",
+        "PN-T13-Q036"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F019",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 7,
+      "bloque_titulo": "Competencias de la Administración del Estado",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 7,
+      "enunciado_atomico": "Corresponde al Estado autorizar, inspeccionar y sancionar en los términos de la Ley 5/2014.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q037",
+        "PN-T13-Q038"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F020",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 7,
+      "bloque_titulo": "Competencias de la Administración del Estado",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 7,
+      "enunciado_atomico": "La Policía ejerce funciones de control sobre empresas, personal y servicios en su ámbito competencial.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q039",
+        "PN-T13-Q040"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F021",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 7,
+      "bloque_titulo": "Competencias de la Administración del Estado",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 7,
+      "enunciado_atomico": "La Guardia Civil ejerce competencias específicas, entre otras, respecto de guardas rurales y sus especialidades.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q041",
+        "PN-T13-Q042"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F022",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 8,
+      "bloque_titulo": "Competencias autonómicas y registros",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 8,
+      "enunciado_atomico": "Las comunidades autónomas pueden ejercer competencias asumidas estatutariamente sobre seguridad privada.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q043",
+        "PN-T13-Q044"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F023",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 8,
+      "bloque_titulo": "Competencias autonómicas y registros",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 8,
+      "enunciado_atomico": "Existe un Registro Nacional de Seguridad Privada y pueden existir registros autonómicos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q045",
+        "PN-T13-Q046"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F024",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 8,
+      "bloque_titulo": "Competencias autonómicas y registros",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 8,
+      "enunciado_atomico": "La coordinación registral evita duplicidades y facilita el control administrativo.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q047",
+        "PN-T13-Q048"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F025",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 9,
+      "bloque_titulo": "Acceso a información y coordinación",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 9,
+      "enunciado_atomico": "Las Fuerzas y Cuerpos de Seguridad pueden acceder a información necesaria para el ejercicio de sus funciones.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q049",
+        "PN-T13-Q050"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F026",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 9,
+      "bloque_titulo": "Acceso a información y coordinación",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 9,
+      "enunciado_atomico": "El Ministerio del Interior o el órgano autonómico competente adopta medidas organizativas de coordinación.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q051",
+        "PN-T13-Q052"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F027",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 9,
+      "bloque_titulo": "Acceso a información y coordinación",
+      "parte": 2,
+      "parte_titulo": "Coordinación y competencias públicas",
+      "punto": 9,
+      "enunciado_atomico": "Los órganos de participación permiten intercambio entre sector y Administraciones sin sustituir la autoridad pública.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q053",
+        "PN-T13-Q054"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F028",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 10,
+      "bloque_titulo": "Actividades reservadas, compatibles y excluidas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 10,
+      "enunciado_atomico": "La vigilancia y protección de bienes, lugares, eventos y personas determinadas es actividad de seguridad privada.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q055",
+        "PN-T13-Q056"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F029",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 10,
+      "bloque_titulo": "Actividades reservadas, compatibles y excluidas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 10,
+      "enunciado_atomico": "La planificación y asesoramiento en seguridad pueden ser actividades compatibles en los términos legales.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q057",
+        "PN-T13-Q058"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F030",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 10,
+      "bloque_titulo": "Actividades reservadas, compatibles y excluidas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 10,
+      "enunciado_atomico": "Las tareas de recepción, información o control de accesos sin funciones de seguridad pueden ser actividades excluidas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q059",
+        "PN-T13-Q060"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F031",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 11,
+      "bloque_titulo": "Autorización y requisitos de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 11,
+      "enunciado_atomico": "La prestación de actividades reservadas exige autorización administrativa o declaración responsable en los casos previstos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q061",
+        "PN-T13-Q062"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F032",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 11,
+      "bloque_titulo": "Autorización y requisitos de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 11,
+      "enunciado_atomico": "La empresa debe estar inscrita en el registro correspondiente.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q063",
+        "PN-T13-Q064"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F033",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 11,
+      "bloque_titulo": "Autorización y requisitos de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 11,
+      "enunciado_atomico": "Los requisitos y garantías se ajustan a las actividades para las que se solicita autorización.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q065",
+        "PN-T13-Q066"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F034",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 12,
+      "bloque_titulo": "Obligaciones y representantes de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 12,
+      "enunciado_atomico": "La empresa debe comunicar las modificaciones relevantes que afecten a su autorización o inscripción.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q067",
+        "PN-T13-Q068"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F035",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 12,
+      "bloque_titulo": "Obligaciones y representantes de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 12,
+      "enunciado_atomico": "Debe garantizar que el personal asignado esté habilitado y formado para sus funciones.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q069",
+        "PN-T13-Q070"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F036",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 12,
+      "bloque_titulo": "Obligaciones y representantes de empresas",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 12,
+      "enunciado_atomico": "La empresa debe facilitar inspecciones y conservar la documentación exigida.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q071",
+        "PN-T13-Q072"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F037",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 13,
+      "bloque_titulo": "Despachos de detectives privados",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 13,
+      "enunciado_atomico": "Los detectives privados prestan servicios de investigación desde despachos inscritos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q073",
+        "PN-T13-Q074"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F038",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 13,
+      "bloque_titulo": "Despachos de detectives privados",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 13,
+      "enunciado_atomico": "El encargo debe responder a un interés legítimo del contratante.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q075",
+        "PN-T13-Q076"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F039",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 13,
+      "bloque_titulo": "Despachos de detectives privados",
+      "parte": 3,
+      "parte_titulo": "Empresas y despachos de detectives",
+      "punto": 13,
+      "enunciado_atomico": "Las empresas de seguridad no pueden realizar la investigación privada propia de detectives, ni estos servicios propios de aquellas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q077",
+        "PN-T13-Q078"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F040",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 14,
+      "bloque_titulo": "Categorías de personal habilitado",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 14,
+      "enunciado_atomico": "El vigilante de explosivos es una especialidad del vigilante de seguridad.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q079",
+        "PN-T13-Q080"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F041",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 14,
+      "bloque_titulo": "Categorías de personal habilitado",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 14,
+      "enunciado_atomico": "Guardas de caza y guardapescas marítimos son especialidades de los guardas rurales.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q081",
+        "PN-T13-Q082"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F042",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 14,
+      "bloque_titulo": "Categorías de personal habilitado",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 14,
+      "enunciado_atomico": "Jefes y directores de seguridad son categorías distintas con funciones diferenciadas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q083",
+        "PN-T13-Q084"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F043",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 15,
+      "bloque_titulo": "Habilitación y requisitos generales",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 15,
+      "enunciado_atomico": "La habilitación profesional es previa al ejercicio de las funciones reservadas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q085",
+        "PN-T13-Q086"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F044",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 15,
+      "bloque_titulo": "Habilitación y requisitos generales",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 15,
+      "enunciado_atomico": "No haber sido sancionado por infracción grave o muy grave en los períodos legales es un requisito general.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q087",
+        "PN-T13-Q088"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F045",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 15,
+      "bloque_titulo": "Habilitación y requisitos generales",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 15,
+      "enunciado_atomico": "La formación y las pruebas acreditan conocimientos y aptitudes para la categoría.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q089",
+        "PN-T13-Q090"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F046",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 16,
+      "bloque_titulo": "Principios de actuación y protección jurídica",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 16,
+      "enunciado_atomico": "Legalidad, integridad, dignidad, corrección, congruencia y proporcionalidad son principios de actuación.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q091",
+        "PN-T13-Q092"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F047",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 16,
+      "bloque_titulo": "Principios de actuación y protección jurídica",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 16,
+      "enunciado_atomico": "La fuerza solo puede emplearse cuando sea necesaria y de forma proporcional.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q093",
+        "PN-T13-Q094"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F048",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 16,
+      "bloque_titulo": "Principios de actuación y protección jurídica",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 16,
+      "enunciado_atomico": "La protección jurídica reforzada se vincula a personal identificado que coopera y actúa bajo mando policial.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q095",
+        "PN-T13-Q096"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F049",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 17,
+      "bloque_titulo": "Vigilantes de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 17,
+      "enunciado_atomico": "Los vigilantes ejercen vigilancia y protección de bienes, lugares, eventos y personas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q097",
+        "PN-T13-Q098"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F050",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 17,
+      "bloque_titulo": "Vigilantes de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 17,
+      "enunciado_atomico": "Pueden realizar controles de identidad en el acceso o interior sin retener documentación personal.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q099",
+        "PN-T13-Q100"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F051",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 17,
+      "bloque_titulo": "Vigilantes de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 17,
+      "enunciado_atomico": "Ante un delito relacionado con el objeto protegido, deben detener y poner inmediatamente a disposición de las Fuerzas y Cuerpos de Seguridad al autor y efectos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q101",
+        "PN-T13-Q102"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F052",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 18,
+      "bloque_titulo": "Escoltas privados",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 18,
+      "enunciado_atomico": "El escolta privado protege a personas determinadas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q103",
+        "PN-T13-Q104"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F053",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 18,
+      "bloque_titulo": "Escoltas privados",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 18,
+      "enunciado_atomico": "Debe impedir agresiones o actos delictivos contra la persona protegida.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q105",
+        "PN-T13-Q106"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F054",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 18,
+      "bloque_titulo": "Escoltas privados",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 18,
+      "enunciado_atomico": "El porte y uso de armas se somete a las condiciones legales del servicio.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q107",
+        "PN-T13-Q108"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F055",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 19,
+      "bloque_titulo": "Guardas rurales y especialidades",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 19,
+      "enunciado_atomico": "Los guardas rurales ejercen vigilancia y protección en fincas rústicas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q109",
+        "PN-T13-Q110"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F056",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 19,
+      "bloque_titulo": "Guardas rurales y especialidades",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 19,
+      "enunciado_atomico": "Guardas de caza y guardapescas marítimos son especialidades del guarda rural.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q111",
+        "PN-T13-Q112"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F057",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 19,
+      "bloque_titulo": "Guardas rurales y especialidades",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 19,
+      "enunciado_atomico": "Deben colaborar y poner hechos delictivos a disposición de las Fuerzas y Cuerpos de Seguridad.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q113",
+        "PN-T13-Q114"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F058",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 20,
+      "bloque_titulo": "Jefes y directores de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 20,
+      "enunciado_atomico": "El jefe de seguridad ejerce funciones de análisis, planificación y organización de servicios de la empresa.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q115",
+        "PN-T13-Q116"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F059",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 20,
+      "bloque_titulo": "Jefes y directores de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 20,
+      "enunciado_atomico": "El director de seguridad organiza y administra recursos de seguridad de la entidad usuaria.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q117",
+        "PN-T13-Q118"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F060",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 20,
+      "bloque_titulo": "Jefes y directores de seguridad",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 20,
+      "enunciado_atomico": "Jefe y director cooperan con las Fuerzas y Cuerpos de Seguridad dentro de sus respectivos ámbitos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q119",
+        "PN-T13-Q120"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F061",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 21,
+      "bloque_titulo": "Detectives privados: funciones y límites",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 21,
+      "enunciado_atomico": "El detective investiga hechos y conductas privadas vinculados a un interés legítimo.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q121",
+        "PN-T13-Q122"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F062",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 21,
+      "bloque_titulo": "Detectives privados: funciones y límites",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 21,
+      "enunciado_atomico": "Puede investigar delitos perseguibles a instancia de parte por encargo legitimado.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q123",
+        "PN-T13-Q124"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F063",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 21,
+      "bloque_titulo": "Detectives privados: funciones y límites",
+      "parte": 4,
+      "parte_titulo": "Personal y funciones profesionales",
+      "punto": 21,
+      "enunciado_atomico": "Si conoce un delito perseguible de oficio debe denunciarlo inmediatamente y poner a disposición lo obtenido.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q125",
+        "PN-T13-Q126"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F064",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 22,
+      "bloque_titulo": "Reglas comunes de prestación",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 22,
+      "enunciado_atomico": "No puede prestarse un servicio de seguridad privada sin contratación previa y, cuando proceda, autorización o comunicación.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q127",
+        "PN-T13-Q128"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F065",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 22,
+      "bloque_titulo": "Reglas comunes de prestación",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 22,
+      "enunciado_atomico": "Los contratos deben formalizarse por escrito y comunicarse con la antelación reglamentaria.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q129",
+        "PN-T13-Q130"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F066",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 22,
+      "bloque_titulo": "Reglas comunes de prestación",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 22,
+      "enunciado_atomico": "El servicio se presta por personal habilitado integrado en empresa autorizada cuando así lo exige la actividad.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q131",
+        "PN-T13-Q132"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F067",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 23,
+      "bloque_titulo": "Vigilancia, protección y armas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 23,
+      "enunciado_atomico": "La vigilancia puede extenderse fuera de inmuebles en los supuestos expresamente previstos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q133",
+        "PN-T13-Q134"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F068",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 23,
+      "bloque_titulo": "Vigilancia, protección y armas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 23,
+      "enunciado_atomico": "Los servicios con armas se limitan a los supuestos legal o reglamentariamente determinados.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q135",
+        "PN-T13-Q136"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F069",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 23,
+      "bloque_titulo": "Vigilancia, protección y armas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 23,
+      "enunciado_atomico": "El arma reglamentaria se porta durante el servicio autorizado y se custodia conforme a la normativa.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q137",
+        "PN-T13-Q138"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F070",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 24,
+      "bloque_titulo": "Videovigilancia",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 24,
+      "enunciado_atomico": "La videovigilancia de seguridad debe respetar proporcionalidad y normativa de protección de datos.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q139",
+        "PN-T13-Q140"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F071",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 24,
+      "bloque_titulo": "Videovigilancia",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 24,
+      "enunciado_atomico": "Las cámaras que forman parte de medidas obligatorias o sistemas de alarma no requieren autorización administrativa individual para su instalación o uso en los términos del artículo 42.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q141",
+        "PN-T13-Q142"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F072",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 24,
+      "bloque_titulo": "Videovigilancia",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 24,
+      "enunciado_atomico": "La visualización profesional de sistemas de seguridad corresponde al personal y servicios habilitados cuando la ley lo reserva.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q143",
+        "PN-T13-Q144"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F073",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 25,
+      "bloque_titulo": "Protección personal, depósito y transporte",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 25,
+      "enunciado_atomico": "La protección personal se presta por escoltas privados en servicios autorizados.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q145",
+        "PN-T13-Q146"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F074",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 25,
+      "bloque_titulo": "Protección personal, depósito y transporte",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 25,
+      "enunciado_atomico": "El depósito de objetos valiosos exige instalaciones y medidas de seguridad adecuadas.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q147",
+        "PN-T13-Q148"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F075",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 25,
+      "bloque_titulo": "Protección personal, depósito y transporte",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 25,
+      "enunciado_atomico": "El transporte de fondos y valores mantiene una cadena de custodia con medios y personal reglamentarios.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q149",
+        "PN-T13-Q150"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F076",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 26,
+      "bloque_titulo": "Instalación, mantenimiento y alarmas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 26,
+      "enunciado_atomico": "La instalación de sistemas conectados a centrales receptoras es actividad de seguridad privada.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q151",
+        "PN-T13-Q152"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F077",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 26,
+      "bloque_titulo": "Instalación, mantenimiento y alarmas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 26,
+      "enunciado_atomico": "La central debe verificar las señales por los procedimientos reglamentarios antes de comunicar cuando así proceda.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q153",
+        "PN-T13-Q154"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F078",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 26,
+      "bloque_titulo": "Instalación, mantenimiento y alarmas",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 26,
+      "enunciado_atomico": "La comunicación a las Fuerzas y Cuerpos de Seguridad debe aportar datos útiles sobre la alarma.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q155",
+        "PN-T13-Q156"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F079",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 27,
+      "bloque_titulo": "Investigación privada e informes",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 27,
+      "enunciado_atomico": "El informe de investigación se entrega al cliente legitimado y documenta el resultado del encargo.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q157",
+        "PN-T13-Q158"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F080",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 27,
+      "bloque_titulo": "Investigación privada e informes",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 27,
+      "enunciado_atomico": "Los informes y soportes se conservan durante el plazo legal con medidas de reserva.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q159",
+        "PN-T13-Q160"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F081",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 27,
+      "bloque_titulo": "Investigación privada e informes",
+      "parte": 5,
+      "parte_titulo": "Servicios de seguridad privada",
+      "punto": 27,
+      "enunciado_atomico": "La investigación no puede utilizar medios que vulneren honor, intimidad, imagen o secreto de comunicaciones.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q161",
+        "PN-T13-Q162"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F082",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 28,
+      "bloque_titulo": "Adopción y tipos de medidas de seguridad",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 28,
+      "enunciado_atomico": "Las medidas de seguridad pueden ser físicas, electrónicas, informáticas, organizativas o personales.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q163",
+        "PN-T13-Q164"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F083",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 28,
+      "bloque_titulo": "Adopción y tipos de medidas de seguridad",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 28,
+      "enunciado_atomico": "Determinados establecimientos están obligados a adoptar medidas por su riesgo.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q165",
+        "PN-T13-Q166"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F084",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 28,
+      "bloque_titulo": "Adopción y tipos de medidas de seguridad",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 28,
+      "enunciado_atomico": "Los elementos deben cumplir homologación, certificación o verificación cuando sea preceptivo.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q167",
+        "PN-T13-Q168"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F085",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 29,
+      "bloque_titulo": "Establecimientos obligados y medidas específicas",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 29,
+      "enunciado_atomico": "Las entidades de crédito deben adoptar las medidas específicas previstas para su actividad.",
+      "fuente": "OINT317-2011-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q169",
+        "PN-T13-Q170"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F086",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 29,
+      "bloque_titulo": "Establecimientos obligados y medidas específicas",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 29,
+      "enunciado_atomico": "Joyerías y establecimientos de especial riesgo tienen obligaciones adaptadas a valores y exposición.",
+      "fuente": "OINT317-2011-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q171",
+        "PN-T13-Q172"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F087",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 29,
+      "bloque_titulo": "Establecimientos obligados y medidas específicas",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 29,
+      "enunciado_atomico": "Las administraciones de lotería están entre los establecimientos con medidas específicas, pero cada obligación debe comprobarse en la norma vigente.",
+      "fuente": "OINT317-2011-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q173",
+        "PN-T13-Q174"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F088",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 30,
+      "bloque_titulo": "Inspección y deber de colaboración",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 30,
+      "enunciado_atomico": "La inspección puede abarcar empresas, despachos, servicios, personal, centros y establecimientos obligados.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q175",
+        "PN-T13-Q176"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F089",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 30,
+      "bloque_titulo": "Inspección y deber de colaboración",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 30,
+      "enunciado_atomico": "Los inspeccionados deben facilitar información y acceso a documentación exigible.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q177",
+        "PN-T13-Q178"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F090",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 30,
+      "bloque_titulo": "Inspección y deber de colaboración",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 30,
+      "enunciado_atomico": "El acta de inspección documenta hechos sin sustituir por sí sola la resolución sancionadora.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q179",
+        "PN-T13-Q180"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F091",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 31,
+      "bloque_titulo": "Control, corrección y repaso operativo",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 31,
+      "enunciado_atomico": "La calificación correcta comienza por identificar quién actúa y qué actividad o función realiza.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q181",
+        "PN-T13-Q182"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F092",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 31,
+      "bloque_titulo": "Control, corrección y repaso operativo",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 31,
+      "enunciado_atomico": "Después se comprueban habilitación, autorización, contrato, lugar y límites de la actuación.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q183",
+        "PN-T13-Q184"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T13-F093",
+      "oposicion": "policia-nacional",
+      "tema": 13,
+      "bloque": 31,
+      "bloque_titulo": "Control, corrección y repaso operativo",
+      "parte": 6,
+      "parte_titulo": "Medidas, inspección y control",
+      "punto": 31,
+      "enunciado_atomico": "La cooperación policial no transforma al personal privado en funcionario, salvo la protección jurídica concreta prevista.",
+      "fuente": "L5-2014-T13",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T13-Q185",
+        "PN-T13-Q186"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    }
+  ],
+  "blocks": [
+    {
+      "number": 1,
+      "title": "Objeto, modelo y subordinación",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F001",
+        "PN-T13-F002",
+        "PN-T13-F003"
+      ],
+      "questions": [
+        "PN-T13-Q001",
+        "PN-T13-Q002",
+        "PN-T13-Q003",
+        "PN-T13-Q004",
+        "PN-T13-Q005",
+        "PN-T13-Q006"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 2,
+      "title": "Definiciones que no deben mezclarse",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F004",
+        "PN-T13-F005",
+        "PN-T13-F006"
+      ],
+      "questions": [
+        "PN-T13-Q007",
+        "PN-T13-Q008",
+        "PN-T13-Q009",
+        "PN-T13-Q010",
+        "PN-T13-Q011",
+        "PN-T13-Q012"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 3,
+      "title": "Ámbito subjetivo de aplicación",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F007",
+        "PN-T13-F008",
+        "PN-T13-F009"
+      ],
+      "questions": [
+        "PN-T13-Q013",
+        "PN-T13-Q014",
+        "PN-T13-Q015",
+        "PN-T13-Q016",
+        "PN-T13-Q017",
+        "PN-T13-Q018"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 4,
+      "title": "Fines de la seguridad privada",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F010",
+        "PN-T13-F011",
+        "PN-T13-F012"
+      ],
+      "questions": [
+        "PN-T13-Q019",
+        "PN-T13-Q020",
+        "PN-T13-Q021",
+        "PN-T13-Q022",
+        "PN-T13-Q023",
+        "PN-T13-Q024"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 5,
+      "title": "Principios rectores y colaboración",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F013",
+        "PN-T13-F014",
+        "PN-T13-F015"
+      ],
+      "questions": [
+        "PN-T13-Q025",
+        "PN-T13-Q026",
+        "PN-T13-Q027",
+        "PN-T13-Q028",
+        "PN-T13-Q029",
+        "PN-T13-Q030"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 6,
+      "title": "Prohibiciones y reserva de información",
+      "part": 1,
+      "part_title": "Bases y disposiciones generales",
+      "facts": [
+        "PN-T13-F016",
+        "PN-T13-F017",
+        "PN-T13-F018"
+      ],
+      "questions": [
+        "PN-T13-Q031",
+        "PN-T13-Q032",
+        "PN-T13-Q033",
+        "PN-T13-Q034",
+        "PN-T13-Q035",
+        "PN-T13-Q036"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 7,
+      "title": "Competencias de la Administración del Estado",
+      "part": 2,
+      "part_title": "Coordinación y competencias públicas",
+      "facts": [
+        "PN-T13-F019",
+        "PN-T13-F020",
+        "PN-T13-F021"
+      ],
+      "questions": [
+        "PN-T13-Q037",
+        "PN-T13-Q038",
+        "PN-T13-Q039",
+        "PN-T13-Q040",
+        "PN-T13-Q041",
+        "PN-T13-Q042"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 8,
+      "title": "Competencias autonómicas y registros",
+      "part": 2,
+      "part_title": "Coordinación y competencias públicas",
+      "facts": [
+        "PN-T13-F022",
+        "PN-T13-F023",
+        "PN-T13-F024"
+      ],
+      "questions": [
+        "PN-T13-Q043",
+        "PN-T13-Q044",
+        "PN-T13-Q045",
+        "PN-T13-Q046",
+        "PN-T13-Q047",
+        "PN-T13-Q048"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 9,
+      "title": "Acceso a información y coordinación",
+      "part": 2,
+      "part_title": "Coordinación y competencias públicas",
+      "facts": [
+        "PN-T13-F025",
+        "PN-T13-F026",
+        "PN-T13-F027"
+      ],
+      "questions": [
+        "PN-T13-Q049",
+        "PN-T13-Q050",
+        "PN-T13-Q051",
+        "PN-T13-Q052",
+        "PN-T13-Q053",
+        "PN-T13-Q054"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 10,
+      "title": "Actividades reservadas, compatibles y excluidas",
+      "part": 3,
+      "part_title": "Empresas y despachos de detectives",
+      "facts": [
+        "PN-T13-F028",
+        "PN-T13-F029",
+        "PN-T13-F030"
+      ],
+      "questions": [
+        "PN-T13-Q055",
+        "PN-T13-Q056",
+        "PN-T13-Q057",
+        "PN-T13-Q058",
+        "PN-T13-Q059",
+        "PN-T13-Q060"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 11,
+      "title": "Autorización y requisitos de empresas",
+      "part": 3,
+      "part_title": "Empresas y despachos de detectives",
+      "facts": [
+        "PN-T13-F031",
+        "PN-T13-F032",
+        "PN-T13-F033"
+      ],
+      "questions": [
+        "PN-T13-Q061",
+        "PN-T13-Q062",
+        "PN-T13-Q063",
+        "PN-T13-Q064",
+        "PN-T13-Q065",
+        "PN-T13-Q066"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 12,
+      "title": "Obligaciones y representantes de empresas",
+      "part": 3,
+      "part_title": "Empresas y despachos de detectives",
+      "facts": [
+        "PN-T13-F034",
+        "PN-T13-F035",
+        "PN-T13-F036"
+      ],
+      "questions": [
+        "PN-T13-Q067",
+        "PN-T13-Q068",
+        "PN-T13-Q069",
+        "PN-T13-Q070",
+        "PN-T13-Q071",
+        "PN-T13-Q072"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 13,
+      "title": "Despachos de detectives privados",
+      "part": 3,
+      "part_title": "Empresas y despachos de detectives",
+      "facts": [
+        "PN-T13-F037",
+        "PN-T13-F038",
+        "PN-T13-F039"
+      ],
+      "questions": [
+        "PN-T13-Q073",
+        "PN-T13-Q074",
+        "PN-T13-Q075",
+        "PN-T13-Q076",
+        "PN-T13-Q077",
+        "PN-T13-Q078"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 14,
+      "title": "Categorías de personal habilitado",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F040",
+        "PN-T13-F041",
+        "PN-T13-F042"
+      ],
+      "questions": [
+        "PN-T13-Q079",
+        "PN-T13-Q080",
+        "PN-T13-Q081",
+        "PN-T13-Q082",
+        "PN-T13-Q083",
+        "PN-T13-Q084"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 15,
+      "title": "Habilitación y requisitos generales",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F043",
+        "PN-T13-F044",
+        "PN-T13-F045"
+      ],
+      "questions": [
+        "PN-T13-Q085",
+        "PN-T13-Q086",
+        "PN-T13-Q087",
+        "PN-T13-Q088",
+        "PN-T13-Q089",
+        "PN-T13-Q090"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 16,
+      "title": "Principios de actuación y protección jurídica",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F046",
+        "PN-T13-F047",
+        "PN-T13-F048"
+      ],
+      "questions": [
+        "PN-T13-Q091",
+        "PN-T13-Q092",
+        "PN-T13-Q093",
+        "PN-T13-Q094",
+        "PN-T13-Q095",
+        "PN-T13-Q096"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 17,
+      "title": "Vigilantes de seguridad",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F049",
+        "PN-T13-F050",
+        "PN-T13-F051"
+      ],
+      "questions": [
+        "PN-T13-Q097",
+        "PN-T13-Q098",
+        "PN-T13-Q099",
+        "PN-T13-Q100",
+        "PN-T13-Q101",
+        "PN-T13-Q102"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 18,
+      "title": "Escoltas privados",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F052",
+        "PN-T13-F053",
+        "PN-T13-F054"
+      ],
+      "questions": [
+        "PN-T13-Q103",
+        "PN-T13-Q104",
+        "PN-T13-Q105",
+        "PN-T13-Q106",
+        "PN-T13-Q107",
+        "PN-T13-Q108"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 19,
+      "title": "Guardas rurales y especialidades",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F055",
+        "PN-T13-F056",
+        "PN-T13-F057"
+      ],
+      "questions": [
+        "PN-T13-Q109",
+        "PN-T13-Q110",
+        "PN-T13-Q111",
+        "PN-T13-Q112",
+        "PN-T13-Q113",
+        "PN-T13-Q114"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 20,
+      "title": "Jefes y directores de seguridad",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F058",
+        "PN-T13-F059",
+        "PN-T13-F060"
+      ],
+      "questions": [
+        "PN-T13-Q115",
+        "PN-T13-Q116",
+        "PN-T13-Q117",
+        "PN-T13-Q118",
+        "PN-T13-Q119",
+        "PN-T13-Q120"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 21,
+      "title": "Detectives privados: funciones y límites",
+      "part": 4,
+      "part_title": "Personal y funciones profesionales",
+      "facts": [
+        "PN-T13-F061",
+        "PN-T13-F062",
+        "PN-T13-F063"
+      ],
+      "questions": [
+        "PN-T13-Q121",
+        "PN-T13-Q122",
+        "PN-T13-Q123",
+        "PN-T13-Q124",
+        "PN-T13-Q125",
+        "PN-T13-Q126"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 22,
+      "title": "Reglas comunes de prestación",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F064",
+        "PN-T13-F065",
+        "PN-T13-F066"
+      ],
+      "questions": [
+        "PN-T13-Q127",
+        "PN-T13-Q128",
+        "PN-T13-Q129",
+        "PN-T13-Q130",
+        "PN-T13-Q131",
+        "PN-T13-Q132"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 23,
+      "title": "Vigilancia, protección y armas",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F067",
+        "PN-T13-F068",
+        "PN-T13-F069"
+      ],
+      "questions": [
+        "PN-T13-Q133",
+        "PN-T13-Q134",
+        "PN-T13-Q135",
+        "PN-T13-Q136",
+        "PN-T13-Q137",
+        "PN-T13-Q138"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 24,
+      "title": "Videovigilancia",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F070",
+        "PN-T13-F071",
+        "PN-T13-F072"
+      ],
+      "questions": [
+        "PN-T13-Q139",
+        "PN-T13-Q140",
+        "PN-T13-Q141",
+        "PN-T13-Q142",
+        "PN-T13-Q143",
+        "PN-T13-Q144"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 25,
+      "title": "Protección personal, depósito y transporte",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F073",
+        "PN-T13-F074",
+        "PN-T13-F075"
+      ],
+      "questions": [
+        "PN-T13-Q145",
+        "PN-T13-Q146",
+        "PN-T13-Q147",
+        "PN-T13-Q148",
+        "PN-T13-Q149",
+        "PN-T13-Q150"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 26,
+      "title": "Instalación, mantenimiento y alarmas",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F076",
+        "PN-T13-F077",
+        "PN-T13-F078"
+      ],
+      "questions": [
+        "PN-T13-Q151",
+        "PN-T13-Q152",
+        "PN-T13-Q153",
+        "PN-T13-Q154",
+        "PN-T13-Q155",
+        "PN-T13-Q156"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 27,
+      "title": "Investigación privada e informes",
+      "part": 5,
+      "part_title": "Servicios de seguridad privada",
+      "facts": [
+        "PN-T13-F079",
+        "PN-T13-F080",
+        "PN-T13-F081"
+      ],
+      "questions": [
+        "PN-T13-Q157",
+        "PN-T13-Q158",
+        "PN-T13-Q159",
+        "PN-T13-Q160",
+        "PN-T13-Q161",
+        "PN-T13-Q162"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 28,
+      "title": "Adopción y tipos de medidas de seguridad",
+      "part": 6,
+      "part_title": "Medidas, inspección y control",
+      "facts": [
+        "PN-T13-F082",
+        "PN-T13-F083",
+        "PN-T13-F084"
+      ],
+      "questions": [
+        "PN-T13-Q163",
+        "PN-T13-Q164",
+        "PN-T13-Q165",
+        "PN-T13-Q166",
+        "PN-T13-Q167",
+        "PN-T13-Q168"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 29,
+      "title": "Establecimientos obligados y medidas específicas",
+      "part": 6,
+      "part_title": "Medidas, inspección y control",
+      "facts": [
+        "PN-T13-F085",
+        "PN-T13-F086",
+        "PN-T13-F087"
+      ],
+      "questions": [
+        "PN-T13-Q169",
+        "PN-T13-Q170",
+        "PN-T13-Q171",
+        "PN-T13-Q172",
+        "PN-T13-Q173",
+        "PN-T13-Q174"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 30,
+      "title": "Inspección y deber de colaboración",
+      "part": 6,
+      "part_title": "Medidas, inspección y control",
+      "facts": [
+        "PN-T13-F088",
+        "PN-T13-F089",
+        "PN-T13-F090"
+      ],
+      "questions": [
+        "PN-T13-Q175",
+        "PN-T13-Q176",
+        "PN-T13-Q177",
+        "PN-T13-Q178",
+        "PN-T13-Q179",
+        "PN-T13-Q180"
+      ],
+      "status": "complete"
+    },
+    {
+      "number": 31,
+      "title": "Control, corrección y repaso operativo",
+      "part": 6,
+      "part_title": "Medidas, inspección y control",
+      "facts": [
+        "PN-T13-F091",
+        "PN-T13-F092",
+        "PN-T13-F093"
+      ],
+      "questions": [
+        "PN-T13-Q181",
+        "PN-T13-Q182",
+        "PN-T13-Q183",
+        "PN-T13-Q184",
+        "PN-T13-Q185",
+        "PN-T13-Q186"
+      ],
+      "status": "complete"
+    }
+  ]
+}

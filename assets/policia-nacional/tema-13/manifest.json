@@ -1,0 +1,426 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-13",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 24,
+    "integrated": 24,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-07-30",
+  "resources": [
+    {
+      "id": "PN-T13-DG01",
+      "file": "t13-01-mapa-general.webp",
+      "title": "Mapa general ilustrado de las seis partes del Tema 13",
+      "type": "infografia",
+      "placement": "Mapa del tema",
+      "status": "integrated_webp",
+      "block": null,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa general ilustrado de las seis partes del Tema 13. Familia compositiva: mapa general.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG02",
+      "file": "t13-02-modelo-complementario.webp",
+      "title": "Relación jerárquica entre seguridad pública, control y prestación privada",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Relación jerárquica entre seguridad pública, control y prestación privada. Familia compositiva: diagrama de capas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG03",
+      "file": "t13-03-cuatro-conceptos.webp",
+      "title": "Matriz de actividad, servicio, función y medida con ejemplos",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Matriz de actividad, servicio, función y medida con ejemplos. Familia compositiva: matriz semántica.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG04",
+      "file": "t13-04-ecosistema-sujetos.webp",
+      "title": "Ecosistema completo de sujetos incluidos en la ley",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ecosistema completo de sujetos incluidos en la ley. Familia compositiva: mapa de actores.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG05",
+      "file": "t13-05-tres-fines.webp",
+      "title": "Tres engranajes de protección, contribución e integración",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres engranajes de protección, contribución e integración. Familia compositiva: engranajes funcionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG06",
+      "file": "t13-il-01-relevo-coordinado.webp",
+      "title": "Vigilante y policía coordinan una intervención sin confundirse de función",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vigilante y policía coordinan una intervención sin confundirse de función. Familia compositiva: escena cooperativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG07",
+      "file": "t13-07-semáforo-limites.webp",
+      "title": "Semáforo de conductas permitidas, condicionadas y prohibidas",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Semáforo de conductas permitidas, condicionadas y prohibidas. Familia compositiva: semáforo jurídico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG08",
+      "file": "t13-08-mapa-competencias.webp",
+      "title": "Mapa funcional de Interior, Policía, Guardia Civil y órganos autonómicos",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Mapa funcional de Interior, Policía, Guardia Civil y órganos autonómicos. Familia compositiva: organigrama competencial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG09",
+      "file": "t13-10-centro-coordinacion.webp",
+      "title": "Centro de coordinación con flujos de información delimitados",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Centro de coordinación con flujos de información delimitados. Familia compositiva: diagrama de flujos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG10",
+      "file": "t13-11-tres-zonas-actividad.webp",
+      "title": "Tres zonas: reservadas, compatibles y excluidas con ejemplos",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tres zonas: reservadas, compatibles y excluidas con ejemplos. Familia compositiva: diagrama de zonas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG11",
+      "file": "t13-il-02-sala-operaciones.webp",
+      "title": "Equipo de empresa revisa personal, contrato y medios antes del servicio",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Equipo de empresa revisa personal, contrato y medios antes del servicio. Familia compositiva: escena de preparación.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG12",
+      "file": "t13-14-frontera-investigacion.webp",
+      "title": "Frontera entre vigilancia empresarial e investigación de detectives",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Frontera entre vigilancia empresarial e investigación de detectives. Familia compositiva: comparativa de ámbitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG13",
+      "file": "t13-15-arbol-profesional.webp",
+      "title": "Árbol de categorías y especialidades del personal",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Árbol de categorías y especialidades del personal. Familia compositiva: árbol jerárquico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG14",
+      "file": "t13-il-03-escudo-proporcional.webp",
+      "title": "Vigilante protegido por un escudo con principios de actuación",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vigilante protegido por un escudo con principios de actuación. Familia compositiva: metáfora dibujada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG15",
+      "file": "t13-18-ciclo-vigilante.webp",
+      "title": "Ciclo de prevención, control, intervención y entrega policial",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Ciclo de prevención, control, intervención y entrega policial. Familia compositiva: ciclo operativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG16",
+      "file": "t13-il-04-burbuja-proteccion.webp",
+      "title": "Escolta crea una burbuja móvil de protección alrededor de una persona",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escolta crea una burbuja móvil de protección alrededor de una persona. Familia compositiva: escena dinámica.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG17",
+      "file": "t13-21-doble-puesto.webp",
+      "title": "Comparación jefe de seguridad y director de seguridad",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Comparación jefe de seguridad y director de seguridad. Familia compositiva: doble perfil.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG18",
+      "file": "t13-il-05-investigacion-legitima.webp",
+      "title": "Detective sigue una ruta legítima y se detiene ante el límite de la intimidad",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Detective sigue una ruta legítima y se detiene ante el límite de la intimidad. Familia compositiva: metáfora de recorrido.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG19",
+      "file": "t13-il-06-perimetro-servicio.webp",
+      "title": "Vigilante dentro de un perímetro claro con excepciones señaladas",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 23",
+      "status": "integrated_webp",
+      "block": 23,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Vigilante dentro de un perímetro claro con excepciones señaladas. Familia compositiva: escena espacial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG20",
+      "file": "t13-25-cono-vision.webp",
+      "title": "Conos de visión permitidos y zonas de privacidad protegida",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Conos de visión permitidos y zonas de privacidad protegida. Familia compositiva: diagrama espacial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG21",
+      "file": "t13-il-07-informe-bajo-llave.webp",
+      "title": "Informe de detective guardado bajo llave y entregado al destinatario legítimo",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 27",
+      "status": "integrated_webp",
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Informe de detective guardado bajo llave y entregado al destinatario legítimo. Familia compositiva: metáfora documental.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG22",
+      "file": "t13-29-capas-medidas.webp",
+      "title": "Edificio protegido por capas físicas, electrónicas, organizativas y personales",
+      "type": "infografia",
+      "placement": "Bloque 28",
+      "status": "integrated_webp",
+      "block": 28,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Edificio protegido por capas físicas, electrónicas, organizativas y personales. Familia compositiva: modelo de capas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG23",
+      "file": "t13-il-08-inspeccion-en-capas.webp",
+      "title": "Equipo inspector revisa documentos, personal, sistema y establecimiento",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Equipo inspector revisa documentos, personal, sistema y establecimiento. Familia compositiva: escena de control.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T13-DG24",
+      "file": "t13-32-tablero-ocho-casillas.webp",
+      "title": "Tablero de ocho casillas para resolver supuestos de seguridad privada",
+      "type": "infografia",
+      "placement": "Bloque 31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Tablero de ocho casillas para resolver supuestos de seguridad privada. Familia compositiva: tablero de decisión.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}

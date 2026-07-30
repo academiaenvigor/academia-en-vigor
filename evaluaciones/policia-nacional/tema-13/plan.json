@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 13,
+  "topic_title": "Seguridad privada: organización, personal, servicios y medidas",
+  "id_prefix": "PN-T13",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-13/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-13/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Objeto, modelo y subordinación"
+      },
+      {
+        "number": 2,
+        "title": "Definiciones que no deben mezclarse"
+      },
+      {
+        "number": 3,
+        "title": "Ámbito subjetivo de aplicación"
+      },
+      {
+        "number": 4,
+        "title": "Fines de la seguridad privada"
+      },
+      {
+        "number": 5,
+        "title": "Principios rectores y colaboración"
+      },
+      {
+        "number": 6,
+        "title": "Prohibiciones y reserva de información"
+      },
+      {
+        "number": 7,
+        "title": "Competencias de la Administración del Estado"
+      },
+      {
+        "number": 8,
+        "title": "Competencias autonómicas y registros"
+      },
+      {
+        "number": 9,
+        "title": "Acceso a información y coordinación"
+      },
+      {
+        "number": 10,
+        "title": "Actividades reservadas, compatibles y excluidas"
+      },
+      {
+        "number": 11,
+        "title": "Autorización y requisitos de empresas"
+      },
+      {
+        "number": 12,
+        "title": "Obligaciones y representantes de empresas"
+      },
+      {
+        "number": 13,
+        "title": "Despachos de detectives privados"
+      },
+      {
+        "number": 14,
+        "title": "Categorías de personal habilitado"
+      },
+      {
+        "number": 15,
+        "title": "Habilitación y requisitos generales"
+      },
+      {
+        "number": 16,
+        "title": "Principios de actuación y protección jurídica"
+      },
+      {
+        "number": 17,
+        "title": "Vigilantes de seguridad"
+      },
+      {
+        "number": 18,
+        "title": "Escoltas privados"
+      },
+      {
+        "number": 19,
+        "title": "Guardas rurales y especialidades"
+      },
+      {
+        "number": 20,
+        "title": "Jefes y directores de seguridad"
+      },
+      {
+        "number": 21,
+        "title": "Detectives privados: funciones y límites"
+      },
+      {
+        "number": 22,
+        "title": "Reglas comunes de prestación"
+      },
+      {
+        "number": 23,
+        "title": "Vigilancia, protección y armas"
+      },
+      {
+        "number": 24,
+        "title": "Videovigilancia"
+      },
+      {
+        "number": 25,
+        "title": "Protección personal, depósito y transporte"
+      },
+      {
+        "number": 26,
+        "title": "Instalación, mantenimiento y alarmas"
+      },
+      {
+        "number": 27,
+        "title": "Investigación privada e informes"
+      },
+      {
+        "number": 28,
+        "title": "Adopción y tipos de medidas de seguridad"
+      },
+      {
+        "number": 29,
+        "title": "Establecimientos obligados y medidas específicas"
+      },
+      {
+        "number": 30,
+        "title": "Inspección y deber de colaboración"
+      },
+      {
+        "number": 31,
+        "title": "Control, corrección y repaso operativo"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 6,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Bases y disposiciones generales",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Coordinación y competencias públicas",
+        "blocks": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Empresas y despachos de detectives",
+        "blocks": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Personal y funciones profesionales",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Servicios de seguridad privada",
+        "blocks": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Medidas, inspección y control",
+        "blocks": [
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

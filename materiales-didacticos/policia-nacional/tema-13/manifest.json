@@ -1,0 +1,917 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-13",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-13",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Bases y disposiciones generales",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Coordinación y competencias públicas",
+      "blocks": [
+        "07",
+        "08",
+        "09"
+      ],
+      "anchor_blocks": [
+        "07"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Empresas y despachos de detectives",
+      "blocks": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "10"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Personal y funciones profesionales",
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "14"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Servicios de seguridad privada",
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "22"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Medidas, inspección y control",
+      "blocks": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "28"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "t13-p1-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Audio · Bases y disposiciones generales",
+      "filename": "T13-P1-AUDIO-bases-y-disposiciones-generales.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p01/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p1-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Video · Bases y disposiciones generales",
+      "filename": "T13-P1-VIDEO-bases-y-disposiciones-generales.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p01/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p1-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Pres · Bases y disposiciones generales",
+      "filename": "T13-P1-PRES-bases-y-disposiciones-generales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p01/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p1-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 1,
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ],
+      "title": "Resumen · Bases y disposiciones generales",
+      "filename": "T13-P1-RESUMEN-bases-y-disposiciones-generales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p01/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p2-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Audio · Coordinación y competencias públicas",
+      "filename": "T13-P2-AUDIO-coordinacion-y-competencias-publicas.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p02/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p2-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Video · Coordinación y competencias públicas",
+      "filename": "T13-P2-VIDEO-coordinacion-y-competencias-publicas.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p02/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p2-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Pres · Coordinación y competencias públicas",
+      "filename": "T13-P2-PRES-coordinacion-y-competencias-publicas.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p02/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p2-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 2,
+      "blocks": [
+        "07",
+        "08",
+        "09"
+      ],
+      "anchor_blocks": [
+        "07"
+      ],
+      "title": "Resumen · Coordinación y competencias públicas",
+      "filename": "T13-P2-RESUMEN-coordinacion-y-competencias-publicas.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p02/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p3-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "10"
+      ],
+      "title": "Audio · Empresas y despachos de detectives",
+      "filename": "T13-P3-AUDIO-empresas-y-despachos-de-detectives.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p03/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p3-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "10"
+      ],
+      "title": "Video · Empresas y despachos de detectives",
+      "filename": "T13-P3-VIDEO-empresas-y-despachos-de-detectives.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p03/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p3-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "10"
+      ],
+      "title": "Pres · Empresas y despachos de detectives",
+      "filename": "T13-P3-PRES-empresas-y-despachos-de-detectives.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p03/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p3-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 3,
+      "blocks": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "10"
+      ],
+      "title": "Resumen · Empresas y despachos de detectives",
+      "filename": "T13-P3-RESUMEN-empresas-y-despachos-de-detectives.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p03/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p4-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "14"
+      ],
+      "title": "Audio · Personal y funciones profesionales",
+      "filename": "T13-P4-AUDIO-personal-y-funciones-profesionales.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p04/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p4-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "14"
+      ],
+      "title": "Video · Personal y funciones profesionales",
+      "filename": "T13-P4-VIDEO-personal-y-funciones-profesionales.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p04/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p4-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "14"
+      ],
+      "title": "Pres · Personal y funciones profesionales",
+      "filename": "T13-P4-PRES-personal-y-funciones-profesionales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p04/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p4-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 4,
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "anchor_blocks": [
+        "14"
+      ],
+      "title": "Resumen · Personal y funciones profesionales",
+      "filename": "T13-P4-RESUMEN-personal-y-funciones-profesionales.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p04/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p5-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Audio · Servicios de seguridad privada",
+      "filename": "T13-P5-AUDIO-servicios-de-seguridad-privada.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p05/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p5-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Video · Servicios de seguridad privada",
+      "filename": "T13-P5-VIDEO-servicios-de-seguridad-privada.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p05/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p5-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Pres · Servicios de seguridad privada",
+      "filename": "T13-P5-PRES-servicios-de-seguridad-privada.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p05/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p5-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 5,
+      "blocks": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "anchor_blocks": [
+        "22"
+      ],
+      "title": "Resumen · Servicios de seguridad privada",
+      "filename": "T13-P5-RESUMEN-servicios-de-seguridad-privada.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p05/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p6-audio",
+      "category": "audios",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "28"
+      ],
+      "title": "Audio · Medidas, inspección y control",
+      "filename": "T13-P6-AUDIO-medidas,-inspeccion-y-control.m4a",
+      "mime_type": "audio/x-m4a",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p06/audio",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p6-video",
+      "category": "videos",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "28"
+      ],
+      "title": "Video · Medidas, inspección y control",
+      "filename": "T13-P6-VIDEO-medidas,-inspeccion-y-control.mp4",
+      "mime_type": "video/mp4",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p06/video",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p6-pres",
+      "category": "presentaciones",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "28"
+      ],
+      "title": "Pres · Medidas, inspección y control",
+      "filename": "T13-P6-PRES-medidas,-inspeccion-y-control.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p06/pres",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    },
+    {
+      "id": "t13-p6-resumen",
+      "category": "infografias",
+      "scope": "parte",
+      "part_number": 6,
+      "blocks": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "28"
+      ],
+      "title": "Resumen · Medidas, inspección y control",
+      "filename": "T13-P6-RESUMEN-medidas,-inspeccion-y-control.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": null,
+      "ownership": "own",
+      "status": "planned",
+      "source_content_version": "1.0.0",
+      "tool": "notebooklm",
+      "duration_seconds": null,
+      "storage": {
+        "type": "external",
+        "provider": "google_drive",
+        "asset_key": "pn/tema-13/p06/resumen",
+        "drive_file_id": "",
+        "url": ""
+      },
+      "resource_type": null
+    }
+  ]
+}
