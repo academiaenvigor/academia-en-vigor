@@ -1,0 +1,349 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 17,
+  "topic_title": "Derecho penal especial: homicidio, aborto, lesiones, libertad, integridad moral y libertad sexual",
+  "id_prefix": "PN-T17",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-17/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-17/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa general del Tema 17"
+      },
+      {
+        "number": 2,
+        "title": "Homicidio: tipo básico y agravaciones"
+      },
+      {
+        "number": 3,
+        "title": "Asesinato: elementos y circunstancias"
+      },
+      {
+        "number": 4,
+        "title": "Asesinato agravado y prisión permanente revisable"
+      },
+      {
+        "number": 5,
+        "title": "Homicidio imprudente"
+      },
+      {
+        "number": 6,
+        "title": "Inducción, cooperación al suicidio y eutanasia"
+      },
+      {
+        "number": 7,
+        "title": "Actos preparatorios y consecuencias adicionales"
+      },
+      {
+        "number": 8,
+        "title": "Aborto sin consentimiento"
+      },
+      {
+        "number": 9,
+        "title": "Aborto consentido fuera de los casos legales"
+      },
+      {
+        "number": 10,
+        "title": "Requisitos incumplidos y aborto imprudente"
+      },
+      {
+        "number": 11,
+        "title": "Interrupción voluntaria del embarazo en los casos permitidos"
+      },
+      {
+        "number": 12,
+        "title": "Lesiones: bien jurídico y tratamiento médico"
+      },
+      {
+        "number": 13,
+        "title": "Lesiones atenuadas y maltrato de obra"
+      },
+      {
+        "number": 14,
+        "title": "Lesiones agravadas por el medio o la víctima"
+      },
+      {
+        "number": 15,
+        "title": "Lesiones graves por el resultado"
+      },
+      {
+        "number": 16,
+        "title": "Lesiones imprudentes"
+      },
+      {
+        "number": 17,
+        "title": "Violencia en el ámbito doméstico o familiar"
+      },
+      {
+        "number": 18,
+        "title": "Riña tumultuaria y consentimiento"
+      },
+      {
+        "number": 19,
+        "title": "Órganos, autolesión, menores y lesiones al feto"
+      },
+      {
+        "number": 20,
+        "title": "Detención ilegal: tipo básico"
+      },
+      {
+        "number": 21,
+        "title": "Liberación temprana y duración de la detención"
+      },
+      {
+        "number": 22,
+        "title": "Secuestro condicional"
+      },
+      {
+        "number": 23,
+        "title": "Agravaciones por simulación, víctima u ocultación"
+      },
+      {
+        "number": 24,
+        "title": "Detención por autoridad o funcionario público"
+      },
+      {
+        "number": 25,
+        "title": "Actos preparatorios en detenciones y secuestros"
+      },
+      {
+        "number": 26,
+        "title": "Amenazas de un mal constitutivo de delito"
+      },
+      {
+        "number": 27,
+        "title": "Amenazas colectivas y de finalidad terrorista"
+      },
+      {
+        "number": 28,
+        "title": "Amenazas de mal no delictivo y chantaje"
+      },
+      {
+        "number": 29,
+        "title": "Amenazas leves en contextos especialmente protegidos"
+      },
+      {
+        "number": 30,
+        "title": "Coacciones básicas, agravadas y leves"
+      },
+      {
+        "number": 31,
+        "title": "Matrimonio forzado"
+      },
+      {
+        "number": 32,
+        "title": "Acoso reiterado o stalking"
+      },
+      {
+        "number": 33,
+        "title": "Trato degradante y atentado contra la integridad moral"
+      },
+      {
+        "number": 34,
+        "title": "Ocultación reiterada del paradero de un cadáver"
+      },
+      {
+        "number": 35,
+        "title": "Acoso laboral, inmobiliario y persona jurídica"
+      },
+      {
+        "number": 36,
+        "title": "Violencia habitual en el ámbito familiar"
+      },
+      {
+        "number": 37,
+        "title": "Injurias, vejaciones y acoso sexual leve"
+      },
+      {
+        "number": 38,
+        "title": "Tortura cometida por autoridad o funcionario"
+      },
+      {
+        "number": 39,
+        "title": "Integridad moral por acción, omisión y concurso"
+      },
+      {
+        "number": 40,
+        "title": "Consentimiento y agresión sexual"
+      },
+      {
+        "number": 41,
+        "title": "Violación"
+      },
+      {
+        "number": 42,
+        "title": "Circunstancias agravantes de las agresiones sexuales"
+      },
+      {
+        "number": 43,
+        "title": "Agresiones sexuales a menores de dieciséis años"
+      },
+      {
+        "number": 44,
+        "title": "Corrupción de menores"
+      },
+      {
+        "number": 45,
+        "title": "Contacto sexual con menores por medios tecnológicos"
+      },
+      {
+        "number": 46,
+        "title": "Cláusula de proximidad de edad y madurez"
+      },
+      {
+        "number": 47,
+        "title": "Acoso sexual"
+      },
+      {
+        "number": 48,
+        "title": "Exhibicionismo y difusión de pornografía a vulnerables"
+      },
+      {
+        "number": 49,
+        "title": "Prostitución y explotación sexual"
+      },
+      {
+        "number": 50,
+        "title": "Pornografía infantil y corrupción"
+      },
+      {
+        "number": 51,
+        "title": "Incitación digital y responsabilidad de personas jurídicas"
+      },
+      {
+        "number": 52,
+        "title": "Disposiciones comunes de los delitos sexuales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 6,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Homicidio y sus formas",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Aborto",
+        "blocks": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Lesiones",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Detenciones, amenazas, coacciones y acoso",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Integridad moral y tortura",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Libertad sexual",
+        "blocks": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

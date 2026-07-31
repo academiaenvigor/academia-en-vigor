@@ -366,6 +366,30 @@
           "official_exam_mapped": 12,
           "official_exam_verified": 12,
           "ha_caido_active": 0
+        },
+        {
+          "number": 17,
+          "slug": "derecho-penal-especial-homicidio-aborto-lesiones-libertad-integridad-moral-libertad-sexual",
+          "title": "Derecho penal especial: homicidio, aborto, lesiones, libertad, integridad moral y libertad sexual",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-17/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-17-derecho-penal-especial-homicidio-aborto-lesiones-libertad-integridad-moral-libertad-sexual.md",
+          "atestado": "temas/policia-nacional/atestado/tema-17-derecho-penal-especial-homicidio-aborto-lesiones-libertad-integridad-moral-libertad-sexual.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-17/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-17/plan.json",
+          "assets": "assets/policia-nacional/tema-17/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-17/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-17/indice-oficiales.json",
+          "visual_version": "1.0.0",
+          "visual_assets": 39,
+          "visual_planned": 0,
+          "atomic_facts": 156,
+          "question_count": 312,
+          "official_exam_mapped": 29,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }
