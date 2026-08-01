@@ -1,0 +1,348 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 16,
+  "topic_title": "Derecho Penal Parte General",
+  "id_prefix": "PN-T16",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-16/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-16/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa oficial y ruta de estudio"
+      },
+      {
+        "number": 2,
+        "title": "Concepto y función del Derecho penal"
+      },
+      {
+        "number": 3,
+        "title": "Legalidad y garantías penales"
+      },
+      {
+        "number": 4,
+        "title": "Vigencia temporal de la ley penal"
+      },
+      {
+        "number": 5,
+        "title": "Vigencia espacial y jurisdicción española"
+      },
+      {
+        "number": 6,
+        "title": "Momento, lugar y leyes penales especiales"
+      },
+      {
+        "number": 7,
+        "title": "Infracción penal y concepto material de delito"
+      },
+      {
+        "number": 8,
+        "title": "Acción, omisión y comisión por omisión"
+      },
+      {
+        "number": 9,
+        "title": "Dolo e imprudencia"
+      },
+      {
+        "number": 10,
+        "title": "Elementos del delito"
+      },
+      {
+        "number": 11,
+        "title": "Delitos graves, menos graves y leves"
+      },
+      {
+        "number": 12,
+        "title": "Error de tipo y error de prohibición"
+      },
+      {
+        "number": 13,
+        "title": "Consumación, tentativa y actos preparatorios"
+      },
+      {
+        "number": 14,
+        "title": "Tentativa y determinación de la pena"
+      },
+      {
+        "number": 15,
+        "title": "Desistimiento y evitación del resultado"
+      },
+      {
+        "number": 16,
+        "title": "Conspiración y proposición"
+      },
+      {
+        "number": 17,
+        "title": "Provocación y apología"
+      },
+      {
+        "number": 18,
+        "title": "Autores, inductores y cooperadores necesarios"
+      },
+      {
+        "number": 19,
+        "title": "Complicidad y encubrimiento"
+      },
+      {
+        "number": 20,
+        "title": "Delitos mediante difusión y actuación en nombre de otro"
+      },
+      {
+        "number": 21,
+        "title": "Responsabilidad penal de la persona jurídica"
+      },
+      {
+        "number": 22,
+        "title": "Programas de cumplimiento y exención"
+      },
+      {
+        "number": 23,
+        "title": "Autonomía, atenuantes y entidades excluidas"
+      },
+      {
+        "number": 24,
+        "title": "Edad penal y sus efectos"
+      },
+      {
+        "number": 25,
+        "title": "Anomalía psíquica, intoxicación y alteración perceptiva"
+      },
+      {
+        "number": 26,
+        "title": "Legítima defensa"
+      },
+      {
+        "number": 27,
+        "title": "Estado de necesidad, miedo y cumplimiento del deber"
+      },
+      {
+        "number": 28,
+        "title": "Circunstancias atenuantes"
+      },
+      {
+        "number": 29,
+        "title": "Alevosía y debilitamiento de la defensa"
+      },
+      {
+        "number": 30,
+        "title": "Precio, discriminación, ensañamiento y abusos"
+      },
+      {
+        "number": 31,
+        "title": "Reincidencia vigente desde abril de 2026"
+      },
+      {
+        "number": 32,
+        "title": "Circunstancia mixta de parentesco"
+      },
+      {
+        "number": 33,
+        "title": "Concepto, fines y clases de penas"
+      },
+      {
+        "number": 34,
+        "title": "Penas graves"
+      },
+      {
+        "number": 35,
+        "title": "Penas menos graves"
+      },
+      {
+        "number": 36,
+        "title": "Penas leves y penas de personas jurídicas"
+      },
+      {
+        "number": 37,
+        "title": "Penas privativas de libertad"
+      },
+      {
+        "number": 38,
+        "title": "Prisión permanente revisable y prisión"
+      },
+      {
+        "number": 39,
+        "title": "Localización permanente y responsabilidad subsidiaria"
+      },
+      {
+        "number": 40,
+        "title": "Penas privativas de derechos"
+      },
+      {
+        "number": 41,
+        "title": "Prohibiciones y trabajos en beneficio de la comunidad"
+      },
+      {
+        "number": 42,
+        "title": "Pena de multa"
+      },
+      {
+        "number": 43,
+        "title": "Penas accesorias"
+      },
+      {
+        "number": 44,
+        "title": "Pena del autor consumado, tentativa y complicidad"
+      },
+      {
+        "number": 45,
+        "title": "Atenuantes, agravantes y grados de pena"
+      },
+      {
+        "number": 46,
+        "title": "Concurso real, continuado, ideal y medial"
+      },
+      {
+        "number": 47,
+        "title": "Medidas de seguridad: fundamento y clases"
+      },
+      {
+        "number": 48,
+        "title": "Aplicación y revisión de medidas de seguridad"
+      },
+      {
+        "number": 49,
+        "title": "Responsabilidad civil derivada del delito"
+      },
+      {
+        "number": 50,
+        "title": "Responsables civiles directos y subsidiarios"
+      },
+      {
+        "number": 51,
+        "title": "Orden, transmisión y pago de responsabilidades"
+      },
+      {
+        "number": 52,
+        "title": "Decomiso"
+      },
+      {
+        "number": 53,
+        "title": "Consecuencias accesorias para entidades sin personalidad"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos y vigencia",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Ejecución y responsables",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Edad y circunstancias",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Penas",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Aplicación y otras consecuencias",
+        "blocks": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    }
+  ]
+}

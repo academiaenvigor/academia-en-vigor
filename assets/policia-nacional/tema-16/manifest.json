@@ -1,0 +1,550 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-16",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 32,
+    "integrated": 32,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-08-01",
+  "resources": [
+    {
+      "id": "PN-T16-DG01",
+      "file": "t16-01-mapa-oficial-y-ruta-de-estudio.webp",
+      "title": "Mapa oficial y ruta de estudio",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 01. Familia: mapa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG02",
+      "file": "t16-02-legalidad-y-garantias-penales.webp",
+      "title": "Legalidad y garantías penales",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 03. Familia: semáforo. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG03",
+      "file": "t16-03-vigencia-temporal-de-la-ley-penal.webp",
+      "title": "Vigencia temporal de la ley penal",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 04. Familia: reloj. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG04",
+      "file": "t16-04-vigencia-espacial-y-jurisdiccion-espanola.webp",
+      "title": "Vigencia espacial y jurisdicción española",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 05. Familia: mapa mundial. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG05",
+      "file": "t16-05-infraccion-penal-y-concepto-material-de-delito.webp",
+      "title": "Infracción penal y concepto material de delito",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 07. Familia: motor. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG06",
+      "file": "t16-06-accion-omision-y-comision-por-omision.webp",
+      "title": "Acción, omisión y comisión por omisión",
+      "type": "infografia",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 08. Familia: corte de escena. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG07",
+      "file": "t16-07-dolo-e-imprudencia.webp",
+      "title": "Dolo e imprudencia",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 09. Familia: comparación. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG08",
+      "file": "t16-08-delitos-graves-menos-graves-y-leves.webp",
+      "title": "Delitos graves, menos graves y leves",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 11. Familia: camino. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG09",
+      "file": "t16-09-error-de-tipo-y-error-de-prohibicion.webp",
+      "title": "Error de tipo y error de prohibición",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 12. Familia: balanza. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG10",
+      "file": "t16-10-tentativa-y-determinacion-de-la-pena.webp",
+      "title": "Tentativa y determinación de la pena",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 14. Familia: cadena causal. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG11",
+      "file": "t16-11-autores-inductores-y-cooperadores-necesarios.webp",
+      "title": "Autores, inductores y cooperadores necesarios",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 18. Familia: mapa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG12",
+      "file": "t16-12-responsabilidad-penal-de-la-persona-juridica.webp",
+      "title": "Responsabilidad penal de la persona jurídica",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 21. Familia: semáforo. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG13",
+      "file": "t16-13-edad-penal-y-sus-efectos.webp",
+      "title": "Edad penal y sus efectos",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 24. Familia: reloj. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG14",
+      "file": "t16-14-legitima-defensa.webp",
+      "title": "Legítima defensa",
+      "type": "infografia",
+      "placement": "Bloque 26",
+      "status": "integrated_webp",
+      "block": 26,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 26. Familia: mapa mundial. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG15",
+      "file": "t16-15-circunstancias-atenuantes.webp",
+      "title": "Circunstancias atenuantes",
+      "type": "infografia",
+      "placement": "Bloque 28",
+      "status": "integrated_webp",
+      "block": 28,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 28. Familia: motor. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG16",
+      "file": "t16-16-alevosia-y-debilitamiento-de-la-defensa.webp",
+      "title": "Alevosía y debilitamiento de la defensa",
+      "type": "infografia",
+      "placement": "Bloque 29",
+      "status": "integrated_webp",
+      "block": 29,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 29. Familia: corte de escena. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG17",
+      "file": "t16-17-reincidencia-vigente-desde-abril-de-2026.webp",
+      "title": "Reincidencia vigente desde abril de 2026",
+      "type": "infografia",
+      "placement": "Bloque 31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 31. Familia: comparación. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG18",
+      "file": "t16-18-concepto-fines-y-clases-de-penas.webp",
+      "title": "Concepto, fines y clases de penas",
+      "type": "infografia",
+      "placement": "Bloque 33",
+      "status": "integrated_webp",
+      "block": 33,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 33. Familia: camino. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG19",
+      "file": "t16-19-penas-leves-y-penas-de-personas-juridicas.webp",
+      "title": "Penas leves y penas de personas jurídicas",
+      "type": "infografia",
+      "placement": "Bloque 36",
+      "status": "integrated_webp",
+      "block": 36,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 36. Familia: balanza. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG20",
+      "file": "t16-20-penas-privativas-de-libertad.webp",
+      "title": "Penas privativas de libertad",
+      "type": "infografia",
+      "placement": "Bloque 37",
+      "status": "integrated_webp",
+      "block": 37,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 37. Familia: cadena causal. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG21",
+      "file": "t16-21-penas-privativas-de-derechos.webp",
+      "title": "Penas privativas de derechos",
+      "type": "infografia",
+      "placement": "Bloque 40",
+      "status": "integrated_webp",
+      "block": 40,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 40. Familia: mapa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG22",
+      "file": "t16-22-pena-de-multa.webp",
+      "title": "Pena de multa",
+      "type": "infografia",
+      "placement": "Bloque 42",
+      "status": "integrated_webp",
+      "block": 42,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 42. Familia: semáforo. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG23",
+      "file": "t16-23-atenuantes-agravantes-y-grados-de-pena.webp",
+      "title": "Atenuantes, agravantes y grados de pena",
+      "type": "infografia",
+      "placement": "Bloque 45",
+      "status": "integrated_webp",
+      "block": 45,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 45. Familia: reloj. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG24",
+      "file": "t16-24-concurso-real-continuado-ideal-y-medial.webp",
+      "title": "Concurso real, continuado, ideal y medial",
+      "type": "infografia",
+      "placement": "Bloque 46",
+      "status": "integrated_webp",
+      "block": 46,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 46. Familia: mapa mundial. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG25",
+      "file": "t16-25-responsabilidad-civil-derivada-del-delito.webp",
+      "title": "Responsabilidad civil derivada del delito",
+      "type": "infografia",
+      "placement": "Bloque 49",
+      "status": "integrated_webp",
+      "block": 49,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 49. Familia: motor. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-DG26",
+      "file": "t16-26-decomiso.webp",
+      "title": "Decomiso",
+      "type": "infografia",
+      "placement": "Bloque 52",
+      "status": "integrated_webp",
+      "block": 52,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 52. Familia: corte de escena. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL01",
+      "file": "t16-il-01-la-brujula-de-la-ultima-ratio.webp",
+      "title": "La brújula de la última ratio",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 02. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL02",
+      "file": "t16-il-02-el-socorrista-que-omite-actuar.webp",
+      "title": "El socorrista que omite actuar",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 08. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL03",
+      "file": "t16-il-03-el-freno-del-desistimiento.webp",
+      "title": "El freno del desistimiento",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 15. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL04",
+      "file": "t16-il-04-el-escudo-del-programa-de-cumplimiento.webp",
+      "title": "El escudo del programa de cumplimiento",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 22. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL05",
+      "file": "t16-il-05-las-cuatro-puertas-de-la-edad-penal.webp",
+      "title": "Las cuatro puertas de la edad penal",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso del bloque 24. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T16-IL06",
+      "file": "t16-il-06-la-brujula-entre-pena-y-medida.webp",
+      "title": "La brújula entre pena y medida",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 47",
+      "status": "integrated_webp",
+      "block": 47,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso del bloque 47. Familia: escena narrativa. Texto integrado orgánicamente sobre una metáfora visual dominante.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,5269 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 16,
+  "topic": "tema-16",
+  "scope": "53 bloques semánticos del Tema 16",
+  "status": "complete",
+  "total_atomic_facts": 212,
+  "covered_atomic_facts": 212,
+  "coverage_percent": 100.0,
+  "total_questions": 424,
+  "requirements": {
+    "risk5_questions_per_fact": 2,
+    "double_feedback": true,
+    "official_sources_checked": true
+  },
+  "facts": [
+    {
+      "id": "PN-T16-F001",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 1,
+      "bloque_titulo": "Mapa oficial y ruta de estudio",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 1,
+      "enunciado_atomico": "El Tema 16 oficial abarca concepto y principios del Derecho penal, infracción penal, concepto material de delito, ejecución, responsables físicos y jurídicos, consecuencias jurídicas, vigencia temporal y espacial, edad penal y circunstancias modificativas.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q001",
+        "PN-T16-Q002"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F002",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 1,
+      "bloque_titulo": "Mapa oficial y ruta de estudio",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 1,
+      "enunciado_atomico": "La ruta eficaz separa cinco tramos: fundamentos y vigencia; delito y ejecución; responsables; circunstancias; y consecuencias jurídicas.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q003",
+        "PN-T16-Q004"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F003",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 1,
+      "bloque_titulo": "Mapa oficial y ruta de estudio",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 1,
+      "enunciado_atomico": "El Código Penal es la fuente principal, pero la vigencia espacial se completa con el artículo 23 de la Ley Orgánica del Poder Judicial y la edad con la Ley Orgánica 5/2000.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q005",
+        "PN-T16-Q006"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F004",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 1,
+      "bloque_titulo": "Mapa oficial y ruta de estudio",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 1,
+      "enunciado_atomico": "Las explicaciones doctrinales ayudan a comprender, pero nunca sustituyen el tenor de los artículos ni se presentan como derecho vigente.",
+      "fuente": "CONV-PN-2026",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q007",
+        "PN-T16-Q008"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F005",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 2,
+      "bloque_titulo": "Concepto y función del Derecho penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 2,
+      "enunciado_atomico": "El Derecho penal es la rama del ordenamiento que define delitos y vincula a ellos penas, medidas de seguridad y otras consecuencias jurídicas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q009",
+        "PN-T16-Q010"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F006",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 2,
+      "bloque_titulo": "Concepto y función del Derecho penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 2,
+      "enunciado_atomico": "La norma penal contiene un supuesto de hecho y una consecuencia jurídica: describe la conducta prohibida y fija la respuesta aplicable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q011",
+        "PN-T16-Q012"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F007",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 2,
+      "bloque_titulo": "Concepto y función del Derecho penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 2,
+      "enunciado_atomico": "El Derecho penal protege bienes jurídicos mediante el recurso más intenso del Estado, por lo que debe operar como última ratio.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q013",
+        "PN-T16-Q014"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F008",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 2,
+      "bloque_titulo": "Concepto y función del Derecho penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 2,
+      "enunciado_atomico": "Las penas privativas de libertad y las medidas de seguridad se orientan a reeducación y reinserción social y no pueden consistir en trabajos forzados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q015",
+        "PN-T16-Q016"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F009",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 3,
+      "bloque_titulo": "Legalidad y garantías penales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 3,
+      "enunciado_atomico": "Nadie puede ser castigado por una acción u omisión que no estuviera prevista como delito por ley anterior a su realización.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q017",
+        "PN-T16-Q018"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F010",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 3,
+      "bloque_titulo": "Legalidad y garantías penales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 3,
+      "enunciado_atomico": "Las medidas de seguridad solo pueden aplicarse cuando sus presupuestos estaban establecidos previamente por la ley.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q019",
+        "PN-T16-Q020"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F011",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 3,
+      "bloque_titulo": "Legalidad y garantías penales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 3,
+      "enunciado_atomico": "No puede ejecutarse pena o medida sin sentencia firme del órgano competente ni de forma distinta a la prevista legalmente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q021",
+        "PN-T16-Q022"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F012",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 3,
+      "bloque_titulo": "Legalidad y garantías penales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 3,
+      "enunciado_atomico": "Las leyes penales no se aplican a casos distintos de los expresamente comprendidos: la analogía perjudicial al reo está prohibida.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q023",
+        "PN-T16-Q024"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F013",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 4,
+      "bloque_titulo": "Vigencia temporal de la ley penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 4,
+      "enunciado_atomico": "Las leyes penales desfavorables no tienen efecto retroactivo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q025",
+        "PN-T16-Q026"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F014",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 4,
+      "bloque_titulo": "Vigencia temporal de la ley penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 4,
+      "enunciado_atomico": "Las leyes penales posteriores favorables al reo se aplican retroactivamente incluso con sentencia firme y durante el cumplimiento de la condena.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q027",
+        "PN-T16-Q028"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F015",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 4,
+      "bloque_titulo": "Vigencia temporal de la ley penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 4,
+      "enunciado_atomico": "Si existe duda sobre cuál es la ley más favorable, el reo debe ser oído.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q029",
+        "PN-T16-Q030"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F016",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 4,
+      "bloque_titulo": "Vigencia temporal de la ley penal",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 4,
+      "enunciado_atomico": "Los hechos cometidos bajo una ley temporal se juzgan conforme a ella, salvo que la propia ley disponga expresamente lo contrario.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q031",
+        "PN-T16-Q032"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F017",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 5,
+      "bloque_titulo": "Vigencia espacial y jurisdicción española",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 5,
+      "enunciado_atomico": "La jurisdicción española conoce de los delitos cometidos en territorio español o a bordo de buques o aeronaves españoles, sin perjuicio de los tratados.",
+      "fuente": "LOPJ-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q033",
+        "PN-T16-Q034"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F018",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 5,
+      "bloque_titulo": "Vigencia espacial y jurisdicción española",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 5,
+      "enunciado_atomico": "El principio de personalidad permite perseguir determinados hechos cometidos fuera de España por españoles o personas que adquirieron después la nacionalidad, si se cumplen los requisitos legales.",
+      "fuente": "LOPJ-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q035",
+        "PN-T16-Q036"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F019",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 5,
+      "bloque_titulo": "Vigencia espacial y jurisdicción española",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 5,
+      "enunciado_atomico": "El principio real o de protección permite perseguir fuera de España los delitos específicamente enumerados que atacan intereses esenciales del Estado.",
+      "fuente": "LOPJ-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q037",
+        "PN-T16-Q038"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F020",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 5,
+      "bloque_titulo": "Vigencia espacial y jurisdicción española",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 5,
+      "enunciado_atomico": "La jurisdicción universal solo opera para los delitos y con las conexiones expresamente previstas en el artículo 23.4 de la Ley Orgánica del Poder Judicial.",
+      "fuente": "LOPJ-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q039",
+        "PN-T16-Q040"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F021",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 6,
+      "bloque_titulo": "Momento, lugar y leyes penales especiales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 6,
+      "enunciado_atomico": "El delito se considera cometido en el momento en que el sujeto ejecuta la acción u omite el acto que estaba obligado a realizar.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q041",
+        "PN-T16-Q042"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F022",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 6,
+      "bloque_titulo": "Momento, lugar y leyes penales especiales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 6,
+      "enunciado_atomico": "En el concurso aparente de normas rigen especialidad, subsidiariedad, consunción y, en defecto de las anteriores, el precepto penal más grave.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q043",
+        "PN-T16-Q044"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F023",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 6,
+      "bloque_titulo": "Momento, lugar y leyes penales especiales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 6,
+      "enunciado_atomico": "Las garantías del Título Preliminar se aplican también a delitos de leyes penales especiales.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q045",
+        "PN-T16-Q046"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F024",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 6,
+      "bloque_titulo": "Momento, lugar y leyes penales especiales",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 6,
+      "enunciado_atomico": "Las restantes disposiciones del Código Penal se aplican supletoriamente a las leyes especiales en lo no previsto expresamente por ellas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q047",
+        "PN-T16-Q048"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F025",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 7,
+      "bloque_titulo": "Infracción penal y concepto material de delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 7,
+      "enunciado_atomico": "Son delitos las acciones y omisiones dolosas o imprudentes penadas por la ley.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q049",
+        "PN-T16-Q050"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F026",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 7,
+      "bloque_titulo": "Infracción penal y concepto material de delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 7,
+      "enunciado_atomico": "El concepto material explica el delito como conducta humana típica, antijurídica, culpable y punible.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q051",
+        "PN-T16-Q052"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F027",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 7,
+      "bloque_titulo": "Infracción penal y concepto material de delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 7,
+      "enunciado_atomico": "La tipicidad exige que el hecho encaje en la descripción legal; la antijuridicidad desaparece cuando concurre una causa de justificación completa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q053",
+        "PN-T16-Q054"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F028",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 7,
+      "bloque_titulo": "Infracción penal y concepto material de delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 7,
+      "enunciado_atomico": "La culpabilidad exige que el hecho pueda reprocharse personalmente al autor; la punibilidad comprueba que no exista una condición que excluya la pena.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q055",
+        "PN-T16-Q056"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F029",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 8,
+      "bloque_titulo": "Acción, omisión y comisión por omisión",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 8,
+      "enunciado_atomico": "El delito puede realizarse mediante una acción o mediante una omisión.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q057",
+        "PN-T16-Q058"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F030",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 8,
+      "bloque_titulo": "Acción, omisión y comisión por omisión",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 8,
+      "enunciado_atomico": "Los delitos de resultado solo se imputan por omisión cuando no evitar el resultado equivale, según la ley, a causarlo y el autor tenía un deber jurídico especial.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q059",
+        "PN-T16-Q060"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F031",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 8,
+      "bloque_titulo": "Acción, omisión y comisión por omisión",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 8,
+      "enunciado_atomico": "Existe posición de garante cuando una obligación legal o contractual imponía actuar.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q061",
+        "PN-T16-Q062"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F032",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 8,
+      "bloque_titulo": "Acción, omisión y comisión por omisión",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 8,
+      "enunciado_atomico": "También existe posición de garante cuando el omitente creó previamente una situación de riesgo para el bien jurídico mediante acción u omisión.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q063",
+        "PN-T16-Q064"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F033",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 9,
+      "bloque_titulo": "Dolo e imprudencia",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 9,
+      "enunciado_atomico": "No hay pena sin dolo o imprudencia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q065",
+        "PN-T16-Q066"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F034",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 9,
+      "bloque_titulo": "Dolo e imprudencia",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 9,
+      "enunciado_atomico": "El dolo supone conocer los elementos esenciales del hecho y querer su realización o aceptar el resultado en los términos admitidos penalmente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q067",
+        "PN-T16-Q068"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F035",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 9,
+      "bloque_titulo": "Dolo e imprudencia",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 9,
+      "enunciado_atomico": "La imprudencia implica infringir el deber objetivo de cuidado y producir un resultado previsible y evitable sin voluntad de realizarlo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q069",
+        "PN-T16-Q070"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F036",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 9,
+      "bloque_titulo": "Dolo e imprudencia",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 9,
+      "enunciado_atomico": "Las acciones u omisiones imprudentes solo se castigan cuando la ley lo dispone expresamente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q071",
+        "PN-T16-Q072"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F037",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 10,
+      "bloque_titulo": "Elementos del delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 10,
+      "enunciado_atomico": "La conducta es el comportamiento humano activo u omisivo del que parte el análisis del delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q073",
+        "PN-T16-Q074"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F038",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 10,
+      "bloque_titulo": "Elementos del delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 10,
+      "enunciado_atomico": "La tipicidad reúne los elementos objetivos y subjetivos exigidos por el tipo penal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q075",
+        "PN-T16-Q076"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F039",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 10,
+      "bloque_titulo": "Elementos del delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 10,
+      "enunciado_atomico": "La antijuridicidad expresa la contradicción del hecho típico con el ordenamiento cuando no concurre una justificación.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q077",
+        "PN-T16-Q078"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F040",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 10,
+      "bloque_titulo": "Elementos del delito",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 10,
+      "enunciado_atomico": "La culpabilidad comprende imputabilidad, conciencia potencial de la ilicitud y exigibilidad de una conducta conforme a Derecho.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q079",
+        "PN-T16-Q080"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F041",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 11,
+      "bloque_titulo": "Delitos graves, menos graves y leves",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 11,
+      "enunciado_atomico": "Son delitos graves los castigados por la ley con pena grave.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q081",
+        "PN-T16-Q082"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F042",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 11,
+      "bloque_titulo": "Delitos graves, menos graves y leves",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 11,
+      "enunciado_atomico": "Son delitos menos graves los castigados con pena menos grave y delitos leves los castigados con pena leve.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q083",
+        "PN-T16-Q084"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F043",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 11,
+      "bloque_titulo": "Delitos graves, menos graves y leves",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 11,
+      "enunciado_atomico": "Si la extensión de una pena permite clasificarla a la vez como grave y menos grave, el delito se considera grave.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q085",
+        "PN-T16-Q086"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F044",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 11,
+      "bloque_titulo": "Delitos graves, menos graves y leves",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 11,
+      "enunciado_atomico": "Si la extensión de una pena permite clasificarla a la vez como leve y menos grave, el delito se considera leve.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q087",
+        "PN-T16-Q088"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F045",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 12,
+      "bloque_titulo": "Error de tipo y error de prohibición",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 12,
+      "enunciado_atomico": "El error invencible sobre un hecho constitutivo de la infracción excluye la responsabilidad criminal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q089",
+        "PN-T16-Q090"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F046",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 12,
+      "bloque_titulo": "Error de tipo y error de prohibición",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 12,
+      "enunciado_atomico": "El error de tipo vencible permite castigar, en su caso, la infracción como imprudente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q091",
+        "PN-T16-Q092"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F047",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 12,
+      "bloque_titulo": "Error de tipo y error de prohibición",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 12,
+      "enunciado_atomico": "El error sobre un hecho cualificador o una circunstancia agravante impide apreciarlos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q093",
+        "PN-T16-Q094"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F048",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 12,
+      "bloque_titulo": "Error de tipo y error de prohibición",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 12,
+      "enunciado_atomico": "El error invencible sobre la ilicitud excluye responsabilidad; si es vencible, se impone la pena inferior en uno o dos grados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q095",
+        "PN-T16-Q096"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F049",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 13,
+      "bloque_titulo": "Consumación, tentativa y actos preparatorios",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 13,
+      "enunciado_atomico": "Son punibles el delito consumado y la tentativa de delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q097",
+        "PN-T16-Q098"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F050",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 13,
+      "bloque_titulo": "Consumación, tentativa y actos preparatorios",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 13,
+      "enunciado_atomico": "Los actos internos no se castigan por sí solos porque aún no exteriorizan una conducta típica.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q099",
+        "PN-T16-Q100"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F051",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 13,
+      "bloque_titulo": "Consumación, tentativa y actos preparatorios",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 13,
+      "enunciado_atomico": "La conspiración, proposición y provocación solo se castigan en los casos especialmente previstos por la ley.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q101",
+        "PN-T16-Q102"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F052",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 13,
+      "bloque_titulo": "Consumación, tentativa y actos preparatorios",
+      "parte": 1,
+      "parte_titulo": "Fundamentos y vigencia",
+      "punto": 13,
+      "enunciado_atomico": "Consumación y agotamiento no son equivalentes: la consumación completa el tipo; el agotamiento obtiene o prolonga el propósito perseguido.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q103",
+        "PN-T16-Q104"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F053",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 14,
+      "bloque_titulo": "Tentativa y determinación de la pena",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 14,
+      "enunciado_atomico": "Hay tentativa cuando el sujeto inicia directamente la ejecución mediante hechos exteriores y practica todos o parte de los actos que objetivamente deberían producir el resultado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q105",
+        "PN-T16-Q106"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F054",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 14,
+      "bloque_titulo": "Tentativa y determinación de la pena",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 14,
+      "enunciado_atomico": "El resultado no se produce por causas independientes de la voluntad del autor.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q107",
+        "PN-T16-Q108"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F055",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 14,
+      "bloque_titulo": "Tentativa y determinación de la pena",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 14,
+      "enunciado_atomico": "La tentativa puede ser acabada cuando se ejecutan todos los actos previstos e inacabada cuando solo se ejecuta una parte.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q109",
+        "PN-T16-Q110"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F056",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 14,
+      "bloque_titulo": "Tentativa y determinación de la pena",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 14,
+      "enunciado_atomico": "A los autores de tentativa se les impone la pena inferior en uno o dos grados, atendiendo al peligro del intento y al grado de ejecución.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q111",
+        "PN-T16-Q112"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F057",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 15,
+      "bloque_titulo": "Desistimiento y evitación del resultado",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 15,
+      "enunciado_atomico": "Queda exento por el delito intentado quien evita voluntariamente la consumación desistiendo de la ejecución ya iniciada o impidiendo el resultado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q113",
+        "PN-T16-Q114"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F058",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 15,
+      "bloque_titulo": "Desistimiento y evitación del resultado",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 15,
+      "enunciado_atomico": "La exención por desistimiento no elimina la responsabilidad por otros actos ya ejecutados que constituyan delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q115",
+        "PN-T16-Q116"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F059",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 15,
+      "bloque_titulo": "Desistimiento y evitación del resultado",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 15,
+      "enunciado_atomico": "Cuando intervienen varios sujetos, queda exento quien desiste e impide o intenta impedir seria, firme y decididamente la consumación.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q117",
+        "PN-T16-Q118"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F060",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 15,
+      "bloque_titulo": "Desistimiento y evitación del resultado",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 15,
+      "enunciado_atomico": "El desistimiento exige voluntariedad: no basta abandonar porque la consumación se ha vuelto imposible o porque aparece un obstáculo insuperable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q119",
+        "PN-T16-Q120"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F061",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 16,
+      "bloque_titulo": "Conspiración y proposición",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 16,
+      "enunciado_atomico": "La conspiración existe cuando dos o más personas se conciertan para ejecutar un delito y resuelven llevarlo a cabo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q121",
+        "PN-T16-Q122"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F062",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 16,
+      "bloque_titulo": "Conspiración y proposición",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 16,
+      "enunciado_atomico": "La proposición existe cuando quien ha resuelto cometer un delito invita a otra u otras personas a participar en él.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q123",
+        "PN-T16-Q124"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F063",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 16,
+      "bloque_titulo": "Conspiración y proposición",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 16,
+      "enunciado_atomico": "Conspiración y proposición son actos preparatorios punibles únicamente cuando el Libro II lo prevé expresamente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q125",
+        "PN-T16-Q126"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F064",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 16,
+      "bloque_titulo": "Conspiración y proposición",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 16,
+      "enunciado_atomico": "La proposición exige una decisión propia previa de delinquir; no equivale a una invitación abstracta o meramente retórica.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q127",
+        "PN-T16-Q128"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F065",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 17,
+      "bloque_titulo": "Provocación y apología",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 17,
+      "enunciado_atomico": "La provocación exige incitación directa a cometer un delito mediante un medio de publicidad eficaz o ante una concurrencia de personas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q129",
+        "PN-T16-Q130"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F066",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 17,
+      "bloque_titulo": "Provocación y apología",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 17,
+      "enunciado_atomico": "La provocación solo se castiga cuando la ley lo prevé expresamente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q131",
+        "PN-T16-Q132"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F067",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 17,
+      "bloque_titulo": "Provocación y apología",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 17,
+      "enunciado_atomico": "La apología solo es delictiva como forma de provocación cuando constituye incitación directa a cometer un delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q133",
+        "PN-T16-Q134"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F068",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 17,
+      "bloque_titulo": "Provocación y apología",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 17,
+      "enunciado_atomico": "Si a la provocación sigue la perpetración del delito, se castiga como inducción.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q135",
+        "PN-T16-Q136"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F069",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 18,
+      "bloque_titulo": "Autores, inductores y cooperadores necesarios",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 18,
+      "enunciado_atomico": "Son responsables criminalmente de los delitos los autores y los cómplices.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q137",
+        "PN-T16-Q138"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F070",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 18,
+      "bloque_titulo": "Autores, inductores y cooperadores necesarios",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 18,
+      "enunciado_atomico": "Es autor quien realiza el hecho por sí solo, conjuntamente o por medio de otro del que se sirve como instrumento.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q139",
+        "PN-T16-Q140"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F071",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 18,
+      "bloque_titulo": "Autores, inductores y cooperadores necesarios",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 18,
+      "enunciado_atomico": "También se consideran autores quienes inducen directamente a otro a ejecutar el delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q141",
+        "PN-T16-Q142"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F072",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 18,
+      "bloque_titulo": "Autores, inductores y cooperadores necesarios",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 18,
+      "enunciado_atomico": "También se consideran autores quienes cooperan con un acto sin el cual el delito no se habría efectuado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q143",
+        "PN-T16-Q144"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F073",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 19,
+      "bloque_titulo": "Complicidad y encubrimiento",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 19,
+      "enunciado_atomico": "Son cómplices quienes, sin estar comprendidos en el artículo 28, cooperan a la ejecución con actos anteriores o simultáneos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q145",
+        "PN-T16-Q146"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F074",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 19,
+      "bloque_titulo": "Complicidad y encubrimiento",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 19,
+      "enunciado_atomico": "La cooperación del cómplice no es imprescindible: si el acto era necesario, la figura correcta es cooperación necesaria.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q147",
+        "PN-T16-Q148"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F075",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 19,
+      "bloque_titulo": "Complicidad y encubrimiento",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 19,
+      "enunciado_atomico": "Al cómplice de delito consumado o intentado se le impone, salvo regla especial, la pena inferior en grado a la fijada para el autor.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q149",
+        "PN-T16-Q150"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F076",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 19,
+      "bloque_titulo": "Complicidad y encubrimiento",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 19,
+      "enunciado_atomico": "El encubrimiento no es una forma de participación en el delito previo: es un delito autónomo cometido después de su ejecución.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q151",
+        "PN-T16-Q152"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F077",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 20,
+      "bloque_titulo": "Delitos mediante difusión y actuación en nombre de otro",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 20,
+      "enunciado_atomico": "En delitos cometidos mediante medios de difusión no responden criminalmente los cómplices ni quienes favorecen personal o realmente el hecho.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q153",
+        "PN-T16-Q154"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F078",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 20,
+      "bloque_titulo": "Delitos mediante difusión y actuación en nombre de otro",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 20,
+      "enunciado_atomico": "La responsabilidad en delitos de difusión es escalonada, excluyente y subsidiaria según el orden del artículo 30.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q155",
+        "PN-T16-Q156"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F079",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 20,
+      "bloque_titulo": "Delitos mediante difusión y actuación en nombre de otro",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 20,
+      "enunciado_atomico": "Quien actúa como administrador de hecho o de derecho o en representación de otro puede responder personalmente aunque no reúna una cualidad exigida por el tipo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q157",
+        "PN-T16-Q158"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F080",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 20,
+      "bloque_titulo": "Delitos mediante difusión y actuación en nombre de otro",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 20,
+      "enunciado_atomico": "Para aplicar el artículo 31, la cualidad especial debe concurrir en la entidad o persona en cuyo nombre o representación se actúa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q159",
+        "PN-T16-Q160"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F081",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 21,
+      "bloque_titulo": "Responsabilidad penal de la persona jurídica",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 21,
+      "enunciado_atomico": "Las personas jurídicas responden penalmente solo en los supuestos expresamente previstos por el Código Penal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q161",
+        "PN-T16-Q162"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F082",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 21,
+      "bloque_titulo": "Responsabilidad penal de la persona jurídica",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 21,
+      "enunciado_atomico": "Una vía de imputación comprende delitos cometidos en nombre o por cuenta y en beneficio directo o indirecto por representantes o personas con facultades decisorias, organizativas o de control.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q163",
+        "PN-T16-Q164"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F083",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 21,
+      "bloque_titulo": "Responsabilidad penal de la persona jurídica",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 21,
+      "enunciado_atomico": "La segunda vía comprende delitos de subordinados cometidos en actividades sociales, por cuenta y beneficio de la entidad, por incumplimiento grave de supervisión, vigilancia y control.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q165",
+        "PN-T16-Q166"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F084",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 21,
+      "bloque_titulo": "Responsabilidad penal de la persona jurídica",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 21,
+      "enunciado_atomico": "La responsabilidad de la persona jurídica no sustituye automáticamente la responsabilidad penal de las personas físicas intervinientes.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q167",
+        "PN-T16-Q168"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F085",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 22,
+      "bloque_titulo": "Programas de cumplimiento y exención",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 22,
+      "enunciado_atomico": "Para delitos de dirigentes, la exención exige un modelo eficaz previo, supervisión autónoma, elusión fraudulenta por el autor y ausencia de omisión de control.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q169",
+        "PN-T16-Q170"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F086",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 22,
+      "bloque_titulo": "Programas de cumplimiento y exención",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 22,
+      "enunciado_atomico": "En personas jurídicas pequeñas, las funciones de supervisión pueden ser asumidas directamente por el órgano de administración.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q171",
+        "PN-T16-Q172"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F087",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 22,
+      "bloque_titulo": "Programas de cumplimiento y exención",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 22,
+      "enunciado_atomico": "Para delitos de subordinados, la exención exige haber adoptado y ejecutado eficazmente antes del delito un modelo adecuado de prevención o reducción significativa del riesgo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q173",
+        "PN-T16-Q174"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F088",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 22,
+      "bloque_titulo": "Programas de cumplimiento y exención",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 22,
+      "enunciado_atomico": "Los modelos deben identificar riesgos, establecer protocolos, gestionar recursos, imponer deber de informar, prever disciplina y verificarse periódicamente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q175",
+        "PN-T16-Q176"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F089",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 23,
+      "bloque_titulo": "Autonomía, atenuantes y entidades excluidas",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 23,
+      "enunciado_atomico": "La responsabilidad de la persona jurídica puede declararse aunque no se identifique o no pueda dirigirse el procedimiento contra la persona física concreta.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q177",
+        "PN-T16-Q178"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F090",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 23,
+      "bloque_titulo": "Autonomía, atenuantes y entidades excluidas",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 23,
+      "enunciado_atomico": "Las circunstancias que afectan a la culpabilidad o agravan la responsabilidad de la persona física no excluyen ni modifican automáticamente la de la persona jurídica.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q179",
+        "PN-T16-Q180"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F091",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 23,
+      "bloque_titulo": "Autonomía, atenuantes y entidades excluidas",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 23,
+      "enunciado_atomico": "Las atenuantes de la persona jurídica son posteriores al delito: confesión temprana, colaboración decisiva, reparación antes del juicio oral y medidas preventivas eficaces antes del juicio.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q181",
+        "PN-T16-Q182"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F092",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 23,
+      "bloque_titulo": "Autonomía, atenuantes y entidades excluidas",
+      "parte": 2,
+      "parte_titulo": "Ejecución y responsables",
+      "punto": 23,
+      "enunciado_atomico": "El Estado y las entidades públicas enumeradas en el artículo 31 quinquies quedan fuera del régimen general, con la regla especial prevista para sociedades mercantiles públicas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q183",
+        "PN-T16-Q184"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F093",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 24,
+      "bloque_titulo": "Edad penal y sus efectos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 24,
+      "enunciado_atomico": "Los menores de dieciocho años no responden criminalmente con arreglo al Código Penal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q185",
+        "PN-T16-Q186"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F094",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 24,
+      "bloque_titulo": "Edad penal y sus efectos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 24,
+      "enunciado_atomico": "La Ley Orgánica 5/2000 se aplica a personas mayores de catorce y menores de dieciocho años por hechos tipificados como delitos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q187",
+        "PN-T16-Q188"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F095",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 24,
+      "bloque_titulo": "Edad penal y sus efectos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 24,
+      "enunciado_atomico": "Los menores de catorce años no responden conforme a la Ley Orgánica 5/2000 y se aplican, en su caso, medidas de protección de menores.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q189",
+        "PN-T16-Q190"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F096",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 24,
+      "bloque_titulo": "Edad penal y sus efectos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 24,
+      "enunciado_atomico": "Desde los dieciocho años rige el Código Penal de adultos; la antigua extensión ordinaria del régimen juvenil hasta veintiún años fue suprimida.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q191",
+        "PN-T16-Q192"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F097",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 25,
+      "bloque_titulo": "Anomalía psíquica, intoxicación y alteración perceptiva",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 25,
+      "enunciado_atomico": "Exime la anomalía o alteración psíquica que impide comprender la ilicitud del hecho o actuar conforme a esa comprensión al cometerlo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q193",
+        "PN-T16-Q194"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F098",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 25,
+      "bloque_titulo": "Anomalía psíquica, intoxicación y alteración perceptiva",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 25,
+      "enunciado_atomico": "El trastorno mental transitorio provocado para delinquir o cuya comisión se previó o debió prever no exime.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q195",
+        "PN-T16-Q196"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F099",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 25,
+      "bloque_titulo": "Anomalía psíquica, intoxicación y alteración perceptiva",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 25,
+      "enunciado_atomico": "La intoxicación plena o el síndrome de abstinencia pueden eximir si impiden comprender o actuar y la situación no fue buscada o previsible para delinquir.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q197",
+        "PN-T16-Q198"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F100",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 25,
+      "bloque_titulo": "Anomalía psíquica, intoxicación y alteración perceptiva",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 25,
+      "enunciado_atomico": "La alteración grave de la conciencia de la realidad debe derivar de alteraciones en la percepción sufridas desde el nacimiento o la infancia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q199",
+        "PN-T16-Q200"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F101",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 26,
+      "bloque_titulo": "Legítima defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 26,
+      "enunciado_atomico": "La legítima defensa exige agresión ilegítima, necesidad racional del medio empleado y falta de provocación suficiente del defensor.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q201",
+        "PN-T16-Q202"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F102",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 26,
+      "bloque_titulo": "Legítima defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 26,
+      "enunciado_atomico": "En defensa de bienes, la agresión ilegítima exige un ataque constitutivo de delito que los ponga en grave peligro de deterioro o pérdida inminentes.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q203",
+        "PN-T16-Q204"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F103",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 26,
+      "bloque_titulo": "Legítima defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 26,
+      "enunciado_atomico": "En defensa de la morada o sus dependencias, se considera agresión ilegítima la entrada indebida.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q205",
+        "PN-T16-Q206"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F104",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 26,
+      "bloque_titulo": "Legítima defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 26,
+      "enunciado_atomico": "Si falta un requisito no esencial, puede apreciarse una eximente incompleta como atenuante; sin agresión ilegítima no existe legítima defensa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q207",
+        "PN-T16-Q208"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F105",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 27,
+      "bloque_titulo": "Estado de necesidad, miedo y cumplimiento del deber",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 27,
+      "enunciado_atomico": "El estado de necesidad exige que el mal causado no sea mayor que el evitado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q209",
+        "PN-T16-Q210"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F106",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 27,
+      "bloque_titulo": "Estado de necesidad, miedo y cumplimiento del deber",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 27,
+      "enunciado_atomico": "También exige que la situación no haya sido provocada intencionadamente y que el necesitado no tenga obligación profesional de sacrificarse.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q211",
+        "PN-T16-Q212"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F107",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 27,
+      "bloque_titulo": "Estado de necesidad, miedo y cumplimiento del deber",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 27,
+      "enunciado_atomico": "El miedo insuperable exime cuando anula razonablemente la exigibilidad de actuar conforme a Derecho.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q213",
+        "PN-T16-Q214"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F108",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 27,
+      "bloque_titulo": "Estado de necesidad, miedo y cumplimiento del deber",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 27,
+      "enunciado_atomico": "Exime obrar en cumplimiento de un deber o en el ejercicio legítimo de un derecho, oficio o cargo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q215",
+        "PN-T16-Q216"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F109",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 28,
+      "bloque_titulo": "Circunstancias atenuantes",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 28,
+      "enunciado_atomico": "Son atenuantes las eximentes incompletas y actuar a causa de una grave adicción.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q217",
+        "PN-T16-Q218"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F110",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 28,
+      "bloque_titulo": "Circunstancias atenuantes",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 28,
+      "enunciado_atomico": "También atenúan el arrebato, la obcecación u otro estado pasional de entidad semejante.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q219",
+        "PN-T16-Q220"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F111",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 28,
+      "bloque_titulo": "Circunstancias atenuantes",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 28,
+      "enunciado_atomico": "La confesión debe producirse antes de conocer que el procedimiento judicial se dirige contra el culpable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q221",
+        "PN-T16-Q222"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F112",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 28,
+      "bloque_titulo": "Circunstancias atenuantes",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 28,
+      "enunciado_atomico": "La reparación antes del juicio oral, la dilación extraordinaria e indebida no atribuible al acusado y las circunstancias análogas completan el catálogo.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q223",
+        "PN-T16-Q224"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F113",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 29,
+      "bloque_titulo": "Alevosía y debilitamiento de la defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 29,
+      "enunciado_atomico": "La alevosía exige asegurar la ejecución de un delito contra las personas eliminando el riesgo procedente de la defensa del ofendido.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q225",
+        "PN-T16-Q226"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F114",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 29,
+      "bloque_titulo": "Alevosía y debilitamiento de la defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 29,
+      "enunciado_atomico": "El disfraz agrava cuando facilita la ejecución o la impunidad y posee aptitud real para ocultar la identidad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q227",
+        "PN-T16-Q228"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F115",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 29,
+      "bloque_titulo": "Alevosía y debilitamiento de la defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 29,
+      "enunciado_atomico": "El abuso de superioridad aprovecha un desequilibrio relevante de fuerzas que debilita la defensa sin eliminarla necesariamente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q229",
+        "PN-T16-Q230"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F116",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 29,
+      "bloque_titulo": "Alevosía y debilitamiento de la defensa",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 29,
+      "enunciado_atomico": "También agrava aprovechar lugar, tiempo o auxilio de otras personas para debilitar la defensa o facilitar la impunidad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q231",
+        "PN-T16-Q232"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F117",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 30,
+      "bloque_titulo": "Precio, discriminación, ensañamiento y abusos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 30,
+      "enunciado_atomico": "El precio, recompensa o promesa agrava cuando actúa como motivo determinante para ejecutar el delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q233",
+        "PN-T16-Q234"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F118",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 30,
+      "bloque_titulo": "Precio, discriminación, ensañamiento y abusos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 30,
+      "enunciado_atomico": "La agravante discriminatoria incluye, entre otros, racismo, antisemitismo, antigitanismo, sexo, edad, orientación o identidad sexual o de género, aporofobia, enfermedad y discapacidad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q235",
+        "PN-T16-Q236"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F119",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 30,
+      "bloque_titulo": "Precio, discriminación, ensañamiento y abusos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 30,
+      "enunciado_atomico": "El ensañamiento consiste en aumentar deliberada e inhumanamente el sufrimiento con padecimientos innecesarios para ejecutar el delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q237",
+        "PN-T16-Q238"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F120",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 30,
+      "bloque_titulo": "Precio, discriminación, ensañamiento y abusos",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 30,
+      "enunciado_atomico": "Completan el catálogo el abuso de confianza y prevalerse del carácter público del culpable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q239",
+        "PN-T16-Q240"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F121",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 31,
+      "bloque_titulo": "Reincidencia vigente desde abril de 2026",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 31,
+      "enunciado_atomico": "Hay reincidencia cuando, al delinquir, el culpable ya fue condenado ejecutoriamente por delito del mismo título y de la misma naturaleza.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q241",
+        "PN-T16-Q242"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F122",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 31,
+      "bloque_titulo": "Reincidencia vigente desde abril de 2026",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 31,
+      "enunciado_atomico": "No se computan antecedentes cancelados o cancelables.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q243",
+        "PN-T16-Q244"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F123",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 31,
+      "bloque_titulo": "Reincidencia vigente desde abril de 2026",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 31,
+      "enunciado_atomico": "Los antecedentes por delitos leves no se computan, salvo lo dispuesto para tipos agravados por multirreincidencia de delitos leves.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q245",
+        "PN-T16-Q246"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F124",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 31,
+      "bloque_titulo": "Reincidencia vigente desde abril de 2026",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 31,
+      "enunciado_atomico": "Las condenas firmes de otros Estados de la Unión Europea producen efecto de reincidencia salvo que el antecedente esté cancelado o pudiera cancelarse conforme al Derecho español.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q247",
+        "PN-T16-Q248"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F125",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 32,
+      "bloque_titulo": "Circunstancia mixta de parentesco",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 32,
+      "enunciado_atomico": "El parentesco puede atenuar o agravar según la naturaleza, motivos y efectos del delito.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q249",
+        "PN-T16-Q250"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F126",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 32,
+      "bloque_titulo": "Circunstancia mixta de parentesco",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 32,
+      "enunciado_atomico": "Comprende al cónyuge o a quien esté o haya estado ligado de forma estable por análoga relación de afectividad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q251",
+        "PN-T16-Q252"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F127",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 32,
+      "bloque_titulo": "Circunstancia mixta de parentesco",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 32,
+      "enunciado_atomico": "Comprende ascendientes, descendientes y hermanos por naturaleza o adopción del ofensor.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q253",
+        "PN-T16-Q254"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F128",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 32,
+      "bloque_titulo": "Circunstancia mixta de parentesco",
+      "parte": 3,
+      "parte_titulo": "Edad y circunstancias",
+      "punto": 32,
+      "enunciado_atomico": "También alcanza a ascendientes, descendientes y hermanos del cónyuge o conviviente en los términos del artículo 23.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q255",
+        "PN-T16-Q256"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F129",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 33,
+      "bloque_titulo": "Concepto, fines y clases de penas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 33,
+      "enunciado_atomico": "Las penas pueden imponerse con carácter principal o accesorio.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q257",
+        "PN-T16-Q258"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F130",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 33,
+      "bloque_titulo": "Concepto, fines y clases de penas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 33,
+      "enunciado_atomico": "Por su contenido, las penas son privativas de libertad, privativas de otros derechos y multa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q259",
+        "PN-T16-Q260"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F131",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 33,
+      "bloque_titulo": "Concepto, fines y clases de penas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 33,
+      "enunciado_atomico": "Por naturaleza y duración, las penas se clasifican en graves, menos graves y leves.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q261",
+        "PN-T16-Q262"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F132",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 33,
+      "bloque_titulo": "Concepto, fines y clases de penas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 33,
+      "enunciado_atomico": "No son penas la detención y prisión preventiva, las sanciones administrativas o disciplinarias ni las privaciones reparadoras civiles o administrativas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q263",
+        "PN-T16-Q264"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F133",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 34,
+      "bloque_titulo": "Penas graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 34,
+      "enunciado_atomico": "Son graves la prisión permanente revisable y la prisión superior a cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q265",
+        "PN-T16-Q266"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F134",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 34,
+      "bloque_titulo": "Penas graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 34,
+      "enunciado_atomico": "Son graves la inhabilitación absoluta y las inhabilitaciones especiales o suspensión de empleo o cargo público superiores a cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q267",
+        "PN-T16-Q268"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F135",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 34,
+      "bloque_titulo": "Penas graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 34,
+      "enunciado_atomico": "Son graves la privación de conducir o de armas superior a ocho años y las prohibiciones de residencia, aproximación o comunicación superiores a cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q269",
+        "PN-T16-Q270"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F136",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 34,
+      "bloque_titulo": "Penas graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 34,
+      "enunciado_atomico": "La privación de la patria potestad es pena grave cualquiera que sea su duración.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q271",
+        "PN-T16-Q272"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F137",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 35,
+      "bloque_titulo": "Penas menos graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 35,
+      "enunciado_atomico": "Es menos grave la prisión de tres meses hasta cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q273",
+        "PN-T16-Q274"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F138",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 35,
+      "bloque_titulo": "Penas menos graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 35,
+      "enunciado_atomico": "Son menos graves las inhabilitaciones especiales y la suspensión de empleo o cargo público hasta cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q275",
+        "PN-T16-Q276"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F139",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 35,
+      "bloque_titulo": "Penas menos graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 35,
+      "enunciado_atomico": "Son menos graves la multa de más de tres meses y la multa proporcional, salvo las reglas de personas jurídicas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q277",
+        "PN-T16-Q278"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F140",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 35,
+      "bloque_titulo": "Penas menos graves",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 35,
+      "enunciado_atomico": "Son menos graves los trabajos en beneficio de la comunidad de treinta y un días a un año.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q279",
+        "PN-T16-Q280"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F141",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 36,
+      "bloque_titulo": "Penas leves y penas de personas jurídicas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 36,
+      "enunciado_atomico": "Son leves la multa de hasta tres meses, la localización permanente de un día a tres meses y los trabajos en beneficio de la comunidad de uno a treinta días.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q281",
+        "PN-T16-Q282"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F142",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 36,
+      "bloque_titulo": "Penas leves y penas de personas jurídicas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 36,
+      "enunciado_atomico": "Son leves las privaciones de conducir, armas o actividades relacionadas con animales de tres meses a un año.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q283",
+        "PN-T16-Q284"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F143",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 36,
+      "bloque_titulo": "Penas leves y penas de personas jurídicas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 36,
+      "enunciado_atomico": "Todas las penas aplicables a personas jurídicas tienen consideración de graves.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q285",
+        "PN-T16-Q286"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F144",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 36,
+      "bloque_titulo": "Penas leves y penas de personas jurídicas",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 36,
+      "enunciado_atomico": "Las penas de personas jurídicas incluyen multa, disolución, suspensión, clausura, prohibición de actividades, inhabilitación para ayudas o contratos e intervención judicial.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q287",
+        "PN-T16-Q288"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F145",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 37,
+      "bloque_titulo": "Penas privativas de libertad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 37,
+      "enunciado_atomico": "Son penas privativas de libertad la prisión permanente revisable, la prisión, la localización permanente y la responsabilidad personal subsidiaria por impago de multa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q289",
+        "PN-T16-Q290"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F146",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 37,
+      "bloque_titulo": "Penas privativas de libertad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 37,
+      "enunciado_atomico": "La pena de prisión tiene duración mínima de tres meses y máxima de veinte años, salvo disposición excepcional del Código.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q291",
+        "PN-T16-Q292"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F147",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 37,
+      "bloque_titulo": "Penas privativas de libertad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 37,
+      "enunciado_atomico": "La localización permanente obliga a permanecer en el domicilio o lugar fijado y puede durar hasta seis meses.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q293",
+        "PN-T16-Q294"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F148",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 37,
+      "bloque_titulo": "Penas privativas de libertad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 37,
+      "enunciado_atomico": "El cómputo de las penas privativas de libertad comienza desde la firmeza si el penado está preso y desde el ingreso si no lo está.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q295",
+        "PN-T16-Q296"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F149",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 38,
+      "bloque_titulo": "Prisión permanente revisable y prisión",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 38,
+      "enunciado_atomico": "La prisión permanente revisable es pena grave de duración indeterminada pero sujeta a revisión judicial conforme a los plazos y requisitos legales.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q297",
+        "PN-T16-Q298"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F150",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 38,
+      "bloque_titulo": "Prisión permanente revisable y prisión",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 38,
+      "enunciado_atomico": "El acceso al tercer grado en prisión permanente revisable exige autorización judicial y pronóstico favorable de reinserción.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q299",
+        "PN-T16-Q300"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F151",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 38,
+      "bloque_titulo": "Prisión permanente revisable y prisión",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 38,
+      "enunciado_atomico": "En prisión superior a cinco años, el tribunal puede ordenar que el tercer grado no se alcance hasta cumplir la mitad de la pena.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q301",
+        "PN-T16-Q302"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F152",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 38,
+      "bloque_titulo": "Prisión permanente revisable y prisión",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 38,
+      "enunciado_atomico": "Los límites máximos efectivos por acumulación del artículo 76 no cambian la duración nominal de cada pena, sino el tiempo máximo de cumplimiento.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q303",
+        "PN-T16-Q304"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F153",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 39,
+      "bloque_titulo": "Localización permanente y responsabilidad subsidiaria",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 39,
+      "enunciado_atomico": "La localización permanente se cumple en domicilio o lugar determinado por el órgano judicial.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q305",
+        "PN-T16-Q306"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F154",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 39,
+      "bloque_titulo": "Localización permanente y responsabilidad subsidiaria",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 39,
+      "enunciado_atomico": "Puede acordarse cumplimiento discontinuo cuando el reo lo solicite y las circunstancias lo aconsejen, oído el Ministerio Fiscal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q307",
+        "PN-T16-Q308"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F155",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 39,
+      "bloque_titulo": "Localización permanente y responsabilidad subsidiaria",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 39,
+      "enunciado_atomico": "En la multa por cuotas, la responsabilidad subsidiaria general es un día de privación de libertad por cada dos cuotas diarias impagadas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q309",
+        "PN-T16-Q310"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F156",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 39,
+      "bloque_titulo": "Localización permanente y responsabilidad subsidiaria",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 39,
+      "enunciado_atomico": "No se impone responsabilidad personal subsidiaria por impago de multa a condenados a pena privativa de libertad superior a cinco años.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q311",
+        "PN-T16-Q312"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F157",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 40,
+      "bloque_titulo": "Penas privativas de derechos",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 40,
+      "enunciado_atomico": "Las privativas de derechos incluyen inhabilitaciones, suspensión de empleo, privación de conducir o armas, prohibiciones de residencia, aproximación y comunicación, trabajos comunitarios y privación de patria potestad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q313",
+        "PN-T16-Q314"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F158",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 40,
+      "bloque_titulo": "Penas privativas de derechos",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 40,
+      "enunciado_atomico": "La inhabilitación absoluta priva definitivamente de honores, empleos y cargos públicos y de la posibilidad de obtenerlos o ser elegido durante la condena.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q315",
+        "PN-T16-Q316"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F159",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 40,
+      "bloque_titulo": "Penas privativas de derechos",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 40,
+      "enunciado_atomico": "La inhabilitación especial afecta al empleo, cargo, profesión, oficio, derecho o actividad concretamente señalados en sentencia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q317",
+        "PN-T16-Q318"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F160",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 40,
+      "bloque_titulo": "Penas privativas de derechos",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 40,
+      "enunciado_atomico": "Si la privación de conducir o de armas supera dos años, comporta la pérdida de vigencia del permiso o licencia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q319",
+        "PN-T16-Q320"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F161",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 41,
+      "bloque_titulo": "Prohibiciones y trabajos en beneficio de la comunidad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 41,
+      "enunciado_atomico": "La prohibición de aproximación impide acercarse a la víctima y a los lugares definidos judicialmente y suspende el régimen de visitas respecto de los hijos durante su vigencia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q321",
+        "PN-T16-Q322"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F162",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 41,
+      "bloque_titulo": "Prohibiciones y trabajos en beneficio de la comunidad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 41,
+      "enunciado_atomico": "La prohibición de comunicación impide todo contacto escrito, verbal, visual o mediante medios informáticos o telemáticos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q323",
+        "PN-T16-Q324"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F163",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 41,
+      "bloque_titulo": "Prohibiciones y trabajos en beneficio de la comunidad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 41,
+      "enunciado_atomico": "Los trabajos en beneficio de la comunidad requieren consentimiento del penado, son no retribuidos y no pueden atentar contra su dignidad.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q325",
+        "PN-T16-Q326"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F164",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 41,
+      "bloque_titulo": "Prohibiciones y trabajos en beneficio de la comunidad",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 41,
+      "enunciado_atomico": "La jornada de trabajos en beneficio de la comunidad no puede exceder de ocho horas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q327",
+        "PN-T16-Q328"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F165",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 42,
+      "bloque_titulo": "Pena de multa",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 42,
+      "enunciado_atomico": "La multa se impone por el sistema de días-multa salvo que la ley establezca una multa proporcional.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q329",
+        "PN-T16-Q330"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F166",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 42,
+      "bloque_titulo": "Pena de multa",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 42,
+      "enunciado_atomico": "Para personas físicas, la multa va de diez días a dos años y la cuota diaria de dos a cuatrocientos euros.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q331",
+        "PN-T16-Q332"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F167",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 42,
+      "bloque_titulo": "Pena de multa",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 42,
+      "enunciado_atomico": "Para personas jurídicas, la multa por cuotas puede durar hasta cinco años y la cuota diaria va de treinta a cinco mil euros.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q333",
+        "PN-T16-Q334"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F168",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 42,
+      "bloque_titulo": "Pena de multa",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 42,
+      "enunciado_atomico": "En la multa proporcional se atiende al daño, valor del objeto o beneficio y a la situación económica y circunstancias del culpable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q335",
+        "PN-T16-Q336"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F169",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 43,
+      "bloque_titulo": "Penas accesorias",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 43,
+      "enunciado_atomico": "Las penas accesorias duran, con carácter general, lo mismo que la principal salvo que la ley disponga otra cosa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q337",
+        "PN-T16-Q338"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F170",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 43,
+      "bloque_titulo": "Penas accesorias",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 43,
+      "enunciado_atomico": "La prisión igual o superior a diez años lleva inhabilitación absoluta durante la condena, salvo que ya sea pena principal.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q339",
+        "PN-T16-Q340"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F171",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 43,
+      "bloque_titulo": "Penas accesorias",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 43,
+      "enunciado_atomico": "En prisión inferior a diez años pueden imponerse suspensión o inhabilitaciones vinculadas con el delito, con motivación expresa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q341",
+        "PN-T16-Q342"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F172",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 43,
+      "bloque_titulo": "Penas accesorias",
+      "parte": 4,
+      "parte_titulo": "Penas",
+      "punto": 43,
+      "enunciado_atomico": "En los delitos previstos por el artículo 57 pueden imponerse o resultar obligatorias las prohibiciones del artículo 48 según víctima, gravedad y peligro.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q343",
+        "PN-T16-Q344"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F173",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 44,
+      "bloque_titulo": "Pena del autor consumado, tentativa y complicidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 44,
+      "enunciado_atomico": "La pena señalada por la ley se entiende prevista para el autor de la infracción consumada.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q345",
+        "PN-T16-Q346"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F174",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 44,
+      "bloque_titulo": "Pena del autor consumado, tentativa y complicidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 44,
+      "enunciado_atomico": "Al autor de tentativa se le impone la pena inferior en uno o dos grados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q347",
+        "PN-T16-Q348"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F175",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 44,
+      "bloque_titulo": "Pena del autor consumado, tentativa y complicidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 44,
+      "enunciado_atomico": "Al cómplice se le impone la pena inferior en grado a la fijada para el autor del delito consumado o intentado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q349",
+        "PN-T16-Q350"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F176",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 44,
+      "bloque_titulo": "Pena del autor consumado, tentativa y complicidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 44,
+      "enunciado_atomico": "Las circunstancias personales solo afectan a quienes concurren; las relativas a ejecución o medios afectan a quienes las conocían al actuar o cooperar.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q351",
+        "PN-T16-Q352"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F177",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 45,
+      "bloque_titulo": "Atenuantes, agravantes y grados de pena",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 45,
+      "enunciado_atomico": "En delitos dolosos, una atenuante sin agravantes conduce a la mitad inferior y una o dos agravantes sin atenuantes a la mitad superior.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q353",
+        "PN-T16-Q354"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F178",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 45,
+      "bloque_titulo": "Atenuantes, agravantes y grados de pena",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 45,
+      "enunciado_atomico": "Dos o más atenuantes o una muy cualificada sin agravantes permiten bajar uno o dos grados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q355",
+        "PN-T16-Q356"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F179",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 45,
+      "bloque_titulo": "Atenuantes, agravantes y grados de pena",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 45,
+      "enunciado_atomico": "En delitos leves e imprudentes se aplica prudente arbitrio, salvo la regla especial de multirreincidencia de delitos leves vigente desde abril de 2026.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q357",
+        "PN-T16-Q358"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F180",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 45,
+      "bloque_titulo": "Atenuantes, agravantes y grados de pena",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 45,
+      "enunciado_atomico": "La eximente incompleta obliga a imponer la pena inferior en uno o dos grados y la sentencia debe razonar grado y extensión concreta.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q359",
+        "PN-T16-Q360"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F181",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 46,
+      "bloque_titulo": "Concurso real, continuado, ideal y medial",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 46,
+      "enunciado_atomico": "En concurso real se imponen todas las penas por las distintas infracciones para cumplimiento simultáneo cuando sea posible.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q361",
+        "PN-T16-Q362"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F182",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 46,
+      "bloque_titulo": "Concurso real, continuado, ideal y medial",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 46,
+      "enunciado_atomico": "El delito continuado del artículo 74 reúne acciones u omisiones ejecutadas en un plan preconcebido o aprovechando idéntica ocasión que infringen el mismo o semejantes preceptos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q363",
+        "PN-T16-Q364"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F183",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 46,
+      "bloque_titulo": "Concurso real, continuado, ideal y medial",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 46,
+      "enunciado_atomico": "El concurso ideal existe cuando un solo hecho constituye dos o más delitos; el medial cuando una infracción es medio necesario para cometer otra.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q365",
+        "PN-T16-Q366"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F184",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 46,
+      "bloque_titulo": "Concurso real, continuado, ideal y medial",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 46,
+      "enunciado_atomico": "El artículo 76 limita el cumplimiento efectivo en concurso real al triple de la pena más grave, con topes ordinario y excepcionales legalmente previstos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q367",
+        "PN-T16-Q368"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F185",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 47,
+      "bloque_titulo": "Medidas de seguridad: fundamento y clases",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 47,
+      "enunciado_atomico": "Las medidas de seguridad exigen la comisión de un hecho previsto como delito y un pronóstico de probabilidad de nuevos delitos.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q369",
+        "PN-T16-Q370"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F186",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 47,
+      "bloque_titulo": "Medidas de seguridad: fundamento y clases",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 47,
+      "enunciado_atomico": "Si el delito cometido no tiene pena privativa de libertad, no puede imponerse una medida de internamiento.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q371",
+        "PN-T16-Q372"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F187",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 47,
+      "bloque_titulo": "Medidas de seguridad: fundamento y clases",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 47,
+      "enunciado_atomico": "Son privativas de libertad los internamientos en centro psiquiátrico, de deshabituación o educativo especial.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q373",
+        "PN-T16-Q374"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F188",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 47,
+      "bloque_titulo": "Medidas de seguridad: fundamento y clases",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 47,
+      "enunciado_atomico": "Son no privativas, entre otras, la inhabilitación profesional, expulsión de extranjero no residente legal, libertad vigilada, custodia familiar y privaciones de conducir o armas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q375",
+        "PN-T16-Q376"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F189",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 48,
+      "bloque_titulo": "Aplicación y revisión de medidas de seguridad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 48,
+      "enunciado_atomico": "Durante la ejecución, el órgano judicial puede mantener, cesar, sustituir o suspender la medida dentro de los límites de la sentencia.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q377",
+        "PN-T16-Q378"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F190",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 48,
+      "bloque_titulo": "Aplicación y revisión de medidas de seguridad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 48,
+      "enunciado_atomico": "El quebrantamiento de una medida de internamiento provoca reingreso; en otras medidas puede determinar su sustitución.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q379",
+        "PN-T16-Q380"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F191",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 48,
+      "bloque_titulo": "Aplicación y revisión de medidas de seguridad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 48,
+      "enunciado_atomico": "Cuando concurren pena y medida privativas de libertad, se abona el tiempo de la medida al cumplimiento de la pena conforme al sistema vicarial.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q381",
+        "PN-T16-Q382"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F192",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 48,
+      "bloque_titulo": "Aplicación y revisión de medidas de seguridad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 48,
+      "enunciado_atomico": "Las medidas aplicables a exentos o semiimputables deben ser proporcionales y no pueden resultar más gravosas ni durar más que la pena abstractamente aplicable.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q383",
+        "PN-T16-Q384"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F193",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 49,
+      "bloque_titulo": "Responsabilidad civil derivada del delito",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 49,
+      "enunciado_atomico": "La ejecución de un hecho descrito como delito obliga a reparar los daños y perjuicios causados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q385",
+        "PN-T16-Q386"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F194",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 49,
+      "bloque_titulo": "Responsabilidad civil derivada del delito",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 49,
+      "enunciado_atomico": "El perjudicado puede optar por exigir la responsabilidad civil ante la jurisdicción civil.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q387",
+        "PN-T16-Q388"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F195",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 49,
+      "bloque_titulo": "Responsabilidad civil derivada del delito",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 49,
+      "enunciado_atomico": "La responsabilidad civil comprende restitución, reparación del daño e indemnización de perjuicios materiales y morales.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q389",
+        "PN-T16-Q390"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F196",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 49,
+      "bloque_titulo": "Responsabilidad civil derivada del delito",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 49,
+      "enunciado_atomico": "El órgano judicial debe fijar razonadamente en la resolución las bases y cuantía de daños e indemnizaciones.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q391",
+        "PN-T16-Q392"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F197",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 50,
+      "bloque_titulo": "Responsables civiles directos y subsidiarios",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 50,
+      "enunciado_atomico": "Todo responsable criminal lo es también civilmente si del hecho derivan daños o perjuicios.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q393",
+        "PN-T16-Q394"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F198",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 50,
+      "bloque_titulo": "Responsables civiles directos y subsidiarios",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 50,
+      "enunciado_atomico": "Los aseguradores responden directamente dentro del límite pactado o legal cuando el riesgo esté asegurado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q395",
+        "PN-T16-Q396"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F199",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 50,
+      "bloque_titulo": "Responsables civiles directos y subsidiarios",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 50,
+      "enunciado_atomico": "Los exentos de responsabilidad criminal pueden conservar responsabilidad civil en los supuestos y con la distribución del artículo 118.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q397",
+        "PN-T16-Q398"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F200",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 50,
+      "bloque_titulo": "Responsables civiles directos y subsidiarios",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 50,
+      "enunciado_atomico": "El Código prevé responsabilidad civil subsidiaria de padres o tutores, empresarios, titulares de establecimientos y administraciones en los casos legalmente delimitados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q399",
+        "PN-T16-Q400"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F201",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 51,
+      "bloque_titulo": "Orden, transmisión y pago de responsabilidades",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 51,
+      "enunciado_atomico": "El Estado y demás entes públicos responden subsidiariamente por daños causados por autoridades, agentes o empleados en los supuestos del artículo 121.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q401",
+        "PN-T16-Q402"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F202",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 51,
+      "bloque_titulo": "Orden, transmisión y pago de responsabilidades",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 51,
+      "enunciado_atomico": "Quien participa por título lucrativo en los efectos de un delito debe restituir o resarcir hasta la cuantía de su participación.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q403",
+        "PN-T16-Q404"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F203",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 51,
+      "bloque_titulo": "Orden, transmisión y pago de responsabilidades",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 51,
+      "enunciado_atomico": "La obligación de restitución o reparación se transmite a herederos y la acción para exigirla a los herederos del perjudicado.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q405",
+        "PN-T16-Q406"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F204",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 51,
+      "bloque_titulo": "Orden, transmisión y pago de responsabilidades",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 51,
+      "enunciado_atomico": "Los pagos del penado siguen el orden legal: reparación e indemnización, indemnización al Estado, costas del acusador particular, demás costas y multa.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q407",
+        "PN-T16-Q408"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F205",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 52,
+      "bloque_titulo": "Decomiso",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 52,
+      "enunciado_atomico": "Todo delito doloso lleva consigo la pérdida de efectos, bienes, medios o instrumentos y ganancias en los términos del artículo 127.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q409",
+        "PN-T16-Q410"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F206",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 52,
+      "bloque_titulo": "Decomiso",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 52,
+      "enunciado_atomico": "El decomiso puede alcanzar bienes transformados o de valor equivalente cuando no sea posible aprehender los directamente relacionados.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q411",
+        "PN-T16-Q412"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F207",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 52,
+      "bloque_titulo": "Decomiso",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 52,
+      "enunciado_atomico": "El decomiso ampliado requiere los presupuestos y delitos expresamente previstos por el Código.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q413",
+        "PN-T16-Q414"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F208",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 52,
+      "bloque_titulo": "Decomiso",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 52,
+      "enunciado_atomico": "El decomiso sin condena y el decomiso de bienes de terceros solo proceden en los casos y con las garantías establecidos legalmente.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q415",
+        "PN-T16-Q416"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F209",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 53,
+      "bloque_titulo": "Consecuencias accesorias para entidades sin personalidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 53,
+      "enunciado_atomico": "El artículo 129 se dirige a empresas, organizaciones, grupos o entidades sin personalidad jurídica no comprendidos en el artículo 31 bis.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q417",
+        "PN-T16-Q418"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F210",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 53,
+      "bloque_titulo": "Consecuencias accesorias para entidades sin personalidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 53,
+      "enunciado_atomico": "El juez o tribunal puede imponer motivadamente una o varias consecuencias equivalentes a las letras c) a g) del artículo 33.7.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q419",
+        "PN-T16-Q420"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F211",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 53,
+      "bloque_titulo": "Consecuencias accesorias para entidades sin personalidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 53,
+      "enunciado_atomico": "Solo se aplican cuando el Código lo prevé expresamente o por delitos que permiten responsabilidad penal de personas jurídicas.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q421",
+        "PN-T16-Q422"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    },
+    {
+      "id": "PN-T16-F212",
+      "oposicion": "policia-nacional",
+      "tema": 16,
+      "bloque": 53,
+      "bloque_titulo": "Consecuencias accesorias para entidades sin personalidad",
+      "parte": 5,
+      "parte_titulo": "Aplicación y otras consecuencias",
+      "punto": 53,
+      "enunciado_atomico": "Durante la instrucción pueden acordarse cautelarmente clausura temporal, suspensión de actividades e intervención judicial dentro de los límites legales.",
+      "fuente": "CP-T16",
+      "estado_revision": "fuente_oficial_comprobada_y_aprobada",
+      "content_version": "1.0.0",
+      "riesgo_examen": 5,
+      "risk": 5,
+      "preguntas": [
+        "PN-T16-Q423",
+        "PN-T16-Q424"
+      ],
+      "covered": true,
+      "anchor_score": 1.0
+    }
+  ],
+  "blocks": [
+    {
+      "number": 1,
+      "title": "Mapa oficial y ruta de estudio",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F001",
+        "PN-T16-F002",
+        "PN-T16-F003",
+        "PN-T16-F004"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Concepto y función del Derecho penal",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F005",
+        "PN-T16-F006",
+        "PN-T16-F007",
+        "PN-T16-F008"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Legalidad y garantías penales",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F009",
+        "PN-T16-F010",
+        "PN-T16-F011",
+        "PN-T16-F012"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Vigencia temporal de la ley penal",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F013",
+        "PN-T16-F014",
+        "PN-T16-F015",
+        "PN-T16-F016"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Vigencia espacial y jurisdicción española",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F017",
+        "PN-T16-F018",
+        "PN-T16-F019",
+        "PN-T16-F020"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Momento, lugar y leyes penales especiales",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F021",
+        "PN-T16-F022",
+        "PN-T16-F023",
+        "PN-T16-F024"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Infracción penal y concepto material de delito",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F025",
+        "PN-T16-F026",
+        "PN-T16-F027",
+        "PN-T16-F028"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Acción, omisión y comisión por omisión",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F029",
+        "PN-T16-F030",
+        "PN-T16-F031",
+        "PN-T16-F032"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Dolo e imprudencia",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F033",
+        "PN-T16-F034",
+        "PN-T16-F035",
+        "PN-T16-F036"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Elementos del delito",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F037",
+        "PN-T16-F038",
+        "PN-T16-F039",
+        "PN-T16-F040"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Delitos graves, menos graves y leves",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F041",
+        "PN-T16-F042",
+        "PN-T16-F043",
+        "PN-T16-F044"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Error de tipo y error de prohibición",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F045",
+        "PN-T16-F046",
+        "PN-T16-F047",
+        "PN-T16-F048"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Consumación, tentativa y actos preparatorios",
+      "part": 1,
+      "fact_ids": [
+        "PN-T16-F049",
+        "PN-T16-F050",
+        "PN-T16-F051",
+        "PN-T16-F052"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Tentativa y determinación de la pena",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F053",
+        "PN-T16-F054",
+        "PN-T16-F055",
+        "PN-T16-F056"
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Desistimiento y evitación del resultado",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F057",
+        "PN-T16-F058",
+        "PN-T16-F059",
+        "PN-T16-F060"
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Conspiración y proposición",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F061",
+        "PN-T16-F062",
+        "PN-T16-F063",
+        "PN-T16-F064"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Provocación y apología",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F065",
+        "PN-T16-F066",
+        "PN-T16-F067",
+        "PN-T16-F068"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Autores, inductores y cooperadores necesarios",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F069",
+        "PN-T16-F070",
+        "PN-T16-F071",
+        "PN-T16-F072"
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Complicidad y encubrimiento",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F073",
+        "PN-T16-F074",
+        "PN-T16-F075",
+        "PN-T16-F076"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Delitos mediante difusión y actuación en nombre de otro",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F077",
+        "PN-T16-F078",
+        "PN-T16-F079",
+        "PN-T16-F080"
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Responsabilidad penal de la persona jurídica",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F081",
+        "PN-T16-F082",
+        "PN-T16-F083",
+        "PN-T16-F084"
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Programas de cumplimiento y exención",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F085",
+        "PN-T16-F086",
+        "PN-T16-F087",
+        "PN-T16-F088"
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Autonomía, atenuantes y entidades excluidas",
+      "part": 2,
+      "fact_ids": [
+        "PN-T16-F089",
+        "PN-T16-F090",
+        "PN-T16-F091",
+        "PN-T16-F092"
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Edad penal y sus efectos",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F093",
+        "PN-T16-F094",
+        "PN-T16-F095",
+        "PN-T16-F096"
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Anomalía psíquica, intoxicación y alteración perceptiva",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F097",
+        "PN-T16-F098",
+        "PN-T16-F099",
+        "PN-T16-F100"
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Legítima defensa",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F101",
+        "PN-T16-F102",
+        "PN-T16-F103",
+        "PN-T16-F104"
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Estado de necesidad, miedo y cumplimiento del deber",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F105",
+        "PN-T16-F106",
+        "PN-T16-F107",
+        "PN-T16-F108"
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Circunstancias atenuantes",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F109",
+        "PN-T16-F110",
+        "PN-T16-F111",
+        "PN-T16-F112"
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Alevosía y debilitamiento de la defensa",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F113",
+        "PN-T16-F114",
+        "PN-T16-F115",
+        "PN-T16-F116"
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Precio, discriminación, ensañamiento y abusos",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F117",
+        "PN-T16-F118",
+        "PN-T16-F119",
+        "PN-T16-F120"
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Reincidencia vigente desde abril de 2026",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F121",
+        "PN-T16-F122",
+        "PN-T16-F123",
+        "PN-T16-F124"
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Circunstancia mixta de parentesco",
+      "part": 3,
+      "fact_ids": [
+        "PN-T16-F125",
+        "PN-T16-F126",
+        "PN-T16-F127",
+        "PN-T16-F128"
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Concepto, fines y clases de penas",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F129",
+        "PN-T16-F130",
+        "PN-T16-F131",
+        "PN-T16-F132"
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Penas graves",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F133",
+        "PN-T16-F134",
+        "PN-T16-F135",
+        "PN-T16-F136"
+      ]
+    },
+    {
+      "number": 35,
+      "title": "Penas menos graves",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F137",
+        "PN-T16-F138",
+        "PN-T16-F139",
+        "PN-T16-F140"
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Penas leves y penas de personas jurídicas",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F141",
+        "PN-T16-F142",
+        "PN-T16-F143",
+        "PN-T16-F144"
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Penas privativas de libertad",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F145",
+        "PN-T16-F146",
+        "PN-T16-F147",
+        "PN-T16-F148"
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Prisión permanente revisable y prisión",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F149",
+        "PN-T16-F150",
+        "PN-T16-F151",
+        "PN-T16-F152"
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Localización permanente y responsabilidad subsidiaria",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F153",
+        "PN-T16-F154",
+        "PN-T16-F155",
+        "PN-T16-F156"
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Penas privativas de derechos",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F157",
+        "PN-T16-F158",
+        "PN-T16-F159",
+        "PN-T16-F160"
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Prohibiciones y trabajos en beneficio de la comunidad",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F161",
+        "PN-T16-F162",
+        "PN-T16-F163",
+        "PN-T16-F164"
+      ]
+    },
+    {
+      "number": 42,
+      "title": "Pena de multa",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F165",
+        "PN-T16-F166",
+        "PN-T16-F167",
+        "PN-T16-F168"
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Penas accesorias",
+      "part": 4,
+      "fact_ids": [
+        "PN-T16-F169",
+        "PN-T16-F170",
+        "PN-T16-F171",
+        "PN-T16-F172"
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Pena del autor consumado, tentativa y complicidad",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F173",
+        "PN-T16-F174",
+        "PN-T16-F175",
+        "PN-T16-F176"
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Atenuantes, agravantes y grados de pena",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F177",
+        "PN-T16-F178",
+        "PN-T16-F179",
+        "PN-T16-F180"
+      ]
+    },
+    {
+      "number": 46,
+      "title": "Concurso real, continuado, ideal y medial",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F181",
+        "PN-T16-F182",
+        "PN-T16-F183",
+        "PN-T16-F184"
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Medidas de seguridad: fundamento y clases",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F185",
+        "PN-T16-F186",
+        "PN-T16-F187",
+        "PN-T16-F188"
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Aplicación y revisión de medidas de seguridad",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F189",
+        "PN-T16-F190",
+        "PN-T16-F191",
+        "PN-T16-F192"
+      ]
+    },
+    {
+      "number": 49,
+      "title": "Responsabilidad civil derivada del delito",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F193",
+        "PN-T16-F194",
+        "PN-T16-F195",
+        "PN-T16-F196"
+      ]
+    },
+    {
+      "number": 50,
+      "title": "Responsables civiles directos y subsidiarios",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F197",
+        "PN-T16-F198",
+        "PN-T16-F199",
+        "PN-T16-F200"
+      ]
+    },
+    {
+      "number": 51,
+      "title": "Orden, transmisión y pago de responsabilidades",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F201",
+        "PN-T16-F202",
+        "PN-T16-F203",
+        "PN-T16-F204"
+      ]
+    },
+    {
+      "number": 52,
+      "title": "Decomiso",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F205",
+        "PN-T16-F206",
+        "PN-T16-F207",
+        "PN-T16-F208"
+      ]
+    },
+    {
+      "number": 53,
+      "title": "Consecuencias accesorias para entidades sin personalidad",
+      "part": 5,
+      "fact_ids": [
+        "PN-T16-F209",
+        "PN-T16-F210",
+        "PN-T16-F211",
+        "PN-T16-F212"
+      ]
+    }
+  ]
+}
