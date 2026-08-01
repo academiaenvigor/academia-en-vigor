@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0.0",
-  "checked_at": "2026-07-30",
+  "checked_at": "2026-08-01",
   "sources": [
     {
       "id": "AGE-ALTOS-CARGOS",
@@ -1386,6 +1386,24 @@
       "title": "Ley Orgánica 4/2023, modificación de delitos contra la libertad sexual",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10213",
       "scope": "reforma penal 2023",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CP-T18",
+      "title": "Código Penal consolidado · delitos contra el patrimonio y el orden socioeconómico",
+      "boe_id": "BOE-A-1995-25444",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+      "scope": "arts. 234-256 y disposiciones transitorias",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LO1-2026-T18",
+      "title": "Ley Orgánica 1/2026, reforma del Código Penal",
+      "boe_id": "BOE-A-2026-7966",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-7966",
+      "scope": "reforma vigente desde 10-04-2026 de los arts. 234, 235, 248, 250 y 255",
       "official": true,
       "traceable": true
     }

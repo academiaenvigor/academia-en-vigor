@@ -1,0 +1,480 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-18",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 28,
+    "integrated": 28,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-08-01",
+  "resources": [
+    {
+      "id": "PN-T18-DG01",
+      "file": "t18-01-mapa-general-y-metodo-de-calificacion.webp",
+      "title": "Mapa general y método de calificación",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 01. Familia compositiva: mapa urbano.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG02",
+      "file": "t18-02-hurto-basico-articulo-234-1.webp",
+      "title": "Hurto básico: artículo 234.1",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 02. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG03",
+      "file": "t18-03-hurto-leve-y-multirreincidencia-vigente.webp",
+      "title": "Hurto leve y multirreincidencia vigente",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 03. Familia compositiva: cronología.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG04",
+      "file": "t18-04-neutralizacion-de-alarmas-en-el-hurto.webp",
+      "title": "Neutralización de alarmas en el hurto",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 04. Familia compositiva: corte de edificio.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG05",
+      "file": "t18-05-hurto-agravado-bienes-especialmente-protegidos.webp",
+      "title": "Hurto agravado: bienes especialmente protegidos",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 05. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG06",
+      "file": "t18-06-hurto-agravado-campo-perjuicio-y-vulnerabilidad.webp",
+      "title": "Hurto agravado: campo, perjuicio y vulnerabilidad",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 06. Familia compositiva: cadena causal.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG07",
+      "file": "t18-07-hurto-agravado-multirreincidencia-menores-y-moviles.webp",
+      "title": "Hurto agravado: multirreincidencia, menores y móviles",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 07. Familia compositiva: mapa urbano.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG08",
+      "file": "t18-08-furtum-possessionis.webp",
+      "title": "Furtum possessionis",
+      "type": "infografia",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 08. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG09",
+      "file": "t18-09-concepto-de-robo-con-fuerza.webp",
+      "title": "Concepto de robo con fuerza",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 09. Familia compositiva: cronología.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG10",
+      "file": "t18-10-fuerza-tipica-escalamiento-y-fracturas.webp",
+      "title": "Fuerza típica: escalamiento y fracturas",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 10. Familia compositiva: corte de edificio.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG11",
+      "file": "t18-11-llaves-falsas-e-inutilizacion-de-alarmas.webp",
+      "title": "Llaves falsas e inutilización de alarmas",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 11. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG12",
+      "file": "t18-12-penas-del-robo-con-fuerza.webp",
+      "title": "Penas del robo con fuerza",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 12. Familia compositiva: cadena causal.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG13",
+      "file": "t18-13-casa-habitada-y-locales-abiertos.webp",
+      "title": "Casa habitada y locales abiertos",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 13. Familia compositiva: mapa urbano.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG14",
+      "file": "t18-14-robo-con-violencia-o-intimidacion-tipo-basico.webp",
+      "title": "Robo con violencia o intimidación: tipo básico",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 14. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG15",
+      "file": "t18-15-robo-violento-casa-armas-y-atenuacion.webp",
+      "title": "Robo violento: casa, armas y atenuación",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 15. Familia compositiva: cronología.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG16",
+      "file": "t18-16-extorsion.webp",
+      "title": "Extorsión",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 16. Familia compositiva: corte de edificio.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG17",
+      "file": "t18-17-uso-de-vehiculo-y-restitucion-en-48-horas.webp",
+      "title": "Uso de vehículo y restitución en 48 horas",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 17. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG18",
+      "file": "t18-18-vehiculo-fuerza-falta-de-devolucion-y-violencia.webp",
+      "title": "Vehículo: fuerza, falta de devolución y violencia",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 18. Familia compositiva: cadena causal.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG19",
+      "file": "t18-19-usurpacion-violenta-de-inmuebles.webp",
+      "title": "Usurpación violenta de inmuebles",
+      "type": "infografia",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 19. Familia compositiva: mapa urbano.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG20",
+      "file": "t18-20-ocupacion-pacifica-de-inmueble-ajeno.webp",
+      "title": "Ocupación pacífica de inmueble ajeno",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 20. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG21",
+      "file": "t18-21-alteracion-de-lindes-y-distraccion-de-aguas.webp",
+      "title": "Alteración de lindes y distracción de aguas",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 21. Familia compositiva: cronología.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-DG22",
+      "file": "t18-22-estafa-basica-y-multirreincidencia-vigente.webp",
+      "title": "Estafa básica y multirreincidencia vigente",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 22. Familia compositiva: corte de edificio.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL01",
+      "file": "t18-il-01-etiqueta-de-alarma-y-salida-de-tienda.webp",
+      "title": "Etiqueta de alarma y salida de tienda",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 04. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL02",
+      "file": "t18-il-02-caja-fuerte-abierta-fuera-del-local.webp",
+      "title": "Caja fuerte abierta fuera del local",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 10. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL03",
+      "file": "t18-il-03-huida-y-violencia-sobre-la-persona.webp",
+      "title": "Huida y violencia sobre la persona",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 14. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL04",
+      "file": "t18-il-04-el-reloj-de-las-48-horas.webp",
+      "title": "El reloj de las 48 horas",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 17. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL05",
+      "file": "t18-il-05-vivienda-morada-frente-a-inmueble-vacio.webp",
+      "title": "Vivienda: morada frente a inmueble vacío",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 20. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T18-IL06",
+      "file": "t18-il-06-cultivo-clandestino-y-enganche-electrico.webp",
+      "title": "Cultivo clandestino y enganche eléctrico",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 30. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}

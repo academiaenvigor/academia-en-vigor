@@ -1,0 +1,232 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 18,
+  "topic_title": "Delitos contra el patrimonio y el orden socioeconómico",
+  "id_prefix": "PN-T18",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-18/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-18/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa general y método de calificación"
+      },
+      {
+        "number": 2,
+        "title": "Hurto básico: artículo 234.1"
+      },
+      {
+        "number": 3,
+        "title": "Hurto leve y multirreincidencia vigente"
+      },
+      {
+        "number": 4,
+        "title": "Neutralización de alarmas en el hurto"
+      },
+      {
+        "number": 5,
+        "title": "Hurto agravado: bienes especialmente protegidos"
+      },
+      {
+        "number": 6,
+        "title": "Hurto agravado: campo, perjuicio y vulnerabilidad"
+      },
+      {
+        "number": 7,
+        "title": "Hurto agravado: multirreincidencia, menores y móviles"
+      },
+      {
+        "number": 8,
+        "title": "Furtum possessionis"
+      },
+      {
+        "number": 9,
+        "title": "Concepto de robo con fuerza"
+      },
+      {
+        "number": 10,
+        "title": "Fuerza típica: escalamiento y fracturas"
+      },
+      {
+        "number": 11,
+        "title": "Llaves falsas e inutilización de alarmas"
+      },
+      {
+        "number": 12,
+        "title": "Penas del robo con fuerza"
+      },
+      {
+        "number": 13,
+        "title": "Casa habitada y locales abiertos"
+      },
+      {
+        "number": 14,
+        "title": "Robo con violencia o intimidación: tipo básico"
+      },
+      {
+        "number": 15,
+        "title": "Robo violento: casa, armas y atenuación"
+      },
+      {
+        "number": 16,
+        "title": "Extorsión"
+      },
+      {
+        "number": 17,
+        "title": "Uso de vehículo y restitución en 48 horas"
+      },
+      {
+        "number": 18,
+        "title": "Vehículo: fuerza, falta de devolución y violencia"
+      },
+      {
+        "number": 19,
+        "title": "Usurpación violenta de inmuebles"
+      },
+      {
+        "number": 20,
+        "title": "Ocupación pacífica de inmueble ajeno"
+      },
+      {
+        "number": 21,
+        "title": "Alteración de lindes y distracción de aguas"
+      },
+      {
+        "number": 22,
+        "title": "Estafa básica y multirreincidencia vigente"
+      },
+      {
+        "number": 23,
+        "title": "Estafas informáticas y medios de pago"
+      },
+      {
+        "number": 24,
+        "title": "Estafas agravadas I"
+      },
+      {
+        "number": 25,
+        "title": "Estafas agravadas II y reforma de 2026"
+      },
+      {
+        "number": 26,
+        "title": "Estafas inmobiliarias y persona jurídica"
+      },
+      {
+        "number": 27,
+        "title": "Administración desleal"
+      },
+      {
+        "number": 28,
+        "title": "Apropiación indebida de bienes recibidos"
+      },
+      {
+        "number": 29,
+        "title": "Apropiación de otras cosas muebles"
+      },
+      {
+        "number": 30,
+        "title": "Defraudación de energía y reforma del artículo 255"
+      },
+      {
+        "number": 31,
+        "title": "Terminales de telecomunicación"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Hurto y disposiciones comunes",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Robo, fuerza, violencia y extorsión",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Vehículos, usurpación y estafas",
+        "blocks": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Estafas agravadas, apropiaciones y defraudaciones",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

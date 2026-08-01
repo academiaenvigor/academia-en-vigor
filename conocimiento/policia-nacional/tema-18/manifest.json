@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-18",
+  "topic_number": 18,
+  "slug": "delitos-contra-patrimonio-orden-socioeconomico",
+  "title": "Delitos contra el patrimonio y el orden socioeconómico",
+  "content_version": "1.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "official_sources_checked_2026-08-01",
+  "source_file": "conocimiento/policia-nacional/tema-18/master.md",
+  "source_rights": {
+    "third_party_document_used_as": "coverage_checklist_only",
+    "third_party_text_reused": false,
+    "official_sources_only_for_legal_content": true
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-18-delitos-contra-patrimonio-orden-socioeconomico.md",
+    "atestado": "temas/policia-nacional/atestado/tema-18-delitos-contra-patrimonio-orden-socioeconomico.md"
+  },
+  "semantic_blocks": 31,
+  "atomic_facts": 124,
+  "master_statements": 124,
+  "coverage_file": "conocimiento/policia-nacional/tema-18/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CP-T18",
+    "LO1-2026-T18"
+  ],
+  "official_exam_items": 14,
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-18/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrative_explained",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-18/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-18/manifest.json",
+    "questions": 248,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-18/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-18/manifest.json",
+    "total": 28,
+    "planned": 0
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-18/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-01",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-18/revision-1.0.md"
+  },
+  "pedagogical_version": "1.0.0",
+  "visual_version": "1.0.0"
+}

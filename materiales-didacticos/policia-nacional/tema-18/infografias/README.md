@@ -1,0 +1,3 @@
+# Infografias · Tema 18
+
+Estructura editorial preparada.
