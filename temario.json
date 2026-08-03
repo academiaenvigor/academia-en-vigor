@@ -822,6 +822,30 @@
           "official_exam_mapped": 18,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 35,
+          "slug": "desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental",
+          "title": "El desarrollo sostenible. Concepto. Coordinación y cooperación internacional. Sociedad y desarrollo sostenible. Instrumentos de gestión ambiental.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-35/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-35-desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental.md",
+          "atestado": "temas/policia-nacional/atestado/tema-35-desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-35/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-35/plan.json",
+          "assets": "assets/policia-nacional/tema-35/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-35/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-35/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 91,
+          "atomic_facts": 364,
+          "question_count": 728,
+          "official_exam_mapped": 16,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

@@ -1,0 +1,121 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-35",
+  "topic_number": 35,
+  "slug": "desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental",
+  "title": "El desarrollo sostenible. Concepto. Coordinación y cooperación internacional. Sociedad y desarrollo sostenible. Instrumentos de gestión ambiental.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-35/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-35-desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental.md",
+    "atestado": "temas/policia-nacional/atestado/tema-35-desarrollo-sostenible-cooperacion-sociedad-instrumentos-gestion-ambiental.md"
+  },
+  "semantic_blocks": 91,
+  "atomic_facts": 364,
+  "master_statements": 364,
+  "coverage_file": "conocimiento/policia-nacional/tema-35/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T35",
+    "UN-BRUNDTLAND-T35",
+    "UN-STOCKHOLM-T35",
+    "UN-RIO-T35",
+    "UNFCCC-T35",
+    "UNFCCC-PARIS-T35",
+    "UNFCCC-PARTIES-2026-T35",
+    "IPCC-T35",
+    "UN-SDGS-T35",
+    "UNDP-HDI-T35",
+    "EU-CLIMATE-LAW-T35",
+    "EU-ENV-PRINCIPLES-T35",
+    "AEMA-T35",
+    "LIFE-2021-783-T35",
+    "CE-ART45-T35",
+    "ORDEN-DSA-819-2020-T35",
+    "RD415-2014-T35",
+    "RD958-2018-T35",
+    "MITECO-ESTRUCTURA-T35",
+    "LEY42-2007-T35",
+    "RD1057-2022-T35",
+    "LEY45-2007-T35",
+    "LEY21-2013-T35",
+    "LEY26-2007-T35",
+    "LEY27-2006-T35",
+    "LEY7-2021-T35",
+    "PNIEC-2023-2030-T35",
+    "PNACC-2021-2030-T35",
+    "EMAS-1221-2009-T35",
+    "ISO14001-2026-T35",
+    "LEY7-2022-T35",
+    "IPPC-1-2016-T35"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q063",
+    "of-pn-p33-a-q065",
+    "of-pn-p33-a-q069",
+    "of-pn-p33-a-q070",
+    "of-pn-p34-a-q040",
+    "of-pn-p35-a-q006",
+    "of-pn-p35-a-q044",
+    "of-pn-p36-a-q031",
+    "of-pn-p36-a-q073",
+    "of-pn-p36-a-q096",
+    "of-pn-p37-a-q007",
+    "of-pn-p37-a-q061",
+    "of-pn-p37-a-q100",
+    "of-pn-p38-a-q082",
+    "of-pn-p41-a-q039",
+    "of-pn-p42-a-q052"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-35/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-35/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-35/manifest.json",
+    "questions": 728,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-35/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-35/manifest.json",
+    "total": 0,
+    "planned": 91
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-35/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-35/revision-1.0.md"
+  }
+}

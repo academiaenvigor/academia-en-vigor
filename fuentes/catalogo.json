@@ -19,6 +19,14 @@
       "traceable": true
     },
     {
+      "id": "AEMA-T35",
+      "title": "Agencia Europea de Medio Ambiente",
+      "url": "https://www.eea.europa.eu/en/about",
+      "scope": "información ambiental independiente y red Eionet",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "AGE-ALTOS-CARGOS",
       "title": "Referencia temática de la Ley 40/2015: AGE-ALTOS-CARGOS",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
@@ -368,6 +376,14 @@
       "boe_id": "BOE-A-1978-31229",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
       "scope": "libertad y seguridad, Fuerzas y Cuerpos de Seguridad y competencia sobre seguridad pública",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CE-ART45-T35",
+      "title": "Constitución Española, artículo 45",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "derecho, deber y mandato a los poderes públicos",
       "official": true,
       "traceable": true
     },
@@ -736,6 +752,14 @@
       "traceable": true
     },
     {
+      "id": "CONVOCATORIA-PN-2026-T35",
+      "title": "Resolución de 7 de julio de 2026: programa de Escala Básica, Tema 35",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial del Tema 35",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COOLEY-1909-T29",
       "title": "Charles H. Cooley: Social Organization, Primary Groups",
       "url": "https://brocku.ca/MeadProject/Cooley/Cooley_1909/Cooley_1909.html",
@@ -998,6 +1022,14 @@
       "traceable": true
     },
     {
+      "id": "EMAS-1221-2009-T35",
+      "title": "Reglamento (CE) 1221/2009, sistema EMAS",
+      "url": "https://eur-lex.europa.eu/eli/reg/2009/1221/oj",
+      "scope": "ecogestión, auditoría, declaración y registro",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EOMF-T21",
       "title": "Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
       "boe_id": "BOE-A-1982-837",
@@ -1029,6 +1061,22 @@
       "title": "Comisión Europea, Action Plan on Integration and Inclusion 2021-2027",
       "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/migrant-integration/eu-integration-policy_en",
       "scope": "inclusión para todos, educación, empleo, salud y vivienda",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "EU-CLIMATE-LAW-T35",
+      "title": "Reglamento (UE) 2021/1119, Ley Europea del Clima",
+      "url": "https://eur-lex.europa.eu/eli/reg/2021/1119/oj",
+      "scope": "neutralidad climática 2050 y objetivo 2030",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "EU-ENV-PRINCIPLES-T35",
+      "title": "Tratado de Funcionamiento de la UE, artículo 191",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012E191",
+      "scope": "principios de la política ambiental de la Unión",
       "official": true,
       "traceable": true
     },
@@ -1479,6 +1527,30 @@
       "traceable": true
     },
     {
+      "id": "IPCC-T35",
+      "title": "Grupo Intergubernamental de Expertos sobre el Cambio Climático",
+      "url": "https://www.ipcc.ch/about/",
+      "scope": "función científica y tipos de informes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IPPC-1-2016-T35",
+      "title": "Real Decreto Legislativo 1/2016, prevención y control integrados de la contaminación",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-12601",
+      "scope": "autorización ambiental integrada y mejores técnicas disponibles",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ISO14001-2026-T35",
+      "title": "ISO 14001:2026, sistemas de gestión ambiental",
+      "url": "https://www.iso.org/home/insights-news/resources/iso-14001-explained.html",
+      "scope": "edición vigente publicada en abril de 2026",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "IV-PLAN-AGE-T23",
       "title": "IV Plan para la igualdad de género en la AGE y sus organismos públicos",
       "boe_id": "BOE-A-2025-22252",
@@ -1730,9 +1802,25 @@
       "traceable": true
     },
     {
+      "id": "LEY21-2013-T35",
+      "title": "Ley 21/2013, de evaluación ambiental",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913",
+      "scope": "evaluación estratégica y de impacto ambiental",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LEY26-2007-T32",
       "title": "Ley 26/2007, de Responsabilidad Medioambiental",
       "boe_id": "BOE-A-2007-18475",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475",
+      "scope": "prevención, evitación y reparación de daños",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY26-2007-T35",
+      "title": "Ley 26/2007, de Responsabilidad Medioambiental",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475",
       "scope": "prevención, evitación y reparación de daños",
       "official": true,
@@ -1744,6 +1832,14 @@
       "boe_id": "BOE-A-2006-13010",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010",
       "scope": "derechos ambientales y Consejo Asesor de Medio Ambiente",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY27-2006-T35",
+      "title": "Ley 27/2006, derechos ambientales y Convenio de Aarhus",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010",
+      "scope": "información, participación y justicia",
       "official": true,
       "traceable": true
     },
@@ -1766,6 +1862,22 @@
       "traceable": true
     },
     {
+      "id": "LEY42-2007-T35",
+      "title": "Ley 42/2007, del Patrimonio Natural y de la Biodiversidad",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490",
+      "scope": "biodiversidad, planificación, espacios y especies",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY45-2007-T35",
+      "title": "Ley 45/2007, para el desarrollo sostenible del medio rural",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21493",
+      "scope": "medio rural, zonas y programa",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LEY5-2014-T33",
       "title": "Ley 5/2014, de Seguridad Privada",
       "boe_id": "BOE-A-2014-3649",
@@ -1775,11 +1887,27 @@
       "traceable": true
     },
     {
+      "id": "LEY7-2021-T35",
+      "title": "Ley 7/2021, de cambio climático y transición energética",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447",
+      "scope": "marco climático español consolidado a 30 de junio de 2026",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LEY7-2022-T32",
       "title": "Ley 7/2022, de residuos y suelos contaminados para una economía circular",
       "boe_id": "BOE-A-2022-5809",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809",
       "scope": "residuos, prevención, jerarquía, subproductos y suelos contaminados",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY7-2022-T35",
+      "title": "Ley 7/2022, de residuos y suelos contaminados para una economía circular",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809",
+      "scope": "jerarquía de residuos y economía circular",
       "official": true,
       "traceable": true
     },
@@ -1798,6 +1926,14 @@
       "boe_id": "BOE-A-2015-11724",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
       "scope": "arts. 156-158, accidente de trabajo y enfermedad profesional",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LIFE-2021-783-T35",
+      "title": "Reglamento (UE) 2021/783, Programa LIFE",
+      "url": "https://eur-lex.europa.eu/eli/reg/2021/783/oj",
+      "scope": "programa europeo de medio ambiente y acción por el clima",
       "official": true,
       "traceable": true
     },
@@ -2259,6 +2395,14 @@
       "traceable": true
     },
     {
+      "id": "MITECO-ESTRUCTURA-T35",
+      "title": "MITECO: organismos e instituciones nacionales de política climática",
+      "url": "https://www.miteco.gob.es/es/cambio-climatico/temas/organismos-e-instituciones-implicados-en-la-lucha-contra-el-cambio-climatico-a-nivel-nacional/oficina-espanola-en-cambio-climatico.html",
+      "scope": "estructura ministerial y Oficina Española de Cambio Climático",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "MITECO-T32",
       "title": "Ministerio para la Transición Ecológica y el Reto Demográfico",
       "url": "https://www.miteco.gob.es/",
@@ -2392,6 +2536,14 @@
       "traceable": true
     },
     {
+      "id": "ORDEN-DSA-819-2020-T35",
+      "title": "Orden DSA/819/2020, Consejo de Desarrollo Sostenible",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-10270",
+      "scope": "participación social en la Agenda 2030",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "ORTEGA-1930-T32",
       "title": "José Ortega y Gasset, La rebelión de las masas",
       "url": "https://www.cervantesvirtual.com/obra/la-rebelion-de-las-masas/",
@@ -2453,6 +2605,22 @@
       "boe_id": "BOE-A-2025-10371",
       "url": "https://www.boe.es/eli/es/o/2025/05/23/pjc522",
       "scope": "estado de revisión de la estrategia",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "PNACC-2021-2030-T35",
+      "title": "MITECO: Plan Nacional de Adaptación al Cambio Climático 2021-2030",
+      "url": "https://www.miteco.gob.es/es/cambio-climatico/temas/impactos-vulnerabilidad-y-adaptacion/pnacc-2021-2030.html",
+      "scope": "adaptación y resiliencia",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "PNIEC-2023-2030-T35",
+      "title": "MITECO: Plan Nacional Integrado de Energía y Clima 2023-2030",
+      "url": "https://www.miteco.gob.es/es/energia/estrategia-normativa/pniec-23-30.html",
+      "scope": "objetivos actualizados de energía y clima",
       "official": true,
       "traceable": true
     },
@@ -2583,6 +2751,14 @@
       "url": "https://www.jstor.org/stable/2979181",
       "scope": "regularidades clásicas de la migración",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "RD1057-2022-T35",
+      "title": "Real Decreto 1057/2022, Plan estratégico estatal del patrimonio natural y de la biodiversidad a 2030",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-23751",
+      "scope": "plan estratégico vigente a 2030",
+      "official": true,
       "traceable": true
     },
     {
@@ -2773,6 +2949,14 @@
       "traceable": true
     },
     {
+      "id": "RD415-2014-T35",
+      "title": "Real Decreto 415/2014, Consejo Nacional del Clima",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-6120",
+      "scope": "participación y seguimiento de políticas climáticas",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RD43-2021-T15",
       "title": "Real Decreto 43/2021: desarrollo de la seguridad de redes y sistemas",
       "boe_id": "BOE-A-2021-1192",
@@ -2884,6 +3068,14 @@
       "title": "Real Decreto 903/2025: preparados estandarizados de cannabis",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-20077",
       "scope": "THC, CBD y preparados estandarizados de cannabis",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD958-2018-T35",
+      "title": "Real Decreto 958/2018, Comisión Interministerial para el Cambio Climático y la Transición Energética",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10755",
+      "scope": "coordinación interministerial",
       "official": true,
       "traceable": true
     },
@@ -3338,6 +3530,14 @@
       ]
     },
     {
+      "id": "UN-BRUNDTLAND-T35",
+      "title": "ONU: Our Common Future, Informe Brundtland",
+      "url": "https://digitallibrary.un.org/record/139811",
+      "scope": "concepto clásico, necesidades y equidad intergeneracional",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UN-CONVENTION-1961-T34",
       "title": "Naciones Unidas: Convención Única sobre Estupefacientes de 1961",
       "url": "https://www.unodc.org/pdf/convention_1961_en.pdf",
@@ -3414,6 +3614,38 @@
       "title": "ONU-Hábitat, World Cities Report 2022",
       "url": "https://unhabitat.org/wcr/2022/",
       "scope": "urbanización, redes, estructura, desigualdad y sostenibilidad urbana",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-RIO-T35",
+      "title": "ONU: Conferencia de Río de 1992",
+      "url": "https://www.un.org/en/conferences/environment/rio1992",
+      "scope": "Declaración de Río, Agenda 21 y participación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-SDGS-T35",
+      "title": "ONU: Agenda 2030 y 17 Objetivos de Desarrollo Sostenible",
+      "url": "https://sdgs.un.org/goals",
+      "scope": "objetivos, metas y cooperación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-STOCKHOLM-T35",
+      "title": "ONU: Conferencia de Estocolmo de 1972",
+      "url": "https://www.un.org/en/conferences/environment/stockholm1972",
+      "scope": "origen de la cooperación ambiental moderna",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNDP-HDI-T35",
+      "title": "PNUD: Índice de Desarrollo Humano",
+      "url": "https://hdr.undp.org/data-center/human-development-index",
+      "scope": "salud, educación e ingreso",
       "official": true,
       "traceable": true
     },
@@ -3510,6 +3742,30 @@
       "title": "UNESCO: Global Citizenship Education, Topics and Learning Objectives",
       "url": "https://unesdoc.unesco.org/ark:/48223/pf0000232993",
       "scope": "valores, ciudadanía, pensamiento crítico y prevención",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNFCCC-PARIS-T35",
+      "title": "CMNUCC: Acuerdo de París",
+      "url": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+      "scope": "objetivos, NDC, transparencia y balance mundial",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNFCCC-PARTIES-2026-T35",
+      "title": "CMNUCC: estado de participación en el Acuerdo de París",
+      "url": "https://unfccc.int/process/the-paris-agreement/status-of-ratification",
+      "scope": "estado de partes a 27 de enero de 2026",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNFCCC-T35",
+      "title": "Convención Marco de las Naciones Unidas sobre el Cambio Climático",
+      "url": "https://unfccc.int/process-and-meetings/the-convention/what-is-the-united-nations-framework-convention-on-climate-change",
+      "scope": "marco climático multilateral",
       "official": true,
       "traceable": true
     },

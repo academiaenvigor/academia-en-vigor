@@ -1,0 +1,562 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 35,
+  "topic_title": "El desarrollo sostenible. Concepto. Coordinación y cooperación internacional. Sociedad y desarrollo sostenible. Instrumentos de gestión ambiental.",
+  "id_prefix": "PN-T35",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-35/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-35/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance del Tema 35"
+      },
+      {
+        "number": 2,
+        "title": "Definición del Informe Brundtland"
+      },
+      {
+        "number": 3,
+        "title": "Tres dimensiones integradas"
+      },
+      {
+        "number": 4,
+        "title": "Equidad intra e intergeneracional"
+      },
+      {
+        "number": 5,
+        "title": "Necesidades, límites y tecnología"
+      },
+      {
+        "number": 6,
+        "title": "Prevención, precaución y corrección en la fuente"
+      },
+      {
+        "number": 7,
+        "title": "Quien contamina paga"
+      },
+      {
+        "number": 8,
+        "title": "Indicadores: PIB, IDH y huella ambiental"
+      },
+      {
+        "number": 9,
+        "title": "Conferencia de Estocolmo de 1972"
+      },
+      {
+        "number": 10,
+        "title": "Programa de las Naciones Unidas para el Medio Ambiente"
+      },
+      {
+        "number": 11,
+        "title": "Cumbre de Río de 1992"
+      },
+      {
+        "number": 12,
+        "title": "Declaración de Río y participación social"
+      },
+      {
+        "number": 13,
+        "title": "Convención Marco sobre Cambio Climático"
+      },
+      {
+        "number": 14,
+        "title": "Conferencias de las Partes"
+      },
+      {
+        "number": 15,
+        "title": "IPCC: función y productos"
+      },
+      {
+        "number": 16,
+        "title": "Protocolo de Kioto"
+      },
+      {
+        "number": 17,
+        "title": "Adopción y entrada en vigor del Acuerdo de París"
+      },
+      {
+        "number": 18,
+        "title": "Partes del Acuerdo de París en 2026"
+      },
+      {
+        "number": 19,
+        "title": "Objetivos de temperatura del Acuerdo de París"
+      },
+      {
+        "number": 20,
+        "title": "Contribuciones determinadas a nivel nacional"
+      },
+      {
+        "number": 21,
+        "title": "Marco reforzado de transparencia"
+      },
+      {
+        "number": 22,
+        "title": "Balance mundial del Acuerdo de París"
+      },
+      {
+        "number": 23,
+        "title": "Adaptación, financiación y pérdidas y daños"
+      },
+      {
+        "number": 24,
+        "title": "Agenda 2030: adopción y estructura"
+      },
+      {
+        "number": 25,
+        "title": "Las cinco P de la Agenda 2030"
+      },
+      {
+        "number": 26,
+        "title": "ODS ambientales directos y transversales"
+      },
+      {
+        "number": 27,
+        "title": "Metas, indicadores y seguimiento"
+      },
+      {
+        "number": 28,
+        "title": "Agencia Europea de Medio Ambiente"
+      },
+      {
+        "number": 29,
+        "title": "Ley Europea del Clima"
+      },
+      {
+        "number": 30,
+        "title": "Principios ambientales de la Unión Europea"
+      },
+      {
+        "number": 31,
+        "title": "Programa LIFE 2021-2027"
+      },
+      {
+        "number": 32,
+        "title": "Artículo 45 de la Constitución"
+      },
+      {
+        "number": 33,
+        "title": "Consejo de Desarrollo Sostenible"
+      },
+      {
+        "number": 34,
+        "title": "Consejo Nacional del Clima"
+      },
+      {
+        "number": 35,
+        "title": "Coordinación climática administrativa"
+      },
+      {
+        "number": 36,
+        "title": "Distribución de competencias ambientales"
+      },
+      {
+        "number": 37,
+        "title": "Consumo, producción y externalidades"
+      },
+      {
+        "number": 38,
+        "title": "Transición justa"
+      },
+      {
+        "number": 39,
+        "title": "Justicia ambiental"
+      },
+      {
+        "number": 40,
+        "title": "Información y alfabetización ambiental"
+      },
+      {
+        "number": 41,
+        "title": "Participación temprana y efectiva"
+      },
+      {
+        "number": 42,
+        "title": "Compra pública verde"
+      },
+      {
+        "number": 43,
+        "title": "Empresa, cumplimiento y desempeño"
+      },
+      {
+        "number": 44,
+        "title": "Greenwashing y alegaciones ambientales"
+      },
+      {
+        "number": 45,
+        "title": "Objeto y principios de la Ley 42/2007"
+      },
+      {
+        "number": 46,
+        "title": "Conceptos de biodiversidad y patrimonio natural"
+      },
+      {
+        "number": 47,
+        "title": "Inventario Español del Patrimonio Natural y Biodiversidad"
+      },
+      {
+        "number": 48,
+        "title": "Plan Estratégico Estatal a 2030"
+      },
+      {
+        "number": 49,
+        "title": "Planes de Ordenación de los Recursos Naturales"
+      },
+      {
+        "number": 50,
+        "title": "Espacios naturales protegidos"
+      },
+      {
+        "number": 51,
+        "title": "Red Natura 2000"
+      },
+      {
+        "number": 52,
+        "title": "Evaluación de repercusiones en Red Natura 2000"
+      },
+      {
+        "number": 53,
+        "title": "Listado y Catálogo de especies amenazadas"
+      },
+      {
+        "number": 54,
+        "title": "Especies exóticas invasoras"
+      },
+      {
+        "number": 55,
+        "title": "Corredores ecológicos y conectividad"
+      },
+      {
+        "number": 56,
+        "title": "Áreas protegidas por instrumentos internacionales"
+      },
+      {
+        "number": 57,
+        "title": "Objeto de la Ley 45/2007"
+      },
+      {
+        "number": 58,
+        "title": "Medio rural, zona rural y municipio pequeño"
+      },
+      {
+        "number": 59,
+        "title": "Programa de Desarrollo Rural Sostenible"
+      },
+      {
+        "number": 60,
+        "title": "Clasificación de zonas rurales"
+      },
+      {
+        "number": 61,
+        "title": "Arquitectura de la Ley 21/2013"
+      },
+      {
+        "number": 62,
+        "title": "Evaluación ambiental estratégica"
+      },
+      {
+        "number": 63,
+        "title": "Evaluación de impacto ambiental de proyectos"
+      },
+      {
+        "number": 64,
+        "title": "Órgano ambiental, sustantivo y promotor"
+      },
+      {
+        "number": 65,
+        "title": "Modelo de la Ley 26/2007"
+      },
+      {
+        "number": 66,
+        "title": "Daño medioambiental cubierto"
+      },
+      {
+        "number": 67,
+        "title": "Amenaza inminente, prevención y evitación"
+      },
+      {
+        "number": 68,
+        "title": "Reparación primaria, complementaria y compensatoria"
+      },
+      {
+        "number": 69,
+        "title": "Plazo temporal y exclusiones"
+      },
+      {
+        "number": 70,
+        "title": "Convenio de Aarhus y tres pilares"
+      },
+      {
+        "number": 71,
+        "title": "Acceso a información ambiental"
+      },
+      {
+        "number": 72,
+        "title": "Participación en planes y disposiciones"
+      },
+      {
+        "number": 73,
+        "title": "Acceso a la justicia y acción popular ambiental"
+      },
+      {
+        "number": 74,
+        "title": "Consejo Asesor de Medio Ambiente"
+      },
+      {
+        "number": 75,
+        "title": "Objeto y principios de la Ley 7/2021"
+      },
+      {
+        "number": 76,
+        "title": "Objetivos legales y objetivos del PNIEC"
+      },
+      {
+        "number": 77,
+        "title": "PNIEC 2023-2030 actualizado"
+      },
+      {
+        "number": 78,
+        "title": "Dimensiones y estructura del PNIEC"
+      },
+      {
+        "number": 79,
+        "title": "Plan Nacional de Adaptación 2021-2030"
+      },
+      {
+        "number": 80,
+        "title": "Estrategia de Transición Justa"
+      },
+      {
+        "number": 81,
+        "title": "Mitigación y adaptación: casos límite"
+      },
+      {
+        "number": 82,
+        "title": "Sistema de gestión ambiental"
+      },
+      {
+        "number": 83,
+        "title": "ISO 14001:2026"
+      },
+      {
+        "number": 84,
+        "title": "Aspectos, impactos y perspectiva de ciclo de vida"
+      },
+      {
+        "number": 85,
+        "title": "Obligaciones de cumplimiento y objetivos"
+      },
+      {
+        "number": 86,
+        "title": "Control operacional y emergencias"
+      },
+      {
+        "number": 87,
+        "title": "Seguimiento, auditoría y revisión"
+      },
+      {
+        "number": 88,
+        "title": "EMAS: naturaleza y requisitos"
+      },
+      {
+        "number": 89,
+        "title": "ISO 14001 y EMAS"
+      },
+      {
+        "number": 90,
+        "title": "Jerarquía de residuos y economía circular"
+      },
+      {
+        "number": 91,
+        "title": "Prevención y control integrados de la contaminación"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos del desarrollo sostenible",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Coordinación y cooperación internacional",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Agenda 2030, Unión Europea y gobernanza española",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Sociedad y desarrollo sostenible",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Patrimonio natural y biodiversidad",
+        "blocks": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Desarrollo rural y evaluación ambiental",
+        "blocks": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Responsabilidad, información, participación y justicia ambiental",
+        "blocks": [
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Cambio climático y transición energética en España",
+        "blocks": [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81
+        ]
+      },
+      {
+        "code": "P9",
+        "title": "Sistemas e instrumentos de gestión ambiental",
+        "blocks": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
