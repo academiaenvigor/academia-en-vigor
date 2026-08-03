@@ -1,0 +1,343 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 41,
+  "titulo": "Ciberdelincuencia y agentes de la Amenaza: Botnet; Business E-mail Compromise; Cartas nigerianas; Cryptojacking; Denegación de servicio; Ingeniería social; Inyección SQL; Malware; Pharming; Phishing; Spear phishing; Ransomware; Skimming; Spoofing; Spyware; Troyano; XSS; Zero-day. Cibercriminales. Crimen as Service. Hacktivistas. Insider threat. APTs. Cyber Kill Chain.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 14,
+  "con_bloque_asignado": 14,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "40": 1,
+    "26": 1,
+    "13": 1,
+    "61": 1,
+    "84": 1,
+    "24": 1,
+    "47": 1,
+    "36": 1,
+    "23": 1,
+    "25": 1,
+    "46": 1,
+    "9": 1,
+    "42": 1,
+    "70": 1
+  },
+  "por_promocion": {
+    "P42": 2,
+    "P39": 3,
+    "P35": 1,
+    "P33": 1,
+    "P41": 2,
+    "P40": 2,
+    "P36": 2,
+    "P38": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p42-a-q072",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 72,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "PN-T41-F157"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se define al malware que tiene como característica principal infectar ficheros ejecutables o sectores de arranque de dispositivos de almacenamiento?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q089",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 89,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "PN-T41-F101"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Aquel ataque de ingeniería social, variante del spear phishing, que se caracteriza porque el fraude está dirigido a miembros de la organización, principalmente ejecutivos de alto nivel, con el objeto de obtener sus claves, contraseñas y todo tipo de información confidencial que permita a los atacantes el acceso y control de los sistemas de información de la empresa se denomina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q010",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 10,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "PN-T41-F049"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Un BOT es un software malicioso que puede ser utilizado para:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q058",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 58,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "PN-T41-F241"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina al ataque informático que consiste en la infiltración de código malicioso que aprovecha errores y vulnerabilidades en una página web?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q060",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 60,
+      "block_refs": [
+        84
+      ],
+      "fact_refs": [
+        "PN-T41-F333"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cuando una persona estrechamente vinculada a una organización y que goza de acceso autorizado abusa de sus privilegios de acceso para afectar negativamente a la información o sistemas claves de la empresa, es lo que se denomina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q097",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 97,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "PN-T41-F093"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Phishing:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p33-a-q081",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 81,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "PN-T41-F185"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Señale el nombre con el que son conocidos determinados programas maliciosos que bloquean el ordenador de la víctima, acusándola de haber visitado sitios web ilegales que contienen material sobre abusos infantiles o cualquier otra actividad ilegal, haciéndose pasar por un organismo con funciones coercitivas y solicitando el pago de una multa para desbloquear el ordenador:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q018",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 18,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T41-F141"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina la técnica por la cual un ciberdelincuente realiza una suplantación de identidad por nombre de dominio, la cual consiste en una relación falsa entre IP y nombre de dominio?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q035",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 35,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "PN-T41-F091"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina el fraude basado en la ingeniería social y en la suplantación de identidad, que se realiza a través de llamadas telefónicas, donde el atacante suplanta la identidad de una empresa, organización o incluso de una persona de confianza, con el fin de obtener información personal de sus víctimas?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q010",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 10,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "PN-T41-F097"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cómo se denomina la técnica que consiste en mandar mensajes “estafa” a medida, a objetivos concretos de los que se estudian sus hábitos, bien sea a un grupo de trabajadores de una misma empresa, bien sea a una única persona?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q018",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 18,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "PN-T41-F181"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo es conocido en los ámbitos delincuenciales y, por extensión, policialmente el virus-troyano “ransomware”?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q062",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 62,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "PN-T41-F033"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Una botnet se refiere a:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q081",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 81,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "PN-T41-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina al programa informático que se instala en nuestro ordenador de manera inesperada y sin nuestro permiso, en la que el usuario lo confunde con un programa totalmente legítimo, pero al ejecutarlo, puede llegar a permitir que otro usuario se haga con el control del ordenador?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q091",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 91,
+      "block_refs": [
+        70
+      ],
+      "fact_refs": [
+        "PN-T41-F277"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina a la lectura no autorizada y almacenamiento de la información contenida en la banda magnética de las tarjetas bancarias, mediante la utilización de dispositivos electrónicos que simulan ser los autorizados, o por personas con acceso a estos medios de pago?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

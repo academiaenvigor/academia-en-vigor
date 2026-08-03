@@ -1,0 +1,108 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-41",
+  "topic_number": 41,
+  "slug": "ciberdelincuencia-y-agentes-de-la-amenaza",
+  "title": "Ciberdelincuencia y agentes de la Amenaza: Botnet; Business E-mail Compromise; Cartas nigerianas; Cryptojacking; Denegación de servicio; Ingeniería social; Inyección SQL; Malware; Pharming; Phishing; Spear phishing; Ransomware; Skimming; Spoofing; Spyware; Troyano; XSS; Zero-day. Cibercriminales. Crimen as Service. Hacktivistas. Insider threat. APTs. Cyber Kill Chain.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-41/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-41-ciberdelincuencia-y-agentes-de-la-amenaza.md",
+    "atestado": "temas/policia-nacional/atestado/tema-41-ciberdelincuencia-y-agentes-de-la-amenaza.md"
+  },
+  "semantic_blocks": 98,
+  "atomic_facts": 392,
+  "master_statements": 392,
+  "coverage_file": "conocimiento/policia-nacional/tema-41/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T41",
+    "ENISA-TL-2025-T41",
+    "EUROPOL-IOCTA-2025-T41",
+    "EUROPOL-CAAS-T41",
+    "NIST-SP800-150-T41",
+    "NIST-IR7298-T41",
+    "NIST-ZERODAY-T41",
+    "CISA-MPR-T41",
+    "CISA-RANSOMWARE-T41",
+    "INCIBE-BOTNET-T41",
+    "FBI-SCAMS-T41",
+    "FBI-IC3-2025-T41",
+    "OWASP-INJECTION-T41",
+    "OWASP-SQLI-T41",
+    "OWASP-XSS-T41",
+    "RFC3833-DNS-T41",
+    "PCI-SKIMMING-T41",
+    "PCI-ESKIMMING-T41",
+    "MITRE-ATTACK-T41",
+    "MITRE-APT-T41",
+    "LOCKHEED-KILLCHAIN-T41"
+  ],
+  "official_exam_items": [
+    "of-pn-p42-a-q072",
+    "of-pn-p42-a-q089",
+    "of-pn-p39-a-q010",
+    "of-pn-p39-a-q058",
+    "of-pn-p39-a-q060",
+    "of-pn-p35-a-q097",
+    "of-pn-p33-a-q081",
+    "of-pn-p41-a-q018",
+    "of-pn-p41-a-q035",
+    "of-pn-p40-a-q010",
+    "of-pn-p40-a-q018",
+    "of-pn-p36-a-q062",
+    "of-pn-p36-a-q081",
+    "of-pn-p38-a-q091"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-41/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-41/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-41/manifest.json",
+    "questions": 784,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-41/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-41/manifest.json",
+    "total": 0,
+    "planned": 98
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-41/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-41/revision-1.0.md"
+  }
+}

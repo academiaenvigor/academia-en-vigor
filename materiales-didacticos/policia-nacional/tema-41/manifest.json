@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-41",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-41",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Fundamentos de ciberdelincuencia y amenaza",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Botnets, denegación de servicio y cryptojacking",
+      "blocks": [
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "anchor_blocks": [
+        "09"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Ingeniería social, fraudes y suplantación",
+      "blocks": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "anchor_blocks": [
+        "20"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Malware, spyware, troyanos y ransomware",
+      "blocks": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53"
+      ],
+      "anchor_blocks": [
+        "38"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Inyección SQL, XSS y vulnerabilidades zero-day",
+      "blocks": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "anchor_blocks": [
+        "54"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Skimming y e-skimming",
+      "blocks": [
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75"
+      ],
+      "anchor_blocks": [
+        "70"
+      ]
+    },
+    {
+      "id": "p7",
+      "number": 7,
+      "title": "Cibercriminales y ecosistema de amenaza",
+      "blocks": [
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88"
+      ],
+      "anchor_blocks": [
+        "76"
+      ]
+    },
+    {
+      "id": "p8",
+      "number": 8,
+      "title": "Cyber Kill Chain",
+      "blocks": [
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98"
+      ],
+      "anchor_blocks": [
+        "89"
+      ]
+    }
+  ],
+  "resources": []
+}

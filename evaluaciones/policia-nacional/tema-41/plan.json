@@ -1,0 +1,591 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 41,
+  "topic_title": "Ciberdelincuencia y agentes de la Amenaza: Botnet; Business E-mail Compromise; Cartas nigerianas; Cryptojacking; Denegación de servicio; Ingeniería social; Inyección SQL; Malware; Pharming; Phishing; Spear phishing; Ransomware; Skimming; Spoofing; Spyware; Troyano; XSS; Zero-day. Cibercriminales. Crimen as Service. Hacktivistas. Insider threat. APTs. Cyber Kill Chain.",
+  "id_prefix": "PN-T41",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-41/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-41/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 41"
+      },
+      {
+        "number": 2,
+        "title": "Ciberdelincuencia"
+      },
+      {
+        "number": 3,
+        "title": "Delitos ciberdependientes y cibermediados"
+      },
+      {
+        "number": 4,
+        "title": "Confidencialidad, integridad y disponibilidad"
+      },
+      {
+        "number": 5,
+        "title": "Amenaza, vulnerabilidad y riesgo"
+      },
+      {
+        "number": 6,
+        "title": "Exploit, vector y carga útil"
+      },
+      {
+        "number": 7,
+        "title": "Evento, alerta e incidente"
+      },
+      {
+        "number": 8,
+        "title": "Indicadores y TTP"
+      },
+      {
+        "number": 9,
+        "title": "Concepto de botnet"
+      },
+      {
+        "number": 10,
+        "title": "Bot, zombi y operador"
+      },
+      {
+        "number": 11,
+        "title": "Reclutamiento de una botnet"
+      },
+      {
+        "number": 12,
+        "title": "Mando y control de botnets"
+      },
+      {
+        "number": 13,
+        "title": "Funciones maliciosas de una botnet"
+      },
+      {
+        "number": 14,
+        "title": "Denegación de servicio"
+      },
+      {
+        "number": 15,
+        "title": "DoS y DDoS"
+      },
+      {
+        "number": 16,
+        "title": "Ataques volumétricos, de protocolo y de aplicación"
+      },
+      {
+        "number": 17,
+        "title": "Reflexión y amplificación"
+      },
+      {
+        "number": 18,
+        "title": "Cryptojacking"
+      },
+      {
+        "number": 19,
+        "title": "Detección e impacto del cryptojacking"
+      },
+      {
+        "number": 20,
+        "title": "Ingeniería social"
+      },
+      {
+        "number": 21,
+        "title": "Palancas de persuasión"
+      },
+      {
+        "number": 22,
+        "title": "Pretexto, cebo y quid pro quo"
+      },
+      {
+        "number": 23,
+        "title": "Phishing, smishing y vishing"
+      },
+      {
+        "number": 24,
+        "title": "Phishing"
+      },
+      {
+        "number": 25,
+        "title": "Spear phishing"
+      },
+      {
+        "number": 26,
+        "title": "Whaling"
+      },
+      {
+        "number": 27,
+        "title": "Business Email Compromise"
+      },
+      {
+        "number": 28,
+        "title": "Compromiso real y suplantación en BEC"
+      },
+      {
+        "number": 29,
+        "title": "Fraude de factura y cambio de cuenta"
+      },
+      {
+        "number": 30,
+        "title": "Carta nigeriana o fraude 419"
+      },
+      {
+        "number": 31,
+        "title": "Pharming"
+      },
+      {
+        "number": 32,
+        "title": "Envenenamiento DNS y archivo hosts"
+      },
+      {
+        "number": 33,
+        "title": "Spoofing"
+      },
+      {
+        "number": 34,
+        "title": "Email spoofing"
+      },
+      {
+        "number": 35,
+        "title": "IP spoofing"
+      },
+      {
+        "number": 36,
+        "title": "DNS y web spoofing"
+      },
+      {
+        "number": 37,
+        "title": "Verificación fuera de banda"
+      },
+      {
+        "number": 38,
+        "title": "Malware"
+      },
+      {
+        "number": 39,
+        "title": "Clasificar malware"
+      },
+      {
+        "number": 40,
+        "title": "Virus informático"
+      },
+      {
+        "number": 41,
+        "title": "Gusano"
+      },
+      {
+        "number": 42,
+        "title": "Troyano"
+      },
+      {
+        "number": 43,
+        "title": "RAT y backdoor"
+      },
+      {
+        "number": 44,
+        "title": "Spyware"
+      },
+      {
+        "number": 45,
+        "title": "Keylogger e infostealer"
+      },
+      {
+        "number": 46,
+        "title": "Ransomware"
+      },
+      {
+        "number": 47,
+        "title": "Locker y crypto-ransomware"
+      },
+      {
+        "number": 48,
+        "title": "Doble y múltiple extorsión"
+      },
+      {
+        "number": 49,
+        "title": "Vectores de infección"
+      },
+      {
+        "number": 50,
+        "title": "Persistencia y escalada de privilegios"
+      },
+      {
+        "number": 51,
+        "title": "Comando y control"
+      },
+      {
+        "number": 52,
+        "title": "Indicadores de malware"
+      },
+      {
+        "number": 53,
+        "title": "Prevención y recuperación de malware"
+      },
+      {
+        "number": 54,
+        "title": "Inyección"
+      },
+      {
+        "number": 55,
+        "title": "Inyección SQL"
+      },
+      {
+        "number": 56,
+        "title": "Causa de SQLi"
+      },
+      {
+        "number": 57,
+        "title": "Impactos de SQLi"
+      },
+      {
+        "number": 58,
+        "title": "SQLi visible, ciega y basada en tiempo"
+      },
+      {
+        "number": 59,
+        "title": "Consultas parametrizadas"
+      },
+      {
+        "number": 60,
+        "title": "Mínimo privilegio y validación en SQLi"
+      },
+      {
+        "number": 61,
+        "title": "Cross-Site Scripting"
+      },
+      {
+        "number": 62,
+        "title": "XSS reflejado"
+      },
+      {
+        "number": 63,
+        "title": "XSS almacenado"
+      },
+      {
+        "number": 64,
+        "title": "XSS basado en DOM"
+      },
+      {
+        "number": 65,
+        "title": "Impacto de XSS"
+      },
+      {
+        "number": 66,
+        "title": "Prevención de XSS"
+      },
+      {
+        "number": 67,
+        "title": "Vulnerabilidad y exploit"
+      },
+      {
+        "number": 68,
+        "title": "Zero-day"
+      },
+      {
+        "number": 69,
+        "title": "Divulgación, parche y ventana de exposición"
+      },
+      {
+        "number": 70,
+        "title": "Skimming"
+      },
+      {
+        "number": 71,
+        "title": "Dispositivos de skimming"
+      },
+      {
+        "number": 72,
+        "title": "E-skimming"
+      },
+      {
+        "number": 73,
+        "title": "Scripts de terceros y cadena de suministro"
+      },
+      {
+        "number": 74,
+        "title": "Skimming frente a phishing"
+      },
+      {
+        "number": 75,
+        "title": "Detección y prevención del skimming"
+      },
+      {
+        "number": 76,
+        "title": "Cibercriminales"
+      },
+      {
+        "number": 77,
+        "title": "Motivaciones y capacidades"
+      },
+      {
+        "number": 78,
+        "title": "Ciberdelincuencia organizada"
+      },
+      {
+        "number": 79,
+        "title": "Crime as a Service"
+      },
+      {
+        "number": 80,
+        "title": "Malware, ransomware e infraestructura como servicio"
+      },
+      {
+        "number": 81,
+        "title": "Initial Access Brokers"
+      },
+      {
+        "number": 82,
+        "title": "Datos robados y monetización"
+      },
+      {
+        "number": 83,
+        "title": "Afiliados, mulas y blanqueo"
+      },
+      {
+        "number": 84,
+        "title": "Hacktivistas"
+      },
+      {
+        "number": 85,
+        "title": "Insider threat"
+      },
+      {
+        "number": 86,
+        "title": "Insider malicioso, negligente o comprometido"
+      },
+      {
+        "number": 87,
+        "title": "Advanced Persistent Threat"
+      },
+      {
+        "number": 88,
+        "title": "TTP y atribución de APT"
+      },
+      {
+        "number": 89,
+        "title": "Cyber Kill Chain"
+      },
+      {
+        "number": 90,
+        "title": "Reconocimiento"
+      },
+      {
+        "number": 91,
+        "title": "Weaponization"
+      },
+      {
+        "number": 92,
+        "title": "Delivery"
+      },
+      {
+        "number": 93,
+        "title": "Explotación"
+      },
+      {
+        "number": 94,
+        "title": "Instalación"
+      },
+      {
+        "number": 95,
+        "title": "Command and Control"
+      },
+      {
+        "number": 96,
+        "title": "Actions on Objectives"
+      },
+      {
+        "number": 97,
+        "title": "Romper la cadena"
+      },
+      {
+        "number": 98,
+        "title": "Límites y complemento con ATT&CK"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos de ciberdelincuencia y amenaza",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Botnets, denegación de servicio y cryptojacking",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Ingeniería social, fraudes y suplantación",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Malware, spyware, troyanos y ransomware",
+        "blocks": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Inyección SQL, XSS y vulnerabilidades zero-day",
+        "blocks": [
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Skimming y e-skimming",
+        "blocks": [
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Cibercriminales y ecosistema de amenaza",
+        "blocks": [
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Cyber Kill Chain",
+        "blocks": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

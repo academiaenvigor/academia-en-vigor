@@ -633,6 +633,22 @@
       "traceable": true
     },
     {
+      "id": "CISA-MPR-T41",
+      "title": "CISA · Malware, Phishing and Ransomware",
+      "url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/malware-phishing-and-ransomware",
+      "scope": "malware, phishing, spear phishing y ransomware",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CISA-RANSOMWARE-T41",
+      "title": "CISA · StopRansomware Guide",
+      "url": "https://www.cisa.gov/stopransomware/ransomware-guide",
+      "scope": "ransomware, extorsión, prevención, respuesta y recuperación",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CLARKE-1997-T33",
       "title": "Ronald V. Clarke, Situational Crime Prevention",
       "url": "https://popcenter.asu.edu/sites/default/files/situational_crime_prevention_successful_case_studies.pdf",
@@ -842,6 +858,14 @@
     {
       "id": "CONVOCATORIA-PN-2026-T40",
       "title": "Convocatoria de Escala Básica 2026 · Tema 40",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial completo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CONVOCATORIA-PN-2026-T41",
+      "title": "Convocatoria de Escala Básica 2026 · Tema 41",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
       "scope": "epígrafe oficial completo",
       "official": true,
@@ -1118,6 +1142,14 @@
       "traceable": true
     },
     {
+      "id": "ENISA-TL-2025-T41",
+      "title": "ENISA Threat Landscape 2025",
+      "url": "https://www.enisa.europa.eu/sites/default/files/2026-01/ENISA%20Threat%20Landscape%202025_v1.2.pdf",
+      "scope": "amenazas, phishing, DDoS, malware, ransomware y actores",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EOMF-T21",
       "title": "Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
       "boe_id": "BOE-A-1982-837",
@@ -1201,6 +1233,14 @@
       "traceable": true
     },
     {
+      "id": "EUROPOL-CAAS-T41",
+      "title": "Europol · Cyber-attacks: the apex of crime-as-a-service",
+      "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/Spotlight%20Report%20-%20Cyber-attacks%20the%20apex%20of%20crime-as-a-service.pdf",
+      "scope": "Crime as a Service, afiliados e intermediarios",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EUROPOL-DARKNET-2017-T40",
       "title": "Europol y EMCDDA · Drugs and the darknet",
       "url": "https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf",
@@ -1217,11 +1257,35 @@
       "traceable": true
     },
     {
+      "id": "EUROPOL-IOCTA-2025-T41",
+      "title": "Europol IOCTA 2025 · Steal, deal and repeat",
+      "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/Steal-deal-repeat-IOCTA_2025.pdf",
+      "scope": "ciberdelincuencia organizada, datos robados y servicios criminales",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EYSENCK-1964-T33",
       "title": "Hans J. Eysenck, Crime and Personality",
       "url": "https://archive.org/details/crimepersonality0000eyse",
       "scope": "personalidad, condicionamiento y conducta antisocial",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "FBI-IC3-2025-T41",
+      "title": "FBI IC3 · Internet Crime Report 2025",
+      "url": "https://www.fbi.gov/file-repository/2025_ic3report.pdf",
+      "scope": "definición operativa de BEC y fraudes digitales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "FBI-SCAMS-T41",
+      "title": "FBI · Common Frauds and Scams",
+      "url": "https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams",
+      "scope": "BEC, fraude de pago anticipado y carta 419",
+      "official": true,
       "traceable": true
     },
     {
@@ -1503,6 +1567,14 @@
       "title": "FMI: Globalization, A Brief Overview",
       "url": "https://www.imf.org/external/np/exr/ib/2008/053008.htm",
       "scope": "integración financiera, oportunidades y riesgos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INCIBE-BOTNET-T41",
+      "title": "INCIBE · Botnet",
+      "url": "https://www.incibe.es/aprendeciberseguridad/botnet",
+      "scope": "redes zombi, infección, control y usos ilícitos",
       "official": true,
       "traceable": true
     },
@@ -2375,6 +2447,14 @@
       "traceable": true
     },
     {
+      "id": "LOCKHEED-KILLCHAIN-T41",
+      "title": "Lockheed Martin · Cyber Kill Chain",
+      "url": "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html",
+      "scope": "modelo y siete fases de la intrusión",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LODP",
       "title": "Ley Orgánica 3/1981, del Defensor del Pueblo",
       "boe_id": "BOE-A-1981-10325",
@@ -2563,6 +2643,22 @@
       "traceable": true
     },
     {
+      "id": "MITRE-APT-T41",
+      "title": "MITRE · Threat Assessment and Remediation Analysis",
+      "url": "https://www.mitre.org/sites/default/files/2021-10/pr-11-4982-tara-methodology-and-description.pdf",
+      "scope": "Advanced Persistent Threat",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "MITRE-ATTACK-T41",
+      "title": "MITRE ATT&CK",
+      "url": "https://attack.mitre.org/",
+      "scope": "tácticas, técnicas, grupos y comportamiento observado",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "MS-DOS-SOURCE-T38",
       "title": "Microsoft: código fuente histórico de MS-DOS 1.25, 2.0 y 4.0",
       "url": "https://github.com/microsoft/MS-DOS",
@@ -2611,10 +2707,34 @@
       "traceable": true
     },
     {
+      "id": "NIST-IR7298-T41",
+      "title": "NIST IR 7298 Rev. 2 · Glossary of Key Information Security Terms",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ir/2013/nist.ir.7298r2.pdf",
+      "scope": "malware, amenaza interna, vulnerabilidad y explotación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "NIST-SP800-150-T41",
+      "title": "NIST SP 800-150 · Guide to Cyber Threat Information Sharing",
+      "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-150.pdf",
+      "scope": "amenaza, actor, indicadores y TTP",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "NIST-SP800-41R1-T39",
       "title": "NIST SP 800-41 Rev. 1 · Guidelines on Firewalls and Firewall Policy",
       "url": "https://csrc.nist.gov/pubs/sp/800/41/r1/final",
       "scope": "cortafuegos, filtrado, estado, proxy y política",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "NIST-ZERODAY-T41",
+      "title": "NIST SP 800-30 Rev. 1 · Zero-day attacks",
+      "url": "https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf",
+      "scope": "vulnerabilidades y ataques zero-day",
       "official": true,
       "traceable": true
     },
@@ -2808,6 +2928,30 @@
       "traceable": true
     },
     {
+      "id": "OWASP-INJECTION-T41",
+      "title": "OWASP Top 10 · Injection",
+      "url": "https://owasp.org/Top10/2021/A03_2021-Injection/",
+      "scope": "inyección SQL, causa, impacto y defensas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OWASP-SQLI-T41",
+      "title": "OWASP · SQL Injection Prevention Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html",
+      "scope": "consultas parametrizadas, validación y mínimo privilegio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OWASP-XSS-T41",
+      "title": "OWASP · Cross Site Scripting",
+      "url": "https://owasp.org/www-community/attacks/xss/",
+      "scope": "XSS reflejado, almacenado, DOM, efectos y prevención",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "PARK-BURGESS-1925-T32",
       "title": "Robert E. Park, Ernest W. Burgess y R. D. McKenzie, The City",
       "url": "https://archive.org/details/citysuggestionsf00park",
@@ -2821,6 +2965,22 @@
       "url": "https://archive.org/details/citysuggestionsf00park",
       "scope": "ecología urbana y zonas concéntricas",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "PCI-ESKIMMING-T41",
+      "title": "PCI SSC · Payment Page Security and Preventing E-Skimming",
+      "url": "https://blog.pcisecuritystandards.org/new-information-supplement-payment-page-security-and-preventing-e-skimming",
+      "scope": "scripts de pago, manipulación y e-skimming",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "PCI-SKIMMING-T41",
+      "title": "PCI SSC · Skimming Resource Guide",
+      "url": "https://www.pcisecuritystandards.org/documents/PCI_SSC_Skimming_Resource_Guide_v05.pdf",
+      "scope": "captura no autorizada de datos de pago",
+      "official": true,
       "traceable": true
     },
     {
@@ -3608,6 +3768,14 @@
       "title": "RFC 3022 · Traditional IP Network Address Translator",
       "url": "https://datatracker.ietf.org/doc/html/rfc3022",
       "scope": "NAT y traducción de puertos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC3833-DNS-T41",
+      "title": "IETF RFC 3833 · Threat Analysis of the DNS",
+      "url": "https://datatracker.ietf.org/doc/html/rfc3833",
+      "scope": "suplantación y corrupción de respuestas DNS",
       "official": true,
       "traceable": true
     },

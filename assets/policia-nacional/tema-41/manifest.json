@@ -1,0 +1,3155 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-41",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 98,
+    "integrated": 0,
+    "planned": 98
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T41-V01",
+      "file": "t41-01-alcance-oficial-del-tema-41.webp",
+      "title": "Alcance oficial del Tema 41",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El programa reúne modalidades técnicas, fraudes, malware, actores y un modelo de fases.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V02",
+      "file": "t41-02-ciberdelincuencia.webp",
+      "title": "Ciberdelincuencia",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciberdelincuencia comprende conductas ilícitas en las que sistemas, redes o datos son objetivo, instrumento o entorno relevante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V03",
+      "file": "t41-03-delitos-ciberdependientes-y-cibermediados.webp",
+      "title": "Delitos ciberdependientes y cibermediados",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un delito ciberdependiente no puede ejecutarse sin sistemas digitales, como ciertas intrusiones o ataques a disponibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V04",
+      "file": "t41-04-confidencialidad-integridad-y-disponibilidad.webp",
+      "title": "Confidencialidad, integridad y disponibilidad",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La confidencialidad evita la divulgación no autorizada de información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V05",
+      "file": "t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp",
+      "title": "Amenaza, vulnerabilidad y riesgo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una amenaza es una circunstancia o fuente con potencial de causar daño.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V06",
+      "file": "t41-06-exploit-vector-y-carga-util.webp",
+      "title": "Exploit, vector y carga útil",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un exploit es código o técnica que aprovecha una vulnerabilidad para producir un efecto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V07",
+      "file": "t41-07-evento-alerta-e-incidente.webp",
+      "title": "Evento, alerta e incidente",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un evento es una ocurrencia observable en un sistema o red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V08",
+      "file": "t41-08-indicadores-y-ttp.webp",
+      "title": "Indicadores y TTP",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un indicador es un artefacto u observable asociado a actividad potencialmente maliciosa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V09",
+      "file": "t41-09-concepto-de-botnet.webp",
+      "title": "Concepto de botnet",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una botnet es un conjunto de dispositivos comprometidos controlados para ejecutar órdenes coordinadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V10",
+      "file": "t41-il-10-bot-zombi-y-operador.webp",
+      "title": "Bot, zombi y operador",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada dispositivo controlado se denomina bot o zombi.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V11",
+      "file": "t41-11-reclutamiento-de-una-botnet.webp",
+      "title": "Reclutamiento de una botnet",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El reclutamiento puede aprovechar phishing, credenciales débiles, software vulnerable o servicios expuestos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V12",
+      "file": "t41-12-mando-y-control-de-botnets.webp",
+      "title": "Mando y control de botnets",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mando y control permite distribuir órdenes y recibir resultados o estado de los bots.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V13",
+      "file": "t41-13-funciones-maliciosas-de-una-botnet.webp",
+      "title": "Funciones maliciosas de una botnet",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una botnet puede enviar spam, distribuir malware, robar datos o generar tráfico fraudulento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V14",
+      "file": "t41-14-denegacion-de-servicio.webp",
+      "title": "Denegación de servicio",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un ataque DoS busca degradar o impedir el acceso legítimo a un servicio o recurso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V15",
+      "file": "t41-il-15-dos-y-ddos.webp",
+      "title": "DoS y DDoS",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DDoS distribuye el tráfico o las solicitudes entre múltiples fuentes o nodos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V16",
+      "file": "t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp",
+      "title": "Ataques volumétricos, de protocolo y de aplicación",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los ataques volumétricos buscan consumir capacidad de red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V17",
+      "file": "t41-17-reflexion-y-amplificacion.webp",
+      "title": "Reflexión y amplificación",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En reflexión, el atacante provoca que terceros envíen respuestas a la víctima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V18",
+      "file": "t41-18-cryptojacking.webp",
+      "title": "Cryptojacking",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cryptojacking es el uso no autorizado de recursos ajenos para realizar minería de criptoactivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V19",
+      "file": "t41-19-deteccion-e-impacto-del-cryptojacking.webp",
+      "title": "Detección e impacto del cryptojacking",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Uso elevado e inexplicado de CPU o GPU puede ser un indicador, no una prueba aislada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V20",
+      "file": "t41-il-20-ingenieria-social.webp",
+      "title": "Ingeniería social",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ingeniería social manipula a personas para que revelen información o ejecuten acciones inseguras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V21",
+      "file": "t41-21-palancas-de-persuasion.webp",
+      "title": "Palancas de persuasión",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los atacantes usan urgencia para reducir la reflexión y la verificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V22",
+      "file": "t41-22-pretexto-cebo-y-quid-pro-quo.webp",
+      "title": "Pretexto, cebo y quid pro quo",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El pretexting construye una historia o identidad para justificar la solicitud.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V23",
+      "file": "t41-23-phishing-smishing-y-vishing.webp",
+      "title": "Phishing, smishing y vishing",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Phishing suele emplear mensajes digitales para inducir entrega de datos o ejecución de acciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V24",
+      "file": "t41-24-phishing.webp",
+      "title": "Phishing",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Phishing suplanta o imita una entidad para inducir clics, credenciales, pagos o ejecución de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V25",
+      "file": "t41-il-25-spear-phishing.webp",
+      "title": "Spear phishing",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spear phishing es phishing dirigido a una persona o grupo concreto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V26",
+      "file": "t41-26-whaling.webp",
+      "title": "Whaling",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Whaling es una variante dirigida a ejecutivos u otros objetivos de alto valor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V27",
+      "file": "t41-27-business-email-compromise.webp",
+      "title": "Business Email Compromise",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: BEC es un fraude que manipula comunicaciones empresariales o profesionales para obtener pagos o información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V28",
+      "file": "t41-28-compromiso-real-y-suplantacion-en-bec.webp",
+      "title": "Compromiso real y suplantación en BEC",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una cuenta comprometida permite leer hilos, reglas y contactos reales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V29",
+      "file": "t41-29-fraude-de-factura-y-cambio-de-cuenta.webp",
+      "title": "Fraude de factura y cambio de cuenta",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El atacante puede insertar nuevas instrucciones bancarias en una operación real.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V30",
+      "file": "t41-il-30-carta-nigeriana-o-fraude-419.webp",
+      "title": "Carta nigeriana o fraude 419",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El fraude 419 promete una ganancia, herencia o fondos a cambio de pagos o datos previos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V31",
+      "file": "t41-31-pharming.webp",
+      "title": "Pharming",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pharming redirige al usuario hacia un destino falso alterando resolución o configuración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V32",
+      "file": "t41-32-envenenamiento-dns-y-archivo-hosts.webp",
+      "title": "Envenenamiento DNS y archivo hosts",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una respuesta DNS falsa puede asociar un nombre legítimo con una dirección controlada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V33",
+      "file": "t41-33-spoofing.webp",
+      "title": "Spoofing",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spoofing consiste en falsificar o aparentar una identidad, origen o dato de comunicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V34",
+      "file": "t41-34-email-spoofing.webp",
+      "title": "Email spoofing",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Email spoofing altera o fabrica datos para que un mensaje parezca proceder de otro remitente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V35",
+      "file": "t41-il-35-ip-spoofing.webp",
+      "title": "IP spoofing",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: IP spoofing falsifica la dirección de origen de paquetes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V36",
+      "file": "t41-36-dns-y-web-spoofing.webp",
+      "title": "DNS y web spoofing",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DNS spoofing busca que se acepte una asociación de nombre y dirección falsa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V37",
+      "file": "t41-37-verificacion-fuera-de-banda.webp",
+      "title": "Verificación fuera de banda",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cambios de pago, credenciales o datos sensibles deben verificarse por un canal conocido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V38",
+      "file": "t41-38-malware.webp",
+      "title": "Malware",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Malware es software, firmware o código diseñado para realizar acciones maliciosas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V39",
+      "file": "t41-39-clasificar-malware.webp",
+      "title": "Clasificar malware",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El malware puede clasificarse por propagación, forma de entrada, persistencia, carga o finalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V40",
+      "file": "t41-il-40-virus-informatico.webp",
+      "title": "Virus informático",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un virus se inserta o vincula a archivos, programas o áreas de arranque para replicarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V41",
+      "file": "t41-41-gusano.webp",
+      "title": "Gusano",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un gusano se replica y propaga entre sistemas o redes sin depender de infectar un archivo huésped.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V42",
+      "file": "t41-42-troyano.webp",
+      "title": "Troyano",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un troyano se presenta como legítimo o útil para inducir su instalación o ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V43",
+      "file": "t41-43-rat-y-backdoor.webp",
+      "title": "RAT y backdoor",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un RAT proporciona capacidades de administración remota usadas maliciosamente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V44",
+      "file": "t41-44-spyware.webp",
+      "title": "Spyware",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spyware recopila información o actividad sin conocimiento o consentimiento adecuados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V45",
+      "file": "t41-il-45-keylogger-e-infostealer.webp",
+      "title": "Keylogger e infostealer",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un keylogger registra pulsaciones o entradas para obtener información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V46",
+      "file": "t41-46-ransomware.webp",
+      "title": "Ransomware",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ransomware es malware que cifra datos o bloquea sistemas para exigir un rescate.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V47",
+      "file": "t41-47-locker-y-crypto-ransomware.webp",
+      "title": "Locker y crypto-ransomware",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Locker ransomware impide usar el dispositivo o la sesión sin cifrar necesariamente todos los archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V48",
+      "file": "t41-48-doble-y-multiple-extorsion.webp",
+      "title": "Doble y múltiple extorsión",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La doble extorsión añade amenaza de divulgar datos al cifrado o bloqueo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V49",
+      "file": "t41-49-vectores-de-infeccion.webp",
+      "title": "Vectores de infección",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El malware puede llegar por phishing, explotación, credenciales comprometidas, descargas o cadena de suministro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V50",
+      "file": "t41-il-50-persistencia-y-escalada-de-privilegios.webp",
+      "title": "Persistencia y escalada de privilegios",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La persistencia busca conservar acceso tras reinicio, cierre de sesión o cambios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V51",
+      "file": "t41-51-comando-y-control.webp",
+      "title": "Comando y control",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El C2 permite al adversario enviar órdenes y recibir datos de sistemas comprometidos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V52",
+      "file": "t41-52-indicadores-de-malware.webp",
+      "title": "Indicadores de malware",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Hashes, dominios, procesos, claves, conexiones y comportamientos pueden actuar como indicadores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V53",
+      "file": "t41-53-prevencion-y-recuperacion-de-malware.webp",
+      "title": "Prevención y recuperación de malware",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Parches, autenticación resistente, mínimo privilegio y segmentación reducen oportunidades e impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V54",
+      "file": "t41-54-inyeccion.webp",
+      "title": "Inyección",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una inyección ocurre cuando datos no confiables alteran la estructura o instrucciones enviadas a un intérprete.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V55",
+      "file": "t41-il-55-inyeccion-sql.webp",
+      "title": "Inyección SQL",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: SQL injection permite que una entrada controlada modifique el significado de una consulta SQL.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V56",
+      "file": "t41-56-causa-de-sqli.webp",
+      "title": "Causa de SQLi",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Concatenar entrada no confiable con código SQL crea riesgo de alterar la consulta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V57",
+      "file": "t41-57-impactos-de-sqli.webp",
+      "title": "Impactos de SQLi",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una SQLi puede eludir controles lógicos o leer registros no autorizados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V58",
+      "file": "t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp",
+      "title": "SQLi visible, ciega y basada en tiempo",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La inyección visible devuelve datos o errores útiles en la respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V59",
+      "file": "t41-59-consultas-parametrizadas.webp",
+      "title": "Consultas parametrizadas",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las consultas parametrizadas separan la estructura SQL de los valores aportados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V60",
+      "file": "t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp",
+      "title": "Mínimo privilegio y validación en SQLi",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La cuenta de base debe tener solo los permisos necesarios para la función.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V61",
+      "file": "t41-61-cross-site-scripting.webp",
+      "title": "Cross-Site Scripting",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: XSS permite que contenido controlado por el atacante se ejecute en el navegador de otra persona.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V62",
+      "file": "t41-62-xss-reflejado.webp",
+      "title": "XSS reflejado",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En XSS reflejado, la carga llega en una solicitud y reaparece en la respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V63",
+      "file": "t41-63-xss-almacenado.webp",
+      "title": "XSS almacenado",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En XSS almacenado, la aplicación guarda la carga y la entrega posteriormente a usuarios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V64",
+      "file": "t41-64-xss-basado-en-dom.webp",
+      "title": "XSS basado en DOM",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DOM XSS surge cuando código del navegador lleva datos controlables a un sumidero peligroso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V65",
+      "file": "t41-il-65-impacto-de-xss.webp",
+      "title": "Impacto de XSS",
+      "type": "ilustracion_simple",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: XSS puede leer datos accesibles al script, modificar contenido o realizar acciones en nombre de la víctima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V66",
+      "file": "t41-66-prevencion-de-xss.webp",
+      "title": "Prevención de XSS",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La salida debe codificarse según contexto HTML, atributo, URL o JavaScript.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V67",
+      "file": "t41-67-vulnerabilidad-y-exploit.webp",
+      "title": "Vulnerabilidad y exploit",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La vulnerabilidad es la debilidad; el exploit es el medio que la aprovecha.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V68",
+      "file": "t41-68-zero-day.webp",
+      "title": "Zero-day",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una vulnerabilidad zero-day es desconocida o no corregida por el proveedor en el momento relevante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V69",
+      "file": "t41-69-divulgacion-parche-y-ventana-de-exposicion.webp",
+      "title": "Divulgación, parche y ventana de exposición",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La publicación de un parche no actualiza automáticamente todos los sistemas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V70",
+      "file": "t41-il-70-skimming.webp",
+      "title": "Skimming",
+      "type": "ilustracion_simple",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Skimming es la captura y transferencia no autorizada de datos de una tarjeta o del entorno de pago.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V71",
+      "file": "t41-71-dispositivos-de-skimming.webp",
+      "title": "Dispositivos de skimming",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un skimmer puede instalarse sobre, dentro o junto al lector legítimo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V72",
+      "file": "t41-72-e-skimming.webp",
+      "title": "E-skimming",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: E-skimming inserta o carga código malicioso en un entorno de comercio electrónico para capturar datos de pago.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V73",
+      "file": "t41-73-scripts-de-terceros-y-cadena-de-suministro.webp",
+      "title": "Scripts de terceros y cadena de suministro",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una página de pago puede ejecutar scripts de varios dominios y proveedores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V74",
+      "file": "t41-74-skimming-frente-a-phishing.webp",
+      "title": "Skimming frente a phishing",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En skimming, los datos se capturan al usar un canal o terminal manipulado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V75",
+      "file": "t41-il-75-deteccion-y-prevencion-del-skimming.webp",
+      "title": "Detección y prevención del skimming",
+      "type": "ilustracion_simple",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Terminales físicos requieren inventario, inspección y control de sustituciones o añadidos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V76",
+      "file": "t41-76-cibercriminales.webp",
+      "title": "Cibercriminales",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cibercriminal es quien utiliza capacidades digitales para cometer, facilitar o monetizar delitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V77",
+      "file": "t41-77-motivaciones-y-capacidades.webp",
+      "title": "Motivaciones y capacidades",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los actores pueden buscar beneficio, espionaje, coerción, sabotaje, notoriedad o causa ideológica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V78",
+      "file": "t41-78-ciberdelincuencia-organizada.webp",
+      "title": "Ciberdelincuencia organizada",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ecosistema criminal separa desarrollo, acceso inicial, infraestructura, fraude, cobro y blanqueo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V79",
+      "file": "t41-79-crime-as-a-service.webp",
+      "title": "Crime as a Service",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Crime as a Service ofrece herramientas, accesos, infraestructura o conocimientos criminales a clientes o afiliados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V80",
+      "file": "t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp",
+      "title": "Malware, ransomware e infraestructura como servicio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Malware as a Service proporciona código, paneles, actualizaciones o soporte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V81",
+      "file": "t41-81-initial-access-brokers.webp",
+      "title": "Initial Access Brokers",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un intermediario de acceso inicial compromete organizaciones y vende o transfiere ese acceso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V82",
+      "file": "t41-82-datos-robados-y-monetizacion.webp",
+      "title": "Datos robados y monetización",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Credenciales, cookies, documentos y datos personales pueden venderse o reutilizarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V83",
+      "file": "t41-83-afiliados-mulas-y-blanqueo.webp",
+      "title": "Afiliados, mulas y blanqueo",
+      "type": "infografia",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los afiliados pueden aportar acceso y operación a cambio de parte del rescate o beneficio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V84",
+      "file": "t41-84-hacktivistas.webp",
+      "title": "Hacktivistas",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El hacktivismo usa acciones digitales para promover, protestar o imponer una causa política o social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V85",
+      "file": "t41-il-85-insider-threat.webp",
+      "title": "Insider threat",
+      "type": "ilustracion_simple",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Insider threat procede de una persona con acceso autorizado que puede causar daño a sistemas o información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V86",
+      "file": "t41-86-insider-malicioso-negligente-o-comprometido.webp",
+      "title": "Insider malicioso, negligente o comprometido",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El insider malicioso abusa deliberadamente de acceso legítimo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V87",
+      "file": "t41-87-advanced-persistent-threat.webp",
+      "title": "Advanced Persistent Threat",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una APT es un adversario con experiencia y recursos capaz de mantener campañas prolongadas y multivector.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V88",
+      "file": "t41-88-ttp-y-atribucion-de-apt.webp",
+      "title": "TTP y atribución de APT",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ATT&CK organiza tácticas y técnicas observadas en campañas y grupos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V89",
+      "file": "t41-89-cyber-kill-chain.webp",
+      "title": "Cyber Kill Chain",
+      "type": "infografia",
+      "placement": "bloque-89",
+      "status": "planned",
+      "block": 89,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cyber Kill Chain modela una intrusión mediante siete fases para identificar oportunidades defensivas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V90",
+      "file": "t41-il-90-reconocimiento.webp",
+      "title": "Reconocimiento",
+      "type": "ilustracion_simple",
+      "placement": "bloque-90",
+      "status": "planned",
+      "block": 90,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En reconocimiento, el adversario recopila información sobre personas, tecnología, servicios y relaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V91",
+      "file": "t41-91-weaponization.webp",
+      "title": "Weaponization",
+      "type": "infografia",
+      "placement": "bloque-91",
+      "status": "planned",
+      "block": 91,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En weaponization se combina una carga con un medio de explotación o entrega.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V92",
+      "file": "t41-92-delivery.webp",
+      "title": "Delivery",
+      "type": "infografia",
+      "placement": "bloque-92",
+      "status": "planned",
+      "block": 92,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Delivery transmite el artefacto o vector al entorno objetivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V93",
+      "file": "t41-93-explotacion.webp",
+      "title": "Explotación",
+      "type": "infografia",
+      "placement": "bloque-93",
+      "status": "planned",
+      "block": 93,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En explotación, código o acción aprovecha una vulnerabilidad o comportamiento para obtener ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V94",
+      "file": "t41-94-instalacion.webp",
+      "title": "Instalación",
+      "type": "infografia",
+      "placement": "bloque-94",
+      "status": "planned",
+      "block": 94,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En instalación, el adversario coloca malware, persistencia o componentes necesarios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V95",
+      "file": "t41-il-95-command-and-control.webp",
+      "title": "Command and Control",
+      "type": "ilustracion_simple",
+      "placement": "bloque-95",
+      "status": "planned",
+      "block": 95,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En C2, el sistema comprometido establece o mantiene comunicación con infraestructura adversaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V96",
+      "file": "t41-96-actions-on-objectives.webp",
+      "title": "Actions on Objectives",
+      "type": "infografia",
+      "placement": "bloque-96",
+      "status": "planned",
+      "block": 96,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fase final ejecuta el objetivo: espionaje, fraude, cifrado, sabotaje, movimiento o exfiltración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V97",
+      "file": "t41-97-romper-la-cadena.webp",
+      "title": "Romper la cadena",
+      "type": "infografia",
+      "placement": "bloque-97",
+      "status": "planned",
+      "block": 97,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada fase ofrece oportunidades de prevención, detección, interrupción o respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V98",
+      "file": "t41-98-limites-y-complemento-con-att-ck.webp",
+      "title": "Límites y complemento con ATT&CK",
+      "type": "infografia",
+      "placement": "bloque-98",
+      "status": "planned",
+      "block": 98,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Kill Chain ofrece una secuencia de alto nivel orientada a intrusiones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T41-V01",
+      "file": "t41-01-alcance-oficial-del-tema-41.webp",
+      "title": "Alcance oficial del Tema 41",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El programa reúne modalidades técnicas, fraudes, malware, actores y un modelo de fases.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V02",
+      "file": "t41-02-ciberdelincuencia.webp",
+      "title": "Ciberdelincuencia",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciberdelincuencia comprende conductas ilícitas en las que sistemas, redes o datos son objetivo, instrumento o entorno relevante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V03",
+      "file": "t41-03-delitos-ciberdependientes-y-cibermediados.webp",
+      "title": "Delitos ciberdependientes y cibermediados",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un delito ciberdependiente no puede ejecutarse sin sistemas digitales, como ciertas intrusiones o ataques a disponibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V04",
+      "file": "t41-04-confidencialidad-integridad-y-disponibilidad.webp",
+      "title": "Confidencialidad, integridad y disponibilidad",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La confidencialidad evita la divulgación no autorizada de información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V05",
+      "file": "t41-il-05-amenaza-vulnerabilidad-y-riesgo.webp",
+      "title": "Amenaza, vulnerabilidad y riesgo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una amenaza es una circunstancia o fuente con potencial de causar daño.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V06",
+      "file": "t41-06-exploit-vector-y-carga-util.webp",
+      "title": "Exploit, vector y carga útil",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un exploit es código o técnica que aprovecha una vulnerabilidad para producir un efecto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V07",
+      "file": "t41-07-evento-alerta-e-incidente.webp",
+      "title": "Evento, alerta e incidente",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un evento es una ocurrencia observable en un sistema o red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V08",
+      "file": "t41-08-indicadores-y-ttp.webp",
+      "title": "Indicadores y TTP",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un indicador es un artefacto u observable asociado a actividad potencialmente maliciosa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V09",
+      "file": "t41-09-concepto-de-botnet.webp",
+      "title": "Concepto de botnet",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una botnet es un conjunto de dispositivos comprometidos controlados para ejecutar órdenes coordinadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V10",
+      "file": "t41-il-10-bot-zombi-y-operador.webp",
+      "title": "Bot, zombi y operador",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada dispositivo controlado se denomina bot o zombi.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V11",
+      "file": "t41-11-reclutamiento-de-una-botnet.webp",
+      "title": "Reclutamiento de una botnet",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El reclutamiento puede aprovechar phishing, credenciales débiles, software vulnerable o servicios expuestos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V12",
+      "file": "t41-12-mando-y-control-de-botnets.webp",
+      "title": "Mando y control de botnets",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mando y control permite distribuir órdenes y recibir resultados o estado de los bots.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V13",
+      "file": "t41-13-funciones-maliciosas-de-una-botnet.webp",
+      "title": "Funciones maliciosas de una botnet",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una botnet puede enviar spam, distribuir malware, robar datos o generar tráfico fraudulento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V14",
+      "file": "t41-14-denegacion-de-servicio.webp",
+      "title": "Denegación de servicio",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un ataque DoS busca degradar o impedir el acceso legítimo a un servicio o recurso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V15",
+      "file": "t41-il-15-dos-y-ddos.webp",
+      "title": "DoS y DDoS",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DDoS distribuye el tráfico o las solicitudes entre múltiples fuentes o nodos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V16",
+      "file": "t41-16-ataques-volumetricos-de-protocolo-y-de-aplicacion.webp",
+      "title": "Ataques volumétricos, de protocolo y de aplicación",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los ataques volumétricos buscan consumir capacidad de red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V17",
+      "file": "t41-17-reflexion-y-amplificacion.webp",
+      "title": "Reflexión y amplificación",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En reflexión, el atacante provoca que terceros envíen respuestas a la víctima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V18",
+      "file": "t41-18-cryptojacking.webp",
+      "title": "Cryptojacking",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cryptojacking es el uso no autorizado de recursos ajenos para realizar minería de criptoactivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V19",
+      "file": "t41-19-deteccion-e-impacto-del-cryptojacking.webp",
+      "title": "Detección e impacto del cryptojacking",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Uso elevado e inexplicado de CPU o GPU puede ser un indicador, no una prueba aislada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V20",
+      "file": "t41-il-20-ingenieria-social.webp",
+      "title": "Ingeniería social",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ingeniería social manipula a personas para que revelen información o ejecuten acciones inseguras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V21",
+      "file": "t41-21-palancas-de-persuasion.webp",
+      "title": "Palancas de persuasión",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los atacantes usan urgencia para reducir la reflexión y la verificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V22",
+      "file": "t41-22-pretexto-cebo-y-quid-pro-quo.webp",
+      "title": "Pretexto, cebo y quid pro quo",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El pretexting construye una historia o identidad para justificar la solicitud.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V23",
+      "file": "t41-23-phishing-smishing-y-vishing.webp",
+      "title": "Phishing, smishing y vishing",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Phishing suele emplear mensajes digitales para inducir entrega de datos o ejecución de acciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V24",
+      "file": "t41-24-phishing.webp",
+      "title": "Phishing",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Phishing suplanta o imita una entidad para inducir clics, credenciales, pagos o ejecución de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V25",
+      "file": "t41-il-25-spear-phishing.webp",
+      "title": "Spear phishing",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spear phishing es phishing dirigido a una persona o grupo concreto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V26",
+      "file": "t41-26-whaling.webp",
+      "title": "Whaling",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Whaling es una variante dirigida a ejecutivos u otros objetivos de alto valor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V27",
+      "file": "t41-27-business-email-compromise.webp",
+      "title": "Business Email Compromise",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: BEC es un fraude que manipula comunicaciones empresariales o profesionales para obtener pagos o información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V28",
+      "file": "t41-28-compromiso-real-y-suplantacion-en-bec.webp",
+      "title": "Compromiso real y suplantación en BEC",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una cuenta comprometida permite leer hilos, reglas y contactos reales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V29",
+      "file": "t41-29-fraude-de-factura-y-cambio-de-cuenta.webp",
+      "title": "Fraude de factura y cambio de cuenta",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El atacante puede insertar nuevas instrucciones bancarias en una operación real.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V30",
+      "file": "t41-il-30-carta-nigeriana-o-fraude-419.webp",
+      "title": "Carta nigeriana o fraude 419",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El fraude 419 promete una ganancia, herencia o fondos a cambio de pagos o datos previos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V31",
+      "file": "t41-31-pharming.webp",
+      "title": "Pharming",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pharming redirige al usuario hacia un destino falso alterando resolución o configuración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V32",
+      "file": "t41-32-envenenamiento-dns-y-archivo-hosts.webp",
+      "title": "Envenenamiento DNS y archivo hosts",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una respuesta DNS falsa puede asociar un nombre legítimo con una dirección controlada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V33",
+      "file": "t41-33-spoofing.webp",
+      "title": "Spoofing",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spoofing consiste en falsificar o aparentar una identidad, origen o dato de comunicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V34",
+      "file": "t41-34-email-spoofing.webp",
+      "title": "Email spoofing",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Email spoofing altera o fabrica datos para que un mensaje parezca proceder de otro remitente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V35",
+      "file": "t41-il-35-ip-spoofing.webp",
+      "title": "IP spoofing",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: IP spoofing falsifica la dirección de origen de paquetes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V36",
+      "file": "t41-36-dns-y-web-spoofing.webp",
+      "title": "DNS y web spoofing",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DNS spoofing busca que se acepte una asociación de nombre y dirección falsa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V37",
+      "file": "t41-37-verificacion-fuera-de-banda.webp",
+      "title": "Verificación fuera de banda",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cambios de pago, credenciales o datos sensibles deben verificarse por un canal conocido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V38",
+      "file": "t41-38-malware.webp",
+      "title": "Malware",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Malware es software, firmware o código diseñado para realizar acciones maliciosas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V39",
+      "file": "t41-39-clasificar-malware.webp",
+      "title": "Clasificar malware",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El malware puede clasificarse por propagación, forma de entrada, persistencia, carga o finalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V40",
+      "file": "t41-il-40-virus-informatico.webp",
+      "title": "Virus informático",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un virus se inserta o vincula a archivos, programas o áreas de arranque para replicarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V41",
+      "file": "t41-41-gusano.webp",
+      "title": "Gusano",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un gusano se replica y propaga entre sistemas o redes sin depender de infectar un archivo huésped.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V42",
+      "file": "t41-42-troyano.webp",
+      "title": "Troyano",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un troyano se presenta como legítimo o útil para inducir su instalación o ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V43",
+      "file": "t41-43-rat-y-backdoor.webp",
+      "title": "RAT y backdoor",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un RAT proporciona capacidades de administración remota usadas maliciosamente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V44",
+      "file": "t41-44-spyware.webp",
+      "title": "Spyware",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Spyware recopila información o actividad sin conocimiento o consentimiento adecuados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V45",
+      "file": "t41-il-45-keylogger-e-infostealer.webp",
+      "title": "Keylogger e infostealer",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un keylogger registra pulsaciones o entradas para obtener información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V46",
+      "file": "t41-46-ransomware.webp",
+      "title": "Ransomware",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ransomware es malware que cifra datos o bloquea sistemas para exigir un rescate.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V47",
+      "file": "t41-47-locker-y-crypto-ransomware.webp",
+      "title": "Locker y crypto-ransomware",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Locker ransomware impide usar el dispositivo o la sesión sin cifrar necesariamente todos los archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V48",
+      "file": "t41-48-doble-y-multiple-extorsion.webp",
+      "title": "Doble y múltiple extorsión",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La doble extorsión añade amenaza de divulgar datos al cifrado o bloqueo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V49",
+      "file": "t41-49-vectores-de-infeccion.webp",
+      "title": "Vectores de infección",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El malware puede llegar por phishing, explotación, credenciales comprometidas, descargas o cadena de suministro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V50",
+      "file": "t41-il-50-persistencia-y-escalada-de-privilegios.webp",
+      "title": "Persistencia y escalada de privilegios",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La persistencia busca conservar acceso tras reinicio, cierre de sesión o cambios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V51",
+      "file": "t41-51-comando-y-control.webp",
+      "title": "Comando y control",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El C2 permite al adversario enviar órdenes y recibir datos de sistemas comprometidos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V52",
+      "file": "t41-52-indicadores-de-malware.webp",
+      "title": "Indicadores de malware",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Hashes, dominios, procesos, claves, conexiones y comportamientos pueden actuar como indicadores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V53",
+      "file": "t41-53-prevencion-y-recuperacion-de-malware.webp",
+      "title": "Prevención y recuperación de malware",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Parches, autenticación resistente, mínimo privilegio y segmentación reducen oportunidades e impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V54",
+      "file": "t41-54-inyeccion.webp",
+      "title": "Inyección",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una inyección ocurre cuando datos no confiables alteran la estructura o instrucciones enviadas a un intérprete.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V55",
+      "file": "t41-il-55-inyeccion-sql.webp",
+      "title": "Inyección SQL",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: SQL injection permite que una entrada controlada modifique el significado de una consulta SQL.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V56",
+      "file": "t41-56-causa-de-sqli.webp",
+      "title": "Causa de SQLi",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Concatenar entrada no confiable con código SQL crea riesgo de alterar la consulta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V57",
+      "file": "t41-57-impactos-de-sqli.webp",
+      "title": "Impactos de SQLi",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una SQLi puede eludir controles lógicos o leer registros no autorizados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V58",
+      "file": "t41-58-sqli-visible-ciega-y-basada-en-tiempo.webp",
+      "title": "SQLi visible, ciega y basada en tiempo",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La inyección visible devuelve datos o errores útiles en la respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V59",
+      "file": "t41-59-consultas-parametrizadas.webp",
+      "title": "Consultas parametrizadas",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las consultas parametrizadas separan la estructura SQL de los valores aportados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V60",
+      "file": "t41-il-60-minimo-privilegio-y-validacion-en-sqli.webp",
+      "title": "Mínimo privilegio y validación en SQLi",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La cuenta de base debe tener solo los permisos necesarios para la función.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V61",
+      "file": "t41-61-cross-site-scripting.webp",
+      "title": "Cross-Site Scripting",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: XSS permite que contenido controlado por el atacante se ejecute en el navegador de otra persona.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V62",
+      "file": "t41-62-xss-reflejado.webp",
+      "title": "XSS reflejado",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En XSS reflejado, la carga llega en una solicitud y reaparece en la respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V63",
+      "file": "t41-63-xss-almacenado.webp",
+      "title": "XSS almacenado",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En XSS almacenado, la aplicación guarda la carga y la entrega posteriormente a usuarios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V64",
+      "file": "t41-64-xss-basado-en-dom.webp",
+      "title": "XSS basado en DOM",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: DOM XSS surge cuando código del navegador lleva datos controlables a un sumidero peligroso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V65",
+      "file": "t41-il-65-impacto-de-xss.webp",
+      "title": "Impacto de XSS",
+      "type": "ilustracion_simple",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: XSS puede leer datos accesibles al script, modificar contenido o realizar acciones en nombre de la víctima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V66",
+      "file": "t41-66-prevencion-de-xss.webp",
+      "title": "Prevención de XSS",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La salida debe codificarse según contexto HTML, atributo, URL o JavaScript.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V67",
+      "file": "t41-67-vulnerabilidad-y-exploit.webp",
+      "title": "Vulnerabilidad y exploit",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La vulnerabilidad es la debilidad; el exploit es el medio que la aprovecha.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V68",
+      "file": "t41-68-zero-day.webp",
+      "title": "Zero-day",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una vulnerabilidad zero-day es desconocida o no corregida por el proveedor en el momento relevante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V69",
+      "file": "t41-69-divulgacion-parche-y-ventana-de-exposicion.webp",
+      "title": "Divulgación, parche y ventana de exposición",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La publicación de un parche no actualiza automáticamente todos los sistemas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V70",
+      "file": "t41-il-70-skimming.webp",
+      "title": "Skimming",
+      "type": "ilustracion_simple",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Skimming es la captura y transferencia no autorizada de datos de una tarjeta o del entorno de pago.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V71",
+      "file": "t41-71-dispositivos-de-skimming.webp",
+      "title": "Dispositivos de skimming",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un skimmer puede instalarse sobre, dentro o junto al lector legítimo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V72",
+      "file": "t41-72-e-skimming.webp",
+      "title": "E-skimming",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: E-skimming inserta o carga código malicioso en un entorno de comercio electrónico para capturar datos de pago.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V73",
+      "file": "t41-73-scripts-de-terceros-y-cadena-de-suministro.webp",
+      "title": "Scripts de terceros y cadena de suministro",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una página de pago puede ejecutar scripts de varios dominios y proveedores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V74",
+      "file": "t41-74-skimming-frente-a-phishing.webp",
+      "title": "Skimming frente a phishing",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En skimming, los datos se capturan al usar un canal o terminal manipulado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V75",
+      "file": "t41-il-75-deteccion-y-prevencion-del-skimming.webp",
+      "title": "Detección y prevención del skimming",
+      "type": "ilustracion_simple",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Terminales físicos requieren inventario, inspección y control de sustituciones o añadidos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V76",
+      "file": "t41-76-cibercriminales.webp",
+      "title": "Cibercriminales",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cibercriminal es quien utiliza capacidades digitales para cometer, facilitar o monetizar delitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V77",
+      "file": "t41-77-motivaciones-y-capacidades.webp",
+      "title": "Motivaciones y capacidades",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los actores pueden buscar beneficio, espionaje, coerción, sabotaje, notoriedad o causa ideológica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V78",
+      "file": "t41-78-ciberdelincuencia-organizada.webp",
+      "title": "Ciberdelincuencia organizada",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ecosistema criminal separa desarrollo, acceso inicial, infraestructura, fraude, cobro y blanqueo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V79",
+      "file": "t41-79-crime-as-a-service.webp",
+      "title": "Crime as a Service",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Crime as a Service ofrece herramientas, accesos, infraestructura o conocimientos criminales a clientes o afiliados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V80",
+      "file": "t41-il-80-malware-ransomware-e-infraestructura-como-servicio.webp",
+      "title": "Malware, ransomware e infraestructura como servicio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Malware as a Service proporciona código, paneles, actualizaciones o soporte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V81",
+      "file": "t41-81-initial-access-brokers.webp",
+      "title": "Initial Access Brokers",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un intermediario de acceso inicial compromete organizaciones y vende o transfiere ese acceso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V82",
+      "file": "t41-82-datos-robados-y-monetizacion.webp",
+      "title": "Datos robados y monetización",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Credenciales, cookies, documentos y datos personales pueden venderse o reutilizarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V83",
+      "file": "t41-83-afiliados-mulas-y-blanqueo.webp",
+      "title": "Afiliados, mulas y blanqueo",
+      "type": "infografia",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los afiliados pueden aportar acceso y operación a cambio de parte del rescate o beneficio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V84",
+      "file": "t41-84-hacktivistas.webp",
+      "title": "Hacktivistas",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El hacktivismo usa acciones digitales para promover, protestar o imponer una causa política o social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V85",
+      "file": "t41-il-85-insider-threat.webp",
+      "title": "Insider threat",
+      "type": "ilustracion_simple",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Insider threat procede de una persona con acceso autorizado que puede causar daño a sistemas o información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V86",
+      "file": "t41-86-insider-malicioso-negligente-o-comprometido.webp",
+      "title": "Insider malicioso, negligente o comprometido",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El insider malicioso abusa deliberadamente de acceso legítimo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V87",
+      "file": "t41-87-advanced-persistent-threat.webp",
+      "title": "Advanced Persistent Threat",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una APT es un adversario con experiencia y recursos capaz de mantener campañas prolongadas y multivector.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V88",
+      "file": "t41-88-ttp-y-atribucion-de-apt.webp",
+      "title": "TTP y atribución de APT",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ATT&CK organiza tácticas y técnicas observadas en campañas y grupos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V89",
+      "file": "t41-89-cyber-kill-chain.webp",
+      "title": "Cyber Kill Chain",
+      "type": "infografia",
+      "placement": "bloque-89",
+      "status": "planned",
+      "block": 89,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cyber Kill Chain modela una intrusión mediante siete fases para identificar oportunidades defensivas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V90",
+      "file": "t41-il-90-reconocimiento.webp",
+      "title": "Reconocimiento",
+      "type": "ilustracion_simple",
+      "placement": "bloque-90",
+      "status": "planned",
+      "block": 90,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En reconocimiento, el adversario recopila información sobre personas, tecnología, servicios y relaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V91",
+      "file": "t41-91-weaponization.webp",
+      "title": "Weaponization",
+      "type": "infografia",
+      "placement": "bloque-91",
+      "status": "planned",
+      "block": 91,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En weaponization se combina una carga con un medio de explotación o entrega.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V92",
+      "file": "t41-92-delivery.webp",
+      "title": "Delivery",
+      "type": "infografia",
+      "placement": "bloque-92",
+      "status": "planned",
+      "block": 92,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Delivery transmite el artefacto o vector al entorno objetivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V93",
+      "file": "t41-93-explotacion.webp",
+      "title": "Explotación",
+      "type": "infografia",
+      "placement": "bloque-93",
+      "status": "planned",
+      "block": 93,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En explotación, código o acción aprovecha una vulnerabilidad o comportamiento para obtener ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V94",
+      "file": "t41-94-instalacion.webp",
+      "title": "Instalación",
+      "type": "infografia",
+      "placement": "bloque-94",
+      "status": "planned",
+      "block": 94,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En instalación, el adversario coloca malware, persistencia o componentes necesarios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V95",
+      "file": "t41-il-95-command-and-control.webp",
+      "title": "Command and Control",
+      "type": "ilustracion_simple",
+      "placement": "bloque-95",
+      "status": "planned",
+      "block": 95,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En C2, el sistema comprometido establece o mantiene comunicación con infraestructura adversaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V96",
+      "file": "t41-96-actions-on-objectives.webp",
+      "title": "Actions on Objectives",
+      "type": "infografia",
+      "placement": "bloque-96",
+      "status": "planned",
+      "block": 96,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fase final ejecuta el objetivo: espionaje, fraude, cifrado, sabotaje, movimiento o exfiltración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V97",
+      "file": "t41-97-romper-la-cadena.webp",
+      "title": "Romper la cadena",
+      "type": "infografia",
+      "placement": "bloque-97",
+      "status": "planned",
+      "block": 97,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada fase ofrece oportunidades de prevención, detección, interrupción o respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T41-V98",
+      "file": "t41-98-limites-y-complemento-con-att-ck.webp",
+      "title": "Límites y complemento con ATT&CK",
+      "type": "infografia",
+      "placement": "bloque-98",
+      "status": "planned",
+      "block": 98,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Kill Chain ofrece una secuencia de alto nivel orientada a intrusiones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}
