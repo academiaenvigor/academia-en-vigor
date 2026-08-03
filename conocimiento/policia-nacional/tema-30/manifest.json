@@ -1,0 +1,125 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-30",
+  "topic_number": 30,
+  "slug": "principios-eticos-valores-socializacion-contravalores-delitos-odio",
+  "title": "Principios éticos de la sociedad actual. Transmisión de valores en la sociedad actual: proceso de socialización. Libertad responsabilidad. Igualdad-solidaridad. Tolerancia. Contravalores, reacciones sociales a los valores mayoritarios: racismo, fanatismo, fundamentalismo, sectarismo, hooliganismo. Especial consideración de los delitos de odio.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-30/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-30-principios-eticos-valores-socializacion-contravalores-delitos-odio.md",
+    "atestado": "temas/policia-nacional/atestado/tema-30-principios-eticos-valores-socializacion-contravalores-delitos-odio.md"
+  },
+  "semantic_blocks": 61,
+  "atomic_facts": 244,
+  "master_statements": 244,
+  "coverage_file": "conocimiento/policia-nacional/tema-30/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026-T30",
+    "CE-T30",
+    "DUDH-T30",
+    "RAE-ETICA-MORAL-T30",
+    "RAE-FANATISMO-T30",
+    "RAE-FUNDAMENTALISMO-T30",
+    "UNESCO-VALUES-T30",
+    "UNESCO-SOCIALIZATION-T30",
+    "UNESCO-TOLERANCE-T30",
+    "BANDURA-T30",
+    "KOHLBERG-T30",
+    "BERLIN-T30",
+    "DURKHEIM-T30",
+    "ECRI-GPR7-T30",
+    "FRA-RACISM-T30",
+    "L15-2022-T30",
+    "COE-RADICALISATION-T30",
+    "COE-FORB-T30",
+    "SINGER-T30",
+    "WEBER-T30",
+    "WILSON-T30",
+    "L19-2007-T30",
+    "RD203-2010-T30",
+    "LEICESTER-T30",
+    "MARSH-T30",
+    "TAYLOR-T30",
+    "OSCE-HATE-T30",
+    "COE-HATE-SPEECH-T30",
+    "COE-HATE-CRIME-T30",
+    "CP-T30",
+    "PROTOCOLO-ODIO-T30",
+    "ESTATUTO-VICTIMA-T30",
+    "RD207-2024-T30",
+    "INT859-2023-T30"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q017",
+    "of-pn-p33-a-q058",
+    "of-pn-p33-a-q060",
+    "of-pn-p34-a-q031",
+    "of-pn-p35-a-q096",
+    "of-pn-p36-a-q022",
+    "of-pn-p36-a-q045",
+    "of-pn-p36-a-q077",
+    "of-pn-p36-a-q083",
+    "of-pn-p39-a-q015",
+    "of-pn-p39-a-q044",
+    "of-pn-p40-a-q005",
+    "of-pn-p40-a-q098",
+    "of-pn-p41-a-q019",
+    "of-pn-p41-a-q095",
+    "of-pn-p42-a-q019",
+    "of-pn-p42-a-q079",
+    "of-pn-p42-a-q098"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-30/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-30/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-30/manifest.json",
+    "questions": 488,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-30/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-30/manifest.json",
+    "total": 0,
+    "planned": 61
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-30/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-30/revision-1.0.md"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-30",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-30",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Principios éticos, valores y socialización",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Libertad, responsabilidad, igualdad, solidaridad y tolerancia",
+      "blocks": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "11"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Contravalores: racismo, fanatismo y fundamentalismo",
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "anchor_blocks": [
+        "21"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Sectarismo y grupos de control coercitivo",
+      "blocks": [
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "anchor_blocks": [
+        "32"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Hooliganismo y prevención de la violencia en el deporte",
+      "blocks": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "anchor_blocks": [
+        "42"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Delitos de odio: marco penal, víctimas y respuesta policial",
+      "blocks": [
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61"
+      ],
+      "anchor_blocks": [
+        "52"
+      ]
+    }
+  ],
+  "resources": []
+}

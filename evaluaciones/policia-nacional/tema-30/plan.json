@@ -1,0 +1,394 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 30,
+  "topic_title": "Principios éticos de la sociedad actual. Transmisión de valores en la sociedad actual: proceso de socialización. Libertad responsabilidad. Igualdad-solidaridad. Tolerancia. Contravalores, reacciones sociales a los valores mayoritarios: racismo, fanatismo, fundamentalismo, sectarismo, hooliganismo. Especial consideración de los delitos de odio.",
+  "id_prefix": "PN-T30",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-30/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-30/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Ética y moral: conceptos relacionados, no idénticos"
+      },
+      {
+        "number": 2,
+        "title": "Principios, valores, normas y virtudes"
+      },
+      {
+        "number": 3,
+        "title": "Valores superiores del ordenamiento español"
+      },
+      {
+        "number": 4,
+        "title": "Dignidad, libre desarrollo y respeto a la ley y a los demás"
+      },
+      {
+        "number": 5,
+        "title": "Pluralismo ético y mínimos de convivencia"
+      },
+      {
+        "number": 6,
+        "title": "Concepto de socialización"
+      },
+      {
+        "number": 7,
+        "title": "Socialización primaria, secundaria y resocialización"
+      },
+      {
+        "number": 8,
+        "title": "Agentes de socialización"
+      },
+      {
+        "number": 9,
+        "title": "Mecanismos de transmisión de valores"
+      },
+      {
+        "number": 10,
+        "title": "Desarrollo moral según Kohlberg"
+      },
+      {
+        "number": 11,
+        "title": "Libertad como autonomía y como derecho"
+      },
+      {
+        "number": 12,
+        "title": "Libertad negativa y positiva"
+      },
+      {
+        "number": 13,
+        "title": "Responsabilidad moral y responsabilidad jurídica"
+      },
+      {
+        "number": 14,
+        "title": "Libertad, imputación y responsabilidad"
+      },
+      {
+        "number": 15,
+        "title": "Igualdad formal y prohibición de discriminación"
+      },
+      {
+        "number": 16,
+        "title": "Igualdad real y acción positiva"
+      },
+      {
+        "number": 17,
+        "title": "Solidaridad social y constitucional"
+      },
+      {
+        "number": 18,
+        "title": "Solidaridad mecánica y orgánica"
+      },
+      {
+        "number": 19,
+        "title": "Tolerancia: concepto y exigencias"
+      },
+      {
+        "number": 20,
+        "title": "Límites y paradoja de la tolerancia"
+      },
+      {
+        "number": 21,
+        "title": "Contravalores y reacción frente a valores mayoritarios"
+      },
+      {
+        "number": 22,
+        "title": "Racismo: concepto"
+      },
+      {
+        "number": 23,
+        "title": "Racismo biológico y racismo cultural"
+      },
+      {
+        "number": 24,
+        "title": "Racismo simbólico, moderno y aversivo"
+      },
+      {
+        "number": 25,
+        "title": "Discriminación racial directa e indirecta"
+      },
+      {
+        "number": 26,
+        "title": "Prevención del racismo y acción institucional"
+      },
+      {
+        "number": 27,
+        "title": "Fanatismo: concepto"
+      },
+      {
+        "number": 28,
+        "title": "Polarización, identidad y pensamiento fanático"
+      },
+      {
+        "number": 29,
+        "title": "Fundamentalismo: origen y uso actual"
+      },
+      {
+        "number": 30,
+        "title": "Fundamentalismo, integrismo y extremismo violento"
+      },
+      {
+        "number": 31,
+        "title": "Prevención: pensamiento crítico, pertenencia y alternativas"
+      },
+      {
+        "number": 32,
+        "title": "Secta: término y neutralidad jurídica"
+      },
+      {
+        "number": 33,
+        "title": "Grupo de control coercitivo o destructivo"
+      },
+      {
+        "number": 34,
+        "title": "Persuasión, influencia y manipulación"
+      },
+      {
+        "number": 35,
+        "title": "Captación y escalada de compromiso"
+      },
+      {
+        "number": 36,
+        "title": "Autoridad carismática, liderazgo y obediencia"
+      },
+      {
+        "number": 37,
+        "title": "Aislamiento, información y lenguaje cerrado"
+      },
+      {
+        "number": 38,
+        "title": "Clasificación de Bryan Wilson I"
+      },
+      {
+        "number": 39,
+        "title": "Clasificación de Bryan Wilson II"
+      },
+      {
+        "number": 40,
+        "title": "Riesgos jurídicos asociados, no delitos por etiqueta"
+      },
+      {
+        "number": 41,
+        "title": "Atención policial y salida segura"
+      },
+      {
+        "number": 42,
+        "title": "Hooliganismo: concepto y delimitación"
+      },
+      {
+        "number": 43,
+        "title": "Identidad, masculinidad y búsqueda de confrontación"
+      },
+      {
+        "number": 44,
+        "title": "Enfoque de la Escuela de Leicester"
+      },
+      {
+        "number": 45,
+        "title": "Enfoque etogénico de Peter Marsh"
+      },
+      {
+        "number": 46,
+        "title": "Enfoque marxista de Ian Taylor"
+      },
+      {
+        "number": 47,
+        "title": "Dinámica del evento y escalada"
+      },
+      {
+        "number": 48,
+        "title": "Conductas violentas en la Ley 19/2007"
+      },
+      {
+        "number": 49,
+        "title": "Racismo, xenofobia e intolerancia en el deporte"
+      },
+      {
+        "number": 50,
+        "title": "Obligaciones de organizadores y cooperación"
+      },
+      {
+        "number": 51,
+        "title": "Oficina Nacional de Deportes y coordinación de seguridad"
+      },
+      {
+        "number": 52,
+        "title": "Delito de odio: estructura de dos elementos"
+      },
+      {
+        "number": 53,
+        "title": "Delito de odio, discurso de odio e incidente de odio"
+      },
+      {
+        "number": 54,
+        "title": "Indicadores de polarización o sesgo"
+      },
+      {
+        "number": 55,
+        "title": "Agravante discriminatoria del Código Penal"
+      },
+      {
+        "number": 56,
+        "title": "Incitación, materiales y negacionismo del artículo 510.1"
+      },
+      {
+        "number": 57,
+        "title": "Dignidad, justificación pública y agravaciones del artículo 510"
+      },
+      {
+        "number": 58,
+        "title": "Denegación discriminatoria de prestaciones"
+      },
+      {
+        "number": 59,
+        "title": "Víctimas, infradenuncia y victimización secundaria"
+      },
+      {
+        "number": 60,
+        "title": "Investigación policial, registro y ciberodio"
+      },
+      {
+        "number": 61,
+        "title": "Organización institucional frente a los delitos de odio"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Principios éticos, valores y socialización",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Libertad, responsabilidad, igualdad, solidaridad y tolerancia",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Contravalores: racismo, fanatismo y fundamentalismo",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Sectarismo y grupos de control coercitivo",
+        "blocks": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Hooliganismo y prevención de la violencia en el deporte",
+        "blocks": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Delitos de odio: marco penal, víctimas y respuesta policial",
+        "blocks": [
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

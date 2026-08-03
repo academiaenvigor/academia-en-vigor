@@ -167,6 +167,22 @@
       "traceable": true
     },
     {
+      "id": "BANDURA-T30",
+      "title": "Albert Bandura: Social Learning Theory",
+      "url": "https://www.pearson.com/en-us/subject-catalog/p/social-learning-theory/P200000006339",
+      "scope": "modelado, aprendizaje observacional y refuerzo",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "BERLIN-T30",
+      "title": "Isaiah Berlin: Two Concepts of Liberty",
+      "url": "https://berlin.wolf.ox.ac.uk/published_works/tcl/",
+      "scope": "libertad negativa y positiva",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "BOE-L15-2022-T29",
       "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
       "boe_id": "BOE-A-2022-11589",
@@ -427,6 +443,15 @@
       "traceable": true
     },
     {
+      "id": "CE-T30",
+      "title": "Constitución Española, texto consolidado",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "arts. 1.1, 2, 9.2, 9.3, 10, 14, 16, 20, 22 y 138",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CE-TC",
       "title": "Constitución Española: Título IX, artículos 159-165",
       "boe_id": "BOE-A-1978-31229",
@@ -471,6 +496,14 @@
       "traceable": true
     },
     {
+      "id": "COE-FORB-T30",
+      "title": "Consejo de Europa: libertad de pensamiento, conciencia y religión",
+      "url": "https://www.coe.int/en/web/impact-convention-human-rights/freedom-of-religion",
+      "scope": "protección de convicciones y límites por conductas concretas",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COE-GROUP-T29",
       "title": "Council of Europe: Group Dynamics and Social Processes",
       "url": "https://www.coe.int/en/web/compass/group-dynamics",
@@ -479,10 +512,34 @@
       "traceable": true
     },
     {
+      "id": "COE-HATE-CRIME-T30",
+      "title": "Consejo de Europa, Recomendación CM/Rec(2024)4 sobre delitos de odio",
+      "url": "https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680af9736",
+      "scope": "prevención, investigación, víctimas y registro de delitos de odio",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COE-HATE-SPEECH-T29",
       "title": "Council of Europe Recommendation CM/Rec(2022)16 on combating hate speech",
       "url": "https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680a67955",
       "scope": "intolerancia, discurso de odio y respuesta graduada",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COE-HATE-SPEECH-T30",
+      "title": "Consejo de Europa, Recomendación CM/Rec(2022)16 sobre discurso de odio",
+      "url": "https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680a67955",
+      "scope": "discurso de odio y respuesta graduada",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COE-RADICALISATION-T30",
+      "title": "Consejo de Europa: prevención de la radicalización y el extremismo violento",
+      "url": "https://www.coe.int/en/web/counter-terrorism/radicalisation",
+      "scope": "polarización, radicalización y prevención respetuosa con derechos",
       "official": true,
       "traceable": true
     },
@@ -500,6 +557,15 @@
       "boe_id": "BOE-A-2026-15055",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
       "scope": "programa oficial y formato de la prueba",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CONV-PN-2026-T30",
+      "title": "Convocatoria Escala Básica Policía Nacional 2026",
+      "boe_id": "BOE-A-2026-15055",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "Anexo I, Tema 30",
       "official": true,
       "traceable": true
     },
@@ -610,6 +676,15 @@
       "traceable": true
     },
     {
+      "id": "CP-T30",
+      "title": "Código Penal, texto consolidado",
+      "boe_id": "BOE-A-1995-25444",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+      "scope": "arts. 22.4, 510, 511, 512, 314 y concordantes",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "DGP-INT859-2023",
       "title": "Orden INT/859/2023: estructura orgánica y funciones de los servicios centrales y territoriales de la Dirección General de la Policía",
       "boe_id": "BOE-A-2023-17072",
@@ -701,6 +776,22 @@
       "traceable": true
     },
     {
+      "id": "DUDH-T30",
+      "title": "Declaración Universal de Derechos Humanos",
+      "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights",
+      "scope": "arts. 1, 2, 7, 18, 19 y 29",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "DURKHEIM-T30",
+      "title": "Émile Durkheim: The Division of Labour in Society",
+      "url": "https://durkheim.uchicago.edu/Summaries/dl.html",
+      "scope": "solidaridad mecánica y orgánica",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "ECN2019-T15",
       "title": "Estrategia Nacional de Ciberseguridad 2019",
       "boe_id": "BOE-A-2019-6347",
@@ -718,11 +809,28 @@
       "traceable": true
     },
     {
+      "id": "ECRI-GPR7-T30",
+      "title": "ECRI General Policy Recommendation No. 7",
+      "url": "https://www.coe.int/en/web/european-commission-against-racism-and-intolerance/recommendation-no.7",
+      "scope": "racismo y discriminación racial",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EOMF-T21",
       "title": "Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
       "boe_id": "BOE-A-1982-837",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
       "scope": "naturaleza, principios, funciones y diligencias",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ESTATUTO-VICTIMA-T30",
+      "title": "Ley 4/2015, Estatuto de la víctima del delito",
+      "boe_id": "BOE-A-2015-4606",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606",
+      "scope": "información, protección y evaluación individual",
       "official": true,
       "traceable": true
     },
@@ -756,6 +864,14 @@
       "title": "EU Agency for Fundamental Rights: Preventing unlawful profiling",
       "url": "https://fra.europa.eu/en/publication/2018/preventing-unlawful-profiling-today-and-future-guide",
       "scope": "sesgos, perfilado y controles profesionales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "FRA-RACISM-T30",
+      "title": "Agencia de Derechos Fundamentales de la UE: racismo y discriminación",
+      "url": "https://fra.europa.eu/en/themes/racism-related-intolerances",
+      "scope": "manifestaciones contemporáneas de racismo",
       "official": true,
       "traceable": true
     },
@@ -988,6 +1104,15 @@
       "traceable": true
     },
     {
+      "id": "INT859-2023-T30",
+      "title": "Orden INT/859/2023, estructura y funciones de Policía Nacional",
+      "boe_id": "BOE-A-2023-17072",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-17072",
+      "scope": "art. 7.2.a.1 y 7.2.f, Oficina Nacional de Deportes e interlocución social en delitos de odio",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "IV-PLAN-AGE-T23",
       "title": "IV Plan para la igualdad de género en la AGE y sus organismos públicos",
       "boe_id": "BOE-A-2025-22252",
@@ -1001,6 +1126,14 @@
       "title": "Daniel Katz: The Functional Approach to the Study of Attitudes",
       "url": "https://doi.org/10.1086/266945",
       "scope": "funciones instrumental, defensiva, expresiva y de conocimiento",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "KOHLBERG-T30",
+      "title": "Lawrence Kohlberg: Moral Stages and Moralization",
+      "url": "https://psycnet.apa.org/record/1977-22406-001",
+      "scope": "tres niveles y seis estadios del desarrollo moral",
       "official": false,
       "traceable": true
     },
@@ -1019,6 +1152,24 @@
       "boe_id": "BOE-A-2022-11589",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
       "scope": "no discriminación y actuación policial",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "L15-2022-T30",
+      "title": "Ley 15/2022, integral para la igualdad de trato y la no discriminación",
+      "boe_id": "BOE-A-2022-11589",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
+      "scope": "arts. 2, 6, 7 y 8",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "L19-2007-T30",
+      "title": "Ley 19/2007 contra la violencia, el racismo, la xenofobia y la intolerancia en el deporte",
+      "boe_id": "BOE-A-2007-13408",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13408",
+      "scope": "arts. 2, 3, 16 y 17",
       "official": true,
       "traceable": true
     },
@@ -1119,6 +1270,14 @@
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
       "scope": "jurisdicción, competencia, denuncia, detención y Policía Judicial",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEICESTER-T30",
+      "title": "Dunning, Murphy y Williams: The Roots of Football Hooliganism",
+      "url": "https://www.routledge.com/The-Roots-of-Football-Hooliganism-An-Historical-and-Sociological-Study/Dunning-Murphy-Williams/p/book/9780415036771",
+      "scope": "Escuela de Leicester y sociología figuracional",
+      "official": false,
       "traceable": true
     },
     {
@@ -1539,6 +1698,14 @@
       "traceable": true
     },
     {
+      "id": "MARSH-T30",
+      "title": "Peter Marsh: Aggro, The Illusion of Violence",
+      "url": "https://archive.org/details/aggroillusionofv0000mars",
+      "scope": "enfoque etogénico y agresión ritualizada",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "MI-RD1009-2023",
       "title": "Real Decreto 1009/2023: estructura orgánica básica de los departamentos ministeriales",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-24842",
@@ -1656,6 +1823,14 @@
       "traceable": true
     },
     {
+      "id": "OSCE-HATE-T30",
+      "title": "OSCE/ODIHR: Hate Crime Laws, A Practical Guide",
+      "url": "https://www.osce.org/odihr/36426",
+      "scope": "delito base y motivación de prejuicio",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "OSGOOD-1957-T29",
       "title": "Osgood, Suci y Tannenbaum: The Measurement of Meaning",
       "url": "https://psycnet.apa.org/record/1958-01203-000",
@@ -1669,6 +1844,14 @@
       "boe_id": "BOE-A-2025-10371",
       "url": "https://www.boe.es/eli/es/o/2025/05/23/pjc522",
       "scope": "estado de revisión de la estrategia",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "PROTOCOLO-ODIO-T30",
+      "title": "Protocolo de actuación de las FCSE para delitos de odio, Instrucción SES 4/2020",
+      "url": "https://www.interior.gob.es/opencms/pdf/servicios-al-ciudadano/Delitos-de-odio/descargas/PROTOCOLO-DE-ACTUACION-DE-LAS-FUERZAS-Y-CUERPOS-DE-SEGURIDAD-PARA-LOS-DELITOS-DE-ODIO-Y-CONDUCTAS-QUE-VULNERAN-LAS-NORMAS-LEGALES-SOBRE-DISCRIMINACION.pdf",
+      "scope": "indicadores, víctimas, atestado, ciberodio y registro",
       "official": true,
       "traceable": true
     },
@@ -1694,6 +1877,30 @@
       "title": "Real Academia Española: actitud",
       "url": "https://dle.rae.es/actitud",
       "scope": "concepto y usos de actitud",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-ETICA-MORAL-T30",
+      "title": "Real Academia Española: ética y moral",
+      "url": "https://dle.rae.es/%C3%A9tico",
+      "scope": "conceptos de ética y moral",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-FANATISMO-T30",
+      "title": "Real Academia Española: fanatismo",
+      "url": "https://dle.rae.es/fanatismo",
+      "scope": "concepto de fanatismo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-FUNDAMENTALISMO-T30",
+      "title": "Real Academia Española: fundamentalismo",
+      "url": "https://dle.rae.es/fundamentalismo",
+      "scope": "concepto y usos de fundamentalismo",
       "official": true,
       "traceable": true
     },
@@ -1785,11 +1992,29 @@
       "traceable": true
     },
     {
+      "id": "RD203-2010-T30",
+      "title": "Real Decreto 203/2010, Reglamento de prevención de la violencia en el deporte",
+      "boe_id": "BOE-A-2010-3904",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-3904",
+      "scope": "dispositivos de seguridad y coordinación",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RD207-2024-T15",
       "title": "Real Decreto 207/2024: estructura orgánica del Ministerio del Interior",
       "boe_id": "BOE-A-2024-3793",
       "url": "https://www.boe.es/eli/es/rd/2024/02/27/207/con",
       "scope": "Dirección General de Coordinación y Estudios y apoyo a la Secretaría de Estado",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD207-2024-T30",
+      "title": "Real Decreto 207/2024, estructura orgánica básica del Ministerio del Interior",
+      "boe_id": "BOE-A-2024-3793",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+      "scope": "art. 6.1.13, dirección de la Oficina Nacional de lucha contra los delitos de odio",
       "official": true,
       "traceable": true
     },
@@ -2085,6 +2310,14 @@
       "traceable": true
     },
     {
+      "id": "SINGER-T30",
+      "title": "Margaret Thaler Singer: Cults in Our Midst",
+      "url": "https://www.wiley.com/en-us/Cults+in+Our+Midst%3A+The+Continuing+Fight+Against+Their+Hidden+Menace-p-9780787967413",
+      "scope": "captación, persuasión coercitiva y dependencia",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "STC13-2021-T14",
       "title": "Sentencia del Tribunal Constitucional 13/2021",
       "boe_id": "BOE-A-2021-2832",
@@ -2124,6 +2357,14 @@
       "title": "Tajfel y Turner: An Integrative Theory of Intergroup Conflict",
       "url": "https://psycnet.apa.org/record/2001-01466-016",
       "scope": "categorización, identidad social, endogrupo y exogrupo",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "TAYLOR-T30",
+      "title": "Ian Taylor: Football Mad, A Speculative Sociology of Football Hooliganism",
+      "url": "https://doi.org/10.1177/003803857100500203",
+      "scope": "resistencia obrera y aburguesamiento del fútbol",
       "official": false,
       "traceable": true
     },
@@ -2405,10 +2646,34 @@
       "traceable": true
     },
     {
+      "id": "UNESCO-SOCIALIZATION-T30",
+      "title": "UNESCO: educación, cultura y aprendizaje social",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000232993",
+      "scope": "socialización, agentes, cultura y ciudadanía",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UNESCO-TOLERANCE-T29",
       "title": "UNESCO: Declaración de Principios sobre la Tolerancia",
       "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance",
       "scope": "valores, tolerancia, educación y prevención del prejuicio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-TOLERANCE-T30",
+      "title": "UNESCO: Declaración de Principios sobre la Tolerancia",
+      "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance",
+      "scope": "art. 1 y educación para la tolerancia",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-VALUES-T30",
+      "title": "UNESCO: Global Citizenship Education, Topics and Learning Objectives",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000232993",
+      "scope": "valores, ciudadanía, pensamiento crítico y prevención",
       "official": true,
       "traceable": true
     },
@@ -2434,6 +2699,22 @@
       "url": "https://www.worldbank.org/en/programs/knowledge-for-change/brief/Trade-and-Globalization",
       "scope": "comercio, desarrollo, pobreza y políticas",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WEBER-T30",
+      "title": "Max Weber: autoridad carismática",
+      "url": "https://archive.org/details/economysociety00webe",
+      "scope": "autoridad carismática y rutinización",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "WILSON-T30",
+      "title": "Bryan Wilson: tipología sociológica de sectas",
+      "url": "https://archive.org/details/religioussectss00wils",
+      "scope": "conversionistas, revolucionarias, introversionistas, manipulacionistas, taumatúrgicas, reformistas y utópicas",
+      "official": false,
       "traceable": true
     },
     {
