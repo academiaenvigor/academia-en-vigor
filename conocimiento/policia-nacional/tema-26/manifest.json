@@ -1,0 +1,92 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-26",
+  "topic_number": 26,
+  "slug": "proteccion-datos-personales-garantia-derechos-digitales-tratamiento-policial-penal",
+  "title": "La protección de datos de carácter personal: la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-26/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-26-proteccion-datos-personales-garantia-derechos-digitales-tratamiento-policial-penal.md",
+    "atestado": "temas/policia-nacional/atestado/tema-26-proteccion-datos-personales-garantia-derechos-digitales-tratamiento-policial-penal.md"
+  },
+  "semantic_blocks": 65,
+  "atomic_facts": 325,
+  "master_statements": 325,
+  "coverage_file": "conocimiento/policia-nacional/tema-26/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE-T26",
+    "RGPD-T26",
+    "LOPDGDD-T26",
+    "DIR2016-680-T26",
+    "LO7-2021-T26",
+    "LO9-2022-T26"
+  ],
+  "official_exam_items": [
+    "of-pn-p34-a-q028",
+    "of-pn-p38-a-q005",
+    "of-pn-p38-a-q070",
+    "of-pn-p38-a-q071",
+    "of-pn-p39-a-q021",
+    "of-pn-p39-a-q082",
+    "of-pn-p39-a-q097",
+    "of-pn-p40-a-q039",
+    "of-pn-p40-a-q047",
+    "of-pn-p42-a-q013",
+    "of-pn-p42-a-q014",
+    "of-pn-p42-a-q073"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-26/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-26/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-26/manifest.json",
+    "questions": 650,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-26/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-26/manifest.json",
+    "total": 0,
+    "planned": 65
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-26/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-26/revision-1.0.md"
+  }
+}

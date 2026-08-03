@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 26,
+  "titulo": "La protección de datos de carácter personal: la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 12,
+  "con_bloque_asignado": 12,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "2": 1,
+    "6": 2,
+    "54": 1,
+    "40": 2,
+    "36": 2,
+    "11": 1,
+    "7": 1,
+    "59": 1,
+    "64": 1
+  },
+  "por_promocion": {
+    "P34": 1,
+    "P38": 3,
+    "P39": 3,
+    "P40": 2,
+    "P42": 3
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p34-a-q028",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 28,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "PN-T26-F006"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Los ficheros que quedan al margen del régimen normativo establecido por la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal son:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q005",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 5,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T26-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El tratamiento de los datos personales de un menor de edad, ¿Cuándo se puede fundar en su consentimiento?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q070",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 70,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "PN-T26-F266"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "De acuerdo con lo recogido en la Ley Orgánica 7/2021 de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales, se entiende por “encargado del tratamiento” a:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q071",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 71,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "PN-T26-F196"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El plazo de conservación de los datos personales con fines de prevención, detección, investigación y enjuiciamiento de infracciones penales, será del tiempo necesario para esos fines y como máximo:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q021",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 21,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "PN-T26-F196"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Con carácter general, cuál es el plazo máximo para la supresión de los datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q082",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 82,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T26-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El tratamiento de los datos personales de un menor de edad, conforme al art. 7 de la Ley Orgánica 3/2018, de 5 de diciembre, únicamente podrá fundarse en su consentimiento:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q097",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 97,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T26-F176"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El Artículo 4 de la Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales, indica quien tendrá, en particular, la consideración de autoridad competente a los efectos de dicha Ley. Cuál de las siguientes Autoridades no está incluida:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q039",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 39,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T26-F176"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La L.O. 7/2021 de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales, en su artículo tercero hace alusión a los datos de personas fallecidas. En caso de fallecimiento de menores, cuando sea el Ministerio Fiscal el que ejerza las facultades establecidas, podrá actuar:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q047",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 47,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "PN-T26-F051"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En aplicación de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Los titulares de la patria potestad podrán ejercitar los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles.",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q013",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 13,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "PN-T26-F031"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según lo dispuesto por la LO 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, ¿cuál es la opción correcta en relación al acceso a los datos personales de una persona fallecida si es solicitado por sus herederos o familiares?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q014",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 14,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "PN-T26-F291"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En la LO 7/2021, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales ¿se establece alguna figura u órgano de asesoramiento y supervisión de los responsables de la protección de datos?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q073",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 73,
+      "block_refs": [
+        64
+      ],
+      "fact_refs": [
+        "PN-T26-F316"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el régimen sancionador de la LO 7/2021, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales, las infracciones se pueden calificar como:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    }
+  ]
+}

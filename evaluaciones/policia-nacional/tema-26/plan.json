@@ -1,0 +1,408 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 26,
+  "topic_title": "La protección de datos de carácter personal: la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales.",
+  "id_prefix": "PN-T26",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-26/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-26/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Fundamento constitucional y europeo"
+      },
+      {
+        "number": 2,
+        "title": "Mapa normativo y frontera entre regímenes"
+      },
+      {
+        "number": 3,
+        "title": "Conceptos esenciales de protección de datos"
+      },
+      {
+        "number": 4,
+        "title": "Principios del tratamiento"
+      },
+      {
+        "number": 5,
+        "title": "Licitud y bases jurídicas del régimen general"
+      },
+      {
+        "number": 6,
+        "title": "Consentimiento y menores de edad"
+      },
+      {
+        "number": 7,
+        "title": "Personas fallecidas y deber de confidencialidad"
+      },
+      {
+        "number": 8,
+        "title": "Categorías especiales y datos penales"
+      },
+      {
+        "number": 9,
+        "title": "Transparencia e información por capas"
+      },
+      {
+        "number": 10,
+        "title": "Derechos del RGPD: mapa general"
+      },
+      {
+        "number": 11,
+        "title": "Ejercicio de derechos y representación"
+      },
+      {
+        "number": 12,
+        "title": "Derecho de acceso"
+      },
+      {
+        "number": 13,
+        "title": "Rectificación, supresión y bloqueo"
+      },
+      {
+        "number": 14,
+        "title": "Portabilidad, oposición y decisiones automatizadas"
+      },
+      {
+        "number": 15,
+        "title": "Datos de contacto y sistemas de información crediticia"
+      },
+      {
+        "number": 16,
+        "title": "Videovigilancia general y exclusión doméstica"
+      },
+      {
+        "number": 17,
+        "title": "Exclusión publicitaria y propaganda electoral"
+      },
+      {
+        "number": 18,
+        "title": "Tratamientos administrativos y de archivo"
+      },
+      {
+        "number": 19,
+        "title": "Responsabilidad proactiva y protección desde el diseño"
+      },
+      {
+        "number": 20,
+        "title": "Encargado del tratamiento y brechas de seguridad"
+      },
+      {
+        "number": 21,
+        "title": "Delegado de protección de datos"
+      },
+      {
+        "number": 22,
+        "title": "Códigos, certificación y transferencias internacionales"
+      },
+      {
+        "number": 23,
+        "title": "Naturaleza y funciones de la AEPD"
+      },
+      {
+        "number": 24,
+        "title": "Presidencia, mandato y Consejo Consultivo"
+      },
+      {
+        "number": 25,
+        "title": "Autoridades autonómicas y cooperación"
+      },
+      {
+        "number": 26,
+        "title": "Reclamaciones e investigación"
+      },
+      {
+        "number": 27,
+        "title": "Infracciones y sujetos responsables"
+      },
+      {
+        "number": 28,
+        "title": "Sanciones, sector público y prescripción"
+      },
+      {
+        "number": 29,
+        "title": "Derechos digitales, neutralidad, acceso y seguridad"
+      },
+      {
+        "number": 30,
+        "title": "Educación digital y protección de menores"
+      },
+      {
+        "number": 31,
+        "title": "Rectificación y actualización en Internet"
+      },
+      {
+        "number": 32,
+        "title": "Intimidad laboral y desconexión digital"
+      },
+      {
+        "number": 33,
+        "title": "Videovigilancia, sonido y geolocalización laboral"
+      },
+      {
+        "number": 34,
+        "title": "Derecho al olvido y testamento digital"
+      },
+      {
+        "number": 35,
+        "title": "Objeto y ámbito de la Ley Orgánica 7/2021"
+      },
+      {
+        "number": 36,
+        "title": "Fallecidos y autoridades competentes"
+      },
+      {
+        "number": 37,
+        "title": "Definiciones del régimen policial-penal"
+      },
+      {
+        "number": 38,
+        "title": "Principios y finalidades compatibles"
+      },
+      {
+        "number": 39,
+        "title": "Deber de colaboración y reserva"
+      },
+      {
+        "number": 40,
+        "title": "Conservación y revisión: tres y veinte años"
+      },
+      {
+        "number": 41,
+        "title": "Categorías de interesados y calidad"
+      },
+      {
+        "number": 42,
+        "title": "Licitud y categorías especiales"
+      },
+      {
+        "number": 43,
+        "title": "Decisiones automatizadas y perfiles"
+      },
+      {
+        "number": 44,
+        "title": "Videovigilancia policial: sistema y proporcionalidad"
+      },
+      {
+        "number": 45,
+        "title": "Sistemas fijos y deber de información"
+      },
+      {
+        "number": 46,
+        "title": "Dispositivos móviles"
+      },
+      {
+        "number": 47,
+        "title": "Entrega, conservación y disciplina de grabaciones"
+      },
+      {
+        "number": 48,
+        "title": "Condiciones generales de los derechos"
+      },
+      {
+        "number": 49,
+        "title": "Información y acceso en la Ley Orgánica 7/2021"
+      },
+      {
+        "number": 50,
+        "title": "Rectificación, supresión y limitación policial"
+      },
+      {
+        "number": 51,
+        "title": "Restricciones y ejercicio a través de la autoridad"
+      },
+      {
+        "number": 52,
+        "title": "Derechos en investigaciones y procesos penales"
+      },
+      {
+        "number": 53,
+        "title": "Responsable, diseño y corresponsabilidad"
+      },
+      {
+        "number": 54,
+        "title": "Encargado y actuación bajo instrucciones"
+      },
+      {
+        "number": 55,
+        "title": "Registros de actividades y operaciones"
+      },
+      {
+        "number": 56,
+        "title": "Evaluación de impacto y consulta previa"
+      },
+      {
+        "number": 57,
+        "title": "Seguridad y Esquema Nacional de Seguridad"
+      },
+      {
+        "number": 58,
+        "title": "Violaciones de seguridad"
+      },
+      {
+        "number": 59,
+        "title": "Delegado de protección de datos policial"
+      },
+      {
+        "number": 60,
+        "title": "Transferencias internacionales: regla y adecuación"
+      },
+      {
+        "number": 61,
+        "title": "Garantías, excepciones y transferencias directas"
+      },
+      {
+        "number": 62,
+        "title": "Autoridades independientes, funciones y poderes"
+      },
+      {
+        "number": 63,
+        "title": "Reclamación, indemnización y tutela judicial"
+      },
+      {
+        "number": 64,
+        "title": "Régimen sancionador: sujetos e infracciones"
+      },
+      {
+        "number": 65,
+        "title": "Sanciones, prescripción y cuadro comparativo"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos, principios y régimen general",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Derechos y tratamientos concretos de la Ley Orgánica 3/2018",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Responsabilidad, autoridades, sanciones y derechos digitales",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Régimen policial-penal: ámbito, principios, videovigilancia y derechos",
+        "blocks": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Obligaciones, seguridad, transferencias, control y sanciones en la Ley Orgánica 7/2021",
+        "blocks": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
