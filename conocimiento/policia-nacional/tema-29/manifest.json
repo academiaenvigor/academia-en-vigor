@@ -1,0 +1,116 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-29",
+  "topic_number": 29,
+  "slug": "actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos",
+  "title": "Actitudes y valores sociales. Formación de las actitudes: concepto, componentes y funciones. Estereotipos, prejuicios y discriminación. Actitudes de la personalidad autoritaria: xenofobia y dogmatismo. Los grupos sociales.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-29/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-29-actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos.md",
+    "atestado": "temas/policia-nacional/atestado/tema-29-actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos.md"
+  },
+  "semantic_blocks": 46,
+  "atomic_facts": 184,
+  "master_statements": 184,
+  "coverage_file": "conocimiento/policia-nacional/tema-29/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "RAE-ACTITUD-T29",
+    "RAE-VALOR-T29",
+    "RAE-XENOFOBIA-T29",
+    "UNESCO-TOLERANCE-T29",
+    "UNESCO-EDUCATION-T29",
+    "UNESCO-MEDIA-T29",
+    "AJZEN-1991-T29",
+    "ROSENBERG-HOVLAND-T29",
+    "KATZ-1960-T29",
+    "FESTINGER-1957-T29",
+    "OSGOOD-1957-T29",
+    "BONINGER-1995-T29",
+    "COE-STEREOTYPES-T29",
+    "ALLPORT-1954-T29",
+    "TAJFEL-TURNER-T29",
+    "BOE-L15-2022-T29",
+    "FRA-BIAS-T29",
+    "OSCE-HATE-T29",
+    "ADORNO-1950-T29",
+    "ROKEACH-1960-T29",
+    "ECRI-GPR7-T29",
+    "COE-HATE-SPEECH-T29",
+    "LEWIN-1947-T29",
+    "LEWIN-1939-T29",
+    "COE-GROUP-T29",
+    "COOLEY-1909-T29",
+    "HYMAN-1942-T29",
+    "RABBIE-1989-T29",
+    "SHERIF-1961-T29"
+  ],
+  "official_exam_items": [
+    "of-pn-p37-a-q022",
+    "of-pn-p37-a-q036",
+    "of-pn-p37-a-q056",
+    "of-pn-p37-a-q086",
+    "of-pn-p42-a-q064",
+    "of-pn-p42-a-q079",
+    "of-pn-p35-a-q059",
+    "of-pn-p36-a-q053",
+    "of-pn-p36-a-q071",
+    "of-pn-p34-a-q025",
+    "of-pn-p33-a-q056",
+    "of-pn-p33-a-q057",
+    "of-pn-p40-a-q013"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-29/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-29/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-29/manifest.json",
+    "questions": 368,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-29/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-29/manifest.json",
+    "total": 0,
+    "planned": 46
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-29/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-29/revision-1.0.md"
+  }
+}

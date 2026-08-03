@@ -678,6 +678,30 @@
           "official_exam_mapped": 20,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 29,
+          "slug": "actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos",
+          "title": "Actitudes y valores sociales. Formación de las actitudes: concepto, componentes y funciones. Estereotipos, prejuicios y discriminación. Actitudes de la personalidad autoritaria: xenofobia y dogmatismo. Los grupos sociales.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-29/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-29-actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos.md",
+          "atestado": "temas/policia-nacional/atestado/tema-29-actitudes-valores-sociales-estereotipos-prejuicios-discriminacion-grupos.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-29/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-29/plan.json",
+          "assets": "assets/policia-nacional/tema-29/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-29/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-29/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 46,
+          "atomic_facts": 184,
+          "question_count": 368,
+          "official_exam_mapped": 13,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 29,
+  "topic_title": "Actitudes y valores sociales. Formación de las actitudes: concepto, componentes y funciones. Estereotipos, prejuicios y discriminación. Actitudes de la personalidad autoritaria: xenofobia y dogmatismo. Los grupos sociales.",
+  "id_prefix": "PN-T29",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-29/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-29/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Concepto de actitud"
+      },
+      {
+        "number": 2,
+        "title": "Características de las actitudes"
+      },
+      {
+        "number": 3,
+        "title": "Concepto de valor social"
+      },
+      {
+        "number": 4,
+        "title": "Normas, valores, creencias y opiniones"
+      },
+      {
+        "number": 5,
+        "title": "Socialización y aprendizaje social"
+      },
+      {
+        "number": 6,
+        "title": "Modelo de tres componentes"
+      },
+      {
+        "number": 7,
+        "title": "Consistencia y ambivalencia actitudinal"
+      },
+      {
+        "number": 8,
+        "title": "Funciones de las actitudes según Katz"
+      },
+      {
+        "number": 9,
+        "title": "Función de conocimiento"
+      },
+      {
+        "number": 10,
+        "title": "Función instrumental o adaptativa"
+      },
+      {
+        "number": 11,
+        "title": "Función defensiva del yo"
+      },
+      {
+        "number": 12,
+        "title": "Función expresiva de valores"
+      },
+      {
+        "number": 13,
+        "title": "Experiencia directa y condicionamiento"
+      },
+      {
+        "number": 14,
+        "title": "Observación, imitación y grupos"
+      },
+      {
+        "number": 15,
+        "title": "Información, persuasión y credibilidad"
+      },
+      {
+        "number": 16,
+        "title": "Intención, norma social y control percibido"
+      },
+      {
+        "number": 17,
+        "title": "Disonancia cognitiva y cambio"
+      },
+      {
+        "number": 18,
+        "title": "Medición de actitudes"
+      },
+      {
+        "number": 19,
+        "title": "Importancia, conocimiento y accesibilidad"
+      },
+      {
+        "number": 20,
+        "title": "Límites de la predicción actitud-conducta"
+      },
+      {
+        "number": 21,
+        "title": "Concepto de estereotipo"
+      },
+      {
+        "number": 22,
+        "title": "Categorización, endogrupo y exogrupo"
+      },
+      {
+        "number": 23,
+        "title": "Concepto de prejuicio"
+      },
+      {
+        "number": 24,
+        "title": "Concepto de discriminación"
+      },
+      {
+        "number": 25,
+        "title": "Cadena estereotipo-prejuicio-discriminación"
+      },
+      {
+        "number": 26,
+        "title": "Discriminación directa e indirecta"
+      },
+      {
+        "number": 27,
+        "title": "Discriminación por asociación, error y múltiples causas"
+      },
+      {
+        "number": 28,
+        "title": "Sesgos, atribución y correlación ilusoria"
+      },
+      {
+        "number": 29,
+        "title": "Del prejuicio al odio y al delito"
+      },
+      {
+        "number": 30,
+        "title": "Reducción del prejuicio y prevención"
+      },
+      {
+        "number": 31,
+        "title": "Personalidad autoritaria"
+      },
+      {
+        "number": 32,
+        "title": "Escala F y dimensiones autoritarias"
+      },
+      {
+        "number": 33,
+        "title": "Dogmatismo y sistema cerrado de creencias"
+      },
+      {
+        "number": 34,
+        "title": "Xenofobia: concepto y alcance"
+      },
+      {
+        "number": 35,
+        "title": "Racismo, xenofobia y discriminación"
+      },
+      {
+        "number": 36,
+        "title": "Intolerancia y discurso de odio"
+      },
+      {
+        "number": 37,
+        "title": "Concepto de grupo social"
+      },
+      {
+        "number": 38,
+        "title": "Elementos de la estructura grupal"
+      },
+      {
+        "number": 39,
+        "title": "Grupos primarios y secundarios"
+      },
+      {
+        "number": 40,
+        "title": "Grupos formales e informales"
+      },
+      {
+        "number": 41,
+        "title": "Grupos de pertenencia y referencia"
+      },
+      {
+        "number": 42,
+        "title": "Estatus, rol y conflicto de roles"
+      },
+      {
+        "number": 43,
+        "title": "Cohesión, conformidad y presión grupal"
+      },
+      {
+        "number": 44,
+        "title": "Liderazgo y estilos de dirección"
+      },
+      {
+        "number": 45,
+        "title": "Diferenciación intergrupal e interdependencia"
+      },
+      {
+        "number": 46,
+        "title": "Conflicto e identidad entre grupos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Actitudes, valores y socialización",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Funciones, formación, cambio y medida de las actitudes",
+        "blocks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Estereotipos, prejuicios y discriminación",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Personalidad autoritaria, xenofobia y dogmatismo",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Concepto, clases y estructura de los grupos sociales",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Procesos y relaciones de grupo",
+        "blocks": [
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

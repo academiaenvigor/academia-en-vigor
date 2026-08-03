@@ -3,6 +3,14 @@
   "checked_at": "2026-08-02",
   "sources": [
     {
+      "id": "ADORNO-1950-T29",
+      "title": "Adorno et al.: The Authoritarian Personality",
+      "url": "https://archive.org/details/authoritarianper00ador",
+      "scope": "personalidad autoritaria y escala F",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "AGE-ALTOS-CARGOS",
       "title": "Referencia temática de la Ley 40/2015: AGE-ALTOS-CARGOS",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
@@ -135,11 +143,44 @@
       ]
     },
     {
+      "id": "AJZEN-1991-T29",
+      "title": "Icek Ajzen: The Theory of Planned Behavior",
+      "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+      "scope": "actitud, intención, norma subjetiva, control y conducta",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "ALLPORT-1954-T29",
+      "title": "Gordon Allport: The Nature of Prejudice",
+      "url": "https://psycnet.apa.org/record/1954-07324-000",
+      "scope": "concepto y mecanismos del prejuicio",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "ATTAC-ES-T28",
       "title": "ATTAC España: identidad, historia y propuestas",
       "url": "https://attac.es/quienes-somos/",
       "scope": "ATTAC, acción ciudadana y transacciones financieras",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "BOE-L15-2022-T29",
+      "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+      "boe_id": "BOE-A-2022-11589",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
+      "scope": "conceptos y modalidades de discriminación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "BONINGER-1995-T29",
+      "title": "Boninger, Krosnick y Berent: Origins of Attitude Importance",
+      "url": "https://doi.org/10.1037/0022-3514.68.1.61",
+      "scope": "interés propio, identificación social y valores",
+      "official": false,
       "traceable": true
     },
     {
@@ -430,6 +471,30 @@
       "traceable": true
     },
     {
+      "id": "COE-GROUP-T29",
+      "title": "Council of Europe: Group Dynamics and Social Processes",
+      "url": "https://www.coe.int/en/web/compass/group-dynamics",
+      "scope": "estructura, roles, normas y procesos de grupo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COE-HATE-SPEECH-T29",
+      "title": "Council of Europe Recommendation CM/Rec(2022)16 on combating hate speech",
+      "url": "https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680a67955",
+      "scope": "intolerancia, discurso de odio y respuesta graduada",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COE-STEREOTYPES-T29",
+      "title": "Council of Europe: Discrimination and Intolerance",
+      "url": "https://www.coe.int/en/web/compass/discrimination-and-intolerance",
+      "scope": "estereotipos, prejuicios y discriminación",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CONV-PN-2026",
       "title": "Convocatoria de ingreso en la Escala Básica de la Policía Nacional 2026",
       "boe_id": "BOE-A-2026-15055",
@@ -445,6 +510,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1978-26331",
       "scope": "definición internacional y no devolución",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COOLEY-1909-T29",
+      "title": "Charles H. Cooley: Social Organization, Primary Groups",
+      "url": "https://brocku.ca/MeadProject/Cooley/Cooley_1909/Cooley_1909.html",
+      "scope": "grupos primarios y relaciones cara a cara",
+      "official": false,
       "traceable": true
     },
     {
@@ -637,6 +710,14 @@
       "traceable": true
     },
     {
+      "id": "ECRI-GPR7-T29",
+      "title": "ECRI General Policy Recommendation No. 7",
+      "url": "https://www.coe.int/en/web/european-commission-against-racism-and-intolerance/recommendation-no.7",
+      "scope": "racismo, discriminación racial y xenofobia",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EOMF-T21",
       "title": "Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
       "boe_id": "BOE-A-1982-837",
@@ -654,11 +735,27 @@
       "traceable": true
     },
     {
+      "id": "FESTINGER-1957-T29",
+      "title": "Leon Festinger: A Theory of Cognitive Dissonance",
+      "url": "https://www.sup.org/books/psychology/theory-cognitive-dissonance",
+      "scope": "disonancia cognitiva y cambio de actitudes",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "FGE3-2017-T20",
       "title": "Circular FGE 3/2017",
       "boe_id": "FIS-C-2017-00003",
       "url": "https://www.boe.es/buscar/doc.php?id=FIS-C-2017-00003",
       "scope": "descubrimiento de secretos y daños informáticos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "FRA-BIAS-T29",
+      "title": "EU Agency for Fundamental Rights: Preventing unlawful profiling",
+      "url": "https://fra.europa.eu/en/publication/2018/preventing-unlawful-profiling-today-and-future-guide",
+      "scope": "sesgos, perfilado y controles profesionales",
       "official": true,
       "traceable": true
     },
@@ -792,6 +889,14 @@
       ]
     },
     {
+      "id": "HYMAN-1942-T29",
+      "title": "Herbert Hyman: The Psychology of Status",
+      "url": "https://doi.org/10.1086/219352",
+      "scope": "grupos de pertenencia y referencia",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "ILO-FAIR-T28",
       "title": "OIT: A Fair Globalization, Creating Opportunities for All",
       "url": "https://www.ilo.org/publications/fair-globalization-creating-opportunities-all",
@@ -889,6 +994,14 @@
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22252",
       "scope": "20 objetivos, 45 medidas y seis ejes",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "KATZ-1960-T29",
+      "title": "Daniel Katz: The Functional Approach to the Study of Attitudes",
+      "url": "https://doi.org/10.1086/266945",
+      "scope": "funciones instrumental, defensiva, expresiva y de conocimiento",
+      "official": false,
       "traceable": true
     },
     {
@@ -1015,6 +1128,22 @@
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4606",
       "scope": "arts. 1-35",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEWIN-1939-T29",
+      "title": "Lewin, Lippitt y White: Patterns of Aggressive Behavior",
+      "url": "https://doi.org/10.1080/00224545.1939.9713366",
+      "scope": "estilos autoritario, democrático y laissez-faire",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "LEWIN-1947-T29",
+      "title": "Kurt Lewin: Frontiers in Group Dynamics",
+      "url": "https://doi.org/10.1177/001872674700100103",
+      "scope": "concepto, interdependencia y dinámica de grupos",
+      "official": false,
       "traceable": true
     },
     {
@@ -1519,6 +1648,22 @@
       "traceable": true
     },
     {
+      "id": "OSCE-HATE-T29",
+      "title": "OSCE/ODIHR: Hate Crime Laws, A Practical Guide",
+      "url": "https://www.osce.org/odihr/36426",
+      "scope": "delito de odio y motivación de prejuicio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OSGOOD-1957-T29",
+      "title": "Osgood, Suci y Tannenbaum: The Measurement of Meaning",
+      "url": "https://psycnet.apa.org/record/1958-01203-000",
+      "scope": "diferencial semántico y medición de actitudes",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "PJC522-2025-T15",
       "title": "Orden PJC/522/2025: procedimiento para una nueva Estrategia Nacional de Ciberseguridad",
       "boe_id": "BOE-A-2025-10371",
@@ -1537,10 +1682,42 @@
       "traceable": true
     },
     {
+      "id": "RABBIE-1989-T29",
+      "title": "Rabbie, Schot y Visser: Social Identity Theory, A Conceptual and Empirical Critique",
+      "url": "https://doi.org/10.1002/ejsp.2420190302",
+      "scope": "diferenciación intergrupal, interdependencia e identidad social",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "RAE-ACTITUD-T29",
+      "title": "Real Academia Española: actitud",
+      "url": "https://dle.rae.es/actitud",
+      "scope": "concepto y usos de actitud",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RAE-GLOBAL-T28",
       "title": "Diccionario de la lengua española: globalización y globalizar",
       "url": "https://dle.rae.es/globalizaci%C3%B3n",
       "scope": "concepto lingüístico y alcance internacional y cultural",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-VALOR-T29",
+      "title": "Real Academia Española: valor",
+      "url": "https://dle.rae.es/valor",
+      "scope": "concepto general de valor",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-XENOFOBIA-T29",
+      "title": "Real Academia Española: xenofobia",
+      "url": "https://dle.rae.es/xenofobia",
+      "scope": "concepto de xenofobia",
       "official": true,
       "traceable": true
     },
@@ -1823,6 +2000,22 @@
       "traceable": true
     },
     {
+      "id": "ROKEACH-1960-T29",
+      "title": "Milton Rokeach: The Open and Closed Mind",
+      "url": "https://archive.org/details/openclosedmindin0000roke",
+      "scope": "dogmatismo y organización cerrada de creencias",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "ROSENBERG-HOVLAND-T29",
+      "title": "Rosenberg y Hovland: Cognitive, Affective and Behavioral Components of Attitudes",
+      "url": "https://psycnet.apa.org/record/1962-00520-000",
+      "scope": "modelo tridimensional de la actitud",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "RSP-T25",
       "title": "Real Decreto 39/1997, Reglamento de los Servicios de Prevención, texto consolidado",
       "boe_id": "BOE-A-1997-1853",
@@ -1884,6 +2077,14 @@
       "traceable": true
     },
     {
+      "id": "SHERIF-1961-T29",
+      "title": "Sherif et al.: Intergroup Conflict and Cooperation, The Robbers Cave Experiment",
+      "url": "https://psychclassics.yorku.ca/Sherif/",
+      "scope": "conflicto intergrupal y objetivos supraordenados",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "STC13-2021-T14",
       "title": "Sentencia del Tribunal Constitucional 13/2021",
       "boe_id": "BOE-A-2021-2832",
@@ -1916,6 +2117,14 @@
       "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Supremo-fija-los-criterios-para-aceptar-los-mensajes-de-las-redes-sociales-como-prueba-en-los-juicios",
       "scope": "impugnación de autenticidad de mensajes",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "TAJFEL-TURNER-T29",
+      "title": "Tajfel y Turner: An Integrative Theory of Intergroup Conflict",
+      "url": "https://psycnet.apa.org/record/2001-01466-016",
+      "scope": "categorización, identidad social, endogrupo y exogrupo",
+      "official": false,
       "traceable": true
     },
     {
@@ -2172,10 +2381,34 @@
       "traceable": true
     },
     {
+      "id": "UNESCO-EDUCATION-T29",
+      "title": "UNESCO: Global Citizenship Education, Topics and Learning Objectives",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000232993",
+      "scope": "socialización, aprendizaje, identidad y convivencia",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UNESCO-MCLUHAN-T28",
       "title": "UNESCO: Marshall McLuhan, The Archives of the Future",
       "url": "https://www.unesco.org/en/memory-world/marshall-mcluhan-archives-future",
       "scope": "aldea global y medios de comunicación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-MEDIA-T29",
+      "title": "UNESCO: Media and Information Literacy Curriculum",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000224187",
+      "scope": "información, persuasión, estereotipos y pensamiento crítico",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-TOLERANCE-T29",
+      "title": "UNESCO: Declaración de Principios sobre la Tolerancia",
+      "url": "https://www.unesco.org/en/legal-affairs/declaration-principles-tolerance",
+      "scope": "valores, tolerancia, educación y prevención del prejuicio",
       "official": true,
       "traceable": true
     },
