@@ -1,0 +1,343 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 25,
+  "topic_title": "Marco normativo básico en prevención de riesgos laborales. La Ley 31/1995, de Prevención de Riesgos Laborales. RD 39/1997, Reglamento de los servicios de prevención. El RD 2/2006, sobre Prevención de Riesgos Laborales en los funcionarios del Cuerpo Nacional de Policía. El RD 67/2010 sobre adaptación de la Prevención de Riesgos Laborales en la Administración General del Estado. Derechos y deberes básicos en materia de Prevención de Riesgos laborales.",
+  "id_prefix": "PN-T25",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-25/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-25/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Sistema normativo preventivo"
+      },
+      {
+        "number": 2,
+        "title": "Objeto y carácter de la Ley 31/1995"
+      },
+      {
+        "number": 3,
+        "title": "Ámbito general y peculiaridades públicas"
+      },
+      {
+        "number": 4,
+        "title": "Definiciones legales de alto rendimiento"
+      },
+      {
+        "number": 5,
+        "title": "Política preventiva y coordinación pública"
+      },
+      {
+        "number": 6,
+        "title": "Instituto Nacional de Seguridad y Salud en el Trabajo"
+      },
+      {
+        "number": 7,
+        "title": "Inspección de Trabajo y autoridades sanitarias"
+      },
+      {
+        "number": 8,
+        "title": "Comisión Nacional de Seguridad y Salud"
+      },
+      {
+        "number": 9,
+        "title": "Derecho a protección eficaz y deber correlativo"
+      },
+      {
+        "number": 10,
+        "title": "Principios generales de la acción preventiva"
+      },
+      {
+        "number": 11,
+        "title": "Integración y plan de prevención"
+      },
+      {
+        "number": 12,
+        "title": "Evaluación inicial y actualización"
+      },
+      {
+        "number": 13,
+        "title": "Planificación e investigación de daños"
+      },
+      {
+        "number": 14,
+        "title": "Equipos de trabajo y protección individual"
+      },
+      {
+        "number": 15,
+        "title": "Información preventiva"
+      },
+      {
+        "number": 16,
+        "title": "Consulta y participación"
+      },
+      {
+        "number": 17,
+        "title": "Formación preventiva"
+      },
+      {
+        "number": 18,
+        "title": "Medidas de emergencia"
+      },
+      {
+        "number": 19,
+        "title": "Riesgo grave e inminente y paralización"
+      },
+      {
+        "number": 20,
+        "title": "Vigilancia de la salud"
+      },
+      {
+        "number": 21,
+        "title": "Documentación, notificación y coordinación"
+      },
+      {
+        "number": 22,
+        "title": "Personas especialmente sensibles"
+      },
+      {
+        "number": 23,
+        "title": "Maternidad, menores y relaciones temporales"
+      },
+      {
+        "number": 24,
+        "title": "Obligaciones de las personas trabajadoras"
+      },
+      {
+        "number": 25,
+        "title": "Organización, responsabilidades y coste"
+      },
+      {
+        "number": 26,
+        "title": "Integración y contenido del plan en el RD 39/1997"
+      },
+      {
+        "number": 27,
+        "title": "Contenido general de la evaluación"
+      },
+      {
+        "number": 28,
+        "title": "Revisión y documentación de la evaluación"
+      },
+      {
+        "number": 29,
+        "title": "Planificación de la actividad preventiva"
+      },
+      {
+        "number": 30,
+        "title": "Modalidades de organización preventiva"
+      },
+      {
+        "number": 31,
+        "title": "Asunción personal por el empresario"
+      },
+      {
+        "number": 32,
+        "title": "Personas trabajadoras designadas"
+      },
+      {
+        "number": 33,
+        "title": "Servicio de prevención propio: supuestos"
+      },
+      {
+        "number": 34,
+        "title": "Organización del servicio propio"
+      },
+      {
+        "number": 35,
+        "title": "Servicios de prevención ajenos"
+      },
+      {
+        "number": 36,
+        "title": "Servicios de prevención mancomunados"
+      },
+      {
+        "number": 37,
+        "title": "Auditoría del sistema preventivo"
+      },
+      {
+        "number": 38,
+        "title": "Presencia de recursos preventivos"
+      },
+      {
+        "number": 39,
+        "title": "Niveles de funciones preventivas"
+      },
+      {
+        "number": 40,
+        "title": "Objeto y ámbito del RD 67/2010"
+      },
+      {
+        "number": 41,
+        "title": "Integración y participación en la AGE"
+      },
+      {
+        "number": 42,
+        "title": "Delegados y Comités en la AGE"
+      },
+      {
+        "number": 43,
+        "title": "Recursos, cualificación y control en la AGE"
+      },
+      {
+        "number": 44,
+        "title": "Objeto, ámbito y estructura vigente policial"
+      },
+      {
+        "number": 45,
+        "title": "Derecho y principios preventivos policiales"
+      },
+      {
+        "number": 46,
+        "title": "Plan, evaluación y revisión policial"
+      },
+      {
+        "number": 47,
+        "title": "Equipos, información y participación policial"
+      },
+      {
+        "number": 48,
+        "title": "Formación y emergencias policiales"
+      },
+      {
+        "number": 49,
+        "title": "Vigilancia de la salud policial"
+      },
+      {
+        "number": 50,
+        "title": "Maternidad y obligaciones policiales"
+      },
+      {
+        "number": 51,
+        "title": "Delegados, Comisión y Comités policiales"
+      },
+      {
+        "number": 52,
+        "title": "Servicio de prevención y control policial"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Marco básico y sistema de la Ley 31/1995",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Derechos, deberes y protección preventiva",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Reglamento de los Servicios de Prevención",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Cualificación y adaptación a la Administración General del Estado",
+        "blocks": [
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Prevención de riesgos laborales en la Policía Nacional",
+        "blocks": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

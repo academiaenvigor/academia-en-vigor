@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-25",
+  "topic_number": 25,
+  "slug": "marco-normativo-prevencion-riesgos-laborales-policia-nacional",
+  "title": "Marco normativo básico en prevención de riesgos laborales. La Ley 31/1995, de Prevención de Riesgos Laborales. RD 39/1997, Reglamento de los servicios de prevención. El RD 2/2006, sobre Prevención de Riesgos Laborales en los funcionarios del Cuerpo Nacional de Policía. El RD 67/2010 sobre adaptación de la Prevención de Riesgos Laborales en la Administración General del Estado. Derechos y deberes básicos en materia de Prevención de Riesgos laborales.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-25/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-25-marco-normativo-prevencion-riesgos-laborales-policia-nacional.md",
+    "atestado": "temas/policia-nacional/atestado/tema-25-marco-normativo-prevencion-riesgos-laborales-policia-nacional.md"
+  },
+  "semantic_blocks": 52,
+  "atomic_facts": 260,
+  "master_statements": 260,
+  "coverage_file": "conocimiento/policia-nacional/tema-25/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE-T25",
+    "DIR89-391-T25",
+    "LPRL-T25",
+    "RD171-2004-T25",
+    "RSP-T25",
+    "RD67-2010-T25",
+    "RD2-2006-T25",
+    "CORR-RD2-2006-T25",
+    "INT859-2023-T25"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q043",
+    "of-pn-p33-a-q044",
+    "of-pn-p33-a-q045",
+    "of-pn-p34-a-q095",
+    "of-pn-p34-a-q097",
+    "of-pn-p35-a-q032",
+    "of-pn-p37-a-q047",
+    "of-pn-p37-a-q070",
+    "of-pn-p38-a-q067",
+    "of-pn-p39-a-q054",
+    "of-pn-p39-a-q083",
+    "of-pn-p40-a-q072",
+    "of-pn-p40-a-q083",
+    "of-pn-p40-a-q087",
+    "of-pn-p41-a-q020",
+    "of-pn-p41-a-q027",
+    "of-pn-p41-a-q076",
+    "of-pn-p42-a-q087",
+    "of-pn-p42-a-q100"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-25/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-25/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-25/manifest.json",
+    "questions": 520,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-25/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-25/manifest.json",
+    "total": 0,
+    "planned": 52
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-25/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-25/revision-1.0.md"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 25,
+  "estado": "ready",
+  "publicacion": "not_published",
+  "total_preguntas": 520,
+  "total_hechos": 260,
+  "hechos_cubiertos": 260,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 174,
+    "B": 173,
+    "C": 173
+  },
+  "distribucion_dificultad": {
+    "alta": 520
+  },
+  "distribucion_tipo": {
+    "literal": 52,
+    "inversa": 52,
+    "terminologica": 52,
+    "deteccion_error": 52,
+    "supuesto_practico": 52,
+    "supuesto_practico_inverso": 52,
+    "regla_requisito": 52,
+    "plazo_organo": 52,
+    "comparativa": 52,
+    "comparativa_inversa": 52
+  },
+  "preguntas_por_bloque": {
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 10,
+    "9": 10,
+    "10": 10,
+    "11": 10,
+    "12": 10,
+    "13": 10,
+    "14": 10,
+    "15": 10,
+    "16": 10,
+    "17": 10,
+    "18": 10,
+    "19": 10,
+    "20": 10,
+    "21": 10,
+    "22": 10,
+    "23": 10,
+    "24": 10,
+    "25": 10,
+    "26": 10,
+    "27": 10,
+    "28": 10,
+    "29": 10,
+    "30": 10,
+    "31": 10,
+    "32": 10,
+    "33": 10,
+    "34": 10,
+    "35": 10,
+    "36": 10,
+    "37": 10,
+    "38": 10,
+    "39": 10,
+    "40": 10,
+    "41": 10,
+    "42": 10,
+    "43": 10,
+    "44": 10,
+    "45": 10,
+    "46": 10,
+    "47": 10,
+    "48": 10,
+    "49": 10,
+    "50": 10,
+    "51": 10,
+    "52": 10
+  },
+  "preguntas_por_parte": {
+    "1": 100,
+    "2": 150,
+    "3": 130,
+    "4": 50,
+    "5": 90
+  },
+  "caracter": {
+    "propias": 520,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "../../../conocimiento/policia-nacional/tema-25/master.md",
+  "cobertura": "../../../conocimiento/policia-nacional/tema-25/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/policia-nacional/tema-25/plan.json",
+  "official_exam_index": "indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "blocked_until_editorial_approval",
+  "quality_gate": {
+    "status": "passed",
+    "reasons": [],
+    "risk5_second_formulations_pending": 0
+  }
+}

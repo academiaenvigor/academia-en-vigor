@@ -558,6 +558,30 @@
           "official_exam_mapped": 4,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 25,
+          "slug": "marco-normativo-prevencion-riesgos-laborales-policia-nacional",
+          "title": "Marco normativo básico en prevención de riesgos laborales. La Ley 31/1995, de Prevención de Riesgos Laborales. RD 39/1997, Reglamento de los servicios de prevención. El RD 2/2006, sobre Prevención de Riesgos Laborales en los funcionarios del Cuerpo Nacional de Policía. El RD 67/2010 sobre adaptación de la Prevención de Riesgos Laborales en la Administración General del Estado. Derechos y deberes básicos en materia de Prevención de Riesgos laborales.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-25/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-25-marco-normativo-prevencion-riesgos-laborales-policia-nacional.md",
+          "atestado": "temas/policia-nacional/atestado/tema-25-marco-normativo-prevencion-riesgos-laborales-policia-nacional.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-25/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-25/plan.json",
+          "assets": "assets/policia-nacional/tema-25/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-25/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-25/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 52,
+          "atomic_facts": 260,
+          "question_count": 520,
+          "official_exam_mapped": 19,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }
