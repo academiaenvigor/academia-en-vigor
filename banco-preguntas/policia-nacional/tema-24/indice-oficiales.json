@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 24,
+  "titulo": "Introducción a la Prevención de Riesgos Laborales. Concepto general de trabajo. Concepto de salud y condiciones de trabajo. El trabajo y la salud. Concepto general de riesgos Laborales. Principios generales de la actividad preventiva. Conceptos de prevención y protección. Consecuencia de los riesgos. Daños a la salud.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 4,
+  "con_bloque_asignado": 4,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "23": 2,
+    "18": 1,
+    "16": 1
+  },
+  "por_promocion": {
+    "P33": 1,
+    "P34": 1,
+    "P39": 1,
+    "P41": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q043",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 43,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "PN-T24-F111"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Conforme dispone el art. 15 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, entre los principios generales de la acción preventiva, se encuentra:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q095",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 95,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "PN-T24-F086"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Con relación a la definición de «riesgo laboral grave e inminente» que contempla la Ley de prevención de Riesgos Laborales, es correcto afirmar que:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q083",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 83,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T24-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La ley 31/1995, de prevención de Riesgos Laborales, define el concepto “riesgo laboral” como:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q020",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 20,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "PN-T24-F111"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La Ley 31/1995, de prevención de riesgos laborales, establece que el empresario aplicará las medidas que integran el deber general de prevención con arreglo a una serie de principios generales, ¿Cuál de los siguientes es uno de estos principios de la acción preventiva?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    }
+  ]
+}

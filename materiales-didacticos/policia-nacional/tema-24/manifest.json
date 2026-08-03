@@ -1,0 +1,115 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-24",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-24",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Trabajo, salud y relación entre ambos",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Condiciones de trabajo y factores de riesgo",
+      "blocks": [
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "anchor_blocks": [
+        "08"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Concepto y valoración del riesgo laboral",
+      "blocks": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "anchor_blocks": [
+        "15"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Actividad preventiva y principios generales",
+      "blocks": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "anchor_blocks": [
+        "23"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Protección, consecuencias y daños a la salud",
+      "blocks": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "anchor_blocks": [
+        "30"
+      ]
+    }
+  ],
+  "resources": []
+}

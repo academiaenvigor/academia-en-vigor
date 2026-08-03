@@ -1,0 +1,631 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-24",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 36,
+    "integrated": 0,
+    "planned": 36
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T24-V01",
+      "file": "t24-01-finalidad-de-la-prevencion-de-riesgos-labo.webp",
+      "title": "Finalidad de la prevención de riesgos laborales",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar finalidad de la prevención de riesgos laborales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V02",
+      "file": "t24-02-concepto-general-de-trabajo.webp",
+      "title": "Concepto general de trabajo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar concepto general de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V03",
+      "file": "t24-03-efectos-positivos-y-negativos-del-trabajo.webp",
+      "title": "Efectos positivos y negativos del trabajo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar efectos positivos y negativos del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V04",
+      "file": "t24-04-concepto-de-salud-de-la-oms.webp",
+      "title": "Concepto de salud de la OMS",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar concepto de salud de la oms mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V05",
+      "file": "t24-05-salud-como-realidad-dinamica.webp",
+      "title": "Salud como realidad dinámica",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar salud como realidad dinámica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V06",
+      "file": "t24-06-relacion-entre-trabajo-y-salud.webp",
+      "title": "Relación entre trabajo y salud",
+      "type": "ilustracion_simple",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar relación entre trabajo y salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V07",
+      "file": "t24-07-seguridad-y-salud-en-el-trabajo.webp",
+      "title": "Seguridad y salud en el trabajo",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar seguridad y salud en el trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V08",
+      "file": "t24-08-concepto-legal-de-condicion-de-trabajo.webp",
+      "title": "Concepto legal de condición de trabajo",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar concepto legal de condición de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V09",
+      "file": "t24-09-locales-instalaciones-equipos-y-productos.webp",
+      "title": "Locales, instalaciones, equipos y productos",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar locales, instalaciones, equipos y productos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V10",
+      "file": "t24-10-agentes-fisicos-del-ambiente-de-trabajo.webp",
+      "title": "Agentes físicos del ambiente de trabajo",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar agentes físicos del ambiente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V11",
+      "file": "t24-11-agentes-quimicos-y-biologicos.webp",
+      "title": "Agentes químicos y biológicos",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar agentes químicos y biológicos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V12",
+      "file": "t24-12-carga-fisica-y-carga-mental.webp",
+      "title": "Carga física y carga mental",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar carga física y carga mental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V13",
+      "file": "t24-13-organizacion-y-ordenacion-del-trabajo.webp",
+      "title": "Organización y ordenación del trabajo",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar organización y ordenación del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V14",
+      "file": "t24-14-puesto-de-trabajo-y-factor-individual.webp",
+      "title": "Puesto de trabajo y factor individual",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar puesto de trabajo y factor individual mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V15",
+      "file": "t24-15-peligro-exposicion-y-riesgo.webp",
+      "title": "Peligro, exposición y riesgo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar peligro, exposición y riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V16",
+      "file": "t24-16-definicion-de-riesgo-laboral.webp",
+      "title": "Definición de riesgo laboral",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar definición de riesgo laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V17",
+      "file": "t24-17-gravedad-del-riesgo-probabilidad-y-severid.webp",
+      "title": "Gravedad del riesgo: probabilidad y severidad",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar gravedad del riesgo: probabilidad y severidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V18",
+      "file": "t24-18-riesgo-grave-e-inminente.webp",
+      "title": "Riesgo grave e inminente",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar riesgo grave e inminente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V19",
+      "file": "t24-19-procesos-potencialmente-peligrosos-y-equip.webp",
+      "title": "Procesos potencialmente peligrosos y equipos",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar procesos potencialmente peligrosos y equipos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V20",
+      "file": "t24-20-familias-de-factores-de-riesgo.webp",
+      "title": "Familias de factores de riesgo",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar familias de factores de riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V21",
+      "file": "t24-21-riesgos-de-seguridad.webp",
+      "title": "Riesgos de seguridad",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar riesgos de seguridad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V22",
+      "file": "t24-22-riesgos-higienicos-ergonomicos-y-psicosoci.webp",
+      "title": "Riesgos higiénicos, ergonómicos y psicosociales",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar riesgos higiénicos, ergonómicos y psicosociales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V23",
+      "file": "t24-23-concepto-legal-de-prevencion.webp",
+      "title": "Concepto legal de prevención",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar concepto legal de prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V24",
+      "file": "t24-24-evitar-evaluar-y-combatir-en-origen.webp",
+      "title": "Evitar, evaluar y combatir en origen",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar evitar, evaluar y combatir en origen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V25",
+      "file": "t24-25-adaptar-actualizar-y-sustituir.webp",
+      "title": "Adaptar, actualizar y sustituir",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar adaptar, actualizar y sustituir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V26",
+      "file": "t24-26-planificar-priorizar-lo-colectivo-e-instru.webp",
+      "title": "Planificar, priorizar lo colectivo e instruir",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar planificar, priorizar lo colectivo e instruir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V27",
+      "file": "t24-27-capacidades-acceso-a-zonas-e-imprudencias-.webp",
+      "title": "Capacidades, acceso a zonas e imprudencias previsibles",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar capacidades, acceso a zonas e imprudencias previsibles mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V28",
+      "file": "t24-28-prevencion-integral-integrada-y-participat.webp",
+      "title": "Prevención integral, integrada y participativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar prevención integral, integrada y participativa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V29",
+      "file": "t24-29-ciclo-de-mejora-preventiva.webp",
+      "title": "Ciclo de mejora preventiva",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar ciclo de mejora preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V30",
+      "file": "t24-30-prevencion-y-proteccion.webp",
+      "title": "Prevención y protección",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar prevención y protección mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V31",
+      "file": "t24-31-proteccion-colectiva.webp",
+      "title": "Protección colectiva",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar protección colectiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V32",
+      "file": "t24-32-proteccion-individual-y-epi.webp",
+      "title": "Protección individual y EPI",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar protección individual y epi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V33",
+      "file": "t24-33-consecuencias-de-los-riesgos.webp",
+      "title": "Consecuencias de los riesgos",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar consecuencias de los riesgos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V34",
+      "file": "t24-34-danos-derivados-del-trabajo.webp",
+      "title": "Daños derivados del trabajo",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar daños derivados del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V35",
+      "file": "t24-35-accidente-de-trabajo.webp",
+      "title": "Accidente de trabajo",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar accidente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T24-V36",
+      "file": "t24-36-enfermedad-profesional-y-otras-patologias.webp",
+      "title": "Enfermedad profesional y otras patologías",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar enfermedad profesional y otras patologías mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    "T24-V01",
+    "T24-V02",
+    "T24-V03",
+    "T24-V04",
+    "T24-V05",
+    "T24-V06",
+    "T24-V07",
+    "T24-V08",
+    "T24-V09",
+    "T24-V10",
+    "T24-V11",
+    "T24-V12",
+    "T24-V13",
+    "T24-V14",
+    "T24-V15",
+    "T24-V16",
+    "T24-V17",
+    "T24-V18",
+    "T24-V19",
+    "T24-V20",
+    "T24-V21",
+    "T24-V22",
+    "T24-V23",
+    "T24-V24",
+    "T24-V25",
+    "T24-V26",
+    "T24-V27",
+    "T24-V28",
+    "T24-V29",
+    "T24-V30",
+    "T24-V31",
+    "T24-V32",
+    "T24-V33",
+    "T24-V34",
+    "T24-V35",
+    "T24-V36"
+  ]
+}

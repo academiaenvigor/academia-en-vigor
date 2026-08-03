@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 24,
+  "topic_title": "Introducción a la Prevención de Riesgos Laborales. Concepto general de trabajo. Concepto de salud y condiciones de trabajo. El trabajo y la salud. Concepto general de riesgos Laborales. Principios generales de la actividad preventiva. Conceptos de prevención y protección. Consecuencia de los riesgos. Daños a la salud.",
+  "id_prefix": "PN-T24",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-24/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-24/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Finalidad de la prevención de riesgos laborales"
+      },
+      {
+        "number": 2,
+        "title": "Concepto general de trabajo"
+      },
+      {
+        "number": 3,
+        "title": "Efectos positivos y negativos del trabajo"
+      },
+      {
+        "number": 4,
+        "title": "Concepto de salud de la OMS"
+      },
+      {
+        "number": 5,
+        "title": "Salud como realidad dinámica"
+      },
+      {
+        "number": 6,
+        "title": "Relación entre trabajo y salud"
+      },
+      {
+        "number": 7,
+        "title": "Seguridad y salud en el trabajo"
+      },
+      {
+        "number": 8,
+        "title": "Concepto legal de condición de trabajo"
+      },
+      {
+        "number": 9,
+        "title": "Locales, instalaciones, equipos y productos"
+      },
+      {
+        "number": 10,
+        "title": "Agentes físicos del ambiente de trabajo"
+      },
+      {
+        "number": 11,
+        "title": "Agentes químicos y biológicos"
+      },
+      {
+        "number": 12,
+        "title": "Carga física y carga mental"
+      },
+      {
+        "number": 13,
+        "title": "Organización y ordenación del trabajo"
+      },
+      {
+        "number": 14,
+        "title": "Puesto de trabajo y factor individual"
+      },
+      {
+        "number": 15,
+        "title": "Peligro, exposición y riesgo"
+      },
+      {
+        "number": 16,
+        "title": "Definición de riesgo laboral"
+      },
+      {
+        "number": 17,
+        "title": "Gravedad del riesgo: probabilidad y severidad"
+      },
+      {
+        "number": 18,
+        "title": "Riesgo grave e inminente"
+      },
+      {
+        "number": 19,
+        "title": "Procesos potencialmente peligrosos y equipos"
+      },
+      {
+        "number": 20,
+        "title": "Familias de factores de riesgo"
+      },
+      {
+        "number": 21,
+        "title": "Riesgos de seguridad"
+      },
+      {
+        "number": 22,
+        "title": "Riesgos higiénicos, ergonómicos y psicosociales"
+      },
+      {
+        "number": 23,
+        "title": "Concepto legal de prevención"
+      },
+      {
+        "number": 24,
+        "title": "Evitar, evaluar y combatir en origen"
+      },
+      {
+        "number": 25,
+        "title": "Adaptar, actualizar y sustituir"
+      },
+      {
+        "number": 26,
+        "title": "Planificar, priorizar lo colectivo e instruir"
+      },
+      {
+        "number": 27,
+        "title": "Capacidades, acceso a zonas e imprudencias previsibles"
+      },
+      {
+        "number": 28,
+        "title": "Prevención integral, integrada y participativa"
+      },
+      {
+        "number": 29,
+        "title": "Ciclo de mejora preventiva"
+      },
+      {
+        "number": 30,
+        "title": "Prevención y protección"
+      },
+      {
+        "number": 31,
+        "title": "Protección colectiva"
+      },
+      {
+        "number": 32,
+        "title": "Protección individual y EPI"
+      },
+      {
+        "number": 33,
+        "title": "Consecuencias de los riesgos"
+      },
+      {
+        "number": 34,
+        "title": "Daños derivados del trabajo"
+      },
+      {
+        "number": 35,
+        "title": "Accidente de trabajo"
+      },
+      {
+        "number": 36,
+        "title": "Enfermedad profesional y otras patologías"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Trabajo, salud y relación entre ambos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Condiciones de trabajo y factores de riesgo",
+        "blocks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Concepto y valoración del riesgo laboral",
+        "blocks": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Actividad preventiva y principios generales",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Protección, consecuencias y daños a la salud",
+        "blocks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
