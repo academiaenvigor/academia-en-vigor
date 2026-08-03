@@ -816,6 +816,14 @@
       "traceable": true
     },
     {
+      "id": "CONVOCATORIA-PN-2026-T39",
+      "title": "Convocatoria de Escala Básica 2026 · Tema 39",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial completo",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COOLEY-1909-T29",
       "title": "Charles H. Cooley: Social Organization, Primary Groups",
       "url": "https://brocku.ca/MeadProject/Cooley/Cooley_1909/Cooley_1909.html",
@@ -1403,6 +1411,22 @@
       "traceable": true
     },
     {
+      "id": "IEEE8021Q-BRIDGES-T39",
+      "title": "IEEE 802.1Q · Bridges and Bridged Networks",
+      "url": "https://standards.ieee.org/ieee/802.1Q/10323/",
+      "scope": "bridging, switching, VLAN y prevención de bucles",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IEEE8023-ETHERNET-T39",
+      "title": "IEEE 802.3 · Ethernet",
+      "url": "https://standards.ieee.org/ieee/802.3/10422/",
+      "scope": "Ethernet, tramas, repetición y acceso al medio",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "IGN-CONCEPTS-T32",
       "title": "Instituto Geográfico Nacional, recursos de geografía humana y cartografía",
       "url": "https://educativo.ign.es/",
@@ -1595,6 +1619,14 @@
       "title": "Real Decreto Legislativo 1/2016, prevención y control integrados de la contaminación",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-12601",
       "scope": "autorización ambiental integrada y mejores técnicas disponibles",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ISO-7498-1-OSI-T39",
+      "title": "ISO/IEC 7498-1 · OSI Basic Reference Model",
+      "url": "https://www.iso.org/obp/ui/#iso:std:iso-iec:7498:-1:ed-1:v2:en",
+      "scope": "modelo OSI, capas, servicios y protocolos",
       "official": true,
       "traceable": true
     },
@@ -2531,6 +2563,14 @@
       "traceable": true
     },
     {
+      "id": "NIST-SP800-41R1-T39",
+      "title": "NIST SP 800-41 Rev. 1 · Guidelines on Firewalls and Firewall Policy",
+      "url": "https://csrc.nist.gov/pubs/sp/800/41/r1/final",
+      "scope": "cortafuegos, filtrado, estado, proxy y política",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "NVME-SPEC-T38",
       "title": "NVM Express specifications",
       "url": "https://nvmexpress.org/specifications/",
@@ -3440,6 +3480,166 @@
       "boe_id": "BOE-A-2019-15790",
       "url": "https://www.boe.es/eli/es/rdl/2019/10/31/14/con",
       "scope": "redacción vigente del artículo 8.1 sobre valor acreditativo del DNI",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC1034-DNS-T39",
+      "title": "RFC 1034 · Domain Names: Concepts and Facilities",
+      "url": "https://datatracker.ietf.org/doc/html/rfc1034",
+      "scope": "espacio de nombres, resolución y servidores DNS",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC1035-DNS-T39",
+      "title": "RFC 1035 · Domain Names: Implementation and Specification",
+      "url": "https://datatracker.ietf.org/doc/html/rfc1035",
+      "scope": "mensajes, registros y transporte DNS",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC1122-HOSTS-T39",
+      "title": "RFC 1122 · Requirements for Internet Hosts",
+      "url": "https://datatracker.ietf.org/doc/html/rfc1122",
+      "scope": "arquitectura por capas de Internet",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC1812-ROUTERS-T39",
+      "title": "RFC 1812 · Requirements for IPv4 Routers",
+      "url": "https://datatracker.ietf.org/doc/html/rfc1812",
+      "scope": "encaminamiento y reenvío IPv4",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC1918-PRIVATE-T39",
+      "title": "RFC 1918 · Address Allocation for Private Internets",
+      "url": "https://datatracker.ietf.org/doc/html/rfc1918",
+      "scope": "rangos IPv4 privados",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC2131-DHCP-T39",
+      "title": "RFC 2131 · Dynamic Host Configuration Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc2131",
+      "scope": "DHCPv4, concesiones, mensajes y relay",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC3022-NAT-T39",
+      "title": "RFC 3022 · Traditional IP Network Address Translator",
+      "url": "https://datatracker.ietf.org/doc/html/rfc3022",
+      "scope": "NAT y traducción de puertos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC4291-IPV6-ADDR-T39",
+      "title": "RFC 4291 · IPv6 Addressing Architecture",
+      "url": "https://datatracker.ietf.org/doc/html/rfc4291",
+      "scope": "notación y tipos de direcciones IPv6",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC4632-CIDR-T39",
+      "title": "RFC 4632 · Classless Inter-domain Routing",
+      "url": "https://datatracker.ietf.org/doc/html/rfc4632",
+      "scope": "CIDR y abandono operativo de las clases",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC4861-NDP-T39",
+      "title": "RFC 4861 · Neighbor Discovery for IPv6",
+      "url": "https://datatracker.ietf.org/doc/html/rfc4861",
+      "scope": "descubrimiento de vecinos y routers",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC4862-SLAAC-T39",
+      "title": "RFC 4862 · IPv6 Stateless Address Autoconfiguration",
+      "url": "https://datatracker.ietf.org/doc/html/rfc4862",
+      "scope": "autoconfiguración sin estado",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC6890-SPECIAL-T39",
+      "title": "RFC 6890 · Special-Purpose IP Address Registries",
+      "url": "https://datatracker.ietf.org/doc/html/rfc6890",
+      "scope": "direcciones IP de propósito especial",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC768-UDP-T39",
+      "title": "RFC 768 · User Datagram Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc768",
+      "scope": "UDP y datagramas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC791-IPV4-T39",
+      "title": "RFC 791 · Internet Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc791",
+      "scope": "formato y funcionamiento básico de IPv4",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC792-ICMP-T39",
+      "title": "RFC 792 · Internet Control Message Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc792",
+      "scope": "mensajes de control y diagnóstico IPv4",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC8200-IPV6-T39",
+      "title": "RFC 8200 · Internet Protocol Version 6",
+      "url": "https://datatracker.ietf.org/doc/html/rfc8200",
+      "scope": "cabecera, extensión y reenvío IPv6",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC8499-DNS-TERMS-T39",
+      "title": "RFC 8499 · DNS Terminology",
+      "url": "https://datatracker.ietf.org/doc/html/rfc8499",
+      "scope": "terminología DNS actual",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC9110-HTTP-T39",
+      "title": "RFC 9110 · HTTP Semantics",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9110",
+      "scope": "intermediarios, proxies y túneles HTTP",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC9293-TCP-T39",
+      "title": "RFC 9293 · Transmission Control Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9293",
+      "scope": "TCP, conexiones, fiabilidad y puertos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC9915-DHCPV6-T39",
+      "title": "RFC 9915 · Dynamic Host Configuration Protocol for IPv6",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9915",
+      "scope": "DHCPv6 vigente en 2026",
       "official": true,
       "traceable": true
     },

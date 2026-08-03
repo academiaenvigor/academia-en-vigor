@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-39",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-39",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Fundamentos de redes informáticas",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Modelo OSI",
+      "blocks": [
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "07"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Modelo TCP/IP",
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "anchor_blocks": [
+        "21"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Concentradores y conmutadores",
+      "blocks": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "31"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Encaminadores y cortafuegos",
+      "blocks": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "anchor_blocks": [
+        "39"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Servicios DHCP, DNS y proxy",
+      "blocks": [
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58"
+      ],
+      "anchor_blocks": [
+        "47"
+      ]
+    },
+    {
+      "id": "p7",
+      "number": 7,
+      "title": "Direccionamiento IPv4 y clases de red",
+      "blocks": [
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68"
+      ],
+      "anchor_blocks": [
+        "59"
+      ]
+    },
+    {
+      "id": "p8",
+      "number": 8,
+      "title": "Direccionamiento IPv6",
+      "blocks": [
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74"
+      ],
+      "anchor_blocks": [
+        "69"
+      ]
+    }
+  ],
+  "resources": []
+}

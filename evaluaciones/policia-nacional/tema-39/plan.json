@@ -1,0 +1,471 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 39,
+  "topic_title": "Redes informáticas: modelo OSI y modelo TCP/IP. Dispositivos de red: hubs, switches, routers, firewall, servidores DHCP, servidores DNS y servidores proxy. Direccionamiento IP: clases de redes, IPv4 e IPv6.",
+  "id_prefix": "PN-T39",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-39/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-39/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 39"
+      },
+      {
+        "number": 2,
+        "title": "Red, nodo, enlace y protocolo"
+      },
+      {
+        "number": 3,
+        "title": "LAN, MAN, WAN y PAN"
+      },
+      {
+        "number": 4,
+        "title": "Topología física y topología lógica"
+      },
+      {
+        "number": 5,
+        "title": "Conmutación, encaminamiento y servicios"
+      },
+      {
+        "number": 6,
+        "title": "Encapsulación y unidades de datos"
+      },
+      {
+        "number": 7,
+        "title": "Finalidad del modelo OSI"
+      },
+      {
+        "number": 8,
+        "title": "Capas, servicios, protocolos e interfaces"
+      },
+      {
+        "number": 9,
+        "title": "Capa 1: física"
+      },
+      {
+        "number": 10,
+        "title": "Capa 2: enlace de datos"
+      },
+      {
+        "number": 11,
+        "title": "Sublayers LLC y MAC"
+      },
+      {
+        "number": 12,
+        "title": "Capa 3: red"
+      },
+      {
+        "number": 13,
+        "title": "Capa 4: transporte"
+      },
+      {
+        "number": 14,
+        "title": "Capa 5: sesión"
+      },
+      {
+        "number": 15,
+        "title": "Capa 6: presentación"
+      },
+      {
+        "number": 16,
+        "title": "Capa 7: aplicación"
+      },
+      {
+        "number": 17,
+        "title": "PDU: bits, tramas, paquetes y segmentos"
+      },
+      {
+        "number": 18,
+        "title": "Encapsulación en el modelo OSI"
+      },
+      {
+        "number": 19,
+        "title": "Dispositivos y capas OSI"
+      },
+      {
+        "number": 20,
+        "title": "Diagnóstico por capas"
+      },
+      {
+        "number": 21,
+        "title": "Finalidad del modelo TCP/IP"
+      },
+      {
+        "number": 22,
+        "title": "Correspondencia OSI y TCP/IP"
+      },
+      {
+        "number": 23,
+        "title": "Capa de aplicación TCP/IP"
+      },
+      {
+        "number": 24,
+        "title": "TCP: conexión y fiabilidad"
+      },
+      {
+        "number": 25,
+        "title": "Establecimiento y cierre TCP"
+      },
+      {
+        "number": 26,
+        "title": "UDP: datagramas sin conexión"
+      },
+      {
+        "number": 27,
+        "title": "IP: servicio de datagramas"
+      },
+      {
+        "number": 28,
+        "title": "ICMP y el comando ping"
+      },
+      {
+        "number": 29,
+        "title": "ARP en IPv4 y NDP en IPv6"
+      },
+      {
+        "number": 30,
+        "title": "Puertos, sockets y multiplexación"
+      },
+      {
+        "number": 31,
+        "title": "Repetidor y concentrador hub"
+      },
+      {
+        "number": 32,
+        "title": "Dominio de colisión compartido"
+      },
+      {
+        "number": 33,
+        "title": "Bridge y switch Ethernet"
+      },
+      {
+        "number": 34,
+        "title": "Aprendizaje de la tabla MAC"
+      },
+      {
+        "number": 35,
+        "title": "Filtrado, reenvío y flooding"
+      },
+      {
+        "number": 36,
+        "title": "Dominios de colisión y broadcast"
+      },
+      {
+        "number": 37,
+        "title": "VLAN y etiquetado"
+      },
+      {
+        "number": 38,
+        "title": "Bucles y Spanning Tree"
+      },
+      {
+        "number": 39,
+        "title": "Función del router"
+      },
+      {
+        "number": 40,
+        "title": "Tabla de encaminamiento y ruta por defecto"
+      },
+      {
+        "number": 41,
+        "title": "Siguiente salto, TTL y Hop Limit"
+      },
+      {
+        "number": 42,
+        "title": "Rutas estáticas y protocolos dinámicos"
+      },
+      {
+        "number": 43,
+        "title": "NAT y PAT"
+      },
+      {
+        "number": 44,
+        "title": "Concepto y política de firewall"
+      },
+      {
+        "number": 45,
+        "title": "Filtrado de paquetes y estado"
+      },
+      {
+        "number": 46,
+        "title": "Proxy firewall, UTM y defensa en profundidad"
+      },
+      {
+        "number": 47,
+        "title": "Finalidad y actores de DHCPv4"
+      },
+      {
+        "number": 48,
+        "title": "DORA: descubrimiento y concesión"
+      },
+      {
+        "number": 49,
+        "title": "Concesión, renovación y reserva DHCP"
+      },
+      {
+        "number": 50,
+        "title": "Broadcast, relay y autoconfiguración IPv4"
+      },
+      {
+        "number": 51,
+        "title": "DHCPv6 y SLAAC"
+      },
+      {
+        "number": 52,
+        "title": "Espacio de nombres DNS"
+      },
+      {
+        "number": 53,
+        "title": "Registros DNS principales"
+      },
+      {
+        "number": 54,
+        "title": "Consulta recursiva e iterativa"
+      },
+      {
+        "number": 55,
+        "title": "Servidores autoritativos, primario y secundario"
+      },
+      {
+        "number": 56,
+        "title": "Caché, TTL y transporte DNS"
+      },
+      {
+        "number": 57,
+        "title": "Proxy directo o forward proxy"
+      },
+      {
+        "number": 58,
+        "title": "Reverse proxy, caché y túnel"
+      },
+      {
+        "number": 59,
+        "title": "Formato y longitud de IPv4"
+      },
+      {
+        "number": 60,
+        "title": "Prefijo, host y máscara de subred"
+      },
+      {
+        "number": 61,
+        "title": "Clase A histórica"
+      },
+      {
+        "number": 62,
+        "title": "Clase B histórica"
+      },
+      {
+        "number": 63,
+        "title": "Clase C histórica"
+      },
+      {
+        "number": 64,
+        "title": "Clases D y E históricas"
+      },
+      {
+        "number": 65,
+        "title": "CIDR frente a direccionamiento por clases"
+      },
+      {
+        "number": 66,
+        "title": "Cálculo de subred, red y broadcast"
+      },
+      {
+        "number": 67,
+        "title": "Direcciones IPv4 privadas"
+      },
+      {
+        "number": 68,
+        "title": "Direcciones IPv4 especiales y puerta de enlace"
+      },
+      {
+        "number": 69,
+        "title": "Longitud y notación IPv6"
+      },
+      {
+        "number": 70,
+        "title": "Unicast, anycast y multicast"
+      },
+      {
+        "number": 71,
+        "title": "Prefijos IPv6 principales"
+      },
+      {
+        "number": 72,
+        "title": "Cabecera básica y extensiones IPv6"
+      },
+      {
+        "number": 73,
+        "title": "Neighbor Discovery y SLAAC"
+      },
+      {
+        "number": 74,
+        "title": "Transición y límites de IPv6"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos de redes informáticas",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Modelo OSI",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Modelo TCP/IP",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Concentradores y conmutadores",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Encaminadores y cortafuegos",
+        "blocks": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Servicios DHCP, DNS y proxy",
+        "blocks": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Direccionamiento IPv4 y clases de red",
+        "blocks": [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Direccionamiento IPv6",
+        "blocks": [
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

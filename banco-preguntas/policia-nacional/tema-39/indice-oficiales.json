@@ -1,0 +1,209 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 39,
+  "titulo": "Redes informáticas: modelo OSI y modelo TCP/IP. Dispositivos de red: hubs, switches, routers, firewall, servidores DHCP, servidores DNS y servidores proxy. Direccionamiento IP: clases de redes, IPv4 e IPv6.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 8,
+  "con_bloque_asignado": 8,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "29": 1,
+    "31": 1,
+    "59": 1,
+    "45": 1,
+    "58": 1,
+    "52": 1,
+    "12": 1,
+    "55": 1
+  },
+  "por_promocion": {
+    "P34": 1,
+    "P35": 1,
+    "P37": 1,
+    "P38": 2,
+    "P39": 1,
+    "P40": 2
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p34-a-q016",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 16,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "PN-T39-F113"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué protocolo utiliza el comando ping para enviar paquetes a una dirección IP concreta?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q088",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 88,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T39-F121"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Un dispositivo que amplía y repite la misma señal de la red a través de los diferentes puertos, se denomina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q010",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 10,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "PN-T39-F233"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes es una dirección IP válida para identificar una conexión a internet?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q086",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 86,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "PN-T39-F177"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Un firewall que ahora se considera “tradicional”, que permite o bloquea el tráfico en función del estado, el puerto y el protocolo y, además, monitorea toda la actividad desde la apertura hasta el cierre de una conexión, es un firewall:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q087",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 87,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "PN-T39-F229"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La diferencia entre PROXY y ROUTER es:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q064",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 64,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "PN-T39-F205"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Una de las siguientes afirmaciones está relacionada con el término DNS:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q026",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 26,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "PN-T39-F045"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál es la capa encargada de realizar el encaminamiento o enrutamiento de los paquetes a través de las redes de datos en el modelo OSI?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q056",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 56,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "PN-T39-F217"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El sistema de nombres de dominios o DNS (Domain Name System) es un conjunto de protocolos y servicios que nació con la finalidad de evitar a las personas usuarias el esfuerzo de tener que recordar una dirección IP. Atendiendo a sus funciones, ¿qué tipos hay de servidores DNS?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

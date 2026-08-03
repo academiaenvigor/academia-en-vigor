@@ -918,6 +918,30 @@
           "official_exam_mapped": 9,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 39,
+          "slug": "redes-informaticas-modelos-dispositivos-direccionamiento-ip",
+          "title": "Redes informáticas: modelo OSI y modelo TCP/IP. Dispositivos de red: hubs, switches, routers, firewall, servidores DHCP, servidores DNS y servidores proxy. Direccionamiento IP: clases de redes, IPv4 e IPv6.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-39/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-39-redes-informaticas-modelos-dispositivos-direccionamiento-ip.md",
+          "atestado": "temas/policia-nacional/atestado/tema-39-redes-informaticas-modelos-dispositivos-direccionamiento-ip.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-39/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-39/plan.json",
+          "assets": "assets/policia-nacional/tema-39/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-39/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-39/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 74,
+          "atomic_facts": 296,
+          "question_count": 592,
+          "official_exam_mapped": 8,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }
