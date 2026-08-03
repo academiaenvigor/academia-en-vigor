@@ -1014,6 +1014,30 @@
           "official_exam_mapped": 25,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 43,
+          "slug": "vehiculo-prioritario-facultades-emergencia-senales",
+          "title": "El vehículo prioritario. Definición de vehículo prioritario. Facultades de los conductores de vehículos prioritarios. Comportamiento de los demás conductores respecto de los vehículos prioritarios. La conducción de vehículos en situación de emergencia. Utilización de las señales de emergencia.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-43/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-43-vehiculo-prioritario-facultades-emergencia-senales.md",
+          "atestado": "temas/policia-nacional/atestado/tema-43-vehiculo-prioritario-facultades-emergencia-senales.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-43/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-43/plan.json",
+          "assets": "assets/policia-nacional/tema-43/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-43/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-43/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 80,
+          "atomic_facts": 320,
+          "question_count": 640,
+          "official_exam_mapped": 9,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

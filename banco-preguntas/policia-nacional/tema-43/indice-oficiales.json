@@ -1,0 +1,230 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 43,
+  "titulo": "El vehículo prioritario. Definición de vehículo prioritario. Facultades de los conductores de vehículos prioritarios. Comportamiento de los demás conductores respecto de los vehículos prioritarios. La conducción de vehículos en situación de emergencia. Utilización de las señales de emergencia.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 9,
+  "con_bloque_asignado": 9,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "39": 2,
+    "22": 1,
+    "36": 1,
+    "35": 1,
+    "46": 1,
+    "25": 1,
+    "38": 1,
+    "19": 1
+  },
+  "por_promocion": {
+    "P33": 2,
+    "P35": 1,
+    "P36": 1,
+    "P38": 2,
+    "P39": 2,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q087",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 87,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "PN-T43-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La distancia mínima a la que debe ser visible en todas las direcciones la señal luminosa V-1 es de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p33-a-q089",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 89,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "PN-T43-F085"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Los conductores de los vehículos prioritarios deberán observar los preceptos de este reglamento, si bien, a condición de haberse cerciorado de que no ponen en peligro a ningún usuario de la vía, podrán dejar de cumplir bajo su exclusiva responsabilidad las normas de los títulos II, III y IV, salvo las órdenes y señales de los agentes, que son siempre de obligado cumplimiento. Este precepto se recoge en:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q040",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 40,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "PN-T43-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La señal luminosa V-1 de un vehículo prioritario en ningún caso afectará a la visibilidad del conductor y deberá ser visible en todas direcciones a una distancia mínima de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q026",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 26,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T43-F141"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En cuanto a las modificaciones que se han producido en el Reglamento General de Vehículos, es correcto afirmar que la señal luminosa de vehículo prioritario:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q095",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 95,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "PN-T43-F137"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La utilización de la señal V-1:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q096",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 96,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "PN-T43-F181"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "De acuerdo a lo establecido en el artículo 69 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, cuando un vehículo de policía que manifiesta su presencia según lo dispuesto en el artículo 68.2 se sitúa detrás de cualquier otro vehículo y activa además un dispositivo de emisión de luz amarilla hacia adelante de forma intermitente o destellante, el conductor de éste deberá:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q056",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 56,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "PN-T43-F097"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Los conductores de vehículos prioritarios cuando circulen por autopista o autovía en servicio urgente y no comprometan la seguridad de ningún usuario, podrán con carácter excepcional:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q073",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 73,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "PN-T43-F149"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La señal luminosa de vehículo prioritario V-1, en una motocicleta, ¿dónde irá situada?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q051",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 51,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "PN-T43-F073"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La instalación de aparatos emisores de luces y señales acústicas especiales en vehículos prioritarios, de conformidad con lo dispuesto en las normas reguladoras de los vehículos, requerirá autorización de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

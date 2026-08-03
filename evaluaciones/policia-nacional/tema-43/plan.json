@@ -1,0 +1,501 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 43,
+  "topic_title": "El vehículo prioritario. Definición de vehículo prioritario. Facultades de los conductores de vehículos prioritarios. Comportamiento de los demás conductores respecto de los vehículos prioritarios. La conducción de vehículos en situación de emergencia. Utilización de las señales de emergencia.",
+  "id_prefix": "PN-T43",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-43/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-43/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 43"
+      },
+      {
+        "number": 2,
+        "title": "Mapa normativo del tema"
+      },
+      {
+        "number": 3,
+        "title": "Corte normativo de 3 de agosto de 2026"
+      },
+      {
+        "number": 4,
+        "title": "Prioridad ligada al servicio urgente"
+      },
+      {
+        "number": 5,
+        "title": "Requisitos del carácter prioritario"
+      },
+      {
+        "number": 6,
+        "title": "Vehículos de los servicios de policía"
+      },
+      {
+        "number": 7,
+        "title": "Extinción de incendios"
+      },
+      {
+        "number": 8,
+        "title": "Protección civil y salvamento"
+      },
+      {
+        "number": 9,
+        "title": "Asistencia sanitaria pública o privada"
+      },
+      {
+        "number": 10,
+        "title": "Vehículos que no adquieren prioridad"
+      },
+      {
+        "number": 11,
+        "title": "Prioridad de paso"
+      },
+      {
+        "number": 12,
+        "title": "Superación de límites de velocidad"
+      },
+      {
+        "number": 13,
+        "title": "Exención de otras normas o señales"
+      },
+      {
+        "number": 14,
+        "title": "Uso ponderado del régimen especial"
+      },
+      {
+        "number": 15,
+        "title": "Solo durante la prestación urgente"
+      },
+      {
+        "number": 16,
+        "title": "Intersecciones y semáforos"
+      },
+      {
+        "number": 17,
+        "title": "Riesgo de atropello a peatones"
+      },
+      {
+        "number": 18,
+        "title": "Reacción de los demás conductores"
+      },
+      {
+        "number": 19,
+        "title": "Autorización de aparatos especiales"
+      },
+      {
+        "number": 20,
+        "title": "Necesidad, idoneidad y mínimo riesgo"
+      },
+      {
+        "number": 21,
+        "title": "Regla general de observancia"
+      },
+      {
+        "number": 22,
+        "title": "Títulos II, III y IV"
+      },
+      {
+        "number": 23,
+        "title": "Órdenes y señales de los agentes"
+      },
+      {
+        "number": 24,
+        "title": "Exclusiva responsabilidad del conductor"
+      },
+      {
+        "number": 25,
+        "title": "Condición de no poner en peligro"
+      },
+      {
+        "number": 26,
+        "title": "Media vuelta en autopista o autovía"
+      },
+      {
+        "number": 27,
+        "title": "Marcha atrás en autopista o autovía"
+      },
+      {
+        "number": 28,
+        "title": "Sentido contrario por el arcén"
+      },
+      {
+        "number": 29,
+        "title": "Mediana y pasos transversales"
+      },
+      {
+        "number": 30,
+        "title": "Posición de vehículos de los agentes"
+      },
+      {
+        "number": 31,
+        "title": "Normas generales de advertencia especial"
+      },
+      {
+        "number": 32,
+        "title": "Regla de uso simultáneo"
+      },
+      {
+        "number": 33,
+        "title": "Excepción de señal luminosa aislada"
+      },
+      {
+        "number": 34,
+        "title": "Significado de la señal V-1"
+      },
+      {
+        "number": 35,
+        "title": "Uso de V-1 frente a instalación del equipo"
+      },
+      {
+        "number": 36,
+        "title": "Color y homologación de V-1"
+      },
+      {
+        "number": 37,
+        "title": "Colocación de V-1 en vehículos"
+      },
+      {
+        "number": 38,
+        "title": "V-1 en motocicletas"
+      },
+      {
+        "number": 39,
+        "title": "Visibilidad mínima de V-1"
+      },
+      {
+        "number": 40,
+        "title": "Sistemas auxiliares y prohibición de montaje"
+      },
+      {
+        "number": 41,
+        "title": "Momento en que nace el deber de facilitar"
+      },
+      {
+        "number": 42,
+        "title": "Medidas adecuadas según contexto"
+      },
+      {
+        "number": 43,
+        "title": "Apartarse normalmente a la derecha"
+      },
+      {
+        "number": 44,
+        "title": "Detenerse si fuera preciso"
+      },
+      {
+        "number": 45,
+        "title": "Reacciones inseguras que no facilitan"
+      },
+      {
+        "number": 46,
+        "title": "Activación policial de detención"
+      },
+      {
+        "number": 47,
+        "title": "Detención en el lado derecho"
+      },
+      {
+        "number": 48,
+        "title": "Posición delante del vehículo policial"
+      },
+      {
+        "number": 49,
+        "title": "Lugar seguro y permanencia interior"
+      },
+      {
+        "number": 50,
+        "title": "Instrucciones del agente y cambio de color"
+      },
+      {
+        "number": 51,
+        "title": "Circunstancias especialmente graves"
+      },
+      {
+        "number": 52,
+        "title": "Falta de otro medio disponible"
+      },
+      {
+        "number": 53,
+        "title": "Servicio normalmente reservado a prioritarios"
+      },
+      {
+        "number": 54,
+        "title": "Avisador acústico intermitente"
+      },
+      {
+        "number": 55,
+        "title": "Conexión de la luz de emergencia"
+      },
+      {
+        "number": 56,
+        "title": "Pañuelo o procedimiento similar"
+      },
+      {
+        "number": 57,
+        "title": "No adquisición del carácter prioritario"
+      },
+      {
+        "number": 58,
+        "title": "Respeto de las normas de circulación"
+      },
+      {
+        "number": 59,
+        "title": "Conducta de los demás usuarios"
+      },
+      {
+        "number": 60,
+        "title": "Justificación exigible por agentes"
+      },
+      {
+        "number": 61,
+        "title": "Concepto técnico de señal de emergencia"
+      },
+      {
+        "number": 62,
+        "title": "Advertencia de inmovilización o frenado"
+      },
+      {
+        "number": 63,
+        "title": "Inmovilización en autopista o con poca visibilidad"
+      },
+      {
+        "number": 64,
+        "title": "Obstáculo por accidente, avería o carga"
+      },
+      {
+        "number": 65,
+        "title": "Vehículo que puede continuar la marcha"
+      },
+      {
+        "number": 66,
+        "title": "Vehículo que necesita auxilio"
+      },
+      {
+        "number": 67,
+        "title": "Imposibilidad de alcanzar una salida"
+      },
+      {
+        "number": 68,
+        "title": "Salida de ocupantes"
+      },
+      {
+        "number": 69,
+        "title": "Luces durante la retirada del obstáculo"
+      },
+      {
+        "number": 70,
+        "title": "Dispositivo reglamentario de preseñalización"
+      },
+      {
+        "number": 71,
+        "title": "Significado de V-16"
+      },
+      {
+        "number": 72,
+        "title": "Colocación de V-16"
+      },
+      {
+        "number": 73,
+        "title": "Características luminosas de V-16"
+      },
+      {
+        "number": 74,
+        "title": "Comunicación y geoposicionamiento V-16"
+      },
+      {
+        "number": 75,
+        "title": "Conectividad, plazo y caducidad"
+      },
+      {
+        "number": 76,
+        "title": "Finalidad exclusiva de V-16"
+      },
+      {
+        "number": 77,
+        "title": "Fin de la transición de V-16 no conectada"
+      },
+      {
+        "number": 78,
+        "title": "Cambio amarillo-rojo del dispositivo policial"
+      },
+      {
+        "number": 79,
+        "title": "Carril de emergencia futuro"
+      },
+      {
+        "number": 80,
+        "title": "Árbol final de decisión"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Marco, concepto y servicios prioritarios",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Prioridad y uso ponderado del régimen especial",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Facultades excepcionales y límites del artículo 68",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Advertencias especiales y señal V-1",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Comportamiento de los demás conductores",
+        "blocks": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Vehículos no prioritarios en servicio de urgencia",
+        "blocks": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Señales de emergencia e inmovilización",
+        "blocks": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Reformas, transición normativa y trampas integradas",
+        "blocks": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
