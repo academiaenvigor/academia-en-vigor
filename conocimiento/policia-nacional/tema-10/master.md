@@ -998,7 +998,7 @@ La prohibición de salida es excepcional y requiere encaje legal, autoridad comp
 - La prohibición de salida no equivale a una prohibición de entrada ni a una expulsión.
 
 :::visual
-**Ilustración simple:** `t10-il-06-semáforo-salida.webp` · Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa.
+**Ilustración simple:** `t10-il-06-semaforo-salida.webp` · Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -1012,7 +1012,7 @@ La prohibición de salida es excepcional y requiere encaje legal, autoridad comp
 - La prohibición de salida no equivale a una prohibición de entrada ni a una expulsión. <!-- FACT:PN-T10-F114 -->
 
 :::visual
-**Ilustración simple:** `t10-il-06-semáforo-salida.webp` · Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa.
+**Ilustración simple:** `t10-il-06-semaforo-salida.webp` · Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa.
 :::
 
 :::hablemos-claro

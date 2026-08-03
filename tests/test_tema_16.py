@@ -1,4 +1,6 @@
 import json
+import subprocess
+import sys
 import unittest
 from collections import Counter
 from pathlib import Path
@@ -14,6 +16,15 @@ MASTER = TOPIC / "master.md"
 
 
 class Tema16QualityGate(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        # build/ no se versiona: el catálogo se regenera antes de comprobarlo.
+        subprocess.run(
+            [sys.executable, "scripts/generar_evaluaciones.py",
+             "--oposicion", "policia-nacional", "--tema", "16"],
+            cwd=ROOT, check=True, stdout=subprocess.DEVNULL,
+        )
+
     def setUp(self):
         self.coverage = json.loads((TOPIC / "cobertura.json").read_text(encoding="utf-8"))
         self.questions = [

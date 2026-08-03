@@ -252,7 +252,7 @@ La seguridad privada no puede controlar ideas, interferir conflictos ni comunica
 - Está prohibido ejercer funciones de seguridad privada sin habilitación o acreditación exigible.
 
 :::visual
-**Referencia visual prevista:** `t13-07-semáforo-limites.webp` · Semáforo de conductas permitidas, condicionadas y prohibidas.
+**Referencia visual prevista:** `t13-07-semaforo-limites.webp` · Semáforo de conductas permitidas, condicionadas y prohibidas.
 :::
 <!-- PARTE END -->
 <!-- ATESTADO START -->
@@ -271,7 +271,7 @@ Tampoco pueden prestarse o publicitarse servicios sin autorización, ejercerse f
 <!-- FACT:PN-T13-F018 -->
 
 :::visual
-**Referencia visual prevista:** `t13-07-semáforo-limites.webp` · Semáforo de conductas permitidas, condicionadas y prohibidas.
+**Referencia visual prevista:** `t13-07-semaforo-limites.webp` · Semáforo de conductas permitidas, condicionadas y prohibidas.
 :::
 
 :::hablemos-claro

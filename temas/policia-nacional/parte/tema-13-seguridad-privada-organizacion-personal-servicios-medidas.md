@@ -124,9 +124,9 @@ La seguridad privada no puede controlar ideas, interferir conflictos ni comunica
 - La información conocida por razón del servicio está sometida a reserva, salvo comunicación legítima a autoridades judiciales o policiales.
 - Está prohibido ejercer funciones de seguridad privada sin habilitación o acreditación exigible.
 
-<!-- VISUAL:t13-07-semáforo-limites.webp -->
+<!-- VISUAL:t13-07-semaforo-limites.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-13/t13-07-semáforo-limites.webp" alt="Semáforo de conductas permitidas, condicionadas y prohibidas" width="820">
+  <img src="../../../assets/policia-nacional/tema-13/t13-07-semaforo-limites.webp" alt="Semáforo de conductas permitidas, condicionadas y prohibidas" width="820">
 </p>
 <p align="center"><em>Infografía: Semáforo de conductas permitidas, condicionadas y prohibidas.</em></p>
 

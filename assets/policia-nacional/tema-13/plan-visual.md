@@ -21,7 +21,7 @@ Colección de 24 recursos con dos lenguajes visuales deliberadamente distintos.
 | `t13-04-ecosistema-sujetos.webp` | infografia | 3 | Ecosistema completo de sujetos incluidos en la ley | mapa de actores |
 | `t13-05-tres-fines.webp` | infografia | 4 | Tres engranajes de protección, contribución e integración | engranajes funcionales |
 | `t13-il-01-relevo-coordinado.webp` | ilustracion | 5 | Vigilante y policía coordinan una intervención sin confundirse de función | escena cooperativa |
-| `t13-07-semáforo-limites.webp` | infografia | 6 | Semáforo de conductas permitidas, condicionadas y prohibidas | semáforo jurídico |
+| `t13-07-semaforo-limites.webp` | infografia | 6 | Semáforo de conductas permitidas, condicionadas y prohibidas | semáforo jurídico |
 | `t13-08-mapa-competencias.webp` | infografia | 7 | Mapa funcional de Interior, Policía, Guardia Civil y órganos autonómicos | organigrama competencial |
 | `t13-10-centro-coordinacion.webp` | infografia | 9 | Centro de coordinación con flujos de información delimitados | diagrama de flujos |
 | `t13-11-tres-zonas-actividad.webp` | infografia | 10 | Tres zonas: reservadas, compatibles y excluidas con ejemplos | diagrama de zonas |

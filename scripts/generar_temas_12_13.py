@@ -543,7 +543,7 @@ T13["blocks"] = [
       "Proteger no permite vigilar ideas ni comerciar con secretos.",
       "La comunicación a Policía de un hecho delictivo no es una filtración prohibida.",
       "Reserva profesional y encubrimiento no son lo mismo.",
-      ("infografia", "t13-07-semáforo-limites.webp", "Semáforo de conductas permitidas, condicionadas y prohibidas", "semáforo jurídico")),
+      ("infografia", "t13-07-semaforo-limites.webp", "Semáforo de conductas permitidas, condicionadas y prohibidas", "semáforo jurídico")),
 
     block(2, "Competencias de la Administración del Estado", "L5-2014-T13",
       "arts. 12 y 13",

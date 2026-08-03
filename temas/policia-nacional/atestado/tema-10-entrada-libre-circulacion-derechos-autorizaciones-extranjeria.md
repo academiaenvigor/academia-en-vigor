@@ -732,9 +732,9 @@ La prohibición de salida es excepcional y requiere encaje legal, autoridad comp
 
 - La salida puede prohibirse en los supuestos previstos legalmente, entre ellos determinados procedimientos judiciales. - La prohibición debe ser individualizada y comunicada a la persona afectada. <!-- FACT:PN-T10-F111 --> - La medida se adopta por la autoridad competente y durante el tiempo necesario conforme a su causa. <!-- FACT:PN-T10-F112 --> - La prohibición de salida no equivale a una prohibición de entrada ni a una expulsión. <!-- FACT:PN-T10-F113 -->  <!-- FACT:PN-T10-F114 -->
 
-<!-- VISUAL:t10-il-06-semáforo-salida.webp -->
+<!-- VISUAL:t10-il-06-semaforo-salida.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-10/t10-il-06-semáforo-salida.webp" alt="Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa" width="600">
+  <img src="../../../assets/policia-nacional/tema-10/t10-il-06-semaforo-salida.webp" alt="Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa" width="600">
 </p>
 <p align="center"><em>Ilustración: Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa.</em></p>
 

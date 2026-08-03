@@ -40,7 +40,7 @@ LABELS = {
     "t13-04-ecosistema-sujetos.webp": ["EMPRESA", "PERSONAL", "DESPACHO", "USUARIO", "ESTABLECIMIENTO"],
     "t13-05-tres-fines.webp": ["PROTEGER", "CONTRIBUIR", "INTEGRAR"],
     "t13-il-01-relevo-coordinado.webp": [],
-    "t13-07-semáforo-limites.webp": ["PERMITIDO", "CONDICIONADO", "PROHIBIDO", "INTIMIDAD", "RESERVA"],
+    "t13-07-semaforo-limites.webp": ["PERMITIDO", "CONDICIONADO", "PROHIBIDO", "INTIMIDAD", "RESERVA"],
     "t13-08-mapa-competencias.webp": ["MINISTERIO", "POLICÍA", "GUARDIA CIVIL", "COMUNIDAD AUTÓNOMA"],
     "t13-10-centro-coordinacion.webp": ["INFORMACIÓN", "COORDINACIÓN", "INSTRUCCIONES", "SEGURIDAD PÚBLICA"],
     "t13-11-tres-zonas-actividad.webp": ["RESERVADAS", "COMPATIBLES", "EXCLUIDAS"],

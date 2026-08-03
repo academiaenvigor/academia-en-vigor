@@ -220,9 +220,9 @@ Tampoco pueden prestarse o publicitarse servicios sin autorización, ejercerse f
 
  <!-- FACT:PN-T13-F016 --> <!-- FACT:PN-T13-F017 --> <!-- FACT:PN-T13-F018 -->
 
-<!-- VISUAL:t13-07-semáforo-limites.webp -->
+<!-- VISUAL:t13-07-semaforo-limites.webp -->
 <p align="center">
-  <img src="../../../assets/policia-nacional/tema-13/t13-07-semáforo-limites.webp" alt="Semáforo de conductas permitidas, condicionadas y prohibidas" width="820">
+  <img src="../../../assets/policia-nacional/tema-13/t13-07-semaforo-limites.webp" alt="Semáforo de conductas permitidas, condicionadas y prohibidas" width="820">
 </p>
 <p align="center"><em>Infografía: Semáforo de conductas permitidas, condicionadas y prohibidas.</em></p>
 

@@ -1,0 +1,3 @@
+# Dependencias de las comprobaciones automáticas.
+# Pillow lo usan tests/test_tema_16.py y scripts/integrar_visuales_temas_12_13.py
+pillow>=10.0

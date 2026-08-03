@@ -30,7 +30,7 @@ Colección prevista de 26 recursos. Ninguna caja de texto puede constituir por s
 | `t10-il-05-maleta-requisitos.webp` | ilustracion | 20 | Maleta abierta con alojamiento, billete de regreso, recursos, seguro y motivo del viaje | dirección individual |
 | `t10-20-bifurcacion-frontera.webp` | infografia | 21 | Control fronterizo que se bifurca entre admisión y denegación motivada, con ruta de recurso y retorno | dirección individual |
 | `t10-23-puerta-salida.webp` | infografia | 24 | Puerta de salida con tres carriles: voluntaria, obligatoria y prohibida temporalmente | dirección individual |
-| `t10-il-06-semáforo-salida.webp` | ilustracion | 25 | Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa | dirección individual |
+| `t10-il-06-semaforo-salida.webp` | ilustracion | 25 | Pasaporte ante un semáforo rojo activado por una resolución judicial y otra administrativa | dirección individual |
 | `t10-25-dos-supuestos-devolucion.webp` | infografia | 26 | Dos rutas que desembocan en devolución: incumplimiento de prohibición y entrada irregular interceptada | dirección individual |
 | `t10-27-metro-situaciones.webp` | infografia | 28 | Mapa de metro con líneas de tránsito, estancia corta, estancia larga y residencia | dirección individual |
 | `t10-28-calendario-90-180.webp` | infografia | 29 | Calendario móvil de 180 días con 90 fichas de estancia distribuidas | dirección individual |
