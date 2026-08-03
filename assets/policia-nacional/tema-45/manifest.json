@@ -1,0 +1,2579 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-45",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 80,
+    "integrated": 0,
+    "planned": 80
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T45-V01",
+      "file": "t45-01-alcance-oficial-y-metodo-del-tema-45.webp",
+      "title": "Alcance oficial y método del Tema 45",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El epígrafe une seguridad vial laboral, tres factores del tráfico, conducción prioritaria, EPI y mantenimiento preventivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V02",
+      "file": "t45-02-ambito-preventivo-en-la-actividad-policial.webp",
+      "title": "Ámbito preventivo en la actividad policial",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Real Decreto 2/2006 adapta la prevención a las peculiaridades de la actividad de la Policía Nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V03",
+      "file": "t45-03-integracion-de-la-prevencion.webp",
+      "title": "Integración de la prevención",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prevención se integra en el sistema general de gestión mediante un plan de prevención.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V04",
+      "file": "t45-04-principios-de-accion-preventiva.webp",
+      "title": "Principios de acción preventiva",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La primera prioridad es evitar los riesgos cuando resulte posible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V05",
+      "file": "t45-il-05-peligro-riesgo-y-dano.webp",
+      "title": "Peligro, riesgo y daño",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El riesgo laboral es la posibilidad de sufrir un daño derivado del trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V06",
+      "file": "t45-06-informacion-y-formacion.webp",
+      "title": "Información y formación",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La información preventiva debe cubrir riesgos y medidas aplicables al puesto y a la actividad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V07",
+      "file": "t45-07-obligaciones-de-los-funcionarios.webp",
+      "title": "Obligaciones de los funcionarios",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada funcionario debe velar, según sus posibilidades, por su seguridad y la de quienes puedan verse afectados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V08",
+      "file": "t45-08-planificacion-de-la-actividad-preventiva.webp",
+      "title": "Planificación de la actividad preventiva",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La planificación define medidas, responsables, plazos y recursos cuando la evaluación revela riesgos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V09",
+      "file": "t45-09-vigilancia-de-la-salud-y-aptitud.webp",
+      "title": "Vigilancia de la salud y aptitud",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La vigilancia de la salud se orienta a los riesgos inherentes a la actividad policial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V10",
+      "file": "t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp",
+      "title": "Sistema Seguro y responsabilidad compartida",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Sistema Seguro asume que las personas cometen errores y que el sistema debe evitar consecuencias mortales o graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V11",
+      "file": "t45-11-accidente-de-trabajo-y-lesion.webp",
+      "title": "Accidente de trabajo y lesión",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente de trabajo exige una lesión corporal sufrida con ocasión o por consecuencia del trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V12",
+      "file": "t45-12-accidente-in-itinere.webp",
+      "title": "Accidente in itinere",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente in itinere es el sufrido al ir al trabajo o volver de él.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V13",
+      "file": "t45-13-accidente-en-mision.webp",
+      "title": "Accidente en misión",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente en misión se vincula a un desplazamiento exigido por la prestación laboral.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V14",
+      "file": "t45-14-exposicion-al-riesgo-vial.webp",
+      "title": "Exposición al riesgo vial",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La exposición depende de kilómetros, tiempo, frecuencia, tipo de vía, horario y condiciones de circulación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V15",
+      "file": "t45-il-15-frecuencia-incidencia-y-gravedad.webp",
+      "title": "Frecuencia, incidencia y gravedad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frecuencia informa cuántos sucesos aparecen en relación con una medida de exposición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V16",
+      "file": "t45-16-accidente-con-victimas-y-clasificacion.webp",
+      "title": "Accidente con víctimas y clasificación",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las estadísticas deben leerse con la definición exacta de accidente y víctima utilizada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V17",
+      "file": "t45-17-investigacion-preventiva-del-accidente.webp",
+      "title": "Investigación preventiva del accidente",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La aparición de daños obliga a investigar sus causas para detectar insuficiencias preventivas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V18",
+      "file": "t45-18-modelo-de-haddon.webp",
+      "title": "Modelo de Haddon",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La matriz de Haddon cruza fases temporales con persona, vehículo y entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V19",
+      "file": "t45-19-plan-de-seguridad-vial-laboral.webp",
+      "title": "Plan de seguridad vial laboral",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El plan parte de evaluación de riesgos y análisis de movilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V20",
+      "file": "t45-il-20-iso-39001-en-su-sitio-correcto.webp",
+      "title": "ISO 39001 en su sitio correcto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ISO 39001 se refiere a sistemas de gestión de la seguridad vial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V21",
+      "file": "t45-21-factor-humano-sin-monocausa.webp",
+      "title": "Factor humano sin monocausa",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El factor humano incluye capacidades, estado, decisiones, experiencia y respuesta ante el entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V22",
+      "file": "t45-22-percepcion-decision-y-ejecucion.webp",
+      "title": "Percepción, decisión y ejecución",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conducir exige percibir información relevante, interpretarla, decidir y ejecutar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V23",
+      "file": "t45-23-atencion-y-distraccion.webp",
+      "title": "Atención y distracción",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La distracción puede ser visual, manual, auditiva o cognitiva.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V24",
+      "file": "t45-24-fatiga-y-somnolencia.webp",
+      "title": "Fatiga y somnolencia",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fatiga reduce vigilancia, precisión y capacidad de respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V25",
+      "file": "t45-il-25-ritmos-circadianos-y-turnos.webp",
+      "title": "Ritmos circadianos y turnos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El rendimiento varía con el ritmo circadiano y el tiempo despierto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V26",
+      "file": "t45-26-alcohol-y-otras-drogas.webp",
+      "title": "Alcohol y otras drogas",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Alcohol y drogas pueden alterar percepción, coordinación, juicio y tiempo de respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V27",
+      "file": "t45-27-medicamentos-y-salud.webp",
+      "title": "Medicamentos y salud",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Algunos medicamentos producen somnolencia, visión alterada o menor coordinación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V28",
+      "file": "t45-28-estres-y-activacion.webp",
+      "title": "Estrés y activación",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una activación moderada puede favorecer respuesta, pero el exceso deteriora juicio y precisión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V29",
+      "file": "t45-29-velocidad-elegida-y-riesgo.webp",
+      "title": "Velocidad elegida y riesgo",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La velocidad condiciona tiempo disponible, distancia de detención y energía del impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V30",
+      "file": "t45-il-30-cinturon-casco-y-conducta-protectora.webp",
+      "title": "Cinturón, casco y conducta protectora",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El uso correcto de retenciones y casco reduce consecuencias, pero no evita por sí solo el siniestro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V31",
+      "file": "t45-31-factor-ambiental-amplio.webp",
+      "title": "Factor ambiental amplio",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El factor ambiental incluye infraestructura, tráfico, visibilidad, meteorología y entorno de trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V32",
+      "file": "t45-32-lluvia-y-adherencia.webp",
+      "title": "Lluvia y adherencia",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La lluvia reduce adherencia y visibilidad y puede aumentar distancia de frenado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V33",
+      "file": "t45-33-niebla-y-campo-visual.webp",
+      "title": "Niebla y campo visual",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La niebla reduce alcance visual y contraste.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V34",
+      "file": "t45-34-nieve-hielo-y-baja-friccion.webp",
+      "title": "Nieve, hielo y baja fricción",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nieve y hielo pueden reducir drásticamente la adherencia disponible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V35",
+      "file": "t45-il-35-viento-lateral.webp",
+      "title": "Viento lateral",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El viento lateral puede desviar la trayectoria y afectar más a vehículos de gran superficie.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V36",
+      "file": "t45-36-iluminacion-y-conduccion-nocturna.webp",
+      "title": "Iluminación y conducción nocturna",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: De noche disminuyen referencias visuales y contraste.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V37",
+      "file": "t45-37-diseno-de-la-via.webp",
+      "title": "Diseño de la vía",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Curvas, pendientes, intersecciones y accesos modifican visibilidad y trayectorias de conflicto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V38",
+      "file": "t45-38-estado-del-firme-y-obstaculos.webp",
+      "title": "Estado del firme y obstáculos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Baches, gravilla, vertidos y obras pueden alterar adherencia y trayectoria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V39",
+      "file": "t45-39-densidad-y-composicion-del-trafico.webp",
+      "title": "Densidad y composición del tráfico",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La densidad aumenta interacciones y reduce espacios de maniobra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V40",
+      "file": "t45-il-40-planificacion-de-rutas-y-contingencias.webp",
+      "title": "Planificación de rutas y contingencias",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La planificación valora seguridad, tiempo, tráfico, meteorología y disponibilidad de alternativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V41",
+      "file": "t45-41-vehiculo-como-factor-de-riesgo.webp",
+      "title": "Vehículo como factor de riesgo",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El riesgo asociado al vehículo depende de diseño, estado, carga y adecuación a la misión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V42",
+      "file": "t45-42-neumaticos.webp",
+      "title": "Neumáticos",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El neumático es el contacto entre vehículo y calzada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V43",
+      "file": "t45-43-frenos.webp",
+      "title": "Frenos",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frenada segura requiere eficacia, equilibrio y respuesta previsible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V44",
+      "file": "t45-44-direccion-y-suspension.webp",
+      "title": "Dirección y suspensión",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dirección y suspensión mantienen control, contacto y geometría previstos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V45",
+      "file": "t45-il-45-alumbrado-senalizacion-y-visibilidad.webp",
+      "title": "Alumbrado, señalización y visibilidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Alumbrado y señalización permiten ver, ser visto y comunicar maniobras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V46",
+      "file": "t45-46-ergonomia-y-posicion.webp",
+      "title": "Ergonomía y posición",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asiento, volante, pedales, espejos y reposacabezas se ajustan antes de iniciar la marcha.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V47",
+      "file": "t45-47-carga-y-material-de-dotacion.webp",
+      "title": "Carga y material de dotación",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El material suelto puede convertirse en proyectil durante frenada o impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V48",
+      "file": "t45-48-sistemas-activos-pasivos-y-terciarios.webp",
+      "title": "Sistemas activos, pasivos y terciarios",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La seguridad activa intenta evitar o mitigar el siniestro antes del impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V49",
+      "file": "t45-49-inspeccion-tecnica-y-mantenimiento.webp",
+      "title": "Inspección técnica y mantenimiento",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ITV verifica requisitos definidos en un momento concreto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V50",
+      "file": "t45-il-50-alertas-testigos-y-degradacion.webp",
+      "title": "Alertas, testigos y degradación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un testigo informa de un estado que debe interpretarse conforme al manual y la gravedad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V51",
+      "file": "t45-51-riesgo-especifico-de-la-urgencia.webp",
+      "title": "Riesgo específico de la urgencia",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La urgencia combina presión temporal, mayor carga mental y escenarios dinámicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V52",
+      "file": "t45-52-facultades-y-responsabilidad.webp",
+      "title": "Facultades y responsabilidad",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El conductor prioritario actúa bajo su exclusiva responsabilidad al aplicar determinadas excepciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V53",
+      "file": "t45-53-intersecciones.webp",
+      "title": "Intersecciones",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las intersecciones concentran trayectorias conflictivas y zonas ocultas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V54",
+      "file": "t45-54-sobrecarga-de-tareas.webp",
+      "title": "Sobrecarga de tareas",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conducir, comunicar, navegar y observar tácticamente compiten por recursos atencionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V55",
+      "file": "t45-il-55-fatiga-en-turnos-operativos.webp",
+      "title": "Fatiga en turnos operativos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prolongación del servicio puede acumular fatiga aunque la misión siga siendo urgente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V56",
+      "file": "t45-56-ergonomia-con-equipo-policial.webp",
+      "title": "Ergonomía con equipo policial",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Chaleco, cinturón de servicio y funda pueden interferir con asiento y retención.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V57",
+      "file": "t45-57-descenso-e-intervencion-en-via.webp",
+      "title": "Descenso e intervención en vía",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Antes de abrir una puerta se valora tráfico, carril, visibilidad y vía de salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V58",
+      "file": "t45-58-riesgo-para-pasajeros-y-terceros.webp",
+      "title": "Riesgo para pasajeros y terceros",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La conducción prioritaria expone a conductor, dotación, trasladados y terceros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V59",
+      "file": "t45-59-accidente-durante-servicio-urgente.webp",
+      "title": "Accidente durante servicio urgente",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente urgente requiere atención, aseguramiento de escena y notificación por cauce.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V60",
+      "file": "t45-il-60-criterio-de-llegada-operativa.webp",
+      "title": "Criterio de llegada operativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El objetivo es llegar con capacidad de intervenir y sin generar daños evitables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V61",
+      "file": "t45-61-definicion-correcta-de-epi.webp",
+      "title": "Definición correcta de EPI",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: A efectos del Real Decreto 773/1997, EPI es el equipo llevado o sujetado para proteger frente a uno o varios riesgos laborales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V62",
+      "file": "t45-62-exclusiones-del-concepto.webp",
+      "title": "Exclusiones del concepto",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ropa de trabajo corriente sin función protectora específica no es EPI.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V63",
+      "file": "t45-63-jerarquia-antes-de-la-proteccion-individual.webp",
+      "title": "Jerarquía antes de la protección individual",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El régimen policial prioriza la protección colectiva sobre la individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V64",
+      "file": "t45-64-evaluacion-y-eleccion-del-equipo-policial.webp",
+      "title": "Evaluación y elección del equipo policial",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Administración debe elegir medios adecuados a la tarea y a la seguridad de quienes los utilizan.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V65",
+      "file": "t45-il-65-compatibilidad-del-equipamiento.webp",
+      "title": "Compatibilidad del equipamiento",
+      "type": "ilustracion_simple",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La guía del INSST aporta un criterio técnico de compatibilidad cuando se usan varios elementos protectores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V66",
+      "file": "t45-66-informacion-formacion-y-practica.webp",
+      "title": "Información, formación y práctica",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El funcionario debe recibir información sobre riesgos y medidas de protección adoptadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V67",
+      "file": "t45-67-asignacion-disponibilidad-e-higiene.webp",
+      "title": "Asignación, disponibilidad e higiene",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La gestión del equipo debe asegurar disponibilidad, adecuación y estado para la tarea prevista.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V68",
+      "file": "t45-68-mantenimiento-limpieza-y-retirada.webp",
+      "title": "Mantenimiento, limpieza y retirada",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La guía del INSST aporta criterios técnicos sobre almacenamiento, limpieza, mantenimiento y reparación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V69",
+      "file": "t45-69-alta-visibilidad-al-regular-la-circulacion.webp",
+      "title": "Alta visibilidad al regular la circulación",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los agentes que regulan la circulación deben ser fácilmente reconocibles a distancia, de día y de noche.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V70",
+      "file": "t45-il-70-motorista-policial-y-proteccion.webp",
+      "title": "Motorista policial y protección",
+      "type": "ilustracion_simple",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El equipamiento del motorista se selecciona frente a impacto, abrasión, clima y visibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V71",
+      "file": "t45-71-estrategia-preventiva-por-capas.webp",
+      "title": "Estrategia preventiva por capas",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La estrategia combina reducción de exposición, organización, vehículo seguro, formación y protección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V72",
+      "file": "t45-72-lista-previa-al-servicio.webp",
+      "title": "Lista previa al servicio",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La comprobación previa cubre estado exterior, neumáticos, fluidos visibles, luces, testigos y material esencial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V73",
+      "file": "t45-73-mantenimiento-preventivo.webp",
+      "title": "Mantenimiento preventivo",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mantenimiento preventivo se programa antes del fallo según uso, tiempo y especificaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V74",
+      "file": "t45-74-mantenimiento-predictivo-y-por-condicion.webp",
+      "title": "Mantenimiento predictivo y por condición",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mantenimiento por condición usa mediciones, avisos o tendencias para anticipar degradación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V75",
+      "file": "t45-il-75-mantenimiento-correctivo.webp",
+      "title": "Mantenimiento correctivo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El correctivo restaura una función después de detectarse un defecto o fallo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V76",
+      "file": "t45-76-gestion-de-averias-e-inmovilizacion.webp",
+      "title": "Gestión de averías e inmovilización",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un fallo se clasifica por efecto potencial, probabilidad y posibilidad de control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V77",
+      "file": "t45-77-registro-y-trazabilidad.webp",
+      "title": "Registro y trazabilidad",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El registro relaciona vehículo, fecha, kilometraje, defecto, intervención y verificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V78",
+      "file": "t45-78-neumaticos-y-presion-operativa.webp",
+      "title": "Neumáticos y presión operativa",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La presión se ajusta a indicaciones del fabricante y a la carga prevista.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V79",
+      "file": "t45-79-fluidos-bateria-y-sistemas-auxiliares.webp",
+      "title": "Fluidos, batería y sistemas auxiliares",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los niveles y fugas se comprueban sin abrir sistemas peligrosos en caliente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V80",
+      "file": "t45-il-80-cierre-del-ciclo-preventivo.webp",
+      "title": "Cierre del ciclo preventivo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ciclo preventivo identifica, evalúa, planifica, ejecuta, comprueba y revisa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T45-V01",
+      "file": "t45-01-alcance-oficial-y-metodo-del-tema-45.webp",
+      "title": "Alcance oficial y método del Tema 45",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El epígrafe une seguridad vial laboral, tres factores del tráfico, conducción prioritaria, EPI y mantenimiento preventivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V02",
+      "file": "t45-02-ambito-preventivo-en-la-actividad-policial.webp",
+      "title": "Ámbito preventivo en la actividad policial",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Real Decreto 2/2006 adapta la prevención a las peculiaridades de la actividad de la Policía Nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V03",
+      "file": "t45-03-integracion-de-la-prevencion.webp",
+      "title": "Integración de la prevención",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prevención se integra en el sistema general de gestión mediante un plan de prevención.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V04",
+      "file": "t45-04-principios-de-accion-preventiva.webp",
+      "title": "Principios de acción preventiva",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La primera prioridad es evitar los riesgos cuando resulte posible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V05",
+      "file": "t45-il-05-peligro-riesgo-y-dano.webp",
+      "title": "Peligro, riesgo y daño",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El riesgo laboral es la posibilidad de sufrir un daño derivado del trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V06",
+      "file": "t45-06-informacion-y-formacion.webp",
+      "title": "Información y formación",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La información preventiva debe cubrir riesgos y medidas aplicables al puesto y a la actividad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V07",
+      "file": "t45-07-obligaciones-de-los-funcionarios.webp",
+      "title": "Obligaciones de los funcionarios",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada funcionario debe velar, según sus posibilidades, por su seguridad y la de quienes puedan verse afectados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V08",
+      "file": "t45-08-planificacion-de-la-actividad-preventiva.webp",
+      "title": "Planificación de la actividad preventiva",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La planificación define medidas, responsables, plazos y recursos cuando la evaluación revela riesgos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V09",
+      "file": "t45-09-vigilancia-de-la-salud-y-aptitud.webp",
+      "title": "Vigilancia de la salud y aptitud",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La vigilancia de la salud se orienta a los riesgos inherentes a la actividad policial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V10",
+      "file": "t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp",
+      "title": "Sistema Seguro y responsabilidad compartida",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Sistema Seguro asume que las personas cometen errores y que el sistema debe evitar consecuencias mortales o graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V11",
+      "file": "t45-11-accidente-de-trabajo-y-lesion.webp",
+      "title": "Accidente de trabajo y lesión",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente de trabajo exige una lesión corporal sufrida con ocasión o por consecuencia del trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V12",
+      "file": "t45-12-accidente-in-itinere.webp",
+      "title": "Accidente in itinere",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente in itinere es el sufrido al ir al trabajo o volver de él.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V13",
+      "file": "t45-13-accidente-en-mision.webp",
+      "title": "Accidente en misión",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente en misión se vincula a un desplazamiento exigido por la prestación laboral.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V14",
+      "file": "t45-14-exposicion-al-riesgo-vial.webp",
+      "title": "Exposición al riesgo vial",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La exposición depende de kilómetros, tiempo, frecuencia, tipo de vía, horario y condiciones de circulación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V15",
+      "file": "t45-il-15-frecuencia-incidencia-y-gravedad.webp",
+      "title": "Frecuencia, incidencia y gravedad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frecuencia informa cuántos sucesos aparecen en relación con una medida de exposición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V16",
+      "file": "t45-16-accidente-con-victimas-y-clasificacion.webp",
+      "title": "Accidente con víctimas y clasificación",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las estadísticas deben leerse con la definición exacta de accidente y víctima utilizada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V17",
+      "file": "t45-17-investigacion-preventiva-del-accidente.webp",
+      "title": "Investigación preventiva del accidente",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La aparición de daños obliga a investigar sus causas para detectar insuficiencias preventivas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V18",
+      "file": "t45-18-modelo-de-haddon.webp",
+      "title": "Modelo de Haddon",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La matriz de Haddon cruza fases temporales con persona, vehículo y entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V19",
+      "file": "t45-19-plan-de-seguridad-vial-laboral.webp",
+      "title": "Plan de seguridad vial laboral",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El plan parte de evaluación de riesgos y análisis de movilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V20",
+      "file": "t45-il-20-iso-39001-en-su-sitio-correcto.webp",
+      "title": "ISO 39001 en su sitio correcto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ISO 39001 se refiere a sistemas de gestión de la seguridad vial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V21",
+      "file": "t45-21-factor-humano-sin-monocausa.webp",
+      "title": "Factor humano sin monocausa",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El factor humano incluye capacidades, estado, decisiones, experiencia y respuesta ante el entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V22",
+      "file": "t45-22-percepcion-decision-y-ejecucion.webp",
+      "title": "Percepción, decisión y ejecución",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conducir exige percibir información relevante, interpretarla, decidir y ejecutar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V23",
+      "file": "t45-23-atencion-y-distraccion.webp",
+      "title": "Atención y distracción",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La distracción puede ser visual, manual, auditiva o cognitiva.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V24",
+      "file": "t45-24-fatiga-y-somnolencia.webp",
+      "title": "Fatiga y somnolencia",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fatiga reduce vigilancia, precisión y capacidad de respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V25",
+      "file": "t45-il-25-ritmos-circadianos-y-turnos.webp",
+      "title": "Ritmos circadianos y turnos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El rendimiento varía con el ritmo circadiano y el tiempo despierto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V26",
+      "file": "t45-26-alcohol-y-otras-drogas.webp",
+      "title": "Alcohol y otras drogas",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Alcohol y drogas pueden alterar percepción, coordinación, juicio y tiempo de respuesta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V27",
+      "file": "t45-27-medicamentos-y-salud.webp",
+      "title": "Medicamentos y salud",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Algunos medicamentos producen somnolencia, visión alterada o menor coordinación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V28",
+      "file": "t45-28-estres-y-activacion.webp",
+      "title": "Estrés y activación",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una activación moderada puede favorecer respuesta, pero el exceso deteriora juicio y precisión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V29",
+      "file": "t45-29-velocidad-elegida-y-riesgo.webp",
+      "title": "Velocidad elegida y riesgo",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La velocidad condiciona tiempo disponible, distancia de detención y energía del impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V30",
+      "file": "t45-il-30-cinturon-casco-y-conducta-protectora.webp",
+      "title": "Cinturón, casco y conducta protectora",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El uso correcto de retenciones y casco reduce consecuencias, pero no evita por sí solo el siniestro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V31",
+      "file": "t45-31-factor-ambiental-amplio.webp",
+      "title": "Factor ambiental amplio",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El factor ambiental incluye infraestructura, tráfico, visibilidad, meteorología y entorno de trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V32",
+      "file": "t45-32-lluvia-y-adherencia.webp",
+      "title": "Lluvia y adherencia",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La lluvia reduce adherencia y visibilidad y puede aumentar distancia de frenado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V33",
+      "file": "t45-33-niebla-y-campo-visual.webp",
+      "title": "Niebla y campo visual",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La niebla reduce alcance visual y contraste.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V34",
+      "file": "t45-34-nieve-hielo-y-baja-friccion.webp",
+      "title": "Nieve, hielo y baja fricción",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nieve y hielo pueden reducir drásticamente la adherencia disponible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V35",
+      "file": "t45-il-35-viento-lateral.webp",
+      "title": "Viento lateral",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El viento lateral puede desviar la trayectoria y afectar más a vehículos de gran superficie.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V36",
+      "file": "t45-36-iluminacion-y-conduccion-nocturna.webp",
+      "title": "Iluminación y conducción nocturna",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: De noche disminuyen referencias visuales y contraste.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V37",
+      "file": "t45-37-diseno-de-la-via.webp",
+      "title": "Diseño de la vía",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Curvas, pendientes, intersecciones y accesos modifican visibilidad y trayectorias de conflicto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V38",
+      "file": "t45-38-estado-del-firme-y-obstaculos.webp",
+      "title": "Estado del firme y obstáculos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Baches, gravilla, vertidos y obras pueden alterar adherencia y trayectoria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V39",
+      "file": "t45-39-densidad-y-composicion-del-trafico.webp",
+      "title": "Densidad y composición del tráfico",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La densidad aumenta interacciones y reduce espacios de maniobra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V40",
+      "file": "t45-il-40-planificacion-de-rutas-y-contingencias.webp",
+      "title": "Planificación de rutas y contingencias",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La planificación valora seguridad, tiempo, tráfico, meteorología y disponibilidad de alternativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V41",
+      "file": "t45-41-vehiculo-como-factor-de-riesgo.webp",
+      "title": "Vehículo como factor de riesgo",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El riesgo asociado al vehículo depende de diseño, estado, carga y adecuación a la misión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V42",
+      "file": "t45-42-neumaticos.webp",
+      "title": "Neumáticos",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El neumático es el contacto entre vehículo y calzada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V43",
+      "file": "t45-43-frenos.webp",
+      "title": "Frenos",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frenada segura requiere eficacia, equilibrio y respuesta previsible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V44",
+      "file": "t45-44-direccion-y-suspension.webp",
+      "title": "Dirección y suspensión",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dirección y suspensión mantienen control, contacto y geometría previstos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V45",
+      "file": "t45-il-45-alumbrado-senalizacion-y-visibilidad.webp",
+      "title": "Alumbrado, señalización y visibilidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Alumbrado y señalización permiten ver, ser visto y comunicar maniobras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V46",
+      "file": "t45-46-ergonomia-y-posicion.webp",
+      "title": "Ergonomía y posición",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asiento, volante, pedales, espejos y reposacabezas se ajustan antes de iniciar la marcha.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V47",
+      "file": "t45-47-carga-y-material-de-dotacion.webp",
+      "title": "Carga y material de dotación",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El material suelto puede convertirse en proyectil durante frenada o impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V48",
+      "file": "t45-48-sistemas-activos-pasivos-y-terciarios.webp",
+      "title": "Sistemas activos, pasivos y terciarios",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La seguridad activa intenta evitar o mitigar el siniestro antes del impacto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V49",
+      "file": "t45-49-inspeccion-tecnica-y-mantenimiento.webp",
+      "title": "Inspección técnica y mantenimiento",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ITV verifica requisitos definidos en un momento concreto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V50",
+      "file": "t45-il-50-alertas-testigos-y-degradacion.webp",
+      "title": "Alertas, testigos y degradación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un testigo informa de un estado que debe interpretarse conforme al manual y la gravedad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V51",
+      "file": "t45-51-riesgo-especifico-de-la-urgencia.webp",
+      "title": "Riesgo específico de la urgencia",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La urgencia combina presión temporal, mayor carga mental y escenarios dinámicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V52",
+      "file": "t45-52-facultades-y-responsabilidad.webp",
+      "title": "Facultades y responsabilidad",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El conductor prioritario actúa bajo su exclusiva responsabilidad al aplicar determinadas excepciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V53",
+      "file": "t45-53-intersecciones.webp",
+      "title": "Intersecciones",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las intersecciones concentran trayectorias conflictivas y zonas ocultas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V54",
+      "file": "t45-54-sobrecarga-de-tareas.webp",
+      "title": "Sobrecarga de tareas",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conducir, comunicar, navegar y observar tácticamente compiten por recursos atencionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V55",
+      "file": "t45-il-55-fatiga-en-turnos-operativos.webp",
+      "title": "Fatiga en turnos operativos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prolongación del servicio puede acumular fatiga aunque la misión siga siendo urgente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V56",
+      "file": "t45-56-ergonomia-con-equipo-policial.webp",
+      "title": "Ergonomía con equipo policial",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Chaleco, cinturón de servicio y funda pueden interferir con asiento y retención.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V57",
+      "file": "t45-57-descenso-e-intervencion-en-via.webp",
+      "title": "Descenso e intervención en vía",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Antes de abrir una puerta se valora tráfico, carril, visibilidad y vía de salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V58",
+      "file": "t45-58-riesgo-para-pasajeros-y-terceros.webp",
+      "title": "Riesgo para pasajeros y terceros",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La conducción prioritaria expone a conductor, dotación, trasladados y terceros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V59",
+      "file": "t45-59-accidente-durante-servicio-urgente.webp",
+      "title": "Accidente durante servicio urgente",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El accidente urgente requiere atención, aseguramiento de escena y notificación por cauce.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V60",
+      "file": "t45-il-60-criterio-de-llegada-operativa.webp",
+      "title": "Criterio de llegada operativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El objetivo es llegar con capacidad de intervenir y sin generar daños evitables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V61",
+      "file": "t45-61-definicion-correcta-de-epi.webp",
+      "title": "Definición correcta de EPI",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: A efectos del Real Decreto 773/1997, EPI es el equipo llevado o sujetado para proteger frente a uno o varios riesgos laborales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V62",
+      "file": "t45-62-exclusiones-del-concepto.webp",
+      "title": "Exclusiones del concepto",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ropa de trabajo corriente sin función protectora específica no es EPI.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V63",
+      "file": "t45-63-jerarquia-antes-de-la-proteccion-individual.webp",
+      "title": "Jerarquía antes de la protección individual",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El régimen policial prioriza la protección colectiva sobre la individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V64",
+      "file": "t45-64-evaluacion-y-eleccion-del-equipo-policial.webp",
+      "title": "Evaluación y elección del equipo policial",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Administración debe elegir medios adecuados a la tarea y a la seguridad de quienes los utilizan.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V65",
+      "file": "t45-il-65-compatibilidad-del-equipamiento.webp",
+      "title": "Compatibilidad del equipamiento",
+      "type": "ilustracion_simple",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La guía del INSST aporta un criterio técnico de compatibilidad cuando se usan varios elementos protectores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V66",
+      "file": "t45-66-informacion-formacion-y-practica.webp",
+      "title": "Información, formación y práctica",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El funcionario debe recibir información sobre riesgos y medidas de protección adoptadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V67",
+      "file": "t45-67-asignacion-disponibilidad-e-higiene.webp",
+      "title": "Asignación, disponibilidad e higiene",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La gestión del equipo debe asegurar disponibilidad, adecuación y estado para la tarea prevista.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V68",
+      "file": "t45-68-mantenimiento-limpieza-y-retirada.webp",
+      "title": "Mantenimiento, limpieza y retirada",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La guía del INSST aporta criterios técnicos sobre almacenamiento, limpieza, mantenimiento y reparación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V69",
+      "file": "t45-69-alta-visibilidad-al-regular-la-circulacion.webp",
+      "title": "Alta visibilidad al regular la circulación",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los agentes que regulan la circulación deben ser fácilmente reconocibles a distancia, de día y de noche.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V70",
+      "file": "t45-il-70-motorista-policial-y-proteccion.webp",
+      "title": "Motorista policial y protección",
+      "type": "ilustracion_simple",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El equipamiento del motorista se selecciona frente a impacto, abrasión, clima y visibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V71",
+      "file": "t45-71-estrategia-preventiva-por-capas.webp",
+      "title": "Estrategia preventiva por capas",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La estrategia combina reducción de exposición, organización, vehículo seguro, formación y protección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V72",
+      "file": "t45-72-lista-previa-al-servicio.webp",
+      "title": "Lista previa al servicio",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La comprobación previa cubre estado exterior, neumáticos, fluidos visibles, luces, testigos y material esencial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V73",
+      "file": "t45-73-mantenimiento-preventivo.webp",
+      "title": "Mantenimiento preventivo",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mantenimiento preventivo se programa antes del fallo según uso, tiempo y especificaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V74",
+      "file": "t45-74-mantenimiento-predictivo-y-por-condicion.webp",
+      "title": "Mantenimiento predictivo y por condición",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mantenimiento por condición usa mediciones, avisos o tendencias para anticipar degradación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V75",
+      "file": "t45-il-75-mantenimiento-correctivo.webp",
+      "title": "Mantenimiento correctivo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El correctivo restaura una función después de detectarse un defecto o fallo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V76",
+      "file": "t45-76-gestion-de-averias-e-inmovilizacion.webp",
+      "title": "Gestión de averías e inmovilización",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un fallo se clasifica por efecto potencial, probabilidad y posibilidad de control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V77",
+      "file": "t45-77-registro-y-trazabilidad.webp",
+      "title": "Registro y trazabilidad",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El registro relaciona vehículo, fecha, kilometraje, defecto, intervención y verificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V78",
+      "file": "t45-78-neumaticos-y-presion-operativa.webp",
+      "title": "Neumáticos y presión operativa",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La presión se ajusta a indicaciones del fabricante y a la carga prevista.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V79",
+      "file": "t45-79-fluidos-bateria-y-sistemas-auxiliares.webp",
+      "title": "Fluidos, batería y sistemas auxiliares",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los niveles y fugas se comprueban sin abrir sistemas peligrosos en caliente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T45-V80",
+      "file": "t45-il-80-cierre-del-ciclo-preventivo.webp",
+      "title": "Cierre del ciclo preventivo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ciclo preventivo identifica, evalúa, planifica, ejecuta, comprueba y revisa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-45",
+  "topic_number": 45,
+  "slug": "prevencion-riesgos-laborales-seguridad-vial-factores-epi-mantenimiento",
+  "title": "Prevención de Riesgos Laborales en Seguridad Vial. Factores del Tráfico y su influencia en la siniestralidad vial. Factor Humano, Factor Ambiental y Factor Vehículo. Riesgos Laborales en la conducción de vehículos prioritarios. Equipos de Protección Individual del conductor y pasajeros de vehículos policiales. Estrategias y mantenimiento preventivo del vehículo prioritario.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-45/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-45-prevencion-riesgos-laborales-seguridad-vial-factores-epi-mantenimiento.md",
+    "atestado": "temas/policia-nacional/atestado/tema-45-prevencion-riesgos-laborales-seguridad-vial-factores-epi-mantenimiento.md"
+  },
+  "semantic_blocks": 80,
+  "atomic_facts": 320,
+  "master_statements": 320,
+  "coverage_file": "conocimiento/policia-nacional/tema-45/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T45",
+    "BOE-LPRL-T45",
+    "BOE-RD2-2006-T45",
+    "BOE-RSP-T45",
+    "BOE-LGSS-T45",
+    "INSST-SVL-T45",
+    "INSST-NTP1090-T45",
+    "INSST-NTP1091-T45",
+    "INSST-ALT2024-T45",
+    "DGT-ESV2030-T45",
+    "BOE-LSV-T45",
+    "BOE-RGC-T45",
+    "BOE-RGV-T45",
+    "BOE-ITV-T45",
+    "BOE-RD773-T45",
+    "INSST-GUIA-EPI-T45",
+    "DGT-FACTOR-HUMANO-T45"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q089",
+    "of-pn-p33-a-q091",
+    "of-pn-p33-a-q093",
+    "of-pn-p34-a-q072",
+    "of-pn-p36-a-q003",
+    "of-pn-p37-a-q050",
+    "of-pn-p38-a-q098",
+    "of-pn-p39-a-q050",
+    "of-pn-p39-a-q080",
+    "of-pn-p42-a-q082"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-45/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-45/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-45/manifest.json",
+    "questions": 640,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-45/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-45/manifest.json",
+    "total": 0,
+    "planned": 80
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-45/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-45/revision-1.0.md"
+  }
+}

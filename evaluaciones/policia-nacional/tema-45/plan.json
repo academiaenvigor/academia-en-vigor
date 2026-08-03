@@ -1,0 +1,501 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 45,
+  "topic_title": "Prevención de Riesgos Laborales en Seguridad Vial. Factores del Tráfico y su influencia en la siniestralidad vial. Factor Humano, Factor Ambiental y Factor Vehículo. Riesgos Laborales en la conducción de vehículos prioritarios. Equipos de Protección Individual del conductor y pasajeros de vehículos policiales. Estrategias y mantenimiento preventivo del vehículo prioritario.",
+  "id_prefix": "PN-T45",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-45/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-45/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y método del Tema 45"
+      },
+      {
+        "number": 2,
+        "title": "Ámbito preventivo en la actividad policial"
+      },
+      {
+        "number": 3,
+        "title": "Integración de la prevención"
+      },
+      {
+        "number": 4,
+        "title": "Principios de acción preventiva"
+      },
+      {
+        "number": 5,
+        "title": "Peligro, riesgo y daño"
+      },
+      {
+        "number": 6,
+        "title": "Información y formación"
+      },
+      {
+        "number": 7,
+        "title": "Obligaciones de los funcionarios"
+      },
+      {
+        "number": 8,
+        "title": "Planificación de la actividad preventiva"
+      },
+      {
+        "number": 9,
+        "title": "Vigilancia de la salud y aptitud"
+      },
+      {
+        "number": 10,
+        "title": "Sistema Seguro y responsabilidad compartida"
+      },
+      {
+        "number": 11,
+        "title": "Accidente de trabajo y lesión"
+      },
+      {
+        "number": 12,
+        "title": "Accidente in itinere"
+      },
+      {
+        "number": 13,
+        "title": "Accidente en misión"
+      },
+      {
+        "number": 14,
+        "title": "Exposición al riesgo vial"
+      },
+      {
+        "number": 15,
+        "title": "Frecuencia, incidencia y gravedad"
+      },
+      {
+        "number": 16,
+        "title": "Accidente con víctimas y clasificación"
+      },
+      {
+        "number": 17,
+        "title": "Investigación preventiva del accidente"
+      },
+      {
+        "number": 18,
+        "title": "Modelo de Haddon"
+      },
+      {
+        "number": 19,
+        "title": "Plan de seguridad vial laboral"
+      },
+      {
+        "number": 20,
+        "title": "ISO 39001 en su sitio correcto"
+      },
+      {
+        "number": 21,
+        "title": "Factor humano sin monocausa"
+      },
+      {
+        "number": 22,
+        "title": "Percepción, decisión y ejecución"
+      },
+      {
+        "number": 23,
+        "title": "Atención y distracción"
+      },
+      {
+        "number": 24,
+        "title": "Fatiga y somnolencia"
+      },
+      {
+        "number": 25,
+        "title": "Ritmos circadianos y turnos"
+      },
+      {
+        "number": 26,
+        "title": "Alcohol y otras drogas"
+      },
+      {
+        "number": 27,
+        "title": "Medicamentos y salud"
+      },
+      {
+        "number": 28,
+        "title": "Estrés y activación"
+      },
+      {
+        "number": 29,
+        "title": "Velocidad elegida y riesgo"
+      },
+      {
+        "number": 30,
+        "title": "Cinturón, casco y conducta protectora"
+      },
+      {
+        "number": 31,
+        "title": "Factor ambiental amplio"
+      },
+      {
+        "number": 32,
+        "title": "Lluvia y adherencia"
+      },
+      {
+        "number": 33,
+        "title": "Niebla y campo visual"
+      },
+      {
+        "number": 34,
+        "title": "Nieve, hielo y baja fricción"
+      },
+      {
+        "number": 35,
+        "title": "Viento lateral"
+      },
+      {
+        "number": 36,
+        "title": "Iluminación y conducción nocturna"
+      },
+      {
+        "number": 37,
+        "title": "Diseño de la vía"
+      },
+      {
+        "number": 38,
+        "title": "Estado del firme y obstáculos"
+      },
+      {
+        "number": 39,
+        "title": "Densidad y composición del tráfico"
+      },
+      {
+        "number": 40,
+        "title": "Planificación de rutas y contingencias"
+      },
+      {
+        "number": 41,
+        "title": "Vehículo como factor de riesgo"
+      },
+      {
+        "number": 42,
+        "title": "Neumáticos"
+      },
+      {
+        "number": 43,
+        "title": "Frenos"
+      },
+      {
+        "number": 44,
+        "title": "Dirección y suspensión"
+      },
+      {
+        "number": 45,
+        "title": "Alumbrado, señalización y visibilidad"
+      },
+      {
+        "number": 46,
+        "title": "Ergonomía y posición"
+      },
+      {
+        "number": 47,
+        "title": "Carga y material de dotación"
+      },
+      {
+        "number": 48,
+        "title": "Sistemas activos, pasivos y terciarios"
+      },
+      {
+        "number": 49,
+        "title": "Inspección técnica y mantenimiento"
+      },
+      {
+        "number": 50,
+        "title": "Alertas, testigos y degradación"
+      },
+      {
+        "number": 51,
+        "title": "Riesgo específico de la urgencia"
+      },
+      {
+        "number": 52,
+        "title": "Facultades y responsabilidad"
+      },
+      {
+        "number": 53,
+        "title": "Intersecciones"
+      },
+      {
+        "number": 54,
+        "title": "Sobrecarga de tareas"
+      },
+      {
+        "number": 55,
+        "title": "Fatiga en turnos operativos"
+      },
+      {
+        "number": 56,
+        "title": "Ergonomía con equipo policial"
+      },
+      {
+        "number": 57,
+        "title": "Descenso e intervención en vía"
+      },
+      {
+        "number": 58,
+        "title": "Riesgo para pasajeros y terceros"
+      },
+      {
+        "number": 59,
+        "title": "Accidente durante servicio urgente"
+      },
+      {
+        "number": 60,
+        "title": "Criterio de llegada operativa"
+      },
+      {
+        "number": 61,
+        "title": "Definición correcta de EPI"
+      },
+      {
+        "number": 62,
+        "title": "Exclusiones del concepto"
+      },
+      {
+        "number": 63,
+        "title": "Jerarquía antes de la protección individual"
+      },
+      {
+        "number": 64,
+        "title": "Evaluación y elección del equipo policial"
+      },
+      {
+        "number": 65,
+        "title": "Compatibilidad del equipamiento"
+      },
+      {
+        "number": 66,
+        "title": "Información, formación y práctica"
+      },
+      {
+        "number": 67,
+        "title": "Asignación, disponibilidad e higiene"
+      },
+      {
+        "number": 68,
+        "title": "Mantenimiento, limpieza y retirada"
+      },
+      {
+        "number": 69,
+        "title": "Alta visibilidad al regular la circulación"
+      },
+      {
+        "number": 70,
+        "title": "Motorista policial y protección"
+      },
+      {
+        "number": 71,
+        "title": "Estrategia preventiva por capas"
+      },
+      {
+        "number": 72,
+        "title": "Lista previa al servicio"
+      },
+      {
+        "number": 73,
+        "title": "Mantenimiento preventivo"
+      },
+      {
+        "number": 74,
+        "title": "Mantenimiento predictivo y por condición"
+      },
+      {
+        "number": 75,
+        "title": "Mantenimiento correctivo"
+      },
+      {
+        "number": 76,
+        "title": "Gestión de averías e inmovilización"
+      },
+      {
+        "number": 77,
+        "title": "Registro y trazabilidad"
+      },
+      {
+        "number": 78,
+        "title": "Neumáticos y presión operativa"
+      },
+      {
+        "number": 79,
+        "title": "Fluidos, batería y sistemas auxiliares"
+      },
+      {
+        "number": 80,
+        "title": "Cierre del ciclo preventivo"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Marco preventivo de la seguridad vial laboral",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Accidentes laborales de tráfico y gestión preventiva",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Factor humano",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Factor ambiental y vía",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Factor vehículo",
+        "blocks": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Riesgos laborales en la conducción prioritaria",
+        "blocks": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Equipos de protección individual",
+        "blocks": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Estrategias y mantenimiento preventivo",
+        "blocks": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
