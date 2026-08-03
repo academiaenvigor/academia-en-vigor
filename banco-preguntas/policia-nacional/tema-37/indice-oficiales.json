@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 37,
+  "titulo": "Ortografía de la lengua española. Reglas ortográficas. Uso de las letras o grafemas. Uso de la tilde, de los signos ortográficos y de las letras mayúsculas y minúsculas. Representación gráfica de las unidades léxicas. Ortografía de las expresiones procedentes de otras lenguas, de nombres propios y expresiones numéricas.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 7,
+  "con_bloque_asignado": 7,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "63": 1,
+    "32": 1,
+    "72": 1,
+    "83": 1,
+    "75": 1,
+    "18": 1,
+    "77": 1
+  },
+  "por_promocion": {
+    "P38": 1,
+    "P39": 1,
+    "P40": 1,
+    "P41": 2,
+    "P42": 2
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p38-a-q083",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 83,
+      "block_refs": [
+        63
+      ],
+      "fact_refs": [
+        "PN-T37-F249"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Los sobrenombres, apodos y seudónimos se escriben con la primera letra en mayúsculas?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q037",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 37,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "PN-T37-F126"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Conforme a las reglas ortográficas:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q046",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 46,
+      "block_refs": [
+        72
+      ],
+      "fact_refs": [
+        "PN-T37-F287"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de estas frases está escrita correctamente?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q066",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 66,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "PN-T37-F332"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes frases está escrita correctamente?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q086",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 86,
+      "block_refs": [
+        75
+      ],
+      "fact_refs": [
+        "PN-T37-F298"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Indique cuál de las siguientes frases está escrita correctamente:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q057",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 57,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "PN-T37-F071"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes frases está escrita correctamente?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q080",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 80,
+      "block_refs": [
+        77
+      ],
+      "fact_refs": [
+        "PN-T37-F307"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes frases está escrita correctamente?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

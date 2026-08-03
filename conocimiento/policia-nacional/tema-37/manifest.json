@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-37",
+  "topic_number": 37,
+  "slug": "ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas",
+  "title": "Ortografía de la lengua española. Reglas ortográficas. Uso de las letras o grafemas. Uso de la tilde, de los signos ortográficos y de las letras mayúsculas y minúsculas. Representación gráfica de las unidades léxicas. Ortografía de las expresiones procedentes de otras lenguas, de nombres propios y expresiones numéricas.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-37/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-37-ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas.md",
+    "atestado": "temas/policia-nacional/atestado/tema-37-ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas.md"
+  },
+  "semantic_blocks": 88,
+  "atomic_facts": 352,
+  "master_statements": 352,
+  "coverage_file": "conocimiento/policia-nacional/tema-37/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T37",
+    "RAE-OLE-GRAFEMAS-T37",
+    "RAE-OLE-TILDE-T37",
+    "RAE-OLE-SIGNOS-T37",
+    "RAE-OLE-MAYUSCULAS-T37",
+    "RAE-OLE-UNIDADES-T37",
+    "RAE-OLE-EXTRANJERISMOS-T37",
+    "RAE-OLE-NOMBRES-T37",
+    "RAE-OLE-NUMEROS-T37",
+    "RAE-DPD2-T37",
+    "RAE-LIBRO-ESTILO-T37"
+  ],
+  "official_exam_items": [
+    "of-pn-p38-a-q083",
+    "of-pn-p39-a-q037",
+    "of-pn-p40-a-q046",
+    "of-pn-p41-a-q066",
+    "of-pn-p41-a-q086",
+    "of-pn-p42-a-q057",
+    "of-pn-p42-a-q080"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-37/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-37/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-37/manifest.json",
+    "questions": 704,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-37/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-37/manifest.json",
+    "total": 0,
+    "planned": 88
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-37/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-37/revision-1.0.md"
+  }
+}

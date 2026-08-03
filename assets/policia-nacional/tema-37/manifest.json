@@ -1,0 +1,2835 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-37",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 88,
+    "integrated": 0,
+    "planned": 88
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T37-V01",
+      "file": "t37-01-alcance-oficial-del-tema-37.webp",
+      "title": "Alcance oficial del Tema 37",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estudia el tema como ocho puertas; una respuesta puede ser correcta en letras y fallar en tilde, espacio o mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V02",
+      "file": "t37-02-ortografia-norma-y-escritura.webp",
+      "title": "Ortografía, norma y escritura",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pronunciación varía; la escritura común actúa como un mapa compartido entre variedades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V03",
+      "file": "t37-03-sonido-fonema-y-grafema.webp",
+      "title": "Sonido, fonema y grafema",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No emparejes voz y escritura como si fueran un cable único: hay desvíos, alternativas y grafemas sin sonido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V04",
+      "file": "t37-il-04-el-abecedario-espanol.webp",
+      "title": "El abecedario español",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuenta signos simples, no sonidos: 27 letras; ch y ll trabajan en pareja, pero no obtienen asiento propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V05",
+      "file": "t37-05-nombres-de-las-letras.webp",
+      "title": "Nombres de las letras",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue recomendación unificadora de prohibición: la Academia propone nombres comunes sin borrar variantes arraigadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V06",
+      "file": "t37-06-digrafos-del-espanol.webp",
+      "title": "Dígrafos del español",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dos letras forman dígrafo solo si realizan juntas un trabajo fónico único; no basta con que estén juntas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V07",
+      "file": "t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp",
+      "title": "Correspondencias regulares y zonas de duda",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Usa reglas donde existan y memoria de familias o diccionario donde la pronunciación no decida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V08",
+      "file": "t37-08-regla-familia-y-diccionario.webp",
+      "title": "Regla, familia y diccionario",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ortografía no se gana inventando reglas: primero norma, después familia transparente y, si queda duda, diccionario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V09",
+      "file": "t37-09-las-letras-b-y-v.webp",
+      "title": "Las letras b y v",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Si el oído no separa b y v, no lo fuerces: usa la estructura y el significado de la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V10",
+      "file": "t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp",
+      "title": "B en secuencias y terminaciones frecuentes",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son reglas potentes, pero no infinitas: aplica el patrón exacto y conserva sus excepciones léxicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V11",
+      "file": "t37-11-v-en-formas-y-familias.webp",
+      "title": "V en formas y familias",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca la forma de origen y el sufijo real; una coincidencia sonora no basta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V12",
+      "file": "t37-il-12-las-letras-g-y-j-ante-e-i.webp",
+      "title": "Las letras g y j ante e, i",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ante e e i hay cruce de caminos: sonido igual, letras posibles distintas; decide por regla o palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V13",
+      "file": "t37-13-gu-y-gu-ante-e-i.webp",
+      "title": "Gu y gü ante e, i",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La diéresis es un interruptor: solo en güe y güi enciende una u que, sin ella, quedaría muda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V14",
+      "file": "t37-14-c-z-y-s.webp",
+      "title": "C, z y s",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pronunciar igual no significa escribir igual: la variedad oral es legítima y la distinción gráfica sigue vigente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V15",
+      "file": "t37-15-c-y-z-en-flexion-y-derivacion.webp",
+      "title": "C y z en flexión y derivación",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La familia se mantiene aunque cambie la pieza gráfica exigida por la vocal siguiente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V16",
+      "file": "t37-16-k-qu-y-c-para-el-fonema-k.webp",
+      "title": "K, qu y c para el fonema /k/",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Para /k/, c cubre a-o-u, qu cubre e-i y k aparece en vocabulario específico o prestado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V17",
+      "file": "t37-17-i-e-y-con-valor-vocalico.webp",
+      "title": "I e y con valor vocálico",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La y tiene doble oficio: suele ser consonante, pero en posiciones concretas trabaja como vocal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V18",
+      "file": "t37-il-18-ll-e-y.webp",
+      "title": "Ll e y",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El oído yeísta no separa ll e y; el significado y la memoria gráfica sí.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V19",
+      "file": "t37-19-r-y-rr.webp",
+      "title": "R y rr",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fuerza del sonido no basta: la posición decide si la vibrante múltiple usa r o rr.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V20",
+      "file": "t37-20-la-letra-h.webp",
+      "title": "La letra h",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La h es silenciosa, no decorativa: puede separar significados y forma parte de la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V21",
+      "file": "t37-21-m-y-n-ante-consonante.webp",
+      "title": "M y n ante consonante",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Antes de b y p, la m es la señal segura; la pronunciación rápida no reescribe la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V22",
+      "file": "t37-22-x-y-s.webp",
+      "title": "X y s",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La x es una letra de varios valores; memoriza la grafía de la palabra, no una pronunciación simplificada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V23",
+      "file": "t37-il-23-la-letra-w.webp",
+      "title": "La letra w",
+      "type": "ilustracion_simple",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La w tiene pasaporte español, aunque gran parte de su equipaje venga de otras lenguas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V24",
+      "file": "t37-24-la-letra-n-y-la-secuencia-gn.webp",
+      "title": "La letra ñ y la secuencia gn",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La virgulilla no adorna ni acentúa: convierte n en otra letra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V25",
+      "file": "t37-25-homofonos-y-paronimos-ortograficos.webp",
+      "title": "Homófonos y parónimos ortográficos",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La palabra puede estar bien escrita y ser la palabra equivocada; el significado completa el control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V26",
+      "file": "t37-26-familias-lexicas-y-alternancias.webp",
+      "title": "Familias léxicas y alternancias",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La familia conserva identidad, pero puede cambiar de uniforme gráfico para mantener el sonido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V27",
+      "file": "t37-27-secuencias-consonanticas-y-simplificacion.webp",
+      "title": "Secuencias consonánticas y simplificación",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No conviertas una variante registrada en una regla de borrado general: cada palabra tiene expediente propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V28",
+      "file": "t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp",
+      "title": "Grafías de palabras compuestas y prefijadas",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuando dos piezas se unen, revisa tres controles: frontera, sonido resultante y acentuación del conjunto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V29",
+      "file": "t37-il-29-acento-prosodico-y-tilde.webp",
+      "title": "Acento prosódico y tilde",
+      "type": "ilustracion_simple",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero localiza la sílaba tónica; después pregunta si la regla exige dibujar la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V30",
+      "file": "t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp",
+      "title": "Agudas, llanas, esdrújulas y sobresdrújulas",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica por la posición del golpe de voz, no por la presencia de tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V31",
+      "file": "t37-31-regla-de-las-palabras-agudas.webp",
+      "title": "Regla de las palabras agudas",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La contraseña es vocal, n o s simple; una consonante adicional o la y cambian la salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V32",
+      "file": "t37-32-regla-de-las-palabras-llanas.webp",
+      "title": "Regla de las palabras llanas",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En las llanas la regla se invierte, pero vigila las salidas dobles: bíceps lleva tilde porque acaba en dos consonantes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V33",
+      "file": "t37-33-esdrujulas-y-sobresdrujulas.webp",
+      "title": "Esdrújulas y sobresdrújulas",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Esdrújula y sobresdrújula entran con pase directo a la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V34",
+      "file": "t37-il-34-monosilabos.webp",
+      "title": "Monosílabos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En ortografía, ciertos grupos vocálicos cuentan como una sola sílaba aunque tu pronunciación los separe.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V35",
+      "file": "t37-35-tilde-diacritica-en-monosilabos-i.webp",
+      "title": "Tilde diacrítica en monosílabos I",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La función y la tonicidad deciden: pronombre tónico con tilde; artículo o posesivo átono sin ella.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V36",
+      "file": "t37-36-tilde-diacritica-en-monosilabos-ii.webp",
+      "title": "Tilde diacrítica en monosílabos II",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No memorices pares aislados: identifica qué trabajo realiza cada forma dentro de la frase.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V37",
+      "file": "t37-37-aun-y-aun.webp",
+      "title": "Aún y aun",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prueba el recambio: todavía abre la puerta de aún; incluso suele abrir la de aun.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V38",
+      "file": "t37-38-interrogativos-y-exclamativos.webp",
+      "title": "Interrogativos y exclamativos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca una incógnita o una exclamación tónica, aunque esté escondida dentro de otra oración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V39",
+      "file": "t37-39-solo-y-los-demostrativos.webp",
+      "title": "Solo y los demostrativos",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La regla general es no tildar; la norma actual solo admite la tilde como opción restringida ante ambigüedad real.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V40",
+      "file": "t37-40-diptongos.webp",
+      "title": "Diptongos",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero decide si las vocales comparten sílaba; después aplica la regla general y ubica la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V41",
+      "file": "t37-il-41-triptongos.webp",
+      "title": "Triptongos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El triptongo es un bocadillo vocálico: abierta en el centro y cerradas átonas a los lados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V42",
+      "file": "t37-42-hiatos.webp",
+      "title": "Hiatos",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La tilde en la cerrada tónica actúa como cuña: separa las vocales en sílabas distintas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V43",
+      "file": "t37-43-palabras-compuestas.webp",
+      "title": "Palabras compuestas",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Si se fusionan, recalcula desde cero; si el guion mantiene las piezas, cada una conserva su control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V44",
+      "file": "t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp",
+      "title": "Adverbios en -mente y formas con pronombres enclíticos",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En -mente se conserva la memoria del adjetivo; con enclíticos se vuelve a pasar el conjunto por la regla general.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V45",
+      "file": "t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp",
+      "title": "Mayúsculas, abreviaturas, siglas y extranjerismos",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El formato no borra la ortografía: ÁVILA lleva tilde; una sigla, en cambio, sigue su convención propia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V46",
+      "file": "t37-46-clases-de-signos-ortograficos.webp",
+      "title": "Clases de signos ortográficos",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica por función, no por forma: una rayita puede ser tilde, guion o raya y cumplir trabajos distintos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V47",
+      "file": "t37-il-47-el-punto.webp",
+      "title": "El punto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira qué cierra el punto: una abreviatura no termina por sí sola el enunciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V48",
+      "file": "t37-48-la-coma-en-enumeraciones-y-elipsis.webp",
+      "title": "La coma en enumeraciones y elipsis",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La coma organiza piezas internas; no la coloques por falta de aire.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V49",
+      "file": "t37-49-vocativos-e-incisos.webp",
+      "title": "Vocativos e incisos",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Vocativo e inciso entran como visitantes: abre y cierra la puerta de la puntuación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V50",
+      "file": "t37-50-coma-entre-sujeto-y-predicado.webp",
+      "title": "Coma entre sujeto y predicado",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La coma no corta la columna vertebral sujeto-verbo; si aparece ahí, debe cerrar otra estructura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V51",
+      "file": "t37-51-el-punto-y-coma.webp",
+      "title": "El punto y coma",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Es una frontera de intensidad media: más fuerte que coma, menos definitiva que punto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V52",
+      "file": "t37-52-los-dos-puntos.webp",
+      "title": "Los dos puntos",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los dos puntos necesitan una plataforma de lanzamiento; no cortes el verbo de aquello que rige.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V53",
+      "file": "t37-il-53-los-puntos-suspensivos.webp",
+      "title": "Los puntos suspensivos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son tres, ni dos ni cuatro; ya llevan incorporada la idea de cierre o suspensión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V54",
+      "file": "t37-54-interrogacion-y-exclamacion.webp",
+      "title": "Interrogación y exclamación",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Abre donde empieza la pregunta real y cierra donde acaba; el signo final ya hace de punto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V55",
+      "file": "t37-55-parentesis-y-corchetes.webp",
+      "title": "Paréntesis y corchetes",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en cajas anidadas: el signo exterior organiza el enunciado y el interior protege la aclaración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V56",
+      "file": "t37-56-raya-y-guion.webp",
+      "title": "Raya y guion",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El guion cose piezas; la raya abre espacio para una voz o un inciso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V57",
+      "file": "t37-57-comillas.webp",
+      "title": "Comillas",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las comillas tienen niveles como muñecas rusas: angulares, inglesas y simples según la anidación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V58",
+      "file": "t37-il-58-combinacion-de-signos.webp",
+      "title": "Combinación de signos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cierra las cajas en orden y después añade la puntuación que pertenezca al enunciado exterior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V59",
+      "file": "t37-59-barra-apostrofo-y-asterisco.webp",
+      "title": "Barra, apóstrofo y asterisco",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los signos auxiliares son herramientas especializadas: su forma no determina por sí sola el espaciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V60",
+      "file": "t37-60-espacios-y-signos.webp",
+      "title": "Espacios y signos",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los signos abrazan el texto por dentro y dejan aire por fuera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V61",
+      "file": "t37-61-principios-de-mayusculas-y-minusculas.webp",
+      "title": "Principios de mayúsculas y minúsculas",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La mayúscula necesita una función, no una emoción: delimitar o identificar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V62",
+      "file": "t37-62-inicio-de-enunciado-y-despues-de-signos.webp",
+      "title": "Inicio de enunciado y después de signos",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pregunta clave es si terminó el enunciado, no qué signo viste por última vez.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V63",
+      "file": "t37-il-63-antroponimos-apodos-y-seudonimos.webp",
+      "title": "Antropónimos, apodos y seudónimos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El apodo recibe mayúscula; el artículo acompañante no asciende automáticamente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V64",
+      "file": "t37-64-instituciones-organismos-y-cuerpos.webp",
+      "title": "Instituciones, organismos y cuerpos",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nombre oficial completo: placa identificativa; uso genérico: nombre común.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V65",
+      "file": "t37-65-cargos-titulos-y-tratamientos.webp",
+      "title": "Cargos, títulos y tratamientos",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cargo es una función, no un nombre propio: se escribe con minúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V66",
+      "file": "t37-66-toponimos-y-accidentes-geograficos.webp",
+      "title": "Topónimos y accidentes geográficos",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa la clase de accidente del nombre individual: río es categoría; Ebro identifica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V67",
+      "file": "t37-67-obras-publicaciones-y-documentos.webp",
+      "title": "Obras, publicaciones y documentos",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En español los títulos no se visten como en inglés: normalmente solo la primera palabra abre con mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V68",
+      "file": "t37-il-68-leyes-periodos-y-calendario.webp",
+      "title": "Leyes, periodos y calendario",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El calendario ordinario va en minúscula; la denominación propia de una fiesta o periodo puede llevar mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V69",
+      "file": "t37-69-palabra-y-unidad-lexica.webp",
+      "title": "Palabra y unidad léxica",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El espacio también escribe: puede separar piezas de una locución o distinguir dos expresiones distintas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V70",
+      "file": "t37-70-prefijos-unidos-a-una-base.webp",
+      "title": "Prefijos unidos a una base",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una base de una sola palabra atrae al prefijo: se escriben juntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V71",
+      "file": "t37-71-prefijos-con-guion-o-separados.webp",
+      "title": "Prefijos con guion o separados",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El prefijo se une a una palabra, usa guion ante mayúscula o cifra y se separa ante una base de varias palabras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V72",
+      "file": "t37-72-por-que-porque-porque-y-por-que.webp",
+      "title": "Por qué, porque, porqué y por que",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No elijas por oído: pregunta, respuesta, nombre o suma de preposición y que.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V73",
+      "file": "t37-il-73-sino-y-si-no.webp",
+      "title": "Sino y si no",
+      "type": "ilustracion_simple",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sustitución corrige el rumbo: sino equivale a más bien; si no abre una condición negativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V74",
+      "file": "t37-74-conque-con-que-y-con-que.webp",
+      "title": "Conque, con que y con qué",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres controles: consecuencia unida, piezas sintácticas separadas e interrogación con tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V75",
+      "file": "t37-75-secuencias-de-escritura-dudosa.webp",
+      "title": "Secuencias de escritura dudosa",
+      "type": "infografia",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La escritura cambia con el significado: prueba una sustitución antes de decidir el espacio o la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V76",
+      "file": "t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp",
+      "title": "Préstamos adaptados y extranjerismos crudos",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Elige un carril completo: adaptación española o forma extranjera marcada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V77",
+      "file": "t37-77-latinismos-y-locuciones-latinas.webp",
+      "title": "Latinismos y locuciones latinas",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una locución latina no necesita muletas castellanas: evita de motu proprio y a grosso modo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V78",
+      "file": "t37-78-transcripcion-y-transliteracion.webp",
+      "title": "Transcripción y transliteración",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Transcribir aproxima el sonido; transliterar empareja signos. No son el mismo puente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V79",
+      "file": "t37-il-79-antroponimos-extranjeros.webp",
+      "title": "Antropónimos extranjeros",
+      "type": "ilustracion_simple",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conserva la identidad gráfica salvo que exista forma española tradicional o sea necesaria una transcripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V80",
+      "file": "t37-80-toponimos-extranjeros-y-gentilicios.webp",
+      "title": "Topónimos extranjeros y gentilicios",
+      "type": "infografia",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El lugar puede conservar mayúscula; el habitante baja a minúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V81",
+      "file": "t37-81-apellidos-con-preposiciones-y-articulos.webp",
+      "title": "Apellidos con preposiciones y artículos",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pieza del apellido cambia de altura según vaya acompañada del nombre; además, la forma registrada manda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V82",
+      "file": "t37-82-cifras-arabigas-y-agrupacion.webp",
+      "title": "Cifras arábigas y agrupación",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Agrupa cantidades, no identificadores; el espacio separa millares sin competir con el decimal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V83",
+      "file": "t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp",
+      "title": "Cardinales y ordinales escritos con palabras",
+      "type": "ilustracion_simple",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cardinal cuenta, ordinal ordena y fraccionario divide: no intercambies sus uniformes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V84",
+      "file": "t37-84-numeros-romanos.webp",
+      "title": "Números romanos",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son cifras, no abreviaturas: mayúsculas sin punto y combinación reglada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V85",
+      "file": "t37-85-fechas.webp",
+      "title": "Fechas",
+      "type": "infografia",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En una fecha española el mes es nombre común y el año no es una cantidad para agrupar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V86",
+      "file": "t37-86-la-hora.webp",
+      "title": "La hora",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Elige reloj de 24 horas con h o sistema de 12 horas con a. m./p. m.; no superpongas ambos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V87",
+      "file": "t37-87-porcentajes-unidades-y-monedas.webp",
+      "title": "Porcentajes, unidades y monedas",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El símbolo es una ficha internacional: sin punto, sin plural y con su forma fija.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V88",
+      "file": "t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp",
+      "title": "Abreviaturas, siglas, acrónimos y símbolos",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue las cuatro tarjetas: abreviatura con punto, sigla sin puntos, acrónimo convertido en palabra y símbolo fijo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T37-V01",
+      "file": "t37-01-alcance-oficial-del-tema-37.webp",
+      "title": "Alcance oficial del Tema 37",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estudia el tema como ocho puertas; una respuesta puede ser correcta en letras y fallar en tilde, espacio o mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V02",
+      "file": "t37-02-ortografia-norma-y-escritura.webp",
+      "title": "Ortografía, norma y escritura",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pronunciación varía; la escritura común actúa como un mapa compartido entre variedades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V03",
+      "file": "t37-03-sonido-fonema-y-grafema.webp",
+      "title": "Sonido, fonema y grafema",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No emparejes voz y escritura como si fueran un cable único: hay desvíos, alternativas y grafemas sin sonido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V04",
+      "file": "t37-il-04-el-abecedario-espanol.webp",
+      "title": "El abecedario español",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuenta signos simples, no sonidos: 27 letras; ch y ll trabajan en pareja, pero no obtienen asiento propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V05",
+      "file": "t37-05-nombres-de-las-letras.webp",
+      "title": "Nombres de las letras",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue recomendación unificadora de prohibición: la Academia propone nombres comunes sin borrar variantes arraigadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V06",
+      "file": "t37-06-digrafos-del-espanol.webp",
+      "title": "Dígrafos del español",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dos letras forman dígrafo solo si realizan juntas un trabajo fónico único; no basta con que estén juntas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V07",
+      "file": "t37-il-07-correspondencias-regulares-y-zonas-de-duda.webp",
+      "title": "Correspondencias regulares y zonas de duda",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Usa reglas donde existan y memoria de familias o diccionario donde la pronunciación no decida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V08",
+      "file": "t37-08-regla-familia-y-diccionario.webp",
+      "title": "Regla, familia y diccionario",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ortografía no se gana inventando reglas: primero norma, después familia transparente y, si queda duda, diccionario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V09",
+      "file": "t37-09-las-letras-b-y-v.webp",
+      "title": "Las letras b y v",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Si el oído no separa b y v, no lo fuerces: usa la estructura y el significado de la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V10",
+      "file": "t37-10-b-en-secuencias-y-terminaciones-frecuentes.webp",
+      "title": "B en secuencias y terminaciones frecuentes",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son reglas potentes, pero no infinitas: aplica el patrón exacto y conserva sus excepciones léxicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V11",
+      "file": "t37-11-v-en-formas-y-familias.webp",
+      "title": "V en formas y familias",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca la forma de origen y el sufijo real; una coincidencia sonora no basta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V12",
+      "file": "t37-il-12-las-letras-g-y-j-ante-e-i.webp",
+      "title": "Las letras g y j ante e, i",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ante e e i hay cruce de caminos: sonido igual, letras posibles distintas; decide por regla o palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V13",
+      "file": "t37-13-gu-y-gu-ante-e-i.webp",
+      "title": "Gu y gü ante e, i",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La diéresis es un interruptor: solo en güe y güi enciende una u que, sin ella, quedaría muda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V14",
+      "file": "t37-14-c-z-y-s.webp",
+      "title": "C, z y s",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pronunciar igual no significa escribir igual: la variedad oral es legítima y la distinción gráfica sigue vigente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V15",
+      "file": "t37-15-c-y-z-en-flexion-y-derivacion.webp",
+      "title": "C y z en flexión y derivación",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La familia se mantiene aunque cambie la pieza gráfica exigida por la vocal siguiente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V16",
+      "file": "t37-16-k-qu-y-c-para-el-fonema-k.webp",
+      "title": "K, qu y c para el fonema /k/",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Para /k/, c cubre a-o-u, qu cubre e-i y k aparece en vocabulario específico o prestado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V17",
+      "file": "t37-17-i-e-y-con-valor-vocalico.webp",
+      "title": "I e y con valor vocálico",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La y tiene doble oficio: suele ser consonante, pero en posiciones concretas trabaja como vocal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V18",
+      "file": "t37-il-18-ll-e-y.webp",
+      "title": "Ll e y",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El oído yeísta no separa ll e y; el significado y la memoria gráfica sí.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V19",
+      "file": "t37-19-r-y-rr.webp",
+      "title": "R y rr",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fuerza del sonido no basta: la posición decide si la vibrante múltiple usa r o rr.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V20",
+      "file": "t37-20-la-letra-h.webp",
+      "title": "La letra h",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La h es silenciosa, no decorativa: puede separar significados y forma parte de la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V21",
+      "file": "t37-21-m-y-n-ante-consonante.webp",
+      "title": "M y n ante consonante",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Antes de b y p, la m es la señal segura; la pronunciación rápida no reescribe la palabra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V22",
+      "file": "t37-22-x-y-s.webp",
+      "title": "X y s",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La x es una letra de varios valores; memoriza la grafía de la palabra, no una pronunciación simplificada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V23",
+      "file": "t37-il-23-la-letra-w.webp",
+      "title": "La letra w",
+      "type": "ilustracion_simple",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La w tiene pasaporte español, aunque gran parte de su equipaje venga de otras lenguas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V24",
+      "file": "t37-24-la-letra-n-y-la-secuencia-gn.webp",
+      "title": "La letra ñ y la secuencia gn",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La virgulilla no adorna ni acentúa: convierte n en otra letra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V25",
+      "file": "t37-25-homofonos-y-paronimos-ortograficos.webp",
+      "title": "Homófonos y parónimos ortográficos",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La palabra puede estar bien escrita y ser la palabra equivocada; el significado completa el control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V26",
+      "file": "t37-26-familias-lexicas-y-alternancias.webp",
+      "title": "Familias léxicas y alternancias",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La familia conserva identidad, pero puede cambiar de uniforme gráfico para mantener el sonido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V27",
+      "file": "t37-27-secuencias-consonanticas-y-simplificacion.webp",
+      "title": "Secuencias consonánticas y simplificación",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No conviertas una variante registrada en una regla de borrado general: cada palabra tiene expediente propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V28",
+      "file": "t37-28-grafias-de-palabras-compuestas-y-prefijadas.webp",
+      "title": "Grafías de palabras compuestas y prefijadas",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuando dos piezas se unen, revisa tres controles: frontera, sonido resultante y acentuación del conjunto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V29",
+      "file": "t37-il-29-acento-prosodico-y-tilde.webp",
+      "title": "Acento prosódico y tilde",
+      "type": "ilustracion_simple",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero localiza la sílaba tónica; después pregunta si la regla exige dibujar la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V30",
+      "file": "t37-30-agudas-llanas-esdrujulas-y-sobresdrujulas.webp",
+      "title": "Agudas, llanas, esdrújulas y sobresdrújulas",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica por la posición del golpe de voz, no por la presencia de tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V31",
+      "file": "t37-31-regla-de-las-palabras-agudas.webp",
+      "title": "Regla de las palabras agudas",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La contraseña es vocal, n o s simple; una consonante adicional o la y cambian la salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V32",
+      "file": "t37-32-regla-de-las-palabras-llanas.webp",
+      "title": "Regla de las palabras llanas",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En las llanas la regla se invierte, pero vigila las salidas dobles: bíceps lleva tilde porque acaba en dos consonantes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V33",
+      "file": "t37-33-esdrujulas-y-sobresdrujulas.webp",
+      "title": "Esdrújulas y sobresdrújulas",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Esdrújula y sobresdrújula entran con pase directo a la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V34",
+      "file": "t37-il-34-monosilabos.webp",
+      "title": "Monosílabos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En ortografía, ciertos grupos vocálicos cuentan como una sola sílaba aunque tu pronunciación los separe.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V35",
+      "file": "t37-35-tilde-diacritica-en-monosilabos-i.webp",
+      "title": "Tilde diacrítica en monosílabos I",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La función y la tonicidad deciden: pronombre tónico con tilde; artículo o posesivo átono sin ella.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V36",
+      "file": "t37-36-tilde-diacritica-en-monosilabos-ii.webp",
+      "title": "Tilde diacrítica en monosílabos II",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No memorices pares aislados: identifica qué trabajo realiza cada forma dentro de la frase.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V37",
+      "file": "t37-37-aun-y-aun.webp",
+      "title": "Aún y aun",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prueba el recambio: todavía abre la puerta de aún; incluso suele abrir la de aun.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V38",
+      "file": "t37-38-interrogativos-y-exclamativos.webp",
+      "title": "Interrogativos y exclamativos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca una incógnita o una exclamación tónica, aunque esté escondida dentro de otra oración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V39",
+      "file": "t37-39-solo-y-los-demostrativos.webp",
+      "title": "Solo y los demostrativos",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La regla general es no tildar; la norma actual solo admite la tilde como opción restringida ante ambigüedad real.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V40",
+      "file": "t37-40-diptongos.webp",
+      "title": "Diptongos",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero decide si las vocales comparten sílaba; después aplica la regla general y ubica la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V41",
+      "file": "t37-il-41-triptongos.webp",
+      "title": "Triptongos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El triptongo es un bocadillo vocálico: abierta en el centro y cerradas átonas a los lados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V42",
+      "file": "t37-42-hiatos.webp",
+      "title": "Hiatos",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La tilde en la cerrada tónica actúa como cuña: separa las vocales en sílabas distintas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V43",
+      "file": "t37-43-palabras-compuestas.webp",
+      "title": "Palabras compuestas",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Si se fusionan, recalcula desde cero; si el guion mantiene las piezas, cada una conserva su control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V44",
+      "file": "t37-44-adverbios-en-mente-y-formas-con-pronombres-encliticos.webp",
+      "title": "Adverbios en -mente y formas con pronombres enclíticos",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En -mente se conserva la memoria del adjetivo; con enclíticos se vuelve a pasar el conjunto por la regla general.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V45",
+      "file": "t37-45-mayusculas-abreviaturas-siglas-y-extranjerismos.webp",
+      "title": "Mayúsculas, abreviaturas, siglas y extranjerismos",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El formato no borra la ortografía: ÁVILA lleva tilde; una sigla, en cambio, sigue su convención propia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V46",
+      "file": "t37-46-clases-de-signos-ortograficos.webp",
+      "title": "Clases de signos ortográficos",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica por función, no por forma: una rayita puede ser tilde, guion o raya y cumplir trabajos distintos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V47",
+      "file": "t37-il-47-el-punto.webp",
+      "title": "El punto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira qué cierra el punto: una abreviatura no termina por sí sola el enunciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V48",
+      "file": "t37-48-la-coma-en-enumeraciones-y-elipsis.webp",
+      "title": "La coma en enumeraciones y elipsis",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La coma organiza piezas internas; no la coloques por falta de aire.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V49",
+      "file": "t37-49-vocativos-e-incisos.webp",
+      "title": "Vocativos e incisos",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Vocativo e inciso entran como visitantes: abre y cierra la puerta de la puntuación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V50",
+      "file": "t37-50-coma-entre-sujeto-y-predicado.webp",
+      "title": "Coma entre sujeto y predicado",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La coma no corta la columna vertebral sujeto-verbo; si aparece ahí, debe cerrar otra estructura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V51",
+      "file": "t37-51-el-punto-y-coma.webp",
+      "title": "El punto y coma",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Es una frontera de intensidad media: más fuerte que coma, menos definitiva que punto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V52",
+      "file": "t37-52-los-dos-puntos.webp",
+      "title": "Los dos puntos",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los dos puntos necesitan una plataforma de lanzamiento; no cortes el verbo de aquello que rige.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V53",
+      "file": "t37-il-53-los-puntos-suspensivos.webp",
+      "title": "Los puntos suspensivos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son tres, ni dos ni cuatro; ya llevan incorporada la idea de cierre o suspensión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V54",
+      "file": "t37-54-interrogacion-y-exclamacion.webp",
+      "title": "Interrogación y exclamación",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Abre donde empieza la pregunta real y cierra donde acaba; el signo final ya hace de punto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V55",
+      "file": "t37-55-parentesis-y-corchetes.webp",
+      "title": "Paréntesis y corchetes",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en cajas anidadas: el signo exterior organiza el enunciado y el interior protege la aclaración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V56",
+      "file": "t37-56-raya-y-guion.webp",
+      "title": "Raya y guion",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El guion cose piezas; la raya abre espacio para una voz o un inciso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V57",
+      "file": "t37-57-comillas.webp",
+      "title": "Comillas",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las comillas tienen niveles como muñecas rusas: angulares, inglesas y simples según la anidación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V58",
+      "file": "t37-il-58-combinacion-de-signos.webp",
+      "title": "Combinación de signos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cierra las cajas en orden y después añade la puntuación que pertenezca al enunciado exterior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V59",
+      "file": "t37-59-barra-apostrofo-y-asterisco.webp",
+      "title": "Barra, apóstrofo y asterisco",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los signos auxiliares son herramientas especializadas: su forma no determina por sí sola el espaciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V60",
+      "file": "t37-60-espacios-y-signos.webp",
+      "title": "Espacios y signos",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los signos abrazan el texto por dentro y dejan aire por fuera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V61",
+      "file": "t37-61-principios-de-mayusculas-y-minusculas.webp",
+      "title": "Principios de mayúsculas y minúsculas",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La mayúscula necesita una función, no una emoción: delimitar o identificar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V62",
+      "file": "t37-62-inicio-de-enunciado-y-despues-de-signos.webp",
+      "title": "Inicio de enunciado y después de signos",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pregunta clave es si terminó el enunciado, no qué signo viste por última vez.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V63",
+      "file": "t37-il-63-antroponimos-apodos-y-seudonimos.webp",
+      "title": "Antropónimos, apodos y seudónimos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El apodo recibe mayúscula; el artículo acompañante no asciende automáticamente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V64",
+      "file": "t37-64-instituciones-organismos-y-cuerpos.webp",
+      "title": "Instituciones, organismos y cuerpos",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nombre oficial completo: placa identificativa; uso genérico: nombre común.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V65",
+      "file": "t37-65-cargos-titulos-y-tratamientos.webp",
+      "title": "Cargos, títulos y tratamientos",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cargo es una función, no un nombre propio: se escribe con minúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V66",
+      "file": "t37-66-toponimos-y-accidentes-geograficos.webp",
+      "title": "Topónimos y accidentes geográficos",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa la clase de accidente del nombre individual: río es categoría; Ebro identifica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V67",
+      "file": "t37-67-obras-publicaciones-y-documentos.webp",
+      "title": "Obras, publicaciones y documentos",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En español los títulos no se visten como en inglés: normalmente solo la primera palabra abre con mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V68",
+      "file": "t37-il-68-leyes-periodos-y-calendario.webp",
+      "title": "Leyes, periodos y calendario",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El calendario ordinario va en minúscula; la denominación propia de una fiesta o periodo puede llevar mayúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V69",
+      "file": "t37-69-palabra-y-unidad-lexica.webp",
+      "title": "Palabra y unidad léxica",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El espacio también escribe: puede separar piezas de una locución o distinguir dos expresiones distintas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V70",
+      "file": "t37-70-prefijos-unidos-a-una-base.webp",
+      "title": "Prefijos unidos a una base",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una base de una sola palabra atrae al prefijo: se escriben juntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V71",
+      "file": "t37-71-prefijos-con-guion-o-separados.webp",
+      "title": "Prefijos con guion o separados",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El prefijo se une a una palabra, usa guion ante mayúscula o cifra y se separa ante una base de varias palabras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V72",
+      "file": "t37-72-por-que-porque-porque-y-por-que.webp",
+      "title": "Por qué, porque, porqué y por que",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No elijas por oído: pregunta, respuesta, nombre o suma de preposición y que.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V73",
+      "file": "t37-il-73-sino-y-si-no.webp",
+      "title": "Sino y si no",
+      "type": "ilustracion_simple",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sustitución corrige el rumbo: sino equivale a más bien; si no abre una condición negativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V74",
+      "file": "t37-74-conque-con-que-y-con-que.webp",
+      "title": "Conque, con que y con qué",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres controles: consecuencia unida, piezas sintácticas separadas e interrogación con tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V75",
+      "file": "t37-75-secuencias-de-escritura-dudosa.webp",
+      "title": "Secuencias de escritura dudosa",
+      "type": "infografia",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La escritura cambia con el significado: prueba una sustitución antes de decidir el espacio o la tilde.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V76",
+      "file": "t37-76-prestamos-adaptados-y-extranjerismos-crudos.webp",
+      "title": "Préstamos adaptados y extranjerismos crudos",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Elige un carril completo: adaptación española o forma extranjera marcada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V77",
+      "file": "t37-77-latinismos-y-locuciones-latinas.webp",
+      "title": "Latinismos y locuciones latinas",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una locución latina no necesita muletas castellanas: evita de motu proprio y a grosso modo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V78",
+      "file": "t37-78-transcripcion-y-transliteracion.webp",
+      "title": "Transcripción y transliteración",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Transcribir aproxima el sonido; transliterar empareja signos. No son el mismo puente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V79",
+      "file": "t37-il-79-antroponimos-extranjeros.webp",
+      "title": "Antropónimos extranjeros",
+      "type": "ilustracion_simple",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Conserva la identidad gráfica salvo que exista forma española tradicional o sea necesaria una transcripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V80",
+      "file": "t37-80-toponimos-extranjeros-y-gentilicios.webp",
+      "title": "Topónimos extranjeros y gentilicios",
+      "type": "infografia",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El lugar puede conservar mayúscula; el habitante baja a minúscula.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V81",
+      "file": "t37-81-apellidos-con-preposiciones-y-articulos.webp",
+      "title": "Apellidos con preposiciones y artículos",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pieza del apellido cambia de altura según vaya acompañada del nombre; además, la forma registrada manda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V82",
+      "file": "t37-82-cifras-arabigas-y-agrupacion.webp",
+      "title": "Cifras arábigas y agrupación",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Agrupa cantidades, no identificadores; el espacio separa millares sin competir con el decimal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V83",
+      "file": "t37-il-83-cardinales-y-ordinales-escritos-con-palabras.webp",
+      "title": "Cardinales y ordinales escritos con palabras",
+      "type": "ilustracion_simple",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cardinal cuenta, ordinal ordena y fraccionario divide: no intercambies sus uniformes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V84",
+      "file": "t37-84-numeros-romanos.webp",
+      "title": "Números romanos",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son cifras, no abreviaturas: mayúsculas sin punto y combinación reglada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V85",
+      "file": "t37-85-fechas.webp",
+      "title": "Fechas",
+      "type": "infografia",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En una fecha española el mes es nombre común y el año no es una cantidad para agrupar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V86",
+      "file": "t37-86-la-hora.webp",
+      "title": "La hora",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Elige reloj de 24 horas con h o sistema de 12 horas con a. m./p. m.; no superpongas ambos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V87",
+      "file": "t37-87-porcentajes-unidades-y-monedas.webp",
+      "title": "Porcentajes, unidades y monedas",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El símbolo es una ficha internacional: sin punto, sin plural y con su forma fija.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T37-V88",
+      "file": "t37-88-abreviaturas-siglas-acronimos-y-simbolos.webp",
+      "title": "Abreviaturas, siglas, acrónimos y símbolos",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue las cuatro tarjetas: abreviatura con punto, sigla sin puntos, acrónimo convertido en palabra y símbolo fijo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}

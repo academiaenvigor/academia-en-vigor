@@ -870,6 +870,30 @@
           "official_exam_mapped": 2,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 37,
+          "slug": "ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas",
+          "title": "Ortografía de la lengua española. Reglas ortográficas. Uso de las letras o grafemas. Uso de la tilde, de los signos ortográficos y de las letras mayúsculas y minúsculas. Representación gráfica de las unidades léxicas. Ortografía de las expresiones procedentes de otras lenguas, de nombres propios y expresiones numéricas.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-37/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-37-ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas.md",
+          "atestado": "temas/policia-nacional/atestado/tema-37-ortografia-lengua-espanola-grafemas-tilde-signos-unidades-lexicas.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-37/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-37/plan.json",
+          "assets": "assets/policia-nacional/tema-37/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-37/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-37/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 88,
+          "atomic_facts": 352,
+          "question_count": 704,
+          "official_exam_mapped": 7,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

@@ -1,0 +1,541 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 37,
+  "topic_title": "Ortografía de la lengua española. Reglas ortográficas. Uso de las letras o grafemas. Uso de la tilde, de los signos ortográficos y de las letras mayúsculas y minúsculas. Representación gráfica de las unidades léxicas. Ortografía de las expresiones procedentes de otras lenguas, de nombres propios y expresiones numéricas.",
+  "id_prefix": "PN-T37",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-37/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-37/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 37"
+      },
+      {
+        "number": 2,
+        "title": "Ortografía, norma y escritura"
+      },
+      {
+        "number": 3,
+        "title": "Sonido, fonema y grafema"
+      },
+      {
+        "number": 4,
+        "title": "El abecedario español"
+      },
+      {
+        "number": 5,
+        "title": "Nombres de las letras"
+      },
+      {
+        "number": 6,
+        "title": "Dígrafos del español"
+      },
+      {
+        "number": 7,
+        "title": "Correspondencias regulares y zonas de duda"
+      },
+      {
+        "number": 8,
+        "title": "Regla, familia y diccionario"
+      },
+      {
+        "number": 9,
+        "title": "Las letras b y v"
+      },
+      {
+        "number": 10,
+        "title": "B en secuencias y terminaciones frecuentes"
+      },
+      {
+        "number": 11,
+        "title": "V en formas y familias"
+      },
+      {
+        "number": 12,
+        "title": "Las letras g y j ante e, i"
+      },
+      {
+        "number": 13,
+        "title": "Gu y gü ante e, i"
+      },
+      {
+        "number": 14,
+        "title": "C, z y s"
+      },
+      {
+        "number": 15,
+        "title": "C y z en flexión y derivación"
+      },
+      {
+        "number": 16,
+        "title": "K, qu y c para el fonema /k/"
+      },
+      {
+        "number": 17,
+        "title": "I e y con valor vocálico"
+      },
+      {
+        "number": 18,
+        "title": "Ll e y"
+      },
+      {
+        "number": 19,
+        "title": "R y rr"
+      },
+      {
+        "number": 20,
+        "title": "La letra h"
+      },
+      {
+        "number": 21,
+        "title": "M y n ante consonante"
+      },
+      {
+        "number": 22,
+        "title": "X y s"
+      },
+      {
+        "number": 23,
+        "title": "La letra w"
+      },
+      {
+        "number": 24,
+        "title": "La letra ñ y la secuencia gn"
+      },
+      {
+        "number": 25,
+        "title": "Homófonos y parónimos ortográficos"
+      },
+      {
+        "number": 26,
+        "title": "Familias léxicas y alternancias"
+      },
+      {
+        "number": 27,
+        "title": "Secuencias consonánticas y simplificación"
+      },
+      {
+        "number": 28,
+        "title": "Grafías de palabras compuestas y prefijadas"
+      },
+      {
+        "number": 29,
+        "title": "Acento prosódico y tilde"
+      },
+      {
+        "number": 30,
+        "title": "Agudas, llanas, esdrújulas y sobresdrújulas"
+      },
+      {
+        "number": 31,
+        "title": "Regla de las palabras agudas"
+      },
+      {
+        "number": 32,
+        "title": "Regla de las palabras llanas"
+      },
+      {
+        "number": 33,
+        "title": "Esdrújulas y sobresdrújulas"
+      },
+      {
+        "number": 34,
+        "title": "Monosílabos"
+      },
+      {
+        "number": 35,
+        "title": "Tilde diacrítica en monosílabos I"
+      },
+      {
+        "number": 36,
+        "title": "Tilde diacrítica en monosílabos II"
+      },
+      {
+        "number": 37,
+        "title": "Aún y aun"
+      },
+      {
+        "number": 38,
+        "title": "Interrogativos y exclamativos"
+      },
+      {
+        "number": 39,
+        "title": "Solo y los demostrativos"
+      },
+      {
+        "number": 40,
+        "title": "Diptongos"
+      },
+      {
+        "number": 41,
+        "title": "Triptongos"
+      },
+      {
+        "number": 42,
+        "title": "Hiatos"
+      },
+      {
+        "number": 43,
+        "title": "Palabras compuestas"
+      },
+      {
+        "number": 44,
+        "title": "Adverbios en -mente y formas con pronombres enclíticos"
+      },
+      {
+        "number": 45,
+        "title": "Mayúsculas, abreviaturas, siglas y extranjerismos"
+      },
+      {
+        "number": 46,
+        "title": "Clases de signos ortográficos"
+      },
+      {
+        "number": 47,
+        "title": "El punto"
+      },
+      {
+        "number": 48,
+        "title": "La coma en enumeraciones y elipsis"
+      },
+      {
+        "number": 49,
+        "title": "Vocativos e incisos"
+      },
+      {
+        "number": 50,
+        "title": "Coma entre sujeto y predicado"
+      },
+      {
+        "number": 51,
+        "title": "El punto y coma"
+      },
+      {
+        "number": 52,
+        "title": "Los dos puntos"
+      },
+      {
+        "number": 53,
+        "title": "Los puntos suspensivos"
+      },
+      {
+        "number": 54,
+        "title": "Interrogación y exclamación"
+      },
+      {
+        "number": 55,
+        "title": "Paréntesis y corchetes"
+      },
+      {
+        "number": 56,
+        "title": "Raya y guion"
+      },
+      {
+        "number": 57,
+        "title": "Comillas"
+      },
+      {
+        "number": 58,
+        "title": "Combinación de signos"
+      },
+      {
+        "number": 59,
+        "title": "Barra, apóstrofo y asterisco"
+      },
+      {
+        "number": 60,
+        "title": "Espacios y signos"
+      },
+      {
+        "number": 61,
+        "title": "Principios de mayúsculas y minúsculas"
+      },
+      {
+        "number": 62,
+        "title": "Inicio de enunciado y después de signos"
+      },
+      {
+        "number": 63,
+        "title": "Antropónimos, apodos y seudónimos"
+      },
+      {
+        "number": 64,
+        "title": "Instituciones, organismos y cuerpos"
+      },
+      {
+        "number": 65,
+        "title": "Cargos, títulos y tratamientos"
+      },
+      {
+        "number": 66,
+        "title": "Topónimos y accidentes geográficos"
+      },
+      {
+        "number": 67,
+        "title": "Obras, publicaciones y documentos"
+      },
+      {
+        "number": 68,
+        "title": "Leyes, periodos y calendario"
+      },
+      {
+        "number": 69,
+        "title": "Palabra y unidad léxica"
+      },
+      {
+        "number": 70,
+        "title": "Prefijos unidos a una base"
+      },
+      {
+        "number": 71,
+        "title": "Prefijos con guion o separados"
+      },
+      {
+        "number": 72,
+        "title": "Por qué, porque, porqué y por que"
+      },
+      {
+        "number": 73,
+        "title": "Sino y si no"
+      },
+      {
+        "number": 74,
+        "title": "Conque, con que y con qué"
+      },
+      {
+        "number": 75,
+        "title": "Secuencias de escritura dudosa"
+      },
+      {
+        "number": 76,
+        "title": "Préstamos adaptados y extranjerismos crudos"
+      },
+      {
+        "number": 77,
+        "title": "Latinismos y locuciones latinas"
+      },
+      {
+        "number": 78,
+        "title": "Transcripción y transliteración"
+      },
+      {
+        "number": 79,
+        "title": "Antropónimos extranjeros"
+      },
+      {
+        "number": 80,
+        "title": "Topónimos extranjeros y gentilicios"
+      },
+      {
+        "number": 81,
+        "title": "Apellidos con preposiciones y artículos"
+      },
+      {
+        "number": 82,
+        "title": "Cifras arábigas y agrupación"
+      },
+      {
+        "number": 83,
+        "title": "Cardinales y ordinales escritos con palabras"
+      },
+      {
+        "number": 84,
+        "title": "Números romanos"
+      },
+      {
+        "number": 85,
+        "title": "Fechas"
+      },
+      {
+        "number": 86,
+        "title": "La hora"
+      },
+      {
+        "number": 87,
+        "title": "Porcentajes, unidades y monedas"
+      },
+      {
+        "number": 88,
+        "title": "Abreviaturas, siglas, acrónimos y símbolos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Sistema ortográfico y grafemas",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Uso de las letras",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Acentuación gráfica",
+        "blocks": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Signos ortográficos y puntuación",
+        "blocks": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Mayúsculas y minúsculas",
+        "blocks": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Representación de las unidades léxicas",
+        "blocks": [
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Expresiones de otras lenguas y nombres propios",
+        "blocks": [
+          76,
+          77,
+          78,
+          79,
+          80,
+          81
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Expresiones numéricas y abreviaciones",
+        "blocks": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
