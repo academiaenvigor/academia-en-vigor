@@ -191,6 +191,38 @@
       "traceable": true
     },
     {
+      "id": "ANDROID-ARCH-T38",
+      "title": "Android Open Source Project: Architecture overview",
+      "url": "https://source.android.com/docs/core/architecture",
+      "scope": "capas de Android, kernel, HAL, runtime, bibliotecas y framework",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ANDROID-STORAGE-T38",
+      "title": "Android Open Source Project: storage encryption and app storage",
+      "url": "https://source.android.com/docs/security/features/encryption/file-based",
+      "scope": "almacenamiento por archivo, Direct Boot y separación de datos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "APPLE-APFS-T38",
+      "title": "Apple Platform Security: Role of Apple File System",
+      "url": "https://support.apple.com/guide/security/role-of-apple-file-system-seca6147599e/web",
+      "scope": "APFS, copy-on-write, snapshots, clonación, cifrado y espacio compartido",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "APPLE-PLATFORM-SECURITY-T38",
+      "title": "Apple Platform Security",
+      "url": "https://support.apple.com/guide/security/welcome/web",
+      "scope": "macOS, iOS, arranque, sandbox, Data Protection, APFS y FileVault",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "ATTAC-ES-T28",
       "title": "ATTAC España: identidad, historia y propuestas",
       "url": "https://attac.es/quienes-somos/",
@@ -772,6 +804,14 @@
       "title": "Resolución de 7 de julio de 2026: convocatoria de ingreso en la Escala Básica de la Policía Nacional",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055",
       "scope": "epígrafe oficial íntegro del Tema 37",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CONVOCATORIA-PN-2026-T38",
+      "title": "Resolución de 7 de julio de 2026: convocatoria de ingreso en la Escala Básica de la Policía Nacional",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial íntegro del Tema 38",
       "official": true,
       "traceable": true
     },
@@ -1954,6 +1994,22 @@
       "traceable": true
     },
     {
+      "id": "LINUX-EXT4-T38",
+      "title": "Linux Kernel documentation: ext4 Data Structures and Algorithms",
+      "url": "https://docs.kernel.org/filesystems/ext4/",
+      "scope": "bloques, inodos, directorios, extents, diario y metadatos ext4",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LINUX-KERNEL-T38",
+      "title": "The Linux Kernel documentation",
+      "url": "https://docs.kernel.org/",
+      "scope": "núcleo Linux, planificación, memoria, procesos, dispositivos y VFS",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "LO1-1982-T20",
       "title": "Ley Orgánica 1/1982",
       "boe_id": "BOE-A-1982-11196",
@@ -2427,11 +2483,59 @@
       "traceable": true
     },
     {
+      "id": "MS-DOS-SOURCE-T38",
+      "title": "Microsoft: código fuente histórico de MS-DOS 1.25, 2.0 y 4.0",
+      "url": "https://github.com/microsoft/MS-DOS",
+      "scope": "naturaleza histórica, intérprete, FAT, dispositivos y evolución de MS-DOS",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "MS-EXFAT-T38",
+      "title": "Microsoft Learn: exFAT File System Specification",
+      "url": "https://learn.microsoft.com/en-us/windows/win32/fileio/exfat-specification",
+      "scope": "diseño y estructura de exFAT",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "MS-NTFS-T38",
+      "title": "Microsoft Learn: NTFS overview",
+      "url": "https://learn.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview",
+      "scope": "NTFS, metadatos, permisos, cifrado, compresión, cuotas y diario",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "MS-STORAGE-T38",
+      "title": "Microsoft Learn: Disk Management, GPT y MBR",
+      "url": "https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-disk-partition-scheme",
+      "scope": "discos, particiones, volúmenes, MBR y GPT",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "MS-WINDOWS-INTERNALS-T38",
+      "title": "Microsoft Learn: Windows Internals y arquitectura del sistema",
+      "url": "https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals",
+      "scope": "arquitectura, procesos, hilos, memoria y separación entre modos",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "NEWMAN-1972-T33",
       "title": "Oscar Newman, Defensible Space",
       "url": "https://archive.org/details/defensiblespacec00newm",
       "scope": "diseño ambiental y control informal",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "NVME-SPEC-T38",
+      "title": "NVM Express specifications",
+      "url": "https://nvmexpress.org/specifications/",
+      "scope": "protocolo NVMe y comunicación con almacenamiento no volátil",
+      "official": true,
       "traceable": true
     },
     {
@@ -2669,6 +2773,14 @@
       "title": "Plan Nacional sobre Drogas: drogas de síntesis",
       "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/drogasSintesis/home.htm",
       "scope": "concepto y ejemplos de drogas de síntesis",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "POSIX-2024-T38",
+      "title": "The Open Group Base Specifications Issue 8, POSIX.1-2024",
+      "url": "https://pubs.opengroup.org/onlinepubs/9799919799/",
+      "scope": "procesos, archivos, rutas, permisos, shell y utilidades UNIX",
       "official": true,
       "traceable": true
     },

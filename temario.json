@@ -894,6 +894,30 @@
           "official_exam_mapped": 7,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 38,
+          "slug": "fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos",
+          "title": "Fundamentos de sistemas operativos: funciones de un sistema operativo. Tipologías: MS-DOS, UNIX, Linux, Windows y macOS. Sistemas operativos móviles: iOS y Android. Sistemas de almacenamiento. Sistemas de archivos.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-38/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-38-fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos.md",
+          "atestado": "temas/policia-nacional/atestado/tema-38-fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-38/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-38/plan.json",
+          "assets": "assets/policia-nacional/tema-38/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-38/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-38/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 90,
+          "atomic_facts": 360,
+          "question_count": 720,
+          "official_exam_mapped": 9,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

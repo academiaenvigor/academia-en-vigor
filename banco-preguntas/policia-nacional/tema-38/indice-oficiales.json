@@ -1,0 +1,233 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 38,
+  "titulo": "Fundamentos de sistemas operativos: funciones de un sistema operativo. Tipologías: MS-DOS, UNIX, Linux, Windows y macOS. Sistemas operativos móviles: iOS y Android. Sistemas de almacenamiento. Sistemas de archivos.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 9,
+  "con_bloque_asignado": 9,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "50": 1,
+    "70": 1,
+    "68": 1,
+    "84": 1,
+    "90": 1,
+    "9": 1,
+    "51": 1,
+    "62": 1,
+    "37": 1
+  },
+  "por_promocion": {
+    "P34": 1,
+    "P35": 1,
+    "P36": 1,
+    "P37": 1,
+    "P38": 2,
+    "P39": 1,
+    "P41": 1,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p34-a-q001",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 1,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "PN-T38-F200"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cuando un usuario utiliza un ordenador, con un sistema operativo Windows 10 Home, y abre el explorador de archivos, ¿qué archivos se visualizan?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q091",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 91,
+      "block_refs": [
+        70
+      ],
+      "fact_refs": [
+        "PN-T38-F277"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de los siguientes conectores de la placa base de un ordenador sirve para conectar un dispositivo interno de almacenamiento?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q041",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 41,
+      "block_refs": [
+        68
+      ],
+      "fact_refs": [
+        "PN-T38-F269"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Si hablamos del HDD del ordenador, nos estamos refiriendo:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q008",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 8,
+      "block_refs": [
+        84
+      ],
+      "fact_refs": [
+        "PN-T38-F333"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "De acuerdo a Microsoft y respecto al funcionamiento de su S.O. Windows ¿Qué sistema de archivos es la mejor opción para volúmenes de unos 400 MB o más, dado que su rendimiento no se degrada con volúmenes grandes?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q084",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 84,
+      "block_refs": [
+        90
+      ],
+      "fact_refs": [
+        "PN-T38-F359"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Un disco puede almacenar la información, entre otros, en los siguientes sistemas de archivos:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q085",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 85,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "PN-T38-F033"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Entre las funciones del sistema operativo se encuentra:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q008",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 8,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "PN-T38-F202"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Para encriptar la información de nuestro disco duro podemos hacer uso de las siguientes herramientas:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q085",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 85,
+      "block_refs": [
+        62
+      ],
+      "fact_refs": [
+        "PN-T38-F245"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Android es un sistema operativo que se diseñó especialmente para ser utilizado en dispositivos móviles ¿en qué sistema operativo está basado?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q085",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 85,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "PN-T38-F148"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué tipo de sistema operativo es IBM AIX?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

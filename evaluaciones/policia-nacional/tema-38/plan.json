@@ -1,0 +1,563 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 38,
+  "topic_title": "Fundamentos de sistemas operativos: funciones de un sistema operativo. Tipologías: MS-DOS, UNIX, Linux, Windows y macOS. Sistemas operativos móviles: iOS y Android. Sistemas de almacenamiento. Sistemas de archivos.",
+  "id_prefix": "PN-T38",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-38/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-38/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 38"
+      },
+      {
+        "number": 2,
+        "title": "Hardware, software y firmware"
+      },
+      {
+        "number": 3,
+        "title": "Arquitectura de programa almacenado"
+      },
+      {
+        "number": 4,
+        "title": "CPU, núcleos, hilos y caché"
+      },
+      {
+        "number": 5,
+        "title": "Jerarquía de memoria"
+      },
+      {
+        "number": 6,
+        "title": "Bit, byte y prefijos de capacidad"
+      },
+      {
+        "number": 7,
+        "title": "Entrada, salida y periféricos"
+      },
+      {
+        "number": 8,
+        "title": "Arranque: firmware, cargador y núcleo"
+      },
+      {
+        "number": 9,
+        "title": "Sistema operativo como gestor de recursos"
+      },
+      {
+        "number": 10,
+        "title": "Núcleo, modo usuario y llamadas al sistema"
+      },
+      {
+        "number": 11,
+        "title": "Programa, proceso e imagen ejecutable"
+      },
+      {
+        "number": 12,
+        "title": "Estados y ciclo de vida de un proceso"
+      },
+      {
+        "number": 13,
+        "title": "Hilos y recursos compartidos"
+      },
+      {
+        "number": 14,
+        "title": "Planificación de CPU"
+      },
+      {
+        "number": 15,
+        "title": "Multiprogramación, multitarea y multiprocesamiento"
+      },
+      {
+        "number": 16,
+        "title": "Sincronización y condiciones de carrera"
+      },
+      {
+        "number": 17,
+        "title": "Comunicación entre procesos"
+      },
+      {
+        "number": 18,
+        "title": "Gestión de memoria"
+      },
+      {
+        "number": 19,
+        "title": "Memoria virtual y paginación"
+      },
+      {
+        "number": 20,
+        "title": "Gestión de archivos y directorios"
+      },
+      {
+        "number": 21,
+        "title": "Dispositivos, controladores y entrada/salida"
+      },
+      {
+        "number": 22,
+        "title": "Interfaz de línea de comandos, shell y GUI"
+      },
+      {
+        "number": 23,
+        "title": "Usuarios, autenticación y autorización"
+      },
+      {
+        "number": 24,
+        "title": "Protección, aislamiento y auditoría"
+      },
+      {
+        "number": 25,
+        "title": "Errores, excepciones y recuperación"
+      },
+      {
+        "number": 26,
+        "title": "MS-DOS: naturaleza y contexto histórico"
+      },
+      {
+        "number": 27,
+        "title": "Arquitectura y límites clásicos de MS-DOS"
+      },
+      {
+        "number": 28,
+        "title": "Intérprete y comandos de MS-DOS"
+      },
+      {
+        "number": 29,
+        "title": "Unidades, rutas y nombres en MS-DOS"
+      },
+      {
+        "number": 30,
+        "title": "MS-DOS, FAT y arranque"
+      },
+      {
+        "number": 31,
+        "title": "UNIX: origen y principios"
+      },
+      {
+        "number": 32,
+        "title": "Núcleo, shell y utilidades UNIX"
+      },
+      {
+        "number": 33,
+        "title": "Jerarquía, raíz y montaje en UNIX"
+      },
+      {
+        "number": 34,
+        "title": "Procesos UNIX: fork, exec y wait"
+      },
+      {
+        "number": 35,
+        "title": "Usuarios, grupos y permisos POSIX"
+      },
+      {
+        "number": 36,
+        "title": "Tuberías, redirecciones y descriptores"
+      },
+      {
+        "number": 37,
+        "title": "POSIX, UNIX y sistemas tipo Unix"
+      },
+      {
+        "number": 38,
+        "title": "Linux: núcleo y distribuciones"
+      },
+      {
+        "number": 39,
+        "title": "Arquitectura del núcleo Linux"
+      },
+      {
+        "number": 40,
+        "title": "VFS y jerarquía Linux"
+      },
+      {
+        "number": 41,
+        "title": "Procesos y pseudo-sistema /proc"
+      },
+      {
+        "number": 42,
+        "title": "Propiedad, permisos y privilegios en Linux"
+      },
+      {
+        "number": 43,
+        "title": "Servicios, demonios y arranque en Linux"
+      },
+      {
+        "number": 44,
+        "title": "Software libre, código abierto y licencias"
+      },
+      {
+        "number": 45,
+        "title": "Windows y la familia Windows NT"
+      },
+      {
+        "number": 46,
+        "title": "Procesos, hilos y servicios en Windows"
+      },
+      {
+        "number": 47,
+        "title": "Registro de Windows"
+      },
+      {
+        "number": 48,
+        "title": "Explorer, CMD y PowerShell"
+      },
+      {
+        "number": 49,
+        "title": "Cuentas, UAC y controles de acceso"
+      },
+      {
+        "number": 50,
+        "title": "Unidades, rutas y atributos en Windows"
+      },
+      {
+        "number": 51,
+        "title": "Actualización, cifrado y recuperación en Windows"
+      },
+      {
+        "number": 52,
+        "title": "macOS, Darwin y XNU"
+      },
+      {
+        "number": 53,
+        "title": "Aqua, Finder y Terminal"
+      },
+      {
+        "number": 54,
+        "title": "Aplicaciones, paquetes y sandbox en macOS"
+      },
+      {
+        "number": 55,
+        "title": "APFS en macOS"
+      },
+      {
+        "number": 56,
+        "title": "Rutas, volúmenes y sensibilidad a mayúsculas"
+      },
+      {
+        "number": 57,
+        "title": "FileVault y volumen de sistema firmado"
+      },
+      {
+        "number": 58,
+        "title": "Rasgos de los sistemas operativos móviles"
+      },
+      {
+        "number": 59,
+        "title": "iOS: arquitectura y ecosistema"
+      },
+      {
+        "number": 60,
+        "title": "Sandbox, entitlements y permisos en iOS"
+      },
+      {
+        "number": 61,
+        "title": "iOS, APFS y Data Protection"
+      },
+      {
+        "number": 62,
+        "title": "Android: capas de arquitectura"
+      },
+      {
+        "number": 63,
+        "title": "Android Runtime y Binder"
+      },
+      {
+        "number": 64,
+        "title": "Aislamiento y permisos en Android"
+      },
+      {
+        "number": 65,
+        "title": "Almacenamiento y cifrado en Android"
+      },
+      {
+        "number": 66,
+        "title": "Comparación entre iOS y Android"
+      },
+      {
+        "number": 67,
+        "title": "Memoria y almacenamiento: clasificación"
+      },
+      {
+        "number": 68,
+        "title": "Discos magnéticos HDD"
+      },
+      {
+        "number": 69,
+        "title": "Unidades de estado sólido SSD"
+      },
+      {
+        "number": 70,
+        "title": "SATA, NVMe y factores de forma"
+      },
+      {
+        "number": 71,
+        "title": "Medios ópticos y extraíbles"
+      },
+      {
+        "number": 72,
+        "title": "Sectores, bloques y clústeres"
+      },
+      {
+        "number": 73,
+        "title": "Particiones, volúmenes, MBR y GPT"
+      },
+      {
+        "number": 74,
+        "title": "RAID, redundancia y copia de seguridad"
+      },
+      {
+        "number": 75,
+        "title": "Concepto y funciones del sistema de archivos"
+      },
+      {
+        "number": 76,
+        "title": "Archivos, directorios y metadatos"
+      },
+      {
+        "number": 77,
+        "title": "Rutas absolutas, relativas y resolución de nombres"
+      },
+      {
+        "number": 78,
+        "title": "Asignación de espacio y fragmentación interna"
+      },
+      {
+        "number": 79,
+        "title": "Montaje, letras y puntos de montaje"
+      },
+      {
+        "number": 80,
+        "title": "Formateo, borrado y recuperación"
+      },
+      {
+        "number": 81,
+        "title": "Diario, copy-on-write y comprobaciones"
+      },
+      {
+        "number": 82,
+        "title": "FAT12, FAT16 y FAT32"
+      },
+      {
+        "number": 83,
+        "title": "exFAT"
+      },
+      {
+        "number": 84,
+        "title": "NTFS"
+      },
+      {
+        "number": 85,
+        "title": "ReFS y alcance comparado"
+      },
+      {
+        "number": 86,
+        "title": "ext2, ext3 y ext4"
+      },
+      {
+        "number": 87,
+        "title": "APFS y HFS+"
+      },
+      {
+        "number": 88,
+        "title": "ISO 9660 y UDF"
+      },
+      {
+        "number": 89,
+        "title": "Enlaces, permisos y sensibilidad a mayúsculas"
+      },
+      {
+        "number": 90,
+        "title": "Elección del sistema de archivos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos del sistema informático",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Funciones del sistema operativo",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "MS-DOS",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "UNIX y POSIX",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Linux",
+        "blocks": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Windows",
+        "blocks": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "macOS",
+        "blocks": [
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Sistemas operativos móviles",
+        "blocks": [
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ]
+      },
+      {
+        "code": "P9",
+        "title": "Sistemas de almacenamiento",
+        "blocks": [
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      },
+      {
+        "code": "P10",
+        "title": "Sistemas de archivos",
+        "blocks": [
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

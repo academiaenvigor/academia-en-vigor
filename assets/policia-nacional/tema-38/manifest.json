@@ -1,0 +1,2899 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-38",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 90,
+    "integrated": 0,
+    "planned": 90
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T38-V01",
+      "file": "t38-01-alcance-oficial-del-tema-38.webp",
+      "title": "Alcance oficial del Tema 38",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El programa exige fundamentos y funciones de los sistemas operativos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V02",
+      "file": "t38-02-hardware-software-y-firmware.webp",
+      "title": "Hardware, software y firmware",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El hardware reúne los componentes físicos que ejecutan, almacenan o transfieren información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V03",
+      "file": "t38-03-arquitectura-de-programa-almacenado.webp",
+      "title": "Arquitectura de programa almacenado",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En una arquitectura de programa almacenado, instrucciones y datos se conservan en memoria accesible al procesador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V04",
+      "file": "t38-il-04-cpu-nucleos-hilos-y-cache.webp",
+      "title": "CPU, núcleos, hilos y caché",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La CPU ejecuta instrucciones y puede integrar uno o varios núcleos de procesamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V05",
+      "file": "t38-il-05-jerarquia-de-memoria.webp",
+      "title": "Jerarquía de memoria",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Registros y cachés son muy rápidos y de capacidad limitada frente a la memoria principal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V06",
+      "file": "t38-06-bit-byte-y-prefijos-de-capacidad.webp",
+      "title": "Bit, byte y prefijos de capacidad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El bit es una unidad binaria y el byte agrupa ocho bits.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V07",
+      "file": "t38-07-entrada-salida-y-perifericos.webp",
+      "title": "Entrada, salida y periféricos",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un dispositivo de entrada aporta datos o señales al sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V08",
+      "file": "t38-08-arranque-firmware-cargador-y-nucleo.webp",
+      "title": "Arranque: firmware, cargador y núcleo",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El firmware inicializa componentes básicos y localiza un mecanismo de arranque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V09",
+      "file": "t38-09-sistema-operativo-como-gestor-de-recursos.webp",
+      "title": "Sistema operativo como gestor de recursos",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo administra procesador, memoria, dispositivos y almacenamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V10",
+      "file": "t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp",
+      "title": "Núcleo, modo usuario y llamadas al sistema",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El núcleo ejecuta funciones privilegiadas y mantiene el control de recursos críticos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V11",
+      "file": "t38-11-programa-proceso-e-imagen-ejecutable.webp",
+      "title": "Programa, proceso e imagen ejecutable",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un programa es código y datos preparados para ejecutarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V12",
+      "file": "t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp",
+      "title": "Estados y ciclo de vida de un proceso",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un proceso listo puede ejecutar cuando el planificador le asigne procesador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V13",
+      "file": "t38-13-hilos-y-recursos-compartidos.webp",
+      "title": "Hilos y recursos compartidos",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un hilo es una secuencia de ejecución planificable dentro de un proceso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V14",
+      "file": "t38-14-planificacion-de-cpu.webp",
+      "title": "Planificación de CPU",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El planificador decide qué tarea ejecutable utiliza la CPU en cada momento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V15",
+      "file": "t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp",
+      "title": "Multiprogramación, multitarea y multiprocesamiento",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La multiprogramación mantiene varios trabajos preparados para aprovechar mejor la CPU.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V16",
+      "file": "t38-il-16-sincronizacion-y-condiciones-de-carrera.webp",
+      "title": "Sincronización y condiciones de carrera",
+      "type": "ilustracion_simple",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Existe condición de carrera cuando el resultado depende de un orden no controlado entre ejecuciones concurrentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V17",
+      "file": "t38-17-comunicacion-entre-procesos.webp",
+      "title": "Comunicación entre procesos",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La comunicación entre procesos permite intercambiar datos o señales entre ejecuciones separadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V18",
+      "file": "t38-18-gestion-de-memoria.webp",
+      "title": "Gestión de memoria",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo asigna memoria a procesos y recupera regiones cuando dejan de utilizarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V19",
+      "file": "t38-il-19-memoria-virtual-y-paginacion.webp",
+      "title": "Memoria virtual y paginación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La memoria virtual proporciona a cada proceso un espacio de direcciones abstracto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V20",
+      "file": "t38-20-gestion-de-archivos-y-directorios.webp",
+      "title": "Gestión de archivos y directorios",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo ofrece operaciones para crear, abrir, leer, escribir, renombrar y eliminar archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V21",
+      "file": "t38-21-dispositivos-controladores-y-entrada-salida.webp",
+      "title": "Dispositivos, controladores y entrada/salida",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un controlador traduce operaciones del sistema a interacciones adecuadas con un dispositivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V22",
+      "file": "t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp",
+      "title": "Interfaz de línea de comandos, shell y GUI",
+      "type": "ilustracion_simple",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una interfaz de línea de comandos recibe instrucciones textuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V23",
+      "file": "t38-23-usuarios-autenticacion-y-autorizacion.webp",
+      "title": "Usuarios, autenticación y autorización",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La autenticación comprueba una identidad declarada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V24",
+      "file": "t38-24-proteccion-aislamiento-y-auditoria.webp",
+      "title": "Protección, aislamiento y auditoría",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El aislamiento de procesos reduce accesos directos entre aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V25",
+      "file": "t38-25-errores-excepciones-y-recuperacion.webp",
+      "title": "Errores, excepciones y recuperación",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo gestiona excepciones del procesador y errores comunicados por hardware o software.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V26",
+      "file": "t38-26-ms-dos-naturaleza-y-contexto-historico.webp",
+      "title": "MS-DOS: naturaleza y contexto histórico",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS es una familia histórica de sistemas operativos de disco desarrollada para ordenadores personales compatibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V27",
+      "file": "t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp",
+      "title": "Arquitectura y límites clásicos de MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El MS-DOS clásico trabajaba sobre la arquitectura x86 en modo real de sus primeras generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V28",
+      "file": "t38-28-interprete-y-comandos-de-ms-dos.webp",
+      "title": "Intérprete y comandos de MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: COMMAND.COM actuaba como intérprete de comandos en versiones clásicas de MS-DOS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V29",
+      "file": "t38-29-unidades-rutas-y-nombres-en-ms-dos.webp",
+      "title": "Unidades, rutas y nombres en MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS identifica habitualmente volúmenes mediante letras seguidas de dos puntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V30",
+      "file": "t38-il-30-ms-dos-fat-y-arranque.webp",
+      "title": "MS-DOS, FAT y arranque",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS utilizó variantes de FAT para organizar archivos en volúmenes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V31",
+      "file": "t38-31-unix-origen-y-principios.webp",
+      "title": "UNIX: origen y principios",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: UNIX nació como una familia de sistemas multiusuario y multitarea.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V32",
+      "file": "t38-32-nucleo-shell-y-utilidades-unix.webp",
+      "title": "Núcleo, shell y utilidades UNIX",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El núcleo gestiona procesos, memoria, dispositivos y sistemas de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V33",
+      "file": "t38-33-jerarquia-raiz-y-montaje-en-unix.webp",
+      "title": "Jerarquía, raíz y montaje en UNIX",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La barra inclinada representa la raíz y separa componentes de una ruta POSIX.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V34",
+      "file": "t38-34-procesos-unix-fork-exec-y-wait.webp",
+      "title": "Procesos UNIX: fork, exec y wait",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: fork crea un nuevo proceso a partir del contexto del proceso llamante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V35",
+      "file": "t38-il-35-usuarios-grupos-y-permisos-posix.webp",
+      "title": "Usuarios, grupos y permisos POSIX",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los permisos clásicos distinguen lectura, escritura y ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V36",
+      "file": "t38-il-36-tuberias-redirecciones-y-descriptores.webp",
+      "title": "Tuberías, redirecciones y descriptores",
+      "type": "ilustracion_simple",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La entrada estándar, la salida estándar y el error estándar son flujos diferenciados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V37",
+      "file": "t38-37-posix-unix-y-sistemas-tipo-unix.webp",
+      "title": "POSIX, UNIX y sistemas tipo Unix",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: POSIX define interfaces y comportamientos portables para sistemas compatibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V38",
+      "file": "t38-38-linux-nucleo-y-distribuciones.webp",
+      "title": "Linux: núcleo y distribuciones",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Linux designa estrictamente el núcleo iniciado por el proyecto de Linus Torvalds.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V39",
+      "file": "t38-39-arquitectura-del-nucleo-linux.webp",
+      "title": "Arquitectura del núcleo Linux",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Linux se describe habitualmente como un núcleo monolítico con capacidad modular.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V40",
+      "file": "t38-40-vfs-y-jerarquia-linux.webp",
+      "title": "VFS y jerarquía Linux",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: VFS proporciona una interfaz común para que coexistan distintos sistemas de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V41",
+      "file": "t38-il-41-procesos-y-pseudo-sistema-proc.webp",
+      "title": "Procesos y pseudo-sistema /proc",
+      "type": "ilustracion_simple",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: /proc expone información de procesos y estructuras internas mediante una interfaz de sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V42",
+      "file": "t38-42-propiedad-permisos-y-privilegios-en-linux.webp",
+      "title": "Propiedad, permisos y privilegios en Linux",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los procesos actúan con identidades y grupos que condicionan sus permisos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V43",
+      "file": "t38-43-servicios-demonios-y-arranque-en-linux.webp",
+      "title": "Servicios, demonios y arranque en Linux",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un demonio es un proceso que presta servicios en segundo plano.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V44",
+      "file": "t38-44-software-libre-codigo-abierto-y-licencias.webp",
+      "title": "Software libre, código abierto y licencias",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El código del núcleo Linux se distribuye principalmente bajo GPLv2.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V45",
+      "file": "t38-45-windows-y-la-familia-windows-nt.webp",
+      "title": "Windows y la familia Windows NT",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las versiones modernas de escritorio y servidor de Windows pertenecen a la familia Windows NT.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V46",
+      "file": "t38-46-procesos-hilos-y-servicios-en-windows.webp",
+      "title": "Procesos, hilos y servicios en Windows",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows planifica hilos dentro del contexto de procesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V47",
+      "file": "t38-il-47-registro-de-windows.webp",
+      "title": "Registro de Windows",
+      "type": "ilustracion_simple",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Registro almacena configuración estructurada del sistema, usuarios y aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V48",
+      "file": "t38-il-48-explorer-cmd-y-powershell.webp",
+      "title": "Explorer, CMD y PowerShell",
+      "type": "ilustracion_simple",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Explorador de archivos es una interfaz gráfica para navegar y gestionar objetos del sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V49",
+      "file": "t38-49-cuentas-uac-y-controles-de-acceso.webp",
+      "title": "Cuentas, UAC y controles de acceso",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows asocia procesos a tokens que recogen identidad, grupos y privilegios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V50",
+      "file": "t38-50-unidades-rutas-y-atributos-en-windows.webp",
+      "title": "Unidades, rutas y atributos en Windows",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows representa habitualmente volúmenes mediante letras, aunque también admite puntos de montaje en carpetas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V51",
+      "file": "t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp",
+      "title": "Actualización, cifrado y recuperación en Windows",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows Update distribuye correcciones y cambios, pero exige gestión de reinicios y compatibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V52",
+      "file": "t38-52-macos-darwin-y-xnu.webp",
+      "title": "macOS, Darwin y XNU",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: macOS es el sistema operativo de escritorio de Apple y se apoya en Darwin.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V53",
+      "file": "t38-il-53-aqua-finder-y-terminal.webp",
+      "title": "Aqua, Finder y Terminal",
+      "type": "ilustracion_simple",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aqua designa el entorno gráfico característico de macOS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V54",
+      "file": "t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp",
+      "title": "Aplicaciones, paquetes y sandbox en macOS",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una aplicación macOS puede presentarse como un paquete que Finder muestra como una unidad lógica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V55",
+      "file": "t38-55-apfs-en-macos.webp",
+      "title": "APFS en macOS",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: APFS es el sistema de archivos predeterminado en macOS moderno y en otras plataformas Apple.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V56",
+      "file": "t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp",
+      "title": "Rutas, volúmenes y sensibilidad a mayúsculas",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: macOS usa una jerarquía de rutas con barra inclinada y una raíz única.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V57",
+      "file": "t38-57-filevault-y-volumen-de-sistema-firmado.webp",
+      "title": "FileVault y volumen de sistema firmado",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: FileVault protege datos en reposo mediante cifrado de volumen conforme a la plataforma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V58",
+      "file": "t38-58-rasgos-de-los-sistemas-operativos-moviles.webp",
+      "title": "Rasgos de los sistemas operativos móviles",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sistema móvil gestiona recursos limitados, batería, conectividad radio, sensores y ciclo de vida de aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V59",
+      "file": "t38-59-ios-arquitectura-y-ecosistema.webp",
+      "title": "iOS: arquitectura y ecosistema",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS es el sistema operativo de Apple para iPhone.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V60",
+      "file": "t38-60-sandbox-entitlements-y-permisos-en-ios.webp",
+      "title": "Sandbox, entitlements y permisos en iOS",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las aplicaciones de terceros se ejecutan en sandbox con un contenedor propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V61",
+      "file": "t38-61-ios-apfs-y-data-protection.webp",
+      "title": "iOS, APFS y Data Protection",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS utiliza APFS y mecanismos de Data Protection para proteger datos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V62",
+      "file": "t38-62-android-capas-de-arquitectura.webp",
+      "title": "Android: capas de arquitectura",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android se apoya en un kernel Linux adaptado a las necesidades de la plataforma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V63",
+      "file": "t38-63-android-runtime-y-binder.webp",
+      "title": "Android Runtime y Binder",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android Runtime ejecuta código de aplicaciones y gestiona aspectos de su entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V64",
+      "file": "t38-64-aislamiento-y-permisos-en-android.webp",
+      "title": "Aislamiento y permisos en Android",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android asigna identidades y aislamientos a las aplicaciones para separar sus datos y procesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V65",
+      "file": "t38-65-almacenamiento-y-cifrado-en-android.webp",
+      "title": "Almacenamiento y cifrado en Android",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cifrado basado en archivos permite proteger archivos con claves que pueden desbloquearse de forma independiente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V66",
+      "file": "t38-il-66-comparacion-entre-ios-y-android.webp",
+      "title": "Comparación entre iOS y Android",
+      "type": "ilustracion_simple",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS y Android gestionan aplicaciones, memoria, dispositivos, energía, permisos y almacenamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V67",
+      "file": "t38-67-memoria-y-almacenamiento-clasificacion.webp",
+      "title": "Memoria y almacenamiento: clasificación",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La memoria de trabajo y el almacenamiento persistente cumplen funciones diferentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V68",
+      "file": "t38-il-68-discos-magneticos-hdd.webp",
+      "title": "Discos magnéticos HDD",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un HDD almacena datos mediante dominios magnéticos en platos giratorios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V69",
+      "file": "t38-69-unidades-de-estado-solido-ssd.webp",
+      "title": "Unidades de estado sólido SSD",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un SSD almacena datos normalmente en memoria flash no volátil y carece de platos y cabezales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V70",
+      "file": "t38-70-sata-nvme-y-factores-de-forma.webp",
+      "title": "SATA, NVMe y factores de forma",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: SATA es una interfaz y protocolo de almacenamiento usado por HDD y SSD.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V71",
+      "file": "t38-71-medios-opticos-y-extraibles.webp",
+      "title": "Medios ópticos y extraíbles",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: CD, DVD y Blu-ray almacenan información mediante estructuras ópticas leídas por una unidad compatible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V72",
+      "file": "t38-72-sectores-bloques-y-clusteres.webp",
+      "title": "Sectores, bloques y clústeres",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sector es una unidad direccionable del dispositivo o de su interfaz lógica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V73",
+      "file": "t38-73-particiones-volumenes-mbr-y-gpt.webp",
+      "title": "Particiones, volúmenes, MBR y GPT",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una partición divide lógicamente el espacio de un dispositivo conforme a una tabla.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V74",
+      "file": "t38-il-74-raid-redundancia-y-copia-de-seguridad.webp",
+      "title": "RAID, redundancia y copia de seguridad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: RAID combina unidades para obtener rendimiento, capacidad o redundancia según el nivel.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V75",
+      "file": "t38-75-concepto-y-funciones-del-sistema-de-archivos.webp",
+      "title": "Concepto y funciones del sistema de archivos",
+      "type": "infografia",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sistema de archivos define cómo se organizan, nombran y localizan datos y metadatos en un soporte o espacio lógico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V76",
+      "file": "t38-76-archivos-directorios-y-metadatos.webp",
+      "title": "Archivos, directorios y metadatos",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El contenido de un archivo se distingue de los metadatos que lo describen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V77",
+      "file": "t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp",
+      "title": "Rutas absolutas, relativas y resolución de nombres",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una ruta absoluta se resuelve desde una raíz o designador completo del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V78",
+      "file": "t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp",
+      "title": "Asignación de espacio y fragmentación interna",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema de archivos asigna espacio en unidades que pueden ser mayores que los datos finales de un archivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V79",
+      "file": "t38-79-montaje-letras-y-puntos-de-montaje.webp",
+      "title": "Montaje, letras y puntos de montaje",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Montar conecta un sistema de archivos con un punto accesible de la jerarquía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V80",
+      "file": "t38-80-formateo-borrado-y-recuperacion.webp",
+      "title": "Formateo, borrado y recuperación",
+      "type": "infografia",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Formatear crea o renueva estructuras de un sistema de archivos en un volumen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V81",
+      "file": "t38-81-diario-copy-on-write-y-comprobaciones.webp",
+      "title": "Diario, copy-on-write y comprobaciones",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El journaling registra información de cambios para facilitar recuperación tras una interrupción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V82",
+      "file": "t38-82-fat12-fat16-y-fat32.webp",
+      "title": "FAT12, FAT16 y FAT32",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las variantes FAT se diferencian principalmente por el tamaño de sus entradas y la cantidad de clústeres direccionables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V83",
+      "file": "t38-83-exfat.webp",
+      "title": "exFAT",
+      "type": "infografia",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: exFAT es sucesor de FAT32 dentro de la familia FAT.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V84",
+      "file": "t38-84-ntfs.webp",
+      "title": "NTFS",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: NTFS es el sistema de archivos predeterminado de Windows moderno para volúmenes del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V85",
+      "file": "t38-85-refs-y-alcance-comparado.webp",
+      "title": "ReFS y alcance comparado",
+      "type": "infografia",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ReFS es un sistema de archivos de Microsoft orientado a resiliencia, integridad y escenarios de almacenamiento determinados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V86",
+      "file": "t38-86-ext2-ext3-y-ext4.webp",
+      "title": "ext2, ext3 y ext4",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ext2 no incorpora el diario que caracteriza a ext3.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V87",
+      "file": "t38-87-apfs-y-hfs.webp",
+      "title": "APFS y HFS+",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: HFS+ fue el sistema principal de macOS antes de APFS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V88",
+      "file": "t38-88-iso-9660-y-udf.webp",
+      "title": "ISO 9660 y UDF",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ISO 9660 se diseñó para el intercambio de datos en medios ópticos de solo lectura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V89",
+      "file": "t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp",
+      "title": "Enlaces, permisos y sensibilidad a mayúsculas",
+      "type": "infografia",
+      "placement": "bloque-89",
+      "status": "planned",
+      "block": 89,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un enlace duro añade otra referencia al mismo objeto dentro de las restricciones del sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V90",
+      "file": "t38-il-90-eleccion-del-sistema-de-archivos.webp",
+      "title": "Elección del sistema de archivos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-90",
+      "status": "planned",
+      "block": 90,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La elección debe considerar sistema operativo, tamaño de archivos, permisos, resiliencia, rendimiento y dispositivos de destino.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T38-V01",
+      "file": "t38-01-alcance-oficial-del-tema-38.webp",
+      "title": "Alcance oficial del Tema 38",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El programa exige fundamentos y funciones de los sistemas operativos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V02",
+      "file": "t38-02-hardware-software-y-firmware.webp",
+      "title": "Hardware, software y firmware",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El hardware reúne los componentes físicos que ejecutan, almacenan o transfieren información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V03",
+      "file": "t38-03-arquitectura-de-programa-almacenado.webp",
+      "title": "Arquitectura de programa almacenado",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En una arquitectura de programa almacenado, instrucciones y datos se conservan en memoria accesible al procesador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V04",
+      "file": "t38-il-04-cpu-nucleos-hilos-y-cache.webp",
+      "title": "CPU, núcleos, hilos y caché",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La CPU ejecuta instrucciones y puede integrar uno o varios núcleos de procesamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V05",
+      "file": "t38-il-05-jerarquia-de-memoria.webp",
+      "title": "Jerarquía de memoria",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Registros y cachés son muy rápidos y de capacidad limitada frente a la memoria principal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V06",
+      "file": "t38-06-bit-byte-y-prefijos-de-capacidad.webp",
+      "title": "Bit, byte y prefijos de capacidad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El bit es una unidad binaria y el byte agrupa ocho bits.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V07",
+      "file": "t38-07-entrada-salida-y-perifericos.webp",
+      "title": "Entrada, salida y periféricos",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un dispositivo de entrada aporta datos o señales al sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V08",
+      "file": "t38-08-arranque-firmware-cargador-y-nucleo.webp",
+      "title": "Arranque: firmware, cargador y núcleo",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El firmware inicializa componentes básicos y localiza un mecanismo de arranque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V09",
+      "file": "t38-09-sistema-operativo-como-gestor-de-recursos.webp",
+      "title": "Sistema operativo como gestor de recursos",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo administra procesador, memoria, dispositivos y almacenamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V10",
+      "file": "t38-il-10-nucleo-modo-usuario-y-llamadas-al-sistema.webp",
+      "title": "Núcleo, modo usuario y llamadas al sistema",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El núcleo ejecuta funciones privilegiadas y mantiene el control de recursos críticos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V11",
+      "file": "t38-11-programa-proceso-e-imagen-ejecutable.webp",
+      "title": "Programa, proceso e imagen ejecutable",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un programa es código y datos preparados para ejecutarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V12",
+      "file": "t38-il-12-estados-y-ciclo-de-vida-de-un-proceso.webp",
+      "title": "Estados y ciclo de vida de un proceso",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un proceso listo puede ejecutar cuando el planificador le asigne procesador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V13",
+      "file": "t38-13-hilos-y-recursos-compartidos.webp",
+      "title": "Hilos y recursos compartidos",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un hilo es una secuencia de ejecución planificable dentro de un proceso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V14",
+      "file": "t38-14-planificacion-de-cpu.webp",
+      "title": "Planificación de CPU",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El planificador decide qué tarea ejecutable utiliza la CPU en cada momento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V15",
+      "file": "t38-15-multiprogramacion-multitarea-y-multiprocesamiento.webp",
+      "title": "Multiprogramación, multitarea y multiprocesamiento",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La multiprogramación mantiene varios trabajos preparados para aprovechar mejor la CPU.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V16",
+      "file": "t38-il-16-sincronizacion-y-condiciones-de-carrera.webp",
+      "title": "Sincronización y condiciones de carrera",
+      "type": "ilustracion_simple",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Existe condición de carrera cuando el resultado depende de un orden no controlado entre ejecuciones concurrentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V17",
+      "file": "t38-17-comunicacion-entre-procesos.webp",
+      "title": "Comunicación entre procesos",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La comunicación entre procesos permite intercambiar datos o señales entre ejecuciones separadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V18",
+      "file": "t38-18-gestion-de-memoria.webp",
+      "title": "Gestión de memoria",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo asigna memoria a procesos y recupera regiones cuando dejan de utilizarse.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V19",
+      "file": "t38-il-19-memoria-virtual-y-paginacion.webp",
+      "title": "Memoria virtual y paginación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La memoria virtual proporciona a cada proceso un espacio de direcciones abstracto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V20",
+      "file": "t38-20-gestion-de-archivos-y-directorios.webp",
+      "title": "Gestión de archivos y directorios",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo ofrece operaciones para crear, abrir, leer, escribir, renombrar y eliminar archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V21",
+      "file": "t38-21-dispositivos-controladores-y-entrada-salida.webp",
+      "title": "Dispositivos, controladores y entrada/salida",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un controlador traduce operaciones del sistema a interacciones adecuadas con un dispositivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V22",
+      "file": "t38-il-22-interfaz-de-linea-de-comandos-shell-y-gui.webp",
+      "title": "Interfaz de línea de comandos, shell y GUI",
+      "type": "ilustracion_simple",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una interfaz de línea de comandos recibe instrucciones textuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V23",
+      "file": "t38-23-usuarios-autenticacion-y-autorizacion.webp",
+      "title": "Usuarios, autenticación y autorización",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La autenticación comprueba una identidad declarada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V24",
+      "file": "t38-24-proteccion-aislamiento-y-auditoria.webp",
+      "title": "Protección, aislamiento y auditoría",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El aislamiento de procesos reduce accesos directos entre aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V25",
+      "file": "t38-25-errores-excepciones-y-recuperacion.webp",
+      "title": "Errores, excepciones y recuperación",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema operativo gestiona excepciones del procesador y errores comunicados por hardware o software.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V26",
+      "file": "t38-26-ms-dos-naturaleza-y-contexto-historico.webp",
+      "title": "MS-DOS: naturaleza y contexto histórico",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS es una familia histórica de sistemas operativos de disco desarrollada para ordenadores personales compatibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V27",
+      "file": "t38-27-arquitectura-y-limites-clasicos-de-ms-dos.webp",
+      "title": "Arquitectura y límites clásicos de MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El MS-DOS clásico trabajaba sobre la arquitectura x86 en modo real de sus primeras generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V28",
+      "file": "t38-28-interprete-y-comandos-de-ms-dos.webp",
+      "title": "Intérprete y comandos de MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: COMMAND.COM actuaba como intérprete de comandos en versiones clásicas de MS-DOS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V29",
+      "file": "t38-29-unidades-rutas-y-nombres-en-ms-dos.webp",
+      "title": "Unidades, rutas y nombres en MS-DOS",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS identifica habitualmente volúmenes mediante letras seguidas de dos puntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V30",
+      "file": "t38-il-30-ms-dos-fat-y-arranque.webp",
+      "title": "MS-DOS, FAT y arranque",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: MS-DOS utilizó variantes de FAT para organizar archivos en volúmenes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V31",
+      "file": "t38-31-unix-origen-y-principios.webp",
+      "title": "UNIX: origen y principios",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: UNIX nació como una familia de sistemas multiusuario y multitarea.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V32",
+      "file": "t38-32-nucleo-shell-y-utilidades-unix.webp",
+      "title": "Núcleo, shell y utilidades UNIX",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El núcleo gestiona procesos, memoria, dispositivos y sistemas de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V33",
+      "file": "t38-33-jerarquia-raiz-y-montaje-en-unix.webp",
+      "title": "Jerarquía, raíz y montaje en UNIX",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La barra inclinada representa la raíz y separa componentes de una ruta POSIX.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V34",
+      "file": "t38-34-procesos-unix-fork-exec-y-wait.webp",
+      "title": "Procesos UNIX: fork, exec y wait",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: fork crea un nuevo proceso a partir del contexto del proceso llamante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V35",
+      "file": "t38-il-35-usuarios-grupos-y-permisos-posix.webp",
+      "title": "Usuarios, grupos y permisos POSIX",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los permisos clásicos distinguen lectura, escritura y ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V36",
+      "file": "t38-il-36-tuberias-redirecciones-y-descriptores.webp",
+      "title": "Tuberías, redirecciones y descriptores",
+      "type": "ilustracion_simple",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La entrada estándar, la salida estándar y el error estándar son flujos diferenciados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V37",
+      "file": "t38-37-posix-unix-y-sistemas-tipo-unix.webp",
+      "title": "POSIX, UNIX y sistemas tipo Unix",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: POSIX define interfaces y comportamientos portables para sistemas compatibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V38",
+      "file": "t38-38-linux-nucleo-y-distribuciones.webp",
+      "title": "Linux: núcleo y distribuciones",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Linux designa estrictamente el núcleo iniciado por el proyecto de Linus Torvalds.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V39",
+      "file": "t38-39-arquitectura-del-nucleo-linux.webp",
+      "title": "Arquitectura del núcleo Linux",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Linux se describe habitualmente como un núcleo monolítico con capacidad modular.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V40",
+      "file": "t38-40-vfs-y-jerarquia-linux.webp",
+      "title": "VFS y jerarquía Linux",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: VFS proporciona una interfaz común para que coexistan distintos sistemas de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V41",
+      "file": "t38-il-41-procesos-y-pseudo-sistema-proc.webp",
+      "title": "Procesos y pseudo-sistema /proc",
+      "type": "ilustracion_simple",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: /proc expone información de procesos y estructuras internas mediante una interfaz de sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V42",
+      "file": "t38-42-propiedad-permisos-y-privilegios-en-linux.webp",
+      "title": "Propiedad, permisos y privilegios en Linux",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los procesos actúan con identidades y grupos que condicionan sus permisos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V43",
+      "file": "t38-43-servicios-demonios-y-arranque-en-linux.webp",
+      "title": "Servicios, demonios y arranque en Linux",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un demonio es un proceso que presta servicios en segundo plano.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V44",
+      "file": "t38-44-software-libre-codigo-abierto-y-licencias.webp",
+      "title": "Software libre, código abierto y licencias",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El código del núcleo Linux se distribuye principalmente bajo GPLv2.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V45",
+      "file": "t38-45-windows-y-la-familia-windows-nt.webp",
+      "title": "Windows y la familia Windows NT",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las versiones modernas de escritorio y servidor de Windows pertenecen a la familia Windows NT.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V46",
+      "file": "t38-46-procesos-hilos-y-servicios-en-windows.webp",
+      "title": "Procesos, hilos y servicios en Windows",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows planifica hilos dentro del contexto de procesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V47",
+      "file": "t38-il-47-registro-de-windows.webp",
+      "title": "Registro de Windows",
+      "type": "ilustracion_simple",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Registro almacena configuración estructurada del sistema, usuarios y aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V48",
+      "file": "t38-il-48-explorer-cmd-y-powershell.webp",
+      "title": "Explorer, CMD y PowerShell",
+      "type": "ilustracion_simple",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Explorador de archivos es una interfaz gráfica para navegar y gestionar objetos del sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V49",
+      "file": "t38-49-cuentas-uac-y-controles-de-acceso.webp",
+      "title": "Cuentas, UAC y controles de acceso",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows asocia procesos a tokens que recogen identidad, grupos y privilegios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V50",
+      "file": "t38-50-unidades-rutas-y-atributos-en-windows.webp",
+      "title": "Unidades, rutas y atributos en Windows",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows representa habitualmente volúmenes mediante letras, aunque también admite puntos de montaje en carpetas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V51",
+      "file": "t38-51-actualizacion-cifrado-y-recuperacion-en-windows.webp",
+      "title": "Actualización, cifrado y recuperación en Windows",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Windows Update distribuye correcciones y cambios, pero exige gestión de reinicios y compatibilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V52",
+      "file": "t38-52-macos-darwin-y-xnu.webp",
+      "title": "macOS, Darwin y XNU",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: macOS es el sistema operativo de escritorio de Apple y se apoya en Darwin.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V53",
+      "file": "t38-il-53-aqua-finder-y-terminal.webp",
+      "title": "Aqua, Finder y Terminal",
+      "type": "ilustracion_simple",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aqua designa el entorno gráfico característico de macOS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V54",
+      "file": "t38-54-aplicaciones-paquetes-y-sandbox-en-macos.webp",
+      "title": "Aplicaciones, paquetes y sandbox en macOS",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una aplicación macOS puede presentarse como un paquete que Finder muestra como una unidad lógica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V55",
+      "file": "t38-55-apfs-en-macos.webp",
+      "title": "APFS en macOS",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: APFS es el sistema de archivos predeterminado en macOS moderno y en otras plataformas Apple.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V56",
+      "file": "t38-56-rutas-volumenes-y-sensibilidad-a-mayusculas.webp",
+      "title": "Rutas, volúmenes y sensibilidad a mayúsculas",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: macOS usa una jerarquía de rutas con barra inclinada y una raíz única.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V57",
+      "file": "t38-57-filevault-y-volumen-de-sistema-firmado.webp",
+      "title": "FileVault y volumen de sistema firmado",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: FileVault protege datos en reposo mediante cifrado de volumen conforme a la plataforma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V58",
+      "file": "t38-58-rasgos-de-los-sistemas-operativos-moviles.webp",
+      "title": "Rasgos de los sistemas operativos móviles",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sistema móvil gestiona recursos limitados, batería, conectividad radio, sensores y ciclo de vida de aplicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V59",
+      "file": "t38-59-ios-arquitectura-y-ecosistema.webp",
+      "title": "iOS: arquitectura y ecosistema",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS es el sistema operativo de Apple para iPhone.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V60",
+      "file": "t38-60-sandbox-entitlements-y-permisos-en-ios.webp",
+      "title": "Sandbox, entitlements y permisos en iOS",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las aplicaciones de terceros se ejecutan en sandbox con un contenedor propio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V61",
+      "file": "t38-61-ios-apfs-y-data-protection.webp",
+      "title": "iOS, APFS y Data Protection",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS utiliza APFS y mecanismos de Data Protection para proteger datos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V62",
+      "file": "t38-62-android-capas-de-arquitectura.webp",
+      "title": "Android: capas de arquitectura",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android se apoya en un kernel Linux adaptado a las necesidades de la plataforma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V63",
+      "file": "t38-63-android-runtime-y-binder.webp",
+      "title": "Android Runtime y Binder",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android Runtime ejecuta código de aplicaciones y gestiona aspectos de su entorno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V64",
+      "file": "t38-64-aislamiento-y-permisos-en-android.webp",
+      "title": "Aislamiento y permisos en Android",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Android asigna identidades y aislamientos a las aplicaciones para separar sus datos y procesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V65",
+      "file": "t38-65-almacenamiento-y-cifrado-en-android.webp",
+      "title": "Almacenamiento y cifrado en Android",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cifrado basado en archivos permite proteger archivos con claves que pueden desbloquearse de forma independiente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V66",
+      "file": "t38-il-66-comparacion-entre-ios-y-android.webp",
+      "title": "Comparación entre iOS y Android",
+      "type": "ilustracion_simple",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: iOS y Android gestionan aplicaciones, memoria, dispositivos, energía, permisos y almacenamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V67",
+      "file": "t38-67-memoria-y-almacenamiento-clasificacion.webp",
+      "title": "Memoria y almacenamiento: clasificación",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La memoria de trabajo y el almacenamiento persistente cumplen funciones diferentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V68",
+      "file": "t38-il-68-discos-magneticos-hdd.webp",
+      "title": "Discos magnéticos HDD",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un HDD almacena datos mediante dominios magnéticos en platos giratorios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V69",
+      "file": "t38-69-unidades-de-estado-solido-ssd.webp",
+      "title": "Unidades de estado sólido SSD",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un SSD almacena datos normalmente en memoria flash no volátil y carece de platos y cabezales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V70",
+      "file": "t38-70-sata-nvme-y-factores-de-forma.webp",
+      "title": "SATA, NVMe y factores de forma",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: SATA es una interfaz y protocolo de almacenamiento usado por HDD y SSD.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V71",
+      "file": "t38-71-medios-opticos-y-extraibles.webp",
+      "title": "Medios ópticos y extraíbles",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: CD, DVD y Blu-ray almacenan información mediante estructuras ópticas leídas por una unidad compatible.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V72",
+      "file": "t38-72-sectores-bloques-y-clusteres.webp",
+      "title": "Sectores, bloques y clústeres",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sector es una unidad direccionable del dispositivo o de su interfaz lógica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V73",
+      "file": "t38-73-particiones-volumenes-mbr-y-gpt.webp",
+      "title": "Particiones, volúmenes, MBR y GPT",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una partición divide lógicamente el espacio de un dispositivo conforme a una tabla.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V74",
+      "file": "t38-il-74-raid-redundancia-y-copia-de-seguridad.webp",
+      "title": "RAID, redundancia y copia de seguridad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: RAID combina unidades para obtener rendimiento, capacidad o redundancia según el nivel.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V75",
+      "file": "t38-75-concepto-y-funciones-del-sistema-de-archivos.webp",
+      "title": "Concepto y funciones del sistema de archivos",
+      "type": "infografia",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un sistema de archivos define cómo se organizan, nombran y localizan datos y metadatos en un soporte o espacio lógico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V76",
+      "file": "t38-76-archivos-directorios-y-metadatos.webp",
+      "title": "Archivos, directorios y metadatos",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El contenido de un archivo se distingue de los metadatos que lo describen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V77",
+      "file": "t38-77-rutas-absolutas-relativas-y-resolucion-de-nombres.webp",
+      "title": "Rutas absolutas, relativas y resolución de nombres",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una ruta absoluta se resuelve desde una raíz o designador completo del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V78",
+      "file": "t38-78-asignacion-de-espacio-y-fragmentacion-interna.webp",
+      "title": "Asignación de espacio y fragmentación interna",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El sistema de archivos asigna espacio en unidades que pueden ser mayores que los datos finales de un archivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V79",
+      "file": "t38-79-montaje-letras-y-puntos-de-montaje.webp",
+      "title": "Montaje, letras y puntos de montaje",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Montar conecta un sistema de archivos con un punto accesible de la jerarquía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V80",
+      "file": "t38-80-formateo-borrado-y-recuperacion.webp",
+      "title": "Formateo, borrado y recuperación",
+      "type": "infografia",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Formatear crea o renueva estructuras de un sistema de archivos en un volumen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V81",
+      "file": "t38-81-diario-copy-on-write-y-comprobaciones.webp",
+      "title": "Diario, copy-on-write y comprobaciones",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El journaling registra información de cambios para facilitar recuperación tras una interrupción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V82",
+      "file": "t38-82-fat12-fat16-y-fat32.webp",
+      "title": "FAT12, FAT16 y FAT32",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las variantes FAT se diferencian principalmente por el tamaño de sus entradas y la cantidad de clústeres direccionables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V83",
+      "file": "t38-83-exfat.webp",
+      "title": "exFAT",
+      "type": "infografia",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: exFAT es sucesor de FAT32 dentro de la familia FAT.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V84",
+      "file": "t38-84-ntfs.webp",
+      "title": "NTFS",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: NTFS es el sistema de archivos predeterminado de Windows moderno para volúmenes del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V85",
+      "file": "t38-85-refs-y-alcance-comparado.webp",
+      "title": "ReFS y alcance comparado",
+      "type": "infografia",
+      "placement": "bloque-85",
+      "status": "planned",
+      "block": 85,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ReFS es un sistema de archivos de Microsoft orientado a resiliencia, integridad y escenarios de almacenamiento determinados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V86",
+      "file": "t38-86-ext2-ext3-y-ext4.webp",
+      "title": "ext2, ext3 y ext4",
+      "type": "infografia",
+      "placement": "bloque-86",
+      "status": "planned",
+      "block": 86,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ext2 no incorpora el diario que caracteriza a ext3.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V87",
+      "file": "t38-87-apfs-y-hfs.webp",
+      "title": "APFS y HFS+",
+      "type": "infografia",
+      "placement": "bloque-87",
+      "status": "planned",
+      "block": 87,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: HFS+ fue el sistema principal de macOS antes de APFS.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V88",
+      "file": "t38-88-iso-9660-y-udf.webp",
+      "title": "ISO 9660 y UDF",
+      "type": "infografia",
+      "placement": "bloque-88",
+      "status": "planned",
+      "block": 88,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: ISO 9660 se diseñó para el intercambio de datos en medios ópticos de solo lectura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V89",
+      "file": "t38-89-enlaces-permisos-y-sensibilidad-a-mayusculas.webp",
+      "title": "Enlaces, permisos y sensibilidad a mayúsculas",
+      "type": "infografia",
+      "placement": "bloque-89",
+      "status": "planned",
+      "block": 89,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Un enlace duro añade otra referencia al mismo objeto dentro de las restricciones del sistema de archivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T38-V90",
+      "file": "t38-il-90-eleccion-del-sistema-de-archivos.webp",
+      "title": "Elección del sistema de archivos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-90",
+      "status": "planned",
+      "block": 90,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La elección debe considerar sistema operativo, tamaño de archivos, permisos, resiliencia, rendimiento y dispositivos de destino.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}

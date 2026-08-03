@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-38",
+  "topic_number": 38,
+  "slug": "fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos",
+  "title": "Fundamentos de sistemas operativos: funciones de un sistema operativo. Tipologías: MS-DOS, UNIX, Linux, Windows y macOS. Sistemas operativos móviles: iOS y Android. Sistemas de almacenamiento. Sistemas de archivos.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-38/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-38-fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos.md",
+    "atestado": "temas/policia-nacional/atestado/tema-38-fundamentos-sistemas-operativos-tipologias-almacenamiento-archivos.md"
+  },
+  "semantic_blocks": 90,
+  "atomic_facts": 360,
+  "master_statements": 360,
+  "coverage_file": "conocimiento/policia-nacional/tema-38/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T38",
+    "MS-WINDOWS-INTERNALS-T38",
+    "MS-NTFS-T38",
+    "MS-EXFAT-T38",
+    "MS-STORAGE-T38",
+    "MS-DOS-SOURCE-T38",
+    "POSIX-2024-T38",
+    "LINUX-KERNEL-T38",
+    "LINUX-EXT4-T38",
+    "APPLE-PLATFORM-SECURITY-T38",
+    "APPLE-APFS-T38",
+    "ANDROID-ARCH-T38",
+    "ANDROID-STORAGE-T38",
+    "NVME-SPEC-T38"
+  ],
+  "official_exam_items": [
+    "of-pn-p34-a-q001",
+    "of-pn-p35-a-q091",
+    "of-pn-p36-a-q041",
+    "of-pn-p37-a-q008",
+    "of-pn-p38-a-q084",
+    "of-pn-p38-a-q085",
+    "of-pn-p39-a-q008",
+    "of-pn-p41-a-q085",
+    "of-pn-p42-a-q085"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-38/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-38/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-38/manifest.json",
+    "questions": 720,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-38/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-38/manifest.json",
+    "total": 0,
+    "planned": 90
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-38/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-38/revision-1.0.md"
+  }
+}
