@@ -135,6 +135,14 @@
       ]
     },
     {
+      "id": "ATTAC-ES-T28",
+      "title": "ATTAC España: identidad, historia y propuestas",
+      "url": "https://attac.es/quienes-somos/",
+      "scope": "ATTAC, acción ciudadana y transacciones financieras",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "BUDAPEST-T20",
       "title": "Convenio sobre la Ciberdelincuencia",
       "boe_id": "BOE-A-2010-14221",
@@ -638,6 +646,14 @@
       "traceable": true
     },
     {
+      "id": "EU-FTT-T28",
+      "title": "Comisión Europea: historia de la propuesta de impuesto sobre transacciones financieras",
+      "url": "https://taxation-customs.ec.europa.eu/taxation/other-taxes/taxation-financial-sector_en",
+      "scope": "propuesta FTT de 2011 y cooperación reforzada",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "FGE3-2017-T20",
       "title": "Circular FGE 3/2017",
       "boe_id": "FIS-C-2017-00003",
@@ -774,6 +790,38 @@
       "derived_from": [
         "L50-1997"
       ]
+    },
+    {
+      "id": "ILO-FAIR-T28",
+      "title": "OIT: A Fair Globalization, Creating Opportunities for All",
+      "url": "https://www.ilo.org/publications/fair-globalization-creating-opportunities-all",
+      "scope": "dimensión social, gobernanza, trabajo decente y distribución",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IMF-ATGLANCE-T28",
+      "title": "Fondo Monetario Internacional: IMF at a Glance",
+      "url": "https://www.imf.org/en/about/factsheets/imf-at-a-glance",
+      "scope": "mandato y funciones del FMI",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IMF-GLOBAL-2024-T28",
+      "title": "FMI: Globalization Today",
+      "url": "https://www.imf.org/en/publications/fandd/issues/2024/06/b2b-globalization-today-adam-jakubik-and-elizabeth-van-heuvelen",
+      "scope": "fragmentación, resiliencia y globalización contemporánea",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IMF-GLOBAL-T28",
+      "title": "FMI: Globalization, A Brief Overview",
+      "url": "https://www.imf.org/external/np/exr/ib/2008/053008.htm",
+      "scope": "integración financiera, oportunidades y riesgos",
+      "official": true,
+      "traceable": true
     },
     {
       "id": "INCIBE-T15",
@@ -1378,6 +1426,22 @@
       "traceable": true
     },
     {
+      "id": "OECD-GLOCAL-T28",
+      "title": "OCDE: Governance in the 21st Century",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2001/04/governance-in-the-21st-century_g1ghg25e/9789264189362-en.pdf",
+      "scope": "glocalización y relación global-local",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OECD-MEASURE-T28",
+      "title": "OCDE: Measuring Globalisation",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/05/measuring-globalisation_g1gh5a24/9789264108103-en.pdf",
+      "scope": "concepto, dimensiones, impulsores e indicadores",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "OINT314-2011-T13",
       "title": "Orden INT/314/2011, sobre empresas de seguridad privada",
       "boe_id": "BOE-A-2011-3168",
@@ -1438,6 +1502,14 @@
       "traceable": true
     },
     {
+      "id": "ONU-GLOBAL-T28",
+      "title": "Naciones Unidas: Globalization and Interdependence",
+      "url": "https://www.un.org/esa/coordination/globalization.htm",
+      "scope": "interdependencia, motores y gobernanza",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "OPCAT-T27",
       "title": "Protocolo facultativo a la Convención contra la tortura",
       "boe_id": "BOE-A-2006-11128",
@@ -1461,6 +1533,14 @@
       "boe_id": "BOE-A-1993-6202",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202",
       "scope": "clasificación y régimen administrativo de armas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAE-GLOBAL-T28",
+      "title": "Diccionario de la lengua española: globalización y globalizar",
+      "url": "https://dle.rae.es/globalizaci%C3%B3n",
+      "scope": "concepto lingüístico y alcance internacional y cultural",
       "official": true,
       "traceable": true
     },
@@ -2052,10 +2132,114 @@
       ]
     },
     {
+      "id": "UN-ENV-GLOBAL-T28",
+      "title": "Naciones Unidas: Agenda 21",
+      "url": "https://www.un.org/esa/dsd/agenda21/Agenda%2021.pdf",
+      "scope": "problemas ambientales transfronterizos y cooperación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-GLOBAL-CITY-T28",
+      "title": "Naciones Unidas: Globalization and the World of Large Cities",
+      "url": "https://digitallibrary.un.org/record/445152",
+      "scope": "ciudad global y tesis de Saskia Sassen",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-DECLARATION-T28",
+      "title": "Declaración Universal de la UNESCO sobre la Diversidad Cultural",
+      "url": "https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity",
+      "scope": "diversidad, pluralismo y derechos humanos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-DIGITAL-T28",
+      "title": "UNESCO: Media, digital citizenship and global consciousness",
+      "url": "https://www.unesco.org/mil4teachers/en/module5/unit3",
+      "scope": "redes digitales, ciudadanía y comunicación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-DIVERSITY-T28",
+      "title": "UNESCO: Convención sobre la diversidad de las expresiones culturales",
+      "url": "https://www.unesco.org/en/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions",
+      "scope": "globalización cultural, diversidad y derechos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-MCLUHAN-T28",
+      "title": "UNESCO: Marshall McLuhan, The Archives of the Future",
+      "url": "https://www.unesco.org/en/memory-world/marshall-mcluhan-archives-future",
+      "scope": "aldea global y medios de comunicación",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "VIOGEN2-T23",
       "title": "Sistema VioGén 2, Ministerio del Interior",
       "url": "https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/violencia-contra-la-mujer/sistema-viogen-2/",
       "scope": "coordinación y seguimiento policial",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WB-GVC-T28",
+      "title": "Banco Mundial: Trading for Development in the Age of Global Value Chains",
+      "url": "https://openknowledge.worldbank.org/entities/publication/e5ffd66c-5de2-57a3-92b0-8c0469880b2a",
+      "scope": "cadenas globales de valor, empleo y desarrollo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WB-TRADE-T28",
+      "title": "Banco Mundial: Trade and Globalization",
+      "url": "https://www.worldbank.org/en/programs/knowledge-for-change/brief/Trade-and-Globalization",
+      "scope": "comercio, desarrollo, pobreza y políticas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WSF-CHARTER-T28",
+      "title": "World Social Forum: Charter of Principles",
+      "url": "https://cdn77.pressenza.com/wp-content/uploads/2021/01/FSM-Charter-en.pdf",
+      "scope": "origen, naturaleza, objetivos y principios del FSM",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WSF-HISTORY-T28",
+      "title": "World Social Forum: trayectoria de ediciones",
+      "url": "https://wsf2018.org/en/es/ar/pt",
+      "scope": "sedes, descentralización e historia del proceso",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WTO-HISTORY-T28",
+      "title": "Organización Mundial del Comercio: historia del sistema multilateral",
+      "url": "https://www.wto.org/english/thewto_e/history_e/history_e.htm",
+      "scope": "GATT, Ronda Uruguay, Marrakech y OMC",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WTO-INBRIEF-T28",
+      "title": "Organización Mundial del Comercio: la OMC en pocas palabras",
+      "url": "https://www.wto.org/english/thewto_e/whatis_e/inbrief_e/inbr00_e.htm",
+      "scope": "reglas, acuerdos y funciones de la OMC",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WTO-SEATTLE-T28",
+      "title": "OMC: Tercera Conferencia Ministerial, Seattle 1999",
+      "url": "https://www.wto.org/english/thewto_e/minist_e/min99_e/min99_e.htm",
+      "scope": "fecha, lugar y contexto institucional de Seattle",
       "official": true,
       "traceable": true
     }

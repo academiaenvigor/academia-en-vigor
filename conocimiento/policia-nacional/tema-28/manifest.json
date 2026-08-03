@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-28",
+  "topic_number": 28,
+  "slug": "globalizacion-antiglobalizacion-movimiento-foro-social-mundial",
+  "title": "Globalización y antiglobalización. Conceptos y características. Consecuencia de la globalización. Reacciones a la globalización. El Movimiento Antiglobalización: Organizaciones, objetivos e historia. El Foro Social Mundial.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-28/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-28-globalizacion-antiglobalizacion-movimiento-foro-social-mundial.md",
+    "atestado": "temas/policia-nacional/atestado/tema-28-globalizacion-antiglobalizacion-movimiento-foro-social-mundial.md"
+  },
+  "semantic_blocks": 41,
+  "atomic_facts": 164,
+  "master_statements": 164,
+  "coverage_file": "conocimiento/policia-nacional/tema-28/cobertura.json",
+  "official_references": [
+    "RAE-GLOBAL-T28",
+    "ONU-GLOBAL-T28",
+    "WTO-HISTORY-T28",
+    "WTO-INBRIEF-T28",
+    "OECD-MEASURE-T28",
+    "OECD-GLOCAL-T28",
+    "IMF-GLOBAL-T28",
+    "IMF-GLOBAL-2024-T28",
+    "IMF-ATGLANCE-T28",
+    "WB-TRADE-T28",
+    "WB-GVC-T28",
+    "ILO-FAIR-T28",
+    "UNESCO-DIVERSITY-T28",
+    "UNESCO-DECLARATION-T28",
+    "UNESCO-MCLUHAN-T28",
+    "UNESCO-DIGITAL-T28",
+    "UN-GLOBAL-CITY-T28",
+    "UN-ENV-GLOBAL-T28",
+    "ATTAC-ES-T28",
+    "EU-FTT-T28",
+    "WTO-SEATTLE-T28",
+    "WSF-CHARTER-T28",
+    "WSF-HISTORY-T28",
+    "CONV-PN-2026"
+  ],
+  "official_exam_items": [
+    "of-pn-p37-a-q005",
+    "of-pn-p37-a-q076",
+    "of-pn-p42-a-q008",
+    "of-pn-p35-a-q078",
+    "of-pn-p35-a-q084",
+    "of-pn-p36-a-q061",
+    "of-pn-p36-a-q091",
+    "of-pn-p36-a-q095",
+    "of-pn-p41-a-q002",
+    "of-pn-p41-a-q055",
+    "of-pn-p38-a-q074",
+    "of-pn-p34-a-q005",
+    "of-pn-p33-a-q050",
+    "of-pn-p33-a-q051",
+    "of-pn-p33-a-q052",
+    "of-pn-p33-a-q053",
+    "of-pn-p33-a-q054",
+    "of-pn-p33-a-q055",
+    "of-pn-p39-a-q068",
+    "of-pn-p40-a-q025"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-28/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-28/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-28/manifest.json",
+    "questions": 328,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-28/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-28/manifest.json",
+    "total": 0,
+    "planned": 41
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-28/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-28/revision-1.0.md"
+  }
+}

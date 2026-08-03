@@ -654,6 +654,30 @@
           "official_exam_mapped": 20,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 28,
+          "slug": "globalizacion-antiglobalizacion-movimiento-foro-social-mundial",
+          "title": "Globalización y antiglobalización. Conceptos y características. Consecuencia de la globalización. Reacciones a la globalización. El Movimiento Antiglobalización: Organizaciones, objetivos e historia. El Foro Social Mundial.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-28/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-28-globalizacion-antiglobalizacion-movimiento-foro-social-mundial.md",
+          "atestado": "temas/policia-nacional/atestado/tema-28-globalizacion-antiglobalizacion-movimiento-foro-social-mundial.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-28/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-28/plan.json",
+          "assets": "assets/policia-nacional/tema-28/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-28/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-28/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 41,
+          "atomic_facts": 164,
+          "question_count": 328,
+          "official_exam_mapped": 20,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

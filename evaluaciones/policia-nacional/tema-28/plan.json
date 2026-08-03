@@ -1,0 +1,294 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 28,
+  "topic_title": "Globalización y antiglobalización. Conceptos y características. Consecuencia de la globalización. Reacciones a la globalización. El Movimiento Antiglobalización: Organizaciones, objetivos e historia. El Foro Social Mundial.",
+  "id_prefix": "PN-T28",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-28/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-28/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Concepto general de globalización"
+      },
+      {
+        "number": 2,
+        "title": "Globalización económica e interdependencia"
+      },
+      {
+        "number": 3,
+        "title": "Antecedentes históricos de la integración mundial"
+      },
+      {
+        "number": 4,
+        "title": "GATT, Ronda Uruguay y nacimiento de la OMC"
+      },
+      {
+        "number": 5,
+        "title": "Tecnología como motor de la globalización"
+      },
+      {
+        "number": 6,
+        "title": "Liberalización y decisiones públicas"
+      },
+      {
+        "number": 7,
+        "title": "Empresas multinacionales y cadenas globales de valor"
+      },
+      {
+        "number": 8,
+        "title": "Globalización financiera"
+      },
+      {
+        "number": 9,
+        "title": "Dimensiones de la globalización"
+      },
+      {
+        "number": 10,
+        "title": "Rasgos estructurales: alcance, intensidad y velocidad"
+      },
+      {
+        "number": 11,
+        "title": "Homogeneización, hibridación y diversidad"
+      },
+      {
+        "number": 12,
+        "title": "Glocalización"
+      },
+      {
+        "number": 13,
+        "title": "Aldea global y medios de comunicación"
+      },
+      {
+        "number": 14,
+        "title": "Sociedad red"
+      },
+      {
+        "number": 15,
+        "title": "Ciudad global"
+      },
+      {
+        "number": 16,
+        "title": "Actores e instituciones de la globalización"
+      },
+      {
+        "number": 17,
+        "title": "FMI, Banco Mundial y OMC: diferencias"
+      },
+      {
+        "number": 18,
+        "title": "Consecuencias económicas: crecimiento y especialización"
+      },
+      {
+        "number": 19,
+        "title": "Desigualdad, pobreza y distribución"
+      },
+      {
+        "number": 20,
+        "title": "Empleo, deslocalización y trabajo decente"
+      },
+      {
+        "number": 21,
+        "title": "Soberanía, gobernanza y poder transnacional"
+      },
+      {
+        "number": 22,
+        "title": "Consecuencias sociales: movilidad, identidades y cohesión"
+      },
+      {
+        "number": 23,
+        "title": "Consecuencias culturales y diversidad"
+      },
+      {
+        "number": 24,
+        "title": "Consecuencias ambientales"
+      },
+      {
+        "number": 25,
+        "title": "Riesgos sistémicos, resiliencia y fragmentación"
+      },
+      {
+        "number": 26,
+        "title": "Reacciones culturales: etnocentrismo"
+      },
+      {
+        "number": 27,
+        "title": "Relativismo cultural y sus límites"
+      },
+      {
+        "number": 28,
+        "title": "Xenocentrismo y desarraigo"
+      },
+      {
+        "number": 29,
+        "title": "Interculturalismo"
+      },
+      {
+        "number": 30,
+        "title": "Universalismo cultural y derechos humanos"
+      },
+      {
+        "number": 31,
+        "title": "Localismo, nacionalismo y cierre identitario"
+      },
+      {
+        "number": 32,
+        "title": "Antiglobalización y altermundismo: concepto"
+      },
+      {
+        "number": 33,
+        "title": "Objetivos y críticas del movimiento"
+      },
+      {
+        "number": 34,
+        "title": "Historia: antecedentes y movilizaciones de 1998"
+      },
+      {
+        "number": 35,
+        "title": "La batalla de Seattle de 1999"
+      },
+      {
+        "number": 36,
+        "title": "Organizaciones y redes: ATTAC"
+      },
+      {
+        "number": 37,
+        "title": "Propuestas: tasa sobre transacciones financieras"
+      },
+      {
+        "number": 38,
+        "title": "Origen del Foro Social Mundial"
+      },
+      {
+        "number": 39,
+        "title": "Carta de Principios: naturaleza del Foro"
+      },
+      {
+        "number": 40,
+        "title": "Principios, límites y participación"
+      },
+      {
+        "number": 41,
+        "title": "Historia y geografía del Foro Social Mundial"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Concepto, evolución y motores de la globalización",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Características, dimensiones, actores y conceptos clave",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Consecuencias, oportunidades y riesgos",
+        "blocks": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Reacciones sociales y culturales a la globalización",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Movimiento antiglobalización y altermundismo",
+        "blocks": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Foro Social Mundial",
+        "blocks": [
+          38,
+          39,
+          40,
+          41
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
