@@ -1,0 +1,577 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 34,
+  "topic_title": "Drogodependencias. Conceptos de droga, consumidor, métodos de administración, adicción, dependencia, tolerancia, politoxicomanías. Clasificación de las drogas. Últimas tendencias en el consumo de drogas en nuestra sociedad.",
+  "id_prefix": "PN-T34",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-34/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-34/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 34"
+      },
+      {
+        "number": 2,
+        "title": "Concepto funcional de droga"
+      },
+      {
+        "number": 3,
+        "title": "Sustancia psicoactiva y sistema nervioso"
+      },
+      {
+        "number": 4,
+        "title": "Uso, uso de riesgo y uso perjudicial"
+      },
+      {
+        "number": 5,
+        "title": "Intoxicación aguda y efectos crónicos"
+      },
+      {
+        "number": 6,
+        "title": "Factores de riesgo y de protección"
+      },
+      {
+        "number": 7,
+        "title": "Daño individual, social y de salud pública"
+      },
+      {
+        "number": 8,
+        "title": "Lenguaje no estigmatizante y precisión"
+      },
+      {
+        "number": 9,
+        "title": "Separar clasificación clínica, legal y farmacológica"
+      },
+      {
+        "number": 10,
+        "title": "Concepto descriptivo de consumidor"
+      },
+      {
+        "number": 11,
+        "title": "Consumidor experimental"
+      },
+      {
+        "number": 12,
+        "title": "Consumidor ocasional o esporádico"
+      },
+      {
+        "number": 13,
+        "title": "Consumidor habitual"
+      },
+      {
+        "number": 14,
+        "title": "Consumidor dependiente"
+      },
+      {
+        "number": 15,
+        "title": "Patrones simultáneo y concurrente"
+      },
+      {
+        "number": 16,
+        "title": "Métodos de administración: mapa general"
+      },
+      {
+        "number": 17,
+        "title": "Vía oral"
+      },
+      {
+        "number": 18,
+        "title": "Vías inhalada y fumada"
+      },
+      {
+        "number": 19,
+        "title": "Vía intranasal"
+      },
+      {
+        "number": 20,
+        "title": "Vía parenteral e intravenosa"
+      },
+      {
+        "number": 21,
+        "title": "Vías sublingual, bucal y transdérmica"
+      },
+      {
+        "number": 22,
+        "title": "Rapidez de inicio, pico y duración"
+      },
+      {
+        "number": 23,
+        "title": "Método de administración y reducción de riesgos"
+      },
+      {
+        "number": 24,
+        "title": "Concepto de adicción"
+      },
+      {
+        "number": 25,
+        "title": "Dependencia física y adaptación"
+      },
+      {
+        "number": 26,
+        "title": "Dependencia psíquica"
+      },
+      {
+        "number": 27,
+        "title": "Tolerancia"
+      },
+      {
+        "number": 28,
+        "title": "Tolerancia cruzada"
+      },
+      {
+        "number": 29,
+        "title": "Tolerancia inversa o sensibilización"
+      },
+      {
+        "number": 30,
+        "title": "Síndrome de abstinencia"
+      },
+      {
+        "number": 31,
+        "title": "Craving o deseo intenso"
+      },
+      {
+        "number": 32,
+        "title": "Refuerzo positivo y negativo"
+      },
+      {
+        "number": 33,
+        "title": "Control deteriorado y compulsión"
+      },
+      {
+        "number": 34,
+        "title": "Poliotoxicomanía y policonsumo"
+      },
+      {
+        "number": 35,
+        "title": "Interacciones farmacodinámicas y farmacocinéticas"
+      },
+      {
+        "number": 36,
+        "title": "Mezcla de depresores"
+      },
+      {
+        "number": 37,
+        "title": "Mezcla de estimulantes y speedball"
+      },
+      {
+        "number": 38,
+        "title": "Clasificación por situación legal"
+      },
+      {
+        "number": 39,
+        "title": "Clasificación por origen"
+      },
+      {
+        "number": 40,
+        "title": "Clasificación por efecto predominante en el SNC"
+      },
+      {
+        "number": 41,
+        "title": "Límites de la clasificación por efectos"
+      },
+      {
+        "number": 42,
+        "title": "Estupefacientes en el sistema internacional"
+      },
+      {
+        "number": 43,
+        "title": "Psicotrópicos y Convenio de 1971"
+      },
+      {
+        "number": 44,
+        "title": "Convención de 1988 y precursores"
+      },
+      {
+        "number": 45,
+        "title": "Procedimiento nacional para considerar un estupefaciente"
+      },
+      {
+        "number": 46,
+        "title": "Control nacional de psicotrópicos"
+      },
+      {
+        "number": 47,
+        "title": "Drogas de síntesis"
+      },
+      {
+        "number": 48,
+        "title": "Agonista, antagonista e índice terapéutico"
+      },
+      {
+        "number": 49,
+        "title": "Depresores del sistema nervioso central"
+      },
+      {
+        "number": 50,
+        "title": "Alcohol"
+      },
+      {
+        "number": 51,
+        "title": "Opioides, opiáceos y receptores"
+      },
+      {
+        "number": 52,
+        "title": "Opio, morfina y codeína"
+      },
+      {
+        "number": 53,
+        "title": "Heroína"
+      },
+      {
+        "number": 54,
+        "title": "Metadona y buprenorfina"
+      },
+      {
+        "number": 55,
+        "title": "Fentanilo y análogos"
+      },
+      {
+        "number": 56,
+        "title": "Nitazenos y nuevos opioides sintéticos"
+      },
+      {
+        "number": 57,
+        "title": "Naloxona y respuesta a sobredosis opioide"
+      },
+      {
+        "number": 58,
+        "title": "Barbitúricos y benzodiacepinas"
+      },
+      {
+        "number": 59,
+        "title": "GHB y depresores de acción rápida"
+      },
+      {
+        "number": 60,
+        "title": "Estimulantes del sistema nervioso central"
+      },
+      {
+        "number": 61,
+        "title": "Cafeína, teofilina y nicotina"
+      },
+      {
+        "number": 62,
+        "title": "Coca y cocaína"
+      },
+      {
+        "number": 63,
+        "title": "Clorhidrato, base y crack"
+      },
+      {
+        "number": 64,
+        "title": "Anfetamina"
+      },
+      {
+        "number": 65,
+        "title": "Metanfetamina"
+      },
+      {
+        "number": 66,
+        "title": "MDMA o éxtasis"
+      },
+      {
+        "number": 67,
+        "title": "Catinonas sintéticas"
+      },
+      {
+        "number": 68,
+        "title": "Intoxicación por estimulantes"
+      },
+      {
+        "number": 69,
+        "title": "Perturbadoras, alucinógenas y psicodislépticas"
+      },
+      {
+        "number": 70,
+        "title": "LSD"
+      },
+      {
+        "number": 71,
+        "title": "Psilocibina y psilocina"
+      },
+      {
+        "number": 72,
+        "title": "Mescalina, DMT y ayahuasca"
+      },
+      {
+        "number": 73,
+        "title": "Ketamina y PCP: disociativos"
+      },
+      {
+        "number": 74,
+        "title": "Cannabis, THC y CBD"
+      },
+      {
+        "number": 75,
+        "title": "Marihuana, hachís y extractos"
+      },
+      {
+        "number": 76,
+        "title": "Preparados estandarizados de cannabis de 2025"
+      },
+      {
+        "number": 77,
+        "title": "Cannabinoides sintéticos y semisintéticos"
+      },
+      {
+        "number": 78,
+        "title": "Inhalantes volátiles"
+      },
+      {
+        "number": 79,
+        "title": "Óxido nitroso y nitritos inhalados"
+      },
+      {
+        "number": 80,
+        "title": "Concepto de nueva sustancia psicoactiva"
+      },
+      {
+        "number": 81,
+        "title": "“Legal high” no significa segura"
+      },
+      {
+        "number": 82,
+        "title": "Sistema europeo de alerta temprana"
+      },
+      {
+        "number": 83,
+        "title": "Sistema Español de Alerta Temprana"
+      },
+      {
+        "number": 84,
+        "title": "Alerta, evaluación y fiscalización"
+      },
+      {
+        "number": 85,
+        "title": "Precursores y sustancias químicas esenciales"
+      },
+      {
+        "number": 86,
+        "title": "Adulteración, contaminación y mezclas emergentes"
+      },
+      {
+        "number": 87,
+        "title": "Qué significa “últimas tendencias”"
+      },
+      {
+        "number": 88,
+        "title": "EDADES 2024: población adulta"
+      },
+      {
+        "number": 89,
+        "title": "ESTUDES 2025: población escolar"
+      },
+      {
+        "number": 90,
+        "title": "Patrón general de consumo en España"
+      },
+      {
+        "number": 91,
+        "title": "Tendencias juveniles y sustancias emergentes"
+      },
+      {
+        "number": 92,
+        "title": "Panorama europeo 2026"
+      },
+      {
+        "number": 93,
+        "title": "NPS europeas en 2026"
+      },
+      {
+        "number": 94,
+        "title": "Cómo responder preguntas estadísticas"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Conceptos básicos y lectura rigurosa del fenómeno",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Consumidor, patrones y métodos de administración",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Adicción, dependencia, tolerancia y policonsumo",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Clasificaciones y fiscalización de las drogas",
+        "blocks": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Sustancias depresoras del sistema nervioso central",
+        "blocks": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Sustancias estimulantes del sistema nervioso central",
+        "blocks": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Perturbadoras, cannabinoides e inhalantes",
+        "blocks": [
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Nuevas sustancias, precursores y alerta temprana",
+        "blocks": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86
+        ]
+      },
+      {
+        "code": "P9",
+        "title": "Últimas tendencias de consumo en España y Europa",
+        "blocks": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

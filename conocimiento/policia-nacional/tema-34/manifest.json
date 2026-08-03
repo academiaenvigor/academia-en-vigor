@@ -1,0 +1,112 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-34",
+  "topic_number": 34,
+  "slug": "drogodependencias-conceptos-clasificacion-ultimas-tendencias",
+  "title": "Drogodependencias. Conceptos de droga, consumidor, métodos de administración, adicción, dependencia, tolerancia, politoxicomanías. Clasificación de las drogas. Últimas tendencias en el consumo de drogas en nuestra sociedad.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-34/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-34-drogodependencias-conceptos-clasificacion-ultimas-tendencias.md",
+    "atestado": "temas/policia-nacional/atestado/tema-34-drogodependencias-conceptos-clasificacion-ultimas-tendencias.md"
+  },
+  "semantic_blocks": 94,
+  "atomic_facts": 376,
+  "master_statements": 376,
+  "coverage_file": "conocimiento/policia-nacional/tema-34/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T34",
+    "WHO-ICD11-SUBSTANCE-T34",
+    "UNODC-TERMINOLOGY-T34",
+    "PNSD-INFORMACION-T34",
+    "PNSD-SINTESIS-T34",
+    "UN-CONVENTION-1961-T34",
+    "UN-CONVENTION-1971-T34",
+    "UN-CONVENTION-1988-T34",
+    "LEY17-1967-T34",
+    "RD1194-2011-T34",
+    "RD2829-1977-T34",
+    "RD903-2025-T34",
+    "RD467-2026-T34",
+    "PNSD-SEAT-2026-T34",
+    "OEDA-SEAT-2025-T34",
+    "OEDA-EDADES-2024-T34",
+    "OEDA-ESTUDES-2025-T34",
+    "PNSD-ENCUESTAS-T34",
+    "EUDA-REPORT-2026-T34",
+    "EUDA-NPS-2026-T34",
+    "EUDA-EWS-T34"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q067",
+    "of-pn-p33-a-q068",
+    "of-pn-p34-a-q092",
+    "of-pn-p35-a-q002",
+    "of-pn-p35-a-q028",
+    "of-pn-p35-a-q033",
+    "of-pn-p35-a-q035",
+    "of-pn-p36-a-q005",
+    "of-pn-p36-a-q011",
+    "of-pn-p37-a-q017",
+    "of-pn-p37-a-q092",
+    "of-pn-p38-a-q080",
+    "of-pn-p38-a-q081",
+    "of-pn-p39-a-q033",
+    "of-pn-p40-a-q073",
+    "of-pn-p41-a-q022",
+    "of-pn-p41-a-q070",
+    "of-pn-p42-a-q094"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-34/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-34/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-34/manifest.json",
+    "questions": 752,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-34/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-34/manifest.json",
+    "total": 0,
+    "planned": 94
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-34/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-34/revision-1.0.md"
+  }
+}

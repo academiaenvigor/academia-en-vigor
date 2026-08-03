@@ -798,6 +798,30 @@
           "official_exam_mapped": 11,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 34,
+          "slug": "drogodependencias-conceptos-clasificacion-ultimas-tendencias",
+          "title": "Drogodependencias. Conceptos de droga, consumidor, métodos de administración, adicción, dependencia, tolerancia, politoxicomanías. Clasificación de las drogas. Últimas tendencias en el consumo de drogas en nuestra sociedad.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-34/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-34-drogodependencias-conceptos-clasificacion-ultimas-tendencias.md",
+          "atestado": "temas/policia-nacional/atestado/tema-34-drogodependencias-conceptos-clasificacion-ultimas-tendencias.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-34/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-34/plan.json",
+          "assets": "assets/policia-nacional/tema-34/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-34/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-34/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 94,
+          "atomic_facts": 376,
+          "question_count": 752,
+          "official_exam_mapped": 18,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

@@ -1,0 +1,431 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 34,
+  "titulo": "Drogodependencias. Conceptos de droga, consumidor, métodos de administración, adicción, dependencia, tolerancia, politoxicomanías. Clasificación de las drogas. Últimas tendencias en el consumo de drogas en nuestra sociedad.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 18,
+  "con_bloque_asignado": 18,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "10": 1,
+    "87": 1,
+    "69": 1,
+    "47": 1,
+    "48": 2,
+    "80": 1,
+    "73": 1,
+    "71": 1,
+    "91": 1,
+    "83": 1,
+    "61": 1,
+    "72": 2,
+    "86": 1,
+    "27": 1,
+    "59": 1,
+    "37": 1
+  },
+  "por_promocion": {
+    "P33": 2,
+    "P34": 1,
+    "P35": 4,
+    "P36": 2,
+    "P37": 2,
+    "P38": 2,
+    "P39": 1,
+    "P40": 1,
+    "P41": 2,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q067",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 67,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "PN-T34-F037"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según la clasificación de la Organización Mundial de la Salud, ¿cuáles son las categorías en las que pueden clasificarse los consumidores de drogas?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p33-a-q068",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 68,
+      "block_refs": [
+        87
+      ],
+      "fact_refs": [
+        "PN-T34-F345"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de los siguientes se considera principio rector, atendiendo a la Estrategia Nacional del Plan Nacional sobre Drogas, para el periodo comprendido entre 2009-2016?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q092",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 92,
+      "block_refs": [
+        69
+      ],
+      "fact_refs": [
+        "PN-T34-F273"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La psilocibina y el L.S.D. son dos tipos de drogas que pertenecen al grupo de los:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q002",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 2,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "PN-T34-F185"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el Plan Nacional de Drogas del Ministerio de Sanidad, Servicios Sociales e Igualdad (hoy Ministerio de Sanidad, Consumo y Bienestar Social) se considera droga de síntesis:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q028",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 28,
+      "block_refs": [
+        48
+      ],
+      "fact_refs": [
+        "PN-T34-F189"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Sustancia que actúa en un receptor neuronal para producir efectos similares a los de una droga de referencia, se denomina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q033",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 33,
+      "block_refs": [
+        80
+      ],
+      "fact_refs": [
+        "PN-T34-F317"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Teniendo en cuenta las últimas tendencias del consumo de drogas en nuestra sociedad, la sustancia psicoactiva de la meta-clorofenilpiperazina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q035",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 35,
+      "block_refs": [
+        73
+      ],
+      "fact_refs": [
+        "PN-T34-F289"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La ketamina según los efectos causados sobre el Sistema Nervioso Central (SNC) se clasifica como una droga:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q005",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 5,
+      "block_refs": [
+        71
+      ],
+      "fact_refs": [
+        "PN-T34-F281"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El componente llamado psilocibina lo encuadraremos dentro del grupo de drogas:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q011",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 11,
+      "block_refs": [
+        91
+      ],
+      "fact_refs": [
+        "PN-T34-F361"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el «Informe 2018: alcohol, tabaco y drogas ilegales en España» publicado por el Observatorio Español de las Drogas y las Adicciones, la sustancia que mayor proporción de estudiantes (14 a 18 años) consume después del alcohol, el tabaco y el cannabis son los:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q017",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 17,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "PN-T34-F329"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En España, el desarrollo y mantenimiento de un sistema rápido para la detección, intercambio de información, evaluación y respuesta frente a la aparición de las nuevas sustancias psicoactivas corresponde a:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q092",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 92,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "PN-T34-F241"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿En qué grupo de drogas según el efecto en el Sistema Nervioso Central clasificaríamos “la teofilina”?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q080",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 80,
+      "block_refs": [
+        72
+      ],
+      "fact_refs": [
+        "PN-T34-F285"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El consumo de Ayahuasca, a causa de la presencia de la sustancia DMT (dimetiltriptamina), tiene un efecto:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q081",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 81,
+      "block_refs": [
+        48
+      ],
+      "fact_refs": [
+        "PN-T34-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "A la relación entre la dosis en la que un determinado fármaco o droga es capaz de causar la muerte (dosis letal) o un efecto adverso, y la dosis del mismo que causa el efecto terapéutico deseado (dosis efectiva), se denomina:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q033",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 33,
+      "block_refs": [
+        86
+      ],
+      "fact_refs": [
+        "PN-T34-F341"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La droga conocida como “droga de los pobres” que se obtiene mediante la mezcla de hachís y Rivotril (clonazepam), que produce efectos alucinógenos al ser mezclada con alcohol o pegamento es:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q073",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 73,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "PN-T34-F105"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "“El proceso a través del cual una determinada dosis de droga va produciendo un efecto progresivamente menor a medida que se va repitiendo su administración o, lo que es lo mismo, un proceso que obliga a ir aumentando progresivamente la dosis según se repiten las administraciones para producir el efecto original” define, según Bandres, Campos y Velasco (1986).",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q022",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 22,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "PN-T34-F233"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Conforme a las publicaciones del Plan Nacional sobre Drogas, ¿cuál de las nuevas sustancias psicoactivas, asociadas a prácticas sexuales de riesgo, es un potente depresor del sistema nervioso central que inicialmente puede producir sensación de bienestar y euforia, es hidrosoluble y es conocido como “éxtasis líquido”?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q070",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 70,
+      "block_refs": [
+        72
+      ],
+      "fact_refs": [
+        "PN-T34-F285"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué tipo de droga es la mescalina?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q094",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 94,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "PN-T34-F147"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El consumo combinado de heroína y cocaína se le conoce como:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}
