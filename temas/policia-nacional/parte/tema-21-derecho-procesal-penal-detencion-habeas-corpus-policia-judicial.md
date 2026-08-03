@@ -20,7 +20,11 @@ El Derecho procesal penal regula la actuación de los órganos jurisdiccionales 
 - La presunción de inocencia exige actividad probatoria de cargo obtenida y practicada con respeto a las garantías.
 - La detención, la denuncia y el atestado son actuaciones preprocesales o procesales que no sustituyen la sentencia.
 
-<!-- VISUAL PENDIENTE: t21-01-derecho-procesal-penal-y-proceso.webp -->
+<!-- VISUAL:t21-01-derecho-procesal-penal-y-proceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-01-derecho-procesal-penal-y-proceso.webp" alt="Derecho procesal penal y proceso" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho procesal penal y proceso.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -34,7 +38,11 @@ La jurisdicción es la potestad de juzgar y hacer ejecutar lo juzgado, atribuida
 - La jurisdicción penal conoce de las causas y juicios criminales, salvo las materias atribuidas a la jurisdicción militar en su ámbito estrictamente castrense y supuestos constitucionales.
 - El derecho al juez ordinario predeterminado por la ley impide crear un órgano ad hoc para un caso concreto.
 
-<!-- VISUAL PENDIENTE: t21-02-jurisdiccion-penal.webp -->
+<!-- VISUAL:t21-02-jurisdiccion-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-02-jurisdiccion-penal.webp" alt="Jurisdicción penal" width="820">
+</p>
+<p align="center"><em>Infografía: Jurisdicción penal.</em></p>
 
 <!-- FUENTE: CE-T21 -->
 
@@ -48,7 +56,11 @@ La competencia distribuye el ejercicio de la jurisdicción entre los distintos �
 - La competencia territorial fija el lugar cuyo órgano debe conocer y se rige prioritariamente por el lugar de comisión del delito.
 - Jurisdicción y competencia no son sinónimos: la primera expresa potestad estatal y la segunda su reparto entre órganos.
 
-<!-- VISUAL PENDIENTE: t21-03-competencia-concepto-y-criterios.webp -->
+<!-- VISUAL:t21-03-competencia-concepto-y-criterios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-03-competencia-concepto-y-criterios.webp" alt="Competencia: concepto y criterios" width="820">
+</p>
+<p align="center"><em>Infografía: Competencia: concepto y criterios.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -62,7 +74,11 @@ Cuando no consta el lugar del delito, la Ley de Enjuiciamiento Criminal establec
 - La conexión permite el conocimiento conjunto de delitos en los casos previstos legalmente cuando exista relación relevante entre ellos.
 - Las cuestiones de competencia se resuelven por los cauces legales y no autorizan a paralizar diligencias urgentes e inaplazables.
 
-<!-- VISUAL PENDIENTE: t21-04-fueros-territoriales-y-delitos-conexos.webp -->
+<!-- VISUAL:t21-04-fueros-territoriales-y-delitos-conexos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-04-fueros-territoriales-y-delitos-conexos.webp" alt="Fueros territoriales y delitos conexos" width="820">
+</p>
+<p align="center"><em>Infografía: Fueros territoriales y delitos conexos.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -76,7 +92,11 @@ La organización vigente articula Tribunales de Instancia en los partidos judici
 - La Sala Segunda del Tribunal Supremo culmina el orden jurisdiccional penal, sin perjuicio de las competencias constitucionales.
 - El Tribunal del Jurado actúa en el ámbito de las Audiencias Provinciales u otros tribunales y para los delitos expresamente establecidos por su ley orgánica.
 
-<!-- VISUAL PENDIENTE: t21-05-organos-penales-territoriales.webp -->
+<!-- VISUAL:t21-05-organos-penales-territoriales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-05-organos-penales-territoriales.webp" alt="Órganos penales territoriales" width="820">
+</p>
+<p align="center"><em>Infografía: Órganos penales territoriales.</em></p>
 
 <!-- FUENTE: LOPJ-T21 -->
 
@@ -90,7 +110,11 @@ La Audiencia Nacional cuenta con Sala de lo Penal y Sala de Apelación para las 
 - Las antiguas referencias a Juzgados Centrales deben leerse conforme a la implantación de los Tribunales de Instancia introducida por la Ley Orgánica 1/2025.
 - La reforma organizativa no elimina las reglas materiales de competencia; cambia la estructura orgánica en la que se ejercen.
 
-<!-- VISUAL PENDIENTE: t21-06-audiencia-nacional-y-tribunal-central.webp -->
+<!-- VISUAL:t21-06-audiencia-nacional-y-tribunal-central.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-06-audiencia-nacional-y-tribunal-central.webp" alt="Audiencia Nacional y Tribunal Central" width="820">
+</p>
+<p align="center"><em>Infografía: Audiencia Nacional y Tribunal Central.</em></p>
 
 <!-- FUENTE: LOPJ-T21 -->
 
@@ -104,7 +128,11 @@ La denuncia es la comunicación a la autoridad de hechos que pueden constituir d
 - La autoridad debe comprobar los hechos denunciados salvo que no revistan carácter de delito o la denuncia sea manifiestamente falsa.
 - La denuncia se diferencia de la querella, que está sujeta a mayores requisitos y expresa voluntad de ejercer la acción penal.
 
-<!-- VISUAL PENDIENTE: t21-07-denuncia-concepto-y-efectos.webp -->
+<!-- VISUAL:t21-07-denuncia-concepto-y-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-07-denuncia-concepto-y-efectos.webp" alt="Denuncia: concepto y efectos" width="820">
+</p>
+<p align="center"><em>Infografía: Denuncia: concepto y efectos.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -118,7 +146,11 @@ La denuncia puede hacerse por escrito o de palabra, personalmente o por mandatar
 - El denunciante no está obligado a probar los hechos ni a formalizar querella por el mero hecho de denunciar.
 - La denuncia falsa o la simulación de delito pueden generar responsabilidad, pero esa posibilidad no autoriza a desalentar una denuncia de buena fe.
 
-<!-- VISUAL PENDIENTE: t21-08-forma-e-identificacion-de-la-denuncia.webp -->
+<!-- VISUAL:t21-08-forma-e-identificacion-de-la-denuncia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-08-forma-e-identificacion-de-la-denuncia.webp" alt="Forma e identificación de la denuncia" width="820">
+</p>
+<p align="center"><em>Infografía: Forma e identificación de la denuncia.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -132,7 +164,11 @@ Quien presencia la perpetración de un delito público tiene el deber de ponerlo
 - La noticia criminis puede llegar por denuncia, atestado, comunicación oficial u otras vías legítimas.
 - En delitos semipúblicos, la perseguibilidad puede depender de denuncia de la persona legitimada según la norma penal aplicable.
 
-<!-- VISUAL PENDIENTE: t21-09-obligacion-general-de-denunciar.webp -->
+<!-- VISUAL:t21-09-obligacion-general-de-denunciar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-09-obligacion-general-de-denunciar.webp" alt="Obligación general de denunciar" width="820">
+</p>
+<p align="center"><em>Infografía: Obligación general de denunciar.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -146,7 +182,11 @@ La ley exime del deber general de denunciar a quienes no gocen del pleno uso de 
 - Las exenciones familiares no operan en determinados delitos graves cometidos contra menores o personas con discapacidad necesitadas de especial protección.
 - Abogados, procuradores y ministros de culto cuentan con dispensas vinculadas a los hechos conocidos por sus funciones en los términos del artículo 263.
 
-<!-- VISUAL PENDIENTE: t21-10-exenciones-del-deber-de-denunciar.webp -->
+<!-- VISUAL:t21-10-exenciones-del-deber-de-denunciar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-10-exenciones-del-deber-de-denunciar.webp" alt="Exenciones del deber de denunciar" width="820">
+</p>
+<p align="center"><em>Infografía: Exenciones del deber de denunciar.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -160,7 +200,11 @@ La detención es una privación cautelar y provisional de libertad sometida a re
 - La proporcionalidad exige valorar idoneidad, necesidad y equilibrio entre la medida y el fin legítimo.
 - La condición de investigado no equivale automáticamente a la de detenido; puede procederse como investigado no detenido cuando sea suficiente.
 
-<!-- VISUAL PENDIENTE: t21-11-detencion-concepto-y-presupuesto.webp -->
+<!-- VISUAL:t21-11-detencion-concepto-y-presupuesto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-11-detencion-concepto-y-presupuesto.webp" alt="Detención: concepto y presupuesto" width="820">
+</p>
+<p align="center"><em>Infografía: Detención: concepto y presupuesto.</em></p>
 
 <!-- FUENTE: CE-T21 -->
 
@@ -174,7 +218,11 @@ Cualquier persona puede detener a quien intenta cometer un delito en el momento 
 - La detención ciudadana es una facultad en los casos del artículo 490, no una potestad general de investigación.
 - El particular debe entregar al detenido a la autoridad o ponerlo en libertad dentro del plazo legal, sin prolongar su custodia.
 
-<!-- VISUAL PENDIENTE: t21-12-detencion-por-particulares.webp -->
+<!-- VISUAL:t21-12-detencion-por-particulares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-12-detencion-por-particulares.webp" alt="Detención por particulares" width="820">
+</p>
+<p align="center"><em>Infografía: Detención por particulares.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -188,7 +236,11 @@ La autoridad o agente de Policía Judicial debe detener en los supuestos obligat
 - Por simples delitos leves no se detiene, salvo que el presunto autor carezca de domicilio conocido y no preste fianza bastante cuando proceda.
 - La obligación de detener no elimina el juicio de legalidad, necesidad y proporcionalidad exigible en cada intervención.
 
-<!-- VISUAL PENDIENTE: t21-13-obligacion-policial-de-detener.webp -->
+<!-- VISUAL:t21-13-obligacion-policial-de-detener.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-13-obligacion-policial-de-detener.webp" alt="Obligación policial de detener" width="820">
+</p>
+<p align="center"><em>Infografía: Obligación policial de detener.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -202,7 +254,11 @@ La detención preventiva dura solo el tiempo estrictamente necesario para las av
 - El atestado debe reflejar el lugar y la hora de la detención y de la puesta en libertad o a disposición judicial.
 - Agotar automáticamente setenta y dos horas vulnera la exigencia de estricta necesidad cuando las diligencias concluyeron antes.
 
-<!-- VISUAL PENDIENTE: t21-14-duracion-y-puesta-en-libertad-o-a-disposic.webp -->
+<!-- VISUAL:t21-14-duracion-y-puesta-en-libertad-o-a-disposic.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-14-duracion-y-puesta-en-libertad-o-a-disposic.webp" alt="Duración y puesta en libertad o a disposición" width="820">
+</p>
+<p align="center"><em>Infografía: Duración y puesta en libertad o a disposición.</em></p>
 
 <!-- FUENTE: CE-T21 -->
 
@@ -216,7 +272,11 @@ El detenido debe recibir inmediatamente información escrita, sencilla, accesibl
 - Debe acceder a los elementos esenciales de las actuaciones necesarios para impugnar la legalidad de la detención.
 - La información incluye el plazo máximo legal de detención y el procedimiento para impugnar su legalidad.
 
-<!-- VISUAL PENDIENTE: t21-15-informacion-silencio-y-no-autoincriminacio.webp -->
+<!-- VISUAL:t21-15-informacion-silencio-y-no-autoincriminacio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-15-informacion-silencio-y-no-autoincriminacio.webp" alt="Información, silencio y no autoincriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Información, silencio y no autoincriminación.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -230,7 +290,11 @@ El detenido tiene derecho a designar abogado y a ser asistido sin demora injusti
 - Tiene derecho a comunicarse telefónicamente, sin demora injustificada, con un tercero de su elección en los términos legales.
 - La entrevista reservada con el abogado puede celebrarse antes y después de la declaración, con las excepciones previstas por ley.
 
-<!-- VISUAL PENDIENTE: t21-16-asistencia-letrada-y-comunicaciones.webp -->
+<!-- VISUAL:t21-16-asistencia-letrada-y-comunicaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-16-asistencia-letrada-y-comunicaciones.webp" alt="Asistencia letrada y comunicaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Asistencia letrada y comunicaciones.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -244,7 +308,11 @@ El extranjero detenido tiene derecho a que se comunique su detención a la ofici
 - La información y la práctica de derechos deben adaptarse a la edad, madurez, discapacidad y demás circunstancias personales.
 - Las personas extranjeras deben recibir un trato no discriminatorio; la situación administrativa no reduce las garantías de la detención.
 
-<!-- VISUAL PENDIENTE: t21-17-extranjeros-interprete-salud-y-accesibilid.webp -->
+<!-- VISUAL:t21-17-extranjeros-interprete-salud-y-accesibilid.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-17-extranjeros-interprete-salud-y-accesibilid.webp" alt="Extranjeros, intérprete, salud y accesibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Extranjeros, intérprete, salud y accesibilidad.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -258,7 +326,11 @@ La detención de una persona menor de edad se comunica inmediatamente al Ministe
 - La valoración policial debe detectar riesgo de autolesión, enfermedad, discapacidad, embarazo u otras vulnerabilidades que exijan ajustes o protección.
 - La pertenencia a un colectivo vulnerable no justifica por sí sola la detención; obliga a reforzar garantías y a individualizar la actuación.
 
-<!-- VISUAL PENDIENTE: t21-18-menores-y-personas-vulnerables.webp -->
+<!-- VISUAL:t21-18-menores-y-personas-vulnerables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-18-menores-y-personas-vulnerables.webp" alt="Menores y personas vulnerables" width="820">
+</p>
+<p align="center"><em>Infografía: Menores y personas vulnerables.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -272,7 +344,11 @@ La Instrucción 1/2024 de la Secretaría de Estado de Seguridad aprueba el proce
 - El procedimiento exige trato digno, información accesible, especial atención a personas vulnerables y revisión periódica de la necesidad de la medida.
 - Las reglas internas del procedimiento se interpretan subordinadas a la Constitución, la ley y las garantías judiciales.
 
-<!-- VISUAL PENDIENTE: t21-19-procedimiento-integral-de-detencion-polici.webp -->
+<!-- VISUAL:t21-19-procedimiento-integral-de-detencion-polici.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-19-procedimiento-integral-de-detencion-polici.webp" alt="Procedimiento integral de detención policial" width="820">
+</p>
+<p align="center"><em>Infografía: Procedimiento integral de detención policial.</em></p>
 
 <!-- FUENTE: INT-1-2024-T21 -->
 
@@ -286,7 +362,11 @@ El uso de la fuerza durante la detención requiere habilitación, necesidad, con
 - La custodia exige vigilancia adecuada, documentación de incidencias y atención inmediata ante riesgos para la salud.
 - Ninguna finalidad investigadora justifica tortura, trato inhumano, castigo o presión para obtener una confesión.
 
-<!-- VISUAL PENDIENTE: t21-20-uso-de-la-fuerza-cacheo-y-custodia.webp -->
+<!-- VISUAL:t21-20-uso-de-la-fuerza-cacheo-y-custodia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-20-uso-de-la-fuerza-cacheo-y-custodia.webp" alt="Uso de la fuerza, cacheo y custodia" width="820">
+</p>
+<p align="center"><em>Infografía: Uso de la fuerza, cacheo y custodia.</em></p>
 
 <!-- FUENTE: INT-1-2024-T21 -->
 
@@ -300,7 +380,11 @@ La incomunicación es excepcional, requiere resolución judicial motivada y solo
 - La incomunicación puede limitar temporalmente derechos concretos, pero no suprime el núcleo de garantías ni el control judicial.
 - Los menores de dieciséis años no pueden ser objeto de detención incomunicada.
 
-<!-- VISUAL PENDIENTE: t21-21-detencion-incomunicada-y-terrorismo.webp -->
+<!-- VISUAL:t21-21-detencion-incomunicada-y-terrorismo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-21-detencion-incomunicada-y-terrorismo.webp" alt="Detención incomunicada y terrorismo" width="820">
+</p>
+<p align="center"><em>Infografía: Detención incomunicada y terrorismo.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 
@@ -314,7 +398,11 @@ El habeas corpus procura la inmediata puesta a disposición judicial de toda per
 - La detención se vuelve ilegal si supera el plazo legal o si, transcurrido este, la persona no es liberada o entregada al juez más próximo.
 - Existe detención ilegal cuando no se respetan los derechos constitucionales y procesales de la persona privada de libertad.
 
-<!-- VISUAL PENDIENTE: t21-22-habeas-corpus-detencion-ilegal.webp -->
+<!-- VISUAL:t21-22-habeas-corpus-detencion-ilegal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-22-habeas-corpus-detencion-ilegal.webp" alt="Habeas corpus: detención ilegal" width="820">
+</p>
+<p align="center"><em>Infografía: Habeas corpus: detención ilegal.</em></p>
 
 <!-- FUENTE: LOHC-T21 -->
 
@@ -328,7 +416,11 @@ Puede instar habeas corpus la persona detenida, su cónyuge o pareja análoga, d
 - Es competente el juez de instrucción del lugar donde se halle la persona; subsidiariamente, el del lugar de detención y, en último término, el de las últimas noticias.
 - En menores sujetos a la Ley Orgánica 5/2000 la competencia corresponde al juez de menores del lugar de custodia, con las especialidades legales.
 
-<!-- VISUAL PENDIENTE: t21-23-habeas-corpus-legitimacion-y-juez-competen.webp -->
+<!-- VISUAL:t21-23-habeas-corpus-legitimacion-y-juez-competen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-23-habeas-corpus-legitimacion-y-juez-competen.webp" alt="Habeas corpus: legitimación y juez competente" width="820">
+</p>
+<p align="center"><em>Infografía: Habeas corpus: legitimación y juez competente.</em></p>
 
 <!-- FUENTE: LOHC-T21 -->
 
@@ -342,7 +434,11 @@ La autoridad custodiante debe comunicar inmediatamente al juez la solicitud de h
 - Desde el auto de incoación, el juez debe practicar las actuaciones y resolver en el plazo máximo de veinticuatro horas.
 - Si aprecia ilegalidad, puede ordenar libertad, continuación de la custodia con garantías distintas o inmediata puesta a disposición judicial.
 
-<!-- VISUAL PENDIENTE: t21-24-habeas-corpus-tramitacion-y-resolucion.webp -->
+<!-- VISUAL:t21-24-habeas-corpus-tramitacion-y-resolucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-24-habeas-corpus-tramitacion-y-resolucion.webp" alt="Habeas corpus: tramitación y resolución" width="820">
+</p>
+<p align="center"><em>Infografía: Habeas corpus: tramitación y resolución.</em></p>
 
 <!-- FUENTE: LOHC-T21 -->
 
@@ -356,7 +452,11 @@ El Ministerio Fiscal promueve la acción de la justicia en defensa de la legalid
 - Su actuación se sujeta en todo caso a los principios de legalidad e imparcialidad.
 - La dependencia jerárquica interna del Ministerio Fiscal no equivale a dependencia de jueces ni elimina la obligación de objetividad.
 
-<!-- VISUAL PENDIENTE: t21-25-ministerio-fiscal-naturaleza-y-principios.webp -->
+<!-- VISUAL:t21-25-ministerio-fiscal-naturaleza-y-principios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-25-ministerio-fiscal-naturaleza-y-principios.webp" alt="Ministerio Fiscal: naturaleza y principios" width="820">
+</p>
+<p align="center"><em>Infografía: Ministerio Fiscal: naturaleza y principios.</em></p>
 
 <!-- FUENTE: EOMF-T21 -->
 
@@ -370,7 +470,11 @@ El Ministerio Fiscal ejercita acciones penales y civiles dimanantes de delitos u
 - Las diligencias fiscales no pueden adoptar medidas cautelares o limitativas de derechos, salvo detención en los supuestos legalmente permitidos.
 - La duración ordinaria de las diligencias de investigación fiscal no puede exceder de seis meses, salvo prórroga motivada del Fiscal General del Estado y regímenes especiales.
 
-<!-- VISUAL PENDIENTE: t21-26-funciones-e-investigacion-del-ministerio-f.webp -->
+<!-- VISUAL:t21-26-funciones-e-investigacion-del-ministerio-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-26-funciones-e-investigacion-del-ministerio-f.webp" alt="Funciones e investigación del Ministerio Fiscal" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones e investigación del Ministerio Fiscal.</em></p>
 
 <!-- FUENTE: EOMF-T21 -->
 
@@ -384,7 +488,11 @@ La Policía Judicial depende de jueces, tribunales y Ministerio Fiscal en sus fu
 - La Policía Judicial comunica a la autoridad judicial o fiscal los delitos conocidos y practica las diligencias urgentes e inaplazables.
 - El atestado documenta actuaciones policiales, pero sus afirmaciones no sustituyen la prueba practicada con contradicción en juicio.
 
-<!-- VISUAL PENDIENTE: t21-27-policia-judicial-mision.webp -->
+<!-- VISUAL:t21-27-policia-judicial-mision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-27-policia-judicial-mision.webp" alt="Policía Judicial: misión" width="820">
+</p>
+<p align="center"><em>Infografía: Policía Judicial: misión.</em></p>
 
 <!-- FUENTE: CE-T21 -->
 
@@ -398,7 +506,11 @@ La función de Policía Judicial corresponde genéricamente a los cuerpos y agen
 - La dependencia orgánica administrativa coexiste con la dependencia funcional respecto de la autoridad judicial o fiscal que dirige la investigación.
 - Los funcionarios comisionados no pueden ser removidos de una investigación concreta sino en los supuestos y con las garantías reglamentarias.
 
-<!-- VISUAL PENDIENTE: t21-28-policia-judicial-composicion-y-unidades.webp -->
+<!-- VISUAL:t21-28-policia-judicial-composicion-y-unidades.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-28-policia-judicial-composicion-y-unidades.webp" alt="Policía Judicial: composición y unidades" width="820">
+</p>
+<p align="center"><em>Infografía: Policía Judicial: composición y unidades.</em></p>
 
 <!-- FUENTE: RD769-T21 -->
 
@@ -412,7 +524,11 @@ La secuencia correcta es comprobar habilitación, valorar necesidad, informar de
 - La denuncia comunica hechos; la querella ejercita acción y el atestado documenta la investigación policial.
 - Las referencias históricas sin plantilla oficial verificable permanecen en cuarentena y no acreditan por sí solas una respuesta oficial.
 
-<!-- VISUAL PENDIENTE: t21-29-secuencia-policial-y-trampas-de-examen.webp -->
+<!-- VISUAL:t21-29-secuencia-policial-y-trampas-de-examen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-21/t21-29-secuencia-policial-y-trampas-de-examen.webp" alt="Secuencia policial y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencia policial y trampas de examen.</em></p>
 
 <!-- FUENTE: LECRIM-T21 -->
 

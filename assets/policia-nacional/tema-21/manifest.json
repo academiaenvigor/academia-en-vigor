@@ -3,15 +3,15 @@
   "opposition": "policia-nacional",
   "topic": "tema-21",
   "content_version": "1.0.0",
-  "visual_version": "0.1.0",
-  "status": "planned",
+  "visual_version": "1.0.0",
+  "status": "integrated",
   "totals": {
     "resources": 29,
-    "integrated": 0,
-    "planned": 29
+    "integrated": 29,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-03",
   "resources": [
     {
       "id": "T21-V01",
@@ -19,14 +19,15 @@
       "title": "Derecho procesal penal y proceso",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derecho procesal penal y proceso mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derecho procesal penal y proceso mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Jurisdicción penal",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar jurisdicción penal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar jurisdicción penal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Competencia: concepto y criterios",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar competencia: concepto y criterios mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar competencia: concepto y criterios mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Fueros territoriales y delitos conexos",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar fueros territoriales y delitos conexos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar fueros territoriales y delitos conexos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Órganos penales territoriales",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar órganos penales territoriales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar órganos penales territoriales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Audiencia Nacional y Tribunal Central",
       "type": "ilustracion_simple",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar audiencia nacional y tribunal central mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar audiencia nacional y tribunal central mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Denuncia: concepto y efectos",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar denuncia: concepto y efectos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar denuncia: concepto y efectos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Forma e identificación de la denuncia",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar forma e identificación de la denuncia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar forma e identificación de la denuncia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Obligación general de denunciar",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar obligación general de denunciar mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar obligación general de denunciar mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Exenciones del deber de denunciar",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar exenciones del deber de denunciar mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar exenciones del deber de denunciar mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Detención: concepto y presupuesto",
       "type": "ilustracion_simple",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar detención: concepto y presupuesto mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar detención: concepto y presupuesto mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Detención por particulares",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar detención por particulares mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar detención por particulares mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Obligación policial de detener",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar obligación policial de detener mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar obligación policial de detener mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Duración y puesta en libertad o a disposición",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar duración y puesta en libertad o a disposición mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar duración y puesta en libertad o a disposición mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Información, silencio y no autoincriminación",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar información, silencio y no autoincriminación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar información, silencio y no autoincriminación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Asistencia letrada y comunicaciones",
       "type": "ilustracion_simple",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar asistencia letrada y comunicaciones mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar asistencia letrada y comunicaciones mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Extranjeros, intérprete, salud y accesibilidad",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar extranjeros, intérprete, salud y accesibilidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar extranjeros, intérprete, salud y accesibilidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Menores y personas vulnerables",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar menores y personas vulnerables mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar menores y personas vulnerables mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Procedimiento integral de detención policial",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar procedimiento integral de detención policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar procedimiento integral de detención policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Uso de la fuerza, cacheo y custodia",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar uso de la fuerza, cacheo y custodia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar uso de la fuerza, cacheo y custodia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Detención incomunicada y terrorismo",
       "type": "ilustracion_simple",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar detención incomunicada y terrorismo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar detención incomunicada y terrorismo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Habeas corpus: detención ilegal",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar habeas corpus: detención ilegal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar habeas corpus: detención ilegal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Habeas corpus: legitimación y juez competente",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar habeas corpus: legitimación y juez competente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar habeas corpus: legitimación y juez competente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Habeas corpus: tramitación y resolución",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar habeas corpus: tramitación y resolución mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar habeas corpus: tramitación y resolución mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Ministerio Fiscal: naturaleza y principios",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ministerio fiscal: naturaleza y principios mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ministerio fiscal: naturaleza y principios mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Funciones e investigación del Ministerio Fiscal",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar funciones e investigación del ministerio fiscal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar funciones e investigación del ministerio fiscal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Policía Judicial: misión",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar policía judicial: misión mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar policía judicial: misión mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Policía Judicial: composición y unidades",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar policía judicial: composición y unidades mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar policía judicial: composición y unidades mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,46 +495,17 @@
       "title": "Secuencia policial y trampas de examen",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar secuencia policial y trampas de examen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar secuencia policial y trampas de examen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    "T21-V01",
-    "T21-V02",
-    "T21-V03",
-    "T21-V04",
-    "T21-V05",
-    "T21-V06",
-    "T21-V07",
-    "T21-V08",
-    "T21-V09",
-    "T21-V10",
-    "T21-V11",
-    "T21-V12",
-    "T21-V13",
-    "T21-V14",
-    "T21-V15",
-    "T21-V16",
-    "T21-V17",
-    "T21-V18",
-    "T21-V19",
-    "T21-V20",
-    "T21-V21",
-    "T21-V22",
-    "T21-V23",
-    "T21-V24",
-    "T21-V25",
-    "T21-V26",
-    "T21-V27",
-    "T21-V28",
-    "T21-V29"
-  ]
+  "planned_resources": []
 }
