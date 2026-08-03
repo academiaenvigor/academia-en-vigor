@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 33,
+  "titulo": "La seguridad. Concepto. Seguridad individual y seguridad colectiva. Seguridad pública y seguridad privada. La inseguridad. Teorías explicativas de la delincuencia: concepto, modelos explicativos y clases de delincuencia.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 11,
+  "con_bloque_asignado": 11,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "31": 1,
+    "36": 1,
+    "47": 1,
+    "39": 1,
+    "42": 2,
+    "49": 1,
+    "38": 1,
+    "46": 1,
+    "43": 1,
+    "59": 1
+  },
+  "por_promocion": {
+    "P34": 1,
+    "P35": 2,
+    "P36": 2,
+    "P37": 4,
+    "P38": 1,
+    "P40": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p34-a-q083",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 83,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T33-F121"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué autor desarrolló como producto de la observación del crimen en las estadísticas las Leyes Térmicas de la Delincuencia?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q022",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 22,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "PN-T33-F141"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según la Teoría de Enrico Ferri, son factores del delito:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q070",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 70,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "PN-T33-F185"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La «Teoría de la Anomia» de Robert King Merton establece, entre otro, como tipos de adaptación:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q010",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 10,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "PN-T33-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según la teoría del somatotipo de Sheldon, existen tres tipos:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q025",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 25,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "PN-T33-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El comportamiento antisocial se adquiere por observación, imitando modelos cuyos resultados son recompensados de manera positiva o evitan los negativos. A esta teoría desarrollada por Bandura se la conoce como:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q040",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 40,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "PN-T33-F167"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según la Teoría del Aprendizaje Social de Bandura, la exposición a un modelo puede producir uno de los siguientes efectos:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q048",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 48,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "PN-T33-F193"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La teoría social formulada por R.E.Park y E.Burgess en la denominada Escuela de Chicago, se incluye en:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q077",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 77,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "PN-T33-F149"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En la biotipología criminal, destaca dentro de la escuela alemana Ernest Kretschmer. Señale la afirmación correcta:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q081",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 81,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "PN-T33-F181"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Si hablamos de las teorías explicativas de la delincuencia, la Teoría de la Anomia concretamente se relaciona con las teorías:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q079",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 79,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "PN-T33-F169"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Quién es el autor de la teoría de la asociación diferencial?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q065",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 65,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "PN-T33-F233"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "A finales de los años 70, Lawrence E. Cohen y Marcus Felson, establecieron que el delito se produce cuando coinciden tres elementos: el delincuente tiene una motivación para realizarlo, la víctima es algo alcanzable y el control social que protegería a la víctima falla. Esta teoría se llama:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}
