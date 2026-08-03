@@ -1,0 +1,1523 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-31",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 47,
+    "integrated": 0,
+    "planned": 47
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T31-V01",
+      "file": "t31-il-01-migracion-y-movimiento-migratorio.webp",
+      "title": "Migración y movimiento migratorio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero pregunta si cambia la residencia habitual; después clasifica frontera, duración y causa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V02",
+      "file": "t31-02-inmigracion-emigracion-y-retorno.webp",
+      "title": "Inmigración, emigración y retorno",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cambia el punto de observación: salida, llegada o regreso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V03",
+      "file": "t31-03-flujo-stock-y-saldo-migratorio.webp",
+      "title": "Flujo, stock y saldo migratorio",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Flujo es película; stock es fotografía; saldo resta entradas menos salidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V04",
+      "file": "t31-04-migracion-interna-e-internacional.webp",
+      "title": "Migración interna e internacional",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frontera internacional separa la categoría interna de la internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V05",
+      "file": "t31-il-05-migracion-regular-e-irregular.webp",
+      "title": "Migración regular e irregular",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La regularidad describe una situación jurídica cambiante, no la dignidad de la persona.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V06",
+      "file": "t31-06-duracion-temporal-permanente-circular-y-estacional.webp",
+      "title": "Duración: temporal, permanente, circular y estacional",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Temporal limita tiempo; circular repite trayectos; estacional sigue el calendario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V07",
+      "file": "t31-07-migracion-voluntaria-dirigida-y-forzada.webp",
+      "title": "Migración voluntaria, dirigida y forzada",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No fuerces una realidad mixta dentro de una sola caja: examina libertad, amenaza y alternativas reales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V08",
+      "file": "t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp",
+      "title": "Causas: factores de expulsión, atracción y obstáculos",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla de cuatro: origen, destino, obstáculos y percepción personal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V09",
+      "file": "t31-09-leyes-migratorias-de-ravenstein.webp",
+      "title": "Leyes migratorias de Ravenstein",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son generalizaciones históricas: corta distancia, etapas, centros y contracorrientes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V10",
+      "file": "t31-10-modelo-de-lee-y-seleccion-migratoria.webp",
+      "title": "Modelo de Lee y selección migratoria",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lee añade filtros y percepción personal al simple empuje y atracción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V11",
+      "file": "t31-11-teoria-neoclasica-niveles-macro-y-micro.webp",
+      "title": "Teoría neoclásica: niveles macro y micro",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Macro compara mercados; micro calcula expectativas; ninguno convierte el movimiento en automático.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V12",
+      "file": "t31-12-nueva-economia-de-la-migracion-laboral.webp",
+      "title": "Nueva economía de la migración laboral",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La unidad de decisión puede ser el hogar que reparte riesgos entre lugares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V13",
+      "file": "t31-13-mercado-de-trabajo-dual-o-segmentado.webp",
+      "title": "Mercado de trabajo dual o segmentado",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira la demanda del destino y los puestos que el mercado coloca en su segmento secundario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V14",
+      "file": "t31-14-sistema-mundial-y-vinculos-historicos.webp",
+      "title": "Sistema mundial y vínculos históricos",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las rutas actuales conservan huellas de comercio, colonización, lengua y transporte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V15",
+      "file": "t31-il-15-redes-cadenas-y-causacion-acumulativa.webp",
+      "title": "Redes, cadenas y causación acumulativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Quien llega primero puede convertir una ruta difícil en una ruta posible para su red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V16",
+      "file": "t31-16-efectos-en-origen-y-destino.webp",
+      "title": "Efectos en origen y destino",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No memorices propaganda con signo fijo: separa territorio, plazo, indicador y política.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V17",
+      "file": "t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp",
+      "title": "Primeras dispersiones humanas y revolución neolítica",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Evita proyectar pasaportes modernos sobre movimientos de miles de años.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V18",
+      "file": "t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp",
+      "title": "Colonizaciones antiguas, invasiones y diásporas",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Comercio, imperio, guerra y dispersión pueden coexistir en el mismo período.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V19",
+      "file": "t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp",
+      "title": "Expansión atlántica y esclavitud transatlántica",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La palabra clave es coacción: transporte, explotación y pérdida de libertad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V20",
+      "file": "t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp",
+      "title": "Gran emigración transoceánica del siglo XIX y comienzos del XX",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Población, industria y vapor multiplican el flujo; los controles deciden quién entra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V21",
+      "file": "t31-21-guerras-mundiales-fronteras-y-refugio.webp",
+      "title": "Guerras mundiales, fronteras y refugio",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El siglo XX une desplazamiento masivo, fracaso de protección y construcción del sistema de refugio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V22",
+      "file": "t31-22-migraciones-de-posguerra-y-descolonizacion.webp",
+      "title": "Migraciones de posguerra y descolonización",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lo temporal puede hacerse permanente cuando aparecen familia, arraigo y nuevas generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V23",
+      "file": "t31-23-migraciones-interiores-en-espana.webp",
+      "title": "Migraciones interiores en España",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: España también migra por dentro: del campo a la ciudad y después entre áreas metropolitanas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V24",
+      "file": "t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp",
+      "title": "España: de país emigrante a país de inmigración",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La secuencia útil es emigración, retorno, inmigración y movilidad de doble sentido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V25",
+      "file": "t31-25-migraciones-actuales-y-causas-mixtas.webp",
+      "title": "Migraciones actuales y causas mixtas",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ruta compartida no significa causa ni protección compartidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V26",
+      "file": "t31-26-corredores-redes-y-globalizacion.webp",
+      "title": "Corredores, redes y globalización",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mapa real tiene muchos ejes: Norte-Sur, Sur-Sur, proximidad y vínculos históricos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V27",
+      "file": "t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp",
+      "title": "Refugiados, solicitantes de asilo y desplazados internos",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres preguntas: ¿cruzó frontera?, ¿pidió protección?, ¿ya fue reconocido?",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V28",
+      "file": "t31-il-28-movilidad-ambiental-y-cambio-climatico.webp",
+      "title": "Movilidad ambiental y cambio climático",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ambiente multiplica riesgos; no crea por sí solo una etiqueta jurídica universal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V29",
+      "file": "t31-29-trafico-ilicito-y-trata-de-personas.webp",
+      "title": "Tráfico ilícito y trata de personas",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tráfico cobra por cruzar; trata controla para explotar; pueden conectarse, pero no se confunden.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V30",
+      "file": "t31-30-remesas-desarrollo-y-fuga-de-talento.webp",
+      "title": "Remesas, desarrollo y fuga de talento",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dinero y conocimiento pueden circular; el efecto no es automáticamente bueno ni malo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V31",
+      "file": "t31-31-espana-fotografia-migratoria-con-fecha.webp",
+      "title": "España: fotografía migratoria con fecha",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Toda cifra lleva matrícula: fuente, fecha, operación y estado provisional o definitivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V32",
+      "file": "t31-il-32-integracion-social-concepto.webp",
+      "title": "Integración social: concepto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Papeles, empleo y convivencia son piezas; ninguna por sí sola completa la integración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V33",
+      "file": "t31-33-asimilacion.webp",
+      "title": "Asimilación",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asimilar acerca hacia una cultura dominante; integrar permite pertenecer sin desaparecer.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V34",
+      "file": "t31-il-34-melting-pot-y-salad-bowl.webp",
+      "title": "Melting pot y salad bowl",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Crisol funde ingredientes; ensaladera los mantiene reconocibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V35",
+      "file": "t31-35-multiculturalismo-e-interculturalidad.webp",
+      "title": "Multiculturalismo e interculturalidad",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Multi constata diversidad; inter exige relación, igualdad y aprendizaje recíproco.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V36",
+      "file": "t31-36-integracion-como-proceso-bidireccional-y-transversal.webp",
+      "title": "Integración como proceso bidireccional y transversal",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La integración no es una puerta de un solo sentido ni una ventanilla única.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V37",
+      "file": "t31-37-dimensiones-de-la-integracion.webp",
+      "title": "Dimensiones de la integración",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuatro lentes: estatus, recursos, relaciones y pertenencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V38",
+      "file": "t31-il-38-cohesion-social-confianza-y-pertenencia.webp",
+      "title": "Cohesión social, confianza y pertenencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cohesión es poder discrepar, participar y cooperar sin quedar fuera del nosotros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V39",
+      "file": "t31-39-barreras-discriminacion-y-segregacion.webp",
+      "title": "Barreras, discriminación y segregación",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca la puerta cerrada concreta: norma, trámite, coste, idioma, lugar o trato discriminatorio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V40",
+      "file": "t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp",
+      "title": "Duelo migratorio y síndrome de Ulises",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La migración no es patología; el riesgo aparece cuando pérdidas y estresores extremos se acumulan.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V41",
+      "file": "t31-41-plan-de-accion-de-la-ue-2021-2027.webp",
+      "title": "Plan de Acción de la UE 2021-2027",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza cuatro ámbitos: educación, empleo, salud y vivienda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V42",
+      "file": "t31-42-integracion-en-la-ley-organica-4-2000.webp",
+      "title": "Integración en la Ley Orgánica 4/2000",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fórmula legal une plena integración, diversidad, transversalidad, participación y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V43",
+      "file": "t31-43-marco-estrategico-2023-2027.webp",
+      "title": "Marco Estratégico 2023-2027",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No arrastres el plan caducado: el marco vigente es 2023-2027 y tiene naturaleza programática.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V44",
+      "file": "t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp",
+      "title": "Foro para la Integración Social de los Inmigrantes",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Función: consultar y asesorar; dato nuevo: 31 vocalías desde julio de 2026.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V45",
+      "file": "t31-45-opi-y-oberaxe.webp",
+      "title": "OPI y OBERAXE",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: OPI observa migraciones; OBERAXE observa racismo y xenofobia; ninguno juzga.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V46",
+      "file": "t31-46-oim-y-acnur-mandatos-distintos.webp",
+      "title": "OIM y ACNUR: mandatos distintos",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: OIM mira la movilidad migratoria; ACNUR centra la protección internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V47",
+      "file": "t31-47-glosario-de-movilidad-y-proteccion.webp",
+      "title": "Glosario de movilidad y protección",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Reasentamiento cruza desde un primer asilo a un tercer Estado; reubicación redistribuye dentro del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T31-V01",
+      "file": "t31-il-01-migracion-y-movimiento-migratorio.webp",
+      "title": "Migración y movimiento migratorio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero pregunta si cambia la residencia habitual; después clasifica frontera, duración y causa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V02",
+      "file": "t31-02-inmigracion-emigracion-y-retorno.webp",
+      "title": "Inmigración, emigración y retorno",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cambia el punto de observación: salida, llegada o regreso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V03",
+      "file": "t31-03-flujo-stock-y-saldo-migratorio.webp",
+      "title": "Flujo, stock y saldo migratorio",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Flujo es película; stock es fotografía; saldo resta entradas menos salidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V04",
+      "file": "t31-04-migracion-interna-e-internacional.webp",
+      "title": "Migración interna e internacional",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La frontera internacional separa la categoría interna de la internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V05",
+      "file": "t31-il-05-migracion-regular-e-irregular.webp",
+      "title": "Migración regular e irregular",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La regularidad describe una situación jurídica cambiante, no la dignidad de la persona.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V06",
+      "file": "t31-06-duracion-temporal-permanente-circular-y-estacional.webp",
+      "title": "Duración: temporal, permanente, circular y estacional",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Temporal limita tiempo; circular repite trayectos; estacional sigue el calendario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V07",
+      "file": "t31-07-migracion-voluntaria-dirigida-y-forzada.webp",
+      "title": "Migración voluntaria, dirigida y forzada",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No fuerces una realidad mixta dentro de una sola caja: examina libertad, amenaza y alternativas reales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V08",
+      "file": "t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp",
+      "title": "Causas: factores de expulsión, atracción y obstáculos",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla de cuatro: origen, destino, obstáculos y percepción personal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V09",
+      "file": "t31-09-leyes-migratorias-de-ravenstein.webp",
+      "title": "Leyes migratorias de Ravenstein",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son generalizaciones históricas: corta distancia, etapas, centros y contracorrientes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V10",
+      "file": "t31-10-modelo-de-lee-y-seleccion-migratoria.webp",
+      "title": "Modelo de Lee y selección migratoria",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lee añade filtros y percepción personal al simple empuje y atracción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V11",
+      "file": "t31-11-teoria-neoclasica-niveles-macro-y-micro.webp",
+      "title": "Teoría neoclásica: niveles macro y micro",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Macro compara mercados; micro calcula expectativas; ninguno convierte el movimiento en automático.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V12",
+      "file": "t31-12-nueva-economia-de-la-migracion-laboral.webp",
+      "title": "Nueva economía de la migración laboral",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La unidad de decisión puede ser el hogar que reparte riesgos entre lugares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V13",
+      "file": "t31-13-mercado-de-trabajo-dual-o-segmentado.webp",
+      "title": "Mercado de trabajo dual o segmentado",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira la demanda del destino y los puestos que el mercado coloca en su segmento secundario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V14",
+      "file": "t31-14-sistema-mundial-y-vinculos-historicos.webp",
+      "title": "Sistema mundial y vínculos históricos",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las rutas actuales conservan huellas de comercio, colonización, lengua y transporte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V15",
+      "file": "t31-il-15-redes-cadenas-y-causacion-acumulativa.webp",
+      "title": "Redes, cadenas y causación acumulativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Quien llega primero puede convertir una ruta difícil en una ruta posible para su red.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V16",
+      "file": "t31-16-efectos-en-origen-y-destino.webp",
+      "title": "Efectos en origen y destino",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No memorices propaganda con signo fijo: separa territorio, plazo, indicador y política.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V17",
+      "file": "t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp",
+      "title": "Primeras dispersiones humanas y revolución neolítica",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Evita proyectar pasaportes modernos sobre movimientos de miles de años.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V18",
+      "file": "t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp",
+      "title": "Colonizaciones antiguas, invasiones y diásporas",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Comercio, imperio, guerra y dispersión pueden coexistir en el mismo período.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V19",
+      "file": "t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp",
+      "title": "Expansión atlántica y esclavitud transatlántica",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La palabra clave es coacción: transporte, explotación y pérdida de libertad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V20",
+      "file": "t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp",
+      "title": "Gran emigración transoceánica del siglo XIX y comienzos del XX",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Población, industria y vapor multiplican el flujo; los controles deciden quién entra.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V21",
+      "file": "t31-21-guerras-mundiales-fronteras-y-refugio.webp",
+      "title": "Guerras mundiales, fronteras y refugio",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El siglo XX une desplazamiento masivo, fracaso de protección y construcción del sistema de refugio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V22",
+      "file": "t31-22-migraciones-de-posguerra-y-descolonizacion.webp",
+      "title": "Migraciones de posguerra y descolonización",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lo temporal puede hacerse permanente cuando aparecen familia, arraigo y nuevas generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V23",
+      "file": "t31-23-migraciones-interiores-en-espana.webp",
+      "title": "Migraciones interiores en España",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: España también migra por dentro: del campo a la ciudad y después entre áreas metropolitanas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V24",
+      "file": "t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp",
+      "title": "España: de país emigrante a país de inmigración",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La secuencia útil es emigración, retorno, inmigración y movilidad de doble sentido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V25",
+      "file": "t31-25-migraciones-actuales-y-causas-mixtas.webp",
+      "title": "Migraciones actuales y causas mixtas",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ruta compartida no significa causa ni protección compartidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V26",
+      "file": "t31-26-corredores-redes-y-globalizacion.webp",
+      "title": "Corredores, redes y globalización",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El mapa real tiene muchos ejes: Norte-Sur, Sur-Sur, proximidad y vínculos históricos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V27",
+      "file": "t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp",
+      "title": "Refugiados, solicitantes de asilo y desplazados internos",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres preguntas: ¿cruzó frontera?, ¿pidió protección?, ¿ya fue reconocido?",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V28",
+      "file": "t31-il-28-movilidad-ambiental-y-cambio-climatico.webp",
+      "title": "Movilidad ambiental y cambio climático",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El ambiente multiplica riesgos; no crea por sí solo una etiqueta jurídica universal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V29",
+      "file": "t31-29-trafico-ilicito-y-trata-de-personas.webp",
+      "title": "Tráfico ilícito y trata de personas",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tráfico cobra por cruzar; trata controla para explotar; pueden conectarse, pero no se confunden.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V30",
+      "file": "t31-30-remesas-desarrollo-y-fuga-de-talento.webp",
+      "title": "Remesas, desarrollo y fuga de talento",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Dinero y conocimiento pueden circular; el efecto no es automáticamente bueno ni malo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V31",
+      "file": "t31-31-espana-fotografia-migratoria-con-fecha.webp",
+      "title": "España: fotografía migratoria con fecha",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Toda cifra lleva matrícula: fuente, fecha, operación y estado provisional o definitivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V32",
+      "file": "t31-il-32-integracion-social-concepto.webp",
+      "title": "Integración social: concepto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Papeles, empleo y convivencia son piezas; ninguna por sí sola completa la integración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V33",
+      "file": "t31-33-asimilacion.webp",
+      "title": "Asimilación",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asimilar acerca hacia una cultura dominante; integrar permite pertenecer sin desaparecer.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V34",
+      "file": "t31-il-34-melting-pot-y-salad-bowl.webp",
+      "title": "Melting pot y salad bowl",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Crisol funde ingredientes; ensaladera los mantiene reconocibles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V35",
+      "file": "t31-35-multiculturalismo-e-interculturalidad.webp",
+      "title": "Multiculturalismo e interculturalidad",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Multi constata diversidad; inter exige relación, igualdad y aprendizaje recíproco.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V36",
+      "file": "t31-36-integracion-como-proceso-bidireccional-y-transversal.webp",
+      "title": "Integración como proceso bidireccional y transversal",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La integración no es una puerta de un solo sentido ni una ventanilla única.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V37",
+      "file": "t31-37-dimensiones-de-la-integracion.webp",
+      "title": "Dimensiones de la integración",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuatro lentes: estatus, recursos, relaciones y pertenencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V38",
+      "file": "t31-il-38-cohesion-social-confianza-y-pertenencia.webp",
+      "title": "Cohesión social, confianza y pertenencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cohesión es poder discrepar, participar y cooperar sin quedar fuera del nosotros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V39",
+      "file": "t31-39-barreras-discriminacion-y-segregacion.webp",
+      "title": "Barreras, discriminación y segregación",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Busca la puerta cerrada concreta: norma, trámite, coste, idioma, lugar o trato discriminatorio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V40",
+      "file": "t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp",
+      "title": "Duelo migratorio y síndrome de Ulises",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La migración no es patología; el riesgo aparece cuando pérdidas y estresores extremos se acumulan.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V41",
+      "file": "t31-41-plan-de-accion-de-la-ue-2021-2027.webp",
+      "title": "Plan de Acción de la UE 2021-2027",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza cuatro ámbitos: educación, empleo, salud y vivienda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V42",
+      "file": "t31-42-integracion-en-la-ley-organica-4-2000.webp",
+      "title": "Integración en la Ley Orgánica 4/2000",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La fórmula legal une plena integración, diversidad, transversalidad, participación y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V43",
+      "file": "t31-43-marco-estrategico-2023-2027.webp",
+      "title": "Marco Estratégico 2023-2027",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No arrastres el plan caducado: el marco vigente es 2023-2027 y tiene naturaleza programática.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V44",
+      "file": "t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp",
+      "title": "Foro para la Integración Social de los Inmigrantes",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Función: consultar y asesorar; dato nuevo: 31 vocalías desde julio de 2026.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V45",
+      "file": "t31-45-opi-y-oberaxe.webp",
+      "title": "OPI y OBERAXE",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: OPI observa migraciones; OBERAXE observa racismo y xenofobia; ninguno juzga.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V46",
+      "file": "t31-46-oim-y-acnur-mandatos-distintos.webp",
+      "title": "OIM y ACNUR: mandatos distintos",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: OIM mira la movilidad migratoria; ACNUR centra la protección internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T31-V47",
+      "file": "t31-47-glosario-de-movilidad-y-proteccion.webp",
+      "title": "Glosario de movilidad y protección",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Reasentamiento cruza desde un primer asilo a un tercer Estado; reubicación redistribuye dentro del sistema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}

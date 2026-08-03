@@ -3,6 +3,14 @@
   "checked_at": "2026-08-02",
   "sources": [
     {
+      "id": "ACHOTEGUI-T31",
+      "title": "Joseba Achotegui, síndrome del inmigrante con estrés crónico y múltiple",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3119470",
+      "scope": "duelo migratorio y síndrome de Ulises",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "ADORNO-1950-T29",
       "title": "Adorno et al.: The Authoritarian Personality",
       "url": "https://archive.org/details/authoritarianper00ador",
@@ -570,6 +578,15 @@
       "traceable": true
     },
     {
+      "id": "CONV-PN-2026-T31",
+      "title": "Convocatoria Escala Básica Policía Nacional 2026",
+      "boe_id": "BOE-A-2026-15055",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "Anexo I, Tema 31",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CONV1951-T12",
       "title": "Convención de Ginebra de 1951 y Protocolo de 1967",
       "boe_id": "BOE-A-1978-26331",
@@ -835,6 +852,14 @@
       "traceable": true
     },
     {
+      "id": "EU-ACTION-PLAN-T31",
+      "title": "Comisión Europea, Action Plan on Integration and Inclusion 2021-2027",
+      "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/migrant-integration/eu-integration-policy_en",
+      "scope": "inclusión para todos, educación, empleo, salud y vivienda",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EU-FTT-T28",
       "title": "Comisión Europea: historia de la propuesta de impuesto sobre transacciones financieras",
       "url": "https://taxation-customs.ec.europa.eu/taxation/other-taxes/taxation-financial-sector_en",
@@ -1054,6 +1079,30 @@
       "traceable": true
     },
     {
+      "id": "INE-ECP1T26-T31",
+      "title": "INE, Estadística Continua de Población a 1 de abril de 2026",
+      "url": "https://www.ine.es/dyngs/Prensa/ECP1T26.htm",
+      "scope": "fotografía demográfica provisional de España",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INE-EMCR2024-T31",
+      "title": "INE, EMCR 2024, resultados definitivos",
+      "url": "https://www.ine.es/dyngs/Prensa/EMCR2024.htm",
+      "scope": "saldo migratorio exterior de España en 2024",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INE-MIGRACIONES-T31",
+      "title": "INE, Estadística de Migraciones y Cambios de Residencia",
+      "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177000&idp=1254735573002&menu=ultiDatos",
+      "scope": "flujos interiores y exteriores y evolución española",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "INS11-2026-T12",
       "title": "Instrucción de 11 de junio de 2026: aplicación del Pacto Europeo",
       "boe_id": "BOE-A-2026-12855",
@@ -1109,6 +1158,22 @@
       "boe_id": "BOE-A-2023-17072",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-17072",
       "scope": "art. 7.2.a.1 y 7.2.f, Oficina Nacional de Deportes e interlocución social en delitos de odio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IOM-CLIMATE-T31",
+      "title": "OIM, Environmental Migration Portal",
+      "url": "https://environmentalmigration.iom.int/",
+      "scope": "migración ambiental, desplazamiento y cambio climático",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "IOM-GLOSSARY-T31",
+      "title": "OIM, Glossary on Migration, International Migration Law No. 34",
+      "url": "https://publications.iom.int/system/files/pdf/iml_34_glossary.pdf",
+      "scope": "conceptos de migración, inmigración, emigración, regularidad, retorno, diáspora y reasentamiento",
       "official": true,
       "traceable": true
     },
@@ -1270,6 +1335,14 @@
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
       "scope": "jurisdicción, competencia, denuncia, detención y Policía Judicial",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEE-1966-T31",
+      "title": "Everett S. Lee, A Theory of Migration",
+      "url": "https://doi.org/10.2307/2060063",
+      "scope": "origen, destino, obstáculos, factores personales y selectividad",
+      "official": false,
       "traceable": true
     },
     {
@@ -1479,6 +1552,15 @@
       "boe_id": "BOE-A-2000-544",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544&p=20250319&tn=1",
       "scope": "título III, arts. 50 a 66",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LO4-2000-T31",
+      "title": "Ley Orgánica 4/2000, derechos y libertades de los extranjeros e integración social",
+      "boe_id": "BOE-A-2000-544",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544",
+      "scope": "arts. 2 ter, 69, 70, 71 y disposición adicional quinta",
       "official": true,
       "traceable": true
     },
@@ -1706,6 +1788,22 @@
       "traceable": true
     },
     {
+      "id": "MASSEY-1993-T31",
+      "title": "Massey et al., Theories of International Migration",
+      "url": "https://www.jstor.org/stable/2938462",
+      "scope": "redes, instituciones y causación acumulativa",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "MECI-2023-2027-T31",
+      "title": "Marco Estratégico de Ciudadanía e Inclusión contra el Racismo y la Xenofobia 2023-2027",
+      "url": "https://www.inclusion.gob.es/web/oberaxe/marco-estrategico/que-es",
+      "scope": "modelo intercultural, cohesión e inclusión",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "MI-RD1009-2023",
       "title": "Real Decreto 1009/2023: estructura orgánica básica de los departamentos ministeriales",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-24842",
@@ -1839,6 +1937,14 @@
       "traceable": true
     },
     {
+      "id": "PIORE-1979-T31",
+      "title": "Michael Piore, Birds of Passage",
+      "url": "https://archive.org/details/birdsofpassagemi0000pior",
+      "scope": "mercado de trabajo dual y demanda del destino",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "PJC522-2025-T15",
       "title": "Orden PJC/522/2025: procedimiento para una nueva Estrategia Nacional de Ciberseguridad",
       "boe_id": "BOE-A-2025-10371",
@@ -1926,6 +2032,14 @@
       "url": "https://dle.rae.es/xenofobia",
       "scope": "concepto de xenofobia",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RAVENSTEIN-1885-T31",
+      "title": "E. G. Ravenstein, The Laws of Migration",
+      "url": "https://www.jstor.org/stable/2979181",
+      "scope": "regularidades clásicas de la migración",
+      "official": false,
       "traceable": true
     },
     {
@@ -2073,6 +2187,15 @@
       "traceable": true
     },
     {
+      "id": "RD3-2006-T31",
+      "title": "Real Decreto 3/2006, Foro para la Integración Social de los Inmigrantes, texto consolidado",
+      "boe_id": "BOE-A-2006-625",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-625",
+      "scope": "objeto, naturaleza, funciones y composición modificada por RD 606/2026",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RD311-2022-T15",
       "title": "Real Decreto 311/2022: Esquema Nacional de Seguridad",
       "boe_id": "BOE-A-2022-7191",
@@ -2114,6 +2237,15 @@
       "boe_id": "BOE-A-2026-16172",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16172",
       "scope": "naturaleza, estructura y funciones vigentes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RD606-2026-T31",
+      "title": "Real Decreto 606/2026, reforma del Foro para la Integración Social de los Inmigrantes",
+      "boe_id": "BOE-A-2026-16172",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16172",
+      "scope": "composición vigente desde julio de 2026",
       "official": true,
       "traceable": true
     },
@@ -2582,6 +2714,14 @@
       ]
     },
     {
+      "id": "UN-DESA-2024-T31",
+      "title": "ONU DESA, International Migration and Sustainable Development",
+      "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2024_megatrends3-international_migration.pdf",
+      "scope": "causas, teorías, tendencias, efectos y desarrollo",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UN-ENV-GLOBAL-T28",
       "title": "Naciones Unidas: Agenda 21",
       "url": "https://www.un.org/esa/dsd/agenda21/Agenda%2021.pdf",
@@ -2630,6 +2770,14 @@
       "traceable": true
     },
     {
+      "id": "UNESCO-HUMAN-MIGRATION-T31",
+      "title": "UNESCO, historia, movilidad y diversidad cultural",
+      "url": "https://www.unesco.org/en/heritage-migrations",
+      "scope": "poblamiento, intercambios y movilidad histórica",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UNESCO-MCLUHAN-T28",
       "title": "UNESCO: Marshall McLuhan, The Archives of the Future",
       "url": "https://www.unesco.org/en/memory-world/marshall-mcluhan-archives-future",
@@ -2642,6 +2790,14 @@
       "title": "UNESCO: Media and Information Literacy Curriculum",
       "url": "https://unesdoc.unesco.org/ark:/48223/pf0000224187",
       "scope": "información, persuasión, estereotipos y pensamiento crítico",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNESCO-SLAVE-ROUTE-T31",
+      "title": "UNESCO, Routes of Enslaved Peoples",
+      "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+      "scope": "trata transatlántica, esclavitud y memoria",
       "official": true,
       "traceable": true
     },
@@ -2678,11 +2834,43 @@
       "traceable": true
     },
     {
+      "id": "UNHCR-DEFINITIONS-T31",
+      "title": "ACNUR, definiciones de refugiados y desplazados internos",
+      "url": "https://www.unhcr.org/refugee-statistics/methodology/definition",
+      "scope": "refugiado, solicitante y desplazamiento interno",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNHCR-HISTORY-T31",
+      "title": "ACNUR, historia y mandato de protección",
+      "url": "https://www.unhcr.org/about-unhcr/overview/history-unhcr",
+      "scope": "desplazamientos del siglo XX y sistema internacional de refugio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNODC-PROTOCOLS-T31",
+      "title": "UNODC, Protocolos contra la trata y el tráfico ilícito de migrantes",
+      "url": "https://www.unodc.org/unodc/en/human-trafficking/protocol.html",
+      "scope": "distinción entre trata y tráfico ilícito",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "VIOGEN2-T23",
       "title": "Sistema VioGén 2, Ministerio del Interior",
       "url": "https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/violencia-contra-la-mujer/sistema-viogen-2/",
       "scope": "coordinación y seguimiento policial",
       "official": true,
+      "traceable": true
+    },
+    {
+      "id": "WALLERSTEIN-1974-T31",
+      "title": "Immanuel Wallerstein, The Modern World-System",
+      "url": "https://archive.org/details/modernworldsyste00wall",
+      "scope": "sistema mundial, centro, periferia y vínculos históricos",
+      "official": false,
       "traceable": true
     },
     {
@@ -2715,6 +2903,14 @@
       "url": "https://archive.org/details/religioussectss00wils",
       "scope": "conversionistas, revolucionarias, introversionistas, manipulacionistas, taumatúrgicas, reformistas y utópicas",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "WORLD-BANK-REMITTANCES-T31",
+      "title": "Banco Mundial, Migration and Remittances",
+      "url": "https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues",
+      "scope": "remesas, costes y desarrollo",
+      "official": true,
       "traceable": true
     },
     {

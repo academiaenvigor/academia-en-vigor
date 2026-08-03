@@ -726,6 +726,30 @@
           "official_exam_mapped": 18,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 31,
+          "slug": "inmigracion-movimientos-migratorios-integracion-social",
+          "title": "Inmigración. Movimientos migratorios: concepto y causas de las migraciones. Tipos y efectos. Las grandes migraciones a través de la historia. Las migraciones en la actualidad. Integración social: factor esencial de la cohesión social.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-31/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-31-inmigracion-movimientos-migratorios-integracion-social.md",
+          "atestado": "temas/policia-nacional/atestado/tema-31-inmigracion-movimientos-migratorios-integracion-social.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-31/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-31/plan.json",
+          "assets": "assets/policia-nacional/tema-31/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-31/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-31/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 47,
+          "atomic_facts": 188,
+          "question_count": 376,
+          "official_exam_mapped": 8,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }
