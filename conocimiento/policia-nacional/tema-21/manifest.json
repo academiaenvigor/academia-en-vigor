@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-21",
+  "topic_number": 21,
+  "slug": "derecho-procesal-penal-detencion-habeas-corpus-policia-judicial",
+  "title": "Noción de Derecho Procesal Penal. Concepto de jurisdicción y de competencia. Los órganos de la jurisdicción penal. Concepto de denuncia y obligación de denunciar. La detención: concepto, duración, obligación de detener y derechos del detenido. El procedimiento de habeas corpus. El procedimiento integral de la detención policial. El Ministerio Fiscal. La Policía Judicial.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-21/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-21-derecho-procesal-penal-detencion-habeas-corpus-policia-judicial.md",
+    "atestado": "temas/policia-nacional/atestado/tema-21-derecho-procesal-penal-detencion-habeas-corpus-policia-judicial.md"
+  },
+  "semantic_blocks": 29,
+  "atomic_facts": 145,
+  "master_statements": 145,
+  "coverage_file": "conocimiento/policia-nacional/tema-21/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE-T21",
+    "LECRIM-T21",
+    "LOPJ-T21",
+    "LOHC-T21",
+    "EOMF-T21",
+    "RD769-T21",
+    "LO2-1986-T21",
+    "INT-1-2024-T21"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q036",
+    "of-pn-p34-a-q084",
+    "of-pn-p34-a-q085",
+    "of-pn-p35-a-q007",
+    "of-pn-p35-a-q011",
+    "of-pn-p35-a-q039",
+    "of-pn-p36-a-q044",
+    "of-pn-p36-a-q049",
+    "of-pn-p37-a-q046",
+    "of-pn-p37-a-q093",
+    "of-pn-p38-a-q059",
+    "of-pn-p38-a-q060",
+    "of-pn-p40-a-q074",
+    "of-pn-p40-a-q075",
+    "of-pn-p41-a-q090",
+    "of-pn-p41-a-q099",
+    "of-pn-p42-a-q016",
+    "of-pn-p42-a-q030",
+    "of-pn-p42-a-q041",
+    "of-pn-p42-a-q046",
+    "of-pn-p42-a-q074"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-21/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-21/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-21/manifest.json",
+    "questions": 290,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-21/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-21/manifest.json",
+    "total": 0,
+    "planned": 29
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-21/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-21/revision-1.0.md"
+  }
+}

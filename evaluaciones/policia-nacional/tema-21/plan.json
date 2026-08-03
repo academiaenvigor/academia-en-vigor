@@ -1,0 +1,222 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 21,
+  "topic_title": "Noción de Derecho Procesal Penal. Concepto de jurisdicción y de competencia. Los órganos de la jurisdicción penal. Concepto de denuncia y obligación de denunciar. La detención: concepto, duración, obligación de detener y derechos del detenido. El procedimiento de habeas corpus. El procedimiento integral de la detención policial. El Ministerio Fiscal. La Policía Judicial.",
+  "id_prefix": "PN-T21",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-21/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-21/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Derecho procesal penal y proceso"
+      },
+      {
+        "number": 2,
+        "title": "Jurisdicción penal"
+      },
+      {
+        "number": 3,
+        "title": "Competencia: concepto y criterios"
+      },
+      {
+        "number": 4,
+        "title": "Fueros territoriales y delitos conexos"
+      },
+      {
+        "number": 5,
+        "title": "Órganos penales territoriales"
+      },
+      {
+        "number": 6,
+        "title": "Audiencia Nacional y Tribunal Central"
+      },
+      {
+        "number": 7,
+        "title": "Denuncia: concepto y efectos"
+      },
+      {
+        "number": 8,
+        "title": "Forma e identificación de la denuncia"
+      },
+      {
+        "number": 9,
+        "title": "Obligación general de denunciar"
+      },
+      {
+        "number": 10,
+        "title": "Exenciones del deber de denunciar"
+      },
+      {
+        "number": 11,
+        "title": "Detención: concepto y presupuesto"
+      },
+      {
+        "number": 12,
+        "title": "Detención por particulares"
+      },
+      {
+        "number": 13,
+        "title": "Obligación policial de detener"
+      },
+      {
+        "number": 14,
+        "title": "Duración y puesta en libertad o a disposición"
+      },
+      {
+        "number": 15,
+        "title": "Información, silencio y no autoincriminación"
+      },
+      {
+        "number": 16,
+        "title": "Asistencia letrada y comunicaciones"
+      },
+      {
+        "number": 17,
+        "title": "Extranjeros, intérprete, salud y accesibilidad"
+      },
+      {
+        "number": 18,
+        "title": "Menores y personas vulnerables"
+      },
+      {
+        "number": 19,
+        "title": "Procedimiento integral de detención policial"
+      },
+      {
+        "number": 20,
+        "title": "Uso de la fuerza, cacheo y custodia"
+      },
+      {
+        "number": 21,
+        "title": "Detención incomunicada y terrorismo"
+      },
+      {
+        "number": 22,
+        "title": "Habeas corpus: detención ilegal"
+      },
+      {
+        "number": 23,
+        "title": "Habeas corpus: legitimación y juez competente"
+      },
+      {
+        "number": 24,
+        "title": "Habeas corpus: tramitación y resolución"
+      },
+      {
+        "number": 25,
+        "title": "Ministerio Fiscal: naturaleza y principios"
+      },
+      {
+        "number": 26,
+        "title": "Funciones e investigación del Ministerio Fiscal"
+      },
+      {
+        "number": 27,
+        "title": "Policía Judicial: misión"
+      },
+      {
+        "number": 28,
+        "title": "Policía Judicial: composición y unidades"
+      },
+      {
+        "number": 29,
+        "title": "Secuencia policial y trampas de examen"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Proceso penal, jurisdicción, competencia y órganos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Denuncia y detención",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Garantías, procedimiento policial y habeas corpus",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Ministerio Fiscal y Policía Judicial",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}
