@@ -1,0 +1,232 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 19,
+  "topic_title": "Delitos contra el orden público",
+  "id_prefix": "PN-T19",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-19/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-19/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa oficial y método de calificación"
+      },
+      {
+        "number": 2,
+        "title": "Atentado: conducta y situación del sujeto pasivo"
+      },
+      {
+        "number": 3,
+        "title": "Penas y autoridades especialmente protegidas"
+      },
+      {
+        "number": 4,
+        "title": "Atentado agravado"
+      },
+      {
+        "number": 5,
+        "title": "Actos preparatorios y artículos suprimidos"
+      },
+      {
+        "number": 6,
+        "title": "Fuerzas Armadas y personas que auxilian"
+      },
+      {
+        "number": 7,
+        "title": "Emergencias y seguridad privada"
+      },
+      {
+        "number": 8,
+        "title": "Resistencia, desobediencia y falta de respeto"
+      },
+      {
+        "number": 9,
+        "title": "Frontera penal y administrativa"
+      },
+      {
+        "number": 10,
+        "title": "Desórdenes públicos: tipo básico"
+      },
+      {
+        "number": 11,
+        "title": "Desórdenes con multitud"
+      },
+      {
+        "number": 12,
+        "title": "Instrumentos peligrosos, pillaje y armas"
+      },
+      {
+        "number": 13,
+        "title": "Preparación y concurrencia en desórdenes"
+      },
+      {
+        "number": 14,
+        "title": "Avalancha o estampida"
+      },
+      {
+        "number": 15,
+        "title": "Ocupación perturbadora de domicilio o establecimiento"
+      },
+      {
+        "number": 16,
+        "title": "Preceptos suprimidos en desórdenes"
+      },
+      {
+        "number": 17,
+        "title": "Lugares especialmente protegidos"
+      },
+      {
+        "number": 18,
+        "title": "Daños a infraestructuras y falsa alarma"
+      },
+      {
+        "number": 19,
+        "title": "Disposición común sobre autoridad"
+      },
+      {
+        "number": 20,
+        "title": "Armas prohibidas y modificadas"
+      },
+      {
+        "number": 21,
+        "title": "Armas de fuego reglamentadas sin licencia"
+      },
+      {
+        "number": 22,
+        "title": "Agravaciones en la tenencia ilícita"
+      },
+      {
+        "number": 23,
+        "title": "Reducción facultativa de la pena"
+      },
+      {
+        "number": 24,
+        "title": "Fabricación, comercialización y depósitos"
+      },
+      {
+        "number": 25,
+        "title": "Armas de guerra, NBQR, minas y racimo"
+      },
+      {
+        "number": 26,
+        "title": "Armas reglamentadas y tráfico"
+      },
+      {
+        "number": 27,
+        "title": "Definiciones de depósito y comercio"
+      },
+      {
+        "number": 28,
+        "title": "Cinco armas y depósito de municiones"
+      },
+      {
+        "number": 29,
+        "title": "Sustancias explosivas y afines"
+      },
+      {
+        "number": 30,
+        "title": "Combustible líquido y reforma de 2026"
+      },
+      {
+        "number": 31,
+        "title": "Asociación, disolución e inhabilitaciones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Atentados, resistencia y desobediencia",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Frontera administrativa y desórdenes públicos",
+        "blocks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Protección del orden y tenencia ilícita de armas",
+        "blocks": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Depósitos, explosivos y consecuencias comunes",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

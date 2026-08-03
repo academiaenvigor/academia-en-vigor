@@ -1,0 +1,484 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-19",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 28,
+    "integrated": 28,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-08-01",
+  "resources": [
+    {
+      "id": "PN-T19-DG01",
+      "file": "t19-01-mapa-oficial-y-metodo-de-calificacion.webp",
+      "title": "Mapa oficial y método de calificación",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 01. Familia compositiva: mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG02",
+      "file": "t19-02-atentado-conducta-y-situacion-del-sujeto-pasivo.webp",
+      "title": "Atentado: conducta y situación del sujeto pasivo",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 02. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG03",
+      "file": "t19-03-penas-y-autoridades-especialmente-protegidas.webp",
+      "title": "Penas y autoridades especialmente protegidas",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 03. Familia compositiva: secuencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG04",
+      "file": "t19-04-atentado-agravado.webp",
+      "title": "Atentado agravado",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 04. Familia compositiva: escena urbana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG05",
+      "file": "t19-05-actos-preparatorios-y-articulos-suprimidos.webp",
+      "title": "Actos preparatorios y artículos suprimidos",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 05. Familia compositiva: objeto mnemotécnico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG06",
+      "file": "t19-06-fuerzas-armadas-y-personas-que-auxilian.webp",
+      "title": "Fuerzas Armadas y personas que auxilian",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 06. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG07",
+      "file": "t19-07-emergencias-y-seguridad-privada.webp",
+      "title": "Emergencias y seguridad privada",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 07. Familia compositiva: mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG08",
+      "file": "t19-08-resistencia-desobediencia-y-falta-de-respeto.webp",
+      "title": "Resistencia, desobediencia y falta de respeto",
+      "type": "infografia",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 08. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG09",
+      "file": "t19-09-frontera-penal-y-administrativa.webp",
+      "title": "Frontera penal y administrativa",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 09. Familia compositiva: secuencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG10",
+      "file": "t19-10-desordenes-publicos-tipo-basico.webp",
+      "title": "Desórdenes públicos: tipo básico",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 10. Familia compositiva: escena urbana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG11",
+      "file": "t19-11-desordenes-con-multitud.webp",
+      "title": "Desórdenes con multitud",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 11. Familia compositiva: objeto mnemotécnico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG12",
+      "file": "t19-12-instrumentos-peligrosos-pillaje-y-armas.webp",
+      "title": "Instrumentos peligrosos, pillaje y armas",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 12. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG13",
+      "file": "t19-13-preparacion-y-concurrencia-en-desordenes.webp",
+      "title": "Preparación y concurrencia en desórdenes",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 13. Familia compositiva: mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG14",
+      "file": "t19-14-avalancha-o-estampida.webp",
+      "title": "Avalancha o estampida",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 14. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG15",
+      "file": "t19-15-ocupacion-perturbadora-de-domicilio-o-establecimiento.webp",
+      "title": "Ocupación perturbadora de domicilio o establecimiento",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 15. Familia compositiva: secuencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG16",
+      "file": "t19-16-preceptos-suprimidos-en-desordenes.webp",
+      "title": "Preceptos suprimidos en desórdenes",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 16. Familia compositiva: escena urbana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG17",
+      "file": "t19-17-lugares-especialmente-protegidos.webp",
+      "title": "Lugares especialmente protegidos",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 17. Familia compositiva: objeto mnemotécnico.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG18",
+      "file": "t19-18-danos-a-infraestructuras-y-falsa-alarma.webp",
+      "title": "Daños a infraestructuras y falsa alarma",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 18. Familia compositiva: balanza.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG19",
+      "file": "t19-19-disposicion-comun-sobre-autoridad.webp",
+      "title": "Disposición común sobre autoridad",
+      "type": "infografia",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 19. Familia compositiva: mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG20",
+      "file": "t19-20-armas-prohibidas-y-modificadas.webp",
+      "title": "Armas prohibidas y modificadas",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 20. Familia compositiva: comparativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG21",
+      "file": "t19-21-armas-de-fuego-reglamentadas-sin-licencia.webp",
+      "title": "Armas de fuego reglamentadas sin licencia",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 21. Familia compositiva: secuencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-DG22",
+      "file": "t19-22-agravaciones-en-la-tenencia-ilicita.webp",
+      "title": "Agravaciones en la tenencia ilícita",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 22. Familia compositiva: escena urbana.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL01",
+      "file": "t19-il-01-escudo-funcional-frente-al-atentado.webp",
+      "title": "Escudo funcional frente al atentado",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 02. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL02",
+      "file": "t19-il-02-semaforo-de-la-oposicion-a-la-autoridad.webp",
+      "title": "Semáforo de la oposición a la autoridad",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 08. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL03",
+      "file": "t19-il-03-ascensores-del-peligro-y-del-arma-de-fuego.webp",
+      "title": "Ascensores del peligro y del arma de fuego",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 12. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL04",
+      "file": "t19-il-04-mapa-de-lugares-especialmente-protegidos.webp",
+      "title": "Mapa de lugares especialmente protegidos",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 17. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL05",
+      "file": "t19-il-05-el-contador-de-cinco-armas.webp",
+      "title": "El contador de cinco armas",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 27",
+      "status": "integrated_webp",
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 27. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T19-IL06",
+      "file": "t19-il-06-combustible-liquido-y-el-nuevo-articulo-568-2.webp",
+      "title": "Combustible líquido y el nuevo artículo 568.2",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Recurso visual del bloque 30. Familia compositiva: escena narrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}
