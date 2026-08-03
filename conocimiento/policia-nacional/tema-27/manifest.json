@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-27",
+  "topic_number": 27,
+  "slug": "derechos-humanos-dudh-cedh-convencion-tortura-protocolo-facultativo-mnp",
+  "title": "Derechos Humanos. Declaración Universal de Derechos Humanos. Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales. Convenio contra la Tortura. Protocolo facultativo de la Convención contra la tortura. Mecanismo Nacional de Prevención de la Tortura del Defensor del Pueblo.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-27/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-27-derechos-humanos-dudh-cedh-convencion-tortura-protocolo-facultativo-mnp.md",
+    "atestado": "temas/policia-nacional/atestado/tema-27-derechos-humanos-dudh-cedh-convencion-tortura-protocolo-facultativo-mnp.md"
+  },
+  "semantic_blocks": 55,
+  "atomic_facts": 220,
+  "master_statements": 220,
+  "coverage_file": "conocimiento/policia-nacional/tema-27/cobertura.json",
+  "official_references": [
+    "ONU-DDHH-T27",
+    "ONU-DUDH-T27",
+    "CEDH-T27",
+    "CEDH-CURRENT-T27",
+    "CAT-T27",
+    "OPCAT-T27",
+    "LODP-MNP-T27",
+    "ROFDP-MNP-T27",
+    "DP-MNP-T27",
+    "CONV-PN-2026"
+  ],
+  "official_exam_items": [
+    "of-pn-p37-a-q060",
+    "of-pn-p42-a-q040",
+    "of-pn-p42-a-q075",
+    "of-pn-p35-a-q021",
+    "of-pn-p35-a-q034",
+    "of-pn-p35-a-q048",
+    "of-pn-p35-a-q073",
+    "of-pn-p36-a-q063",
+    "of-pn-p36-a-q076",
+    "of-pn-p36-a-q080",
+    "of-pn-p36-a-q098",
+    "of-pn-p41-a-q073",
+    "of-pn-p41-a-q077",
+    "of-pn-p38-a-q072",
+    "of-pn-p38-a-q073",
+    "of-pn-p34-a-q012",
+    "of-pn-p33-a-q047",
+    "of-pn-p33-a-q048",
+    "of-pn-p39-a-q006",
+    "of-pn-p40-a-q082"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-27/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-27/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-27/manifest.json",
+    "questions": 440,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-27/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-27/manifest.json",
+    "total": 0,
+    "planned": 55
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-27/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-27/revision-1.0.md"
+  }
+}

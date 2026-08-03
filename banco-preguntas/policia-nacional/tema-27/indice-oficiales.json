@@ -1,0 +1,473 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 27,
+  "titulo": "Derechos Humanos. Declaración Universal de Derechos Humanos. Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales. Convenio contra la Tortura. Protocolo facultativo de la Convención contra la tortura. Mecanismo Nacional de Prevención de la Tortura del Defensor del Pueblo.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 20,
+  "con_bloque_asignado": 20,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "39": 1,
+    "24": 3,
+    "33": 1,
+    "47": 1,
+    "49": 1,
+    "54": 1,
+    "50": 1,
+    "5": 2,
+    "3": 1,
+    "53": 1,
+    "42": 2,
+    "51": 1,
+    "1": 1,
+    "41": 1,
+    "7": 1,
+    "55": 1
+  },
+  "por_promocion": {
+    "P37": 1,
+    "P42": 2,
+    "P35": 4,
+    "P36": 4,
+    "P41": 2,
+    "P38": 2,
+    "P34": 1,
+    "P33": 2,
+    "P39": 1,
+    "P40": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p37-a-q060",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 60,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "PN-T27-F153"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el art. 17 de la Convención contra la Tortura ¿Cuál es la composición del Comité contra la Tortura?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q040",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 40,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "PN-T27-F094"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La sede del Tribunal Europeo de Derechos Humanos, se encuentra en:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q075",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 75,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "PN-T27-F131"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Los países firmantes de la Convención contra la Tortura, se comprometen a que (marque la opción correcta):",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q021",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 21,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "PN-T27-F185"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué plazo tiene un Estado parte para crear los Mecanismos Nacionales de Prevención, desde que se adhiere al Protocolo Facultativo de la convención contra la Tortura y otro tratos o Penas Crueles, Inhumanos o Degradantes?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q034",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 34,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "PN-T27-F193"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes, la información confidencial recogida por el Mecanismo Nacional de Prevención tendrá carácter:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q048",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 48,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "PN-T27-F214"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura se compone de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q073",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 73,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "PN-T27-F096"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El mandato de los jueces que componen el Tribunal Europeo de Derechos Humanos finalizará cuando:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q063",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 63,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "PN-T27-F096"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Los miembros del Tribunal Europeo de Derechos Humanos son elegidos por un periodo de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q076",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 76,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "PN-T27-F200"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según lo recogido en la Ley Orgánica 3/1981, del Defensor del Pueblo, en su Disposición Final Única, Mecanismo Nacional de Prevención de la Tortura, se crea un órgano de cooperación técnica y jurídica en el ejercicio de las funciones propias del Mecanismo Nacional de Prevención, denominado:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q080",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 80,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "PN-T27-F017"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El art. 3 de la Declaración Universal de Derechos Humanos recoge que:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q098",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 98,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "PN-T27-F009"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La Declaración Universal de Derechos Humanos fue:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q073",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 73,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "PN-T27-F211"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El Defensor del Pueblo, que ejercerá funciones del Mecanismo Nacional de Prevención de la Tortura, dará cuenta ante las Cortes Generales de las gestiones realizadas, en un informe que presentará ante las mismas de forma:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q077",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 77,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "PN-T27-F166"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Tal y como figura en el artículo 5 del Instrumento de ratificación del Protocolo facultativo a la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes, ¿de cuántos miembros estará compuesto el Subcomité para la Prevención, una vez que se haya registrado la quincuagésima ratificación del presente Protocolo o adhesión a él?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q072",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 72,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "PN-T27-F201"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Señale la respuesta correcta sobre el Mecanismo Nacional de Prevención contra la Tortura:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q073",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 73,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "PN-T27-F004"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En que se caracterizan una serie de derechos en la Declaración Universal de Derechos Humanos:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q012",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 12,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "PN-T27-F017"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El artículo 3 de la Declaración Universal de Derechos Humanos recoge que:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p33-a-q047",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 47,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "PN-T27-F166"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según el Protocolo facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes, hecho en Nueva York el 18 de diciembre de 2002, se puede afirmar que:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p33-a-q048",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 48,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "PN-T27-F162"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "A tenor de lo establecido en el Protocolo facultativo de la Convención contra la tortura, las visitas periódicas a los lugares donde se encuentren o pudieran encontrarse personas privadas de libertad, se realizarán por:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q006",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 6,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "PN-T27-F028"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Según la Declaración Universal de Derechos Humanos. ¿Cuál es el elemento natural y fundamental de la sociedad?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q082",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 82,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "PN-T27-F220"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura se reunirá:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla vigente cotejada; la respuesta no se presenta como plantilla oficial final."
+    }
+  ]
+}

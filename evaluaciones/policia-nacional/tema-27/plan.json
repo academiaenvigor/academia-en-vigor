@@ -1,0 +1,358 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 27,
+  "topic_title": "Derechos Humanos. Declaración Universal de Derechos Humanos. Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales. Convenio contra la Tortura. Protocolo facultativo de la Convención contra la tortura. Mecanismo Nacional de Prevención de la Tortura del Defensor del Pueblo.",
+  "id_prefix": "PN-T27",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-27/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-27/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Concepto y rasgos de los derechos humanos"
+      },
+      {
+        "number": 2,
+        "title": "Sistema internacional y generaciones de derechos"
+      },
+      {
+        "number": 3,
+        "title": "Nacimiento, adopción y naturaleza de la DUDH"
+      },
+      {
+        "number": 4,
+        "title": "DUDH: dignidad, igualdad y no discriminación"
+      },
+      {
+        "number": 5,
+        "title": "DUDH: vida, libertad, esclavitud y tortura"
+      },
+      {
+        "number": 6,
+        "title": "DUDH: personalidad jurídica y garantías judiciales"
+      },
+      {
+        "number": 7,
+        "title": "DUDH: vida privada, circulación, asilo, nacionalidad y familia"
+      },
+      {
+        "number": 8,
+        "title": "DUDH: propiedad, pensamiento, expresión y participación"
+      },
+      {
+        "number": 9,
+        "title": "DUDH: derechos sociales, culturales y nivel de vida"
+      },
+      {
+        "number": 10,
+        "title": "DUDH: orden social, deberes y prohibición de abuso"
+      },
+      {
+        "number": 11,
+        "title": "CEDH: origen, fechas y vínculo de España"
+      },
+      {
+        "number": 12,
+        "title": "CEDH: estructura y obligación de respetar los derechos"
+      },
+      {
+        "number": 13,
+        "title": "CEDH: derecho a la vida"
+      },
+      {
+        "number": 14,
+        "title": "CEDH: tortura, esclavitud y trabajo forzoso"
+      },
+      {
+        "number": 15,
+        "title": "CEDH: libertad y seguridad"
+      },
+      {
+        "number": 16,
+        "title": "CEDH: proceso equitativo"
+      },
+      {
+        "number": 17,
+        "title": "CEDH: legalidad penal"
+      },
+      {
+        "number": 18,
+        "title": "CEDH: vida privada y familiar"
+      },
+      {
+        "number": 19,
+        "title": "CEDH: pensamiento, conciencia y religión"
+      },
+      {
+        "number": 20,
+        "title": "CEDH: libertad de expresión"
+      },
+      {
+        "number": 21,
+        "title": "CEDH: reunión, asociación y matrimonio"
+      },
+      {
+        "number": 22,
+        "title": "CEDH: recurso efectivo y no discriminación"
+      },
+      {
+        "number": 23,
+        "title": "CEDH: derogaciones, extranjeros y abuso de derecho"
+      },
+      {
+        "number": 24,
+        "title": "TEDH: establecimiento, sede y jueces"
+      },
+      {
+        "number": 25,
+        "title": "TEDH: Pleno y formaciones judiciales"
+      },
+      {
+        "number": 26,
+        "title": "TEDH: competencias de juez único, comité y Sala"
+      },
+      {
+        "number": 27,
+        "title": "TEDH: jurisdicción y demandas"
+      },
+      {
+        "number": 28,
+        "title": "TEDH: admisibilidad de la demanda individual"
+      },
+      {
+        "number": 29,
+        "title": "TEDH: examen, arreglo amistoso y audiencia"
+      },
+      {
+        "number": 30,
+        "title": "TEDH: sentencias, Gran Sala y ejecución"
+      },
+      {
+        "number": 31,
+        "title": "Convención contra la Tortura: adopción y estructura"
+      },
+      {
+        "number": 32,
+        "title": "CAT: definición internacional de tortura"
+      },
+      {
+        "number": 33,
+        "title": "CAT: prevención y prohibición absoluta"
+      },
+      {
+        "number": 34,
+        "title": "CAT: no devolución y riesgo de tortura"
+      },
+      {
+        "number": 35,
+        "title": "CAT: tipificación y jurisdicción"
+      },
+      {
+        "number": 36,
+        "title": "CAT: custodia, enjuiciamiento, extradición y asistencia"
+      },
+      {
+        "number": 37,
+        "title": "CAT: formación, reglas de custodia e investigación"
+      },
+      {
+        "number": 38,
+        "title": "CAT: denuncia, reparación, prueba y otros malos tratos"
+      },
+      {
+        "number": 39,
+        "title": "Comité contra la Tortura: composición y funcionamiento"
+      },
+      {
+        "number": 40,
+        "title": "CAT: informes, investigación y comunicaciones"
+      },
+      {
+        "number": 41,
+        "title": "OPCAT: objetivo, doble sistema y lugares de detención"
+      },
+      {
+        "number": 42,
+        "title": "SPT: principios y composición"
+      },
+      {
+        "number": 43,
+        "title": "SPT: candidaturas, elección y mandato"
+      },
+      {
+        "number": 44,
+        "title": "SPT: mandato y cooperación estatal"
+      },
+      {
+        "number": 45,
+        "title": "OPCAT: programa de visitas y facultades de acceso"
+      },
+      {
+        "number": 46,
+        "title": "OPCAT: represalias, confidencialidad y publicación"
+      },
+      {
+        "number": 47,
+        "title": "MNP: designación, independencia y recursos"
+      },
+      {
+        "number": 48,
+        "title": "MNP: competencias, información y entrevistas"
+      },
+      {
+        "number": 49,
+        "title": "OPCAT: garantías nacionales, informes y cláusulas finales"
+      },
+      {
+        "number": 50,
+        "title": "España: designación del Defensor del Pueblo como MNP"
+      },
+      {
+        "number": 51,
+        "title": "MNP español: prevención de oficio y diferencia con quejas"
+      },
+      {
+        "number": 52,
+        "title": "MNP español: centros visitables, acceso y colaboración"
+      },
+      {
+        "number": 53,
+        "title": "MNP español: recomendaciones, seguimiento e informes"
+      },
+      {
+        "number": 54,
+        "title": "Consejo Asesor del MNP: composición"
+      },
+      {
+        "number": 55,
+        "title": "Consejo Asesor del MNP: funciones y reuniones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 20,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos y Declaración Universal de Derechos Humanos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Convenio Europeo y Tribunal Europeo de Derechos Humanos",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Convención de Naciones Unidas contra la Tortura",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Protocolo facultativo y sistema preventivo internacional y nacional",
+        "blocks": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Mecanismo Nacional de Prevención de la Tortura en España",
+        "blocks": [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

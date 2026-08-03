@@ -1,0 +1,1779 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-27",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 55,
+    "integrated": 0,
+    "planned": 55
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T27-V01",
+      "file": "t27-il-01-concepto-y-rasgos-de-los-derechos-humanos.webp",
+      "title": "Concepto y rasgos de los derechos humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue titularidad universal, ejercicio sujeto a límites legítimos y deber estatal de respetar, proteger y garantizar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V02",
+      "file": "t27-02-sistema-internacional-y-generaciones-de-derechos.webp",
+      "title": "Sistema internacional y generaciones de derechos",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Usa las generaciones para ordenar, nunca para justificar que un grupo de derechos valga menos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V03",
+      "file": "t27-03-nacimiento-adopcion-y-naturaleza-de-la-dudh.webp",
+      "title": "Nacimiento, adopción y naturaleza de la DUDH",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Fecha, órgano, resolución, naturaleza y treinta artículos forman el núcleo de memoria de este bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V04",
+      "file": "t27-04-dudh-dignidad-igualdad-y-no-discriminacion.webp",
+      "title": "DUDH: dignidad, igualdad y no discriminación",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas igualdad en dignidad del artículo 1 con la lista de motivos de no discriminación del artículo 2.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V05",
+      "file": "t27-il-05-dudh-vida-libertad-esclavitud-y-tortura.webp",
+      "title": "DUDH: vida, libertad, esclavitud y tortura",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza la escalera 3 vida-libertad-seguridad, 4 esclavitud-servidumbre, 5 tortura-malos tratos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V06",
+      "file": "t27-06-dudh-personalidad-juridica-y-garantias-judiciales.webp",
+      "title": "DUDH: personalidad jurídica y garantías judiciales",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Arbitrario no equivale a toda privación de libertad; la clave es ausencia de base, garantías o justificación legítima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V07",
+      "file": "t27-07-dudh-vida-privada-circulacion-asilo-nacionalidad-y-f.webp",
+      "title": "DUDH: vida privada, circulación, asilo, nacionalidad y familia",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa salir y regresar, buscar y disfrutar asilo, nacionalidad y consentimiento matrimonial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V08",
+      "file": "t27-08-dudh-propiedad-pensamiento-expresion-y-participacion.webp",
+      "title": "DUDH: propiedad, pensamiento, expresión y participación",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Agrupa libertades intelectuales, libertades colectivas y participación democrática sin mezclar sus artículos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V09",
+      "file": "t27-09-dudh-derechos-sociales-culturales-y-nivel-de-vida.webp",
+      "title": "DUDH: derechos sociales, culturales y nivel de vida",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Trabajo, descanso, nivel de vida, educación y cultura forman una cadena social, no una lista inconexa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V10",
+      "file": "t27-10-dudh-orden-social-deberes-y-prohibicion-de-abuso.webp",
+      "title": "DUDH: orden social, deberes y prohibición de abuso",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La DUDH termina con condiciones de efectividad, deberes y una cláusula contra su propia destrucción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V11",
+      "file": "t27-11-cedh-origen-fechas-y-vinculo-de-espana.webp",
+      "title": "CEDH: origen, fechas y vínculo de España",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Consejo de Europa, Estrasburgo y tratado vinculante: no lo confundas con instituciones de la Unión Europea.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V12",
+      "file": "t27-12-cedh-estructura-y-obligacion-de-respetar-los-derecho.webp",
+      "title": "CEDH: estructura y obligación de respetar los derechos",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero protegen autoridades y jueces nacionales; Estrasburgo supervisa el cumplimiento del compromiso internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V13",
+      "file": "t27-13-cedh-derecho-a-la-vida.webp",
+      "title": "CEDH: derecho a la vida",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La expresión examinable es absolutamente necesaria, no simplemente conveniente, razonable o autorizada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V14",
+      "file": "t27-14-cedh-tortura-esclavitud-y-trabajo-forzoso.webp",
+      "title": "CEDH: tortura, esclavitud y trabajo forzoso",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prohibición de tortura no se pondera; las excepciones listadas pertenecen al concepto de trabajo forzoso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V15",
+      "file": "t27-15-cedh-libertad-y-seguridad.webp",
+      "title": "CEDH: libertad y seguridad",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Supuestos tasados, información comprensible, control judicial rápido y reparación: cuatro piezas inseparables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V16",
+      "file": "t27-16-cedh-proceso-equitativo.webp",
+      "title": "CEDH: proceso equitativo",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No reduzcas el artículo 6 a juicio público: tribunal, plazo, presunción y defensa también son examinables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V17",
+      "file": "t27-17-cedh-legalidad-penal.webp",
+      "title": "CEDH: legalidad penal",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pregunta trampa cambia momento del hecho por momento del juicio o elimina la referencia al Derecho internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V18",
+      "file": "t27-18-cedh-vida-privada-y-familiar.webp",
+      "title": "CEDH: vida privada y familiar",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aplica el test acumulativo: ley, finalidad legítima y necesidad democrática con proporcionalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V19",
+      "file": "t27-19-cedh-pensamiento-conciencia-y-religion.webp",
+      "title": "CEDH: pensamiento, conciencia y religión",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No mezcles convicción interna con manifestación externa: el régimen de límites no opera igual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V20",
+      "file": "t27-20-cedh-libertad-de-expresion.webp",
+      "title": "CEDH: libertad de expresión",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La libertad es amplia, pero el test de ley, fin legítimo y necesidad sigue presente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V21",
+      "file": "t27-il-21-cedh-reunion-asociacion-y-matrimonio.webp",
+      "title": "CEDH: reunión, asociación y matrimonio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pacífica es palabra clave; para Policía existe una cláusula expresa sobre restricciones legítimas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V22",
+      "file": "t27-22-cedh-recurso-efectivo-y-no-discriminacion.webp",
+      "title": "CEDH: recurso efectivo y no discriminación",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Recurso efectivo no equivale a recurso necesariamente estimado; discriminación del artículo 14 necesita conexión convencional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V23",
+      "file": "t27-23-cedh-derogaciones-extranjeros-y-abuso-de-derecho.webp",
+      "title": "CEDH: derogaciones, extranjeros y abuso de derecho",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza el núcleo inderogable y distingue derogación excepcional de restricción ordinaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V24",
+      "file": "t27-24-tedh-establecimiento-sede-y-jueces.webp",
+      "title": "TEDH: establecimiento, sede y jueces",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estrasburgo, lista de tres, Asamblea Parlamentaria, título individual y nueve años no renovables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V25",
+      "file": "t27-25-tedh-pleno-y-formaciones-judiciales.webp",
+      "title": "TEDH: Pleno y formaciones judiciales",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asocia 1-3-7-17 con juez único, comité, Sala y Gran Sala.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V26",
+      "file": "t27-26-tedh-competencias-de-juez-unico-comite-y-sala.webp",
+      "title": "TEDH: competencias de juez único, comité y Sala",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada formación tiene una función distinta; no atribuyas al juez único facultades de condena sobre el fondo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V27",
+      "file": "t27-27-tedh-jurisdiccion-y-demandas.webp",
+      "title": "TEDH: jurisdicción y demandas",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Víctima, Estado parte y no obstaculización son elementos centrales del artículo 34.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V28",
+      "file": "t27-28-tedh-admisibilidad-de-la-demanda-individual.webp",
+      "title": "TEDH: admisibilidad de la demanda individual",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Protocolo 15 redujo el plazo a cuatro meses: seis meses es una trampa histórica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V29",
+      "file": "t27-29-tedh-examen-arreglo-amistoso-y-audiencia.webp",
+      "title": "TEDH: examen, arreglo amistoso y audiencia",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La lógica es resolver sin sacrificar protección: el Tribunal conserva una cláusula de salvaguardia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V30",
+      "file": "t27-30-tedh-sentencias-gran-sala-y-ejecucion.webp",
+      "title": "TEDH: sentencias, Gran Sala y ejecución",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El TEDH juzga; el Comité de Ministros supervisa ejecución. No intercambies esos papeles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V31",
+      "file": "t27-31-convencion-contra-la-tortura-adopcion-y-estructura.webp",
+      "title": "Convención contra la Tortura: adopción y estructura",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas Convención de 1984 y 33 artículos con Protocolo de 2002 y 37 artículos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V32",
+      "file": "t27-32-cat-definicion-internacional-de-tortura.webp",
+      "title": "CAT: definición internacional de tortura",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aplica cuatro filtros: gravedad, intención, finalidad y conexión con poder público.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V33",
+      "file": "t27-il-33-cat-prevencion-y-prohibicion-absoluta.webp",
+      "title": "CAT: prevención y prohibición absoluta",
+      "type": "ilustracion_simple",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Artículo 2: ninguna excepción y ninguna orden superior. Es una prohibición sin puerta trasera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V34",
+      "file": "t27-34-cat-no-devolucion-y-riesgo-de-tortura.webp",
+      "title": "CAT: no devolución y riesgo de tortura",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No devolución cubre expulsar, devolver y extraditar; contexto y riesgo individual se valoran juntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V35",
+      "file": "t27-35-cat-tipificacion-y-jurisdiccion.webp",
+      "title": "CAT: tipificación y jurisdicción",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Convención busca evitar refugios seguros: tipificar, localizar, extraditar o someter a autoridades competentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V36",
+      "file": "t27-36-cat-custodia-enjuiciamiento-extradicion-y-asistencia.webp",
+      "title": "CAT: custodia, enjuiciamiento, extradición y asistencia",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La cadena operativa es asegurar presencia, investigar, extraditar o enjuiciar y cooperar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V37",
+      "file": "t27-37-cat-formacion-reglas-de-custodia-e-investigacion.webp",
+      "title": "CAT: formación, reglas de custodia e investigación",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevención significa formar y revisar antes; investigación significa actuar pronta e imparcialmente cuando surge el indicio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V38",
+      "file": "t27-38-cat-denuncia-reparacion-prueba-y-otros-malos-tratos.webp",
+      "title": "CAT: denuncia, reparación, prueba y otros malos tratos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La excepción probatoria no valida la confesión: sirve contra el presunto torturador para acreditar su existencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V39",
+      "file": "t27-39-comite-contra-la-tortura-composicion-y-funcionamient.webp",
+      "title": "Comité contra la Tortura: composición y funcionamiento",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: CAT son diez expertos; SPT pasa de diez a veinticinco. La confusión entre ambos cae mucho.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V40",
+      "file": "t27-40-cat-informes-investigacion-y-comunicaciones.webp",
+      "title": "CAT: informes, investigación y comunicaciones",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue informe periódico obligatorio, investigación del artículo 20 y comunicaciones sujetas a declaración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V41",
+      "file": "t27-41-opcat-objetivo-doble-sistema-y-lugares-de-detencion.webp",
+      "title": "OPCAT: objetivo, doble sistema y lugares de detención",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cambio de paradigma es visitar antes de que ocurra el daño: prevención internacional más prevención nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V42",
+      "file": "t27-42-spt-principios-y-composicion.webp",
+      "title": "SPT: principios y composición",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza 10 → 25 al llegar la ratificación 50 y los cinco principios de actuación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V43",
+      "file": "t27-43-spt-candidaturas-eleccion-y-mandato.webp",
+      "title": "SPT: candidaturas, elección y mandato",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No traslades reglas del TEDH al SPT: aquí cuatro años y una reelección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V44",
+      "file": "t27-44-spt-mandato-y-cooperacion-estatal.webp",
+      "title": "SPT: mandato y cooperación estatal",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El SPT no condena: visita, recomienda, asesora y dialoga.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V45",
+      "file": "t27-45-opcat-programa-de-visitas-y-facultades-de-acceso.webp",
+      "title": "OPCAT: programa de visitas y facultades de acceso",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Acceso real exige poder elegir lugar, persona y entrevista privada; si la autoridad selecciona todo, la prevención se vacía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V46",
+      "file": "t27-il-46-opcat-represalias-confidencialidad-y-publicacion.webp",
+      "title": "OPCAT: represalias, confidencialidad y publicación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Confidencial no significa impune: el sistema prevé publicidad escalonada ante falta grave de cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V47",
+      "file": "t27-47-mnp-designacion-independencia-y-recursos.webp",
+      "title": "MNP: designación, independencia y recursos",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sin independencia, conocimientos y recursos, la etiqueta MNP es solo decorativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V48",
+      "file": "t27-48-mnp-competencias-informacion-y-entrevistas.webp",
+      "title": "MNP: competencias, información y entrevistas",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las competencias nacionales reflejan el mismo triángulo: visitar, recomendar y proponer mejoras normativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V49",
+      "file": "t27-49-opcat-garantias-nacionales-informes-y-clausulas-fina.webp",
+      "title": "OPCAT: garantías nacionales, informes y cláusulas finales",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cierre del Protocolo protege la independencia: no reservas, no represalias, informes públicos y recursos de apoyo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V50",
+      "file": "t27-50-espana-designacion-del-defensor-del-pueblo-como-mnp.webp",
+      "title": "España: designación del Defensor del Pueblo como MNP",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Defensor del Pueblo es el MNP; Consejo Asesor coopera, no sustituye al titular.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V51",
+      "file": "t27-51-mnp-espanol-prevencion-de-oficio-y-diferencia-con-qu.webp",
+      "title": "MNP español: prevención de oficio y diferencia con quejas",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevención visita de oficio; queja investiga un caso. Confundir ambas funciones lleva directo a la opción trampa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V52",
+      "file": "t27-52-mnp-espanol-centros-visitables-acceso-y-colaboracion.webp",
+      "title": "MNP español: centros visitables, acceso y colaboración",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en la situación de la persona, no en el rótulo del edificio: si no puede salir libremente, puede entrar en el mapa preventivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V53",
+      "file": "t27-53-mnp-espanol-recomendaciones-seguimiento-e-informes.webp",
+      "title": "MNP español: recomendaciones, seguimiento e informes",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El MNP recomienda y sigue; jueces y autoridades sancionadoras conservan sus propias competencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V54",
+      "file": "t27-54-consejo-asesor-del-mnp-composicion.webp",
+      "title": "Consejo Asesor del MNP: composición",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Máximo diez vocales, cuatro años, renovación parcial cada dos y dos Adjuntos natos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V55",
+      "file": "t27-55-consejo-asesor-del-mnp-funciones-y-reuniones.webp",
+      "title": "Consejo Asesor del MNP: funciones y reuniones",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Funciones: visitas, protocolos, normativa, formación y seguimiento; frecuencia mínima: dos reuniones al año.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T27-V01",
+      "file": "t27-il-01-concepto-y-rasgos-de-los-derechos-humanos.webp",
+      "title": "Concepto y rasgos de los derechos humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue titularidad universal, ejercicio sujeto a límites legítimos y deber estatal de respetar, proteger y garantizar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V02",
+      "file": "t27-02-sistema-internacional-y-generaciones-de-derechos.webp",
+      "title": "Sistema internacional y generaciones de derechos",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Usa las generaciones para ordenar, nunca para justificar que un grupo de derechos valga menos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V03",
+      "file": "t27-03-nacimiento-adopcion-y-naturaleza-de-la-dudh.webp",
+      "title": "Nacimiento, adopción y naturaleza de la DUDH",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Fecha, órgano, resolución, naturaleza y treinta artículos forman el núcleo de memoria de este bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V04",
+      "file": "t27-04-dudh-dignidad-igualdad-y-no-discriminacion.webp",
+      "title": "DUDH: dignidad, igualdad y no discriminación",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas igualdad en dignidad del artículo 1 con la lista de motivos de no discriminación del artículo 2.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V05",
+      "file": "t27-il-05-dudh-vida-libertad-esclavitud-y-tortura.webp",
+      "title": "DUDH: vida, libertad, esclavitud y tortura",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza la escalera 3 vida-libertad-seguridad, 4 esclavitud-servidumbre, 5 tortura-malos tratos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V06",
+      "file": "t27-06-dudh-personalidad-juridica-y-garantias-judiciales.webp",
+      "title": "DUDH: personalidad jurídica y garantías judiciales",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Arbitrario no equivale a toda privación de libertad; la clave es ausencia de base, garantías o justificación legítima.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V07",
+      "file": "t27-07-dudh-vida-privada-circulacion-asilo-nacionalidad-y-f.webp",
+      "title": "DUDH: vida privada, circulación, asilo, nacionalidad y familia",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa salir y regresar, buscar y disfrutar asilo, nacionalidad y consentimiento matrimonial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V08",
+      "file": "t27-08-dudh-propiedad-pensamiento-expresion-y-participacion.webp",
+      "title": "DUDH: propiedad, pensamiento, expresión y participación",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Agrupa libertades intelectuales, libertades colectivas y participación democrática sin mezclar sus artículos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V09",
+      "file": "t27-09-dudh-derechos-sociales-culturales-y-nivel-de-vida.webp",
+      "title": "DUDH: derechos sociales, culturales y nivel de vida",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Trabajo, descanso, nivel de vida, educación y cultura forman una cadena social, no una lista inconexa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V10",
+      "file": "t27-10-dudh-orden-social-deberes-y-prohibicion-de-abuso.webp",
+      "title": "DUDH: orden social, deberes y prohibición de abuso",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La DUDH termina con condiciones de efectividad, deberes y una cláusula contra su propia destrucción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V11",
+      "file": "t27-11-cedh-origen-fechas-y-vinculo-de-espana.webp",
+      "title": "CEDH: origen, fechas y vínculo de España",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Consejo de Europa, Estrasburgo y tratado vinculante: no lo confundas con instituciones de la Unión Europea.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V12",
+      "file": "t27-12-cedh-estructura-y-obligacion-de-respetar-los-derecho.webp",
+      "title": "CEDH: estructura y obligación de respetar los derechos",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero protegen autoridades y jueces nacionales; Estrasburgo supervisa el cumplimiento del compromiso internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V13",
+      "file": "t27-13-cedh-derecho-a-la-vida.webp",
+      "title": "CEDH: derecho a la vida",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La expresión examinable es absolutamente necesaria, no simplemente conveniente, razonable o autorizada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V14",
+      "file": "t27-14-cedh-tortura-esclavitud-y-trabajo-forzoso.webp",
+      "title": "CEDH: tortura, esclavitud y trabajo forzoso",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La prohibición de tortura no se pondera; las excepciones listadas pertenecen al concepto de trabajo forzoso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V15",
+      "file": "t27-15-cedh-libertad-y-seguridad.webp",
+      "title": "CEDH: libertad y seguridad",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Supuestos tasados, información comprensible, control judicial rápido y reparación: cuatro piezas inseparables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V16",
+      "file": "t27-16-cedh-proceso-equitativo.webp",
+      "title": "CEDH: proceso equitativo",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No reduzcas el artículo 6 a juicio público: tribunal, plazo, presunción y defensa también son examinables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V17",
+      "file": "t27-17-cedh-legalidad-penal.webp",
+      "title": "CEDH: legalidad penal",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La pregunta trampa cambia momento del hecho por momento del juicio o elimina la referencia al Derecho internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V18",
+      "file": "t27-18-cedh-vida-privada-y-familiar.webp",
+      "title": "CEDH: vida privada y familiar",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aplica el test acumulativo: ley, finalidad legítima y necesidad democrática con proporcionalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V19",
+      "file": "t27-19-cedh-pensamiento-conciencia-y-religion.webp",
+      "title": "CEDH: pensamiento, conciencia y religión",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No mezcles convicción interna con manifestación externa: el régimen de límites no opera igual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V20",
+      "file": "t27-20-cedh-libertad-de-expresion.webp",
+      "title": "CEDH: libertad de expresión",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La libertad es amplia, pero el test de ley, fin legítimo y necesidad sigue presente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V21",
+      "file": "t27-il-21-cedh-reunion-asociacion-y-matrimonio.webp",
+      "title": "CEDH: reunión, asociación y matrimonio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pacífica es palabra clave; para Policía existe una cláusula expresa sobre restricciones legítimas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V22",
+      "file": "t27-22-cedh-recurso-efectivo-y-no-discriminacion.webp",
+      "title": "CEDH: recurso efectivo y no discriminación",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Recurso efectivo no equivale a recurso necesariamente estimado; discriminación del artículo 14 necesita conexión convencional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V23",
+      "file": "t27-23-cedh-derogaciones-extranjeros-y-abuso-de-derecho.webp",
+      "title": "CEDH: derogaciones, extranjeros y abuso de derecho",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza el núcleo inderogable y distingue derogación excepcional de restricción ordinaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V24",
+      "file": "t27-24-tedh-establecimiento-sede-y-jueces.webp",
+      "title": "TEDH: establecimiento, sede y jueces",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estrasburgo, lista de tres, Asamblea Parlamentaria, título individual y nueve años no renovables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V25",
+      "file": "t27-25-tedh-pleno-y-formaciones-judiciales.webp",
+      "title": "TEDH: Pleno y formaciones judiciales",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Asocia 1-3-7-17 con juez único, comité, Sala y Gran Sala.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V26",
+      "file": "t27-26-tedh-competencias-de-juez-unico-comite-y-sala.webp",
+      "title": "TEDH: competencias de juez único, comité y Sala",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cada formación tiene una función distinta; no atribuyas al juez único facultades de condena sobre el fondo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V27",
+      "file": "t27-27-tedh-jurisdiccion-y-demandas.webp",
+      "title": "TEDH: jurisdicción y demandas",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Víctima, Estado parte y no obstaculización son elementos centrales del artículo 34.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V28",
+      "file": "t27-28-tedh-admisibilidad-de-la-demanda-individual.webp",
+      "title": "TEDH: admisibilidad de la demanda individual",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El Protocolo 15 redujo el plazo a cuatro meses: seis meses es una trampa histórica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V29",
+      "file": "t27-29-tedh-examen-arreglo-amistoso-y-audiencia.webp",
+      "title": "TEDH: examen, arreglo amistoso y audiencia",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La lógica es resolver sin sacrificar protección: el Tribunal conserva una cláusula de salvaguardia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V30",
+      "file": "t27-30-tedh-sentencias-gran-sala-y-ejecucion.webp",
+      "title": "TEDH: sentencias, Gran Sala y ejecución",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El TEDH juzga; el Comité de Ministros supervisa ejecución. No intercambies esos papeles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V31",
+      "file": "t27-31-convencion-contra-la-tortura-adopcion-y-estructura.webp",
+      "title": "Convención contra la Tortura: adopción y estructura",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas Convención de 1984 y 33 artículos con Protocolo de 2002 y 37 artículos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V32",
+      "file": "t27-32-cat-definicion-internacional-de-tortura.webp",
+      "title": "CAT: definición internacional de tortura",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Aplica cuatro filtros: gravedad, intención, finalidad y conexión con poder público.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V33",
+      "file": "t27-il-33-cat-prevencion-y-prohibicion-absoluta.webp",
+      "title": "CAT: prevención y prohibición absoluta",
+      "type": "ilustracion_simple",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Artículo 2: ninguna excepción y ninguna orden superior. Es una prohibición sin puerta trasera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V34",
+      "file": "t27-34-cat-no-devolucion-y-riesgo-de-tortura.webp",
+      "title": "CAT: no devolución y riesgo de tortura",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No devolución cubre expulsar, devolver y extraditar; contexto y riesgo individual se valoran juntos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V35",
+      "file": "t27-35-cat-tipificacion-y-jurisdiccion.webp",
+      "title": "CAT: tipificación y jurisdicción",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La Convención busca evitar refugios seguros: tipificar, localizar, extraditar o someter a autoridades competentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V36",
+      "file": "t27-36-cat-custodia-enjuiciamiento-extradicion-y-asistencia.webp",
+      "title": "CAT: custodia, enjuiciamiento, extradición y asistencia",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La cadena operativa es asegurar presencia, investigar, extraditar o enjuiciar y cooperar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V37",
+      "file": "t27-37-cat-formacion-reglas-de-custodia-e-investigacion.webp",
+      "title": "CAT: formación, reglas de custodia e investigación",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevención significa formar y revisar antes; investigación significa actuar pronta e imparcialmente cuando surge el indicio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V38",
+      "file": "t27-38-cat-denuncia-reparacion-prueba-y-otros-malos-tratos.webp",
+      "title": "CAT: denuncia, reparación, prueba y otros malos tratos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La excepción probatoria no valida la confesión: sirve contra el presunto torturador para acreditar su existencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V39",
+      "file": "t27-39-comite-contra-la-tortura-composicion-y-funcionamient.webp",
+      "title": "Comité contra la Tortura: composición y funcionamiento",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: CAT son diez expertos; SPT pasa de diez a veinticinco. La confusión entre ambos cae mucho.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V40",
+      "file": "t27-40-cat-informes-investigacion-y-comunicaciones.webp",
+      "title": "CAT: informes, investigación y comunicaciones",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue informe periódico obligatorio, investigación del artículo 20 y comunicaciones sujetas a declaración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V41",
+      "file": "t27-41-opcat-objetivo-doble-sistema-y-lugares-de-detencion.webp",
+      "title": "OPCAT: objetivo, doble sistema y lugares de detención",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cambio de paradigma es visitar antes de que ocurra el daño: prevención internacional más prevención nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V42",
+      "file": "t27-42-spt-principios-y-composicion.webp",
+      "title": "SPT: principios y composición",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza 10 → 25 al llegar la ratificación 50 y los cinco principios de actuación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V43",
+      "file": "t27-43-spt-candidaturas-eleccion-y-mandato.webp",
+      "title": "SPT: candidaturas, elección y mandato",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No traslades reglas del TEDH al SPT: aquí cuatro años y una reelección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V44",
+      "file": "t27-44-spt-mandato-y-cooperacion-estatal.webp",
+      "title": "SPT: mandato y cooperación estatal",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El SPT no condena: visita, recomienda, asesora y dialoga.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V45",
+      "file": "t27-45-opcat-programa-de-visitas-y-facultades-de-acceso.webp",
+      "title": "OPCAT: programa de visitas y facultades de acceso",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Acceso real exige poder elegir lugar, persona y entrevista privada; si la autoridad selecciona todo, la prevención se vacía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V46",
+      "file": "t27-il-46-opcat-represalias-confidencialidad-y-publicacion.webp",
+      "title": "OPCAT: represalias, confidencialidad y publicación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Confidencial no significa impune: el sistema prevé publicidad escalonada ante falta grave de cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V47",
+      "file": "t27-47-mnp-designacion-independencia-y-recursos.webp",
+      "title": "MNP: designación, independencia y recursos",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sin independencia, conocimientos y recursos, la etiqueta MNP es solo decorativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V48",
+      "file": "t27-48-mnp-competencias-informacion-y-entrevistas.webp",
+      "title": "MNP: competencias, información y entrevistas",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Las competencias nacionales reflejan el mismo triángulo: visitar, recomendar y proponer mejoras normativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V49",
+      "file": "t27-49-opcat-garantias-nacionales-informes-y-clausulas-fina.webp",
+      "title": "OPCAT: garantías nacionales, informes y cláusulas finales",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El cierre del Protocolo protege la independencia: no reservas, no represalias, informes públicos y recursos de apoyo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V50",
+      "file": "t27-50-espana-designacion-del-defensor-del-pueblo-como-mnp.webp",
+      "title": "España: designación del Defensor del Pueblo como MNP",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Defensor del Pueblo es el MNP; Consejo Asesor coopera, no sustituye al titular.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V51",
+      "file": "t27-51-mnp-espanol-prevencion-de-oficio-y-diferencia-con-qu.webp",
+      "title": "MNP español: prevención de oficio y diferencia con quejas",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevención visita de oficio; queja investiga un caso. Confundir ambas funciones lleva directo a la opción trampa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V52",
+      "file": "t27-52-mnp-espanol-centros-visitables-acceso-y-colaboracion.webp",
+      "title": "MNP español: centros visitables, acceso y colaboración",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en la situación de la persona, no en el rótulo del edificio: si no puede salir libremente, puede entrar en el mapa preventivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V53",
+      "file": "t27-53-mnp-espanol-recomendaciones-seguimiento-e-informes.webp",
+      "title": "MNP español: recomendaciones, seguimiento e informes",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El MNP recomienda y sigue; jueces y autoridades sancionadoras conservan sus propias competencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V54",
+      "file": "t27-54-consejo-asesor-del-mnp-composicion.webp",
+      "title": "Consejo Asesor del MNP: composición",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Máximo diez vocales, cuatro años, renovación parcial cada dos y dos Adjuntos natos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T27-V55",
+      "file": "t27-55-consejo-asesor-del-mnp-funciones-y-reuniones.webp",
+      "title": "Consejo Asesor del MNP: funciones y reuniones",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Funciones: visitas, protocolos, normativa, formación y seguimiento; frecuencia mínima: dos reuniones al año.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}
