@@ -1,0 +1,112 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-42",
+  "topic_number": 42,
+  "slug": "origen-armas-fuego-reglamento-cartucho-balistica-forense",
+  "title": "Origen de las armas de fuego. Definición, clasificación, categorías y funcionamiento de las armas de fuego: especial referencia al Reglamento de Armas. Cartucho: definición y componentes. Armas prohibidas. Documentación que ampara la tenencia y porte de armas. Balística forense.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-42/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-42-origen-armas-fuego-reglamento-cartucho-balistica-forense.md",
+    "atestado": "temas/policia-nacional/atestado/tema-42-origen-armas-fuego-reglamento-cartucho-balistica-forense.md"
+  },
+  "semantic_blocks": 99,
+  "atomic_facts": 396,
+  "master_statements": 396,
+  "coverage_file": "conocimiento/policia-nacional/tema-42/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T42",
+    "BOE-RA-T42",
+    "RD726-2020-T42",
+    "GC-CLASS-T42",
+    "GC-LICENSES-T42",
+    "GC-GUIDES-T42",
+    "GC-COLLECTOR-T42",
+    "MUSEO-EJERCITO-T42",
+    "INTERIOR-PC-T42",
+    "SECRIM-2024-T42",
+    "NIST-OSAC-T42",
+    "FBI-GSR-T42",
+    "FBI-LAB-T42",
+    "NIJ-BALLISTICS-T42"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q084",
+    "of-pn-p33-a-q085",
+    "of-pn-p34-a-q056",
+    "of-pn-p34-a-q060",
+    "of-pn-p35-a-q036",
+    "of-pn-p35-a-q066",
+    "of-pn-p35-a-q083",
+    "of-pn-p35-a-q089",
+    "of-pn-p35-a-q090",
+    "of-pn-p36-a-q009",
+    "of-pn-p36-a-q017",
+    "of-pn-p36-a-q050",
+    "of-pn-p36-a-q092",
+    "of-pn-p37-a-q052",
+    "of-pn-p37-a-q062",
+    "of-pn-p37-a-q096",
+    "of-pn-p38-a-q093",
+    "of-pn-p39-a-q038",
+    "of-pn-p39-a-q091",
+    "of-pn-p40-a-q027",
+    "of-pn-p40-a-q041",
+    "of-pn-p40-a-q085",
+    "of-pn-p41-a-q023",
+    "of-pn-p41-a-q031",
+    "of-pn-p42-a-q054"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-42/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-42/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-42/manifest.json",
+    "questions": 792,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-42/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-42/manifest.json",
+    "total": 0,
+    "planned": 99
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-42/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-42/revision-1.0.md"
+  }
+}

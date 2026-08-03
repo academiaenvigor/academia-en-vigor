@@ -1,0 +1,208 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-42",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-42",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Origen, concepto y elementos del arma de fuego",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Clasificación técnica y funcionamiento",
+      "blocks": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "anchor_blocks": [
+        "12"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Categorías del Reglamento de Armas",
+      "blocks": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "anchor_blocks": [
+        "24"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Cartucho, componentes y ciclo del disparo",
+      "blocks": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "anchor_blocks": [
+        "39"
+      ]
+    },
+    {
+      "id": "p5",
+      "number": 5,
+      "title": "Armas y municiones prohibidas o restringidas",
+      "blocks": [
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64"
+      ],
+      "anchor_blocks": [
+        "52"
+      ]
+    },
+    {
+      "id": "p6",
+      "number": 6,
+      "title": "Documentación de tenencia, porte y uso",
+      "blocks": [
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81"
+      ],
+      "anchor_blocks": [
+        "65"
+      ]
+    },
+    {
+      "id": "p7",
+      "number": 7,
+      "title": "Balística interna, externa y de efectos",
+      "blocks": [
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89"
+      ],
+      "anchor_blocks": [
+        "82"
+      ]
+    },
+    {
+      "id": "p8",
+      "number": 8,
+      "title": "Balística forense e identificación",
+      "blocks": [
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99"
+      ],
+      "anchor_blocks": [
+        "90"
+      ]
+    }
+  ],
+  "resources": []
+}

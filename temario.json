@@ -990,6 +990,30 @@
           "official_exam_mapped": 14,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 42,
+          "slug": "origen-armas-fuego-reglamento-cartucho-balistica-forense",
+          "title": "Origen de las armas de fuego. Definición, clasificación, categorías y funcionamiento de las armas de fuego: especial referencia al Reglamento de Armas. Cartucho: definición y componentes. Armas prohibidas. Documentación que ampara la tenencia y porte de armas. Balística forense.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-42/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-42-origen-armas-fuego-reglamento-cartucho-balistica-forense.md",
+          "atestado": "temas/policia-nacional/atestado/tema-42-origen-armas-fuego-reglamento-cartucho-balistica-forense.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-42/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-42/plan.json",
+          "assets": "assets/policia-nacional/tema-42/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-42/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-42/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 99,
+          "atomic_facts": 396,
+          "question_count": 792,
+          "official_exam_mapped": 25,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

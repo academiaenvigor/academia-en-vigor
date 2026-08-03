@@ -280,6 +280,14 @@
       "traceable": true
     },
     {
+      "id": "BOE-RA-T42",
+      "title": "Real Decreto 137/1993 · Reglamento de Armas consolidado",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202",
+      "scope": "definiciones, categorías, prohibiciones, licencias, guías y tarjetas",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "BONINGER-1995-T29",
       "title": "Boninger, Krosnick y Berent: Origins of Attitude Importance",
       "url": "https://doi.org/10.1037/0022-3514.68.1.61",
@@ -872,6 +880,14 @@
       "traceable": true
     },
     {
+      "id": "CONVOCATORIA-PN-2026-T42",
+      "title": "Convocatoria de Escala Básica 2026 · Tema 42",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial completo",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COOLEY-1909-T29",
       "title": "Charles H. Cooley: Social Organization, Primary Groups",
       "url": "https://brocku.ca/MeadProject/Cooley/Cooley_1909/Cooley_1909.html",
@@ -1273,10 +1289,26 @@
       "traceable": true
     },
     {
+      "id": "FBI-GSR-T42",
+      "title": "FBI · Current Status of Gunshot Residue Examinations",
+      "url": "https://leb.fbi.gov/articles/featured-articles/the-current-status-of-gsr-examinations",
+      "scope": "formación, recogida, transferencia e interpretación de residuos de disparo",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "FBI-IC3-2025-T41",
       "title": "FBI IC3 · Internet Crime Report 2025",
       "url": "https://www.fbi.gov/file-repository/2025_ic3report.pdf",
       "scope": "definición operativa de BEC y fraudes digitales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "FBI-LAB-T42",
+      "title": "FBI Laboratory · Firearms and Toolmarks",
+      "url": "https://www.fbi.gov/how-we-investigate/laboratory-division",
+      "scope": "armas, munición, marcas, trayectorias, distancia y patrones de perdigones",
       "official": true,
       "traceable": true
     },
@@ -1335,6 +1367,38 @@
       "url": "https://archive.org/details/criminologia00garo",
       "scope": "delito natural, temibilidad y peligrosidad histórica",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "GC-CLASS-T42",
+      "title": "Guardia Civil · Clasificación de las armas",
+      "url": "https://web.guardiacivil.es/es/tramites/autorizaciones-de-armas-y-explosivos/clasifica_armas/",
+      "scope": "categorías reglamentarias vigentes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "GC-COLLECTOR-T42",
+      "title": "Guardia Civil · Libro y autorización de coleccionista",
+      "url": "https://web.guardiacivil.es/es/tramites/autorizaciones-de-armas-y-explosivos/Autorizaciones-de-libro-de-coleccionista-de-armas/",
+      "scope": "armas antiguas, históricas, avancarga y Flobert",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "GC-GUIDES-T42",
+      "title": "Guardia Civil · Guías de pertenencia",
+      "url": "https://web.guardiacivil.es/es/tramites/autorizaciones-de-armas-y-explosivos/controldearmas/guias_pertenencia/",
+      "scope": "armas documentadas, contenido, expedición y acompañamiento",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "GC-LICENSES-T42",
+      "title": "Guardia Civil · Licencias de armas B, C, D, E y F",
+      "url": "https://web.guardiacivil.es/es/tramites/autorizaciones-de-armas-y-explosivos/controldearmas/autorizaci_armas/",
+      "scope": "licencias, requisitos y condiciones de uso",
+      "official": true,
       "traceable": true
     },
     {
@@ -1699,6 +1763,14 @@
       "title": "Ministerio del Interior, balances trimestrales de criminalidad",
       "url": "https://www.interior.gob.es/opencms/es/prensa/balances-e-informes/",
       "scope": "criminalidad registrada y reglas de lectura temporal",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INTERIOR-PC-T42",
+      "title": "Ministerio del Interior · Comisaría General de Policía Científica",
+      "url": "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/carteles-y-tripticos/Comisaria-General-de-Policia-Cientifica_126211048_Espanol.pdf",
+      "scope": "áreas identificativa, operativa e informática/ingeniería de balística forense",
       "official": true,
       "traceable": true
     },
@@ -2699,6 +2771,14 @@
       "traceable": true
     },
     {
+      "id": "MUSEO-EJERCITO-T42",
+      "title": "Museo del Ejército · Armas de fuego portátiles",
+      "url": "https://ejercito.defensa.gob.es/museo/exposiciones/exposicion_permanente/recorrido_tematico/",
+      "scope": "origen y evolución de sistemas de ignición, retrocarga, repetición y automatización",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "NEWMAN-1972-T33",
       "title": "Oscar Newman, Defensible Space",
       "url": "https://archive.org/details/defensiblespacec00newm",
@@ -2707,10 +2787,26 @@
       "traceable": true
     },
     {
+      "id": "NIJ-BALLISTICS-T42",
+      "title": "NIJ · Forensic science glossary and ballistics",
+      "url": "https://www.ojp.gov/pdffiles1/nij/252016.pdf",
+      "scope": "balística interna, externa y terminal",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "NIST-IR7298-T41",
       "title": "NIST IR 7298 Rev. 2 · Glossary of Key Information Security Terms",
       "url": "https://nvlpubs.nist.gov/nistpubs/ir/2013/nist.ir.7298r2.pdf",
       "scope": "malware, amenaza interna, vulnerabilidad y explotación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "NIST-OSAC-T42",
+      "title": "NIST OSAC · Firearms Process Map",
+      "url": "https://www.nist.gov/system/files/documents/2022/11/30/OSAC%20Firearms%20Process%20Map%20FINAL_January2021.pdf",
+      "scope": "examen, comparación, evaluación, verificación y límites del proceso",
       "official": true,
       "traceable": true
     },
@@ -3628,6 +3724,14 @@
       "traceable": true
     },
     {
+      "id": "RD726-2020-T42",
+      "title": "Real Decreto 726/2020 · modificación del Reglamento de Armas",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-9134",
+      "scope": "componentes esenciales, trazabilidad, categorías y documentación",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RD769-1987-T09",
       "title": "Real Decreto 769/1987, regulación de la Policía Judicial",
       "boe_id": "BOE-A-1987-14578",
@@ -4015,6 +4119,14 @@
       "url": "https://archive.org/details/crimeinmakingpat0000samp",
       "scope": "curso de vida, control informal e integración",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "SECRIM-2024-T42",
+      "title": "Ministerio del Interior · Guía de servicios SECRIM 2024",
+      "url": "https://www.interior.gob.es/opencms/pdf/archivos-y-documentacion/documentacion-y-publicaciones/publicaciones-descargables/seguridad-ciudadana/Guia_de_servicios_CRIMINALISTICA_126240639_pdfWEB.pdf",
+      "scope": "balística funcional, identificativa, operativa y elementos de munición",
+      "official": true,
       "traceable": true
     },
     {
