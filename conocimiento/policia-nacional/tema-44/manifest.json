@@ -1,0 +1,92 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-44",
+  "topic_number": 44,
+  "slug": "seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos",
+  "title": "La Seguridad en la Conducción de Vehículos Prioritarios. Definición de Seguridad Activa y Pasiva. Sistemas de Seguridad Activa y Pasiva en vehículos tipo turismo y motocicleta. Influencia de los Sistemas de Seguridad en los accidentes de tráfico. Repercusión de los Sistemas de Seguridad en la conducción policial y traslado de detenidos.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-44/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-44-seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos.md",
+    "atestado": "temas/policia-nacional/atestado/tema-44-seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos.md"
+  },
+  "semantic_blocks": 80,
+  "atomic_facts": 320,
+  "master_statements": 320,
+  "coverage_file": "conocimiento/policia-nacional/tema-44/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T44",
+    "BOE-LSV-T44",
+    "BOE-RGC-T44",
+    "BOE-RGV-T44",
+    "EU-GSR-2019-2144-T44",
+    "DGT-EFECTIVIDAD-2022-T44",
+    "DGT-ADAS-T44",
+    "EU-L-168-2013-T44",
+    "DGT-MOTOS-2021-T44",
+    "BOE-INT-2573-2015-T44",
+    "BOE-RP-190-1996-T44",
+    "INTERIOR-INST-1-2024-T44"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q092",
+    "of-pn-p34-a-q068",
+    "of-pn-p35-a-q012",
+    "of-pn-p36-a-q003",
+    "of-pn-p37-a-q091",
+    "of-pn-p38-a-q097",
+    "of-pn-p41-a-q012"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-44/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-44/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-44/manifest.json",
+    "questions": 640,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-44/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-44/manifest.json",
+    "total": 0,
+    "planned": 80
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-44/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-44/revision-1.0.md"
+  }
+}

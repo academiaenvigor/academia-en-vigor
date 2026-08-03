@@ -1,0 +1,501 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 44,
+  "topic_title": "La Seguridad en la Conducción de Vehículos Prioritarios. Definición de Seguridad Activa y Pasiva. Sistemas de Seguridad Activa y Pasiva en vehículos tipo turismo y motocicleta. Influencia de los Sistemas de Seguridad en los accidentes de tráfico. Repercusión de los Sistemas de Seguridad en la conducción policial y traslado de detenidos.",
+  "id_prefix": "PN-T44",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-44/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-44/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y método del Tema 44"
+      },
+      {
+        "number": 2,
+        "title": "Urgencia, prioridad y seguridad"
+      },
+      {
+        "number": 3,
+        "title": "Conducción defensiva VEA"
+      },
+      {
+        "number": 4,
+        "title": "Dinámica de la velocidad"
+      },
+      {
+        "number": 5,
+        "title": "Adherencia y transferencia de masas"
+      },
+      {
+        "number": 6,
+        "title": "Intersecciones en servicio urgente"
+      },
+      {
+        "number": 7,
+        "title": "Elección de trayectoria y escape"
+      },
+      {
+        "number": 8,
+        "title": "Uso de señales y carga mental"
+      },
+      {
+        "number": 9,
+        "title": "Comprobación previa del vehículo"
+      },
+      {
+        "number": 10,
+        "title": "Después de una incidencia"
+      },
+      {
+        "number": 11,
+        "title": "Seguridad activa o primaria"
+      },
+      {
+        "number": 12,
+        "title": "Seguridad pasiva o secundaria"
+      },
+      {
+        "number": 13,
+        "title": "Seguridad terciaria"
+      },
+      {
+        "number": 14,
+        "title": "Seguridad integrada"
+      },
+      {
+        "number": 15,
+        "title": "Sistema, función y componente"
+      },
+      {
+        "number": 16,
+        "title": "Ayuda a la conducción y responsabilidad"
+      },
+      {
+        "number": 17,
+        "title": "Sensor, entorno y degradación"
+      },
+      {
+        "number": 18,
+        "title": "Mantenimiento y calibración"
+      },
+      {
+        "number": 19,
+        "title": "Homologación y uso real"
+      },
+      {
+        "number": 20,
+        "title": "Trampa de las cifras universales"
+      },
+      {
+        "number": 21,
+        "title": "Estructura y célula de supervivencia"
+      },
+      {
+        "number": 22,
+        "title": "Cinturón de tres puntos"
+      },
+      {
+        "number": 23,
+        "title": "Pretensor y limitador de carga"
+      },
+      {
+        "number": 24,
+        "title": "Reposacabezas y latigazo cervical"
+      },
+      {
+        "number": 25,
+        "title": "Airbag como complemento"
+      },
+      {
+        "number": 26,
+        "title": "Sistemas de retención infantil"
+      },
+      {
+        "number": 27,
+        "title": "Asientos y anclajes"
+      },
+      {
+        "number": 28,
+        "title": "Cristales y parabrisas"
+      },
+      {
+        "number": 29,
+        "title": "Columna de dirección y pedales"
+      },
+      {
+        "number": 30,
+        "title": "Protección de usuarios vulnerables"
+      },
+      {
+        "number": 31,
+        "title": "Neumático como único contacto"
+      },
+      {
+        "number": 32,
+        "title": "Sistema de frenado y reparto"
+      },
+      {
+        "number": 33,
+        "title": "ABS"
+      },
+      {
+        "number": 34,
+        "title": "Asistencia a la frenada"
+      },
+      {
+        "number": 35,
+        "title": "Control electrónico de estabilidad"
+      },
+      {
+        "number": 36,
+        "title": "Control de tracción"
+      },
+      {
+        "number": 37,
+        "title": "Dirección y suspensión"
+      },
+      {
+        "number": 38,
+        "title": "Alumbrado y visibilidad"
+      },
+      {
+        "number": 39,
+        "title": "TPMS"
+      },
+      {
+        "number": 40,
+        "title": "Mantenimiento como seguridad activa"
+      },
+      {
+        "number": 41,
+        "title": "Calendario escalonado del GSR"
+      },
+      {
+        "number": 42,
+        "title": "Aviso de colisión frontal"
+      },
+      {
+        "number": 43,
+        "title": "Frenada autónoma de emergencia"
+      },
+      {
+        "number": 44,
+        "title": "Aviso y mantenimiento de carril"
+      },
+      {
+        "number": 45,
+        "title": "ISA"
+      },
+      {
+        "number": 46,
+        "title": "ACC"
+      },
+      {
+        "number": 47,
+        "title": "Ángulo muerto y tráfico cruzado"
+      },
+      {
+        "number": 48,
+        "title": "Somnolencia y distracción"
+      },
+      {
+        "number": 49,
+        "title": "Detector de marcha atrás"
+      },
+      {
+        "number": 50,
+        "title": "EDR y llamada de emergencia"
+      },
+      {
+        "number": 51,
+        "title": "Vulnerabilidad específica de la motocicleta"
+      },
+      {
+        "number": 52,
+        "title": "Neumáticos de motocicleta"
+      },
+      {
+        "number": 53,
+        "title": "Frenado combinado y reparto"
+      },
+      {
+        "number": 54,
+        "title": "ABS en motocicleta"
+      },
+      {
+        "number": 55,
+        "title": "ABS en curva e IMU"
+      },
+      {
+        "number": 56,
+        "title": "Control de tracción en motocicleta"
+      },
+      {
+        "number": 57,
+        "title": "Casco homologado y ajuste"
+      },
+      {
+        "number": 58,
+        "title": "Ropa, guantes, botas y protecciones"
+      },
+      {
+        "number": 59,
+        "title": "Airbag de motorista"
+      },
+      {
+        "number": 60,
+        "title": "Conducción con pasajero y carga"
+      },
+      {
+        "number": 61,
+        "title": "Cadena del siniestro"
+      },
+      {
+        "number": 62,
+        "title": "Probabilidad frente a severidad"
+      },
+      {
+        "number": 63,
+        "title": "Efectividad combinada"
+      },
+      {
+        "number": 64,
+        "title": "Compensación del riesgo"
+      },
+      {
+        "number": 65,
+        "title": "Uso real y tasa de activación"
+      },
+      {
+        "number": 66,
+        "title": "Siniestros evitables y no cubiertos"
+      },
+      {
+        "number": 67,
+        "title": "Compatibilidad entre ocupante y retención"
+      },
+      {
+        "number": 68,
+        "title": "Mantenimiento y siniestralidad"
+      },
+      {
+        "number": 69,
+        "title": "Datos, EDR y atribución"
+      },
+      {
+        "number": 70,
+        "title": "Jerarquía preventiva"
+      },
+      {
+        "number": 71,
+        "title": "Conducción policial convencional y urgente"
+      },
+      {
+        "number": 72,
+        "title": "Cinturón en servicios de urgencia"
+      },
+      {
+        "number": 73,
+        "title": "Distribución de tareas en el vehículo policial"
+      },
+      {
+        "number": 74,
+        "title": "Traslado digno y seguro"
+      },
+      {
+        "number": 75,
+        "title": "Ámbito temporal de la Orden INT/2573/2015"
+      },
+      {
+        "number": 76,
+        "title": "Vehículos de hasta nueve plazas"
+      },
+      {
+        "number": 77,
+        "title": "Habitabilidad y alumbrado"
+      },
+      {
+        "number": 78,
+        "title": "Compartimento, asientos y retención"
+      },
+      {
+        "number": 79,
+        "title": "Vigilancia, salidas y extintor"
+      },
+      {
+        "number": 80,
+        "title": "Vehículos de más de nueve plazas"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Seguridad en la conducción de vehículos prioritarios",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Conceptos y arquitectura de la seguridad vehicular",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Seguridad pasiva en turismos",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Seguridad activa básica en turismos",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "ADAS, reglamento europeo y límites de asistencia",
+        "blocks": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Seguridad activa y pasiva en motocicletas",
+        "blocks": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Influencia de los sistemas en los siniestros",
+        "blocks": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Conducción policial y traslado de detenidos",
+        "blocks": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

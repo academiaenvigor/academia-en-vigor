@@ -1038,6 +1038,30 @@
           "official_exam_mapped": 9,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 44,
+          "slug": "seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos",
+          "title": "La Seguridad en la Conducción de Vehículos Prioritarios. Definición de Seguridad Activa y Pasiva. Sistemas de Seguridad Activa y Pasiva en vehículos tipo turismo y motocicleta. Influencia de los Sistemas de Seguridad en los accidentes de tráfico. Repercusión de los Sistemas de Seguridad en la conducción policial y traslado de detenidos.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-44/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-44-seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos.md",
+          "atestado": "temas/policia-nacional/atestado/tema-44-seguridad-conduccion-prioritarios-activa-pasiva-traslado-detenidos.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-44/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-44/plan.json",
+          "assets": "assets/policia-nacional/tema-44/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-44/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-44/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 80,
+          "atomic_facts": 320,
+          "question_count": 640,
+          "official_exam_mapped": 7,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

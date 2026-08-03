@@ -1,0 +1,187 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 44,
+  "titulo": "La Seguridad en la Conducción de Vehículos Prioritarios. Definición de Seguridad Activa y Pasiva. Sistemas de Seguridad Activa y Pasiva en vehículos tipo turismo y motocicleta. Influencia de los Sistemas de Seguridad en los accidentes de tráfico. Repercusión de los Sistemas de Seguridad en la conducción policial y traslado de detenidos.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 7,
+  "con_bloque_asignado": 7,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "24": 1,
+    "57": 1,
+    "22": 2,
+    "21": 1,
+    "31": 1,
+    "41": 1
+  },
+  "por_promocion": {
+    "P33": 1,
+    "P34": 1,
+    "P35": 1,
+    "P36": 1,
+    "P37": 1,
+    "P38": 1,
+    "P41": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q092",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 92,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "PN-T44-F093"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Para que el reposacabezas de un vehículo sea eficaz evitando el efecto látigo y minimizando las lesiones corporales, debe estar colocado de forma correcta, es decir, el borde superior debe estar entre el borde superior de la cabeza y la altura de los ojos, y la separación entre cabeza y reposacabezas debe ser:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q068",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 68,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "PN-T44-F225"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "De los siguientes elementos, no se considera como integrante de la seguridad pasiva en una motocicleta:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q012",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 12,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "PN-T44-F085"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Indique qué elemento de los siguientes forma parte de la seguridad pasiva del vehículo:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q003",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 3,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "PN-T44-F081"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "NO es un elemento integrante de la seguridad vial pasiva de los vehículos el:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q091",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 91,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T44-F121"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cuando hablamos de seguridad activa y pasiva de un vehículo, la función principal de un dibujo de neumáticos es, canalizar y evacuar el agua de la superficie del suelo, siendo su profundidad, según la legislación vigente de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q097",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 97,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "PN-T44-F161"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué son los ADAS?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q012",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 12,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "PN-T44-F085"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Dentro de los sistemas de seguridad en el vehículo, ¿cuál NO pertenece al sistema de seguridad pasiva?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}
