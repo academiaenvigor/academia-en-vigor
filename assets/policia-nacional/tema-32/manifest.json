@@ -1,0 +1,2227 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-32",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 69,
+    "integrated": 0,
+    "planned": 69
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T32-V01",
+      "file": "t32-il-01-concepto-de-geografia-humana.webp",
+      "title": "Concepto de geografía humana",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en una relación de doble sentido: la sociedad organiza el espacio y el espacio condiciona posibilidades sin dictar el resultado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V02",
+      "file": "t32-02-sociedad-espacio-y-medio.webp",
+      "title": "Sociedad, espacio y medio",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Evita los determinismos: condición física no equivale a destino social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V03",
+      "file": "t32-03-ramas-de-la-geografia-humana.webp",
+      "title": "Ramas de la geografía humana",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica la rama por la pregunta central, no por una palabra suelta del enunciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V04",
+      "file": "t32-04-lugar-region-paisaje-y-territorio.webp",
+      "title": "Lugar, región, paisaje y territorio",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lugar aporta significado; región delimita; paisaje muestra; territorio organiza y ejerce poder.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V05",
+      "file": "t32-il-05-escala-localizacion-y-situacion.webp",
+      "title": "Escala, localización y situación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Coordenada localiza; relación sitúa; escala decide cuánto detalle ves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V06",
+      "file": "t32-06-distribucion-densidad-y-accesibilidad.webp",
+      "title": "Distribución, densidad y accesibilidad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La media territorial puede esconder vacíos y concentraciones; añade siempre distribución y conexiones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V07",
+      "file": "t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp",
+      "title": "Enfoques y métodos de la geografía humana",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los enfoques no se excluyen: cada uno ilumina una dimensión y tiene límites.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V08",
+      "file": "t32-08-concepto-operativo-de-ciudad.webp",
+      "title": "Concepto operativo de ciudad",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una cifra sola no define toda ciudad: cruza población, forma, función y administración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V09",
+      "file": "t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp",
+      "title": "Grado de urbanización y comparación internacional",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue clasificación estadística comparable y estatuto administrativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V10",
+      "file": "t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp",
+      "title": "Emplazamiento, situación, función y jerarquía",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sitio es dónde se asienta; situación, con qué se conecta; función, qué hace; jerarquía, hasta dónde influye.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V11",
+      "file": "t32-11-urbanizacion-y-crecimiento-urbano.webp",
+      "title": "Urbanización y crecimiento urbano",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Urbanización mide proporción; crecimiento mide volumen; expansión mide huella.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V12",
+      "file": "t32-12-morfologia-y-plano-urbano.webp",
+      "title": "Morfología y plano urbano",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lee el plano como una biografía: cada trama deja la huella de una etapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V13",
+      "file": "t32-13-planos-irregular-ortogonal-radial-y-lineal.webp",
+      "title": "Planos irregular, ortogonal, radial y lineal",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Identifica la geometría dominante: laberinto, cuadrícula, radios o eje.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V14",
+      "file": "t32-14-centro-historico-ensanche-y-periferia.webp",
+      "title": "Centro histórico, ensanche y periferia",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue etapa y función sin convertir centro-periferia en una etiqueta social absoluta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V15",
+      "file": "t32-15-red-urbana-y-areas-de-influencia.webp",
+      "title": "Red urbana y áreas de influencia",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La red existe por los flujos; sin relaciones solo hay puntos sobre un mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V16",
+      "file": "t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp",
+      "title": "Metrópolis, área metropolitana, conurbación y megalópolis",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La conurbación nace de varios núcleos; el área metropolitana se reconoce por su integración funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V17",
+      "file": "t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp",
+      "title": "Suburbanización, periurbanización y rururbanización",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La corona exterior no es un vacío: combina desplazamiento residencial, nuevos usos y dependencia funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V18",
+      "file": "t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp",
+      "title": "Desurbanización, reurbanización y ciudad compacta",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Recuperar y compactar exige calidad y equidad; densidad sola no resuelve la ciudad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V19",
+      "file": "t32-il-19-segregacion-gueto-y-gentrificacion.webp",
+      "title": "Segregación, gueto y gentrificación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Rehabilitar un edificio no basta para definir gentrificación: observa revalorización, cambio social y desplazamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V20",
+      "file": "t32-20-ciudad-jardin-y-ciudad-lineal.webp",
+      "title": "Ciudad jardín y ciudad lineal",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Howard dibuja núcleos con cinturón verde; Soria despliega la ciudad sobre un eje.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V21",
+      "file": "t32-21-escuela-de-chicago-y-ecologia-urbana.webp",
+      "title": "Escuela de Chicago y ecología urbana",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Es una analogía ecológica para estudiar organización social y espacio, no una ley biológica de la ciudad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V22",
+      "file": "t32-il-22-modelo-concentrico-de-burgess.webp",
+      "title": "Modelo concéntrico de Burgess",
+      "type": "ilustracion_simple",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Burgess piensa en anillos; recuerda que el mapa real puede deformarlos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V23",
+      "file": "t32-23-modelo-sectorial-de-homer-hoyt.webp",
+      "title": "Modelo sectorial de Homer Hoyt",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Hoyt corta la diana de Burgess en cuñas que siguen corredores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V24",
+      "file": "t32-il-24-modelo-de-nucleos-multiples.webp",
+      "title": "Modelo de núcleos múltiples",
+      "type": "ilustracion_simple",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciudad deja de ser una diana única y funciona como constelación de centros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V25",
+      "file": "t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp",
+      "title": "Urbanismo como modo de vida: Louis Wirth",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla TDH: tamaño, densidad y heterogeneidad; después analiza efectos, no destinos inevitables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V26",
+      "file": "t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp",
+      "title": "Geografía cuantitativa y análisis espacial urbano",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El número ayuda a contrastar patrones; no sustituye la calidad de datos ni la explicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V27",
+      "file": "t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp",
+      "title": "Enfoques perceptivo, humanista y crítico de la ciudad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciudad también se percibe, se vive y se disputa; no es solo forma edificada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V28",
+      "file": "t32-28-ciudades-segun-su-funcion-predominante.webp",
+      "title": "Ciudades según su función predominante",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Función predominante no significa función exclusiva.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V29",
+      "file": "t32-29-formas-de-la-red-urbana.webp",
+      "title": "Formas de la red urbana",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira la silueta de las conexiones: mancha, línea, radios o ramas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V30",
+      "file": "t32-30-poblacion-absoluta-y-poblacion-relativa.webp",
+      "title": "Población absoluta y población relativa",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Absoluta cuenta personas; relativa pone la cifra en relación con otra magnitud.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V31",
+      "file": "t32-31-distribucion-de-la-poblacion.webp",
+      "title": "Distribución de la población",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa estado y tendencia: baja densidad es una foto; despoblación, una trayectoria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V32",
+      "file": "t32-32-estructura-por-sexo-y-edad.webp",
+      "title": "Estructura por sexo y edad",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El total puede no moverse mientras cambia por completo quiénes lo componen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V33",
+      "file": "t32-33-piramides-de-poblacion.webp",
+      "title": "Pirámides de población",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Base ancha expande; lados equilibrados estacionan; base estrecha envejece.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V34",
+      "file": "t32-34-estructura-economica-y-actividad.webp",
+      "title": "Estructura económica y actividad",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Activa suma ocupadas y paradas; sin empleo no basta para ser parada estadística.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V35",
+      "file": "t32-il-35-estructura-social-posicion-y-rol.webp",
+      "title": "Estructura social, posición y rol",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estatus responde dónde estás; rol, qué se espera que hagas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V36",
+      "file": "t32-36-estratificacion-y-movilidad-social.webp",
+      "title": "Estratificación y movilidad social",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Vertical cambia escalón; horizontal cambia lugar; intergeneracional compara generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V37",
+      "file": "t32-37-grupos-sociales-y-categorias-estadisticas.webp",
+      "title": "Grupos sociales y categorías estadísticas",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas casilla estadística con grupo: falta interacción o identidad compartida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V38",
+      "file": "t32-38-fuentes-demograficas-y-territoriales.webp",
+      "title": "Fuentes demográficas y territoriales",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Censo describe; padrón registra vecinos; Registro Civil documenta hechos vitales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V39",
+      "file": "t32-39-concepto-y-dimensiones-de-la-demografia.webp",
+      "title": "Concepto y dimensiones de la demografía",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Foto: stock y estructura; película: nacimientos, defunciones y migraciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V40",
+      "file": "t32-40-densidad-demografica.webp",
+      "title": "Densidad demográfica",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Fórmula limpia: habitantes entre km²; interpretación prudente: la media no dibuja el asentamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V41",
+      "file": "t32-41-tasa-bruta-de-natalidad.webp",
+      "title": "Tasa bruta de natalidad",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nacimientos / población media × 1.000; bruta significa que usa toda la población.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V42",
+      "file": "t32-42-tasa-bruta-de-mortalidad.webp",
+      "title": "Tasa bruta de mortalidad",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La estructura por edad puede engañar a la tasa bruta; no confundas nivel con causa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V43",
+      "file": "t32-43-crecimiento-vegetativo-o-natural.webp",
+      "title": "Crecimiento vegetativo o natural",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Natural = nacimientos − defunciones; total añade después la migración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V44",
+      "file": "t32-44-crecimiento-total-y-saldo-migratorio.webp",
+      "title": "Crecimiento total y saldo migratorio",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ecuación de control: total = natural + migratorio; el signo final depende de ambos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V45",
+      "file": "t32-45-natalidad-fecundidad-y-reproduccion.webp",
+      "title": "Natalidad, fecundidad y reproducción",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Natalidad mira toda la población; fecundidad centra la población expuesta; fertilidad alude a capacidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V46",
+      "file": "t32-46-mortalidad-infantil-y-esperanza-de-vida.webp",
+      "title": "Mortalidad infantil y esperanza de vida",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son indicadores sintéticos, no profecías individuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V47",
+      "file": "t32-47-tasas-brutas-especificas-y-estandarizadas.webp",
+      "title": "Tasas brutas, específicas y estandarizadas",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Bruta resume; específica enfoca; estandarizada compara con mayor limpieza.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V48",
+      "file": "t32-48-transicion-demografica.webp",
+      "title": "Transición demográfica",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El desfase entre caída de mortalidad y natalidad explica el gran crecimiento transicional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V49",
+      "file": "t32-49-regimenes-demograficos-y-envejecimiento.webp",
+      "title": "Regímenes demográficos y envejecimiento",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los índices usan grupos de edad convencionales; describen estructura, no conducta laboral individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V50",
+      "file": "t32-50-masa-multitud-publico-y-grupo.webp",
+      "title": "Masa, multitud, público y grupo",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuerpo junto: multitud; atención compartida: público; interacción estable: grupo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V51",
+      "file": "t32-51-caracteristicas-de-la-sociedad-de-masas.webp",
+      "title": "Características de la sociedad de masas",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Gran escala no significa uniformidad total: estandariza algunas vías y multiplica otras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V52",
+      "file": "t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp",
+      "title": "Gustave Le Bon y la psicología de las multitudes",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza sus tres claves y también el límite: es una teoría histórica, no una condena de toda concentración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V53",
+      "file": "t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp",
+      "title": "Gabriel Tarde: públicos, imitación y opinión",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Le Bon mira la multitud reunida; Tarde abre el análisis al público conectado a distancia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V54",
+      "file": "t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp",
+      "title": "Ortega y Gasset y el hombre-masa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En Ortega, masa es una actitud de baja autoexigencia, no una nómina ni un aforo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V55",
+      "file": "t32-il-55-elias-canetti-y-los-tipos-de-masa.webp",
+      "title": "Elias Canetti y los tipos de masa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Canetti clasifica la dirección afectiva de la masa; no confundas su ensayo con una norma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V56",
+      "file": "t32-56-medio-ambiente-contaminacion-y-contaminante.webp",
+      "title": "Medio ambiente, contaminación y contaminante",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa agente, medio y efecto; la contaminación puede viajar como materia o energía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V57",
+      "file": "t32-57-fuente-via-receptor-y-escala-del-impacto.webp",
+      "title": "Fuente, vía, receptor y escala del impacto",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cadena de control: fuente → vía → receptor → efecto; cuanto antes cortes, mejor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V58",
+      "file": "t32-58-contaminacion-atmosferica.webp",
+      "title": "Contaminación atmosférica",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Emisión sale de la fuente; inmisión llega al aire que respira el receptor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V59",
+      "file": "t32-59-contaminacion-del-agua-y-del-suelo.webp",
+      "title": "Contaminación del agua y del suelo",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El contaminante cruza fronteras entre suelo, agua superficial y acuífero; no estudies los medios como cajas aisladas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V60",
+      "file": "t32-60-residuos-subproductos-y-economia-circular.webp",
+      "title": "Residuos, subproductos y economía circular",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La mejor gestión empieza antes del residuo: diseño, duración, reparación y reutilización.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V61",
+      "file": "t32-il-61-ruido-luz-calor-y-radiaciones.webp",
+      "title": "Ruido, luz, calor y radiaciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Materia no es la única vía: ruido, luz, calor y radiación también alteran el medio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V62",
+      "file": "t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp",
+      "title": "Efectos sobre salud, ecosistemas y clima",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pregunta siempre dosis, tiempo, vía, receptor y combinación con otros impactos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V63",
+      "file": "t32-63-articulo-45-de-la-constitucion.webp",
+      "title": "Artículo 45 de la Constitución",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla 45: disfrutar y conservar; usar racionalmente, defender y restaurar; sancionar y reparar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V64",
+      "file": "t32-64-principios-de-proteccion-ambiental.webp",
+      "title": "Principios de protección ambiental",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevenir antes, actuar con cautela ante incertidumbre y cargar el coste al responsable.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V65",
+      "file": "t32-65-evaluacion-ambiental-y-control-preventivo.webp",
+      "title": "Evaluación ambiental y control preventivo",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Plan o programa: estratégica; proyecto: impacto; ambos deben actuar antes de decidir.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V66",
+      "file": "t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp",
+      "title": "Jerarquía de residuos y responsabilidad ambiental",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero evita crear residuo; si hay daño, la respuesta no termina en sancionar: hay que reparar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V67",
+      "file": "t32-67-informacion-participacion-y-justicia-ambiental.webp",
+      "title": "Información, participación y justicia ambiental",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres puertas ciudadanas: información, participación y justicia; el Consejo asesora y hace seguimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V68",
+      "file": "t32-il-68-agencia-europea-de-medio-ambiente.webp",
+      "title": "Agencia Europea de Medio Ambiente",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: AEMA informa y evalúa; no legisla. Sede: Copenhague.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V69",
+      "file": "t32-69-competencias-vigilancia-y-respuesta-ambiental.webp",
+      "title": "Competencias, vigilancia y respuesta ambiental",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Proteger el medio exige datos, competencias claras, coordinación y una cadena de custodia sólida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    {
+      "id": "T32-V01",
+      "file": "t32-il-01-concepto-de-geografia-humana.webp",
+      "title": "Concepto de geografía humana",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Piensa en una relación de doble sentido: la sociedad organiza el espacio y el espacio condiciona posibilidades sin dictar el resultado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V02",
+      "file": "t32-02-sociedad-espacio-y-medio.webp",
+      "title": "Sociedad, espacio y medio",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Evita los determinismos: condición física no equivale a destino social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V03",
+      "file": "t32-03-ramas-de-la-geografia-humana.webp",
+      "title": "Ramas de la geografía humana",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Clasifica la rama por la pregunta central, no por una palabra suelta del enunciado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V04",
+      "file": "t32-04-lugar-region-paisaje-y-territorio.webp",
+      "title": "Lugar, región, paisaje y territorio",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lugar aporta significado; región delimita; paisaje muestra; territorio organiza y ejerce poder.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V05",
+      "file": "t32-il-05-escala-localizacion-y-situacion.webp",
+      "title": "Escala, localización y situación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Coordenada localiza; relación sitúa; escala decide cuánto detalle ves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V06",
+      "file": "t32-06-distribucion-densidad-y-accesibilidad.webp",
+      "title": "Distribución, densidad y accesibilidad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La media territorial puede esconder vacíos y concentraciones; añade siempre distribución y conexiones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V07",
+      "file": "t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp",
+      "title": "Enfoques y métodos de la geografía humana",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los enfoques no se excluyen: cada uno ilumina una dimensión y tiene límites.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V08",
+      "file": "t32-08-concepto-operativo-de-ciudad.webp",
+      "title": "Concepto operativo de ciudad",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Una cifra sola no define toda ciudad: cruza población, forma, función y administración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V09",
+      "file": "t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp",
+      "title": "Grado de urbanización y comparación internacional",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue clasificación estadística comparable y estatuto administrativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V10",
+      "file": "t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp",
+      "title": "Emplazamiento, situación, función y jerarquía",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Sitio es dónde se asienta; situación, con qué se conecta; función, qué hace; jerarquía, hasta dónde influye.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V11",
+      "file": "t32-11-urbanizacion-y-crecimiento-urbano.webp",
+      "title": "Urbanización y crecimiento urbano",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Urbanización mide proporción; crecimiento mide volumen; expansión mide huella.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V12",
+      "file": "t32-12-morfologia-y-plano-urbano.webp",
+      "title": "Morfología y plano urbano",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Lee el plano como una biografía: cada trama deja la huella de una etapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V13",
+      "file": "t32-13-planos-irregular-ortogonal-radial-y-lineal.webp",
+      "title": "Planos irregular, ortogonal, radial y lineal",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Identifica la geometría dominante: laberinto, cuadrícula, radios o eje.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V14",
+      "file": "t32-14-centro-historico-ensanche-y-periferia.webp",
+      "title": "Centro histórico, ensanche y periferia",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Distingue etapa y función sin convertir centro-periferia en una etiqueta social absoluta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V15",
+      "file": "t32-15-red-urbana-y-areas-de-influencia.webp",
+      "title": "Red urbana y áreas de influencia",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La red existe por los flujos; sin relaciones solo hay puntos sobre un mapa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V16",
+      "file": "t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp",
+      "title": "Metrópolis, área metropolitana, conurbación y megalópolis",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La conurbación nace de varios núcleos; el área metropolitana se reconoce por su integración funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V17",
+      "file": "t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp",
+      "title": "Suburbanización, periurbanización y rururbanización",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La corona exterior no es un vacío: combina desplazamiento residencial, nuevos usos y dependencia funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V18",
+      "file": "t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp",
+      "title": "Desurbanización, reurbanización y ciudad compacta",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Recuperar y compactar exige calidad y equidad; densidad sola no resuelve la ciudad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V19",
+      "file": "t32-il-19-segregacion-gueto-y-gentrificacion.webp",
+      "title": "Segregación, gueto y gentrificación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Rehabilitar un edificio no basta para definir gentrificación: observa revalorización, cambio social y desplazamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V20",
+      "file": "t32-20-ciudad-jardin-y-ciudad-lineal.webp",
+      "title": "Ciudad jardín y ciudad lineal",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Howard dibuja núcleos con cinturón verde; Soria despliega la ciudad sobre un eje.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V21",
+      "file": "t32-21-escuela-de-chicago-y-ecologia-urbana.webp",
+      "title": "Escuela de Chicago y ecología urbana",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Es una analogía ecológica para estudiar organización social y espacio, no una ley biológica de la ciudad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V22",
+      "file": "t32-il-22-modelo-concentrico-de-burgess.webp",
+      "title": "Modelo concéntrico de Burgess",
+      "type": "ilustracion_simple",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Burgess piensa en anillos; recuerda que el mapa real puede deformarlos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V23",
+      "file": "t32-23-modelo-sectorial-de-homer-hoyt.webp",
+      "title": "Modelo sectorial de Homer Hoyt",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Hoyt corta la diana de Burgess en cuñas que siguen corredores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V24",
+      "file": "t32-il-24-modelo-de-nucleos-multiples.webp",
+      "title": "Modelo de núcleos múltiples",
+      "type": "ilustracion_simple",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciudad deja de ser una diana única y funciona como constelación de centros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V25",
+      "file": "t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp",
+      "title": "Urbanismo como modo de vida: Louis Wirth",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla TDH: tamaño, densidad y heterogeneidad; después analiza efectos, no destinos inevitables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V26",
+      "file": "t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp",
+      "title": "Geografía cuantitativa y análisis espacial urbano",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El número ayuda a contrastar patrones; no sustituye la calidad de datos ni la explicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V27",
+      "file": "t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp",
+      "title": "Enfoques perceptivo, humanista y crítico de la ciudad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La ciudad también se percibe, se vive y se disputa; no es solo forma edificada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V28",
+      "file": "t32-28-ciudades-segun-su-funcion-predominante.webp",
+      "title": "Ciudades según su función predominante",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Función predominante no significa función exclusiva.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V29",
+      "file": "t32-29-formas-de-la-red-urbana.webp",
+      "title": "Formas de la red urbana",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Mira la silueta de las conexiones: mancha, línea, radios o ramas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V30",
+      "file": "t32-30-poblacion-absoluta-y-poblacion-relativa.webp",
+      "title": "Población absoluta y población relativa",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Absoluta cuenta personas; relativa pone la cifra en relación con otra magnitud.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V31",
+      "file": "t32-31-distribucion-de-la-poblacion.webp",
+      "title": "Distribución de la población",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa estado y tendencia: baja densidad es una foto; despoblación, una trayectoria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V32",
+      "file": "t32-32-estructura-por-sexo-y-edad.webp",
+      "title": "Estructura por sexo y edad",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El total puede no moverse mientras cambia por completo quiénes lo componen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V33",
+      "file": "t32-33-piramides-de-poblacion.webp",
+      "title": "Pirámides de población",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Base ancha expande; lados equilibrados estacionan; base estrecha envejece.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V34",
+      "file": "t32-34-estructura-economica-y-actividad.webp",
+      "title": "Estructura económica y actividad",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Activa suma ocupadas y paradas; sin empleo no basta para ser parada estadística.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V35",
+      "file": "t32-il-35-estructura-social-posicion-y-rol.webp",
+      "title": "Estructura social, posición y rol",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Estatus responde dónde estás; rol, qué se espera que hagas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V36",
+      "file": "t32-36-estratificacion-y-movilidad-social.webp",
+      "title": "Estratificación y movilidad social",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Vertical cambia escalón; horizontal cambia lugar; intergeneracional compara generaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V37",
+      "file": "t32-37-grupos-sociales-y-categorias-estadisticas.webp",
+      "title": "Grupos sociales y categorías estadísticas",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: No confundas casilla estadística con grupo: falta interacción o identidad compartida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V38",
+      "file": "t32-38-fuentes-demograficas-y-territoriales.webp",
+      "title": "Fuentes demográficas y territoriales",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Censo describe; padrón registra vecinos; Registro Civil documenta hechos vitales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V39",
+      "file": "t32-39-concepto-y-dimensiones-de-la-demografia.webp",
+      "title": "Concepto y dimensiones de la demografía",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Foto: stock y estructura; película: nacimientos, defunciones y migraciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V40",
+      "file": "t32-40-densidad-demografica.webp",
+      "title": "Densidad demográfica",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Fórmula limpia: habitantes entre km²; interpretación prudente: la media no dibuja el asentamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V41",
+      "file": "t32-41-tasa-bruta-de-natalidad.webp",
+      "title": "Tasa bruta de natalidad",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Nacimientos / población media × 1.000; bruta significa que usa toda la población.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V42",
+      "file": "t32-42-tasa-bruta-de-mortalidad.webp",
+      "title": "Tasa bruta de mortalidad",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La estructura por edad puede engañar a la tasa bruta; no confundas nivel con causa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V43",
+      "file": "t32-43-crecimiento-vegetativo-o-natural.webp",
+      "title": "Crecimiento vegetativo o natural",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Natural = nacimientos − defunciones; total añade después la migración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V44",
+      "file": "t32-44-crecimiento-total-y-saldo-migratorio.webp",
+      "title": "Crecimiento total y saldo migratorio",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Ecuación de control: total = natural + migratorio; el signo final depende de ambos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V45",
+      "file": "t32-45-natalidad-fecundidad-y-reproduccion.webp",
+      "title": "Natalidad, fecundidad y reproducción",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Natalidad mira toda la población; fecundidad centra la población expuesta; fertilidad alude a capacidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V46",
+      "file": "t32-46-mortalidad-infantil-y-esperanza-de-vida.webp",
+      "title": "Mortalidad infantil y esperanza de vida",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Son indicadores sintéticos, no profecías individuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V47",
+      "file": "t32-47-tasas-brutas-especificas-y-estandarizadas.webp",
+      "title": "Tasas brutas, específicas y estandarizadas",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Bruta resume; específica enfoca; estandarizada compara con mayor limpieza.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V48",
+      "file": "t32-48-transicion-demografica.webp",
+      "title": "Transición demográfica",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El desfase entre caída de mortalidad y natalidad explica el gran crecimiento transicional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V49",
+      "file": "t32-49-regimenes-demograficos-y-envejecimiento.webp",
+      "title": "Regímenes demográficos y envejecimiento",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Los índices usan grupos de edad convencionales; describen estructura, no conducta laboral individual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V50",
+      "file": "t32-50-masa-multitud-publico-y-grupo.webp",
+      "title": "Masa, multitud, público y grupo",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cuerpo junto: multitud; atención compartida: público; interacción estable: grupo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V51",
+      "file": "t32-51-caracteristicas-de-la-sociedad-de-masas.webp",
+      "title": "Características de la sociedad de masas",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Gran escala no significa uniformidad total: estandariza algunas vías y multiplica otras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V52",
+      "file": "t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp",
+      "title": "Gustave Le Bon y la psicología de las multitudes",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Memoriza sus tres claves y también el límite: es una teoría histórica, no una condena de toda concentración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V53",
+      "file": "t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp",
+      "title": "Gabriel Tarde: públicos, imitación y opinión",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Le Bon mira la multitud reunida; Tarde abre el análisis al público conectado a distancia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V54",
+      "file": "t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp",
+      "title": "Ortega y Gasset y el hombre-masa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: En Ortega, masa es una actitud de baja autoexigencia, no una nómina ni un aforo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V55",
+      "file": "t32-il-55-elias-canetti-y-los-tipos-de-masa.webp",
+      "title": "Elias Canetti y los tipos de masa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Canetti clasifica la dirección afectiva de la masa; no confundas su ensayo con una norma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V56",
+      "file": "t32-56-medio-ambiente-contaminacion-y-contaminante.webp",
+      "title": "Medio ambiente, contaminación y contaminante",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Separa agente, medio y efecto; la contaminación puede viajar como materia o energía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V57",
+      "file": "t32-57-fuente-via-receptor-y-escala-del-impacto.webp",
+      "title": "Fuente, vía, receptor y escala del impacto",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Cadena de control: fuente → vía → receptor → efecto; cuanto antes cortes, mejor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V58",
+      "file": "t32-58-contaminacion-atmosferica.webp",
+      "title": "Contaminación atmosférica",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Emisión sale de la fuente; inmisión llega al aire que respira el receptor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V59",
+      "file": "t32-59-contaminacion-del-agua-y-del-suelo.webp",
+      "title": "Contaminación del agua y del suelo",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: El contaminante cruza fronteras entre suelo, agua superficial y acuífero; no estudies los medios como cajas aisladas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V60",
+      "file": "t32-60-residuos-subproductos-y-economia-circular.webp",
+      "title": "Residuos, subproductos y economía circular",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: La mejor gestión empieza antes del residuo: diseño, duración, reparación y reutilización.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V61",
+      "file": "t32-il-61-ruido-luz-calor-y-radiaciones.webp",
+      "title": "Ruido, luz, calor y radiaciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Materia no es la única vía: ruido, luz, calor y radiación también alteran el medio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V62",
+      "file": "t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp",
+      "title": "Efectos sobre salud, ecosistemas y clima",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Pregunta siempre dosis, tiempo, vía, receptor y combinación con otros impactos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V63",
+      "file": "t32-63-articulo-45-de-la-constitucion.webp",
+      "title": "Artículo 45 de la Constitución",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Regla 45: disfrutar y conservar; usar racionalmente, defender y restaurar; sancionar y reparar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V64",
+      "file": "t32-64-principios-de-proteccion-ambiental.webp",
+      "title": "Principios de protección ambiental",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Prevenir antes, actuar con cautela ante incertidumbre y cargar el coste al responsable.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V65",
+      "file": "t32-65-evaluacion-ambiental-y-control-preventivo.webp",
+      "title": "Evaluación ambiental y control preventivo",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Plan o programa: estratégica; proyecto: impacto; ambos deben actuar antes de decidir.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V66",
+      "file": "t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp",
+      "title": "Jerarquía de residuos y responsabilidad ambiental",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Primero evita crear residuo; si hay daño, la respuesta no termina en sancionar: hay que reparar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V67",
+      "file": "t32-67-informacion-participacion-y-justicia-ambiental.webp",
+      "title": "Información, participación y justicia ambiental",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Tres puertas ciudadanas: información, participación y justicia; el Consejo asesora y hace seguimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V68",
+      "file": "t32-il-68-agencia-europea-de-medio-ambiente.webp",
+      "title": "Agencia Europea de Medio Ambiente",
+      "type": "ilustracion_simple",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: AEMA informa y evalúa; no legisla. Sede: Copenhague.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T32-V69",
+      "file": "t32-69-competencias-vigilancia-y-respuesta-ambiental.webp",
+      "title": "Competencias, vigilancia y respuesta ambiental",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: Proteger el medio exige datos, competencias claras, coordinación y una cadena de custodia sólida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ]
+}

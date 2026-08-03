@@ -1,0 +1,434 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 32,
+  "topic_title": "Concepto de geografía humana. La ciudad, corrientes de estudio de la misma. Población, estructura y grupos sociales. La demografía: densidad demográfica, tasas de natalidad y mortalidad, crecimiento vegetativo. La sociedad de masas. Contaminación y protección del medio ambiente.",
+  "id_prefix": "PN-T32",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-32/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-32/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Concepto de geografía humana"
+      },
+      {
+        "number": 2,
+        "title": "Sociedad, espacio y medio"
+      },
+      {
+        "number": 3,
+        "title": "Ramas de la geografía humana"
+      },
+      {
+        "number": 4,
+        "title": "Lugar, región, paisaje y territorio"
+      },
+      {
+        "number": 5,
+        "title": "Escala, localización y situación"
+      },
+      {
+        "number": 6,
+        "title": "Distribución, densidad y accesibilidad"
+      },
+      {
+        "number": 7,
+        "title": "Enfoques y métodos de la geografía humana"
+      },
+      {
+        "number": 8,
+        "title": "Concepto operativo de ciudad"
+      },
+      {
+        "number": 9,
+        "title": "Grado de urbanización y comparación internacional"
+      },
+      {
+        "number": 10,
+        "title": "Emplazamiento, situación, función y jerarquía"
+      },
+      {
+        "number": 11,
+        "title": "Urbanización y crecimiento urbano"
+      },
+      {
+        "number": 12,
+        "title": "Morfología y plano urbano"
+      },
+      {
+        "number": 13,
+        "title": "Planos irregular, ortogonal, radial y lineal"
+      },
+      {
+        "number": 14,
+        "title": "Centro histórico, ensanche y periferia"
+      },
+      {
+        "number": 15,
+        "title": "Red urbana y áreas de influencia"
+      },
+      {
+        "number": 16,
+        "title": "Metrópolis, área metropolitana, conurbación y megalópolis"
+      },
+      {
+        "number": 17,
+        "title": "Suburbanización, periurbanización y rururbanización"
+      },
+      {
+        "number": 18,
+        "title": "Desurbanización, reurbanización y ciudad compacta"
+      },
+      {
+        "number": 19,
+        "title": "Segregación, gueto y gentrificación"
+      },
+      {
+        "number": 20,
+        "title": "Ciudad jardín y ciudad lineal"
+      },
+      {
+        "number": 21,
+        "title": "Escuela de Chicago y ecología urbana"
+      },
+      {
+        "number": 22,
+        "title": "Modelo concéntrico de Burgess"
+      },
+      {
+        "number": 23,
+        "title": "Modelo sectorial de Homer Hoyt"
+      },
+      {
+        "number": 24,
+        "title": "Modelo de núcleos múltiples"
+      },
+      {
+        "number": 25,
+        "title": "Urbanismo como modo de vida: Louis Wirth"
+      },
+      {
+        "number": 26,
+        "title": "Geografía cuantitativa y análisis espacial urbano"
+      },
+      {
+        "number": 27,
+        "title": "Enfoques perceptivo, humanista y crítico de la ciudad"
+      },
+      {
+        "number": 28,
+        "title": "Ciudades según su función predominante"
+      },
+      {
+        "number": 29,
+        "title": "Formas de la red urbana"
+      },
+      {
+        "number": 30,
+        "title": "Población absoluta y población relativa"
+      },
+      {
+        "number": 31,
+        "title": "Distribución de la población"
+      },
+      {
+        "number": 32,
+        "title": "Estructura por sexo y edad"
+      },
+      {
+        "number": 33,
+        "title": "Pirámides de población"
+      },
+      {
+        "number": 34,
+        "title": "Estructura económica y actividad"
+      },
+      {
+        "number": 35,
+        "title": "Estructura social, posición y rol"
+      },
+      {
+        "number": 36,
+        "title": "Estratificación y movilidad social"
+      },
+      {
+        "number": 37,
+        "title": "Grupos sociales y categorías estadísticas"
+      },
+      {
+        "number": 38,
+        "title": "Fuentes demográficas y territoriales"
+      },
+      {
+        "number": 39,
+        "title": "Concepto y dimensiones de la demografía"
+      },
+      {
+        "number": 40,
+        "title": "Densidad demográfica"
+      },
+      {
+        "number": 41,
+        "title": "Tasa bruta de natalidad"
+      },
+      {
+        "number": 42,
+        "title": "Tasa bruta de mortalidad"
+      },
+      {
+        "number": 43,
+        "title": "Crecimiento vegetativo o natural"
+      },
+      {
+        "number": 44,
+        "title": "Crecimiento total y saldo migratorio"
+      },
+      {
+        "number": 45,
+        "title": "Natalidad, fecundidad y reproducción"
+      },
+      {
+        "number": 46,
+        "title": "Mortalidad infantil y esperanza de vida"
+      },
+      {
+        "number": 47,
+        "title": "Tasas brutas, específicas y estandarizadas"
+      },
+      {
+        "number": 48,
+        "title": "Transición demográfica"
+      },
+      {
+        "number": 49,
+        "title": "Regímenes demográficos y envejecimiento"
+      },
+      {
+        "number": 50,
+        "title": "Masa, multitud, público y grupo"
+      },
+      {
+        "number": 51,
+        "title": "Características de la sociedad de masas"
+      },
+      {
+        "number": 52,
+        "title": "Gustave Le Bon y la psicología de las multitudes"
+      },
+      {
+        "number": 53,
+        "title": "Gabriel Tarde: públicos, imitación y opinión"
+      },
+      {
+        "number": 54,
+        "title": "Ortega y Gasset y el hombre-masa"
+      },
+      {
+        "number": 55,
+        "title": "Elias Canetti y los tipos de masa"
+      },
+      {
+        "number": 56,
+        "title": "Medio ambiente, contaminación y contaminante"
+      },
+      {
+        "number": 57,
+        "title": "Fuente, vía, receptor y escala del impacto"
+      },
+      {
+        "number": 58,
+        "title": "Contaminación atmosférica"
+      },
+      {
+        "number": 59,
+        "title": "Contaminación del agua y del suelo"
+      },
+      {
+        "number": 60,
+        "title": "Residuos, subproductos y economía circular"
+      },
+      {
+        "number": 61,
+        "title": "Ruido, luz, calor y radiaciones"
+      },
+      {
+        "number": 62,
+        "title": "Efectos sobre salud, ecosistemas y clima"
+      },
+      {
+        "number": 63,
+        "title": "Artículo 45 de la Constitución"
+      },
+      {
+        "number": 64,
+        "title": "Principios de protección ambiental"
+      },
+      {
+        "number": 65,
+        "title": "Evaluación ambiental y control preventivo"
+      },
+      {
+        "number": 66,
+        "title": "Jerarquía de residuos y responsabilidad ambiental"
+      },
+      {
+        "number": 67,
+        "title": "Información, participación y justicia ambiental"
+      },
+      {
+        "number": 68,
+        "title": "Agencia Europea de Medio Ambiente"
+      },
+      {
+        "number": 69,
+        "title": "Competencias, vigilancia y respuesta ambiental"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Geografía humana: conceptos, enfoques y métodos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "La ciudad, su estructura y sus corrientes de estudio",
+        "blocks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Población, estructura y grupos sociales",
+        "blocks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Demografía e indicadores demográficos",
+        "blocks": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "La sociedad de masas",
+        "blocks": [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Contaminación y protección del medio ambiente",
+        "blocks": [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

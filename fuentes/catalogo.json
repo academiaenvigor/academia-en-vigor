@@ -217,6 +217,22 @@
       "traceable": true
     },
     {
+      "id": "BURGESS-1925-T32",
+      "title": "Ernest W. Burgess, The Growth of the City",
+      "url": "https://archive.org/details/citysuggestionsf00park",
+      "scope": "modelo concéntrico",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "CANETTI-1960-T32",
+      "title": "Elias Canetti, Masse und Macht",
+      "url": "https://d-nb.info/450731285",
+      "scope": "tipos, propiedades y dinámica de las masas",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "CAT-T27",
       "title": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes",
       "boe_id": "BOE-A-1987-25053",
@@ -296,6 +312,15 @@
       "official": true,
       "traceable": true,
       "derived_from": []
+    },
+    {
+      "id": "CE-1978-T32",
+      "title": "Constitución Española",
+      "boe_id": "BOE-A-1978-31229",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "scope": "artículo 45",
+      "official": true,
+      "traceable": true
     },
     {
       "id": "CE-CORONA",
@@ -587,6 +612,15 @@
       "traceable": true
     },
     {
+      "id": "CONV-PN-2026-T32",
+      "title": "Convocatoria Escala Básica Policía Nacional 2026",
+      "boe_id": "BOE-A-2026-15055",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
+      "scope": "Anexo I, Tema 32",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CONV1951-T12",
       "title": "Convención de Ginebra de 1951 y Protocolo de 1967",
       "boe_id": "BOE-A-1978-26331",
@@ -834,6 +868,14 @@
       "traceable": true
     },
     {
+      "id": "EEA-T32",
+      "title": "Agencia Europea de Medio Ambiente",
+      "url": "https://www.eea.europa.eu/en/about",
+      "scope": "información ambiental independiente, Eionet y sede",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "EOMF-T21",
       "title": "Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
       "boe_id": "BOE-A-1982-837",
@@ -1030,11 +1072,43 @@
       ]
     },
     {
+      "id": "HARRIS-ULLMAN-1945-T32",
+      "title": "Chauncy Harris y Edward Ullman, The Nature of Cities",
+      "url": "https://www.jstor.org/stable/1818229",
+      "scope": "modelo de núcleos múltiples",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "HOWARD-1902-T32",
+      "title": "Ebenezer Howard, Garden Cities of To-morrow",
+      "url": "https://archive.org/details/gardencitiestom00howagoog",
+      "scope": "ciudad jardín",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "HOYT-1939-T32",
+      "title": "Homer Hoyt, The Structure and Growth of Residential Neighborhoods in American Cities",
+      "url": "https://archive.org/details/structuregrowtho00hoyt",
+      "scope": "modelo sectorial",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "HYMAN-1942-T29",
       "title": "Herbert Hyman: The Psychology of Status",
       "url": "https://doi.org/10.1086/219352",
       "scope": "grupos de pertenencia y referencia",
       "official": false,
+      "traceable": true
+    },
+    {
+      "id": "IGN-CONCEPTS-T32",
+      "title": "Instituto Geográfico Nacional, recursos de geografía humana y cartografía",
+      "url": "https://educativo.ign.es/",
+      "scope": "conceptos espaciales, paisaje, ciudad, redes y métodos geográficos",
+      "official": true,
       "traceable": true
     },
     {
@@ -1079,6 +1153,22 @@
       "traceable": true
     },
     {
+      "id": "INE-CENSO-T32",
+      "title": "INE, Censos de Población y Viviendas y Nomenclátor",
+      "url": "https://www.ine.es/censos2021/",
+      "scope": "población, estructura, distribución, fuentes y entidades de población",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INE-DEMOGRAFIA-T32",
+      "title": "INEbase, Indicadores Demográficos Básicos",
+      "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002&menu=ultiDatos",
+      "scope": "natalidad, mortalidad, estructura, crecimiento y migraciones",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "INE-ECP1T26-T31",
       "title": "INE, Estadística Continua de Población a 1 de abril de 2026",
       "url": "https://www.ine.es/dyngs/Prensa/ECP1T26.htm",
@@ -1091,6 +1181,14 @@
       "title": "INE, EMCR 2024, resultados definitivos",
       "url": "https://www.ine.es/dyngs/Prensa/EMCR2024.htm",
       "scope": "saldo migratorio exterior de España en 2024",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "INE-IDB-T32",
+      "title": "INE, Metodología de Indicadores Demográficos Básicos",
+      "url": "https://www.ine.es/metodologia/t20/metodologia_idb.pdf",
+      "scope": "fórmulas y definiciones de natalidad, mortalidad, fecundidad y crecimiento",
       "official": true,
       "traceable": true
     },
@@ -1320,6 +1418,14 @@
       "traceable": true
     },
     {
+      "id": "LE-BON-1895-T32",
+      "title": "Gustave Le Bon, Psychologie des foules",
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k65451134",
+      "scope": "anonimato, contagio y sugestibilidad",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "LECRIM-T20",
       "title": "Ley de Enjuiciamiento Criminal · investigación tecnológica",
       "boe_id": "BOE-A-1882-6036",
@@ -1384,6 +1490,60 @@
       "boe_id": "BOE-A-2021-9233",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9233",
       "scope": "modelo de apoyos para el ejercicio de la capacidad jurídica",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY21-2013-T32",
+      "title": "Ley 21/2013, de evaluación ambiental",
+      "boe_id": "BOE-A-2013-12913",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913",
+      "scope": "evaluación estratégica y de impacto ambiental",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY26-2007-T32",
+      "title": "Ley 26/2007, de Responsabilidad Medioambiental",
+      "boe_id": "BOE-A-2007-18475",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475",
+      "scope": "prevención, evitación y reparación de daños",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY27-2006-T32",
+      "title": "Ley 27/2006, derechos de acceso a información, participación y justicia ambiental",
+      "boe_id": "BOE-A-2006-13010",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010",
+      "scope": "derechos ambientales y Consejo Asesor de Medio Ambiente",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY34-2007-T32",
+      "title": "Ley 34/2007, de calidad del aire y protección de la atmósfera",
+      "boe_id": "BOE-A-2007-19744",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744",
+      "scope": "definiciones, principios, prevención, vigilancia y reducción",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY37-2003-T32",
+      "title": "Ley 37/2003, del Ruido",
+      "boe_id": "BOE-A-2003-20976",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-20976",
+      "scope": "contaminación acústica, prevención y corrección",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "LEY7-2022-T32",
+      "title": "Ley 7/2022, de residuos y suelos contaminados para una economía circular",
+      "boe_id": "BOE-A-2022-5809",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809",
+      "scope": "residuos, prevención, jerarquía, subproductos y suelos contaminados",
       "official": true,
       "traceable": true
     },
@@ -1820,6 +1980,14 @@
       "traceable": true
     },
     {
+      "id": "MITECO-T32",
+      "title": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+      "url": "https://www.miteco.gob.es/",
+      "scope": "política, información, vigilancia y coordinación ambiental en España",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "OECD-GLOCAL-T28",
       "title": "OCDE: Governance in the 21st Century",
       "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2001/04/governance-in-the-21st-century_g1ghg25e/9789264189362-en.pdf",
@@ -1913,6 +2081,14 @@
       "traceable": true
     },
     {
+      "id": "ORTEGA-1930-T32",
+      "title": "José Ortega y Gasset, La rebelión de las masas",
+      "url": "https://www.cervantesvirtual.com/obra/la-rebelion-de-las-masas/",
+      "scope": "hombre-masa y sociedad de masas",
+      "official": false,
+      "traceable": true
+    },
+    {
       "id": "OSCE-HATE-T29",
       "title": "OSCE/ODIHR: Hate Crime Laws, A Practical Guide",
       "url": "https://www.osce.org/odihr/36426",
@@ -1933,6 +2109,14 @@
       "title": "Osgood, Suci y Tannenbaum: The Measurement of Meaning",
       "url": "https://psycnet.apa.org/record/1958-01203-000",
       "scope": "diferencial semántico y medición de actitudes",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "PARK-BURGESS-1925-T32",
+      "title": "Robert E. Park, Ernest W. Burgess y R. D. McKenzie, The City",
+      "url": "https://archive.org/details/citysuggestionsf00park",
+      "scope": "Escuela de Chicago y ecología urbana",
       "official": false,
       "traceable": true
     },
@@ -2313,6 +2497,15 @@
       "traceable": true
     },
     {
+      "id": "RDL1-2001-T32",
+      "title": "Real Decreto Legislativo 1/2001, texto refundido de la Ley de Aguas",
+      "boe_id": "BOE-A-2001-14276",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276",
+      "scope": "contaminación y protección de aguas",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RDL1-2013-T23",
       "title": "Texto refundido de la Ley General de derechos de las personas con discapacidad",
       "boe_id": "BOE-A-2013-12632",
@@ -2489,6 +2682,14 @@
       "title": "Tajfel y Turner: An Integrative Theory of Intergroup Conflict",
       "url": "https://psycnet.apa.org/record/2001-01466-016",
       "scope": "categorización, identidad social, endogrupo y exogrupo",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "TARDE-1901-T32",
+      "title": "Gabriel Tarde, L’opinion et la foule",
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6571447n",
+      "scope": "públicos, imitación y opinión",
       "official": false,
       "traceable": true
     },
@@ -2722,6 +2923,14 @@
       "traceable": true
     },
     {
+      "id": "UN-DESA-DEMOGRAPHY-T32",
+      "title": "Naciones Unidas, World Population Prospects y conceptos demográficos",
+      "url": "https://population.un.org/wpp/",
+      "scope": "transición, estructura, crecimiento y envejecimiento demográfico",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "UN-ENV-GLOBAL-T28",
       "title": "Naciones Unidas: Agenda 21",
       "url": "https://www.un.org/esa/dsd/agenda21/Agenda%2021.pdf",
@@ -2734,6 +2943,30 @@
       "title": "Naciones Unidas: Globalization and the World of Large Cities",
       "url": "https://digitallibrary.un.org/record/445152",
       "scope": "ciudad global y tesis de Saskia Sassen",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-HABITAT-CITY-T32",
+      "title": "ONU-Hábitat, What is a City? Degree of Urbanisation",
+      "url": "https://unhabitat.org/sites/default/files/2020/06/city_definition_what_is_a_city.pdf",
+      "scope": "definiciones y comparación internacional de áreas urbanas",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-HABITAT-T32",
+      "title": "ONU-Hábitat, conocimiento y políticas sobre ciudades y asentamientos humanos",
+      "url": "https://unhabitat.org/",
+      "scope": "geografía humana, urbanización, ciudad y relaciones territoriales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UN-HABITAT-WCR-T32",
+      "title": "ONU-Hábitat, World Cities Report 2022",
+      "url": "https://unhabitat.org/wcr/2022/",
+      "scope": "urbanización, redes, estructura, desigualdad y sostenibilidad urbana",
       "official": true,
       "traceable": true
     },
@@ -2902,6 +3135,14 @@
       "title": "Bryan Wilson: tipología sociológica de sectas",
       "url": "https://archive.org/details/religioussectss00wils",
       "scope": "conversionistas, revolucionarias, introversionistas, manipulacionistas, taumatúrgicas, reformistas y utópicas",
+      "official": false,
+      "traceable": true
+    },
+    {
+      "id": "WIRTH-1938-T32",
+      "title": "Louis Wirth, Urbanism as a Way of Life",
+      "url": "https://www.jstor.org/stable/2768119",
+      "scope": "tamaño, densidad, heterogeneidad y relaciones urbanas",
       "official": false,
       "traceable": true
     },

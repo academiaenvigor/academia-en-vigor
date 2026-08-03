@@ -750,6 +750,30 @@
           "official_exam_mapped": 8,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 32,
+          "slug": "geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente",
+          "title": "Concepto de geografía humana. La ciudad, corrientes de estudio de la misma. Población, estructura y grupos sociales. La demografía: densidad demográfica, tasas de natalidad y mortalidad, crecimiento vegetativo. La sociedad de masas. Contaminación y protección del medio ambiente.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-32/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-32-geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente.md",
+          "atestado": "temas/policia-nacional/atestado/tema-32-geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-32/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-32/plan.json",
+          "assets": "assets/policia-nacional/tema-32/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-32/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-32/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 69,
+          "atomic_facts": 276,
+          "question_count": 552,
+          "official_exam_mapped": 17,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

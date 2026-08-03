@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-32",
+  "topic_number": 32,
+  "slug": "geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente",
+  "title": "Concepto de geografía humana. La ciudad, corrientes de estudio de la misma. Población, estructura y grupos sociales. La demografía: densidad demográfica, tasas de natalidad y mortalidad, crecimiento vegetativo. La sociedad de masas. Contaminación y protección del medio ambiente.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-32/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-32-geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente.md",
+    "atestado": "temas/policia-nacional/atestado/tema-32-geografia-humana-ciudad-poblacion-demografia-sociedad-masas-medio-ambiente.md"
+  },
+  "semantic_blocks": 69,
+  "atomic_facts": 276,
+  "master_statements": 276,
+  "coverage_file": "conocimiento/policia-nacional/tema-32/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026-T32",
+    "UN-HABITAT-T32",
+    "UN-HABITAT-CITY-T32",
+    "UN-HABITAT-WCR-T32",
+    "IGN-CONCEPTS-T32",
+    "INE-CENSO-T32",
+    "INE-DEMOGRAFIA-T32",
+    "INE-IDB-T32",
+    "UN-DESA-DEMOGRAPHY-T32",
+    "HOWARD-1902-T32",
+    "PARK-BURGESS-1925-T32",
+    "BURGESS-1925-T32",
+    "HOYT-1939-T32",
+    "HARRIS-ULLMAN-1945-T32",
+    "WIRTH-1938-T32",
+    "LE-BON-1895-T32",
+    "TARDE-1901-T32",
+    "ORTEGA-1930-T32",
+    "CANETTI-1960-T32",
+    "CE-1978-T32",
+    "LEY34-2007-T32",
+    "RDL1-2001-T32",
+    "LEY7-2022-T32",
+    "LEY37-2003-T32",
+    "LEY21-2013-T32",
+    "LEY26-2007-T32",
+    "LEY27-2006-T32",
+    "EEA-T32",
+    "MITECO-T32"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q064",
+    "of-pn-p34-a-q040",
+    "of-pn-p34-a-q062",
+    "of-pn-p34-a-q075",
+    "of-pn-p34-a-q096",
+    "of-pn-p35-a-q067",
+    "of-pn-p36-a-q020",
+    "of-pn-p36-a-q037",
+    "of-pn-p36-a-q096",
+    "of-pn-p37-a-q048",
+    "of-pn-p37-a-q067",
+    "of-pn-p37-a-q099",
+    "of-pn-p37-a-q100",
+    "of-pn-p38-a-q078",
+    "of-pn-p39-a-q040",
+    "of-pn-p40-a-q060",
+    "of-pn-p42-a-q053"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-32/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-32/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-32/manifest.json",
+    "questions": 552,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-32/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-32/manifest.json",
+    "total": 0,
+    "planned": 69
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-32/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-32/revision-1.0.md"
+  }
+}
