@@ -510,6 +510,30 @@
           "official_exam_mapped": 6,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 23,
+          "slug": "igualdad-violencia-genero-discapacidad-dependencia-lgtbi",
+          "title": "Políticas de igualdad, protección y no discriminación en la AGE. La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Los Planes para la igualdad en la Administración General del Estado y en sus organismos públicos. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Políticas de integración de las personas con discapacidad. La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-23/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-23-igualdad-violencia-genero-discapacidad-dependencia-lgtbi.md",
+          "atestado": "temas/policia-nacional/atestado/tema-23-igualdad-violencia-genero-discapacidad-dependencia-lgtbi.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-23/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-23/plan.json",
+          "assets": "assets/policia-nacional/tema-23/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-23/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-23/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 44,
+          "atomic_facts": 220,
+          "question_count": 440,
+          "official_exam_mapped": 19,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

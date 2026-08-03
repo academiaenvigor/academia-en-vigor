@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 23,
+  "topic_title": "Políticas de igualdad, protección y no discriminación en la AGE. La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Los Planes para la igualdad en la Administración General del Estado y en sus organismos públicos. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Políticas de integración de las personas con discapacidad. La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.",
+  "id_prefix": "PN-T23",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-23/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-23/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Marco constitucional y políticas de igualdad en la AGE"
+      },
+      {
+        "number": 2,
+        "title": "Objeto, alcance y eficacia de la Ley Orgánica 3/2007"
+      },
+      {
+        "number": 3,
+        "title": "Discriminación directa e indirecta por razón de sexo"
+      },
+      {
+        "number": 4,
+        "title": "Acoso sexual y acoso por razón de sexo"
+      },
+      {
+        "number": 5,
+        "title": "Embarazo, maternidad, represalias y acciones positivas"
+      },
+      {
+        "number": 6,
+        "title": "Transversalidad, impacto de género y estadísticas"
+      },
+      {
+        "number": 7,
+        "title": "Criterios de actuación de las Administraciones públicas"
+      },
+      {
+        "number": 8,
+        "title": "Presencia y composición equilibradas"
+      },
+      {
+        "number": 9,
+        "title": "Formación, protocolo de acoso y evaluación en la AGE"
+      },
+      {
+        "number": 10,
+        "title": "Órganos de igualdad en la Administración"
+      },
+      {
+        "number": 11,
+        "title": "IV Plan de Igualdad de Género en la AGE"
+      },
+      {
+        "number": 12,
+        "title": "Ejes, seguimiento y evaluación del IV Plan"
+      },
+      {
+        "number": 13,
+        "title": "Objeto y concepto legal de violencia de género"
+      },
+      {
+        "number": 14,
+        "title": "Principios rectores y respuesta integral"
+      },
+      {
+        "number": 15,
+        "title": "Sensibilización, educación, sanidad y publicidad"
+      },
+      {
+        "number": 16,
+        "title": "Información, asistencia social integral y asistencia jurídica"
+      },
+      {
+        "number": 17,
+        "title": "Derechos laborales, de Seguridad Social y de empleadas públicas"
+      },
+      {
+        "number": 18,
+        "title": "Derechos económicos, vivienda y empleo"
+      },
+      {
+        "number": 19,
+        "title": "Acreditación de las situaciones de violencia de género"
+      },
+      {
+        "number": 20,
+        "title": "Tutela institucional: Delegación y Observatorio"
+      },
+      {
+        "number": 21,
+        "title": "Tutela penal y judicial especializada"
+      },
+      {
+        "number": 22,
+        "title": "Orden de protección y Sistema VioGén"
+      },
+      {
+        "number": 23,
+        "title": "Protección de menores y otras vulnerabilidades"
+      },
+      {
+        "number": 24,
+        "title": "Actuación policial integral y coordinación"
+      },
+      {
+        "number": 25,
+        "title": "Modelo social, objeto y concepto de discapacidad"
+      },
+      {
+        "number": 26,
+        "title": "Principios y derechos de las personas con discapacidad"
+      },
+      {
+        "number": 27,
+        "title": "Igualdad de oportunidades y formas de discriminación"
+      },
+      {
+        "number": 28,
+        "title": "Accesibilidad universal y vida independiente"
+      },
+      {
+        "number": 29,
+        "title": "Empleo e integración laboral"
+      },
+      {
+        "number": 30,
+        "title": "Protección institucional, tutela y régimen sancionador"
+      },
+      {
+        "number": 31,
+        "title": "Objeto y conceptos de autonomía y dependencia"
+      },
+      {
+        "number": 32,
+        "title": "Principios, derechos y obligaciones en dependencia"
+      },
+      {
+        "number": 33,
+        "title": "Sistema para la Autonomía y Atención a la Dependencia"
+      },
+      {
+        "number": 34,
+        "title": "Grados, valoración y Programa Individual de Atención"
+      },
+      {
+        "number": 35,
+        "title": "Catálogo de servicios del SAAD"
+      },
+      {
+        "number": 36,
+        "title": "Prestaciones económicas, compatibilidad y financiación"
+      },
+      {
+        "number": 37,
+        "title": "Objeto, ámbito y conceptos básicos LGTBI"
+      },
+      {
+        "number": 38,
+        "title": "Formas de discriminación LGTBI"
+      },
+      {
+        "number": 39,
+        "title": "Políticas públicas y empleo público LGTBI"
+      },
+      {
+        "number": 40,
+        "title": "Rectificación registral de la mención relativa al sexo"
+      },
+      {
+        "number": 41,
+        "title": "Efectos, reversibilidad y adecuación documental"
+      },
+      {
+        "number": 42,
+        "title": "Prohibiciones, intersexualidad y protección frente a violencia"
+      },
+      {
+        "number": 43,
+        "title": "Igualdad de trato y actuación policial no discriminatoria"
+      },
+      {
+        "number": 44,
+        "title": "Autoridad Independiente e Instituto de las Mujeres"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Igualdad efectiva y políticas de la AGE",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Protección integral frente a la violencia de género",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Discapacidad e inclusión social",
+        "blocks": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Autonomía personal y atención a la dependencia",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Igualdad de las personas trans y LGTBI, igualdad de trato y organismos",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

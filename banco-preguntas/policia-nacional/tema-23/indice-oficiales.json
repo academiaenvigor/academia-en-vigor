@@ -1,0 +1,449 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 23,
+  "titulo": "Políticas de igualdad, protección y no discriminación en la AGE. La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Los Planes para la igualdad en la Administración General del Estado y en sus organismos públicos. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Políticas de integración de las personas con discapacidad. La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 19,
+  "con_bloque_asignado": 19,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "18": 2,
+    "15": 2,
+    "19": 2,
+    "16": 2,
+    "14": 1,
+    "17": 1,
+    "3": 2,
+    "20": 1,
+    "10": 1,
+    "22": 2,
+    "37": 1,
+    "38": 1,
+    "31": 1
+  },
+  "por_promocion": {
+    "P33": 1,
+    "P34": 4,
+    "P35": 1,
+    "P36": 2,
+    "P37": 1,
+    "P38": 2,
+    "P39": 3,
+    "P40": 2,
+    "P41": 2,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q039",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 39,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "PN-T23-F086"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cuando una víctima de violencia de género carezca de una renta superior, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, ¿qué tipo de ayuda económica podría llegar a recibir?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q086",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 86,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "PN-T23-F071"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Estarán legitimados para ejercitar ante los Tribunales, la acción de cesación de publicidad ilícita por utilizar en forma vejatoria la imagen de la mujer en los términos de la Ley 34/1998:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q089",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 89,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "PN-T23-F091"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Las situaciones de violencia que dan lugar al reconocimiento de los derechos laborales y de seguridad social recogidos en el Capítulo 11 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género se acreditarán:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q090",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 90,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T23-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente previo a la interposición de la denuncia, y a la defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p34-a-q091",
+      "exam_id": "of-pn-p34-a",
+      "series_year": 2017,
+      "question_number": 91,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "PN-T23-F066"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En relación con las garantías de las víctimas de violencia de género, ¿cuál de las siguientes medidas no contribuye a hacer efectivos los derechos constitucionales a la integridad física y moral, a la libertad y seguridad, derecho a la igualdad y no discriminación por razón de sexo?:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p35-a-q050",
+      "exam_id": "of-pn-p35-a",
+      "series_year": 2018,
+      "question_number": 50,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "PN-T23-F081"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La LO 1/2004, de Medidas de Protección Integral contra la Violencia de Género, refiere que a las trabajadoras por cuenta propia víctimas de violencia de género que cesen en su actividad para hacer efectiva su protección o su derecho a la asistencia social integral, se les suspenderá la obligación de cotización durante un periodo de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q002",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 2,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "PN-T23-F011"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "De acuerdo con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, es correcto afirmar que:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p36-a-q032",
+      "exam_id": "of-pn-p36-a",
+      "series_year": 2019,
+      "question_number": 32,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "PN-T23-F071"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Estarán legitimados para ejercitar ante los Tribunales la acción de cesación de publicidad ilícita por utilizar en forma vejatoria la imagen de la mujer:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p37-a-q089",
+      "exam_id": "of-pn-p37-a",
+      "series_year": 2020,
+      "question_number": 89,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "PN-T23-F096"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, crea la figura de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q064",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 64,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T23-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En relación a los derechos de las mujeres víctimas de violencia de género, se debe tener en cuenta la siguiente consideración respecto a la asistencia jurídica:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q066",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 66,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "PN-T23-F046"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "La sede del Instituto Europeo de la Igualdad de Género (EIGE) se encuentra en:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q014",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 14,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "PN-T23-F086"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "María es víctima de violencia de género, tiene especial dificultad para obtener un empleo, pudiéndolo acreditar a través de Informe del Servicio Público de Empleo, además dos hijos menores a su cargo ¿De cuánto será la ayuda económica que reciba si le corresponde?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q052",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 52,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "PN-T23-F091"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Las situaciones de violencia de género que dan lugar al reconocimiento de los derechos regulados en el capítulo II de la L.O. de Medidas de Protección Integral contra la Violencia de Género, se acreditarán mediante, señale la INCORRECTA:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q093",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 93,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "PN-T23-F106"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "El Sistema VioGén (Sistema de Seguimiento Integral de los Casos de Violencia de Género) es un tratamiento de datos de carácter personal cuyo responsable es:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q033",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 33,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "PN-T23-F181"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Atendiendo al artículo 3 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, la vivencia interna e individual del sexo tal y como cada persona la siente y autodefine pudiendo no corresponder con el sexo asignado al nacer, es la definición de:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q063",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 63,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "PN-T23-F186"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Cuando una persona o grupo en que se integra, debido a su relación con otra sobre la que concurra alguna de las causas de discriminación por razón de orientación e identidad sexual, expresión de género o características sexuales, es objeto de un trato discriminatorio, conforme a la Ley 4/2023, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, ¿de qué tipo de discriminación se trata?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q061",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 61,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "PN-T23-F011"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "En virtud de lo dispuesto en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la situación en la que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable, se considera:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q080",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 80,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "PN-T23-F151"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes leyes hace referencia a la Ley de promoción de la autonomía personal y atención a las personas en situación de dependencia?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q038",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 38,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "PN-T23-F106"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿En qué ámbito se aplica la orden de protección?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y regla 2026 revisada; respuesta no presentada como plantilla oficial final."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-23",
+  "topic_number": 23,
+  "slug": "igualdad-violencia-genero-discapacidad-dependencia-lgtbi",
+  "title": "Políticas de igualdad, protección y no discriminación en la AGE. La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Los Planes para la igualdad en la Administración General del Estado y en sus organismos públicos. Políticas contra la violencia de género. La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Políticas de integración de las personas con discapacidad. La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-23/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-23-igualdad-violencia-genero-discapacidad-dependencia-lgtbi.md",
+    "atestado": "temas/policia-nacional/atestado/tema-23-igualdad-violencia-genero-discapacidad-dependencia-lgtbi.md"
+  },
+  "semantic_blocks": 44,
+  "atomic_facts": 220,
+  "master_statements": 220,
+  "coverage_file": "conocimiento/policia-nacional/tema-23/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "CE-T23",
+    "LO3-2007-T23",
+    "LO2-2024-T23",
+    "IV-PLAN-AGE-T23",
+    "RD259-2019-T23",
+    "RD634-2026-T23",
+    "LO1-2004-T23",
+    "L27-2003-T23",
+    "VIOGEN2-T23",
+    "RDL1-2013-T23",
+    "L39-2006-T23",
+    "L4-2023-T23",
+    "L15-2022-T23",
+    "RD606-2026-T23"
+  ],
+  "official_exam_items": [
+    "of-pn-p33-a-q039",
+    "of-pn-p34-a-q086",
+    "of-pn-p34-a-q089",
+    "of-pn-p34-a-q090",
+    "of-pn-p34-a-q091",
+    "of-pn-p35-a-q050",
+    "of-pn-p36-a-q002",
+    "of-pn-p36-a-q032",
+    "of-pn-p37-a-q089",
+    "of-pn-p38-a-q064",
+    "of-pn-p38-a-q066",
+    "of-pn-p39-a-q014",
+    "of-pn-p39-a-q052",
+    "of-pn-p39-a-q093",
+    "of-pn-p40-a-q033",
+    "of-pn-p40-a-q063",
+    "of-pn-p41-a-q061",
+    "of-pn-p41-a-q080",
+    "of-pn-p42-a-q038"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-23/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-23/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-23/manifest.json",
+    "questions": 440,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-23/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-23/manifest.json",
+    "total": 0,
+    "planned": 44
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-23/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-23/revision-1.0.md"
+  }
+}

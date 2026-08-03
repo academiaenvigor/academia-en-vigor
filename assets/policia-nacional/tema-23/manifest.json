@@ -1,0 +1,767 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-23",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 44,
+    "integrated": 0,
+    "planned": 44
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T23-V01",
+      "file": "t23-01-marco-constitucional-y-politicas-de-iguald.webp",
+      "title": "Marco constitucional y políticas de igualdad en la AGE",
+      "type": "ilustracion_simple",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar marco constitucional y políticas de igualdad en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V02",
+      "file": "t23-02-objeto-alcance-y-eficacia-de-la-ley-organi.webp",
+      "title": "Objeto, alcance y eficacia de la Ley Orgánica 3/2007",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar objeto, alcance y eficacia de la ley orgánica 3/2007 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V03",
+      "file": "t23-03-discriminacion-directa-e-indirecta-por-raz.webp",
+      "title": "Discriminación directa e indirecta por razón de sexo",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar discriminación directa e indirecta por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V04",
+      "file": "t23-04-acoso-sexual-y-acoso-por-razon-de-sexo.webp",
+      "title": "Acoso sexual y acoso por razón de sexo",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar acoso sexual y acoso por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V05",
+      "file": "t23-05-embarazo-maternidad-represalias-y-acciones.webp",
+      "title": "Embarazo, maternidad, represalias y acciones positivas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar embarazo, maternidad, represalias y acciones positivas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V06",
+      "file": "t23-06-transversalidad-impacto-de-genero-y-estadi.webp",
+      "title": "Transversalidad, impacto de género y estadísticas",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar transversalidad, impacto de género y estadísticas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V07",
+      "file": "t23-07-criterios-de-actuacion-de-las-administraci.webp",
+      "title": "Criterios de actuación de las Administraciones públicas",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar criterios de actuación de las administraciones públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V08",
+      "file": "t23-08-presencia-y-composicion-equilibradas.webp",
+      "title": "Presencia y composición equilibradas",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar presencia y composición equilibradas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V09",
+      "file": "t23-09-formacion-protocolo-de-acoso-y-evaluacion-.webp",
+      "title": "Formación, protocolo de acoso y evaluación en la AGE",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar formación, protocolo de acoso y evaluación en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V10",
+      "file": "t23-10-organos-de-igualdad-en-la-administracion.webp",
+      "title": "Órganos de igualdad en la Administración",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar órganos de igualdad en la administración mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V11",
+      "file": "t23-11-iv-plan-de-igualdad-de-genero-en-la-age.webp",
+      "title": "IV Plan de Igualdad de Género en la AGE",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar iv plan de igualdad de género en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V12",
+      "file": "t23-12-ejes-seguimiento-y-evaluacion-del-iv-plan.webp",
+      "title": "Ejes, seguimiento y evaluación del IV Plan",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar ejes, seguimiento y evaluación del iv plan mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V13",
+      "file": "t23-13-objeto-y-concepto-legal-de-violencia-de-ge.webp",
+      "title": "Objeto y concepto legal de violencia de género",
+      "type": "ilustracion_simple",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar objeto y concepto legal de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V14",
+      "file": "t23-14-principios-rectores-y-respuesta-integral.webp",
+      "title": "Principios rectores y respuesta integral",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar principios rectores y respuesta integral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V15",
+      "file": "t23-15-sensibilizacion-educacion-sanidad-y-public.webp",
+      "title": "Sensibilización, educación, sanidad y publicidad",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar sensibilización, educación, sanidad y publicidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V16",
+      "file": "t23-16-informacion-asistencia-social-integral-y-a.webp",
+      "title": "Información, asistencia social integral y asistencia jurídica",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar información, asistencia social integral y asistencia jurídica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V17",
+      "file": "t23-17-derechos-laborales-de-seguridad-social-y-d.webp",
+      "title": "Derechos laborales, de Seguridad Social y de empleadas públicas",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar derechos laborales, de seguridad social y de empleadas públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V18",
+      "file": "t23-18-derechos-economicos-vivienda-y-empleo.webp",
+      "title": "Derechos económicos, vivienda y empleo",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar derechos económicos, vivienda y empleo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V19",
+      "file": "t23-19-acreditacion-de-las-situaciones-de-violenc.webp",
+      "title": "Acreditación de las situaciones de violencia de género",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar acreditación de las situaciones de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V20",
+      "file": "t23-20-tutela-institucional-delegacion-y-observat.webp",
+      "title": "Tutela institucional: Delegación y Observatorio",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar tutela institucional: delegación y observatorio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V21",
+      "file": "t23-21-tutela-penal-y-judicial-especializada.webp",
+      "title": "Tutela penal y judicial especializada",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar tutela penal y judicial especializada mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V22",
+      "file": "t23-22-orden-de-proteccion-y-sistema-viogen.webp",
+      "title": "Orden de protección y Sistema VioGén",
+      "type": "ilustracion_simple",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar orden de protección y sistema viogén mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V23",
+      "file": "t23-23-proteccion-de-menores-y-otras-vulnerabilid.webp",
+      "title": "Protección de menores y otras vulnerabilidades",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar protección de menores y otras vulnerabilidades mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V24",
+      "file": "t23-24-actuacion-policial-integral-y-coordinacion.webp",
+      "title": "Actuación policial integral y coordinación",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar actuación policial integral y coordinación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V25",
+      "file": "t23-25-modelo-social-objeto-y-concepto-de-discapa.webp",
+      "title": "Modelo social, objeto y concepto de discapacidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar modelo social, objeto y concepto de discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V26",
+      "file": "t23-26-principios-y-derechos-de-las-personas-con-.webp",
+      "title": "Principios y derechos de las personas con discapacidad",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar principios y derechos de las personas con discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V27",
+      "file": "t23-27-igualdad-de-oportunidades-y-formas-de-disc.webp",
+      "title": "Igualdad de oportunidades y formas de discriminación",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar igualdad de oportunidades y formas de discriminación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V28",
+      "file": "t23-28-accesibilidad-universal-y-vida-independien.webp",
+      "title": "Accesibilidad universal y vida independiente",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar accesibilidad universal y vida independiente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V29",
+      "file": "t23-29-empleo-e-integracion-laboral.webp",
+      "title": "Empleo e integración laboral",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar empleo e integración laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V30",
+      "file": "t23-30-proteccion-institucional-tutela-y-regimen-.webp",
+      "title": "Protección institucional, tutela y régimen sancionador",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar protección institucional, tutela y régimen sancionador mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V31",
+      "file": "t23-31-objeto-y-conceptos-de-autonomia-y-dependen.webp",
+      "title": "Objeto y conceptos de autonomía y dependencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar objeto y conceptos de autonomía y dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V32",
+      "file": "t23-32-principios-derechos-y-obligaciones-en-depe.webp",
+      "title": "Principios, derechos y obligaciones en dependencia",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar principios, derechos y obligaciones en dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V33",
+      "file": "t23-33-sistema-para-la-autonomia-y-atencion-a-la-.webp",
+      "title": "Sistema para la Autonomía y Atención a la Dependencia",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar sistema para la autonomía y atención a la dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V34",
+      "file": "t23-34-grados-valoracion-y-programa-individual-de.webp",
+      "title": "Grados, valoración y Programa Individual de Atención",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar grados, valoración y programa individual de atención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V35",
+      "file": "t23-35-catalogo-de-servicios-del-saad.webp",
+      "title": "Catálogo de servicios del SAAD",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar catálogo de servicios del saad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V36",
+      "file": "t23-36-prestaciones-economicas-compatibilidad-y-f.webp",
+      "title": "Prestaciones económicas, compatibilidad y financiación",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar prestaciones económicas, compatibilidad y financiación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V37",
+      "file": "t23-37-objeto-ambito-y-conceptos-basicos-lgtbi.webp",
+      "title": "Objeto, ámbito y conceptos básicos LGTBI",
+      "type": "ilustracion_simple",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar objeto, ámbito y conceptos básicos lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V38",
+      "file": "t23-38-formas-de-discriminacion-lgtbi.webp",
+      "title": "Formas de discriminación LGTBI",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar formas de discriminación lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V39",
+      "file": "t23-39-politicas-publicas-y-empleo-publico-lgtbi.webp",
+      "title": "Políticas públicas y empleo público LGTBI",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar políticas públicas y empleo público lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V40",
+      "file": "t23-40-rectificacion-registral-de-la-mencion-rela.webp",
+      "title": "Rectificación registral de la mención relativa al sexo",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar rectificación registral de la mención relativa al sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V41",
+      "file": "t23-41-efectos-reversibilidad-y-adecuacion-docume.webp",
+      "title": "Efectos, reversibilidad y adecuación documental",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar efectos, reversibilidad y adecuación documental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V42",
+      "file": "t23-42-prohibiciones-intersexualidad-y-proteccion.webp",
+      "title": "Prohibiciones, intersexualidad y protección frente a violencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar prohibiciones, intersexualidad y protección frente a violencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V43",
+      "file": "t23-43-igualdad-de-trato-y-actuacion-policial-no-.webp",
+      "title": "Igualdad de trato y actuación policial no discriminatoria",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar igualdad de trato y actuación policial no discriminatoria mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T23-V44",
+      "file": "t23-44-autoridad-independiente-e-instituto-de-las.webp",
+      "title": "Autoridad Independiente e Instituto de las Mujeres",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente: explicar autoridad independiente e instituto de las mujeres mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": [
+    "T23-V01",
+    "T23-V02",
+    "T23-V03",
+    "T23-V04",
+    "T23-V05",
+    "T23-V06",
+    "T23-V07",
+    "T23-V08",
+    "T23-V09",
+    "T23-V10",
+    "T23-V11",
+    "T23-V12",
+    "T23-V13",
+    "T23-V14",
+    "T23-V15",
+    "T23-V16",
+    "T23-V17",
+    "T23-V18",
+    "T23-V19",
+    "T23-V20",
+    "T23-V21",
+    "T23-V22",
+    "T23-V23",
+    "T23-V24",
+    "T23-V25",
+    "T23-V26",
+    "T23-V27",
+    "T23-V28",
+    "T23-V29",
+    "T23-V30",
+    "T23-V31",
+    "T23-V32",
+    "T23-V33",
+    "T23-V34",
+    "T23-V35",
+    "T23-V36",
+    "T23-V37",
+    "T23-V38",
+    "T23-V39",
+    "T23-V40",
+    "T23-V41",
+    "T23-V42",
+    "T23-V43",
+    "T23-V44"
+  ]
+}
