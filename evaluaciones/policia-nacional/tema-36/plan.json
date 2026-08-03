@@ -1,0 +1,602 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 36,
+  "topic_title": "Gramática de la lengua española. Morfología. Sufijos, sustantivos y pronombres. Adjetivos: sus grados y tipos. Los adverbios y sus tipos. Verbos: modos y conjugación. Preposiciones y conjunciones. Sintaxis. La oración: partes y tipos. Análisis sintáctico.",
+  "id_prefix": "PN-T36",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-36/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-36/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 36"
+      },
+      {
+        "number": 2,
+        "title": "Gramática, morfología y sintaxis"
+      },
+      {
+        "number": 3,
+        "title": "Palabra, lexema y morfema"
+      },
+      {
+        "number": 4,
+        "title": "Morfología flexiva y derivativa"
+      },
+      {
+        "number": 5,
+        "title": "Palabras simples, derivadas y compuestas"
+      },
+      {
+        "number": 6,
+        "title": "Prefijación, sufijación y composición"
+      },
+      {
+        "number": 7,
+        "title": "El sufijo derivativo"
+      },
+      {
+        "number": 8,
+        "title": "Sufijos nominales, adjetivales y verbales"
+      },
+      {
+        "number": 9,
+        "title": "Sufijos apreciativos"
+      },
+      {
+        "number": 10,
+        "title": "Interfijos y parasíntesis"
+      },
+      {
+        "number": 11,
+        "title": "El sustantivo: propiedades básicas"
+      },
+      {
+        "number": 12,
+        "title": "Sustantivos comunes y propios"
+      },
+      {
+        "number": 13,
+        "title": "Sustantivos concretos y abstractos"
+      },
+      {
+        "number": 14,
+        "title": "Sustantivos contables y no contables"
+      },
+      {
+        "number": 15,
+        "title": "Sustantivos individuales y colectivos"
+      },
+      {
+        "number": 16,
+        "title": "Género del sustantivo"
+      },
+      {
+        "number": 17,
+        "title": "Comunes en cuanto al género y heterónimos"
+      },
+      {
+        "number": 18,
+        "title": "Número: singular y plural"
+      },
+      {
+        "number": 19,
+        "title": "Formación regular del plural"
+      },
+      {
+        "number": 20,
+        "title": "Plurales especiales e invariables"
+      },
+      {
+        "number": 21,
+        "title": "El grupo nominal"
+      },
+      {
+        "number": 22,
+        "title": "Determinación y artículo"
+      },
+      {
+        "number": 23,
+        "title": "Pronombre y determinante"
+      },
+      {
+        "number": 24,
+        "title": "Pronombres personales tónicos"
+      },
+      {
+        "number": 25,
+        "title": "Pronombres átonos y clíticos"
+      },
+      {
+        "number": 26,
+        "title": "Leísmo, laísmo y loísmo"
+      },
+      {
+        "number": 27,
+        "title": "Pronombres reflexivos y recíprocos"
+      },
+      {
+        "number": 28,
+        "title": "Valores gramaticales de se"
+      },
+      {
+        "number": 29,
+        "title": "Demostrativos"
+      },
+      {
+        "number": 30,
+        "title": "Posesivos"
+      },
+      {
+        "number": 31,
+        "title": "Cuantificadores indefinidos"
+      },
+      {
+        "number": 32,
+        "title": "Numerales"
+      },
+      {
+        "number": 33,
+        "title": "Relativos"
+      },
+      {
+        "number": 34,
+        "title": "Interrogativos y exclamativos"
+      },
+      {
+        "number": 35,
+        "title": "El adjetivo: propiedades básicas"
+      },
+      {
+        "number": 36,
+        "title": "Adjetivos calificativos y relacionales"
+      },
+      {
+        "number": 37,
+        "title": "Adjetivos especificativos y explicativos"
+      },
+      {
+        "number": 38,
+        "title": "Posición del adjetivo"
+      },
+      {
+        "number": 39,
+        "title": "Flexión y apócope del adjetivo"
+      },
+      {
+        "number": 40,
+        "title": "Grado positivo"
+      },
+      {
+        "number": 41,
+        "title": "Grado comparativo"
+      },
+      {
+        "number": 42,
+        "title": "Superlativo absoluto y relativo"
+      },
+      {
+        "number": 43,
+        "title": "El adverbio: propiedades básicas"
+      },
+      {
+        "number": 44,
+        "title": "Adverbios de lugar y tiempo"
+      },
+      {
+        "number": 45,
+        "title": "Adverbios de modo, cantidad y grado"
+      },
+      {
+        "number": 46,
+        "title": "Afirmación, negación y duda"
+      },
+      {
+        "number": 47,
+        "title": "Adverbios relativos, interrogativos y exclamativos"
+      },
+      {
+        "number": 48,
+        "title": "Adverbios terminados en -mente"
+      },
+      {
+        "number": 49,
+        "title": "Locuciones y grupos adverbiales"
+      },
+      {
+        "number": 50,
+        "title": "El verbo: propiedades y estructura"
+      },
+      {
+        "number": 51,
+        "title": "Las tres conjugaciones"
+      },
+      {
+        "number": 52,
+        "title": "Verbos regulares e irregulares"
+      },
+      {
+        "number": 53,
+        "title": "Persona y número verbal"
+      },
+      {
+        "number": 54,
+        "title": "Tiempo verbal y referencia temporal"
+      },
+      {
+        "number": 55,
+        "title": "Aspecto léxico y gramatical"
+      },
+      {
+        "number": 56,
+        "title": "Modo indicativo"
+      },
+      {
+        "number": 57,
+        "title": "Modo subjuntivo"
+      },
+      {
+        "number": 58,
+        "title": "Modo imperativo"
+      },
+      {
+        "number": 59,
+        "title": "Formas no personales"
+      },
+      {
+        "number": 60,
+        "title": "Gerundio simple y compuesto"
+      },
+      {
+        "number": 61,
+        "title": "Participio y construcciones de perfecto"
+      },
+      {
+        "number": 62,
+        "title": "Presente y pretérito imperfecto"
+      },
+      {
+        "number": 63,
+        "title": "Pretérito perfecto simple y compuesto"
+      },
+      {
+        "number": 64,
+        "title": "Pluscuamperfecto y pretérito anterior"
+      },
+      {
+        "number": 65,
+        "title": "Futuro y condicional"
+      },
+      {
+        "number": 66,
+        "title": "Tiempos del subjuntivo"
+      },
+      {
+        "number": 67,
+        "title": "Perífrasis verbales"
+      },
+      {
+        "number": 68,
+        "title": "Verbos copulativos y predicativos"
+      },
+      {
+        "number": 69,
+        "title": "Transitividad e intransitividad"
+      },
+      {
+        "number": 70,
+        "title": "Verbos pronominales e impersonales"
+      },
+      {
+        "number": 71,
+        "title": "Verbos incoativos, causativos y frecuentativos"
+      },
+      {
+        "number": 72,
+        "title": "La preposición"
+      },
+      {
+        "number": 73,
+        "title": "Inventario de preposiciones"
+      },
+      {
+        "number": 74,
+        "title": "Contracciones al y del"
+      },
+      {
+        "number": 75,
+        "title": "Locuciones preposicionales"
+      },
+      {
+        "number": 76,
+        "title": "La conjunción"
+      },
+      {
+        "number": 77,
+        "title": "Conjunciones coordinantes"
+      },
+      {
+        "number": 78,
+        "title": "Conjunciones subordinantes"
+      },
+      {
+        "number": 79,
+        "title": "Locuciones conjuntivas y enlaces complejos"
+      },
+      {
+        "number": 80,
+        "title": "La sintaxis y sus unidades"
+      },
+      {
+        "number": 81,
+        "title": "Grupos sintácticos y núcleo"
+      },
+      {
+        "number": 82,
+        "title": "Sujeto y predicado"
+      },
+      {
+        "number": 83,
+        "title": "Complemento directo"
+      },
+      {
+        "number": 84,
+        "title": "Complemento indirecto"
+      },
+      {
+        "number": 85,
+        "title": "Complemento de régimen"
+      },
+      {
+        "number": 86,
+        "title": "Atributo y verbos copulativos"
+      },
+      {
+        "number": 87,
+        "title": "Complemento predicativo"
+      },
+      {
+        "number": 88,
+        "title": "Complementos circunstanciales y adjuntos"
+      },
+      {
+        "number": 89,
+        "title": "Complemento agente y pasiva"
+      },
+      {
+        "number": 90,
+        "title": "Enunciado, oración y proposición"
+      },
+      {
+        "number": 91,
+        "title": "Modalidad oracional"
+      },
+      {
+        "number": 92,
+        "title": "Oraciones personales e impersonales"
+      },
+      {
+        "number": 93,
+        "title": "Activas, pasivas y medias"
+      },
+      {
+        "number": 94,
+        "title": "Oraciones simples y compuestas"
+      },
+      {
+        "number": 95,
+        "title": "Coordinación y yuxtaposición"
+      },
+      {
+        "number": 96,
+        "title": "Subordinadas sustantivas"
+      },
+      {
+        "number": 97,
+        "title": "Subordinadas de relativo"
+      },
+      {
+        "number": 98,
+        "title": "Subordinadas adverbiales y construcciones circunstanciales"
+      },
+      {
+        "number": 99,
+        "title": "Método de análisis sintáctico"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Fundamentos de gramática y morfología",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "El sustantivo y el grupo nominal",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Pronombres, determinantes y referencia",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "El adjetivo: tipos y grados",
+        "blocks": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "El adverbio y sus tipos",
+        "blocks": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "El verbo: flexión, modos y conjugación",
+        "blocks": [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Preposiciones y conjunciones",
+        "blocks": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79
+        ]
+      },
+      {
+        "code": "P8",
+        "title": "Sintaxis: grupos y funciones",
+        "blocks": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ]
+      },
+      {
+        "code": "P9",
+        "title": "La oración: tipos y análisis sintáctico",
+        "blocks": [
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

@@ -846,6 +846,30 @@
           "official_exam_mapped": 16,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 36,
+          "slug": "gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico",
+          "title": "Gramática de la lengua española. Morfología. Sufijos, sustantivos y pronombres. Adjetivos: sus grados y tipos. Los adverbios y sus tipos. Verbos: modos y conjugación. Preposiciones y conjunciones. Sintaxis. La oración: partes y tipos. Análisis sintáctico.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-36/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-36-gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico.md",
+          "atestado": "temas/policia-nacional/atestado/tema-36-gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-36/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-36/plan.json",
+          "assets": "assets/policia-nacional/tema-36/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-36/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-36/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 99,
+          "atomic_facts": 396,
+          "question_count": 792,
+          "official_exam_mapped": 2,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

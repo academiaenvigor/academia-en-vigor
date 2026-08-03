@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-36",
+  "topic_number": 36,
+  "slug": "gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico",
+  "title": "Gramática de la lengua española. Morfología. Sufijos, sustantivos y pronombres. Adjetivos: sus grados y tipos. Los adverbios y sus tipos. Verbos: modos y conjugación. Preposiciones y conjunciones. Sintaxis. La oración: partes y tipos. Análisis sintáctico.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-36/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-36-gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico.md",
+    "atestado": "temas/policia-nacional/atestado/tema-36-gramatica-lengua-espanola-morfologia-sintaxis-analisis-sintactico.md"
+  },
+  "semantic_blocks": 99,
+  "atomic_facts": 396,
+  "master_statements": 396,
+  "coverage_file": "conocimiento/policia-nacional/tema-36/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T36",
+    "RAE-NGLE-T36",
+    "RAE-NGB-T36",
+    "RAE-GTG-T36",
+    "RAE-GTG-ESQUEMAS-T36",
+    "RAE-NGB-MORFOLOGIA-T36",
+    "RAE-NGB-DERIVACION-T36",
+    "RAE-NGB-SUSTANTIVO-T36",
+    "RAE-NGB-PRONOMBRES-T36",
+    "RAE-NGB-ADJETIVO-T36",
+    "RAE-NGB-ADVERBIO-T36",
+    "RAE-NGB-VERBO-T36",
+    "RAE-NGB-FLEXION-VERBAL-T36",
+    "RAE-NGB-ENLACES-T36",
+    "RAE-NGB-SINTAXIS-T36",
+    "RAE-DPD2-T36"
+  ],
+  "official_exam_items": [
+    "of-pn-p39-a-q004",
+    "of-pn-p40-a-q023"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-36/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-36/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-36/manifest.json",
+    "questions": 792,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-36/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-36/manifest.json",
+    "total": 0,
+    "planned": 99
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-36/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-36/revision-1.0.md"
+  }
+}
