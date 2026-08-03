@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 20,
+  "topic_title": "Delitos informáticos. Derecho a la intimidad y prueba digital",
+  "id_prefix": "PN-T20",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-20/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-20/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y método de resolución"
+      },
+      {
+        "number": 2,
+        "title": "Convenio de Budapest: función y alcance"
+      },
+      {
+        "number": 3,
+        "title": "Definiciones informáticas del Convenio"
+      },
+      {
+        "number": 4,
+        "title": "Familias delictivas del Convenio"
+      },
+      {
+        "number": 5,
+        "title": "Estafa informática y transferencia no consentida"
+      },
+      {
+        "number": 6,
+        "title": "Instrumentos de pago y medios preparatorios"
+      },
+      {
+        "number": 7,
+        "title": "Ciberdelito como medio y no como etiqueta"
+      },
+      {
+        "number": 8,
+        "title": "Intimidad, datos y secreto: tres planos"
+      },
+      {
+        "number": 9,
+        "title": "Artículo 18 de la Constitución"
+      },
+      {
+        "number": 10,
+        "title": "Tutela civil y consentimiento"
+      },
+      {
+        "number": 11,
+        "title": "Descubrimiento de secretos y captación"
+      },
+      {
+        "number": 12,
+        "title": "Datos reservados personales o familiares"
+      },
+      {
+        "number": 13,
+        "title": "Difusión de lo ilícitamente descubierto"
+      },
+      {
+        "number": 14,
+        "title": "Agravaciones por sujeto, datos y lucro"
+      },
+      {
+        "number": 15,
+        "title": "Difusión de imágenes íntimas obtenidas con anuencia"
+      },
+      {
+        "number": 16,
+        "title": "Acceso ilícito a sistemas"
+      },
+      {
+        "number": 17,
+        "title": "Interceptación ilícita de datos"
+      },
+      {
+        "number": 18,
+        "title": "Programas y credenciales para atacar intimidad"
+      },
+      {
+        "number": 19,
+        "title": "Organización y persona jurídica"
+      },
+      {
+        "number": 20,
+        "title": "Autoridad, oficio, persona jurídica y perseguibilidad"
+      },
+      {
+        "number": 21,
+        "title": "Daño grave a datos, programas y documentos"
+      },
+      {
+        "number": 22,
+        "title": "Daños informáticos agravados"
+      },
+      {
+        "number": 23,
+        "title": "Interferencia grave en sistemas"
+      },
+      {
+        "number": 24,
+        "title": "Herramientas y credenciales para causar daños"
+      },
+      {
+        "number": 25,
+        "title": "Responsabilidad de la persona jurídica por daños"
+      },
+      {
+        "number": 26,
+        "title": "Acceso, daño, interrupción y fraude"
+      },
+      {
+        "number": 27,
+        "title": "Ransomware: calificación por conductas"
+      },
+      {
+        "number": 28,
+        "title": "Phishing y suplantación: calificación por resultado"
+      },
+      {
+        "number": 29,
+        "title": "Concepto, fuentes y valoración de la prueba digital"
+      },
+      {
+        "number": 30,
+        "title": "Primeras diligencias sobre contenidos ilícitos"
+      },
+      {
+        "number": 31,
+        "title": "Principios de la investigación tecnológica"
+      },
+      {
+        "number": 32,
+        "title": "Solicitud, resolución, secreto y control"
+      },
+      {
+        "number": 33,
+        "title": "Interceptación de comunicaciones telemáticas"
+      },
+      {
+        "number": 34,
+        "title": "Dirección IP, IMSI, IMEI y titularidad"
+      },
+      {
+        "number": 35,
+        "title": "Incautar no es acceder: registro de dispositivos"
+      },
+      {
+        "number": 36,
+        "title": "Registro remoto y conservación urgente"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Mapa penal de la ciberdelincuencia",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Intimidad, datos y secretos",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Acceso, daños y fraude informático",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "La prueba digital en el proceso penal",
+        "blocks": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

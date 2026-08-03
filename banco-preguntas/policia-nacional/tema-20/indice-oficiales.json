@@ -1,0 +1,220 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 20,
+  "titulo": "Delitos informáticos. Derecho a la intimidad y prueba digital",
+  "generated_at": "2026-08-01",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 10,
+  "con_bloque_asignado": 10,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "33": 1,
+    "16": 3,
+    "13": 1,
+    "12": 2,
+    "35": 1,
+    "5": 1,
+    "15": 1
+  },
+  "por_promocion": {
+    "P33": 1,
+    "P38": 1,
+    "P39": 2,
+    "P40": 2,
+    "P41": 2,
+    "P42": 2
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p33-a-q080",
+      "exam_id": "of-pn-p33-a",
+      "series_year": 2016,
+      "question_number": 80,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "PN-T20-F129"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p38-a-q057",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 57,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T20-F061"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q001",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 1,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T20-F061"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q074",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 74,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "PN-T20-F049"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q057",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 57,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "PN-T20-F045"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q062",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 62,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "PN-T20-F137"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p41-a-q045",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 45,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "PN-T20-F017"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p41-a-q089",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 89,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "PN-T20-F057"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p42-a-q004",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 4,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "PN-T20-F045"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p42-a-q034",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 34,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "PN-T20-F061"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    }
+  ]
+}

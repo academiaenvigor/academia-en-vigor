@@ -1,0 +1,519 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-20",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 30,
+    "integrated": 30,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-08-01",
+  "resources": [
+    {
+      "id": "PN-T20-DG01",
+      "file": "t20-01-alcance-oficial-y-metodo-de-resolucion.webp",
+      "title": "Alcance oficial y método de resolución",
+      "type": "infografia",
+      "placement": "Bloque 01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "mapa: ciudad digital.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG02",
+      "file": "t20-02-convenio-de-budapest-funcion-y-alcance.webp",
+      "title": "Convenio de Budapest: función y alcance",
+      "type": "infografia",
+      "placement": "Bloque 02",
+      "status": "integrated_webp",
+      "block": 2,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "comparativa: puente internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG03",
+      "file": "t20-03-definiciones-informaticas-del-convenio.webp",
+      "title": "Definiciones informáticas del Convenio",
+      "type": "infografia",
+      "placement": "Bloque 03",
+      "status": "integrated_webp",
+      "block": 3,
+      "documents": [
+        "atestado"
+      ],
+      "description": "secuencia: diccionario de nodos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG04",
+      "file": "t20-04-familias-delictivas-del-convenio.webp",
+      "title": "Familias delictivas del Convenio",
+      "type": "infografia",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena forense: cuatro puertas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG05",
+      "file": "t20-05-estafa-informatica-y-transferencia-no-consentida.webp",
+      "title": "Estafa informática y transferencia no consentida",
+      "type": "infografia",
+      "placement": "Bloque 05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "objeto mnemotécnico: transferencia bancaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG06",
+      "file": "t20-06-instrumentos-de-pago-y-medios-preparatorios.webp",
+      "title": "Instrumentos de pago y medios preparatorios",
+      "type": "infografia",
+      "placement": "Bloque 06",
+      "status": "integrated_webp",
+      "block": 6,
+      "documents": [
+        "atestado"
+      ],
+      "description": "capas: tarjeta y credencial.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG07",
+      "file": "t20-07-ciberdelito-como-medio-y-no-como-etiqueta.webp",
+      "title": "Ciberdelito como medio y no como etiqueta",
+      "type": "infografia",
+      "placement": "Bloque 07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "atestado"
+      ],
+      "description": "flujo: navaja multiuso.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG08",
+      "file": "t20-08-intimidad-datos-y-secreto-tres-planos.webp",
+      "title": "Intimidad, datos y secreto: tres planos",
+      "type": "infografia",
+      "placement": "Bloque 08",
+      "status": "integrated_webp",
+      "block": 8,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "balanza: frontera penal-técnica.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG09",
+      "file": "t20-09-articulo-18-de-la-constitucion.webp",
+      "title": "Artículo 18 de la Constitución",
+      "type": "infografia",
+      "placement": "Bloque 09",
+      "status": "integrated_webp",
+      "block": 9,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "mapa: tres círculos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG10",
+      "file": "t20-10-tutela-civil-y-consentimiento.webp",
+      "title": "Tutela civil y consentimiento",
+      "type": "infografia",
+      "placement": "Bloque 10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "comparativa: casa de cuatro ventanas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG11",
+      "file": "t20-11-descubrimiento-de-secretos-y-captacion.webp",
+      "title": "Descubrimiento de secretos y captación",
+      "type": "infografia",
+      "placement": "Bloque 11",
+      "status": "integrated_webp",
+      "block": 11,
+      "documents": [
+        "atestado"
+      ],
+      "description": "secuencia: escudo revocable.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG12",
+      "file": "t20-12-datos-reservados-personales-o-familiares.webp",
+      "title": "Datos reservados personales o familiares",
+      "type": "infografia",
+      "placement": "Bloque 12",
+      "status": "integrated_webp",
+      "block": 12,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena forense: sobre y escucha.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG13",
+      "file": "t20-13-difusion-de-lo-ilicitamente-descubierto.webp",
+      "title": "Difusión de lo ilícitamente descubierto",
+      "type": "infografia",
+      "placement": "Bloque 13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "atestado"
+      ],
+      "description": "objeto mnemotécnico: archivo de datos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG14",
+      "file": "t20-14-agravaciones-por-sujeto-datos-y-lucro.webp",
+      "title": "Agravaciones por sujeto, datos y lucro",
+      "type": "infografia",
+      "placement": "Bloque 14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "atestado"
+      ],
+      "description": "capas: megáfono de revelación.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG15",
+      "file": "t20-15-difusion-de-imagenes-intimas-obtenidas-con-anuencia.webp",
+      "title": "Difusión de imágenes íntimas obtenidas con anuencia",
+      "type": "infografia",
+      "placement": "Bloque 15",
+      "status": "integrated_webp",
+      "block": 15,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "flujo: ascensor de agravaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG16",
+      "file": "t20-16-acceso-ilicito-a-sistemas.webp",
+      "title": "Acceso ilícito a sistemas",
+      "type": "infografia",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "balanza: fotografía que se propaga.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG17",
+      "file": "t20-17-interceptacion-ilicita-de-datos.webp",
+      "title": "Interceptación ilícita de datos",
+      "type": "infografia",
+      "placement": "Bloque 17",
+      "status": "integrated_webp",
+      "block": 17,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "mapa: torniquete de acceso.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG18",
+      "file": "t20-18-programas-y-credenciales-para-atacar-intimidad.webp",
+      "title": "Programas y credenciales para atacar intimidad",
+      "type": "infografia",
+      "placement": "Bloque 18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "atestado"
+      ],
+      "description": "comparativa: antena interceptada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG19",
+      "file": "t20-19-organizacion-y-persona-juridica.webp",
+      "title": "Organización y persona jurídica",
+      "type": "infografia",
+      "placement": "Bloque 19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "secuencia: llave y código.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG20",
+      "file": "t20-20-autoridad-oficio-persona-juridica-y-perseguibilidad.webp",
+      "title": "Autoridad, oficio, persona jurídica y perseguibilidad",
+      "type": "infografia",
+      "placement": "Bloque 20",
+      "status": "integrated_webp",
+      "block": 20,
+      "documents": [
+        "atestado"
+      ],
+      "description": "escena forense: organigrama criminal.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG21",
+      "file": "t20-21-dano-grave-a-datos-programas-y-documentos.webp",
+      "title": "Daño grave a datos, programas y documentos",
+      "type": "infografia",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "objeto mnemotécnico: archivo roto.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG22",
+      "file": "t20-22-danos-informaticos-agravados.webp",
+      "title": "Daños informáticos agravados",
+      "type": "infografia",
+      "placement": "Bloque 22",
+      "status": "integrated_webp",
+      "block": 22,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "capas: panel de agravaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG23",
+      "file": "t20-23-interferencia-grave-en-sistemas.webp",
+      "title": "Interferencia grave en sistemas",
+      "type": "infografia",
+      "placement": "Bloque 23",
+      "status": "integrated_webp",
+      "block": 23,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "flujo: central paralizada.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-DG24",
+      "file": "t20-24-herramientas-y-credenciales-para-causar-danos.webp",
+      "title": "Herramientas y credenciales para causar daños",
+      "type": "infografia",
+      "placement": "Bloque 24",
+      "status": "integrated_webp",
+      "block": 24,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "balanza: caja de herramientas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL01",
+      "file": "t20-il-01-la-ciudad-de-las-cuatro-familias-delictivas.webp",
+      "title": "La ciudad de las cuatro familias delictivas",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena narrativa: ciudad con cuatro distritos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL02",
+      "file": "t20-il-02-la-imagen-que-rompe-el-circulo-privado.webp",
+      "title": "La imagen que rompe el círculo privado",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 16",
+      "status": "integrated_webp",
+      "block": 16,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena narrativa: fotografía y ondas de reenvío.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL03",
+      "file": "t20-il-03-el-archivo-que-se-deshace-sin-borrar-el-servidor.webp",
+      "title": "El archivo que se deshace sin borrar el servidor",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "atestado"
+      ],
+      "description": "escena narrativa: documento digital fragmentado.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL04",
+      "file": "t20-il-04-el-candado-del-ransomware-y-sus-varios-delitos.webp",
+      "title": "El candado del ransomware y sus varios delitos",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 27",
+      "status": "integrated_webp",
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena narrativa: ordenador cerrado y rutas jurídicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL05",
+      "file": "t20-il-05-la-balanza-de-los-cinco-principios.webp",
+      "title": "La balanza de los cinco principios",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena narrativa: balanza con cinco contrapesos.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "PN-T20-IL06",
+      "file": "t20-il-06-la-caja-fuerte-digital-incautar-no-es-abrir.webp",
+      "title": "La caja fuerte digital: incautar no es abrir",
+      "type": "ilustracion_simple",
+      "placement": "Bloque 35",
+      "status": "integrated_webp",
+      "block": 35,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "escena narrativa: móvil dentro de caja fuerte.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}
