@@ -376,6 +376,14 @@
       "traceable": true
     },
     {
+      "id": "CCN-STIC-425-T40",
+      "title": "CCN-STIC-425 · Ciclo de Inteligencia y Análisis de Intrusiones",
+      "url": "https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/1093-ccn-stic-425-ciclo-de-inteligencia-y-analisis-de-intrusiones/file.html",
+      "scope": "modelo de seis fases, fuentes y producción",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CDFUE",
       "title": "Carta de los Derechos Fundamentales de la Unión Europea",
       "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012P/TXT",
@@ -641,6 +649,14 @@
       "traceable": true
     },
     {
+      "id": "CNI-CICLO-T40",
+      "title": "Centro Nacional de Inteligencia · La Inteligencia",
+      "url": "https://www.cni.es/la-inteligencia",
+      "scope": "ciclo español, fuentes y elaboración",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "CNPIC-T15",
       "title": "Portal oficial del Centro Nacional de Protección de Infraestructuras Críticas",
       "boe_id": "INTERIOR-CNPIC",
@@ -819,6 +835,14 @@
       "id": "CONVOCATORIA-PN-2026-T39",
       "title": "Convocatoria de Escala Básica 2026 · Tema 39",
       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15055",
+      "scope": "epígrafe oficial completo",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CONVOCATORIA-PN-2026-T40",
+      "title": "Convocatoria de Escala Básica 2026 · Tema 40",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15055",
       "scope": "epígrafe oficial completo",
       "official": true,
       "traceable": true
@@ -1173,6 +1197,22 @@
       "title": "Agencia de la Unión Europea sobre Drogas: European Drug Report 2026",
       "url": "https://www.euda.europa.eu/publications/european-drug-report/2026_en",
       "scope": "situación europea hasta 2025",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "EUROPOL-DARKNET-2017-T40",
+      "title": "Europol y EMCDDA · Drugs and the darknet",
+      "url": "https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf",
+      "scope": "diferencia entre surface web, deep web, dark web y darknet",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "EUROPOL-IOCTA-2024-T40",
+      "title": "Europol · IOCTA 2024",
+      "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/Internet%20Organised%20Crime%20Threat%20Assessment%20IOCTA%202024.pdf",
+      "scope": "uso criminal de dark web, Tor e I2P",
       "official": true,
       "traceable": true
     },
@@ -2451,6 +2491,14 @@
       "traceable": true
     },
     {
+      "id": "MALTEGO-DOCS-T40",
+      "title": "Maltego Documentation",
+      "url": "https://docs.maltego.com/",
+      "scope": "representación gráfica de entidades y relaciones",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "MARSH-T30",
       "title": "Peter Marsh: Aggro, The Illusion of Violence",
       "url": "https://archive.org/details/aggroillusionofv0000mars",
@@ -2579,6 +2627,22 @@
       "traceable": true
     },
     {
+      "id": "ODNI-ICD203-T40",
+      "title": "ODNI · ICD 203 Analytic Standards",
+      "url": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+      "scope": "objetividad, incertidumbre, alternativas y argumentación",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ODNI-OSINT-STRATEGY-T40",
+      "title": "ODNI · IC OSINT Strategy 2024-2026",
+      "url": "https://archive.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf",
+      "scope": "definición y finalidad de OSINT",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "OECD-GLOCAL-T28",
       "title": "OCDE: Governance in the 21st Century",
       "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2001/04/governance-in-the-21st-century_g1ghg25e/9789264189362-en.pdf",
@@ -2615,6 +2679,14 @@
       "title": "OEDA: Informe 2025 del Sistema Español de Alerta Temprana",
       "url": "https://pnsd.sanidad.gob.es/profesionales/sistemasAlerta/pdf/2025_OEDA_InformeSEAT.pdf",
       "scope": "SEAT, marco legal, red y sustancias emergentes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "OHCHR-BERKELEY-T40",
+      "title": "ONU Derechos Humanos · Protocolo de Berkeley",
+      "url": "https://www.ohchr.org/sites/default/files/2024-01/Berkeley-Protocol-Spanish_0.pdf",
+      "scope": "investigación digital abierta, preservación y verificación",
       "official": true,
       "traceable": true
     },
@@ -3540,6 +3612,14 @@
       "traceable": true
     },
     {
+      "id": "RFC3986-URI-T40",
+      "title": "RFC 3986 · Uniform Resource Identifier",
+      "url": "https://datatracker.ietf.org/doc/html/rfc3986",
+      "scope": "identificación de recursos web",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RFC4291-IPV6-ADDR-T39",
       "title": "RFC 4291 · IPv6 Addressing Architecture",
       "url": "https://datatracker.ietf.org/doc/html/rfc4291",
@@ -3588,6 +3668,14 @@
       "traceable": true
     },
     {
+      "id": "RFC7686-ONION-T40",
+      "title": "RFC 7686 · The .onion Special-Use Domain Name",
+      "url": "https://datatracker.ietf.org/doc/html/rfc7686",
+      "scope": "nombres .onion y su relación con DNS",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RFC791-IPV4-T39",
       "title": "RFC 791 · Internet Protocol",
       "url": "https://datatracker.ietf.org/doc/html/rfc791",
@@ -3628,10 +3716,26 @@
       "traceable": true
     },
     {
+      "id": "RFC9110-HTTP-T40",
+      "title": "RFC 9110 · HTTP Semantics",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9110",
+      "scope": "recursos web, autenticación e intermediarios",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "RFC9293-TCP-T39",
       "title": "RFC 9293 · Transmission Control Protocol",
       "url": "https://datatracker.ietf.org/doc/html/rfc9293",
       "scope": "TCP, conexiones, fiabilidad y puertos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "RFC9309-ROBOTS-T40",
+      "title": "RFC 9309 · Robots Exclusion Protocol",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9309",
+      "scope": "rastreo, robots.txt y límites de autorización",
       "official": true,
       "traceable": true
     },
@@ -3770,6 +3874,14 @@
       "traceable": true
     },
     {
+      "id": "SHODAN-HELP-T40",
+      "title": "Shodan Help Center",
+      "url": "https://help.shodan.io/",
+      "scope": "motor de búsqueda de servicios expuestos",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "SINGER-T30",
       "title": "Margaret Thaler Singer: Cults in Our Midst",
       "url": "https://www.wiley.com/en-us/Cults+in+Our+Midst%3A+The+Continuing+Fight+Against+Their+Hidden+Menace-p-9780787967413",
@@ -3852,6 +3964,22 @@
       "official": true,
       "traceable": true,
       "derived_from": []
+    },
+    {
+      "id": "TOR-CIRCUITS-T40",
+      "title": "Tor Specifications · Path selection and circuits",
+      "url": "https://spec.torproject.org/path-spec/general-operation.html",
+      "scope": "circuitos Tor y relés",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "TOR-ONION-T40",
+      "title": "Tor Specifications · Onion services protocol overview",
+      "url": "https://spec.torproject.org/rend-spec/protocol-overview.html",
+      "scope": "servicios onion, introducción y rendezvous",
+      "official": true,
+      "traceable": true
     },
     {
       "id": "TREBEP-T06",
@@ -4310,6 +4438,14 @@
       "title": "ACNUR, historia y mandato de protección",
       "url": "https://www.unhcr.org/about-unhcr/overview/history-unhcr",
       "scope": "desplazamientos del siglo XX y sistema internacional de refugio",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "UNODC-CI-ANALYSTS-T40",
+      "title": "UNODC · Criminal Intelligence: Manual for Analysts",
+      "url": "https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf",
+      "scope": "inteligencia criminal, ciclo, evaluación y análisis",
       "official": true,
       "traceable": true
     },

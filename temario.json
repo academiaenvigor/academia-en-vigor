@@ -942,6 +942,30 @@
           "official_exam_mapped": 8,
           "official_exam_verified": 0,
           "ha_caido_active": 0
+        },
+        {
+          "number": 40,
+          "slug": "inteligencia-ciclo-osint-surface-deep-dark-web-dark-net",
+          "title": "Inteligencia: dato, información e inteligencia. Tipologías de inteligencia. Ciclo de la inteligencia. Inteligencia de Fuentes Abiertas (OSINT). Surface Web. Deep Web. Dark Web. Dark Net.",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/policia-nacional/tema-40/manifest.json",
+          "parte": "temas/policia-nacional/parte/tema-40-inteligencia-ciclo-osint-surface-deep-dark-web-dark-net.md",
+          "atestado": "temas/policia-nacional/atestado/tema-40-inteligencia-ciclo-osint-surface-deep-dark-web-dark-net.md",
+          "question_bank": "banco-preguntas/policia-nacional/tema-40/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/policia-nacional/tema-40/plan.json",
+          "assets": "assets/policia-nacional/tema-40/manifest.json",
+          "teaching_materials": "materiales-didacticos/policia-nacional/tema-40/manifest.json",
+          "official_exam_index": "banco-preguntas/policia-nacional/tema-40/indice-oficiales.json",
+          "visual_version": "0.1.0",
+          "visual_assets": 0,
+          "visual_planned": 89,
+          "atomic_facts": 356,
+          "question_count": 712,
+          "official_exam_mapped": 7,
+          "official_exam_verified": 0,
+          "ha_caido_active": 0
         }
       ]
     }

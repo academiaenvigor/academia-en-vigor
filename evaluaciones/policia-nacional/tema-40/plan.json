@@ -1,0 +1,540 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 40,
+  "topic_title": "Inteligencia: dato, información e inteligencia. Tipologías de inteligencia. Ciclo de la inteligencia. Inteligencia de Fuentes Abiertas (OSINT). Surface Web, Deep Web, Dark Web y Dark Net.",
+  "id_prefix": "PN-T40",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-40/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-40/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial del Tema 40"
+      },
+      {
+        "number": 2,
+        "title": "Concepto de dato"
+      },
+      {
+        "number": 3,
+        "title": "Concepto de información"
+      },
+      {
+        "number": 4,
+        "title": "Concepto de inteligencia"
+      },
+      {
+        "number": 5,
+        "title": "Escalera dato-información-inteligencia"
+      },
+      {
+        "number": 6,
+        "title": "Inteligencia criminal"
+      },
+      {
+        "number": 7,
+        "title": "Proceso y producto de inteligencia"
+      },
+      {
+        "number": 8,
+        "title": "Necesidad, requisito y destinatario"
+      },
+      {
+        "number": 9,
+        "title": "Fuente, dato y canal"
+      },
+      {
+        "number": 10,
+        "title": "Límites e incertidumbre"
+      },
+      {
+        "number": 11,
+        "title": "Criterios para clasificar inteligencia"
+      },
+      {
+        "number": 12,
+        "title": "HUMINT"
+      },
+      {
+        "number": 13,
+        "title": "OSINT como tipología"
+      },
+      {
+        "number": 14,
+        "title": "SIGINT"
+      },
+      {
+        "number": 15,
+        "title": "GEOINT"
+      },
+      {
+        "number": 16,
+        "title": "Inteligencia estratégica"
+      },
+      {
+        "number": 17,
+        "title": "Inteligencia operativa"
+      },
+      {
+        "number": 18,
+        "title": "Inteligencia táctica"
+      },
+      {
+        "number": 19,
+        "title": "Qué es el ciclo de inteligencia"
+      },
+      {
+        "number": 20,
+        "title": "Modelos de cuatro y seis fases"
+      },
+      {
+        "number": 21,
+        "title": "Dirección"
+      },
+      {
+        "number": 22,
+        "title": "Planificación"
+      },
+      {
+        "number": 23,
+        "title": "Obtención o recolección"
+      },
+      {
+        "number": 24,
+        "title": "Transformación y procesamiento"
+      },
+      {
+        "number": 25,
+        "title": "Evaluación de fuente e información"
+      },
+      {
+        "number": 26,
+        "title": "Sistema 4×4 de evaluación"
+      },
+      {
+        "number": 27,
+        "title": "Registro y ordenación"
+      },
+      {
+        "number": 28,
+        "title": "Análisis"
+      },
+      {
+        "number": 29,
+        "title": "Integración"
+      },
+      {
+        "number": 30,
+        "title": "Interpretación"
+      },
+      {
+        "number": 31,
+        "title": "Elaboración del producto"
+      },
+      {
+        "number": 32,
+        "title": "Difusión"
+      },
+      {
+        "number": 33,
+        "title": "Evaluación y retroalimentación"
+      },
+      {
+        "number": 34,
+        "title": "Carácter dinámico del ciclo"
+      },
+      {
+        "number": 35,
+        "title": "Ciclo y toma de decisiones"
+      },
+      {
+        "number": 36,
+        "title": "Objetividad analítica"
+      },
+      {
+        "number": 37,
+        "title": "Hechos, supuestos y juicios"
+      },
+      {
+        "number": 38,
+        "title": "Calidad y credibilidad de fuentes"
+      },
+      {
+        "number": 39,
+        "title": "Incertidumbre, probabilidad y confianza"
+      },
+      {
+        "number": 40,
+        "title": "Hipótesis alternativas"
+      },
+      {
+        "number": 41,
+        "title": "Sesgo de anclaje"
+      },
+      {
+        "number": 42,
+        "title": "Sesgos de confirmación y disponibilidad"
+      },
+      {
+        "number": 43,
+        "title": "Cronologías y análisis de vínculos"
+      },
+      {
+        "number": 44,
+        "title": "Indicadores y lagunas"
+      },
+      {
+        "number": 45,
+        "title": "Argumentación y mensaje principal"
+      },
+      {
+        "number": 46,
+        "title": "Privacidad, finalidad y minimización"
+      },
+      {
+        "number": 47,
+        "title": "Definición operativa de OSINT"
+      },
+      {
+        "number": 48,
+        "title": "OSINF frente a OSINT"
+      },
+      {
+        "number": 49,
+        "title": "Fuentes públicas y comerciales"
+      },
+      {
+        "number": 50,
+        "title": "Categorías de fuentes OSINT"
+      },
+      {
+        "number": 51,
+        "title": "Motores de búsqueda"
+      },
+      {
+        "number": 52,
+        "title": "Consultas y operadores"
+      },
+      {
+        "number": 53,
+        "title": "Maltego y análisis gráfico"
+      },
+      {
+        "number": 54,
+        "title": "Shodan y servicios expuestos"
+      },
+      {
+        "number": 55,
+        "title": "Herramientas como apoyo, no como fuente de verdad"
+      },
+      {
+        "number": 56,
+        "title": "Obtención pasiva y activa"
+      },
+      {
+        "number": 57,
+        "title": "Metadatos"
+      },
+      {
+        "number": 58,
+        "title": "Geolocalización y cronolocalización"
+      },
+      {
+        "number": 59,
+        "title": "Identidades y pivotes"
+      },
+      {
+        "number": 60,
+        "title": "Pregunta de investigación OSINT"
+      },
+      {
+        "number": 61,
+        "title": "Plan de fuentes y consultas"
+      },
+      {
+        "number": 62,
+        "title": "Diario de investigación"
+      },
+      {
+        "number": 63,
+        "title": "Captura y preservación"
+      },
+      {
+        "number": 64,
+        "title": "Autenticidad e integridad"
+      },
+      {
+        "number": 65,
+        "title": "Verificación de contenido digital"
+      },
+      {
+        "number": 66,
+        "title": "Procedencia y cadena de custodia"
+      },
+      {
+        "number": 67,
+        "title": "Legalidad y ética"
+      },
+      {
+        "number": 68,
+        "title": "Seguridad operacional del investigador"
+      },
+      {
+        "number": 69,
+        "title": "Minimización y terceros"
+      },
+      {
+        "number": 70,
+        "title": "Informe OSINT"
+      },
+      {
+        "number": 71,
+        "title": "Internet y World Wide Web"
+      },
+      {
+        "number": 72,
+        "title": "URI, navegador y HTTP"
+      },
+      {
+        "number": 73,
+        "title": "Rastreo, indexación y búsqueda"
+      },
+      {
+        "number": 74,
+        "title": "Surface Web"
+      },
+      {
+        "number": 75,
+        "title": "Deep Web"
+      },
+      {
+        "number": 76,
+        "title": "Contenido autenticado y dinámico"
+      },
+      {
+        "number": 77,
+        "title": "Robots Exclusion Protocol"
+      },
+      {
+        "number": 78,
+        "title": "No existen porcentajes universales fiables"
+      },
+      {
+        "number": 79,
+        "title": "Dark Web"
+      },
+      {
+        "number": 80,
+        "title": "Dark Net"
+      },
+      {
+        "number": 81,
+        "title": "Relación Surface-Deep-Dark"
+      },
+      {
+        "number": 82,
+        "title": "Tor como red de anonimato"
+      },
+      {
+        "number": 83,
+        "title": "Circuito Tor hacia la web ordinaria"
+      },
+      {
+        "number": 84,
+        "title": "Servicios onion"
+      },
+      {
+        "number": 85,
+        "title": "Nombres .onion"
+      },
+      {
+        "number": 86,
+        "title": "Usos legítimos e ilícitos"
+      },
+      {
+        "number": 87,
+        "title": "Límites del anonimato"
+      },
+      {
+        "number": 88,
+        "title": "Tor, I2P, Freenet y ZeroNet en examen"
+      },
+      {
+        "number": 89,
+        "title": "Matriz final de las cuatro capas"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Dato, información e inteligencia",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Tipologías de inteligencia",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Ciclo de la inteligencia",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Rigor y técnicas de análisis",
+        "blocks": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "Inteligencia de Fuentes Abiertas (OSINT)",
+        "blocks": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      {
+        "code": "P6",
+        "title": "Metodología y garantías OSINT",
+        "blocks": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      },
+      {
+        "code": "P7",
+        "title": "Surface Web, Deep Web, Dark Web y Dark Net",
+        "blocks": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

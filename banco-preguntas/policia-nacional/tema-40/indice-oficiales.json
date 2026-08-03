@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 40,
+  "titulo": "Inteligencia: dato, información e inteligencia. Tipologías de inteligencia. Ciclo de la inteligencia. Inteligencia de Fuentes Abiertas (OSINT). Surface Web, Deep Web, Dark Web y Dark Net.",
+  "generated_at": "2026-08-03",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 7,
+  "con_bloque_asignado": 7,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "26": 1,
+    "88": 1,
+    "53": 2,
+    "6": 1,
+    "41": 1,
+    "54": 1
+  },
+  "por_promocion": {
+    "P38": 2,
+    "P39": 1,
+    "P40": 1,
+    "P41": 2,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p38-a-q088",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 88,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "PN-T40-F101"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Uno de los sistemas de evaluación más utilizado en el ciclo de Inteligencia es:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p38-a-q089",
+      "exam_id": "of-pn-p38-a",
+      "series_year": 2021,
+      "question_number": 89,
+      "block_refs": [
+        88
+      ],
+      "fact_refs": [
+        "PN-T40-F350"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Son redes de la DarkNet:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p39-a-q086",
+      "exam_id": "of-pn-p39-a",
+      "series_year": 2023,
+      "question_number": 86,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "PN-T40-F209"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cuál de las siguientes herramientas o servicios son utilizados para la implementación de un sistema OSINT?.",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p40-a-q012",
+      "exam_id": "of-pn-p40-a",
+      "series_year": 2023,
+      "question_number": 12,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T40-F021"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Para la Oficina de las Naciones Unidas contra la Droga y el Delito (UNDOC) la siguiente definición “Cualquier tipo de información con valor adicional que puede ser utilizado por los agentes del orden para combatir la delincuencia” hace referencia a:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q088",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 88,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "PN-T40-F161"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Cómo se denomina el sesgo cognitivo por el que un analista de inteligencia tiende a confiar más en la primera información que ha recibido para la toma posterior de decisiones en detrimento de otras?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p41-a-q093",
+      "exam_id": "of-pn-p41-a",
+      "series_year": 2024,
+      "question_number": 93,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "PN-T40-F209"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "¿Qué herramienta OSINT permite visualizar de manera gráfica las relaciones entre personas, empresas, páginas web, documentos a partir de información pública?",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    },
+    {
+      "question_id": "of-pn-p42-a-q095",
+      "exam_id": "of-pn-p42-a",
+      "series_year": 2025,
+      "question_number": 95,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "PN-T40-F213"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_scope",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine",
+      "prompt": "Dentro de la multitud de herramientas y servicios útiles a la hora de implementar un sistema OSINT, se halla un buscador especializado que permite entre otras cosas localizar ordenadores, webcams e impresoras, basándose en el software, la dirección IP y la ubicación geográfica, denominado:",
+      "source_status": "quarantine",
+      "editorial_note": "Aparición localizada y concepto cotejado; no se muestra una respuesta como plantilla oficial final."
+    }
+  ]
+}

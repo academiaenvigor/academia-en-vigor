@@ -1,0 +1,97 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-40",
+  "topic_number": 40,
+  "slug": "inteligencia-ciclo-osint-surface-deep-dark-web-dark-net",
+  "title": "Inteligencia: dato, información e inteligencia. Tipologías de inteligencia. Ciclo de la inteligencia. Inteligencia de Fuentes Abiertas (OSINT). Surface Web, Deep Web, Dark Web y Dark Net.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-03",
+  "source_file": "conocimiento/policia-nacional/tema-40/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_and_institutional_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-40-inteligencia-ciclo-osint-surface-deep-dark-web-dark-net.md",
+    "atestado": "temas/policia-nacional/atestado/tema-40-inteligencia-ciclo-osint-surface-deep-dark-web-dark-net.md"
+  },
+  "semantic_blocks": 89,
+  "atomic_facts": 356,
+  "master_statements": 356,
+  "coverage_file": "conocimiento/policia-nacional/tema-40/cobertura.json",
+  "official_references": [
+    "CONVOCATORIA-PN-2026-T40",
+    "UNODC-CI-ANALYSTS-T40",
+    "CNI-CICLO-T40",
+    "CCN-STIC-425-T40",
+    "ODNI-OSINT-STRATEGY-T40",
+    "ODNI-ICD203-T40",
+    "OHCHR-BERKELEY-T40",
+    "RFC9309-ROBOTS-T40",
+    "RFC9110-HTTP-T40",
+    "RFC3986-URI-T40",
+    "RFC7686-ONION-T40",
+    "TOR-CIRCUITS-T40",
+    "TOR-ONION-T40",
+    "EUROPOL-IOCTA-2024-T40",
+    "EUROPOL-DARKNET-2017-T40",
+    "MALTEGO-DOCS-T40",
+    "SHODAN-HELP-T40"
+  ],
+  "official_exam_items": [
+    "of-pn-p38-a-q088",
+    "of-pn-p38-a-q089",
+    "of-pn-p39-a-q086",
+    "of-pn-p40-a-q012",
+    "of-pn-p41-a-q088",
+    "of-pn-p41-a-q093",
+    "of-pn-p42-a-q095"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-40/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_analitico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-40/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-40/manifest.json",
+    "questions": 712,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-40/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-40/manifest.json",
+    "total": 0,
+    "planned": 89
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-40/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-03",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-40/revision-1.0.md"
+  }
+}
