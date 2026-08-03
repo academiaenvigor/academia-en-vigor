@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "policia-nacional",
+  "opposition_display_name": "Policía Nacional",
+  "topic": "tema-22",
+  "topic_number": 22,
+  "slug": "estatuto-victima-delito-derechos-proteccion",
+  "title": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito: ámbito de aplicación, concepto general de víctima, derechos básicos, protección de las víctimas y medidas de protección.",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_official_sources_2026-08-02",
+  "source_file": "conocimiento/policia-nacional/tema-22/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/policia-nacional/parte/tema-22-estatuto-victima-delito-derechos-proteccion.md",
+    "atestado": "temas/policia-nacional/atestado/tema-22-estatuto-victima-delito-derechos-proteccion.md"
+  },
+  "semantic_blocks": 25,
+  "atomic_facts": 125,
+  "master_statements": 125,
+  "coverage_file": "conocimiento/policia-nacional/tema-22/cobertura.json",
+  "official_references": [
+    "CONV-PN-2026",
+    "LEV-T22",
+    "RD1109-T22",
+    "LO10-2022-T22"
+  ],
+  "official_exam_items": [
+    "of-pn-p38-a-q062",
+    "of-pn-p39-a-q031",
+    "of-pn-p39-a-q047",
+    "of-pn-p39-a-q051",
+    "of-pn-p40-a-q086",
+    "of-pn-p42-a-q011"
+  ],
+  "official_exam_index": "banco-preguntas/policia-nacional/tema-22/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/policia-nacional/tema-22/preguntas.jsonl",
+    "manifest": "banco-preguntas/policia-nacional/tema-22/manifest.json",
+    "questions": 250,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/policia-nacional/tema-22/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/policia-nacional/tema-22/manifest.json",
+    "total": 0,
+    "planned": 25
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/policia-nacional/tema-22/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_official_sources_2026-08-02",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/policia-nacional/tema-22/revision-1.0.md"
+  }
+}

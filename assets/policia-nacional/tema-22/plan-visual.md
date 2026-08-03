@@ -1,0 +1,31 @@
+# Plan visual · Tema 22
+
+No se generan imágenes en esta entrega. Los nombres siguientes son contratos de producción futura.
+
+| Archivo futuro | Tipo | Concepto | Contenido mínimo | Inserción |
+|---|---|---|---|---|
+| `t22-01-ambito-de-aplicacion.webp` | ilustracion_simple | Ámbito de aplicación | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 1 |
+| `t22-02-victima-directa.webp` | infografia | Víctima directa | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 2 |
+| `t22-03-victima-indirecta.webp` | infografia | Víctima indirecta | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 3 |
+| `t22-04-derechos-generales-y-trato.webp` | infografia | Derechos generales y trato | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 4 |
+| `t22-05-derecho-a-entender-y-ser-entendida.webp` | infografia | Derecho a entender y ser entendida | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 5 |
+| `t22-06-informacion-desde-el-primer-contacto.webp` | ilustracion_simple | Información desde el primer contacto | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 6 |
+| `t22-07-denuncia-copia-e-interpretacion.webp` | infografia | Denuncia, copia e interpretación | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 7 |
+| `t22-08-informacion-sobre-la-causa.webp` | infografia | Información sobre la causa | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 8 |
+| `t22-09-periodo-de-reflexion-y-asistencia-juridica.webp` | infografia | Período de reflexión y asistencia jurídica | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 9 |
+| `t22-10-servicios-de-apoyo.webp` | infografia | Servicios de apoyo | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 10 |
+| `t22-11-participacion-en-el-proceso-penal.webp` | ilustracion_simple | Participación en el proceso penal | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 11 |
+| `t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp` | infografia | Ejecución, gastos y devolución de bienes | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 12 |
+| `t22-13-justicia-restaurativa.webp` | infografia | Justicia restaurativa | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 13 |
+| `t22-14-proteccion-integral-y-prevencion.webp` | infografia | Protección integral y prevención | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 14 |
+| `t22-15-evitar-el-contacto-con-el-infractor.webp` | infografia | Evitar el contacto con el infractor | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 15 |
+| `t22-16-declaracion-y-reconocimientos-medicos.webp` | ilustracion_simple | Declaración y reconocimientos médicos | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 16 |
+| `t22-17-intimidad-y-tratamiento-de-datos.webp` | infografia | Intimidad y tratamiento de datos | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 17 |
+| `t22-18-evaluacion-individual-finalidad-y-factores.webp` | infografia | Evaluación individual: finalidad y factores | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 18 |
+| `t22-19-quien-evalua-y-cuando-se-actualiza.webp` | infografia | Quién evalúa y cuándo se actualiza | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 19 |
+| `t22-20-medidas-durante-la-investigacion.webp` | infografia | Medidas durante la investigación | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 20 |
+| `t22-21-medidas-durante-el-juicio.webp` | ilustracion_simple | Medidas durante el juicio | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 21 |
+| `t22-22-menores-discapacidad-y-prueba-preconstitui.webp` | infografia | Menores, discapacidad y prueba preconstituida | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 22 |
+| `t22-23-oficinas-de-asistencia-a-las-victimas.webp` | infografia | Oficinas de Asistencia a las Víctimas | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 23 |
+| `t22-24-coordinacion-formacion-y-buenas-practicas.webp` | infografia | Coordinación, formación y buenas prácticas | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 24 |
+| `t22-25-fraude-limites-y-trampas-de-examen.webp` | infografia | Fraude, límites y trampas de examen | Cinco reglas, sujetos, plazos y excepciones del bloque; diseño original sin texto normativo inventado. | Máster, Atestado y Parte · bloque 25 |

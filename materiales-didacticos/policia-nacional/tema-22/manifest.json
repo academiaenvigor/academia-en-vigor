@@ -1,0 +1,94 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "policia-nacional",
+  "topic": "tema-22",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "pn/tema-22",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "p1",
+      "number": 1,
+      "title": "Ámbito, víctima y derechos básicos",
+      "blocks": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ],
+      "anchor_blocks": [
+        "01"
+      ]
+    },
+    {
+      "id": "p2",
+      "number": 2,
+      "title": "Información, apoyo y participación",
+      "blocks": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "anchor_blocks": [
+        "06"
+      ]
+    },
+    {
+      "id": "p3",
+      "number": 3,
+      "title": "Protección y evaluación individual",
+      "blocks": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "anchor_blocks": [
+        "14"
+      ]
+    },
+    {
+      "id": "p4",
+      "number": 4,
+      "title": "Medidas especiales, oficinas y garantías",
+      "blocks": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "anchor_blocks": [
+        "21"
+      ]
+    }
+  ],
+  "resources": []
+}

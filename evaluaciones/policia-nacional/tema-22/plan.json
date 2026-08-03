@@ -1,0 +1,202 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "policia-nacional",
+  "topic_number": 22,
+  "topic_title": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito: ámbito de aplicación, concepto general de víctima, derechos básicos, protección de las víctimas y medidas de protección.",
+  "id_prefix": "PN-T22",
+  "status": "ready",
+  "bank": "banco-preguntas/policia-nacional/tema-22/preguntas.jsonl",
+  "output": "build/evaluaciones/policia-nacional/tema-22/tests-generados",
+  "coverage_tests": {
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Ámbito de aplicación"
+      },
+      {
+        "number": 2,
+        "title": "Víctima directa"
+      },
+      {
+        "number": 3,
+        "title": "Víctima indirecta"
+      },
+      {
+        "number": 4,
+        "title": "Derechos generales y trato"
+      },
+      {
+        "number": 5,
+        "title": "Derecho a entender y ser entendida"
+      },
+      {
+        "number": 6,
+        "title": "Información desde el primer contacto"
+      },
+      {
+        "number": 7,
+        "title": "Denuncia, copia e interpretación"
+      },
+      {
+        "number": 8,
+        "title": "Información sobre la causa"
+      },
+      {
+        "number": 9,
+        "title": "Período de reflexión y asistencia jurídica"
+      },
+      {
+        "number": 10,
+        "title": "Servicios de apoyo"
+      },
+      {
+        "number": 11,
+        "title": "Participación en el proceso penal"
+      },
+      {
+        "number": 12,
+        "title": "Ejecución, gastos y devolución de bienes"
+      },
+      {
+        "number": 13,
+        "title": "Justicia restaurativa"
+      },
+      {
+        "number": 14,
+        "title": "Protección integral y prevención"
+      },
+      {
+        "number": 15,
+        "title": "Evitar el contacto con el infractor"
+      },
+      {
+        "number": 16,
+        "title": "Declaración y reconocimientos médicos"
+      },
+      {
+        "number": 17,
+        "title": "Intimidad y tratamiento de datos"
+      },
+      {
+        "number": 18,
+        "title": "Evaluación individual: finalidad y factores"
+      },
+      {
+        "number": 19,
+        "title": "Quién evalúa y cuándo se actualiza"
+      },
+      {
+        "number": 20,
+        "title": "Medidas durante la investigación"
+      },
+      {
+        "number": 21,
+        "title": "Medidas durante el juicio"
+      },
+      {
+        "number": 22,
+        "title": "Menores, discapacidad y prueba preconstituida"
+      },
+      {
+        "number": 23,
+        "title": "Oficinas de Asistencia a las Víctimas"
+      },
+      {
+        "number": 24,
+        "title": "Coordinación, formación y buenas prácticas"
+      },
+      {
+        "number": 25,
+        "title": "Fraude, límites y trampas de examen"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "Ámbito, víctima y derechos básicos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Información, apoyo y participación",
+        "blocks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Protección y evaluación individual",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Medidas especiales, oficinas y garantías",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "policia-nacional",
+  "tema": 22,
+  "titulo": "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito: ámbito de aplicación, concepto general de víctima, derechos básicos, protección de las víctimas y medidas de protección.",
+  "generated_at": "2026-08-02",
+  "mapping_method": "manual_editorial_review_with_keyword_inventory",
+  "mapping_status": "reviewed_internal_hidden",
+  "answer_status": "sin_plantilla_oficial_verificable",
+  "display_policy": {
+    "show_reviewed_appearances": false,
+    "show_answer": false,
+    "show_feedback": false,
+    "never_present_as_official_plantilla": true
+  },
+  "aviso": "Las coincidencias históricas permanecen en cuarentena y no se presentan como plantilla oficial.",
+  "total_referencias": 6,
+  "con_bloque_asignado": 6,
+  "con_respuesta_verificada": 0,
+  "por_bloque": {
+    "8": 1,
+    "6": 1,
+    "2": 1,
+    "10": 1,
+    "9": 1,
+    "5": 1
+  },
+  "por_promocion": {
+    "P38": 1,
+    "P39": 3,
+    "P40": 1,
+    "P42": 1
+  },
+  "retroalimentacion": "banco-preguntas/policia-nacional/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-pn-p38-a-q062",
+      "exam_id": "of-pn-p38-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "PN-T22-F036"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q031",
+      "exam_id": "of-pn-p39-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "PN-T22-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q047",
+      "exam_id": "of-pn-p39-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "PN-T22-F006"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p39-a-q051",
+      "exam_id": "of-pn-p39-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "PN-T22-F046"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p40-a-q086",
+      "exam_id": "of-pn-p40-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "PN-T22-F041"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    },
+    {
+      "question_id": "of-pn-p42-a-q011",
+      "exam_id": "of-pn-p42-a",
+      "series_year": null,
+      "question_number": null,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "PN-T22-F021"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "sin_plantilla_oficial_verificable",
+      "respuesta": null,
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": false,
+      "verification_status": "quarantine"
+    }
+  ]
+}
