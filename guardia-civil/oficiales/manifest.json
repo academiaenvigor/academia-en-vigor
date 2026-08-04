@@ -1,0 +1,40 @@
+{
+ "schema_version": "1.0.0",
+ "bank_id": "of-gc-historico",
+ "profile_id": "gc",
+ "opposition": "guardia-civil",
+ "title": "Banco histórico normalizado de exámenes oficiales · Guardia Civil",
+ "generated_at": "2026-08-05",
+ "repository_visibility_required": "private",
+ "exam_count": 0,
+ "question_count": 0,
+ "proposed_answers": 0,
+ "official_final_answers": 0,
+ "verified_questions": 0,
+ "quarantined_questions": 0,
+ "mapped_questions_all_topics": 0,
+ "canonical_id_pattern": "of-gc-p<year>-<model>-q<number>",
+ "verification_policy": {
+  "ha_caido_requires_status": "verified",
+  "ha_caido_requires_official_final_answer": true,
+  "proposed_answers_are_not_official": true,
+  "source_files_in_repository": false,
+  "third_party_commentary_in_repository": false
+ },
+ "exams": [],
+ "mapping": {
+  "generated_at": null,
+  "method": "pendiente",
+  "status": "pending",
+  "mapped_to_theme": 0,
+  "mapped_to_block": 0,
+  "unmapped": 0,
+  "note": "Sin temas redactados todavía.",
+  "por_tema": {}
+ },
+ "author_review": {
+  "updated_at": null,
+  "exams_reviewed": [],
+  "note": "Pendiente de revisión de autor."
+ }
+}

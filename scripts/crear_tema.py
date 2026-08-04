@@ -148,6 +148,8 @@ No hay referencias oficiales activas hasta completar la verificación y el mapeo
         'slug': args.slug,
         'title': args.titulo,
         'content_version': '0.1.0',
+        'pedagogical_version': '0.1.0',
+        'visual_version': '0.1.0',
         'editorial_status': 'draft',
         'publication_status': 'not_published',
         'normative_status': 'pending_review',
@@ -227,7 +229,7 @@ No hay referencias oficiales activas hasta completar la verificación y el mapeo
         'aviso': 'Las referencias no alimentan estadísticas de «Ha caído» hasta estar verificadas.',
         'total_referencias': 0, 'con_bloque_asignado': 0,
         'con_respuesta_verificada': 0, 'por_bloque': {}, 'por_promocion': {},
-        'retroalimentacion': 'banco-preguntas/policia-nacional/oficiales/retroalimentacion.json',
+        'retroalimentacion': f'banco-preguntas/{args.oposicion}/oficiales/retroalimentacion.json',
         'questions': [],
     })
     write(bank_root / 'README.md', f'# Banco propio · Tema {args.tema}\n')
