@@ -3,15 +3,15 @@
   "opposition": "policia-nacional",
   "topic": "tema-23",
   "content_version": "1.0.0",
-  "visual_version": "0.1.0",
-  "status": "planned",
+  "visual_version": "1.0.0",
+  "status": "integrated",
   "totals": {
     "resources": 44,
-    "integrated": 0,
-    "planned": 44
+    "integrated": 44,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-04",
   "resources": [
     {
       "id": "T23-V01",
@@ -19,14 +19,15 @@
       "title": "Marco constitucional y políticas de igualdad en la AGE",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar marco constitucional y políticas de igualdad en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar marco constitucional y políticas de igualdad en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Objeto, alcance y eficacia de la Ley Orgánica 3/2007",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto, alcance y eficacia de la ley orgánica 3/2007 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto, alcance y eficacia de la ley orgánica 3/2007 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Discriminación directa e indirecta por razón de sexo",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar discriminación directa e indirecta por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar discriminación directa e indirecta por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Acoso sexual y acoso por razón de sexo",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar acoso sexual y acoso por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar acoso sexual y acoso por razón de sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Embarazo, maternidad, represalias y acciones positivas",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar embarazo, maternidad, represalias y acciones positivas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar embarazo, maternidad, represalias y acciones positivas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Transversalidad, impacto de género y estadísticas",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar transversalidad, impacto de género y estadísticas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar transversalidad, impacto de género y estadísticas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Criterios de actuación de las Administraciones públicas",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar criterios de actuación de las administraciones públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar criterios de actuación de las administraciones públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Presencia y composición equilibradas",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar presencia y composición equilibradas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar presencia y composición equilibradas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Formación, protocolo de acoso y evaluación en la AGE",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar formación, protocolo de acoso y evaluación en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar formación, protocolo de acoso y evaluación en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Órganos de igualdad en la Administración",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar órganos de igualdad en la administración mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar órganos de igualdad en la administración mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "IV Plan de Igualdad de Género en la AGE",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar iv plan de igualdad de género en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar iv plan de igualdad de género en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Ejes, seguimiento y evaluación del IV Plan",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ejes, seguimiento y evaluación del iv plan mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ejes, seguimiento y evaluación del iv plan mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Objeto y concepto legal de violencia de género",
       "type": "ilustracion_simple",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto y concepto legal de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto y concepto legal de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Principios rectores y respuesta integral",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar principios rectores y respuesta integral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar principios rectores y respuesta integral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Sensibilización, educación, sanidad y publicidad",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar sensibilización, educación, sanidad y publicidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar sensibilización, educación, sanidad y publicidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Información, asistencia social integral y asistencia jurídica",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar información, asistencia social integral y asistencia jurídica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar información, asistencia social integral y asistencia jurídica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Derechos laborales, de Seguridad Social y de empleadas públicas",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derechos laborales, de seguridad social y de empleadas públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derechos laborales, de seguridad social y de empleadas públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Derechos económicos, vivienda y empleo",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derechos económicos, vivienda y empleo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derechos económicos, vivienda y empleo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Acreditación de las situaciones de violencia de género",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar acreditación de las situaciones de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar acreditación de las situaciones de violencia de género mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Tutela institucional: Delegación y Observatorio",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar tutela institucional: delegación y observatorio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar tutela institucional: delegación y observatorio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Tutela penal y judicial especializada",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar tutela penal y judicial especializada mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar tutela penal y judicial especializada mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Orden de protección y Sistema VioGén",
       "type": "ilustracion_simple",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar orden de protección y sistema viogén mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar orden de protección y sistema viogén mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Protección de menores y otras vulnerabilidades",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar protección de menores y otras vulnerabilidades mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar protección de menores y otras vulnerabilidades mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Actuación policial integral y coordinación",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar actuación policial integral y coordinación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar actuación policial integral y coordinación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Modelo social, objeto y concepto de discapacidad",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar modelo social, objeto y concepto de discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar modelo social, objeto y concepto de discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Principios y derechos de las personas con discapacidad",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar principios y derechos de las personas con discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar principios y derechos de las personas con discapacidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Igualdad de oportunidades y formas de discriminación",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar igualdad de oportunidades y formas de discriminación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar igualdad de oportunidades y formas de discriminación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Accesibilidad universal y vida independiente",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar accesibilidad universal y vida independiente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar accesibilidad universal y vida independiente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Empleo e integración laboral",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar empleo e integración laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar empleo e integración laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Protección institucional, tutela y régimen sancionador",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar protección institucional, tutela y régimen sancionador mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar protección institucional, tutela y régimen sancionador mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Objeto y conceptos de autonomía y dependencia",
       "type": "ilustracion_simple",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto y conceptos de autonomía y dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto y conceptos de autonomía y dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Principios, derechos y obligaciones en dependencia",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar principios, derechos y obligaciones en dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar principios, derechos y obligaciones en dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Sistema para la Autonomía y Atención a la Dependencia",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar sistema para la autonomía y atención a la dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar sistema para la autonomía y atención a la dependencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Grados, valoración y Programa Individual de Atención",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar grados, valoración y programa individual de atención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar grados, valoración y programa individual de atención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Catálogo de servicios del SAAD",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar catálogo de servicios del saad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar catálogo de servicios del saad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Prestaciones económicas, compatibilidad y financiación",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar prestaciones económicas, compatibilidad y financiación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar prestaciones económicas, compatibilidad y financiación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Objeto, ámbito y conceptos básicos LGTBI",
       "type": "ilustracion_simple",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto, ámbito y conceptos básicos lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto, ámbito y conceptos básicos lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Formas de discriminación LGTBI",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar formas de discriminación lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar formas de discriminación lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Políticas públicas y empleo público LGTBI",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar políticas públicas y empleo público lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar políticas públicas y empleo público lgtbi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Rectificación registral de la mención relativa al sexo",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar rectificación registral de la mención relativa al sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar rectificación registral de la mención relativa al sexo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Efectos, reversibilidad y adecuación documental",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar efectos, reversibilidad y adecuación documental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar efectos, reversibilidad y adecuación documental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Prohibiciones, intersexualidad y protección frente a violencia",
       "type": "ilustracion_simple",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar prohibiciones, intersexualidad y protección frente a violencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar prohibiciones, intersexualidad y protección frente a violencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Igualdad de trato y actuación policial no discriminatoria",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar igualdad de trato y actuación policial no discriminatoria mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar igualdad de trato y actuación policial no discriminatoria mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,61 +750,17 @@
       "title": "Autoridad Independiente e Instituto de las Mujeres",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar autoridad independiente e instituto de las mujeres mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar autoridad independiente e instituto de las mujeres mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    "T23-V01",
-    "T23-V02",
-    "T23-V03",
-    "T23-V04",
-    "T23-V05",
-    "T23-V06",
-    "T23-V07",
-    "T23-V08",
-    "T23-V09",
-    "T23-V10",
-    "T23-V11",
-    "T23-V12",
-    "T23-V13",
-    "T23-V14",
-    "T23-V15",
-    "T23-V16",
-    "T23-V17",
-    "T23-V18",
-    "T23-V19",
-    "T23-V20",
-    "T23-V21",
-    "T23-V22",
-    "T23-V23",
-    "T23-V24",
-    "T23-V25",
-    "T23-V26",
-    "T23-V27",
-    "T23-V28",
-    "T23-V29",
-    "T23-V30",
-    "T23-V31",
-    "T23-V32",
-    "T23-V33",
-    "T23-V34",
-    "T23-V35",
-    "T23-V36",
-    "T23-V37",
-    "T23-V38",
-    "T23-V39",
-    "T23-V40",
-    "T23-V41",
-    "T23-V42",
-    "T23-V43",
-    "T23-V44"
-  ]
+  "planned_resources": []
 }
