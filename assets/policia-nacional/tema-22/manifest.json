@@ -4,14 +4,14 @@
   "topic": "tema-22",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 25,
-    "integrated": 0,
-    "planned": 25
+    "integrated": 25,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-04",
   "resources": [
     {
       "id": "T22-V01",
@@ -19,14 +19,15 @@
       "title": "Ámbito de aplicación",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ámbito de aplicación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ámbito de aplicación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Víctima directa",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar víctima directa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar víctima directa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Víctima indirecta",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar víctima indirecta mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar víctima indirecta mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Derechos generales y trato",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derechos generales y trato mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derechos generales y trato mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Derecho a entender y ser entendida",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derecho a entender y ser entendida mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derecho a entender y ser entendida mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Información desde el primer contacto",
       "type": "ilustracion_simple",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar información desde el primer contacto mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar información desde el primer contacto mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Denuncia, copia e interpretación",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar denuncia, copia e interpretación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar denuncia, copia e interpretación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Información sobre la causa",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar información sobre la causa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar información sobre la causa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Período de reflexión y asistencia jurídica",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar período de reflexión y asistencia jurídica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar período de reflexión y asistencia jurídica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Servicios de apoyo",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar servicios de apoyo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar servicios de apoyo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Participación en el proceso penal",
       "type": "ilustracion_simple",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar participación en el proceso penal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar participación en el proceso penal mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Ejecución, gastos y devolución de bienes",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ejecución, gastos y devolución de bienes mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ejecución, gastos y devolución de bienes mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Justicia restaurativa",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar justicia restaurativa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar justicia restaurativa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Protección integral y prevención",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar protección integral y prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar protección integral y prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Evitar el contacto con el infractor",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar evitar el contacto con el infractor mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar evitar el contacto con el infractor mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Declaración y reconocimientos médicos",
       "type": "ilustracion_simple",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar declaración y reconocimientos médicos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar declaración y reconocimientos médicos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Intimidad y tratamiento de datos",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar intimidad y tratamiento de datos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar intimidad y tratamiento de datos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Evaluación individual: finalidad y factores",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar evaluación individual: finalidad y factores mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar evaluación individual: finalidad y factores mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Quién evalúa y cuándo se actualiza",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar quién evalúa y cuándo se actualiza mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar quién evalúa y cuándo se actualiza mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Medidas durante la investigación",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar medidas durante la investigación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar medidas durante la investigación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Medidas durante el juicio",
       "type": "ilustracion_simple",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar medidas durante el juicio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar medidas durante el juicio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Menores, discapacidad y prueba preconstituida",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar menores, discapacidad y prueba preconstituida mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar menores, discapacidad y prueba preconstituida mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Oficinas de Asistencia a las Víctimas",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar oficinas de asistencia a las víctimas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar oficinas de asistencia a las víctimas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Coordinación, formación y buenas prácticas",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar coordinación, formación y buenas prácticas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar coordinación, formación y buenas prácticas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,42 +427,17 @@
       "title": "Fraude, límites y trampas de examen",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar fraude, límites y trampas de examen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar fraude, límites y trampas de examen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    "T22-V01",
-    "T22-V02",
-    "T22-V03",
-    "T22-V04",
-    "T22-V05",
-    "T22-V06",
-    "T22-V07",
-    "T22-V08",
-    "T22-V09",
-    "T22-V10",
-    "T22-V11",
-    "T22-V12",
-    "T22-V13",
-    "T22-V14",
-    "T22-V15",
-    "T22-V16",
-    "T22-V17",
-    "T22-V18",
-    "T22-V19",
-    "T22-V20",
-    "T22-V21",
-    "T22-V22",
-    "T22-V23",
-    "T22-V24",
-    "T22-V25"
-  ]
+  "planned_resources": []
 }

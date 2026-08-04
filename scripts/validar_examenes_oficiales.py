@@ -8,8 +8,21 @@ import sys
 import unicodedata
 from pathlib import Path
 
-ID_RE = re.compile(r"^of-pn-p\d+-[a-z]-q\d{3}$")
-EXAM_ID_RE = re.compile(r"^of-pn-p\d+-[a-z]$")
+# Prefijo de identificadores por oposición (of-pn-..., of-gc-...).
+PREFIJOS = {"policia-nacional": "pn", "guardia-civil": "gc"}
+
+
+def prefijo(opposition: str) -> str:
+    return PREFIJOS.get(opposition, opposition[:2].lower())
+
+
+def patrones(opposition: str) -> tuple[re.Pattern, re.Pattern, re.Pattern]:
+    pref = prefijo(opposition)
+    return (
+        re.compile(rf"^of-{pref}-p\d+-[a-z]-q\d{{3}}$"),
+        re.compile(rf"^of-{pref}-p\d+-[a-z]$"),
+        re.compile(rf"^{pref.upper()}-T\d{{2}}-F\d{{3}}$"),
+    )
 
 
 def fail(errors: list[str], message: str) -> None:
@@ -18,14 +31,23 @@ def fail(errors: list[str], message: str) -> None:
 
 def main() -> int:
     repo_root = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
-    data_root = repo_root / "banco-preguntas" / "policia-nacional" / "oficiales"
+    oposiciones = sorted(
+        path.parents[1].name
+        for path in repo_root.glob("banco-preguntas/*/oficiales/manifest.json")
+    )
+    if not oposiciones:
+        print("ERROR: no hay ningún banco de exámenes oficiales")
+        return 1
+    return max(validar(repo_root, opposition) for opposition in oposiciones)
+
+
+def validar(repo_root: Path, opposition: str) -> int:
+    ID_RE, EXAM_ID_RE, FACT_RE = patrones(opposition)
+    data_root = repo_root / "banco-preguntas" / opposition / "oficiales"
     index_path = data_root / "manifest.json"
     errors: list[str] = []
     warnings: list[str] = []
-
-    if not index_path.exists():
-        print(f"ERROR: no existe {index_path}")
-        return 1
+    print(f"\n== {opposition} ==")
 
     index = json.loads(index_path.read_text(encoding="utf-8"))
     seen_ids: set[str] = set()
@@ -156,7 +178,7 @@ def main() -> int:
                 duplicate_exam_pairs.append((first_id, second_id, overlap))
                 fail(errors, f"Conjuntos de preguntas duplicados: {first_id} y {second_id} ({overlap:.1%})")
 
-    topic_files = sorted((repo_root / "banco-preguntas" / "policia-nacional").glob("tema-*/indice-oficiales.json"))
+    topic_files = sorted((repo_root / "banco-preguntas" / opposition).glob("tema-*/indice-oficiales.json"))
     for topic_file in topic_files:
         topic = json.loads(topic_file.read_text(encoding="utf-8"))
         seen_topic_ids: set[str] = set()
@@ -168,7 +190,7 @@ def main() -> int:
                 fail(errors, f"{topic_file.name}: referencia pregunta duplicada {qid}")
             seen_topic_ids.add(qid)
             for fact_id in item.get("fact_refs", []):
-                if not re.match(r"^PN-T\d{2}-F\d{3}$", fact_id):
+                if not FACT_RE.match(fact_id):
                     fail(errors, f"{topic_file.name}: fact_id con formato inválido {fact_id}")
             block_refs = item.get("block_refs", [])
             if block_refs and (

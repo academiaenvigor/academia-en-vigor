@@ -20,7 +20,11 @@ La Ley 4/2015 se aplica a víctimas de delitos cometidos en España o que puedan
 - La aplicación no depende de que la víctima disfrute o no de residencia legal.
 - El Estatuto establece un marco general sin perjuicio de regímenes especiales de protección más favorables.
 
-<!-- VISUAL PENDIENTE: t22-01-ambito-de-aplicacion.webp -->
+<!-- VISUAL:t22-01-ambito-de-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-01-ambito-de-aplicacion.webp" alt="Ámbito de aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito de aplicación.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -34,7 +38,11 @@ Es víctima directa toda persona física que haya sufrido un daño o perjuicio s
 - Una persona jurídica no encaja en el concepto general de víctima directa del artículo 2, que exige persona física.
 - La condición de víctima no depende de que el autor haya sido identificado, acusado o condenado.
 
-<!-- VISUAL PENDIENTE: t22-02-victima-directa.webp -->
+<!-- VISUAL:t22-02-victima-directa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-02-victima-directa.webp" alt="Víctima directa" width="820">
+</p>
+<p align="center"><em>Infografía: Víctima directa.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -48,7 +56,11 @@ Existe víctima indirecta en casos de muerte o desaparición de una persona caus
 - A falta de los anteriores, pueden ser víctimas indirectas otros parientes en línea directa y hermanos, con preferencia legal.
 - No se incluyen como víctimas indirectas los terceros que sufran perjuicios derivados del delito fuera de los supuestos del artículo 2.
 
-<!-- VISUAL PENDIENTE: t22-03-victima-indirecta.webp -->
+<!-- VISUAL:t22-03-victima-indirecta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-03-victima-indirecta.webp" alt="Víctima indirecta" width="820">
+</p>
+<p align="center"><em>Infografía: Víctima indirecta.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -62,7 +74,11 @@ Toda víctima tiene derecho a protección, información, apoyo, asistencia, aten
 - El reconocimiento de derechos no depende de que se conozca la identidad del infractor ni del resultado del proceso.
 - La mediación y la conciliación están prohibidas en los supuestos de violencia sexual y violencia de género previstos legalmente.
 
-<!-- VISUAL PENDIENTE: t22-04-derechos-generales-y-trato.webp -->
+<!-- VISUAL:t22-04-derechos-generales-y-trato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-04-derechos-generales-y-trato.webp" alt="Derechos generales y trato" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos generales y trato.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -76,7 +92,11 @@ Toda comunicación con la víctima debe realizarse en lenguaje claro, sencillo y
 - Las autoridades deben facilitar apoyos para que la víctima comprenda y pueda hacerse entender.
 - En menores o personas que precisen especial protección, las comunicaciones se realizan también a su representante o persona de apoyo cuando corresponda.
 
-<!-- VISUAL PENDIENTE: t22-05-derecho-a-entender-y-ser-entendida.webp -->
+<!-- VISUAL:t22-05-derecho-a-entender-y-ser-entendida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-05-derecho-a-entender-y-ser-entendida.webp" alt="Derecho a entender y ser entendida" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho a entender y ser entendida.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -90,7 +110,11 @@ Desde el primer contacto, la víctima tiene derecho a recibir información adapt
 - También comprende los datos de contacto de la autoridad responsable y los cauces para comunicar con ella.
 - La información se actualiza en cada fase para que la víctima pueda ejercer de forma efectiva sus derechos.
 
-<!-- VISUAL PENDIENTE: t22-06-informacion-desde-el-primer-contacto.webp -->
+<!-- VISUAL:t22-06-informacion-desde-el-primer-contacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-06-informacion-desde-el-primer-contacto.webp" alt="Información desde el primer contacto" width="820">
+</p>
+<p align="center"><em>Infografía: Información desde el primer contacto.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -104,7 +128,11 @@ La víctima tiene derecho a obtener copia de la denuncia debidamente certificada
 - La interpretación y traducción en el proceso se prestan gratuitamente en los supuestos y para las actuaciones esenciales previstas.
 - La denegación policial de interpretación o traducción puede impugnarse ante el juez de instrucción haciendo constar la disconformidad.
 
-<!-- VISUAL PENDIENTE: t22-07-denuncia-copia-e-interpretacion.webp -->
+<!-- VISUAL:t22-07-denuncia-copia-e-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-07-denuncia-copia-e-interpretacion.webp" alt="Denuncia, copia e interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: Denuncia, copia e interpretación.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -118,7 +146,11 @@ La víctima que lo solicite recibe información sobre fecha, hora y lugar del ju
 - Las resoluciones se comunican a la dirección de correo electrónico o, en su defecto, por correo ordinario o domicilio facilitado.
 - En violencia de género se notifican determinadas resoluciones sobre situación personal del investigado sin necesidad de solicitud, salvo renuncia expresa.
 
-<!-- VISUAL PENDIENTE: t22-08-informacion-sobre-la-causa.webp -->
+<!-- VISUAL:t22-08-informacion-sobre-la-causa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-08-informacion-sobre-la-causa.webp" alt="Información sobre la causa" width="820">
+</p>
+<p align="center"><em>Infografía: Información sobre la causa.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -132,7 +164,11 @@ Abogados y procuradores no pueden dirigirse a víctimas directas o indirectas de
 - La víctima puede presentar solicitud de reconocimiento de justicia gratuita ante la autoridad o funcionario que le informe de sus derechos.
 - La autoridad receptora traslada la solicitud al colegio profesional competente con la documentación aportada.
 
-<!-- VISUAL PENDIENTE: t22-09-periodo-de-reflexion-y-asistencia-juridica.webp -->
+<!-- VISUAL:t22-09-periodo-de-reflexion-y-asistencia-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-09-periodo-de-reflexion-y-asistencia-juridica.webp" alt="Período de reflexión y asistencia jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Período de reflexión y asistencia jurídica.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -146,7 +182,11 @@ Toda víctima tiene acceso gratuito y confidencial a servicios de asistencia y a
 - Los servicios atienden también a familiares cuando se trate de víctimas indirectas o cuando la asistencia sea necesaria.
 - Los hijos menores y menores sujetos a guarda de víctimas de violencia de género, sexual o doméstica tienen derecho a medidas de asistencia y protección.
 
-<!-- VISUAL PENDIENTE: t22-10-servicios-de-apoyo.webp -->
+<!-- VISUAL:t22-10-servicios-de-apoyo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-10-servicios-de-apoyo.webp" alt="Servicios de apoyo" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de apoyo.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -160,7 +200,11 @@ La víctima puede ejercer acciones penal y civil conforme a la Ley de Enjuiciami
 - La víctima puede recurrir el sobreseimiento aunque no se hubiera personado antes en la causa.
 - Para recurrir el sobreseimiento no es requisito haber presentado denuncia o querella previamente.
 
-<!-- VISUAL PENDIENTE: t22-11-participacion-en-el-proceso-penal.webp -->
+<!-- VISUAL:t22-11-participacion-en-el-proceso-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-11-participacion-en-el-proceso-penal.webp" alt="Participación en el proceso penal" width="820">
+</p>
+<p align="center"><em>Infografía: Participación en el proceso penal.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -174,7 +218,11 @@ Determinadas víctimas pueden recurrir resoluciones penitenciarias previstas en 
 - El reembolso de gastos necesarios para ejercer derechos y costas procede con la preferencia y requisitos del artículo 14.
 - Los bienes restituibles incautados se devuelven sin demora, salvo que su conservación sea imprescindible para el proceso o exista otra causa legal.
 
-<!-- VISUAL PENDIENTE: t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp -->
+<!-- VISUAL:t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp" alt="Ejecución, gastos y devolución de bienes" width="820">
+</p>
+<p align="center"><em>Infografía: Ejecución, gastos y devolución de bienes.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -188,7 +236,11 @@ La víctima puede acceder a justicia restaurativa cuando el infractor reconoce l
 - No debe existir riesgo para la seguridad de la víctima ni peligro de nuevos perjuicios materiales o morales.
 - Los debates del procedimiento restaurativo son confidenciales y el servicio no se presta cuando está prohibido por la ley.
 
-<!-- VISUAL PENDIENTE: t22-13-justicia-restaurativa.webp -->
+<!-- VISUAL:t22-13-justicia-restaurativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-13-justicia-restaurativa.webp" alt="Justicia restaurativa" width="820">
+</p>
+<p align="center"><em>Infografía: Justicia restaurativa.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -202,7 +254,11 @@ Las autoridades deben proteger la vida, integridad física y psíquica, libertad
 - El Ministerio Fiscal vela especialmente por el cumplimiento del derecho de protección de víctimas menores.
 - La protección se individualiza: no todas las víctimas precisan la misma medida ni con idéntica intensidad.
 
-<!-- VISUAL PENDIENTE: t22-14-proteccion-integral-y-prevencion.webp -->
+<!-- VISUAL:t22-14-proteccion-integral-y-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-14-proteccion-integral-y-prevencion.webp" alt="Protección integral y prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Protección integral y prevención.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -216,7 +272,11 @@ Las dependencias donde se desarrollen actos del proceso deben evitar el contacto
 - Las medidas pueden incluir circuitos, salas de espera diferenciadas o medios tecnológicos apropiados.
 - La necesidad de evitar contacto se valora desde el primer momento y se revisa según evolucione el riesgo.
 
-<!-- VISUAL PENDIENTE: t22-15-evitar-el-contacto-con-el-infractor.webp -->
+<!-- VISUAL:t22-15-evitar-el-contacto-con-el-infractor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-15-evitar-el-contacto-con-el-infractor.webp" alt="Evitar el contacto con el infractor" width="820">
+</p>
+<p align="center"><em>Infografía: Evitar el contacto con el infractor.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -230,7 +290,11 @@ La declaración de la víctima debe recibirse sin dilaciones injustificadas tras
 - Los reconocimientos médicos se limitan al mínimo indispensable y solo se realizan cuando sean imprescindibles para el proceso.
 - La planificación de actuaciones debe evitar repeticiones innecesarias que agraven el daño sufrido.
 
-<!-- VISUAL PENDIENTE: t22-16-declaracion-y-reconocimientos-medicos.webp -->
+<!-- VISUAL:t22-16-declaracion-y-reconocimientos-medicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-16-declaracion-y-reconocimientos-medicos.webp" alt="Declaración y reconocimientos médicos" width="820">
+</p>
+<p align="center"><em>Infografía: Declaración y reconocimientos médicos.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -244,7 +308,11 @@ Jueces, fiscales y demás autoridades adoptan medidas para proteger la intimidad
 - La protección de intimidad se concilia con publicidad procesal y libertad de información mediante medidas legales y proporcionadas.
 - Los datos personales de la víctima solo deben tratarse para fines legítimos, con minimización y seguridad adecuadas.
 
-<!-- VISUAL PENDIENTE: t22-17-intimidad-y-tratamiento-de-datos.webp -->
+<!-- VISUAL:t22-17-intimidad-y-tratamiento-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-17-intimidad-y-tratamiento-de-datos.webp" alt="Intimidad y tratamiento de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Intimidad y tratamiento de datos.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -258,7 +326,11 @@ Toda víctima debe ser evaluada individualmente para determinar sus necesidades 
 - También se consideran delitos de terrorismo, trata, violencia de género, violencia sexual, odio, delincuencia organizada y otros enumerados en la ley.
 - Las víctimas menores se presumen necesitadas de protección específica frente a victimización secundaria o reiterada.
 
-<!-- VISUAL PENDIENTE: t22-18-evaluacion-individual-finalidad-y-factores.webp -->
+<!-- VISUAL:t22-18-evaluacion-individual-finalidad-y-factores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-18-evaluacion-individual-finalidad-y-factores.webp" alt="Evaluación individual: finalidad y factores" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación individual: finalidad y factores.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -272,7 +344,11 @@ Durante la investigación, la evaluación y medidas corresponden a juez de instr
 - La víctima puede renunciar a medidas de protección de los artículos 25 y 26, salvo límites vinculados a menores o personas especialmente protegidas.
 - La evaluación se actualiza cuando cambian significativamente las circunstancias que sirvieron para adoptarla.
 
-<!-- VISUAL PENDIENTE: t22-19-quien-evalua-y-cuando-se-actualiza.webp -->
+<!-- VISUAL:t22-19-quien-evalua-y-cuando-se-actualiza.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-19-quien-evalua-y-cuando-se-actualiza.webp" alt="Quién evalúa y cuándo se actualiza" width="820">
+</p>
+<p align="center"><em>Infografía: Quién evalúa y cuándo se actualiza.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -286,7 +362,11 @@ La declaración puede recibirse en dependencias concebidas o adaptadas para evit
 - En violencia sexual, género o doméstica, la declaración puede ser tomada por persona del mismo sexo si la víctima lo solicita, salvo perjuicio relevante.
 - Las medidas de investigación se seleccionan según la evaluación individual y no se aplican de forma automática e indiferenciada.
 
-<!-- VISUAL PENDIENTE: t22-20-medidas-durante-la-investigacion.webp -->
+<!-- VISUAL:t22-20-medidas-durante-la-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-20-medidas-durante-la-investigacion.webp" alt="Medidas durante la investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas durante la investigación.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -300,7 +380,11 @@ Durante el juicio pueden adoptarse medidas para evitar contacto visual entre ví
 - El juicio puede celebrarse sin público cuando la ley procesal lo permita y la protección lo justifique.
 - Las medidas deben respetar los derechos de defensa y el principio de contradicción.
 
-<!-- VISUAL PENDIENTE: t22-21-medidas-durante-el-juicio.webp -->
+<!-- VISUAL:t22-21-medidas-durante-el-juicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-21-medidas-durante-el-juicio.webp" alt="Medidas durante el juicio" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas durante el juicio.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -314,7 +398,11 @@ Las declaraciones de menores o personas con discapacidad necesitadas de especial
 - Si existe conflicto de intereses con representantes legales, el fiscal solicita la designación de defensor judicial.
 - Cuando existan dudas sobre la edad y no pueda determinarse con certeza, se presume que la víctima es menor a efectos de protección.
 
-<!-- VISUAL PENDIENTE: t22-22-menores-discapacidad-y-prueba-preconstitui.webp -->
+<!-- VISUAL:t22-22-menores-discapacidad-y-prueba-preconstitui.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-22-menores-discapacidad-y-prueba-preconstitui.webp" alt="Menores, discapacidad y prueba preconstituida" width="820">
+</p>
+<p align="center"><em>Infografía: Menores, discapacidad y prueba preconstituida.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -328,7 +416,11 @@ Las Oficinas de Asistencia a las Víctimas son un servicio público y gratuito d
 - Realizan valoración individual y pueden elaborar planes de apoyo psicológico y propuestas de medidas de protección.
 - La Administración General del Estado y las comunidades autónomas con competencias organizan las oficinas en su ámbito.
 
-<!-- VISUAL PENDIENTE: t22-23-oficinas-de-asistencia-a-las-victimas.webp -->
+<!-- VISUAL:t22-23-oficinas-de-asistencia-a-las-victimas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-23-oficinas-de-asistencia-a-las-victimas.webp" alt="Oficinas de Asistencia a las Víctimas" width="820">
+</p>
+<p align="center"><em>Infografía: Oficinas de Asistencia a las Víctimas.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -342,7 +434,11 @@ Los poderes públicos fomentan formación general y especializada de profesional
 - La cooperación con organizaciones de apoyo puede mejorar asistencia sin sustituir las obligaciones públicas.
 - La sensibilización y los códigos de conducta de medios contribuyen a proteger dignidad, intimidad e imagen de las víctimas.
 
-<!-- VISUAL PENDIENTE: t22-24-coordinacion-formacion-y-buenas-practicas.webp -->
+<!-- VISUAL:t22-24-coordinacion-formacion-y-buenas-practicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-24-coordinacion-formacion-y-buenas-practicas.webp" alt="Coordinación, formación y buenas prácticas" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación, formación y buenas prácticas.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 
@@ -356,7 +452,11 @@ La víctima condenada por simulación de delito o denuncia falsa debe reembolsar
 - La copia de la denuncia debe estar certificada y la asistencia lingüística para interponerla es gratuita.
 - Las referencias históricas sin plantilla oficial verificable permanecen en cuarentena y no acreditan por sí solas una respuesta oficial.
 
-<!-- VISUAL PENDIENTE: t22-25-fraude-limites-y-trampas-de-examen.webp -->
+<!-- VISUAL:t22-25-fraude-limites-y-trampas-de-examen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-25-fraude-limites-y-trampas-de-examen.webp" alt="Fraude, límites y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: Fraude, límites y trampas de examen.</em></p>
 
 <!-- FUENTE: LEV-T22 -->
 

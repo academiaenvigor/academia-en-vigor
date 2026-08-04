@@ -25,7 +25,11 @@ La Ley 4/2015 se aplica a víctimas de delitos cometidos en España o que puedan
 - El Estatuto establece un marco general sin perjuicio de regímenes especiales de protección más favorables. <!-- FACT:PN-T22-F004 -->
  <!-- FACT:PN-T22-F005 -->
 
-<!-- VISUAL PENDIENTE: t22-01-ambito-de-aplicacion.webp -->
+<!-- VISUAL:t22-01-ambito-de-aplicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-01-ambito-de-aplicacion.webp" alt="Ámbito de aplicación" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito de aplicación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -56,7 +60,11 @@ Es víctima directa toda persona física que haya sufrido un daño o perjuicio s
 - La condición de víctima no depende de que el autor haya sido identificado, acusado o condenado. <!-- FACT:PN-T22-F009 -->
  <!-- FACT:PN-T22-F010 -->
 
-<!-- VISUAL PENDIENTE: t22-02-victima-directa.webp -->
+<!-- VISUAL:t22-02-victima-directa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-02-victima-directa.webp" alt="Víctima directa" width="820">
+</p>
+<p align="center"><em>Infografía: Víctima directa.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -87,7 +95,11 @@ Existe víctima indirecta en casos de muerte o desaparición de una persona caus
 - No se incluyen como víctimas indirectas los terceros que sufran perjuicios derivados del delito fuera de los supuestos del artículo 2. <!-- FACT:PN-T22-F014 -->
  <!-- FACT:PN-T22-F015 -->
 
-<!-- VISUAL PENDIENTE: t22-03-victima-indirecta.webp -->
+<!-- VISUAL:t22-03-victima-indirecta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-03-victima-indirecta.webp" alt="Víctima indirecta" width="820">
+</p>
+<p align="center"><em>Infografía: Víctima indirecta.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -118,7 +130,11 @@ Toda víctima tiene derecho a protección, información, apoyo, asistencia, aten
 - La mediación y la conciliación están prohibidas en los supuestos de violencia sexual y violencia de género previstos legalmente. <!-- FACT:PN-T22-F019 -->
  <!-- FACT:PN-T22-F020 -->
 
-<!-- VISUAL PENDIENTE: t22-04-derechos-generales-y-trato.webp -->
+<!-- VISUAL:t22-04-derechos-generales-y-trato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-04-derechos-generales-y-trato.webp" alt="Derechos generales y trato" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos generales y trato.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -149,7 +165,11 @@ Toda comunicación con la víctima debe realizarse en lenguaje claro, sencillo y
 - En menores o personas que precisen especial protección, las comunicaciones se realizan también a su representante o persona de apoyo cuando corresponda. <!-- FACT:PN-T22-F024 -->
  <!-- FACT:PN-T22-F025 -->
 
-<!-- VISUAL PENDIENTE: t22-05-derecho-a-entender-y-ser-entendida.webp -->
+<!-- VISUAL:t22-05-derecho-a-entender-y-ser-entendida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-05-derecho-a-entender-y-ser-entendida.webp" alt="Derecho a entender y ser entendida" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho a entender y ser entendida.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -180,7 +200,11 @@ Desde el primer contacto, la víctima tiene derecho a recibir información adapt
 - La información se actualiza en cada fase para que la víctima pueda ejercer de forma efectiva sus derechos. <!-- FACT:PN-T22-F029 -->
  <!-- FACT:PN-T22-F030 -->
 
-<!-- VISUAL PENDIENTE: t22-06-informacion-desde-el-primer-contacto.webp -->
+<!-- VISUAL:t22-06-informacion-desde-el-primer-contacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-06-informacion-desde-el-primer-contacto.webp" alt="Información desde el primer contacto" width="820">
+</p>
+<p align="center"><em>Infografía: Información desde el primer contacto.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -211,7 +235,11 @@ La víctima tiene derecho a obtener copia de la denuncia debidamente certificada
 - La denegación policial de interpretación o traducción puede impugnarse ante el juez de instrucción haciendo constar la disconformidad. <!-- FACT:PN-T22-F034 -->
  <!-- FACT:PN-T22-F035 -->
 
-<!-- VISUAL PENDIENTE: t22-07-denuncia-copia-e-interpretacion.webp -->
+<!-- VISUAL:t22-07-denuncia-copia-e-interpretacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-07-denuncia-copia-e-interpretacion.webp" alt="Denuncia, copia e interpretación" width="820">
+</p>
+<p align="center"><em>Infografía: Denuncia, copia e interpretación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -242,7 +270,11 @@ La víctima que lo solicite recibe información sobre fecha, hora y lugar del ju
 - En violencia de género se notifican determinadas resoluciones sobre situación personal del investigado sin necesidad de solicitud, salvo renuncia expresa. <!-- FACT:PN-T22-F039 -->
  <!-- FACT:PN-T22-F040 -->
 
-<!-- VISUAL PENDIENTE: t22-08-informacion-sobre-la-causa.webp -->
+<!-- VISUAL:t22-08-informacion-sobre-la-causa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-08-informacion-sobre-la-causa.webp" alt="Información sobre la causa" width="820">
+</p>
+<p align="center"><em>Infografía: Información sobre la causa.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -273,7 +305,11 @@ Abogados y procuradores no pueden dirigirse a víctimas directas o indirectas de
 - La autoridad receptora traslada la solicitud al colegio profesional competente con la documentación aportada. <!-- FACT:PN-T22-F044 -->
  <!-- FACT:PN-T22-F045 -->
 
-<!-- VISUAL PENDIENTE: t22-09-periodo-de-reflexion-y-asistencia-juridica.webp -->
+<!-- VISUAL:t22-09-periodo-de-reflexion-y-asistencia-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-09-periodo-de-reflexion-y-asistencia-juridica.webp" alt="Período de reflexión y asistencia jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Período de reflexión y asistencia jurídica.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -304,7 +340,11 @@ Toda víctima tiene acceso gratuito y confidencial a servicios de asistencia y a
 - Los hijos menores y menores sujetos a guarda de víctimas de violencia de género, sexual o doméstica tienen derecho a medidas de asistencia y protección. <!-- FACT:PN-T22-F049 -->
  <!-- FACT:PN-T22-F050 -->
 
-<!-- VISUAL PENDIENTE: t22-10-servicios-de-apoyo.webp -->
+<!-- VISUAL:t22-10-servicios-de-apoyo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-10-servicios-de-apoyo.webp" alt="Servicios de apoyo" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de apoyo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -335,7 +375,11 @@ La víctima puede ejercer acciones penal y civil conforme a la Ley de Enjuiciami
 - Para recurrir el sobreseimiento no es requisito haber presentado denuncia o querella previamente. <!-- FACT:PN-T22-F054 -->
  <!-- FACT:PN-T22-F055 -->
 
-<!-- VISUAL PENDIENTE: t22-11-participacion-en-el-proceso-penal.webp -->
+<!-- VISUAL:t22-11-participacion-en-el-proceso-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-11-participacion-en-el-proceso-penal.webp" alt="Participación en el proceso penal" width="820">
+</p>
+<p align="center"><em>Infografía: Participación en el proceso penal.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -366,7 +410,11 @@ Determinadas víctimas pueden recurrir resoluciones penitenciarias previstas en 
 - Los bienes restituibles incautados se devuelven sin demora, salvo que su conservación sea imprescindible para el proceso o exista otra causa legal. <!-- FACT:PN-T22-F059 -->
  <!-- FACT:PN-T22-F060 -->
 
-<!-- VISUAL PENDIENTE: t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp -->
+<!-- VISUAL:t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-12-ejecucion-gastos-y-devolucion-de-bienes.webp" alt="Ejecución, gastos y devolución de bienes" width="820">
+</p>
+<p align="center"><em>Infografía: Ejecución, gastos y devolución de bienes.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -397,7 +445,11 @@ La víctima puede acceder a justicia restaurativa cuando el infractor reconoce l
 - Los debates del procedimiento restaurativo son confidenciales y el servicio no se presta cuando está prohibido por la ley. <!-- FACT:PN-T22-F064 -->
  <!-- FACT:PN-T22-F065 -->
 
-<!-- VISUAL PENDIENTE: t22-13-justicia-restaurativa.webp -->
+<!-- VISUAL:t22-13-justicia-restaurativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-13-justicia-restaurativa.webp" alt="Justicia restaurativa" width="820">
+</p>
+<p align="center"><em>Infografía: Justicia restaurativa.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -428,7 +480,11 @@ Las autoridades deben proteger la vida, integridad física y psíquica, libertad
 - La protección se individualiza: no todas las víctimas precisan la misma medida ni con idéntica intensidad. <!-- FACT:PN-T22-F069 -->
  <!-- FACT:PN-T22-F070 -->
 
-<!-- VISUAL PENDIENTE: t22-14-proteccion-integral-y-prevencion.webp -->
+<!-- VISUAL:t22-14-proteccion-integral-y-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-14-proteccion-integral-y-prevencion.webp" alt="Protección integral y prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Protección integral y prevención.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -459,7 +515,11 @@ Las dependencias donde se desarrollen actos del proceso deben evitar el contacto
 - La necesidad de evitar contacto se valora desde el primer momento y se revisa según evolucione el riesgo. <!-- FACT:PN-T22-F074 -->
  <!-- FACT:PN-T22-F075 -->
 
-<!-- VISUAL PENDIENTE: t22-15-evitar-el-contacto-con-el-infractor.webp -->
+<!-- VISUAL:t22-15-evitar-el-contacto-con-el-infractor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-15-evitar-el-contacto-con-el-infractor.webp" alt="Evitar el contacto con el infractor" width="820">
+</p>
+<p align="center"><em>Infografía: Evitar el contacto con el infractor.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -490,7 +550,11 @@ La declaración de la víctima debe recibirse sin dilaciones injustificadas tras
 - La planificación de actuaciones debe evitar repeticiones innecesarias que agraven el daño sufrido. <!-- FACT:PN-T22-F079 -->
  <!-- FACT:PN-T22-F080 -->
 
-<!-- VISUAL PENDIENTE: t22-16-declaracion-y-reconocimientos-medicos.webp -->
+<!-- VISUAL:t22-16-declaracion-y-reconocimientos-medicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-16-declaracion-y-reconocimientos-medicos.webp" alt="Declaración y reconocimientos médicos" width="820">
+</p>
+<p align="center"><em>Infografía: Declaración y reconocimientos médicos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -521,7 +585,11 @@ Jueces, fiscales y demás autoridades adoptan medidas para proteger la intimidad
 - Los datos personales de la víctima solo deben tratarse para fines legítimos, con minimización y seguridad adecuadas. <!-- FACT:PN-T22-F084 -->
  <!-- FACT:PN-T22-F085 -->
 
-<!-- VISUAL PENDIENTE: t22-17-intimidad-y-tratamiento-de-datos.webp -->
+<!-- VISUAL:t22-17-intimidad-y-tratamiento-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-17-intimidad-y-tratamiento-de-datos.webp" alt="Intimidad y tratamiento de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Intimidad y tratamiento de datos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -552,7 +620,11 @@ Toda víctima debe ser evaluada individualmente para determinar sus necesidades 
 - Las víctimas menores se presumen necesitadas de protección específica frente a victimización secundaria o reiterada. <!-- FACT:PN-T22-F089 -->
  <!-- FACT:PN-T22-F090 -->
 
-<!-- VISUAL PENDIENTE: t22-18-evaluacion-individual-finalidad-y-factores.webp -->
+<!-- VISUAL:t22-18-evaluacion-individual-finalidad-y-factores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-18-evaluacion-individual-finalidad-y-factores.webp" alt="Evaluación individual: finalidad y factores" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación individual: finalidad y factores.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -583,7 +655,11 @@ Durante la investigación, la evaluación y medidas corresponden a juez de instr
 - La evaluación se actualiza cuando cambian significativamente las circunstancias que sirvieron para adoptarla. <!-- FACT:PN-T22-F094 -->
  <!-- FACT:PN-T22-F095 -->
 
-<!-- VISUAL PENDIENTE: t22-19-quien-evalua-y-cuando-se-actualiza.webp -->
+<!-- VISUAL:t22-19-quien-evalua-y-cuando-se-actualiza.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-19-quien-evalua-y-cuando-se-actualiza.webp" alt="Quién evalúa y cuándo se actualiza" width="820">
+</p>
+<p align="center"><em>Infografía: Quién evalúa y cuándo se actualiza.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -614,7 +690,11 @@ La declaración puede recibirse en dependencias concebidas o adaptadas para evit
 - Las medidas de investigación se seleccionan según la evaluación individual y no se aplican de forma automática e indiferenciada. <!-- FACT:PN-T22-F099 -->
  <!-- FACT:PN-T22-F100 -->
 
-<!-- VISUAL PENDIENTE: t22-20-medidas-durante-la-investigacion.webp -->
+<!-- VISUAL:t22-20-medidas-durante-la-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-20-medidas-durante-la-investigacion.webp" alt="Medidas durante la investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas durante la investigación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -645,7 +725,11 @@ Durante el juicio pueden adoptarse medidas para evitar contacto visual entre ví
 - Las medidas deben respetar los derechos de defensa y el principio de contradicción. <!-- FACT:PN-T22-F104 -->
  <!-- FACT:PN-T22-F105 -->
 
-<!-- VISUAL PENDIENTE: t22-21-medidas-durante-el-juicio.webp -->
+<!-- VISUAL:t22-21-medidas-durante-el-juicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-21-medidas-durante-el-juicio.webp" alt="Medidas durante el juicio" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas durante el juicio.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -676,7 +760,11 @@ Las declaraciones de menores o personas con discapacidad necesitadas de especial
 - Cuando existan dudas sobre la edad y no pueda determinarse con certeza, se presume que la víctima es menor a efectos de protección. <!-- FACT:PN-T22-F109 -->
  <!-- FACT:PN-T22-F110 -->
 
-<!-- VISUAL PENDIENTE: t22-22-menores-discapacidad-y-prueba-preconstitui.webp -->
+<!-- VISUAL:t22-22-menores-discapacidad-y-prueba-preconstitui.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-22-menores-discapacidad-y-prueba-preconstitui.webp" alt="Menores, discapacidad y prueba preconstituida" width="820">
+</p>
+<p align="center"><em>Infografía: Menores, discapacidad y prueba preconstituida.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -707,7 +795,11 @@ Las Oficinas de Asistencia a las Víctimas son un servicio público y gratuito d
 - La Administración General del Estado y las comunidades autónomas con competencias organizan las oficinas en su ámbito. <!-- FACT:PN-T22-F114 -->
  <!-- FACT:PN-T22-F115 -->
 
-<!-- VISUAL PENDIENTE: t22-23-oficinas-de-asistencia-a-las-victimas.webp -->
+<!-- VISUAL:t22-23-oficinas-de-asistencia-a-las-victimas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-23-oficinas-de-asistencia-a-las-victimas.webp" alt="Oficinas de Asistencia a las Víctimas" width="820">
+</p>
+<p align="center"><em>Infografía: Oficinas de Asistencia a las Víctimas.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -738,7 +830,11 @@ Los poderes públicos fomentan formación general y especializada de profesional
 - La sensibilización y los códigos de conducta de medios contribuyen a proteger dignidad, intimidad e imagen de las víctimas. <!-- FACT:PN-T22-F119 -->
  <!-- FACT:PN-T22-F120 -->
 
-<!-- VISUAL PENDIENTE: t22-24-coordinacion-formacion-y-buenas-practicas.webp -->
+<!-- VISUAL:t22-24-coordinacion-formacion-y-buenas-practicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-24-coordinacion-formacion-y-buenas-practicas.webp" alt="Coordinación, formación y buenas prácticas" width="820">
+</p>
+<p align="center"><em>Infografía: Coordinación, formación y buenas prácticas.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -769,7 +865,11 @@ La víctima condenada por simulación de delito o denuncia falsa debe reembolsar
 - Las referencias históricas sin plantilla oficial verificable permanecen en cuarentena y no acreditan por sí solas una respuesta oficial. <!-- FACT:PN-T22-F124 -->
  <!-- FACT:PN-T22-F125 -->
 
-<!-- VISUAL PENDIENTE: t22-25-fraude-limites-y-trampas-de-examen.webp -->
+<!-- VISUAL:t22-25-fraude-limites-y-trampas-de-examen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-22/t22-25-fraude-limites-y-trampas-de-examen.webp" alt="Fraude, límites y trampas de examen" width="820">
+</p>
+<p align="center"><em>Infografía: Fraude, límites y trampas de examen.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.

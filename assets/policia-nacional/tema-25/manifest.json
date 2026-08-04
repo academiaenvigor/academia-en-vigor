@@ -4,14 +4,14 @@
   "topic": "tema-25",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 52,
-    "integrated": 0,
-    "planned": 52
+    "integrated": 52,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-04",
   "resources": [
     {
       "id": "T25-V01",
@@ -19,14 +19,15 @@
       "title": "Sistema normativo preventivo",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar sistema normativo preventivo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar sistema normativo preventivo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Objeto y carácter de la Ley 31/1995",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto y carácter de la ley 31/1995 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto y carácter de la ley 31/1995 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Ámbito general y peculiaridades públicas",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ámbito general y peculiaridades públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ámbito general y peculiaridades públicas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Definiciones legales de alto rendimiento",
       "type": "ilustracion_simple",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar definiciones legales de alto rendimiento mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar definiciones legales de alto rendimiento mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Política preventiva y coordinación pública",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar política preventiva y coordinación pública mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar política preventiva y coordinación pública mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Instituto Nacional de Seguridad y Salud en el Trabajo",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar instituto nacional de seguridad y salud en el trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar instituto nacional de seguridad y salud en el trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Inspección de Trabajo y autoridades sanitarias",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar inspección de trabajo y autoridades sanitarias mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar inspección de trabajo y autoridades sanitarias mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Comisión Nacional de Seguridad y Salud",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar comisión nacional de seguridad y salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar comisión nacional de seguridad y salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Derecho a protección eficaz y deber correlativo",
       "type": "ilustracion_simple",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derecho a protección eficaz y deber correlativo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derecho a protección eficaz y deber correlativo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Principios generales de la acción preventiva",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar principios generales de la acción preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar principios generales de la acción preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Integración y plan de prevención",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar integración y plan de prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar integración y plan de prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Evaluación inicial y actualización",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar evaluación inicial y actualización mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar evaluación inicial y actualización mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Planificación e investigación de daños",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar planificación e investigación de daños mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar planificación e investigación de daños mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Equipos de trabajo y protección individual",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar equipos de trabajo y protección individual mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar equipos de trabajo y protección individual mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Información preventiva",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar información preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar información preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Consulta y participación",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar consulta y participación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar consulta y participación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Formación preventiva",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar formación preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar formación preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Medidas de emergencia",
       "type": "ilustracion_simple",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar medidas de emergencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar medidas de emergencia mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Riesgo grave e inminente y paralización",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar riesgo grave e inminente y paralización mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar riesgo grave e inminente y paralización mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Vigilancia de la salud",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar vigilancia de la salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar vigilancia de la salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Documentación, notificación y coordinación",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar documentación, notificación y coordinación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar documentación, notificación y coordinación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Personas especialmente sensibles",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar personas especialmente sensibles mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar personas especialmente sensibles mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Maternidad, menores y relaciones temporales",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar maternidad, menores y relaciones temporales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar maternidad, menores y relaciones temporales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Obligaciones de las personas trabajadoras",
       "type": "ilustracion_simple",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar obligaciones de las personas trabajadoras mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar obligaciones de las personas trabajadoras mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Organización, responsabilidades y coste",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar organización, responsabilidades y coste mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar organización, responsabilidades y coste mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Integración y contenido del plan en el RD 39/1997",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar integración y contenido del plan en el rd 39/1997 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar integración y contenido del plan en el rd 39/1997 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Contenido general de la evaluación",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar contenido general de la evaluación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar contenido general de la evaluación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Revisión y documentación de la evaluación",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar revisión y documentación de la evaluación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar revisión y documentación de la evaluación mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Planificación de la actividad preventiva",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar planificación de la actividad preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar planificación de la actividad preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Modalidades de organización preventiva",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar modalidades de organización preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar modalidades de organización preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Asunción personal por el empresario",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar asunción personal por el empresario mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar asunción personal por el empresario mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Personas trabajadoras designadas",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar personas trabajadoras designadas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar personas trabajadoras designadas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Servicio de prevención propio: supuestos",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar servicio de prevención propio: supuestos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar servicio de prevención propio: supuestos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Organización del servicio propio",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar organización del servicio propio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar organización del servicio propio mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Servicios de prevención ajenos",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar servicios de prevención ajenos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar servicios de prevención ajenos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Servicios de prevención mancomunados",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar servicios de prevención mancomunados mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar servicios de prevención mancomunados mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Auditoría del sistema preventivo",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar auditoría del sistema preventivo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar auditoría del sistema preventivo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Presencia de recursos preventivos",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar presencia de recursos preventivos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar presencia de recursos preventivos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Niveles de funciones preventivas",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar niveles de funciones preventivas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar niveles de funciones preventivas mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Objeto y ámbito del RD 67/2010",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto y ámbito del rd 67/2010 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto y ámbito del rd 67/2010 mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Integración y participación en la AGE",
       "type": "ilustracion_simple",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar integración y participación en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar integración y participación en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Delegados y Comités en la AGE",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar delegados y comités en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar delegados y comités en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Recursos, cualificación y control en la AGE",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar recursos, cualificación y control en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar recursos, cualificación y control en la age mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Objeto, ámbito y estructura vigente policial",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar objeto, ámbito y estructura vigente policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar objeto, ámbito y estructura vigente policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Derecho y principios preventivos policiales",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar derecho y principios preventivos policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar derecho y principios preventivos policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Plan, evaluación y revisión policial",
       "type": "ilustracion_simple",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar plan, evaluación y revisión policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar plan, evaluación y revisión policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Equipos, información y participación policial",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar equipos, información y participación policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar equipos, información y participación policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Formación y emergencias policiales",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar formación y emergencias policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar formación y emergencias policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Vigilancia de la salud policial",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar vigilancia de la salud policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar vigilancia de la salud policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Maternidad y obligaciones policiales",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar maternidad y obligaciones policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar maternidad y obligaciones policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Delegados, Comisión y Comités policiales",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar delegados, comisión y comités policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar delegados, comisión y comités policiales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,69 +886,17 @@
       "title": "Servicio de prevención y control policial",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar servicio de prevención y control policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar servicio de prevención y control policial mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    "T25-V01",
-    "T25-V02",
-    "T25-V03",
-    "T25-V04",
-    "T25-V05",
-    "T25-V06",
-    "T25-V07",
-    "T25-V08",
-    "T25-V09",
-    "T25-V10",
-    "T25-V11",
-    "T25-V12",
-    "T25-V13",
-    "T25-V14",
-    "T25-V15",
-    "T25-V16",
-    "T25-V17",
-    "T25-V18",
-    "T25-V19",
-    "T25-V20",
-    "T25-V21",
-    "T25-V22",
-    "T25-V23",
-    "T25-V24",
-    "T25-V25",
-    "T25-V26",
-    "T25-V27",
-    "T25-V28",
-    "T25-V29",
-    "T25-V30",
-    "T25-V31",
-    "T25-V32",
-    "T25-V33",
-    "T25-V34",
-    "T25-V35",
-    "T25-V36",
-    "T25-V37",
-    "T25-V38",
-    "T25-V39",
-    "T25-V40",
-    "T25-V41",
-    "T25-V42",
-    "T25-V43",
-    "T25-V44",
-    "T25-V45",
-    "T25-V46",
-    "T25-V47",
-    "T25-V48",
-    "T25-V49",
-    "T25-V50",
-    "T25-V51",
-    "T25-V52"
-  ]
+  "planned_resources": []
 }

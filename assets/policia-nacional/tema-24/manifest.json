@@ -4,14 +4,14 @@
   "topic": "tema-24",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 36,
-    "integrated": 0,
-    "planned": 36
+    "integrated": 36,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-04",
   "resources": [
     {
       "id": "T24-V01",
@@ -19,14 +19,15 @@
       "title": "Finalidad de la prevención de riesgos laborales",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar finalidad de la prevención de riesgos laborales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar finalidad de la prevención de riesgos laborales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Concepto general de trabajo",
       "type": "ilustracion_simple",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar concepto general de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar concepto general de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Efectos positivos y negativos del trabajo",
       "type": "ilustracion_simple",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar efectos positivos y negativos del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar efectos positivos y negativos del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Concepto de salud de la OMS",
       "type": "ilustracion_simple",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar concepto de salud de la oms mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar concepto de salud de la oms mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Salud como realidad dinámica",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar salud como realidad dinámica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar salud como realidad dinámica mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Relación entre trabajo y salud",
       "type": "ilustracion_simple",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar relación entre trabajo y salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar relación entre trabajo y salud mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Seguridad y salud en el trabajo",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar seguridad y salud en el trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar seguridad y salud en el trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Concepto legal de condición de trabajo",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar concepto legal de condición de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar concepto legal de condición de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Locales, instalaciones, equipos y productos",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar locales, instalaciones, equipos y productos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar locales, instalaciones, equipos y productos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Agentes físicos del ambiente de trabajo",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar agentes físicos del ambiente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar agentes físicos del ambiente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Agentes químicos y biológicos",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar agentes químicos y biológicos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar agentes químicos y biológicos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Carga física y carga mental",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar carga física y carga mental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar carga física y carga mental mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Organización y ordenación del trabajo",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar organización y ordenación del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar organización y ordenación del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Puesto de trabajo y factor individual",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar puesto de trabajo y factor individual mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar puesto de trabajo y factor individual mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Peligro, exposición y riesgo",
       "type": "ilustracion_simple",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar peligro, exposición y riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar peligro, exposición y riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Definición de riesgo laboral",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar definición de riesgo laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar definición de riesgo laboral mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Gravedad del riesgo: probabilidad y severidad",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar gravedad del riesgo: probabilidad y severidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar gravedad del riesgo: probabilidad y severidad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Riesgo grave e inminente",
       "type": "ilustracion_simple",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar riesgo grave e inminente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar riesgo grave e inminente mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Procesos potencialmente peligrosos y equipos",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar procesos potencialmente peligrosos y equipos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar procesos potencialmente peligrosos y equipos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Familias de factores de riesgo",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar familias de factores de riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar familias de factores de riesgo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Riesgos de seguridad",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar riesgos de seguridad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar riesgos de seguridad mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Riesgos higiénicos, ergonómicos y psicosociales",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar riesgos higiénicos, ergonómicos y psicosociales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar riesgos higiénicos, ergonómicos y psicosociales mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Concepto legal de prevención",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar concepto legal de prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar concepto legal de prevención mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Evitar, evaluar y combatir en origen",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar evitar, evaluar y combatir en origen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar evitar, evaluar y combatir en origen mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Adaptar, actualizar y sustituir",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar adaptar, actualizar y sustituir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar adaptar, actualizar y sustituir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Planificar, priorizar lo colectivo e instruir",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar planificar, priorizar lo colectivo e instruir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar planificar, priorizar lo colectivo e instruir mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Capacidades, acceso a zonas e imprudencias previsibles",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar capacidades, acceso a zonas e imprudencias previsibles mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar capacidades, acceso a zonas e imprudencias previsibles mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Prevención integral, integrada y participativa",
       "type": "ilustracion_simple",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar prevención integral, integrada y participativa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar prevención integral, integrada y participativa mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Ciclo de mejora preventiva",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar ciclo de mejora preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar ciclo de mejora preventiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Prevención y protección",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar prevención y protección mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar prevención y protección mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Protección colectiva",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar protección colectiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar protección colectiva mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Protección individual y EPI",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar protección individual y epi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar protección individual y epi mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Consecuencias de los riesgos",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar consecuencias de los riesgos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar consecuencias de los riesgos mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Daños derivados del trabajo",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar daños derivados del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar daños derivados del trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Accidente de trabajo",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar accidente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar accidente de trabajo mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,53 +614,17 @@
       "title": "Enfermedad profesional y otras patologías",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: explicar enfermedad profesional y otras patologías mediante una composición original, legible y centrada en las cinco reglas del bloque.",
+      "description": "explicar enfermedad profesional y otras patologías mediante una composición original, legible y centrada en las cinco reglas del bloque.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    "T24-V01",
-    "T24-V02",
-    "T24-V03",
-    "T24-V04",
-    "T24-V05",
-    "T24-V06",
-    "T24-V07",
-    "T24-V08",
-    "T24-V09",
-    "T24-V10",
-    "T24-V11",
-    "T24-V12",
-    "T24-V13",
-    "T24-V14",
-    "T24-V15",
-    "T24-V16",
-    "T24-V17",
-    "T24-V18",
-    "T24-V19",
-    "T24-V20",
-    "T24-V21",
-    "T24-V22",
-    "T24-V23",
-    "T24-V24",
-    "T24-V25",
-    "T24-V26",
-    "T24-V27",
-    "T24-V28",
-    "T24-V29",
-    "T24-V30",
-    "T24-V31",
-    "T24-V32",
-    "T24-V33",
-    "T24-V34",
-    "T24-V35",
-    "T24-V36"
-  ]
+  "planned_resources": []
 }

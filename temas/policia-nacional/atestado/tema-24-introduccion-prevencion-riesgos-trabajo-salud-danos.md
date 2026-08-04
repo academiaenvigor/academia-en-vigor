@@ -25,7 +25,11 @@ La prevención de riesgos laborales busca promover la seguridad y la salud media
 - La ausencia de accidentes durante un período no demuestra por sí sola que los riesgos estén controlados. <!-- FACT:PN-T24-F004 -->
  <!-- FACT:PN-T24-F005 -->
 
-<!-- VISUAL PENDIENTE: t24-01-finalidad-de-la-prevencion-de-riesgos-labo.webp -->
+<!-- VISUAL:t24-01-finalidad-de-la-prevencion-de-riesgos-labo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-01-finalidad-de-la-prevencion-de-riesgos-labo.webp" alt="Finalidad de la prevención de riesgos laborales" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad de la prevención de riesgos laborales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -56,7 +60,11 @@ El trabajo es una actividad humana organizada que transforma recursos o presta s
 - El concepto preventivo de trabajo atiende tanto a la tarea prescrita como a la actividad real con la que se ejecuta. <!-- FACT:PN-T24-F009 -->
  <!-- FACT:PN-T24-F010 -->
 
-<!-- VISUAL PENDIENTE: t24-02-concepto-general-de-trabajo.webp -->
+<!-- VISUAL:t24-02-concepto-general-de-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-02-concepto-general-de-trabajo.webp" alt="Concepto general de trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto general de trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -87,7 +95,11 @@ Cuando se desarrolla en condiciones adecuadas, el trabajo puede favorecer el bie
 - Mejorar la prevención protege a las personas y también puede favorecer calidad, continuidad y eficacia del servicio. <!-- FACT:PN-T24-F014 -->
  <!-- FACT:PN-T24-F015 -->
 
-<!-- VISUAL PENDIENTE: t24-03-efectos-positivos-y-negativos-del-trabajo.webp -->
+<!-- VISUAL:t24-03-efectos-positivos-y-negativos-del-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-03-efectos-positivos-y-negativos-del-trabajo.webp" alt="Efectos positivos y negativos del trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Efectos positivos y negativos del trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -118,7 +130,11 @@ La OMS concibe la salud como un estado de bienestar físico, mental y social, no
 - En prevención laboral, proteger la salud exige considerar conjuntamente las tres dimensiones. <!-- FACT:PN-T24-F019 -->
  <!-- FACT:PN-T24-F020 -->
 
-<!-- VISUAL PENDIENTE: t24-04-concepto-de-salud-de-la-oms.webp -->
+<!-- VISUAL:t24-04-concepto-de-salud-de-la-oms.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-04-concepto-de-salud-de-la-oms.webp" alt="Concepto de salud de la OMS" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de salud de la OMS.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -149,7 +165,11 @@ La salud no es un estado fijo: puede mejorar o deteriorarse a lo largo del tiemp
 - La prevención debe adaptarse cuando cambian las personas, las tareas, la tecnología o las condiciones de exposición. <!-- FACT:PN-T24-F024 -->
  <!-- FACT:PN-T24-F025 -->
 
-<!-- VISUAL PENDIENTE: t24-05-salud-como-realidad-dinamica.webp -->
+<!-- VISUAL:t24-05-salud-como-realidad-dinamica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-05-salud-como-realidad-dinamica.webp" alt="Salud como realidad dinámica" width="820">
+</p>
+<p align="center"><em>Infografía: Salud como realidad dinámica.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -180,7 +200,11 @@ La relación trabajo-salud depende de cómo se diseña, organiza y ejecuta la ac
 - Seguridad, higiene, ergonomía, psicosociología y medicina del trabajo cooperan para proteger la salud de forma integral. <!-- FACT:PN-T24-F029 -->
  <!-- FACT:PN-T24-F030 -->
 
-<!-- VISUAL PENDIENTE: t24-06-relacion-entre-trabajo-y-salud.webp -->
+<!-- VISUAL:t24-06-relacion-entre-trabajo-y-salud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-06-relacion-entre-trabajo-y-salud.webp" alt="Relación entre trabajo y salud" width="820">
+</p>
+<p align="center"><em>Infografía: Relación entre trabajo y salud.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -211,7 +235,11 @@ La Constitución encomienda a los poderes públicos velar por la seguridad e hig
 - El coste de las medidas de seguridad y salud no debe recaer sobre las personas trabajadoras. <!-- FACT:PN-T24-F034 -->
  <!-- FACT:PN-T24-F035 -->
 
-<!-- VISUAL PENDIENTE: t24-07-seguridad-y-salud-en-el-trabajo.webp -->
+<!-- VISUAL:t24-07-seguridad-y-salud-en-el-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-07-seguridad-y-salud-en-el-trabajo.webp" alt="Seguridad y salud en el trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad y salud en el trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -242,7 +270,11 @@ Condición de trabajo es cualquier característica del trabajo con influencia si
 - Modificar una condición de trabajo puede reducir un riesgo existente o introducir otro nuevo que también debe valorarse. <!-- FACT:PN-T24-F039 -->
  <!-- FACT:PN-T24-F040 -->
 
-<!-- VISUAL PENDIENTE: t24-08-concepto-legal-de-condicion-de-trabajo.webp -->
+<!-- VISUAL:t24-08-concepto-legal-de-condicion-de-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-08-concepto-legal-de-condicion-de-trabajo.webp" alt="Concepto legal de condición de trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto legal de condición de trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -273,7 +305,11 @@ La condición de trabajo incluye las características generales de locales, inst
 - La conformidad inicial de un equipo no elimina la necesidad de uso correcto, mantenimiento y adaptación a la tarea. <!-- FACT:PN-T24-F044 -->
  <!-- FACT:PN-T24-F045 -->
 
-<!-- VISUAL PENDIENTE: t24-09-locales-instalaciones-equipos-y-productos.webp -->
+<!-- VISUAL:t24-09-locales-instalaciones-equipos-y-productos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-09-locales-instalaciones-equipos-y-productos.webp" alt="Locales, instalaciones, equipos y productos" width="820">
+</p>
+<p align="center"><em>Infografía: Locales, instalaciones, equipos y productos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -304,7 +340,11 @@ Ruido, vibraciones, radiaciones, iluminación y condiciones térmicas son ejempl
 - La actuación prioritaria busca eliminar o reducir la exposición en su origen antes de depender de protección individual. <!-- FACT:PN-T24-F049 -->
  <!-- FACT:PN-T24-F050 -->
 
-<!-- VISUAL PENDIENTE: t24-10-agentes-fisicos-del-ambiente-de-trabajo.webp -->
+<!-- VISUAL:t24-10-agentes-fisicos-del-ambiente-de-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-10-agentes-fisicos-del-ambiente-de-trabajo.webp" alt="Agentes físicos del ambiente de trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Agentes físicos del ambiente de trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -335,7 +375,11 @@ Las condiciones de trabajo incluyen los agentes químicos y biológicos presente
 - El control requiere considerar tareas ordinarias, limpieza, mantenimiento, emergencias y gestión de residuos. <!-- FACT:PN-T24-F054 -->
  <!-- FACT:PN-T24-F055 -->
 
-<!-- VISUAL PENDIENTE: t24-11-agentes-quimicos-y-biologicos.webp -->
+<!-- VISUAL:t24-11-agentes-quimicos-y-biologicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-11-agentes-quimicos-y-biologicos.webp" alt="Agentes químicos y biológicos" width="820">
+</p>
+<p align="center"><em>Infografía: Agentes químicos y biológicos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -366,7 +410,11 @@ La carga de trabajo reúne las exigencias físicas y mentales que la tarea impon
 - Adaptar el trabajo exige equilibrar demandas, capacidades, pausas, medios y margen de decisión. <!-- FACT:PN-T24-F059 -->
  <!-- FACT:PN-T24-F060 -->
 
-<!-- VISUAL PENDIENTE: t24-12-carga-fisica-y-carga-mental.webp -->
+<!-- VISUAL:t24-12-carga-fisica-y-carga-mental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-12-carga-fisica-y-carga-mental.webp" alt="Carga física y carga mental" width="820">
+</p>
+<p align="center"><em>Infografía: Carga física y carga mental.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -397,7 +445,11 @@ La definición legal incluye las características de organización y ordenación
 - La prevención debe integrar relaciones sociales y organización del trabajo, no tratar ambos aspectos como ajenos a la seguridad. <!-- FACT:PN-T24-F064 -->
  <!-- FACT:PN-T24-F065 -->
 
-<!-- VISUAL PENDIENTE: t24-13-organizacion-y-ordenacion-del-trabajo.webp -->
+<!-- VISUAL:t24-13-organizacion-y-ordenacion-del-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-13-organizacion-y-ordenacion-del-trabajo.webp" alt="Organización y ordenación del trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Organización y ordenación del trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -428,7 +480,11 @@ A efectos preventivos, el puesto resulta de la combinación de condiciones de tr
 - La adaptación del puesto busca ajustar el trabajo a la persona y no forzar a todas las personas a un patrón único. <!-- FACT:PN-T24-F069 -->
  <!-- FACT:PN-T24-F070 -->
 
-<!-- VISUAL PENDIENTE: t24-14-puesto-de-trabajo-y-factor-individual.webp -->
+<!-- VISUAL:t24-14-puesto-de-trabajo-y-factor-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-14-puesto-de-trabajo-y-factor-individual.webp" alt="Puesto de trabajo y factor individual" width="820">
+</p>
+<p align="center"><em>Infografía: Puesto de trabajo y factor individual.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -459,7 +515,11 @@ El peligro es la capacidad de una fuente o situación para causar daño; el ries
 - Confundir peligro con riesgo impide elegir correctamente entre eliminación, control en origen y protección. <!-- FACT:PN-T24-F074 -->
  <!-- FACT:PN-T24-F075 -->
 
-<!-- VISUAL PENDIENTE: t24-15-peligro-exposicion-y-riesgo.webp -->
+<!-- VISUAL:t24-15-peligro-exposicion-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-15-peligro-exposicion-y-riesgo.webp" alt="Peligro, exposición y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Peligro, exposición y riesgo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -490,7 +550,11 @@ Riesgo laboral es la posibilidad de que una persona trabajadora sufra un daño d
 - Identificar un riesgo exige relacionar fuente, exposición, persona afectada y daño posible. <!-- FACT:PN-T24-F079 -->
  <!-- FACT:PN-T24-F080 -->
 
-<!-- VISUAL PENDIENTE: t24-16-definicion-de-riesgo-laboral.webp -->
+<!-- VISUAL:t24-16-definicion-de-riesgo-laboral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-16-definicion-de-riesgo-laboral.webp" alt="Definición de riesgo laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Definición de riesgo laboral.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -521,7 +585,11 @@ La gravedad del riesgo se valora conjuntamente mediante la probabilidad de que o
 - La matriz de riesgo ayuda a priorizar, pero no sustituye la obligación de evitar los riesgos que puedan eliminarse. <!-- FACT:PN-T24-F084 -->
  <!-- FACT:PN-T24-F085 -->
 
-<!-- VISUAL PENDIENTE: t24-17-gravedad-del-riesgo-probabilidad-y-severid.webp -->
+<!-- VISUAL:t24-17-gravedad-del-riesgo-probabilidad-y-severid.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-17-gravedad-del-riesgo-probabilidad-y-severid.webp" alt="Gravedad del riesgo: probabilidad y severidad" width="820">
+</p>
+<p align="center"><em>Infografía: Gravedad del riesgo: probabilidad y severidad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -552,7 +620,11 @@ Es grave e inminente el riesgo racionalmente probable de materializarse en un fu
 - Un riesgo grave no es automáticamente inminente, y un suceso próximo de consecuencias leves no cumple por sí solo la definición. <!-- FACT:PN-T24-F089 -->
  <!-- FACT:PN-T24-F090 -->
 
-<!-- VISUAL PENDIENTE: t24-18-riesgo-grave-e-inminente.webp -->
+<!-- VISUAL:t24-18-riesgo-grave-e-inminente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-18-riesgo-grave-e-inminente.webp" alt="Riesgo grave e inminente" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo grave e inminente.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -583,7 +655,11 @@ Son potencialmente peligrosos los procesos, operaciones, equipos o productos que
 - Una medida preventiva debe controlar tanto la operación habitual como las tareas no rutinarias con exposición relevante. <!-- FACT:PN-T24-F094 -->
  <!-- FACT:PN-T24-F095 -->
 
-<!-- VISUAL PENDIENTE: t24-19-procesos-potencialmente-peligrosos-y-equip.webp -->
+<!-- VISUAL:t24-19-procesos-potencialmente-peligrosos-y-equip.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-19-procesos-potencialmente-peligrosos-y-equip.webp" alt="Procesos potencialmente peligrosos y equipos" width="820">
+</p>
+<p align="center"><em>Infografía: Procesos potencialmente peligrosos y equipos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -614,7 +690,11 @@ Los factores de seguridad se relacionan con lugares, equipos, instalaciones y si
 - Las familias de factores se solapan y una misma condición puede contribuir a varios riesgos a la vez. <!-- FACT:PN-T24-F099 -->
  <!-- FACT:PN-T24-F100 -->
 
-<!-- VISUAL PENDIENTE: t24-20-familias-de-factores-de-riesgo.webp -->
+<!-- VISUAL:t24-20-familias-de-factores-de-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-20-familias-de-factores-de-riesgo.webp" alt="Familias de factores de riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Familias de factores de riesgo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -645,7 +725,11 @@ Caídas, golpes, atrapamientos, cortes, contactos eléctricos, incendios y accid
 - La señalización advierte u orienta, pero no sustituye una medida técnica que pueda eliminar o controlar el riesgo. <!-- FACT:PN-T24-F104 -->
  <!-- FACT:PN-T24-F105 -->
 
-<!-- VISUAL PENDIENTE: t24-21-riesgos-de-seguridad.webp -->
+<!-- VISUAL:t24-21-riesgos-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-21-riesgos-de-seguridad.webp" alt="Riesgos de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgos de seguridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -676,7 +760,11 @@ La higiene industrial identifica, evalúa y controla agentes ambientales que pue
 - Las tres disciplinas deben coordinarse porque una intervención aislada puede desplazar el riesgo a otra dimensión. <!-- FACT:PN-T24-F109 -->
  <!-- FACT:PN-T24-F110 -->
 
-<!-- VISUAL PENDIENTE: t24-22-riesgos-higienicos-ergonomicos-y-psicosoci.webp -->
+<!-- VISUAL:t24-22-riesgos-higienicos-ergonomicos-y-psicosoci.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-22-riesgos-higienicos-ergonomicos-y-psicosoci.webp" alt="Riesgos higiénicos, ergonómicos y psicosociales" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgos higiénicos, ergonómicos y psicosociales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -707,7 +795,11 @@ Prevención es el conjunto de actividades o medidas adoptadas o previstas en tod
 - La prevención debe anticiparse a los cambios y no esperar a que un accidente confirme un riesgo conocido. <!-- FACT:PN-T24-F114 -->
  <!-- FACT:PN-T24-F115 -->
 
-<!-- VISUAL PENDIENTE: t24-23-concepto-legal-de-prevencion.webp -->
+<!-- VISUAL:t24-23-concepto-legal-de-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-23-concepto-legal-de-prevencion.webp" alt="Concepto legal de prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto legal de prevención.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -738,7 +830,11 @@ El primer principio es evitar los riesgos siempre que resulte posible. Este bloq
 - Combatir en origen significa actuar sobre la fuente o la causa antes que sobre la persona expuesta. <!-- FACT:PN-T24-F119 -->
  <!-- FACT:PN-T24-F120 -->
 
-<!-- VISUAL PENDIENTE: t24-24-evitar-evaluar-y-combatir-en-origen.webp -->
+<!-- VISUAL:t24-24-evitar-evaluar-y-combatir-en-origen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-24-evitar-evaluar-y-combatir-en-origen.webp" alt="Evitar, evaluar y combatir en origen" width="820">
+</p>
+<p align="center"><em>Infografía: Evitar, evaluar y combatir en origen.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -769,7 +865,11 @@ El trabajo debe adaptarse a la persona, especialmente en puestos, equipos y mét
 - Una solución que fue adecuada puede dejar de serlo cuando existe una alternativa técnica más segura y razonable. <!-- FACT:PN-T24-F124 -->
  <!-- FACT:PN-T24-F125 -->
 
-<!-- VISUAL PENDIENTE: t24-25-adaptar-actualizar-y-sustituir.webp -->
+<!-- VISUAL:t24-25-adaptar-actualizar-y-sustituir.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-25-adaptar-actualizar-y-sustituir.webp" alt="Adaptar, actualizar y sustituir" width="820">
+</p>
+<p align="center"><em>Infografía: Adaptar, actualizar y sustituir.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -800,7 +900,11 @@ La prevención debe planificarse como un conjunto coherente que integre técnica
 - Dar instrucciones es necesario, pero no compensa un diseño inseguro ni justifica omitir protección colectiva viable. <!-- FACT:PN-T24-F129 -->
  <!-- FACT:PN-T24-F130 -->
 
-<!-- VISUAL PENDIENTE: t24-26-planificar-priorizar-lo-colectivo-e-instru.webp -->
+<!-- VISUAL:t24-26-planificar-priorizar-lo-colectivo-e-instru.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-26-planificar-priorizar-lo-colectivo-e-instru.webp" alt="Planificar, priorizar lo colectivo e instruir" width="820">
+</p>
+<p align="center"><em>Infografía: Planificar, priorizar lo colectivo e instruir.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -831,7 +935,11 @@ Al encomendar tareas deben considerarse las capacidades profesionales de las per
 - La prevención no puede descansar en exigir una conducta humana perfecta durante toda la jornada. <!-- FACT:PN-T24-F134 -->
  <!-- FACT:PN-T24-F135 -->
 
-<!-- VISUAL PENDIENTE: t24-27-capacidades-acceso-a-zonas-e-imprudencias-.webp -->
+<!-- VISUAL:t24-27-capacidades-acceso-a-zonas-e-imprudencias-.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-27-capacidades-acceso-a-zonas-e-imprudencias-.webp" alt="Capacidades, acceso a zonas e imprudencias previsibles" width="820">
+</p>
+<p align="center"><em>Infografía: Capacidades, acceso a zonas e imprudencias previsibles.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -862,7 +970,11 @@ La prevención es integral cuando abarca todos los riesgos y todas las dimension
 - La eficacia preventiva se comprueba mediante seguimiento y revisión, no por la mera existencia de un plan. <!-- FACT:PN-T24-F139 -->
  <!-- FACT:PN-T24-F140 -->
 
-<!-- VISUAL PENDIENTE: t24-28-prevencion-integral-integrada-y-participat.webp -->
+<!-- VISUAL:t24-28-prevencion-integral-integrada-y-participat.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-28-prevencion-integral-integrada-y-participat.webp" alt="Prevención integral, integrada y participativa" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención integral, integrada y participativa.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -893,7 +1005,11 @@ El ciclo preventivo parte de identificar peligros y personas expuestas. Este blo
 - Los cambios, incidentes, daños o señales de insuficiencia obligan a revisar evaluación y medidas. <!-- FACT:PN-T24-F144 -->
  <!-- FACT:PN-T24-F145 -->
 
-<!-- VISUAL PENDIENTE: t24-29-ciclo-de-mejora-preventiva.webp -->
+<!-- VISUAL:t24-29-ciclo-de-mejora-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-29-ciclo-de-mejora-preventiva.webp" alt="Ciclo de mejora preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Ciclo de mejora preventiva.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -924,7 +1040,11 @@ La prevención actúa sobre el riesgo, especialmente en su origen, para eliminar
 - La elección correcta sigue la jerarquía: eliminar o reducir en origen, proteger colectivamente y recurrir a protección individual cuando proceda. <!-- FACT:PN-T24-F149 -->
  <!-- FACT:PN-T24-F150 -->
 
-<!-- VISUAL PENDIENTE: t24-30-prevencion-y-proteccion.webp -->
+<!-- VISUAL:t24-30-prevencion-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-30-prevencion-y-proteccion.webp" alt="Prevención y protección" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención y protección.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -955,7 +1075,11 @@ La protección colectiva protege simultáneamente a varias personas frente a un 
 - La prioridad colectiva no impide combinarla con protección individual cuando persista un riesgo residual. <!-- FACT:PN-T24-F154 -->
  <!-- FACT:PN-T24-F155 -->
 
-<!-- VISUAL PENDIENTE: t24-31-proteccion-colectiva.webp -->
+<!-- VISUAL:t24-31-proteccion-colectiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-31-proteccion-colectiva.webp" alt="Protección colectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Protección colectiva.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -986,7 +1110,11 @@ Un equipo de protección individual es el destinado a ser llevado o sujetado por
 - Entregar el EPI no basta: son necesarios ajuste, formación, uso efectivo, mantenimiento y reposición. <!-- FACT:PN-T24-F159 -->
  <!-- FACT:PN-T24-F160 -->
 
-<!-- VISUAL PENDIENTE: t24-32-proteccion-individual-y-epi.webp -->
+<!-- VISUAL:t24-32-proteccion-individual-y-epi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-32-proteccion-individual-y-epi.webp" alt="Protección individual y EPI" width="820">
+</p>
+<p align="center"><em>Infografía: Protección individual y EPI.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1017,7 +1145,11 @@ La materialización de un riesgo puede causar lesiones, enfermedades, patología
 - Cuando se produce un daño o aparecen indicios de insuficiencia, deben investigarse las causas y revisarse las medidas. <!-- FACT:PN-T24-F164 -->
  <!-- FACT:PN-T24-F165 -->
 
-<!-- VISUAL PENDIENTE: t24-33-consecuencias-de-los-riesgos.webp -->
+<!-- VISUAL:t24-33-consecuencias-de-los-riesgos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-33-consecuencias-de-los-riesgos.webp" alt="Consecuencias de los riesgos" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias de los riesgos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1048,7 +1180,11 @@ Son daños derivados del trabajo las enfermedades, patologías o lesiones sufrid
 - Fatiga, estrés, insatisfacción y envejecimiento prematuro pueden revelar condiciones de trabajo deficientes aunque su encaje jurídico varíe. <!-- FACT:PN-T24-F169 -->
  <!-- FACT:PN-T24-F170 -->
 
-<!-- VISUAL PENDIENTE: t24-34-danos-derivados-del-trabajo.webp -->
+<!-- VISUAL:t24-34-danos-derivados-del-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-34-danos-derivados-del-trabajo.webp" alt="Daños derivados del trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Daños derivados del trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1079,7 +1215,11 @@ En el Régimen General, accidente de trabajo es la lesión corporal sufrida con 
 - El dolo o la imprudencia temeraria de la persona accidentada excluyen la calificación en los términos del artículo 156. <!-- FACT:PN-T24-F174 -->
  <!-- FACT:PN-T24-F175 -->
 
-<!-- VISUAL PENDIENTE: t24-35-accidente-de-trabajo.webp -->
+<!-- VISUAL:t24-35-accidente-de-trabajo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-35-accidente-de-trabajo.webp" alt="Accidente de trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente de trabajo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1110,7 +1250,11 @@ La enfermedad profesional exige trabajo por cuenta ajena en una actividad inclui
 - La prevención debe atender a accidentes, enfermedades profesionales y otras patologías relacionadas con el trabajo, no solo a las estadísticas de baja. <!-- FACT:PN-T24-F179 -->
  <!-- FACT:PN-T24-F180 -->
 
-<!-- VISUAL PENDIENTE: t24-36-enfermedad-profesional-y-otras-patologias.webp -->
+<!-- VISUAL:t24-36-enfermedad-profesional-y-otras-patologias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-24/t24-36-enfermedad-profesional-y-otras-patologias.webp" alt="Enfermedad profesional y otras patologías" width="820">
+</p>
+<p align="center"><em>Infografía: Enfermedad profesional y otras patologías.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.

@@ -20,7 +20,11 @@ La Constitución encomienda a los poderes públicos velar por la seguridad e hig
 - La Ley 31/1995 transpone el marco comunitario y actúa como base común, sin excluir normas sectoriales más específicas.
 - En Policía Nacional deben coordinarse la normativa general, la adaptación a la AGE y el régimen específico del Real Decreto 2/2006.
 
-<!-- VISUAL PENDIENTE: t25-01-sistema-normativo-preventivo.webp -->
+<!-- VISUAL:t25-01-sistema-normativo-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-01-sistema-normativo-preventivo.webp" alt="Sistema normativo preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema normativo preventivo.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -34,7 +38,11 @@ La Ley 31/1995 tiene por objeto promover la seguridad y salud mediante medidas y
 - Las disposiciones legales y reglamentarias pueden ser mejoradas y desarrolladas por convenio colectivo.
 - La mejora convencional no permite rebajar el nivel mínimo de protección fijado por la normativa obligatoria.
 
-<!-- VISUAL PENDIENTE: t25-02-objeto-y-caracter-de-la-ley-31-1995.webp -->
+<!-- VISUAL:t25-02-objeto-y-caracter-de-la-ley-31-1995.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-02-objeto-y-caracter-de-la-ley-31-1995.webp" alt="Objeto y carácter de la Ley 31/1995" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y carácter de la Ley 31/1995.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -48,7 +56,11 @@ La Ley 31/1995 se aplica a relaciones laborales y al personal con relación admi
 - La exclusión se interpreta de forma funcional: afecta a actividades concretas incompatibles, no a todo trabajo desarrollado por un cuerpo policial.
 - La normativa específica debe inspirarse en la Ley 31/1995 y proteger la seguridad y salud de quienes realizan esas funciones.
 
-<!-- VISUAL PENDIENTE: t25-03-ambito-general-y-peculiaridades-publicas.webp -->
+<!-- VISUAL:t25-03-ambito-general-y-peculiaridades-publicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-03-ambito-general-y-peculiaridades-publicas.webp" alt="Ámbito general y peculiaridades públicas" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito general y peculiaridades públicas.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -62,7 +74,11 @@ Prevención es el conjunto de actividades o medidas adoptadas o previstas en tod
 - Riesgo grave e inminente es el racionalmente probable de materializarse en un futuro inmediato y capaz de causar un daño grave.
 - Daños derivados del trabajo son las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.
 
-<!-- VISUAL PENDIENTE: t25-04-definiciones-legales-de-alto-rendimiento.webp -->
+<!-- VISUAL:t25-04-definiciones-legales-de-alto-rendimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-04-definiciones-legales-de-alto-rendimiento.webp" alt="Definiciones legales de alto rendimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones legales de alto rendimiento.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -76,7 +92,11 @@ La política preventiva busca mejorar las condiciones de trabajo para elevar la 
 - El Gobierno regula reglamentariamente requisitos mínimos, limitaciones, evaluación, organización preventiva y trabajos especialmente peligrosos.
 - Las Administraciones laborales desarrollan promoción, asesoramiento, vigilancia, control y sanción dentro de sus competencias.
 
-<!-- VISUAL PENDIENTE: t25-05-politica-preventiva-y-coordinacion-publica.webp -->
+<!-- VISUAL:t25-05-politica-preventiva-y-coordinacion-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-05-politica-preventiva-y-coordinacion-publica.webp" alt="Política preventiva y coordinación pública" width="820">
+</p>
+<p align="center"><em>Infografía: Política preventiva y coordinación pública.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -90,7 +110,11 @@ El Instituto Nacional de Seguridad y Salud en el Trabajo es el órgano científi
 - Promueve formación, información, investigación, estudio y divulgación y coopera con los órganos técnicos autonómicos.
 - El texto histórico de algunas normas utiliza la denominación Instituto Nacional de Seguridad e Higiene en el Trabajo; actualmente la denominación institucional es INSST.
 
-<!-- VISUAL PENDIENTE: t25-06-instituto-nacional-de-seguridad-y-salud-en.webp -->
+<!-- VISUAL:t25-06-instituto-nacional-de-seguridad-y-salud-en.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-06-instituto-nacional-de-seguridad-y-salud-en.webp" alt="Instituto Nacional de Seguridad y Salud en el Trabajo" width="820">
+</p>
+<p align="center"><em>Infografía: Instituto Nacional de Seguridad y Salud en el Trabajo.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -104,7 +128,11 @@ La vigilancia y control de la normativa preventiva corresponde a la Inspección 
 - Las Administraciones sanitarias controlan actuaciones sanitarias de los servicios de prevención y establecen pautas y protocolos.
 - Las autoridades sanitarias colaboran en sistemas de información, mapas de riesgos, estudios epidemiológicos y vigilancia de la salud laboral.
 
-<!-- VISUAL PENDIENTE: t25-07-inspeccion-de-trabajo-y-autoridades-sanita.webp -->
+<!-- VISUAL:t25-07-inspeccion-de-trabajo-y-autoridades-sanita.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-07-inspeccion-de-trabajo-y-autoridades-sanita.webp" alt="Inspección de Trabajo y autoridades sanitarias" width="820">
+</p>
+<p align="center"><em>Infografía: Inspección de Trabajo y autoridades sanitarias.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -118,7 +146,11 @@ La Comisión Nacional de Seguridad y Salud en el Trabajo es el órgano colegiado
 - La representación empresarial y sindical es paritaria respecto del conjunto de representantes de las Administraciones públicas.
 - La Comisión conoce actuaciones de promoción, asesoramiento, vigilancia y control y puede formular propuestas e informar proyectos normativos.
 
-<!-- VISUAL PENDIENTE: t25-08-comision-nacional-de-seguridad-y-salud.webp -->
+<!-- VISUAL:t25-08-comision-nacional-de-seguridad-y-salud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-08-comision-nacional-de-seguridad-y-salud.webp" alt="Comisión Nacional de Seguridad y Salud" width="820">
+</p>
+<p align="center"><em>Infografía: Comisión Nacional de Seguridad y Salud.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -132,7 +164,11 @@ Las personas trabajadoras tienen derecho a una protección eficaz en materia de 
 - El deber de protección exige integrar la prevención y adoptar cuantas medidas sean necesarias en todos los aspectos relacionados con el trabajo.
 - El coste de las medidas relativas a la seguridad y salud no puede recaer sobre las personas trabajadoras.
 
-<!-- VISUAL PENDIENTE: t25-09-derecho-a-proteccion-eficaz-y-deber-correl.webp -->
+<!-- VISUAL:t25-09-derecho-a-proteccion-eficaz-y-deber-correl.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-09-derecho-a-proteccion-eficaz-y-deber-correl.webp" alt="Derecho a protección eficaz y deber correlativo" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho a protección eficaz y deber correlativo.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -146,7 +182,11 @@ La acción preventiva comienza por evitar los riesgos, evaluar los inevitables y
 - La protección colectiva debe anteponerse a la individual y deben darse instrucciones adecuadas.
 - Las medidas deben prever distracciones o imprudencias no temerarias razonablemente previsibles.
 
-<!-- VISUAL PENDIENTE: t25-10-principios-generales-de-la-accion-preventi.webp -->
+<!-- VISUAL:t25-10-principios-generales-de-la-accion-preventi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-10-principios-generales-de-la-accion-preventi.webp" alt="Principios generales de la acción preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Principios generales de la acción preventiva.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -160,7 +200,11 @@ La prevención debe integrarse en el sistema general de gestión, en todas las a
 - La dirección debe aprobar la política preventiva y la organización debe asumirla en su actividad ordinaria.
 - La mera existencia documental del plan no demuestra integración si decisiones y tareas reales ignoran la prevención.
 
-<!-- VISUAL PENDIENTE: t25-11-integracion-y-plan-de-prevencion.webp -->
+<!-- VISUAL:t25-11-integracion-y-plan-de-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-11-integracion-y-plan-de-prevencion.webp" alt="Integración y plan de prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Integración y plan de prevención.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -174,7 +218,11 @@ La evaluación inicial abarca los riesgos que no hayan podido evitarse y conside
 - Debe actualizarse cuando cambien las condiciones de trabajo y revisarse cuando se produzcan daños para la salud.
 - Los controles periódicos permiten detectar situaciones potencialmente peligrosas y comprobar si las medidas siguen siendo adecuadas.
 
-<!-- VISUAL PENDIENTE: t25-12-evaluacion-inicial-y-actualizacion.webp -->
+<!-- VISUAL:t25-12-evaluacion-inicial-y-actualizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-12-evaluacion-inicial-y-actualizacion.webp" alt="Evaluación inicial y actualización" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación inicial y actualización.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -188,7 +236,11 @@ Cuando la evaluación revela riesgos, deben planificarse actividades preventivas
 - Cuando se produce un daño o aparecen indicios de insuficiencia preventiva, deben investigarse las causas.
 - Investigar el daño no sustituye la evaluación: aporta información para corregir causas y revisar el sistema.
 
-<!-- VISUAL PENDIENTE: t25-13-planificacion-e-investigacion-de-danos.webp -->
+<!-- VISUAL:t25-13-planificacion-e-investigacion-de-danos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-13-planificacion-e-investigacion-de-danos.webp" alt="Planificación e investigación de daños" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación e investigación de daños.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -202,7 +254,11 @@ Los equipos de trabajo deben ser adecuados para la tarea y convenientemente adap
 - Deben proporcionarse equipos de protección individual adecuados y velarse por su uso efectivo cuando sean necesarios.
 - El EPI procede cuando el riesgo no puede evitarse o limitarse suficientemente mediante protección colectiva u organización del trabajo.
 
-<!-- VISUAL PENDIENTE: t25-14-equipos-de-trabajo-y-proteccion-individual.webp -->
+<!-- VISUAL:t25-14-equipos-de-trabajo-y-proteccion-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-14-equipos-de-trabajo-y-proteccion-individual.webp" alt="Equipos de trabajo y protección individual" width="820">
+</p>
+<p align="center"><em>Infografía: Equipos de trabajo y protección individual.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -216,7 +272,11 @@ La información debe cubrir riesgos generales de la empresa y riesgos específic
 - Con representantes, la información general puede canalizarse a través de ellos, pero cada persona recibe directamente la de sus riesgos específicos.
 - Informar no equivale a formar: la información comunica riesgos y medidas, mientras la formación desarrolla capacidades para actuar.
 
-<!-- VISUAL PENDIENTE: t25-15-informacion-preventiva.webp -->
+<!-- VISUAL:t25-15-informacion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-15-informacion-preventiva.webp" alt="Información preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Información preventiva.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -230,7 +290,11 @@ El empresario debe consultar con la debida antelación decisiones que puedan afe
 - Cuando existen representantes, la consulta se realiza con ellos conforme a los cauces legales.
 - La consulta previa no convierte al órgano representativo en quien adopta la decisión empresarial o administrativa.
 
-<!-- VISUAL PENDIENTE: t25-16-consulta-y-participacion.webp -->
+<!-- VISUAL:t25-16-consulta-y-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-16-consulta-y-participacion.webp" alt="Consulta y participación" width="820">
+</p>
+<p align="center"><em>Infografía: Consulta y participación.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -244,7 +308,11 @@ Cada persona debe recibir formación teórica y práctica suficiente y adecuada 
 - Se impartirá siempre que sea posible dentro de la jornada; fuera de ella se descuenta el tiempo invertido.
 - Su coste no puede recaer sobre la persona trabajadora, aunque la formación se concierte externamente.
 
-<!-- VISUAL PENDIENTE: t25-17-formacion-preventiva.webp -->
+<!-- VISUAL:t25-17-formacion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-17-formacion-preventiva.webp" alt="Formación preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Formación preventiva.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -258,7 +326,11 @@ La planificación de emergencias considera tamaño, actividad y posible presenci
 - El funcionamiento de las medidas debe comprobarse periódicamente.
 - Deben organizarse relaciones con servicios externos que garanticen rapidez y eficacia en asistencia, salvamento y lucha contra incendios.
 
-<!-- VISUAL PENDIENTE: t25-18-medidas-de-emergencia.webp -->
+<!-- VISUAL:t25-18-medidas-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-18-medidas-de-emergencia.webp" alt="Medidas de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas de emergencia.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -272,7 +344,11 @@ Ante riesgo grave e inminente debe informarse lo antes posible a las personas af
 - La persona trabajadora puede interrumpir su actividad y abandonar el lugar cuando considere que existe riesgo grave e inminente para su vida o salud.
 - Quienes actúen conforme a este régimen no pueden sufrir perjuicio salvo mala fe o negligencia grave.
 
-<!-- VISUAL PENDIENTE: t25-19-riesgo-grave-e-inminente-y-paralizacion.webp -->
+<!-- VISUAL:t25-19-riesgo-grave-e-inminente-y-paralizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-19-riesgo-grave-e-inminente-y-paralizacion.webp" alt="Riesgo grave e inminente y paralización" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo grave e inminente y paralización.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -286,7 +362,11 @@ La vigilancia periódica del estado de salud debe realizarse en función de los 
 - Deben respetarse intimidad, dignidad y confidencialidad y los resultados se comunican a la persona afectada.
 - La empresa recibe conclusiones sobre aptitud o necesidad de medidas, no datos médicos personales sin consentimiento.
 
-<!-- VISUAL PENDIENTE: t25-20-vigilancia-de-la-salud.webp -->
+<!-- VISUAL:t25-20-vigilancia-de-la-salud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-20-vigilancia-de-la-salud.webp" alt="Vigilancia de la salud" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -300,7 +380,11 @@ Debe conservarse documentación del plan, evaluación, planificación, controles
 - Cuando coinciden varias empresas en un centro, deben cooperar y establecer medios de coordinación preventiva.
 - El titular del centro informa e instruye sobre riesgos y emergencias, y la empresa principal vigila a contratistas de su propia actividad en los supuestos legales.
 
-<!-- VISUAL PENDIENTE: t25-21-documentacion-notificacion-y-coordinacion.webp -->
+<!-- VISUAL:t25-21-documentacion-notificacion-y-coordinacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-21-documentacion-notificacion-y-coordinacion.webp" alt="Documentación, notificación y coordinación" width="820">
+</p>
+<p align="center"><em>Infografía: Documentación, notificación y coordinación.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -314,7 +398,11 @@ La protección debe considerar características personales, estado biológico co
 - Deben considerarse factores de riesgo que puedan afectar a la función de procreación.
 - La especial sensibilidad exige adaptar prevención y puesto; no autoriza discriminación ni divulgación de datos de salud.
 
-<!-- VISUAL PENDIENTE: t25-22-personas-especialmente-sensibles.webp -->
+<!-- VISUAL:t25-22-personas-especialmente-sensibles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-22-personas-especialmente-sensibles.webp" alt="Personas especialmente sensibles" width="820">
+</p>
+<p align="center"><em>Infografía: Personas especialmente sensibles.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -328,7 +416,11 @@ La evaluación debe determinar riesgos para embarazo o lactancia y, si existen, 
 - Quienes tienen relaciones temporales o de duración determinada disfrutan del mismo nivel de protección que el resto.
 - La empresa usuaria responde de las condiciones de ejecución del trabajo del personal puesto a disposición por una ETT.
 
-<!-- VISUAL PENDIENTE: t25-23-maternidad-menores-y-relaciones-temporales.webp -->
+<!-- VISUAL:t25-23-maternidad-menores-y-relaciones-temporales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-23-maternidad-menores-y-relaciones-temporales.webp" alt="Maternidad, menores y relaciones temporales" width="820">
+</p>
+<p align="center"><em>Infografía: Maternidad, menores y relaciones temporales.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -342,7 +434,11 @@ Cada persona debe velar, según sus posibilidades, por su seguridad y por la de 
 - Debe informar de inmediato de situaciones que razonablemente entrañen riesgo y contribuir al cumplimiento de obligaciones preventivas.
 - El incumplimiento puede constituir incumplimiento laboral o falta disciplinaria, pero no elimina el deber de protección empresarial o administrativo.
 
-<!-- VISUAL PENDIENTE: t25-24-obligaciones-de-las-personas-trabajadoras.webp -->
+<!-- VISUAL:t25-24-obligaciones-de-las-personas-trabajadoras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-24-obligaciones-de-las-personas-trabajadoras.webp" alt="Obligaciones de las personas trabajadoras" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de las personas trabajadoras.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -356,7 +452,11 @@ El deber preventivo se organiza mediante recursos propios, personas designadas o
 - El incumplimiento puede generar responsabilidades administrativas y, en su caso, penales y civiles por daños y perjuicios.
 - Las responsabilidades pueden ser compatibles entre sí y el coste preventivo nunca se repercute a las personas protegidas.
 
-<!-- VISUAL PENDIENTE: t25-25-organizacion-responsabilidades-y-coste.webp -->
+<!-- VISUAL:t25-25-organizacion-responsabilidades-y-coste.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-25-organizacion-responsabilidades-y-coste.webp" alt="Organización, responsabilidades y coste" width="820">
+</p>
+<p align="center"><em>Infografía: Organización, responsabilidades y coste.</em></p>
 
 <!-- FUENTE: LPRL-T25 -->
 
@@ -370,7 +470,11 @@ La integración preventiva alcanza procesos técnicos, organización del trabajo
 - El documento identifica empresa, centros, estructura, producción, modalidad preventiva, órganos de representación, política, objetivos y recursos.
 - Evaluación y planificación son los instrumentos esenciales para aplicar el plan.
 
-<!-- VISUAL PENDIENTE: t25-26-integracion-y-contenido-del-plan-en-el-rd-.webp -->
+<!-- VISUAL:t25-26-integracion-y-contenido-del-plan-en-el-rd-.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-26-integracion-y-contenido-del-plan-en-el-rd-.webp" alt="Integración y contenido del plan en el RD 39/1997" width="820">
+</p>
+<p align="center"><em>Infografía: Integración y contenido del plan en el RD 39/1997.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -384,7 +488,11 @@ La evaluación estima la magnitud de los riesgos inevitables para decidir medida
 - Debe incluir mediciones, análisis o ensayos cuando sean necesarios y utilizar procedimientos que proporcionen confianza sobre el resultado.
 - En caso de duda se adoptan medidas preventivas más favorables desde el punto de vista de la prevención.
 
-<!-- VISUAL PENDIENTE: t25-27-contenido-general-de-la-evaluacion.webp -->
+<!-- VISUAL:t25-27-contenido-general-de-la-evaluacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-27-contenido-general-de-la-evaluacion.webp" alt="Contenido general de la evaluación" width="820">
+</p>
+<p align="center"><em>Infografía: Contenido general de la evaluación.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -398,7 +506,11 @@ La evaluación se revisa cuando lo exige una disposición específica y cuando s
 - La documentación identifica puesto, riesgos, personas afectadas, resultado, medidas procedentes y criterios o métodos utilizados.
 - Documentar el resultado permite comprobar el fundamento técnico y la evolución de las medidas.
 
-<!-- VISUAL PENDIENTE: t25-28-revision-y-documentacion-de-la-evaluacion.webp -->
+<!-- VISUAL:t25-28-revision-y-documentacion-de-la-evaluacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-28-revision-y-documentacion-de-la-evaluacion.webp" alt="Revisión y documentación de la evaluación" width="820">
+</p>
+<p align="center"><em>Infografía: Revisión y documentación de la evaluación.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -412,7 +524,11 @@ La actividad preventiva se planifica cuando la evaluación pone de manifiesto si
 - La actividad se programa para un período determinado, con fases, prioridades y seguimiento según la magnitud y número de personas expuestas.
 - Si el período supera un año debe establecerse un programa anual de actividades.
 
-<!-- VISUAL PENDIENTE: t25-29-planificacion-de-la-actividad-preventiva.webp -->
+<!-- VISUAL:t25-29-planificacion-de-la-actividad-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-29-planificacion-de-la-actividad-preventiva.webp" alt="Planificación de la actividad preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de la actividad preventiva.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -426,7 +542,11 @@ Las modalidades son asunción personal por el empresario, designación de person
 - La vigilancia de la salud exige recursos sanitarios competentes y no puede ser asumida personalmente por el empresario.
 - Organizar recursos no sustituye la obligación de integrar la prevención en decisiones y mandos.
 
-<!-- VISUAL PENDIENTE: t25-30-modalidades-de-organizacion-preventiva.webp -->
+<!-- VISUAL:t25-30-modalidades-de-organizacion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-30-modalidades-de-organizacion-preventiva.webp" alt="Modalidades de organización preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Modalidades de organización preventiva.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -440,7 +560,11 @@ El empresario puede asumir personalmente la actividad preventiva en empresas de 
 - El empresario debe tener capacidad correspondiente a las funciones preventivas que vaya a desarrollar.
 - La vigilancia de la salud y las actividades no asumidas deben cubrirse mediante otras modalidades.
 
-<!-- VISUAL PENDIENTE: t25-31-asuncion-personal-por-el-empresario.webp -->
+<!-- VISUAL:t25-31-asuncion-personal-por-el-empresario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-31-asuncion-personal-por-el-empresario.webp" alt="Asunción personal por el empresario" width="820">
+</p>
+<p align="center"><em>Infografía: Asunción personal por el empresario.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -454,7 +578,11 @@ Pueden designarse una o varias personas trabajadoras para ocuparse de la activid
 - No es obligatoria la designación si el empresario asume legítimamente la actividad, constituye servicio propio o recurre a servicio ajeno.
 - Las personas designadas deben colaborar entre sí y, cuando proceda, con los servicios de prevención.
 
-<!-- VISUAL PENDIENTE: t25-32-personas-trabajadoras-designadas.webp -->
+<!-- VISUAL:t25-32-personas-trabajadoras-designadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-32-personas-trabajadoras-designadas.webp" alt="Personas trabajadoras designadas" width="820">
+</p>
+<p align="center"><em>Infografía: Personas trabajadoras designadas.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -468,7 +596,11 @@ Debe constituirse servicio propio en empresas con más de quinientas personas tr
 - La resolución de la autoridad laboral fija un plazo no superior a un año para constituirlo.
 - Hasta su constitución, las actividades no asumidas se conciertan externamente o se incorporan progresivamente con recursos suficientes.
 
-<!-- VISUAL PENDIENTE: t25-33-servicio-de-prevencion-propio-supuestos.webp -->
+<!-- VISUAL:t25-33-servicio-de-prevencion-propio-supuestos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-33-servicio-de-prevencion-propio-supuestos.webp" alt="Servicio de prevención propio: supuestos" width="820">
+</p>
+<p align="center"><em>Infografía: Servicio de prevención propio: supuestos.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -482,7 +614,11 @@ El servicio propio es una unidad organizativa específica cuyos integrantes dedi
 - Las actividades no asumidas por el servicio propio se conciertan con uno o más servicios ajenos.
 - La empresa elabora anualmente la memoria y programación del servicio y la mantiene a disposición de autoridades y del Comité.
 
-<!-- VISUAL PENDIENTE: t25-34-organizacion-del-servicio-propio.webp -->
+<!-- VISUAL:t25-34-organizacion-del-servicio-propio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-34-organizacion-del-servicio-propio.webp" alt="Organización del servicio propio" width="820">
+</p>
+<p align="center"><em>Infografía: Organización del servicio propio.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -496,7 +632,11 @@ Se recurre a servicio ajeno cuando la designación sea insuficiente y no exista 
 - El concierto debe identificar especialidades, actividades, centros, seguimiento, recursos, duración, condiciones económicas y actividades no cubiertas.
 - El servicio ajeno asesora a empresa, personas trabajadoras y representantes, pero el concierto no vacía el deber preventivo del titular.
 
-<!-- VISUAL PENDIENTE: t25-35-servicios-de-prevencion-ajenos.webp -->
+<!-- VISUAL:t25-35-servicios-de-prevencion-ajenos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-35-servicios-de-prevencion-ajenos.webp" alt="Servicios de prevención ajenos" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de prevención ajenos.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -510,7 +650,11 @@ Pueden constituirse para empresas que trabajan simultáneamente en un mismo cent
 - El servicio mancomunado se considera servicio propio de las empresas participantes.
 - Debe contar al menos con tres especialidades o disciplinas preventivas y con recursos humanos y materiales suficientes.
 
-<!-- VISUAL PENDIENTE: t25-36-servicios-de-prevencion-mancomunados.webp -->
+<!-- VISUAL:t25-36-servicios-de-prevencion-mancomunados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-36-servicios-de-prevencion-mancomunados.webp" alt="Servicios de prevención mancomunados" width="820">
+</p>
+<p align="center"><em>Infografía: Servicios de prevención mancomunados.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -524,7 +668,11 @@ La auditoría externa evalúa sistemática, documentada y objetivamente la efica
 - Con carácter general se repite cada cuatro años y cada dos años en actividades del anexo I, sin perjuicio de otros supuestos.
 - La auditoría debe ser realizada por personas o entidades autorizadas e independientes respecto de la empresa auditada.
 
-<!-- VISUAL PENDIENTE: t25-37-auditoria-del-sistema-preventivo.webp -->
+<!-- VISUAL:t25-37-auditoria-del-sistema-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-37-auditoria-del-sistema-preventivo.webp" alt="Auditoría del sistema preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Auditoría del sistema preventivo.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -538,7 +686,11 @@ La presencia es necesaria cuando los riesgos pueden agravarse o modificarse por 
 - Su misión es vigilar el cumplimiento y comprobar eficacia y adecuación de las actividades preventivas previstas.
 - Si detecta cumplimiento deficiente o medidas inadecuadas, formula indicaciones y comunica la situación para su corrección.
 
-<!-- VISUAL PENDIENTE: t25-38-presencia-de-recursos-preventivos.webp -->
+<!-- VISUAL:t25-38-presencia-de-recursos-preventivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-38-presencia-de-recursos-preventivos.webp" alt="Presencia de recursos preventivos" width="820">
+</p>
+<p align="center"><em>Infografía: Presencia de recursos preventivos.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -552,7 +704,11 @@ Las funciones preventivas se clasifican en nivel básico, intermedio y superior.
 - El nivel superior realiza evaluaciones complejas que exigen estrategias de medición o interpretación no mecánica y desarrolla formación general.
 - Las especialidades superiores son medicina del trabajo, seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada.
 
-<!-- VISUAL PENDIENTE: t25-39-niveles-de-funciones-preventivas.webp -->
+<!-- VISUAL:t25-39-niveles-de-funciones-preventivas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-39-niveles-de-funciones-preventivas.webp" alt="Niveles de funciones preventivas" width="820">
+</p>
+<p align="center"><em>Infografía: Niveles de funciones preventivas.</em></p>
 
 <!-- FUENTE: RSP-T25 -->
 
@@ -566,7 +722,11 @@ El Real Decreto 67/2010 adapta la Ley 31/1995 y el Reglamento de los Servicios d
 - Las actividades policiales cuyas particularidades impiden aplicar la ley general se rigen por su normativa específica.
 - Las funciones policiales no exclusivas quedan bajo la normativa general adaptada a la AGE y las peculiaridades del Real Decreto 2/2006.
 
-<!-- VISUAL PENDIENTE: t25-40-objeto-y-ambito-del-rd-67-2010.webp -->
+<!-- VISUAL:t25-40-objeto-y-ambito-del-rd-67-2010.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-40-objeto-y-ambito-del-rd-67-2010.webp" alt="Objeto y ámbito del RD 67/2010" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito del RD 67/2010.</em></p>
 
 <!-- FUENTE: RD67-2010-T25 -->
 
@@ -580,7 +740,11 @@ Cada departamento u organismo integra la prevención en su sistema general de ge
 - La Comisión Técnica de Prevención de Riesgos Laborales es el órgano específico de participación y negociación sindical en esta materia en la AGE.
 - Cuando existe más de un Comité pueden crearse Grupos Técnicos de Prevención en los términos acordados.
 
-<!-- VISUAL PENDIENTE: t25-41-integracion-y-participacion-en-la-age.webp -->
+<!-- VISUAL:t25-41-integracion-y-participacion-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-41-integracion-y-participacion-en-la-age.webp" alt="Integración y participación en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Integración y participación en la AGE.</em></p>
 
 <!-- FUENTE: RD67-2010-T25 -->
 
@@ -594,7 +758,11 @@ Los Delegados de Prevención se designan con carácter general por los represent
 - El Comité de Seguridad y Salud es paritario y colegiado y se constituye con carácter general en centros de cincuenta o más empleados públicos.
 - El Comité se reúne trimestralmente y siempre que lo solicite alguna de las representaciones.
 
-<!-- VISUAL PENDIENTE: t25-42-delegados-y-comites-en-la-age.webp -->
+<!-- VISUAL:t25-42-delegados-y-comites-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-42-delegados-y-comites-en-la-age.webp" alt="Delegados y Comités en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Delegados y Comités en la AGE.</em></p>
 
 <!-- FUENTE: RD67-2010-T25 -->
 
@@ -608,7 +776,11 @@ La AGE puede constituir servicio propio, designar empleados públicos o recurrir
 - Las funciones se clasifican en niveles básico, intermedio y superior conforme al Reglamento y la presencia de recursos se rige por sus reglas generales.
 - La Dirección General de la Función Pública coordina, sigue, promueve e impulsa la prevención en la AGE y los sistemas están sujetos a instrumentos de control.
 
-<!-- VISUAL PENDIENTE: t25-43-recursos-cualificacion-y-control-en-la-age.webp -->
+<!-- VISUAL:t25-43-recursos-cualificacion-y-control-en-la-age.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-43-recursos-cualificacion-y-control-en-la-age.webp" alt="Recursos, cualificación y control en la AGE" width="820">
+</p>
+<p align="center"><em>Infografía: Recursos, cualificación y control en la AGE.</em></p>
 
 <!-- FUENTE: RD67-2010-T25 -->
 
@@ -622,7 +794,11 @@ El Real Decreto 2/2006 promueve la seguridad y salud de funcionarios policiales 
 - La Unidad de Prevención de Riesgos Laborales y Protección Socio-Sanitaria está integrada en la Subdirección General de Recursos Humanos y Formación.
 - De esa Unidad dependen el Área de Coordinación de Prevención de Riesgos Laborales y el Área Sanitaria.
 
-<!-- VISUAL PENDIENTE: t25-44-objeto-ambito-y-estructura-vigente-policia.webp -->
+<!-- VISUAL:t25-44-objeto-ambito-y-estructura-vigente-policia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-44-objeto-ambito-y-estructura-vigente-policia.webp" alt="Objeto, ámbito y estructura vigente policial" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto, ámbito y estructura vigente policial.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -636,7 +812,11 @@ Los funcionarios policiales tienen derecho a protección eficaz, información, f
 - Debe adaptar trabajo y equipos al funcionario, considerar la evolución técnica y priorizar protección colectiva sobre individual.
 - Los métodos y dispositivos de servicio incorporarán siempre que sea posible previsiones adecuadas de seguridad y salud.
 
-<!-- VISUAL PENDIENTE: t25-45-derecho-y-principios-preventivos-policiale.webp -->
+<!-- VISUAL:t25-45-derecho-y-principios-preventivos-policiale.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-45-derecho-y-principios-preventivos-policiale.webp" alt="Derecho y principios preventivos policiales" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho y principios preventivos policiales.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -650,7 +830,11 @@ La prevención policial se integra en el sistema general de gestión mediante un
 - También se evalúa al elegir equipos, sustancias o preparados y al acondicionar lugares de trabajo.
 - La evaluación se revisa cada cuatro años y además tras daños, nuevos equipos con riesgos no contemplados o inadecuación protectora.
 
-<!-- VISUAL PENDIENTE: t25-46-plan-evaluacion-y-revision-policial.webp -->
+<!-- VISUAL:t25-46-plan-evaluacion-y-revision-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-46-plan-evaluacion-y-revision-policial.webp" alt="Plan, evaluación y revisión policial" width="820">
+</p>
+<p align="center"><em>Infografía: Plan, evaluación y revisión policial.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -664,7 +848,11 @@ Los equipos policiales deben ser adecuados para las tareas y garantizar segurida
 - La información puede facilitarse directamente o a través de los representantes previstos.
 - Los funcionarios pueden efectuar propuestas individualmente por superiores jerárquicos o mediante los cauces de representación.
 
-<!-- VISUAL PENDIENTE: t25-47-equipos-informacion-y-participacion-polici.webp -->
+<!-- VISUAL:t25-47-equipos-informacion-y-participacion-polici.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-47-equipos-informacion-y-participacion-polici.webp" alt="Equipos, información y participación policial" width="820">
+</p>
+<p align="center"><em>Infografía: Equipos, información y participación policial.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -678,7 +866,11 @@ La formación preventiva policial debe ser teórica y práctica, suficiente y ad
 - La Dirección General analiza emergencias en edificios e instalaciones y adopta medidas de evacuación, incendios y primeros auxilios.
 - El personal de emergencia debe ser adecuado, formado, equipado y sometido a comprobaciones periódicas de funcionamiento.
 
-<!-- VISUAL PENDIENTE: t25-48-formacion-y-emergencias-policiales.webp -->
+<!-- VISUAL:t25-48-formacion-y-emergencias-policiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-48-formacion-y-emergencias-policiales.webp" alt="Formación y emergencias policiales" width="820">
+</p>
+<p align="center"><em>Infografía: Formación y emergencias policiales.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -692,7 +884,11 @@ La Dirección General garantiza vigilancia periódica en función de los riesgos
 - Se respetan intimidad, dignidad y confidencialidad y los resultados se comunican a las personas afectadas.
 - Los responsables reciben conclusiones sobre aptitud o mejoras preventivas, no información médica personal sin consentimiento.
 
-<!-- VISUAL PENDIENTE: t25-49-vigilancia-de-la-salud-policial.webp -->
+<!-- VISUAL:t25-49-vigilancia-de-la-salud-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-49-vigilancia-de-la-salud-policial.webp" alt="Vigilancia de la salud policial" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud policial.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -706,7 +902,11 @@ Gestación, maternidad y lactancia reciben protección adecuada para la funciona
 - Cada funcionario debe velar por su seguridad y la de terceros, usar correctamente medios y protección y no inutilizar dispositivos.
 - Debe informar de inmediato a su superior directo o al servicio de prevención de riesgos razonables y cooperar para garantizar condiciones seguras.
 
-<!-- VISUAL PENDIENTE: t25-50-maternidad-y-obligaciones-policiales.webp -->
+<!-- VISUAL:t25-50-maternidad-y-obligaciones-policiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-50-maternidad-y-obligaciones-policiales.webp" alt="Maternidad y obligaciones policiales" width="820">
+</p>
+<p align="center"><em>Infografía: Maternidad y obligaciones policiales.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -720,7 +920,11 @@ Los Delegados de Prevención son funcionarios en activo o segunda actividad desi
 - La Comisión de Seguridad y Salud Laboral Policial es el órgano nacional paritario y colegiado; los Comités son órganos territoriales paritarios.
 - La Comisión se reúne al menos semestralmente y los Comités trimestralmente; en cada Jefatura Superior y servicios centrales existe Comité.
 
-<!-- VISUAL PENDIENTE: t25-51-delegados-comision-y-comites-policiales.webp -->
+<!-- VISUAL:t25-51-delegados-comision-y-comites-policiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-51-delegados-comision-y-comites-policiales.webp" alt="Delegados, Comisión y Comités policiales" width="820">
+</p>
+<p align="center"><em>Infografía: Delegados, Comisión y Comités policiales.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
@@ -734,7 +938,11 @@ El Real Decreto 2/2006 configura un servicio de prevención propio, de ámbito n
 - El sistema policial se controla mediante auditorías y evaluaciones cada cinco años por la Inspección de Personal y Servicios de Seguridad.
 - La estructura vigente sitúa la Unidad de Prevención de Riesgos Laborales y Protección Socio-Sanitaria en la Subdirección General de Recursos Humanos y Formación.
 
-<!-- VISUAL PENDIENTE: t25-52-servicio-de-prevencion-y-control-policial.webp -->
+<!-- VISUAL:t25-52-servicio-de-prevencion-y-control-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-25/t25-52-servicio-de-prevencion-y-control-policial.webp" alt="Servicio de prevención y control policial" width="820">
+</p>
+<p align="center"><em>Infografía: Servicio de prevención y control policial.</em></p>
 
 <!-- FUENTE: RD2-2006-T25 -->
 
