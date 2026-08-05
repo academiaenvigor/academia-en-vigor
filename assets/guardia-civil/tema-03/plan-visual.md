@@ -1,0 +1,42 @@
+# Plan visual · Tema 3
+
+- `t03-01-alcance-oficial-y-jerarquia-normativa.webp` — Alcance oficial y jerarquía normativa
+- `t03-02-objeto-caracter-ambito-y-exclusiones-de-la-lprl.webp` — Objeto, carácter, ámbito y exclusiones de la LPRL
+- `t03-03-definiciones-nucleares-de-prevencion-y-riesgo.webp` — Definiciones nucleares de prevención y riesgo
+- `t03-04-definiciones-de-procesos-equipos-condiciones-y-epi.webp` — Definiciones de procesos, equipos, condiciones y EPI
+- `t03-05-politica-preventiva-y-potestad-reglamentaria.webp` — Política preventiva y potestad reglamentaria
+- `t03-06-administraciones-laborales-e-insst.webp` — Administraciones laborales e INSST
+- `t03-07-inspeccion-de-trabajo-sanidad-y-coordinacion.webp` — Inspección de Trabajo, sanidad y coordinación
+- `t03-08-participacion-institucional-y-comision-nacional.webp` — Participación institucional y Comisión Nacional
+- `t03-09-derecho-de-proteccion-y-principios-de-accion-preventiva.webp` — Derecho de protección y principios de acción preventiva
+- `t03-10-plan-evaluacion-y-planificacion-preventiva.webp` — Plan, evaluación y planificación preventiva
+- `t03-11-equipos-informacion-y-formacion.webp` — Equipos, información y formación
+- `t03-12-emergencias-y-riesgo-grave-e-inminente.webp` — Emergencias y riesgo grave e inminente
+- `t03-13-vigilancia-de-la-salud-y-documentacion.webp` — Vigilancia de la salud y documentación
+- `t03-14-coordinacion-de-actividades-empresariales.webp` — Coordinación de actividades empresariales
+- `t03-15-sensibilidad-especial-maternidad-y-menores.webp` — Sensibilidad especial, maternidad y menores
+- `t03-16-relaciones-temporales-y-obligaciones-del-trabajador.webp` — Relaciones temporales y obligaciones del trabajador
+- `t03-17-fabricantes-importadores-y-suministradores.webp` — Fabricantes, importadores y suministradores
+- `t03-18-responsabilidades-y-requerimiento-inspector.webp` — Responsabilidades y requerimiento inspector
+- `t03-19-paralizacion-de-trabajos-e-impugnacion.webp` — Paralización de trabajos e impugnación
+- `t03-20-infracciones-y-preceptos-derogados-del-capitulo-vii.webp` — Infracciones y preceptos derogados del capítulo VII
+- `t03-21-suspension-cierre-y-contratacion-publica.webp` — Suspensión, cierre y contratación pública
+- `t03-22-objeto-y-ambito-del-real-decreto-67-2010.webp` — Objeto y ámbito del Real Decreto 67/2010
+- `t03-23-integracion-y-contenido-del-plan-en-la-age.webp` — Integración y contenido del plan en la AGE
+- `t03-24-participacion-y-delegados-de-prevencion-en-la-age.webp` — Participación y Delegados de Prevención en la AGE
+- `t03-25-comite-de-seguridad-y-salud-de-la-age.webp` — Comité de Seguridad y Salud de la AGE
+- `t03-26-servicios-de-prevencion-en-la-age.webp` — Servicios de Prevención en la AGE
+- `t03-27-funciones-y-niveles-de-cualificacion.webp` — Funciones y niveles de cualificación
+- `t03-28-recursos-preventivos-coordinacion-y-control-externo.webp` — Recursos preventivos, coordinación y control externo
+- `t03-29-direccion-general-de-la-funcion-publica-y-disposiciones-age.webp` — Dirección General de la Función Pública y disposiciones AGE
+- `t03-30-objeto-y-ambito-especifico-de-guardia-civil.webp` — Objeto y ámbito específico de Guardia Civil
+- `t03-31-objetivo-y-principios-de-accion-preventiva-en-guardia-civil.webp` — Objetivo y principios de acción preventiva en Guardia Civil
+- `t03-32-integracion-evaluacion-y-planes-de-emergencia-en-guardia-civil.webp` — Integración, evaluación y planes de emergencia en Guardia Civil
+- `t03-33-vigilancia-de-la-salud-tras-la-reforma-de-2026.webp` — Vigilancia de la salud tras la reforma de 2026
+- `t03-34-informacion-participacion-y-formacion-en-guardia-civil.webp` — Información, participación y formación en Guardia Civil
+- `t03-35-maternidad-y-obligaciones-de-la-administracion-en-guardia-civil.webp` — Maternidad y obligaciones de la Administración en Guardia Civil
+- `t03-36-obligaciones-del-personal-de-guardia-civil.webp` — Obligaciones del personal de Guardia Civil
+- `t03-37-organos-de-prevencion-de-guardia-civil.webp` — Órganos de prevención de Guardia Civil
+- `t03-38-consejo-inspeccion-y-control-preventivo.webp` — Consejo, inspección y control preventivo
+- `t03-39-procedimiento-de-medidas-correctoras.webp` — Procedimiento de medidas correctoras
+- `t03-40-disposiciones-del-real-decreto-179-2005.webp` — Disposiciones del Real Decreto 179/2005

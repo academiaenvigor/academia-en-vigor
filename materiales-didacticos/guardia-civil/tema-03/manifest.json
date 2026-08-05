@@ -1,0 +1,113 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-03",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada_sin_produccion_grafica",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-03",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-GC-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "GC-T03-PARTE-1",
+      "number": 1,
+      "title": "Ley 31/1995: marco, política y garantías",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "anchor_blocks": [
+        1,
+        10
+      ]
+    },
+    {
+      "id": "GC-T03-PARTE-2",
+      "number": 2,
+      "title": "Ley 31/1995: actuación ante riesgos y colectivos protegidos",
+      "blocks": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "anchor_blocks": [
+        11,
+        21
+      ]
+    },
+    {
+      "id": "GC-T03-PARTE-3",
+      "number": 3,
+      "title": "Adaptación preventiva a la Administración General del Estado",
+      "blocks": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "anchor_blocks": [
+        22,
+        29
+      ]
+    },
+    {
+      "id": "GC-T03-PARTE-4",
+      "number": 4,
+      "title": "Prevención específica en la Guardia Civil",
+      "blocks": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "anchor_blocks": [
+        30,
+        40
+      ]
+    }
+  ],
+  "resources": []
+}

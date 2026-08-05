@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 3,
+  "topic_title": "Prevención de riesgos laborales",
+  "id_prefix": "GC-T03",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-03/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-03/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y jerarquía normativa"
+      },
+      {
+        "number": 2,
+        "title": "Objeto, carácter, ámbito y exclusiones de la LPRL"
+      },
+      {
+        "number": 3,
+        "title": "Definiciones nucleares de prevención y riesgo"
+      },
+      {
+        "number": 4,
+        "title": "Definiciones de procesos, equipos, condiciones y EPI"
+      },
+      {
+        "number": 5,
+        "title": "Política preventiva y potestad reglamentaria"
+      },
+      {
+        "number": 6,
+        "title": "Administraciones laborales e INSST"
+      },
+      {
+        "number": 7,
+        "title": "Inspección de Trabajo, sanidad y coordinación"
+      },
+      {
+        "number": 8,
+        "title": "Participación institucional y Comisión Nacional"
+      },
+      {
+        "number": 9,
+        "title": "Derecho de protección y principios de acción preventiva"
+      },
+      {
+        "number": 10,
+        "title": "Plan, evaluación y planificación preventiva"
+      },
+      {
+        "number": 11,
+        "title": "Equipos, información y formación"
+      },
+      {
+        "number": 12,
+        "title": "Emergencias y riesgo grave e inminente"
+      },
+      {
+        "number": 13,
+        "title": "Vigilancia de la salud y documentación"
+      },
+      {
+        "number": 14,
+        "title": "Coordinación de actividades empresariales"
+      },
+      {
+        "number": 15,
+        "title": "Sensibilidad especial, maternidad y menores"
+      },
+      {
+        "number": 16,
+        "title": "Relaciones temporales y obligaciones del trabajador"
+      },
+      {
+        "number": 17,
+        "title": "Fabricantes, importadores y suministradores"
+      },
+      {
+        "number": 18,
+        "title": "Responsabilidades y requerimiento inspector"
+      },
+      {
+        "number": 19,
+        "title": "Paralización de trabajos e impugnación"
+      },
+      {
+        "number": 20,
+        "title": "Infracciones y preceptos derogados del capítulo VII"
+      },
+      {
+        "number": 21,
+        "title": "Suspensión, cierre y contratación pública"
+      },
+      {
+        "number": 22,
+        "title": "Objeto y ámbito del Real Decreto 67/2010"
+      },
+      {
+        "number": 23,
+        "title": "Integración y contenido del plan en la AGE"
+      },
+      {
+        "number": 24,
+        "title": "Participación y Delegados de Prevención en la AGE"
+      },
+      {
+        "number": 25,
+        "title": "Comité de Seguridad y Salud de la AGE"
+      },
+      {
+        "number": 26,
+        "title": "Servicios de Prevención en la AGE"
+      },
+      {
+        "number": 27,
+        "title": "Funciones y niveles de cualificación"
+      },
+      {
+        "number": 28,
+        "title": "Recursos preventivos, coordinación y control externo"
+      },
+      {
+        "number": 29,
+        "title": "Dirección General de la Función Pública y disposiciones AGE"
+      },
+      {
+        "number": 30,
+        "title": "Objeto y ámbito específico de Guardia Civil"
+      },
+      {
+        "number": 31,
+        "title": "Objetivo y principios de acción preventiva en Guardia Civil"
+      },
+      {
+        "number": 32,
+        "title": "Integración, evaluación y planes de emergencia en Guardia Civil"
+      },
+      {
+        "number": 33,
+        "title": "Vigilancia de la salud tras la reforma de 2026"
+      },
+      {
+        "number": 34,
+        "title": "Información, participación y formación en Guardia Civil"
+      },
+      {
+        "number": 35,
+        "title": "Maternidad y obligaciones de la Administración en Guardia Civil"
+      },
+      {
+        "number": 36,
+        "title": "Obligaciones del personal de Guardia Civil"
+      },
+      {
+        "number": 37,
+        "title": "Órganos de prevención de Guardia Civil"
+      },
+      {
+        "number": 38,
+        "title": "Consejo, inspección y control preventivo"
+      },
+      {
+        "number": 39,
+        "title": "Procedimiento de medidas correctoras"
+      },
+      {
+        "number": 40,
+        "title": "Disposiciones del Real Decreto 179/2005"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Ley 31/1995: marco, política y garantías",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Ley 31/1995: actuación ante riesgos y colectivos protegidos",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Adaptación preventiva a la Administración General del Estado",
+        "blocks": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Prevención específica en la Guardia Civil",
+        "blocks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

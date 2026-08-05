@@ -1,0 +1,893 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 3,
+  "titulo": "Prevención de riesgos laborales",
+  "generated_at": "2026-08-05",
+  "mapping_method": "manual_editorial_review_with_official_key",
+  "mapping_status": "verified",
+  "answer_status": "official_final_answer_key",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "show_answer": true,
+    "show_feedback": true,
+    "never_present_as_unverified": true
+  },
+  "aviso": "Las 40 apariciones proceden de cuadernillos y plantillas finales verificadas; se conserva la trazabilidad por examen y hecho.",
+  "total_referencias": 40,
+  "con_bloque_asignado": 40,
+  "con_respuesta_verificada": 40,
+  "por_bloque": {
+    "4": 3,
+    "12": 1,
+    "37": 5,
+    "8": 5,
+    "24": 4,
+    "22": 2,
+    "38": 2,
+    "26": 2,
+    "18": 2,
+    "34": 2,
+    "20": 2,
+    "5": 1,
+    "23": 1,
+    "28": 3,
+    "27": 1,
+    "32": 1,
+    "9": 1,
+    "30": 1,
+    "29": 1
+  },
+  "por_promocion": {
+    "2020": 6,
+    "2021": 6,
+    "2022": 7,
+    "2023": 6,
+    "2024": 9,
+    "2025": 3,
+    "2026": 3
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q011",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 11,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T03-F020"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Definiciones. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q012",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 12,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T03-F058"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Cuando los trabajadores estén o puedan estar expuestos a un riesgo grave e inminente con ocasión de su trabajo, el empresario estará obligado a una serie de medidas específicas. ¿Cuál de las siguientes NO es una de ellas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q013",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 13,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T03-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. Órganos de prevención. El nivel orgánico de cada uno de los órganos de prevención se determinará mediante:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q011",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 11,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T03-F037"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. ¿Cuál es el órgano colegiado asesor de las Administraciones públicas para la formulación de las políticas de prevención y órgano de participación institucional en materia de seguridad y salud en el trabajo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q012",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 12,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T03-F119"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevencién de riesgos laborales a la Administración General del Estado. Además de cuando lo solicite alguna de las representaciones en el mismo, ¿con que frecuencia se reunirá el Comité de Seguridad y Salud?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q013",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 13,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T03-F185"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardía Civil.,Cual/es de los siguientes órganos de prevencién está/n constituido/s en la Direccion General de la Guardía Civil?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q014",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 14,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T03-F038"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. ¿Qué número de representantes de cada una de las Comunidades Autónomas integran la Comisión Nacional de Seguridad y Salud en el Trabajo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q015",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 15,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T03-F108"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. El Plan de Prevención de Riesgos Laborales habrá de reflejarse en un documento que se conservará a disposición de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q016",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 16,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T03-F188"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. Inspección y control. ¿A quién le corresponde realizar las funciones de inspección y control externo de las actividades de los órganos de prevención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q013",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 13,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T03-F018"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Se entenderá como________________ cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q014",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 14,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T03-F039"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. ¿Cuál NO es una de las formas en que funcionará la Comisión Nacional de Seguridad y Salud en el Trabajo conforme a la normativa que establezca el Reglamento interno que elaborará la propia Comisión?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q015",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 15,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T03-F126"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. Funciones y niveles de cualificación. ¿Cuál NO es uno de los grupos en que se clasifican las funciones del personal que lleve a cabo las tareas de prevención de riesgos laborales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q014",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 14,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T03-F116"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. ¿Cuál es el órgano paritario y colegiado de participación, destinado a la consulta regular y periódica de las actuaciones de la Administración General del Estado y de los organismos públicos incluidos en el ámbito de aplicación de este Real Decreto, en materia de prevención de riesgos laborales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q015",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 15,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T03-F185"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. ¿Cuál NO es un órgano de prevención de los constituidos en la Dirección General de la Guardia Civil?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q013",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 13,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T03-F088"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Cuando el Inspector de Trabajo y Seguridad Social, ordene la paralización inmediata de los trabajos en una empresa por existir un riesgo grave e inminente para la seguridad y la salud de los trabajadores, ¿en qué plazo podrá impugnar la empresa dicha decisión ante la autoridad laboral?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q014",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 14,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T03-F168"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. ¿A qué órganos podrá efectuar propuestas dirigidas a la mejora de los niveles de protección de la seguridad y la salud, el personal incluido en el ámbito de aplicación de este Real Decreto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q013",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 13,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T03-F096"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Cuando concurran circunstancias de excepcional gravedad en las infracciones en materia de seguridad y salud en el trabajo, ¿quién podrá acordar la suspensión de las actividades laborales por un tiempo determinado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q014",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 14,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T03-F120"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. Los Departamentos y organismos públicos que cuenten con varios centros de trabajo dotados de Comité de Seguridad y Salud podrán acordar con su personal la creación de ____________________, con las funciones que el acuerdo le atribuya.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q015",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 15,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T03-F188"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. Cuando la Inspección de Personal y Servicios de Seguridad de la Secretaría de Estado de Seguridad emita una propuesta de medidas para subsanar irregularidades en materia de riesgos profesionales, ¿en qué plazo de tiempo desde la notificación, podrá formular alegaciones el Director General de la Guardia Civil a través del Servicio de Prevención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q013",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 13,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T03-F024"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. ¿Quién regulará los procedimientos de evaluación de los riesgos para la salud de los trabajadores, normalización de metodologías y guías de actuación preventiva?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q014",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 14,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T03-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. ¿Quién acreditará de forma individualizada a los Delegados de Prevención, con la finalidad de facilitar el desempeño de sus tareas, una vez comunicado su nombramiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q015",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 15,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T03-F136"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. ¿Qué órgano asumirá la interlocución con las organizaciones sindicales representativas en el ámbito de aplicación del presente Real Decreto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q014",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 14,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T03-F089"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Cuando el Inspector de Trabajo y Seguridad Social, ordene la paralización inmediata de los trabajos en una empresa por existir un riesgo grave e inminente para la seguridad y la salud de los trabajadores y esta impugnase dicha decisión ante la autoridad laboral, ¿en qué plazo máximo deberá resolverse tal impugnación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q015",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 15,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T03-F133"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. Sin perjuicio de la regulación específica que a este respecto se establece, en el ámbito de la Administración General del Estado cada sistema de prevención deberá someterse a un control periódico externo cuya realización corresponderá a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q016",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 16,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T03-F181"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q015",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 15,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T03-F040"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Comisión Nacional de Seguridad y Salud en el Trabajo. La Comisión adoptará sus acuerdos por mayoría. A tal fin, ¿cuántos votos tendrán cada uno de los representantes de las organizaciones empresariales y sindicales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q016",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 16,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T03-F119"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. El Comité de Seguridad y Salud se reunirá_______________ y siempre que lo solicite alguna de las representaciones en el mismo.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q017",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 17,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T03-F157"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. ¿Cuáles son los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q015",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 15,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T03-F039"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Comisión Nacional de Seguridad y Salud en el Trabajo. ¿Con cuántos vicepresidentes contará la Comisión?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q016",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 16,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T03-F127"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. La especialidad de higiene industrial, ¿en qué grupo de funciones y niveles de cualificación se clasificará?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q017",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 17,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T03-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. ¿Cómo se determinarán los medios humanos y materiales y las funciones específicas de cada uno de los órganos de prevención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q015",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 15,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T03-F045"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Principios de la acción preventiva. ¿Cuál de los siguientes NO es uno de los principios generales con arreglo a los cuales el empresario aplicará las medidas que integran el deber general de prevención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q016",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 16,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T03-F137"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. ¿Quién ejerce la presidencia de la Comisión Técnica de Prevención de Riesgos Laborales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q017",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 17,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T03-F147"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. El contenido de este Real Decreto se inspira, entre otros, en los principios relativos a…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q016",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 16,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T03-F018"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Se entenderá como _____________________ cualquier característica del mismo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q017",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 17,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T03-F138"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. ¿Quién específicamente realizará funciones de coordinación general de la función de prevención en el ámbito de la Administración General del Estado, especialmente en lo que se refiere a la formación en esta materia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q018",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 18,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T03-F142"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. En relación con el objeto del Real Decreto, a tal efecto su contenido se inspira, entre otros, en el principio relativo a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q014",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 14,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T03-F097"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Prevención de Riesgos Laborales. Cuando concurran circunstancias de excepcional gravedad en las infracciones en materia de seguridad y salud en el trabajo, ¿por quién podrá acordarse, en caso extremo, el cierre del centro de trabajo correspondiente?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q015",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 15,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T03-F108"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto de adaptación de la legislación de prevención de riesgos laborales a la Administración General del Estado. El Plan de Prevención de Riesgos Laborales habrá de reflejarse en un documento que se conservará a disposición de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q016",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 16,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T03-F168"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre prevención de riesgos laborales en la Guardia Civil. ¿Qué principio es aquel que recoge que el personal incluido en el ámbito de aplicación de este Real Decreto tendrá derecho a efectuar propuestas a los Órganos de Prevención, que serán analizadas y valoradas por el Consejo de la Guardia Civil, dirigidas a la mejora de los niveles de protección de la seguridad y la salud?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    }
+  ]
+}

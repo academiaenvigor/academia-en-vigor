@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-03",
+  "topic_number": 3,
+  "slug": "prevencion-riesgos-laborales",
+  "title": "Prevención de riesgos laborales",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-05",
+  "source_file": "conocimiento/guardia-civil/tema-03/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-03-prevencion-riesgos-laborales.md",
+    "atestado": "temas/guardia-civil/atestado/tema-03-prevencion-riesgos-laborales.md"
+  },
+  "semantic_blocks": 40,
+  "atomic_facts": 200,
+  "master_statements": 200,
+  "coverage_file": "conocimiento/guardia-civil/tema-03/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2024-T03",
+    "BOE-L31-1995-GC-T03",
+    "BOE-L1-2026-GC-T03",
+    "BOE-RD67-2010-GC-T03",
+    "BOE-RD1084-2014-GC-T03",
+    "BOE-RD179-2005-GC-T03",
+    "BOE-RD696-2022-GC-T03",
+    "BOE-RD67-2026-GC-T03",
+    "BOE-CONVOCATORIA-GC-2026-T03"
+  ],
+  "official_exam_items": [
+    "of-gc-p2020-1a-q011",
+    "of-gc-p2020-1a-q012",
+    "of-gc-p2020-1a-q013",
+    "of-gc-p2020-2a-q011",
+    "of-gc-p2020-2a-q012",
+    "of-gc-p2020-2a-q013",
+    "of-gc-p2021-1a-q014",
+    "of-gc-p2021-1a-q015",
+    "of-gc-p2021-1a-q016",
+    "of-gc-p2021-2a-q013",
+    "of-gc-p2021-2a-q014",
+    "of-gc-p2021-2a-q015",
+    "of-gc-p2022-1a-q014",
+    "of-gc-p2022-1a-q015",
+    "of-gc-p2022-2a-q013",
+    "of-gc-p2022-2a-q014",
+    "of-gc-p2022-3a-q013",
+    "of-gc-p2022-3a-q014",
+    "of-gc-p2022-3a-q015",
+    "of-gc-p2023-1a-q013",
+    "of-gc-p2023-1a-q014",
+    "of-gc-p2023-1a-q015",
+    "of-gc-p2023-2a-q014",
+    "of-gc-p2023-2a-q015",
+    "of-gc-p2023-2a-q016",
+    "of-gc-p2024-1a-q015",
+    "of-gc-p2024-1a-q016",
+    "of-gc-p2024-1a-q017",
+    "of-gc-p2024-2a-q015",
+    "of-gc-p2024-2a-q016",
+    "of-gc-p2024-2a-q017",
+    "of-gc-p2024-3a-q015",
+    "of-gc-p2024-3a-q016",
+    "of-gc-p2024-3a-q017",
+    "of-gc-p2025-a-q016",
+    "of-gc-p2025-a-q017",
+    "of-gc-p2025-a-q018",
+    "of-gc-p2026-a-q014",
+    "of-gc-p2026-a-q015",
+    "of-gc-p2026-a-q016"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-03/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-03/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-03/manifest.json",
+    "questions": 320,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-03/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-03/manifest.json",
+    "total": 0,
+    "planned": 40
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-03/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-05",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/guardia-civil/tema-03/revision-1.0.md"
+  }
+}
