@@ -1,0 +1,3170 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 1,
+  "titulo": "Derechos Humanos",
+  "generated_at": "2026-08-05",
+  "mapping_method": "editorial_semantic_and_manual_source_crosscheck",
+  "mapping_status": "complete",
+  "answer_status": "official_final_keys_verified",
+  "display_policy": "verified_only",
+  "aviso": "Solo las referencias con plantilla final verificada alimentan «Ha caído».",
+  "total_referencias": 148,
+  "con_bloque_asignado": 148,
+  "con_respuesta_verificada": 148,
+  "por_bloque": {
+    "1": 4,
+    "4": 8,
+    "7": 4,
+    "11": 1,
+    "12": 1,
+    "13": 8,
+    "17": 3,
+    "18": 3,
+    "19": 2,
+    "20": 8,
+    "21": 1,
+    "23": 1,
+    "24": 2,
+    "25": 3,
+    "26": 5,
+    "29": 1,
+    "30": 6,
+    "31": 13,
+    "32": 3,
+    "33": 2,
+    "35": 9,
+    "36": 7,
+    "37": 5,
+    "42": 9,
+    "43": 1,
+    "44": 1,
+    "45": 4,
+    "46": 8,
+    "47": 3,
+    "49": 7,
+    "52": 4,
+    "55": 3,
+    "57": 8
+  },
+  "por_promocion": {
+    "2020": 16,
+    "2021": 21,
+    "2022": 31,
+    "2023": 19,
+    "2024": 36,
+    "2025": 13,
+    "2026": 12
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q001",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F015"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. ¿Cuál de los siguientes NO es un órgano principal de las Naciones Unidas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F015."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q002",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relación a los derechos recogidos en la Declaración, señale la opción INCORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q003",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 3,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T01-F065"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. ¿Por quién son elegidos los Jueces?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F065."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q004",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 4,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T01-F099"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. ¿En poder de quién se depositarán los instrumentos de ratificación del presente Pacto?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F099."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q005",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 5,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F120"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. En relación con el citado Consejo, señale la opción INCORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F120."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q006",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 6,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. Consciente de su patrimonio espiritual y moral, la Unión se basa en los principios de:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q007",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 7,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto se entenderá por “Genocidio”:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q008",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 8,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F193"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. ¿Cuál de las siguientes afirmaciones responde al principio general del Derecho Penal «Nullum crimen sine lege»?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F193."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q001",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F015"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carla de las Naciones Unidas. Órganos. ¿Cuál de los siguientes NO es un órgano principal de las Naciones Unidas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F015."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q002",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relacion a los derechos recogidos en la Declaración, señale la opción INCORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q003",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 3,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales: Tribunal Europeo de: Derechos Humanos. Señale la opción INCORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q004",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 4,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F119"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. ¿Por qué período de tiempo elegirá el Comité de Derechos Humanos su Mesa?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F119."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q005",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 5,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F120"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. De cuántos miembros se compone el Consejo?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F120."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q006",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 6,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carla de los Derechos Fundamentales de la Unión Europea. Consciente de su patrimonio espiritual y moral, la Unión esla fundada sobre los valores indivisibles y universales de:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q007",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 7,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. Derecho aplicable.,Cual es el derecho aplicable por la Corte en primer lugar?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q008",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 8,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. Señale la opción CORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q001",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F013"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. De acuerdo con lo dispuesto en la presente Carta, ¿qué número de órganos subsidiarios se podrán establecer?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F013."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q002",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 2,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T01-F043"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. ¿Cuál es la base de la autoridad del poder público?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F043."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q003",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 3,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q004",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea. Para garantizar el derecho efectivo del derecho a una remuneración equitativa, ¿a qué se comprometen las Partes Contratantes?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q005",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 5,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T01-F114"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. ¿Cuál es el elemento natural y fundamental de la sociedad?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F114."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q006",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 6,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T01-F124"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. La composición del Consejo estará basada en una distribución geográfica equitativa de los escaños según el desglose regional. ¿De cuántos miembros estará compuesto el Grupo de Estados de América Latina y el Caribe?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F124."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q007",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 7,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T01-F144"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Se constituirá un Comité contra la Tortura, compuesto de diez expertos. ¿Cuántos miembros de ese Comité constituirán quórum?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F144."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q008",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 8,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q009",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 9,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. Protección del medio ambiente. ¿Conforme a qué principio, las políticas de la Unión integrarán y garantizarán un nivel elevado de protección del medio ambiente y la mejora de su calidad?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q010",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 10,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T01-F187"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos de este Estatuto, la imposición intencional de condiciones de vida, entre otras, la privación del acceso a alimentos o medicinas, encaminadas a causar la destrucción de parte de una población, se considerará…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F187."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q011",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 11,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. En relación con los elementos de los crímenes, ¿quién NO podrá proponer enmiendas a los mismos?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q001",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F016"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. ¿Las Naciones Unidas pueden establecer restricciones en cuanto a la elegibilidad de hombres y mujeres para participar en condiciones de igualdad y en cualquier carácter en las funciones de sus órganos principales y subsidiarios?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F016."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q002",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 2,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T01-F025"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. La Declaración fue adoptada y proclamada por la Asamblea General de las Naciones Unidas en el año…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F025."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q003",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 3,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T01-F072"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Fuerza obligatoria y ejecución de las sentencias. ¿Quién velará por la ejecución de las sentencias definitivas del Tribunal?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F072."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q004",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea. ¿Cuándo podrá toda Parte Contratante tomar medidas que dejen en suspenso las obligaciones previstas en la presente Carta?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q005",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 5,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F117"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Como máximo, ¿cuántos nacionales de un Estado Parte en el Pacto podrán formar parte del Comité de Derechos Humanos?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F117."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q006",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 6,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q007",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 7,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Se establecerá un Subcomité para la Prevención, que se guiará por los principios de…: Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q008",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 8,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T01-F178"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con el sufragio, todo ciudadano de la Unión en el Estado miembro en que resida, tendrá derecho en las mismas condiciones que los nacionales de dicho Estado a …:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F178."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q009",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 9,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto se entenderá por “Crímenes de lesa humanidad”:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q010",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 10,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto, la privación intencional y grave de derechos fundamentales en contravención del derecho internacional en razón de la identidad de un grupo o de una colectividad, se considerará…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q001",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F015"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. ¿Cuál de los siguientes es un órgano principal de las Naciones Unidas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F015."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q002",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q003",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 3,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q004",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 4,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T01-F065"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Los jueces serán elegidos por la Asamblea Parlamentaria a título de cada Alta Parte Contratante, por mayoría de votos emitidos, de una lista de _________ candidatos presentada por esa Alta Parte Contratante.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F065."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q005",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 5,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea. Para garantizar el ejercicio efectivo del derecho al trabajo, las Partes se comprometen…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q006",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 6,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T01-F097"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. Los Estados Partes en el presente Pacto reconocen…: Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F097."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q007",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 7,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T01-F100"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. En relación con la pena de muerte, los Estados Partes en el citado Pacto convienen que…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F100."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q008",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 8,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T01-F147"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Las decisiones del Comité contra la Tortura se tomarán…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F147."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q009",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 9,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. A los efectos de este Protocolo, se entiende por privación de libertad cualquier forma de detención o encarcelamiento o de custodia de una persona…",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q010",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 10,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "GC-T01-F171"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con la igualdad entre mujeres y hombres y los derechos del niño, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F171."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q011",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 11,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. Elementos de los crímenes. ¿Quién/es podrá/n proponer enmiendas a los Elementos de los crímenes?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q001",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F014"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. ¿De acuerdo con qué disposiciones se podrán establecer los órganos subsidiarios que se estimen necesarios?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F014."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q002",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q003",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 3,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relación con los derechos recogidos en la Declaración, señale la opción INCORRECTA",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q004",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 4,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T01-F068"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Formación de juez único, Comités, Salas y Gran Sala. Para el examen de los asuntos que se le sometan, el Tribunal actuará en Comités formados por _______ jueces.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F068."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q005",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 5,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T01-F095"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. De los derechos que en el presente Pacto reconocen los Estados Partes a toda persona, señale el INCORRECTO.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F095."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q006",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 6,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F119"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. ¿A quién presentará el Comité de Derechos Humanos por conducto del Consejo Económico y Social, un informe anual sobre sus actividades?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F119."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q007",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 7,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T01-F128"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. ¿De cuántas personas se compone la Mesa del Consejo?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F128."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q008",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 8,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Todo Estado Parte podrá denunciar la presente Convención mediante notificación hecha por escrito…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q009",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 9,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con los derechos a la libertad de expresión y de información y a la libertad de reunión y de asociación, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q010",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 10,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T01-F187"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto, se entenderá por____________, la imposición intencional de condiciones de vida, entre otras, la privación del acceso a alimentos o medicinas encaminadas a causar la destrucción de parte de una población.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F187."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q001",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F016"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. La Organización no establecerá restricciones en cuanto a la elegibilidad de hombres y mujeres para participar en condiciones de igualdad y en cualquier carácter en las funciones de sus órganos….:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F016."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q002",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 2,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. En caso de impugnación de la competencia del Tribunal, ¿quién decidirá sobre la misma?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q003",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 3,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea. Para garantizar el derecho efectivo del derecho de negociación colectiva, ¿a qué se comprometen las Partes Contratantes?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q004",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 4,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T01-F098"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. De conformidad con el Pacto, ¿a quién presentarán los Estados Partes, todos los informes sobre las medidas que hayan adoptado, y los progresos realizados, con el fin de asegurar el respeto a los derechos reconocidos en el mismo?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F098."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q005",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 5,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T01-F100"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F100."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q006",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 6,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T01-F127"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F127."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q007",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 7,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. En relación con la tortura, todo Estado Parte velará para que…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q008",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 8,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F140"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. ¿Quién proporcionará el personal y los servicios necesarios para el desempeño eficaz de las funciones asignadas al Subcomité para la Prevención en virtud del Protocolo?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F140."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q009",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 9,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T01-F178"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. El derecho a una buena administración reconocido en la Carta, incluye en particular…: Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F178."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q010",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 10,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. ¿Cuál de los siguientes actos se entenderá por genocidio?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q001",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 1,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T01-F001"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Órganos. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F001."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q002",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 2,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T01-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relación con los derechos recogidos en la Declaración, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F026."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q003",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 3,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T01-F045"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. En relación con el Tribunal reunido en pleno, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F045."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q004",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 4,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T01-F100"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F100."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q005",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 5,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F120"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de las Naciones Unidas. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F120."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q006",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 6,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T01-F144"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. En relación con el Comité contra la Tortura, indique la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F144."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q007",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 7,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. De los siguientes, ¿Cuál NO es un valor indivisible y universal sobre los que está fundada la Unión?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q008",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 8,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. En relación con las funciones y atribuciones del Fiscal respecto a las investigaciones, el Fiscal NO podrá…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q009",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 9,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T01-F204"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. ¿Cuál de las siguientes NO es una autoridad competente para la aplicación de esta ley?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F204."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q001",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 1,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T01-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relación con los derechos recogidos en la Declaración, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F026."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q002",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 2,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q003",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 3,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T01-F089"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F089."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q004",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 4,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F116"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. ¿Quién proporcionará el personal y los servicios necesarios para el desempeño eficaz de las funciones del Comité de Derechos Humanos?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F116."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q005",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 5,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Según lo dispuesto en la Convención y en relación con la tortura, todo Estado Parte velará para que…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q006",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 6,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T01-F146"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. El Subcomité para la Prevención de la tortura y otros tratos o penas crueles, Inhumanos o degradantes del Comité contra la Tortura elegirá su Mesa por un mandato de ________ años.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F146."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q007",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 7,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de Derechos Fundamentales de la Unión Europea. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q008",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 8,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F164"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con las disposiciones generales que rigen la interpretación y la aplicación de la carta, señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F164."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q009",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 9,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. De conformidad con el presente Estatuto y las Reglas de Procedimiento y Prueba, ¿quiénes aprobarán por mayoría absoluta el Reglamento de la Corte que sea necesario para su funcionamiento ordinario?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q010",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 10,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T01-F205"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Sin perjuicio de las competencias del Ministerio de Asuntos Exteriores, ¿cuál es el único órgano de relación entre la Corte, por un lado, y los órganos judiciales y Ministerio Fiscal, por otro?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F205."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q001",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 1,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. En relación con los derechos recogidos en la Declaración, señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q002",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 2,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T01-F069"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Cuando el Pleno del Tribunal así lo solicite, el Comité de Ministros podrá, por decisión unánime y por un periodo determinado, reducir _________ el número de jueces de las Salas.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F069."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q003",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 3,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. En relación con la intervención de terceros, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q004",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea revisada. Para garantizar el ejercicio efectivo del derecho a unas condiciones de trabajo equitativas, las Partes se comprometen a asegurar que se informe por escrito a los trabajadores lo antes posible, y sin que hayan transcurrido en ningún caso ____________desde el inicio del empleo, de los aspectos esenciales del contrato o de la relación de trabajo.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q005",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 5,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F226"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F226."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q006",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 6,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q007",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 7,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles inhumanos o degradantes. El Subcomité para la Prevención realizará su labor, guiándose por los propósitos y principios enunciados en la Carta de las Naciones Unidas, así como por las normas ______________ relativas al trato de las personas privadas de su libertad.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q008",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 8,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F165"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F165."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q009",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 9,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T01-F184"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. A los efectos del Estatuto, ¿cuál de los siguientes actos que son perpetrados con la intención de destruir total o parcialmente a un grupo nacional, étnico, racial o religioso como tal, NO es uno de los que define el delito de genocidio?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F184."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q010",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 10,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "GC-T01-F219"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Según se especifica en esta Ley, ¿quiénes prestarán el máximo apoyo a Magistrados y funcionarios de la Corte que se personaren en España para supervisar la ejecución de las penas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F219."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q011",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 11,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. En relación con el Consejo Asesor del Mecanismo Nacional de Prevención de Tortura, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q012",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 12,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. El Consejo Asesor del Mecanismo Nacional de Prevención de Tortura se reunirá…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q001",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 1,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T01-F026"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de los Derechos Humanos. ¿Cuál será uno de los objetos la educación?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F026."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q002",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 2,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q003",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 3,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T01-F070"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Competencias de los jueces únicos. Si el juez único no declara inadmisible una demanda ni la elimina del registro de asuntos, dicho juez remitirá la misma ___________ para su examen complementario.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F070."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q004",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 4,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T01-F082"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea revisada. Para garantizar el ejercicio efectivo del derecho de las trabajadoras a la protección de la maternidad, las Partes se comprometen a garantizar a las trabajadoras, antes y después del parto, un descanso de una duración total de___________, como mínimo, sea mediante vacaciones pagadas, sea por prestaciones adecuadas de la seguridad social o por subsidios sufragados con fondos públicos.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F082."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q005",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 5,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F116"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. En relación con el Comité de Derechos Humanos (El Comité), señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F116."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q006",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 6,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q007",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 7,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. En relación con el Subcomité para la Prevención, señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q008",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 8,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T01-F178"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con el alcance e interpretación de los derechos y principios, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F178."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q009",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 9,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T01-F192"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. En relación con los principios generales de derecho penal, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F192."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q010",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 10,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "GC-T01-F217"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Si la Corte propusiere la celebración del juicio u otras actuaciones procesales en España, ¿quién comunicará a la Corte la decisión al respecto previa consulta con los Ministerios de Asuntos Exteriores, Unión Europea y Cooperación y del Interior y otras autoridades competentes?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F217."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q011",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 11,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. ¿Cuál de las siguientes organizaciones NO propondrá a una persona para ser designada Vocal del Consejo Asesor del Mecanismo Nacional de Prevención de Tortura?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q012",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 12,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. En relación con el Consejo Asesor del Mecanismo Nacional de Prevención de Tortura, señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q001",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 1,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q002",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 2,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T01-F066"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Un juez sólo podrá ser relevado de sus funciones si los demás jueces deciden, por mayoría de ___________, que dicho juez ha dejado de reunir las condiciones requeridas para serlo.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F066."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q003",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 3,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T01-F073"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Remisión ante la Gran Sala. En el plazo de ___________ a partir de la fecha de la sentencia de una Sala, cualquier parte en el asunto podrá solicitar, en casos excepcionales, la remisión del asunto ante la Gran Sala.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F073."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q004",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea revisada. Derecho a la vivienda. De las siguientes opciones, señale qué medidas se comprometen a adoptar las Partes, para ser destinadas a garantizar el ejercicio efectivo del derecho a la vivienda.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q005",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 5,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T01-F116"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. ¿Quién es el responsable de convocar la primera reunión del Comité de Derechos Humanos en la sede de las Naciones Unidas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F116."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q006",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 6,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T01-F100"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F100."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q007",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 7,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T01-F145"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Los miembros del Comité contra la Tortura serán elegidos por cuatro años. Podrán ser reelegidos si se presenta de nuevo su candidatura. No obstante, el mandato de cinco de los miembros elegidos en la primera elección expirará al cabo de…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F145."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q008",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 8,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. El Subcomité para la Prevención se guiará por los principios de…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q009",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 9,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T01-F164"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. En relación con la igualdad, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F164."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q010",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 10,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. En relación a la Fiscalía, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q011",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 11,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T01-F204"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F204."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q012",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 12,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. En relación a los vocales del Consejo Asesor del Mecanismo Nacional de Prevención de Tortura, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q001",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 1,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T01-F013"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. De los siguientes, ¿cuál NO es uno de los Consejos que se establecen como órganos principales de las Naciones Unidas?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F013."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q002",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q003",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 3,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Motivación de las sentencias y de las resoluciones. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q004",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea revisada. Firma, ratificación y entrada en vigor. ¿Ante quién serán depositados los instrumentos de ratificación, aceptación o aprobación de la presente Carta?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q005",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 5,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T01-F095"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. Los Estados Partes en el Pacto reconocen el derecho de toda persona al goce de condiciones de trabajo, equitativas y satisfactorias que le aseguren en especial…: Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F095."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q006",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 6,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T01-F100"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. Señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F100."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q007",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 7,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T01-F128"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de la Organización de las Naciones Unidas. En relación con el citado Consejo, señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F128."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q008",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 8,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q009",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 9,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T01-F136"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Todo Estado Parte podrá denunciar el presente Protocolo en cualquier momento mediante notificación escrita dirigida al Secretario General de las Naciones Unidas. ¿A quién informará seguidamente dicho Secretario?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F136."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q010",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 10,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T01-F173"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. Con arreglo a lo dispuesto en la Carta, en relación con el trabajo infantil y la edad mínima de admisión al trabajo, señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F173."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q011",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 11,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. De los siguientes, ¿cuál NO es una Sección de las que componen los órganos de la Corte?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q012",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 12,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "GC-T01-F216"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Si España recibiere una invitación de la Corte para participar en un proceso en calidad de \"amicus curiae\", el ____________consultará con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación para determinar la conveniencia u oportunidad de hacerlo y, en su caso, fijar los términos de dicha participación.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F216."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q013",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 13,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. En relación con el Consejo Asesor del Mecanismo Nacional de Prevención de Tortura, señale la opción CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q001",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 1,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T01-F004"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de las Naciones Unidas. Todo Miembro de las Naciones Unidas que haya violado repetidamente los Principios contenidos en esta Carta podrá ser expulsado de la Organización a recomendación…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F004."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q002",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 2,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T01-F122"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Declaración Universal de Derechos Humanos. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F122."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q003",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 3,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T01-F048"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Convenio para la protección de los derechos humanos y de las libertades fundamentales. Tribunal Europeo de Derechos Humanos. Motivación de las opiniones consultivas. Señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F048."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q004",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 4,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T01-F076"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta Social Europea revisada. Respecto al derecho a la vivienda. ¿Qué medidas destinadas a garantizar el ejercicio efectivo de dicho derecho se comprometen a adoptar las Partes?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F076."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q005",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 5,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T01-F003"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Económicos, Sociales y Culturales. Los Estados Partes en el presente Pacto reconocen que se debe conceder especial protección a las madres durante…:",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F003."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q006",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 6,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T01-F003"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Pacto Internacional de Derechos Civiles y Políticos. En relación con el Comité de Derechos Humanos que establece este Pacto, señale la proposición INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F003."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q007",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 7,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T01-F126"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial_corregida_n2",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Consejo de Derechos Humanos de la Organización de las Naciones Unidas. En relación con los miembros del Consejo de Derechos Humanos y su distribución geográfica. ¿De cuántos miembros estará compuesto el Grupo de “Estados de Europa occidental y otros Estados”?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F126."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q008",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 8,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T01-F143"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Protocolo Facultativo de la Convención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. En relación con las visitas a los lugares en que se encuentren personas privadas de su libertad por el Subcomité para la Prevención. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F143."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q009",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 9,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T01-F178"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Carta de los Derechos Fundamentales de la Unión Europea. ¿Con qué fin la Unión reconoce y respeta el derecho a una ayuda social y a una ayuda de vivienda para garantizar una existencia digna a todos aquellos que no dispongan de recursos suficientes, según las modalidades establecidas por el Derecho de la Unión y por las legislaciones y prácticas nacionales?",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F178."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q010",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 10,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T01-F180"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Estatuto de Roma de la Corte Penal Internacional. La Corte tendrá competencia, de conformidad con el presente Estatuto, respecto de los siguientes crímenes…: Señale la opción INCORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F180."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q011",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 11,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T01-F204"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Cooperación con la Corte Penal Internacional. Señale la proposición CORRECTA.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F204."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q012",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 12,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T01-F223"
+      ],
+      "appearance_status": "editorially_mapped",
+      "answer_status": "coincide_con_plantilla_oficial",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo. Consejo Asesor del Mecanismo Nacional de Prevención de Tortura. Los Vocales del Consejo Asesor serán designados para un período de __________años y se renovarán por mitades cada __________.",
+      "source_status": "official_final_answer_key",
+      "editorial_note": "Pregunta y respuesta oficial cotejadas; regla vinculada a GC-T01-F223."
+    }
+  ]
+}

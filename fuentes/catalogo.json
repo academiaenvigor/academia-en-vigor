@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0.0",
-  "checked_at": "2026-08-02",
+  "checked_at": "2026-08-05",
   "sources": [
     {
       "id": "ACHOTEGUI-T31",
@@ -271,6 +271,14 @@
       "traceable": true
     },
     {
+      "id": "BOE-DP-GC-T01",
+      "title": "Reglamento de Organización y Funcionamiento del Defensor del Pueblo",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-10613",
+      "scope": "Consejo Asesor del Mecanismo Nacional de Prevención",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "BOE-INT-2573-2015-T44",
       "title": "Orden INT/2573/2015 · vehículos de traslado",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-13138",
@@ -300,6 +308,22 @@
       "title": "Real Decreto Legislativo 8/2015 · Ley General de la Seguridad Social",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
       "scope": "accidente de trabajo e in itinere",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "BOE-LO18-2003-GC-T01",
+      "title": "Ley Orgánica 18/2003, de Cooperación con la Corte Penal Internacional",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-22715",
+      "scope": "cooperación activa y pasiva con la CPI",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "BOE-LO3-1981-GC-T01",
+      "title": "Ley Orgánica 3/1981, del Defensor del Pueblo",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325",
+      "scope": "Defensor del Pueblo como Mecanismo Nacional de Prevención",
       "official": true,
       "traceable": true
     },
@@ -818,6 +842,22 @@
       "traceable": true
     },
     {
+      "id": "COE-CEDH-GC-T01",
+      "title": "Convenio Europeo de Derechos Humanos",
+      "url": "https://www.echr.coe.int/d/convention_spa",
+      "scope": "derechos, garantías y Tribunal Europeo de Derechos Humanos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "COE-CSE-GC-T01",
+      "title": "Carta Social Europea revisada",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9719",
+      "scope": "derechos sociales, compromisos y disposiciones finales",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "COE-FORB-T30",
       "title": "Consejo de Europa: libertad de pensamiento, conciencia y religión",
       "url": "https://www.coe.int/en/web/impact-convention-human-rights/freedom-of-religion",
@@ -1150,6 +1190,14 @@
       "boe_id": "BOE-A-1995-25444",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
       "scope": "arts. 22.4, 510, 511, 512, 314 y concordantes",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "CPI-ESTATUTO-GC-T01",
+      "title": "Estatuto de Roma de la Corte Penal Internacional",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-10139",
+      "scope": "competencia, crímenes, principios, órganos y procedimiento",
       "official": true,
       "traceable": true
     },
@@ -1614,6 +1662,22 @@
       "title": "Guardia Civil · Licencias de armas B, C, D, E y F",
       "url": "https://web.guardiacivil.es/es/tramites/autorizaciones-de-armas-y-explosivos/controldearmas/autorizaci_armas/",
       "scope": "licencias, requisitos y condiciones de uso",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "GC-T01-CONVOCATORIA-2026",
+      "title": "Resolución 160/38243/2026, convocatoria de ingreso",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9982",
+      "scope": "vigencia del temario en la convocatoria 2026",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "GC-T01-PROGRAMA",
+      "title": "Temario oficial de ingreso en la Escala de Cabos y Guardias",
+      "url": "https://web.guardiacivil.es/documentos/pdfs/2024/TEMARIO_INGRESO_GC_ACTUALIZADO_2024.pdf",
+      "scope": "epígrafe oficial completo del Tema 1",
       "official": true,
       "traceable": true
     },
@@ -3215,10 +3279,42 @@
       "traceable": true
     },
     {
+      "id": "ONU-CARTA-GC-T01",
+      "title": "Carta de las Naciones Unidas",
+      "url": "https://www.un.org/es/about-us/un-charter/full-text",
+      "scope": "propósitos, principios, miembros y órganos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-CAT-GC-T01",
+      "title": "Convención contra la Tortura",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-25053",
+      "scope": "definición, obligaciones, jurisdicción y Comité",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-CDH-GC-T01",
+      "title": "Resolución 60/251 de la Asamblea General",
+      "url": "https://docs.un.org/es/A/RES/60/251",
+      "scope": "creación, mandato y composición del Consejo de Derechos Humanos",
+      "official": true,
+      "traceable": true
+    },
+    {
       "id": "ONU-DDHH-T27",
       "title": "Oficina del Alto Comisionado de las Naciones Unidas: qué son los derechos humanos",
       "url": "https://www.ohchr.org/es/what-are-human-rights",
       "scope": "concepto, universalidad e interdependencia",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-DUDH-GC-T01",
+      "title": "Declaración Universal de Derechos Humanos",
+      "url": "https://www.un.org/es/about-us/universal-declaration-of-human-rights",
+      "scope": "preámbulo y artículos 1 a 30",
       "official": true,
       "traceable": true
     },
@@ -3235,6 +3331,30 @@
       "title": "Naciones Unidas: Globalization and Interdependence",
       "url": "https://www.un.org/esa/coordination/globalization.htm",
       "scope": "interdependencia, motores y gobernanza",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-OPCAT-GC-T01",
+      "title": "Protocolo Facultativo de la Convención contra la Tortura",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11128",
+      "scope": "visitas preventivas, Subcomité y mecanismos nacionales",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-PIDCP-GC-T01",
+      "title": "Pacto Internacional de Derechos Civiles y Políticos",
+      "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights",
+      "scope": "derechos, derogaciones y Comité de Derechos Humanos",
+      "official": true,
+      "traceable": true
+    },
+    {
+      "id": "ONU-PIDESC-GC-T01",
+      "title": "Pacto Internacional de Derechos Económicos, Sociales y Culturales",
+      "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights",
+      "scope": "obligaciones, derechos y supervisión",
       "official": true,
       "traceable": true
     },
@@ -4616,6 +4736,14 @@
         "TUE",
         "TFUE"
       ]
+    },
+    {
+      "id": "UE-CARTA-GC-T01",
+      "title": "Carta de los Derechos Fundamentales de la Unión Europea",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX%3A12016P%2FTXT",
+      "scope": "títulos I a VII y ámbito de aplicación",
+      "official": true,
+      "traceable": true
     },
     {
       "id": "UE-COMISION",

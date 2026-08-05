@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-01",
+  "content_version": "0.1.0",
+  "source_version": "0.1.0",
+  "status": "estructura_preparada",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-01",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [],
+  "resources": []
+}

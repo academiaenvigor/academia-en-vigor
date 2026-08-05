@@ -1,0 +1,374 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 1,
+  "topic_title": "Derechos Humanos",
+  "id_prefix": "GC-T01",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-01/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-01/tests-generados",
+  "coverage_tests": {
+    "description": "Un test por bloque, máximo 25 preguntas.",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Propósitos de las Naciones Unidas"
+      },
+      {
+        "number": 2,
+        "title": "Principios de la Carta"
+      },
+      {
+        "number": 3,
+        "title": "Miembros: admisión, suspensión y expulsión"
+      },
+      {
+        "number": 4,
+        "title": "Órganos principales y subsidiarios"
+      },
+      {
+        "number": 5,
+        "title": "Asamblea General"
+      },
+      {
+        "number": 6,
+        "title": "Consejo de Seguridad y restantes órganos"
+      },
+      {
+        "number": 7,
+        "title": "Naturaleza y principios de la DUDH"
+      },
+      {
+        "number": 8,
+        "title": "Vida, libertad e integridad"
+      },
+      {
+        "number": 9,
+        "title": "Personalidad, igualdad y tutela judicial"
+      },
+      {
+        "number": 10,
+        "title": "Circulación, asilo y nacionalidad"
+      },
+      {
+        "number": 11,
+        "title": "Libertades y participación política"
+      },
+      {
+        "number": 12,
+        "title": "Derechos sociales, educación y deberes"
+      },
+      {
+        "number": 13,
+        "title": "Derechos inderogables y prohibiciones del CEDH"
+      },
+      {
+        "number": 14,
+        "title": "Libertad, seguridad y proceso justo"
+      },
+      {
+        "number": 15,
+        "title": "Vida privada y libertades públicas"
+      },
+      {
+        "number": 16,
+        "title": "Recursos, discriminación y restricciones"
+      },
+      {
+        "number": 17,
+        "title": "Jueces del Tribunal Europeo"
+      },
+      {
+        "number": 18,
+        "title": "Formaciones del Tribunal"
+      },
+      {
+        "number": 19,
+        "title": "Demandas, sentencias y ejecución"
+      },
+      {
+        "number": 20,
+        "title": "Estructura y compromisos de la Carta Social"
+      },
+      {
+        "number": 21,
+        "title": "Derechos laborales y sociales"
+      },
+      {
+        "number": 22,
+        "title": "Supervisión, derogaciones y ratificación"
+      },
+      {
+        "number": 23,
+        "title": "Obligaciones generales del PIDESC"
+      },
+      {
+        "number": 24,
+        "title": "Trabajo, familia, nivel de vida y salud"
+      },
+      {
+        "number": 25,
+        "title": "Educación, cultura y supervisión del PIDESC"
+      },
+      {
+        "number": 26,
+        "title": "Obligaciones y derogaciones del PIDCP"
+      },
+      {
+        "number": 27,
+        "title": "Vida, tortura y libertad personal"
+      },
+      {
+        "number": 28,
+        "title": "Garantías judiciales y legalidad penal"
+      },
+      {
+        "number": 29,
+        "title": "Libertades, familia y participación"
+      },
+      {
+        "number": 30,
+        "title": "Comité de Derechos Humanos"
+      },
+      {
+        "number": 31,
+        "title": "Creación y mandato del Consejo de Derechos Humanos"
+      },
+      {
+        "number": 32,
+        "title": "Composición y elección del Consejo"
+      },
+      {
+        "number": 33,
+        "title": "EPU, procedimiento de quejas y Mesa"
+      },
+      {
+        "number": 34,
+        "title": "Definición y prohibición de la tortura"
+      },
+      {
+        "number": 35,
+        "title": "Delitos, jurisdicción y extradición"
+      },
+      {
+        "number": 36,
+        "title": "Prevención, investigación y reparación"
+      },
+      {
+        "number": 37,
+        "title": "Comité contra la Tortura"
+      },
+      {
+        "number": 38,
+        "title": "Objeto y ámbito del Protocolo Facultativo"
+      },
+      {
+        "number": 39,
+        "title": "Composición y elección del Subcomité"
+      },
+      {
+        "number": 40,
+        "title": "Visitas y mandato del Subcomité"
+      },
+      {
+        "number": 41,
+        "title": "Mecanismos nacionales de prevención"
+      },
+      {
+        "number": 42,
+        "title": "Valor y ámbito de la Carta de la UE"
+      },
+      {
+        "number": 43,
+        "title": "Dignidad, libertades e igualdad"
+      },
+      {
+        "number": 44,
+        "title": "Solidaridad, ciudadanía y justicia"
+      },
+      {
+        "number": 45,
+        "title": "Alcance e interpretación de los derechos"
+      },
+      {
+        "number": 46,
+        "title": "Corte, competencia y crímenes"
+      },
+      {
+        "number": 47,
+        "title": "Genocidio y lesa humanidad"
+      },
+      {
+        "number": 48,
+        "title": "Crímenes de guerra, agresión y elementos"
+      },
+      {
+        "number": 49,
+        "title": "Principios generales de Derecho penal"
+      },
+      {
+        "number": 50,
+        "title": "Órganos de la Corte y Fiscalía"
+      },
+      {
+        "number": 51,
+        "title": "Admisibilidad, cooperación y penas"
+      },
+      {
+        "number": 52,
+        "title": "Objeto y autoridades de cooperación"
+      },
+      {
+        "number": 53,
+        "title": "Cooperación activa, investigación e inhibición"
+      },
+      {
+        "number": 54,
+        "title": "Detención, comparecencia y entrega"
+      },
+      {
+        "number": 55,
+        "title": "Otras formas de cooperación y ejecución"
+      },
+      {
+        "number": 56,
+        "title": "España y el Mecanismo Nacional de Prevención"
+      },
+      {
+        "number": 57,
+        "title": "Defensor del Pueblo como MNP y Consejo Asesor"
+      },
+      {
+        "number": 58,
+        "title": "Vocales, mandato, reuniones y funciones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "P1",
+        "title": "ONU: Carta y Declaración Universal",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "P2",
+        "title": "Consejo de Europa: CEDH, TEDH y Carta Social",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "P3",
+        "title": "Pactos y Consejo de Derechos Humanos",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "code": "P4",
+        "title": "Prevención de la tortura y Carta de la UE",
+        "blocks": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      {
+        "code": "P5",
+        "title": "CPI, cooperación española y MNP",
+        "blocks": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 2
+    }
+  ]
+}

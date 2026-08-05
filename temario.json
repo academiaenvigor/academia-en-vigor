@@ -1091,7 +1091,32 @@
     },
     "guardia-civil": {
       "display_name": "Guardia Civil · Escala de Cabos y Guardias",
-      "topics": []
+      "topics": [
+        {
+          "number": 1,
+          "slug": "derechos-humanos",
+          "title": "Derechos Humanos",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/guardia-civil/tema-01/manifest.json",
+          "parte": "temas/guardia-civil/parte/tema-01-derechos-humanos.md",
+          "atestado": "temas/guardia-civil/atestado/tema-01-derechos-humanos.md",
+          "question_bank": "banco-preguntas/guardia-civil/tema-01/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/guardia-civil/tema-01/plan.json",
+          "assets": "assets/guardia-civil/tema-01/manifest.json",
+          "teaching_materials": "materiales-didacticos/guardia-civil/tema-01/manifest.json",
+          "official_exam_index": "banco-preguntas/guardia-civil/tema-01/indice-oficiales.json",
+          "visual_version": "1.0.0",
+          "visual_assets": 25,
+          "visual_planned": 0,
+          "atomic_facts": 230,
+          "question_count": 288,
+          "official_exam_mapped": 148,
+          "official_exam_verified": 148,
+          "ha_caido_active": 0
+        }
+      ]
     }
   },
   "repository_policy": {
