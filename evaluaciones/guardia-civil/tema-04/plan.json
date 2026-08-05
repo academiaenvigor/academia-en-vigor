@@ -1,0 +1,535 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 4,
+  "topic_title": "Derecho constitucional",
+  "id_prefix": "GC-T04",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-04/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-04/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "La Constitución como norma suprema"
+      },
+      {
+        "number": 2,
+        "title": "Elaboración de la Constitución de 1978"
+      },
+      {
+        "number": 3,
+        "title": "Estructura de la Constitución"
+      },
+      {
+        "number": 4,
+        "title": "Reformas constitucionales realizadas"
+      },
+      {
+        "number": 5,
+        "title": "Caracteres de la Constitución"
+      },
+      {
+        "number": 6,
+        "title": "Valores superiores del artículo 1.1"
+      },
+      {
+        "number": 7,
+        "title": "El Estado democrático"
+      },
+      {
+        "number": 8,
+        "title": "El Estado de Derecho"
+      },
+      {
+        "number": 9,
+        "title": "El Estado social"
+      },
+      {
+        "number": 10,
+        "title": "La monarquía parlamentaria"
+      },
+      {
+        "number": 11,
+        "title": "El Estado autonómico"
+      },
+      {
+        "number": 12,
+        "title": "Mapa del Título I"
+      },
+      {
+        "number": 13,
+        "title": "Artículo 10: dignidad e interpretación"
+      },
+      {
+        "number": 14,
+        "title": "Españoles, extranjeros e igualdad"
+      },
+      {
+        "number": 15,
+        "title": "Derechos de la esfera personal"
+      },
+      {
+        "number": 16,
+        "title": "Expresión, reunión, asociación y participación"
+      },
+      {
+        "number": 17,
+        "title": "Garantías procesales y legalidad sancionadora"
+      },
+      {
+        "number": 18,
+        "title": "Educación, sindicación, huelga y petición"
+      },
+      {
+        "number": 19,
+        "title": "Derechos y deberes de los ciudadanos"
+      },
+      {
+        "number": 20,
+        "title": "Principios rectores: naturaleza y garantía"
+      },
+      {
+        "number": 21,
+        "title": "Familia, trabajo y Seguridad Social"
+      },
+      {
+        "number": 22,
+        "title": "Salud, cultura y medio ambiente"
+      },
+      {
+        "number": 23,
+        "title": "Vivienda, juventud, discapacidad y mayores"
+      },
+      {
+        "number": 24,
+        "title": "Consumidores y organizaciones profesionales"
+      },
+      {
+        "number": 25,
+        "title": "Sistema general de garantías"
+      },
+      {
+        "number": 26,
+        "title": "Los tres apartados del artículo 53"
+      },
+      {
+        "number": 27,
+        "title": "Ley orgánica, reforma agravada y control de leyes"
+      },
+      {
+        "number": 28,
+        "title": "Recurso de amparo"
+      },
+      {
+        "number": 29,
+        "title": "Suspensión general de derechos"
+      },
+      {
+        "number": 30,
+        "title": "Alarma, excepción y sitio"
+      },
+      {
+        "number": 31,
+        "title": "Suspensión individual vinculada a terrorismo"
+      },
+      {
+        "number": 32,
+        "title": "Conexión constitucional con la protección de datos"
+      },
+      {
+        "number": 33,
+        "title": "La Corona: posición, inviolabilidad, refrendo y Casa del Rey"
+      },
+      {
+        "number": 34,
+        "title": "Sucesión a la Corona y consorte"
+      },
+      {
+        "number": 35,
+        "title": "Regencia, tutela y juramento"
+      },
+      {
+        "number": 36,
+        "title": "Funciones nacionales e internacionales del Rey"
+      },
+      {
+        "number": 37,
+        "title": "Cortes Generales: naturaleza, funciones y mandato representativo"
+      },
+      {
+        "number": 38,
+        "title": "Congreso, Senado e incompatibilidades"
+      },
+      {
+        "number": 39,
+        "title": "Prerrogativas parlamentarias y autonomía de las Cámaras"
+      },
+      {
+        "number": 40,
+        "title": "Funcionamiento de las Cámaras"
+      },
+      {
+        "number": 41,
+        "title": "Leyes orgánicas y delegación legislativa"
+      },
+      {
+        "number": 42,
+        "title": "Decreto-ley, iniciativa y procedimiento legislativo"
+      },
+      {
+        "number": 43,
+        "title": "Tratados internacionales"
+      },
+      {
+        "number": 44,
+        "title": "Gobierno: funciones, composición, investidura y cese"
+      },
+      {
+        "number": 45,
+        "title": "Responsabilidad del Gobierno y Administración Pública"
+      },
+      {
+        "number": 46,
+        "title": "Control parlamentario ordinario del Gobierno"
+      },
+      {
+        "number": 47,
+        "title": "Confianza, censura y disolución"
+      },
+      {
+        "number": 48,
+        "title": "Estados de alarma, excepción y sitio"
+      },
+      {
+        "number": 49,
+        "title": "Poder Judicial: principios y proceso"
+      },
+      {
+        "number": 50,
+        "title": "Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial"
+      },
+      {
+        "number": 51,
+        "title": "Economía, iniciativa pública y planificación"
+      },
+      {
+        "number": 52,
+        "title": "Potestad tributaria, presupuestos, deuda y Tribunal de Cuentas"
+      },
+      {
+        "number": 53,
+        "title": "Principios territoriales y Administración local"
+      },
+      {
+        "number": 54,
+        "title": "Acceso a la autonomía y Estatutos"
+      },
+      {
+        "number": 55,
+        "title": "Distribución de competencias"
+      },
+      {
+        "number": 56,
+        "title": "Técnicas del artículo 150 y vía especial del artículo 151"
+      },
+      {
+        "number": 57,
+        "title": "Instituciones, controles, coerción y financiación autonómica"
+      },
+      {
+        "number": 58,
+        "title": "Tribunal Constitucional"
+      },
+      {
+        "number": 59,
+        "title": "Reforma constitucional"
+      },
+      {
+        "number": 60,
+        "title": "Carácter, mandato y relación con las Cortes"
+      },
+      {
+        "number": 61,
+        "title": "Elegibilidad, acreditación y toma de posesión"
+      },
+      {
+        "number": 62,
+        "title": "Cese, vacante y sustitución"
+      },
+      {
+        "number": 63,
+        "title": "Autonomía, inviolabilidad y fuero"
+      },
+      {
+        "number": 64,
+        "title": "Incompatibilidades"
+      },
+      {
+        "number": 65,
+        "title": "Adjuntos del Defensor del Pueblo"
+      },
+      {
+        "number": 66,
+        "title": "Inicio, legitimación y continuidad de la investigación"
+      },
+      {
+        "number": 67,
+        "title": "Ámbito autonómico, Justicia y Administración militar"
+      },
+      {
+        "number": 68,
+        "title": "Presentación, admisión y efectos procesales de las quejas"
+      },
+      {
+        "number": 69,
+        "title": "Investigación sumaria e informe inicial"
+      },
+      {
+        "number": 70,
+        "title": "Colaboración, comparecencia y conducta del personal"
+      },
+      {
+        "number": 71,
+        "title": "Documentos reservados y secreto"
+      },
+      {
+        "number": 72,
+        "title": "Responsabilidades, delito y gastos de particulares"
+      },
+      {
+        "number": 73,
+        "title": "Resoluciones, recursos y recomendaciones"
+      },
+      {
+        "number": 74,
+        "title": "Notificaciones e informes a las Cortes"
+      },
+      {
+        "number": 75,
+        "title": "Mecanismo Nacional de Prevención de la Tortura"
+      },
+      {
+        "number": 76,
+        "title": "Protección civil y naturaleza de los derechos"
+      },
+      {
+        "number": 77,
+        "title": "Delimitación y consentimiento"
+      },
+      {
+        "number": 78,
+        "title": "Consentimiento de menores e incapaces"
+      },
+      {
+        "number": 79,
+        "title": "Protección después del fallecimiento"
+      },
+      {
+        "number": 80,
+        "title": "Intromisiones: captación y revelación de la vida íntima"
+      },
+      {
+        "number": 81,
+        "title": "Intromisiones: imagen, explotación e imputaciones"
+      },
+      {
+        "number": 82,
+        "title": "Actuaciones y usos de imagen no ilegítimos"
+      },
+      {
+        "number": 83,
+        "title": "Tutela judicial y medidas de restablecimiento"
+      },
+      {
+        "number": 84,
+        "title": "Perjuicio, indemnización, caducidad y disposiciones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Constitución: origen, estructura y Título Preliminar",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Constitución: derechos, garantías y suspensión",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Constitución: Corona",
+        "blocks": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Constitución: Cortes Generales y producción normativa",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Constitución: Gobierno, Administración y control parlamentario",
+        "blocks": [
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Constitución: Poder Judicial",
+        "blocks": [
+          49,
+          50
+        ]
+      },
+      {
+        "code": "PARTE-7",
+        "title": "Constitución: Economía y Hacienda",
+        "blocks": [
+          51,
+          52
+        ]
+      },
+      {
+        "code": "PARTE-8",
+        "title": "Constitución: organización territorial",
+        "blocks": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      },
+      {
+        "code": "PARTE-9",
+        "title": "Constitución: Tribunal Constitucional y reforma",
+        "blocks": [
+          58,
+          59
+        ]
+      },
+      {
+        "code": "PARTE-10",
+        "title": "Ley Orgánica 3/1981: Defensor del Pueblo",
+        "blocks": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      {
+        "code": "PARTE-11",
+        "title": "Ley Orgánica 1/1982: honor, intimidad y propia imagen",
+        "blocks": [
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

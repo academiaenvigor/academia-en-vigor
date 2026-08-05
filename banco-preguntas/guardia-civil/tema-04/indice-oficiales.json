@@ -1,0 +1,2713 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 4,
+  "titulo": "Derecho constitucional",
+  "generated_at": "2026-08-05",
+  "mapping_method": "editorial_semantic_mapping_with_official_key",
+  "mapping_status": "verified",
+  "answer_status": "official_final_answer_key",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "show_answer": true,
+    "show_feedback": true,
+    "never_present_as_unverified": true
+  },
+  "aviso": "Las 125 apariciones proceden de cuadernillos y plantillas finales verificadas.",
+  "total_referencias": 125,
+  "con_bloque_asignado": 125,
+  "con_respuesta_verificada": 125,
+  "por_bloque": {
+    "9": 1,
+    "25": 4,
+    "41": 1,
+    "46": 2,
+    "47": 2,
+    "52": 4,
+    "54": 3,
+    "58": 6,
+    "72": 1,
+    "75": 2,
+    "20": 5,
+    "38": 4,
+    "45": 6,
+    "53": 2,
+    "70": 1,
+    "76": 2,
+    "42": 5,
+    "50": 6,
+    "56": 1,
+    "68": 3,
+    "11": 3,
+    "14": 1,
+    "19": 3,
+    "40": 2,
+    "83": 4,
+    "6": 1,
+    "16": 4,
+    "29": 2,
+    "34": 2,
+    "30": 2,
+    "59": 5,
+    "65": 1,
+    "74": 2,
+    "31": 1,
+    "35": 2,
+    "57": 3,
+    "60": 1,
+    "8": 1,
+    "36": 4,
+    "62": 1,
+    "77": 1,
+    "44": 4,
+    "49": 1,
+    "73": 1,
+    "48": 1,
+    "61": 2,
+    "66": 1,
+    "7": 2,
+    "64": 1,
+    "84": 1,
+    "13": 1,
+    "71": 1,
+    "80": 1,
+    "67": 1
+  },
+  "por_promocion": {
+    "2022": 30,
+    "2024": 23,
+    "2021": 19,
+    "2020": 18,
+    "2026": 7,
+    "2023": 20,
+    "2025": 8
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q014",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 14,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T04-F029"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Título Preliminar. De los siguientes, diga cuál NO es un valor superior del ordenamiento jurídico de España.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q015",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 15,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T04-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De los derechos fundamentales y de las libertades públicas. Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q016",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 16,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T04-F162"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Cuando se acuerde la declaración del estado de excepción en los términos previstos en la Constitución, ¿cuál de los siguientes derechos NO se puede suspender durante dicho estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q017",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 17,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T04-F197"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la Corona. Señale la opción CORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q018",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 18,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T04-F170"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La autorización y proclamación del estado de excepción deberá determinar expresamente su duración, que no podrá exceder de ____ días, prorrogables por otro plazo igual, con los mismos requisitos.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q019",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 19,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T04-F664"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Qué mayoría parlamentaria es necesaria inicialmente para la aprobación de los proyectos de reforma constitucional que afecten al Título de la Organización Territorial del Estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q020",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 20,
+      "block_refs": [
+        65
+      ],
+      "fact_refs": [
+        "GC-T04-F713"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. ¿Quién nombrará los Adjuntos del Defensor del Pueblo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q021",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 21,
+      "block_refs": [
+        74
+      ],
+      "fact_refs": [
+        "GC-T04-F783"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación al informe a las Cortes, indique la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q014",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 14,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T04-F054"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Título Preliminar. ¿Qué tipo de norma regulará las bases de la organización militar conforme a los principios de la Constitución?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q015",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 15,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T04-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Espanola. zDe cual de los siguientes derechos, el ciudadano NO podrá recabar su tutela a través del recurso de amparo ante el Tribunal Constitucional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q016",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 16,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T04-F218"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de las siguientes funciones NO corresponde al Rey?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q017",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 17,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T04-F252"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación al número de Senadores que son designados por las Comunidades Autónomas, ¿cuántos Senadores le corresponden a una Comunidad Autónoma que tiene cuatro millones de habitantes en su territorio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q018",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 18,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T04-F220"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Espanola. ¿Cuál de las siguientes funciones NO corresponde al Presidente del Gobierno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q019",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 19,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T04-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. El estado de sitio será declarado por:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q020",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 20,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T04-F667"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Aprobada la reforma constitucional por las Cortes Generales, ¿cuándo será sometida a referéndum para su ratificación si así lo solicitan una décima parte de los miembros de cualquiera de las Cámaras?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q021",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 21,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T04-F664"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Cuándo se propusiese la revision parcial de la Constitución que afecte al Título referente ala Corona, por qué mayoría se procederá a la aprobacion del principio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q022",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 22,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T04-F720"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. ¿Quién, principalmente, podrá solicitar mediante escrito motivado la intervención del Defensor del Pueblo para la investigación de conductas concretas producidas en las Administraciones públicas, que afecten a un ciudadano, en el ámbito de sus competencias? ar",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q023",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 23,
+      "block_refs": [
+        74
+      ],
+      "fact_refs": [
+        "GC-T04-F779"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. Cuándo la gravedad o urgencia de los hechos lo aconsejen, el Defensor E del Pueblo podrá presentar un informe extraordinario. ¿A quién lo dirigirá?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q017",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 17,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T04-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con los principios rectores de la política social y económica, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q018",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 18,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T04-F245"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Cámaras. ¿Cuándo tendrán lugar las elecciones desde la terminación del mandato de los Diputados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q019",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 19,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T04-F320"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Cortes Generales. Los proyectos de ley serán aprobados en el___________, que los someterá al ____________.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q020",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 20,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T04-F329"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Una vez aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q021",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 21,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F363"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Qué se requerirá para exigir responsabilidad criminal al Presidente del Gobierno como consecuencia de una acusación por delito contra la seguridad del Estado en el ejercicio de sus funciones?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q022",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 22,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F442"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Poder Judicial. ¿Quién preside el Consejo General del Poder Judicial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q023",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 23,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T04-F521"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Comunidades Autónomas. La reforma de los Estatutos de Autonomía se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q024",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 24,
+      "block_refs": [
+        56
+      ],
+      "fact_refs": [
+        "GC-T04-F586"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿A quién corresponde la apreciación de la necesidad de armonizar las disposiciones normativas de las Comunidades Autónomas aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q025",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 25,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F634"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Los miembros del Tribunal Constitucional serán designados por un periodo de….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q026",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 26,
+      "block_refs": [
+        68
+      ],
+      "fact_refs": [
+        "GC-T04-F731"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con la tramitación de quejas, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q016",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 16,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T04-F058"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de las siguientes NO es una de las misiones que la Carta Magna asigna a las Fuerzas Armadas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q017",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 17,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T04-F205"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Si no hubiera ninguna persona a quien corresponda la Regencia, ¿por quién será nombrada ésta y de cuantas personas se compondrá?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q018",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 18,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T04-F309"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Cortes Generales. En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q019",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 19,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T04-F352"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Gobierno y de la Administración. Después de cada renovación del Congreso de los Diputados, ¿quién propondrá un candidato a la Presidencia del Gobierno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q020",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 20,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F374"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Qué tipo de norma determinará los principios básicos de actuación de las Fuerzas y Cuerpos de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q021",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 21,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T04-F428"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Poder Judicial. Los Jueces y Magistrados, mientras se hallen en activo podrán…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q022",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 22,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T04-F609"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Quién ejercerá el control de la actividad de los órganos de las Comunidades Autónomas relativo a la administración autónoma y sus normas reglamentarias?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q023",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 23,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F629"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De los miembros que componen el Tribunal Constitucional, ¿cuántos son propuestos por el Consejo General del Poder Judicial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q024",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 24,
+      "block_refs": [
+        73
+      ],
+      "fact_refs": [
+        "GC-T04-F766"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con el contenido de las resoluciones, el Defensor del Pueblo podrá…..:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q016",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 16,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T04-F047"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿A quién corresponde promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q017",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 17,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T04-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con el Defensor del Pueblo, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q018",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 18,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T04-F300"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la elaboración de las leyes. En relación con la delegación legislativa otorgada al Gobierno, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q019",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 19,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T04-F381"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Ante quién responde solidariamente el Gobierno en su gestión política?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q020",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 20,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T04-F396"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con la moción de censura, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q021",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 21,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T04-F473"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿A quién corresponde la potestad originaria para establecer los tributos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q022",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 22,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T04-F515"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Comunidades Autónomas. Si los Estatutos de las Comunidades Autónomas prevén los supuestos en que se podrán celebrar convenios entre sí, estos…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q023",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 23,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F650"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Tribunal Constitucional. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q024",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 24,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F644"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q025",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 25,
+      "block_refs": [
+        72
+      ],
+      "fact_refs": [
+        "GC-T04-F762"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. Cuando el Defensor del Pueblo, en razón del ejercicio de las funciones propias de su cargo, tenga conocimiento de unos hechos presumiblemente delictivos lo pondrá de inmediato en conocimiento de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q026",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 26,
+      "block_refs": [
+        75
+      ],
+      "fact_refs": [
+        "GC-T04-F784"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. Según lo dispuesto en la citada Ley, el Defensor del Pueblo ejercerá las funciones del Mecanismo Nacional de Prevención de la Tortura de conformidad, entre otras normas, con…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q015",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 15,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T04-F037"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Con respecto a los partidos políticos. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q016",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 16,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T04-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con los principios rectores de la política social y económica. Señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q017",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 17,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T04-F347"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Gobierno y de la Administración. De las siguientes, ¿cuál NO es una competencia del Gobierno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q018",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 18,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F367"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de_____________________________, con sometimiento pleno a la ley y al Derecho.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q019",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 19,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T04-F386"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Toda interpelación podrá dar lugar a una ____________ en la que la Cámara manifieste su posición.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q020",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 20,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F450"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Sin perjuicio de las funciones encomendadas a otros órganos, ¿cuál de las siguientes NO es una misión del Ministerio Fiscal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q021",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 21,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T04-F477"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q022",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 22,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T04-F608"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Por quién se ejercerá el control de la actividad de los órganos de las Comunidades Autónomas, en lo relativo al ejercicio de las funciones que les sean delegadas sobre materias de titularidad estatal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q023",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 23,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F638"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Tribunal Constitucional. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q024",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 24,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T04-F667"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Aprobada la reforma constitucional por las Cortes Generales, ¿qué número mínimo de miembros han de solicitar, dentro de los quince días siguientes a su aprobación, que sea sometida a referéndum para su ratificación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q025",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 25,
+      "block_refs": [
+        67
+      ],
+      "fact_refs": [
+        "GC-T04-F725"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con el ámbito de competencias del Defensor del Pueblo, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q016",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 16,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T04-F090"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De los derechos fundamentales y de las libertades públicas. Indique la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q017",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 17,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T04-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La contribución de todos al sostenimiento de los gastos públicos se hará de acuerdo con su capacidad económica mediante un sistema tributario justo. ¿En qué principios está inspirado y qué alcance tiene dicho sistema?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q018",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 18,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T04-F197"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la Corona. Extinguidas todas las líneas llamadas en Derecho, _____________________________ a la sucesión en la Corona en la forma que más convenga a los intereses de España.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q019",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 19,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T04-F324"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la elaboración de las leyes. En el caso de que no sea un proyecto declarado urgente, ¿de qué plazo dispone el Senado para introducir enmiendas a un proyecto de ley orgánica aprobado por el Congreso de los Diputados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q020",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 20,
+      "block_refs": [
+        48
+      ],
+      "fact_refs": [
+        "GC-T04-F425"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las relaciones entre el Gobierno y las Cortes Generales. Indique la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q021",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 21,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F454"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Poder Judicial. ¿Quién nombra al Fiscal General del Estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q022",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 22,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T04-F664"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la Reforma Constitucional. Cuando se propusiere la revisión total de la Constitución se procederá a la aprobación del principio por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q023",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 23,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T04-F686"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. La acreditación del nombramiento del Defensor del Pueblo, que se publicará en el Boletín Oficial del Estado, se llevará a cabo por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q016",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 16,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T04-F042"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La Constitución garantiza…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q017",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 17,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T04-F162"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Cuando en los términos previstos en la Constitución se acuerde la declaración del estado de sitio, ¿cuál de los siguientes derechos podrá suspenderse durante dicho estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q018",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 18,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T04-F229"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De la Corona. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q019",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 19,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T04-F271"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Las Cortes Generales. ¿Por quién/es serán presididas las sesiones conjuntas de las Cámaras?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q020",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 20,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T04-F487"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿De quién depende directamente el Tribunal de Cuentas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q021",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 21,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T04-F502"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La Administración local. ¿Qué será necesario para que se efectúe una alteración de los límites provinciales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q022",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 22,
+      "block_refs": [
+        62
+      ],
+      "fact_refs": [
+        "GC-T04-F691"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. El Defensor del Pueblo cesará por alguna de las siguientes causas…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q023",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 23,
+      "block_refs": [
+        68
+      ],
+      "fact_refs": [
+        "GC-T04-F739"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con la tramitación de quejas, indique la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q024",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 24,
+      "block_refs": [
+        77
+      ],
+      "fact_refs": [
+        "GC-T04-F793"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q025",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 25,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "GC-T04-F824"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. La tutela judicial frente a las intromisiones ilegítimas en los derechos a que se refiere la presente Ley podrá recabarse acudiendo, cuando proceda…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q017",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 17,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T04-F033"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Con arreglo a lo dispuesto en su preámbulo, la Nación española, en uso de su soberanía, proclama su voluntad de establecer una sociedad…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q018",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 18,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T04-F089"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de los siguientes derechos está reconocido como fundamental?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q019",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 19,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T04-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Los principios rectores de la política social y económica. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q020",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 20,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T04-F318"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con la elaboración de las leyes, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q021",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 21,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F454"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. El Poder Judicial. Señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q022",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 22,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T04-F629"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Por qué mayoría han de ser elegidos los miembros del Tribunal Constitucional que propone el Congreso?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q023",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 23,
+      "block_refs": [
+        64
+      ],
+      "fact_refs": [
+        "GC-T04-F707"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con las prerrogativas e incompatibilidades del Defensor del Pueblo, indique la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q024",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 24,
+      "block_refs": [
+        75
+      ],
+      "fact_refs": [
+        "GC-T04-F786"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. Mecanismo Nacional de Prevención de la Tortura. ¿Cuál es el órgano de cooperación técnica y jurídica en el ejercicio de las funciones propias del Mecanismo Nacional de Prevención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q025",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 25,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "GC-T04-F829"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q026",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 26,
+      "block_refs": [
+        84
+      ],
+      "fact_refs": [
+        "GC-T04-F835"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Las acciones de protección frente a las intromisiones ilegítimas caducarán transcurridos _____________ desde que el legitimado pudo ejercitarlas.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q018",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 18,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T04-F069"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las siguientes opciones, ¿cuál de los siguientes NO constituye fundamento del orden político y de la paz social?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q019",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 19,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T04-F216"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de las siguientes funciones NO corresponde al Rey?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q020",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 20,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T04-F359"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Del Gobierno y de la Administración. Salvo el Presidente, los demás miembros del Gobierno serán nombrados y separados por el ______________, a propuesta ________________________.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q021",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 21,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F373"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de las siguientes opciones NO es parte de la misión asignada específicamente a las Fuerzas y Cuerpos de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q022",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 22,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F454"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con el Fiscal General del Estado, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q023",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 23,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T04-F510"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Comunidades Autónomas. En caso de no prosperar la iniciativa del proceso autonómico, solamente podrá reiterarse pasados…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q024",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 24,
+      "block_refs": [
+        71
+      ],
+      "fact_refs": [
+        "GC-T04-F756"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con los documentos reservados, cuando el Defensor del Pueblo entienda que un documento declarado secreto y no remitido por la Administración pudiera afectar de forma decisiva a la buena marcha de su investigación, lo pondrá en conocimiento de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q025",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 25,
+      "block_refs": [
+        80
+      ],
+      "fact_refs": [
+        "GC-T04-F810"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. De las siguientes opciones, ¿cuál NO tendrá la consideración de intromisión ilegítima en el ámbito de protección delimitado por esta ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q018",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 18,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T04-F124"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Los principios rectores de la política social y económica sólo podrán ser alegados...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q019",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 19,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T04-F247"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con las Cámaras, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q020",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 20,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F364"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Para exigir responsabilidad criminal al Presidente del Gobierno como consecuencia de una acusación por delito de traición, ¿por qué mayoría de miembros tiene que ser aprobada?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q021",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 21,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T04-F395"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Con respecto a la moción de censura, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q022",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 22,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T04-F505"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La Administración Local. En los archipiélagos, las islas tendrán además su administración propia en forma de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q023",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 23,
+      "block_refs": [
+        70
+      ],
+      "fact_refs": [
+        "GC-T04-F745"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. Todos los poderes públicos están obligados a auxiliar al Defensor del Pueblo en sus investigaciones e inspecciones…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q024",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 24,
+      "block_refs": [
+        76
+      ],
+      "fact_refs": [
+        "GC-T04-F791"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Según lo dispuesto en la Ley, el derecho al honor, a la intimidad personal y familiar y a la propia imagen es…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q018",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 18,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T04-F060"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Por quiénes están constituidas las Fuerzas Armadas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q019",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 19,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T04-F076"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De los españoles y extranjeros. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q020",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 20,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T04-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Derechos y libertades. Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q021",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 21,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T04-F268"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Qué meses comprende el segundo periodo ordinario de sesiones de las Cámaras?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q022",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 22,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T04-F443"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con el Poder Judicial, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q023",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 23,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T04-F473"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Economía y Hacienda. ¿A quién corresponde la potestad originaria para establecer mediante ley los tributos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q024",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 24,
+      "block_refs": [
+        68
+      ],
+      "fact_refs": [
+        "GC-T04-F732"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. ¿Cuál es el plazo máximo para la presentación de una queja ante el Defensor del Pueblo, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q025",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 25,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "GC-T04-F825"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q019",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 19,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T04-F089"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Es un derecho fundamental…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q020",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 20,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T04-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De los siguientes derechos y libertades reconocidos en la Constitución, ¿de cuál de ellos NO se podrá recabar su tutela a través del Recurso de Amparo ante el Tribunal Constitucional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q021",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 21,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T04-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con los principios rectores de la política social y económica, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q022",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 22,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T04-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La institución del Defensor del Pueblo como alto comisionado de las Cortes Generales está regulada por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q023",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 23,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T04-F346"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las siguientes opciones, ¿cuál es una competencia del Gobierno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q024",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 24,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T04-F363"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. La responsabilidad criminal de los miembros del Gobierno como consecuencia de una acusación por delito de traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q025",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 25,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T04-F685"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. En relación con el Defensor del Pueblo, indique la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q026",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 26,
+      "block_refs": [
+        76
+      ],
+      "fact_refs": [
+        "GC-T04-F791"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q017",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 17,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T04-F118"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. En relación con los derechos y deberes de los ciudadanos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q018",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 18,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T04-F173"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. ¿Cuál de los siguientes derechos puede ser suspendido en la forma prevista en la Constitución para personas determinadas en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q019",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 19,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T04-F203"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Si el Rey se inhabilitare para el ejercicio de su autoridad, ¿quién debe reconocer dicha imposibilidad, para que entre a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q020",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 20,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T04-F246"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. De las Cámaras. Según lo dispuesto en la misma, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q021",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 21,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T04-F614"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Constitución Española. Si una Comunidad Autónoma actuare de forma que atente gravemente al interés general de España, y en el caso de que no sea atendido el requerimiento previo realizado por el Gobierno al Presidente de la Comunidad Autónoma…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q022",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 22,
+      "block_refs": [
+        60
+      ],
+      "fact_refs": [
+        "GC-T04-F682"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Defensor del Pueblo. ¿En qué plazo se convocará inicialmente al Pleno del Congreso para que proceda a la elección del candidato o candidatos que se proponen para Defensor del Pueblo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q023",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 23,
+      "block_refs": [
+        83
+      ],
+      "fact_refs": [
+        "GC-T04-F828"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen. La tutela judicial comprenderá la adopción de todas las medidas necesarias para poner fin a la intromisión ilegítima de que se trate y, en particular, las necesarias para...: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo revisado contra el bloque normativo vigente."
+    }
+  ]
+}

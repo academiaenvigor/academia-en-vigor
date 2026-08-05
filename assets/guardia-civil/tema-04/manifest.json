@@ -1,0 +1,1362 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-04",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 84,
+    "integrated": 0,
+    "planned": 84
+  },
+  "integration_status": "planned_in_other_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T04-V01",
+      "file": "t04-01-la-constitucion-como-norma-suprema.webp",
+      "title": "La Constitución como norma suprema",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 9.1 y 166 a 169 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V02",
+      "file": "t04-02-elaboracion-de-la-constitucion-de-1978.webp",
+      "title": "Elaboración de la Constitución de 1978",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar proceso constituyente de 1977-1978.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V03",
+      "file": "t04-03-estructura-de-la-constitucion.webp",
+      "title": "Estructura de la Constitución",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar estructura de la CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V04",
+      "file": "t04-04-reformas-constitucionales-realizadas.webp",
+      "title": "Reformas constitucionales realizadas",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar reformas de 1992, 2011, 2024 y 2026.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V05",
+      "file": "t04-05-caracteres-de-la-constitucion.webp",
+      "title": "Caracteres de la Constitución",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar caracteres constitucionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V06",
+      "file": "t04-06-valores-superiores-del-articulo-1-1.webp",
+      "title": "Valores superiores del artículo 1.1",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar art. 1.1 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V07",
+      "file": "t04-07-el-estado-democratico.webp",
+      "title": "El Estado democrático",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 1, 6, 7 y 23 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V08",
+      "file": "t04-08-el-estado-de-derecho.webp",
+      "title": "El Estado de Derecho",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 1.1 y 9 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V09",
+      "file": "t04-09-el-estado-social.webp",
+      "title": "El Estado social",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 1.1, 9.2 y 39 a 52 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V10",
+      "file": "t04-10-la-monarquia-parlamentaria.webp",
+      "title": "La monarquía parlamentaria",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar art. 1.3 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V11",
+      "file": "t04-11-el-estado-autonomico.webp",
+      "title": "El Estado autonómico",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 2 y 137 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V12",
+      "file": "t04-12-mapa-del-titulo-i.webp",
+      "title": "Mapa del Título I",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar Título I CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V13",
+      "file": "t04-13-articulo-10-dignidad-e-interpretacion.webp",
+      "title": "Artículo 10: dignidad e interpretación",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar art. 10 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V14",
+      "file": "t04-14-espanoles-extranjeros-e-igualdad.webp",
+      "title": "Españoles, extranjeros e igualdad",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 11 a 14 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V15",
+      "file": "t04-15-derechos-de-la-esfera-personal.webp",
+      "title": "Derechos de la esfera personal",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 15 a 19 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V16",
+      "file": "t04-16-expresion-reunion-asociacion-y-participacion.webp",
+      "title": "Expresión, reunión, asociación y participación",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 20 a 23 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V17",
+      "file": "t04-17-garantias-procesales-y-legalidad-sancionadora.webp",
+      "title": "Garantías procesales y legalidad sancionadora",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 24 a 26 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V18",
+      "file": "t04-18-educacion-sindicacion-huelga-y-peticion.webp",
+      "title": "Educación, sindicación, huelga y petición",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 27 a 29 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V19",
+      "file": "t04-19-derechos-y-deberes-de-los-ciudadanos.webp",
+      "title": "Derechos y deberes de los ciudadanos",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 30 a 38 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V20",
+      "file": "t04-20-principios-rectores-naturaleza-y-garantia.webp",
+      "title": "Principios rectores: naturaleza y garantía",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 39 a 53.3 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V21",
+      "file": "t04-21-familia-trabajo-y-seguridad-social.webp",
+      "title": "Familia, trabajo y Seguridad Social",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 39 a 42 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V22",
+      "file": "t04-22-salud-cultura-y-medio-ambiente.webp",
+      "title": "Salud, cultura y medio ambiente",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 43 a 46 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V23",
+      "file": "t04-23-vivienda-juventud-discapacidad-y-mayores.webp",
+      "title": "Vivienda, juventud, discapacidad y mayores",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 47 a 50 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V24",
+      "file": "t04-24-consumidores-y-organizaciones-profesionales.webp",
+      "title": "Consumidores y organizaciones profesionales",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 51 y 52 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V25",
+      "file": "t04-25-sistema-general-de-garantias.webp",
+      "title": "Sistema general de garantías",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 53 a 55 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V26",
+      "file": "t04-26-los-tres-apartados-del-articulo-53.webp",
+      "title": "Los tres apartados del artículo 53",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar art. 53 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V27",
+      "file": "t04-27-ley-organica-reforma-agravada-y-control-de-leyes.webp",
+      "title": "Ley orgánica, reforma agravada y control de leyes",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 53.1, 81.1, 161 y 168 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V28",
+      "file": "t04-28-recurso-de-amparo.webp",
+      "title": "Recurso de amparo",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 53.2, 161 y 162 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V29",
+      "file": "t04-29-suspension-general-de-derechos.webp",
+      "title": "Suspensión general de derechos",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar art. 55.1 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V30",
+      "file": "t04-30-alarma-excepcion-y-sitio.webp",
+      "title": "Alarma, excepción y sitio",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar art. 116 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V31",
+      "file": "t04-31-suspension-individual-vinculada-a-terrorismo.webp",
+      "title": "Suspensión individual vinculada a terrorismo",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar art. 55.2 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V32",
+      "file": "t04-32-conexion-constitucional-con-la-proteccion-de-datos.webp",
+      "title": "Conexión constitucional con la protección de datos",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar art. 18.4 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V33",
+      "file": "t04-33-la-corona-posicion-inviolabilidad-refrendo-y-casa-del-rey.webp",
+      "title": "La Corona: posición, inviolabilidad, refrendo y Casa del Rey",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 56, 64 y 65 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V34",
+      "file": "t04-34-sucesion-a-la-corona-y-consorte.webp",
+      "title": "Sucesión a la Corona y consorte",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 57 y 58 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V35",
+      "file": "t04-35-regencia-tutela-y-juramento.webp",
+      "title": "Regencia, tutela y juramento",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 59 a 61 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V36",
+      "file": "t04-36-funciones-nacionales-e-internacionales-del-rey.webp",
+      "title": "Funciones nacionales e internacionales del Rey",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 62 y 63 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V37",
+      "file": "t04-37-cortes-generales-naturaleza-funciones-y-mandato-representativo.webp",
+      "title": "Cortes Generales: naturaleza, funciones y mandato representativo",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 66 a 68 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V38",
+      "file": "t04-38-congreso-senado-e-incompatibilidades.webp",
+      "title": "Congreso, Senado e incompatibilidades",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 68 a 70 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V39",
+      "file": "t04-39-prerrogativas-parlamentarias-y-autonomia-de-las-camaras.webp",
+      "title": "Prerrogativas parlamentarias y autonomía de las Cámaras",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 71 y 72 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V40",
+      "file": "t04-40-funcionamiento-de-las-camaras.webp",
+      "title": "Funcionamiento de las Cámaras",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 73 a 80 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V41",
+      "file": "t04-41-leyes-organicas-y-delegacion-legislativa.webp",
+      "title": "Leyes orgánicas y delegación legislativa",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 81 a 85 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V42",
+      "file": "t04-42-decreto-ley-iniciativa-y-procedimiento-legislativo.webp",
+      "title": "Decreto-ley, iniciativa y procedimiento legislativo",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 86 a 92 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V43",
+      "file": "t04-43-tratados-internacionales.webp",
+      "title": "Tratados internacionales",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 93 a 96 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V44",
+      "file": "t04-44-gobierno-funciones-composicion-investidura-y-cese.webp",
+      "title": "Gobierno: funciones, composición, investidura y cese",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 97 a 101 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V45",
+      "file": "t04-45-responsabilidad-del-gobierno-y-administracion-publica.webp",
+      "title": "Responsabilidad del Gobierno y Administración Pública",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 102 a 107 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V46",
+      "file": "t04-46-control-parlamentario-ordinario-del-gobierno.webp",
+      "title": "Control parlamentario ordinario del Gobierno",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 108 a 111 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V47",
+      "file": "t04-47-confianza-censura-y-disolucion.webp",
+      "title": "Confianza, censura y disolución",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 112 a 115 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V48",
+      "file": "t04-48-estados-de-alarma-excepcion-y-sitio.webp",
+      "title": "Estados de alarma, excepción y sitio",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar art. 116 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V49",
+      "file": "t04-49-poder-judicial-principios-y-proceso.webp",
+      "title": "Poder Judicial: principios y proceso",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 117 a 121 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V50",
+      "file": "t04-50-organos-judiciales-ministerio-fiscal-jurado-y-policia-judicial.webp",
+      "title": "Órganos judiciales, Ministerio Fiscal, Jurado y Policía Judicial",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 122 a 127 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V51",
+      "file": "t04-51-economia-iniciativa-publica-y-planificacion.webp",
+      "title": "Economía, iniciativa pública y planificación",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 128 a 132 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V52",
+      "file": "t04-52-potestad-tributaria-presupuestos-deuda-y-tribunal-de-cuentas.webp",
+      "title": "Potestad tributaria, presupuestos, deuda y Tribunal de Cuentas",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 133 a 136 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V53",
+      "file": "t04-53-principios-territoriales-y-administracion-local.webp",
+      "title": "Principios territoriales y Administración local",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 137 a 142 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V54",
+      "file": "t04-54-acceso-a-la-autonomia-y-estatutos.webp",
+      "title": "Acceso a la autonomía y Estatutos",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 143 a 147 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V55",
+      "file": "t04-55-distribucion-de-competencias.webp",
+      "title": "Distribución de competencias",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 148 y 149 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V56",
+      "file": "t04-56-tecnicas-del-articulo-150-y-via-especial-del-articulo-151.webp",
+      "title": "Técnicas del artículo 150 y vía especial del artículo 151",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 150 y 151 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V57",
+      "file": "t04-57-instituciones-controles-coercion-y-financiacion-autonomica.webp",
+      "title": "Instituciones, controles, coerción y financiación autonómica",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar arts. 152 a 158 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V58",
+      "file": "t04-58-tribunal-constitucional.webp",
+      "title": "Tribunal Constitucional",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 159 a 165 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V59",
+      "file": "t04-59-reforma-constitucional.webp",
+      "title": "Reforma constitucional",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar arts. 166 a 169 CE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V60",
+      "file": "t04-60-caracter-mandato-y-relacion-con-las-cortes.webp",
+      "title": "Carácter, mandato y relación con las Cortes",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 1 y 2 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V61",
+      "file": "t04-61-elegibilidad-acreditacion-y-toma-de-posesion.webp",
+      "title": "Elegibilidad, acreditación y toma de posesión",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 3 y 4 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V62",
+      "file": "t04-62-cese-vacante-y-sustitucion.webp",
+      "title": "Cese, vacante y sustitución",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar art. 5 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V63",
+      "file": "t04-63-autonomia-inviolabilidad-y-fuero.webp",
+      "title": "Autonomía, inviolabilidad y fuero",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar art. 6 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V64",
+      "file": "t04-64-incompatibilidades.webp",
+      "title": "Incompatibilidades",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar art. 7 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V65",
+      "file": "t04-65-adjuntos-del-defensor-del-pueblo.webp",
+      "title": "Adjuntos del Defensor del Pueblo",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar art. 8 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V66",
+      "file": "t04-66-inicio-legitimacion-y-continuidad-de-la-investigacion.webp",
+      "title": "Inicio, legitimación y continuidad de la investigación",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 9 a 12 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V67",
+      "file": "t04-67-ambito-autonomico-justicia-y-administracion-militar.webp",
+      "title": "Ámbito autonómico, Justicia y Administración militar",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 12 a 14 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V68",
+      "file": "t04-68-presentacion-admision-y-efectos-procesales-de-las-quejas.webp",
+      "title": "Presentación, admisión y efectos procesales de las quejas",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 15 a 17 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V69",
+      "file": "t04-69-investigacion-sumaria-e-informe-inicial.webp",
+      "title": "Investigación sumaria e informe inicial",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar art. 18 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V70",
+      "file": "t04-70-colaboracion-comparecencia-y-conducta-del-personal.webp",
+      "title": "Colaboración, comparecencia y conducta del personal",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar arts. 19 a 21 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V71",
+      "file": "t04-71-documentos-reservados-y-secreto.webp",
+      "title": "Documentos reservados y secreto",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar art. 22 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V72",
+      "file": "t04-72-responsabilidades-delito-y-gastos-de-particulares.webp",
+      "title": "Responsabilidades, delito y gastos de particulares",
+      "type": "infografia",
+      "placement": "bloque-72",
+      "status": "planned",
+      "block": 72,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar arts. 23 a 27 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V73",
+      "file": "t04-73-resoluciones-recursos-y-recomendaciones.webp",
+      "title": "Resoluciones, recursos y recomendaciones",
+      "type": "infografia",
+      "placement": "bloque-73",
+      "status": "planned",
+      "block": 73,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 28 a 30 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V74",
+      "file": "t04-74-notificaciones-e-informes-a-las-cortes.webp",
+      "title": "Notificaciones e informes a las Cortes",
+      "type": "infografia",
+      "placement": "bloque-74",
+      "status": "planned",
+      "block": 74,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar arts. 31 a 33 LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V75",
+      "file": "t04-75-mecanismo-nacional-de-prevencion-de-la-tortura.webp",
+      "title": "Mecanismo Nacional de Prevención de la Tortura",
+      "type": "infografia",
+      "placement": "bloque-75",
+      "status": "planned",
+      "block": 75,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar disposición final única LO 3/1981.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V76",
+      "file": "t04-76-proteccion-civil-y-naturaleza-de-los-derechos.webp",
+      "title": "Protección civil y naturaleza de los derechos",
+      "type": "infografia",
+      "placement": "bloque-76",
+      "status": "planned",
+      "block": 76,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar art. 1 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V77",
+      "file": "t04-77-delimitacion-y-consentimiento.webp",
+      "title": "Delimitación y consentimiento",
+      "type": "infografia",
+      "placement": "bloque-77",
+      "status": "planned",
+      "block": 77,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar art. 2 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V78",
+      "file": "t04-78-consentimiento-de-menores-e-incapaces.webp",
+      "title": "Consentimiento de menores e incapaces",
+      "type": "infografia",
+      "placement": "bloque-78",
+      "status": "planned",
+      "block": 78,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar art. 3 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V79",
+      "file": "t04-79-proteccion-despues-del-fallecimiento.webp",
+      "title": "Protección después del fallecimiento",
+      "type": "infografia",
+      "placement": "bloque-79",
+      "status": "planned",
+      "block": 79,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con edificio institucional para explicar arts. 4 a 6 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V80",
+      "file": "t04-80-intromisiones-captacion-y-revelacion-de-la-vida-intima.webp",
+      "title": "Intromisiones: captación y revelación de la vida íntima",
+      "type": "infografia",
+      "placement": "bloque-80",
+      "status": "planned",
+      "block": 80,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con balanza y norma para explicar art. 7.1 a 7.4 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V81",
+      "file": "t04-81-intromisiones-imagen-explotacion-e-imputaciones.webp",
+      "title": "Intromisiones: imagen, explotación e imputaciones",
+      "type": "infografia",
+      "placement": "bloque-81",
+      "status": "planned",
+      "block": 81,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con recorrido procedimental para explicar art. 7.5 a 7.8 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V82",
+      "file": "t04-82-actuaciones-y-usos-de-imagen-no-ilegitimos.webp",
+      "title": "Actuaciones y usos de imagen no ilegítimos",
+      "type": "infografia",
+      "placement": "bloque-82",
+      "status": "planned",
+      "block": 82,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con hemiciclo y votación para explicar art. 8 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V83",
+      "file": "t04-83-tutela-judicial-y-medidas-de-restablecimiento.webp",
+      "title": "Tutela judicial y medidas de restablecimiento",
+      "type": "infografia",
+      "placement": "bloque-83",
+      "status": "planned",
+      "block": 83,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con escena ciudadana para explicar art. 9.1 y 9.2 LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T04-V84",
+      "file": "t04-84-perjuicio-indemnizacion-caducidad-y-disposiciones.webp",
+      "title": "Perjuicio, indemnización, caducidad y disposiciones",
+      "type": "infografia",
+      "placement": "bloque-84",
+      "status": "planned",
+      "block": 84,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con documento y sello para explicar art. 9.3 a 9.5 y disposiciones LO 1/1982.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}
