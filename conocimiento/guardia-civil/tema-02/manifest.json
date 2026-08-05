@@ -1,0 +1,109 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-02",
+  "topic_number": 2,
+  "slug": "igualdad-efectiva-mujeres-hombres",
+  "title": "Igualdad efectiva de mujeres y hombres. Ley Orgánica 3/2007",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-05",
+  "source_file": "conocimiento/guardia-civil/tema-02/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_primary_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-02-igualdad-efectiva-mujeres-hombres.md",
+    "atestado": "temas/guardia-civil/atestado/tema-02-igualdad-efectiva-mujeres-hombres.md"
+  },
+  "semantic_blocks": 30,
+  "atomic_facts": 150,
+  "master_statements": 150,
+  "coverage_file": "conocimiento/guardia-civil/tema-02/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2024-T02",
+    "BOE-LO3-2007-GC-T02",
+    "BOE-RDL6-2019-GC-T02",
+    "BOE-LO10-2022-GC-T02",
+    "BOE-L11-2013-GC-T02",
+    "BOE-IV-PLAN-AGE-2025-GC-T02",
+    "BOE-CONVOCATORIA-GC-2026-T02"
+  ],
+  "official_exam_items": [
+    "of-gc-p2020-1a-q009",
+    "of-gc-p2020-1a-q010",
+    "of-gc-p2020-2a-q009",
+    "of-gc-p2020-2a-q010",
+    "of-gc-p2021-1a-q012",
+    "of-gc-p2021-1a-q013",
+    "of-gc-p2021-2a-q011",
+    "of-gc-p2021-2a-q012",
+    "of-gc-p2022-1a-q012",
+    "of-gc-p2022-1a-q013",
+    "of-gc-p2022-2a-q011",
+    "of-gc-p2022-2a-q012",
+    "of-gc-p2022-3a-q011",
+    "of-gc-p2022-3a-q012",
+    "of-gc-p2023-1a-q010",
+    "of-gc-p2023-1a-q011",
+    "of-gc-p2023-1a-q012",
+    "of-gc-p2023-2a-q011",
+    "of-gc-p2023-2a-q012",
+    "of-gc-p2023-2a-q013",
+    "of-gc-p2024-1a-q013",
+    "of-gc-p2024-1a-q014",
+    "of-gc-p2024-2a-q013",
+    "of-gc-p2024-2a-q014",
+    "of-gc-p2024-3a-q013",
+    "of-gc-p2024-3a-q014",
+    "of-gc-p2025-a-q014",
+    "of-gc-p2025-a-q015",
+    "of-gc-p2026-a-q013"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-02/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-02/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-02/manifest.json",
+    "questions": 237,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-02/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-02/manifest.json",
+    "total": 0,
+    "planned": 30
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-02/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-05",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/guardia-civil/tema-02/revision-1.0.md"
+  }
+}

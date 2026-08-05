@@ -1,0 +1,32 @@
+# Plan visual · Tema 2
+
+- `t02-01-alcance-oficial-y-mapa-de-la-ley-organica-3-2007.webp` — Alcance oficial y mapa de la Ley Orgánica 3/2007
+- `t02-02-igualdad-de-trato-y-principio-informador.webp` — Igualdad de trato y principio informador
+- `t02-03-igualdad-en-el-empleo-y-requisito-profesional.webp` — Igualdad en el empleo y requisito profesional
+- `t02-04-discriminacion-directa-indirecta-y-orden-de-discriminar.webp` — Discriminación directa, indirecta y orden de discriminar
+- `t02-05-acoso-sexual-y-acoso-por-razon-de-sexo.webp` — Acoso sexual y acoso por razón de sexo
+- `t02-06-embarazo-represalias-y-consecuencias-juridicas.webp` — Embarazo, represalias y consecuencias jurídicas
+- `t02-07-acciones-positivas-tutela-y-carga-de-la-prueba.webp` — Acciones positivas, tutela y carga de la prueba
+- `t02-08-criterios-generales-de-los-poderes-publicos.webp` — Criterios generales de los poderes públicos
+- `t02-09-transversalidad-nombramientos-plan-e-informe.webp` — Transversalidad, nombramientos, plan e informe
+- `t02-10-impacto-de-genero-estadisticas-e-indicadores.webp` — Impacto de género, estadísticas e indicadores
+- `t02-11-cooperacion-administrativa-y-tiempos-de-la-ciudad.webp` — Cooperación administrativa y tiempos de la ciudad
+- `t02-12-medios-publicos-y-corporacion-rtve.webp` — Medios públicos y Corporación RTVE
+- `t02-13-agencia-efe-e-igualdad-informativa.webp` — Agencia EFE e igualdad informativa
+- `t02-14-medios-privados-autoridad-audiovisual-y-publicidad.webp` — Medios privados, autoridad audiovisual y publicidad
+- `t02-15-empleabilidad-y-negociacion-colectiva.webp` — Empleabilidad y negociación colectiva
+- `t02-16-conciliacion-y-corresponsabilidad.webp` — Conciliación y corresponsabilidad
+- `t02-17-obligacion-de-elaborar-planes-de-igualdad.webp` — Obligación de elaborar planes de igualdad
+- `t02-18-concepto-diagnostico-y-registro-del-plan.webp` — Concepto, diagnóstico y registro del plan
+- `t02-19-transparencia-y-prevencion-del-acoso-en-la-empresa.webp` — Transparencia y prevención del acoso en la empresa
+- `t02-20-apoyo-a-pymes-y-distintivo-empresarial.webp` — Apoyo a pymes y distintivo empresarial
+- `t02-21-criterios-de-igualdad-en-las-administraciones.webp` — Criterios de igualdad en las Administraciones
+- `t02-22-organos-directivos-seleccion-y-representacion.webp` — Órganos directivos, selección y representación
+- `t02-23-permisos-provision-licencias-vacaciones-y-formacion.webp` — Permisos, provisión, licencias, vacaciones y formación
+- `t02-24-acceso-formacion-y-protocolo-frente-al-acoso.webp` — Acceso, formación y protocolo frente al acoso
+- `t02-25-evaluacion-anual-y-plan-de-igualdad-de-la-age.webp` — Evaluación anual y Plan de Igualdad de la AGE
+- `t02-26-igualdad-en-las-fuerzas-armadas.webp` — Igualdad en las Fuerzas Armadas
+- `t02-27-igualdad-en-las-fuerzas-y-cuerpos-de-seguridad.webp` — Igualdad en las Fuerzas y Cuerpos de Seguridad
+- `t02-28-acceso-a-bienes-embarazo-seguros-e-indemnizacion.webp` — Acceso a bienes, embarazo, seguros e indemnización
+- `t02-29-responsabilidad-social-publicidad-y-consejos.webp` — Responsabilidad social, publicidad y consejos
+- `t02-30-comision-unidades-de-igualdad-y-consejo-de-participacion.webp` — Comisión, Unidades de Igualdad y Consejo de Participación

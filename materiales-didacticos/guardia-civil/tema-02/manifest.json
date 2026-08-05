@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-02",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada_sin_produccion_grafica",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los audios y vídeos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-02",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-GC-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "GC-T02-PARTE-1",
+      "number": 1,
+      "title": "Principio de igualdad y tutela antidiscriminatoria",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "anchor_blocks": [
+        1,
+        7
+      ]
+    },
+    {
+      "id": "GC-T02-PARTE-2",
+      "number": 2,
+      "title": "Políticas públicas para la igualdad",
+      "blocks": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "anchor_blocks": [
+        8,
+        11
+      ]
+    },
+    {
+      "id": "GC-T02-PARTE-3",
+      "number": 3,
+      "title": "Medios, trabajo y empresas",
+      "blocks": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "anchor_blocks": [
+        12,
+        20
+      ]
+    },
+    {
+      "id": "GC-T02-PARTE-4",
+      "number": 4,
+      "title": "Empleo público, Fuerzas Armadas y FCSE",
+      "blocks": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "anchor_blocks": [
+        21,
+        27
+      ]
+    },
+    {
+      "id": "GC-T02-PARTE-5",
+      "number": 5,
+      "title": "Bienes, responsabilidad social y organización",
+      "blocks": [
+        28,
+        29,
+        30
+      ],
+      "anchor_blocks": [
+        28,
+        30
+      ]
+    }
+  ],
+  "resources": []
+}

@@ -1,0 +1,662 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 2,
+  "titulo": "Igualdad efectiva de mujeres y hombres. Ley Orgánica 3/2007",
+  "generated_at": "2026-08-05",
+  "mapping_method": "manual_editorial_review_with_official_key",
+  "mapping_status": "verified",
+  "answer_status": "official_final_answer_key",
+  "display_policy": {
+    "show_reviewed_appearances": true,
+    "show_answer": true,
+    "show_feedback": true,
+    "never_present_as_unverified": true
+  },
+  "aviso": "Las 29 apariciones proceden de cuadernillos y plantillas finales verificadas; se conserva la trazabilidad por examen y hecho.",
+  "total_referencias": 29,
+  "con_bloque_asignado": 29,
+  "con_respuesta_verificada": 29,
+  "por_bloque": {
+    "2": 2,
+    "23": 2,
+    "17": 1,
+    "30": 4,
+    "25": 2,
+    "6": 1,
+    "3": 1,
+    "7": 3,
+    "4": 1,
+    "14": 1,
+    "15": 1,
+    "9": 1,
+    "28": 1,
+    "29": 1,
+    "5": 1,
+    "20": 2,
+    "11": 1,
+    "27": 2,
+    "26": 1
+  },
+  "por_promocion": {
+    "2020": 4,
+    "2021": 4,
+    "2022": 6,
+    "2023": 6,
+    "2024": 6,
+    "2025": 2,
+    "2026": 1
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q009",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 9,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T02-F006"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de...: Señale la opción INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q010",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 10,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T02-F115"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Con el fin de facilitar la promoción profesional de las empleadas públicas y su acceso a puestos directivos en la Administración General del Estado, en las convocatorias de los correspondientes cursos de formación se reservará al menos un ____ de las plazas para su adjudicación a aquellas que reúnan los requisitos establecidos.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q009",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 9,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T02-F082"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Respecto a los planes de igualdad en las empresas, señale la opción CORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q010",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 10,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T02-F146"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿Cuál es el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad entre mujeres y hombres?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q012",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 12,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T02-F125"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿Por quién será evaluado anualmente el Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q013",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 13,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T02-F149"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿Cuál es el órgano colegiado de consulta y asesoramiento, cuyo fin esencial es servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad de trato y de oportunidades entre mujeres y hombres, y la lucha contra la discriminación por razón de sexo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q011",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 11,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T02-F026"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. A los efectos de esta Ley, todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad, constituye…",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q012",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 12,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T02-F124"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿Quién aprobará, al inicio de cada legislatura el Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q012",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 12,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T02-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Con el objeto de actualizar los conocimientos de los empleados y empleadas públicas, ¿durante qué plazo de tiempo se otorgará preferencia en la adjudicación de plazas para participar en los cursos de formación a quienes hayan reingresado desde la situación de excedencia por razones de guarda legal y atención a personas con discapacidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q013",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 13,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T02-F147"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. _______________se encomendará a uno de sus órganos directivos el desarrollo de las funciones relacionadas con el principio de igualdad entre mujeres y hombres en el ámbito de las materias de su competencia.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q011",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 11,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T02-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. En el acceso al empleo, incluida la formación necesaria, una diferencia de trato basada en una característica relacionada con el sexo cuando, debido a la naturaleza de las actividades profesionales concretas, dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado,…: Señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q012",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 12,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T02-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Las Unidades de Igualdad. En todos los Ministerios se encomendará a uno de sus órganos directivos el desarrollo de las funciones relacionadas con el principio de igualdad entre mujeres y hombres en el ámbito de las materias de su competencia y, en particular….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q011",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 11,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T02-F006"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q012",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 12,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T02-F035"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Prueba. De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad. Lo establecido anteriormente NO será de aplicación, a los procesos…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q010",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 10,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T02-F017"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Se considera discriminación indirecta por razón de sexo ___________________, salvo que dicha disposición criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q011",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 11,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T02-F066"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. En relación con la igualdad y medios de comunicación, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q012",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 12,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T02-F075"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. De acuerdo con lo establecido legalmente, mediante _____________________ se podrán establecer medidas de acción positiva para favorecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q011",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 11,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T02-F041"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. El principio de _____________________________________________________ informará, con carácter transversal, la actuación de todos los Poderes Públicos.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q012",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 12,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T02-F136"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. En relación con la igualdad de trato en el acceso a bienes y servicios y su suministro, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q013",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 13,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T02-F142"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. La igualdad en la responsabilidad social de las empresas. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q013",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 13,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T02-F021"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley, ¿qué constituye acoso sexual?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q014",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 14,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T02-F096"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Para impulsar la adopción voluntaria de planes de igualdad, ____________ establecerá medidas de fomento, especialmente dirigidas a las pequeñas y las medianas empresas, que incluirán el apoyo técnico necesario.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q013",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 13,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T02-F051"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Colaboración entre las Administraciones públicas. La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q014",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 14,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T02-F132"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. Las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado promoverán la igualdad efectiva entre mujeres y hombres, impidiendo cualquier situación de discriminación profesional, especialmente, en el sistema de acceso, formación, ascensos, _____________ y situaciones administrativas.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q013",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 13,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T02-F033"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. El principio de igualdad y la tutela contra la discriminación. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q014",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 14,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T02-F099"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿Quién controlará que las empresas que obtengan el distintivo empresarial en materia de igualdad mantengan permanentemente la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q014",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 14,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T02-F127"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. De acuerdo con lo dispuesto en esta Ley, las normas sobre personal de las Fuerzas Armadas procurarán la efectividad del principio de igualdad entre mujeres y hombres, en especial en lo que se refiere al régimen de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q015",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 15,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T02-F134"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. ¿En qué ámbitos las normas referidas al personal al servicio de las administraciones públicas serán de aplicación en las Fuerzas y Cuerpos de Seguridad, adaptándose, en su caso, a las peculiaridades de las funciones que tienen encomendadas, en los términos establecidos por su normativa específica?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q013",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 13,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T02-F035"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica para la igualdad efectiva de mujeres y hombres. El principio de igualdad y la tutela contra la discriminación. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Pregunta y plantilla final verificadas; regla vigente cotejada con el texto consolidado."
+    }
+  ]
+}

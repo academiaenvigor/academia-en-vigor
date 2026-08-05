@@ -1,0 +1,229 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 2,
+  "topic_title": "Igualdad efectiva de mujeres y hombres. Ley Orgánica 3/2007",
+  "id_prefix": "GC-T02",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-02/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-02/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y mapa de la Ley Orgánica 3/2007"
+      },
+      {
+        "number": 2,
+        "title": "Igualdad de trato y principio informador"
+      },
+      {
+        "number": 3,
+        "title": "Igualdad en el empleo y requisito profesional"
+      },
+      {
+        "number": 4,
+        "title": "Discriminación directa, indirecta y orden de discriminar"
+      },
+      {
+        "number": 5,
+        "title": "Acoso sexual y acoso por razón de sexo"
+      },
+      {
+        "number": 6,
+        "title": "Embarazo, represalias y consecuencias jurídicas"
+      },
+      {
+        "number": 7,
+        "title": "Acciones positivas, tutela y carga de la prueba"
+      },
+      {
+        "number": 8,
+        "title": "Criterios generales de los poderes públicos"
+      },
+      {
+        "number": 9,
+        "title": "Transversalidad, nombramientos, plan e informe"
+      },
+      {
+        "number": 10,
+        "title": "Impacto de género, estadísticas e indicadores"
+      },
+      {
+        "number": 11,
+        "title": "Cooperación administrativa y tiempos de la ciudad"
+      },
+      {
+        "number": 12,
+        "title": "Medios públicos y Corporación RTVE"
+      },
+      {
+        "number": 13,
+        "title": "Agencia EFE e igualdad informativa"
+      },
+      {
+        "number": 14,
+        "title": "Medios privados, autoridad audiovisual y publicidad"
+      },
+      {
+        "number": 15,
+        "title": "Empleabilidad y negociación colectiva"
+      },
+      {
+        "number": 16,
+        "title": "Conciliación y corresponsabilidad"
+      },
+      {
+        "number": 17,
+        "title": "Obligación de elaborar planes de igualdad"
+      },
+      {
+        "number": 18,
+        "title": "Concepto, diagnóstico y registro del plan"
+      },
+      {
+        "number": 19,
+        "title": "Transparencia y prevención del acoso en la empresa"
+      },
+      {
+        "number": 20,
+        "title": "Apoyo a pymes y distintivo empresarial"
+      },
+      {
+        "number": 21,
+        "title": "Criterios de igualdad en las Administraciones"
+      },
+      {
+        "number": 22,
+        "title": "Órganos directivos, selección y representación"
+      },
+      {
+        "number": 23,
+        "title": "Permisos, provisión, licencias, vacaciones y formación"
+      },
+      {
+        "number": 24,
+        "title": "Acceso, formación y protocolo frente al acoso"
+      },
+      {
+        "number": 25,
+        "title": "Evaluación anual y Plan de Igualdad de la AGE"
+      },
+      {
+        "number": 26,
+        "title": "Igualdad en las Fuerzas Armadas"
+      },
+      {
+        "number": 27,
+        "title": "Igualdad en las Fuerzas y Cuerpos de Seguridad"
+      },
+      {
+        "number": 28,
+        "title": "Acceso a bienes, embarazo, seguros e indemnización"
+      },
+      {
+        "number": 29,
+        "title": "Responsabilidad social, publicidad y consejos"
+      },
+      {
+        "number": 30,
+        "title": "Comisión, Unidades de Igualdad y Consejo de Participación"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Principio de igualdad y tutela antidiscriminatoria",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Políticas públicas para la igualdad",
+        "blocks": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Medios, trabajo y empresas",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Empleo público, Fuerzas Armadas y FCSE",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Bienes, responsabilidad social y organización",
+        "blocks": [
+          28,
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

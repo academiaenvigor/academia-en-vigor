@@ -1,0 +1,498 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-02",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 30,
+    "integrated": 0,
+    "planned": 30
+  },
+  "integration_status": "planned_in_other_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "T02-V01",
+      "file": "t02-01-alcance-oficial-y-mapa-de-la-ley-organica-3-2007.webp",
+      "title": "Alcance oficial y mapa de la Ley Orgánica 3/2007",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar Programa oficial; títulos I a VIII: Alcance oficial y mapa de la Ley Orgánica 3/2007.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V02",
+      "file": "t02-02-igualdad-de-trato-y-principio-informador.webp",
+      "title": "Igualdad de trato y principio informador",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 3 y 4: Igualdad de trato y principio informador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V03",
+      "file": "t02-03-igualdad-en-el-empleo-y-requisito-profesional.webp",
+      "title": "Igualdad en el empleo y requisito profesional",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 5: Igualdad en el empleo y requisito profesional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V04",
+      "file": "t02-04-discriminacion-directa-indirecta-y-orden-de-discriminar.webp",
+      "title": "Discriminación directa, indirecta y orden de discriminar",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 6: Discriminación directa, indirecta y orden de discriminar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V05",
+      "file": "t02-05-acoso-sexual-y-acoso-por-razon-de-sexo.webp",
+      "title": "Acoso sexual y acoso por razón de sexo",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 7: Acoso sexual y acoso por razón de sexo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V06",
+      "file": "t02-06-embarazo-represalias-y-consecuencias-juridicas.webp",
+      "title": "Embarazo, represalias y consecuencias jurídicas",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 8 a 10: Embarazo, represalias y consecuencias jurídicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V07",
+      "file": "t02-07-acciones-positivas-tutela-y-carga-de-la-prueba.webp",
+      "title": "Acciones positivas, tutela y carga de la prueba",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 11 a 13: Acciones positivas, tutela y carga de la prueba.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V08",
+      "file": "t02-08-criterios-generales-de-los-poderes-publicos.webp",
+      "title": "Criterios generales de los poderes públicos",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 14: Criterios generales de los poderes públicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V09",
+      "file": "t02-09-transversalidad-nombramientos-plan-e-informe.webp",
+      "title": "Transversalidad, nombramientos, plan e informe",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 15 a 18: Transversalidad, nombramientos, plan e informe.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V10",
+      "file": "t02-10-impacto-de-genero-estadisticas-e-indicadores.webp",
+      "title": "Impacto de género, estadísticas e indicadores",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 19 y 20: Impacto de género, estadísticas e indicadores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V11",
+      "file": "t02-11-cooperacion-administrativa-y-tiempos-de-la-ciudad.webp",
+      "title": "Cooperación administrativa y tiempos de la ciudad",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 21 y 22: Cooperación administrativa y tiempos de la ciudad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V12",
+      "file": "t02-12-medios-publicos-y-corporacion-rtve.webp",
+      "title": "Medios públicos y Corporación RTVE",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 36 y 37: Medios públicos y Corporación RTVE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V13",
+      "file": "t02-13-agencia-efe-e-igualdad-informativa.webp",
+      "title": "Agencia EFE e igualdad informativa",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 38: Agencia EFE e igualdad informativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V14",
+      "file": "t02-14-medios-privados-autoridad-audiovisual-y-publicidad.webp",
+      "title": "Medios privados, autoridad audiovisual y publicidad",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 39 a 41: Medios privados, autoridad audiovisual y publicidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V15",
+      "file": "t02-15-empleabilidad-y-negociacion-colectiva.webp",
+      "title": "Empleabilidad y negociación colectiva",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 42 y 43: Empleabilidad y negociación colectiva.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V16",
+      "file": "t02-16-conciliacion-y-corresponsabilidad.webp",
+      "title": "Conciliación y corresponsabilidad",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 44: Conciliación y corresponsabilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V17",
+      "file": "t02-17-obligacion-de-elaborar-planes-de-igualdad.webp",
+      "title": "Obligación de elaborar planes de igualdad",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 45: Obligación de elaborar planes de igualdad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V18",
+      "file": "t02-18-concepto-diagnostico-y-registro-del-plan.webp",
+      "title": "Concepto, diagnóstico y registro del plan",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 46: Concepto, diagnóstico y registro del plan.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V19",
+      "file": "t02-19-transparencia-y-prevencion-del-acoso-en-la-empresa.webp",
+      "title": "Transparencia y prevención del acoso en la empresa",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 47 y 48: Transparencia y prevención del acoso en la empresa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V20",
+      "file": "t02-20-apoyo-a-pymes-y-distintivo-empresarial.webp",
+      "title": "Apoyo a pymes y distintivo empresarial",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 49 y 50: Apoyo a pymes y distintivo empresarial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V21",
+      "file": "t02-21-criterios-de-igualdad-en-las-administraciones.webp",
+      "title": "Criterios de igualdad en las Administraciones",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar art. 51: Criterios de igualdad en las Administraciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V22",
+      "file": "t02-22-organos-directivos-seleccion-y-representacion.webp",
+      "title": "Órganos directivos, selección y representación",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 52 a 55: Órganos directivos, selección y representación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V23",
+      "file": "t02-23-permisos-provision-licencias-vacaciones-y-formacion.webp",
+      "title": "Permisos, provisión, licencias, vacaciones y formación",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 56 a 60: Permisos, provisión, licencias, vacaciones y formación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V24",
+      "file": "t02-24-acceso-formacion-y-protocolo-frente-al-acoso.webp",
+      "title": "Acceso, formación y protocolo frente al acoso",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 61 y 62: Acceso, formación y protocolo frente al acoso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V25",
+      "file": "t02-25-evaluacion-anual-y-plan-de-igualdad-de-la-age.webp",
+      "title": "Evaluación anual y Plan de Igualdad de la AGE",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 63 y 64: Evaluación anual y Plan de Igualdad de la AGE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V26",
+      "file": "t02-26-igualdad-en-las-fuerzas-armadas.webp",
+      "title": "Igualdad en las Fuerzas Armadas",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 65 y 66: Igualdad en las Fuerzas Armadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V27",
+      "file": "t02-27-igualdad-en-las-fuerzas-y-cuerpos-de-seguridad.webp",
+      "title": "Igualdad en las Fuerzas y Cuerpos de Seguridad",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 67 y 68: Igualdad en las Fuerzas y Cuerpos de Seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V28",
+      "file": "t02-28-acceso-a-bienes-embarazo-seguros-e-indemnizacion.webp",
+      "title": "Acceso a bienes, embarazo, seguros e indemnización",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 69 a 72: Acceso a bienes, embarazo, seguros e indemnización.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V29",
+      "file": "t02-29-responsabilidad-social-publicidad-y-consejos.webp",
+      "title": "Responsabilidad social, publicidad y consejos",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 73 a 75: Responsabilidad social, publicidad y consejos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "T02-V30",
+      "file": "t02-30-comision-unidades-de-igualdad-y-consejo-de-participacion.webp",
+      "title": "Comisión, Unidades de Igualdad y Consejo de Participación",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "Referencia visual pendiente para explicar arts. 76 a 78: Comisión, Unidades de Igualdad y Consejo de Participación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

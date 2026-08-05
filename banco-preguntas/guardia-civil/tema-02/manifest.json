@@ -1,0 +1,94 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 2,
+  "estado": "ready",
+  "publicacion": "not_published",
+  "total_preguntas": 237,
+  "total_hechos": 150,
+  "hechos_cubiertos": 150,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 79,
+    "B": 79,
+    "C": 79
+  },
+  "distribucion_dificultad": {
+    "alta": 174,
+    "media": 63
+  },
+  "distribucion_tipo": {
+    "literal": 39,
+    "deteccion_error": 38,
+    "comparativa": 39,
+    "supuesto_practico": 41,
+    "regla_requisito": 38,
+    "terminologica": 42
+  },
+  "preguntas_por_bloque": {
+    "1": 8,
+    "2": 8,
+    "3": 8,
+    "4": 8,
+    "5": 8,
+    "6": 8,
+    "7": 9,
+    "8": 7,
+    "9": 7,
+    "10": 8,
+    "11": 7,
+    "12": 7,
+    "13": 7,
+    "14": 8,
+    "15": 8,
+    "16": 7,
+    "17": 7,
+    "18": 9,
+    "19": 8,
+    "20": 8,
+    "21": 7,
+    "22": 8,
+    "23": 9,
+    "24": 7,
+    "25": 9,
+    "26": 7,
+    "27": 9,
+    "28": 9,
+    "29": 8,
+    "30": 9
+  },
+  "preguntas_por_parte": {
+    "1": 57,
+    "2": 29,
+    "3": 69,
+    "4": 56,
+    "5": 26
+  },
+  "caracter": {
+    "propias": 237,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "../../../conocimiento/guardia-civil/tema-02/master.md",
+  "cobertura": "../../../conocimiento/guardia-civil/tema-02/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/guardia-civil/tema-02/plan.json",
+  "official_exam_index": "indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "blocked_until_editorial_approval",
+  "quality_gate": {
+    "status": "passed",
+    "reasons": [],
+    "risk5_second_formulations_pending": 0
+  }
+}
