@@ -19,8 +19,8 @@ def prefijo(opposition: str) -> str:
 def patrones(opposition: str) -> tuple[re.Pattern, re.Pattern, re.Pattern]:
     pref = prefijo(opposition)
     return (
-        re.compile(rf"^of-{pref}-p\d+-[a-z]-q\d{{3}}$"),
-        re.compile(rf"^of-{pref}-p\d+-[a-z]$"),
+        re.compile(rf"^of-{pref}-p\d+-[a-z0-9]+-q\d{{3}}$"),
+        re.compile(rf"^of-{pref}-p\d+-[a-z0-9]+$"),
         re.compile(rf"^{pref.upper()}-T\d{{2}}-F\d{{3}}$"),
     )
 
@@ -63,6 +63,9 @@ def validar(repo_root: Path, opposition: str) -> int:
         metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
         if metadata.get("id") != exam.get("id"):
             fail(errors, f"ID incoherente entre índice y metadata: {exam.get('id')}")
+        expected_options = int(metadata.get("expected_options", 3))
+        if expected_options not in {3, 4}:
+            fail(errors, f"{exam['id']}: expected_options debe ser 3 o 4")
 
         questions_path = exam.get("questions_path")
         if questions_path is None:
@@ -120,8 +123,8 @@ def validar(repo_root: Path, opposition: str) -> int:
                 numbers.add(q_number)
 
             options = record.get("options", [])
-            if len(options) != 3:
-                fail(errors, f"{qid}: debe tener exactamente tres opciones")
+            if len(options) != expected_options:
+                fail(errors, f"{qid}: debe tener exactamente {expected_options} opciones")
             option_ids = [option.get("id") for option in options]
             if len(set(option_ids)) != len(option_ids):
                 fail(errors, f"{qid}: opciones con IDs duplicados")

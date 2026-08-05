@@ -1,7 +1,7 @@
 # Contrato único de tema · Academia En Vigor
 
 **Versión:** 2.0.0  
-**Ámbito:** Policía Nacional · Temas 1–45
+**Ámbito:** Policía Nacional y Guardia Civil
 
 Este contrato impide que cada tema evolucione con una estructura distinta. Las
 diferencias de extensión, número de bloques, imágenes o preguntas son legítimas;
@@ -11,7 +11,7 @@ las diferencias de esquema, trazabilidad y rutas no lo son.
 
 Cada tema nace de:
 
-`conocimiento/policia-nacional/tema-NN/master.md`
+`conocimiento/<oposicion>/tema-NN/master.md`
 
 La fuente debe contener:
 

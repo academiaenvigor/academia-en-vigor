@@ -1,10 +1,5 @@
 {
- "schema_version": "1.0.0",
- "oposicion": "guardia-civil",
- "generated_at": null,
- "origen": "Enlace de cada pregunta oficial con el hecho atómico verificado de su bloque.",
- "total": 0,
- "coherentes_con_respuesta_propuesta": 0,
- "advertencia": "Vacío hasta que existan exámenes normalizados y temas redactados.",
- "retroalimentacion": {}
+  "schema_version": "1.0.0",
+  "policy": "No se incorporan comentarios ni retroalimentaciones de terceros al banco histórico.",
+  "source_feedback_in_repository": false
 }

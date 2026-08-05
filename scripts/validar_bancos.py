@@ -22,7 +22,8 @@ def load_topics() -> list[tuple[str, int]]:
 
 def validate_topic(opposition: str, topic: int) -> list[str]:
     code = f'tema-{topic:02d}'
-    prefix = 'PN' if opposition == 'policia-nacional' else opposition[:2].upper()
+    prefixes = {'policia-nacional': 'PN', 'guardia-civil': 'GC'}
+    prefix = prefixes.get(opposition, opposition[:2].upper())
     root = ROOT / f'banco-preguntas/{opposition}/{code}'
     manifest_path = root / 'manifest.json'
     coverage_path = ROOT / f'conocimiento/{opposition}/{code}/cobertura.json'
