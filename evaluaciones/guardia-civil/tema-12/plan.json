@@ -1,0 +1,391 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 12,
+  "topic_title": "Extranjería e inmigración",
+  "id_prefix": "GC-T12",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-12/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-12/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance, exclusiones y derechos generales"
+      },
+      {
+        "number": 2,
+        "title": "Política inmigratoria e integración"
+      },
+      {
+        "number": 3,
+        "title": "Documentación y libertad de circulación"
+      },
+      {
+        "number": 4,
+        "title": "Participación, reunión y asociación"
+      },
+      {
+        "number": 5,
+        "title": "Educación, trabajo, sindicación y huelga"
+      },
+      {
+        "number": 6,
+        "title": "Sanidad, vivienda, protección social y tributos"
+      },
+      {
+        "number": 7,
+        "title": "Reagrupación familiar"
+      },
+      {
+        "number": 8,
+        "title": "Tutela judicial, recursos y asistencia jurídica"
+      },
+      {
+        "number": 9,
+        "title": "Medidas contra la discriminación"
+      },
+      {
+        "number": 10,
+        "title": "Entrada, visados y salida"
+      },
+      {
+        "number": 11,
+        "title": "Situaciones de estancia y residencia"
+      },
+      {
+        "number": 12,
+        "title": "Residencia temporal"
+      },
+      {
+        "number": 13,
+        "title": "Víctimas de violencia de género o sexual"
+      },
+      {
+        "number": 14,
+        "title": "Residencia de larga duración"
+      },
+      {
+        "number": 15,
+        "title": "Estudios, intercambio, prácticas y voluntariado"
+      },
+      {
+        "number": 16,
+        "title": "Apátridas, indocumentados y refugiados"
+      },
+      {
+        "number": 17,
+        "title": "Menores no acompañados"
+      },
+      {
+        "number": 18,
+        "title": "Contingencia migratoria de menores"
+      },
+      {
+        "number": 19,
+        "title": "Autorizaciones de residencia y trabajo"
+      },
+      {
+        "number": 20,
+        "title": "Investigadores y profesionales cualificados"
+      },
+      {
+        "number": 21,
+        "title": "Contratación en origen, exenciones y excepciones"
+      },
+      {
+        "number": 22,
+        "title": "Temporada, frontera y servicios transnacionales"
+      },
+      {
+        "number": 23,
+        "title": "Tasas de extranjería"
+      },
+      {
+        "number": 24,
+        "title": "Potestad sancionadora y clases de infracción"
+      },
+      {
+        "number": 25,
+        "title": "Infracciones leves"
+      },
+      {
+        "number": 26,
+        "title": "Infracciones graves"
+      },
+      {
+        "number": 27,
+        "title": "Infracciones muy graves"
+      },
+      {
+        "number": 28,
+        "title": "Sanciones"
+      },
+      {
+        "number": 29,
+        "title": "Prescripción"
+      },
+      {
+        "number": 30,
+        "title": "Expulsión del territorio"
+      },
+      {
+        "number": 31,
+        "title": "Efectos de la expulsión y devolución"
+      },
+      {
+        "number": 32,
+        "title": "Colaboración contra redes y trata"
+      },
+      {
+        "number": 33,
+        "title": "Denegación de entrada y medidas cautelares"
+      },
+      {
+        "number": 34,
+        "title": "Centros de internamiento"
+      },
+      {
+        "number": 35,
+        "title": "Procedimientos preferente y ordinario"
+      },
+      {
+        "number": 36,
+        "title": "Ejecución de expulsión y recursos"
+      },
+      {
+        "number": 37,
+        "title": "Obligaciones de transportistas"
+      },
+      {
+        "number": 38,
+        "title": "Coordinación administrativa"
+      },
+      {
+        "number": 39,
+        "title": "Asociaciones y órganos consultivos"
+      },
+      {
+        "number": 40,
+        "title": "Disposiciones adicionales I a VI"
+      },
+      {
+        "number": 41,
+        "title": "Schengen, retorno, Ceuta y Melilla y protección de menores"
+      },
+      {
+        "number": 42,
+        "title": "Disposiciones transitorias y derogatoria"
+      },
+      {
+        "number": 43,
+        "title": "Disposiciones finales"
+      },
+      {
+        "number": 44,
+        "title": "RD 240/2007: objeto y familiares"
+      },
+      {
+        "number": 45,
+        "title": "Derechos del régimen de la Unión"
+      },
+      {
+        "number": 46,
+        "title": "Entrada y salida"
+      },
+      {
+        "number": 47,
+        "title": "Estancia inferior a tres meses"
+      },
+      {
+        "number": 48,
+        "title": "Residencia superior a tres meses"
+      },
+      {
+        "number": 49,
+        "title": "Tarjeta de familiar de ciudadano de la Unión"
+      },
+      {
+        "number": 50,
+        "title": "Mantenimiento del derecho de residencia"
+      },
+      {
+        "number": 51,
+        "title": "Residencia permanente"
+      },
+      {
+        "number": 52,
+        "title": "Tarjeta permanente, tramitación, renovación y vigencia"
+      },
+      {
+        "number": 53,
+        "title": "Orden público, seguridad y salud pública"
+      },
+      {
+        "number": 54,
+        "title": "Informes, garantías y resolución"
+      },
+      {
+        "number": 55,
+        "title": "Disposiciones del Real Decreto 240/2007"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Bases y derechos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Familia y garantías",
+        "blocks": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Entrada, estancia y residencia",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Trabajo y tasas",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Infracciones, sanciones y expulsión",
+        "blocks": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Internamiento y procedimiento",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      {
+        "code": "PARTE-7",
+        "title": "Coordinación y disposiciones",
+        "blocks": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      {
+        "code": "PARTE-8",
+        "title": "Ciudadanía de la Unión y del EEE",
+        "blocks": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

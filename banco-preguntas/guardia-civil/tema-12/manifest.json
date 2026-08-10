@@ -1,0 +1,121 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 12,
+  "estado": "ready",
+  "publicacion": "not_published",
+  "total_preguntas": 1084,
+  "total_hechos": 836,
+  "hechos_cubiertos": 836,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 362,
+    "B": 361,
+    "C": 361
+  },
+  "distribucion_dificultad": {
+    "media": 588,
+    "alta": 496
+  },
+  "distribucion_tipo": {
+    "literal": 217,
+    "comparativa": 217,
+    "regla_requisito": 217,
+    "supuesto_practico": 217,
+    "inversa": 216
+  },
+  "preguntas_por_bloque": {
+    "1": 11,
+    "2": 19,
+    "3": 10,
+    "4": 9,
+    "5": 13,
+    "6": 8,
+    "7": 47,
+    "8": 15,
+    "9": 8,
+    "10": 49,
+    "11": 12,
+    "12": 11,
+    "13": 12,
+    "14": 18,
+    "15": 15,
+    "16": 5,
+    "17": 28,
+    "18": 45,
+    "19": 35,
+    "20": 2,
+    "21": 37,
+    "22": 9,
+    "23": 35,
+    "24": 3,
+    "25": 8,
+    "26": 19,
+    "27": 13,
+    "28": 17,
+    "29": 6,
+    "30": 37,
+    "31": 16,
+    "32": 22,
+    "33": 17,
+    "34": 46,
+    "35": 20,
+    "36": 18,
+    "37": 15,
+    "38": 12,
+    "39": 8,
+    "40": 54,
+    "41": 20,
+    "42": 6,
+    "43": 23,
+    "44": 32,
+    "45": 11,
+    "46": 11,
+    "47": 3,
+    "48": 25,
+    "49": 21,
+    "50": 21,
+    "51": 21,
+    "52": 28,
+    "53": 35,
+    "54": 20,
+    "55": 23
+  },
+  "preguntas_por_parte": {
+    "1": 70,
+    "2": 70,
+    "3": 195,
+    "4": 118,
+    "5": 141,
+    "6": 116,
+    "7": 123,
+    "8": 251
+  },
+  "caracter": {
+    "propias": 1084,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "../../../conocimiento/guardia-civil/tema-12/master.md",
+  "cobertura": "../../../conocimiento/guardia-civil/tema-12/cobertura.json",
+  "evaluation_plan": "../../../evaluaciones/guardia-civil/tema-12/plan.json",
+  "official_exam_index": "indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": "ready_for_manual_integration",
+  "quality_gate": {
+    "status": "passed",
+    "reasons": [],
+    "risk5_second_formulations_pending": 0
+  }
+}

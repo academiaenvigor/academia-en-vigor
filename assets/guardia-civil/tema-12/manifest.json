@@ -1,0 +1,914 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-12",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 56,
+    "integrated": 0,
+    "planned": 56
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T12-V00",
+      "file": "t12-00-mapa-extranjeria-inmigracion.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Árbol inicial para distinguir régimen general, Unión/EEE, entrada, estancia, residencia, trabajo y sanción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V01",
+      "file": "t12-01-alcance-exclusiones-y-derechos-generales.webp",
+      "title": "Alcance, exclusiones y derechos generales",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar alcance, exclusiones y derechos generales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V02",
+      "file": "t12-02-politica-inmigratoria-e-integracion.webp",
+      "title": "Política inmigratoria e integración",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar política inmigratoria e integración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V03",
+      "file": "t12-03-documentacion-y-libertad-de-circulacion.webp",
+      "title": "Documentación y libertad de circulación",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar documentación y libertad de circulación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V04",
+      "file": "t12-04-participacion-reunion-y-asociacion.webp",
+      "title": "Participación, reunión y asociación",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar participación, reunión y asociación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V05",
+      "file": "t12-05-educacion-trabajo-sindicacion-y-huelga.webp",
+      "title": "Educación, trabajo, sindicación y huelga",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar educación, trabajo, sindicación y huelga.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V06",
+      "file": "t12-06-sanidad-vivienda-proteccion-social-y-tributos.webp",
+      "title": "Sanidad, vivienda, protección social y tributos",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar sanidad, vivienda, protección social y tributos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V07",
+      "file": "t12-07-reagrupacion-familiar.webp",
+      "title": "Reagrupación familiar",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar reagrupación familiar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V08",
+      "file": "t12-08-tutela-judicial-recursos-y-asistencia-juridica.webp",
+      "title": "Tutela judicial, recursos y asistencia jurídica",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar tutela judicial, recursos y asistencia jurídica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V09",
+      "file": "t12-09-medidas-contra-la-discriminacion.webp",
+      "title": "Medidas contra la discriminación",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar medidas contra la discriminación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V10",
+      "file": "t12-10-entrada-visados-y-salida.webp",
+      "title": "Entrada, visados y salida",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar entrada, visados y salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V11",
+      "file": "t12-11-situaciones-de-estancia-y-residencia.webp",
+      "title": "Situaciones de estancia y residencia",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar situaciones de estancia y residencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V12",
+      "file": "t12-12-residencia-temporal.webp",
+      "title": "Residencia temporal",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar residencia temporal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V13",
+      "file": "t12-13-victimas-de-violencia-de-genero-o-sexual.webp",
+      "title": "Víctimas de violencia de género o sexual",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar víctimas de violencia de género o sexual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V14",
+      "file": "t12-14-residencia-de-larga-duracion.webp",
+      "title": "Residencia de larga duración",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar residencia de larga duración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V15",
+      "file": "t12-15-estudios-intercambio-practicas-y-voluntariado.webp",
+      "title": "Estudios, intercambio, prácticas y voluntariado",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar estudios, intercambio, prácticas y voluntariado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V16",
+      "file": "t12-16-apatridas-indocumentados-y-refugiados.webp",
+      "title": "Apátridas, indocumentados y refugiados",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar apátridas, indocumentados y refugiados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V17",
+      "file": "t12-17-menores-no-acompanados.webp",
+      "title": "Menores no acompañados",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar menores no acompañados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V18",
+      "file": "t12-18-contingencia-migratoria-de-menores.webp",
+      "title": "Contingencia migratoria de menores",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar contingencia migratoria de menores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V19",
+      "file": "t12-19-autorizaciones-de-residencia-y-trabajo.webp",
+      "title": "Autorizaciones de residencia y trabajo",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar autorizaciones de residencia y trabajo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V20",
+      "file": "t12-20-investigadores-y-profesionales-cualificados.webp",
+      "title": "Investigadores y profesionales cualificados",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar investigadores y profesionales cualificados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V21",
+      "file": "t12-21-contratacion-en-origen-exenciones-y-excepciones.webp",
+      "title": "Contratación en origen, exenciones y excepciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar contratación en origen, exenciones y excepciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V22",
+      "file": "t12-22-temporada-frontera-y-servicios-transnacionales.webp",
+      "title": "Temporada, frontera y servicios transnacionales",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar temporada, frontera y servicios transnacionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V23",
+      "file": "t12-23-tasas-de-extranjeria.webp",
+      "title": "Tasas de extranjería",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar tasas de extranjería.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V24",
+      "file": "t12-24-potestad-sancionadora-y-clases-de-infraccion.webp",
+      "title": "Potestad sancionadora y clases de infracción",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar potestad sancionadora y clases de infracción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V25",
+      "file": "t12-25-infracciones-leves.webp",
+      "title": "Infracciones leves",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar infracciones leves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V26",
+      "file": "t12-26-infracciones-graves.webp",
+      "title": "Infracciones graves",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar infracciones graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V27",
+      "file": "t12-27-infracciones-muy-graves.webp",
+      "title": "Infracciones muy graves",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar infracciones muy graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V28",
+      "file": "t12-28-sanciones.webp",
+      "title": "Sanciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar sanciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V29",
+      "file": "t12-29-prescripcion.webp",
+      "title": "Prescripción",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar prescripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V30",
+      "file": "t12-30-expulsion-del-territorio.webp",
+      "title": "Expulsión del territorio",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar expulsión del territorio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V31",
+      "file": "t12-31-efectos-de-la-expulsion-y-devolucion.webp",
+      "title": "Efectos de la expulsión y devolución",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar efectos de la expulsión y devolución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V32",
+      "file": "t12-32-colaboracion-contra-redes-y-trata.webp",
+      "title": "Colaboración contra redes y trata",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar colaboración contra redes y trata.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V33",
+      "file": "t12-33-denegacion-de-entrada-y-medidas-cautelares.webp",
+      "title": "Denegación de entrada y medidas cautelares",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar denegación de entrada y medidas cautelares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V34",
+      "file": "t12-34-centros-de-internamiento.webp",
+      "title": "Centros de internamiento",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar centros de internamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V35",
+      "file": "t12-35-procedimientos-preferente-y-ordinario.webp",
+      "title": "Procedimientos preferente y ordinario",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar procedimientos preferente y ordinario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V36",
+      "file": "t12-36-ejecucion-de-expulsion-y-recursos.webp",
+      "title": "Ejecución de expulsión y recursos",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar ejecución de expulsión y recursos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V37",
+      "file": "t12-37-obligaciones-de-transportistas.webp",
+      "title": "Obligaciones de transportistas",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar obligaciones de transportistas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V38",
+      "file": "t12-38-coordinacion-administrativa.webp",
+      "title": "Coordinación administrativa",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar coordinación administrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V39",
+      "file": "t12-39-asociaciones-y-organos-consultivos.webp",
+      "title": "Asociaciones y órganos consultivos",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar asociaciones y órganos consultivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V40",
+      "file": "t12-40-disposiciones-adicionales-i-a-vi.webp",
+      "title": "Disposiciones adicionales I a VI",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar disposiciones adicionales i a vi.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V41",
+      "file": "t12-41-schengen-retorno-ceuta-y-melilla-y-proteccion-de-menores.webp",
+      "title": "Schengen, retorno, Ceuta y Melilla y protección de menores",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar schengen, retorno, ceuta y melilla y protección de menores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V42",
+      "file": "t12-42-disposiciones-transitorias-y-derogatoria.webp",
+      "title": "Disposiciones transitorias y derogatoria",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar disposiciones transitorias y derogatoria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V43",
+      "file": "t12-43-disposiciones-finales.webp",
+      "title": "Disposiciones finales",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar disposiciones finales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V44",
+      "file": "t12-44-rd-240-2007-objeto-y-familiares.webp",
+      "title": "RD 240/2007: objeto y familiares",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar rd 240/2007: objeto y familiares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V45",
+      "file": "t12-45-derechos-del-regimen-de-la-union.webp",
+      "title": "Derechos del régimen de la Unión",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar derechos del régimen de la unión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V46",
+      "file": "t12-46-entrada-y-salida.webp",
+      "title": "Entrada y salida",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar entrada y salida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V47",
+      "file": "t12-47-estancia-inferior-a-tres-meses.webp",
+      "title": "Estancia inferior a tres meses",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar estancia inferior a tres meses.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V48",
+      "file": "t12-48-residencia-superior-a-tres-meses.webp",
+      "title": "Residencia superior a tres meses",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar residencia superior a tres meses.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V49",
+      "file": "t12-49-tarjeta-de-familiar-de-ciudadano-de-la-union.webp",
+      "title": "Tarjeta de familiar de ciudadano de la Unión",
+      "type": "ilustracion_simple",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar tarjeta de familiar de ciudadano de la unión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V50",
+      "file": "t12-50-mantenimiento-del-derecho-de-residencia.webp",
+      "title": "Mantenimiento del derecho de residencia",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar mantenimiento del derecho de residencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V51",
+      "file": "t12-51-residencia-permanente.webp",
+      "title": "Residencia permanente",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar residencia permanente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V52",
+      "file": "t12-52-tarjeta-permanente-tramitacion-renovacion-y-vigencia.webp",
+      "title": "Tarjeta permanente, tramitación, renovación y vigencia",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar tarjeta permanente, tramitación, renovación y vigencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V53",
+      "file": "t12-53-orden-publico-seguridad-y-salud-publica.webp",
+      "title": "Orden público, seguridad y salud pública",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar orden público, seguridad y salud pública.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V54",
+      "file": "t12-54-informes-garantias-y-resolucion.webp",
+      "title": "Informes, garantías y resolución",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar informes, garantías y resolución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T12-V55",
+      "file": "t12-55-disposiciones-del-real-decreto-240-2007.webp",
+      "title": "Disposiciones del Real Decreto 240/2007",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar disposiciones del real decreto 240/2007.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

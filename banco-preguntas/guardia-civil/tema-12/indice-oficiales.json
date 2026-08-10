@@ -1,0 +1,935 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 12,
+  "titulo": "Extranjería e inmigración",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las preguntas oficiales permanecen separadas del banco propio; su respuesta solo se muestra con plantilla final verificada.",
+  "total_referencias": 42,
+  "con_bloque_asignado": 42,
+  "con_respuesta_verificada": 42,
+  "por_bloque": {
+    "4": 1,
+    "7": 2,
+    "9": 1,
+    "10": 5,
+    "11": 1,
+    "12": 2,
+    "14": 1,
+    "17": 2,
+    "21": 3,
+    "25": 1,
+    "26": 4,
+    "29": 1,
+    "31": 1,
+    "38": 1,
+    "39": 1,
+    "40": 1,
+    "47": 1,
+    "48": 1,
+    "49": 2,
+    "50": 1,
+    "51": 1,
+    "52": 1,
+    "53": 4,
+    "54": 3
+  },
+  "por_promocion": {
+    "2020": 5,
+    "2021": 6,
+    "2022": 7,
+    "2023": 6,
+    "2024": 12,
+    "2025": 3,
+    "2026": 3
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q062",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 62,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T12-F039"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. En relación a los derechos y libertades de los extranjeros, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q063",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 63,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T12-F130"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. ¿Qué nombre recibe el visado que habilita para trabajar por cuenta ajena hasta nueve meses en un período de doce meses consecutivos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q060",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 60,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T12-F095"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Efectos de la reagrupación familiar en circunstancias especiales. ¿Cuándo podrán obtener los hijos reagrupados una autorización de residencia independiente?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q061",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 61,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T12-F309"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Supuestos. específicos de exención de la situación nacional de empleo. No se tendrá en cuenla la situacion nacional de 6 empleo cuando el contrato de trabajo vaya dirigido a......Señale la opción INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q062",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 62,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T12-F387"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integracién social. Con respecto a” los tipos de infracciones en materia de extranjería, señale la proposicion INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q065",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 65,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T12-F115"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Todo tratamiento derivado de la adopción de criterios que perjudiquen a los trabajadores por su condición de extranjeros constituye….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q066",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 66,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T12-F130"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Visado de residencia y trabajo. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q067",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 67,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T12-F450"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Excepcionalmente, cuando el extranjero suponga una amenaza grave para la seguridad nacional podrá imponerse un período de prohibición de entrada en territorio español de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q065",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 65,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T12-F126"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. El visado de estancia puede habilitar para…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q066",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 66,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T12-F377"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. ¿Qué tipo de infracción administrativa comete el extranjero que se encuentre trabajando en una ocupación o sector de actividad no contemplado por la autorización de residencia y trabajo de la que se es titular?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q067",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 67,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T12-F574"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. ¿A través de qué órgano se asegurará la adecuada coordinación de las actuaciones que desarrollen las Administraciones Públicas en materia de inmigración?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q067",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 67,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T12-F125"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. En relación con los tipos de visados, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q068",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 68,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T12-F213"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Menores no acompañados. En los supuestos en que los Cuerpos y Fuerzas de Seguridad del Estado localicen a un extranjero indocumentado cuya minoría de edad no pueda ser establecida con seguridad, si con posterioridad es determinada la edad y se trata de un menor, ¿quién lo pondrá a disposición de los servicios competentes de protección de menores de la Comunidad Autónoma en la que se halle?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q067",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 67,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T12-F163"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Situación de residencia temporal. ¿Qué cambios NO están obligados a poner en conocimiento de las autoridades competentes los extranjeros con autorización de residencia temporal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q068",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 68,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T12-F421"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Prescripción de las infracciones y de las sanciones. ¿Cuándo prescribirán las infracciones muy graves?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q062",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 62,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T12-F153"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Transcurrido el periodo de tiempo establecido para la situación de estancia, ¿qué es necesario que obtenga un extranjero para permanecer en España?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q063",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 63,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T12-F393"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Infracciones en materia de extranjería. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q064",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 64,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T12-F590"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Plazo máximo para resolución de expedientes. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q067",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 67,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T12-F325"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q068",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 68,
+      "block_refs": [
+        50
+      ],
+      "fact_refs": [
+        "GC-T12-F746"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros estados parte en el Acuerdo sobre el Espacio Económico Europeo. En relación con la estancia y residencia, así como la residencia de carácter permanente, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q069",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 69,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T12-F798"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Salvo que existan motivos imperiosos de seguridad pública, NO podrá adoptarse una decisión de expulsión respecto a los citados ciudadanos…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q068",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 68,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T12-F585"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. ¿Cuál es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, del que forman parte las organizaciones sindicales y empresariales más representativas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q069",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 69,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "GC-T12-F762"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Un ciudadano de un Estado miembro de la Unión Europea titular del derecho de residencia con carácter permanente, perderá dicho derecho por ausencia del territorio español durante más de _________ años consecutivos.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q070",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 70,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T12-F807"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En relación con las resoluciones de expulsión, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q061",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 61,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T12-F158"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. En relación con la situación de residencia temporal, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q062",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 62,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T12-F323"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q063",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 63,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T12-F705"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. En los supuestos en los que la permanencia en España de un ciudadano de un Estado miembro de la Unión Europea, cualquiera que sea su finalidad, tenga una duración inferior a __________________, será suficiente la posesión de pasaporte o documento de identidad en vigor, en virtud del cual se haya efectuado la entrada en territorio español.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q064",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 64,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T12-F804"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Salvo en aquellos casos en que concurran razones de urgencia debidamente motivadas, la resolución administrativa de expulsión de un titular de tarjeta o certificado requerirá, con anterioridad a que se dicte…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q060",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 60,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T12-F176"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. En relación con la autorización de estancia y residencia, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q061",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 61,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T12-F381"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Constituye una infracción administrativa grave establecida en la presente Ley Orgánica…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q062",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 62,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T12-F732"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con respecto a la tarjeta de residencia de familiar de ciudadano de la Unión, ¿cuál de las siguientes opciones que se proponen indica su validez CORRECTA?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q063",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 63,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T12-F777"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Con carácter general, la vigencia de la tarjeta de residencia de familiar de ciudadano de la Unión caducará por las ausencias superiores a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q058",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 58,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T12-F212"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley orgánica 4/2000 sobre derechos y libertades de los extranjeros en España y su integración social. En los supuestos en que los Cuerpos y Fuerzas de Seguridad del Estado localicen a un extranjero indocumentado cuya minoría de edad no pueda ser establecida con seguridad, se pondrá el hecho en conocimiento inmediato ___________________, que dispondrá la determinación de su edad.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q059",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 59,
+      "block_refs": [
+        48
+      ],
+      "fact_refs": [
+        "GC-T12-F718"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Los nacionales de un Estado miembro de la Unión Europea estarán obligados a solicitar personalmente ante la oficina de extranjeros de la provincia donde pretendan permanecer o fijar su residencia o, en su defecto, ante la Comisaría de Policía correspondiente, su inscripción en el Registro Central de Extranjeros. Dicha solicitud deberá presentarse en el plazo de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q060",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 60,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T12-F786"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. ¿Qué se tendrá en cuenta, entre otros aspectos, antes de que sea adoptada la decisión de expulsión de España por motivos graves de orden público o seguridad pública, de un ciudadano de un Estado miembro de la Unión Europea que haya adquirido el derecho de residencia permanente en España?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q061",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 61,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T12-F811"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. ¿Por quién de los siguientes serán dictadas las resoluciones de expulsión?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q061",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 61,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T12-F393"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley orgánica sobre derechos y libertades de los extranjeros en España y su integración social. Infracciones en materia de extranjería. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q062",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 62,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T12-F731"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. La expedición de la tarjeta de residencia de familiar de ciudadano de la Unión deberá realizarse en el plazo _______________________ a la presentación de la solicitud.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q063",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 63,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T12-F798"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre Entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. Salvo que existan motivos imperiosos de seguridad pública, NO podrá adoptarse una decisión de expulsión o repatriación respecto a los citados ciudadanos…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q057",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 57,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T12-F092"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley orgánica sobre derechos y libertades de los extranjeros en España y su integración social. En relación con los efectos de la reagrupación familiar en circunstancias especiales, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q058",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 58,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T12-F127"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley orgánica sobre derechos y libertades de los extranjeros en España y su integración social. ¿Cuál de los siguientes NO es un tipo de visado de los recogidos en esta Ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q059",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 59,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T12-F799"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo. De las siguientes opciones, señale la CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    }
+  ]
+}
