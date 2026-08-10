@@ -1,0 +1,75 @@
+# Plan visual · Guardia Civil · Tema 8
+
+| Recurso | Concepto | Función | Familia | Diferenciador |
+|---|---|---|---|---|
+| `t08-00-mapa-derecho-penal.webp` | Mapa general del Derecho penal | Recorrido general por la parte general y la selección oficial de la parte especial. | infografia | Ancla propia del bloque 0 |
+| `t08-01-mapa-del-codigo-penal-exigido.webp` | Mapa del Código Penal exigido | línea temporal para diferenciar mapa del código penal exigido. | infografia | Ancla propia del bloque 1 |
+| `t08-02-legalidad-irretroactividad-y-ejecucion.webp` | Legalidad, irretroactividad y ejecución | flujo de decisión para diferenciar legalidad, irretroactividad y ejecución. | infografia | Ancla propia del bloque 2 |
+| `t08-03-analogia-culpabilidad-y-medidas-de-seguridad.webp` | Analogía, culpabilidad y medidas de seguridad | escena mnemotécnica para diferenciar analogía, culpabilidad y medidas de seguridad. | infografia | Ancla propia del bloque 3 |
+| `t08-04-momento-del-delito-concurso-de-leyes-y-supletoriedad.webp` | Momento del delito, concurso de leyes y supletoriedad | corte por capas para diferenciar momento del delito, concurso de leyes y supletoriedad. | infografia | Ancla propia del bloque 4 |
+| `t08-05-delito-omision-dolo-e-imprudencia.webp` | Delito, omisión, dolo e imprudencia | organigrama para diferenciar delito, omisión, dolo e imprudencia. | ilustracion_simple | Ancla propia del bloque 5 |
+| `t08-06-clasificacion-del-delito-y-error.webp` | Clasificación del delito y error | mapa comparativo para diferenciar clasificación del delito y error. | infografia | Ancla propia del bloque 6 |
+| `t08-07-consumacion-tentativa-y-actos-preparatorios.webp` | Consumación, tentativa y actos preparatorios | línea temporal para diferenciar consumación, tentativa y actos preparatorios. | infografia | Ancla propia del bloque 7 |
+| `t08-08-minoria-de-edad-y-eximentes.webp` | Minoría de edad y eximentes | flujo de decisión para diferenciar minoría de edad y eximentes. | infografia | Ancla propia del bloque 8 |
+| `t08-09-atenuantes-agravantes-y-parentesco.webp` | Atenuantes, agravantes y parentesco | escena mnemotécnica para diferenciar atenuantes, agravantes y parentesco. | infografia | Ancla propia del bloque 9 |
+| `t08-10-autoridad-funcionario-y-concursos.webp` | Autoridad, funcionario y concursos | corte por capas para diferenciar autoridad, funcionario y concursos. | ilustracion_simple | Ancla propia del bloque 10 |
+| `t08-11-autores-y-complices.webp` | Autores y cómplices | organigrama para diferenciar autores y cómplices. | infografia | Ancla propia del bloque 11 |
+| `t08-12-responsabilidad-en-difusion-y-actuacion-por-otro.webp` | Responsabilidad en difusión y actuación por otro | mapa comparativo para diferenciar responsabilidad en difusión y actuación por otro. | infografia | Ancla propia del bloque 12 |
+| `t08-13-responsabilidad-penal-de-las-personas-juridicas.webp` | Responsabilidad penal de las personas jurídicas | línea temporal para diferenciar responsabilidad penal de las personas jurídicas. | infografia | Ancla propia del bloque 13 |
+| `t08-14-penas-concepto-clasificacion-y-personas-juridicas.webp` | Penas: concepto, clasificación y personas jurídicas | flujo de decisión para diferenciar penas: concepto, clasificación y personas jurídicas. | infografia | Ancla propia del bloque 14 |
+| `t08-15-penas-privativas-de-libertad.webp` | Penas privativas de libertad | escena mnemotécnica para diferenciar penas privativas de libertad. | ilustracion_simple | Ancla propia del bloque 15 |
+| `t08-16-penas-privativas-de-derechos.webp` | Penas privativas de derechos | corte por capas para diferenciar penas privativas de derechos. | infografia | Ancla propia del bloque 16 |
+| `t08-17-pena-de-multa.webp` | Pena de multa | organigrama para diferenciar pena de multa. | infografia | Ancla propia del bloque 17 |
+| `t08-18-penas-accesorias-y-prohibiciones.webp` | Penas accesorias y prohibiciones | mapa comparativo para diferenciar penas accesorias y prohibiciones. | infografia | Ancla propia del bloque 18 |
+| `t08-19-presupuestos-y-reglas-generales-de-las-medidas.webp` | Presupuestos y reglas generales de las medidas | línea temporal para diferenciar presupuestos y reglas generales de las medidas. | infografia | Ancla propia del bloque 19 |
+| `t08-20-medidas-privativas-de-libertad.webp` | Medidas privativas de libertad | flujo de decisión para diferenciar medidas privativas de libertad. | ilustracion_simple | Ancla propia del bloque 20 |
+| `t08-21-medidas-no-privativas-y-libertad-vigilada.webp` | Medidas no privativas y libertad vigilada | escena mnemotécnica para diferenciar medidas no privativas y libertad vigilada. | infografia | Ancla propia del bloque 21 |
+| `t08-22-responsabilidad-civil-y-su-extension.webp` | Responsabilidad civil y su extensión | corte por capas para diferenciar responsabilidad civil y su extensión. | infografia | Ancla propia del bloque 22 |
+| `t08-23-personas-civilmente-responsables.webp` | Personas civilmente responsables | organigrama para diferenciar personas civilmente responsables. | infografia | Ancla propia del bloque 23 |
+| `t08-24-causas-de-extincion-de-la-responsabilidad-criminal.webp` | Causas de extinción de la responsabilidad criminal | mapa comparativo para diferenciar causas de extinción de la responsabilidad criminal. | infografia | Ancla propia del bloque 24 |
+| `t08-25-prescripcion-de-los-delitos.webp` | Prescripción de los delitos | línea temporal para diferenciar prescripción de los delitos. | ilustracion_simple | Ancla propia del bloque 25 |
+| `t08-26-prescripcion-de-penas-y-medidas-de-seguridad.webp` | Prescripción de penas y medidas de seguridad | flujo de decisión para diferenciar prescripción de penas y medidas de seguridad. | infografia | Ancla propia del bloque 26 |
+| `t08-27-cancelacion-de-antecedentes-y-computo.webp` | Cancelación de antecedentes y cómputo | escena mnemotécnica para diferenciar cancelación de antecedentes y cómputo. | infografia | Ancla propia del bloque 27 |
+| `t08-28-homicidio-y-formas-agravadas.webp` | Homicidio y formas agravadas | corte por capas para diferenciar homicidio y formas agravadas. | infografia | Ancla propia del bloque 28 |
+| `t08-29-asesinato-y-prision-permanente-revisable.webp` | Asesinato y prisión permanente revisable | organigrama para diferenciar asesinato y prisión permanente revisable. | infografia | Ancla propia del bloque 29 |
+| `t08-30-induccion-al-suicidio-eutanasia-y-actos-preparatorios.webp` | Inducción al suicidio, eutanasia y actos preparatorios | mapa comparativo para diferenciar inducción al suicidio, eutanasia y actos preparatorios. | ilustracion_simple | Ancla propia del bloque 30 |
+| `t08-31-lesiones-basicas-y-agravadas.webp` | Lesiones básicas y agravadas | línea temporal para diferenciar lesiones básicas y agravadas. | infografia | Ancla propia del bloque 31 |
+| `t08-32-actos-preparatorios-y-violencia-sobre-personas-protegidas.webp` | Actos preparatorios y violencia sobre personas protegidas | flujo de decisión para diferenciar actos preparatorios y violencia sobre personas protegidas. | infografia | Ancla propia del bloque 32 |
+| `t08-33-rina-consentimiento-y-trafico-de-organos.webp` | Riña, consentimiento y tráfico de órganos | escena mnemotécnica para diferenciar riña, consentimiento y tráfico de órganos. | infografia | Ancla propia del bloque 33 |
+| `t08-34-detenciones-ilegales-y-secuestros.webp` | Detenciones ilegales y secuestros | corte por capas para diferenciar detenciones ilegales y secuestros. | infografia | Ancla propia del bloque 34 |
+| `t08-35-amenazas.webp` | Amenazas | organigrama para diferenciar amenazas. | ilustracion_simple | Ancla propia del bloque 35 |
+| `t08-36-coacciones-matrimonio-forzado-y-acoso.webp` | Coacciones, matrimonio forzado y acoso | mapa comparativo para diferenciar coacciones, matrimonio forzado y acoso. | infografia | Ancla propia del bloque 36 |
+| `t08-37-trato-degradante-y-violencia-habitual.webp` | Trato degradante y violencia habitual | línea temporal para diferenciar trato degradante y violencia habitual. | infografia | Ancla propia del bloque 37 |
+| `t08-38-tortura.webp` | Tortura | flujo de decisión para diferenciar tortura. | infografia | Ancla propia del bloque 38 |
+| `t08-39-omision-funcionarios-y-concursos-en-integridad-moral.webp` | Omisión, funcionarios y concursos en integridad moral | escena mnemotécnica para diferenciar omisión, funcionarios y concursos en integridad moral. | infografia | Ancla propia del bloque 39 |
+| `t08-40-trata-de-seres-humanos.webp` | Trata de seres humanos | corte por capas para diferenciar trata de seres humanos. | ilustracion_simple | Ancla propia del bloque 40 |
+| `t08-41-reglas-comunes-de-vida-lesiones-libertad-e-integridad.webp` | Reglas comunes de vida, lesiones, libertad e integridad | organigrama para diferenciar reglas comunes de vida, lesiones, libertad e integridad. | infografia | Ancla propia del bloque 41 |
+| `t08-42-agresion-sexual.webp` | Agresión sexual | mapa comparativo para diferenciar agresión sexual. | infografia | Ancla propia del bloque 42 |
+| `t08-43-delitos-sexuales-contra-menores-de-dieciseis-anos.webp` | Delitos sexuales contra menores de dieciséis años | línea temporal para diferenciar delitos sexuales contra menores de dieciséis años. | infografia | Ancla propia del bloque 43 |
+| `t08-44-acoso-sexual.webp` | Acoso sexual | flujo de decisión para diferenciar acoso sexual. | infografia | Ancla propia del bloque 44 |
+| `t08-45-exhibicionismo-y-provocacion-sexual.webp` | Exhibicionismo y provocación sexual | escena mnemotécnica para diferenciar exhibicionismo y provocación sexual. | ilustracion_simple | Ancla propia del bloque 45 |
+| `t08-46-prostitucion-explotacion-sexual-y-corrupcion-de-menores.webp` | Prostitución, explotación sexual y corrupción de menores | corte por capas para diferenciar prostitución, explotación sexual y corrupción de menores. | infografia | Ancla propia del bloque 46 |
+| `t08-47-disposiciones-comunes-de-libertad-sexual.webp` | Disposiciones comunes de libertad sexual | organigrama para diferenciar disposiciones comunes de libertad sexual. | infografia | Ancla propia del bloque 47 |
+| `t08-48-matrimonios-ilegales.webp` | Matrimonios ilegales | mapa comparativo para diferenciar matrimonios ilegales. | infografia | Ancla propia del bloque 48 |
+| `t08-49-suposicion-de-parto-y-alteracion-de-filiacion-o-estado-del-menor.webp` | Suposición de parto y alteración de filiación o estado del menor | línea temporal para diferenciar suposición de parto y alteración de filiación o estado del menor. | infografia | Ancla propia del bloque 49 |
+| `t08-50-prevaricacion-y-nombramientos-ilegales.webp` | Prevaricación y nombramientos ilegales | flujo de decisión para diferenciar prevaricación y nombramientos ilegales. | ilustracion_simple | Ancla propia del bloque 50 |
+| `t08-51-abandono-de-destino-y-omision-de-perseguir-delitos.webp` | Abandono de destino y omisión de perseguir delitos | escena mnemotécnica para diferenciar abandono de destino y omisión de perseguir delitos. | infografia | Ancla propia del bloque 51 |
+| `t08-52-desobediencia-y-denegacion-de-auxilio.webp` | Desobediencia y denegación de auxilio | corte por capas para diferenciar desobediencia y denegación de auxilio. | infografia | Ancla propia del bloque 52 |
+| `t08-53-custodia-de-documentos-y-revelacion-de-secretos.webp` | Custodia de documentos y revelación de secretos | organigrama para diferenciar custodia de documentos y revelación de secretos. | infografia | Ancla propia del bloque 53 |
+| `t08-54-cohecho.webp` | Cohecho | mapa comparativo para diferenciar cohecho. | infografia | Ancla propia del bloque 54 |
+| `t08-55-trafico-de-influencias.webp` | Tráfico de influencias | línea temporal para diferenciar tráfico de influencias. | ilustracion_simple | Ancla propia del bloque 55 |
+| `t08-56-malversacion.webp` | Malversación | flujo de decisión para diferenciar malversación. | infografia | Ancla propia del bloque 56 |
+| `t08-57-fraudes-y-exacciones-ilegales.webp` | Fraudes y exacciones ilegales | escena mnemotécnica para diferenciar fraudes y exacciones ilegales. | infografia | Ancla propia del bloque 57 |
+| `t08-58-negociaciones-prohibidas-y-abusos.webp` | Negociaciones prohibidas y abusos | corte por capas para diferenciar negociaciones prohibidas y abusos. | infografia | Ancla propia del bloque 58 |
+| `t08-59-disposicion-comun-sobre-funcionarios-extranjeros.webp` | Disposición común sobre funcionarios extranjeros | organigrama para diferenciar disposición común sobre funcionarios extranjeros. | infografia | Ancla propia del bloque 59 |
+| `t08-60-rebelion.webp` | Rebelión | mapa comparativo para diferenciar rebelión. | ilustracion_simple | Ancla propia del bloque 60 |
+| `t08-61-delitos-contra-la-corona.webp` | Delitos contra la Corona | línea temporal para diferenciar delitos contra la corona. | infografia | Ancla propia del bloque 61 |
+| `t08-62-instituciones-del-estado-y-division-de-poderes.webp` | Instituciones del Estado y división de poderes | flujo de decisión para diferenciar instituciones del estado y división de poderes. | infografia | Ancla propia del bloque 62 |
+| `t08-63-derechos-fundamentales-reuniones-asociaciones-y-libertad-de-conciencia.webp` | Derechos fundamentales, reuniones, asociaciones y libertad de conciencia | escena mnemotécnica para diferenciar derechos fundamentales, reuniones, asociaciones y libertad de conciencia. | infografia | Ancla propia del bloque 63 |
+| `t08-64-delitos-de-funcionarios-contra-garantias-constitucionales.webp` | Delitos de funcionarios contra garantías constitucionales | corte por capas para diferenciar delitos de funcionarios contra garantías constitucionales. | infografia | Ancla propia del bloque 64 |
+| `t08-65-ultrajes-a-espana-y-sus-simbolos.webp` | Ultrajes a España y sus símbolos | organigrama para diferenciar ultrajes a españa y sus símbolos. | ilustracion_simple | Ancla propia del bloque 65 |
+| `t08-66-delitos-contra-personas-internacionalmente-protegidas.webp` | Delitos contra personas internacionalmente protegidas | mapa comparativo para diferenciar delitos contra personas internacionalmente protegidas. | infografia | Ancla propia del bloque 66 |
+| `t08-67-genocidio.webp` | Genocidio | línea temporal para diferenciar genocidio. | infografia | Ancla propia del bloque 67 |
+| `t08-68-lesa-humanidad.webp` | Lesa humanidad | flujo de decisión para diferenciar lesa humanidad. | infografia | Ancla propia del bloque 68 |
+| `t08-69-delitos-contra-personas-y-bienes-en-conflicto-armado.webp` | Delitos contra personas y bienes en conflicto armado | escena mnemotécnica para diferenciar delitos contra personas y bienes en conflicto armado. | infografia | Ancla propia del bloque 69 |
+| `t08-70-disposiciones-comunes-y-otros-delitos-internacionales.webp` | Disposiciones comunes y otros delitos internacionales | corte por capas para diferenciar disposiciones comunes y otros delitos internacionales. | ilustracion_simple | Ancla propia del bloque 70 |

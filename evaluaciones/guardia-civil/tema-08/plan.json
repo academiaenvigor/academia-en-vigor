@@ -1,0 +1,460 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 8,
+  "topic_title": "Derecho penal",
+  "id_prefix": "GC-T08",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-08/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-08/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa del Código Penal exigido"
+      },
+      {
+        "number": 2,
+        "title": "Legalidad, irretroactividad y ejecución"
+      },
+      {
+        "number": 3,
+        "title": "Analogía, culpabilidad y medidas de seguridad"
+      },
+      {
+        "number": 4,
+        "title": "Momento del delito, concurso de leyes y supletoriedad"
+      },
+      {
+        "number": 5,
+        "title": "Delito, omisión, dolo e imprudencia"
+      },
+      {
+        "number": 6,
+        "title": "Clasificación del delito y error"
+      },
+      {
+        "number": 7,
+        "title": "Consumación, tentativa y actos preparatorios"
+      },
+      {
+        "number": 8,
+        "title": "Minoría de edad y eximentes"
+      },
+      {
+        "number": 9,
+        "title": "Atenuantes, agravantes y parentesco"
+      },
+      {
+        "number": 10,
+        "title": "Autoridad, funcionario y concursos"
+      },
+      {
+        "number": 11,
+        "title": "Autores y cómplices"
+      },
+      {
+        "number": 12,
+        "title": "Responsabilidad en difusión y actuación por otro"
+      },
+      {
+        "number": 13,
+        "title": "Responsabilidad penal de las personas jurídicas"
+      },
+      {
+        "number": 14,
+        "title": "Penas: concepto, clasificación y personas jurídicas"
+      },
+      {
+        "number": 15,
+        "title": "Penas privativas de libertad"
+      },
+      {
+        "number": 16,
+        "title": "Penas privativas de derechos"
+      },
+      {
+        "number": 17,
+        "title": "Pena de multa"
+      },
+      {
+        "number": 18,
+        "title": "Penas accesorias y prohibiciones"
+      },
+      {
+        "number": 19,
+        "title": "Presupuestos y reglas generales de las medidas"
+      },
+      {
+        "number": 20,
+        "title": "Medidas privativas de libertad"
+      },
+      {
+        "number": 21,
+        "title": "Medidas no privativas y libertad vigilada"
+      },
+      {
+        "number": 22,
+        "title": "Responsabilidad civil y su extensión"
+      },
+      {
+        "number": 23,
+        "title": "Personas civilmente responsables"
+      },
+      {
+        "number": 24,
+        "title": "Causas de extinción de la responsabilidad criminal"
+      },
+      {
+        "number": 25,
+        "title": "Prescripción de los delitos"
+      },
+      {
+        "number": 26,
+        "title": "Prescripción de penas y medidas de seguridad"
+      },
+      {
+        "number": 27,
+        "title": "Cancelación de antecedentes y cómputo"
+      },
+      {
+        "number": 28,
+        "title": "Homicidio y formas agravadas"
+      },
+      {
+        "number": 29,
+        "title": "Asesinato y prisión permanente revisable"
+      },
+      {
+        "number": 30,
+        "title": "Inducción al suicidio, eutanasia y actos preparatorios"
+      },
+      {
+        "number": 31,
+        "title": "Lesiones básicas y agravadas"
+      },
+      {
+        "number": 32,
+        "title": "Actos preparatorios y violencia sobre personas protegidas"
+      },
+      {
+        "number": 33,
+        "title": "Riña, consentimiento y tráfico de órganos"
+      },
+      {
+        "number": 34,
+        "title": "Detenciones ilegales y secuestros"
+      },
+      {
+        "number": 35,
+        "title": "Amenazas"
+      },
+      {
+        "number": 36,
+        "title": "Coacciones, matrimonio forzado y acoso"
+      },
+      {
+        "number": 37,
+        "title": "Trato degradante y violencia habitual"
+      },
+      {
+        "number": 38,
+        "title": "Tortura"
+      },
+      {
+        "number": 39,
+        "title": "Omisión, funcionarios y concursos en integridad moral"
+      },
+      {
+        "number": 40,
+        "title": "Trata de seres humanos"
+      },
+      {
+        "number": 41,
+        "title": "Reglas comunes de vida, lesiones, libertad e integridad"
+      },
+      {
+        "number": 42,
+        "title": "Agresión sexual"
+      },
+      {
+        "number": 43,
+        "title": "Delitos sexuales contra menores de dieciséis años"
+      },
+      {
+        "number": 44,
+        "title": "Acoso sexual"
+      },
+      {
+        "number": 45,
+        "title": "Exhibicionismo y provocación sexual"
+      },
+      {
+        "number": 46,
+        "title": "Prostitución, explotación sexual y corrupción de menores"
+      },
+      {
+        "number": 47,
+        "title": "Disposiciones comunes de libertad sexual"
+      },
+      {
+        "number": 48,
+        "title": "Matrimonios ilegales"
+      },
+      {
+        "number": 49,
+        "title": "Suposición de parto y alteración de filiación o estado del menor"
+      },
+      {
+        "number": 50,
+        "title": "Prevaricación y nombramientos ilegales"
+      },
+      {
+        "number": 51,
+        "title": "Abandono de destino y omisión de perseguir delitos"
+      },
+      {
+        "number": 52,
+        "title": "Desobediencia y denegación de auxilio"
+      },
+      {
+        "number": 53,
+        "title": "Custodia de documentos y revelación de secretos"
+      },
+      {
+        "number": 54,
+        "title": "Cohecho"
+      },
+      {
+        "number": 55,
+        "title": "Tráfico de influencias"
+      },
+      {
+        "number": 56,
+        "title": "Malversación"
+      },
+      {
+        "number": 57,
+        "title": "Fraudes y exacciones ilegales"
+      },
+      {
+        "number": 58,
+        "title": "Negociaciones prohibidas y abusos"
+      },
+      {
+        "number": 59,
+        "title": "Disposición común sobre funcionarios extranjeros"
+      },
+      {
+        "number": 60,
+        "title": "Rebelión"
+      },
+      {
+        "number": 61,
+        "title": "Delitos contra la Corona"
+      },
+      {
+        "number": 62,
+        "title": "Instituciones del Estado y división de poderes"
+      },
+      {
+        "number": 63,
+        "title": "Derechos fundamentales, reuniones, asociaciones y libertad de conciencia"
+      },
+      {
+        "number": 64,
+        "title": "Delitos de funcionarios contra garantías constitucionales"
+      },
+      {
+        "number": 65,
+        "title": "Ultrajes a España y sus símbolos"
+      },
+      {
+        "number": 66,
+        "title": "Delitos contra personas internacionalmente protegidas"
+      },
+      {
+        "number": 67,
+        "title": "Genocidio"
+      },
+      {
+        "number": 68,
+        "title": "Lesa humanidad"
+      },
+      {
+        "number": 69,
+        "title": "Delitos contra personas y bienes en conflicto armado"
+      },
+      {
+        "number": 70,
+        "title": "Disposiciones comunes y otros delitos internacionales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Garantías e infracción penal",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Responsables y penas",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Medidas, responsabilidad civil y extinción",
+        "blocks": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Vida, integridad, libertad y trata",
+        "blocks": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Libertad sexual y relaciones familiares",
+        "blocks": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Delitos contra la Administración pública",
+        "blocks": [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      {
+        "code": "PARTE-7",
+        "title": "Constitución y comunidad internacional",
+        "blocks": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

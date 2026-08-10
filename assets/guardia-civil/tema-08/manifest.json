@@ -1,0 +1,1154 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-08",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 71,
+    "integrated": 0,
+    "planned": 71
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T08-V00",
+      "file": "t08-00-mapa-derecho-penal.webp",
+      "title": "Mapa general del Derecho penal",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido general por la parte general y la selección oficial de la parte especial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V01",
+      "file": "t08-01-mapa-del-codigo-penal-exigido.webp",
+      "title": "Mapa del Código Penal exigido",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar mapa del código penal exigido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V02",
+      "file": "t08-02-legalidad-irretroactividad-y-ejecucion.webp",
+      "title": "Legalidad, irretroactividad y ejecución",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar legalidad, irretroactividad y ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V03",
+      "file": "t08-03-analogia-culpabilidad-y-medidas-de-seguridad.webp",
+      "title": "Analogía, culpabilidad y medidas de seguridad",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar analogía, culpabilidad y medidas de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V04",
+      "file": "t08-04-momento-del-delito-concurso-de-leyes-y-supletoriedad.webp",
+      "title": "Momento del delito, concurso de leyes y supletoriedad",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar momento del delito, concurso de leyes y supletoriedad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V05",
+      "file": "t08-05-delito-omision-dolo-e-imprudencia.webp",
+      "title": "Delito, omisión, dolo e imprudencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar delito, omisión, dolo e imprudencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V06",
+      "file": "t08-06-clasificacion-del-delito-y-error.webp",
+      "title": "Clasificación del delito y error",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar clasificación del delito y error.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V07",
+      "file": "t08-07-consumacion-tentativa-y-actos-preparatorios.webp",
+      "title": "Consumación, tentativa y actos preparatorios",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar consumación, tentativa y actos preparatorios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V08",
+      "file": "t08-08-minoria-de-edad-y-eximentes.webp",
+      "title": "Minoría de edad y eximentes",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar minoría de edad y eximentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V09",
+      "file": "t08-09-atenuantes-agravantes-y-parentesco.webp",
+      "title": "Atenuantes, agravantes y parentesco",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar atenuantes, agravantes y parentesco.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V10",
+      "file": "t08-10-autoridad-funcionario-y-concursos.webp",
+      "title": "Autoridad, funcionario y concursos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar autoridad, funcionario y concursos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V11",
+      "file": "t08-11-autores-y-complices.webp",
+      "title": "Autores y cómplices",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar autores y cómplices.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V12",
+      "file": "t08-12-responsabilidad-en-difusion-y-actuacion-por-otro.webp",
+      "title": "Responsabilidad en difusión y actuación por otro",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar responsabilidad en difusión y actuación por otro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V13",
+      "file": "t08-13-responsabilidad-penal-de-las-personas-juridicas.webp",
+      "title": "Responsabilidad penal de las personas jurídicas",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar responsabilidad penal de las personas jurídicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V14",
+      "file": "t08-14-penas-concepto-clasificacion-y-personas-juridicas.webp",
+      "title": "Penas: concepto, clasificación y personas jurídicas",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar penas: concepto, clasificación y personas jurídicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V15",
+      "file": "t08-15-penas-privativas-de-libertad.webp",
+      "title": "Penas privativas de libertad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar penas privativas de libertad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V16",
+      "file": "t08-16-penas-privativas-de-derechos.webp",
+      "title": "Penas privativas de derechos",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar penas privativas de derechos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V17",
+      "file": "t08-17-pena-de-multa.webp",
+      "title": "Pena de multa",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar pena de multa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V18",
+      "file": "t08-18-penas-accesorias-y-prohibiciones.webp",
+      "title": "Penas accesorias y prohibiciones",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar penas accesorias y prohibiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V19",
+      "file": "t08-19-presupuestos-y-reglas-generales-de-las-medidas.webp",
+      "title": "Presupuestos y reglas generales de las medidas",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar presupuestos y reglas generales de las medidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V20",
+      "file": "t08-20-medidas-privativas-de-libertad.webp",
+      "title": "Medidas privativas de libertad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar medidas privativas de libertad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V21",
+      "file": "t08-21-medidas-no-privativas-y-libertad-vigilada.webp",
+      "title": "Medidas no privativas y libertad vigilada",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar medidas no privativas y libertad vigilada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V22",
+      "file": "t08-22-responsabilidad-civil-y-su-extension.webp",
+      "title": "Responsabilidad civil y su extensión",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar responsabilidad civil y su extensión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V23",
+      "file": "t08-23-personas-civilmente-responsables.webp",
+      "title": "Personas civilmente responsables",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar personas civilmente responsables.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V24",
+      "file": "t08-24-causas-de-extincion-de-la-responsabilidad-criminal.webp",
+      "title": "Causas de extinción de la responsabilidad criminal",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar causas de extinción de la responsabilidad criminal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V25",
+      "file": "t08-25-prescripcion-de-los-delitos.webp",
+      "title": "Prescripción de los delitos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar prescripción de los delitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V26",
+      "file": "t08-26-prescripcion-de-penas-y-medidas-de-seguridad.webp",
+      "title": "Prescripción de penas y medidas de seguridad",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar prescripción de penas y medidas de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V27",
+      "file": "t08-27-cancelacion-de-antecedentes-y-computo.webp",
+      "title": "Cancelación de antecedentes y cómputo",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar cancelación de antecedentes y cómputo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V28",
+      "file": "t08-28-homicidio-y-formas-agravadas.webp",
+      "title": "Homicidio y formas agravadas",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar homicidio y formas agravadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V29",
+      "file": "t08-29-asesinato-y-prision-permanente-revisable.webp",
+      "title": "Asesinato y prisión permanente revisable",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar asesinato y prisión permanente revisable.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V30",
+      "file": "t08-30-induccion-al-suicidio-eutanasia-y-actos-preparatorios.webp",
+      "title": "Inducción al suicidio, eutanasia y actos preparatorios",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar inducción al suicidio, eutanasia y actos preparatorios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V31",
+      "file": "t08-31-lesiones-basicas-y-agravadas.webp",
+      "title": "Lesiones básicas y agravadas",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar lesiones básicas y agravadas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V32",
+      "file": "t08-32-actos-preparatorios-y-violencia-sobre-personas-protegidas.webp",
+      "title": "Actos preparatorios y violencia sobre personas protegidas",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar actos preparatorios y violencia sobre personas protegidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V33",
+      "file": "t08-33-rina-consentimiento-y-trafico-de-organos.webp",
+      "title": "Riña, consentimiento y tráfico de órganos",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar riña, consentimiento y tráfico de órganos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V34",
+      "file": "t08-34-detenciones-ilegales-y-secuestros.webp",
+      "title": "Detenciones ilegales y secuestros",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar detenciones ilegales y secuestros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V35",
+      "file": "t08-35-amenazas.webp",
+      "title": "Amenazas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar amenazas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V36",
+      "file": "t08-36-coacciones-matrimonio-forzado-y-acoso.webp",
+      "title": "Coacciones, matrimonio forzado y acoso",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar coacciones, matrimonio forzado y acoso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V37",
+      "file": "t08-37-trato-degradante-y-violencia-habitual.webp",
+      "title": "Trato degradante y violencia habitual",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar trato degradante y violencia habitual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V38",
+      "file": "t08-38-tortura.webp",
+      "title": "Tortura",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar tortura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V39",
+      "file": "t08-39-omision-funcionarios-y-concursos-en-integridad-moral.webp",
+      "title": "Omisión, funcionarios y concursos en integridad moral",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar omisión, funcionarios y concursos en integridad moral.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V40",
+      "file": "t08-40-trata-de-seres-humanos.webp",
+      "title": "Trata de seres humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar trata de seres humanos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V41",
+      "file": "t08-41-reglas-comunes-de-vida-lesiones-libertad-e-integridad.webp",
+      "title": "Reglas comunes de vida, lesiones, libertad e integridad",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar reglas comunes de vida, lesiones, libertad e integridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V42",
+      "file": "t08-42-agresion-sexual.webp",
+      "title": "Agresión sexual",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar agresión sexual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V43",
+      "file": "t08-43-delitos-sexuales-contra-menores-de-dieciseis-anos.webp",
+      "title": "Delitos sexuales contra menores de dieciséis años",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar delitos sexuales contra menores de dieciséis años.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V44",
+      "file": "t08-44-acoso-sexual.webp",
+      "title": "Acoso sexual",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar acoso sexual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V45",
+      "file": "t08-45-exhibicionismo-y-provocacion-sexual.webp",
+      "title": "Exhibicionismo y provocación sexual",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar exhibicionismo y provocación sexual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V46",
+      "file": "t08-46-prostitucion-explotacion-sexual-y-corrupcion-de-menores.webp",
+      "title": "Prostitución, explotación sexual y corrupción de menores",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar prostitución, explotación sexual y corrupción de menores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V47",
+      "file": "t08-47-disposiciones-comunes-de-libertad-sexual.webp",
+      "title": "Disposiciones comunes de libertad sexual",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar disposiciones comunes de libertad sexual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V48",
+      "file": "t08-48-matrimonios-ilegales.webp",
+      "title": "Matrimonios ilegales",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar matrimonios ilegales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V49",
+      "file": "t08-49-suposicion-de-parto-y-alteracion-de-filiacion-o-estado-del-menor.webp",
+      "title": "Suposición de parto y alteración de filiación o estado del menor",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar suposición de parto y alteración de filiación o estado del menor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V50",
+      "file": "t08-50-prevaricacion-y-nombramientos-ilegales.webp",
+      "title": "Prevaricación y nombramientos ilegales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar prevaricación y nombramientos ilegales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V51",
+      "file": "t08-51-abandono-de-destino-y-omision-de-perseguir-delitos.webp",
+      "title": "Abandono de destino y omisión de perseguir delitos",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar abandono de destino y omisión de perseguir delitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V52",
+      "file": "t08-52-desobediencia-y-denegacion-de-auxilio.webp",
+      "title": "Desobediencia y denegación de auxilio",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar desobediencia y denegación de auxilio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V53",
+      "file": "t08-53-custodia-de-documentos-y-revelacion-de-secretos.webp",
+      "title": "Custodia de documentos y revelación de secretos",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar custodia de documentos y revelación de secretos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V54",
+      "file": "t08-54-cohecho.webp",
+      "title": "Cohecho",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar cohecho.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V55",
+      "file": "t08-55-trafico-de-influencias.webp",
+      "title": "Tráfico de influencias",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar tráfico de influencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V56",
+      "file": "t08-56-malversacion.webp",
+      "title": "Malversación",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar malversación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V57",
+      "file": "t08-57-fraudes-y-exacciones-ilegales.webp",
+      "title": "Fraudes y exacciones ilegales",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar fraudes y exacciones ilegales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V58",
+      "file": "t08-58-negociaciones-prohibidas-y-abusos.webp",
+      "title": "Negociaciones prohibidas y abusos",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar negociaciones prohibidas y abusos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V59",
+      "file": "t08-59-disposicion-comun-sobre-funcionarios-extranjeros.webp",
+      "title": "Disposición común sobre funcionarios extranjeros",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar disposición común sobre funcionarios extranjeros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V60",
+      "file": "t08-60-rebelion.webp",
+      "title": "Rebelión",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar rebelión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V61",
+      "file": "t08-61-delitos-contra-la-corona.webp",
+      "title": "Delitos contra la Corona",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar delitos contra la corona.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V62",
+      "file": "t08-62-instituciones-del-estado-y-division-de-poderes.webp",
+      "title": "Instituciones del Estado y división de poderes",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar instituciones del estado y división de poderes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V63",
+      "file": "t08-63-derechos-fundamentales-reuniones-asociaciones-y-libertad-de-conciencia.webp",
+      "title": "Derechos fundamentales, reuniones, asociaciones y libertad de conciencia",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar derechos fundamentales, reuniones, asociaciones y libertad de conciencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V64",
+      "file": "t08-64-delitos-de-funcionarios-contra-garantias-constitucionales.webp",
+      "title": "Delitos de funcionarios contra garantías constitucionales",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar delitos de funcionarios contra garantías constitucionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V65",
+      "file": "t08-65-ultrajes-a-espana-y-sus-simbolos.webp",
+      "title": "Ultrajes a España y sus símbolos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar ultrajes a españa y sus símbolos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V66",
+      "file": "t08-66-delitos-contra-personas-internacionalmente-protegidas.webp",
+      "title": "Delitos contra personas internacionalmente protegidas",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar delitos contra personas internacionalmente protegidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V67",
+      "file": "t08-67-genocidio.webp",
+      "title": "Genocidio",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar genocidio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V68",
+      "file": "t08-68-lesa-humanidad.webp",
+      "title": "Lesa humanidad",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar lesa humanidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V69",
+      "file": "t08-69-delitos-contra-personas-y-bienes-en-conflicto-armado.webp",
+      "title": "Delitos contra personas y bienes en conflicto armado",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar delitos contra personas y bienes en conflicto armado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T08-V70",
+      "file": "t08-70-disposiciones-comunes-y-otros-delitos-internacionales.webp",
+      "title": "Disposiciones comunes y otros delitos internacionales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar disposiciones comunes y otros delitos internacionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}
