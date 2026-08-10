@@ -19,7 +19,11 @@ Este bloque fija **ética y moral: conceptos relacionados, no idénticos** con u
 - Ética y moral se relacionan, pero no son sinónimos perfectos: una práctica moral puede someterse a crítica ética.
 - Describir que una conducta es habitual o mayoritaria no demuestra que sea éticamente correcta.
 
-<!-- VISUAL PENDIENTE: t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp -->
+<!-- VISUAL:t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp" alt="Ética y moral: conceptos relacionados, no idénticos" width="820">
+</p>
+<p align="center"><em>Infografía: Ética y moral: conceptos relacionados, no idénticos.</em></p>
 
 <!-- FUENTE: RAE-ETICA-MORAL-T30 -->
 
@@ -32,7 +36,11 @@ Este bloque fija **principios, valores, normas y virtudes** con una idea de cont
 - Una norma prescribe, permite o prohíbe conductas en un ámbito determinado.
 - Una virtud es una disposición adquirida para actuar de manera consistente conforme a ciertos bienes o valores.
 
-<!-- VISUAL PENDIENTE: t30-02-principios-valores-normas-y-virtudes.webp -->
+<!-- VISUAL:t30-02-principios-valores-normas-y-virtudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-02-principios-valores-normas-y-virtudes.webp" alt="Principios, valores, normas y virtudes" width="820">
+</p>
+<p align="center"><em>Infografía: Principios, valores, normas y virtudes.</em></p>
 
 <!-- FUENTE: UNESCO-VALUES-T30 -->
 
@@ -45,7 +53,11 @@ Este bloque fija **valores superiores del ordenamiento español** con una idea d
 - Los cuatro valores superiores pertenecen al ordenamiento jurídico y no son una lista abierta creada por cada intérprete.
 - La solidaridad es un principio constitucional relevante, pero no integra la enumeración literal de valores superiores del artículo 1.1.
 
-<!-- VISUAL PENDIENTE: t30-03-valores-superiores-del-ordenamiento-espanol.webp -->
+<!-- VISUAL:t30-03-valores-superiores-del-ordenamiento-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-03-valores-superiores-del-ordenamiento-espanol.webp" alt="Valores superiores del ordenamiento español" width="820">
+</p>
+<p align="center"><em>Infografía: Valores superiores del ordenamiento español.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -58,7 +70,11 @@ Este bloque fija **dignidad, libre desarrollo y respeto a la ley y a los demás*
 - El respeto a la ley y a los derechos de los demás completa la fórmula constitucional del artículo 10.1.
 - La dignidad corresponde a toda persona y no depende de popularidad, utilidad social, origen o adhesión a valores mayoritarios.
 
-<!-- VISUAL PENDIENTE: t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp -->
+<!-- VISUAL:t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp" alt="Dignidad, libre desarrollo y respeto a la ley y a los demás" width="820">
+</p>
+<p align="center"><em>Infografía: Dignidad, libre desarrollo y respeto a la ley y a los demás.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -71,7 +87,11 @@ Este bloque fija **pluralismo ético y mínimos de convivencia** con una idea de
 - La neutralidad pública ante convicciones no permite tolerar discriminación, violencia o lesión de derechos fundamentales.
 - El desacuerdo con un valor mayoritario no convierte por sí solo a una persona o grupo en antisocial, peligroso o delictivo.
 
-<!-- VISUAL PENDIENTE: t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp -->
+<!-- VISUAL:t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp" alt="Pluralismo ético y mínimos de convivencia" width="820">
+</p>
+<p align="center"><em>Infografía: Pluralismo ético y mínimos de convivencia.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -84,7 +104,11 @@ Este bloque fija **concepto de socialización** con una idea de control: Sociali
 - No es una copia pasiva: la persona selecciona, negocia, rechaza y transforma parte de lo aprendido.
 - El proceso continúa durante toda la vida y se reactiva ante cambios de entorno, función, grupo o posición social.
 
-<!-- VISUAL PENDIENTE: t30-il-06-concepto-de-socializacion.webp -->
+<!-- VISUAL:t30-il-06-concepto-de-socializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-06-concepto-de-socializacion.webp" alt="Concepto de socialización" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de socialización.</em></p>
 
 <!-- FUENTE: UNESCO-SOCIALIZATION-T30 -->
 
@@ -97,7 +121,11 @@ Este bloque fija **socialización primaria, secundaria y resocialización** con 
 - La resocialización implica sustituir o reorganizar aprendizajes previos para adaptarse a un contexto o identidad social nuevos.
 - La llamada socialización terciaria no posee un significado único en toda la literatura y no debe presentarse como categoría universal inequívoca.
 
-<!-- VISUAL PENDIENTE: t30-07-socializacion-primaria-secundaria-y-resocializacion.webp -->
+<!-- VISUAL:t30-07-socializacion-primaria-secundaria-y-resocializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-07-socializacion-primaria-secundaria-y-resocializacion.webp" alt="Socialización primaria, secundaria y resocialización" width="820">
+</p>
+<p align="center"><em>Infografía: Socialización primaria, secundaria y resocialización.</em></p>
 
 <!-- FUENTE: UNESCO-SOCIALIZATION-T30 -->
 
@@ -110,7 +138,11 @@ Este bloque fija **agentes de socialización** con una idea de control: Localiza
 - Los grupos de iguales aportan pertenencia, comparación, lenguaje y presión normativa, especialmente en etapas de autonomía creciente.
 - Medios, redes, trabajo, asociaciones, instituciones y experiencias comunitarias también transmiten valores y modelos de conducta.
 
-<!-- VISUAL PENDIENTE: t30-08-agentes-de-socializacion.webp -->
+<!-- VISUAL:t30-08-agentes-de-socializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-08-agentes-de-socializacion.webp" alt="Agentes de socialización" width="820">
+</p>
+<p align="center"><em>Infografía: Agentes de socialización.</em></p>
 
 <!-- FUENTE: UNESCO-SOCIALIZATION-T30 -->
 
@@ -123,7 +155,11 @@ Este bloque fija **mecanismos de transmisión de valores** con una idea de contr
 - La aprobación pública puede modificar lo que se expresa sin producir necesariamente una convicción privada equivalente.
 - La coherencia entre discurso institucional, conducta de referentes e incentivos aumenta la credibilidad de los valores transmitidos.
 
-<!-- VISUAL PENDIENTE: t30-09-mecanismos-de-transmision-de-valores.webp -->
+<!-- VISUAL:t30-09-mecanismos-de-transmision-de-valores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-09-mecanismos-de-transmision-de-valores.webp" alt="Mecanismos de transmisión de valores" width="820">
+</p>
+<p align="center"><em>Infografía: Mecanismos de transmisión de valores.</em></p>
 
 <!-- FUENTE: BANDURA-T30 -->
 
@@ -136,7 +172,11 @@ Este bloque fija **desarrollo moral según kohlberg** con una idea de control: R
 - En el nivel preconvencional pesan consecuencias personales e intercambios; en el convencional, expectativas, normas y orden social.
 - El nivel postconvencional razona mediante derechos, contrato social y principios, pero el modelo describe razonamiento, no garantiza conducta moral.
 
-<!-- VISUAL PENDIENTE: t30-10-desarrollo-moral-segun-kohlberg.webp -->
+<!-- VISUAL:t30-10-desarrollo-moral-segun-kohlberg.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-10-desarrollo-moral-segun-kohlberg.webp" alt="Desarrollo moral según Kohlberg" width="820">
+</p>
+<p align="center"><em>Infografía: Desarrollo moral según Kohlberg.</em></p>
 
 <!-- FUENTE: KOHLBERG-T30 -->
 
@@ -149,7 +189,11 @@ Este bloque fija **libertad como autonomía y como derecho** con una idea de con
 - Los derechos de libertad poseen contenidos y garantías específicos; no existe una libertad general ilimitada para lesionar bienes ajenos.
 - Las restricciones de derechos requieren fundamento jurídico, finalidad legítima y respeto a las garantías aplicables.
 
-<!-- VISUAL PENDIENTE: t30-il-11-libertad-como-autonomia-y-como-derecho.webp -->
+<!-- VISUAL:t30-il-11-libertad-como-autonomia-y-como-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-11-libertad-como-autonomia-y-como-derecho.webp" alt="Libertad como autonomía y como derecho" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad como autonomía y como derecho.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -162,7 +206,11 @@ Este bloque fija **libertad negativa y positiva** con una idea de control: Negat
 - Las dos nociones iluminan problemas distintos y pueden entrar en tensión cuando se invoca el autogobierno para imponer una voluntad ajena.
 - Libertad positiva no significa que el Estado pueda decidir sin límites qué constituye la verdadera voluntad de cada persona.
 
-<!-- VISUAL PENDIENTE: t30-12-libertad-negativa-y-positiva.webp -->
+<!-- VISUAL:t30-12-libertad-negativa-y-positiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-12-libertad-negativa-y-positiva.webp" alt="Libertad negativa y positiva" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad negativa y positiva.</em></p>
 
 <!-- FUENTE: BERLIN-T30 -->
 
@@ -175,7 +223,11 @@ Este bloque fija **responsabilidad moral y responsabilidad jurídica** con una i
 - Una conducta puede ser moralmente censurable sin constituir ilícito, y un incumplimiento jurídico no agota siempre su valoración moral.
 - La responsabilidad jurídica no se presume de forma genérica: exige los presupuestos y garantías del régimen aplicable.
 
-<!-- VISUAL PENDIENTE: t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp -->
+<!-- VISUAL:t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp" alt="Responsabilidad moral y responsabilidad jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad moral y responsabilidad jurídica.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -188,7 +240,11 @@ Este bloque fija **libertad, imputación y responsabilidad** con una idea de con
 - La libertad de elección no elimina la influencia social, pero tampoco convierte toda conducta en producto inevitable del entorno.
 - La responsabilidad enlaza decisión y consecuencias sin autorizar culpabilizaciones colectivas por pertenencia a un grupo.
 
-<!-- VISUAL PENDIENTE: t30-il-14-libertad-imputacion-y-responsabilidad.webp -->
+<!-- VISUAL:t30-il-14-libertad-imputacion-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-14-libertad-imputacion-y-responsabilidad.webp" alt="Libertad, imputación y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad, imputación y responsabilidad.</em></p>
 
 <!-- FUENTE: DUDH-T30 -->
 
@@ -201,7 +257,11 @@ Este bloque fija **igualdad formal y prohibición de discriminación** con una i
 - La igualdad no exige tratar de forma idéntica situaciones objetivamente diferentes cuando existe justificación razonable y proporcionada.
 - Una diferencia de trato sin finalidad legítima o sin proporcionalidad puede vulnerar la igualdad aunque se presente como regla general.
 
-<!-- VISUAL PENDIENTE: t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp -->
+<!-- VISUAL:t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp" alt="Igualdad formal y prohibición de discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad formal y prohibición de discriminación.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -214,7 +274,11 @@ Este bloque fija **igualdad real y acción positiva** con una idea de control: L
 - Las acciones positivas pretenden prevenir, eliminar o compensar desventajas colectivas mientras subsistan las causas que las justifican.
 - Una acción positiva debe ser razonable y proporcionada; no es una licencia general para cualquier preferencia.
 
-<!-- VISUAL PENDIENTE: t30-il-16-igualdad-real-y-accion-positiva.webp -->
+<!-- VISUAL:t30-il-16-igualdad-real-y-accion-positiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-16-igualdad-real-y-accion-positiva.webp" alt="Igualdad real y acción positiva" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad real y acción positiva.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -227,7 +291,11 @@ Este bloque fija **solidaridad social y constitucional** con una idea de control
 - El artículo 138.1 ordena velar por un equilibrio económico adecuado y justo entre las diversas partes del territorio y atender al hecho insular.
 - La solidaridad no elimina autonomía ni igualdad; coordina cargas, beneficios y cooperación dentro del marco constitucional.
 
-<!-- VISUAL PENDIENTE: t30-17-solidaridad-social-y-constitucional.webp -->
+<!-- VISUAL:t30-17-solidaridad-social-y-constitucional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-17-solidaridad-social-y-constitucional.webp" alt="Solidaridad social y constitucional" width="820">
+</p>
+<p align="center"><em>Infografía: Solidaridad social y constitucional.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -240,7 +308,11 @@ Este bloque fija **solidaridad mecánica y orgánica** con una idea de control: 
 - Mecánica no significa producida por máquinas y orgánica no significa biológica en sentido médico.
 - Las dos formas son tipos analíticos; una sociedad concreta puede mostrar combinaciones y transformaciones.
 
-<!-- VISUAL PENDIENTE: t30-18-solidaridad-mecanica-y-organica.webp -->
+<!-- VISUAL:t30-18-solidaridad-mecanica-y-organica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-18-solidaridad-mecanica-y-organica.webp" alt="Solidaridad mecánica y orgánica" width="820">
+</p>
+<p align="center"><em>Infografía: Solidaridad mecánica y orgánica.</em></p>
 
 <!-- FUENTE: DURKHEIM-T30 -->
 
@@ -253,7 +325,11 @@ Este bloque fija **tolerancia: concepto y exigencias** con una idea de control: 
 - No es concesión, condescendencia o indulgencia, sino una actitud activa fundada en derechos humanos universales.
 - La tolerancia no exige renunciar a convicciones propias ni aceptar las convicciones ajenas como verdaderas.
 
-<!-- VISUAL PENDIENTE: t30-il-19-tolerancia-concepto-y-exigencias.webp -->
+<!-- VISUAL:t30-il-19-tolerancia-concepto-y-exigencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-19-tolerancia-concepto-y-exigencias.webp" alt="Tolerancia: concepto y exigencias" width="820">
+</p>
+<p align="center"><em>Infografía: Tolerancia: concepto y exigencias.</em></p>
 
 <!-- FUENTE: UNESCO-TOLERANCE-T30 -->
 
@@ -266,7 +342,11 @@ Este bloque fija **límites y paradoja de la tolerancia** con una idea de contro
 - Criticar una doctrina no equivale por sí solo a discriminar a las personas que la sostienen.
 - La respuesta frente a expresiones intolerantes debe distinguir opinión ofensiva, hostigamiento, amenaza, incitación y delito conforme al marco aplicable.
 
-<!-- VISUAL PENDIENTE: t30-20-limites-y-paradoja-de-la-tolerancia.webp -->
+<!-- VISUAL:t30-20-limites-y-paradoja-de-la-tolerancia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-20-limites-y-paradoja-de-la-tolerancia.webp" alt="Límites y paradoja de la tolerancia" width="820">
+</p>
+<p align="center"><em>Infografía: Límites y paradoja de la tolerancia.</em></p>
 
 <!-- FUENTE: UNESCO-TOLERANCE-T30 -->
 
@@ -279,7 +359,11 @@ Este bloque fija **contravalores y reacción frente a valores mayoritarios** con
 - Las reacciones sociales pueden ir desde crítica y persuasión hasta exclusión, sanción formal o violencia; cada una exige valoración separada.
 - En un Estado plural, la respuesta legítima protege derechos y convivencia sin criminalizar automáticamente la disidencia.
 
-<!-- VISUAL PENDIENTE: t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp -->
+<!-- VISUAL:t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp" alt="Contravalores y reacción frente a valores mayoritarios" width="820">
+</p>
+<p align="center"><em>Infografía: Contravalores y reacción frente a valores mayoritarios.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -292,7 +376,11 @@ Este bloque fija **racismo: concepto** con una idea de control: Busca la jerarqu
 - No necesita una teoría explícita de razas para producir jerarquía, hostilidad o exclusión racializada.
 - Racismo, prejuicio y discriminación se relacionan, pero el primero puede operar como ideología o marco de interpretación y la última como trato.
 
-<!-- VISUAL PENDIENTE: t30-22-racismo-concepto.webp -->
+<!-- VISUAL:t30-22-racismo-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-22-racismo-concepto.webp" alt="Racismo: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo: concepto.</em></p>
 
 <!-- FUENTE: ECRI-GPR7-T30 -->
 
@@ -305,7 +393,11 @@ Este bloque fija **racismo biológico y racismo cultural** con una idea de contr
 - La diversidad genética humana no sostiene divisiones naturales nítidas en razas jerárquicas.
 - Explicar una práctica cultural concreta no permite atribuirla automáticamente a todas las personas asociadas a un origen.
 
-<!-- VISUAL PENDIENTE: t30-23-racismo-biologico-y-racismo-cultural.webp -->
+<!-- VISUAL:t30-23-racismo-biologico-y-racismo-cultural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-23-racismo-biologico-y-racismo-cultural.webp" alt="Racismo biológico y racismo cultural" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo biológico y racismo cultural.</em></p>
 
 <!-- FUENTE: ECRI-GPR7-T30 -->
 
@@ -318,7 +410,11 @@ Este bloque fija **racismo simbólico, moderno y aversivo** con una idea de cont
 - El racismo aversivo describe la tensión entre una autoimagen igualitaria y sesgos que aparecen en situaciones ambiguas.
 - Estas categorías son modelos analíticos y no permiten diagnosticar automáticamente a una persona por una sola respuesta.
 
-<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
 
 <!-- FUENTE: FRA-RACISM-T30 -->
 
@@ -331,7 +427,11 @@ Este bloque fija **discriminación racial directa e indirecta** con una idea de 
 - La discriminación por error puede existir aunque la característica atribuida no concurra realmente.
 - La discriminación por asociación alcanza a quien recibe trato adverso por su relación con una persona o grupo protegido.
 
-<!-- VISUAL PENDIENTE: t30-25-discriminacion-racial-directa-e-indirecta.webp -->
+<!-- VISUAL:t30-25-discriminacion-racial-directa-e-indirecta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-25-discriminacion-racial-directa-e-indirecta.webp" alt="Discriminación racial directa e indirecta" width="820">
+</p>
+<p align="center"><em>Infografía: Discriminación racial directa e indirecta.</em></p>
 
 <!-- FUENTE: L15-2022-T30 -->
 
@@ -344,7 +444,11 @@ Este bloque fija **prevención del racismo y acción institucional** con una ide
 - Recoger datos de forma lícita y segura ayuda a detectar patrones, pero las categorías no deben convertirse en perfiles policiales automáticos.
 - La intervención eficaz exige escuchar a comunidades afectadas sin sustituir prueba individual por expectativas sobre el grupo.
 
-<!-- VISUAL PENDIENTE: t30-26-prevencion-del-racismo-y-accion-institucional.webp -->
+<!-- VISUAL:t30-26-prevencion-del-racismo-y-accion-institucional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-26-prevencion-del-racismo-y-accion-institucional.webp" alt="Prevención del racismo y acción institucional" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención del racismo y acción institucional.</em></p>
 
 <!-- FUENTE: L15-2022-T30 -->
 
@@ -357,7 +461,11 @@ Este bloque fija **fanatismo: concepto** con una idea de control: Firmeza acepta
 - Una persona comprometida puede defender con firmeza una causa y seguir aceptando evidencia, límites y derechos ajenos.
 - Fanatismo no es categoría penal autónoma ni diagnóstico clínico automático.
 
-<!-- VISUAL PENDIENTE: t30-il-27-fanatismo-concepto.webp -->
+<!-- VISUAL:t30-il-27-fanatismo-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-27-fanatismo-concepto.webp" alt="Fanatismo: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Fanatismo: concepto.</em></p>
 
 <!-- FUENTE: RAE-FANATISMO-T30 -->
 
@@ -370,7 +478,11 @@ Este bloque fija **polarización, identidad y pensamiento fanático** con una id
 - Cámaras de eco, agravios, líderes y recompensas grupales pueden reforzar creencias sin determinar inevitablemente violencia.
 - La radicalización es un proceso plural y no lineal; no existe un perfil único que permita predecir conducta violenta con certeza.
 
-<!-- VISUAL PENDIENTE: t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp -->
+<!-- VISUAL:t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp" alt="Polarización, identidad y pensamiento fanático" width="820">
+</p>
+<p align="center"><em>Infografía: Polarización, identidad y pensamiento fanático.</em></p>
 
 <!-- FUENTE: COE-RADICALISATION-T30 -->
 
@@ -383,7 +495,11 @@ Este bloque fija **fundamentalismo: origen y uso actual** con una idea de contro
 - La etiqueta puede simplificar realidades religiosas o políticas diferentes y debe usarse con contexto y criterios explícitos.
 - Fundamentalismo no es sinónimo necesario de religión, conservadurismo, integrismo, extremismo violento o terrorismo.
 
-<!-- VISUAL PENDIENTE: t30-29-fundamentalismo-origen-y-uso-actual.webp -->
+<!-- VISUAL:t30-29-fundamentalismo-origen-y-uso-actual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-29-fundamentalismo-origen-y-uso-actual.webp" alt="Fundamentalismo: origen y uso actual" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamentalismo: origen y uso actual.</em></p>
 
 <!-- FUENTE: RAE-FUNDAMENTALISMO-T30 -->
 
@@ -396,7 +512,11 @@ Este bloque fija **fundamentalismo, integrismo y extremismo violento** con una i
 - El terrorismo exige los elementos del tipo penal aplicable y no puede deducirse de identidad religiosa o etiqueta doctrinal.
 - La prevención debe concentrarse en conductas, amenazas, movilización y daño, evitando estigmatizar comunidades completas.
 
-<!-- VISUAL PENDIENTE: t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp -->
+<!-- VISUAL:t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp" alt="Fundamentalismo, integrismo y extremismo violento" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamentalismo, integrismo y extremismo violento.</em></p>
 
 <!-- FUENTE: COE-RADICALISATION-T30 -->
 
@@ -409,7 +529,11 @@ Este bloque fija **prevención: pensamiento crítico, pertenencia y alternativas
 - La intervención temprana debe distinguir ideas impopulares de preparación de violencia y respetar derechos fundamentales.
 - Mensajes puramente estigmatizantes pueden reforzar aislamiento y narrativa de persecución en lugar de reducir riesgo.
 
-<!-- VISUAL PENDIENTE: t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp -->
+<!-- VISUAL:t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp" alt="Prevención: pensamiento crítico, pertenencia y alternativas" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención: pensamiento crítico, pertenencia y alternativas.</em></p>
 
 <!-- FUENTE: UNESCO-VALUES-T30 -->
 
@@ -422,7 +546,11 @@ Este bloque fija **secta: término y neutralidad jurídica** con una idea de con
 - El ordenamiento protege libertad religiosa, ideológica y asociativa, y persigue conductas concretas de coacción, fraude, abuso o violencia.
 - La etiqueta secta no sustituye la prueba de hechos ni autoriza discriminación colectiva.
 
-<!-- VISUAL PENDIENTE: t30-32-secta-termino-y-neutralidad-juridica.webp -->
+<!-- VISUAL:t30-32-secta-termino-y-neutralidad-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-32-secta-termino-y-neutralidad-juridica.webp" alt="Secta: término y neutralidad jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Secta: término y neutralidad jurídica.</em></p>
 
 <!-- FUENTE: COE-FORB-T30 -->
 
@@ -435,7 +563,11 @@ Este bloque fija **grupo de control coercitivo o destructivo** con una idea de c
 - Ningún indicador aislado prueba por sí solo control coercitivo; importa el patrón, intensidad, duración y capacidad real de salida.
 - La cohesión intensa y las normas exigentes no bastan para calificar a un grupo como destructivo.
 
-<!-- VISUAL PENDIENTE: t30-33-grupo-de-control-coercitivo-o-destructivo.webp -->
+<!-- VISUAL:t30-33-grupo-de-control-coercitivo-o-destructivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-33-grupo-de-control-coercitivo-o-destructivo.webp" alt="Grupo de control coercitivo o destructivo" width="820">
+</p>
+<p align="center"><em>Infografía: Grupo de control coercitivo o destructivo.</em></p>
 
 <!-- FUENTE: SINGER-T30 -->
 
@@ -448,7 +580,11 @@ Este bloque fija **persuasión, influencia y manipulación** con una idea de con
 - La coacción incorpora amenaza, fuerza o presión que reduce de manera grave la libertad de decisión.
 - Evaluar un caso exige atender a información disponible, alternativas, consentimiento, presión y consecuencias de disentir.
 
-<!-- VISUAL PENDIENTE: t30-34-persuasion-influencia-y-manipulacion.webp -->
+<!-- VISUAL:t30-34-persuasion-influencia-y-manipulacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-34-persuasion-influencia-y-manipulacion.webp" alt="Persuasión, influencia y manipulación" width="820">
+</p>
+<p align="center"><em>Infografía: Persuasión, influencia y manipulación.</em></p>
 
 <!-- FUENTE: SINGER-T30 -->
 
@@ -461,7 +597,11 @@ Este bloque fija **captación y escalada de compromiso** con una idea de control
 - La reciprocidad y la disonancia pueden favorecer que la persona justifique sacrificios previos para mantener coherencia.
 - El proceso no funciona igual en todas las personas y vulnerabilidad no significa falta de inteligencia ni culpabilidad de la víctima.
 
-<!-- VISUAL PENDIENTE: t30-il-35-captacion-y-escalada-de-compromiso.webp -->
+<!-- VISUAL:t30-il-35-captacion-y-escalada-de-compromiso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-35-captacion-y-escalada-de-compromiso.webp" alt="Captación y escalada de compromiso" width="820">
+</p>
+<p align="center"><em>Infografía: Captación y escalada de compromiso.</em></p>
 
 <!-- FUENTE: SINGER-T30 -->
 
@@ -474,7 +614,11 @@ Este bloque fija **autoridad carismática, liderazgo y obediencia** con una idea
 - La concentración de interpretación, sanción y acceso a recursos reduce controles internos y aumenta riesgo de abuso.
 - La rutinización transforma el carisma en reglas, cargos o sucesión cuando el grupo busca continuidad.
 
-<!-- VISUAL PENDIENTE: t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp -->
+<!-- VISUAL:t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp" alt="Autoridad carismática, liderazgo y obediencia" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridad carismática, liderazgo y obediencia.</em></p>
 
 <!-- FUENTE: WEBER-T30 -->
 
@@ -487,7 +631,11 @@ Este bloque fija **aislamiento, información y lenguaje cerrado** con una idea d
 - La vigilancia entre miembros puede transformar relaciones de apoyo en mecanismos de disciplina y autocensura.
 - La restricción de sueño, alimentación, privacidad o tiempo puede disminuir capacidad crítica y debe evaluarse como parte del patrón.
 
-<!-- VISUAL PENDIENTE: t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp -->
+<!-- VISUAL:t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp" alt="Aislamiento, información y lenguaje cerrado" width="820">
+</p>
+<p align="center"><em>Infografía: Aislamiento, información y lenguaje cerrado.</em></p>
 
 <!-- FUENTE: SINGER-T30 -->
 
@@ -500,7 +648,11 @@ Este bloque fija **clasificación de bryan wilson i** con una idea de control: C
 - Las introversionistas se retiran del mundo y concentran la salvación o pureza en la comunidad separada.
 - La clasificación de Wilson es una tipología sociológica y no una escala automática de peligrosidad o ilegalidad.
 
-<!-- VISUAL PENDIENTE: t30-38-clasificacion-de-bryan-wilson-i.webp -->
+<!-- VISUAL:t30-38-clasificacion-de-bryan-wilson-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-38-clasificacion-de-bryan-wilson-i.webp" alt="Clasificación de Bryan Wilson I" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de Bryan Wilson I.</em></p>
 
 <!-- FUENTE: WILSON-T30 -->
 
@@ -513,7 +665,11 @@ Este bloque fija **clasificación de bryan wilson ii** con una idea de control: 
 - Las reformistas pretenden mejorar gradualmente el orden social mediante conciencia y acción.
 - Las utópicas aspiran a reconstruir la organización social conforme a un modelo comunitario ideal.
 
-<!-- VISUAL PENDIENTE: t30-39-clasificacion-de-bryan-wilson-ii.webp -->
+<!-- VISUAL:t30-39-clasificacion-de-bryan-wilson-ii.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-39-clasificacion-de-bryan-wilson-ii.webp" alt="Clasificación de Bryan Wilson II" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de Bryan Wilson II.</em></p>
 
 <!-- FUENTE: WILSON-T30 -->
 
@@ -526,7 +682,11 @@ Este bloque fija **riesgos jurídicos asociados, no delitos por etiqueta** con u
 - Las asociaciones secretas y las de carácter paramilitar están prohibidas por el artículo 22.5.
 - La respuesta jurídica debe individualizar autoría, participación, víctimas y pruebas sin penalizar creencias protegidas.
 
-<!-- VISUAL PENDIENTE: t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp -->
+<!-- VISUAL:t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp" alt="Riesgos jurídicos asociados, no delitos por etiqueta" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgos jurídicos asociados, no delitos por etiqueta.</em></p>
 
 <!-- FUENTE: CE-T30 -->
 
@@ -539,7 +699,11 @@ Este bloque fija **atención policial y salida segura** con una idea de control:
 - Documentar hechos, conservar comunicaciones y derivar a recursos adecuados resulta más útil que discutir toda la doctrina del grupo.
 - La intervención debe valorar menores, dependencia económica, salud, riesgo suicida, armas, desplazamientos y represalias sin presumirlos.
 
-<!-- VISUAL PENDIENTE: t30-il-41-atencion-policial-y-salida-segura.webp -->
+<!-- VISUAL:t30-il-41-atencion-policial-y-salida-segura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-41-atencion-policial-y-salida-segura.webp" alt="Atención policial y salida segura" width="820">
+</p>
+<p align="center"><em>Infografía: Atención policial y salida segura.</em></p>
 
 <!-- FUENTE: ESTATUTO-VICTIMA-T30 -->
 
@@ -552,7 +716,11 @@ Este bloque fija **hooliganismo: concepto y delimitación** con una idea de cont
 - La violencia puede aparecer en el recinto, aledaños, rutas de transporte o encuentros concertados relacionados con el evento.
 - El concepto sociológico no sustituye los tipos penales ni las infracciones administrativas aplicables a cada conducta.
 
-<!-- VISUAL PENDIENTE: t30-42-hooliganismo-concepto-y-delimitacion.webp -->
+<!-- VISUAL:t30-42-hooliganismo-concepto-y-delimitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-42-hooliganismo-concepto-y-delimitacion.webp" alt="Hooliganismo: concepto y delimitación" width="820">
+</p>
+<p align="center"><em>Infografía: Hooliganismo: concepto y delimitación.</em></p>
 
 <!-- FUENTE: L19-2007-T30 -->
 
@@ -565,7 +733,11 @@ Este bloque fija **identidad, masculinidad y búsqueda de confrontación** con u
 - La búsqueda de excitación y prestigio dentro del grupo puede reforzar confrontaciones sin explicar por sí sola todos los casos.
 - Una explicación sociológica no excusa responsabilidad individual ni autoriza a estigmatizar a una clase social completa.
 
-<!-- VISUAL PENDIENTE: t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp -->
+<!-- VISUAL:t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp" alt="Identidad, masculinidad y búsqueda de confrontación" width="820">
+</p>
+<p align="center"><em>Infografía: Identidad, masculinidad y búsqueda de confrontación.</em></p>
 
 <!-- FUENTE: LEICESTER-T30 -->
 
@@ -578,7 +750,11 @@ Este bloque fija **enfoque de la escuela de leicester** con una idea de control:
 - Rechaza reducir el fenómeno a una causa única como alcohol, edad o maldad individual.
 - Las condiciones estudiadas pueden cambiar entre países, épocas y competiciones, por lo que la teoría no funciona como perfil automático.
 
-<!-- VISUAL PENDIENTE: t30-44-enfoque-de-la-escuela-de-leicester.webp -->
+<!-- VISUAL:t30-44-enfoque-de-la-escuela-de-leicester.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-44-enfoque-de-la-escuela-de-leicester.webp" alt="Enfoque de la Escuela de Leicester" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque de la Escuela de Leicester.</em></p>
 
 <!-- FUENTE: LEICESTER-T30 -->
 
@@ -591,7 +767,11 @@ Este bloque fija **enfoque etogénico de peter marsh** con una idea de control: 
 - Ritualizada no significa inocua: la escalada, malinterpretación o ruptura de reglas puede producir lesiones graves.
 - El modelo describe significados situacionales y no niega que existan delitos, víctimas y violencia instrumental.
 
-<!-- VISUAL PENDIENTE: t30-il-45-enfoque-etogenico-de-peter-marsh.webp -->
+<!-- VISUAL:t30-il-45-enfoque-etogenico-de-peter-marsh.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-45-enfoque-etogenico-de-peter-marsh.webp" alt="Enfoque etogénico de Peter Marsh" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque etogénico de Peter Marsh.</em></p>
 
 <!-- FUENTE: MARSH-T30 -->
 
@@ -604,7 +784,11 @@ Este bloque fija **enfoque marxista de ian taylor** con una idea de control: Tra
 - El enfoque sitúa el conflicto en cambios de clase y pertenencia, pero no explica por sí solo todas las formas actuales de violencia deportiva.
 - La formulación de resistencia obrera corresponde al enfoque marxista de Taylor, no a Marsh ni a la Escuela de Leicester.
 
-<!-- VISUAL PENDIENTE: t30-46-enfoque-marxista-de-ian-taylor.webp -->
+<!-- VISUAL:t30-46-enfoque-marxista-de-ian-taylor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-46-enfoque-marxista-de-ian-taylor.webp" alt="Enfoque marxista de Ian Taylor" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque marxista de Ian Taylor.</em></p>
 
 <!-- FUENTE: TAYLOR-T30 -->
 
@@ -617,7 +801,11 @@ Este bloque fija **dinámica del evento y escalada** con una idea de control: Ge
 - Separación de flujos, información, horarios, control de objetos y comunicación reducen oportunidades de confrontación.
 - Una actuación proporcional y comprensible puede disminuir tensión; una intervención indiscriminada puede reforzar cohesión adversarial.
 
-<!-- VISUAL PENDIENTE: t30-47-dinamica-del-evento-y-escalada.webp -->
+<!-- VISUAL:t30-47-dinamica-del-evento-y-escalada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-47-dinamica-del-evento-y-escalada.webp" alt="Dinámica del evento y escalada" width="820">
+</p>
+<p align="center"><em>Infografía: Dinámica del evento y escalada.</em></p>
 
 <!-- FUENTE: L19-2007-T30 -->
 
@@ -630,7 +818,11 @@ Este bloque fija **conductas violentas en la ley 19/2007** con una idea de contr
 - También contempla irrupción no autorizada en el terreno de juego y ciertas declaraciones que amenacen o creen un clima hostil que promueva enfrentamiento físico.
 - Facilitar medios técnicos, económicos, materiales o digitales que apoyen conductas violentas también puede quedar comprendido.
 
-<!-- VISUAL PENDIENTE: t30-48-conductas-violentas-en-la-ley-19-2007.webp -->
+<!-- VISUAL:t30-48-conductas-violentas-en-la-ley-19-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-48-conductas-violentas-en-la-ley-19-2007.webp" alt="Conductas violentas en la Ley 19/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Conductas violentas en la Ley 19/2007.</em></p>
 
 <!-- FUENTE: L19-2007-T30 -->
 
@@ -643,7 +835,11 @@ Este bloque fija **racismo, xenofobia e intolerancia en el deporte** con una ide
 - Abarca gestos, cánticos, sonidos, consignas, pancartas, banderas y símbolos vejatorios, intimidatorios o que inciten al odio.
 - La reforma vigente incluye expresamente, entre otras, edad, sexo, orientación e identidad sexual, expresión de género y características sexuales.
 
-<!-- VISUAL PENDIENTE: t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp -->
+<!-- VISUAL:t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp" alt="Racismo, xenofobia e intolerancia en el deporte" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo, xenofobia e intolerancia en el deporte.</em></p>
 
 <!-- FUENTE: L19-2007-T30 -->
 
@@ -656,7 +852,11 @@ Este bloque fija **obligaciones de organizadores y cooperación** con una idea d
 - No deben proporcionar transporte, locales, subvenciones, entradas, descuentos o promoción a grupos que hayan incurrido en las conductas definidas por la ley.
 - En encuentros de alto riesgo, los cuerpos de seguridad intercambian información relevante entre origen y destino de los seguidores.
 
-<!-- VISUAL PENDIENTE: t30-50-obligaciones-de-organizadores-y-cooperacion.webp -->
+<!-- VISUAL:t30-50-obligaciones-de-organizadores-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-50-obligaciones-de-organizadores-y-cooperacion.webp" alt="Obligaciones de organizadores y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de organizadores y cooperación.</em></p>
 
 <!-- FUENTE: L19-2007-T30 -->
 
@@ -669,7 +869,11 @@ Este bloque fija **oficina nacional de deportes y coordinación de seguridad** c
 - Asume funciones relacionadas con la prevención de la violencia en el deporte y actúa como Punto Nacional de Información.
 - La antigua respuesta que la situaba directamente bajo una Unidad Central de Coordinación Operativa y Técnica no describe el encuadre consolidado vigente.
 
-<!-- VISUAL PENDIENTE: t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp -->
+<!-- VISUAL:t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp" alt="Oficina Nacional de Deportes y coordinación de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Oficina Nacional de Deportes y coordinación de seguridad.</em></p>
 
 <!-- FUENTE: INT859-2023-T30 -->
 
@@ -682,7 +886,11 @@ Este bloque fija **delito de odio: estructura de dos elementos** con una idea de
 - El prejuicio no exige necesariamente odio emocional intenso; puede manifestarse como hostilidad, rechazo o selección discriminatoria.
 - Si no existe infracción penal de base, puede haber incidente discriminatorio o discurso ilícito por otra vía, pero no delito de odio según esta estructura.
 
-<!-- VISUAL PENDIENTE: t30-52-delito-de-odio-estructura-de-dos-elementos.webp -->
+<!-- VISUAL:t30-52-delito-de-odio-estructura-de-dos-elementos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-52-delito-de-odio-estructura-de-dos-elementos.webp" alt="Delito de odio: estructura de dos elementos" width="820">
+</p>
+<p align="center"><em>Infografía: Delito de odio: estructura de dos elementos.</em></p>
 
 <!-- FUENTE: OSCE-HATE-T30 -->
 
@@ -695,7 +903,11 @@ Este bloque fija **delito de odio, discurso de odio e incidente de odio** con un
 - Un discurso hostil puede quedar protegido, generar respuesta civil o administrativa, o constituir delito según contenido, contexto y umbral legal.
 - Incidente de odio es una categoría operativa más amplia que permite registrar hechos percibidos como motivados por prejuicio aunque su calificación penal no esté cerrada.
 
-<!-- VISUAL PENDIENTE: t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp -->
+<!-- VISUAL:t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp" alt="Delito de odio, discurso de odio e incidente de odio" width="820">
+</p>
+<p align="center"><em>Infografía: Delito de odio, discurso de odio e incidente de odio.</em></p>
 
 <!-- FUENTE: COE-HATE-SPEECH-T30 -->
 
@@ -708,7 +920,11 @@ Este bloque fija **indicadores de polarización o sesgo** con una idea de contro
 - Ningún indicador aislado prueba automáticamente la motivación; debe incorporarse, contrastarse y valorarse junto con el resto de evidencias.
 - La percepción de la víctima es relevante para activar diligencias y protección, pero no sustituye por sí sola la prueba judicial.
 
-<!-- VISUAL PENDIENTE: t30-54-indicadores-de-polarizacion-o-sesgo.webp -->
+<!-- VISUAL:t30-54-indicadores-de-polarizacion-o-sesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-54-indicadores-de-polarizacion-o-sesgo.webp" alt="Indicadores de polarización o sesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores de polarización o sesgo.</em></p>
 
 <!-- FUENTE: PROTOCOLO-ODIO-T30 -->
 
@@ -721,7 +937,11 @@ Este bloque fija **agravante discriminatoria del código penal** con una idea de
 - También incluye aporofobia o exclusión social, enfermedad y discapacidad.
 - La agravante puede aplicarse aunque la condición o circunstancia atribuida no concurra efectivamente en la persona sobre la que recae la conducta.
 
-<!-- VISUAL PENDIENTE: t30-55-agravante-discriminatoria-del-codigo-penal.webp -->
+<!-- VISUAL:t30-55-agravante-discriminatoria-del-codigo-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-55-agravante-discriminatoria-del-codigo-penal.webp" alt="Agravante discriminatoria del Código Penal" width="820">
+</p>
+<p align="center"><em>Infografía: Agravante discriminatoria del Código Penal.</em></p>
 
 <!-- FUENTE: CP-T30 -->
 
@@ -734,7 +954,11 @@ Este bloque fija **incitación, materiales y negacionismo del artículo 510.1** 
 - El apartado 1.c exige, en los supuestos de negación o trivialización grave de determinados crímenes, que se promueva o favorezca un clima de violencia, hostilidad, odio o discriminación.
 - La lista de motivos del artículo 510 incluye, entre otros, racismo, antisemitismo, antigitanismo, ideología, religión, origen, sexo, orientación o identidad sexual, género, aporofobia, enfermedad y discapacidad.
 
-<!-- VISUAL PENDIENTE: t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp -->
+<!-- VISUAL:t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp" alt="Incitación, materiales y negacionismo del artículo 510.1" width="820">
+</p>
+<p align="center"><em>Infografía: Incitación, materiales y negacionismo del artículo 510.1.</em></p>
 
 <!-- FUENTE: CP-T30 -->
 
@@ -747,7 +971,11 @@ Este bloque fija **dignidad, justificación pública y agravaciones del artícul
 - La difusión por medios de comunicación, internet o tecnologías accesible a un elevado número de personas determina la mitad superior conforme al artículo 510.3.
 - El Código prevé agravación por idoneidad para alterar la paz pública o crear grave inseguridad o temor, y medidas de retirada o bloqueo de contenidos.
 
-<!-- VISUAL PENDIENTE: t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp -->
+<!-- VISUAL:t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp" alt="Dignidad, justificación pública y agravaciones del artículo 510" width="820">
+</p>
+<p align="center"><em>Infografía: Dignidad, justificación pública y agravaciones del artículo 510.</em></p>
 
 <!-- FUENTE: CP-T30 -->
 
@@ -760,7 +988,11 @@ Este bloque fija **denegación discriminatoria de prestaciones** con una idea de
 - El artículo 512 alcanza a quien, en actividad profesional o empresarial, deniega una prestación a la que se tiene derecho por motivos protegidos.
 - No toda negativa comercial es delito: deben concurrir prestación debida, motivo discriminatorio y elementos del tipo aplicable.
 
-<!-- VISUAL PENDIENTE: t30-58-denegacion-discriminatoria-de-prestaciones.webp -->
+<!-- VISUAL:t30-58-denegacion-discriminatoria-de-prestaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-58-denegacion-discriminatoria-de-prestaciones.webp" alt="Denegación discriminatoria de prestaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Denegación discriminatoria de prestaciones.</em></p>
 
 <!-- FUENTE: CP-T30 -->
 
@@ -773,7 +1005,11 @@ Este bloque fija **víctimas, infradenuncia y victimización secundaria** con un
 - La victimización secundaria surge cuando instituciones o interacciones posteriores agravan innecesariamente el daño sufrido.
 - La protección se individualiza según vulnerabilidad, relación con el autor, reiteración, exposición pública y necesidades de comunicación o apoyo.
 
-<!-- VISUAL PENDIENTE: t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp -->
+<!-- VISUAL:t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp" alt="Víctimas, infradenuncia y victimización secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Víctimas, infradenuncia y victimización secundaria.</em></p>
 
 <!-- FUENTE: ESTATUTO-VICTIMA-T30 -->
 
@@ -786,7 +1022,11 @@ Este bloque fija **investigación policial, registro y ciberodio** con una idea 
 - El ciberodio utiliza tecnologías para difundir o amplificar conductas, pero la calificación depende del contenido y del tipo jurídico, no del medio por sí solo.
 - Registrar correctamente el ámbito motivacional permite analizar patrones y coordinar protección sin prejuzgar la decisión judicial.
 
-<!-- VISUAL PENDIENTE: t30-60-investigacion-policial-registro-y-ciberodio.webp -->
+<!-- VISUAL:t30-60-investigacion-policial-registro-y-ciberodio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-60-investigacion-policial-registro-y-ciberodio.webp" alt="Investigación policial, registro y ciberodio" width="820">
+</p>
+<p align="center"><em>Infografía: Investigación policial, registro y ciberodio.</em></p>
 
 <!-- FUENTE: PROTOCOLO-ODIO-T30 -->
 
@@ -799,7 +1039,11 @@ Este bloque fija **organización institucional frente a los delitos de odio** co
 - En Policía Nacional, la Unidad Central de Participación Ciudadana es responsable nacional de interlocución social en materia de delitos de odio.
 - No deben confundirse la dirección de la Oficina Nacional, la interlocución social policial y la investigación operativa de cada hecho.
 
-<!-- VISUAL PENDIENTE: t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
+<!-- VISUAL:t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp" alt="Organización institucional frente a los delitos de odio" width="820">
+</p>
+<p align="center"><em>Infografía: Organización institucional frente a los delitos de odio.</em></p>
 
 <!-- FUENTE: RD207-2024-T30 -->
 

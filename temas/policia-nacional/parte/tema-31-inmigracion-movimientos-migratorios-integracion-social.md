@@ -19,7 +19,11 @@ Este bloque fija **migración y movimiento migratorio** con una idea de control:
 - Migración es un término amplio que comprende movimientos con causas, duración, dirección y situación jurídica diferentes.
 - La persona migrante no pierde por el desplazamiento su condición de titular de derechos humanos.
 
-<!-- VISUAL PENDIENTE: t31-il-01-migracion-y-movimiento-migratorio.webp -->
+<!-- VISUAL:t31-il-01-migracion-y-movimiento-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-01-migracion-y-movimiento-migratorio.webp" alt="Migración y movimiento migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Migración y movimiento migratorio.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -32,7 +36,11 @@ Este bloque fija **inmigración, emigración y retorno** con una idea de control
 - Una misma persona es emigrante respecto del territorio que abandona e inmigrante respecto del que la recibe.
 - El retorno es el movimiento de regreso al país o lugar de origen o de residencia habitual anterior, y puede ser espontáneo, asistido, voluntario o forzoso según el caso.
 
-<!-- VISUAL PENDIENTE: t31-02-inmigracion-emigracion-y-retorno.webp -->
+<!-- VISUAL:t31-02-inmigracion-emigracion-y-retorno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-02-inmigracion-emigracion-y-retorno.webp" alt="Inmigración, emigración y retorno" width="820">
+</p>
+<p align="center"><em>Infografía: Inmigración, emigración y retorno.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -45,7 +53,11 @@ Este bloque fija **flujo, stock y saldo migratorio** con una idea de control: Fl
 - Un saldo positivo significa que las entradas superan a las salidas; uno negativo expresa la situación inversa.
 - Saldo migratorio, población extranjera y población nacida en el extranjero son indicadores distintos y no deben intercambiarse.
 
-<!-- VISUAL PENDIENTE: t31-03-flujo-stock-y-saldo-migratorio.webp -->
+<!-- VISUAL:t31-03-flujo-stock-y-saldo-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-03-flujo-stock-y-saldo-migratorio.webp" alt="Flujo, stock y saldo migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Flujo, stock y saldo migratorio.</em></p>
 
 <!-- FUENTE: INE-EMCR2024-T31 -->
 
@@ -58,7 +70,11 @@ Este bloque fija **migración interna e internacional** con una idea de control:
 - El éxodo rural es una forma de migración interna desde áreas rurales hacia núcleos urbanos.
 - Una persona desplazada interna no cruza una frontera internacionalmente reconocida, aunque haya sido forzada a abandonar su hogar.
 
-<!-- VISUAL PENDIENTE: t31-04-migracion-interna-e-internacional.webp -->
+<!-- VISUAL:t31-04-migracion-interna-e-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-04-migracion-interna-e-internacional.webp" alt="Migración interna e internacional" width="820">
+</p>
+<p align="center"><em>Infografía: Migración interna e internacional.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -71,7 +87,11 @@ Este bloque fija **migración regular e irregular** con una idea de control: La 
 - La situación puede cambiar: una entrada regular puede ir seguida de estancia irregular y una situación irregular puede regularizarse si la ley lo permite.
 - Es más preciso hablar de persona en situación irregular que calificar a la persona como ilegal.
 
-<!-- VISUAL PENDIENTE: t31-il-05-migracion-regular-e-irregular.webp -->
+<!-- VISUAL:t31-il-05-migracion-regular-e-irregular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-05-migracion-regular-e-irregular.webp" alt="Migración regular e irregular" width="820">
+</p>
+<p align="center"><em>Infografía: Migración regular e irregular.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -84,7 +104,11 @@ Este bloque fija **duración: temporal, permanente, circular y estacional** con 
 - La migración circular repite movimientos entre dos o más lugares y puede estar vinculada a trabajo, familia o estudio.
 - La migración estacional se ajusta a ciclos del año, como campañas agrícolas o actividades turísticas, y es una modalidad temporal.
 
-<!-- VISUAL PENDIENTE: t31-06-duracion-temporal-permanente-circular-y-estacional.webp -->
+<!-- VISUAL:t31-06-duracion-temporal-permanente-circular-y-estacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-06-duracion-temporal-permanente-circular-y-estacional.webp" alt="Duración: temporal, permanente, circular y estacional" width="820">
+</p>
+<p align="center"><em>Infografía: Duración: temporal, permanente, circular y estacional.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -97,7 +121,11 @@ Este bloque fija **migración voluntaria, dirigida y forzada** con una idea de c
 - El desplazamiento forzado responde a coacción, persecución, conflicto, violencia, desastres u otras amenazas graves.
 - Voluntario y forzado son extremos analíticos: muchas trayectorias combinan elección limitada, necesidad y causas mixtas.
 
-<!-- VISUAL PENDIENTE: t31-07-migracion-voluntaria-dirigida-y-forzada.webp -->
+<!-- VISUAL:t31-07-migracion-voluntaria-dirigida-y-forzada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-07-migracion-voluntaria-dirigida-y-forzada.webp" alt="Migración voluntaria, dirigida y forzada" width="820">
+</p>
+<p align="center"><em>Infografía: Migración voluntaria, dirigida y forzada.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -110,7 +138,11 @@ Este bloque fija **causas: factores de expulsión, atracción y obstáculos** co
 - Entre origen y destino actúan obstáculos como distancia, coste, fronteras, información, riesgo, responsabilidades familiares y normas migratorias.
 - La decisión depende también de elementos personales y de cómo la persona percibe los factores, no solo de condiciones objetivas.
 
-<!-- VISUAL PENDIENTE: t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp -->
+<!-- VISUAL:t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp" alt="Causas: factores de expulsión, atracción y obstáculos" width="820">
+</p>
+<p align="center"><em>Infografía: Causas: factores de expulsión, atracción y obstáculos.</em></p>
 
 <!-- FUENTE: LEE-1966-T31 -->
 
@@ -123,7 +155,11 @@ Este bloque fija **leyes migratorias de ravenstein** con una idea de control: So
 - Relacionó la migración con centros de comercio e industria y con motivos económicos relevantes.
 - Sus trabajos son antecedente del enfoque de expulsión-atracción, desarrollado después de forma más sistemática por otros autores.
 
-<!-- VISUAL PENDIENTE: t31-09-leyes-migratorias-de-ravenstein.webp -->
+<!-- VISUAL:t31-09-leyes-migratorias-de-ravenstein.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-09-leyes-migratorias-de-ravenstein.webp" alt="Leyes migratorias de Ravenstein" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes migratorias de Ravenstein.</em></p>
 
 <!-- FUENTE: RAVENSTEIN-1885-T31 -->
 
@@ -136,7 +172,11 @@ Este bloque fija **modelo de lee y selección migratoria** con una idea de contr
 - La migración es selectiva porque edad, etapa vital, recursos, capacidades y circunstancias influyen en quién se desplaza.
 - Una corriente migratoria tiende a producir una contracorriente, pero ambas pueden tener volumen y composición diferentes.
 
-<!-- VISUAL PENDIENTE: t31-10-modelo-de-lee-y-seleccion-migratoria.webp -->
+<!-- VISUAL:t31-10-modelo-de-lee-y-seleccion-migratoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-10-modelo-de-lee-y-seleccion-migratoria.webp" alt="Modelo de Lee y selección migratoria" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de Lee y selección migratoria.</em></p>
 
 <!-- FUENTE: LEE-1966-T31 -->
 
@@ -149,7 +189,11 @@ Este bloque fija **teoría neoclásica: niveles macro y micro** con una idea de 
 - La información imperfecta, las barreras y los riesgos impiden que la respuesta real sea automática ante una diferencia salarial.
 - El modelo explica incentivos económicos importantes, pero no agota causas políticas, familiares, sociales o ambientales.
 
-<!-- VISUAL PENDIENTE: t31-11-teoria-neoclasica-niveles-macro-y-micro.webp -->
+<!-- VISUAL:t31-11-teoria-neoclasica-niveles-macro-y-micro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-11-teoria-neoclasica-niveles-macro-y-micro.webp" alt="Teoría neoclásica: niveles macro y micro" width="820">
+</p>
+<p align="center"><em>Infografía: Teoría neoclásica: niveles macro y micro.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -162,7 +206,11 @@ Este bloque fija **nueva economía de la migración laboral** con una idea de co
 - La migración puede responder a fallos de crédito, seguros o protección social, además de a diferencias salariales.
 - Las remesas forman parte de una estrategia familiar, pero sus efectos dependen de costes, usos y desigualdades internas.
 
-<!-- VISUAL PENDIENTE: t31-12-nueva-economia-de-la-migracion-laboral.webp -->
+<!-- VISUAL:t31-12-nueva-economia-de-la-migracion-laboral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-12-nueva-economia-de-la-migracion-laboral.webp" alt="Nueva economía de la migración laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Nueva economía de la migración laboral.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -175,7 +223,11 @@ Este bloque fija **mercado de trabajo dual o segmentado** con una idea de contro
 - El reclutamiento y la demanda del destino pueden iniciar flujos incluso sin una decisión basada solo en expulsión desde el origen.
 - La segmentación describe una estructura laboral; no atribuye a las personas migrantes una capacidad o valor inferior.
 
-<!-- VISUAL PENDIENTE: t31-13-mercado-de-trabajo-dual-o-segmentado.webp -->
+<!-- VISUAL:t31-13-mercado-de-trabajo-dual-o-segmentado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-13-mercado-de-trabajo-dual-o-segmentado.webp" alt="Mercado de trabajo dual o segmentado" width="820">
+</p>
+<p align="center"><em>Infografía: Mercado de trabajo dual o segmentado.</em></p>
 
 <!-- FUENTE: PIORE-1979-T31 -->
 
@@ -188,7 +240,11 @@ Este bloque fija **sistema mundial y vínculos históricos** con una idea de con
 - Vínculos coloniales, lingüísticos, administrativos y de transporte pueden orientar corredores concretos.
 - El enfoque estructural explica relaciones históricas amplias, pero no predice por sí solo la decisión de cada individuo.
 
-<!-- VISUAL PENDIENTE: t31-14-sistema-mundial-y-vinculos-historicos.webp -->
+<!-- VISUAL:t31-14-sistema-mundial-y-vinculos-historicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-14-sistema-mundial-y-vinculos-historicos.webp" alt="Sistema mundial y vínculos históricos" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema mundial y vínculos históricos.</em></p>
 
 <!-- FUENTE: WALLERSTEIN-1974-T31 -->
 
@@ -201,7 +257,11 @@ Este bloque fija **redes, cadenas y causación acumulativa** con una idea de con
 - Una cadena migratoria aparece cuando movimientos previos hacen más probable que otras personas sigan rutas semejantes.
 - La causación acumulativa describe cómo cada movimiento modifica condiciones sociales y económicas que pueden sostener nuevos movimientos.
 
-<!-- VISUAL PENDIENTE: t31-il-15-redes-cadenas-y-causacion-acumulativa.webp -->
+<!-- VISUAL:t31-il-15-redes-cadenas-y-causacion-acumulativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-15-redes-cadenas-y-causacion-acumulativa.webp" alt="Redes, cadenas y causación acumulativa" width="820">
+</p>
+<p align="center"><em>Infografía: Redes, cadenas y causación acumulativa.</em></p>
 
 <!-- FUENTE: MASSEY-1993-T31 -->
 
@@ -214,7 +274,11 @@ Este bloque fija **efectos en origen y destino** con una idea de control: No mem
 - Los efectos demográficos dependen de edad, fecundidad, duración, retorno y volumen de los flujos, no de una regla universal.
 - Los resultados varían con ciclo económico, derechos, políticas de integración, discriminación y características de cada territorio.
 
-<!-- VISUAL PENDIENTE: t31-16-efectos-en-origen-y-destino.webp -->
+<!-- VISUAL:t31-16-efectos-en-origen-y-destino.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-16-efectos-en-origen-y-destino.webp" alt="Efectos en origen y destino" width="820">
+</p>
+<p align="center"><em>Infografía: Efectos en origen y destino.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -227,7 +291,11 @@ Este bloque fija **primeras dispersiones humanas y revolución neolítica** con 
 - La expansión de agricultura y ganadería desde el Neolítico transformó asentamientos, densidades y ocupación del territorio.
 - Migración, intercambio cultural y difusión técnica interactuaron; no toda innovación demuestra sustitución total de población.
 
-<!-- VISUAL PENDIENTE: t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp -->
+<!-- VISUAL:t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp" alt="Primeras dispersiones humanas y revolución neolítica" width="820">
+</p>
+<p align="center"><em>Infografía: Primeras dispersiones humanas y revolución neolítica.</em></p>
 
 <!-- FUENTE: UNESCO-HUMAN-MIGRATION-T31 -->
 
@@ -240,7 +308,11 @@ Este bloque fija **colonizaciones antiguas, invasiones y diásporas** con una id
 - Las migraciones y conquistas de la Antigüedad tardía y la Edad Media reconfiguraron poblaciones y poderes europeos y mediterráneos.
 - Diáspora describe dispersión de una población fuera de su territorio de origen con mantenimiento de vínculos identitarios o comunitarios.
 
-<!-- VISUAL PENDIENTE: t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp -->
+<!-- VISUAL:t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp" alt="Colonizaciones antiguas, invasiones y diásporas" width="820">
+</p>
+<p align="center"><em>Infografía: Colonizaciones antiguas, invasiones y diásporas.</em></p>
 
 <!-- FUENTE: UNESCO-HUMAN-MIGRATION-T31 -->
 
@@ -253,7 +325,11 @@ Este bloque fija **expansión atlántica y esclavitud transatlántica** con una 
 - La esclavitud transatlántica fue un desplazamiento forzado organizado con violencia y explotación, no una migración laboral voluntaria.
 - Sus efectos demográficos, económicos, culturales y raciales perduran en sociedades de origen y destino.
 
-<!-- VISUAL PENDIENTE: t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp -->
+<!-- VISUAL:t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp" alt="Expansión atlántica y esclavitud transatlántica" width="820">
+</p>
+<p align="center"><em>Infografía: Expansión atlántica y esclavitud transatlántica.</em></p>
 
 <!-- FUENTE: UNESCO-SLAVE-ROUTE-T31 -->
 
@@ -266,7 +342,11 @@ Este bloque fija **gran emigración transoceánica del siglo xix y comienzos del
 - Estados Unidos, Canadá, Argentina, Brasil y Australia estuvieron entre los principales destinos de distintos flujos.
 - La expansión coexistió con controles selectivos, discriminación racial y restricciones nacionales crecientes.
 
-<!-- VISUAL PENDIENTE: t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp -->
+<!-- VISUAL:t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp" alt="Gran emigración transoceánica del siglo XIX y comienzos del XX" width="820">
+</p>
+<p align="center"><em>Infografía: Gran emigración transoceánica del siglo XIX y comienzos del XX.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -279,7 +359,11 @@ Este bloque fija **guerras mundiales, fronteras y refugio** con una idea de cont
 - La partición de India en 1947 produjo movimientos cruzados de población y violencia a gran escala.
 - Tras la Segunda Guerra Mundial se consolidaron instituciones internacionales y la Convención de 1951 sobre el Estatuto de los Refugiados.
 
-<!-- VISUAL PENDIENTE: t31-21-guerras-mundiales-fronteras-y-refugio.webp -->
+<!-- VISUAL:t31-21-guerras-mundiales-fronteras-y-refugio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-21-guerras-mundiales-fronteras-y-refugio.webp" alt="Guerras mundiales, fronteras y refugio" width="820">
+</p>
+<p align="center"><em>Infografía: Guerras mundiales, fronteras y refugio.</em></p>
 
 <!-- FUENTE: UNHCR-HISTORY-T31 -->
 
@@ -292,7 +376,11 @@ Este bloque fija **migraciones de posguerra y descolonización** con una idea de
 - La descolonización impulsó retornos, migraciones poscoloniales y nuevos vínculos entre antiguas colonias y metrópolis.
 - La crisis del petróleo de 1973 redujo reclutamientos laborales en varios países europeos sin detener por completo la migración.
 
-<!-- VISUAL PENDIENTE: t31-22-migraciones-de-posguerra-y-descolonizacion.webp -->
+<!-- VISUAL:t31-22-migraciones-de-posguerra-y-descolonizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-22-migraciones-de-posguerra-y-descolonizacion.webp" alt="Migraciones de posguerra y descolonización" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones de posguerra y descolonización.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -305,7 +393,11 @@ Este bloque fija **migraciones interiores en españa** con una idea de control: 
 - Las migraciones interiores contribuyeron a urbanización, despoblación rural y transformación de estructuras familiares y laborales.
 - Desde finales del siglo XX crecieron movimientos metropolitanos, residenciales, interprovinciales y de retorno, además del éxodo rural clásico.
 
-<!-- VISUAL PENDIENTE: t31-23-migraciones-interiores-en-espana.webp -->
+<!-- VISUAL:t31-23-migraciones-interiores-en-espana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-23-migraciones-interiores-en-espana.webp" alt="Migraciones interiores en España" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones interiores en España.</em></p>
 
 <!-- FUENTE: INE-MIGRACIONES-T31 -->
 
@@ -318,7 +410,11 @@ Este bloque fija **españa: de país emigrante a país de inmigración** con una
 - Desde mediados de los años setenta aumentaron retornos y, posteriormente, España se convirtió en destino relevante de inmigración.
 - La crisis iniciada en 2008 redujo entradas y aumentó salidas y retornos, pero no revirtió de forma permanente el papel migratorio de España.
 
-<!-- VISUAL PENDIENTE: t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp -->
+<!-- VISUAL:t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp" alt="España: de país emigrante a país de inmigración" width="820">
+</p>
+<p align="center"><em>Infografía: España: de país emigrante a país de inmigración.</em></p>
 
 <!-- FUENTE: INE-MIGRACIONES-T31 -->
 
@@ -331,7 +427,11 @@ Este bloque fija **migraciones actuales y causas mixtas** con una idea de contro
 - Los flujos mixtos reúnen personas con necesidades y estatutos distintos que comparten rutas o medios de transporte.
 - La identificación individual de necesidades evita confundir migración económica, trata, asilo y desplazamiento forzado.
 
-<!-- VISUAL PENDIENTE: t31-25-migraciones-actuales-y-causas-mixtas.webp -->
+<!-- VISUAL:t31-25-migraciones-actuales-y-causas-mixtas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-25-migraciones-actuales-y-causas-mixtas.webp" alt="Migraciones actuales y causas mixtas" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones actuales y causas mixtas.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -344,7 +444,11 @@ Este bloque fija **corredores, redes y globalización** con una idea de control:
 - La migración Sur-Sur es una parte importante de la movilidad internacional y evita reducir el fenómeno a desplazamientos hacia países ricos.
 - Proximidad geográfica, lengua, vínculos coloniales, redes familiares y oportunidades influyen en la orientación de los corredores.
 
-<!-- VISUAL PENDIENTE: t31-26-corredores-redes-y-globalizacion.webp -->
+<!-- VISUAL:t31-26-corredores-redes-y-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-26-corredores-redes-y-globalizacion.webp" alt="Corredores, redes y globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Corredores, redes y globalización.</em></p>
 
 <!-- FUENTE: UN-DESA-2024-T31 -->
 
@@ -357,7 +461,11 @@ Este bloque fija **refugiados, solicitantes de asilo y desplazados internos** co
 - El desplazado interno ha huido de su hogar sin cruzar una frontera internacionalmente reconocida.
 - Migrante es un término amplio, pero no debe borrar la categoría jurídica específica ni los derechos de las personas refugiadas.
 
-<!-- VISUAL PENDIENTE: t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp -->
+<!-- VISUAL:t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp" alt="Refugiados, solicitantes de asilo y desplazados internos" width="820">
+</p>
+<p align="center"><em>Infografía: Refugiados, solicitantes de asilo y desplazados internos.</em></p>
 
 <!-- FUENTE: UNHCR-DEFINITIONS-T31 -->
 
@@ -370,7 +478,11 @@ Este bloque fija **movilidad ambiental y cambio climático** con una idea de con
 - El cambio climático interactúa con pobreza, conflicto, urbanización y capacidad de adaptación, por lo que rara vez actúa como causa aislada.
 - Refugiado climático no es una categoría universal equivalente al estatuto de refugiado de la Convención de 1951.
 
-<!-- VISUAL PENDIENTE: t31-il-28-movilidad-ambiental-y-cambio-climatico.webp -->
+<!-- VISUAL:t31-il-28-movilidad-ambiental-y-cambio-climatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-28-movilidad-ambiental-y-cambio-climatico.webp" alt="Movilidad ambiental y cambio climático" width="820">
+</p>
+<p align="center"><em>Infografía: Movilidad ambiental y cambio climático.</em></p>
 
 <!-- FUENTE: IOM-CLIMATE-T31 -->
 
@@ -383,7 +495,11 @@ Este bloque fija **tráfico ilícito y trata de personas** con una idea de contr
 - En el tráfico suele existir consentimiento para el cruce, mientras que la trata lesiona la voluntad mediante engaño, coacción, abuso o vulnerabilidad.
 - Una situación de tráfico puede transformarse en trata si aparece explotación, y una víctima de trata puede no haber cruzado frontera.
 
-<!-- VISUAL PENDIENTE: t31-29-trafico-ilicito-y-trata-de-personas.webp -->
+<!-- VISUAL:t31-29-trafico-ilicito-y-trata-de-personas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-29-trafico-ilicito-y-trata-de-personas.webp" alt="Tráfico ilícito y trata de personas" width="820">
+</p>
+<p align="center"><em>Infografía: Tráfico ilícito y trata de personas.</em></p>
 
 <!-- FUENTE: UNODC-PROTOCOLS-T31 -->
 
@@ -396,7 +512,11 @@ Este bloque fija **remesas, desarrollo y fuga de talento** con una idea de contr
 - La fuga de cerebros describe la pérdida de personal cualificado en el origen; la circulación de cerebros destaca retornos, redes y transferencia de conocimiento.
 - Los efectos dependen de costes de envío, oportunidades, retorno, diásporas y capacidad institucional de origen y destino.
 
-<!-- VISUAL PENDIENTE: t31-30-remesas-desarrollo-y-fuga-de-talento.webp -->
+<!-- VISUAL:t31-30-remesas-desarrollo-y-fuga-de-talento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-30-remesas-desarrollo-y-fuga-de-talento.webp" alt="Remesas, desarrollo y fuga de talento" width="820">
+</p>
+<p align="center"><em>Infografía: Remesas, desarrollo y fuga de talento.</em></p>
 
 <!-- FUENTE: WORLD-BANK-REMITTANCES-T31 -->
 
@@ -409,7 +529,11 @@ Este bloque fija **españa: fotografía migratoria con fecha** con una idea de c
 - La EMCR registró para 2024 un saldo migratorio exterior positivo de 626.268 personas.
 - Las cifras coyunturales deben estudiarse con operación, fecha y carácter provisional o definitivo para no mezclar fuentes distintas.
 
-<!-- VISUAL PENDIENTE: t31-31-espana-fotografia-migratoria-con-fecha.webp -->
+<!-- VISUAL:t31-31-espana-fotografia-migratoria-con-fecha.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-31-espana-fotografia-migratoria-con-fecha.webp" alt="España: fotografía migratoria con fecha" width="820">
+</p>
+<p align="center"><em>Infografía: España: fotografía migratoria con fecha.</em></p>
 
 <!-- FUENTE: INE-ECP1T26-T31 -->
 
@@ -422,7 +546,11 @@ Este bloque fija **integración social: concepto** con una idea de control: Pape
 - Incluye relaciones entre personas migrantes, sociedad receptora, instituciones y servicios públicos.
 - La integración compatible con derechos no exige abandonar toda identidad cultural de origen.
 
-<!-- VISUAL PENDIENTE: t31-il-32-integracion-social-concepto.webp -->
+<!-- VISUAL:t31-il-32-integracion-social-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-32-integracion-social-concepto.webp" alt="Integración social: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Integración social: concepto.</em></p>
 
 <!-- FUENTE: LO4-2000-T31 -->
 
@@ -435,7 +563,11 @@ Este bloque fija **asimilación** con una idea de control: Asimilar acerca hacia
 - La asimilación unilateral coloca el peso principal del cambio sobre la población migrante.
 - Integración y asimilación no son sinónimos: la primera puede mantener diversidad dentro de un marco compartido.
 
-<!-- VISUAL PENDIENTE: t31-33-asimilacion.webp -->
+<!-- VISUAL:t31-33-asimilacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-33-asimilacion.webp" alt="Asimilación" width="820">
+</p>
+<p align="center"><em>Infografía: Asimilación.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -448,7 +580,11 @@ Este bloque fija **melting pot y salad bowl** con una idea de control: Crisol fu
 - Salad bowl o ensaladera representa convivencia dentro de una sociedad común manteniendo rasgos culturales diferenciados.
 - Son metáforas analíticas y no describen de forma completa ni neutral todas las relaciones de poder y desigualdad.
 
-<!-- VISUAL PENDIENTE: t31-il-34-melting-pot-y-salad-bowl.webp -->
+<!-- VISUAL:t31-il-34-melting-pot-y-salad-bowl.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-34-melting-pot-y-salad-bowl.webp" alt="Melting pot y salad bowl" width="820">
+</p>
+<p align="center"><em>Infografía: Melting pot y salad bowl.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -461,7 +597,11 @@ Este bloque fija **multiculturalismo e interculturalidad** con una idea de contr
 - Reconocer diversidad no legitima prácticas contrarias a derechos humanos ni discriminación dentro de los propios grupos.
 - La coexistencia sin contacto puede derivar en segregación; el contacto sin igualdad puede reproducir dominación.
 
-<!-- VISUAL PENDIENTE: t31-35-multiculturalismo-e-interculturalidad.webp -->
+<!-- VISUAL:t31-35-multiculturalismo-e-interculturalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-35-multiculturalismo-e-interculturalidad.webp" alt="Multiculturalismo e interculturalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Multiculturalismo e interculturalidad.</em></p>
 
 <!-- FUENTE: MECI-2023-2027-T31 -->
 
@@ -474,7 +614,11 @@ Este bloque fija **integración como proceso bidireccional y transversal** con u
 - Las políticas universales deben ser accesibles y pueden complementarse con apoyos específicos ante barreras concretas.
 - La participación de personas migrantes en diseño y evaluación mejora legitimidad, ajuste y rendición de cuentas.
 
-<!-- VISUAL PENDIENTE: t31-36-integracion-como-proceso-bidireccional-y-transversal.webp -->
+<!-- VISUAL:t31-36-integracion-como-proceso-bidireccional-y-transversal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-36-integracion-como-proceso-bidireccional-y-transversal.webp" alt="Integración como proceso bidireccional y transversal" width="820">
+</p>
+<p align="center"><em>Infografía: Integración como proceso bidireccional y transversal.</em></p>
 
 <!-- FUENTE: LO4-2000-T31 -->
 
@@ -487,7 +631,11 @@ Este bloque fija **dimensiones de la integración** con una idea de control: Cua
 - La dimensión social y cultural incluye redes, lengua, interacción, reconocimiento y ausencia de discriminación.
 - La dimensión identificativa alude al sentimiento de pertenencia, que puede ser múltiple y no exige renunciar al origen.
 
-<!-- VISUAL PENDIENTE: t31-37-dimensiones-de-la-integracion.webp -->
+<!-- VISUAL:t31-37-dimensiones-de-la-integracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-37-dimensiones-de-la-integracion.webp" alt="Dimensiones de la integración" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensiones de la integración.</em></p>
 
 <!-- FUENTE: EU-ACTION-PLAN-T31 -->
 
@@ -500,7 +648,11 @@ Este bloque fija **cohesión social, confianza y pertenencia** con una idea de c
 - Desigualdad persistente, segregación y discriminación erosionan confianza y vínculos entre grupos e instituciones.
 - La integración refuerza cohesión cuando amplía participación y reciprocidad sin exigir uniformidad cultural.
 
-<!-- VISUAL PENDIENTE: t31-il-38-cohesion-social-confianza-y-pertenencia.webp -->
+<!-- VISUAL:t31-il-38-cohesion-social-confianza-y-pertenencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-38-cohesion-social-confianza-y-pertenencia.webp" alt="Cohesión social, confianza y pertenencia" width="820">
+</p>
+<p align="center"><em>Infografía: Cohesión social, confianza y pertenencia.</em></p>
 
 <!-- FUENTE: MECI-2023-2027-T31 -->
 
@@ -513,7 +665,11 @@ Este bloque fija **barreras, discriminación y segregación** con una idea de co
 - La discriminación limita acceso a empleo, vivienda y servicios aunque la persona cumpla los requisitos formales.
 - Combatir rumores y estereotipos exige datos, contacto en condiciones adecuadas, alfabetización mediática y respuesta institucional coherente.
 
-<!-- VISUAL PENDIENTE: t31-39-barreras-discriminacion-y-segregacion.webp -->
+<!-- VISUAL:t31-39-barreras-discriminacion-y-segregacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-39-barreras-discriminacion-y-segregacion.webp" alt="Barreras, discriminación y segregación" width="820">
+</p>
+<p align="center"><em>Infografía: Barreras, discriminación y segregación.</em></p>
 
 <!-- FUENTE: MECI-2023-2027-T31 -->
 
@@ -526,7 +682,11 @@ Este bloque fija **duelo migratorio y síndrome de ulises** con una idea de cont
 - No toda persona migrante presenta este síndrome ni la migración constituye por sí misma una enfermedad.
 - Soledad, fracaso del proyecto, lucha por la supervivencia y miedo pueden acumularse, por lo que la respuesta exige apoyo y valoración individual sin estigmatizar.
 
-<!-- VISUAL PENDIENTE: t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp -->
+<!-- VISUAL:t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp" alt="Duelo migratorio y síndrome de Ulises" width="820">
+</p>
+<p align="center"><em>Infografía: Duelo migratorio y síndrome de Ulises.</em></p>
 
 <!-- FUENTE: ACHOTEGUI-T31 -->
 
@@ -539,7 +699,11 @@ Este bloque fija **plan de acción de la ue 2021-2027** con una idea de control:
 - Promueve integración temprana, participación, herramientas digitales, financiación europea y cooperación entre niveles de gobierno.
 - El Plan orienta y coordina acciones europeas, pero no sustituye las competencias y políticas de integración de los Estados miembros.
 
-<!-- VISUAL PENDIENTE: t31-41-plan-de-accion-de-la-ue-2021-2027.webp -->
+<!-- VISUAL:t31-41-plan-de-accion-de-la-ue-2021-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-41-plan-de-accion-de-la-ue-2021-2027.webp" alt="Plan de Acción de la UE 2021-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de Acción de la UE 2021-2027.</em></p>
 
 <!-- FUENTE: EU-ACTION-PLAN-T31 -->
 
@@ -552,7 +716,11 @@ Este bloque fija **integración en la ley orgánica 4/2000** con una idea de con
 - Las Administraciones incorporarán transversalmente la integración y promoverán participación económica, social, cultural y política en igualdad de trato.
 - El Estado coopera con comunidades autónomas, ciudades y ayuntamientos mediante planes y programas de actuación.
 
-<!-- VISUAL PENDIENTE: t31-42-integracion-en-la-ley-organica-4-2000.webp -->
+<!-- VISUAL:t31-42-integracion-en-la-ley-organica-4-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-42-integracion-en-la-ley-organica-4-2000.webp" alt="Integración en la Ley Orgánica 4/2000" width="820">
+</p>
+<p align="center"><em>Infografía: Integración en la Ley Orgánica 4/2000.</em></p>
 
 <!-- FUENTE: LO4-2000-T31 -->
 
@@ -565,7 +733,11 @@ Este bloque fija **marco estratégico 2023-2027** con una idea de control: No ar
 - Su foco se sitúa en un modelo intercultural y en prevención del racismo, la xenofobia y la intolerancia asociada.
 - Su finalidad declarada es avanzar hacia una sociedad cohesionada, inclusiva, diversa y justa.
 
-<!-- VISUAL PENDIENTE: t31-43-marco-estrategico-2023-2027.webp -->
+<!-- VISUAL:t31-43-marco-estrategico-2023-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-43-marco-estrategico-2023-2027.webp" alt="Marco Estratégico 2023-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Marco Estratégico 2023-2027.</em></p>
 
 <!-- FUENTE: MECI-2023-2027-T31 -->
 
@@ -578,7 +750,11 @@ Este bloque fija **foro para la integración social de los inmigrantes** con una
 - Tras la reforma de julio de 2026 está compuesto por presidencia, dos vicepresidencias, secretaría y 31 vocalías.
 - Las 31 vocalías se distribuyen en 10 de Administraciones públicas, 10 de asociaciones de personas inmigrantes y refugiadas, 10 de organizaciones sociales de apoyo y una de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.
 
-<!-- VISUAL PENDIENTE: t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp -->
+<!-- VISUAL:t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp" alt="Foro para la Integración Social de los Inmigrantes" width="820">
+</p>
+<p align="center"><em>Infografía: Foro para la Integración Social de los Inmigrantes.</em></p>
 
 <!-- FUENTE: RD3-2006-T31 -->
 
@@ -591,7 +767,11 @@ Este bloque fija **opi y oberaxe** con una idea de control: OPI observa migracio
 - El OBERAXE recopila y analiza información sobre racismo y xenofobia y promueve igualdad de trato y no discriminación.
 - OPI y OBERAXE colaboran en el seguimiento mediante indicadores del Marco Estratégico 2023-2027.
 
-<!-- VISUAL PENDIENTE: t31-45-opi-y-oberaxe.webp -->
+<!-- VISUAL:t31-45-opi-y-oberaxe.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-45-opi-y-oberaxe.webp" alt="OPI y OBERAXE" width="820">
+</p>
+<p align="center"><em>Infografía: OPI y OBERAXE.</em></p>
 
 <!-- FUENTE: LO4-2000-T31 -->
 
@@ -604,7 +784,11 @@ Este bloque fija **oim y acnur: mandatos distintos** con una idea de control: OI
 - ACNUR protege a personas refugiadas, solicitantes de asilo, apátridas y otras poblaciones desplazadas comprendidas en su mandato.
 - ACNUR tiene su sede en Ginebra; esa localización no convierte su mandato en idéntico al de la OIM, que también tiene sede en esa ciudad.
 
-<!-- VISUAL PENDIENTE: t31-46-oim-y-acnur-mandatos-distintos.webp -->
+<!-- VISUAL:t31-46-oim-y-acnur-mandatos-distintos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-46-oim-y-acnur-mandatos-distintos.webp" alt="OIM y ACNUR: mandatos distintos" width="820">
+</p>
+<p align="center"><em>Infografía: OIM y ACNUR: mandatos distintos.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 
@@ -617,7 +801,11 @@ Este bloque fija **glosario de movilidad y protección** con una idea de control
 - Reasentamiento traslada, con protección, a una persona desde un primer país de asilo a un tercer Estado que acepta admitirla.
 - Reubicación distribuye dentro de un marco regional a personas ya presentes en otro Estado participante; no es sinónimo de reasentamiento desde un tercer país.
 
-<!-- VISUAL PENDIENTE: t31-47-glosario-de-movilidad-y-proteccion.webp -->
+<!-- VISUAL:t31-47-glosario-de-movilidad-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-47-glosario-de-movilidad-y-proteccion.webp" alt="Glosario de movilidad y protección" width="820">
+</p>
+<p align="center"><em>Infografía: Glosario de movilidad y protección.</em></p>
 
 <!-- FUENTE: IOM-GLOSSARY-T31 -->
 

@@ -4,14 +4,14 @@
   "topic": "tema-30",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 61,
-    "integrated": 0,
-    "planned": 61
+    "integrated": 61,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-10",
   "resources": [
     {
       "id": "T30-V01",
@@ -19,14 +19,15 @@
       "title": "Ética y moral: conceptos relacionados, no idénticos",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero distingue práctica y reflexión; después pregunta si la mayoría aporta razones o solo frecuencia.",
+      "description": "Primero distingue práctica y reflexión; después pregunta si la mayoría aporta razones o solo frecuencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Principios, valores, normas y virtudes",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta qué función cumple cada pieza: orientar, valorar, prescribir o formar una disposición estable.",
+      "description": "Pregunta qué función cumple cada pieza: orientar, valorar, prescribir o formar una disposición estable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Valores superiores del ordenamiento español",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Memoriza la secuencia literal: libertad, justicia, igualdad y pluralismo político.",
+      "description": "Memoriza la secuencia literal: libertad, justicia, igualdad y pluralismo político.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Dignidad, libre desarrollo y respeto a la ley y a los demás",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La libertad personal crece dentro de un marco: dignidad propia, derechos ajenos y ley.",
+      "description": "La libertad personal crece dentro de un marco: dignidad propia, derechos ajenos y ley.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Pluralismo ético y mínimos de convivencia",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Protege el desacuerdo; intervén cuando aparecen daños, coacción o vulneraciones concretas.",
+      "description": "Protege el desacuerdo; intervén cuando aparecen daños, coacción o vulneraciones concretas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Concepto de socialización",
       "type": "ilustracion_simple",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Socializar es aprender a vivir con otros sin dejar de interpretar lo aprendido.",
+      "description": "Socializar es aprender a vivir con otros sin dejar de interpretar lo aprendido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Socialización primaria, secundaria y resocialización",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primaria crea la base; secundaria añade mundos; resocialización reordena aprendizajes.",
+      "description": "Primaria crea la base; secundaria añade mundos; resocialización reordena aprendizajes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Agentes de socialización",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Localiza quién enseña, qué refuerza y qué grupo ofrece pertenencia en cada caso.",
+      "description": "Localiza quién enseña, qué refuerza y qué grupo ofrece pertenencia en cada caso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Mecanismos de transmisión de valores",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los valores se enseñan también con lo que se premia, se permite y se hace delante del grupo.",
+      "description": "Los valores se enseñan también con lo que se premia, se permite y se hace delante del grupo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Desarrollo moral según Kohlberg",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Regla 3×2: tres niveles, dos estadios por nivel; razonamiento no equivale a conducta.",
+      "description": "Regla 3×2: tres niveles, dos estadios por nivel; razonamiento no equivale a conducta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Libertad como autonomía y como derecho",
       "type": "ilustracion_simple",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Libertad no es ausencia total de marco; es capacidad y derecho con garantías.",
+      "description": "Libertad no es ausencia total de marco; es capacidad y derecho con garantías.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Libertad negativa y positiva",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Negativa pregunta quién interfiere; positiva pregunta quién gobierna la decisión.",
+      "description": "Negativa pregunta quién interfiere; positiva pregunta quién gobierna la decisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Responsabilidad moral y responsabilidad jurídica",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No saltes de “está mal” a “es delito”: identifica primero el régimen jurídico.",
+      "description": "No saltes de “está mal” a “es delito”: identifica primero el régimen jurídico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Libertad, imputación y responsabilidad",
       "type": "ilustracion_simple",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Imputa hechos y decisiones individualizados; no heredes culpas por etiqueta.",
+      "description": "Imputa hechos y decisiones individualizados; no heredes culpas por etiqueta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Igualdad formal y prohibición de discriminación",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Igualdad no es fotocopia: compara situaciones, finalidad, justificación y proporcionalidad.",
+      "description": "Igualdad no es fotocopia: compara situaciones, finalidad, justificación y proporcionalidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Igualdad real y acción positiva",
       "type": "ilustracion_simple",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La igualdad formal abre la puerta; la igualdad material comprueba si alguien puede cruzarla.",
+      "description": "La igualdad formal abre la puerta; la igualdad material comprueba si alguien puede cruzarla.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Solidaridad social y constitucional",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Solidaridad no borra diferencias: impide que se conviertan en abandono o privilegio injustificado.",
+      "description": "Solidaridad no borra diferencias: impide que se conviertan en abandono o privilegio injustificado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Solidaridad mecánica y orgánica",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.",
+      "description": "Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Tolerancia: concepto y exigencias",
       "type": "ilustracion_simple",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tolerar protege a personas y convivencia; no convierte todas las ideas en equivalentes.",
+      "description": "Tolerar protege a personas y convivencia; no convierte todas las ideas en equivalentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Límites y paradoja de la tolerancia",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No uses una sola etiqueta: gradúa idea, contexto, destinatario, daño y relevancia jurídica.",
+      "description": "No uses una sola etiqueta: gradúa idea, contexto, destinatario, daño y relevancia jurídica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Contravalores y reacción frente a valores mayoritarios",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mayoría indica cantidad, no corrección; busca el derecho o daño concreto.",
+      "description": "Mayoría indica cantidad, no corrección; busca el derecho o daño concreto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Racismo: concepto",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Busca la jerarquía y la racialización, no solo la palabra raza.",
+      "description": "Busca la jerarquía y la racialización, no solo la palabra raza.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Racismo biológico y racismo cultural",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Biológico fija por herencia; cultural fija por esencia: ambos pueden construir jerarquía.",
+      "description": "Biológico fija por herencia; cultural fija por esencia: ambos pueden construir jerarquía.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Racismo simbólico, moderno y aversivo",
       "type": "ilustracion_simple",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.",
+      "description": "Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Discriminación racial directa e indirecta",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mira efecto, comparación y motivo; la neutralidad del texto no garantiza neutralidad del resultado.",
+      "description": "Mira efecto, comparación y motivo; la neutralidad del texto no garantiza neutralidad del resultado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Prevención del racismo y acción institucional",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mide patrones para corregir sistemas, no para convertir el grupo en sospechoso.",
+      "description": "Mide patrones para corregir sistemas, no para convertir el grupo en sospechoso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Fanatismo: concepto",
       "type": "ilustracion_simple",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Firmeza acepta razones y límites; fanatismo convierte la causa en permiso total.",
+      "description": "Firmeza acepta razones y límites; fanatismo convierte la causa en permiso total.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Polarización, identidad y pensamiento fanático",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Factores de riesgo no son destino: analiza trayectoria, contexto, intención y capacidad.",
+      "description": "Factores de riesgo no son destino: analiza trayectoria, contexto, intención y capacidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Fundamentalismo: origen y uso actual",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No conviertas una palabra histórica en un saco único para religión, rigidez y terrorismo.",
+      "description": "No conviertas una palabra histórica en un saco único para religión, rigidez y terrorismo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Fundamentalismo, integrismo y extremismo violento",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa doctrina, proyecto político, aceptación de violencia y delito probado.",
+      "description": "Separa doctrina, proyecto político, aceptación de violencia y delito probado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Prevención: pensamiento crítico, pertenencia y alternativas",
       "type": "ilustracion_simple",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ofrece razones, vínculos y salida; no regales al grupo una prueba de su relato persecutorio.",
+      "description": "Ofrece razones, vínculos y salida; no regales al grupo una prueba de su relato persecutorio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Secta: término y neutralidad jurídica",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Investiga conductas, no rareza doctrinal ni tamaño del grupo.",
+      "description": "Investiga conductas, no rareza doctrinal ni tamaño del grupo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Grupo de control coercitivo o destructivo",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cambia la pregunta “qué creen” por “cómo controlan, qué daño producen y si se puede salir”.",
+      "description": "Cambia la pregunta “qué creen” por “cómo controlan, qué daño producen y si se puede salir”.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Persuasión, influencia y manipulación",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Distingue argumento, engaño, dependencia y amenaza; no los metas en el mismo cajón.",
+      "description": "Distingue argumento, engaño, dependencia y amenaza; no los metas en el mismo cajón.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Captación y escalada de compromiso",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trampa suele estrecharse paso a paso; no culpes a quien no vio el final desde la entrada.",
+      "description": "La trampa suele estrecharse paso a paso; no culpes a quien no vio el final desde la entrada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Autoridad carismática, liderazgo y obediencia",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Carisma explica la fuente de legitimidad; abuso exige hechos adicionales de poder y control.",
+      "description": "Carisma explica la fuente de legitimidad; abuso exige hechos adicionales de poder y control.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Aislamiento, información y lenguaje cerrado",
       "type": "ilustracion_simple",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El indicador gana peso cuando cierra contraste, castiga duda y aumenta dependencia.",
+      "description": "El indicador gana peso cuando cierra contraste, castiga duda y aumenta dependencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Clasificación de Bryan Wilson I",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clasifica la respuesta al mundo, no la peligrosidad penal.",
+      "description": "Clasifica la respuesta al mundo, no la peligrosidad penal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Clasificación de Bryan Wilson II",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Taumatúrgica recuerda prodigio; reformista cambia; utópica reconstruye.",
+      "description": "Taumatúrgica recuerda prodigio; reformista cambia; utópica reconstruye.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Riesgos jurídicos asociados, no delitos por etiqueta",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La creencia se protege; el delito se prueba.",
+      "description": "La creencia se protege; el delito se prueba.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Atención policial y salida segura",
       "type": "ilustracion_simple",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ayuda a salir del control sin convertir la vergüenza en una segunda jaula.",
+      "description": "Ayuda a salir del control sin convertir la vergüenza en una segunda jaula.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Hooliganismo: concepto y delimitación",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Identidad deportiva no es delito; describe la conducta, el vínculo con el evento y la norma.",
+      "description": "Identidad deportiva no es delito; describe la conducta, el vínculo con el evento y la norma.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Identidad, masculinidad y búsqueda de confrontación",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Explicar no es justificar: conecta trayectoria social, grupo y decisión individual.",
+      "description": "Explicar no es justificar: conecta trayectoria social, grupo y decisión individual.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Enfoque de la Escuela de Leicester",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Leicester mira procesos e interdependencias; no una etiqueta instantánea.",
+      "description": "Leicester mira procesos e interdependencias; no una etiqueta instantánea.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Enfoque etogénico de Peter Marsh",
       "type": "ilustracion_simple",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ritual explica reglas del enfrentamiento; no borra el riesgo cuando esas reglas fallan.",
+      "description": "Ritual explica reglas del enfrentamiento; no borra el riesgo cuando esas reglas fallan.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Enfoque marxista de Ian Taylor",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Trampa clásica: Taylor = resistencia obrera frente al fútbol aburguesado.",
+      "description": "Trampa clásica: Taylor = resistencia obrera frente al fútbol aburguesado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Dinámica del evento y escalada",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Gestiona condiciones de escalada sin convertir factores de riesgo en culpabilidad.",
+      "description": "Gestiona condiciones de escalada sin convertir factores de riesgo en culpabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Conductas violentas en la Ley 19/2007",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Recinto, aledaños, transporte, mensaje y apoyo material forman un perímetro más amplio que el césped.",
+      "description": "Recinto, aledaños, transporte, mensaje y apoyo material forman un perímetro más amplio que el césped.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Racismo, xenofobia e intolerancia en el deporte",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El soporte cambia; la dignidad, el motivo y el contexto deciden la relevancia.",
+      "description": "El soporte cambia; la dignidad, el motivo y el contexto deciden la relevancia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Obligaciones de organizadores y cooperación",
       "type": "infografia",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La prevención comienza antes del torno: información, apoyo, desplazamiento y cese inmediato.",
+      "description": "La prevención comienza antes del torno: información, apoyo, desplazamiento y cese inmediato.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Oficina Nacional de Deportes y coordinación de seguridad",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Actualización de examen: Brigada de Coordinación Operativa, Seguridad Ciudadana.",
+      "description": "Actualización de examen: Brigada de Coordinación Operativa, Seguridad Ciudadana.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Delito de odio: estructura de dos elementos",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Fórmula de control: delito base + selección o motivación prejuiciosa.",
+      "description": "Fórmula de control: delito base + selección o motivación prejuiciosa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Delito de odio, discurso de odio e incidente de odio",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Registro operativo no es condena; conserva indicios para que la calificación se decida con prueba.",
+      "description": "Registro operativo no es condena; conserva indicios para que la calificación se decida con prueba.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Indicadores de polarización o sesgo",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Indicador abre una línea de investigación; prueba contrastada sostiene la conclusión.",
+      "description": "Indicador abre una línea de investigación; prueba contrastada sostiene la conclusión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Agravante discriminatoria del Código Penal",
       "type": "infografia",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Memoriza causas y cierre: importa el motivo, aunque la característica percibida no sea real.",
+      "description": "Memoriza causas y cierre: importa el motivo, aunque la característica percibida no sea real.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Incitación, materiales y negacionismo del artículo 510.1",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En el 510 importa verbo, publicidad, idoneidad, grupo o persona y motivo protegido.",
+      "description": "En el 510 importa verbo, publicidad, idoneidad, grupo o persona y motivo protegido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Dignidad, justificación pública y agravaciones del artículo 510",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No memorices “internet = delito”; primero tipo, luego difusión y agravación.",
+      "description": "No memorices “internet = delito”; primero tipo, luego difusión y agravación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Denegación discriminatoria de prestaciones",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero identifica quién presta, si existe derecho y cuál es el motivo de la negativa.",
+      "description": "Primero identifica quién presta, si existe derecho y cuál es el motivo de la negativa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Víctimas, infradenuncia y victimización secundaria",
       "type": "ilustracion_simple",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La tardanza puede ser un dato del daño, no una prueba automática contra la víctima.",
+      "description": "La tardanza puede ser un dato del daño, no una prueba automática contra la víctima.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Investigación policial, registro y ciberodio",
       "type": "infografia",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Conserva contexto y trazabilidad digital; el medio amplifica, pero no sustituye el tipo penal.",
+      "description": "Conserva contexto y trazabilidad digital; el medio amplifica, pero no sustituye el tipo penal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,993 +1039,17 @@
       "title": "Organización institucional frente a los delitos de odio",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres planos: coordinación estatal, interlocución social e investigación del caso.",
+      "description": "Tres planos: coordinación estatal, interlocución social e investigación del caso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T30-V01",
-      "file": "t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp",
-      "title": "Ética y moral: conceptos relacionados, no idénticos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero distingue práctica y reflexión; después pregunta si la mayoría aporta razones o solo frecuencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V02",
-      "file": "t30-02-principios-valores-normas-y-virtudes.webp",
-      "title": "Principios, valores, normas y virtudes",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta qué función cumple cada pieza: orientar, valorar, prescribir o formar una disposición estable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V03",
-      "file": "t30-03-valores-superiores-del-ordenamiento-espanol.webp",
-      "title": "Valores superiores del ordenamiento español",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Memoriza la secuencia literal: libertad, justicia, igualdad y pluralismo político.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V04",
-      "file": "t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp",
-      "title": "Dignidad, libre desarrollo y respeto a la ley y a los demás",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La libertad personal crece dentro de un marco: dignidad propia, derechos ajenos y ley.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V05",
-      "file": "t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp",
-      "title": "Pluralismo ético y mínimos de convivencia",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Protege el desacuerdo; intervén cuando aparecen daños, coacción o vulneraciones concretas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V06",
-      "file": "t30-il-06-concepto-de-socializacion.webp",
-      "title": "Concepto de socialización",
-      "type": "ilustracion_simple",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Socializar es aprender a vivir con otros sin dejar de interpretar lo aprendido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V07",
-      "file": "t30-07-socializacion-primaria-secundaria-y-resocializacion.webp",
-      "title": "Socialización primaria, secundaria y resocialización",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primaria crea la base; secundaria añade mundos; resocialización reordena aprendizajes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V08",
-      "file": "t30-08-agentes-de-socializacion.webp",
-      "title": "Agentes de socialización",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Localiza quién enseña, qué refuerza y qué grupo ofrece pertenencia en cada caso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V09",
-      "file": "t30-09-mecanismos-de-transmision-de-valores.webp",
-      "title": "Mecanismos de transmisión de valores",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los valores se enseñan también con lo que se premia, se permite y se hace delante del grupo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V10",
-      "file": "t30-10-desarrollo-moral-segun-kohlberg.webp",
-      "title": "Desarrollo moral según Kohlberg",
-      "type": "infografia",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Regla 3×2: tres niveles, dos estadios por nivel; razonamiento no equivale a conducta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V11",
-      "file": "t30-il-11-libertad-como-autonomia-y-como-derecho.webp",
-      "title": "Libertad como autonomía y como derecho",
-      "type": "ilustracion_simple",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Libertad no es ausencia total de marco; es capacidad y derecho con garantías.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V12",
-      "file": "t30-12-libertad-negativa-y-positiva.webp",
-      "title": "Libertad negativa y positiva",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Negativa pregunta quién interfiere; positiva pregunta quién gobierna la decisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V13",
-      "file": "t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp",
-      "title": "Responsabilidad moral y responsabilidad jurídica",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No saltes de “está mal” a “es delito”: identifica primero el régimen jurídico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V14",
-      "file": "t30-il-14-libertad-imputacion-y-responsabilidad.webp",
-      "title": "Libertad, imputación y responsabilidad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Imputa hechos y decisiones individualizados; no heredes culpas por etiqueta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V15",
-      "file": "t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp",
-      "title": "Igualdad formal y prohibición de discriminación",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Igualdad no es fotocopia: compara situaciones, finalidad, justificación y proporcionalidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V16",
-      "file": "t30-il-16-igualdad-real-y-accion-positiva.webp",
-      "title": "Igualdad real y acción positiva",
-      "type": "ilustracion_simple",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La igualdad formal abre la puerta; la igualdad material comprueba si alguien puede cruzarla.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V17",
-      "file": "t30-17-solidaridad-social-y-constitucional.webp",
-      "title": "Solidaridad social y constitucional",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Solidaridad no borra diferencias: impide que se conviertan en abandono o privilegio injustificado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V18",
-      "file": "t30-18-solidaridad-mecanica-y-organica.webp",
-      "title": "Solidaridad mecánica y orgánica",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V19",
-      "file": "t30-il-19-tolerancia-concepto-y-exigencias.webp",
-      "title": "Tolerancia: concepto y exigencias",
-      "type": "ilustracion_simple",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tolerar protege a personas y convivencia; no convierte todas las ideas en equivalentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V20",
-      "file": "t30-20-limites-y-paradoja-de-la-tolerancia.webp",
-      "title": "Límites y paradoja de la tolerancia",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No uses una sola etiqueta: gradúa idea, contexto, destinatario, daño y relevancia jurídica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V21",
-      "file": "t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp",
-      "title": "Contravalores y reacción frente a valores mayoritarios",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mayoría indica cantidad, no corrección; busca el derecho o daño concreto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V22",
-      "file": "t30-22-racismo-concepto.webp",
-      "title": "Racismo: concepto",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Busca la jerarquía y la racialización, no solo la palabra raza.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V23",
-      "file": "t30-23-racismo-biologico-y-racismo-cultural.webp",
-      "title": "Racismo biológico y racismo cultural",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Biológico fija por herencia; cultural fija por esencia: ambos pueden construir jerarquía.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V24",
-      "file": "t30-il-24-racismo-simbolico-moderno-y-aversivo.webp",
-      "title": "Racismo simbólico, moderno y aversivo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V25",
-      "file": "t30-25-discriminacion-racial-directa-e-indirecta.webp",
-      "title": "Discriminación racial directa e indirecta",
-      "type": "infografia",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mira efecto, comparación y motivo; la neutralidad del texto no garantiza neutralidad del resultado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V26",
-      "file": "t30-26-prevencion-del-racismo-y-accion-institucional.webp",
-      "title": "Prevención del racismo y acción institucional",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mide patrones para corregir sistemas, no para convertir el grupo en sospechoso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V27",
-      "file": "t30-il-27-fanatismo-concepto.webp",
-      "title": "Fanatismo: concepto",
-      "type": "ilustracion_simple",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Firmeza acepta razones y límites; fanatismo convierte la causa en permiso total.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V28",
-      "file": "t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp",
-      "title": "Polarización, identidad y pensamiento fanático",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Factores de riesgo no son destino: analiza trayectoria, contexto, intención y capacidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V29",
-      "file": "t30-29-fundamentalismo-origen-y-uso-actual.webp",
-      "title": "Fundamentalismo: origen y uso actual",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No conviertas una palabra histórica en un saco único para religión, rigidez y terrorismo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V30",
-      "file": "t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp",
-      "title": "Fundamentalismo, integrismo y extremismo violento",
-      "type": "infografia",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Separa doctrina, proyecto político, aceptación de violencia y delito probado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V31",
-      "file": "t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp",
-      "title": "Prevención: pensamiento crítico, pertenencia y alternativas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ofrece razones, vínculos y salida; no regales al grupo una prueba de su relato persecutorio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V32",
-      "file": "t30-32-secta-termino-y-neutralidad-juridica.webp",
-      "title": "Secta: término y neutralidad jurídica",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Investiga conductas, no rareza doctrinal ni tamaño del grupo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V33",
-      "file": "t30-33-grupo-de-control-coercitivo-o-destructivo.webp",
-      "title": "Grupo de control coercitivo o destructivo",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cambia la pregunta “qué creen” por “cómo controlan, qué daño producen y si se puede salir”.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V34",
-      "file": "t30-34-persuasion-influencia-y-manipulacion.webp",
-      "title": "Persuasión, influencia y manipulación",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Distingue argumento, engaño, dependencia y amenaza; no los metas en el mismo cajón.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V35",
-      "file": "t30-il-35-captacion-y-escalada-de-compromiso.webp",
-      "title": "Captación y escalada de compromiso",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La trampa suele estrecharse paso a paso; no culpes a quien no vio el final desde la entrada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V36",
-      "file": "t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp",
-      "title": "Autoridad carismática, liderazgo y obediencia",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Carisma explica la fuente de legitimidad; abuso exige hechos adicionales de poder y control.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V37",
-      "file": "t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp",
-      "title": "Aislamiento, información y lenguaje cerrado",
-      "type": "ilustracion_simple",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El indicador gana peso cuando cierra contraste, castiga duda y aumenta dependencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V38",
-      "file": "t30-38-clasificacion-de-bryan-wilson-i.webp",
-      "title": "Clasificación de Bryan Wilson I",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clasifica la respuesta al mundo, no la peligrosidad penal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V39",
-      "file": "t30-39-clasificacion-de-bryan-wilson-ii.webp",
-      "title": "Clasificación de Bryan Wilson II",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Taumatúrgica recuerda prodigio; reformista cambia; utópica reconstruye.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V40",
-      "file": "t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp",
-      "title": "Riesgos jurídicos asociados, no delitos por etiqueta",
-      "type": "infografia",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La creencia se protege; el delito se prueba.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V41",
-      "file": "t30-il-41-atencion-policial-y-salida-segura.webp",
-      "title": "Atención policial y salida segura",
-      "type": "ilustracion_simple",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ayuda a salir del control sin convertir la vergüenza en una segunda jaula.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V42",
-      "file": "t30-42-hooliganismo-concepto-y-delimitacion.webp",
-      "title": "Hooliganismo: concepto y delimitación",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Identidad deportiva no es delito; describe la conducta, el vínculo con el evento y la norma.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V43",
-      "file": "t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp",
-      "title": "Identidad, masculinidad y búsqueda de confrontación",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Explicar no es justificar: conecta trayectoria social, grupo y decisión individual.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V44",
-      "file": "t30-44-enfoque-de-la-escuela-de-leicester.webp",
-      "title": "Enfoque de la Escuela de Leicester",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Leicester mira procesos e interdependencias; no una etiqueta instantánea.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V45",
-      "file": "t30-il-45-enfoque-etogenico-de-peter-marsh.webp",
-      "title": "Enfoque etogénico de Peter Marsh",
-      "type": "ilustracion_simple",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ritual explica reglas del enfrentamiento; no borra el riesgo cuando esas reglas fallan.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V46",
-      "file": "t30-46-enfoque-marxista-de-ian-taylor.webp",
-      "title": "Enfoque marxista de Ian Taylor",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Trampa clásica: Taylor = resistencia obrera frente al fútbol aburguesado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V47",
-      "file": "t30-47-dinamica-del-evento-y-escalada.webp",
-      "title": "Dinámica del evento y escalada",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Gestiona condiciones de escalada sin convertir factores de riesgo en culpabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V48",
-      "file": "t30-48-conductas-violentas-en-la-ley-19-2007.webp",
-      "title": "Conductas violentas en la Ley 19/2007",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Recinto, aledaños, transporte, mensaje y apoyo material forman un perímetro más amplio que el césped.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V49",
-      "file": "t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp",
-      "title": "Racismo, xenofobia e intolerancia en el deporte",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El soporte cambia; la dignidad, el motivo y el contexto deciden la relevancia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V50",
-      "file": "t30-50-obligaciones-de-organizadores-y-cooperacion.webp",
-      "title": "Obligaciones de organizadores y cooperación",
-      "type": "infografia",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La prevención comienza antes del torno: información, apoyo, desplazamiento y cese inmediato.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V51",
-      "file": "t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp",
-      "title": "Oficina Nacional de Deportes y coordinación de seguridad",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Actualización de examen: Brigada de Coordinación Operativa, Seguridad Ciudadana.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V52",
-      "file": "t30-52-delito-de-odio-estructura-de-dos-elementos.webp",
-      "title": "Delito de odio: estructura de dos elementos",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Fórmula de control: delito base + selección o motivación prejuiciosa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V53",
-      "file": "t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp",
-      "title": "Delito de odio, discurso de odio e incidente de odio",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Registro operativo no es condena; conserva indicios para que la calificación se decida con prueba.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V54",
-      "file": "t30-54-indicadores-de-polarizacion-o-sesgo.webp",
-      "title": "Indicadores de polarización o sesgo",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Indicador abre una línea de investigación; prueba contrastada sostiene la conclusión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V55",
-      "file": "t30-55-agravante-discriminatoria-del-codigo-penal.webp",
-      "title": "Agravante discriminatoria del Código Penal",
-      "type": "infografia",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Memoriza causas y cierre: importa el motivo, aunque la característica percibida no sea real.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V56",
-      "file": "t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp",
-      "title": "Incitación, materiales y negacionismo del artículo 510.1",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En el 510 importa verbo, publicidad, idoneidad, grupo o persona y motivo protegido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V57",
-      "file": "t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp",
-      "title": "Dignidad, justificación pública y agravaciones del artículo 510",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No memorices “internet = delito”; primero tipo, luego difusión y agravación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V58",
-      "file": "t30-58-denegacion-discriminatoria-de-prestaciones.webp",
-      "title": "Denegación discriminatoria de prestaciones",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero identifica quién presta, si existe derecho y cuál es el motivo de la negativa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V59",
-      "file": "t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp",
-      "title": "Víctimas, infradenuncia y victimización secundaria",
-      "type": "ilustracion_simple",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La tardanza puede ser un dato del daño, no una prueba automática contra la víctima.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V60",
-      "file": "t30-60-investigacion-policial-registro-y-ciberodio.webp",
-      "title": "Investigación policial, registro y ciberodio",
-      "type": "infografia",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Conserva contexto y trazabilidad digital; el medio amplifica, pero no sustituye el tipo penal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T30-V61",
-      "file": "t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp",
-      "title": "Organización institucional frente a los delitos de odio",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres planos: coordinación estatal, interlocución social e investigación del caso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

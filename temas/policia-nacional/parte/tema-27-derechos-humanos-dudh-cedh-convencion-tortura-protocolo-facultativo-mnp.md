@@ -19,7 +19,11 @@ Los derechos humanos corresponden a toda persona por su condición humana y no p
 - Indivisibilidad e interdependencia expresan que los derechos forman un conjunto conectado y no categorías aisladas que puedan ignorarse selectivamente.
 - Inalienabilidad e imprescriptibilidad significan que los derechos no pueden venderse o cederse y que su titularidad no desaparece por el paso del tiempo.
 
-<!-- VISUAL PENDIENTE: t27-il-01-concepto-y-rasgos-de-los-derechos-humanos.webp -->
+<!-- VISUAL:t27-il-01-concepto-y-rasgos-de-los-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-il-01-concepto-y-rasgos-de-los-derechos-humanos.webp" alt="Concepto y rasgos de los derechos humanos" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y rasgos de los derechos humanos.</em></p>
 
 <!-- FUENTE: ONU-DDHH-T27 -->
 
@@ -32,7 +36,11 @@ Los derechos civiles y políticos se asocian a la libertad y a límites frente a
 - Los derechos de solidaridad, como paz, desarrollo o medio ambiente, exigen cooperación y respuestas que superan las fronteras estatales.
 - La clasificación por generaciones es una herramienta didáctica: no establece una jerarquía jurídica entre derechos humanos.
 
-<!-- VISUAL PENDIENTE: t27-02-sistema-internacional-y-generaciones-de-derechos.webp -->
+<!-- VISUAL:t27-02-sistema-internacional-y-generaciones-de-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-02-sistema-internacional-y-generaciones-de-derechos.webp" alt="Sistema internacional y generaciones de derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema internacional y generaciones de derechos.</em></p>
 
 <!-- FUENTE: ONU-DDHH-T27 -->
 
@@ -45,7 +53,11 @@ La Asamblea General de las Naciones Unidas adoptó la Declaración Universal med
 - La DUDH es una declaración y no un tratado internacional sujeto por sí mismo a ratificación estatal.
 - Su autoridad política y jurídica ha inspirado tratados, constituciones y la interpretación contemporánea de los derechos humanos.
 
-<!-- VISUAL PENDIENTE: t27-03-nacimiento-adopcion-y-naturaleza-de-la-dudh.webp -->
+<!-- VISUAL:t27-03-nacimiento-adopcion-y-naturaleza-de-la-dudh.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-03-nacimiento-adopcion-y-naturaleza-de-la-dudh.webp" alt="Nacimiento, adopción y naturaleza de la DUDH" width="820">
+</p>
+<p align="center"><em>Infografía: Nacimiento, adopción y naturaleza de la DUDH.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -58,7 +70,11 @@ El artículo 1 proclama que todos los seres humanos nacen libres e iguales en di
 - El artículo 2 reconoce los derechos y libertades de la Declaración sin distinción por las condiciones personales o sociales enumeradas.
 - El artículo 2 impide además discriminar por la condición política, jurídica o internacional del país o territorio del que dependa una persona.
 
-<!-- VISUAL PENDIENTE: t27-04-dudh-dignidad-igualdad-y-no-discriminacion.webp -->
+<!-- VISUAL:t27-04-dudh-dignidad-igualdad-y-no-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-04-dudh-dignidad-igualdad-y-no-discriminacion.webp" alt="DUDH: dignidad, igualdad y no discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: dignidad, igualdad y no discriminación.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -71,7 +87,11 @@ El artículo 3 reconoce a todo individuo el derecho a la vida, a la libertad y a
 - El artículo 5 prohíbe la tortura y las penas o tratos crueles, inhumanos o degradantes.
 - Vida, esclavitud y tortura aparecen en artículos consecutivos, pero cada artículo protege un bien distinto y no deben intercambiarse en el test.
 
-<!-- VISUAL PENDIENTE: t27-il-05-dudh-vida-libertad-esclavitud-y-tortura.webp -->
+<!-- VISUAL:t27-il-05-dudh-vida-libertad-esclavitud-y-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-il-05-dudh-vida-libertad-esclavitud-y-tortura.webp" alt="DUDH: vida, libertad, esclavitud y tortura" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: vida, libertad, esclavitud y tortura.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -84,7 +104,11 @@ El artículo 6 reconoce en todas partes el derecho al reconocimiento de la perso
 - El artículo 9 prohíbe detenciones, prisiones y destierros arbitrarios.
 - Los artículos 10 y 11 recogen tribunal independiente e imparcial, audiencia pública, presunción de inocencia y legalidad penal sin pena más grave retroactiva.
 
-<!-- VISUAL PENDIENTE: t27-06-dudh-personalidad-juridica-y-garantias-judiciales.webp -->
+<!-- VISUAL:t27-06-dudh-personalidad-juridica-y-garantias-judiciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-06-dudh-personalidad-juridica-y-garantias-judiciales.webp" alt="DUDH: personalidad jurídica y garantías judiciales" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: personalidad jurídica y garantías judiciales.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -97,7 +121,11 @@ El artículo 12 protege frente a injerencias arbitrarias en vida privada, famili
 - Los artículos 14 y 15 reconocen buscar y disfrutar asilo con límites y el derecho a una nacionalidad sin privación arbitraria ni impedimento para cambiarla.
 - El artículo 16 exige libre y pleno consentimiento para el matrimonio y define la familia como elemento natural y fundamental de la sociedad.
 
-<!-- VISUAL PENDIENTE: t27-07-dudh-vida-privada-circulacion-asilo-nacionalidad-y-f.webp -->
+<!-- VISUAL:t27-07-dudh-vida-privada-circulacion-asilo-nacionalidad-y-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-07-dudh-vida-privada-circulacion-asilo-nacionalidad-y-f.webp" alt="DUDH: vida privada, circulación, asilo, nacionalidad y familia" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: vida privada, circulación, asilo, nacionalidad y familia.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -110,7 +138,11 @@ El artículo 17 reconoce propiedad individual y colectiva y prohíbe su privaci�
 - Los artículos 19 y 20 protegen opinión y expresión, reunión y asociación pacíficas, y prohíben obligar a pertenecer a una asociación.
 - El artículo 21 reconoce participación política, acceso igual a funciones públicas y elecciones auténticas por sufragio universal e igual y voto secreto.
 
-<!-- VISUAL PENDIENTE: t27-08-dudh-propiedad-pensamiento-expresion-y-participacion.webp -->
+<!-- VISUAL:t27-08-dudh-propiedad-pensamiento-expresion-y-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-08-dudh-propiedad-pensamiento-expresion-y-participacion.webp" alt="DUDH: propiedad, pensamiento, expresión y participación" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: propiedad, pensamiento, expresión y participación.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -123,7 +155,11 @@ El artículo 22 reconoce seguridad social y satisfacción de derechos económico
 - El artículo 25 reconoce un nivel de vida adecuado, protección social y cuidados especiales para maternidad e infancia.
 - Los artículos 26 y 27 regulan educación, participación cultural, disfrute de las artes y protección de intereses morales y materiales de las obras propias.
 
-<!-- VISUAL PENDIENTE: t27-09-dudh-derechos-sociales-culturales-y-nivel-de-vida.webp -->
+<!-- VISUAL:t27-09-dudh-derechos-sociales-culturales-y-nivel-de-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-09-dudh-derechos-sociales-culturales-y-nivel-de-vida.webp" alt="DUDH: derechos sociales, culturales y nivel de vida" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: derechos sociales, culturales y nivel de vida.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -136,7 +172,11 @@ El artículo 28 reconoce el derecho a un orden social e internacional en el que 
 - El artículo 30 impide interpretar la Declaración como derecho a destruir o limitar más de lo previsto los derechos y libertades proclamados.
 - El artículo 10.2 de la Constitución española ordena interpretar los derechos fundamentales conforme a la DUDH y a los tratados ratificados por España.
 
-<!-- VISUAL PENDIENTE: t27-10-dudh-orden-social-deberes-y-prohibicion-de-abuso.webp -->
+<!-- VISUAL:t27-10-dudh-orden-social-deberes-y-prohibicion-de-abuso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-10-dudh-orden-social-deberes-y-prohibicion-de-abuso.webp" alt="DUDH: orden social, deberes y prohibición de abuso" width="820">
+</p>
+<p align="center"><em>Infografía: DUDH: orden social, deberes y prohibición de abuso.</em></p>
 
 <!-- FUENTE: ONU-DUDH-T27 -->
 
@@ -149,7 +189,11 @@ El CEDH fue hecho en Roma el 4 de noviembre de 1950 y entró en vigor con carác
 - El CEDH es un tratado del Consejo de Europa, organización distinta de la Unión Europea.
 - El texto vigente incorpora las reformas de los Protocolos 11, 14 y 15, además de derechos añadidos por otros protocolos para sus Estados parte.
 
-<!-- VISUAL PENDIENTE: t27-11-cedh-origen-fechas-y-vinculo-de-espana.webp -->
+<!-- VISUAL:t27-11-cedh-origen-fechas-y-vinculo-de-espana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-11-cedh-origen-fechas-y-vinculo-de-espana.webp" alt="CEDH: origen, fechas y vínculo de España" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: origen, fechas y vínculo de España.</em></p>
 
 <!-- FUENTE: CEDH-T27 -->
 
@@ -162,7 +206,11 @@ El artículo 1 obliga a las Altas Partes Contratantes a reconocer a toda persona
 - La jurisdicción del artículo 1 es el nexo de responsabilidad del Estado y no se limita de forma automática a ciudadanía o nacionalidad.
 - El principio de subsidiariedad exige que la protección opere primero en el orden interno, bajo supervisión europea del TEDH.
 
-<!-- VISUAL PENDIENTE: t27-12-cedh-estructura-y-obligacion-de-respetar-los-derecho.webp -->
+<!-- VISUAL:t27-12-cedh-estructura-y-obligacion-de-respetar-los-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-12-cedh-estructura-y-obligacion-de-respetar-los-derecho.webp" alt="CEDH: estructura y obligación de respetar los derechos" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: estructura y obligación de respetar los derechos.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -175,7 +223,11 @@ El artículo 2 protege por ley el derecho a la vida y prohíbe la privación int
 - También contempla la fuerza absolutamente necesaria para una detención legal o impedir la evasión de una persona legalmente detenida.
 - La tercera finalidad prevista es reprimir, conforme a la ley, una revuelta o insurrección, siempre bajo el criterio estricto de absoluta necesidad.
 
-<!-- VISUAL PENDIENTE: t27-13-cedh-derecho-a-la-vida.webp -->
+<!-- VISUAL:t27-13-cedh-derecho-a-la-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-13-cedh-derecho-a-la-vida.webp" alt="CEDH: derecho a la vida" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: derecho a la vida.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -188,7 +240,11 @@ El artículo 3 prohíbe de forma absoluta la tortura y las penas o tratos inhuma
 - El artículo 4.2 prohíbe trabajo forzoso u obligatorio.
 - No se considera trabajo forzoso, en los términos del artículo 4.3, el trabajo penitenciario normal, ciertos servicios militares o sustitutivos, servicios exigidos en emergencias y obligaciones cívicas normales.
 
-<!-- VISUAL PENDIENTE: t27-14-cedh-tortura-esclavitud-y-trabajo-forzoso.webp -->
+<!-- VISUAL:t27-14-cedh-tortura-esclavitud-y-trabajo-forzoso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-14-cedh-tortura-esclavitud-y-trabajo-forzoso.webp" alt="CEDH: tortura, esclavitud y trabajo forzoso" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: tortura, esclavitud y trabajo forzoso.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -201,7 +257,11 @@ El artículo 5 permite privar de libertad solo en los supuestos tasados y con ar
 - La persona detenida para ser llevada ante autoridad judicial debe comparecer sin dilación ante juez u otro magistrado habilitado y ser juzgada en plazo razonable o puesta en libertad.
 - Toda persona privada de libertad puede recurrir para que un tribunal resuelva rápidamente la legalidad y, si hubo infracción, tiene derecho a reparación.
 
-<!-- VISUAL PENDIENTE: t27-15-cedh-libertad-y-seguridad.webp -->
+<!-- VISUAL:t27-15-cedh-libertad-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-15-cedh-libertad-y-seguridad.webp" alt="CEDH: libertad y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: libertad y seguridad.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -214,7 +274,11 @@ El artículo 6 reconoce audiencia pública y equitativa en plazo razonable ante 
 - Toda persona acusada se presume inocente hasta que su culpabilidad haya sido legalmente declarada.
 - Las garantías mínimas penales incluyen información detallada en lengua comprensible, tiempo y medios para defensa, asistencia letrada, interrogatorio de testigos e intérprete gratuito.
 
-<!-- VISUAL PENDIENTE: t27-16-cedh-proceso-equitativo.webp -->
+<!-- VISUAL:t27-16-cedh-proceso-equitativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-16-cedh-proceso-equitativo.webp" alt="CEDH: proceso equitativo" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: proceso equitativo.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -227,7 +291,11 @@ El artículo 7 impide condenar por una acción u omisión que no fuera delito se
 - La legalidad penal exige previsibilidad suficiente de la norma y excluye creación retroactiva desfavorable de delitos y penas.
 - El artículo 7.2 conserva el juicio y castigo de actos delictivos conforme a los principios generales del derecho reconocidos por las naciones civilizadas.
 
-<!-- VISUAL PENDIENTE: t27-17-cedh-legalidad-penal.webp -->
+<!-- VISUAL:t27-17-cedh-legalidad-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-17-cedh-legalidad-penal.webp" alt="CEDH: legalidad penal" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: legalidad penal.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -240,7 +308,11 @@ El artículo 8 protege vida privada y familiar, domicilio y correspondencia.
 - Entre las finalidades figuran seguridad nacional o pública, bienestar económico, defensa del orden, prevención del delito, salud, moral y derechos ajenos.
 - El artículo 8 genera deberes negativos de no injerencia y, en ciertos supuestos, obligaciones positivas de protección efectiva.
 
-<!-- VISUAL PENDIENTE: t27-18-cedh-vida-privada-y-familiar.webp -->
+<!-- VISUAL:t27-18-cedh-vida-privada-y-familiar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-18-cedh-vida-privada-y-familiar.webp" alt="CEDH: vida privada y familiar" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: vida privada y familiar.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -253,7 +325,11 @@ El artículo 9 protege pensamiento, conciencia y religión, incluido cambiar de 
 - La libertad interna de tener o cambiar convicciones recibe protección especialmente intensa y se distingue de su manifestación externa.
 - Las restricciones a la manifestación requieren ley, necesidad democrática y fines tasados de seguridad pública, orden, salud, moral o derechos ajenos.
 
-<!-- VISUAL PENDIENTE: t27-19-cedh-pensamiento-conciencia-y-religion.webp -->
+<!-- VISUAL:t27-19-cedh-pensamiento-conciencia-y-religion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-19-cedh-pensamiento-conciencia-y-religion.webp" alt="CEDH: pensamiento, conciencia y religión" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: pensamiento, conciencia y religión.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -266,7 +342,11 @@ El artículo 10 protege opinión y recepción o comunicación de informaciones e
 - El ejercicio comporta deberes y responsabilidades y admite restricciones o sanciones previstas por ley y necesarias en sociedad democrática.
 - Las finalidades incluyen seguridad, integridad territorial, orden, prevención del delito, reputación, confidencialidad e imparcialidad judicial.
 
-<!-- VISUAL PENDIENTE: t27-20-cedh-libertad-de-expresion.webp -->
+<!-- VISUAL:t27-20-cedh-libertad-de-expresion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-20-cedh-libertad-de-expresion.webp" alt="CEDH: libertad de expresión" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: libertad de expresión.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -279,7 +359,11 @@ El artículo 11 protege reunión pacífica y asociación, incluido fundar sindic
 - El artículo 12 reconoce a hombres y mujeres en edad núbil el derecho a casarse y fundar una familia según las leyes nacionales que regulen su ejercicio.
 - La remisión a leyes nacionales del artículo 12 no autoriza a vaciar el contenido esencial del derecho.
 
-<!-- VISUAL PENDIENTE: t27-il-21-cedh-reunion-asociacion-y-matrimonio.webp -->
+<!-- VISUAL:t27-il-21-cedh-reunion-asociacion-y-matrimonio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-il-21-cedh-reunion-asociacion-y-matrimonio.webp" alt="CEDH: reunión, asociación y matrimonio" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: reunión, asociación y matrimonio.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -292,7 +376,11 @@ El artículo 13 exige un recurso efectivo ante instancia nacional para violacion
 - El artículo 14 prohíbe discriminación en el goce de los derechos y libertades reconocidos en el Convenio.
 - El artículo 14 es accesorio respecto de los derechos del Convenio, a diferencia de la prohibición general de discriminación del Protocolo 12 para sus Estados parte.
 
-<!-- VISUAL PENDIENTE: t27-22-cedh-recurso-efectivo-y-no-discriminacion.webp -->
+<!-- VISUAL:t27-22-cedh-recurso-efectivo-y-no-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-22-cedh-recurso-efectivo-y-no-discriminacion.webp" alt="CEDH: recurso efectivo y no discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: recurso efectivo y no discriminación.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -305,7 +393,11 @@ El artículo 15 permite derogaciones en guerra u otro peligro público que amena
 - El artículo 16 permite restricciones a la actividad política de extranjeros respecto de los artículos 10, 11 y 14.
 - Los artículos 17 y 18 prohíben abusar de los derechos para destruirlos y usar restricciones para fines distintos de los previstos.
 
-<!-- VISUAL PENDIENTE: t27-23-cedh-derogaciones-extranjeros-y-abuso-de-derecho.webp -->
+<!-- VISUAL:t27-23-cedh-derogaciones-extranjeros-y-abuso-de-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-23-cedh-derogaciones-extranjeros-y-abuso-de-derecho.webp" alt="CEDH: derogaciones, extranjeros y abuso de derecho" width="820">
+</p>
+<p align="center"><em>Infografía: CEDH: derogaciones, extranjeros y abuso de derecho.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -318,7 +410,11 @@ El artículo 19 establece un Tribunal Europeo de Derechos Humanos permanente par
 - Los jueces son elegidos por la Asamblea Parlamentaria respecto de cada Estado entre una lista de tres candidatos y actúan a título individual.
 - Su mandato es de nueve años no renovable; los candidatos deben ser menores de sesenta y cinco años en la fecha de solicitud de la lista.
 
-<!-- VISUAL PENDIENTE: t27-24-tedh-establecimiento-sede-y-jueces.webp -->
+<!-- VISUAL:t27-24-tedh-establecimiento-sede-y-jueces.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-24-tedh-establecimiento-sede-y-jueces.webp" alt="TEDH: establecimiento, sede y jueces" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: establecimiento, sede y jueces.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -331,7 +427,11 @@ El Tribunal dispone de Secretaría y, cuando actúa un juez único, de ponentes 
 - El TEDH actúa mediante juez único, comités de tres jueces, Salas de siete y Gran Sala de diecisiete.
 - El juez elegido respecto del Estado demandado forma parte de oficio de la Sala y Gran Sala, pero no actúa como juez único en asuntos contra ese Estado.
 
-<!-- VISUAL PENDIENTE: t27-25-tedh-pleno-y-formaciones-judiciales.webp -->
+<!-- VISUAL:t27-25-tedh-pleno-y-formaciones-judiciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-25-tedh-pleno-y-formaciones-judiciales.webp" alt="TEDH: Pleno y formaciones judiciales" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: Pleno y formaciones judiciales.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -344,7 +444,11 @@ El juez único puede declarar inadmisible o archivar una demanda individual si l
 - Si no resuelven juez único o comité, una Sala decide admisibilidad y fondo de demandas individuales y conoce de demandas interestatales.
 - Una Sala puede inhibirse en favor de la Gran Sala antes de sentencia cuando exista cuestión grave de interpretación o riesgo de contradicción jurisprudencial.
 
-<!-- VISUAL PENDIENTE: t27-26-tedh-competencias-de-juez-unico-comite-y-sala.webp -->
+<!-- VISUAL:t27-26-tedh-competencias-de-juez-unico-comite-y-sala.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-26-tedh-competencias-de-juez-unico-comite-y-sala.webp" alt="TEDH: competencias de juez único, comité y Sala" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: competencias de juez único, comité y Sala.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -357,7 +461,11 @@ La jurisdicción del TEDH se extiende a interpretación y aplicación del Conven
 - El artículo 34 admite demandas de personas, organizaciones no gubernamentales o grupos que se consideren víctimas de una violación por un Estado parte.
 - Los Estados se comprometen a no obstaculizar el ejercicio efectivo del derecho de demanda individual.
 
-<!-- VISUAL PENDIENTE: t27-27-tedh-jurisdiccion-y-demandas.webp -->
+<!-- VISUAL:t27-27-tedh-jurisdiccion-y-demandas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-27-tedh-jurisdiccion-y-demandas.webp" alt="TEDH: jurisdicción y demandas" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: jurisdicción y demandas.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -370,7 +478,11 @@ La demanda requiere agotamiento de recursos internos y presentación dentro de c
 - Son inadmisibles las incompatibles con el Convenio, manifiestamente mal fundadas o abusivas.
 - También puede operar la ausencia de perjuicio importante, salvo que el respeto de los derechos humanos exija examen sobre el fondo.
 
-<!-- VISUAL PENDIENTE: t27-28-tedh-admisibilidad-de-la-demanda-individual.webp -->
+<!-- VISUAL:t27-28-tedh-admisibilidad-de-la-demanda-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-28-tedh-admisibilidad-de-la-demanda-individual.webp" alt="TEDH: admisibilidad de la demanda individual" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: admisibilidad de la demanda individual.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -383,7 +495,11 @@ Puede intervenir el Estado del nacional demandante y, por invitación, terceros;
 - El arreglo amistoso debe inspirarse en el respeto de los derechos humanos y su procedimiento es confidencial.
 - Las audiencias son públicas salvo decisión excepcional y los documentos depositados son accesibles al público salvo decisión del Presidente.
 
-<!-- VISUAL PENDIENTE: t27-29-tedh-examen-arreglo-amistoso-y-audiencia.webp -->
+<!-- VISUAL:t27-29-tedh-examen-arreglo-amistoso-y-audiencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-29-tedh-examen-arreglo-amistoso-y-audiencia.webp" alt="TEDH: examen, arreglo amistoso y audiencia" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: examen, arreglo amistoso y audiencia.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -396,7 +512,11 @@ El Tribunal puede conceder satisfacción equitativa si el Derecho interno solo p
 - Las sentencias de Gran Sala son definitivas y las de Sala devienen definitivas en los supuestos del artículo 44.
 - Los Estados deben acatar las sentencias definitivas en litigios en que sean parte y el Comité de Ministros supervisa su ejecución.
 
-<!-- VISUAL PENDIENTE: t27-30-tedh-sentencias-gran-sala-y-ejecucion.webp -->
+<!-- VISUAL:t27-30-tedh-sentencias-gran-sala-y-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-30-tedh-sentencias-gran-sala-y-ejecucion.webp" alt="TEDH: sentencias, Gran Sala y ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: TEDH: sentencias, Gran Sala y ejecución.</em></p>
 
 <!-- FUENTE: CEDH-CURRENT-T27 -->
 
@@ -409,7 +529,11 @@ La Asamblea General adoptó la Convención contra la Tortura el 10 de diciembre 
 - La Convención contiene treinta y tres artículos distribuidos en tres partes.
 - La Parte I fija obligaciones sustantivas, la Parte II regula el Comité y mecanismos de control y la Parte III contiene cláusulas finales.
 
-<!-- VISUAL PENDIENTE: t27-31-convencion-contra-la-tortura-adopcion-y-estructura.webp -->
+<!-- VISUAL:t27-31-convencion-contra-la-tortura-adopcion-y-estructura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-31-convencion-contra-la-tortura-adopcion-y-estructura.webp" alt="Convención contra la Tortura: adopción y estructura" width="820">
+</p>
+<p align="center"><em>Infografía: Convención contra la Tortura: adopción y estructura.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -422,7 +546,11 @@ La tortura exige dolores o sufrimientos graves, físicos o mentales, infligidos 
 - Debe intervenir un funcionario público u otra persona en funciones públicas, por autoría, instigación, consentimiento o aquiescencia.
 - La definición excluye dolores o sufrimientos derivados únicamente de sanciones legítimas, inherentes o incidentales a ellas.
 
-<!-- VISUAL PENDIENTE: t27-32-cat-definicion-internacional-de-tortura.webp -->
+<!-- VISUAL:t27-32-cat-definicion-internacional-de-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-32-cat-definicion-internacional-de-tortura.webp" alt="CAT: definición internacional de tortura" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: definición internacional de tortura.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -435,7 +563,11 @@ Cada Estado debe adoptar medidas legislativas, administrativas, judiciales o de 
 - No puede invocarse una orden de funcionario superior o autoridad pública como justificación.
 - La prohibición absoluta obliga también a organizar formación, custodia, investigación y control para prevenir prácticas prohibidas.
 
-<!-- VISUAL PENDIENTE: t27-il-33-cat-prevencion-y-prohibicion-absoluta.webp -->
+<!-- VISUAL:t27-il-33-cat-prevencion-y-prohibicion-absoluta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-il-33-cat-prevencion-y-prohibicion-absoluta.webp" alt="CAT: prevención y prohibición absoluta" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: prevención y prohibición absoluta.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -448,7 +580,11 @@ Ningún Estado parte puede expulsar, devolver o extraditar a una persona a otro 
 - Entre ellas figura la existencia en el Estado de destino de un cuadro persistente de violaciones manifiestas, patentes o masivas de derechos humanos.
 - La existencia de ese cuadro es relevante, pero la decisión requiere conectar el riesgo con la situación individual de la persona.
 
-<!-- VISUAL PENDIENTE: t27-34-cat-no-devolucion-y-riesgo-de-tortura.webp -->
+<!-- VISUAL:t27-34-cat-no-devolucion-y-riesgo-de-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-34-cat-no-devolucion-y-riesgo-de-tortura.webp" alt="CAT: no devolución y riesgo de tortura" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: no devolución y riesgo de tortura.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -461,7 +597,11 @@ Cada Estado debe tipificar como delitos la tortura, su tentativa y toda complici
 - El Estado establece jurisdicción cuando el delito se comete en territorio bajo su jurisdicción o a bordo de buque o aeronave matriculados en él.
 - También prevé jurisdicción por nacionalidad del presunto autor, eventualmente de la víctima, y cuando el presunto autor se halle en su territorio y no sea extraditado.
 
-<!-- VISUAL PENDIENTE: t27-35-cat-tipificacion-y-jurisdiccion.webp -->
+<!-- VISUAL:t27-35-cat-tipificacion-y-jurisdiccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-35-cat-tipificacion-y-jurisdiccion.webp" alt="CAT: tipificación y jurisdicción" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: tipificación y jurisdicción.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -474,7 +614,11 @@ Si las circunstancias lo justifican, el Estado donde se halle el presunto autor 
 - Los delitos se consideran incluidos en tratados de extradición y la Convención puede servir de base jurídica cuando un Estado exige tratado.
 - Los Estados se prestan la mayor asistencia posible en procedimientos penales, incluido suministro de pruebas necesarias.
 
-<!-- VISUAL PENDIENTE: t27-36-cat-custodia-enjuiciamiento-extradicion-y-asistencia.webp -->
+<!-- VISUAL:t27-36-cat-custodia-enjuiciamiento-extradicion-y-asistencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-36-cat-custodia-enjuiciamiento-extradicion-y-asistencia.webp" alt="CAT: custodia, enjuiciamiento, extradición y asistencia" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: custodia, enjuiciamiento, extradición y asistencia.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -487,7 +631,11 @@ La prohibición de tortura debe incluirse plenamente en formación de personal c
 - Cuando existan motivos razonables para creer que se cometió tortura, las autoridades competentes deben investigar pronta e imparcialmente.
 - La obligación de investigar no depende de que exista primero una condena ni puede sustituirse por una revisión meramente formal.
 
-<!-- VISUAL PENDIENTE: t27-37-cat-formacion-reglas-de-custodia-e-investigacion.webp -->
+<!-- VISUAL:t27-37-cat-formacion-reglas-de-custodia-e-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-37-cat-formacion-reglas-de-custodia-e-investigacion.webp" alt="CAT: formación, reglas de custodia e investigación" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: formación, reglas de custodia e investigación.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -500,7 +648,11 @@ Toda persona que alegue tortura tiene derecho a que su caso sea examinado pronta
 - Una declaración obtenida mediante tortura no puede invocarse como prueba salvo contra la persona acusada de tortura para demostrar que se formuló.
 - El artículo 16 obliga a prevenir otros tratos o penas crueles, inhumanos o degradantes cometidos con conexión pública aunque no alcancen la definición de tortura.
 
-<!-- VISUAL PENDIENTE: t27-38-cat-denuncia-reparacion-prueba-y-otros-malos-tratos.webp -->
+<!-- VISUAL:t27-38-cat-denuncia-reparacion-prueba-y-otros-malos-tratos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-38-cat-denuncia-reparacion-prueba-y-otros-malos-tratos.webp" alt="CAT: denuncia, reparación, prueba y otros malos tratos" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: denuncia, reparación, prueba y otros malos tratos.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -513,7 +665,11 @@ El Comité contra la Tortura está compuesto por diez expertos de gran integrida
 - El mandato es de cuatro años y admite reelección si el miembro vuelve a ser propuesto.
 - El Comité elige su Mesa por dos años, aprueba su reglamento y seis miembros constituyen quórum.
 
-<!-- VISUAL PENDIENTE: t27-39-comite-contra-la-tortura-composicion-y-funcionamient.webp -->
+<!-- VISUAL:t27-39-comite-contra-la-tortura-composicion-y-funcionamient.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-39-comite-contra-la-tortura-composicion-y-funcionamient.webp" alt="Comité contra la Tortura: composición y funcionamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Comité contra la Tortura: composición y funcionamiento.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -526,7 +682,11 @@ Los Estados informan al Comité dentro del año siguiente a la entrada en vigor 
 - Los artículos 21 y 22 permiten comunicaciones interestatales e individuales cuando el Estado haya reconocido la competencia correspondiente.
 - El Comité presenta informe anual a Estados parte y Asamblea General; un Estado puede declarar que no reconoce la competencia investigadora del artículo 20.
 
-<!-- VISUAL PENDIENTE: t27-40-cat-informes-investigacion-y-comunicaciones.webp -->
+<!-- VISUAL:t27-40-cat-informes-investigacion-y-comunicaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-40-cat-informes-investigacion-y-comunicaciones.webp" alt="CAT: informes, investigación y comunicaciones" width="820">
+</p>
+<p align="center"><em>Infografía: CAT: informes, investigación y comunicaciones.</em></p>
 
 <!-- FUENTE: CAT-T27 -->
 
@@ -539,7 +699,11 @@ El Protocolo fue hecho en Nueva York el 18 de diciembre de 2002 y entró en vigo
 - Crea el Subcomité para la Prevención de la Tortura y obliga a establecer, designar o mantener uno o varios mecanismos nacionales.
 - Lugar de detención comprende cualquier lugar bajo jurisdicción y control del Estado donde haya o pueda haber personas privadas de libertad por orden o con intervención pública.
 
-<!-- VISUAL PENDIENTE: t27-41-opcat-objetivo-doble-sistema-y-lugares-de-detencion.webp -->
+<!-- VISUAL:t27-41-opcat-objetivo-doble-sistema-y-lugares-de-detencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-41-opcat-objetivo-doble-sistema-y-lugares-de-detencion.webp" alt="OPCAT: objetivo, doble sistema y lugares de detención" width="820">
+</p>
+<p align="center"><em>Infografía: OPCAT: objetivo, doble sistema y lugares de detención.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -552,7 +716,11 @@ El SPT actúa dentro del marco de la Carta de la ONU y se guía por confidencial
 - La composición debe atender a distribución geográfica equitativa, sistemas jurídicos, civilizaciones y equilibrio de género.
 - No puede haber dos miembros del SPT de la misma nacionalidad y sus integrantes actúan a título personal, independiente e imparcial.
 
-<!-- VISUAL PENDIENTE: t27-42-spt-principios-y-composicion.webp -->
+<!-- VISUAL:t27-42-spt-principios-y-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-42-spt-principios-y-composicion.webp" alt="SPT: principios y composición" width="820">
+</p>
+<p align="center"><em>Infografía: SPT: principios y composición.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -565,7 +733,11 @@ Cada Estado parte puede designar hasta dos candidatos y al menos uno debe tener 
 - El mandato dura cuatro años y permite una reelección.
 - El SPT elige su Mesa por dos años, decide por mayoría de miembros presentes, tiene quórum de mitad más uno y celebra sesiones privadas.
 
-<!-- VISUAL PENDIENTE: t27-43-spt-candidaturas-eleccion-y-mandato.webp -->
+<!-- VISUAL:t27-43-spt-candidaturas-eleccion-y-mandato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-43-spt-candidaturas-eleccion-y-mandato.webp" alt="SPT: candidaturas, elección y mandato" width="820">
+</p>
+<p align="center"><em>Infografía: SPT: candidaturas, elección y mandato.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -578,7 +750,11 @@ El SPT visita lugares de detención y formula recomendaciones para proteger a la
 - Los Estados deben recibir al SPT, darle acceso a lugares e información y permitir entrevistas conforme al Protocolo.
 - Los Estados examinan sus recomendaciones y entablan diálogo sobre posibles medidas de aplicación.
 
-<!-- VISUAL PENDIENTE: t27-44-spt-mandato-y-cooperacion-estatal.webp -->
+<!-- VISUAL:t27-44-spt-mandato-y-cooperacion-estatal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-44-spt-mandato-y-cooperacion-estatal.webp" alt="SPT: mandato y cooperación estatal" width="820">
+</p>
+<p align="center"><em>Infografía: SPT: mandato y cooperación estatal.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -591,7 +767,11 @@ El programa de visitas periódicas se establece inicialmente por sorteo tras las
 - El Estado debe facilitar información sobre número y ubicación de lugares, personas privadas de libertad, trato y condiciones.
 - El SPT accede a todos los lugares, instalaciones y servicios y puede entrevistar sin testigos, personalmente o con intérprete, eligiendo lugares y personas.
 
-<!-- VISUAL PENDIENTE: t27-45-opcat-programa-de-visitas-y-facultades-de-acceso.webp -->
+<!-- VISUAL:t27-45-opcat-programa-de-visitas-y-facultades-de-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-45-opcat-programa-de-visitas-y-facultades-de-acceso.webp" alt="OPCAT: programa de visitas y facultades de acceso" width="820">
+</p>
+<p align="center"><em>Infografía: OPCAT: programa de visitas y facultades de acceso.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -604,7 +784,11 @@ Ninguna autoridad puede sancionar o perjudicar a quien comunique información al
 - Las recomendaciones se comunican confidencialmente; el SPT publica el informe cuando el Estado lo pide y puede publicarlo si el Estado hace pública una parte.
 - Ante negativa a cooperar o adoptar medidas, el Comité contra la Tortura puede, a petición del SPT, formular declaración pública o publicar el informe tras oír al Estado.
 
-<!-- VISUAL PENDIENTE: t27-il-46-opcat-represalias-confidencialidad-y-publicacion.webp -->
+<!-- VISUAL:t27-il-46-opcat-represalias-confidencialidad-y-publicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-il-46-opcat-represalias-confidencialidad-y-publicacion.webp" alt="OPCAT: represalias, confidencialidad y publicación" width="820">
+</p>
+<p align="center"><em>Infografía: OPCAT: represalias, confidencialidad y publicación.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -617,7 +801,11 @@ Cada Estado debe establecer, designar o mantener uno o varios MNP como máximo u
 - Los integrantes han de poseer capacidades y conocimientos profesionales, con equilibrio de género y representación adecuada de grupos étnicos y minoritarios.
 - El Estado aporta los recursos necesarios y tiene debidamente en cuenta los Principios de París sobre instituciones nacionales.
 
-<!-- VISUAL PENDIENTE: t27-47-mnp-designacion-independencia-y-recursos.webp -->
+<!-- VISUAL:t27-47-mnp-designacion-independencia-y-recursos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-47-mnp-designacion-independencia-y-recursos.webp" alt="MNP: designación, independencia y recursos" width="820">
+</p>
+<p align="center"><em>Infografía: MNP: designación, independencia y recursos.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -630,7 +818,11 @@ El MNP examina periódicamente el trato de personas privadas de libertad para re
 - Debe acceder a información sobre número, lugares, trato y condiciones, y a todos los lugares, instalaciones y servicios.
 - Puede entrevistar sin testigos, elegir lugares y personas y mantener contacto con el SPT, enviarle información y reunirse con él.
 
-<!-- VISUAL PENDIENTE: t27-48-mnp-competencias-informacion-y-entrevistas.webp -->
+<!-- VISUAL:t27-48-mnp-competencias-informacion-y-entrevistas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-48-mnp-competencias-informacion-y-entrevistas.webp" alt="MNP: competencias, información y entrevistas" width="820">
+</p>
+<p align="center"><em>Infografía: MNP: competencias, información y entrevistas.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -643,7 +835,11 @@ Nadie puede sufrir sanción o perjuicio por comunicar información al MNP y la i
 - El artículo 24 permite aplazar obligaciones de la Parte III o IV por tres años y, por causas justificadas, el Comité puede ampliar otros dos.
 - El Protocolo no admite reservas, crea un Fondo Especial y reconoce inmunidades necesarias para el ejercicio independiente de funciones.
 
-<!-- VISUAL PENDIENTE: t27-49-opcat-garantias-nacionales-informes-y-clausulas-fina.webp -->
+<!-- VISUAL:t27-49-opcat-garantias-nacionales-informes-y-clausulas-fina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-49-opcat-garantias-nacionales-informes-y-clausulas-fina.webp" alt="OPCAT: garantías nacionales, informes y cláusulas finales" width="820">
+</p>
+<p align="center"><em>Infografía: OPCAT: garantías nacionales, informes y cláusulas finales.</em></p>
 
 <!-- FUENTE: OPCAT-T27 -->
 
@@ -656,7 +852,11 @@ La Ley Orgánica 1/2009 añadió la disposición final única a la Ley Orgánica
 - La designación aprovecha una institución independiente con competencia sobre todas las Administraciones públicas españolas.
 - El Consejo Asesor es órgano de cooperación técnica y jurídica en el ejercicio de las funciones del MNP.
 
-<!-- VISUAL PENDIENTE: t27-50-espana-designacion-del-defensor-del-pueblo-como-mnp.webp -->
+<!-- VISUAL:t27-50-espana-designacion-del-defensor-del-pueblo-como-mnp.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-50-espana-designacion-del-defensor-del-pueblo-como-mnp.webp" alt="España: designación del Defensor del Pueblo como MNP" width="820">
+</p>
+<p align="center"><em>Infografía: España: designación del Defensor del Pueblo como MNP.</em></p>
 
 <!-- FUENTE: LODP-MNP-T27 -->
 
@@ -669,7 +869,11 @@ El MNP desarrolla su actividad preventiva siempre de oficio mediante visitas per
 - La información sobre casos concretos se traslada a las áreas competentes del Defensor del Pueblo para su estudio reactivo.
 - La finalidad de la visita es detectar condiciones que puedan facilitar tortura o malos tratos y promover su corrección antes del daño.
 
-<!-- VISUAL PENDIENTE: t27-51-mnp-espanol-prevencion-de-oficio-y-diferencia-con-qu.webp -->
+<!-- VISUAL:t27-51-mnp-espanol-prevencion-de-oficio-y-diferencia-con-qu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-51-mnp-espanol-prevencion-de-oficio-y-diferencia-con-qu.webp" alt="MNP español: prevención de oficio y diferencia con quejas" width="820">
+</p>
+<p align="center"><em>Infografía: MNP español: prevención de oficio y diferencia con quejas.</em></p>
 
 <!-- FUENTE: DP-MNP-T27 -->
 
@@ -682,7 +886,11 @@ El MNP visita centros penitenciarios, comisarías, cuarteles, depósitos de dete
 - Puede recabar de autoridades españolas documentos e informes necesarios y estas deben prestar la colaboración requerida.
 - Las visitas y entrevistas requieren acceso efectivo y confidencial, no recorridos puramente ceremoniales seleccionados por el centro.
 
-<!-- VISUAL PENDIENTE: t27-52-mnp-espanol-centros-visitables-acceso-y-colaboracion.webp -->
+<!-- VISUAL:t27-52-mnp-espanol-centros-visitables-acceso-y-colaboracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-52-mnp-espanol-centros-visitables-acceso-y-colaboracion.webp" alt="MNP español: centros visitables, acceso y colaboración" width="820">
+</p>
+<p align="center"><em>Infografía: MNP español: centros visitables, acceso y colaboración.</em></p>
 
 <!-- FUENTE: DP-MNP-T27 -->
 
@@ -695,7 +903,11 @@ Tras las visitas, el MNP formula recomendaciones a autoridades y propuestas u ob
 - El Defensor del Pueblo da cuenta anualmente a las Cortes Generales de su gestión y el MNP publica información específica de su actividad preventiva.
 - La eficacia preventiva exige seguimiento de la respuesta, no solo levantar acta de la visita.
 
-<!-- VISUAL PENDIENTE: t27-53-mnp-espanol-recomendaciones-seguimiento-e-informes.webp -->
+<!-- VISUAL:t27-53-mnp-espanol-recomendaciones-seguimiento-e-informes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-53-mnp-espanol-recomendaciones-seguimiento-e-informes.webp" alt="MNP español: recomendaciones, seguimiento e informes" width="820">
+</p>
+<p align="center"><em>Infografía: MNP español: recomendaciones, seguimiento e informes.</em></p>
 
 <!-- FUENTE: DP-MNP-T27 -->
 
@@ -708,7 +920,11 @@ El Consejo Asesor está presidido por el Adjunto en quien el Defensor del Pueblo
 - Los vocales son designados por el Defensor del Pueblo por cuatro años y se renuevan por mitades cada dos mediante convocatoria pública.
 - La composición incorpora perfiles jurídicos, médicos, psicológicos, colaboración institucional y sociedad civil.
 
-<!-- VISUAL PENDIENTE: t27-54-consejo-asesor-del-mnp-composicion.webp -->
+<!-- VISUAL:t27-54-consejo-asesor-del-mnp-composicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-54-consejo-asesor-del-mnp-composicion.webp" alt="Consejo Asesor del MNP: composición" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Asesor del MNP: composición.</em></p>
 
 <!-- FUENTE: ROFDP-MNP-T27 -->
 
@@ -721,7 +937,11 @@ El Consejo realiza propuestas sobre visitas y sobre mejora de protocolos y su se
 - Propone formación y cursos especializados y sigue informes del MNP y del SPT.
 - Se reúne al menos dos veces al año y sus vocales no perciben retribución, sin perjuicio de indemnizaciones por razón del servicio.
 
-<!-- VISUAL PENDIENTE: t27-55-consejo-asesor-del-mnp-funciones-y-reuniones.webp -->
+<!-- VISUAL:t27-55-consejo-asesor-del-mnp-funciones-y-reuniones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-27/t27-55-consejo-asesor-del-mnp-funciones-y-reuniones.webp" alt="Consejo Asesor del MNP: funciones y reuniones" width="820">
+</p>
+<p align="center"><em>Infografía: Consejo Asesor del MNP: funciones y reuniones.</em></p>
 
 <!-- FUENTE: ROFDP-MNP-T27 -->
 

@@ -28,7 +28,11 @@ Para dominar **migración y movimiento migratorio**, parte de este criterio: Pri
 - **Incorrecto:** Todo viaje breve o desplazamiento diario es una migración.
 - **Incorrecto:** Migración designa exclusivamente la entrada irregular en otro Estado.
 
-<!-- VISUAL PENDIENTE: t31-il-01-migracion-y-movimiento-migratorio.webp -->
+<!-- VISUAL:t31-il-01-migracion-y-movimiento-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-01-migracion-y-movimiento-migratorio.webp" alt="Migración y movimiento migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Migración y movimiento migratorio.</em></p>
 
 :::hablemos-claro
 Primero pregunta si cambia la residencia habitual; después clasifica frontera, duración y causa.
@@ -62,7 +66,11 @@ Para dominar **inmigración, emigración y retorno**, parte de este criterio: Ca
 - **Incorrecto:** Inmigración y emigración describen dos personas distintas y nunca el mismo movimiento.
 - **Incorrecto:** Retorno significa siempre expulsión ejecutada por la fuerza.
 
-<!-- VISUAL PENDIENTE: t31-02-inmigracion-emigracion-y-retorno.webp -->
+<!-- VISUAL:t31-02-inmigracion-emigracion-y-retorno.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-02-inmigracion-emigracion-y-retorno.webp" alt="Inmigración, emigración y retorno" width="820">
+</p>
+<p align="center"><em>Infografía: Inmigración, emigración y retorno.</em></p>
 
 :::hablemos-claro
 Cambia el punto de observación: salida, llegada o regreso.
@@ -96,7 +104,11 @@ Para dominar **flujo, stock y saldo migratorio**, parte de este criterio: Flujo 
 - **Incorrecto:** El saldo migratorio se obtiene sumando nacimientos y defunciones.
 - **Incorrecto:** Población extranjera y población nacida fuera de España son siempre la misma cifra.
 
-<!-- VISUAL PENDIENTE: t31-03-flujo-stock-y-saldo-migratorio.webp -->
+<!-- VISUAL:t31-03-flujo-stock-y-saldo-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-03-flujo-stock-y-saldo-migratorio.webp" alt="Flujo, stock y saldo migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Flujo, stock y saldo migratorio.</em></p>
 
 :::hablemos-claro
 Flujo es película; stock es fotografía; saldo resta entradas menos salidas.
@@ -130,7 +142,11 @@ Para dominar **migración interna e internacional**, parte de este criterio: La 
 - **Incorrecto:** Toda migración interna es voluntaria y toda migración internacional es forzada.
 - **Incorrecto:** El desplazado interno adquiere automáticamente la condición jurídica de refugiado.
 
-<!-- VISUAL PENDIENTE: t31-04-migracion-interna-e-internacional.webp -->
+<!-- VISUAL:t31-04-migracion-interna-e-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-04-migracion-interna-e-internacional.webp" alt="Migración interna e internacional" width="820">
+</p>
+<p align="center"><em>Infografía: Migración interna e internacional.</em></p>
 
 :::hablemos-claro
 La frontera internacional separa la categoría interna de la internacional.
@@ -164,7 +180,11 @@ Para dominar **migración regular e irregular**, parte de este criterio: La regu
 - **Incorrecto:** La irregularidad convierte a la persona entera en ilegal y elimina sus derechos.
 - **Incorrecto:** Toda entrada regular garantiza una residencia regular indefinida.
 
-<!-- VISUAL PENDIENTE: t31-il-05-migracion-regular-e-irregular.webp -->
+<!-- VISUAL:t31-il-05-migracion-regular-e-irregular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-05-migracion-regular-e-irregular.webp" alt="Migración regular e irregular" width="820">
+</p>
+<p align="center"><em>Infografía: Migración regular e irregular.</em></p>
 
 :::hablemos-claro
 La regularidad describe una situación jurídica cambiante, no la dignidad de la persona.
@@ -198,7 +218,11 @@ Para dominar **duración: temporal, permanente, circular y estacional**, parte d
 - **Incorrecto:** Migración circular significa desplazarse una sola vez y no regresar.
 - **Incorrecto:** Toda migración temporal dura exactamente menos de un año en cualquier sistema jurídico.
 
-<!-- VISUAL PENDIENTE: t31-06-duracion-temporal-permanente-circular-y-estacional.webp -->
+<!-- VISUAL:t31-06-duracion-temporal-permanente-circular-y-estacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-06-duracion-temporal-permanente-circular-y-estacional.webp" alt="Duración: temporal, permanente, circular y estacional" width="820">
+</p>
+<p align="center"><em>Infografía: Duración: temporal, permanente, circular y estacional.</em></p>
 
 :::hablemos-claro
 Temporal limita tiempo; circular repite trayectos; estacional sigue el calendario.
@@ -232,7 +256,11 @@ Para dominar **migración voluntaria, dirigida y forzada**, parte de este criter
 - **Incorrecto:** La pobreza convierte automáticamente a toda persona migrante en refugiada.
 - **Incorrecto:** Si existe alguna decisión individual, nunca puede haber coacción relevante.
 
-<!-- VISUAL PENDIENTE: t31-07-migracion-voluntaria-dirigida-y-forzada.webp -->
+<!-- VISUAL:t31-07-migracion-voluntaria-dirigida-y-forzada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-07-migracion-voluntaria-dirigida-y-forzada.webp" alt="Migración voluntaria, dirigida y forzada" width="820">
+</p>
+<p align="center"><em>Infografía: Migración voluntaria, dirigida y forzada.</em></p>
 
 :::hablemos-claro
 No fuerces una realidad mixta dentro de una sola caja: examina libertad, amenaza y alternativas reales.
@@ -266,7 +294,11 @@ Para dominar **causas: factores de expulsión, atracción y obstáculos**, parte
 - **Incorrecto:** El modelo push-pull solo estudia las ventajas del destino y omite el origen.
 - **Incorrecto:** Dos personas expuestas a las mismas condiciones adoptan necesariamente la misma decisión.
 
-<!-- VISUAL PENDIENTE: t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp -->
+<!-- VISUAL:t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-08-causas-factores-de-expulsion-atraccion-y-obstaculos.webp" alt="Causas: factores de expulsión, atracción y obstáculos" width="820">
+</p>
+<p align="center"><em>Infografía: Causas: factores de expulsión, atracción y obstáculos.</em></p>
 
 :::hablemos-claro
 Regla de cuatro: origen, destino, obstáculos y percepción personal.
@@ -300,7 +332,11 @@ Para dominar **leyes migratorias de ravenstein**, parte de este criterio: Son ge
 - **Incorrecto:** Ravenstein sostuvo que todas las migraciones recorren grandes distancias sin contracorrientes.
 - **Incorrecto:** Las leyes de Ravenstein son normas jurídicas obligatorias para los Estados.
 
-<!-- VISUAL PENDIENTE: t31-09-leyes-migratorias-de-ravenstein.webp -->
+<!-- VISUAL:t31-09-leyes-migratorias-de-ravenstein.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-09-leyes-migratorias-de-ravenstein.webp" alt="Leyes migratorias de Ravenstein" width="820">
+</p>
+<p align="center"><em>Infografía: Leyes migratorias de Ravenstein.</em></p>
 
 :::hablemos-claro
 Son generalizaciones históricas: corta distancia, etapas, centros y contracorrientes.
@@ -334,7 +370,11 @@ Para dominar **modelo de lee y selección migratoria**, parte de este criterio: 
 - **Incorrecto:** Lee explicó la migración únicamente por diferencias salariales entre dos países.
 - **Incorrecto:** La selectividad significa que el destino elige jurídicamente a todos los migrantes.
 
-<!-- VISUAL PENDIENTE: t31-10-modelo-de-lee-y-seleccion-migratoria.webp -->
+<!-- VISUAL:t31-10-modelo-de-lee-y-seleccion-migratoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-10-modelo-de-lee-y-seleccion-migratoria.webp" alt="Modelo de Lee y selección migratoria" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de Lee y selección migratoria.</em></p>
 
 :::hablemos-claro
 Lee añade filtros y percepción personal al simple empuje y atracción.
@@ -368,7 +408,11 @@ Para dominar **teoría neoclásica: niveles macro y micro**, parte de este crite
 - **Incorrecto:** La teoría neoclásica niega cualquier relevancia a salarios y empleo.
 - **Incorrecto:** Una diferencia salarial produce siempre migración inmediata de toda la población.
 
-<!-- VISUAL PENDIENTE: t31-11-teoria-neoclasica-niveles-macro-y-micro.webp -->
+<!-- VISUAL:t31-11-teoria-neoclasica-niveles-macro-y-micro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-11-teoria-neoclasica-niveles-macro-y-micro.webp" alt="Teoría neoclásica: niveles macro y micro" width="820">
+</p>
+<p align="center"><em>Infografía: Teoría neoclásica: niveles macro y micro.</em></p>
 
 :::hablemos-claro
 Macro compara mercados; micro calcula expectativas; ninguno convierte el movimiento en automático.
@@ -402,7 +446,11 @@ Para dominar **nueva economía de la migración laboral**, parte de este criteri
 - **Incorrecto:** Este enfoque sostiene que siempre emigra el hogar completo.
 - **Incorrecto:** Las remesas carecen de relación con estrategias de diversificación de riesgos.
 
-<!-- VISUAL PENDIENTE: t31-12-nueva-economia-de-la-migracion-laboral.webp -->
+<!-- VISUAL:t31-12-nueva-economia-de-la-migracion-laboral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-12-nueva-economia-de-la-migracion-laboral.webp" alt="Nueva economía de la migración laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Nueva economía de la migración laboral.</em></p>
 
 :::hablemos-claro
 La unidad de decisión puede ser el hogar que reparte riesgos entre lugares.
@@ -436,7 +484,11 @@ Para dominar **mercado de trabajo dual o segmentado**, parte de este criterio: M
 - **Incorrecto:** El mercado dual divide a los trabajadores por superioridad biológica.
 - **Incorrecto:** La teoría explica la inmigración únicamente por persecución política en el origen.
 
-<!-- VISUAL PENDIENTE: t31-13-mercado-de-trabajo-dual-o-segmentado.webp -->
+<!-- VISUAL:t31-13-mercado-de-trabajo-dual-o-segmentado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-13-mercado-de-trabajo-dual-o-segmentado.webp" alt="Mercado de trabajo dual o segmentado" width="820">
+</p>
+<p align="center"><em>Infografía: Mercado de trabajo dual o segmentado.</em></p>
 
 :::hablemos-claro
 Mira la demanda del destino y los puestos que el mercado coloca en su segmento secundario.
@@ -470,7 +522,11 @@ Para dominar **sistema mundial y vínculos históricos**, parte de este criterio
 - **Incorrecto:** El sistema mundial reduce toda migración a una preferencia turística individual.
 - **Incorrecto:** Compartir idioma obliga jurídicamente a migrar hacia la antigua metrópoli.
 
-<!-- VISUAL PENDIENTE: t31-14-sistema-mundial-y-vinculos-historicos.webp -->
+<!-- VISUAL:t31-14-sistema-mundial-y-vinculos-historicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-14-sistema-mundial-y-vinculos-historicos.webp" alt="Sistema mundial y vínculos históricos" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema mundial y vínculos históricos.</em></p>
 
 :::hablemos-claro
 Las rutas actuales conservan huellas de comercio, colonización, lengua y transporte.
@@ -504,7 +560,11 @@ Para dominar **redes, cadenas y causación acumulativa**, parte de este criterio
 - **Incorrecto:** Una red migratoria es necesariamente una organización criminal.
 - **Incorrecto:** Las cadenas migratorias aumentan siempre costes y eliminan información sobre el destino.
 
-<!-- VISUAL PENDIENTE: t31-il-15-redes-cadenas-y-causacion-acumulativa.webp -->
+<!-- VISUAL:t31-il-15-redes-cadenas-y-causacion-acumulativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-15-redes-cadenas-y-causacion-acumulativa.webp" alt="Redes, cadenas y causación acumulativa" width="820">
+</p>
+<p align="center"><em>Infografía: Redes, cadenas y causación acumulativa.</em></p>
 
 :::hablemos-claro
 Quien llega primero puede convertir una ruta difícil en una ruta posible para su red.
@@ -538,7 +598,11 @@ Para dominar **efectos en origen y destino**, parte de este criterio: No memoric
 - **Incorrecto:** La inmigración aumenta necesariamente la delincuencia en cualquier sociedad receptora.
 - **Incorrecto:** Las migraciones producen solo beneficios en origen y solo costes en destino.
 
-<!-- VISUAL PENDIENTE: t31-16-efectos-en-origen-y-destino.webp -->
+<!-- VISUAL:t31-16-efectos-en-origen-y-destino.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-16-efectos-en-origen-y-destino.webp" alt="Efectos en origen y destino" width="820">
+</p>
+<p align="center"><em>Infografía: Efectos en origen y destino.</em></p>
 
 :::hablemos-claro
 No memorices propaganda con signo fijo: separa territorio, plazo, indicador y política.
@@ -572,7 +636,11 @@ Para dominar **primeras dispersiones humanas y revolución neolítica**, parte d
 - **Incorrecto:** Las primeras migraciones humanas se realizaron entre Estados nacionales modernos.
 - **Incorrecto:** Toda difusión cultural prehistórica prueba una conquista y reemplazo completo de población.
 
-<!-- VISUAL PENDIENTE: t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp -->
+<!-- VISUAL:t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-17-primeras-dispersiones-humanas-y-revolucion-neolitica.webp" alt="Primeras dispersiones humanas y revolución neolítica" width="820">
+</p>
+<p align="center"><em>Infografía: Primeras dispersiones humanas y revolución neolítica.</em></p>
 
 :::hablemos-claro
 Evita proyectar pasaportes modernos sobre movimientos de miles de años.
@@ -606,7 +674,11 @@ Para dominar **colonizaciones antiguas, invasiones y diásporas**, parte de este
 - **Incorrecto:** Toda diáspora implica perder cualquier vínculo con el origen.
 - **Incorrecto:** La movilidad antigua fue exclusivamente voluntaria y comercial.
 
-<!-- VISUAL PENDIENTE: t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp -->
+<!-- VISUAL:t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-18-colonizaciones-antiguas-invasiones-y-diasporas.webp" alt="Colonizaciones antiguas, invasiones y diásporas" width="820">
+</p>
+<p align="center"><em>Infografía: Colonizaciones antiguas, invasiones y diásporas.</em></p>
 
 :::hablemos-claro
 Comercio, imperio, guerra y dispersión pueden coexistir en el mismo período.
@@ -640,7 +712,11 @@ Para dominar **expansión atlántica y esclavitud transatlántica**, parte de es
 - **Incorrecto:** La trata atlántica fue un programa voluntario de empleo temporal.
 - **Incorrecto:** La colonización produjo solo movimientos de europeos y ninguna movilidad forzada.
 
-<!-- VISUAL PENDIENTE: t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp -->
+<!-- VISUAL:t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-19-expansion-atlantica-y-esclavitud-transatlantica.webp" alt="Expansión atlántica y esclavitud transatlántica" width="820">
+</p>
+<p align="center"><em>Infografía: Expansión atlántica y esclavitud transatlántica.</em></p>
 
 :::hablemos-claro
 La palabra clave es coacción: transporte, explotación y pérdida de libertad.
@@ -674,7 +750,11 @@ Para dominar **gran emigración transoceánica del siglo xix y comienzos del xx*
 - **Incorrecto:** La emigración transoceánica terminó antes de la industrialización y del vapor.
 - **Incorrecto:** Todos los países receptores mantuvieron fronteras abiertas sin selección ni discriminación.
 
-<!-- VISUAL PENDIENTE: t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp -->
+<!-- VISUAL:t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-20-gran-emigracion-transoceanica-del-siglo-xix-y-comien.webp" alt="Gran emigración transoceánica del siglo XIX y comienzos del XX" width="820">
+</p>
+<p align="center"><em>Infografía: Gran emigración transoceánica del siglo XIX y comienzos del XX.</em></p>
 
 :::hablemos-claro
 Población, industria y vapor multiplican el flujo; los controles deciden quién entra.
@@ -708,7 +788,11 @@ Para dominar **guerras mundiales, fronteras y refugio**, parte de este criterio:
 - **Incorrecto:** La Convención de 1951 se creó antes de la Primera Guerra Mundial.
 - **Incorrecto:** Todo desplazamiento causado por una guerra convierte automáticamente a la persona en refugiada reconocida sin procedimiento.
 
-<!-- VISUAL PENDIENTE: t31-21-guerras-mundiales-fronteras-y-refugio.webp -->
+<!-- VISUAL:t31-21-guerras-mundiales-fronteras-y-refugio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-21-guerras-mundiales-fronteras-y-refugio.webp" alt="Guerras mundiales, fronteras y refugio" width="820">
+</p>
+<p align="center"><em>Infografía: Guerras mundiales, fronteras y refugio.</em></p>
 
 :::hablemos-claro
 El siglo XX une desplazamiento masivo, fracaso de protección y construcción del sistema de refugio.
@@ -742,7 +826,11 @@ Para dominar **migraciones de posguerra y descolonización**, parte de este crit
 - **Incorrecto:** Todos los trabajadores invitados regresaron cuando terminaron los contratos.
 - **Incorrecto:** La crisis de 1973 eliminó inmediatamente toda movilidad hacia Europa.
 
-<!-- VISUAL PENDIENTE: t31-22-migraciones-de-posguerra-y-descolonizacion.webp -->
+<!-- VISUAL:t31-22-migraciones-de-posguerra-y-descolonizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-22-migraciones-de-posguerra-y-descolonizacion.webp" alt="Migraciones de posguerra y descolonización" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones de posguerra y descolonización.</em></p>
 
 :::hablemos-claro
 Lo temporal puede hacerse permanente cuando aparecen familia, arraigo y nuevas generaciones.
@@ -776,7 +864,11 @@ Para dominar **migraciones interiores en españa**, parte de este criterio: Espa
 - **Incorrecto:** El éxodo rural español trasladó población de las ciudades al campo industrial.
 - **Incorrecto:** Desde 1950 solo existen migraciones internacionales y desaparecen los cambios internos.
 
-<!-- VISUAL PENDIENTE: t31-23-migraciones-interiores-en-espana.webp -->
+<!-- VISUAL:t31-23-migraciones-interiores-en-espana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-23-migraciones-interiores-en-espana.webp" alt="Migraciones interiores en España" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones interiores en España.</em></p>
 
 :::hablemos-claro
 España también migra por dentro: del campo a la ciudad y después entre áreas metropolitanas.
@@ -810,7 +902,11 @@ Para dominar **españa: de país emigrante a país de inmigración**, parte de e
 - **Incorrecto:** España fue siempre país receptor y nunca envió emigrantes a América o Europa.
 - **Incorrecto:** La crisis de 2008 eliminó definitivamente la inmigración y toda población extranjera.
 
-<!-- VISUAL PENDIENTE: t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp -->
+<!-- VISUAL:t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-24-espana-de-pais-emigrante-a-pais-de-inmigracion.webp" alt="España: de país emigrante a país de inmigración" width="820">
+</p>
+<p align="center"><em>Infografía: España: de país emigrante a país de inmigración.</em></p>
 
 :::hablemos-claro
 La secuencia útil es emigración, retorno, inmigración y movilidad de doble sentido.
@@ -844,7 +940,11 @@ Para dominar **migraciones actuales y causas mixtas**, parte de este criterio: R
 - **Incorrecto:** Toda persona que comparte una ruta tiene el mismo estatuto jurídico.
 - **Incorrecto:** Las causas migratorias son siempre únicas, estables y fáciles de separar.
 
-<!-- VISUAL PENDIENTE: t31-25-migraciones-actuales-y-causas-mixtas.webp -->
+<!-- VISUAL:t31-25-migraciones-actuales-y-causas-mixtas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-25-migraciones-actuales-y-causas-mixtas.webp" alt="Migraciones actuales y causas mixtas" width="820">
+</p>
+<p align="center"><em>Infografía: Migraciones actuales y causas mixtas.</em></p>
 
 :::hablemos-claro
 Ruta compartida no significa causa ni protección compartidas.
@@ -878,7 +978,11 @@ Para dominar **corredores, redes y globalización**, parte de este criterio: El 
 - **Incorrecto:** Toda migración internacional se dirige del Sur global a Europa o Norteamérica.
 - **Incorrecto:** Internet ha eliminado los costes, riesgos y controles del desplazamiento.
 
-<!-- VISUAL PENDIENTE: t31-26-corredores-redes-y-globalizacion.webp -->
+<!-- VISUAL:t31-26-corredores-redes-y-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-26-corredores-redes-y-globalizacion.webp" alt="Corredores, redes y globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Corredores, redes y globalización.</em></p>
 
 :::hablemos-claro
 El mapa real tiene muchos ejes: Norte-Sur, Sur-Sur, proximidad y vínculos históricos.
@@ -912,7 +1016,11 @@ Para dominar **refugiados, solicitantes de asilo y desplazados internos**, parte
 - **Incorrecto:** Solicitante de asilo y refugiado reconocido son sinónimos procesales perfectos.
 - **Incorrecto:** El desplazado interno se encuentra necesariamente fuera de su país.
 
-<!-- VISUAL PENDIENTE: t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp -->
+<!-- VISUAL:t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-27-refugiados-solicitantes-de-asilo-y-desplazados-inter.webp" alt="Refugiados, solicitantes de asilo y desplazados internos" width="820">
+</p>
+<p align="center"><em>Infografía: Refugiados, solicitantes de asilo y desplazados internos.</em></p>
 
 :::hablemos-claro
 Tres preguntas: ¿cruzó frontera?, ¿pidió protección?, ¿ya fue reconocido?
@@ -946,7 +1054,11 @@ Para dominar **movilidad ambiental y cambio climático**, parte de este criterio
 - **Incorrecto:** Toda persona afectada por sequía obtiene automáticamente estatuto de refugiado climático.
 - **Incorrecto:** Los factores ambientales solo producen migración internacional permanente.
 
-<!-- VISUAL PENDIENTE: t31-il-28-movilidad-ambiental-y-cambio-climatico.webp -->
+<!-- VISUAL:t31-il-28-movilidad-ambiental-y-cambio-climatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-28-movilidad-ambiental-y-cambio-climatico.webp" alt="Movilidad ambiental y cambio climático" width="820">
+</p>
+<p align="center"><em>Infografía: Movilidad ambiental y cambio climático.</em></p>
 
 :::hablemos-claro
 El ambiente multiplica riesgos; no crea por sí solo una etiqueta jurídica universal.
@@ -980,7 +1092,11 @@ Para dominar **tráfico ilícito y trata de personas**, parte de este criterio: 
 - **Incorrecto:** La trata exige siempre cruzar una frontera internacional.
 - **Incorrecto:** Tráfico ilícito y trata son dos nombres jurídicos del mismo delito.
 
-<!-- VISUAL PENDIENTE: t31-29-trafico-ilicito-y-trata-de-personas.webp -->
+<!-- VISUAL:t31-29-trafico-ilicito-y-trata-de-personas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-29-trafico-ilicito-y-trata-de-personas.webp" alt="Tráfico ilícito y trata de personas" width="820">
+</p>
+<p align="center"><em>Infografía: Tráfico ilícito y trata de personas.</em></p>
 
 :::hablemos-claro
 Tráfico cobra por cruzar; trata controla para explotar; pueden conectarse, pero no se confunden.
@@ -1014,7 +1130,11 @@ Para dominar **remesas, desarrollo y fuga de talento**, parte de este criterio: 
 - **Incorrecto:** Las remesas son impuestos que cobra el Estado receptor a cada inmigrante.
 - **Incorrecto:** Toda salida de una persona cualificada causa una pérdida irreversible sin retorno ni redes.
 
-<!-- VISUAL PENDIENTE: t31-30-remesas-desarrollo-y-fuga-de-talento.webp -->
+<!-- VISUAL:t31-30-remesas-desarrollo-y-fuga-de-talento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-30-remesas-desarrollo-y-fuga-de-talento.webp" alt="Remesas, desarrollo y fuga de talento" width="820">
+</p>
+<p align="center"><em>Infografía: Remesas, desarrollo y fuga de talento.</em></p>
 
 :::hablemos-claro
 Dinero y conocimiento pueden circular; el efecto no es automáticamente bueno ni malo.
@@ -1048,7 +1168,11 @@ Para dominar **españa: fotografía migratoria con fecha**, parte de este criter
 - **Incorrecto:** España tenía exactamente la misma población en cualquier fecha de 2025 y 2026.
 - **Incorrecto:** Un saldo exterior positivo demuestra por sí solo que todas las comunidades tuvieron idéntico saldo.
 
-<!-- VISUAL PENDIENTE: t31-31-espana-fotografia-migratoria-con-fecha.webp -->
+<!-- VISUAL:t31-31-espana-fotografia-migratoria-con-fecha.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-31-espana-fotografia-migratoria-con-fecha.webp" alt="España: fotografía migratoria con fecha" width="820">
+</p>
+<p align="center"><em>Infografía: España: fotografía migratoria con fecha.</em></p>
 
 :::hablemos-claro
 Toda cifra lleva matrícula: fuente, fecha, operación y estado provisional o definitivo.
@@ -1082,7 +1206,11 @@ Para dominar **integración social: concepto**, parte de este criterio: Papeles,
 - **Incorrecto:** Obtener una autorización administrativa demuestra por sí solo integración plena.
 - **Incorrecto:** Integrarse exige borrar idioma, vínculos e identidad de origen.
 
-<!-- VISUAL PENDIENTE: t31-il-32-integracion-social-concepto.webp -->
+<!-- VISUAL:t31-il-32-integracion-social-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-32-integracion-social-concepto.webp" alt="Integración social: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Integración social: concepto.</em></p>
 
 :::hablemos-claro
 Papeles, empleo y convivencia son piezas; ninguna por sí sola completa la integración.
@@ -1116,7 +1244,11 @@ Para dominar **asimilación**, parte de este criterio: Asimilar acerca hacia una
 - **Incorrecto:** Asimilación significa que la sociedad receptora cambia sin ninguna adaptación del migrante.
 - **Incorrecto:** Toda integración democrática exige uniformidad cultural completa.
 
-<!-- VISUAL PENDIENTE: t31-33-asimilacion.webp -->
+<!-- VISUAL:t31-33-asimilacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-33-asimilacion.webp" alt="Asimilación" width="820">
+</p>
+<p align="center"><em>Infografía: Asimilación.</em></p>
 
 :::hablemos-claro
 Asimilar acerca hacia una cultura dominante; integrar permite pertenecer sin desaparecer.
@@ -1150,7 +1282,11 @@ Para dominar **melting pot y salad bowl**, parte de este criterio: Crisol funde 
 - **Incorrecto:** Salad bowl significa que todas las identidades se funden y dejan de distinguirse.
 - **Incorrecto:** Melting pot es una figura jurídica obligatoria de la LO 4/2000.
 
-<!-- VISUAL PENDIENTE: t31-il-34-melting-pot-y-salad-bowl.webp -->
+<!-- VISUAL:t31-il-34-melting-pot-y-salad-bowl.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-34-melting-pot-y-salad-bowl.webp" alt="Melting pot y salad bowl" width="820">
+</p>
+<p align="center"><em>Infografía: Melting pot y salad bowl.</em></p>
 
 :::hablemos-claro
 Crisol funde ingredientes; ensaladera los mantiene reconocibles.
@@ -1184,7 +1320,11 @@ Para dominar **multiculturalismo e interculturalidad**, parte de este criterio: 
 - **Incorrecto:** Interculturalidad consiste en mantener comunidades separadas sin relación alguna.
 - **Incorrecto:** Reconocer diversidad obliga a aceptar cualquier práctica aunque vulnere derechos.
 
-<!-- VISUAL PENDIENTE: t31-35-multiculturalismo-e-interculturalidad.webp -->
+<!-- VISUAL:t31-35-multiculturalismo-e-interculturalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-35-multiculturalismo-e-interculturalidad.webp" alt="Multiculturalismo e interculturalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Multiculturalismo e interculturalidad.</em></p>
 
 :::hablemos-claro
 Multi constata diversidad; inter exige relación, igualdad y aprendizaje recíproco.
@@ -1218,7 +1358,11 @@ Para dominar **integración como proceso bidireccional y transversal**, parte de
 - **Incorrecto:** Solo la persona inmigrante debe cambiar; las instituciones no tienen función alguna.
 - **Incorrecto:** Integración es una política aislada sin relación con educación, vivienda o empleo.
 
-<!-- VISUAL PENDIENTE: t31-36-integracion-como-proceso-bidireccional-y-transversal.webp -->
+<!-- VISUAL:t31-36-integracion-como-proceso-bidireccional-y-transversal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-36-integracion-como-proceso-bidireccional-y-transversal.webp" alt="Integración como proceso bidireccional y transversal" width="820">
+</p>
+<p align="center"><em>Infografía: Integración como proceso bidireccional y transversal.</em></p>
 
 :::hablemos-claro
 La integración no es una puerta de un solo sentido ni una ventanilla única.
@@ -1252,7 +1396,11 @@ Para dominar **dimensiones de la integración**, parte de este criterio: Cuatro 
 - **Incorrecto:** La integración se mide únicamente por dominar la lengua del destino.
 - **Incorrecto:** Pertenecer a la sociedad receptora impide mantener cualquier pertenencia de origen.
 
-<!-- VISUAL PENDIENTE: t31-37-dimensiones-de-la-integracion.webp -->
+<!-- VISUAL:t31-37-dimensiones-de-la-integracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-37-dimensiones-de-la-integracion.webp" alt="Dimensiones de la integración" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensiones de la integración.</em></p>
 
 :::hablemos-claro
 Cuatro lentes: estatus, recursos, relaciones y pertenencia.
@@ -1286,7 +1434,11 @@ Para dominar **cohesión social, confianza y pertenencia**, parte de este criter
 - **Incorrecto:** Una sociedad cohesionada carece de desacuerdos y obliga a pensar igual.
 - **Incorrecto:** La diversidad destruye necesariamente toda confianza social.
 
-<!-- VISUAL PENDIENTE: t31-il-38-cohesion-social-confianza-y-pertenencia.webp -->
+<!-- VISUAL:t31-il-38-cohesion-social-confianza-y-pertenencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-38-cohesion-social-confianza-y-pertenencia.webp" alt="Cohesión social, confianza y pertenencia" width="820">
+</p>
+<p align="center"><em>Infografía: Cohesión social, confianza y pertenencia.</em></p>
 
 :::hablemos-claro
 Cohesión es poder discrepar, participar y cooperar sin quedar fuera del nosotros.
@@ -1320,7 +1472,11 @@ Para dominar **barreras, discriminación y segregación**, parte de este criteri
 - **Incorrecto:** Toda concentración residencial es voluntaria y demuestra rechazo a integrarse.
 - **Incorrecto:** La igualdad formal elimina automáticamente discriminación y barreras prácticas.
 
-<!-- VISUAL PENDIENTE: t31-39-barreras-discriminacion-y-segregacion.webp -->
+<!-- VISUAL:t31-39-barreras-discriminacion-y-segregacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-39-barreras-discriminacion-y-segregacion.webp" alt="Barreras, discriminación y segregación" width="820">
+</p>
+<p align="center"><em>Infografía: Barreras, discriminación y segregación.</em></p>
 
 :::hablemos-claro
 Busca la puerta cerrada concreta: norma, trámite, coste, idioma, lugar o trato discriminatorio.
@@ -1354,7 +1510,11 @@ Para dominar **duelo migratorio y síndrome de ulises**, parte de este criterio:
 - **Incorrecto:** Toda migración causa necesariamente un trastorno mental idéntico.
 - **Incorrecto:** El síndrome de Ulises es una autorización administrativa de residencia.
 
-<!-- VISUAL PENDIENTE: t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp -->
+<!-- VISUAL:t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-il-40-duelo-migratorio-y-sindrome-de-ulises.webp" alt="Duelo migratorio y síndrome de Ulises" width="820">
+</p>
+<p align="center"><em>Infografía: Duelo migratorio y síndrome de Ulises.</em></p>
 
 :::hablemos-claro
 La migración no es patología; el riesgo aparece cuando pérdidas y estresores extremos se acumulan.
@@ -1388,7 +1548,11 @@ Para dominar **plan de acción de la ue 2021-2027**, parte de este criterio: Mem
 - **Incorrecto:** El Plan europeo solo regula expulsiones y control fronterizo.
 - **Incorrecto:** La Comisión ejecuta directamente todos los servicios municipales de vivienda y salud.
 
-<!-- VISUAL PENDIENTE: t31-41-plan-de-accion-de-la-ue-2021-2027.webp -->
+<!-- VISUAL:t31-41-plan-de-accion-de-la-ue-2021-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-41-plan-de-accion-de-la-ue-2021-2027.webp" alt="Plan de Acción de la UE 2021-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de Acción de la UE 2021-2027.</em></p>
 
 :::hablemos-claro
 Memoriza cuatro ámbitos: educación, empleo, salud y vivienda.
@@ -1422,7 +1586,11 @@ Para dominar **integración en la ley orgánica 4/2000**, parte de este criterio
 - **Incorrecto:** El artículo 2 ter impone una cultura única y prohíbe toda identidad diversa.
 - **Incorrecto:** La integración corresponde exclusivamente al Estado y excluye cooperación territorial.
 
-<!-- VISUAL PENDIENTE: t31-42-integracion-en-la-ley-organica-4-2000.webp -->
+<!-- VISUAL:t31-42-integracion-en-la-ley-organica-4-2000.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-42-integracion-en-la-ley-organica-4-2000.webp" alt="Integración en la Ley Orgánica 4/2000" width="820">
+</p>
+<p align="center"><em>Infografía: Integración en la Ley Orgánica 4/2000.</em></p>
 
 :::hablemos-claro
 La fórmula legal une plena integración, diversidad, transversalidad, participación y cooperación.
@@ -1456,7 +1624,11 @@ Para dominar **marco estratégico 2023-2027**, parte de este criterio: No arrast
 - **Incorrecto:** El marco vigente es el II Plan Estratégico 2022-2024.
 - **Incorrecto:** El Marco 2023-2027 es una ley orgánica sancionadora de aplicación penal directa.
 
-<!-- VISUAL PENDIENTE: t31-43-marco-estrategico-2023-2027.webp -->
+<!-- VISUAL:t31-43-marco-estrategico-2023-2027.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-43-marco-estrategico-2023-2027.webp" alt="Marco Estratégico 2023-2027" width="820">
+</p>
+<p align="center"><em>Infografía: Marco Estratégico 2023-2027.</em></p>
 
 :::hablemos-claro
 No arrastres el plan caducado: el marco vigente es 2023-2027 y tiene naturaleza programática.
@@ -1490,7 +1662,11 @@ Para dominar **foro para la integración social de los inmigrantes**, parte de e
 - **Incorrecto:** El Foro dicta sentencias y concede autorizaciones de residencia.
 - **Incorrecto:** La composición vigente conserva treinta vocales y carece de vicepresidencias.
 
-<!-- VISUAL PENDIENTE: t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp -->
+<!-- VISUAL:t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-44-foro-para-la-integracion-social-de-los-inmigrantes.webp" alt="Foro para la Integración Social de los Inmigrantes" width="820">
+</p>
+<p align="center"><em>Infografía: Foro para la Integración Social de los Inmigrantes.</em></p>
 
 :::hablemos-claro
 Función: consultar y asesorar; dato nuevo: 31 vocalías desde julio de 2026.
@@ -1524,7 +1700,11 @@ Para dominar **opi y oberaxe**, parte de este criterio: OPI observa migraciones;
 - **Incorrecto:** El OPI es un centro policial de internamiento de extranjeros.
 - **Incorrecto:** OBERAXE sustituye a los tribunales al sancionar delitos de odio.
 
-<!-- VISUAL PENDIENTE: t31-45-opi-y-oberaxe.webp -->
+<!-- VISUAL:t31-45-opi-y-oberaxe.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-45-opi-y-oberaxe.webp" alt="OPI y OBERAXE" width="820">
+</p>
+<p align="center"><em>Infografía: OPI y OBERAXE.</em></p>
 
 :::hablemos-claro
 OPI observa migraciones; OBERAXE observa racismo y xenofobia; ninguno juzga.
@@ -1558,7 +1738,11 @@ Para dominar **oim y acnur: mandatos distintos**, parte de este criterio: OIM mi
 - **Incorrecto:** La OIM fue creada en 1945 como tribunal internacional de migraciones.
 - **Incorrecto:** ACNUR gestiona cualquier migración laboral como si fuera refugio.
 
-<!-- VISUAL PENDIENTE: t31-46-oim-y-acnur-mandatos-distintos.webp -->
+<!-- VISUAL:t31-46-oim-y-acnur-mandatos-distintos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-46-oim-y-acnur-mandatos-distintos.webp" alt="OIM y ACNUR: mandatos distintos" width="820">
+</p>
+<p align="center"><em>Infografía: OIM y ACNUR: mandatos distintos.</em></p>
 
 :::hablemos-claro
 OIM mira la movilidad migratoria; ACNUR centra la protección internacional.
@@ -1592,7 +1776,11 @@ Para dominar **glosario de movilidad y protección**, parte de este criterio: Re
 - **Incorrecto:** Toda persona sin pasaporte es automáticamente apátrida.
 - **Incorrecto:** Reasentamiento y reubicación describen exactamente el mismo trayecto.
 
-<!-- VISUAL PENDIENTE: t31-47-glosario-de-movilidad-y-proteccion.webp -->
+<!-- VISUAL:t31-47-glosario-de-movilidad-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-31/t31-47-glosario-de-movilidad-y-proteccion.webp" alt="Glosario de movilidad y protección" width="820">
+</p>
+<p align="center"><em>Infografía: Glosario de movilidad y protección.</em></p>
 
 :::hablemos-claro
 Reasentamiento cruza desde un primer asilo a un tercer Estado; reubicación redistribuye dentro del sistema.

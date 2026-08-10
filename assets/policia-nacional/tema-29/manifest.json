@@ -4,14 +4,14 @@
   "topic": "tema-29",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 46,
-    "integrated": 0,
-    "planned": 46
+    "integrated": 46,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-10",
   "resources": [
     {
       "id": "T29-V01",
@@ -19,14 +19,15 @@
       "title": "Concepto de actitud",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa evaluación, predisposición y conducta: están conectadas, pero no son la misma pieza.",
+      "description": "Separa evaluación, predisposición y conducta: están conectadas, pero no son la misma pieza.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Características de las actitudes",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dirección, intensidad, estabilidad y accesibilidad describen dimensiones distintas.",
+      "description": "Dirección, intensidad, estabilidad y accesibilidad describen dimensiones distintas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Concepto de valor social",
       "type": "ilustracion_simple",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El valor funciona como brújula general; la actitud evalúa un objeto más concreto.",
+      "description": "El valor funciona como brújula general; la actitud evalúa un objeto más concreto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Normas, valores, creencias y opiniones",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta qué hace cada concepto: describir, valorar, opinar, orientar o prescribir.",
+      "description": "Pregunta qué hace cada concepto: describir, valorar, opinar, orientar o prescribir.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Socialización y aprendizaje social",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aprender sociedad no es fotocopiarla: hay recepción, interpretación y cambio.",
+      "description": "Aprender sociedad no es fotocopiarla: hay recepción, interpretación y cambio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Modelo de tres componentes",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Regla CAB: Cognición, Afecto y Behavior/conducta; después comprueba si encajan.",
+      "description": "Regla CAB: Cognición, Afecto y Behavior/conducta; después comprueba si encajan.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Consistencia y ambivalencia actitudinal",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ambivalente no es indiferente: hay dos fuerzas evaluativas en sentidos distintos.",
+      "description": "Ambivalente no es indiferente: hay dos fuerzas evaluativas en sentidos distintos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Funciones de las actitudes según Katz",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Busca la utilidad psicológica de la actitud; el objeto por sí solo no revela su función.",
+      "description": "Busca la utilidad psicológica de la actitud; el objeto por sí solo no revela su función.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Función de conocimiento",
       "type": "ilustracion_simple",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ordenar ayuda, pero una carpeta mental también puede estar mal etiquetada.",
+      "description": "Ordenar ayuda, pero una carpeta mental también puede estar mal etiquetada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Función instrumental o adaptativa",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta qué gana, evita o consigue la persona mediante esa actitud.",
+      "description": "Pregunta qué gana, evita o consigue la persona mediante esa actitud.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Función defensiva del yo",
       "type": "ilustracion_simple",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La función explica para qué sirve la actitud; no legitima su contenido.",
+      "description": "La función explica para qué sirve la actitud; no legitima su contenido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Función expresiva de valores",
       "type": "ilustracion_simple",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si la actitud dice quién soy o qué defiendo, mira la función expresiva.",
+      "description": "Si la actitud dice quién soy o qué defiendo, mira la función expresiva.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Experiencia directa y condicionamiento",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Experiencia intensa no equivale a muestra representativa.",
+      "description": "Experiencia intensa no equivale a muestra representativa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Observación, imitación y grupos",
       "type": "ilustracion_simple",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Distingue lo que alguien expresa para encajar de lo que realmente ha interiorizado.",
+      "description": "Distingue lo que alguien expresa para encajar de lo que realmente ha interiorizado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Información, persuasión y credibilidad",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Credibilidad facilita la entrada; la evidencia decide si el mensaje merece quedarse.",
+      "description": "Credibilidad facilita la entrada; la evidencia decide si el mensaje merece quedarse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Intención, norma social y control percibido",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Actitud favorable no basta: intención, entorno y capacidad pueden cerrar la puerta.",
+      "description": "Actitud favorable no basta: intención, entorno y capacidad pueden cerrar la puerta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Disonancia cognitiva y cambio",
       "type": "ilustracion_simple",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El cerebro busca coherencia, pero puede arreglar el relato en vez de arreglar la conducta.",
+      "description": "El cerebro busca coherencia, pero puede arreglar el relato en vez de arreglar la conducta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Medición de actitudes",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Medir no es leer la mente: es inferir con un instrumento y controlar sus límites.",
+      "description": "Medir no es leer la mente: es inferir con un instrumento y controlar sus límites.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Importancia, conocimiento y accesibilidad",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Importancia explica cuánto importa; conocimiento, cuánto sabes; accesibilidad, cuán rápido aparece.",
+      "description": "Importancia explica cuánto importa; conocimiento, cuánto sabes; accesibilidad, cuán rápido aparece.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Límites de la predicción actitud-conducta",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cuanto más específica sea la conducta, más específica debe ser la actitud que intentas usar para predecirla.",
+      "description": "Cuanto más específica sea la conducta, más específica debe ser la actitud que intentas usar para predecirla.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Concepto de estereotipo",
       "type": "ilustracion_simple",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La etiqueta resume al grupo; el error es convertirla en diagnóstico individual.",
+      "description": "La etiqueta resume al grupo; el error es convertirla en diagnóstico individual.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Categorización, endogrupo y exogrupo",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dentro, fuera y comparación: no añadas hostilidad automática donde solo hay clasificación.",
+      "description": "Dentro, fuera y comparación: no añadas hostilidad automática donde solo hay clasificación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Concepto de prejuicio",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estereotipo: creo sobre el grupo; prejuicio: valoro negativamente a la persona por el grupo.",
+      "description": "Estereotipo: creo sobre el grupo; prejuicio: valoro negativamente a la persona por el grupo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Concepto de discriminación",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Discriminación pregunta qué trato ocurrió y por qué; no exige leer la mente.",
+      "description": "Discriminación pregunta qué trato ocurrió y por qué; no exige leer la mente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Cadena estereotipo-prejuicio-discriminación",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La escalera sirve para distinguir planos, no para afirmar destino inevitable.",
+      "description": "La escalera sirve para distinguir planos, no para afirmar destino inevitable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Discriminación directa e indirecta",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Directa: trato distinto; indirecta: regla neutra y desventaja particular injustificada.",
+      "description": "Directa: trato distinto; indirecta: regla neutra y desventaja particular injustificada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Discriminación por asociación, error y múltiples causas",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El error sobre la víctima no borra el motivo del trato; cambia el dato, no la lógica discriminatoria.",
+      "description": "El error sobre la víctima no borra el motivo del trato; cambia el dato, no la lógica discriminatoria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Sesgos, atribución y correlación ilusoria",
       "type": "ilustracion_simple",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sesgo explica un riesgo de error; el control profesional exige contrastarlo con hechos.",
+      "description": "Sesgo explica un riesgo de error; el control profesional exige contrastarlo con hechos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Del prejuicio al odio y al delito",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero delito base; después indicios de motivación. Sin hecho penal no inventes la etiqueta.",
+      "description": "Primero delito base; después indicios de motivación. Sin hecho penal no inventes la etiqueta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Reducción del prejuicio y prevención",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El cambio real necesita cabeza, experiencia y reglas; una sola palanca suele quedarse corta.",
+      "description": "El cambio real necesita cabeza, experiencia y reglas; una sola palanca suele quedarse corta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Personalidad autoritaria",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Teoría de disposiciones, no sello clínico ni condena jurídica.",
+      "description": "Teoría de disposiciones, no sello clínico ni condena jurídica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Escala F y dimensiones autoritarias",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Nueve dimensiones bajo una F histórica; no la mezcles con diferencial semántico ni dogmatismo.",
+      "description": "Nueve dimensiones bajo una F histórica; no la mezcles con diferencial semántico ni dogmatismo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Dogmatismo y sistema cerrado de creencias",
       "type": "ilustracion_simple",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dogmatismo describe cómo se sostiene la creencia, no cuál es su color político.",
+      "description": "Dogmatismo describe cómo se sostiene la creencia, no cuál es su color político.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Xenofobia: concepto y alcance",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Importa la percepción de extranjería y la hostilidad, no el pasaporte real de la víctima.",
+      "description": "Importa la percepción de extranjería y la hostilidad, no el pasaporte real de la víctima.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Racismo, xenofobia y discriminación",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa motivo y trato; después admite que varios motivos pueden solaparse.",
+      "description": "Separa motivo y trato; después admite que varios motivos pueden solaparse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Intolerancia y discurso de odio",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No etiquetes por una palabra aislada: analiza contenido, grupo, contexto y riesgo.",
+      "description": "No etiquetes por una palabra aislada: analiza contenido, grupo, contexto y riesgo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Concepto de grupo social",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No cuentes cabezas: busca vínculo, interacción e interdependencia.",
+      "description": "No cuentes cabezas: busca vínculo, interacción e interdependencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Elementos de la estructura grupal",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estructura es el esqueleto: posiciones, reglas, comunicación y poder.",
+      "description": "Estructura es el esqueleto: posiciones, reglas, comunicación y poder.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Grupos primarios y secundarios",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mira la calidad del vínculo, no solo el tamaño de la sala.",
+      "description": "Mira la calidad del vínculo, no solo el tamaño de la sala.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Grupos formales e informales",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Formal habla de origen y diseño; eficacia es otra pregunta.",
+      "description": "Formal habla de origen y diseño; eficacia es otra pregunta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Grupos de pertenencia y referencia",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pertenencia responde dónde estoy; referencia, con quién me comparo o a quién tomo como modelo.",
+      "description": "Pertenencia responde dónde estoy; referencia, con quién me comparo o a quién tomo como modelo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Estatus, rol y conflicto de roles",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estatus es la casilla; rol, lo que se espera de quien la ocupa.",
+      "description": "Estatus es la casilla; rol, lo que se espera de quien la ocupa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Cohesión, conformidad y presión grupal",
       "type": "ilustracion_simple",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un grupo muy unido puede remar fuerte y aun así remar hacia el lugar equivocado.",
+      "description": "Un grupo muy unido puede remar fuerte y aun así remar hacia el lugar equivocado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Liderazgo y estilos de dirección",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Influencia no es solo cargo; estilo no es receta universal.",
+      "description": "Influencia no es solo cargo; estilo no es receta universal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Diferenciación intergrupal e interdependencia",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Rabbie une dos lentes: qué resultados compartimos y quiénes sentimos que somos.",
+      "description": "Rabbie une dos lentes: qué resultados compartimos y quiénes sentimos que somos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,753 +784,17 @@
       "title": "Conflicto e identidad entre grupos",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Para desactivar trincheras, crea una meta que obligue a construir el puente juntos.",
+      "description": "Para desactivar trincheras, crea una meta que obligue a construir el puente juntos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T29-V01",
-      "file": "t29-il-01-concepto-de-actitud.webp",
-      "title": "Concepto de actitud",
-      "type": "ilustracion_simple",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Separa evaluación, predisposición y conducta: están conectadas, pero no son la misma pieza.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V02",
-      "file": "t29-02-caracteristicas-de-las-actitudes.webp",
-      "title": "Características de las actitudes",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dirección, intensidad, estabilidad y accesibilidad describen dimensiones distintas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V03",
-      "file": "t29-il-03-concepto-de-valor-social.webp",
-      "title": "Concepto de valor social",
-      "type": "ilustracion_simple",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El valor funciona como brújula general; la actitud evalúa un objeto más concreto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V04",
-      "file": "t29-04-normas-valores-creencias-y-opiniones.webp",
-      "title": "Normas, valores, creencias y opiniones",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta qué hace cada concepto: describir, valorar, opinar, orientar o prescribir.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V05",
-      "file": "t29-il-05-socializacion-y-aprendizaje-social.webp",
-      "title": "Socialización y aprendizaje social",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Aprender sociedad no es fotocopiarla: hay recepción, interpretación y cambio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V06",
-      "file": "t29-06-modelo-de-tres-componentes.webp",
-      "title": "Modelo de tres componentes",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Regla CAB: Cognición, Afecto y Behavior/conducta; después comprueba si encajan.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V07",
-      "file": "t29-07-consistencia-y-ambivalencia-actitudinal.webp",
-      "title": "Consistencia y ambivalencia actitudinal",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ambivalente no es indiferente: hay dos fuerzas evaluativas en sentidos distintos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V08",
-      "file": "t29-08-funciones-de-las-actitudes-segun-katz.webp",
-      "title": "Funciones de las actitudes según Katz",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Busca la utilidad psicológica de la actitud; el objeto por sí solo no revela su función.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V09",
-      "file": "t29-il-09-funcion-de-conocimiento.webp",
-      "title": "Función de conocimiento",
-      "type": "ilustracion_simple",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ordenar ayuda, pero una carpeta mental también puede estar mal etiquetada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V10",
-      "file": "t29-10-funcion-instrumental-o-adaptativa.webp",
-      "title": "Función instrumental o adaptativa",
-      "type": "infografia",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pregunta qué gana, evita o consigue la persona mediante esa actitud.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V11",
-      "file": "t29-il-11-funcion-defensiva-del-yo.webp",
-      "title": "Función defensiva del yo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La función explica para qué sirve la actitud; no legitima su contenido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V12",
-      "file": "t29-il-12-funcion-expresiva-de-valores.webp",
-      "title": "Función expresiva de valores",
-      "type": "ilustracion_simple",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si la actitud dice quién soy o qué defiendo, mira la función expresiva.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V13",
-      "file": "t29-13-experiencia-directa-y-condicionamiento.webp",
-      "title": "Experiencia directa y condicionamiento",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Experiencia intensa no equivale a muestra representativa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V14",
-      "file": "t29-il-14-observacion-imitacion-y-grupos.webp",
-      "title": "Observación, imitación y grupos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Distingue lo que alguien expresa para encajar de lo que realmente ha interiorizado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V15",
-      "file": "t29-15-informacion-persuasion-y-credibilidad.webp",
-      "title": "Información, persuasión y credibilidad",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Credibilidad facilita la entrada; la evidencia decide si el mensaje merece quedarse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V16",
-      "file": "t29-16-intencion-norma-social-y-control-percibido.webp",
-      "title": "Intención, norma social y control percibido",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Actitud favorable no basta: intención, entorno y capacidad pueden cerrar la puerta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V17",
-      "file": "t29-il-17-disonancia-cognitiva-y-cambio.webp",
-      "title": "Disonancia cognitiva y cambio",
-      "type": "ilustracion_simple",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El cerebro busca coherencia, pero puede arreglar el relato en vez de arreglar la conducta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V18",
-      "file": "t29-18-medicion-de-actitudes.webp",
-      "title": "Medición de actitudes",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Medir no es leer la mente: es inferir con un instrumento y controlar sus límites.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V19",
-      "file": "t29-19-importancia-conocimiento-y-accesibilidad.webp",
-      "title": "Importancia, conocimiento y accesibilidad",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Importancia explica cuánto importa; conocimiento, cuánto sabes; accesibilidad, cuán rápido aparece.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V20",
-      "file": "t29-20-limites-de-la-prediccion-actitud-conducta.webp",
-      "title": "Límites de la predicción actitud-conducta",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cuanto más específica sea la conducta, más específica debe ser la actitud que intentas usar para predecirla.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V21",
-      "file": "t29-il-21-concepto-de-estereotipo.webp",
-      "title": "Concepto de estereotipo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La etiqueta resume al grupo; el error es convertirla en diagnóstico individual.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V22",
-      "file": "t29-22-categorizacion-endogrupo-y-exogrupo.webp",
-      "title": "Categorización, endogrupo y exogrupo",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dentro, fuera y comparación: no añadas hostilidad automática donde solo hay clasificación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V23",
-      "file": "t29-23-concepto-de-prejuicio.webp",
-      "title": "Concepto de prejuicio",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estereotipo: creo sobre el grupo; prejuicio: valoro negativamente a la persona por el grupo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V24",
-      "file": "t29-24-concepto-de-discriminacion.webp",
-      "title": "Concepto de discriminación",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Discriminación pregunta qué trato ocurrió y por qué; no exige leer la mente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V25",
-      "file": "t29-25-cadena-estereotipo-prejuicio-discriminacion.webp",
-      "title": "Cadena estereotipo-prejuicio-discriminación",
-      "type": "infografia",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La escalera sirve para distinguir planos, no para afirmar destino inevitable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V26",
-      "file": "t29-26-discriminacion-directa-e-indirecta.webp",
-      "title": "Discriminación directa e indirecta",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Directa: trato distinto; indirecta: regla neutra y desventaja particular injustificada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V27",
-      "file": "t29-27-discriminacion-por-asociacion-error-y-multiples-caus.webp",
-      "title": "Discriminación por asociación, error y múltiples causas",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El error sobre la víctima no borra el motivo del trato; cambia el dato, no la lógica discriminatoria.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V28",
-      "file": "t29-il-28-sesgos-atribucion-y-correlacion-ilusoria.webp",
-      "title": "Sesgos, atribución y correlación ilusoria",
-      "type": "ilustracion_simple",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sesgo explica un riesgo de error; el control profesional exige contrastarlo con hechos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V29",
-      "file": "t29-29-del-prejuicio-al-odio-y-al-delito.webp",
-      "title": "Del prejuicio al odio y al delito",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primero delito base; después indicios de motivación. Sin hecho penal no inventes la etiqueta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V30",
-      "file": "t29-il-30-reduccion-del-prejuicio-y-prevencion.webp",
-      "title": "Reducción del prejuicio y prevención",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El cambio real necesita cabeza, experiencia y reglas; una sola palanca suele quedarse corta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V31",
-      "file": "t29-31-personalidad-autoritaria.webp",
-      "title": "Personalidad autoritaria",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Teoría de disposiciones, no sello clínico ni condena jurídica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V32",
-      "file": "t29-32-escala-f-y-dimensiones-autoritarias.webp",
-      "title": "Escala F y dimensiones autoritarias",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Nueve dimensiones bajo una F histórica; no la mezcles con diferencial semántico ni dogmatismo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V33",
-      "file": "t29-il-33-dogmatismo-y-sistema-cerrado-de-creencias.webp",
-      "title": "Dogmatismo y sistema cerrado de creencias",
-      "type": "ilustracion_simple",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dogmatismo describe cómo se sostiene la creencia, no cuál es su color político.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V34",
-      "file": "t29-34-xenofobia-concepto-y-alcance.webp",
-      "title": "Xenofobia: concepto y alcance",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Importa la percepción de extranjería y la hostilidad, no el pasaporte real de la víctima.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V35",
-      "file": "t29-35-racismo-xenofobia-y-discriminacion.webp",
-      "title": "Racismo, xenofobia y discriminación",
-      "type": "infografia",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Separa motivo y trato; después admite que varios motivos pueden solaparse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V36",
-      "file": "t29-36-intolerancia-y-discurso-de-odio.webp",
-      "title": "Intolerancia y discurso de odio",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No etiquetes por una palabra aislada: analiza contenido, grupo, contexto y riesgo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V37",
-      "file": "t29-37-concepto-de-grupo-social.webp",
-      "title": "Concepto de grupo social",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No cuentes cabezas: busca vínculo, interacción e interdependencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V38",
-      "file": "t29-38-elementos-de-la-estructura-grupal.webp",
-      "title": "Elementos de la estructura grupal",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estructura es el esqueleto: posiciones, reglas, comunicación y poder.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V39",
-      "file": "t29-39-grupos-primarios-y-secundarios.webp",
-      "title": "Grupos primarios y secundarios",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mira la calidad del vínculo, no solo el tamaño de la sala.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V40",
-      "file": "t29-40-grupos-formales-e-informales.webp",
-      "title": "Grupos formales e informales",
-      "type": "infografia",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Formal habla de origen y diseño; eficacia es otra pregunta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V41",
-      "file": "t29-41-grupos-de-pertenencia-y-referencia.webp",
-      "title": "Grupos de pertenencia y referencia",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pertenencia responde dónde estoy; referencia, con quién me comparo o a quién tomo como modelo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V42",
-      "file": "t29-42-estatus-rol-y-conflicto-de-roles.webp",
-      "title": "Estatus, rol y conflicto de roles",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estatus es la casilla; rol, lo que se espera de quien la ocupa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V43",
-      "file": "t29-il-43-cohesion-conformidad-y-presion-grupal.webp",
-      "title": "Cohesión, conformidad y presión grupal",
-      "type": "ilustracion_simple",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un grupo muy unido puede remar fuerte y aun así remar hacia el lugar equivocado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V44",
-      "file": "t29-44-liderazgo-y-estilos-de-direccion.webp",
-      "title": "Liderazgo y estilos de dirección",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Influencia no es solo cargo; estilo no es receta universal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V45",
-      "file": "t29-45-diferenciacion-intergrupal-e-interdependencia.webp",
-      "title": "Diferenciación intergrupal e interdependencia",
-      "type": "infografia",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Rabbie une dos lentes: qué resultados compartimos y quiénes sentimos que somos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T29-V46",
-      "file": "t29-46-conflicto-e-identidad-entre-grupos.webp",
-      "title": "Conflicto e identidad entre grupos",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Para desactivar trincheras, crea una meta que obligue a construir el puente juntos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

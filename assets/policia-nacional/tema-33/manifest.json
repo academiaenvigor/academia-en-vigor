@@ -4,14 +4,14 @@
   "topic": "tema-33",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 73,
-    "integrated": 0,
-    "planned": 73
+    "integrated": 73,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-10",
   "resources": [
     {
       "id": "T33-V01",
@@ -19,14 +19,15 @@
       "title": "Concepto operativo de seguridad",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Formula siempre cuatro preguntas: qué proteger, frente a qué, con qué medios y dentro de qué límites jurídicos.",
+      "description": "Formula siempre cuatro preguntas: qué proteger, frente a qué, con qué medios y dentro de qué límites jurídicos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Seguridad como valor, derecho y política pública",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Distingue el plano: valor social, derecho individual, bien colectivo, competencia pública o política concreta.",
+      "description": "Distingue el plano: valor social, derecho individual, bien colectivo, competencia pública o política concreta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Dimensión objetiva y dimensión subjetiva",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Dos cuadros de mando: hechos y daños por un lado; percepción y conducta por otro.",
+      "description": "Dos cuadros de mando: hechos y daños por un lado; percepción y conducta por otro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Amenaza, vulnerabilidad, exposición y riesgo",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Amenaza puede golpear; vulnerabilidad facilita; exposición coloca; riesgo estima; daño materializa.",
+      "description": "Amenaza puede golpear; vulnerabilidad facilita; exposición coloca; riesgo estima; daño materializa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Prevención, protección, respuesta y recuperación",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Usa el ciclo antes-durante-después y añade aprendizaje para no repetir el fallo.",
+      "description": "Usa el ciclo antes-durante-después y añade aprendizaje para no repetir el fallo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Prevención primaria, secundaria y terciaria",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primaria: universal; secundaria: riesgo focalizado; terciaria: después del hecho para evitar repetición.",
+      "description": "Primaria: universal; secundaria: riesgo focalizado; terciaria: después del hecho para evitar repetición.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Seguridad, libertad y proporcionalidad",
       "type": "ilustracion_simple",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La pregunta correcta no es seguridad o libertad, sino qué intervención legal protege ambas con el menor sacrificio necesario.",
+      "description": "La pregunta correcta no es seguridad o libertad, sino qué intervención legal protege ambas con el menor sacrificio necesario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Seguridad integral y resiliencia",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Integral coordina; resiliente resiste y se recupera; ninguna borra competencias ni garantiza riesgo cero.",
+      "description": "Integral coordina; resiliente resiste y se recupera; ninguna borra competencias ni garantiza riesgo cero.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Seguridad individual",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En el artículo 17, seguridad acompaña a libertad y protege frente a privaciones ilegales; no promete invulnerabilidad.",
+      "description": "En el artículo 17, seguridad acompaña a libertad y protege frente a privaciones ilegales; no promete invulnerabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Seguridad colectiva",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Colectiva significa compartida, no ilimitada: protege convivencia e instituciones sin vaciar derechos individuales.",
+      "description": "Colectiva significa compartida, no ilimitada: protege convivencia e instituciones sin vaciar derechos individuales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Seguridad ciudadana en la Constitución",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Regla 104: derechos y libertades + seguridad ciudadana; la ley orgánica ordena funciones, principios y estatutos.",
+      "description": "Regla 104: derechos y libertades + seguridad ciudadana; la ley orgánica ordena funciones, principios y estatutos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Competencia sobre seguridad pública",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estado: competencia exclusiva; policías autonómicas: excepción constitucional encauzada por estatuto y ley orgánica.",
+      "description": "Estado: competencia exclusiva; policías autonómicas: excepción constitucional encauzada por estatuto y ley orgánica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Sistema policial y cooperación territorial",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Coordinar no es fusionar: cada cuerpo conserva función y territorio mientras comparte información y apoyo.",
+      "description": "Coordinar no es fusionar: cada cuerpo conserva función y territorio mientras comparte información y apoyo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Objeto de la protección de la seguridad ciudadana",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 1 une requisito para los derechos, bien colectivo y tutela mediante personas, bienes y tranquilidad.",
+      "description": "El artículo 1 une requisito para los derechos, bien colectivo y tutela mediante personas, bienes y tranquilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Fines y principios de seguridad ciudadana",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Memoriza fines y principios por separado: qué se protege y cómo puede actuar la autoridad.",
+      "description": "Memoriza fines y principios por separado: qué se protege y cómo puede actuar la autoridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Concepto funcional de seguridad pública",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Función pública es más amplia que patrulla; colaboración no cambia por sí sola la naturaleza jurídica.",
+      "description": "Función pública es más amplia que patrulla; colaboración no cambia por sí sola la naturaleza jurídica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Modelo español de seguridad privada",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cuatro palabras de examen: complementaria, subordinada, colaboradora y controlada.",
+      "description": "Cuatro palabras de examen: complementaria, subordinada, colaboradora y controlada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Relación y límites entre seguridad pública y privada",
       "type": "ilustracion_simple",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Colabora y complementa, pero no sustituye ni recibe por contagio potestades públicas.",
+      "description": "Colabora y complementa, pero no sustituye ni recibe por contagio potestades públicas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Concepto de inseguridad",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa exposición, victimización, percepción y respuesta; mezclarlas produce diagnósticos falsos.",
+      "description": "Separa exposición, victimización, percepción y respuesta; mezclarlas produce diagnósticos falsos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Inseguridad objetiva",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de comparar pregunta: qué cuenta, quién lo conoce, con qué definición, dónde y durante cuánto tiempo.",
+      "description": "Antes de comparar pregunta: qué cuenta, quién lo conoce, con qué definición, dónde y durante cuánto tiempo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Inseguridad subjetiva y miedo al delito",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Emoción, juicio de probabilidad y preocupación pública son tres agujas distintas del mismo panel.",
+      "description": "Emoción, juicio de probabilidad y preocupación pública son tres agujas distintas del mismo panel.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Miedo concreto y preocupación difusa",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Concreto pregunta «¿me ocurrirá aquí?»; difuso pregunta «¿es un problema para la sociedad?».",
+      "description": "Concreto pregunta «¿me ocurrirá aquí?»; difuso pregunta «¿es un problema para la sociedad?».",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Victimización y cifra oculta",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres círculos solapados: lo ocurrido, lo conocido y lo registrado.",
+      "description": "Tres círculos solapados: lo ocurrido, lo conocido y lo registrado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Factores que moldean la percepción",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El miedo no nace de una sola fuente: combina experiencia, señales, información, vulnerabilidad y control percibido.",
+      "description": "El miedo no nace de una sola fuente: combina experiencia, señales, información, vulnerabilidad y control percibido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Consecuencias de la inseguridad percibida",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La percepción también cambia la ciudad: decide quién sale, cuándo, por dónde y con qué confianza.",
+      "description": "La percepción también cambia la ciudad: decide quién sale, cuándo, por dónde y con qué confianza.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Evaluación de políticas de seguridad",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No confundas después con debido a: mide mecanismo, comparación, desplazamiento, derechos y costes.",
+      "description": "No confundas después con debido a: mide mecanismo, comparación, desplazamiento, derechos y costes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Delito, delincuencia, criminalidad y criminología",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Delito: categoría legal; delincuencia: fenómeno; criminalidad: patrón o magnitud; criminología: disciplina.",
+      "description": "Delito: categoría legal; delincuencia: fenómeno; criminalidad: patrón o magnitud; criminología: disciplina.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Desviación, conducta antisocial y delito",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres filtros: norma social, daño y ley penal; solo el último convierte la conducta en delito.",
+      "description": "Tres filtros: norma social, daño y ley penal; solo el último convierte la conducta en delito.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Teoría, modelo y factor de riesgo",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Factor eleva probabilidad; mecanismo explica cómo; teoría ordena; evidencia limita.",
+      "description": "Factor eleva probabilidad; mecanismo explica cómo; teoría ordena; evidencia limita.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Niveles de explicación de la delincuencia",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No obligues a competir a escalas distintas: persona, relación, situación y estructura responden preguntas diferentes.",
+      "description": "No obligues a competir a escalas distintas: persona, relación, situación y estructura responden preguntas diferentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Quételet y la estadística moral",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Quételet mira series y estaciones: patrón agregado no es destino individual ni ley natural inmutable.",
+      "description": "Quételet mira series y estaciones: patrón agregado no es destino individual ni ley natural inmutable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Escuela clásica y elección",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clásica mira elección y acto; positivista buscará causas en autor y entorno.",
+      "description": "Clásica mira elección y acto; positivista buscará causas en autor y entorno.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Positivismo criminológico",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Memoriza autor y propuesta, pero añade una etiqueta roja: antecedente histórico, no herramienta predictiva válida.",
+      "description": "Memoriza autor y propuesta, pero añade una etiqueta roja: antecedente histórico, no herramienta predictiva válida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Criterios para comparar teorías",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ficha de cinco campos: conducta, unidad, nivel, mecanismo y límite.",
+      "description": "Ficha de cinco campos: conducta, unidad, nivel, mecanismo y límite.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Lombroso y el delincuente nato",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Lombroso es examen histórico: atavismo y delincuente nato, seguido de crítica metodológica imprescindible.",
+      "description": "Lombroso es examen histórico: atavismo y delincuente nato, seguido de crítica metodológica imprescindible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Enrico Ferri y los factores del delito",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tríada que ha caído: antropológicos, físicos o telúricos y sociales.",
+      "description": "Tríada que ha caído: antropológicos, físicos o telúricos y sociales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Garófalo, delito natural y peligrosidad",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Piedad y probidad identifican a Garófalo; temibilidad es antecedente, no atajo contra garantías.",
+      "description": "Piedad y probidad identifican a Garófalo; temibilidad es antecedente, no atajo contra garantías.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Kretschmer y la biotipología",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Kretschmer: leptosomático, atlético, pícnico y displásico; no lo mezcles con Sheldon.",
+      "description": "Kretschmer: leptosomático, atlético, pícnico y displásico; no lo mezcles con Sheldon.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Sheldon y los somatotipos",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sheldon: endo-meso-ecto; Kretschmer: lepto-atlético-pícnico.",
+      "description": "Sheldon: endo-meso-ecto; Kretschmer: lepto-atlético-pícnico.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Genética, neurobiología y conducta",
       "type": "ilustracion_simple",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Biología influye; no sentencia. Pasa siempre por desarrollo, ambiente, conducta concreta y garantías.",
+      "description": "Biología influye; no sentencia. Pasa siempre por desarrollo, ambiente, conducta concreta y garantías.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Eysenck: personalidad y condicionamiento",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Eysenck une rasgos y condicionamiento; habla de probabilidad, no de culpabilidad.",
+      "description": "Eysenck une rasgos y condicionamiento; habla de probabilidad, no de culpabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Bandura y aprendizaje observacional",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Bandura separa aprender de ejecutar: observar abre el repertorio; consecuencias y control deciden la conducta.",
+      "description": "Bandura separa aprender de ejecutar: observar abre el repertorio; consecuencias y control deciden la conducta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Sutherland y asociación diferencial",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sutherland responde cómo se aprende: interacción, técnicas y balance de definiciones.",
+      "description": "Sutherland responde cómo se aprende: interacción, técnicas y balance de definiciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Akers y aprendizaje social criminológico",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Regla AKER: Asociación, definiciones, refuerzo e imitación.",
+      "description": "Regla AKER: Asociación, definiciones, refuerzo e imitación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Durkheim: delito y anomia",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Normal significa general como fenómeno social; anomia significa regulación debilitada, no ausencia física de normas.",
+      "description": "Normal significa general como fenómeno social; anomia significa regulación debilitada, no ausencia física de normas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Merton: estructura social y anomia",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Merton: metas muy premiadas + acceso desigual a medios legítimos = presión estructural.",
+      "description": "Merton: metas muy premiadas + acceso desigual a medios legítimos = presión estructural.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Modos de adaptación de Merton",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tabla dos columnas: metas y medios; los signos de aceptación, rechazo o sustitución resuelven la pregunta.",
+      "description": "Tabla dos columnas: metas y medios; los signos de aceptación, rechazo o sustitución resuelven la pregunta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Agnew y la tensión general",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres fuentes: no lograr, perder lo positivo, sufrir lo negativo; después pregunta cómo se afronta.",
+      "description": "Tres fuentes: no lograr, perder lo positivo, sufrir lo negativo; después pregunta cómo se afronta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Escuela de Chicago y ecología urbana",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Chicago mira el mapa y la organización del área; no etiqueta como criminal a quien vive allí.",
+      "description": "Chicago mira el mapa y la organización del área; no etiqueta como criminal a quien vive allí.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Shaw y McKay: desorganización social",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El patrón persiste en el área porque cambian redes y control, no porque sus habitantes tengan una esencia criminal.",
+      "description": "El patrón persiste en el área porque cambian redes y control, no porque sus habitantes tengan una esencia criminal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Cohen y la subcultura delictiva",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cohen: problema de estatus + respuesta colectiva + valores propios del grupo.",
+      "description": "Cohen: problema de estatus + respuesta colectiva + valores propios del grupo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Cloward y Ohlin: oportunidades diferenciales",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No basta querer delinquir: también se aprende y se accede de forma desigual a oportunidades ilegítimas.",
+      "description": "No basta querer delinquir: también se aprende y se accede de forma desigual a oportunidades ilegítimas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Hirschi y el vínculo social",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Hirschi: Apego, Compromiso, Participación y Creencia.",
+      "description": "Hirschi: Apego, Compromiso, Participación y Creencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Gottfredson y Hirschi: autocontrol",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Propensión no es acto: bajo autocontrol aumenta atractivo inmediato, pero necesita oportunidad.",
+      "description": "Propensión no es acto: bajo autocontrol aumenta atractivo inmediato, pero necesita oportunidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Becker y el etiquetamiento",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cambia la pregunta: además de qué hizo, quién define, quién aplica y con qué consecuencias.",
+      "description": "Cambia la pregunta: además de qué hizo, quién define, quién aplica y con qué consecuencias.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Lemert: desviación primaria y secundaria",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primaria no significa «primera condena»; secundaria describe reorganización de identidad por la reacción.",
+      "description": "Primaria no significa «primera condena»; secundaria describe reorganización de identidad por la reacción.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Perspectivas de conflicto y críticas",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres momentos: crear la regla, aplicarla y distribuir sus efectos.",
+      "description": "Tres momentos: crear la regla, aplicarla y distribuir sus efectos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Elección racional",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Racional no significa perfecto: basta una decisión orientada por incentivos bajo límites concretos.",
+      "description": "Racional no significa perfecto: basta una decisión orientada por incentivos bajo límites concretos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Actividades rutinarias",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Triángulo de 1979: motivado + objetivo adecuado + guardián ausente.",
+      "description": "Triángulo de 1979: motivado + objetivo adecuado + guardián ausente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Prevención situacional del delito",
       "type": "infografia",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Interviene sobre la escena y la oportunidad, no diagnostica el alma del infractor.",
+      "description": "Interviene sobre la escena y la oportunidad, no diagnostica el alma del infractor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Diseño ambiental y espacio defendible",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un espacio seguro ayuda a ver, reconocer, usar y cuidar; no se reduce a fortificar.",
+      "description": "Un espacio seguro ayuda a ver, reconocer, usar y cuidar; no se reduce a fortificar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Ventanas rotas: tesis y límites",
       "type": "ilustracion_simple",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Estudia señal y control informal, pero no conviertas metáfora en causalidad automática.",
+      "description": "Estudia señal y control informal, pero no conviertas metáfora en causalidad automática.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Curso de vida y puntos de inflexión",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trayectoria tiene continuidad, pero también giros: importa cuándo ocurre el vínculo y qué significado adquiere.",
+      "description": "La trayectoria tiene continuidad, pero también giros: importa cuándo ocurre el vínculo y qué significado adquiere.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Teorías integradoras",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Integrar es conectar mecanismos con orden, no fabricar una enciclopedia sin dirección.",
+      "description": "Integrar es conectar mecanismos con orden, no fabricar una enciclopedia sin dirección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Clasificar la delincuencia sin falso canon",
       "type": "infografia",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de memorizar categorías pregunta: ¿clasificadas según qué?",
+      "description": "Antes de memorizar categorías pregunta: ¿clasificadas según qué?",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Delincuencia ocasional, habitual y profesional",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Frecuencia describe trayectoria; la consecuencia jurídica exige su propia norma y prueba.",
+      "description": "Frecuencia describe trayectoria; la consecuencia jurídica exige su propia norma y prueba.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Delincuencia individual, grupal y organizada",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pluralidad no basta: comprueba número, tiempo, concierto, delito grave y finalidad de beneficio en la fuente aplicable.",
+      "description": "Pluralidad no basta: comprueba número, tiempo, concierto, delito grave y finalidad de beneficio en la fuente aplicable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Delincuencia juvenil y edad",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En España: 14 a 17, régimen de menores; menos de 14, protección, no responsabilidad bajo la LO 5/2000.",
+      "description": "En España: 14 a 17, régimen de menores; menos de 14, protección, no responsabilidad bajo la LO 5/2000.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Delincuencia convencional, económica y de cuello blanco",
       "type": "ilustracion_simple",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sutherland rompió el sesgo: la delincuencia también puede ocultarse tras prestigio y ocupación.",
+      "description": "Sutherland rompió el sesgo: la delincuencia también puede ocultarse tras prestigio y ocupación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Delincuencia violenta, patrimonial y digital",
       "type": "infografia",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clasifica por conducta, bien y medio; un mismo hecho puede ocupar varios ejes.",
+      "description": "Clasifica por conducta, bien y medio; un mismo hecho puede ocupar varios ejes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Criminalidad registrada, aparente y real",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No mezcles unidad de cuenta: hecho, denuncia, detenido, víctima y condena responden preguntas distintas.",
+      "description": "No mezcles unidad de cuenta: hecho, denuncia, detenido, víctima y condena responden preguntas distintas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Tasas, prevalencia, incidencia y concentración",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Prevalencia pregunta cuántos afectados; incidencia cuántos hechos; concentración dónde se acumulan.",
+      "description": "Prevalencia pregunta cuántos afectados; incidencia cuántos hechos; concentración dónde se acumulan.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,1185 +1243,17 @@
       "title": "Lectura responsable de datos delictivos",
       "type": "infografia",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cinco controles antes del titular: definición, cifra, denominador, período y cambio de registro.",
+      "description": "Cinco controles antes del titular: definición, cifra, denominador, período y cambio de registro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T33-V01",
-      "file": "t33-il-01-concepto-operativo-de-seguridad.webp",
-      "title": "Concepto operativo de seguridad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Formula siempre cuatro preguntas: qué proteger, frente a qué, con qué medios y dentro de qué límites jurídicos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V02",
-      "file": "t33-02-seguridad-como-valor-derecho-y-politica-publica.webp",
-      "title": "Seguridad como valor, derecho y política pública",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Distingue el plano: valor social, derecho individual, bien colectivo, competencia pública o política concreta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V03",
-      "file": "t33-03-dimension-objetiva-y-dimension-subjetiva.webp",
-      "title": "Dimensión objetiva y dimensión subjetiva",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Dos cuadros de mando: hechos y daños por un lado; percepción y conducta por otro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V04",
-      "file": "t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp",
-      "title": "Amenaza, vulnerabilidad, exposición y riesgo",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Amenaza puede golpear; vulnerabilidad facilita; exposición coloca; riesgo estima; daño materializa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V05",
-      "file": "t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp",
-      "title": "Prevención, protección, respuesta y recuperación",
-      "type": "infografia",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Usa el ciclo antes-durante-después y añade aprendizaje para no repetir el fallo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V06",
-      "file": "t33-06-prevencion-primaria-secundaria-y-terciaria.webp",
-      "title": "Prevención primaria, secundaria y terciaria",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primaria: universal; secundaria: riesgo focalizado; terciaria: después del hecho para evitar repetición.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V07",
-      "file": "t33-il-07-seguridad-libertad-y-proporcionalidad.webp",
-      "title": "Seguridad, libertad y proporcionalidad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La pregunta correcta no es seguridad o libertad, sino qué intervención legal protege ambas con el menor sacrificio necesario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V08",
-      "file": "t33-08-seguridad-integral-y-resiliencia.webp",
-      "title": "Seguridad integral y resiliencia",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Integral coordina; resiliente resiste y se recupera; ninguna borra competencias ni garantiza riesgo cero.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V09",
-      "file": "t33-09-seguridad-individual.webp",
-      "title": "Seguridad individual",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En el artículo 17, seguridad acompaña a libertad y protege frente a privaciones ilegales; no promete invulnerabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V10",
-      "file": "t33-il-10-seguridad-colectiva.webp",
-      "title": "Seguridad colectiva",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Colectiva significa compartida, no ilimitada: protege convivencia e instituciones sin vaciar derechos individuales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V11",
-      "file": "t33-11-seguridad-ciudadana-en-la-constitucion.webp",
-      "title": "Seguridad ciudadana en la Constitución",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Regla 104: derechos y libertades + seguridad ciudadana; la ley orgánica ordena funciones, principios y estatutos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V12",
-      "file": "t33-12-competencia-sobre-seguridad-publica.webp",
-      "title": "Competencia sobre seguridad pública",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estado: competencia exclusiva; policías autonómicas: excepción constitucional encauzada por estatuto y ley orgánica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V13",
-      "file": "t33-13-sistema-policial-y-cooperacion-territorial.webp",
-      "title": "Sistema policial y cooperación territorial",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Coordinar no es fusionar: cada cuerpo conserva función y territorio mientras comparte información y apoyo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V14",
-      "file": "t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp",
-      "title": "Objeto de la protección de la seguridad ciudadana",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 1 une requisito para los derechos, bien colectivo y tutela mediante personas, bienes y tranquilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V15",
-      "file": "t33-15-fines-y-principios-de-seguridad-ciudadana.webp",
-      "title": "Fines y principios de seguridad ciudadana",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Memoriza fines y principios por separado: qué se protege y cómo puede actuar la autoridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V16",
-      "file": "t33-16-concepto-funcional-de-seguridad-publica.webp",
-      "title": "Concepto funcional de seguridad pública",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Función pública es más amplia que patrulla; colaboración no cambia por sí sola la naturaleza jurídica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V17",
-      "file": "t33-17-modelo-espanol-de-seguridad-privada.webp",
-      "title": "Modelo español de seguridad privada",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cuatro palabras de examen: complementaria, subordinada, colaboradora y controlada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V18",
-      "file": "t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp",
-      "title": "Relación y límites entre seguridad pública y privada",
-      "type": "ilustracion_simple",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Colabora y complementa, pero no sustituye ni recibe por contagio potestades públicas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V19",
-      "file": "t33-19-concepto-de-inseguridad.webp",
-      "title": "Concepto de inseguridad",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Separa exposición, victimización, percepción y respuesta; mezclarlas produce diagnósticos falsos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V20",
-      "file": "t33-20-inseguridad-objetiva.webp",
-      "title": "Inseguridad objetiva",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de comparar pregunta: qué cuenta, quién lo conoce, con qué definición, dónde y durante cuánto tiempo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V21",
-      "file": "t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp",
-      "title": "Inseguridad subjetiva y miedo al delito",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Emoción, juicio de probabilidad y preocupación pública son tres agujas distintas del mismo panel.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V22",
-      "file": "t33-22-miedo-concreto-y-preocupacion-difusa.webp",
-      "title": "Miedo concreto y preocupación difusa",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Concreto pregunta «¿me ocurrirá aquí?»; difuso pregunta «¿es un problema para la sociedad?».",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V23",
-      "file": "t33-23-victimizacion-y-cifra-oculta.webp",
-      "title": "Victimización y cifra oculta",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres círculos solapados: lo ocurrido, lo conocido y lo registrado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V24",
-      "file": "t33-24-factores-que-moldean-la-percepcion.webp",
-      "title": "Factores que moldean la percepción",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El miedo no nace de una sola fuente: combina experiencia, señales, información, vulnerabilidad y control percibido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V25",
-      "file": "t33-il-25-consecuencias-de-la-inseguridad-percibida.webp",
-      "title": "Consecuencias de la inseguridad percibida",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La percepción también cambia la ciudad: decide quién sale, cuándo, por dónde y con qué confianza.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V26",
-      "file": "t33-26-evaluacion-de-politicas-de-seguridad.webp",
-      "title": "Evaluación de políticas de seguridad",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No confundas después con debido a: mide mecanismo, comparación, desplazamiento, derechos y costes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V27",
-      "file": "t33-27-delito-delincuencia-criminalidad-y-criminologia.webp",
-      "title": "Delito, delincuencia, criminalidad y criminología",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Delito: categoría legal; delincuencia: fenómeno; criminalidad: patrón o magnitud; criminología: disciplina.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V28",
-      "file": "t33-28-desviacion-conducta-antisocial-y-delito.webp",
-      "title": "Desviación, conducta antisocial y delito",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres filtros: norma social, daño y ley penal; solo el último convierte la conducta en delito.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V29",
-      "file": "t33-29-teoria-modelo-y-factor-de-riesgo.webp",
-      "title": "Teoría, modelo y factor de riesgo",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Factor eleva probabilidad; mecanismo explica cómo; teoría ordena; evidencia limita.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V30",
-      "file": "t33-30-niveles-de-explicacion-de-la-delincuencia.webp",
-      "title": "Niveles de explicación de la delincuencia",
-      "type": "infografia",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No obligues a competir a escalas distintas: persona, relación, situación y estructura responden preguntas diferentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V31",
-      "file": "t33-31-quetelet-y-la-estadistica-moral.webp",
-      "title": "Quételet y la estadística moral",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Quételet mira series y estaciones: patrón agregado no es destino individual ni ley natural inmutable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V32",
-      "file": "t33-32-escuela-clasica-y-eleccion.webp",
-      "title": "Escuela clásica y elección",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clásica mira elección y acto; positivista buscará causas en autor y entorno.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V33",
-      "file": "t33-33-positivismo-criminologico.webp",
-      "title": "Positivismo criminológico",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Memoriza autor y propuesta, pero añade una etiqueta roja: antecedente histórico, no herramienta predictiva válida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V34",
-      "file": "t33-34-criterios-para-comparar-teorias.webp",
-      "title": "Criterios para comparar teorías",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Ficha de cinco campos: conducta, unidad, nivel, mecanismo y límite.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V35",
-      "file": "t33-il-35-lombroso-y-el-delincuente-nato.webp",
-      "title": "Lombroso y el delincuente nato",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Lombroso es examen histórico: atavismo y delincuente nato, seguido de crítica metodológica imprescindible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V36",
-      "file": "t33-36-enrico-ferri-y-los-factores-del-delito.webp",
-      "title": "Enrico Ferri y los factores del delito",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tríada que ha caído: antropológicos, físicos o telúricos y sociales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V37",
-      "file": "t33-37-garofalo-delito-natural-y-peligrosidad.webp",
-      "title": "Garófalo, delito natural y peligrosidad",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Piedad y probidad identifican a Garófalo; temibilidad es antecedente, no atajo contra garantías.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V38",
-      "file": "t33-38-kretschmer-y-la-biotipologia.webp",
-      "title": "Kretschmer y la biotipología",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Kretschmer: leptosomático, atlético, pícnico y displásico; no lo mezcles con Sheldon.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V39",
-      "file": "t33-39-sheldon-y-los-somatotipos.webp",
-      "title": "Sheldon y los somatotipos",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sheldon: endo-meso-ecto; Kretschmer: lepto-atlético-pícnico.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V40",
-      "file": "t33-il-40-genetica-neurobiologia-y-conducta.webp",
-      "title": "Genética, neurobiología y conducta",
-      "type": "ilustracion_simple",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Biología influye; no sentencia. Pasa siempre por desarrollo, ambiente, conducta concreta y garantías.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V41",
-      "file": "t33-41-eysenck-personalidad-y-condicionamiento.webp",
-      "title": "Eysenck: personalidad y condicionamiento",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Eysenck une rasgos y condicionamiento; habla de probabilidad, no de culpabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V42",
-      "file": "t33-42-bandura-y-aprendizaje-observacional.webp",
-      "title": "Bandura y aprendizaje observacional",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Bandura separa aprender de ejecutar: observar abre el repertorio; consecuencias y control deciden la conducta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V43",
-      "file": "t33-43-sutherland-y-asociacion-diferencial.webp",
-      "title": "Sutherland y asociación diferencial",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sutherland responde cómo se aprende: interacción, técnicas y balance de definiciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V44",
-      "file": "t33-44-akers-y-aprendizaje-social-criminologico.webp",
-      "title": "Akers y aprendizaje social criminológico",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Regla AKER: Asociación, definiciones, refuerzo e imitación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V45",
-      "file": "t33-45-durkheim-delito-y-anomia.webp",
-      "title": "Durkheim: delito y anomia",
-      "type": "infografia",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Normal significa general como fenómeno social; anomia significa regulación debilitada, no ausencia física de normas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V46",
-      "file": "t33-46-merton-estructura-social-y-anomia.webp",
-      "title": "Merton: estructura social y anomia",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Merton: metas muy premiadas + acceso desigual a medios legítimos = presión estructural.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V47",
-      "file": "t33-47-modos-de-adaptacion-de-merton.webp",
-      "title": "Modos de adaptación de Merton",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tabla dos columnas: metas y medios; los signos de aceptación, rechazo o sustitución resuelven la pregunta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V48",
-      "file": "t33-48-agnew-y-la-tension-general.webp",
-      "title": "Agnew y la tensión general",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres fuentes: no lograr, perder lo positivo, sufrir lo negativo; después pregunta cómo se afronta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V49",
-      "file": "t33-49-escuela-de-chicago-y-ecologia-urbana.webp",
-      "title": "Escuela de Chicago y ecología urbana",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Chicago mira el mapa y la organización del área; no etiqueta como criminal a quien vive allí.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V50",
-      "file": "t33-il-50-shaw-y-mckay-desorganizacion-social.webp",
-      "title": "Shaw y McKay: desorganización social",
-      "type": "ilustracion_simple",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El patrón persiste en el área porque cambian redes y control, no porque sus habitantes tengan una esencia criminal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V51",
-      "file": "t33-51-cohen-y-la-subcultura-delictiva.webp",
-      "title": "Cohen y la subcultura delictiva",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cohen: problema de estatus + respuesta colectiva + valores propios del grupo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V52",
-      "file": "t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp",
-      "title": "Cloward y Ohlin: oportunidades diferenciales",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No basta querer delinquir: también se aprende y se accede de forma desigual a oportunidades ilegítimas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V53",
-      "file": "t33-53-hirschi-y-el-vinculo-social.webp",
-      "title": "Hirschi y el vínculo social",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Hirschi: Apego, Compromiso, Participación y Creencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V54",
-      "file": "t33-54-gottfredson-y-hirschi-autocontrol.webp",
-      "title": "Gottfredson y Hirschi: autocontrol",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Propensión no es acto: bajo autocontrol aumenta atractivo inmediato, pero necesita oportunidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V55",
-      "file": "t33-il-55-becker-y-el-etiquetamiento.webp",
-      "title": "Becker y el etiquetamiento",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cambia la pregunta: además de qué hizo, quién define, quién aplica y con qué consecuencias.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V56",
-      "file": "t33-56-lemert-desviacion-primaria-y-secundaria.webp",
-      "title": "Lemert: desviación primaria y secundaria",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Primaria no significa «primera condena»; secundaria describe reorganización de identidad por la reacción.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V57",
-      "file": "t33-57-perspectivas-de-conflicto-y-criticas.webp",
-      "title": "Perspectivas de conflicto y críticas",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tres momentos: crear la regla, aplicarla y distribuir sus efectos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V58",
-      "file": "t33-58-eleccion-racional.webp",
-      "title": "Elección racional",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Racional no significa perfecto: basta una decisión orientada por incentivos bajo límites concretos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V59",
-      "file": "t33-59-actividades-rutinarias.webp",
-      "title": "Actividades rutinarias",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Triángulo de 1979: motivado + objetivo adecuado + guardián ausente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V60",
-      "file": "t33-60-prevencion-situacional-del-delito.webp",
-      "title": "Prevención situacional del delito",
-      "type": "infografia",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Interviene sobre la escena y la oportunidad, no diagnostica el alma del infractor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V61",
-      "file": "t33-61-diseno-ambiental-y-espacio-defendible.webp",
-      "title": "Diseño ambiental y espacio defendible",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un espacio seguro ayuda a ver, reconocer, usar y cuidar; no se reduce a fortificar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V62",
-      "file": "t33-il-62-ventanas-rotas-tesis-y-limites.webp",
-      "title": "Ventanas rotas: tesis y límites",
-      "type": "ilustracion_simple",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Estudia señal y control informal, pero no conviertas metáfora en causalidad automática.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V63",
-      "file": "t33-63-curso-de-vida-y-puntos-de-inflexion.webp",
-      "title": "Curso de vida y puntos de inflexión",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La trayectoria tiene continuidad, pero también giros: importa cuándo ocurre el vínculo y qué significado adquiere.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V64",
-      "file": "t33-64-teorias-integradoras.webp",
-      "title": "Teorías integradoras",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Integrar es conectar mecanismos con orden, no fabricar una enciclopedia sin dirección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V65",
-      "file": "t33-65-clasificar-la-delincuencia-sin-falso-canon.webp",
-      "title": "Clasificar la delincuencia sin falso canon",
-      "type": "infografia",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de memorizar categorías pregunta: ¿clasificadas según qué?",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V66",
-      "file": "t33-66-delincuencia-ocasional-habitual-y-profesional.webp",
-      "title": "Delincuencia ocasional, habitual y profesional",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Frecuencia describe trayectoria; la consecuencia jurídica exige su propia norma y prueba.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V67",
-      "file": "t33-67-delincuencia-individual-grupal-y-organizada.webp",
-      "title": "Delincuencia individual, grupal y organizada",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pluralidad no basta: comprueba número, tiempo, concierto, delito grave y finalidad de beneficio en la fuente aplicable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V68",
-      "file": "t33-68-delincuencia-juvenil-y-edad.webp",
-      "title": "Delincuencia juvenil y edad",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En España: 14 a 17, régimen de menores; menos de 14, protección, no responsabilidad bajo la LO 5/2000.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V69",
-      "file": "t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp",
-      "title": "Delincuencia convencional, económica y de cuello blanco",
-      "type": "ilustracion_simple",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Sutherland rompió el sesgo: la delincuencia también puede ocultarse tras prestigio y ocupación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V70",
-      "file": "t33-70-delincuencia-violenta-patrimonial-y-digital.webp",
-      "title": "Delincuencia violenta, patrimonial y digital",
-      "type": "infografia",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Clasifica por conducta, bien y medio; un mismo hecho puede ocupar varios ejes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V71",
-      "file": "t33-71-criminalidad-registrada-aparente-y-real.webp",
-      "title": "Criminalidad registrada, aparente y real",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: No mezcles unidad de cuenta: hecho, denuncia, detenido, víctima y condena responden preguntas distintas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V72",
-      "file": "t33-72-tasas-prevalencia-incidencia-y-concentracion.webp",
-      "title": "Tasas, prevalencia, incidencia y concentración",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Prevalencia pregunta cuántos afectados; incidencia cuántos hechos; concentración dónde se acumulan.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T33-V73",
-      "file": "t33-73-lectura-responsable-de-datos-delictivos.webp",
-      "title": "Lectura responsable de datos delictivos",
-      "type": "infografia",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cinco controles antes del titular: definición, cifra, denominador, período y cambio de registro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

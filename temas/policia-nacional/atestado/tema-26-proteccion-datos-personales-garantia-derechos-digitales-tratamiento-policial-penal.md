@@ -25,7 +25,11 @@ El artículo 18.4 de la Constitución ordena limitar por ley el uso de la inform
 - La protección de datos no prohíbe tratar información personal: exige finalidad legítima, base jurídica, necesidad, proporcionalidad y garantías. <!-- FACT:PN-T26-F004 -->
  <!-- FACT:PN-T26-F005 -->
 
-<!-- VISUAL PENDIENTE: t26-01-fundamento-constitucional-y-europeo.webp -->
+<!-- VISUAL:t26-01-fundamento-constitucional-y-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-01-fundamento-constitucional-y-europeo.webp" alt="Fundamento constitucional y europeo" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamento constitucional y europeo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -56,7 +60,11 @@ El Reglamento General de Protección de Datos y la Ley Orgánica 3/2018 forman e
 - La derogada Ley Orgánica 15/1999 puede aparecer en preguntas históricas, pero no debe utilizarse como respuesta vigente. <!-- FACT:PN-T26-F009 -->
  <!-- FACT:PN-T26-F010 -->
 
-<!-- VISUAL PENDIENTE: t26-02-mapa-normativo-y-frontera-entre-regimenes.webp -->
+<!-- VISUAL:t26-02-mapa-normativo-y-frontera-entre-regimenes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-02-mapa-normativo-y-frontera-entre-regimenes.webp" alt="Mapa normativo y frontera entre regímenes" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa normativo y frontera entre regímenes.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -87,7 +95,11 @@ Dato personal es toda información sobre una persona física identificada o iden
 - Seudonimizar reduce la vinculación directa con una persona mediante información adicional separada, pero los datos seudonimizados siguen siendo personales. <!-- FACT:PN-T26-F014 -->
  <!-- FACT:PN-T26-F015 -->
 
-<!-- VISUAL PENDIENTE: t26-03-conceptos-esenciales-de-proteccion-de-dato.webp -->
+<!-- VISUAL:t26-03-conceptos-esenciales-de-proteccion-de-dato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-03-conceptos-esenciales-de-proteccion-de-dato.webp" alt="Conceptos esenciales de protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Conceptos esenciales de protección de datos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -118,7 +130,11 @@ Los datos deben tratarse de manera lícita, leal y transparente en relación con
 - Integridad, confidencialidad y responsabilidad proactiva exigen seguridad adecuada y capacidad de demostrar el cumplimiento. <!-- FACT:PN-T26-F019 -->
  <!-- FACT:PN-T26-F020 -->
 
-<!-- VISUAL PENDIENTE: t26-04-principios-del-tratamiento.webp -->
+<!-- VISUAL:t26-04-principios-del-tratamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-04-principios-del-tratamiento.webp" alt="Principios del tratamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Principios del tratamiento.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -149,7 +165,11 @@ El consentimiento es una base de licitud, pero no es la única ni siempre la ade
 - Las autoridades públicas no pueden invocar interés legítimo para el tratamiento realizado en el ejercicio de sus funciones. <!-- FACT:PN-T26-F024 -->
  <!-- FACT:PN-T26-F025 -->
 
-<!-- VISUAL PENDIENTE: t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp -->
+<!-- VISUAL:t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp" alt="Licitud y bases jurídicas del régimen general" width="820">
+</p>
+<p align="center"><em>Infografía: Licitud y bases jurídicas del régimen general.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -180,7 +200,11 @@ El consentimiento debe proceder de una manifestación de voluntad libre, especí
 - La regla de los catorce años no desplaza una ley que exija asistencia de patria potestad o tutela para el acto o negocio en cuyo contexto se recaba el consentimiento. <!-- FACT:PN-T26-F029 -->
  <!-- FACT:PN-T26-F030 -->
 
-<!-- VISUAL PENDIENTE: t26-06-consentimiento-y-menores-de-edad.webp -->
+<!-- VISUAL:t26-06-consentimiento-y-menores-de-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-06-consentimiento-y-menores-de-edad.webp" alt="Consentimiento y menores de edad" width="820">
+</p>
+<p align="center"><em>Infografía: Consentimiento y menores de edad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -211,7 +235,11 @@ Familiares o personas vinculadas de hecho y herederos pueden solicitar acceso, r
 - El deber de confidencialidad de responsables, encargados y quienes intervengan en el tratamiento complementa los deberes de secreto y subsiste al terminar la relación. <!-- FACT:PN-T26-F034 -->
  <!-- FACT:PN-T26-F035 -->
 
-<!-- VISUAL PENDIENTE: t26-07-personas-fallecidas-y-deber-de-confidencia.webp -->
+<!-- VISUAL:t26-07-personas-fallecidas-y-deber-de-confidencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-07-personas-fallecidas-y-deber-de-confidencia.webp" alt="Personas fallecidas y deber de confidencialidad" width="820">
+</p>
+<p align="center"><em>Infografía: Personas fallecidas y deber de confidencialidad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -242,7 +270,11 @@ Son categorías especiales, entre otras, los datos sobre origen étnico o racial
 - Fuera de los supuestos legales, abogados y procuradores pueden tratar datos penales facilitados por sus clientes para ejercer sus funciones. <!-- FACT:PN-T26-F039 -->
  <!-- FACT:PN-T26-F040 -->
 
-<!-- VISUAL PENDIENTE: t26-08-categorias-especiales-y-datos-penales.webp -->
+<!-- VISUAL:t26-08-categorias-especiales-y-datos-penales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-08-categorias-especiales-y-datos-penales.webp" alt="Categorías especiales y datos penales" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías especiales y datos penales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -273,7 +305,11 @@ Cuando los datos se obtienen del afectado puede darse primero información bási
 - La transparencia exige lenguaje conciso, inteligible, accesible, claro y sencillo; una cláusula oscura no cumple por ser extensa. <!-- FACT:PN-T26-F044 -->
  <!-- FACT:PN-T26-F045 -->
 
-<!-- VISUAL PENDIENTE: t26-09-transparencia-e-informacion-por-capas.webp -->
+<!-- VISUAL:t26-09-transparencia-e-informacion-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-09-transparencia-e-informacion-por-capas.webp" alt="Transparencia e información por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Transparencia e información por capas.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -304,7 +340,11 @@ El derecho de acceso permite conocer si se tratan datos propios y obtener los da
 - Oposición y garantías frente a decisiones automatizadas dependen de la base y finalidad del tratamiento y admiten las excepciones previstas por el RGPD. <!-- FACT:PN-T26-F049 -->
  <!-- FACT:PN-T26-F050 -->
 
-<!-- VISUAL PENDIENTE: t26-10-derechos-del-rgpd-mapa-general.webp -->
+<!-- VISUAL:t26-10-derechos-del-rgpd-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-10-derechos-del-rgpd-mapa-general.webp" alt="Derechos del RGPD: mapa general" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos del RGPD: mapa general.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -335,7 +375,11 @@ Los derechos de los artículos 15 a 22 del RGPD pueden ejercerse directamente o 
 - La atención de derechos es gratuita, salvo solicitudes manifiestamente infundadas o excesivas en los casos y con las condiciones del RGPD. <!-- FACT:PN-T26-F054 -->
  <!-- FACT:PN-T26-F055 -->
 
-<!-- VISUAL PENDIENTE: t26-11-ejercicio-de-derechos-y-representacion.webp -->
+<!-- VISUAL:t26-11-ejercicio-de-derechos-y-representacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-11-ejercicio-de-derechos-y-representacion.webp" alt="Ejercicio de derechos y representación" width="820">
+</p>
+<p align="center"><em>Infografía: Ejercicio de derechos y representación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -366,7 +410,11 @@ El responsable que trate gran cantidad de datos puede pedir al afectado que conc
 - Si el afectado elige un medio distinto que ocasiona coste desproporcionado, asume el exceso de coste o recibe el acceso por el medio ofrecido. <!-- FACT:PN-T26-F059 -->
  <!-- FACT:PN-T26-F060 -->
 
-<!-- VISUAL PENDIENTE: t26-12-derecho-de-acceso.webp -->
+<!-- VISUAL:t26-12-derecho-de-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-12-derecho-de-acceso.webp" alt="Derecho de acceso" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho de acceso.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -397,7 +445,11 @@ La solicitud de rectificación debe identificar los datos, la corrección y, cua
 - El bloqueo identifica y reserva los datos para responsabilidades, impide su tratamiento ordinario y termina con su destrucción al prescribir las responsabilidades. <!-- FACT:PN-T26-F064 -->
  <!-- FACT:PN-T26-F065 -->
 
-<!-- VISUAL PENDIENTE: t26-13-rectificacion-supresion-y-bloqueo.webp -->
+<!-- VISUAL:t26-13-rectificacion-supresion-y-bloqueo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-13-rectificacion-supresion-y-bloqueo.webp" alt="Rectificación, supresión y bloqueo" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación, supresión y bloqueo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -428,7 +480,11 @@ La portabilidad se ejerce conforme al artículo 20 del RGPD y no convierte en po
 - Cuando la decisión automatizada esté permitida deben existir garantías, incluida al menos intervención humana, expresión del punto de vista e impugnación en los términos aplicables. <!-- FACT:PN-T26-F069 -->
  <!-- FACT:PN-T26-F070 -->
 
-<!-- VISUAL PENDIENTE: t26-14-portabilidad-oposicion-y-decisiones-automa.webp -->
+<!-- VISUAL:t26-14-portabilidad-oposicion-y-decisiones-automa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-14-portabilidad-oposicion-y-decisiones-automa.webp" alt="Portabilidad, oposición y decisiones automatizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Portabilidad, oposición y decisiones automatizadas.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -459,7 +515,11 @@ Se presume amparado en interés legítimo el tratamiento de datos de contacto pr
 - Los datos de incumplimiento solo se mantienen mientras persista este y, como máximo, cinco años desde el vencimiento de la obligación. <!-- FACT:PN-T26-F074 -->
  <!-- FACT:PN-T26-F075 -->
 
-<!-- VISUAL PENDIENTE: t26-15-datos-de-contacto-y-sistemas-de-informacio.webp -->
+<!-- VISUAL:t26-15-datos-de-contacto-y-sistemas-de-informacio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-15-datos-de-contacto-y-sistemas-de-informacio.webp" alt="Datos de contacto y sistemas de información crediticia" width="820">
+</p>
+<p align="center"><em>Infografía: Datos de contacto y sistemas de información crediticia.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -490,7 +550,11 @@ Personas físicas o jurídicas pueden tratar imágenes para preservar seguridad 
 - La excepción doméstica cubre a la persona física que capta solo el interior de su domicilio, pero no a una empresa de seguridad con acceso a las imágenes. <!-- FACT:PN-T26-F079 -->
  <!-- FACT:PN-T26-F080 -->
 
-<!-- VISUAL PENDIENTE: t26-16-videovigilancia-general-y-exclusion-domest.webp -->
+<!-- VISUAL:t26-16-videovigilancia-general-y-exclusion-domest.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-16-videovigilancia-general-y-exclusion-domest.webp" alt="Videovigilancia general y exclusión doméstica" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia general y exclusión doméstica.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -521,7 +585,11 @@ Es lícito tratar datos para evitar comunicaciones comerciales a quienes hayan m
 - El envío de propaganda electoral por medios electrónicos debe permitir de modo sencillo y gratuito ejercer el derecho de oposición. <!-- FACT:PN-T26-F084 -->
  <!-- FACT:PN-T26-F085 -->
 
-<!-- VISUAL PENDIENTE: t26-17-exclusion-publicitaria-y-propaganda-electo.webp -->
+<!-- VISUAL:t26-17-exclusion-publicitaria-y-propaganda-electo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-17-exclusion-publicitaria-y-propaganda-electo.webp" alt="Exclusión publicitaria y propaganda electoral" width="820">
+</p>
+<p align="center"><em>Infografía: Exclusión publicitaria y propaganda electoral.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -552,7 +620,11 @@ El tratamiento por Administraciones con fines de archivo en interés público se
 - La publicidad de sanciones administrativas no se deduce automáticamente de que los datos obren en un expediente público. <!-- FACT:PN-T26-F089 -->
  <!-- FACT:PN-T26-F090 -->
 
-<!-- VISUAL PENDIENTE: t26-18-tratamientos-administrativos-y-de-archivo.webp -->
+<!-- VISUAL:t26-18-tratamientos-administrativos-y-de-archivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-18-tratamientos-administrativos-y-de-archivo.webp" alt="Tratamientos administrativos y de archivo" width="820">
+</p>
+<p align="center"><em>Infografía: Tratamientos administrativos y de archivo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -583,7 +655,11 @@ El responsable debe aplicar medidas apropiadas según naturaleza, contexto, fine
 - La responsabilidad proactiva exige demostrar cumplimiento; disponer de formularios no basta si la práctica contradice las garantías. <!-- FACT:PN-T26-F094 -->
  <!-- FACT:PN-T26-F095 -->
 
-<!-- VISUAL PENDIENTE: t26-19-responsabilidad-proactiva-y-proteccion-des.webp -->
+<!-- VISUAL:t26-19-responsabilidad-proactiva-y-proteccion-des.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-19-responsabilidad-proactiva-y-proteccion-des.webp" alt="Responsabilidad proactiva y protección desde el diseño" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad proactiva y protección desde el diseño.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -614,7 +690,11 @@ El acceso del encargado a datos necesarios para prestar un servicio no es comuni
 - Cuando la brecha entrañe alto riesgo para las personas, también se comunica al afectado sin dilación indebida salvo excepción legal. <!-- FACT:PN-T26-F099 -->
  <!-- FACT:PN-T26-F100 -->
 
-<!-- VISUAL PENDIENTE: t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp -->
+<!-- VISUAL:t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp" alt="Encargado del tratamiento y brechas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Encargado del tratamiento y brechas de seguridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -645,7 +725,11 @@ Debe designarse delegado en los supuestos del artículo 37.1 del RGPD y en las e
 - Si el afectado reclama primero al delegado, este comunica la decisión en un máximo de dos meses; si la autoridad remite la reclamación, responde en un mes. <!-- FACT:PN-T26-F104 -->
  <!-- FACT:PN-T26-F105 -->
 
-<!-- VISUAL PENDIENTE: t26-21-delegado-de-proteccion-de-datos.webp -->
+<!-- VISUAL:t26-21-delegado-de-proteccion-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-21-delegado-de-proteccion-de-datos.webp" alt="Delegado de protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Delegado de protección de datos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -676,7 +760,11 @@ Los códigos de conducta concretan la aplicación de la normativa para sectores 
 - Las excepciones del artículo 49 del RGPD son vías tasadas y no convierten transferencias repetitivas en libres de garantías. <!-- FACT:PN-T26-F109 -->
  <!-- FACT:PN-T26-F110 -->
 
-<!-- VISUAL PENDIENTE: t26-22-codigos-certificacion-y-transferencias-int.webp -->
+<!-- VISUAL:t26-22-codigos-certificacion-y-transferencias-int.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-22-codigos-certificacion-y-transferencias-int.webp" alt="Códigos, certificación y transferencias internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Códigos, certificación y transferencias internacionales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -707,7 +795,11 @@ La Agencia Española de Protección de Datos es autoridad administrativa indepen
 - Sus funciones de investigación, corrección, autorización y asesoramiento no la convierten en responsable de los tratamientos que supervisa. <!-- FACT:PN-T26-F114 -->
  <!-- FACT:PN-T26-F115 -->
 
-<!-- VISUAL PENDIENTE: t26-23-naturaleza-y-funciones-de-la-aepd.webp -->
+<!-- VISUAL:t26-23-naturaleza-y-funciones-de-la-aepd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-23-naturaleza-y-funciones-de-la-aepd.webp" alt="Naturaleza y funciones de la AEPD" width="820">
+</p>
+<p align="center"><em>Infografía: Naturaleza y funciones de la AEPD.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -738,7 +830,11 @@ La Presidencia dirige la AEPD, la representa y dicta sus resoluciones, circulare
 - El Consejo Consultivo asesora a la Presidencia y reúne representación institucional, profesional, académica y social prevista por la ley. <!-- FACT:PN-T26-F119 -->
  <!-- FACT:PN-T26-F120 -->
 
-<!-- VISUAL PENDIENTE: t26-24-presidencia-mandato-y-consejo-consultivo.webp -->
+<!-- VISUAL:t26-24-presidencia-mandato-y-consejo-consultivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-24-presidencia-mandato-y-consejo-consultivo.webp" alt="Presidencia, mandato y Consejo Consultivo" width="820">
+</p>
+<p align="center"><em>Infografía: Presidencia, mandato y Consejo Consultivo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -769,7 +865,11 @@ Las autoridades autonómicas ejercen funciones y potestades del RGPD respecto de
 - La competencia autonómica no se presume para cualquier entidad ubicada en la comunidad: depende del responsable y del tratamiento previstos por el artículo 57. <!-- FACT:PN-T26-F124 -->
  <!-- FACT:PN-T26-F125 -->
 
-<!-- VISUAL PENDIENTE: t26-25-autoridades-autonomicas-y-cooperacion.webp -->
+<!-- VISUAL:t26-25-autoridades-autonomicas-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-25-autoridades-autonomicas-y-cooperacion.webp" alt="Autoridades autonómicas y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridades autonómicas y cooperación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -800,7 +900,11 @@ El Título VIII regula reclamaciones por falta de atención de derechos y proced
 - La AEPD puede adoptar medidas provisionales necesarias y proporcionadas, como bloqueo cautelar o atención inmediata de un derecho. <!-- FACT:PN-T26-F129 -->
  <!-- FACT:PN-T26-F130 -->
 
-<!-- VISUAL PENDIENTE: t26-26-reclamaciones-e-investigacion.webp -->
+<!-- VISUAL:t26-26-reclamaciones-e-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-26-reclamaciones-e-investigacion.webp" alt="Reclamaciones e investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Reclamaciones e investigación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -831,7 +935,11 @@ Están sujetos al régimen sancionador responsables, encargados, representantes 
 - La clasificación española no sustituye los límites de multa y criterios de graduación del artículo 83 del RGPD. <!-- FACT:PN-T26-F134 -->
  <!-- FACT:PN-T26-F135 -->
 
-<!-- VISUAL PENDIENTE: t26-27-infracciones-y-sujetos-responsables.webp -->
+<!-- VISUAL:t26-27-infracciones-y-sujetos-responsables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-27-infracciones-y-sujetos-responsables.webp" alt="Infracciones y sujetos responsables" width="820">
+</p>
+<p align="center"><em>Infografía: Infracciones y sujetos responsables.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -862,7 +970,11 @@ Las multas administrativas del RGPD pueden alcanzar veinte millones de euros o e
 - La iniciación conocida del procedimiento interrumpe la prescripción, que reinicia si el expediente queda paralizado más de seis meses por causa no imputable al infractor. <!-- FACT:PN-T26-F139 -->
  <!-- FACT:PN-T26-F140 -->
 
-<!-- VISUAL PENDIENTE: t26-28-sanciones-sector-publico-y-prescripcion.webp -->
+<!-- VISUAL:t26-28-sanciones-sector-publico-y-prescripcion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-28-sanciones-sector-publico-y-prescripcion.webp" alt="Sanciones, sector público y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: Sanciones, sector público y prescripción.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -893,7 +1005,11 @@ Los derechos constitucionales y convencionales son plenamente aplicables en Inte
 - La seguridad digital protege las comunicaciones transmitidas y recibidas por Internet y obliga a los proveedores a informar de derechos. <!-- FACT:PN-T26-F144 -->
  <!-- FACT:PN-T26-F145 -->
 
-<!-- VISUAL PENDIENTE: t26-29-derechos-digitales-neutralidad-acceso-y-se.webp -->
+<!-- VISUAL:t26-29-derechos-digitales-neutralidad-acceso-y-se.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-29-derechos-digitales-neutralidad-acceso-y-se.webp" alt="Derechos digitales, neutralidad, acceso y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos digitales, neutralidad, acceso y seguridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -924,7 +1040,11 @@ El sistema educativo debe enseñar consumo responsable y uso crítico, seguro y 
 - Centros y entidades con actividades de menores deben proteger interés superior y derechos fundamentales al publicar o difundir sus datos en Internet. <!-- FACT:PN-T26-F149 -->
  <!-- FACT:PN-T26-F150 -->
 
-<!-- VISUAL PENDIENTE: t26-30-educacion-digital-y-proteccion-de-menores.webp -->
+<!-- VISUAL:t26-30-educacion-digital-y-proteccion-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-30-educacion-digital-y-proteccion-de-menores.webp" alt="Educación digital y protección de menores" width="820">
+</p>
+<p align="center"><em>Infografía: Educación digital y protección de menores.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -955,7 +1075,11 @@ Todos tienen derecho a la libertad de expresión en Internet, sin perjuicio de h
 - Rectificación corrige una información controvertida; actualización añade el cambio posterior sin borrar necesariamente la noticia original. <!-- FACT:PN-T26-F154 -->
  <!-- FACT:PN-T26-F155 -->
 
-<!-- VISUAL PENDIENTE: t26-31-rectificacion-y-actualizacion-en-internet.webp -->
+<!-- VISUAL:t26-31-rectificacion-y-actualizacion-en-internet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-31-rectificacion-y-actualizacion-en-internet.webp" alt="Rectificación y actualización en Internet" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación y actualización en Internet.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -986,7 +1110,11 @@ Trabajadores y empleados públicos tienen derecho a proteger su intimidad al usa
 - El empleador debe elaborar, previa audiencia representativa, una política interna de desconexión, formación y prevención de fatiga informática. <!-- FACT:PN-T26-F159 -->
  <!-- FACT:PN-T26-F160 -->
 
-<!-- VISUAL PENDIENTE: t26-32-intimidad-laboral-y-desconexion-digital.webp -->
+<!-- VISUAL:t26-32-intimidad-laboral-y-desconexion-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-32-intimidad-laboral-y-desconexion-digital.webp" alt="Intimidad laboral y desconexión digital" width="820">
+</p>
+<p align="center"><em>Infografía: Intimidad laboral y desconexión digital.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1017,7 +1145,11 @@ El empleador puede tratar imágenes para control laboral dentro de las funciones
 - Los convenios colectivos pueden establecer garantías adicionales de derechos digitales, pero no reducir el mínimo legal. <!-- FACT:PN-T26-F164 -->
  <!-- FACT:PN-T26-F165 -->
 
-<!-- VISUAL PENDIENTE: t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp -->
+<!-- VISUAL:t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp" alt="Videovigilancia, sonido y geolocalización laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia, sonido y geolocalización laboral.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1048,7 +1180,11 @@ El derecho al olvido en buscadores permite solicitar que una búsqueda por nombr
 - El testamento digital no autoriza a ignorar la voluntad expresa del fallecido ni sustituye las reglas sucesorias sobre contenidos patrimoniales. <!-- FACT:PN-T26-F169 -->
  <!-- FACT:PN-T26-F170 -->
 
-<!-- VISUAL PENDIENTE: t26-34-derecho-al-olvido-y-testamento-digital.webp -->
+<!-- VISUAL:t26-34-derecho-al-olvido-y-testamento-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-34-derecho-al-olvido-y-testamento-digital.webp" alt="Derecho al olvido y testamento digital" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho al olvido y testamento digital.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1079,7 +1215,11 @@ La Ley Orgánica 7/2021 protege a las personas físicas en tratamientos realizad
 - Los tratamientos excluidos por tener finalidad distinta pasan al RGPD y a la Ley Orgánica 3/2018 cuando están dentro del Derecho de la Unión. <!-- FACT:PN-T26-F174 -->
  <!-- FACT:PN-T26-F175 -->
 
-<!-- VISUAL PENDIENTE: t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp -->
+<!-- VISUAL:t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp" alt="Objeto y ámbito de la Ley Orgánica 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito de la Ley Orgánica 7/2021.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1110,7 +1250,11 @@ Familiares, personas vinculadas de hecho y herederos pueden solicitar acceso, re
 - Las autoridades judiciales civiles no adquieren por esa condición la consideración de autoridad competente del artículo 4. <!-- FACT:PN-T26-F179 -->
  <!-- FACT:PN-T26-F180 -->
 
-<!-- VISUAL PENDIENTE: t26-36-fallecidos-y-autoridades-competentes.webp -->
+<!-- VISUAL:t26-36-fallecidos-y-autoridades-competentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-36-fallecidos-y-autoridades-competentes.webp" alt="Fallecidos y autoridades competentes" width="820">
+</p>
+<p align="center"><em>Infografía: Fallecidos y autoridades competentes.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1141,7 +1285,11 @@ Dato personal y tratamiento conservan en la Ley Orgánica 7/2021 un sentido ampl
 - Violación de seguridad incluye destrucción, pérdida, alteración, comunicación o acceso no autorizados, accidentales o ilícitos. <!-- FACT:PN-T26-F184 -->
  <!-- FACT:PN-T26-F185 -->
 
-<!-- VISUAL PENDIENTE: t26-37-definiciones-del-regimen-policial-penal.webp -->
+<!-- VISUAL:t26-37-definiciones-del-regimen-policial-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-37-definiciones-del-regimen-policial-penal.webp" alt="Definiciones del régimen policial-penal" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones del régimen policial-penal.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1172,7 +1320,11 @@ Los datos se tratan lícita y lealmente, se recogen con fines determinados, expl
 - El responsable debe garantizar y poder demostrar el cumplimiento de los principios. <!-- FACT:PN-T26-F189 -->
  <!-- FACT:PN-T26-F190 -->
 
-<!-- VISUAL PENDIENTE: t26-38-principios-y-finalidades-compatibles.webp -->
+<!-- VISUAL:t26-38-principios-y-finalidades-compatibles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-38-principios-y-finalidades-compatibles.webp" alt="Principios y finalidades compatibles" width="820">
+</p>
+<p align="center"><em>Infografía: Principios y finalidades compatibles.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1203,7 +1355,11 @@ Administraciones y personas físicas o jurídicas deben proporcionar a autoridad
 - La reserva alcanza también a sujetos con deber específico de colaboración, que no deben alertar al interesado de la transmisión. <!-- FACT:PN-T26-F194 -->
  <!-- FACT:PN-T26-F195 -->
 
-<!-- VISUAL PENDIENTE: t26-39-deber-de-colaboracion-y-reserva.webp -->
+<!-- VISUAL:t26-39-deber-de-colaboracion-y-reserva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-39-deber-de-colaboracion-y-reserva.webp" alt="Deber de colaboración y reserva" width="820">
+</p>
+<p align="center"><em>Infografía: Deber de colaboración y reserva.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1234,7 +1390,11 @@ Los datos se conservan solo durante el tiempo necesario para cumplir los fines d
 - Investigaciones abiertas, delitos no prescritos, ejecución pendiente, reincidencia, protección de víctimas u otras circunstancias motivadas pueden justificar superar el plazo general. <!-- FACT:PN-T26-F199 -->
  <!-- FACT:PN-T26-F200 -->
 
-<!-- VISUAL PENDIENTE: t26-40-conservacion-y-revision-tres-y-veinte-anos.webp -->
+<!-- VISUAL:t26-40-conservacion-y-revision-tres-y-veinte-anos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-40-conservacion-y-revision-tres-y-veinte-anos.webp" alt="Conservación y revisión: tres y veinte años" width="820">
+</p>
+<p align="center"><em>Infografía: Conservación y revisión: tres y veinte años.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1265,7 +1425,11 @@ En la medida de lo posible deben distinguirse sospechosos o potenciales autores,
 - Si se detecta transmisión incorrecta o ilegal se avisa sin dilación al destinatario y se rectifica, suprime o limita el tratamiento. <!-- FACT:PN-T26-F204 -->
  <!-- FACT:PN-T26-F205 -->
 
-<!-- VISUAL PENDIENTE: t26-41-categorias-de-interesados-y-calidad.webp -->
+<!-- VISUAL:t26-41-categorias-de-interesados-y-calidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-41-categorias-de-interesados-y-calidad.webp" alt="Categorías de interesados y calidad" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías de interesados y calidad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1296,7 +1460,11 @@ El tratamiento solo es lícito si es necesario para los fines del artículo 1 y 
 - Las autoridades competentes pueden tratar biometría dirigida a identificar unívocamente para los fines legalmente previstos. <!-- FACT:PN-T26-F209 -->
  <!-- FACT:PN-T26-F210 -->
 
-<!-- VISUAL PENDIENTE: t26-42-licitud-y-categorias-especiales.webp -->
+<!-- VISUAL:t26-42-licitud-y-categorias-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-42-licitud-y-categorias-especiales.webp" alt="Licitud y categorías especiales" width="820">
+</p>
+<p align="center"><em>Infografía: Licitud y categorías especiales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1327,7 +1495,11 @@ Se prohíben las decisiones basadas únicamente en tratamiento automatizado que 
 - La utilidad operativa de un algoritmo no sustituye la habilitación, la evaluación de riesgos ni la revisión humana exigible. <!-- FACT:PN-T26-F214 -->
  <!-- FACT:PN-T26-F215 -->
 
-<!-- VISUAL PENDIENTE: t26-43-decisiones-automatizadas-y-perfiles.webp -->
+<!-- VISUAL:t26-43-decisiones-automatizadas-y-perfiles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-43-decisiones-automatizadas-y-perfiles.webp" alt="Decisiones automatizadas y perfiles" width="820">
+</p>
+<p align="center"><em>Infografía: Decisiones automatizadas y perfiles.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1358,7 +1530,11 @@ La captación y tratamiento por Fuerzas y Cuerpos de Seguridad conforme a la Ley
 - Videocámara fija es la anclada a soporte o fachada aunque el sistema pueda moverse en cualquier dirección. <!-- FACT:PN-T26-F219 -->
  <!-- FACT:PN-T26-F220 -->
 
-<!-- VISUAL PENDIENTE: t26-44-videovigilancia-policial-sistema-y-proporc.webp -->
+<!-- VISUAL:t26-44-videovigilancia-policial-sistema-y-proporc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-44-videovigilancia-policial-sistema-y-proporc.webp" alt="Videovigilancia policial: sistema y proporcionalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia policial: sistema y proporcionalidad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1389,7 +1565,11 @@ La regulación de sistemas fijos también se aplica si la Policía usa cámaras 
 - La información identifica a la autoridad responsable, pero no debe especificar el emplazamiento exacto de las cámaras. <!-- FACT:PN-T26-F224 -->
  <!-- FACT:PN-T26-F225 -->
 
-<!-- VISUAL PENDIENTE: t26-45-sistemas-fijos-y-deber-de-informacion.webp -->
+<!-- VISUAL:t26-45-sistemas-fijos-y-deber-de-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-45-sistemas-fijos-y-deber-de-informacion.webp" alt="Sistemas fijos y deber de información" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas fijos y deber de información.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1420,7 +1600,11 @@ Los dispositivos móviles pueden captar conjuntamente imagen y sonido cuando con
 - En urgencia o necesidad inaplazable decide el responsable operativo y comunica la actuación a la autoridad competente a la mayor brevedad y siempre dentro de veinticuatro horas. <!-- FACT:PN-T26-F229 -->
  <!-- FACT:PN-T26-F230 -->
 
-<!-- VISUAL PENDIENTE: t26-46-dispositivos-moviles.webp -->
+<!-- VISUAL:t26-46-dispositivos-moviles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-46-dispositivos-moviles.webp" alt="Dispositivos móviles" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos móviles.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1451,7 +1635,11 @@ Si una grabación capta posible infracción penal, el soporte original íntegro 
 - Manipular registros, permitir accesos no autorizados o usar grabaciones para fines distintos puede constituir falta disciplinaria muy grave. <!-- FACT:PN-T26-F234 -->
  <!-- FACT:PN-T26-F235 -->
 
-<!-- VISUAL PENDIENTE: t26-47-entrega-conservacion-y-disciplina-de-graba.webp -->
+<!-- VISUAL:t26-47-entrega-conservacion-y-disciplina-de-graba.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-47-entrega-conservacion-y-disciplina-de-graba.webp" alt="Entrega, conservación y disciplina de grabaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Entrega, conservación y disciplina de grabaciones.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1482,7 +1670,11 @@ La información debe ser concisa, inteligible, accesible y expresada con lenguaj
 - Se considera repetitiva la presentación de tres solicitudes sobre el mismo supuesto en seis meses, salvo causa legítima. <!-- FACT:PN-T26-F239 -->
  <!-- FACT:PN-T26-F240 -->
 
-<!-- VISUAL PENDIENTE: t26-48-condiciones-generales-de-los-derechos.webp -->
+<!-- VISUAL:t26-48-condiciones-generales-de-los-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-48-condiciones-generales-de-los-derechos.webp" alt="Condiciones generales de los derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Condiciones generales de los derechos.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1513,7 +1705,11 @@ Debe ponerse a disposición identidad y contacto del responsable, contacto del d
 - Elegir un medio de acceso con coste desproporcionado obliga al interesado a asumir el exceso o aceptar el medio inicialmente ofrecido. <!-- FACT:PN-T26-F244 -->
  <!-- FACT:PN-T26-F245 -->
 
-<!-- VISUAL PENDIENTE: t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp -->
+<!-- VISUAL:t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp" alt="Información y acceso en la Ley Orgánica 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Información y acceso en la Ley Orgánica 7/2021.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1544,7 +1740,11 @@ La rectificación se obtiene sin dilación indebida cuando los datos son inexact
 - La rectificación, supresión o limitación se notifica a destinatarios para que actúen sobre los datos bajo su responsabilidad. <!-- FACT:PN-T26-F249 -->
  <!-- FACT:PN-T26-F250 -->
 
-<!-- VISUAL PENDIENTE: t26-50-rectificacion-supresion-y-limitacion-polic.webp -->
+<!-- VISUAL:t26-50-rectificacion-supresion-y-limitacion-polic.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-50-rectificacion-supresion-y-limitacion-polic.webp" alt="Rectificación, supresión y limitación policial" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación, supresión y limitación policial.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1575,7 +1775,11 @@ El responsable puede aplazar, limitar u omitir información o restringir derecho
 - El interesado puede ejercer derechos a través de la autoridad de protección de datos cuando operen las restricciones del artículo 24. <!-- FACT:PN-T26-F254 -->
  <!-- FACT:PN-T26-F255 -->
 
-<!-- VISUAL PENDIENTE: t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp -->
+<!-- VISUAL:t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp" alt="Restricciones y ejercicio a través de la autoridad" width="820">
+</p>
+<p align="center"><em>Infografía: Restricciones y ejercicio a través de la autoridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1606,7 +1810,11 @@ Si los datos figuran en resoluciones, registros, diligencias o expedientes de in
 - La vía procesal especial impide trasladar mecánicamente el procedimiento administrativo ordinario de acceso a un sumario o diligencia penal. <!-- FACT:PN-T26-F259 -->
  <!-- FACT:PN-T26-F260 -->
 
-<!-- VISUAL PENDIENTE: t26-52-derechos-en-investigaciones-y-procesos-pen.webp -->
+<!-- VISUAL:t26-52-derechos-en-investigaciones-y-procesos-pen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-52-derechos-en-investigaciones-y-procesos-pen.webp" alt="Derechos en investigaciones y procesos penales" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos en investigaciones y procesos penales.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1637,7 +1845,11 @@ El responsable adopta y actualiza medidas técnicas y organizativas apropiadas s
 - El acuerdo de corresponsabilidad debe designar punto de contacto para interesados si no viene legalmente determinado. <!-- FACT:PN-T26-F264 -->
  <!-- FACT:PN-T26-F265 -->
 
-<!-- VISUAL PENDIENTE: t26-53-responsable-diseno-y-corresponsabilidad.webp -->
+<!-- VISUAL:t26-53-responsable-diseno-y-corresponsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-53-responsable-diseno-y-corresponsabilidad.webp" alt="Responsable, diseño y corresponsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Responsable, diseño y corresponsabilidad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1668,7 +1880,11 @@ El responsable solo recurre a encargados que ofrezcan garantías suficientes de 
 - Quien actúa bajo autoridad del responsable o encargado solo trata datos siguiendo instrucciones, salvo obligación legal. <!-- FACT:PN-T26-F269 -->
  <!-- FACT:PN-T26-F270 -->
 
-<!-- VISUAL PENDIENTE: t26-54-encargado-y-actuacion-bajo-instrucciones.webp -->
+<!-- VISUAL:t26-54-encargado-y-actuacion-bajo-instrucciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-54-encargado-y-actuacion-bajo-instrucciones.webp" alt="Encargado y actuación bajo instrucciones" width="820">
+</p>
+<p align="center"><em>Infografía: Encargado y actuación bajo instrucciones.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1699,7 +1915,11 @@ Responsable y encargado llevan por escrito, también en formato electrónico, re
 - Los registros de consulta y comunicación permiten conocer justificación, fecha, hora, usuario y destinatario en la medida de lo posible. <!-- FACT:PN-T26-F274 -->
  <!-- FACT:PN-T26-F275 -->
 
-<!-- VISUAL PENDIENTE: t26-55-registros-de-actividades-y-operaciones.webp -->
+<!-- VISUAL:t26-55-registros-de-actividades-y-operaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-55-registros-de-actividades-y-operaciones.webp" alt="Registros de actividades y operaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Registros de actividades y operaciones.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1730,7 +1950,11 @@ La evaluación de impacto es previa cuando un tratamiento, especialmente con nue
 - La falta de respuesta a la consulta dentro del plazo no produce silencio favorable. <!-- FACT:PN-T26-F279 -->
  <!-- FACT:PN-T26-F280 -->
 
-<!-- VISUAL PENDIENTE: t26-56-evaluacion-de-impacto-y-consulta-previa.webp -->
+<!-- VISUAL:t26-56-evaluacion-de-impacto-y-consulta-previa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-56-evaluacion-de-impacto-y-consulta-previa.webp" alt="Evaluación de impacto y consulta previa" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de impacto y consulta previa.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1761,7 +1985,11 @@ Responsable y encargado aplican medidas adecuadas al estado de la técnica, cost
 - Las categorías especiales requieren atención reforzada, pero la seguridad debe cubrir todo dato personal tratado. <!-- FACT:PN-T26-F284 -->
  <!-- FACT:PN-T26-F285 -->
 
-<!-- VISUAL PENDIENTE: t26-57-seguridad-y-esquema-nacional-de-seguridad.webp -->
+<!-- VISUAL:t26-57-seguridad-y-esquema-nacional-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-57-seguridad-y-esquema-nacional-de-seguridad.webp" alt="Seguridad y Esquema Nacional de Seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad y Esquema Nacional de Seguridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1792,7 +2020,11 @@ La violación se notifica a la autoridad dentro de setenta y dos horas desde que
 - La comunicación al interesado puede omitirse por protección previa eficaz, medidas posteriores que eliminen el alto riesgo, esfuerzo desproporcionado o restricción válida. <!-- FACT:PN-T26-F289 -->
  <!-- FACT:PN-T26-F290 -->
 
-<!-- VISUAL PENDIENTE: t26-58-violaciones-de-seguridad.webp -->
+<!-- VISUAL:t26-58-violaciones-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-58-violaciones-de-seguridad.webp" alt="Violaciones de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Violaciones de seguridad.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1823,7 +2055,11 @@ Los responsables sometidos a la Ley Orgánica 7/2021 designan en todo caso deleg
 - Sus funciones incluyen informar, supervisar, asesorar sobre impacto, cooperar y ser punto de contacto con la autoridad. <!-- FACT:PN-T26-F294 -->
  <!-- FACT:PN-T26-F295 -->
 
-<!-- VISUAL PENDIENTE: t26-59-delegado-de-proteccion-de-datos-policial.webp -->
+<!-- VISUAL:t26-59-delegado-de-proteccion-de-datos-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-59-delegado-de-proteccion-de-datos-policial.webp" alt="Delegado de protección de datos policial" width="820">
+</p>
+<p align="center"><em>Infografía: Delegado de protección de datos policial.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1854,7 +2090,11 @@ Las transferencias a terceros países u organizaciones internacionales deben ser
 - Las transferencias ulteriores deben respetar las condiciones impuestas y el nivel de protección de la Ley Orgánica 7/2021. <!-- FACT:PN-T26-F299 -->
  <!-- FACT:PN-T26-F300 -->
 
-<!-- VISUAL PENDIENTE: t26-60-transferencias-internacionales-regla-y-ade.webp -->
+<!-- VISUAL:t26-60-transferencias-internacionales-regla-y-ade.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-60-transferencias-internacionales-regla-y-ade.webp" alt="Transferencias internacionales: regla y adecuación" width="820">
+</p>
+<p align="center"><em>Infografía: Transferencias internacionales: regla y adecuación.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1885,7 +2125,11 @@ Sin adecuación puede transferirse mediante instrumento vinculante con garantía
 - Las transferencias directas se informan a la autoridad de protección de datos y deben documentarse. <!-- FACT:PN-T26-F304 -->
  <!-- FACT:PN-T26-F305 -->
 
-<!-- VISUAL PENDIENTE: t26-61-garantias-excepciones-y-transferencias-dir.webp -->
+<!-- VISUAL:t26-61-garantias-excepciones-y-transferencias-dir.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-61-garantias-excepciones-y-transferencias-dir.webp" alt="Garantías, excepciones y transferencias directas" width="820">
+</p>
+<p align="center"><em>Infografía: Garantías, excepciones y transferencias directas.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1916,7 +2160,11 @@ Son autoridades independientes la AEPD y las autonómicas dentro de su competenc
 - El control de tratamientos jurisdiccionales corresponde a los órganos previstos en la legislación judicial y fiscal, no a la autoridad administrativa ordinaria. <!-- FACT:PN-T26-F309 -->
  <!-- FACT:PN-T26-F310 -->
 
-<!-- VISUAL PENDIENTE: t26-62-autoridades-independientes-funciones-y-pod.webp -->
+<!-- VISUAL:t26-62-autoridades-independientes-funciones-y-pod.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-62-autoridades-independientes-funciones-y-pod.webp" alt="Autoridades independientes, funciones y poderes" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridades independientes, funciones y poderes.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1947,7 +2195,11 @@ El interesado puede reclamar ante la autoridad si considera infringida la ley o 
 - El interesado puede conferir representación a entidad sin ánimo de lucro constituida y activa en protección de derechos y libertades. <!-- FACT:PN-T26-F314 -->
  <!-- FACT:PN-T26-F315 -->
 
-<!-- VISUAL PENDIENTE: t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp -->
+<!-- VISUAL:t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp" alt="Reclamación, indemnización y tutela judicial" width="820">
+</p>
+<p align="center"><em>Infografía: Reclamación, indemnización y tutela judicial.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -1978,7 +2230,11 @@ Responden directamente quienes, por acción u omisión, realizan la conducta inf
 - La negativa a colaborar puede ser muy grave o grave según conducta y perjuicio, y la potestad corresponde en supuestos específicos a Secretaría de Estado de Seguridad o Delegaciones del Gobierno. <!-- FACT:PN-T26-F319 -->
  <!-- FACT:PN-T26-F320 -->
 
-<!-- VISUAL PENDIENTE: t26-64-regimen-sancionador-sujetos-e-infracciones.webp -->
+<!-- VISUAL:t26-64-regimen-sancionador-sujetos-e-infracciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-64-regimen-sancionador-sujetos-e-infracciones.webp" alt="Régimen sancionador: sujetos e infracciones" width="820">
+</p>
+<p align="center"><em>Infografía: Régimen sancionador: sujetos e infracciones.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.
@@ -2009,7 +2265,11 @@ Para sujetos del artículo 77.1 de la Ley Orgánica 3/2018 se aplican las medida
 - La clave final es separar RGPD y Ley Orgánica 3/2018 del régimen especial de la Ley Orgánica 7/2021 según autoridad, finalidad, derecho, plazo y sanción. <!-- FACT:PN-T26-F324 -->
  <!-- FACT:PN-T26-F325 -->
 
-<!-- VISUAL PENDIENTE: t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp -->
+<!-- VISUAL:t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp" alt="Sanciones, prescripción y cuadro comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Sanciones, prescripción y cuadro comparativo.</em></p>
 
 :::hablemos-claro
 Separa sujeto, presupuesto, regla, excepción y control. Las opciones trampa suelen cambiar solo uno de esos cinco elementos.

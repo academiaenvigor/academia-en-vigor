@@ -20,7 +20,11 @@ El artículo 18.4 de la Constitución ordena limitar por ley el uso de la inform
 - El artículo 16 del Tratado de Funcionamiento de la Unión Europea reconoce el derecho a la protección de los datos personales.
 - La protección de datos no prohíbe tratar información personal: exige finalidad legítima, base jurídica, necesidad, proporcionalidad y garantías.
 
-<!-- VISUAL PENDIENTE: t26-01-fundamento-constitucional-y-europeo.webp -->
+<!-- VISUAL:t26-01-fundamento-constitucional-y-europeo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-01-fundamento-constitucional-y-europeo.webp" alt="Fundamento constitucional y europeo" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamento constitucional y europeo.</em></p>
 
 <!-- FUENTE: CE-T26 -->
 
@@ -34,7 +38,11 @@ El Reglamento General de Protección de Datos y la Ley Orgánica 3/2018 forman e
 - Cuando una autoridad competente trata datos para fines distintos de los policiales o penales del artículo 1, se aplica el régimen general salvo actividad fuera del Derecho de la Unión.
 - La derogada Ley Orgánica 15/1999 puede aparecer en preguntas históricas, pero no debe utilizarse como respuesta vigente.
 
-<!-- VISUAL PENDIENTE: t26-02-mapa-normativo-y-frontera-entre-regimenes.webp -->
+<!-- VISUAL:t26-02-mapa-normativo-y-frontera-entre-regimenes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-02-mapa-normativo-y-frontera-entre-regimenes.webp" alt="Mapa normativo y frontera entre regímenes" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa normativo y frontera entre regímenes.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -48,7 +56,11 @@ Dato personal es toda información sobre una persona física identificada o iden
 - Encargado es quien trata datos personales por cuenta del responsable y siguiendo el marco jurídico que los vincula.
 - Seudonimizar reduce la vinculación directa con una persona mediante información adicional separada, pero los datos seudonimizados siguen siendo personales.
 
-<!-- VISUAL PENDIENTE: t26-03-conceptos-esenciales-de-proteccion-de-dato.webp -->
+<!-- VISUAL:t26-03-conceptos-esenciales-de-proteccion-de-dato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-03-conceptos-esenciales-de-proteccion-de-dato.webp" alt="Conceptos esenciales de protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Conceptos esenciales de protección de datos.</em></p>
 
 <!-- FUENTE: RGPD-T26 -->
 
@@ -62,7 +74,11 @@ Los datos deben tratarse de manera lícita, leal y transparente en relación con
 - Exactitud y limitación del plazo obligan a actualizar o rectificar datos y a no conservarlos identificables más tiempo del necesario.
 - Integridad, confidencialidad y responsabilidad proactiva exigen seguridad adecuada y capacidad de demostrar el cumplimiento.
 
-<!-- VISUAL PENDIENTE: t26-04-principios-del-tratamiento.webp -->
+<!-- VISUAL:t26-04-principios-del-tratamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-04-principios-del-tratamiento.webp" alt="Principios del tratamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Principios del tratamiento.</em></p>
 
 <!-- FUENTE: RGPD-T26 -->
 
@@ -76,7 +92,11 @@ El consentimiento es una base de licitud, pero no es la única ni siempre la ade
 - La misión de interés público o el ejercicio de poderes públicos debe derivar de una competencia atribuida por norma con rango de ley.
 - Las autoridades públicas no pueden invocar interés legítimo para el tratamiento realizado en el ejercicio de sus funciones.
 
-<!-- VISUAL PENDIENTE: t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp -->
+<!-- VISUAL:t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-05-licitud-y-bases-juridicas-del-regimen-gene.webp" alt="Licitud y bases jurídicas del régimen general" width="820">
+</p>
+<p align="center"><em>Infografía: Licitud y bases jurídicas del régimen general.</em></p>
 
 <!-- FUENTE: RGPD-T26 -->
 
@@ -90,7 +110,11 @@ El consentimiento debe proceder de una manifestación de voluntad libre, especí
 - Para menores de catorce años, el tratamiento fundado en consentimiento solo es lícito si consta el del titular de la patria potestad o tutela.
 - La regla de los catorce años no desplaza una ley que exija asistencia de patria potestad o tutela para el acto o negocio en cuyo contexto se recaba el consentimiento.
 
-<!-- VISUAL PENDIENTE: t26-06-consentimiento-y-menores-de-edad.webp -->
+<!-- VISUAL:t26-06-consentimiento-y-menores-de-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-06-consentimiento-y-menores-de-edad.webp" alt="Consentimiento y menores de edad" width="820">
+</p>
+<p align="center"><em>Infografía: Consentimiento y menores de edad.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -104,7 +128,11 @@ Familiares o personas vinculadas de hecho y herederos pueden solicitar acceso, r
 - En fallecimiento de menores pueden actuar además sus representantes legales o el Ministerio Fiscal, de oficio o a instancia de cualquier persona interesada.
 - El deber de confidencialidad de responsables, encargados y quienes intervengan en el tratamiento complementa los deberes de secreto y subsiste al terminar la relación.
 
-<!-- VISUAL PENDIENTE: t26-07-personas-fallecidas-y-deber-de-confidencia.webp -->
+<!-- VISUAL:t26-07-personas-fallecidas-y-deber-de-confidencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-07-personas-fallecidas-y-deber-de-confidencia.webp" alt="Personas fallecidas y deber de confidencialidad" width="820">
+</p>
+<p align="center"><em>Infografía: Personas fallecidas y deber de confidencialidad.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -118,7 +146,11 @@ Son categorías especiales, entre otras, los datos sobre origen étnico o racial
 - Los datos sobre condenas e infracciones penales se someten al artículo 10 del RGPD y solo se tratan bajo control de autoridad pública o cuando lo autorice el Derecho aplicable con garantías.
 - Fuera de los supuestos legales, abogados y procuradores pueden tratar datos penales facilitados por sus clientes para ejercer sus funciones.
 
-<!-- VISUAL PENDIENTE: t26-08-categorias-especiales-y-datos-penales.webp -->
+<!-- VISUAL:t26-08-categorias-especiales-y-datos-penales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-08-categorias-especiales-y-datos-penales.webp" alt="Categorías especiales y datos penales" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías especiales y datos penales.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -132,7 +164,11 @@ Cuando los datos se obtienen del afectado puede darse primero información bási
 - Cuando los datos no se obtienen del afectado, la información básica incluye además las categorías de datos y las fuentes de procedencia.
 - La transparencia exige lenguaje conciso, inteligible, accesible, claro y sencillo; una cláusula oscura no cumple por ser extensa.
 
-<!-- VISUAL PENDIENTE: t26-09-transparencia-e-informacion-por-capas.webp -->
+<!-- VISUAL:t26-09-transparencia-e-informacion-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-09-transparencia-e-informacion-por-capas.webp" alt="Transparencia e información por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Transparencia e información por capas.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -146,7 +182,11 @@ El derecho de acceso permite conocer si se tratan datos propios y obtener los da
 - La portabilidad permite recibir y transmitir determinados datos tratados automatizadamente sobre la base de consentimiento o contrato.
 - Oposición y garantías frente a decisiones automatizadas dependen de la base y finalidad del tratamiento y admiten las excepciones previstas por el RGPD.
 
-<!-- VISUAL PENDIENTE: t26-10-derechos-del-rgpd-mapa-general.webp -->
+<!-- VISUAL:t26-10-derechos-del-rgpd-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-10-derechos-del-rgpd-mapa-general.webp" alt="Derechos del RGPD: mapa general" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos del RGPD: mapa general.</em></p>
 
 <!-- FUENTE: RGPD-T26 -->
 
@@ -160,7 +200,11 @@ Los derechos de los artículos 15 a 22 del RGPD pueden ejercerse directamente o 
 - Los titulares de la patria potestad pueden ejercer en nombre de los menores de catorce años los derechos que les correspondan.
 - La atención de derechos es gratuita, salvo solicitudes manifiestamente infundadas o excesivas en los casos y con las condiciones del RGPD.
 
-<!-- VISUAL PENDIENTE: t26-11-ejercicio-de-derechos-y-representacion.webp -->
+<!-- VISUAL:t26-11-ejercicio-de-derechos-y-representacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-11-ejercicio-de-derechos-y-representacion.webp" alt="Ejercicio de derechos y representación" width="820">
+</p>
+<p align="center"><em>Infografía: Ejercicio de derechos y representación.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -174,7 +218,11 @@ El responsable que trate gran cantidad de datos puede pedir al afectado que conc
 - Puede considerarse repetitivo el acceso ejercido más de una vez en seis meses, salvo causa legítima.
 - Si el afectado elige un medio distinto que ocasiona coste desproporcionado, asume el exceso de coste o recibe el acceso por el medio ofrecido.
 
-<!-- VISUAL PENDIENTE: t26-12-derecho-de-acceso.webp -->
+<!-- VISUAL:t26-12-derecho-de-acceso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-12-derecho-de-acceso.webp" alt="Derecho de acceso" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho de acceso.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -188,7 +236,11 @@ La solicitud de rectificación debe identificar los datos, la corrección y, cua
 - La limitación del tratamiento debe constar claramente en los sistemas de información del responsable.
 - El bloqueo identifica y reserva los datos para responsabilidades, impide su tratamiento ordinario y termina con su destrucción al prescribir las responsabilidades.
 
-<!-- VISUAL PENDIENTE: t26-13-rectificacion-supresion-y-bloqueo.webp -->
+<!-- VISUAL:t26-13-rectificacion-supresion-y-bloqueo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-13-rectificacion-supresion-y-bloqueo.webp" alt="Rectificación, supresión y bloqueo" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación, supresión y bloqueo.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -202,7 +254,11 @@ La portabilidad se ejerce conforme al artículo 20 del RGPD y no convierte en po
 - Existe derecho a no ser objeto de una decisión basada únicamente en tratamiento automatizado que produzca efectos jurídicos o afecte significativamente de modo similar, salvo excepción legal.
 - Cuando la decisión automatizada esté permitida deben existir garantías, incluida al menos intervención humana, expresión del punto de vista e impugnación en los términos aplicables.
 
-<!-- VISUAL PENDIENTE: t26-14-portabilidad-oposicion-y-decisiones-automa.webp -->
+<!-- VISUAL:t26-14-portabilidad-oposicion-y-decisiones-automa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-14-portabilidad-oposicion-y-decisiones-automa.webp" alt="Portabilidad, oposición y decisiones automatizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Portabilidad, oposición y decisiones automatizadas.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -216,7 +272,11 @@ Se presume amparado en interés legítimo el tratamiento de datos de contacto pr
 - El acreedor debe informar de la posible inclusión y el sistema notifica al afectado la inclusión y derechos dentro del plazo legal.
 - Los datos de incumplimiento solo se mantienen mientras persista este y, como máximo, cinco años desde el vencimiento de la obligación.
 
-<!-- VISUAL PENDIENTE: t26-15-datos-de-contacto-y-sistemas-de-informacio.webp -->
+<!-- VISUAL:t26-15-datos-de-contacto-y-sistemas-de-informacio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-15-datos-de-contacto-y-sistemas-de-informacio.webp" alt="Datos de contacto y sistemas de información crediticia" width="820">
+</p>
+<p align="center"><em>Infografía: Datos de contacto y sistemas de información crediticia.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -230,7 +290,11 @@ Personas físicas o jurídicas pueden tratar imágenes para preservar seguridad 
 - La existencia del tratamiento se informa mediante dispositivo visible que identifique al menos el tratamiento, responsable y posibilidad de ejercer derechos.
 - La excepción doméstica cubre a la persona física que capta solo el interior de su domicilio, pero no a una empresa de seguridad con acceso a las imágenes.
 
-<!-- VISUAL PENDIENTE: t26-16-videovigilancia-general-y-exclusion-domest.webp -->
+<!-- VISUAL:t26-16-videovigilancia-general-y-exclusion-domest.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-16-videovigilancia-general-y-exclusion-domest.webp" alt="Videovigilancia general y exclusión doméstica" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia general y exclusión doméstica.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -244,7 +308,11 @@ Es lícito tratar datos para evitar comunicaciones comerciales a quienes hayan m
 - Los datos de opiniones políticas tratados por partidos en actividades electorales quedan sometidos a garantías adecuadas y al marco constitucional y europeo.
 - El envío de propaganda electoral por medios electrónicos debe permitir de modo sencillo y gratuito ejercer el derecho de oposición.
 
-<!-- VISUAL PENDIENTE: t26-17-exclusion-publicitaria-y-propaganda-electo.webp -->
+<!-- VISUAL:t26-17-exclusion-publicitaria-y-propaganda-electo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-17-exclusion-publicitaria-y-propaganda-electo.webp" alt="Exclusión publicitaria y propaganda electoral" width="820">
+</p>
+<p align="center"><em>Infografía: Exclusión publicitaria y propaganda electoral.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -258,7 +326,11 @@ El tratamiento por Administraciones con fines de archivo en interés público se
 - Abogados y procuradores pueden tratar fuera de esos supuestos la información sancionadora facilitada por clientes para ejercer sus funciones.
 - La publicidad de sanciones administrativas no se deduce automáticamente de que los datos obren en un expediente público.
 
-<!-- VISUAL PENDIENTE: t26-18-tratamientos-administrativos-y-de-archivo.webp -->
+<!-- VISUAL:t26-18-tratamientos-administrativos-y-de-archivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-18-tratamientos-administrativos-y-de-archivo.webp" alt="Tratamientos administrativos y de archivo" width="820">
+</p>
+<p align="center"><em>Infografía: Tratamientos administrativos y de archivo.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -272,7 +344,11 @@ El responsable debe aplicar medidas apropiadas según naturaleza, contexto, fine
 - La evaluación de impacto es previa cuando el tratamiento pueda entrañar alto riesgo para derechos y libertades.
 - La responsabilidad proactiva exige demostrar cumplimiento; disponer de formularios no basta si la práctica contradice las garantías.
 
-<!-- VISUAL PENDIENTE: t26-19-responsabilidad-proactiva-y-proteccion-des.webp -->
+<!-- VISUAL:t26-19-responsabilidad-proactiva-y-proteccion-des.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-19-responsabilidad-proactiva-y-proteccion-des.webp" alt="Responsabilidad proactiva y protección desde el diseño" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad proactiva y protección desde el diseño.</em></p>
 
 <!-- FUENTE: RGPD-T26 -->
 
@@ -286,7 +362,11 @@ El acceso del encargado a datos necesarios para prestar un servicio no es comuni
 - Una violación de seguridad se notifica a la autoridad de control sin dilación indebida y, de ser posible, dentro de setenta y dos horas, salvo improbabilidad de riesgo.
 - Cuando la brecha entrañe alto riesgo para las personas, también se comunica al afectado sin dilación indebida salvo excepción legal.
 
-<!-- VISUAL PENDIENTE: t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp -->
+<!-- VISUAL:t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-20-encargado-del-tratamiento-y-brechas-de-seg.webp" alt="Encargado del tratamiento y brechas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Encargado del tratamiento y brechas de seguridad.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -300,7 +380,11 @@ Debe designarse delegado en los supuestos del artículo 37.1 del RGPD y en las e
 - El responsable no puede impedir al delegado acceder a datos y procesos alegando confidencialidad o secreto.
 - Si el afectado reclama primero al delegado, este comunica la decisión en un máximo de dos meses; si la autoridad remite la reclamación, responde en un mes.
 
-<!-- VISUAL PENDIENTE: t26-21-delegado-de-proteccion-de-datos.webp -->
+<!-- VISUAL:t26-21-delegado-de-proteccion-de-datos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-21-delegado-de-proteccion-de-datos.webp" alt="Delegado de protección de datos" width="820">
+</p>
+<p align="center"><em>Infografía: Delegado de protección de datos.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -314,7 +398,11 @@ Los códigos de conducta concretan la aplicación de la normativa para sectores 
 - Una decisión de adecuación permite transferir sin autorización específica; en su ausencia pueden utilizarse garantías adecuadas del artículo 46 del RGPD.
 - Las excepciones del artículo 49 del RGPD son vías tasadas y no convierten transferencias repetitivas en libres de garantías.
 
-<!-- VISUAL PENDIENTE: t26-22-codigos-certificacion-y-transferencias-int.webp -->
+<!-- VISUAL:t26-22-codigos-certificacion-y-transferencias-int.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-22-codigos-certificacion-y-transferencias-int.webp" alt="Códigos, certificación y transferencias internacionales" width="820">
+</p>
+<p align="center"><em>Infografía: Códigos, certificación y transferencias internacionales.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -328,7 +416,11 @@ La Agencia Española de Protección de Datos es autoridad administrativa indepen
 - Supervisa la aplicación del RGPD y la Ley Orgánica 3/2018 y ejerce funciones y potestades de los artículos 57 y 58 del RGPD.
 - Sus funciones de investigación, corrección, autorización y asesoramiento no la convierten en responsable de los tratamientos que supervisa.
 
-<!-- VISUAL PENDIENTE: t26-23-naturaleza-y-funciones-de-la-aepd.webp -->
+<!-- VISUAL:t26-23-naturaleza-y-funciones-de-la-aepd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-23-naturaleza-y-funciones-de-la-aepd.webp" alt="Naturaleza y funciones de la AEPD" width="820">
+</p>
+<p align="center"><em>Infografía: Naturaleza y funciones de la AEPD.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -342,7 +434,11 @@ La Presidencia dirige la AEPD, la representa y dicta sus resoluciones, circulare
 - Los actos y disposiciones de la Presidencia agotan la vía administrativa y se recurren directamente ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
 - El Consejo Consultivo asesora a la Presidencia y reúne representación institucional, profesional, académica y social prevista por la ley.
 
-<!-- VISUAL PENDIENTE: t26-24-presidencia-mandato-y-consejo-consultivo.webp -->
+<!-- VISUAL:t26-24-presidencia-mandato-y-consejo-consultivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-24-presidencia-mandato-y-consejo-consultivo.webp" alt="Presidencia, mandato y Consejo Consultivo" width="820">
+</p>
+<p align="center"><em>Infografía: Presidencia, mandato y Consejo Consultivo.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -356,7 +452,11 @@ Las autoridades autonómicas ejercen funciones y potestades del RGPD respecto de
 - Las comunicaciones con el Comité Europeo se canalizan por la AEPD cuando la ley así lo establece, con participación de la autoridad autonómica interesada.
 - La competencia autonómica no se presume para cualquier entidad ubicada en la comunidad: depende del responsable y del tratamiento previstos por el artículo 57.
 
-<!-- VISUAL PENDIENTE: t26-25-autoridades-autonomicas-y-cooperacion.webp -->
+<!-- VISUAL:t26-25-autoridades-autonomicas-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-25-autoridades-autonomicas-y-cooperacion.webp" alt="Autoridades autonómicas y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridades autonómicas y cooperación.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -370,7 +470,11 @@ El Título VIII regula reclamaciones por falta de atención de derechos y proced
 - Las actuaciones previas investigan hechos y pueden preceder al acuerdo de inicio del procedimiento sancionador.
 - La AEPD puede adoptar medidas provisionales necesarias y proporcionadas, como bloqueo cautelar o atención inmediata de un derecho.
 
-<!-- VISUAL PENDIENTE: t26-26-reclamaciones-e-investigacion.webp -->
+<!-- VISUAL:t26-26-reclamaciones-e-investigacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-26-reclamaciones-e-investigacion.webp" alt="Reclamaciones e investigación" width="820">
+</p>
+<p align="center"><em>Infografía: Reclamaciones e investigación.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -384,7 +488,11 @@ Están sujetos al régimen sancionador responsables, encargados, representantes 
 - Tratar sin base jurídica, vulnerar derechos o quebrantar seguridad puede integrar distinta gravedad según conducta, alcance y perjuicio.
 - La clasificación española no sustituye los límites de multa y criterios de graduación del artículo 83 del RGPD.
 
-<!-- VISUAL PENDIENTE: t26-27-infracciones-y-sujetos-responsables.webp -->
+<!-- VISUAL:t26-27-infracciones-y-sujetos-responsables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-27-infracciones-y-sujetos-responsables.webp" alt="Infracciones y sujetos responsables" width="820">
+</p>
+<p align="center"><em>Infografía: Infracciones y sujetos responsables.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -398,7 +506,11 @@ Las multas administrativas del RGPD pueden alcanzar veinte millones de euros o e
 - Las sanciones de hasta cuarenta mil euros prescriben al año; de 40.001 a 300.000 euros, a los dos años; y las superiores a 300.000, a los tres.
 - La iniciación conocida del procedimiento interrumpe la prescripción, que reinicia si el expediente queda paralizado más de seis meses por causa no imputable al infractor.
 
-<!-- VISUAL PENDIENTE: t26-28-sanciones-sector-publico-y-prescripcion.webp -->
+<!-- VISUAL:t26-28-sanciones-sector-publico-y-prescripcion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-28-sanciones-sector-publico-y-prescripcion.webp" alt="Sanciones, sector público y prescripción" width="820">
+</p>
+<p align="center"><em>Infografía: Sanciones, sector público y prescripción.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -412,7 +524,11 @@ Los derechos constitucionales y convencionales son plenamente aplicables en Inte
 - El acceso debe atender brechas de género y generación, necesidades especiales y realidad de los entornos rurales.
 - La seguridad digital protege las comunicaciones transmitidas y recibidas por Internet y obliga a los proveedores a informar de derechos.
 
-<!-- VISUAL PENDIENTE: t26-29-derechos-digitales-neutralidad-acceso-y-se.webp -->
+<!-- VISUAL:t26-29-derechos-digitales-neutralidad-acceso-y-se.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-29-derechos-digitales-neutralidad-acceso-y-se.webp" alt="Derechos digitales, neutralidad, acceso y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos digitales, neutralidad, acceso y seguridad.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -426,7 +542,11 @@ El sistema educativo debe enseñar consumo responsable y uso crítico, seguro y 
 - Padres, madres, tutores, curadores o representantes legales procurarán que los menores hagan uso equilibrado y responsable de dispositivos y servicios digitales.
 - Centros y entidades con actividades de menores deben proteger interés superior y derechos fundamentales al publicar o difundir sus datos en Internet.
 
-<!-- VISUAL PENDIENTE: t26-30-educacion-digital-y-proteccion-de-menores.webp -->
+<!-- VISUAL:t26-30-educacion-digital-y-proteccion-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-30-educacion-digital-y-proteccion-de-menores.webp" alt="Educación digital y protección de menores" width="820">
+</p>
+<p align="center"><em>Infografía: Educación digital y protección de menores.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -440,7 +560,11 @@ Todos tienen derecho a la libertad de expresión en Internet, sin perjuicio de h
 - La actualización permite solicitar motivadamente un aviso cuando hechos posteriores hacen que una noticia ya no refleje la situación actual y cause perjuicio.
 - Rectificación corrige una información controvertida; actualización añade el cambio posterior sin borrar necesariamente la noticia original.
 
-<!-- VISUAL PENDIENTE: t26-31-rectificacion-y-actualizacion-en-internet.webp -->
+<!-- VISUAL:t26-31-rectificacion-y-actualizacion-en-internet.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-31-rectificacion-y-actualizacion-en-internet.webp" alt="Rectificación y actualización en Internet" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación y actualización en Internet.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -454,7 +578,11 @@ Trabajadores y empleados públicos tienen derecho a proteger su intimidad al usa
 - La desconexión digital protege fuera del tiempo de trabajo el descanso, permisos, vacaciones e intimidad personal y familiar.
 - El empleador debe elaborar, previa audiencia representativa, una política interna de desconexión, formación y prevención de fatiga informática.
 
-<!-- VISUAL PENDIENTE: t26-32-intimidad-laboral-y-desconexion-digital.webp -->
+<!-- VISUAL:t26-32-intimidad-laboral-y-desconexion-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-32-intimidad-laboral-y-desconexion-digital.webp" alt="Intimidad laboral y desconexión digital" width="820">
+</p>
+<p align="center"><em>Infografía: Intimidad laboral y desconexión digital.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -468,7 +596,11 @@ El empleador puede tratar imágenes para control laboral dentro de las funciones
 - Los sistemas de geolocalización laboral requieren ejercicio legítimo de control e información previa, expresa, clara e inequívoca.
 - Los convenios colectivos pueden establecer garantías adicionales de derechos digitales, pero no reducir el mínimo legal.
 
-<!-- VISUAL PENDIENTE: t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp -->
+<!-- VISUAL:t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-33-videovigilancia-sonido-y-geolocalizacion-l.webp" alt="Videovigilancia, sonido y geolocalización laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia, sonido y geolocalización laboral.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -482,7 +614,11 @@ El derecho al olvido en buscadores permite solicitar que una búsqueda por nombr
 - Las personas vinculadas al fallecido y quienes este haya designado pueden gestionar contenidos digitales conforme a la ley y a las instrucciones del causante.
 - El testamento digital no autoriza a ignorar la voluntad expresa del fallecido ni sustituye las reglas sucesorias sobre contenidos patrimoniales.
 
-<!-- VISUAL PENDIENTE: t26-34-derecho-al-olvido-y-testamento-digital.webp -->
+<!-- VISUAL:t26-34-derecho-al-olvido-y-testamento-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-34-derecho-al-olvido-y-testamento-digital.webp" alt="Derecho al olvido y testamento digital" width="820">
+</p>
+<p align="center"><em>Infografía: Derecho al olvido y testamento digital.</em></p>
 
 <!-- FUENTE: LOPDGDD-T26 -->
 
@@ -496,7 +632,11 @@ La Ley Orgánica 7/2021 protege a las personas físicas en tratamientos realizad
 - Quedan fuera los tratamientos de autoridades competentes para fines distintos, materias clasificadas y actividades excluidas del Derecho de la Unión en los términos legales.
 - Los tratamientos excluidos por tener finalidad distinta pasan al RGPD y a la Ley Orgánica 3/2018 cuando están dentro del Derecho de la Unión.
 
-<!-- VISUAL PENDIENTE: t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp -->
+<!-- VISUAL:t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-35-objeto-y-ambito-de-la-ley-organica-7-2021.webp" alt="Objeto y ámbito de la Ley Orgánica 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto y ámbito de la Ley Orgánica 7/2021.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -510,7 +650,11 @@ Familiares, personas vinculadas de hecho y herederos pueden solicitar acceso, re
 - También lo son Vigilancia Aduanera, SEPBLAC, la Comisión de Vigilancia de Actividades de Financiación del Terrorismo, autoridades judiciales penales y Ministerio Fiscal.
 - Las autoridades judiciales civiles no adquieren por esa condición la consideración de autoridad competente del artículo 4.
 
-<!-- VISUAL PENDIENTE: t26-36-fallecidos-y-autoridades-competentes.webp -->
+<!-- VISUAL:t26-36-fallecidos-y-autoridades-competentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-36-fallecidos-y-autoridades-competentes.webp" alt="Fallecidos y autoridades competentes" width="820">
+</p>
+<p align="center"><em>Infografía: Fallecidos y autoridades competentes.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -524,7 +668,11 @@ Dato personal y tratamiento conservan en la Ley Orgánica 7/2021 un sentido ampl
 - Elaboración de perfiles es tratamiento automatizado destinado a evaluar aspectos personales de una persona física.
 - Violación de seguridad incluye destrucción, pérdida, alteración, comunicación o acceso no autorizados, accidentales o ilícitos.
 
-<!-- VISUAL PENDIENTE: t26-37-definiciones-del-regimen-policial-penal.webp -->
+<!-- VISUAL:t26-37-definiciones-del-regimen-policial-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-37-definiciones-del-regimen-policial-penal.webp" alt="Definiciones del régimen policial-penal" width="820">
+</p>
+<p align="center"><em>Infografía: Definiciones del régimen policial-penal.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -538,7 +686,11 @@ Los datos se tratan lícita y lealmente, se recogen con fines determinados, expl
 - Un tratamiento ulterior para otro fin del artículo 1 requiere que el responsable sea competente y que el nuevo tratamiento sea necesario y proporcionado.
 - El responsable debe garantizar y poder demostrar el cumplimiento de los principios.
 
-<!-- VISUAL PENDIENTE: t26-38-principios-y-finalidades-compatibles.webp -->
+<!-- VISUAL:t26-38-principios-y-finalidades-compatibles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-38-principios-y-finalidades-compatibles.webp" alt="Principios y finalidades compatibles" width="820">
+</p>
+<p align="center"><em>Infografía: Principios y finalidades compatibles.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -552,7 +704,11 @@ Administraciones y personas físicas o jurídicas deben proporcionar a autoridad
 - El interesado no es informado de la transmisión o acceso realizado bajo este deber para proteger la actividad investigadora.
 - La reserva alcanza también a sujetos con deber específico de colaboración, que no deben alertar al interesado de la transmisión.
 
-<!-- VISUAL PENDIENTE: t26-39-deber-de-colaboracion-y-reserva.webp -->
+<!-- VISUAL:t26-39-deber-de-colaboracion-y-reserva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-39-deber-de-colaboracion-y-reserva.webp" alt="Deber de colaboración y reserva" width="820">
+</p>
+<p align="center"><em>Infografía: Deber de colaboración y reserva.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -566,7 +722,11 @@ Los datos se conservan solo durante el tiempo necesario para cumplir los fines d
 - Con carácter general, el plazo máximo para suprimir los datos es veinte años.
 - Investigaciones abiertas, delitos no prescritos, ejecución pendiente, reincidencia, protección de víctimas u otras circunstancias motivadas pueden justificar superar el plazo general.
 
-<!-- VISUAL PENDIENTE: t26-40-conservacion-y-revision-tres-y-veinte-anos.webp -->
+<!-- VISUAL:t26-40-conservacion-y-revision-tres-y-veinte-anos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-40-conservacion-y-revision-tres-y-veinte-anos.webp" alt="Conservación y revisión: tres y veinte años" width="820">
+</p>
+<p align="center"><em>Infografía: Conservación y revisión: tres y veinte años.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -580,7 +740,11 @@ En la medida de lo posible deben distinguirse sospechosos o potenciales autores,
 - Antes de transmitir deben adoptarse medidas razonables para evitar datos inexactos, incompletos o desactualizados.
 - Si se detecta transmisión incorrecta o ilegal se avisa sin dilación al destinatario y se rectifica, suprime o limita el tratamiento.
 
-<!-- VISUAL PENDIENTE: t26-41-categorias-de-interesados-y-calidad.webp -->
+<!-- VISUAL:t26-41-categorias-de-interesados-y-calidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-41-categorias-de-interesados-y-calidad.webp" alt="Categorías de interesados y calidad" width="820">
+</p>
+<p align="center"><em>Infografía: Categorías de interesados y calidad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -594,7 +758,11 @@ El tratamiento solo es lícito si es necesario para los fines del artículo 1 y 
 - Las categorías especiales solo se tratan cuando sea estrictamente necesario, con garantías y bajo una circunstancia del artículo 13.
 - Las autoridades competentes pueden tratar biometría dirigida a identificar unívocamente para los fines legalmente previstos.
 
-<!-- VISUAL PENDIENTE: t26-42-licitud-y-categorias-especiales.webp -->
+<!-- VISUAL:t26-42-licitud-y-categorias-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-42-licitud-y-categorias-especiales.webp" alt="Licitud y categorías especiales" width="820">
+</p>
+<p align="center"><em>Infografía: Licitud y categorías especiales.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -608,7 +776,11 @@ Se prohíben las decisiones basadas únicamente en tratamiento automatizado que 
 - Está prohibida la elaboración de perfiles que produzca discriminación basada en categorías especiales.
 - La utilidad operativa de un algoritmo no sustituye la habilitación, la evaluación de riesgos ni la revisión humana exigible.
 
-<!-- VISUAL PENDIENTE: t26-43-decisiones-automatizadas-y-perfiles.webp -->
+<!-- VISUAL:t26-43-decisiones-automatizadas-y-perfiles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-43-decisiones-automatizadas-y-perfiles.webp" alt="Decisiones automatizadas y perfiles" width="820">
+</p>
+<p align="center"><em>Infografía: Decisiones automatizadas y perfiles.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -622,7 +794,11 @@ La captación y tratamiento por Fuerzas y Cuerpos de Seguridad conforme a la Ley
 - El responsable debe realizar análisis de riesgos o evaluación de impacto según perjuicio posible y finalidad.
 - Videocámara fija es la anclada a soporte o fachada aunque el sistema pueda moverse en cualquier dirección.
 
-<!-- VISUAL PENDIENTE: t26-44-videovigilancia-policial-sistema-y-proporc.webp -->
+<!-- VISUAL:t26-44-videovigilancia-policial-sistema-y-proporc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-44-videovigilancia-policial-sistema-y-proporc.webp" alt="Videovigilancia policial: sistema y proporcionalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Videovigilancia policial: sistema y proporcionalidad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -636,7 +812,11 @@ La regulación de sistemas fijos también se aplica si la Policía usa cámaras 
 - La ciudadanía debe ser informada clara y permanentemente de la existencia de cámaras fijas.
 - La información identifica a la autoridad responsable, pero no debe especificar el emplazamiento exacto de las cámaras.
 
-<!-- VISUAL PENDIENTE: t26-45-sistemas-fijos-y-deber-de-informacion.webp -->
+<!-- VISUAL:t26-45-sistemas-fijos-y-deber-de-informacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-45-sistemas-fijos-y-deber-de-informacion.webp" alt="Sistemas fijos y deber de información" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas fijos y deber de información.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -650,7 +830,11 @@ Los dispositivos móviles pueden captar conjuntamente imagen y sonido cuando con
 - El periodo máximo es un mes prorrogable por otro.
 - En urgencia o necesidad inaplazable decide el responsable operativo y comunica la actuación a la autoridad competente a la mayor brevedad y siempre dentro de veinticuatro horas.
 
-<!-- VISUAL PENDIENTE: t26-46-dispositivos-moviles.webp -->
+<!-- VISUAL:t26-46-dispositivos-moviles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-46-dispositivos-moviles.webp" alt="Dispositivos móviles" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivos móviles.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -664,7 +848,11 @@ Si una grabación capta posible infracción penal, el soporte original íntegro 
 - Las grabaciones se destruyen como máximo a los tres meses, salvo relación con infracción relevante, investigación o procedimiento abierto.
 - Manipular registros, permitir accesos no autorizados o usar grabaciones para fines distintos puede constituir falta disciplinaria muy grave.
 
-<!-- VISUAL PENDIENTE: t26-47-entrega-conservacion-y-disciplina-de-graba.webp -->
+<!-- VISUAL:t26-47-entrega-conservacion-y-disciplina-de-graba.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-47-entrega-conservacion-y-disciplina-de-graba.webp" alt="Entrega, conservación y disciplina de grabaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Entrega, conservación y disciplina de grabaciones.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -678,7 +866,11 @@ La información debe ser concisa, inteligible, accesible y expresada con lenguaj
 - Las solicitudes son gratuitas, pero pueden inadmitirse motivadamente si son manifiestamente infundadas o excesivas.
 - Se considera repetitiva la presentación de tres solicitudes sobre el mismo supuesto en seis meses, salvo causa legítima.
 
-<!-- VISUAL PENDIENTE: t26-48-condiciones-generales-de-los-derechos.webp -->
+<!-- VISUAL:t26-48-condiciones-generales-de-los-derechos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-48-condiciones-generales-de-los-derechos.webp" alt="Condiciones generales de los derechos" width="820">
+</p>
+<p align="center"><em>Infografía: Condiciones generales de los derechos.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -692,7 +884,11 @@ Debe ponerse a disposición identidad y contacto del responsable, contacto del d
 - El acceso incluye información sobre origen de los datos y garantías de decisiones automatizadas cuando proceda.
 - Elegir un medio de acceso con coste desproporcionado obliga al interesado a asumir el exceso o aceptar el medio inicialmente ofrecido.
 
-<!-- VISUAL PENDIENTE: t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp -->
+<!-- VISUAL:t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-49-informacion-y-acceso-en-la-ley-organica-7-.webp" alt="Información y acceso en la Ley Orgánica 7/2021" width="820">
+</p>
+<p align="center"><em>Infografía: Información y acceso en la Ley Orgánica 7/2021.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -706,7 +902,11 @@ La rectificación se obtiene sin dilación indebida cuando los datos son inexact
 - Se limita, en lugar de suprimir, si no puede determinarse exactitud o los datos deben conservarse con fines probatorios.
 - La rectificación, supresión o limitación se notifica a destinatarios para que actúen sobre los datos bajo su responsabilidad.
 
-<!-- VISUAL PENDIENTE: t26-50-rectificacion-supresion-y-limitacion-polic.webp -->
+<!-- VISUAL:t26-50-rectificacion-supresion-y-limitacion-polic.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-50-rectificacion-supresion-y-limitacion-polic.webp" alt="Rectificación, supresión y limitación policial" width="820">
+</p>
+<p align="center"><em>Infografía: Rectificación, supresión y limitación policial.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -720,7 +920,11 @@ El responsable puede aplazar, limitar u omitir información o restringir derecho
 - Los fundamentos de hecho y derecho de una denegación de acceso deben documentarse y quedar disponibles para la autoridad de protección de datos.
 - El interesado puede ejercer derechos a través de la autoridad de protección de datos cuando operen las restricciones del artículo 24.
 
-<!-- VISUAL PENDIENTE: t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp -->
+<!-- VISUAL:t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-51-restricciones-y-ejercicio-a-traves-de-la-a.webp" alt="Restricciones y ejercicio a través de la autoridad" width="820">
+</p>
+<p align="center"><em>Infografía: Restricciones y ejercicio a través de la autoridad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -734,7 +938,11 @@ Si los datos figuran en resoluciones, registros, diligencias o expedientes de in
 - La Ley Orgánica 7/2021 actúa supletoriamente cuando esas normas no regulan el ejercicio del derecho.
 - La vía procesal especial impide trasladar mecánicamente el procedimiento administrativo ordinario de acceso a un sumario o diligencia penal.
 
-<!-- VISUAL PENDIENTE: t26-52-derechos-en-investigaciones-y-procesos-pen.webp -->
+<!-- VISUAL:t26-52-derechos-en-investigaciones-y-procesos-pen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-52-derechos-en-investigaciones-y-procesos-pen.webp" alt="Derechos en investigaciones y procesos penales" width="820">
+</p>
+<p align="center"><em>Infografía: Derechos en investigaciones y procesos penales.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -748,7 +956,11 @@ El responsable adopta y actualiza medidas técnicas y organizativas apropiadas s
 - Los corresponsables determinan transparentemente sus responsabilidades mediante el instrumento oportuno, salvo que la ley las asigne.
 - El acuerdo de corresponsabilidad debe designar punto de contacto para interesados si no viene legalmente determinado.
 
-<!-- VISUAL PENDIENTE: t26-53-responsable-diseno-y-corresponsabilidad.webp -->
+<!-- VISUAL:t26-53-responsable-diseno-y-corresponsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-53-responsable-diseno-y-corresponsabilidad.webp" alt="Responsable, diseño y corresponsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Responsable, diseño y corresponsabilidad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -762,7 +974,11 @@ El responsable solo recurre a encargados que ofrezcan garantías suficientes de 
 - La relación se formaliza por escrito en contrato, convenio u otro instrumento jurídico que fija objeto, duración, datos y obligaciones.
 - Quien actúa bajo autoridad del responsable o encargado solo trata datos siguiendo instrucciones, salvo obligación legal.
 
-<!-- VISUAL PENDIENTE: t26-54-encargado-y-actuacion-bajo-instrucciones.webp -->
+<!-- VISUAL:t26-54-encargado-y-actuacion-bajo-instrucciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-54-encargado-y-actuacion-bajo-instrucciones.webp" alt="Encargado y actuación bajo instrucciones" width="820">
+</p>
+<p align="center"><em>Infografía: Encargado y actuación bajo instrucciones.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -776,7 +992,11 @@ Responsable y encargado llevan por escrito, también en formato electrónico, re
 - En sistemas automatizados se registran, como mínimo, recogida, modificación, consulta, comunicación, transferencias, interconexión y supresión.
 - Los registros de consulta y comunicación permiten conocer justificación, fecha, hora, usuario y destinatario en la medida de lo posible.
 
-<!-- VISUAL PENDIENTE: t26-55-registros-de-actividades-y-operaciones.webp -->
+<!-- VISUAL:t26-55-registros-de-actividades-y-operaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-55-registros-de-actividades-y-operaciones.webp" alt="Registros de actividades y operaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Registros de actividades y operaciones.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -790,7 +1010,11 @@ La evaluación de impacto es previa cuando un tratamiento, especialmente con nue
 - La autoridad asesora por escrito en seis semanas y puede prorrogar un mes por complejidad, informando de la prórroga.
 - La falta de respuesta a la consulta dentro del plazo no produce silencio favorable.
 
-<!-- VISUAL PENDIENTE: t26-56-evaluacion-de-impacto-y-consulta-previa.webp -->
+<!-- VISUAL:t26-56-evaluacion-de-impacto-y-consulta-previa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-56-evaluacion-de-impacto-y-consulta-previa.webp" alt="Evaluación de impacto y consulta previa" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de impacto y consulta previa.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -804,7 +1028,11 @@ Responsable y encargado aplican medidas adecuadas al estado de la técnica, cost
 - Los sistemas deben permitir restablecimiento, asegurar fiabilidad e integridad y señalar errores de funcionamiento.
 - Las categorías especiales requieren atención reforzada, pero la seguridad debe cubrir todo dato personal tratado.
 
-<!-- VISUAL PENDIENTE: t26-57-seguridad-y-esquema-nacional-de-seguridad.webp -->
+<!-- VISUAL:t26-57-seguridad-y-esquema-nacional-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-57-seguridad-y-esquema-nacional-de-seguridad.webp" alt="Seguridad y Esquema Nacional de Seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad y Esquema Nacional de Seguridad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -818,7 +1046,11 @@ La violación se notifica a la autoridad dentro de setenta y dos horas desde que
 - Si existen indicios de alto riesgo, el responsable comunica la violación al interesado sin dilación indebida y en lenguaje claro.
 - La comunicación al interesado puede omitirse por protección previa eficaz, medidas posteriores que eliminen el alto riesgo, esfuerzo desproporcionado o restricción válida.
 
-<!-- VISUAL PENDIENTE: t26-58-violaciones-de-seguridad.webp -->
+<!-- VISUAL:t26-58-violaciones-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-58-violaciones-de-seguridad.webp" alt="Violaciones de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Violaciones de seguridad.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -832,7 +1064,11 @@ Los responsables sometidos a la Ley Orgánica 7/2021 designan en todo caso deleg
 - El delegado debe participar oportunamente, mantener conocimientos, disponer de recursos, acceder a datos y actuar sin instrucciones sobre sus funciones.
 - Sus funciones incluyen informar, supervisar, asesorar sobre impacto, cooperar y ser punto de contacto con la autoridad.
 
-<!-- VISUAL PENDIENTE: t26-59-delegado-de-proteccion-de-datos-policial.webp -->
+<!-- VISUAL:t26-59-delegado-de-proteccion-de-datos-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-59-delegado-de-proteccion-de-datos-policial.webp" alt="Delegado de protección de datos policial" width="820">
+</p>
+<p align="center"><em>Infografía: Delegado de protección de datos policial.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -846,7 +1082,11 @@ Las transferencias a terceros países u organizaciones internacionales deben ser
 - La retirada de una decisión de adecuación no impide acudir a garantías apropiadas o excepciones legales.
 - Las transferencias ulteriores deben respetar las condiciones impuestas y el nivel de protección de la Ley Orgánica 7/2021.
 
-<!-- VISUAL PENDIENTE: t26-60-transferencias-internacionales-regla-y-ade.webp -->
+<!-- VISUAL:t26-60-transferencias-internacionales-regla-y-ade.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-60-transferencias-internacionales-regla-y-ade.webp" alt="Transferencias internacionales: regla y adecuación" width="820">
+</p>
+<p align="center"><em>Infografía: Transferencias internacionales: regla y adecuación.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -860,7 +1100,11 @@ Sin adecuación puede transferirse mediante instrumento vinculante con garantía
 - La transferencia directa a destinatario privado de tercer país es excepcional, para casos particulares y exige todas las condiciones del artículo 47.
 - Las transferencias directas se informan a la autoridad de protección de datos y deben documentarse.
 
-<!-- VISUAL PENDIENTE: t26-61-garantias-excepciones-y-transferencias-dir.webp -->
+<!-- VISUAL:t26-61-garantias-excepciones-y-transferencias-dir.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-61-garantias-excepciones-y-transferencias-dir.webp" alt="Garantías, excepciones y transferencias directas" width="820">
+</p>
+<p align="center"><em>Infografía: Garantías, excepciones y transferencias directas.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -874,7 +1118,11 @@ Son autoridades independientes la AEPD y las autonómicas dentro de su competenc
 - Sus poderes incluyen investigación, advertencia, órdenes de rectificación, supresión o limitación y prohibición temporal o definitiva del tratamiento.
 - El control de tratamientos jurisdiccionales corresponde a los órganos previstos en la legislación judicial y fiscal, no a la autoridad administrativa ordinaria.
 
-<!-- VISUAL PENDIENTE: t26-62-autoridades-independientes-funciones-y-pod.webp -->
+<!-- VISUAL:t26-62-autoridades-independientes-funciones-y-pod.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-62-autoridades-independientes-funciones-y-pod.webp" alt="Autoridades independientes, funciones y poderes" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridades independientes, funciones y poderes.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -888,7 +1136,11 @@ El interesado puede reclamar ante la autoridad si considera infringida la ley o 
 - Las decisiones de la autoridad de protección de datos pueden recurrirse ante la jurisdicción contencioso-administrativa.
 - El interesado puede conferir representación a entidad sin ánimo de lucro constituida y activa en protección de derechos y libertades.
 
-<!-- VISUAL PENDIENTE: t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp -->
+<!-- VISUAL:t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-63-reclamacion-indemnizacion-y-tutela-judicia.webp" alt="Reclamación, indemnización y tutela judicial" width="820">
+</p>
+<p align="center"><em>Infografía: Reclamación, indemnización y tutela judicial.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -902,7 +1154,11 @@ Responden directamente quienes, por acción u omisión, realizan la conducta inf
 - Las infracciones se clasifican en muy graves, graves y leves.
 - La negativa a colaborar puede ser muy grave o grave según conducta y perjuicio, y la potestad corresponde en supuestos específicos a Secretaría de Estado de Seguridad o Delegaciones del Gobierno.
 
-<!-- VISUAL PENDIENTE: t26-64-regimen-sancionador-sujetos-e-infracciones.webp -->
+<!-- VISUAL:t26-64-regimen-sancionador-sujetos-e-infracciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-64-regimen-sancionador-sujetos-e-infracciones.webp" alt="Régimen sancionador: sujetos e infracciones" width="820">
+</p>
+<p align="center"><em>Infografía: Régimen sancionador: sujetos e infracciones.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 
@@ -916,7 +1172,11 @@ Para sujetos del artículo 77.1 de la Ley Orgánica 3/2018 se aplican las medida
 - Las sanciones de hasta 60.000 euros prescriben al año, de 60.001 a 360.000 a los dos y las superiores a 360.000 a los tres.
 - La clave final es separar RGPD y Ley Orgánica 3/2018 del régimen especial de la Ley Orgánica 7/2021 según autoridad, finalidad, derecho, plazo y sanción.
 
-<!-- VISUAL PENDIENTE: t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp -->
+<!-- VISUAL:t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-26/t26-65-sanciones-prescripcion-y-cuadro-comparativ.webp" alt="Sanciones, prescripción y cuadro comparativo" width="820">
+</p>
+<p align="center"><em>Infografía: Sanciones, prescripción y cuadro comparativo.</em></p>
 
 <!-- FUENTE: LO7-2021-T26 -->
 

@@ -19,7 +19,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El análisis combina localización, distribución, conexión, escala y cambio para explicar por qué los fenómenos humanos adoptan configuraciones espaciales diferentes.
 - La separación entre geografía física y humana es analítica: procesos ambientales y sociales interactúan continuamente.
 
-<!-- VISUAL PENDIENTE: t32-il-01-concepto-de-geografia-humana.webp -->
+<!-- VISUAL:t32-il-01-concepto-de-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-01-concepto-de-geografia-humana.webp" alt="Concepto de geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de geografía humana.</em></p>
 
 <!-- FUENTE: UN-HABITAT-T32 -->
 
@@ -32,7 +36,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Las decisiones espaciales distribuyen de manera desigual accesibilidad, oportunidades, costes y riesgos entre grupos y territorios.
 - El espacio geográfico es dinámico: conserva huellas históricas y cambia mediante procesos demográficos, económicos, políticos, culturales y ambientales.
 
-<!-- VISUAL PENDIENTE: t32-02-sociedad-espacio-y-medio.webp -->
+<!-- VISUAL:t32-02-sociedad-espacio-y-medio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-02-sociedad-espacio-y-medio.webp" alt="Sociedad, espacio y medio" width="820">
+</p>
+<p align="center"><em>Infografía: Sociedad, espacio y medio.</em></p>
 
 <!-- FUENTE: UN-HABITAT-T32 -->
 
@@ -45,7 +53,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Las geografías económica y rural examinan localización de actividades, producción, intercambios, sistemas agrarios y transformación de espacios no urbanos.
 - Las geografías social, cultural y política analizan desigualdades, identidades, prácticas, instituciones, poder y territorialidad.
 
-<!-- VISUAL PENDIENTE: t32-03-ramas-de-la-geografia-humana.webp -->
+<!-- VISUAL:t32-03-ramas-de-la-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-03-ramas-de-la-geografia-humana.webp" alt="Ramas de la geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Ramas de la geografía humana.</em></p>
 
 <!-- FUENTE: UN-HABITAT-T32 -->
 
@@ -58,7 +70,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Paisaje es la expresión visible y percibida de la interacción entre componentes naturales y humanos a lo largo del tiempo.
 - Territorio es un espacio apropiado, organizado o regulado por actores e instituciones y vinculado a relaciones de poder.
 
-<!-- VISUAL PENDIENTE: t32-04-lugar-region-paisaje-y-territorio.webp -->
+<!-- VISUAL:t32-04-lugar-region-paisaje-y-territorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-04-lugar-region-paisaje-y-territorio.webp" alt="Lugar, región, paisaje y territorio" width="820">
+</p>
+<p align="center"><em>Infografía: Lugar, región, paisaje y territorio.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -71,7 +87,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La escala cartográfica expresa la relación entre distancia representada y real; la escala de análisis indica el nivel espacial desde el que se estudia un proceso.
 - Un patrón visible a escala nacional puede ocultar diferencias locales, por lo que cambiar de escala puede modificar la interpretación.
 
-<!-- VISUAL PENDIENTE: t32-il-05-escala-localizacion-y-situacion.webp -->
+<!-- VISUAL:t32-il-05-escala-localizacion-y-situacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-05-escala-localizacion-y-situacion.webp" alt="Escala, localización y situación" width="820">
+</p>
+<p align="center"><em>Infografía: Escala, localización y situación.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -84,7 +104,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Accesibilidad expresa la facilidad de alcanzar lugares, servicios u oportunidades según distancia, tiempo, coste, red y barreras.
 - Dos territorios con igual densidad media pueden presentar asentamientos y niveles de accesibilidad completamente distintos.
 
-<!-- VISUAL PENDIENTE: t32-06-distribucion-densidad-y-accesibilidad.webp -->
+<!-- VISUAL:t32-06-distribucion-densidad-y-accesibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-06-distribucion-densidad-y-accesibilidad.webp" alt="Distribución, densidad y accesibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución, densidad y accesibilidad.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -97,7 +121,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Los enfoques humanista y de la percepción atienden a experiencia, significado, decisiones y representaciones del espacio.
 - La geografía crítica examina cómo poder, desigualdad y organización económica producen territorios y distribuyen recursos y riesgos.
 
-<!-- VISUAL PENDIENTE: t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp -->
+<!-- VISUAL:t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp" alt="Enfoques y métodos de la geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoques y métodos de la geografía humana.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -110,7 +138,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El criterio funcional considera empleo no agrario, servicios, movilidad y relaciones con un área de influencia.
 - El criterio administrativo depende de límites y estatutos legales, que pueden no coincidir con la ciudad construida o funcional.
 
-<!-- VISUAL PENDIENTE: t32-08-concepto-operativo-de-ciudad.webp -->
+<!-- VISUAL:t32-08-concepto-operativo-de-ciudad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-08-concepto-operativo-de-ciudad.webp" alt="Concepto operativo de ciudad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto operativo de ciudad.</em></p>
 
 <!-- FUENTE: UN-HABITAT-CITY-T32 -->
 
@@ -123,7 +155,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La clase de una celda depende de concentración, densidad y población, no solo del nombre administrativo del municipio.
 - La clasificación estadística no elimina las definiciones jurídicas nacionales ni convierte todas las áreas urbanas en una misma realidad social.
 
-<!-- VISUAL PENDIENTE: t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp -->
+<!-- VISUAL:t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp" alt="Grado de urbanización y comparación internacional" width="820">
+</p>
+<p align="center"><em>Infografía: Grado de urbanización y comparación internacional.</em></p>
 
 <!-- FUENTE: UN-HABITAT-CITY-T32 -->
 
@@ -136,7 +172,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La función urbana expresa actividades predominantes, como administración, industria, comercio, transporte, turismo o servicios.
 - La jerarquía urbana ordena ciudades por tamaño, funciones, especialización y alcance de su área de influencia.
 
-<!-- VISUAL PENDIENTE: t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp -->
+<!-- VISUAL:t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp" alt="Emplazamiento, situación, función y jerarquía" width="820">
+</p>
+<p align="center"><em>Infografía: Emplazamiento, situación, función y jerarquía.</em></p>
 
 <!-- FUENTE: UN-HABITAT-T32 -->
 
@@ -149,7 +189,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La expansión física puede ser compacta o dispersa y sus efectos dependen de planificación, transporte, vivienda, servicios y protección ambiental.
 - Urbanización no equivale necesariamente a industrialización, aunque ambos procesos han estado históricamente relacionados.
 
-<!-- VISUAL PENDIENTE: t32-11-urbanizacion-y-crecimiento-urbano.webp -->
+<!-- VISUAL:t32-11-urbanizacion-y-crecimiento-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-11-urbanizacion-y-crecimiento-urbano.webp" alt="Urbanización y crecimiento urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Urbanización y crecimiento urbano.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -162,7 +206,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La trama describe la disposición y relación entre vías, parcelas y construcciones y puede ser abierta, cerrada, regular o irregular.
 - Una misma ciudad suele superponer morfologías de etapas diferentes y no responde a un único modelo puro.
 
-<!-- VISUAL PENDIENTE: t32-12-morfologia-y-plano-urbano.webp -->
+<!-- VISUAL:t32-12-morfologia-y-plano-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-12-morfologia-y-plano-urbano.webp" alt="Morfología y plano urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Morfología y plano urbano.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -175,7 +223,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El plano radiocéntrico combina ejes radiales con anillos alrededor de un centro, favoreciendo conexiones centro-periferia.
 - El plano lineal desarrolla el asentamiento a lo largo de un eje de transporte, valle, costa u otra directriz principal.
 
-<!-- VISUAL PENDIENTE: t32-13-planos-irregular-ortogonal-radial-y-lineal.webp -->
+<!-- VISUAL:t32-13-planos-irregular-ortogonal-radial-y-lineal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-13-planos-irregular-ortogonal-radial-y-lineal.webp" alt="Planos irregular, ortogonal, radial y lineal" width="820">
+</p>
+<p align="center"><em>Infografía: Planos irregular, ortogonal, radial y lineal.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -188,7 +240,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La periferia reúne áreas residenciales, industriales, logísticas y comerciales de épocas recientes con densidades y calidades muy distintas.
 - Centro y periferia son posiciones relacionales y funcionales; no equivalen automáticamente a riqueza y pobreza.
 
-<!-- VISUAL PENDIENTE: t32-14-centro-historico-ensanche-y-periferia.webp -->
+<!-- VISUAL:t32-14-centro-historico-ensanche-y-periferia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-14-centro-historico-ensanche-y-periferia.webp" alt="Centro histórico, ensanche y periferia" width="820">
+</p>
+<p align="center"><em>Infografía: Centro histórico, ensanche y periferia.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -201,7 +257,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El área de influencia es el espacio que utiliza una ciudad para atraer desplazamientos, prestar servicios o articular actividades.
 - Las redes cambian con infraestructuras, tecnología, economía y políticas; no son simples listas estáticas de ciudades.
 
-<!-- VISUAL PENDIENTE: t32-15-red-urbana-y-areas-de-influencia.webp -->
+<!-- VISUAL:t32-15-red-urbana-y-areas-de-influencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-15-red-urbana-y-areas-de-influencia.webp" alt="Red urbana y áreas de influencia" width="820">
+</p>
+<p align="center"><em>Infografía: Red urbana y áreas de influencia.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -214,7 +274,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Conurbación es la unión física o funcional de núcleos inicialmente independientes que conservan identidades o centros propios.
 - Megalópolis es una extensa región urbanizada que conecta varias áreas metropolitanas y redes de ciudades, no una única ciudad gigantesca.
 
-<!-- VISUAL PENDIENTE: t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp -->
+<!-- VISUAL:t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp" alt="Metrópolis, área metropolitana, conurbación y megalópolis" width="820">
+</p>
+<p align="center"><em>Infografía: Metrópolis, área metropolitana, conurbación y megalópolis.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -227,7 +291,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Rururbanización incorpora actividades, población y formas de vida urbanas en espacios que conservan rasgos rurales.
 - Estos procesos pueden aumentar movilidad y consumo de suelo si no se coordinan vivienda, servicios y transporte.
 
-<!-- VISUAL PENDIENTE: t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp -->
+<!-- VISUAL:t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp" alt="Suburbanización, periurbanización y rururbanización" width="820">
+</p>
+<p align="center"><em>Infografía: Suburbanización, periurbanización y rururbanización.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -240,7 +308,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La ciudad compacta concentra usos y población y puede reducir distancias, aunque necesita vivienda asequible, zonas verdes y capacidad de servicios.
 - Densificar sin calidad urbana puede aumentar hacinamiento, precios y exposición ambiental; compacto no significa saturado.
 
-<!-- VISUAL PENDIENTE: t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp -->
+<!-- VISUAL:t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp" alt="Desurbanización, reurbanización y ciudad compacta" width="820">
+</p>
+<p align="center"><em>Infografía: Desurbanización, reurbanización y ciudad compacta.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -253,7 +325,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Gentrificación es la reinversión y revalorización de un área que atrae población de mayor renta y puede desplazar a residentes anteriores.
 - La rehabilitación física no produce inevitablemente expulsión, pero el riesgo crece sin protección residencial y participación local.
 
-<!-- VISUAL PENDIENTE: t32-il-19-segregacion-gueto-y-gentrificacion.webp -->
+<!-- VISUAL:t32-il-19-segregacion-gueto-y-gentrificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-19-segregacion-gueto-y-gentrificacion.webp" alt="Segregación, gueto y gentrificación" width="820">
+</p>
+<p align="center"><em>Infografía: Segregación, gueto y gentrificación.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -266,7 +342,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Arturo Soria formuló la ciudad lineal organizada a lo largo de un eje de transporte y servicios con edificación extendida a ambos lados.
 - Ciudad jardín y ciudad lineal son propuestas de planificación diferentes: una organiza núcleos limitados; la otra prioriza un corredor.
 
-<!-- VISUAL PENDIENTE: t32-20-ciudad-jardin-y-ciudad-lineal.webp -->
+<!-- VISUAL:t32-20-ciudad-jardin-y-ciudad-lineal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-20-ciudad-jardin-y-ciudad-lineal.webp" alt="Ciudad jardín y ciudad lineal" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudad jardín y ciudad lineal.</em></p>
 
 <!-- FUENTE: HOWARD-1902-T32 -->
 
@@ -279,7 +359,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La ecología urbana utilizó conceptos como invasión, sucesión, dominación y áreas naturales para describir cambios territoriales.
 - El enfoque produjo hipótesis influyentes, pero no debe tratarse como ley universal ni convertir procesos sociales en biología.
 
-<!-- VISUAL PENDIENTE: t32-21-escuela-de-chicago-y-ecologia-urbana.webp -->
+<!-- VISUAL:t32-21-escuela-de-chicago-y-ecologia-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-21-escuela-de-chicago-y-ecologia-urbana.webp" alt="Escuela de Chicago y ecología urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela de Chicago y ecología urbana.</em></p>
 
 <!-- FUENTE: PARK-BURGESS-1925-T32 -->
 
@@ -292,7 +376,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La zona de transición combina deterioro, cambio de usos, industria ligera y elevada movilidad residencial.
 - El modelo es ideal-típico: barreras físicas, planificación, transporte e historia pueden romper la forma concéntrica.
 
-<!-- VISUAL PENDIENTE: t32-il-22-modelo-concentrico-de-burgess.webp -->
+<!-- VISUAL:t32-il-22-modelo-concentrico-de-burgess.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-22-modelo-concentrico-de-burgess.webp" alt="Modelo concéntrico de Burgess" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo concéntrico de Burgess.</em></p>
 
 <!-- FUENTE: BURGESS-1925-T32 -->
 
@@ -305,7 +393,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Las zonas de renta alta pueden expandirse siguiendo corredores atractivos, mientras otros usos ocupan sectores distintos.
 - El modelo explica direcciones de crecimiento, pero no supone que toda ciudad tenga un único centro o sectores perfectos.
 
-<!-- VISUAL PENDIENTE: t32-23-modelo-sectorial-de-homer-hoyt.webp -->
+<!-- VISUAL:t32-23-modelo-sectorial-de-homer-hoyt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-23-modelo-sectorial-de-homer-hoyt.webp" alt="Modelo sectorial de Homer Hoyt" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo sectorial de Homer Hoyt.</em></p>
 
 <!-- FUENTE: HOYT-1939-T32 -->
 
@@ -318,7 +410,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Un distrito industrial, un centro comercial periférico, un campus o un aeropuerto pueden actuar como núcleos diferenciados.
 - El modelo multinuclear se adapta mejor a áreas metropolitanas complejas, aunque tampoco reproduce cada ciudad de manera exacta.
 
-<!-- VISUAL PENDIENTE: t32-il-24-modelo-de-nucleos-multiples.webp -->
+<!-- VISUAL:t32-il-24-modelo-de-nucleos-multiples.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-24-modelo-de-nucleos-multiples.webp" alt="Modelo de núcleos múltiples" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de núcleos múltiples.</em></p>
 
 <!-- FUENTE: HARRIS-ULLMAN-1945-T32 -->
 
@@ -331,7 +427,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El anonimato y la movilidad pueden ampliar libertad y asociaciones voluntarias, pero también debilitar vínculos primarios o producir aislamiento.
 - La tesis describe tendencias y no permite deducir que toda relación urbana sea impersonal o desorganizada.
 
-<!-- VISUAL PENDIENTE: t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp -->
+<!-- VISUAL:t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp" alt="Urbanismo como modo de vida: Louis Wirth" width="820">
+</p>
+<p align="center"><em>Infografía: Urbanismo como modo de vida: Louis Wirth.</em></p>
 
 <!-- FUENTE: WIRTH-1938-T32 -->
 
@@ -344,7 +444,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Los sistemas de información geográfica integran datos georreferenciados para representar, relacionar y analizar fenómenos urbanos.
 - Un modelo simplifica la realidad y debe contrastarse; precisión numérica no corrige datos deficientes ni supuestos erróneos.
 
-<!-- VISUAL PENDIENTE: t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp -->
+<!-- VISUAL:t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp" alt="Geografía cuantitativa y análisis espacial urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Geografía cuantitativa y análisis espacial urbano.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -357,7 +461,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La geografía crítica analiza producción del espacio, vivienda, capital, poder y distribución desigual de beneficios y costes urbanos.
 - Estos enfoques complementan el análisis morfológico: la misma calle puede ser físicamente igual y socialmente vivida de modos diferentes.
 
-<!-- VISUAL PENDIENTE: t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp -->
+<!-- VISUAL:t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp" alt="Enfoques perceptivo, humanista y crítico de la ciudad" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoques perceptivo, humanista y crítico de la ciudad.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -370,7 +478,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La especialización cambia con el tiempo y una ciudad suele combinar varias funciones en proporciones diferentes.
 - La etiqueta funcional no depende solo del empleo: también cuentan infraestructuras, servicios, flujos y posición en la red urbana.
 
-<!-- VISUAL PENDIENTE: t32-28-ciudades-segun-su-funcion-predominante.webp -->
+<!-- VISUAL:t32-28-ciudades-segun-su-funcion-predominante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-28-ciudades-segun-su-funcion-predominante.webp" alt="Ciudades según su función predominante" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudades según su función predominante.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -383,7 +495,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La red radiocéntrica organiza conexiones en torno a una ciudad central de la que parten ejes radiales.
 - La red dendrítica presenta ramificaciones semejantes a un árbol y puede concentrar nodos en costas o vías principales dejando un interior menos conectado.
 
-<!-- VISUAL PENDIENTE: t32-29-formas-de-la-red-urbana.webp -->
+<!-- VISUAL:t32-29-formas-de-la-red-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-29-formas-de-la-red-urbana.webp" alt="Formas de la red urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Formas de la red urbana.</em></p>
 
 <!-- FUENTE: IGN-CONCEPTS-T32 -->
 
@@ -396,7 +512,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Comparar poblaciones absolutas informa de tamaño, pero no de presión territorial ni patrón de asentamiento.
 - Toda cifra de población debe indicar territorio, fecha, unidad y fuente para ser interpretable.
 
-<!-- VISUAL PENDIENTE: t32-30-poblacion-absoluta-y-poblacion-relativa.webp -->
+<!-- VISUAL:t32-30-poblacion-absoluta-y-poblacion-relativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-30-poblacion-absoluta-y-poblacion-relativa.webp" alt="Población absoluta y población relativa" width="820">
+</p>
+<p align="center"><em>Infografía: Población absoluta y población relativa.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -409,7 +529,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Despoblación es una pérdida sostenida de habitantes; baja densidad describe una relación población-superficie y no implica por sí sola descenso.
 - La concentración puede generar economías de aglomeración y también costes de vivienda, congestión, contaminación y desigualdad.
 
-<!-- VISUAL PENDIENTE: t32-31-distribucion-de-la-poblacion.webp -->
+<!-- VISUAL:t32-31-distribucion-de-la-poblacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-31-distribucion-de-la-poblacion.webp" alt="Distribución de la población" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de la población.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -422,7 +546,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La razón de sexos compara cantidades de hombres y mujeres mediante una relación cuya convención debe declararse.
 - La composición resulta de nacimientos, defunciones y migraciones acumuladas y puede cambiar aunque el total permanezca estable.
 
-<!-- VISUAL PENDIENTE: t32-32-estructura-por-sexo-y-edad.webp -->
+<!-- VISUAL:t32-32-estructura-por-sexo-y-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-32-estructura-por-sexo-y-edad.webp" alt="Estructura por sexo y edad" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura por sexo y edad.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -435,7 +563,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La forma estacionaria muestra proporciones más equilibradas y crecimiento lento o aproximadamente nulo.
 - La forma regresiva o constrictiva tiene base estrecha y mayor peso adulto y anciano, compatible con baja natalidad y envejecimiento.
 
-<!-- VISUAL PENDIENTE: t32-33-piramides-de-poblacion.webp -->
+<!-- VISUAL:t32-33-piramides-de-poblacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-33-piramides-de-poblacion.webp" alt="Pirámides de población" width="820">
+</p>
+<p align="center"><em>Infografía: Pirámides de población.</em></p>
 
 <!-- FUENTE: INE-DEMOGRAFIA-T32 -->
 
@@ -448,7 +580,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La población parada carece de empleo, busca activamente y está disponible; no equivale a toda persona sin trabajo.
 - La población inactiva incluye, entre otras, personas que no trabajan ni buscan activamente conforme a los criterios de la encuesta.
 
-<!-- VISUAL PENDIENTE: t32-34-estructura-economica-y-actividad.webp -->
+<!-- VISUAL:t32-34-estructura-economica-y-actividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-34-estructura-economica-y-actividad.webp" alt="Estructura económica y actividad" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura económica y actividad.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -461,7 +597,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Una persona ocupa varios estatus y desempeña roles que pueden entrar en conflicto.
 - Clase, ocupación, educación, renta, género, edad y origen pueden influir en oportunidades, pero no determinan por sí solos cada conducta individual.
 
-<!-- VISUAL PENDIENTE: t32-il-35-estructura-social-posicion-y-rol.webp -->
+<!-- VISUAL:t32-il-35-estructura-social-posicion-y-rol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-35-estructura-social-posicion-y-rol.webp" alt="Estructura social, posición y rol" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura social, posición y rol.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -474,7 +614,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Movilidad vertical implica ascenso o descenso de posición; movilidad horizontal cambia de situación sin variación jerárquica clara.
 - La movilidad intergeneracional compara posiciones entre generaciones y la intrageneracional cambios durante la vida de una persona.
 
-<!-- VISUAL PENDIENTE: t32-36-estratificacion-y-movilidad-social.webp -->
+<!-- VISUAL:t32-36-estratificacion-y-movilidad-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-36-estratificacion-y-movilidad-social.webp" alt="Estratificación y movilidad social" width="820">
+</p>
+<p align="center"><em>Infografía: Estratificación y movilidad social.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -487,7 +631,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El grupo de pertenencia es aquel del que se forma parte; el de referencia sirve para comparar, orientar aspiraciones o evaluar conducta.
 - Formal e informal describen grado de regulación y espontaneidad, y no equivalen exactamente a primario y secundario.
 
-<!-- VISUAL PENDIENTE: t32-37-grupos-sociales-y-categorias-estadisticas.webp -->
+<!-- VISUAL:t32-37-grupos-sociales-y-categorias-estadisticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-37-grupos-sociales-y-categorias-estadisticas.webp" alt="Grupos sociales y categorías estadísticas" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos sociales y categorías estadísticas.</em></p>
 
 <!-- FUENTE: UN-HABITAT-WCR-T32 -->
 
@@ -500,7 +648,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El Registro Civil documenta hechos vitales como nacimientos, matrimonios y defunciones que alimentan estadísticas demográficas.
 - Encuestas, registros y nomenclátor complementan la información sobre características, flujos y entidades de población inferiores al municipio.
 
-<!-- VISUAL PENDIENTE: t32-38-fuentes-demograficas-y-territoriales.webp -->
+<!-- VISUAL:t32-38-fuentes-demograficas-y-territoriales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-38-fuentes-demograficas-y-territoriales.webp" alt="Fuentes demográficas y territoriales" width="820">
+</p>
+<p align="center"><em>Infografía: Fuentes demográficas y territoriales.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -513,7 +665,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Un stock mide población en un momento y un flujo cuenta acontecimientos durante un período.
 - Las tasas relacionan acontecimientos con población expuesta al riesgo y permiten comparar poblaciones de tamaño diferente.
 
-<!-- VISUAL PENDIENTE: t32-39-concepto-y-dimensiones-de-la-demografia.webp -->
+<!-- VISUAL:t32-39-concepto-y-dimensiones-de-la-demografia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-39-concepto-y-dimensiones-de-la-demografia.webp" alt="Concepto y dimensiones de la demografía" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y dimensiones de la demografía.</em></p>
 
 <!-- FUENTE: INE-DEMOGRAFIA-T32 -->
 
@@ -526,7 +682,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El resultado depende de los límites y de la superficie usada, por lo que comparar unidades muy distintas puede inducir a error.
 - La densidad media no revela concentración interna, ocupación estacional ni diferencias entre suelo habitable y no habitable.
 
-<!-- VISUAL PENDIENTE: t32-40-densidad-demografica.webp -->
+<!-- VISUAL:t32-40-densidad-demografica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-40-densidad-demografica.webp" alt="Densidad demográfica" width="820">
+</p>
+<p align="center"><em>Infografía: Densidad demográfica.</em></p>
 
 <!-- FUENTE: INE-CENSO-T32 -->
 
@@ -539,7 +699,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Es una tasa bruta porque su denominador incluye toda la población y no solo a quienes pueden tener hijos.
 - Comparar tasas brutas exige considerar estructura por edad y sexo, pues una población más joven puede registrar mayor tasa sin mayor fecundidad individual.
 
-<!-- VISUAL PENDIENTE: t32-41-tasa-bruta-de-natalidad.webp -->
+<!-- VISUAL:t32-41-tasa-bruta-de-natalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-41-tasa-bruta-de-natalidad.webp" alt="Tasa bruta de natalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Tasa bruta de natalidad.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -552,7 +716,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Una tasa bruta alta puede reflejar envejecimiento y no necesariamente peores condiciones sanitarias.
 - Para comparaciones causales se emplean tasas específicas o estandarizadas que controlan edad, sexo u otras diferencias.
 
-<!-- VISUAL PENDIENTE: t32-42-tasa-bruta-de-mortalidad.webp -->
+<!-- VISUAL:t32-42-tasa-bruta-de-mortalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-42-tasa-bruta-de-mortalidad.webp" alt="Tasa bruta de mortalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Tasa bruta de mortalidad.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -565,7 +733,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La tasa de crecimiento vegetativo puede expresarse como diferencia entre las tasas brutas de natalidad y mortalidad si usan igual base y período.
 - El saldo vegetativo no incluye inmigraciones ni emigraciones y por ello no equivale al crecimiento total.
 
-<!-- VISUAL PENDIENTE: t32-43-crecimiento-vegetativo-o-natural.webp -->
+<!-- VISUAL:t32-43-crecimiento-vegetativo-o-natural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-43-crecimiento-vegetativo-o-natural.webp" alt="Crecimiento vegetativo o natural" width="820">
+</p>
+<p align="center"><em>Infografía: Crecimiento vegetativo o natural.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -578,7 +750,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Una población puede crecer con saldo vegetativo negativo si el saldo migratorio positivo lo supera.
 - No debe inferirse un componente a partir del total sin conocer el otro, porque combinaciones distintas producen el mismo resultado.
 
-<!-- VISUAL PENDIENTE: t32-44-crecimiento-total-y-saldo-migratorio.webp -->
+<!-- VISUAL:t32-44-crecimiento-total-y-saldo-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-44-crecimiento-total-y-saldo-migratorio.webp" alt="Crecimiento total y saldo migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Crecimiento total y saldo migratorio.</em></p>
 
 <!-- FUENTE: INE-DEMOGRAFIA-T32 -->
 
@@ -591,7 +767,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El indicador coyuntural de fecundidad estima el número medio de hijos por mujer si se mantuvieran las tasas por edad del período.
 - Fecundidad y fertilidad no deben confundirse: en demografía, fecundidad se refiere a hijos efectivamente tenidos y fertilidad a capacidad biológica.
 
-<!-- VISUAL PENDIENTE: t32-45-natalidad-fecundidad-y-reproduccion.webp -->
+<!-- VISUAL:t32-45-natalidad-fecundidad-y-reproduccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-45-natalidad-fecundidad-y-reproduccion.webp" alt="Natalidad, fecundidad y reproducción" width="820">
+</p>
+<p align="center"><em>Infografía: Natalidad, fecundidad y reproducción.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -604,7 +784,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Esperanza de vida no es la edad máxima ni predice exactamente cuánto vivirá una persona concreta.
 - Mortalidad infantil y esperanza de vida sintetizan dimensiones diferentes y no se obtienen mediante la tasa bruta de mortalidad.
 
-<!-- VISUAL PENDIENTE: t32-46-mortalidad-infantil-y-esperanza-de-vida.webp -->
+<!-- VISUAL:t32-46-mortalidad-infantil-y-esperanza-de-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-46-mortalidad-infantil-y-esperanza-de-vida.webp" alt="Mortalidad infantil y esperanza de vida" width="820">
+</p>
+<p align="center"><em>Infografía: Mortalidad infantil y esperanza de vida.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -617,7 +801,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La estandarización permite comparar poblaciones con estructuras distintas aplicando una estructura común o ajustando el efecto de composición.
 - Una proporción expresa parte sobre total y una razón compara cantidades que no necesariamente forman una parte del mismo total.
 
-<!-- VISUAL PENDIENTE: t32-47-tasas-brutas-especificas-y-estandarizadas.webp -->
+<!-- VISUAL:t32-47-tasas-brutas-especificas-y-estandarizadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-47-tasas-brutas-especificas-y-estandarizadas.webp" alt="Tasas brutas, específicas y estandarizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Tasas brutas, específicas y estandarizadas.</em></p>
 
 <!-- FUENTE: INE-IDB-T32 -->
 
@@ -630,7 +818,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Cuando desciende antes la mortalidad y la natalidad permanece alta, el crecimiento natural se acelera.
 - Cuando también cae la natalidad, el crecimiento se modera y puede llegar a ser muy bajo o negativo en fases avanzadas.
 
-<!-- VISUAL PENDIENTE: t32-48-transicion-demografica.webp -->
+<!-- VISUAL:t32-48-transicion-demografica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-48-transicion-demografica.webp" alt="Transición demográfica" width="820">
+</p>
+<p align="center"><em>Infografía: Transición demográfica.</em></p>
 
 <!-- FUENTE: UN-DESA-DEMOGRAPHY-T32 -->
 
@@ -643,7 +835,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El índice de envejecimiento relaciona población mayor con población joven según edades definidas por la metodología.
 - La tasa o índice de dependencia relaciona grupos potencialmente dependientes con población en edades potencialmente activas, no dependencia económica individual real.
 
-<!-- VISUAL PENDIENTE: t32-49-regimenes-demograficos-y-envejecimiento.webp -->
+<!-- VISUAL:t32-49-regimenes-demograficos-y-envejecimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-49-regimenes-demograficos-y-envejecimiento.webp" alt="Regímenes demográficos y envejecimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Regímenes demográficos y envejecimiento.</em></p>
 
 <!-- FUENTE: UN-DESA-DEMOGRAPHY-T32 -->
 
@@ -656,7 +852,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Público reúne personas interesadas en un asunto que intercambian atención u opinión, incluso a distancia.
 - Un grupo social presenta interacción, normas o identidad más estables que una masa ocasional.
 
-<!-- VISUAL PENDIENTE: t32-50-masa-multitud-publico-y-grupo.webp -->
+<!-- VISUAL:t32-50-masa-multitud-publico-y-grupo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-50-masa-multitud-publico-y-grupo.webp" alt="Masa, multitud, público y grupo" width="820">
+</p>
+<p align="center"><em>Infografía: Masa, multitud, público y grupo.</em></p>
 
 <!-- FUENTE: CANETTI-1960-T32 -->
 
@@ -669,7 +869,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La estandarización de productos y mensajes puede coexistir con segmentación de públicos, estilos e identidades.
 - Anonimato y debilitamiento de vínculos tradicionales son tendencias posibles, no desaparición automática de comunidad y participación.
 
-<!-- VISUAL PENDIENTE: t32-51-caracteristicas-de-la-sociedad-de-masas.webp -->
+<!-- VISUAL:t32-51-caracteristicas-de-la-sociedad-de-masas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-51-caracteristicas-de-la-sociedad-de-masas.webp" alt="Características de la sociedad de masas" width="820">
+</p>
+<p align="center"><em>Infografía: Características de la sociedad de masas.</em></p>
 
 <!-- FUENTE: ORTEGA-1930-T32 -->
 
@@ -682,7 +886,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Su obra influyó en la psicología colectiva, propaganda y análisis político del siglo XX.
 - El enfoque generaliza en exceso y no debe usarse para considerar irracional a toda reunión o justificar control indiscriminado.
 
-<!-- VISUAL PENDIENTE: t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp -->
+<!-- VISUAL:t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp" alt="Gustave Le Bon y la psicología de las multitudes" width="820">
+</p>
+<p align="center"><em>Infografía: Gustave Le Bon y la psicología de las multitudes.</em></p>
 
 <!-- FUENTE: LE-BON-1895-T32 -->
 
@@ -695,7 +903,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La conversación y la prensa participan en la formación y circulación de la opinión pública.
 - Difusión no implica recepción idéntica: los mensajes son interpretados y compiten con redes y experiencias previas.
 
-<!-- VISUAL PENDIENTE: t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp -->
+<!-- VISUAL:t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp" alt="Gabriel Tarde: públicos, imitación y opinión" width="820">
+</p>
+<p align="center"><em>Infografía: Gabriel Tarde: públicos, imitación y opinión.</em></p>
 
 <!-- FUENTE: TARDE-1901-T32 -->
 
@@ -708,7 +920,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La minoría excelente no es una élite hereditaria, sino quien se exige más y asume deberes y disciplina.
 - La rebelión de las masas analiza la entrada de amplios sectores en espacios y decisiones antes restringidos, con oportunidades y riesgos políticos.
 
-<!-- VISUAL PENDIENTE: t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp -->
+<!-- VISUAL:t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp" alt="Ortega y Gasset y el hombre-masa" width="820">
+</p>
+<p align="center"><em>Infografía: Ortega y Gasset y el hombre-masa.</em></p>
 
 <!-- FUENTE: ORTEGA-1930-T32 -->
 
@@ -721,7 +937,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - También estudió masas de guerra y de lamento en relación con amenaza, pérdida y supervivencia colectiva.
 - Sus categorías son instrumentos interpretativos de una obra ensayística y no tipos jurídicos ni diagnósticos clínicos.
 
-<!-- VISUAL PENDIENTE: t32-il-55-elias-canetti-y-los-tipos-de-masa.webp -->
+<!-- VISUAL:t32-il-55-elias-canetti-y-los-tipos-de-masa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-55-elias-canetti-y-los-tipos-de-masa.webp" alt="Elias Canetti y los tipos de masa" width="820">
+</p>
+<p align="center"><em>Infografía: Elias Canetti y los tipos de masa.</em></p>
 
 <!-- FUENTE: CANETTI-1960-T32 -->
 
@@ -734,7 +954,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Contaminante es el agente físico, químico o biológico que causa o puede causar la alteración perjudicial.
 - No toda modificación ambiental es contaminación, pero puede constituir otro impacto relevante como fragmentación, sobreexplotación o pérdida de hábitat.
 
-<!-- VISUAL PENDIENTE: t32-56-medio-ambiente-contaminacion-y-contaminante.webp -->
+<!-- VISUAL:t32-56-medio-ambiente-contaminacion-y-contaminante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-56-medio-ambiente-contaminacion-y-contaminante.webp" alt="Medio ambiente, contaminación y contaminante" width="820">
+</p>
+<p align="center"><em>Infografía: Medio ambiente, contaminación y contaminante.</em></p>
 
 <!-- FUENTE: CE-1978-T32 -->
 
@@ -747,7 +971,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La contaminación puede ser local, transfronteriza o global según alcance, persistencia y transporte.
 - Prevenir en la fuente suele ser más eficaz que actuar cuando el contaminante ya se dispersó o acumuló.
 
-<!-- VISUAL PENDIENTE: t32-57-fuente-via-receptor-y-escala-del-impacto.webp -->
+<!-- VISUAL:t32-57-fuente-via-receptor-y-escala-del-impacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-57-fuente-via-receptor-y-escala-del-impacto.webp" alt="Fuente, vía, receptor y escala del impacto" width="820">
+</p>
+<p align="center"><em>Infografía: Fuente, vía, receptor y escala del impacto.</em></p>
 
 <!-- FUENTE: EEA-T32 -->
 
@@ -760,7 +988,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Emisión es la liberación desde una fuente; inmisión o concentración ambiental es el nivel presente donde se evalúa la calidad del aire.
 - La Ley 34/2007 establece bases para prevenir, vigilar y reducir la contaminación atmosférica aplicando cautela, prevención, corrección en la fuente y quien contamina paga.
 
-<!-- VISUAL PENDIENTE: t32-58-contaminacion-atmosferica.webp -->
+<!-- VISUAL:t32-58-contaminacion-atmosferica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-58-contaminacion-atmosferica.webp" alt="Contaminación atmosférica" width="820">
+</p>
+<p align="center"><em>Infografía: Contaminación atmosférica.</em></p>
 
 <!-- FUENTE: LEY34-2007-T32 -->
 
@@ -773,7 +1005,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Un suelo contaminado contiene componentes peligrosos de origen humano en concentración que genera riesgo inaceptable para salud o ambiente conforme a la normativa.
 - Aguas y suelos están conectados: filtración, escorrentía y sedimentos pueden transferir contaminantes entre medios.
 
-<!-- VISUAL PENDIENTE: t32-59-contaminacion-del-agua-y-del-suelo.webp -->
+<!-- VISUAL:t32-59-contaminacion-del-agua-y-del-suelo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-59-contaminacion-del-agua-y-del-suelo.webp" alt="Contaminación del agua y del suelo" width="820">
+</p>
+<p align="center"><em>Infografía: Contaminación del agua y del suelo.</em></p>
 
 <!-- FUENTE: RDL1-2001-T32 -->
 
@@ -786,7 +1022,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La economía circular busca mantener productos, componentes y materiales en uso y reducir extracción, residuos y impactos.
 - Un subproducto deja de tratarse como residuo solo si cumple las condiciones legales; no basta con que tenga valor económico.
 
-<!-- VISUAL PENDIENTE: t32-60-residuos-subproductos-y-economia-circular.webp -->
+<!-- VISUAL:t32-60-residuos-subproductos-y-economia-circular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-60-residuos-subproductos-y-economia-circular.webp" alt="Residuos, subproductos y economía circular" width="820">
+</p>
+<p align="center"><em>Infografía: Residuos, subproductos y economía circular.</em></p>
 
 <!-- FUENTE: LEY7-2022-T32 -->
 
@@ -799,7 +1039,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La contaminación térmica modifica temperaturas del medio, por ejemplo mediante descargas de calor en agua o aire.
 - Las radiaciones ionizantes y no ionizantes requieren evaluar fuente, dosis, exposición y efectos; no son categorías equivalentes.
 
-<!-- VISUAL PENDIENTE: t32-il-61-ruido-luz-calor-y-radiaciones.webp -->
+<!-- VISUAL:t32-il-61-ruido-luz-calor-y-radiaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-61-ruido-luz-calor-y-radiaciones.webp" alt="Ruido, luz, calor y radiaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Ruido, luz, calor y radiaciones.</em></p>
 
 <!-- FUENTE: LEY37-2003-T32 -->
 
@@ -812,7 +1056,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Los impactos pueden acumularse o interactuar de forma sinérgica, por lo que evaluar cada fuente de manera aislada puede infravalorar el riesgo.
 - Cambio climático y contaminación atmosférica se relacionan, pero no son sinónimos: difieren en agentes, escalas y mecanismos.
 
-<!-- VISUAL PENDIENTE: t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp -->
+<!-- VISUAL:t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp" alt="Efectos sobre salud, ecosistemas y clima" width="820">
+</p>
+<p align="center"><em>Infografía: Efectos sobre salud, ecosistemas y clima.</em></p>
 
 <!-- FUENTE: EEA-T32 -->
 
@@ -825,7 +1073,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La actuación pública se apoya en la indispensable solidaridad colectiva.
 - El artículo 45.3 prevé sanciones penales o administrativas y la obligación de reparar el daño en los términos que fije la ley.
 
-<!-- VISUAL PENDIENTE: t32-63-articulo-45-de-la-constitucion.webp -->
+<!-- VISUAL:t32-63-articulo-45-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-63-articulo-45-de-la-constitucion.webp" alt="Artículo 45 de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Artículo 45 de la Constitución.</em></p>
 
 <!-- FUENTE: CE-1978-T32 -->
 
@@ -838,7 +1090,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Quien contamina paga atribuye al responsable los costes de prevención, control y reparación, sin convertir el pago en permiso para contaminar.
 - Integración ambiental exige incorporar la protección del medio en políticas y decisiones sectoriales, no aislarla al final del proceso.
 
-<!-- VISUAL PENDIENTE: t32-64-principios-de-proteccion-ambiental.webp -->
+<!-- VISUAL:t32-64-principios-de-proteccion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-64-principios-de-proteccion-ambiental.webp" alt="Principios de protección ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de protección ambiental.</em></p>
 
 <!-- FUENTE: LEY34-2007-T32 -->
 
@@ -851,7 +1107,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - El procedimiento analiza alternativas, impactos, medidas preventivas, correctoras y compensatorias, seguimiento e información pública.
 - La declaración o informe ambiental no sustituye todas las autorizaciones sectoriales ni elimina la obligación de cumplir sus condiciones.
 
-<!-- VISUAL PENDIENTE: t32-65-evaluacion-ambiental-y-control-preventivo.webp -->
+<!-- VISUAL:t32-65-evaluacion-ambiental-y-control-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-65-evaluacion-ambiental-y-control-preventivo.webp" alt="Evaluación ambiental y control preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación ambiental y control preventivo.</em></p>
 
 <!-- FUENTE: LEY21-2013-T32 -->
 
@@ -864,7 +1124,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La Ley 26/2007 obliga a determinados operadores a prevenir, evitar y reparar daños medioambientales conforme a un régimen administrativo.
 - La reparación busca devolver recursos y servicios naturales al estado básico y puede incluir reparación primaria, complementaria y compensatoria.
 
-<!-- VISUAL PENDIENTE: t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp -->
+<!-- VISUAL:t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp" alt="Jerarquía de residuos y responsabilidad ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de residuos y responsabilidad ambiental.</em></p>
 
 <!-- FUENTE: LEY26-2007-T32 -->
 
@@ -877,7 +1141,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La participación debe producirse cuando las opciones estén abiertas y permitir que las observaciones sean consideradas antes de la decisión.
 - El Consejo Asesor de Medio Ambiente es el órgano colegiado de participación y seguimiento de políticas ambientales generales orientadas al desarrollo sostenible.
 
-<!-- VISUAL PENDIENTE: t32-67-informacion-participacion-y-justicia-ambiental.webp -->
+<!-- VISUAL:t32-67-informacion-participacion-y-justicia-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-67-informacion-participacion-y-justicia-ambiental.webp" alt="Información, participación y justicia ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Información, participación y justicia ambiental.</em></p>
 
 <!-- FUENTE: LEY27-2006-T32 -->
 
@@ -890,7 +1158,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - Trabaja con la Red Europea de Información y Observación del Medio Ambiente, Eionet.
 - La Agencia comenzó a operar en 1994 y tiene su sede en Copenhague, Dinamarca.
 
-<!-- VISUAL PENDIENTE: t32-il-68-agencia-europea-de-medio-ambiente.webp -->
+<!-- VISUAL:t32-il-68-agencia-europea-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-68-agencia-europea-de-medio-ambiente.webp" alt="Agencia Europea de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Agencia Europea de Medio Ambiente.</em></p>
 
 <!-- FUENTE: EEA-T32 -->
 
@@ -903,7 +1175,11 @@ El Tema 32 se estudia en seis partes: fundamentos de geografía humana; ciudad y
 - La respuesta sigue una secuencia de prevención, preparación, detección, contención, corrección, reparación y evaluación.
 - La actuación policial ambiental preserva seguridad y pruebas, identifica responsables y coordina con autoridades competentes sin sustituir la pericia técnica.
 
-<!-- VISUAL PENDIENTE: t32-69-competencias-vigilancia-y-respuesta-ambiental.webp -->
+<!-- VISUAL:t32-69-competencias-vigilancia-y-respuesta-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-69-competencias-vigilancia-y-respuesta-ambiental.webp" alt="Competencias, vigilancia y respuesta ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Competencias, vigilancia y respuesta ambiental.</em></p>
 
 <!-- FUENTE: MITECO-T32 -->
 

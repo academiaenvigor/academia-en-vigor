@@ -28,7 +28,11 @@ Para dominar **ética y moral: conceptos relacionados, no idénticos**, parte de
 - **Incorrecto:** La ética es cualquier costumbre mayoritaria y no admite crítica racional.
 - **Incorrecto:** La moral solo existe en códigos jurídicos escritos y la ética se limita a obedecerlos.
 
-<!-- VISUAL PENDIENTE: t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp -->
+<!-- VISUAL:t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-01-etica-y-moral-conceptos-relacionados-no-identicos.webp" alt="Ética y moral: conceptos relacionados, no idénticos" width="820">
+</p>
+<p align="center"><em>Infografía: Ética y moral: conceptos relacionados, no idénticos.</em></p>
 
 :::hablemos-claro
 Primero distingue práctica y reflexión; después pregunta si la mayoría aporta razones o solo frecuencia.
@@ -62,7 +66,11 @@ Para dominar **principios, valores, normas y virtudes**, parte de este criterio:
 - **Incorrecto:** Principio, valor, norma y virtud son cuatro nombres intercambiables de una misma regla.
 - **Incorrecto:** Una virtud es una sanción externa y un valor solo existe si impone una pena.
 
-<!-- VISUAL PENDIENTE: t30-02-principios-valores-normas-y-virtudes.webp -->
+<!-- VISUAL:t30-02-principios-valores-normas-y-virtudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-02-principios-valores-normas-y-virtudes.webp" alt="Principios, valores, normas y virtudes" width="820">
+</p>
+<p align="center"><em>Infografía: Principios, valores, normas y virtudes.</em></p>
 
 :::hablemos-claro
 Pregunta qué función cumple cada pieza: orientar, valorar, prescribir o formar una disposición estable.
@@ -96,7 +104,11 @@ Para dominar **valores superiores del ordenamiento español**, parte de este cri
 - **Incorrecto:** El artículo 1.1 enumera seguridad, solidaridad, tolerancia y unidad como valores superiores.
 - **Incorrecto:** El pluralismo político no aparece entre los valores superiores del ordenamiento.
 
-<!-- VISUAL PENDIENTE: t30-03-valores-superiores-del-ordenamiento-espanol.webp -->
+<!-- VISUAL:t30-03-valores-superiores-del-ordenamiento-espanol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-03-valores-superiores-del-ordenamiento-espanol.webp" alt="Valores superiores del ordenamiento español" width="820">
+</p>
+<p align="center"><em>Infografía: Valores superiores del ordenamiento español.</em></p>
 
 :::hablemos-claro
 Memoriza la secuencia literal: libertad, justicia, igualdad y pluralismo político.
@@ -130,7 +142,11 @@ Para dominar **dignidad, libre desarrollo y respeto a la ley y a los demás**, p
 - **Incorrecto:** La dignidad se adquiere únicamente al cumplir la mayoría de edad y puede perderse por impopularidad.
 - **Incorrecto:** El libre desarrollo autoriza cualquier conducta aunque lesione derechos de terceros.
 
-<!-- VISUAL PENDIENTE: t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp -->
+<!-- VISUAL:t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-04-dignidad-libre-desarrollo-y-respeto-a-la-ley-y-a-los.webp" alt="Dignidad, libre desarrollo y respeto a la ley y a los demás" width="820">
+</p>
+<p align="center"><em>Infografía: Dignidad, libre desarrollo y respeto a la ley y a los demás.</em></p>
 
 :::hablemos-claro
 La libertad personal crece dentro de un marco: dignidad propia, derechos ajenos y ley.
@@ -164,7 +180,11 @@ Para dominar **pluralismo ético y mínimos de convivencia**, parte de este crit
 - **Incorrecto:** El pluralismo obliga a aceptar como válida cualquier conducta sin atender a sus efectos.
 - **Incorrecto:** Toda idea minoritaria constituye un contravalor y debe ser reprimida.
 
-<!-- VISUAL PENDIENTE: t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp -->
+<!-- VISUAL:t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-05-pluralismo-etico-y-minimos-de-convivencia.webp" alt="Pluralismo ético y mínimos de convivencia" width="820">
+</p>
+<p align="center"><em>Infografía: Pluralismo ético y mínimos de convivencia.</em></p>
 
 :::hablemos-claro
 Protege el desacuerdo; intervén cuando aparecen daños, coacción o vulneraciones concretas.
@@ -198,7 +218,11 @@ Para dominar **concepto de socialización**, parte de este criterio: Socializar 
 - **Incorrecto:** La socialización termina en la infancia y convierte a la persona en receptora pasiva.
 - **Incorrecto:** Socializar consiste únicamente en aprender leyes penales y protocolos formales.
 
-<!-- VISUAL PENDIENTE: t30-il-06-concepto-de-socializacion.webp -->
+<!-- VISUAL:t30-il-06-concepto-de-socializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-06-concepto-de-socializacion.webp" alt="Concepto de socialización" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de socialización.</em></p>
 
 :::hablemos-claro
 Socializar es aprender a vivir con otros sin dejar de interpretar lo aprendido.
@@ -232,7 +256,11 @@ Para dominar **socialización primaria, secundaria y resocialización**, parte d
 - **Incorrecto:** La socialización secundaria ocurre antes de la primaria y solo dentro de la familia.
 - **Incorrecto:** La resocialización borra automáticamente toda identidad y memoria anteriores.
 
-<!-- VISUAL PENDIENTE: t30-07-socializacion-primaria-secundaria-y-resocializacion.webp -->
+<!-- VISUAL:t30-07-socializacion-primaria-secundaria-y-resocializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-07-socializacion-primaria-secundaria-y-resocializacion.webp" alt="Socialización primaria, secundaria y resocialización" width="820">
+</p>
+<p align="center"><em>Infografía: Socialización primaria, secundaria y resocialización.</em></p>
 
 :::hablemos-claro
 Primaria crea la base; secundaria añade mundos; resocialización reordena aprendizajes.
@@ -266,7 +294,11 @@ Para dominar **agentes de socialización**, parte de este criterio: Localiza qui
 - **Incorrecto:** Solo la familia socializa; escuela, iguales y medios no modifican valores.
 - **Incorrecto:** Las redes sociales transmiten información, pero nunca normas ni modelos de pertenencia.
 
-<!-- VISUAL PENDIENTE: t30-08-agentes-de-socializacion.webp -->
+<!-- VISUAL:t30-08-agentes-de-socializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-08-agentes-de-socializacion.webp" alt="Agentes de socialización" width="820">
+</p>
+<p align="center"><em>Infografía: Agentes de socialización.</em></p>
 
 :::hablemos-claro
 Localiza quién enseña, qué refuerza y qué grupo ofrece pertenencia en cada caso.
@@ -300,7 +332,11 @@ Para dominar **mecanismos de transmisión de valores**, parte de este criterio: 
 - **Incorrecto:** La transmisión de valores solo se produce por clases teóricas y nunca por el ejemplo.
 - **Incorrecto:** Si una persona expresa una opinión bajo presión, queda demostrada su adhesión íntima y estable.
 
-<!-- VISUAL PENDIENTE: t30-09-mecanismos-de-transmision-de-valores.webp -->
+<!-- VISUAL:t30-09-mecanismos-de-transmision-de-valores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-09-mecanismos-de-transmision-de-valores.webp" alt="Mecanismos de transmisión de valores" width="820">
+</p>
+<p align="center"><em>Infografía: Mecanismos de transmisión de valores.</em></p>
 
 :::hablemos-claro
 Los valores se enseñan también con lo que se premia, se permite y se hace delante del grupo.
@@ -334,7 +370,11 @@ Para dominar **desarrollo moral según kohlberg**, parte de este criterio: Regla
 - **Incorrecto:** Kohlberg propuso cuatro niveles con tres estadios cada uno.
 - **Incorrecto:** El nivel postconvencional juzga exclusivamente según premios y castigos inmediatos.
 
-<!-- VISUAL PENDIENTE: t30-10-desarrollo-moral-segun-kohlberg.webp -->
+<!-- VISUAL:t30-10-desarrollo-moral-segun-kohlberg.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-10-desarrollo-moral-segun-kohlberg.webp" alt="Desarrollo moral según Kohlberg" width="820">
+</p>
+<p align="center"><em>Infografía: Desarrollo moral según Kohlberg.</em></p>
 
 :::hablemos-claro
 Regla 3×2: tres niveles, dos estadios por nivel; razonamiento no equivale a conducta.
@@ -368,7 +408,11 @@ Para dominar **libertad como autonomía y como derecho**, parte de este criterio
 - **Incorrecto:** Ser libre significa actuar sin consecuencias, límites ni derechos de terceros.
 - **Incorrecto:** Toda preferencia espontánea demuestra una decisión autónoma libre de influencia.
 
-<!-- VISUAL PENDIENTE: t30-il-11-libertad-como-autonomia-y-como-derecho.webp -->
+<!-- VISUAL:t30-il-11-libertad-como-autonomia-y-como-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-11-libertad-como-autonomia-y-como-derecho.webp" alt="Libertad como autonomía y como derecho" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad como autonomía y como derecho.</em></p>
 
 :::hablemos-claro
 Libertad no es ausencia total de marco; es capacidad y derecho con garantías.
@@ -402,7 +446,11 @@ Para dominar **libertad negativa y positiva**, parte de este criterio: Negativa 
 - **Incorrecto:** Libertad negativa es obedecer una orden y libertad positiva es carecer de toda norma.
 - **Incorrecto:** La distinción permite sustituir siempre la voluntad individual por la del gobernante.
 
-<!-- VISUAL PENDIENTE: t30-12-libertad-negativa-y-positiva.webp -->
+<!-- VISUAL:t30-12-libertad-negativa-y-positiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-12-libertad-negativa-y-positiva.webp" alt="Libertad negativa y positiva" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad negativa y positiva.</em></p>
 
 :::hablemos-claro
 Negativa pregunta quién interfiere; positiva pregunta quién gobierna la decisión.
@@ -436,7 +484,11 @@ Para dominar **responsabilidad moral y responsabilidad jurídica**, parte de est
 - **Incorrecto:** Todo reproche moral constituye automáticamente delito y pena.
 - **Incorrecto:** La responsabilidad jurídica puede atribuirse sin norma, prueba ni procedimiento.
 
-<!-- VISUAL PENDIENTE: t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp -->
+<!-- VISUAL:t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-13-responsabilidad-moral-y-responsabilidad-juridica.webp" alt="Responsabilidad moral y responsabilidad jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Responsabilidad moral y responsabilidad jurídica.</em></p>
 
 :::hablemos-claro
 No saltes de “está mal” a “es delito”: identifica primero el régimen jurídico.
@@ -470,7 +522,11 @@ Para dominar **libertad, imputación y responsabilidad**, parte de este criterio
 - **Incorrecto:** Toda influencia social elimina automáticamente cualquier responsabilidad personal.
 - **Incorrecto:** La responsabilidad de una persona se transmite a todos los miembros de su grupo.
 
-<!-- VISUAL PENDIENTE: t30-il-14-libertad-imputacion-y-responsabilidad.webp -->
+<!-- VISUAL:t30-il-14-libertad-imputacion-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-14-libertad-imputacion-y-responsabilidad.webp" alt="Libertad, imputación y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Libertad, imputación y responsabilidad.</em></p>
 
 :::hablemos-claro
 Imputa hechos y decisiones individualizados; no heredes culpas por etiqueta.
@@ -504,7 +560,11 @@ Para dominar **igualdad formal y prohibición de discriminación**, parte de est
 - **Incorrecto:** La igualdad obliga a dar siempre el mismo trato con independencia de diferencias relevantes.
 - **Incorrecto:** El artículo 14 solo prohíbe discriminación por las cinco causas expresamente nombradas.
 
-<!-- VISUAL PENDIENTE: t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp -->
+<!-- VISUAL:t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-15-igualdad-formal-y-prohibicion-de-discriminacion.webp" alt="Igualdad formal y prohibición de discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad formal y prohibición de discriminación.</em></p>
 
 :::hablemos-claro
 Igualdad no es fotocopia: compara situaciones, finalidad, justificación y proporcionalidad.
@@ -538,7 +598,11 @@ Para dominar **igualdad real y acción positiva**, parte de este criterio: La ig
 - **Incorrecto:** La igualdad real prohíbe toda medida que atienda a desventajas existentes.
 - **Incorrecto:** La acción positiva puede mantenerse sin límite aunque desaparezca la desventaja.
 
-<!-- VISUAL PENDIENTE: t30-il-16-igualdad-real-y-accion-positiva.webp -->
+<!-- VISUAL:t30-il-16-igualdad-real-y-accion-positiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-16-igualdad-real-y-accion-positiva.webp" alt="Igualdad real y acción positiva" width="820">
+</p>
+<p align="center"><em>Infografía: Igualdad real y acción positiva.</em></p>
 
 :::hablemos-claro
 La igualdad formal abre la puerta; la igualdad material comprueba si alguien puede cruzarla.
@@ -572,7 +636,11 @@ Para dominar **solidaridad social y constitucional**, parte de este criterio: So
 - **Incorrecto:** La Constitución identifica solidaridad con uniformidad territorial absoluta.
 - **Incorrecto:** El artículo 138 obliga a ignorar las circunstancias del hecho insular.
 
-<!-- VISUAL PENDIENTE: t30-17-solidaridad-social-y-constitucional.webp -->
+<!-- VISUAL:t30-17-solidaridad-social-y-constitucional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-17-solidaridad-social-y-constitucional.webp" alt="Solidaridad social y constitucional" width="820">
+</p>
+<p align="center"><em>Infografía: Solidaridad social y constitucional.</em></p>
 
 :::hablemos-claro
 Solidaridad no borra diferencias: impide que se conviertan en abandono o privilegio injustificado.
@@ -606,7 +674,11 @@ Para dominar **solidaridad mecánica y orgánica**, parte de este criterio: Mec�
 - **Incorrecto:** La solidaridad mecánica depende de tecnología industrial y la orgánica de parentesco idéntico.
 - **Incorrecto:** Durkheim sostuvo que ambas formas son incompatibles con cualquier mezcla histórica.
 
-<!-- VISUAL PENDIENTE: t30-18-solidaridad-mecanica-y-organica.webp -->
+<!-- VISUAL:t30-18-solidaridad-mecanica-y-organica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-18-solidaridad-mecanica-y-organica.webp" alt="Solidaridad mecánica y orgánica" width="820">
+</p>
+<p align="center"><em>Infografía: Solidaridad mecánica y orgánica.</em></p>
 
 :::hablemos-claro
 Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.
@@ -640,7 +712,11 @@ Para dominar **tolerancia: concepto y exigencias**, parte de este criterio: Tole
 - **Incorrecto:** Tolerar significa considerar verdadera cualquier idea y no poder criticarla.
 - **Incorrecto:** La tolerancia es una concesión del grupo mayoritario a quien carece de derechos propios.
 
-<!-- VISUAL PENDIENTE: t30-il-19-tolerancia-concepto-y-exigencias.webp -->
+<!-- VISUAL:t30-il-19-tolerancia-concepto-y-exigencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-19-tolerancia-concepto-y-exigencias.webp" alt="Tolerancia: concepto y exigencias" width="820">
+</p>
+<p align="center"><em>Infografía: Tolerancia: concepto y exigencias.</em></p>
 
 :::hablemos-claro
 Tolerar protege a personas y convivencia; no convierte todas las ideas en equivalentes.
@@ -674,7 +750,11 @@ Para dominar **límites y paradoja de la tolerancia**, parte de este criterio: N
 - **Incorrecto:** La tolerancia prohíbe criticar cualquier doctrina, incluso mediante argumentos pacíficos.
 - **Incorrecto:** Toda expresión molesta es automáticamente delito de odio.
 
-<!-- VISUAL PENDIENTE: t30-20-limites-y-paradoja-de-la-tolerancia.webp -->
+<!-- VISUAL:t30-20-limites-y-paradoja-de-la-tolerancia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-20-limites-y-paradoja-de-la-tolerancia.webp" alt="Límites y paradoja de la tolerancia" width="820">
+</p>
+<p align="center"><em>Infografía: Límites y paradoja de la tolerancia.</em></p>
 
 :::hablemos-claro
 No uses una sola etiqueta: gradúa idea, contexto, destinatario, daño y relevancia jurídica.
@@ -708,7 +788,11 @@ Para dominar **contravalores y reacción frente a valores mayoritarios**, parte 
 - **Incorrecto:** Todo valor minoritario es un contravalor delictivo.
 - **Incorrecto:** La mayoría puede imponer cualquier sanción social sin respetar derechos.
 
-<!-- VISUAL PENDIENTE: t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp -->
+<!-- VISUAL:t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-21-contravalores-y-reaccion-frente-a-valores-mayoritari.webp" alt="Contravalores y reacción frente a valores mayoritarios" width="820">
+</p>
+<p align="center"><em>Infografía: Contravalores y reacción frente a valores mayoritarios.</em></p>
 
 :::hablemos-claro
 Mayoría indica cantidad, no corrección; busca el derecho o daño concreto.
@@ -742,7 +826,11 @@ Para dominar **racismo: concepto**, parte de este criterio: Busca la jerarquía 
 - **Incorrecto:** Solo existe racismo cuando se cita una teoría genética escrita.
 - **Incorrecto:** Racismo y discriminación son términos idénticos en todos los casos.
 
-<!-- VISUAL PENDIENTE: t30-22-racismo-concepto.webp -->
+<!-- VISUAL:t30-22-racismo-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-22-racismo-concepto.webp" alt="Racismo: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo: concepto.</em></p>
 
 :::hablemos-claro
 Busca la jerarquía y la racialización, no solo la palabra raza.
@@ -776,7 +864,11 @@ Para dominar **racismo biológico y racismo cultural**, parte de este criterio: 
 - **Incorrecto:** El racismo cultural desaparece siempre que no mencione genes.
 - **Incorrecto:** Una característica cultural observada puede atribuirse sin excepción a todo un grupo.
 
-<!-- VISUAL PENDIENTE: t30-23-racismo-biologico-y-racismo-cultural.webp -->
+<!-- VISUAL:t30-23-racismo-biologico-y-racismo-cultural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-23-racismo-biologico-y-racismo-cultural.webp" alt="Racismo biológico y racismo cultural" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo biológico y racismo cultural.</em></p>
 
 :::hablemos-claro
 Biológico fija por herencia; cultural fija por esencia: ambos pueden construir jerarquía.
@@ -810,7 +902,11 @@ Para dominar **racismo simbólico, moderno y aversivo**, parte de este criterio:
 - **Incorrecto:** Quien se declara contrario al racismo carece necesariamente de cualquier sesgo implícito.
 - **Incorrecto:** Una sola conducta ambigua demuestra por sí misma un diagnóstico psicológico definitivo.
 
-<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
 
 :::hablemos-claro
 Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.
@@ -844,7 +940,11 @@ Para dominar **discriminación racial directa e indirecta**, parte de este crite
 - **Incorrecto:** La discriminación indirecta exige una regla que mencione expresamente la raza.
 - **Incorrecto:** Si el agresor se equivoca sobre el origen de la víctima, nunca puede existir discriminación.
 
-<!-- VISUAL PENDIENTE: t30-25-discriminacion-racial-directa-e-indirecta.webp -->
+<!-- VISUAL:t30-25-discriminacion-racial-directa-e-indirecta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-25-discriminacion-racial-directa-e-indirecta.webp" alt="Discriminación racial directa e indirecta" width="820">
+</p>
+<p align="center"><em>Infografía: Discriminación racial directa e indirecta.</em></p>
 
 :::hablemos-claro
 Mira efecto, comparación y motivo; la neutralidad del texto no garantiza neutralidad del resultado.
@@ -878,7 +978,11 @@ Para dominar **prevención del racismo y acción institucional**, parte de este 
 - **Incorrecto:** Prevenir racismo consiste solo en aumentar penas después del daño.
 - **Incorrecto:** Los datos agregados autorizan a sospechar individualmente de cada miembro del grupo.
 
-<!-- VISUAL PENDIENTE: t30-26-prevencion-del-racismo-y-accion-institucional.webp -->
+<!-- VISUAL:t30-26-prevencion-del-racismo-y-accion-institucional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-26-prevencion-del-racismo-y-accion-institucional.webp" alt="Prevención del racismo y acción institucional" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención del racismo y acción institucional.</em></p>
 
 :::hablemos-claro
 Mide patrones para corregir sistemas, no para convertir el grupo en sospechoso.
@@ -912,7 +1016,11 @@ Para dominar **fanatismo: concepto**, parte de este criterio: Firmeza acepta raz
 - **Incorrecto:** Toda convicción firme es fanatismo y constituye delito.
 - **Incorrecto:** El fanatismo es una enfermedad clínica definida por el Código Penal.
 
-<!-- VISUAL PENDIENTE: t30-il-27-fanatismo-concepto.webp -->
+<!-- VISUAL:t30-il-27-fanatismo-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-27-fanatismo-concepto.webp" alt="Fanatismo: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Fanatismo: concepto.</em></p>
 
 :::hablemos-claro
 Firmeza acepta razones y límites; fanatismo convierte la causa en permiso total.
@@ -946,7 +1054,11 @@ Para dominar **polarización, identidad y pensamiento fanático**, parte de este
 - **Incorrecto:** Toda persona polarizada terminará necesariamente cometiendo violencia.
 - **Incorrecto:** Existe un perfil psicológico único que identifica sin error a futuros violentos.
 
-<!-- VISUAL PENDIENTE: t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp -->
+<!-- VISUAL:t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-28-polarizacion-identidad-y-pensamiento-fanatico.webp" alt="Polarización, identidad y pensamiento fanático" width="820">
+</p>
+<p align="center"><em>Infografía: Polarización, identidad y pensamiento fanático.</em></p>
 
 :::hablemos-claro
 Factores de riesgo no son destino: analiza trayectoria, contexto, intención y capacidad.
@@ -980,7 +1092,11 @@ Para dominar **fundamentalismo: origen y uso actual**, parte de este criterio: N
 - **Incorrecto:** El fundamentalismo nació como denominación exclusiva del yihadismo contemporáneo.
 - **Incorrecto:** Toda práctica religiosa tradicional es fundamentalista y violenta.
 
-<!-- VISUAL PENDIENTE: t30-29-fundamentalismo-origen-y-uso-actual.webp -->
+<!-- VISUAL:t30-29-fundamentalismo-origen-y-uso-actual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-29-fundamentalismo-origen-y-uso-actual.webp" alt="Fundamentalismo: origen y uso actual" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamentalismo: origen y uso actual.</em></p>
 
 :::hablemos-claro
 No conviertas una palabra histórica en un saco único para religión, rigidez y terrorismo.
@@ -1014,7 +1130,11 @@ Para dominar **fundamentalismo, integrismo y extremismo violento**, parte de est
 - **Incorrecto:** Pertenecer a una religión permite inferir apoyo al terrorismo.
 - **Incorrecto:** Toda opinión extrema cumple automáticamente los tipos penales de terrorismo.
 
-<!-- VISUAL PENDIENTE: t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp -->
+<!-- VISUAL:t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-30-fundamentalismo-integrismo-y-extremismo-violento.webp" alt="Fundamentalismo, integrismo y extremismo violento" width="820">
+</p>
+<p align="center"><em>Infografía: Fundamentalismo, integrismo y extremismo violento.</em></p>
 
 :::hablemos-claro
 Separa doctrina, proyecto político, aceptación de violencia y delito probado.
@@ -1048,7 +1168,11 @@ Para dominar **prevención: pensamiento crítico, pertenencia y alternativas**, 
 - **Incorrecto:** Prevenir exige vigilar y sancionar cualquier idea minoritaria.
 - **Incorrecto:** Humillar públicamente a quien duda es el método más fiable para facilitar su salida.
 
-<!-- VISUAL PENDIENTE: t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp -->
+<!-- VISUAL:t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-31-prevencion-pensamiento-critico-pertenencia-y-alterna.webp" alt="Prevención: pensamiento crítico, pertenencia y alternativas" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención: pensamiento crítico, pertenencia y alternativas.</em></p>
 
 :::hablemos-claro
 Ofrece razones, vínculos y salida; no regales al grupo una prueba de su relato persecutorio.
@@ -1082,7 +1206,11 @@ Para dominar **secta: término y neutralidad jurídica**, parte de este criterio
 - **Incorrecto:** Toda religión minoritaria es una secta destructiva y puede prohibirse sin hechos.
 - **Incorrecto:** La libertad religiosa impide investigar delitos cometidos dentro de una organización.
 
-<!-- VISUAL PENDIENTE: t30-32-secta-termino-y-neutralidad-juridica.webp -->
+<!-- VISUAL:t30-32-secta-termino-y-neutralidad-juridica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-32-secta-termino-y-neutralidad-juridica.webp" alt="Secta: término y neutralidad jurídica" width="820">
+</p>
+<p align="center"><em>Infografía: Secta: término y neutralidad jurídica.</em></p>
 
 :::hablemos-claro
 Investiga conductas, no rareza doctrinal ni tamaño del grupo.
@@ -1116,7 +1244,11 @@ Para dominar **grupo de control coercitivo o destructivo**, parte de este criter
 - **Incorrecto:** Una reunión frecuente demuestra por sí sola control coercitivo.
 - **Incorrecto:** Solo el contenido religioso permite decidir si existe explotación o coacción.
 
-<!-- VISUAL PENDIENTE: t30-33-grupo-de-control-coercitivo-o-destructivo.webp -->
+<!-- VISUAL:t30-33-grupo-de-control-coercitivo-o-destructivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-33-grupo-de-control-coercitivo-o-destructivo.webp" alt="Grupo de control coercitivo o destructivo" width="820">
+</p>
+<p align="center"><em>Infografía: Grupo de control coercitivo o destructivo.</em></p>
 
 :::hablemos-claro
 Cambia la pregunta “qué creen” por “cómo controlan, qué daño producen y si se puede salir”.
@@ -1150,7 +1282,11 @@ Para dominar **persuasión, influencia y manipulación**, parte de este criterio
 - **Incorrecto:** Toda persuasión es coacción y anula jurídicamente cualquier decisión.
 - **Incorrecto:** Si no hay violencia física visible, nunca puede existir presión grave.
 
-<!-- VISUAL PENDIENTE: t30-34-persuasion-influencia-y-manipulacion.webp -->
+<!-- VISUAL:t30-34-persuasion-influencia-y-manipulacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-34-persuasion-influencia-y-manipulacion.webp" alt="Persuasión, influencia y manipulación" width="820">
+</p>
+<p align="center"><em>Infografía: Persuasión, influencia y manipulación.</em></p>
 
 :::hablemos-claro
 Distingue argumento, engaño, dependencia y amenaza; no los metas en el mismo cajón.
@@ -1184,7 +1320,11 @@ Para dominar **captación y escalada de compromiso**, parte de este criterio: La
 - **Incorrecto:** Solo personas sin inteligencia pueden ser captadas por grupos coercitivos.
 - **Incorrecto:** La captación revela siempre desde el primer contacto todas las obligaciones futuras.
 
-<!-- VISUAL PENDIENTE: t30-il-35-captacion-y-escalada-de-compromiso.webp -->
+<!-- VISUAL:t30-il-35-captacion-y-escalada-de-compromiso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-35-captacion-y-escalada-de-compromiso.webp" alt="Captación y escalada de compromiso" width="820">
+</p>
+<p align="center"><em>Infografía: Captación y escalada de compromiso.</em></p>
 
 :::hablemos-claro
 La trampa suele estrecharse paso a paso; no culpes a quien no vio el final desde la entrada.
@@ -1218,7 +1358,11 @@ Para dominar **autoridad carismática, liderazgo y obediencia**, parte de este c
 - **Incorrecto:** Todo líder popular ejerce necesariamente control coercitivo.
 - **Incorrecto:** La autoridad carismática depende únicamente de un nombramiento burocrático escrito.
 
-<!-- VISUAL PENDIENTE: t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp -->
+<!-- VISUAL:t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-36-autoridad-carismatica-liderazgo-y-obediencia.webp" alt="Autoridad carismática, liderazgo y obediencia" width="820">
+</p>
+<p align="center"><em>Infografía: Autoridad carismática, liderazgo y obediencia.</em></p>
 
 :::hablemos-claro
 Carisma explica la fuente de legitimidad; abuso exige hechos adicionales de poder y control.
@@ -1252,7 +1396,11 @@ Para dominar **aislamiento, información y lenguaje cerrado**, parte de este cri
 - **Incorrecto:** Usar vocabulario propio prueba automáticamente la comisión de un delito.
 - **Incorrecto:** El aislamiento aumenta siempre la autonomía y el acceso a perspectivas alternativas.
 
-<!-- VISUAL PENDIENTE: t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp -->
+<!-- VISUAL:t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-37-aislamiento-informacion-y-lenguaje-cerrado.webp" alt="Aislamiento, información y lenguaje cerrado" width="820">
+</p>
+<p align="center"><em>Infografía: Aislamiento, información y lenguaje cerrado.</em></p>
 
 :::hablemos-claro
 El indicador gana peso cuando cierra contraste, castiga duda y aumenta dependencia.
@@ -1286,7 +1434,11 @@ Para dominar **clasificación de bryan wilson i**, parte de este criterio: Clasi
 - **Incorrecto:** Las sectas conversionistas esperan exclusivamente una revolución política armada.
 - **Incorrecto:** La tipología de Wilson determina qué grupos deben ser condenados penalmente.
 
-<!-- VISUAL PENDIENTE: t30-38-clasificacion-de-bryan-wilson-i.webp -->
+<!-- VISUAL:t30-38-clasificacion-de-bryan-wilson-i.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-38-clasificacion-de-bryan-wilson-i.webp" alt="Clasificación de Bryan Wilson I" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de Bryan Wilson I.</em></p>
 
 :::hablemos-claro
 Clasifica la respuesta al mundo, no la peligrosidad penal.
@@ -1320,7 +1472,11 @@ Para dominar **clasificación de bryan wilson ii**, parte de este criterio: Taum
 - **Incorrecto:** Las taumatúrgicas se definen por rechazar todo elemento sobrenatural.
 - **Incorrecto:** Las reformistas buscan necesariamente destruir de inmediato todo orden social.
 
-<!-- VISUAL PENDIENTE: t30-39-clasificacion-de-bryan-wilson-ii.webp -->
+<!-- VISUAL:t30-39-clasificacion-de-bryan-wilson-ii.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-39-clasificacion-de-bryan-wilson-ii.webp" alt="Clasificación de Bryan Wilson II" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación de Bryan Wilson II.</em></p>
 
 :::hablemos-claro
 Taumatúrgica recuerda prodigio; reformista cambia; utópica reconstruye.
@@ -1354,7 +1510,11 @@ Para dominar **riesgos jurídicos asociados, no delitos por etiqueta**, parte de
 - **Incorrecto:** La palabra secta constituye por sí sola un tipo penal autónomo.
 - **Incorrecto:** La libertad ideológica excluye cualquier responsabilidad por coacciones o lesiones.
 
-<!-- VISUAL PENDIENTE: t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp -->
+<!-- VISUAL:t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-40-riesgos-juridicos-asociados-no-delitos-por-etiqueta.webp" alt="Riesgos jurídicos asociados, no delitos por etiqueta" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgos jurídicos asociados, no delitos por etiqueta.</em></p>
 
 :::hablemos-claro
 La creencia se protege; el delito se prueba.
@@ -1388,7 +1548,11 @@ Para dominar **atención policial y salida segura**, parte de este criterio: Ayu
 - **Incorrecto:** La mejor primera respuesta es burlarse de la doctrina para que la víctima reaccione.
 - **Incorrecto:** Toda salida es inmediata, segura y sin costes relacionales.
 
-<!-- VISUAL PENDIENTE: t30-il-41-atencion-policial-y-salida-segura.webp -->
+<!-- VISUAL:t30-il-41-atencion-policial-y-salida-segura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-41-atencion-policial-y-salida-segura.webp" alt="Atención policial y salida segura" width="820">
+</p>
+<p align="center"><em>Infografía: Atención policial y salida segura.</em></p>
 
 :::hablemos-claro
 Ayuda a salir del control sin convertir la vergüenza en una segunda jaula.
@@ -1422,7 +1586,11 @@ Para dominar **hooliganismo: concepto y delimitación**, parte de este criterio:
 - **Incorrecto:** Todo seguidor de un club pertenece a un grupo violento.
 - **Incorrecto:** La etiqueta hooligan determina por sí sola la pena aplicable.
 
-<!-- VISUAL PENDIENTE: t30-42-hooliganismo-concepto-y-delimitacion.webp -->
+<!-- VISUAL:t30-42-hooliganismo-concepto-y-delimitacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-42-hooliganismo-concepto-y-delimitacion.webp" alt="Hooliganismo: concepto y delimitación" width="820">
+</p>
+<p align="center"><em>Infografía: Hooliganismo: concepto y delimitación.</em></p>
 
 :::hablemos-claro
 Identidad deportiva no es delito; describe la conducta, el vínculo con el evento y la norma.
@@ -1456,7 +1624,11 @@ Para dominar **identidad, masculinidad y búsqueda de confrontación**, parte de
 - **Incorrecto:** La Escuela de Leicester explicó toda violencia deportiva por una enfermedad individual única.
 - **Incorrecto:** Comprender causas sociales elimina responsabilidad por hechos violentos.
 
-<!-- VISUAL PENDIENTE: t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp -->
+<!-- VISUAL:t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-43-identidad-masculinidad-y-busqueda-de-confrontacion.webp" alt="Identidad, masculinidad y búsqueda de confrontación" width="820">
+</p>
+<p align="center"><em>Infografía: Identidad, masculinidad y búsqueda de confrontación.</em></p>
 
 :::hablemos-claro
 Explicar no es justificar: conecta trayectoria social, grupo y decisión individual.
@@ -1490,7 +1662,11 @@ Para dominar **enfoque de la escuela de leicester**, parte de este criterio: Lei
 - **Incorrecto:** El enfoque de Leicester pertenece a la farmacología y explica el fenómeno solo por alcohol.
 - **Incorrecto:** La teoría permite identificar sin error a cualquier futuro infractor por su origen.
 
-<!-- VISUAL PENDIENTE: t30-44-enfoque-de-la-escuela-de-leicester.webp -->
+<!-- VISUAL:t30-44-enfoque-de-la-escuela-de-leicester.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-44-enfoque-de-la-escuela-de-leicester.webp" alt="Enfoque de la Escuela de Leicester" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque de la Escuela de Leicester.</em></p>
 
 :::hablemos-claro
 Leicester mira procesos e interdependencias; no una etiqueta instantánea.
@@ -1524,7 +1700,11 @@ Para dominar **enfoque etogénico de peter marsh**, parte de este criterio: Ritu
 - **Incorrecto:** Marsh sostuvo que toda agresión deportiva es ficticia y nunca causa daño.
 - **Incorrecto:** El enfoque etogénico identifica hooliganismo con resistencia obrera al aburguesamiento.
 
-<!-- VISUAL PENDIENTE: t30-il-45-enfoque-etogenico-de-peter-marsh.webp -->
+<!-- VISUAL:t30-il-45-enfoque-etogenico-de-peter-marsh.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-45-enfoque-etogenico-de-peter-marsh.webp" alt="Enfoque etogénico de Peter Marsh" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque etogénico de Peter Marsh.</em></p>
 
 :::hablemos-claro
 Ritual explica reglas del enfrentamiento; no borra el riesgo cuando esas reglas fallan.
@@ -1558,7 +1738,11 @@ Para dominar **enfoque marxista de ian taylor**, parte de este criterio: Trampa 
 - **Incorrecto:** La resistencia al aburguesamiento pertenece al enfoque etogénico de Peter Marsh.
 - **Incorrecto:** Taylor explicó el hooliganismo únicamente por predisposición genética.
 
-<!-- VISUAL PENDIENTE: t30-46-enfoque-marxista-de-ian-taylor.webp -->
+<!-- VISUAL:t30-46-enfoque-marxista-de-ian-taylor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-46-enfoque-marxista-de-ian-taylor.webp" alt="Enfoque marxista de Ian Taylor" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoque marxista de Ian Taylor.</em></p>
 
 :::hablemos-claro
 Trampa clásica: Taylor = resistencia obrera frente al fútbol aburguesado.
@@ -1592,7 +1776,11 @@ Para dominar **dinámica del evento y escalada**, parte de este criterio: Gestio
 - **Incorrecto:** Consumir alcohol determina inevitablemente violencia en todos los asistentes.
 - **Incorrecto:** La prevención eficaz consiste en tratar a toda la afición como infractora.
 
-<!-- VISUAL PENDIENTE: t30-47-dinamica-del-evento-y-escalada.webp -->
+<!-- VISUAL:t30-47-dinamica-del-evento-y-escalada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-47-dinamica-del-evento-y-escalada.webp" alt="Dinámica del evento y escalada" width="820">
+</p>
+<p align="center"><em>Infografía: Dinámica del evento y escalada.</em></p>
 
 :::hablemos-claro
 Gestiona condiciones de escalada sin convertir factores de riesgo en culpabilidad.
@@ -1626,7 +1814,11 @@ Para dominar **conductas violentas en la ley 19/2007**, parte de este criterio: 
 - **Incorrecto:** La ley solo alcanza peleas dentro del terreno de juego durante el partido.
 - **Incorrecto:** Facilitar medios digitales a grupos violentos queda siempre fuera de su ámbito.
 
-<!-- VISUAL PENDIENTE: t30-48-conductas-violentas-en-la-ley-19-2007.webp -->
+<!-- VISUAL:t30-48-conductas-violentas-en-la-ley-19-2007.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-48-conductas-violentas-en-la-ley-19-2007.webp" alt="Conductas violentas en la Ley 19/2007" width="820">
+</p>
+<p align="center"><em>Infografía: Conductas violentas en la Ley 19/2007.</em></p>
 
 :::hablemos-claro
 Recinto, aledaños, transporte, mensaje y apoyo material forman un perímetro más amplio que el césped.
@@ -1660,7 +1852,11 @@ Para dominar **racismo, xenofobia e intolerancia en el deporte**, parte de este 
 - **Incorrecto:** La ley solo protege frente a insultos por nacionalidad y excluye orientación sexual o discapacidad.
 - **Incorrecto:** Un cántico nunca puede integrar una conducta intolerante porque no es escrito.
 
-<!-- VISUAL PENDIENTE: t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp -->
+<!-- VISUAL:t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-49-racismo-xenofobia-e-intolerancia-en-el-deporte.webp" alt="Racismo, xenofobia e intolerancia en el deporte" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo, xenofobia e intolerancia en el deporte.</em></p>
 
 :::hablemos-claro
 El soporte cambia; la dignidad, el motivo y el contexto deciden la relevancia.
@@ -1694,7 +1890,11 @@ Para dominar **obligaciones de organizadores y cooperación**, parte de este cri
 - **Incorrecto:** El organizador carece de obligaciones una vez vendidas las entradas.
 - **Incorrecto:** La ley obliga a financiar desplazamientos de grupos sancionados para facilitar su control.
 
-<!-- VISUAL PENDIENTE: t30-50-obligaciones-de-organizadores-y-cooperacion.webp -->
+<!-- VISUAL:t30-50-obligaciones-de-organizadores-y-cooperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-50-obligaciones-de-organizadores-y-cooperacion.webp" alt="Obligaciones de organizadores y cooperación" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de organizadores y cooperación.</em></p>
 
 :::hablemos-claro
 La prevención comienza antes del torno: información, apoyo, desplazamiento y cese inmediato.
@@ -1728,7 +1928,11 @@ Para dominar **oficina nacional de deportes y coordinación de seguridad**, part
 - **Incorrecto:** La Oficina Nacional de Deportes depende del Gabinete Técnico de la Dirección General de la Policía.
 - **Incorrecto:** Su única función es sancionar deportistas por infracciones de las reglas de juego.
 
-<!-- VISUAL PENDIENTE: t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp -->
+<!-- VISUAL:t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-51-oficina-nacional-de-deportes-y-coordinacion-de-segur.webp" alt="Oficina Nacional de Deportes y coordinación de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Oficina Nacional de Deportes y coordinación de seguridad.</em></p>
 
 :::hablemos-claro
 Actualización de examen: Brigada de Coordinación Operativa, Seguridad Ciudadana.
@@ -1762,7 +1966,11 @@ Para dominar **delito de odio: estructura de dos elementos**, parte de este crit
 - **Incorrecto:** Toda expresión ofensiva es delito de odio aunque no exista infracción penal.
 - **Incorrecto:** Solo existe motivación de prejuicio si el autor reconoce sentir odio emocional intenso.
 
-<!-- VISUAL PENDIENTE: t30-52-delito-de-odio-estructura-de-dos-elementos.webp -->
+<!-- VISUAL:t30-52-delito-de-odio-estructura-de-dos-elementos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-52-delito-de-odio-estructura-de-dos-elementos.webp" alt="Delito de odio: estructura de dos elementos" width="820">
+</p>
+<p align="center"><em>Infografía: Delito de odio: estructura de dos elementos.</em></p>
 
 :::hablemos-claro
 Fórmula de control: delito base + selección o motivación prejuiciosa.
@@ -1796,7 +2004,11 @@ Para dominar **delito de odio, discurso de odio e incidente de odio**, parte de 
 - **Incorrecto:** Todo delito de odio requiere publicar un mensaje en internet.
 - **Incorrecto:** Registrar un incidente equivale a declarar penalmente culpable al señalado.
 
-<!-- VISUAL PENDIENTE: t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp -->
+<!-- VISUAL:t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-53-delito-de-odio-discurso-de-odio-e-incidente-de-odio.webp" alt="Delito de odio, discurso de odio e incidente de odio" width="820">
+</p>
+<p align="center"><em>Infografía: Delito de odio, discurso de odio e incidente de odio.</em></p>
 
 :::hablemos-claro
 Registro operativo no es condena; conserva indicios para que la calificación se decida con prueba.
@@ -1830,7 +2042,11 @@ Para dominar **indicadores de polarización o sesgo**, parte de este criterio: I
 - **Incorrecto:** La percepción de la víctima determina de forma automática y definitiva la condena.
 - **Incorrecto:** Los símbolos o palabras nunca son relevantes para investigar la motivación.
 
-<!-- VISUAL PENDIENTE: t30-54-indicadores-de-polarizacion-o-sesgo.webp -->
+<!-- VISUAL:t30-54-indicadores-de-polarizacion-o-sesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-54-indicadores-de-polarizacion-o-sesgo.webp" alt="Indicadores de polarización o sesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Indicadores de polarización o sesgo.</em></p>
 
 :::hablemos-claro
 Indicador abre una línea de investigación; prueba contrastada sostiene la conclusión.
@@ -1864,7 +2080,11 @@ Para dominar **agravante discriminatoria del código penal**, parte de este crit
 - **Incorrecto:** La agravante solo incluye raza, religión y nacionalidad.
 - **Incorrecto:** Si el autor se equivoca sobre la característica de la víctima, el artículo excluye siempre la agravación.
 
-<!-- VISUAL PENDIENTE: t30-55-agravante-discriminatoria-del-codigo-penal.webp -->
+<!-- VISUAL:t30-55-agravante-discriminatoria-del-codigo-penal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-55-agravante-discriminatoria-del-codigo-penal.webp" alt="Agravante discriminatoria del Código Penal" width="820">
+</p>
+<p align="center"><em>Infografía: Agravante discriminatoria del Código Penal.</em></p>
 
 :::hablemos-claro
 Memoriza causas y cierre: importa el motivo, aunque la característica percibida no sea real.
@@ -1898,7 +2118,11 @@ Para dominar **incitación, materiales y negacionismo del artículo 510.1**, par
 - **Incorrecto:** El artículo 510.1 solo castiga incitación directa a violencia física y excluye hostilidad o discriminación.
 - **Incorrecto:** Toda discusión histórica sobre genocidio es delictiva sin necesidad de contexto ni clima promovido.
 
-<!-- VISUAL PENDIENTE: t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp -->
+<!-- VISUAL:t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-56-incitacion-materiales-y-negacionismo-del-articulo-51.webp" alt="Incitación, materiales y negacionismo del artículo 510.1" width="820">
+</p>
+<p align="center"><em>Infografía: Incitación, materiales y negacionismo del artículo 510.1.</em></p>
 
 :::hablemos-claro
 En el 510 importa verbo, publicidad, idoneidad, grupo o persona y motivo protegido.
@@ -1932,7 +2156,11 @@ Para dominar **dignidad, justificación pública y agravaciones del artículo 51
 - **Incorrecto:** Internet convierte automáticamente en delito cualquier insulto aislado.
 - **Incorrecto:** El artículo 510 nunca permite retirar contenidos utilizados para cometer el delito.
 
-<!-- VISUAL PENDIENTE: t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp -->
+<!-- VISUAL:t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-57-dignidad-justificacion-publica-y-agravaciones-del-ar.webp" alt="Dignidad, justificación pública y agravaciones del artículo 510" width="820">
+</p>
+<p align="center"><em>Infografía: Dignidad, justificación pública y agravaciones del artículo 510.</em></p>
 
 :::hablemos-claro
 No memorices “internet = delito”; primero tipo, luego difusión y agravación.
@@ -1966,7 +2194,11 @@ Para dominar **denegación discriminatoria de prestaciones**, parte de este crit
 - **Incorrecto:** El artículo 511 solo se aplica a empresarios privados sin relación con servicios públicos.
 - **Incorrecto:** Cualquier negativa de venta constituye delito aunque el servicio no sea debido ni exista motivo protegido.
 
-<!-- VISUAL PENDIENTE: t30-58-denegacion-discriminatoria-de-prestaciones.webp -->
+<!-- VISUAL:t30-58-denegacion-discriminatoria-de-prestaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-58-denegacion-discriminatoria-de-prestaciones.webp" alt="Denegación discriminatoria de prestaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Denegación discriminatoria de prestaciones.</em></p>
 
 :::hablemos-claro
 Primero identifica quién presta, si existe derecho y cuál es el motivo de la negativa.
@@ -2000,7 +2232,11 @@ Para dominar **víctimas, infradenuncia y victimización secundaria**, parte de 
 - **Incorrecto:** Si una víctima tarda en denunciar, queda demostrado que el hecho es falso.
 - **Incorrecto:** Repetir el relato ante múltiples personas sin necesidad nunca produce daño adicional.
 
-<!-- VISUAL PENDIENTE: t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp -->
+<!-- VISUAL:t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-59-victimas-infradenuncia-y-victimizacion-secundaria.webp" alt="Víctimas, infradenuncia y victimización secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Víctimas, infradenuncia y victimización secundaria.</em></p>
 
 :::hablemos-claro
 La tardanza puede ser un dato del daño, no una prueba automática contra la víctima.
@@ -2034,7 +2270,11 @@ Para dominar **investigación policial, registro y ciberodio**, parte de este cr
 - **Incorrecto:** Una captura sin origen, fecha ni contexto basta siempre como prueba completa.
 - **Incorrecto:** Todo contenido difundido por una red social queda automáticamente incluido en el artículo 510.
 
-<!-- VISUAL PENDIENTE: t30-60-investigacion-policial-registro-y-ciberodio.webp -->
+<!-- VISUAL:t30-60-investigacion-policial-registro-y-ciberodio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-60-investigacion-policial-registro-y-ciberodio.webp" alt="Investigación policial, registro y ciberodio" width="820">
+</p>
+<p align="center"><em>Infografía: Investigación policial, registro y ciberodio.</em></p>
 
 :::hablemos-claro
 Conserva contexto y trazabilidad digital; el medio amplifica, pero no sustituye el tipo penal.
@@ -2068,7 +2308,11 @@ Para dominar **organización institucional frente a los delitos de odio**, parte
 - **Incorrecto:** La Oficina Nacional de Deportes dirige la lucha estatal contra los delitos de odio.
 - **Incorrecto:** La Unidad Central de Participación Ciudadana dicta sentencias penales y sustituye a los órganos judiciales.
 
-<!-- VISUAL PENDIENTE: t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
+<!-- VISUAL:t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp" alt="Organización institucional frente a los delitos de odio" width="820">
+</p>
+<p align="center"><em>Infografía: Organización institucional frente a los delitos de odio.</em></p>
 
 :::hablemos-claro
 Tres planos: coordinación estatal, interlocución social e investigación del caso.

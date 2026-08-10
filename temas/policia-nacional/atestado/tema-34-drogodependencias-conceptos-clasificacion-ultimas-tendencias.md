@@ -28,7 +28,11 @@ Para dominar **alcance oficial del tema 34**, aplica esta regla: Tres carriles: 
 - **Incorrecto:** El programa se limita a memorizar nombres comerciales de sustancias.
 - **Incorrecto:** Una cifra de consumo sigue siendo actual aunque no se identifiquen año ni población.
 
-<!-- VISUAL PENDIENTE: t34-01-alcance-oficial-del-tema-34.webp -->
+<!-- VISUAL:t34-01-alcance-oficial-del-tema-34.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-01-alcance-oficial-del-tema-34.webp" alt="Alcance oficial del Tema 34" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 34.</em></p>
 
 :::hablemos-claro
 Tres carriles: define con precisión, clasifica sin absolutismos y fecha cada tendencia.
@@ -62,7 +66,11 @@ Para dominar **concepto funcional de droga**, aplica esta regla: “Droga” des
 - **Incorrecto:** Toda droga es necesariamente ilegal y carece de uso terapéutico.
 - **Incorrecto:** El nombre de la sustancia permite predecir un efecto idéntico en cualquier persona.
 
-<!-- VISUAL PENDIENTE: t34-02-concepto-funcional-de-droga.webp -->
+<!-- VISUAL:t34-02-concepto-funcional-de-droga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-02-concepto-funcional-de-droga.webp" alt="Concepto funcional de droga" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto funcional de droga.</em></p>
 
 :::hablemos-claro
 “Droga” describe capacidad de modificar funciones; la legalidad y el daño requieren preguntas adicionales.
@@ -96,7 +104,11 @@ Para dominar **sustancia psicoactiva y sistema nervioso**, aplica esta regla: Ps
 - **Incorrecto:** Toda sustancia psicoactiva produce alucinaciones visuales.
 - **Incorrecto:** Los efectos dependen exclusivamente de la cantidad y nunca del contexto.
 
-<!-- VISUAL PENDIENTE: t34-03-sustancia-psicoactiva-y-sistema-nervioso.webp -->
+<!-- VISUAL:t34-03-sustancia-psicoactiva-y-sistema-nervioso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-03-sustancia-psicoactiva-y-sistema-nervioso.webp" alt="Sustancia psicoactiva y sistema nervioso" width="820">
+</p>
+<p align="center"><em>Infografía: Sustancia psicoactiva y sistema nervioso.</em></p>
 
 :::hablemos-claro
 Psicoactivo es el paraguas; depresor, estimulante y perturbador son respuestas principales bajo él.
@@ -130,7 +142,11 @@ Para dominar **uso, uso de riesgo y uso perjudicial**, aplica esta regla: No con
 - **Incorrecto:** Todo consumo demuestra dependencia clínica.
 - **Incorrecto:** Sin dependencia es imposible que aparezca una intoxicación aguda grave.
 
-<!-- VISUAL PENDIENTE: t34-04-uso-uso-de-riesgo-y-uso-perjudicial.webp -->
+<!-- VISUAL:t34-04-uso-uso-de-riesgo-y-uso-perjudicial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-04-uso-uso-de-riesgo-y-uso-perjudicial.webp" alt="Uso, uso de riesgo y uso perjudicial" width="820">
+</p>
+<p align="center"><em>Infografía: Uso, uso de riesgo y uso perjudicial.</em></p>
 
 :::hablemos-claro
 No conviertas una escalera en un interruptor: uso, riesgo, daño y dependencia no son sinónimos.
@@ -164,7 +180,11 @@ Para dominar **intoxicación aguda y efectos crónicos**, aplica esta regla: Agu
 - **Incorrecto:** La intoxicación aguda exige siempre años de consumo previo.
 - **Incorrecto:** El nombre vendido permite conocer con certeza composición y gravedad.
 
-<!-- VISUAL PENDIENTE: t34-05-intoxicacion-aguda-y-efectos-cronicos.webp -->
+<!-- VISUAL:t34-05-intoxicacion-aguda-y-efectos-cronicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-05-intoxicacion-aguda-y-efectos-cronicos.webp" alt="Intoxicación aguda y efectos crónicos" width="820">
+</p>
+<p align="center"><em>Infografía: Intoxicación aguda y efectos crónicos.</em></p>
 
 :::hablemos-claro
 Agudo pregunta qué ocurre ahora; crónico pregunta qué deja la exposición repetida.
@@ -198,7 +218,11 @@ Para dominar **factores de riesgo y de protección**, aplica esta regla: Triáng
 - **Incorrecto:** Un factor de riesgo permite predecir con certeza quién desarrollará adicción.
 - **Incorrecto:** Las propiedades químicas explican por sí solas todo patrón de consumo.
 
-<!-- VISUAL PENDIENTE: t34-06-factores-de-riesgo-y-de-proteccion.webp -->
+<!-- VISUAL:t34-06-factores-de-riesgo-y-de-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-06-factores-de-riesgo-y-de-proteccion.webp" alt="Factores de riesgo y de protección" width="820">
+</p>
+<p align="center"><em>Infografía: Factores de riesgo y de protección.</em></p>
 
 :::hablemos-claro
 Triángulo inseparable: sustancia, persona y contexto; ningún vértice explica solo el problema.
@@ -232,7 +256,11 @@ Para dominar **daño individual, social y de salud pública**, aplica esta regla
 - **Incorrecto:** La sustancia más consumida es necesariamente la que causa más daño por episodio.
 - **Incorrecto:** Tratamiento y prevención son respuestas incompatibles entre sí.
 
-<!-- VISUAL PENDIENTE: t34-07-dano-individual-social-y-de-salud-publica.webp -->
+<!-- VISUAL:t34-07-dano-individual-social-y-de-salud-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-07-dano-individual-social-y-de-salud-publica.webp" alt="Daño individual, social y de salud pública" width="820">
+</p>
+<p align="center"><em>Infografía: Daño individual, social y de salud pública.</em></p>
 
 :::hablemos-claro
 Cuenta consumo, pero también gravedad, exposición, vulnerabilidad y daño a terceros.
@@ -266,7 +294,11 @@ Para dominar **lenguaje no estigmatizante y precisión**, aplica esta regla: Des
 - **Incorrecto:** Evitar estigma obliga a negar cualquier consecuencia jurídica del comportamiento.
 - **Incorrecto:** Los apodos son más precisos que describir patrón y sustancia.
 
-<!-- VISUAL PENDIENTE: t34-il-08-lenguaje-no-estigmatizante-y-precision.webp -->
+<!-- VISUAL:t34-il-08-lenguaje-no-estigmatizante-y-precision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-08-lenguaje-no-estigmatizante-y-precision.webp" alt="Lenguaje no estigmatizante y precisión" width="820">
+</p>
+<p align="center"><em>Infografía: Lenguaje no estigmatizante y precisión.</em></p>
 
 :::hablemos-claro
 Describe hechos y riesgos; no sustituyas el diagnóstico por una etiqueta social.
@@ -300,7 +332,11 @@ Para dominar **separar clasificación clínica, legal y farmacológica**, aplica
 - **Incorrecto:** Una sustancia controlada en una lista es siempre la más tóxica de su grupo.
 - **Incorrecto:** Clasificación clínica y fiscalización legal son exactamente la misma operación.
 
-<!-- VISUAL PENDIENTE: t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
+<!-- VISUAL:t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp" alt="Separar clasificación clínica, legal y farmacológica" width="820">
+</p>
+<p align="center"><em>Infografía: Separar clasificación clínica, legal y farmacológica.</em></p>
 
 :::hablemos-claro
 Antes de clasificar pregunta: ¿salud, efecto o control jurídico?
@@ -334,7 +370,11 @@ Para dominar **concepto descriptivo de consumidor**, aplica esta regla: Completa
 - **Incorrecto:** Ser consumidor equivale siempre a ser dependiente.
 - **Incorrecto:** La apariencia de una persona basta para clasificar su patrón de consumo.
 
-<!-- VISUAL PENDIENTE: t34-10-concepto-descriptivo-de-consumidor.webp -->
+<!-- VISUAL:t34-10-concepto-descriptivo-de-consumidor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-10-concepto-descriptivo-de-consumidor.webp" alt="Concepto descriptivo de consumidor" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto descriptivo de consumidor.</em></p>
 
 :::hablemos-claro
 Completa la ficha: qué, cuánto, cómo, cuándo, con qué y con qué consecuencias.
@@ -368,7 +408,11 @@ Para dominar **consumidor experimental**, aplica esta regla: “Probar” descri
 - **Incorrecto:** Experimental significa consumo diario con tolerancia.
 - **Incorrecto:** La primera exposición carece siempre de riesgo relevante.
 
-<!-- VISUAL PENDIENTE: t34-il-11-consumidor-experimental.webp -->
+<!-- VISUAL:t34-il-11-consumidor-experimental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-11-consumidor-experimental.webp" alt="Consumidor experimental" width="820">
+</p>
+<p align="center"><em>Infografía: Consumidor experimental.</em></p>
 
 :::hablemos-claro
 “Probar” describe frecuencia, no seguridad ni destino futuro.
@@ -402,7 +446,11 @@ Para dominar **consumidor ocasional o esporádico**, aplica esta regla: Pocas oc
 - **Incorrecto:** Ocasional significa automáticamente consumo sin consecuencias.
 - **Incorrecto:** Puede clasificarse la frecuencia sin precisar período de referencia.
 
-<!-- VISUAL PENDIENTE: t34-12-consumidor-ocasional-o-esporadico.webp -->
+<!-- VISUAL:t34-12-consumidor-ocasional-o-esporadico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-12-consumidor-ocasional-o-esporadico.webp" alt="Consumidor ocasional o esporádico" width="820">
+</p>
+<p align="center"><em>Infografía: Consumidor ocasional o esporádico.</em></p>
 
 :::hablemos-claro
 Pocas ocasiones no equivalen a poco riesgo: importa qué ocurre en cada episodio.
@@ -436,7 +484,11 @@ Para dominar **consumidor habitual**, aplica esta regla: Habitual habla de repet
 - **Incorrecto:** Todo consumidor habitual cumple necesariamente criterios de dependencia.
 - **Incorrecto:** Cantidad y consecuencias son irrelevantes si se conoce la frecuencia.
 
-<!-- VISUAL PENDIENTE: t34-13-consumidor-habitual.webp -->
+<!-- VISUAL:t34-13-consumidor-habitual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-13-consumidor-habitual.webp" alt="Consumidor habitual" width="820">
+</p>
+<p align="center"><em>Infografía: Consumidor habitual.</em></p>
 
 :::hablemos-claro
 Habitual habla de repetición; dependencia exige pérdida de control y prioridad del consumo.
@@ -470,7 +522,11 @@ Para dominar **consumidor dependiente**, aplica esta regla: Tres focos: control 
 - **Incorrecto:** Dependencia se define únicamente por consumir todos los días.
 - **Incorrecto:** La tolerancia aislada demuestra por sí sola dependencia en cualquier contexto.
 
-<!-- VISUAL PENDIENTE: t34-14-consumidor-dependiente.webp -->
+<!-- VISUAL:t34-14-consumidor-dependiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-14-consumidor-dependiente.webp" alt="Consumidor dependiente" width="820">
+</p>
+<p align="center"><em>Infografía: Consumidor dependiente.</em></p>
 
 :::hablemos-claro
 Tres focos: control deteriorado, prioridad creciente y persistencia pese al daño.
@@ -504,7 +560,11 @@ Para dominar **patrones simultáneo y concurrente**, aplica esta regla: Concurre
 - **Incorrecto:** Todo policonsumo implica mezcla en el mismo momento.
 - **Incorrecto:** El consumo simultáneo elimina la posibilidad de interacción porque las sustancias son distintas.
 
-<!-- VISUAL PENDIENTE: t34-15-patrones-simultaneo-y-concurrente.webp -->
+<!-- VISUAL:t34-15-patrones-simultaneo-y-concurrente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-15-patrones-simultaneo-y-concurrente.webp" alt="Patrones simultáneo y concurrente" width="820">
+</p>
+<p align="center"><em>Infografía: Patrones simultáneo y concurrente.</em></p>
 
 :::hablemos-claro
 Concurrente comparte período; simultáneo comparte episodio y posible interacción.
@@ -538,7 +598,11 @@ Para dominar **métodos de administración: mapa general**, aplica esta regla: L
 - **Incorrecto:** La vía solo modifica el lugar de consumo y no los efectos.
 - **Incorrecto:** Todas las vías alcanzan el cerebro con idéntica rapidez.
 
-<!-- VISUAL PENDIENTE: t34-il-16-metodos-de-administracion-mapa-general.webp -->
+<!-- VISUAL:t34-il-16-metodos-de-administracion-mapa-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-16-metodos-de-administracion-mapa-general.webp" alt="Métodos de administración: mapa general" width="820">
+</p>
+<p align="center"><em>Infografía: Métodos de administración: mapa general.</em></p>
 
 :::hablemos-claro
 La vía es una autopista farmacológica: cambia velocidad, pico, duración y peajes de riesgo.
@@ -572,7 +636,11 @@ Para dominar **vía oral**, aplica esta regla: Inicio lento no significa efecto 
 - **Incorrecto:** La vía oral produce siempre efecto inmediato.
 - **Incorrecto:** El retraso de inicio impide cualquier intoxicación por repetición de dosis.
 
-<!-- VISUAL PENDIENTE: t34-17-via-oral.webp -->
+<!-- VISUAL:t34-17-via-oral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-17-via-oral.webp" alt="Vía oral" width="820">
+</p>
+<p align="center"><em>Infografía: Vía oral.</em></p>
 
 :::hablemos-claro
 Inicio lento no significa efecto débil: el error clásico es repetir antes de tiempo.
@@ -606,7 +674,11 @@ Para dominar **vías inhalada y fumada**, aplica esta regla: Rapidez y pulmón s
 - **Incorrecto:** Inhalar produce un inicio más lento que la vía oral en todos los casos.
 - **Incorrecto:** Un producto vaporizado es seguro porque no hay combustión.
 
-<!-- VISUAL PENDIENTE: t34-18-vias-inhalada-y-fumada.webp -->
+<!-- VISUAL:t34-18-vias-inhalada-y-fumada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-18-vias-inhalada-y-fumada.webp" alt="Vías inhalada y fumada" width="820">
+</p>
+<p align="center"><em>Infografía: Vías inhalada y fumada.</em></p>
 
 :::hablemos-claro
 Rapidez y pulmón son las dos claves: efecto precoz y exposición respiratoria.
@@ -640,7 +712,11 @@ Para dominar **vía intranasal**, aplica esta regla: Sin aguja no significa sin 
 - **Incorrecto:** La vía intranasal carece de daño local porque no usa agujas.
 - **Incorrecto:** Compartir instrumentos nunca supone riesgo infeccioso.
 
-<!-- VISUAL PENDIENTE: t34-19-via-intranasal.webp -->
+<!-- VISUAL:t34-19-via-intranasal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-19-via-intranasal.webp" alt="Vía intranasal" width="820">
+</p>
+<p align="center"><em>Infografía: Vía intranasal.</em></p>
 
 :::hablemos-claro
 Sin aguja no significa sin lesión: mucosa, tabique y material compartido importan.
@@ -674,7 +750,11 @@ Para dominar **vía parenteral e intravenosa**, aplica esta regla: Directo a san
 - **Incorrecto:** La inyección reduce el riesgo porque evita el aparato digestivo.
 - **Incorrecto:** La esterilidad del material elimina el riesgo de sobredosis.
 
-<!-- VISUAL PENDIENTE: t34-20-via-parenteral-e-intravenosa.webp -->
+<!-- VISUAL:t34-20-via-parenteral-e-intravenosa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-20-via-parenteral-e-intravenosa.webp" alt="Vía parenteral e intravenosa" width="820">
+</p>
+<p align="center"><em>Infografía: Vía parenteral e intravenosa.</em></p>
 
 :::hablemos-claro
 Directo a sangre significa menos margen de corrección: composición, cantidad e higiene se vuelven críticas.
@@ -708,7 +788,11 @@ Para dominar **vías sublingual, bucal y transdérmica**, aplica esta regla: Mis
 - **Incorrecto:** Sublingual y oral son idénticas porque ambas usan la boca.
 - **Incorrecto:** Un parche terapéutico puede manipularse sin modificar su riesgo.
 
-<!-- VISUAL PENDIENTE: t34-21-vias-sublingual-bucal-y-transdermica.webp -->
+<!-- VISUAL:t34-21-vias-sublingual-bucal-y-transdermica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-21-vias-sublingual-bucal-y-transdermica.webp" alt="Vías sublingual, bucal y transdérmica" width="820">
+</p>
+<p align="center"><em>Infografía: Vías sublingual, bucal y transdérmica.</em></p>
 
 :::hablemos-claro
 Misma zona visible, distinta absorción: debajo de la lengua, mucosa bucal o piel.
@@ -742,7 +826,11 @@ Para dominar **rapidez de inicio, pico y duración**, aplica esta regla: Tres re
 - **Incorrecto:** Pico y duración son la misma medida.
 - **Incorrecto:** Cuando una persona deja de notar efecto, la sustancia ya se ha eliminado por completo.
 
-<!-- VISUAL PENDIENTE: t34-22-rapidez-de-inicio-pico-y-duracion.webp -->
+<!-- VISUAL:t34-22-rapidez-de-inicio-pico-y-duracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-22-rapidez-de-inicio-pico-y-duracion.webp" alt="Rapidez de inicio, pico y duración" width="820">
+</p>
+<p align="center"><em>Infografía: Rapidez de inicio, pico y duración.</em></p>
 
 :::hablemos-claro
 Tres relojes distintos: empieza, alcanza el máximo y deja de sentirse; la eliminación tiene su propio reloj.
@@ -776,7 +864,11 @@ Para dominar **método de administración y reducción de riesgos**, aplica esta
 - **Incorrecto:** Elegir una vía menos rápida elimina todo riesgo de intoxicación.
 - **Incorrecto:** Esperar a identificar exactamente la sustancia debe preceder siempre a pedir ayuda.
 
-<!-- VISUAL PENDIENTE: t34-il-23-metodo-de-administracion-y-reduccion-de-riesgos.webp -->
+<!-- VISUAL:t34-il-23-metodo-de-administracion-y-reduccion-de-riesgos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-23-metodo-de-administracion-y-reduccion-de-riesgos.webp" alt="Método de administración y reducción de riesgos" width="820">
+</p>
+<p align="center"><em>Infografía: Método de administración y reducción de riesgos.</em></p>
 
 :::hablemos-claro
 Reducción de daño no es garantía: reconoce la urgencia y actúa sobre lo vital.
@@ -810,7 +902,11 @@ Para dominar **concepto de adicción**, aplica esta regla: Mira el patrón compl
 - **Incorrecto:** La adicción es únicamente una abstinencia física intensa.
 - **Incorrecto:** Una recaída demuestra que la recuperación es imposible.
 
-<!-- VISUAL PENDIENTE: t34-24-concepto-de-adiccion.webp -->
+<!-- VISUAL:t34-24-concepto-de-adiccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-24-concepto-de-adiccion.webp" alt="Concepto de adicción" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de adicción.</em></p>
 
 :::hablemos-claro
 Mira el patrón completo: control, prioridad, persistencia y consecuencias.
@@ -844,7 +940,11 @@ Para dominar **dependencia física y adaptación**, aplica esta regla: Adaptaci�
 - **Incorrecto:** Dependencia física y adicción son siempre inseparables.
 - **Incorrecto:** Toda sustancia puede suspenderse bruscamente sin riesgo.
 
-<!-- VISUAL PENDIENTE: t34-25-dependencia-fisica-y-adaptacion.webp -->
+<!-- VISUAL:t34-25-dependencia-fisica-y-adaptacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-25-dependencia-fisica-y-adaptacion.webp" alt="Dependencia física y adaptación" width="820">
+</p>
+<p align="center"><em>Infografía: Dependencia física y adaptación.</em></p>
 
 :::hablemos-claro
 Adaptación corporal no equivale por sí sola a pérdida de control conductual.
@@ -878,7 +978,11 @@ Para dominar **dependencia psíquica**, aplica esta regla: La mente aprende luga
 - **Incorrecto:** Sin temblores o vómitos no puede existir dependencia relevante.
 - **Incorrecto:** Las señales ambientales carecen de efecto sobre el deseo.
 
-<!-- VISUAL PENDIENTE: t34-26-dependencia-psiquica.webp -->
+<!-- VISUAL:t34-26-dependencia-psiquica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-26-dependencia-psiquica.webp" alt="Dependencia psíquica" width="820">
+</p>
+<p align="center"><em>Infografía: Dependencia psíquica.</em></p>
 
 :::hablemos-claro
 La mente aprende lugares, emociones y recompensas; el cuerpo no es el único que se adapta.
@@ -912,7 +1016,11 @@ Para dominar **tolerancia**, aplica esta regla: Menos efecto percibido no es men
 - **Incorrecto:** Tolerancia significa que la sustancia deja de causar cualquier daño.
 - **Incorrecto:** Todos los efectos desarrollan tolerancia simultánea e idéntica.
 
-<!-- VISUAL PENDIENTE: t34-27-tolerancia.webp -->
+<!-- VISUAL:t34-27-tolerancia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-27-tolerancia.webp" alt="Tolerancia" width="820">
+</p>
+<p align="center"><em>Infografía: Tolerancia.</em></p>
 
 :::hablemos-claro
 Menos efecto percibido no es menos riesgo: la adaptación puede ser desigual.
@@ -946,7 +1054,11 @@ Para dominar **tolerancia cruzada**, aplica esta regla: El organismo puede recon
 - **Incorrecto:** Tolerancia cruzada solo existe entre dos marcas del mismo producto.
 - **Incorrecto:** Permite calcular una equivalencia segura sin evaluación profesional.
 
-<!-- VISUAL PENDIENTE: t34-il-28-tolerancia-cruzada.webp -->
+<!-- VISUAL:t34-il-28-tolerancia-cruzada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-28-tolerancia-cruzada.webp" alt="Tolerancia cruzada" width="820">
+</p>
+<p align="center"><em>Infografía: Tolerancia cruzada.</em></p>
 
 :::hablemos-claro
 El organismo puede reconocer familias, pero no ofrece una tabla casera de equivalencias.
@@ -980,7 +1092,11 @@ Para dominar **tolerancia inversa o sensibilización**, aplica esta regla: La ad
 - **Incorrecto:** Toda repetición produce exclusivamente tolerancia y nunca sensibilización.
 - **Incorrecto:** Sensibilización significa que todos los efectos aumentan por igual.
 
-<!-- VISUAL PENDIENTE: t34-29-tolerancia-inversa-o-sensibilizacion.webp -->
+<!-- VISUAL:t34-29-tolerancia-inversa-o-sensibilizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-29-tolerancia-inversa-o-sensibilizacion.webp" alt="Tolerancia inversa o sensibilización" width="820">
+</p>
+<p align="center"><em>Infografía: Tolerancia inversa o sensibilización.</em></p>
 
 :::hablemos-claro
 La adaptación no tiene una sola dirección: un efecto puede bajar y otro intensificarse.
@@ -1014,7 +1130,11 @@ Para dominar **síndrome de abstinencia**, aplica esta regla: Abstinencia es una
 - **Incorrecto:** La abstinencia presenta el mismo cuadro para todas las sustancias.
 - **Incorrecto:** Siempre es leve y puede manejarse sin valoración clínica.
 
-<!-- VISUAL PENDIENTE: t34-30-sindrome-de-abstinencia.webp -->
+<!-- VISUAL:t34-30-sindrome-de-abstinencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-30-sindrome-de-abstinencia.webp" alt="Síndrome de abstinencia" width="820">
+</p>
+<p align="center"><em>Infografía: Síndrome de abstinencia.</em></p>
 
 :::hablemos-claro
 Abstinencia es una familia de cuadros, no un único listado universal de síntomas.
@@ -1048,7 +1168,11 @@ Para dominar **craving o deseo intenso**, aplica esta regla: El deseo es una ala
 - **Incorrecto:** Craving desaparece siempre al terminar la abstinencia física.
 - **Incorrecto:** Sentir deseo hace inevitable la recaída.
 
-<!-- VISUAL PENDIENTE: t34-il-31-craving-o-deseo-intenso.webp -->
+<!-- VISUAL:t34-il-31-craving-o-deseo-intenso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-31-craving-o-deseo-intenso.webp" alt="Craving o deseo intenso" width="820">
+</p>
+<p align="center"><em>Infografía: Craving o deseo intenso.</em></p>
 
 :::hablemos-claro
 El deseo es una alarma, no una orden; identifica qué la activa y qué respuesta la corta.
@@ -1082,7 +1206,11 @@ Para dominar **refuerzo positivo y negativo**, aplica esta regla: Positivo añad
 - **Incorrecto:** Refuerzo negativo es sinónimo de sanción que reduce el consumo.
 - **Incorrecto:** Solo la búsqueda de euforia puede mantener una adicción.
 
-<!-- VISUAL PENDIENTE: t34-32-refuerzo-positivo-y-negativo.webp -->
+<!-- VISUAL:t34-32-refuerzo-positivo-y-negativo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-32-refuerzo-positivo-y-negativo.webp" alt="Refuerzo positivo y negativo" width="820">
+</p>
+<p align="center"><em>Infografía: Refuerzo positivo y negativo.</em></p>
 
 :::hablemos-claro
 Positivo añade recompensa; negativo quita malestar; ambos pueden reforzar.
@@ -1116,7 +1244,11 @@ Para dominar **control deteriorado y compulsión**, aplica esta regla: Mide dón
 - **Incorrecto:** Dependencia exige incapacidad absoluta de decidir en todo momento.
 - **Incorrecto:** Un único exceso permite diagnosticar por sí solo un patrón compulsivo.
 
-<!-- VISUAL PENDIENTE: t34-33-control-deteriorado-y-compulsion.webp -->
+<!-- VISUAL:t34-33-control-deteriorado-y-compulsion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-33-control-deteriorado-y-compulsion.webp" alt="Control deteriorado y compulsión" width="820">
+</p>
+<p align="center"><em>Infografía: Control deteriorado y compulsión.</em></p>
 
 :::hablemos-claro
 Mide dónde se rompe el control: empezar, parar, cantidad, frecuencia o contexto.
@@ -1150,7 +1282,11 @@ Para dominar **poliotoxicomanía y policonsumo**, aplica esta regla: Dos o más 
 - **Incorrecto:** Haber probado dos sustancias equivale siempre a politoxicomanía.
 - **Incorrecto:** Policonsumo informa por sí solo de que las sustancias se tomaron simultáneamente.
 
-<!-- VISUAL PENDIENTE: t34-34-poliotoxicomania-y-policonsumo.webp -->
+<!-- VISUAL:t34-34-poliotoxicomania-y-policonsumo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-34-poliotoxicomania-y-policonsumo.webp" alt="Poliotoxicomanía y policonsumo" width="820">
+</p>
+<p align="center"><em>Infografía: Poliotoxicomanía y policonsumo.</em></p>
 
 :::hablemos-claro
 Dos o más sustancias abren la pregunta; no cierran el diagnóstico.
@@ -1184,7 +1320,11 @@ Para dominar **interacciones farmacodinámicas y farmacocinéticas**, aplica est
 - **Incorrecto:** Toda interacción consiste únicamente en que una sustancia neutraliza a otra.
 - **Incorrecto:** Conocer los nombres vendidos permite calcular exactamente la interacción.
 
-<!-- VISUAL PENDIENTE: t34-35-interacciones-farmacodinamicas-y-farmacocineticas.webp -->
+<!-- VISUAL:t34-35-interacciones-farmacodinamicas-y-farmacocineticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-35-interacciones-farmacodinamicas-y-farmacocineticas.webp" alt="Interacciones farmacodinámicas y farmacocinéticas" width="820">
+</p>
+<p align="center"><em>Infografía: Interacciones farmacodinámicas y farmacocinéticas.</em></p>
 
 :::hablemos-claro
 Una mezcla puede cambiar lo que hace la droga o cuánto tiempo y concentración alcanza.
@@ -1218,7 +1358,11 @@ Para dominar **mezcla de depresores**, aplica esta regla: Depresor más depresor
 - **Incorrecto:** Un depresor compensa a otro y normaliza la respiración.
 - **Incorrecto:** La tolerancia al alcohol protege frente a cualquier opioide o sedante.
 
-<!-- VISUAL PENDIENTE: t34-il-36-mezcla-de-depresores.webp -->
+<!-- VISUAL:t34-il-36-mezcla-de-depresores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-36-mezcla-de-depresores.webp" alt="Mezcla de depresores" width="820">
+</p>
+<p align="center"><em>Infografía: Mezcla de depresores.</em></p>
 
 :::hablemos-claro
 Depresor más depresor no equilibra: puede apagar conciencia y respiración.
@@ -1252,7 +1396,11 @@ Para dominar **mezcla de estimulantes y speedball**, aplica esta regla: Sentirse
 - **Incorrecto:** Heroína y cocaína se neutralizan y eliminan el riesgo de sobredosis.
 - **Incorrecto:** Speedball es una mezcla de dos estimulantes.
 
-<!-- VISUAL PENDIENTE: t34-37-mezcla-de-estimulantes-y-speedball.webp -->
+<!-- VISUAL:t34-37-mezcla-de-estimulantes-y-speedball.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-37-mezcla-de-estimulantes-y-speedball.webp" alt="Mezcla de estimulantes y speedball" width="820">
+</p>
+<p align="center"><em>Infografía: Mezcla de estimulantes y speedball.</em></p>
 
 :::hablemos-claro
 Sentirse “equilibrado” no significa estarlo: corazón y respiración siguen expuestos.
@@ -1286,7 +1434,11 @@ Para dominar **clasificación por situación legal**, aplica esta regla: Legalid
 - **Incorrecto:** Toda sustancia legal es menos peligrosa que cualquier sustancia ilegal.
 - **Incorrecto:** Una sustancia fiscalizada carece necesariamente de uso terapéutico.
 
-<!-- VISUAL PENDIENTE: t34-38-clasificacion-por-situacion-legal.webp -->
+<!-- VISUAL:t34-38-clasificacion-por-situacion-legal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-38-clasificacion-por-situacion-legal.webp" alt="Clasificación por situación legal" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación por situación legal.</em></p>
 
 :::hablemos-claro
 Legalidad regula conductas; no funciona como termómetro completo de daño.
@@ -1320,7 +1472,11 @@ Para dominar **clasificación por origen**, aplica esta regla: Origen cuenta có
 - **Incorrecto:** Natural es sinónimo de seguro.
 - **Incorrecto:** Toda sustancia sintética produce el mismo tipo de efecto.
 
-<!-- VISUAL PENDIENTE: t34-39-clasificacion-por-origen.webp -->
+<!-- VISUAL:t34-39-clasificacion-por-origen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-39-clasificacion-por-origen.webp" alt="Clasificación por origen" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación por origen.</em></p>
 
 :::hablemos-claro
 Origen cuenta cómo se obtiene, no cuánto daña ni cómo actúa.
@@ -1354,7 +1510,11 @@ Para dominar **clasificación por efecto predominante en el snc**, aplica esta r
 - **Incorrecto:** Depresora significa que siempre causa tristeza.
 - **Incorrecto:** Perturbadora significa que la sustancia carece de cualquier efecto estimulante o depresor.
 
-<!-- VISUAL PENDIENTE: t34-40-clasificacion-por-efecto-predominante-en-el-snc.webp -->
+<!-- VISUAL:t34-40-clasificacion-por-efecto-predominante-en-el-snc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-40-clasificacion-por-efecto-predominante-en-el-snc.webp" alt="Clasificación por efecto predominante en el SNC" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificación por efecto predominante en el SNC.</em></p>
 
 :::hablemos-claro
 Predominante es la palabra clave: las fronteras farmacológicas no siempre son cajas perfectas.
@@ -1388,7 +1548,11 @@ Para dominar **límites de la clasificación por efectos**, aplica esta regla: C
 - **Incorrecto:** Cada sustancia pertenece de forma absoluta a una sola caja sin matices.
 - **Incorrecto:** Ketamina es un estimulante puro porque puede producir agitación.
 
-<!-- VISUAL PENDIENTE: t34-il-41-limites-de-la-clasificacion-por-efectos.webp -->
+<!-- VISUAL:t34-il-41-limites-de-la-clasificacion-por-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-41-limites-de-la-clasificacion-por-efectos.webp" alt="Límites de la clasificación por efectos" width="820">
+</p>
+<p align="center"><em>Infografía: Límites de la clasificación por efectos.</em></p>
 
 :::hablemos-claro
 Clasificar resume; no borra los efectos mixtos.
@@ -1422,7 +1586,11 @@ Para dominar **estupefacientes en el sistema internacional**, aplica esta regla:
 - **Incorrecto:** Estupefaciente significa farmacológicamente depresor en todos los casos.
 - **Incorrecto:** La Convención de 1961 solo controla sustancias sintéticas.
 
-<!-- VISUAL PENDIENTE: t34-42-estupefacientes-en-el-sistema-internacional.webp -->
+<!-- VISUAL:t34-42-estupefacientes-en-el-sistema-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-42-estupefacientes-en-el-sistema-internacional.webp" alt="Estupefacientes en el sistema internacional" width="820">
+</p>
+<p align="center"><em>Infografía: Estupefacientes en el sistema internacional.</em></p>
 
 :::hablemos-claro
 Estupefaciente es una categoría jurídica internacional, no una caja farmacológica única.
@@ -1456,7 +1624,11 @@ Para dominar **psicotrópicos y convenio de 1971**, aplica esta regla: Cuatro li
 - **Incorrecto:** Psicotrópico equivale exclusivamente a alucinógeno.
 - **Incorrecto:** El Convenio de 1971 utiliza una sola lista para todas las sustancias.
 
-<!-- VISUAL PENDIENTE: t34-43-psicotropicos-y-convenio-de-1971.webp -->
+<!-- VISUAL:t34-43-psicotropicos-y-convenio-de-1971.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-43-psicotropicos-y-convenio-de-1971.webp" alt="Psicotrópicos y Convenio de 1971" width="820">
+</p>
+<p align="center"><em>Infografía: Psicotrópicos y Convenio de 1971.</em></p>
 
 :::hablemos-claro
 Cuatro listas jurídicas agrupan perfiles farmacológicos distintos.
@@ -1490,7 +1662,11 @@ Para dominar **convención de 1988 y precursores**, aplica esta regla: El precur
 - **Incorrecto:** Todo precursor es una droga destinada al consumo directo.
 - **Incorrecto:** La Convención de 1988 sustituyó y derogó íntegramente las de 1961 y 1971.
 
-<!-- VISUAL PENDIENTE: t34-44-convencion-de-1988-y-precursores.webp -->
+<!-- VISUAL:t34-44-convencion-de-1988-y-precursores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-44-convencion-de-1988-y-precursores.webp" alt="Convención de 1988 y precursores" width="820">
+</p>
+<p align="center"><em>Infografía: Convención de 1988 y precursores.</em></p>
 
 :::hablemos-claro
 El precursor está antes de la droga en la cadena; controlarlo corta desvíos.
@@ -1524,7 +1700,11 @@ Para dominar **procedimiento nacional para considerar un estupefaciente**, aplic
 - **Incorrecto:** La policía incluye por sí sola una sustancia en la lista mediante atestado.
 - **Incorrecto:** La evaluación solo pregunta si la sustancia tiene origen natural.
 
-<!-- VISUAL PENDIENTE: t34-45-procedimiento-nacional-para-considerar-un-estupefaciente.webp -->
+<!-- VISUAL:t34-45-procedimiento-nacional-para-considerar-un-estupefaciente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-45-procedimiento-nacional-para-considerar-un-estupefaciente.webp" alt="Procedimiento nacional para considerar un estupefaciente" width="820">
+</p>
+<p align="center"><em>Infografía: Procedimiento nacional para considerar un estupefaciente.</em></p>
 
 :::hablemos-claro
 Detectar no es fiscalizar: evaluación técnica, procedimiento y decisión formal.
@@ -1558,7 +1738,11 @@ Para dominar **control nacional de psicotrópicos**, aplica esta regla: La norma
 - **Incorrecto:** Las listas psicotrópicas quedaron congeladas en 1977.
 - **Incorrecto:** Fiscalización se limita a prohibir cualquier uso médico.
 
-<!-- VISUAL PENDIENTE: t34-46-control-nacional-de-psicotropicos.webp -->
+<!-- VISUAL:t34-46-control-nacional-de-psicotropicos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-46-control-nacional-de-psicotropicos.webp" alt="Control nacional de psicotrópicos" width="820">
+</p>
+<p align="center"><em>Infografía: Control nacional de psicotrópicos.</em></p>
 
 :::hablemos-claro
 La norma es estable; la lista es dinámica. Comprueba siempre la versión vigente.
@@ -1592,7 +1776,11 @@ Para dominar **drogas de síntesis**, aplica esta regla: La fabricación químic
 - **Incorrecto:** Toda droga de síntesis es una anfetamina.
 - **Incorrecto:** Drogas de síntesis y NPS son categorías idénticas.
 
-<!-- VISUAL PENDIENTE: t34-il-47-drogas-de-sintesis.webp -->
+<!-- VISUAL:t34-il-47-drogas-de-sintesis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-47-drogas-de-sintesis.webp" alt="Drogas de síntesis" width="820">
+</p>
+<p align="center"><em>Infografía: Drogas de síntesis.</em></p>
 
 :::hablemos-claro
 La fabricación química une al grupo; el efecto farmacológico puede ser muy distinto.
@@ -1626,7 +1814,11 @@ Para dominar **agonista, antagonista e índice terapéutico**, aplica esta regla
 - **Incorrecto:** Un antagonista imita y aumenta siempre el efecto de la droga de referencia.
 - **Incorrecto:** Un índice terapéutico estrecho indica un margen de seguridad amplio.
 
-<!-- VISUAL PENDIENTE: t34-48-agonista-antagonista-e-indice-terapeutico.webp -->
+<!-- VISUAL:t34-48-agonista-antagonista-e-indice-terapeutico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-48-agonista-antagonista-e-indice-terapeutico.webp" alt="Agonista, antagonista e índice terapéutico" width="820">
+</p>
+<p align="center"><em>Infografía: Agonista, antagonista e índice terapéutico.</em></p>
 
 :::hablemos-claro
 Agonista enciende el receptor; antagonista bloquea; el índice mide cuánto margen queda.
@@ -1660,7 +1852,11 @@ Para dominar **depresores del sistema nervioso central**, aplica esta regla: Dis
 - **Incorrecto:** Depresor significa únicamente que causa depresión emocional.
 - **Incorrecto:** Todos los depresores tienen idéntico mecanismo y duración.
 
-<!-- VISUAL PENDIENTE: t34-49-depresores-del-sistema-nervioso-central.webp -->
+<!-- VISUAL:t34-49-depresores-del-sistema-nervioso-central.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-49-depresores-del-sistema-nervioso-central.webp" alt="Depresores del sistema nervioso central" width="820">
+</p>
+<p align="center"><em>Infografía: Depresores del sistema nervioso central.</em></p>
 
 :::hablemos-claro
 Distintas sustancias comparten una amenaza final: demasiado freno sobre conciencia y respiración.
@@ -1694,7 +1890,11 @@ Para dominar **alcohol**, aplica esta regla: La conducta puede parecer acelerada
 - **Incorrecto:** La desinhibición demuestra que el alcohol es un estimulante.
 - **Incorrecto:** Su regulación legal impide que produzca dependencia física.
 
-<!-- VISUAL PENDIENTE: t34-50-alcohol.webp -->
+<!-- VISUAL:t34-50-alcohol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-50-alcohol.webp" alt="Alcohol" width="820">
+</p>
+<p align="center"><em>Infografía: Alcohol.</em></p>
 
 :::hablemos-claro
 La conducta puede parecer acelerada mientras el sistema nervioso pierde control y coordinación.
@@ -1728,7 +1928,11 @@ Para dominar **opioides, opiáceos y receptores**, aplica esta regla: Opioide es
 - **Incorrecto:** Todo opioide procede directamente de la planta del opio.
 - **Incorrecto:** La miosis excluye la posibilidad de depresión respiratoria.
 
-<!-- VISUAL PENDIENTE: t34-51-opioides-opiaceos-y-receptores.webp -->
+<!-- VISUAL:t34-51-opioides-opiaceos-y-receptores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-51-opioides-opiaceos-y-receptores.webp" alt="Opioides, opiáceos y receptores" width="820">
+</p>
+<p align="center"><em>Infografía: Opioides, opiáceos y receptores.</em></p>
 
 :::hablemos-claro
 Opioide es la familia; opiáceo es un subconjunto histórico de origen natural o próximo.
@@ -1762,7 +1966,11 @@ Para dominar **opio, morfina y codeína**, aplica esta regla: Fiscalizado no sig
 - **Incorrecto:** La morfina carece de uso médico por ser estupefaciente.
 - **Incorrecto:** Codeína es un estimulante derivado de la coca.
 
-<!-- VISUAL PENDIENTE: t34-il-52-opio-morfina-y-codeina.webp -->
+<!-- VISUAL:t34-il-52-opio-morfina-y-codeina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-52-opio-morfina-y-codeina.webp" alt="Opio, morfina y codeína" width="820">
+</p>
+<p align="center"><em>Infografía: Opio, morfina y codeína.</em></p>
 
 :::hablemos-claro
 Fiscalizado no significa inútil en medicina; significa control reforzado.
@@ -1796,7 +2004,11 @@ Para dominar **heroína**, aplica esta regla: Familia opioide, acción rápida y
 - **Incorrecto:** Heroína es un estimulante sintético sin relación con la morfina.
 - **Incorrecto:** Una apariencia conocida permite conocer pureza y potencia.
 
-<!-- VISUAL PENDIENTE: t34-53-heroina.webp -->
+<!-- VISUAL:t34-53-heroina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-53-heroina.webp" alt="Heroína" width="820">
+</p>
+<p align="center"><em>Infografía: Heroína.</em></p>
 
 :::hablemos-claro
 Familia opioide, acción rápida y composición incierta explican gran parte del riesgo.
@@ -1830,7 +2042,11 @@ Para dominar **metadona y buprenorfina**, aplica esta regla: La acción opioide 
 - **Incorrecto:** El tratamiento sustituye una droga sin aportar ninguna finalidad clínica.
 - **Incorrecto:** Metadona y buprenorfina pueden mezclarse libremente con otros depresores.
 
-<!-- VISUAL PENDIENTE: t34-54-metadona-y-buprenorfina.webp -->
+<!-- VISUAL:t34-54-metadona-y-buprenorfina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-54-metadona-y-buprenorfina.webp" alt="Metadona y buprenorfina" width="820">
+</p>
+<p align="center"><em>Infografía: Metadona y buprenorfina.</em></p>
 
 :::hablemos-claro
 La acción opioide puede usarse de forma controlada para estabilizar y reducir daño.
@@ -1864,7 +2080,11 @@ Para dominar **fentanilo y análogos**, aplica esta regla: Alta potencia más co
 - **Incorrecto:** Todo fentanilo encontrado procede de prescripción legítima.
 - **Incorrecto:** Todos sus análogos poseen exactamente la misma potencia.
 
-<!-- VISUAL PENDIENTE: t34-55-fentanilo-y-analogos.webp -->
+<!-- VISUAL:t34-55-fentanilo-y-analogos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-55-fentanilo-y-analogos.webp" alt="Fentanilo y análogos" width="820">
+</p>
+<p align="center"><em>Infografía: Fentanilo y análogos.</em></p>
 
 :::hablemos-claro
 Alta potencia más composición incierta reduce el margen ante cualquier error.
@@ -1898,7 +2118,11 @@ Para dominar **nitazenos y nuevos opioides sintéticos**, aplica esta regla: La 
 - **Incorrecto:** Nitazeno es otro nombre para cualquier benzodiacepina.
 - **Incorrecto:** Una sustancia no declarada no modifica el riesgo porque el consumidor no la conoce.
 
-<!-- VISUAL PENDIENTE: t34-56-nitazenos-y-nuevos-opioides-sinteticos.webp -->
+<!-- VISUAL:t34-56-nitazenos-y-nuevos-opioides-sinteticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-56-nitazenos-y-nuevos-opioides-sinteticos.webp" alt="Nitazenos y nuevos opioides sintéticos" width="820">
+</p>
+<p align="center"><em>Infografía: Nitazenos y nuevos opioides sintéticos.</em></p>
 
 :::hablemos-claro
 La amenaza no siempre viene con etiqueta nueva: puede ocultarse dentro de un producto conocido.
@@ -1932,7 +2156,11 @@ Para dominar **naloxona y respuesta a sobredosis opioide**, aplica esta regla: P
 - **Incorrecto:** Una respuesta inicial a naloxona elimina la necesidad de asistencia posterior.
 - **Incorrecto:** Naloxona es un antídoto universal para cualquier droga.
 
-<!-- VISUAL PENDIENTE: t34-57-naloxona-y-respuesta-a-sobredosis-opioide.webp -->
+<!-- VISUAL:t34-57-naloxona-y-respuesta-a-sobredosis-opioide.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-57-naloxona-y-respuesta-a-sobredosis-opioide.webp" alt="Naloxona y respuesta a sobredosis opioide" width="820">
+</p>
+<p align="center"><em>Infografía: Naloxona y respuesta a sobredosis opioide.</em></p>
 
 :::hablemos-claro
 Puede abrir una ventana de respiración; la urgencia sigue abierta.
@@ -1966,7 +2194,11 @@ Para dominar **barbitúricos y benzodiacepinas**, aplica esta regla: Medicamento
 - **Incorrecto:** Las benzodiacepinas no producen nunca dependencia por ser medicamentos.
 - **Incorrecto:** Mezclar sedantes reduce la depresión respiratoria.
 
-<!-- VISUAL PENDIENTE: t34-il-58-barbituricos-y-benzodiacepinas.webp -->
+<!-- VISUAL:t34-il-58-barbituricos-y-benzodiacepinas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-58-barbituricos-y-benzodiacepinas.webp" alt="Barbitúricos y benzodiacepinas" width="820">
+</p>
+<p align="center"><em>Infografía: Barbitúricos y benzodiacepinas.</em></p>
 
 :::hablemos-claro
 Medicamento no significa inofensivo: pauta, duración y mezcla cambian el riesgo.
@@ -2000,7 +2232,11 @@ Para dominar **ghb y depresores de acción rápida**, aplica esta regla: Desinhi
 - **Incorrecto:** GHB es un estimulante porque puede causar desinhibición.
 - **Incorrecto:** Alcohol reduce el riesgo de pérdida de conciencia por GHB.
 
-<!-- VISUAL PENDIENTE: t34-59-ghb-y-depresores-de-accion-rapida.webp -->
+<!-- VISUAL:t34-59-ghb-y-depresores-de-accion-rapida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-59-ghb-y-depresores-de-accion-rapida.webp" alt="GHB y depresores de acción rápida" width="820">
+</p>
+<p align="center"><em>Infografía: GHB y depresores de acción rápida.</em></p>
 
 :::hablemos-claro
 Desinhibición inicial puede ocultar un descenso brusco de conciencia.
@@ -2034,7 +2270,11 @@ Para dominar **estimulantes del sistema nervioso central**, aplica esta regla: E
 - **Incorrecto:** Un estimulante repone el descanso que el organismo necesita.
 - **Incorrecto:** Toda activación implica mejora estable del rendimiento.
 
-<!-- VISUAL PENDIENTE: t34-60-estimulantes-del-sistema-nervioso-central.webp -->
+<!-- VISUAL:t34-60-estimulantes-del-sistema-nervioso-central.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-60-estimulantes-del-sistema-nervioso-central.webp" alt="Estimulantes del sistema nervioso central" width="820">
+</p>
+<p align="center"><em>Infografía: Estimulantes del sistema nervioso central.</em></p>
 
 :::hablemos-claro
 El acelerador oculta la reserva restante; no llena el depósito.
@@ -2068,7 +2308,11 @@ Para dominar **cafeína, teofilina y nicotina**, aplica esta regla: Uso cotidian
 - **Incorrecto:** Teofilina es un depresor opioide.
 - **Incorrecto:** Nicotina carece de potencial adictivo porque el tabaco es legal.
 
-<!-- VISUAL PENDIENTE: t34-61-cafeina-teofilina-y-nicotina.webp -->
+<!-- VISUAL:t34-61-cafeina-teofilina-y-nicotina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-61-cafeina-teofilina-y-nicotina.webp" alt="Cafeína, teofilina y nicotina" width="820">
+</p>
+<p align="center"><em>Infografía: Cafeína, teofilina y nicotina.</em></p>
 
 :::hablemos-claro
 Uso cotidiano y clasificación farmacológica son planos diferentes.
@@ -2102,7 +2346,11 @@ Para dominar **coca y cocaína**, aplica esta regla: Misma planta de origen no s
 - **Incorrecto:** Hoja de coca y cocaína refinada tienen idéntica concentración y riesgo.
 - **Incorrecto:** Cocaína es un depresor que enlentece la actividad cerebral.
 
-<!-- VISUAL PENDIENTE: t34-62-coca-y-cocaina.webp -->
+<!-- VISUAL:t34-62-coca-y-cocaina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-62-coca-y-cocaina.webp" alt="Coca y cocaína" width="820">
+</p>
+<p align="center"><em>Infografía: Coca y cocaína.</em></p>
 
 :::hablemos-claro
 Misma planta de origen no significa misma concentración, vía ni riesgo.
@@ -2136,7 +2384,11 @@ Para dominar **clorhidrato, base y crack**, aplica esta regla: La forma y la ví
 - **Incorrecto:** Crack es una sustancia sin relación farmacológica con la cocaína.
 - **Incorrecto:** El color del producto acredita pureza y potencia.
 
-<!-- VISUAL PENDIENTE: t34-il-63-clorhidrato-base-y-crack.webp -->
+<!-- VISUAL:t34-il-63-clorhidrato-base-y-crack.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-63-clorhidrato-base-y-crack.webp" alt="Clorhidrato, base y crack" width="820">
+</p>
+<p align="center"><em>Infografía: Clorhidrato, base y crack.</em></p>
 
 :::hablemos-claro
 La forma y la vía cambian la velocidad; la etiqueta no certifica el contenido.
@@ -2170,7 +2422,11 @@ Para dominar **anfetamina**, aplica esta regla: Estimulante sintético, efecto c
 - **Incorrecto:** Anfetamina es un alucinógeno natural extraído de hongos.
 - **Incorrecto:** La presentación en comprimido permite conocer su composición.
 
-<!-- VISUAL PENDIENTE: t34-64-anfetamina.webp -->
+<!-- VISUAL:t34-64-anfetamina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-64-anfetamina.webp" alt="Anfetamina" width="820">
+</p>
+<p align="center"><em>Infografía: Anfetamina.</em></p>
 
 :::hablemos-claro
 Estimulante sintético, efecto catecolaminérgico y mercado de composición incierta.
@@ -2204,7 +2460,11 @@ Para dominar **metanfetamina**, aplica esta regla: Más duración no ofrece más
 - **Incorrecto:** Metanfetamina es un opioide semisintético.
 - **Incorrecto:** Un efecto prolongado reduce necesariamente el riesgo de compulsión.
 
-<!-- VISUAL PENDIENTE: t34-65-metanfetamina.webp -->
+<!-- VISUAL:t34-65-metanfetamina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-65-metanfetamina.webp" alt="Metanfetamina" width="820">
+</p>
+<p align="center"><em>Infografía: Metanfetamina.</em></p>
 
 :::hablemos-claro
 Más duración no ofrece más control: puede prolongar sobrecarga y psicosis.
@@ -2238,7 +2498,11 @@ Para dominar **mdma o éxtasis**, aplica esta regla: Efecto mixto más comprimid
 - **Incorrecto:** MDMA es un depresor opioide puro.
 - **Incorrecto:** El logotipo de una pastilla acredita su composición.
 
-<!-- VISUAL PENDIENTE: t34-66-mdma-o-extasis.webp -->
+<!-- VISUAL:t34-66-mdma-o-extasis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-66-mdma-o-extasis.webp" alt="MDMA o éxtasis" width="820">
+</p>
+<p align="center"><em>Infografía: MDMA o éxtasis.</em></p>
 
 :::hablemos-claro
 Efecto mixto más comprimido incierto: no clasifiques por logotipo.
@@ -2272,7 +2536,11 @@ Para dominar **catinonas sintéticas**, aplica esta regla: Una familia cambiante
 - **Incorrecto:** Sales de baño describe una composición química única y segura.
 - **Incorrecto:** Toda catinona sintética tiene idéntica potencia y duración.
 
-<!-- VISUAL PENDIENTE: t34-67-catinonas-sinteticas.webp -->
+<!-- VISUAL:t34-67-catinonas-sinteticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-67-catinonas-sinteticas.webp" alt="Catinonas sintéticas" width="820">
+</p>
+<p align="center"><em>Infografía: Catinonas sintéticas.</em></p>
 
 :::hablemos-claro
 Una familia cambiante puede ocupar el lugar de varios estimulantes conocidos.
@@ -2306,7 +2574,11 @@ Para dominar **intoxicación por estimulantes**, aplica esta regla: Mucho movimi
 - **Incorrecto:** Una persona agitada no puede estar en riesgo vital porque permanece consciente.
 - **Incorrecto:** La hipertermia es un efecto leve que nunca requiere urgencia.
 
-<!-- VISUAL PENDIENTE: t34-il-68-intoxicacion-por-estimulantes.webp -->
+<!-- VISUAL:t34-il-68-intoxicacion-por-estimulantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-68-intoxicacion-por-estimulantes.webp" alt="Intoxicación por estimulantes" width="820">
+</p>
+<p align="center"><em>Infografía: Intoxicación por estimulantes.</em></p>
 
 :::hablemos-claro
 Mucho movimiento puede ocultar un organismo al límite.
@@ -2340,7 +2612,11 @@ Para dominar **perturbadoras, alucinógenas y psicodislépticas**, aplica esta r
 - **Incorrecto:** Toda perturbadora produce necesariamente pérdida completa de contacto con la realidad.
 - **Incorrecto:** Disociativos y psicodélicos clásicos tienen idéntico mecanismo.
 
-<!-- VISUAL PENDIENTE: t34-69-perturbadoras-alucinogenas-y-psicodislepticas.webp -->
+<!-- VISUAL:t34-69-perturbadoras-alucinogenas-y-psicodislepticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-69-perturbadoras-alucinogenas-y-psicodislepticas.webp" alt="Perturbadoras, alucinógenas y psicodislépticas" width="820">
+</p>
+<p align="center"><em>Infografía: Perturbadoras, alucinógenas y psicodislépticas.</em></p>
 
 :::hablemos-claro
 Mismo gran paraguas, mecanismos y experiencias diferentes.
@@ -2374,7 +2650,11 @@ Para dominar **lsd**, aplica esta regla: Poca cantidad y larga experiencia: el r
 - **Incorrecto:** LSD es un depresor opioide que causa abstinencia física intensa.
 - **Incorrecto:** La ausencia habitual de dependencia física equivale a ausencia de riesgo.
 
-<!-- VISUAL PENDIENTE: t34-70-lsd.webp -->
+<!-- VISUAL:t34-70-lsd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-70-lsd.webp" alt="LSD" width="820">
+</p>
+<p align="center"><em>Infografía: LSD.</em></p>
 
 :::hablemos-claro
 Poca cantidad y larga experiencia: el riesgo principal no se mide solo por dependencia física.
@@ -2408,7 +2688,11 @@ Para dominar **psilocibina y psilocina**, aplica esta regla: Hongos no es sinón
 - **Incorrecto:** Psilocibina es un estimulante derivado de la coca.
 - **Incorrecto:** Ser de origen natural garantiza dosis y seguridad.
 
-<!-- VISUAL PENDIENTE: t34-71-psilocibina-y-psilocina.webp -->
+<!-- VISUAL:t34-71-psilocibina-y-psilocina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-71-psilocibina-y-psilocina.webp" alt="Psilocibina y psilocina" width="820">
+</p>
+<p align="center"><em>Infografía: Psilocibina y psilocina.</em></p>
 
 :::hablemos-claro
 Hongos no es sinónimo de inocuo: sustancia, especie, concentración y contexto importan.
@@ -2442,7 +2726,11 @@ Para dominar **mescalina, dmt y ayahuasca**, aplica esta regla: Tres nombres, un
 - **Incorrecto:** Mescalina es una benzodiacepina depresora.
 - **Incorrecto:** Todo uso tradicional está exento de efectos adversos.
 
-<!-- VISUAL PENDIENTE: t34-72-mescalina-dmt-y-ayahuasca.webp -->
+<!-- VISUAL:t34-72-mescalina-dmt-y-ayahuasca.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-72-mescalina-dmt-y-ayahuasca.webp" alt="Mescalina, DMT y ayahuasca" width="820">
+</p>
+<p align="center"><em>Infografía: Mescalina, DMT y ayahuasca.</em></p>
 
 :::hablemos-claro
 Tres nombres, una familia psicodélica y contextos distintos; no confundas tradición con seguridad.
@@ -2476,7 +2764,11 @@ Para dominar **ketamina y pcp: disociativos**, aplica esta regla: Disociar no es
 - **Incorrecto:** Ketamina es un estimulante puro sin efectos anestésicos.
 - **Incorrecto:** El uso médico de una sustancia elimina el riesgo de uso no supervisado.
 
-<!-- VISUAL PENDIENTE: t34-il-73-ketamina-y-pcp-disociativos.webp -->
+<!-- VISUAL:t34-il-73-ketamina-y-pcp-disociativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-73-ketamina-y-pcp-disociativos.webp" alt="Ketamina y PCP: disociativos" width="820">
+</p>
+<p align="center"><em>Infografía: Ketamina y PCP: disociativos.</em></p>
 
 :::hablemos-claro
 Disociar no es simplemente alucinar: se rompe la integración entre cuerpo, entorno y conciencia.
@@ -2510,7 +2802,11 @@ Para dominar **cannabis, thc y cbd**, aplica esta regla: Misma planta, molécula
 - **Incorrecto:** CBD y THC son la misma sustancia con distinto nombre.
 - **Incorrecto:** El aspecto vegetal permite conocer exactamente la concentración de THC.
 
-<!-- VISUAL PENDIENTE: t34-74-cannabis-thc-y-cbd.webp -->
+<!-- VISUAL:t34-74-cannabis-thc-y-cbd.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-74-cannabis-thc-y-cbd.webp" alt="Cannabis, THC y CBD" width="820">
+</p>
+<p align="center"><em>Infografía: Cannabis, THC y CBD.</em></p>
 
 :::hablemos-claro
 Misma planta, moléculas distintas: THC y CBD no son intercambiables.
@@ -2544,7 +2840,11 @@ Para dominar **marihuana, hachís y extractos**, aplica esta regla: Planta, resi
 - **Incorrecto:** Hachís es hoja de coca prensada.
 - **Incorrecto:** Un extracto concentrado siempre produce efectos más controlables.
 
-<!-- VISUAL PENDIENTE: t34-75-marihuana-hachis-y-extractos.webp -->
+<!-- VISUAL:t34-75-marihuana-hachis-y-extractos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-75-marihuana-hachis-y-extractos.webp" alt="Marihuana, hachís y extractos" width="820">
+</p>
+<p align="center"><em>Infografía: Marihuana, hachís y extractos.</em></p>
 
 :::hablemos-claro
 Planta, resina y extracto forman una escala posible de concentración, no de seguridad.
@@ -2578,7 +2878,11 @@ Para dominar **preparados estandarizados de cannabis de 2025**, aplica esta regl
 - **Incorrecto:** El Real Decreto 903/2025 legalizó cualquier cannabis recreativo.
 - **Incorrecto:** Estandarizado significa que no necesita registro ni control de contenido.
 
-<!-- VISUAL PENDIENTE: t34-76-preparados-estandarizados-de-cannabis-de-2025.webp -->
+<!-- VISUAL:t34-76-preparados-estandarizados-de-cannabis-de-2025.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-76-preparados-estandarizados-de-cannabis-de-2025.webp" alt="Preparados estandarizados de cannabis de 2025" width="820">
+</p>
+<p align="center"><em>Infografía: Preparados estandarizados de cannabis de 2025.</em></p>
 
 :::hablemos-claro
 Medicinal, estandarizado y registrado: tres límites que no deben borrarse.
@@ -2612,7 +2916,11 @@ Para dominar **cannabinoides sintéticos y semisintéticos**, aplica esta regla:
 - **Incorrecto:** Spice es simplemente cannabis vegetal con potencia conocida.
 - **Incorrecto:** Semisintético significa automáticamente autorizado y seguro.
 
-<!-- VISUAL PENDIENTE: t34-77-cannabinoides-sinteticos-y-semisinteticos.webp -->
+<!-- VISUAL:t34-77-cannabinoides-sinteticos-y-semisinteticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-77-cannabinoides-sinteticos-y-semisinteticos.webp" alt="Cannabinoides sintéticos y semisintéticos" width="820">
+</p>
+<p align="center"><em>Infografía: Cannabinoides sintéticos y semisintéticos.</em></p>
 
 :::hablemos-claro
 Imitar al THC no significa copiar su margen de riesgo; algunos activan el sistema con mucha más fuerza.
@@ -2646,7 +2954,11 @@ Para dominar **inhalantes volátiles**, aplica esta regla: El envase cotidiano p
 - **Incorrecto:** Un producto doméstico no puede ser una sustancia de abuso.
 - **Incorrecto:** Los inhalantes solo dañan el aparato respiratorio.
 
-<!-- VISUAL PENDIENTE: t34-il-78-inhalantes-volatiles.webp -->
+<!-- VISUAL:t34-il-78-inhalantes-volatiles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-78-inhalantes-volatiles.webp" alt="Inhalantes volátiles" width="820">
+</p>
+<p align="center"><em>Infografía: Inhalantes volátiles.</em></p>
 
 :::hablemos-claro
 El envase cotidiano puede ocultar toxicidad cerebral, cardiaca y sistémica.
@@ -2680,7 +2992,11 @@ Para dominar **óxido nitroso y nitritos inhalados**, aplica esta regla: Misma v
 - **Incorrecto:** Óxido nitroso y poppers son el mismo compuesto.
 - **Incorrecto:** La breve duración del efecto impide daño neurológico o accidentes.
 
-<!-- VISUAL PENDIENTE: t34-79-oxido-nitroso-y-nitritos-inhalados.webp -->
+<!-- VISUAL:t34-79-oxido-nitroso-y-nitritos-inhalados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-79-oxido-nitroso-y-nitritos-inhalados.webp" alt="Óxido nitroso y nitritos inhalados" width="820">
+</p>
+<p align="center"><em>Infografía: Óxido nitroso y nitritos inhalados.</em></p>
 
 :::hablemos-claro
 Misma vía no significa misma sustancia: gas anestésico y nitritos vasodilatadores tienen riesgos distintos.
@@ -2714,7 +3030,11 @@ Para dominar **concepto de nueva sustancia psicoactiva**, aplica esta regla: Nue
 - **Incorrecto:** NPS significa sustancia creada necesariamente durante el último año.
 - **Incorrecto:** No controlada internacionalmente equivale a legal en cualquier circunstancia.
 
-<!-- VISUAL PENDIENTE: t34-80-concepto-de-nueva-sustancia-psicoactiva.webp -->
+<!-- VISUAL:t34-80-concepto-de-nueva-sustancia-psicoactiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-80-concepto-de-nueva-sustancia-psicoactiva.webp" alt="Concepto de nueva sustancia psicoactiva" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de nueva sustancia psicoactiva.</em></p>
 
 :::hablemos-claro
 Nueva describe su entrada en el sistema de vigilancia, no su fecha de nacimiento ni su seguridad.
@@ -2748,7 +3068,11 @@ Para dominar **“legal high” no significa segura**, aplica esta regla: La eti
 - **Incorrecto:** La etiqueta “no apto para consumo” certifica que el contenido es inocuo.
 - **Incorrecto:** Un producto vendido en comercio físico está necesariamente autorizado como medicamento.
 
-<!-- VISUAL PENDIENTE: t34-81-legal-high-no-significa-segura.webp -->
+<!-- VISUAL:t34-81-legal-high-no-significa-segura.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-81-legal-high-no-significa-segura.webp" alt="“Legal high” no significa segura" width="820">
+</p>
+<p align="center"><em>Infografía: “Legal high” no significa segura.</em></p>
 
 :::hablemos-claro
 La etiqueta vende una historia; el laboratorio identifica la sustancia.
@@ -2782,7 +3106,11 @@ Para dominar **sistema europeo de alerta temprana**, aplica esta regla: Radar, a
 - **Incorrecto:** Europol gestiona el sistema sin participación sanitaria ni científica.
 - **Incorrecto:** Detectar una sustancia la prohíbe automáticamente en toda la UE.
 
-<!-- VISUAL PENDIENTE: t34-82-sistema-europeo-de-alerta-temprana.webp -->
+<!-- VISUAL:t34-82-sistema-europeo-de-alerta-temprana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-82-sistema-europeo-de-alerta-temprana.webp" alt="Sistema europeo de alerta temprana" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema europeo de alerta temprana.</em></p>
 
 :::hablemos-claro
 Radar, análisis y decisión son fases distintas: alerta no equivale a prohibición automática.
@@ -2816,7 +3144,11 @@ Para dominar **sistema español de alerta temprana**, aplica esta regla: España
 - **Incorrecto:** CITCO es el único responsable del SEAT y excluye al Ministerio de Sanidad.
 - **Incorrecto:** El SEAT solo registra sustancias ya incluidas en convenios internacionales.
 
-<!-- VISUAL PENDIENTE: t34-il-83-sistema-espanol-de-alerta-temprana.webp -->
+<!-- VISUAL:t34-il-83-sistema-espanol-de-alerta-temprana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-83-sistema-espanol-de-alerta-temprana.webp" alt="Sistema Español de Alerta Temprana" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema Español de Alerta Temprana.</em></p>
 
 :::hablemos-claro
 España conecta laboratorio, salud, policía y territorios a través de OEDA y DGPNSD.
@@ -2850,7 +3182,11 @@ Para dominar **alerta, evaluación y fiscalización**, aplica esta regla: Alerta
 - **Incorrecto:** Toda alerta es una plantilla jurídica que prohíbe la sustancia.
 - **Incorrecto:** Solo los datos policiales son pertinentes para evaluar una NPS.
 
-<!-- VISUAL PENDIENTE: t34-84-alerta-evaluacion-y-fiscalizacion.webp -->
+<!-- VISUAL:t34-84-alerta-evaluacion-y-fiscalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-84-alerta-evaluacion-y-fiscalizacion.webp" alt="Alerta, evaluación y fiscalización" width="820">
+</p>
+<p align="center"><em>Infografía: Alerta, evaluación y fiscalización.</em></p>
 
 :::hablemos-claro
 Alerta avisa, evaluación demuestra y fiscalización decide.
@@ -2884,7 +3220,11 @@ Para dominar **precursores y sustancias químicas esenciales**, aplica esta regl
 - **Incorrecto:** Todo precursor está prohibido para cualquier uso industrial.
 - **Incorrecto:** Sustancia esencial y droga final son siempre el mismo producto.
 
-<!-- VISUAL PENDIENTE: t34-85-precursores-y-sustancias-quimicas-esenciales.webp -->
+<!-- VISUAL:t34-85-precursores-y-sustancias-quimicas-esenciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-85-precursores-y-sustancias-quimicas-esenciales.webp" alt="Precursores y sustancias químicas esenciales" width="820">
+</p>
+<p align="center"><em>Infografía: Precursores y sustancias químicas esenciales.</em></p>
 
 :::hablemos-claro
 El reto es separar comercio legítimo de desvío ilícito mediante trazabilidad.
@@ -2918,7 +3258,11 @@ Para dominar **adulteración, contaminación y mezclas emergentes**, aplica esta
 - **Incorrecto:** El SEAT solo actúa cuando aparece una molécula nunca vista.
 - **Incorrecto:** Adulteración y contaminación siempre son intencionadas y equivalentes.
 
-<!-- VISUAL PENDIENTE: t34-86-adulteracion-contaminacion-y-mezclas-emergentes.webp -->
+<!-- VISUAL:t34-86-adulteracion-contaminacion-y-mezclas-emergentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-86-adulteracion-contaminacion-y-mezclas-emergentes.webp" alt="Adulteración, contaminación y mezclas emergentes" width="820">
+</p>
+<p align="center"><em>Infografía: Adulteración, contaminación y mezclas emergentes.</em></p>
 
 :::hablemos-claro
 La novedad puede estar en la molécula, la mezcla, la vía o el contaminante.
@@ -2952,7 +3296,11 @@ Para dominar **qué significa “últimas tendencias”**, aplica esta regla: Fe
 - **Incorrecto:** Informe publicado en 2026 significa consumo medido necesariamente en 2026.
 - **Incorrecto:** Dos porcentajes de encuestas diferentes pueden compararse sin revisar población ni indicador.
 
-<!-- VISUAL PENDIENTE: t34-87-que-significa-ultimas-tendencias.webp -->
+<!-- VISUAL:t34-87-que-significa-ultimas-tendencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-87-que-significa-ultimas-tendencias.webp" alt="Qué significa “últimas tendencias”" width="820">
+</p>
+<p align="center"><em>Infografía: Qué significa “últimas tendencias”.</em></p>
 
 :::hablemos-claro
 Fecha del informe, fecha del trabajo de campo y período de consumo son tres fechas distintas.
@@ -2986,7 +3334,11 @@ Para dominar **edades 2024: población adulta**, aplica esta regla: EDADES = hog
 - **Incorrecto:** EDADES es una encuesta escolar de 14 a 18 años.
 - **Incorrecto:** Sus resultados representan sin límites a toda persona residente en España.
 
-<!-- VISUAL PENDIENTE: t34-il-88-edades-2024-poblacion-adulta.webp -->
+<!-- VISUAL:t34-il-88-edades-2024-poblacion-adulta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-88-edades-2024-poblacion-adulta.webp" alt="EDADES 2024: población adulta" width="820">
+</p>
+<p align="center"><em>Infografía: EDADES 2024: población adulta.</em></p>
 
 :::hablemos-claro
 EDADES = hogares, 15‑64 y varios períodos de prevalencia.
@@ -3020,7 +3372,11 @@ Para dominar **estudes 2025: población escolar**, aplica esta regla: ESTUDES = 
 - **Incorrecto:** ESTUDES representa a toda la población de 15 a 64 años.
 - **Incorrecto:** El cannabis supera al alcohol como sustancia más consumida por estudiantes en 2025.
 
-<!-- VISUAL PENDIENTE: t34-89-estudes-2025-poblacion-escolar.webp -->
+<!-- VISUAL:t34-89-estudes-2025-poblacion-escolar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-89-estudes-2025-poblacion-escolar.webp" alt="ESTUDES 2025: población escolar" width="820">
+</p>
+<p align="center"><em>Infografía: ESTUDES 2025: población escolar.</em></p>
 
 :::hablemos-claro
 ESTUDES = aulas, 14‑18 y lectura cuidadosa del marco escolar.
@@ -3054,7 +3410,11 @@ Para dominar **patrón general de consumo en españa**, aplica esta regla: La pi
 - **Incorrecto:** Heroína es la sustancia ilegal más extendida en EDADES 2024.
 - **Incorrecto:** Las sustancias legales quedan fuera de las encuestas sobre drogas.
 
-<!-- VISUAL PENDIENTE: t34-90-patron-general-de-consumo-en-espana.webp -->
+<!-- VISUAL:t34-90-patron-general-de-consumo-en-espana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-90-patron-general-de-consumo-en-espana.webp" alt="Patrón general de consumo en España" width="820">
+</p>
+<p align="center"><em>Infografía: Patrón general de consumo en España.</em></p>
 
 :::hablemos-claro
 La pirámide española sigue encabezada por alcohol y tabaco; cannabis lidera entre las ilegales.
@@ -3088,7 +3448,11 @@ Para dominar **tendencias juveniles y sustancias emergentes**, aplica esta regla
 - **Incorrecto:** Solo deben vigilarse sustancias con prevalencia alta.
 - **Incorrecto:** Toda forma de nicotina se registra necesariamente como cigarrillo convencional.
 
-<!-- VISUAL PENDIENTE: t34-91-tendencias-juveniles-y-sustancias-emergentes.webp -->
+<!-- VISUAL:t34-91-tendencias-juveniles-y-sustancias-emergentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-91-tendencias-juveniles-y-sustancias-emergentes.webp" alt="Tendencias juveniles y sustancias emergentes" width="820">
+</p>
+<p align="center"><em>Infografía: Tendencias juveniles y sustancias emergentes.</em></p>
 
 :::hablemos-claro
 Frecuencia guía prioridades, pero gravedad y novedad pueden activar vigilancia con cifras pequeñas.
@@ -3122,7 +3486,11 @@ Para dominar **panorama europeo 2026**, aplica esta regla: Lo nuevo se superpone
 - **Incorrecto:** El informe 2026 contiene exclusivamente consumos ocurridos durante 2026.
 - **Incorrecto:** Las nuevas sustancias han sustituido por completo a cannabis, cocaína y opioides tradicionales.
 
-<!-- VISUAL PENDIENTE: t34-92-panorama-europeo-2026.webp -->
+<!-- VISUAL:t34-92-panorama-europeo-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-92-panorama-europeo-2026.webp" alt="Panorama europeo 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Panorama europeo 2026.</em></p>
 
 :::hablemos-claro
 Lo nuevo se superpone a lo conocido: diversidad, mezclas y disponibilidad elevan incertidumbre.
@@ -3156,7 +3524,11 @@ Para dominar **nps europeas en 2026**, aplica esta regla: Distingue flujo anual 
 - **Incorrecto:** Las cincuenta NPS detectadas en 2025 son todas las sustancias que vigila la EUDA.
 - **Incorrecto:** El número de moléculas permite concluir que todas tienen igual prevalencia y daño.
 
-<!-- VISUAL PENDIENTE: t34-il-93-nps-europeas-en-2026.webp -->
+<!-- VISUAL:t34-il-93-nps-europeas-en-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-il-93-nps-europeas-en-2026.webp" alt="NPS europeas en 2026" width="820">
+</p>
+<p align="center"><em>Infografía: NPS europeas en 2026.</em></p>
 
 :::hablemos-claro
 Distingue flujo anual de nuevas detecciones del inventario acumulado vigilado.
@@ -3190,7 +3562,11 @@ Para dominar **cómo responder preguntas estadísticas**, aplica esta regla: El 
 - **Incorrecto:** Si aumenta el consumo alguna vez, necesariamente aumenta el consumo diario.
 - **Incorrecto:** Una respuesta oficial antigua convierte su estadística en dato vigente.
 
-<!-- VISUAL PENDIENTE: t34-94-como-responder-preguntas-estadisticas.webp -->
+<!-- VISUAL:t34-94-como-responder-preguntas-estadisticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-34/t34-94-como-responder-preguntas-estadisticas.webp" alt="Cómo responder preguntas estadísticas" width="820">
+</p>
+<p align="center"><em>Infografía: Cómo responder preguntas estadísticas.</em></p>
 
 :::hablemos-claro
 El tribunal cambia una palabra y cambia el dato: vida, año, mes, diario o problemático.

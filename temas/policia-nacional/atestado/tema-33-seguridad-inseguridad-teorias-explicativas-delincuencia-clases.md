@@ -28,7 +28,11 @@ Para dominar **concepto operativo de seguridad**, aplica esta regla: Formula sie
 - **Incorrecto:** La seguridad total consiste en eliminar de forma definitiva todo riesgo posible.
 - **Incorrecto:** La seguridad democrática permite sacrificar cualquier derecho con la sola invocación del orden.
 
-<!-- VISUAL PENDIENTE: t33-il-01-concepto-operativo-de-seguridad.webp -->
+<!-- VISUAL:t33-il-01-concepto-operativo-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-01-concepto-operativo-de-seguridad.webp" alt="Concepto operativo de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto operativo de seguridad.</em></p>
 
 :::hablemos-claro
 Formula siempre cuatro preguntas: qué proteger, frente a qué, con qué medios y dentro de qué límites jurídicos.
@@ -62,7 +66,11 @@ Para dominar **seguridad como valor, derecho y política pública**, aplica esta
 - **Incorrecto:** Derecho a la seguridad, seguridad ciudadana y seguridad pública son siempre sinónimos perfectos.
 - **Incorrecto:** La seguridad es solo una sensación privada y carece de dimensión institucional.
 
-<!-- VISUAL PENDIENTE: t33-02-seguridad-como-valor-derecho-y-politica-publica.webp -->
+<!-- VISUAL:t33-02-seguridad-como-valor-derecho-y-politica-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-02-seguridad-como-valor-derecho-y-politica-publica.webp" alt="Seguridad como valor, derecho y política pública" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad como valor, derecho y política pública.</em></p>
 
 :::hablemos-claro
 Distingue el plano: valor social, derecho individual, bien colectivo, competencia pública o política concreta.
@@ -96,7 +104,11 @@ Para dominar **dimensión objetiva y dimensión subjetiva**, aplica esta regla: 
 - **Incorrecto:** La inseguridad subjetiva coincide necesariamente con la tasa registrada de delitos.
 - **Incorrecto:** Los registros policiales reflejan por sí solos toda la experiencia de victimización.
 
-<!-- VISUAL PENDIENTE: t33-03-dimension-objetiva-y-dimension-subjetiva.webp -->
+<!-- VISUAL:t33-03-dimension-objetiva-y-dimension-subjetiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-03-dimension-objetiva-y-dimension-subjetiva.webp" alt="Dimensión objetiva y dimensión subjetiva" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensión objetiva y dimensión subjetiva.</em></p>
 
 :::hablemos-claro
 Dos cuadros de mando: hechos y daños por un lado; percepción y conducta por otro.
@@ -130,7 +142,11 @@ Para dominar **amenaza, vulnerabilidad, exposición y riesgo**, aplica esta regl
 - **Incorrecto:** Amenaza, vulnerabilidad, riesgo y daño consumado designan exactamente lo mismo.
 - **Incorrecto:** Sin exposición relevante cualquier amenaza produce necesariamente el mismo impacto.
 
-<!-- VISUAL PENDIENTE: t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp -->
+<!-- VISUAL:t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp" alt="Amenaza, vulnerabilidad, exposición y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza, vulnerabilidad, exposición y riesgo.</em></p>
 
 :::hablemos-claro
 Amenaza puede golpear; vulnerabilidad facilita; exposición coloca; riesgo estima; daño materializa.
@@ -164,7 +180,11 @@ Para dominar **prevención, protección, respuesta y recuperación**, aplica est
 - **Incorrecto:** Prevención y respuesta comienzan siempre después de consumarse el daño.
 - **Incorrecto:** Recuperar consiste únicamente en volver al estado anterior sin aprender del incidente.
 
-<!-- VISUAL PENDIENTE: t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp -->
+<!-- VISUAL:t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp" alt="Prevención, protección, respuesta y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención, protección, respuesta y recuperación.</em></p>
 
 :::hablemos-claro
 Usa el ciclo antes-durante-después y añade aprendizaje para no repetir el fallo.
@@ -198,7 +218,11 @@ Para dominar **prevención primaria, secundaria y terciaria**, aplica esta regla
 - **Incorrecto:** La prevención terciaria solo actúa antes de cualquier conducta delictiva.
 - **Incorrecto:** Los niveles primario, secundario y terciario ordenan de menor a mayor castigo.
 
-<!-- VISUAL PENDIENTE: t33-06-prevencion-primaria-secundaria-y-terciaria.webp -->
+<!-- VISUAL:t33-06-prevencion-primaria-secundaria-y-terciaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-06-prevencion-primaria-secundaria-y-terciaria.webp" alt="Prevención primaria, secundaria y terciaria" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención primaria, secundaria y terciaria.</em></p>
 
 :::hablemos-claro
 Primaria: universal; secundaria: riesgo focalizado; terciaria: después del hecho para evitar repetición.
@@ -232,7 +256,11 @@ Para dominar **seguridad, libertad y proporcionalidad**, aplica esta regla: La p
 - **Incorrecto:** La seguridad prevalece siempre y sin ponderación sobre cualquier libertad fundamental.
 - **Incorrecto:** La mera utilidad operativa sustituye la exigencia de legalidad y proporcionalidad.
 
-<!-- VISUAL PENDIENTE: t33-il-07-seguridad-libertad-y-proporcionalidad.webp -->
+<!-- VISUAL:t33-il-07-seguridad-libertad-y-proporcionalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-07-seguridad-libertad-y-proporcionalidad.webp" alt="Seguridad, libertad y proporcionalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad, libertad y proporcionalidad.</em></p>
 
 :::hablemos-claro
 La pregunta correcta no es seguridad o libertad, sino qué intervención legal protege ambas con el menor sacrificio necesario.
@@ -266,7 +294,11 @@ Para dominar **seguridad integral y resiliencia**, aplica esta regla: Integral c
 - **Incorrecto:** Seguridad integral significa que una sola autoridad asume todas las competencias.
 - **Incorrecto:** Resiliencia equivale a impedir que ocurra cualquier incidente.
 
-<!-- VISUAL PENDIENTE: t33-08-seguridad-integral-y-resiliencia.webp -->
+<!-- VISUAL:t33-08-seguridad-integral-y-resiliencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-08-seguridad-integral-y-resiliencia.webp" alt="Seguridad integral y resiliencia" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad integral y resiliencia.</em></p>
 
 :::hablemos-claro
 Integral coordina; resiliente resiste y se recupera; ninguna borra competencias ni garantiza riesgo cero.
@@ -300,7 +332,11 @@ Para dominar **seguridad individual**, aplica esta regla: En el artículo 17, se
 - **Incorrecto:** El artículo 17.1 CE garantiza que ninguna persona sufrirá jamás un riesgo o delito.
 - **Incorrecto:** Seguridad individual se limita exclusivamente a la protección del patrimonio.
 
-<!-- VISUAL PENDIENTE: t33-09-seguridad-individual.webp -->
+<!-- VISUAL:t33-09-seguridad-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-09-seguridad-individual.webp" alt="Seguridad individual" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad individual.</em></p>
 
 :::hablemos-claro
 En el artículo 17, seguridad acompaña a libertad y protege frente a privaciones ilegales; no promete invulnerabilidad.
@@ -334,7 +370,11 @@ Para dominar **seguridad colectiva**, aplica esta regla: Colectiva significa com
 - **Incorrecto:** La seguridad colectiva permite tratar a cada persona solo como un medio para proteger al grupo.
 - **Incorrecto:** Seguridad individual y colectiva nunca coinciden en un mismo hecho.
 
-<!-- VISUAL PENDIENTE: t33-il-10-seguridad-colectiva.webp -->
+<!-- VISUAL:t33-il-10-seguridad-colectiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-10-seguridad-colectiva.webp" alt="Seguridad colectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad colectiva.</em></p>
 
 :::hablemos-claro
 Colectiva significa compartida, no ilimitada: protege convivencia e instituciones sin vaciar derechos individuales.
@@ -368,7 +408,11 @@ Para dominar **seguridad ciudadana en la constitución**, aplica esta regla: Reg
 - **Incorrecto:** El artículo 104 separa la seguridad ciudadana de la protección de derechos y libertades.
 - **Incorrecto:** Los estatutos policiales pueden fijarse libremente sin ley orgánica.
 
-<!-- VISUAL PENDIENTE: t33-11-seguridad-ciudadana-en-la-constitucion.webp -->
+<!-- VISUAL:t33-11-seguridad-ciudadana-en-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-11-seguridad-ciudadana-en-la-constitucion.webp" alt="Seguridad ciudadana en la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad ciudadana en la Constitución.</em></p>
 
 :::hablemos-claro
 Regla 104: derechos y libertades + seguridad ciudadana; la ley orgánica ordena funciones, principios y estatutos.
@@ -402,7 +446,11 @@ Para dominar **competencia sobre seguridad pública**, aplica esta regla: Estado
 - **Incorrecto:** La seguridad pública es competencia exclusiva de cada municipio.
 - **Incorrecto:** La competencia estatal impide constitucionalmente cualquier policía autonómica.
 
-<!-- VISUAL PENDIENTE: t33-12-competencia-sobre-seguridad-publica.webp -->
+<!-- VISUAL:t33-12-competencia-sobre-seguridad-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-12-competencia-sobre-seguridad-publica.webp" alt="Competencia sobre seguridad pública" width="820">
+</p>
+<p align="center"><em>Infografía: Competencia sobre seguridad pública.</em></p>
 
 :::hablemos-claro
 Estado: competencia exclusiva; policías autonómicas: excepción constitucional encauzada por estatuto y ley orgánica.
@@ -436,7 +484,11 @@ Para dominar **sistema policial y cooperación territorial**, aplica esta regla:
 - **Incorrecto:** Cooperar permite a cualquier cuerpo asumir sin límite todas las competencias de los demás.
 - **Incorrecto:** La LO 2/1986 solo regula a la Policía Nacional y excluye a los demás cuerpos.
 
-<!-- VISUAL PENDIENTE: t33-13-sistema-policial-y-cooperacion-territorial.webp -->
+<!-- VISUAL:t33-13-sistema-policial-y-cooperacion-territorial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-13-sistema-policial-y-cooperacion-territorial.webp" alt="Sistema policial y cooperación territorial" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema policial y cooperación territorial.</em></p>
 
 :::hablemos-claro
 Coordinar no es fusionar: cada cuerpo conserva función y territorio mientras comparte información y apoyo.
@@ -470,7 +522,11 @@ Para dominar **objeto de la protección de la seguridad ciudadana**, aplica esta
 - **Incorrecto:** La LO 4/2015 define la seguridad ciudadana únicamente como imposición de sanciones.
 - **Incorrecto:** La salvaguarda del bien colectivo puede ejercerse al margen de Constitución y leyes.
 
-<!-- VISUAL PENDIENTE: t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp -->
+<!-- VISUAL:t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp" alt="Objeto de la protección de la seguridad ciudadana" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la protección de la seguridad ciudadana.</em></p>
 
 :::hablemos-claro
 El artículo 1 une requisito para los derechos, bien colectivo y tutela mediante personas, bienes y tranquilidad.
@@ -504,7 +560,11 @@ Para dominar **fines y principios de seguridad ciudadana**, aplica esta regla: M
 - **Incorrecto:** La transparencia queda excluida de los fines de la acción pública en seguridad ciudadana.
 - **Incorrecto:** Cualquier temor abstracto permite una intervención ilimitada sin amenaza concreta.
 
-<!-- VISUAL PENDIENTE: t33-15-fines-y-principios-de-seguridad-ciudadana.webp -->
+<!-- VISUAL:t33-15-fines-y-principios-de-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-15-fines-y-principios-de-seguridad-ciudadana.webp" alt="Fines y principios de seguridad ciudadana" width="820">
+</p>
+<p align="center"><em>Infografía: Fines y principios de seguridad ciudadana.</em></p>
 
 :::hablemos-claro
 Memoriza fines y principios por separado: qué se protege y cómo puede actuar la autoridad.
@@ -538,7 +598,11 @@ Para dominar **concepto funcional de seguridad pública**, aplica esta regla: Fu
 - **Incorrecto:** Toda acción preventiva de un particular se convierte jurídicamente en seguridad pública.
 - **Incorrecto:** Seguridad pública significa exclusivamente persecución penal después del delito.
 
-<!-- VISUAL PENDIENTE: t33-16-concepto-funcional-de-seguridad-publica.webp -->
+<!-- VISUAL:t33-16-concepto-funcional-de-seguridad-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-16-concepto-funcional-de-seguridad-publica.webp" alt="Concepto funcional de seguridad pública" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto funcional de seguridad pública.</em></p>
 
 :::hablemos-claro
 Función pública es más amplia que patrulla; colaboración no cambia por sí sola la naturaleza jurídica.
@@ -572,7 +636,11 @@ Para dominar **modelo español de seguridad privada**, aplica esta regla: Cuatro
 - **Incorrecto:** La seguridad privada sustituye a la pública cuando el cliente paga el servicio.
 - **Incorrecto:** Toda persona puede ejercer funciones reservadas sin habilitación ni control administrativo.
 
-<!-- VISUAL PENDIENTE: t33-17-modelo-espanol-de-seguridad-privada.webp -->
+<!-- VISUAL:t33-17-modelo-espanol-de-seguridad-privada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-17-modelo-espanol-de-seguridad-privada.webp" alt="Modelo español de seguridad privada" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo español de seguridad privada.</em></p>
 
 :::hablemos-claro
 Cuatro palabras de examen: complementaria, subordinada, colaboradora y controlada.
@@ -606,7 +674,11 @@ Para dominar **relación y límites entre seguridad pública y privada**, aplica
 - **Incorrecto:** Colaborar con la policía convierte automáticamente al vigilante en agente público.
 - **Incorrecto:** La titularidad privada permite ejercer coacción sin límites de necesidad o proporcionalidad.
 
-<!-- VISUAL PENDIENTE: t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp -->
+<!-- VISUAL:t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp" alt="Relación y límites entre seguridad pública y privada" width="820">
+</p>
+<p align="center"><em>Infografía: Relación y límites entre seguridad pública y privada.</em></p>
 
 :::hablemos-claro
 Colabora y complementa, pero no sustituye ni recibe por contagio potestades públicas.
@@ -640,7 +712,11 @@ Para dominar **concepto de inseguridad**, aplica esta regla: Separa exposición,
 - **Incorrecto:** Inseguridad es únicamente el número de delitos denunciados.
 - **Incorrecto:** Toda preocupación social demuestra por sí sola un aumento objetivo del delito.
 
-<!-- VISUAL PENDIENTE: t33-19-concepto-de-inseguridad.webp -->
+<!-- VISUAL:t33-19-concepto-de-inseguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-19-concepto-de-inseguridad.webp" alt="Concepto de inseguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de inseguridad.</em></p>
 
 :::hablemos-claro
 Separa exposición, victimización, percepción y respuesta; mezclarlas produce diagnósticos falsos.
@@ -674,7 +750,11 @@ Para dominar **inseguridad objetiva**, aplica esta regla: Antes de comparar preg
 - **Incorrecto:** Una cifra absoluta permite comparar territorios de tamaño distinto sin denominador.
 - **Incorrecto:** Todo delito cometido aparece necesariamente en el registro policial.
 
-<!-- VISUAL PENDIENTE: t33-20-inseguridad-objetiva.webp -->
+<!-- VISUAL:t33-20-inseguridad-objetiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-20-inseguridad-objetiva.webp" alt="Inseguridad objetiva" width="820">
+</p>
+<p align="center"><em>Infografía: Inseguridad objetiva.</em></p>
 
 :::hablemos-claro
 Antes de comparar pregunta: qué cuenta, quién lo conoce, con qué definición, dónde y durante cuánto tiempo.
@@ -708,7 +788,11 @@ Para dominar **inseguridad subjetiva y miedo al delito**, aplica esta regla: Emo
 - **Incorrecto:** Preocupación social, riesgo percibido y miedo personal son la misma variable.
 - **Incorrecto:** El miedo carece de consecuencias si no coincide con la tasa objetiva.
 
-<!-- VISUAL PENDIENTE: t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp -->
+<!-- VISUAL:t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp" alt="Inseguridad subjetiva y miedo al delito" width="820">
+</p>
+<p align="center"><em>Infografía: Inseguridad subjetiva y miedo al delito.</em></p>
 
 :::hablemos-claro
 Emoción, juicio de probabilidad y preocupación pública son tres agujas distintas del mismo panel.
@@ -742,7 +826,11 @@ Para dominar **miedo concreto y preocupación difusa**, aplica esta regla: Concr
 - **Incorrecto:** Toda preocupación por la delincuencia implica miedo inmediato a una agresión concreta.
 - **Incorrecto:** El miedo concreto no depende nunca de lugares, horarios o experiencias.
 
-<!-- VISUAL PENDIENTE: t33-22-miedo-concreto-y-preocupacion-difusa.webp -->
+<!-- VISUAL:t33-22-miedo-concreto-y-preocupacion-difusa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-22-miedo-concreto-y-preocupacion-difusa.webp" alt="Miedo concreto y preocupación difusa" width="820">
+</p>
+<p align="center"><em>Infografía: Miedo concreto y preocupación difusa.</em></p>
 
 :::hablemos-claro
 Concreto pregunta «¿me ocurrirá aquí?»; difuso pregunta «¿es un problema para la sociedad?».
@@ -776,7 +864,11 @@ Para dominar **victimización y cifra oculta**, aplica esta regla: Tres círculo
 - **Incorrecto:** La cifra oculta es la lista de delitos registrados que aún no tienen autor conocido.
 - **Incorrecto:** Una encuesta de victimización reproduce con exactitud y sin error toda la delincuencia real.
 
-<!-- VISUAL PENDIENTE: t33-23-victimizacion-y-cifra-oculta.webp -->
+<!-- VISUAL:t33-23-victimizacion-y-cifra-oculta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-23-victimizacion-y-cifra-oculta.webp" alt="Victimización y cifra oculta" width="820">
+</p>
+<p align="center"><em>Infografía: Victimización y cifra oculta.</em></p>
 
 :::hablemos-claro
 Tres círculos solapados: lo ocurrido, lo conocido y lo registrado.
@@ -810,7 +902,11 @@ Para dominar **factores que moldean la percepción**, aplica esta regla: El mied
 - **Incorrecto:** Los medios producen idéntico miedo en todas las personas expuestas al mismo mensaje.
 - **Incorrecto:** La percepción depende solo de la tasa delictiva y nunca del entorno o la confianza.
 
-<!-- VISUAL PENDIENTE: t33-24-factores-que-moldean-la-percepcion.webp -->
+<!-- VISUAL:t33-24-factores-que-moldean-la-percepcion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-24-factores-que-moldean-la-percepcion.webp" alt="Factores que moldean la percepción" width="820">
+</p>
+<p align="center"><em>Infografía: Factores que moldean la percepción.</em></p>
 
 :::hablemos-claro
 El miedo no nace de una sola fuente: combina experiencia, señales, información, vulnerabilidad y control percibido.
@@ -844,7 +940,11 @@ Para dominar **consecuencias de la inseguridad percibida**, aplica esta regla: L
 - **Incorrecto:** La percepción de inseguridad carece de efectos reales si las estadísticas descienden.
 - **Incorrecto:** Estigmatizar un barrio es una medida neutral que siempre aumenta la seguridad.
 
-<!-- VISUAL PENDIENTE: t33-il-25-consecuencias-de-la-inseguridad-percibida.webp -->
+<!-- VISUAL:t33-il-25-consecuencias-de-la-inseguridad-percibida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-25-consecuencias-de-la-inseguridad-percibida.webp" alt="Consecuencias de la inseguridad percibida" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias de la inseguridad percibida.</em></p>
 
 :::hablemos-claro
 La percepción también cambia la ciudad: decide quién sale, cuándo, por dónde y con qué confianza.
@@ -878,7 +978,11 @@ Para dominar **evaluación de políticas de seguridad**, aplica esta regla: No c
 - **Incorrecto:** Todo descenso posterior a una medida demuestra que la medida causó el descenso.
 - **Incorrecto:** El desplazamiento solo puede ser geográfico y nunca temporal o funcional.
 
-<!-- VISUAL PENDIENTE: t33-26-evaluacion-de-politicas-de-seguridad.webp -->
+<!-- VISUAL:t33-26-evaluacion-de-politicas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-26-evaluacion-de-politicas-de-seguridad.webp" alt="Evaluación de políticas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de políticas de seguridad.</em></p>
 
 :::hablemos-claro
 No confundas después con debido a: mide mecanismo, comparación, desplazamiento, derechos y costes.
@@ -912,7 +1016,11 @@ Para dominar **delito, delincuencia, criminalidad y criminología**, aplica esta
 - **Incorrecto:** Criminología y Derecho penal tienen idéntico objeto y método.
 - **Incorrecto:** Criminalidad solo significa cualidad moral permanente de una persona.
 
-<!-- VISUAL PENDIENTE: t33-27-delito-delincuencia-criminalidad-y-criminologia.webp -->
+<!-- VISUAL:t33-27-delito-delincuencia-criminalidad-y-criminologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-27-delito-delincuencia-criminalidad-y-criminologia.webp" alt="Delito, delincuencia, criminalidad y criminología" width="820">
+</p>
+<p align="center"><em>Infografía: Delito, delincuencia, criminalidad y criminología.</em></p>
 
 :::hablemos-claro
 Delito: categoría legal; delincuencia: fenómeno; criminalidad: patrón o magnitud; criminología: disciplina.
@@ -946,7 +1054,11 @@ Para dominar **desviación, conducta antisocial y delito**, aplica esta regla: T
 - **Incorrecto:** Toda conducta desviada está castigada necesariamente por el Código Penal.
 - **Incorrecto:** La desaprobación social crea automáticamente un delito sin necesidad de ley.
 
-<!-- VISUAL PENDIENTE: t33-28-desviacion-conducta-antisocial-y-delito.webp -->
+<!-- VISUAL:t33-28-desviacion-conducta-antisocial-y-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-28-desviacion-conducta-antisocial-y-delito.webp" alt="Desviación, conducta antisocial y delito" width="820">
+</p>
+<p align="center"><em>Infografía: Desviación, conducta antisocial y delito.</em></p>
 
 :::hablemos-claro
 Tres filtros: norma social, daño y ley penal; solo el último convierte la conducta en delito.
@@ -980,7 +1092,11 @@ Para dominar **teoría, modelo y factor de riesgo**, aplica esta regla: Factor e
 - **Incorrecto:** Todo factor de riesgo causa inevitablemente delito en cada persona expuesta.
 - **Incorrecto:** Un modelo es verdadero en cualquier contexto por el solo hecho de ser conocido.
 
-<!-- VISUAL PENDIENTE: t33-29-teoria-modelo-y-factor-de-riesgo.webp -->
+<!-- VISUAL:t33-29-teoria-modelo-y-factor-de-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-29-teoria-modelo-y-factor-de-riesgo.webp" alt="Teoría, modelo y factor de riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Teoría, modelo y factor de riesgo.</em></p>
 
 :::hablemos-claro
 Factor eleva probabilidad; mecanismo explica cómo; teoría ordena; evidencia limita.
@@ -1014,7 +1130,11 @@ Para dominar **niveles de explicación de la delincuencia**, aplica esta regla: 
 - **Incorrecto:** Una explicación situacional niega necesariamente todo factor individual o estructural.
 - **Incorrecto:** El nivel estructural permite predecir con certeza qué individuo delinquirá.
 
-<!-- VISUAL PENDIENTE: t33-30-niveles-de-explicacion-de-la-delincuencia.webp -->
+<!-- VISUAL:t33-30-niveles-de-explicacion-de-la-delincuencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-30-niveles-de-explicacion-de-la-delincuencia.webp" alt="Niveles de explicación de la delincuencia" width="820">
+</p>
+<p align="center"><em>Infografía: Niveles de explicación de la delincuencia.</em></p>
 
 :::hablemos-claro
 No obligues a competir a escalas distintas: persona, relación, situación y estructura responden preguntas diferentes.
@@ -1048,7 +1168,11 @@ Para dominar **quételet y la estadística moral**, aplica esta regla: Quételet
 - **Incorrecto:** Quételet formuló una biotipología basada en pícnicos y leptosomáticos.
 - **Incorrecto:** Las leyes térmicas prueban que la temperatura causa de forma inevitable cada delito.
 
-<!-- VISUAL PENDIENTE: t33-31-quetelet-y-la-estadistica-moral.webp -->
+<!-- VISUAL:t33-31-quetelet-y-la-estadistica-moral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-31-quetelet-y-la-estadistica-moral.webp" alt="Quételet y la estadística moral" width="820">
+</p>
+<p align="center"><em>Infografía: Quételet y la estadística moral.</em></p>
 
 :::hablemos-claro
 Quételet mira series y estaciones: patrón agregado no es destino individual ni ley natural inmutable.
@@ -1082,7 +1206,11 @@ Para dominar **escuela clásica y elección**, aplica esta regla: Clásica mira 
 - **Incorrecto:** La escuela clásica sostiene determinismo biológico y niega toda capacidad de elección.
 - **Incorrecto:** Beccaria defendió penas arbitrarias cuanto más crueles mejor.
 
-<!-- VISUAL PENDIENTE: t33-32-escuela-clasica-y-eleccion.webp -->
+<!-- VISUAL:t33-32-escuela-clasica-y-eleccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-32-escuela-clasica-y-eleccion.webp" alt="Escuela clásica y elección" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela clásica y elección.</em></p>
 
 :::hablemos-claro
 Clásica mira elección y acto; positivista buscará causas en autor y entorno.
@@ -1116,7 +1244,11 @@ Para dominar **positivismo criminológico**, aplica esta regla: Memoriza autor y
 - **Incorrecto:** Todas las tesis positivistas históricas conservan validez científica y clínica actual.
 - **Incorrecto:** El positivismo mantuvo el mismo objeto y método filosófico de la escuela clásica.
 
-<!-- VISUAL PENDIENTE: t33-33-positivismo-criminologico.webp -->
+<!-- VISUAL:t33-33-positivismo-criminologico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-33-positivismo-criminologico.webp" alt="Positivismo criminológico" width="820">
+</p>
+<p align="center"><em>Infografía: Positivismo criminológico.</em></p>
 
 :::hablemos-claro
 Memoriza autor y propuesta, pero añade una etiqueta roja: antecedente histórico, no herramienta predictiva válida.
@@ -1150,7 +1282,11 @@ Para dominar **criterios para comparar teorías**, aplica esta regla: Ficha de c
 - **Incorrecto:** La teoría más antigua explica necesariamente mejor cualquier delito actual.
 - **Incorrecto:** Dos teorías con distinto nivel de análisis son contradictorias por definición.
 
-<!-- VISUAL PENDIENTE: t33-34-criterios-para-comparar-teorias.webp -->
+<!-- VISUAL:t33-34-criterios-para-comparar-teorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-34-criterios-para-comparar-teorias.webp" alt="Criterios para comparar teorías" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios para comparar teorías.</em></p>
 
 :::hablemos-claro
 Ficha de cinco campos: conducta, unidad, nivel, mecanismo y límite.
@@ -1184,7 +1320,11 @@ Para dominar **lombroso y el delincuente nato**, aplica esta regla: Lombroso es 
 - **Incorrecto:** Los estigmas físicos de Lombroso permiten diagnosticar hoy quién cometerá un delito.
 - **Incorrecto:** Lombroso pertenece a la escuela clásica y defendió únicamente libre albedrío.
 
-<!-- VISUAL PENDIENTE: t33-il-35-lombroso-y-el-delincuente-nato.webp -->
+<!-- VISUAL:t33-il-35-lombroso-y-el-delincuente-nato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-35-lombroso-y-el-delincuente-nato.webp" alt="Lombroso y el delincuente nato" width="820">
+</p>
+<p align="center"><em>Infografía: Lombroso y el delincuente nato.</em></p>
 
 :::hablemos-claro
 Lombroso es examen histórico: atavismo y delincuente nato, seguido de crítica metodológica imprescindible.
@@ -1218,7 +1358,11 @@ Para dominar **enrico ferri y los factores del delito**, aplica esta regla: Trí
 - **Incorrecto:** Ferri redujo todo delito a una única anomalía anatómica.
 - **Incorrecto:** La lista de factores de Ferri constituye una fórmula científica actual de predicción individual.
 
-<!-- VISUAL PENDIENTE: t33-36-enrico-ferri-y-los-factores-del-delito.webp -->
+<!-- VISUAL:t33-36-enrico-ferri-y-los-factores-del-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-36-enrico-ferri-y-los-factores-del-delito.webp" alt="Enrico Ferri y los factores del delito" width="820">
+</p>
+<p align="center"><em>Infografía: Enrico Ferri y los factores del delito.</em></p>
 
 :::hablemos-claro
 Tríada que ha caído: antropológicos, físicos o telúricos y sociales.
@@ -1252,7 +1396,11 @@ Para dominar **garófalo, delito natural y peligrosidad**, aplica esta regla: Pi
 - **Incorrecto:** Garófalo definió delito natural únicamente por estar tipificado en cualquier código vigente.
 - **Incorrecto:** La peligrosidad histórica permite prescindir hoy de prueba y culpabilidad.
 
-<!-- VISUAL PENDIENTE: t33-37-garofalo-delito-natural-y-peligrosidad.webp -->
+<!-- VISUAL:t33-37-garofalo-delito-natural-y-peligrosidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-37-garofalo-delito-natural-y-peligrosidad.webp" alt="Garófalo, delito natural y peligrosidad" width="820">
+</p>
+<p align="center"><em>Infografía: Garófalo, delito natural y peligrosidad.</em></p>
 
 :::hablemos-claro
 Piedad y probidad identifican a Garófalo; temibilidad es antecedente, no atajo contra garantías.
@@ -1286,7 +1434,11 @@ Para dominar **kretschmer y la biotipología**, aplica esta regla: Kretschmer: l
 - **Incorrecto:** Endomorfo, mesomorfo y ectomorfo son las categorías propias de Kretschmer.
 - **Incorrecto:** La apariencia corporal permite concluir de forma válida que una persona delinquirá.
 
-<!-- VISUAL PENDIENTE: t33-38-kretschmer-y-la-biotipologia.webp -->
+<!-- VISUAL:t33-38-kretschmer-y-la-biotipologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-38-kretschmer-y-la-biotipologia.webp" alt="Kretschmer y la biotipología" width="820">
+</p>
+<p align="center"><em>Infografía: Kretschmer y la biotipología.</em></p>
 
 :::hablemos-claro
 Kretschmer: leptosomático, atlético, pícnico y displásico; no lo mezcles con Sheldon.
@@ -1320,7 +1472,11 @@ Para dominar **sheldon y los somatotipos**, aplica esta regla: Sheldon: endo-mes
 - **Incorrecto:** Pícnico, atlético y leptosomático son los somatotipos de Sheldon.
 - **Incorrecto:** El mesomorfismo causa necesariamente delincuencia en toda persona.
 
-<!-- VISUAL PENDIENTE: t33-39-sheldon-y-los-somatotipos.webp -->
+<!-- VISUAL:t33-39-sheldon-y-los-somatotipos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-39-sheldon-y-los-somatotipos.webp" alt="Sheldon y los somatotipos" width="820">
+</p>
+<p align="center"><em>Infografía: Sheldon y los somatotipos.</em></p>
 
 :::hablemos-claro
 Sheldon: endo-meso-ecto; Kretschmer: lepto-atlético-pícnico.
@@ -1354,7 +1510,11 @@ Para dominar **genética, neurobiología y conducta**, aplica esta regla: Biolog
 - **Incorrecto:** Existe un gen único y suficiente de la delincuencia.
 - **Incorrecto:** Una diferencia media entre grupos permite predecir con certeza a cada individuo.
 
-<!-- VISUAL PENDIENTE: t33-il-40-genetica-neurobiologia-y-conducta.webp -->
+<!-- VISUAL:t33-il-40-genetica-neurobiologia-y-conducta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-40-genetica-neurobiologia-y-conducta.webp" alt="Genética, neurobiología y conducta" width="820">
+</p>
+<p align="center"><em>Infografía: Genética, neurobiología y conducta.</em></p>
 
 :::hablemos-claro
 Biología influye; no sentencia. Pasa siempre por desarrollo, ambiente, conducta concreta y garantías.
@@ -1388,7 +1548,11 @@ Para dominar **eysenck: personalidad y condicionamiento**, aplica esta regla: Ey
 - **Incorrecto:** Eysenck explicó el delito exclusivamente mediante forma corporal.
 - **Incorrecto:** Una puntuación alta en un rasgo demuestra que la persona ha cometido o cometerá delito.
 
-<!-- VISUAL PENDIENTE: t33-41-eysenck-personalidad-y-condicionamiento.webp -->
+<!-- VISUAL:t33-41-eysenck-personalidad-y-condicionamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-41-eysenck-personalidad-y-condicionamiento.webp" alt="Eysenck: personalidad y condicionamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Eysenck: personalidad y condicionamiento.</em></p>
 
 :::hablemos-claro
 Eysenck une rasgos y condicionamiento; habla de probabilidad, no de culpabilidad.
@@ -1422,7 +1586,11 @@ Para dominar **bandura y aprendizaje observacional**, aplica esta regla: Bandura
 - **Incorrecto:** Bandura sostuvo que solo se aprende mediante castigo físico directo.
 - **Incorrecto:** Observar un modelo obliga necesariamente a imitarlo.
 
-<!-- VISUAL PENDIENTE: t33-42-bandura-y-aprendizaje-observacional.webp -->
+<!-- VISUAL:t33-42-bandura-y-aprendizaje-observacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-42-bandura-y-aprendizaje-observacional.webp" alt="Bandura y aprendizaje observacional" width="820">
+</p>
+<p align="center"><em>Infografía: Bandura y aprendizaje observacional.</em></p>
 
 :::hablemos-claro
 Bandura separa aprender de ejecutar: observar abre el repertorio; consecuencias y control deciden la conducta.
@@ -1456,7 +1624,11 @@ Para dominar **sutherland y asociación diferencial**, aplica esta regla: Suther
 - **Incorrecto:** La asociación diferencial atribuye el delito a herencia anatómica.
 - **Incorrecto:** Basta conocer a una persona delincuente para aprender y ejecutar necesariamente delitos.
 
-<!-- VISUAL PENDIENTE: t33-43-sutherland-y-asociacion-diferencial.webp -->
+<!-- VISUAL:t33-43-sutherland-y-asociacion-diferencial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-43-sutherland-y-asociacion-diferencial.webp" alt="Sutherland y asociación diferencial" width="820">
+</p>
+<p align="center"><em>Infografía: Sutherland y asociación diferencial.</em></p>
 
 :::hablemos-claro
 Sutherland responde cómo se aprende: interacción, técnicas y balance de definiciones.
@@ -1490,7 +1662,11 @@ Para dominar **akers y aprendizaje social criminológico**, aplica esta regla: R
 - **Incorrecto:** Akers excluyó refuerzo e imitación de su teoría.
 - **Incorrecto:** La teoría social de Akers es idéntica a la biotipología de Kretschmer.
 
-<!-- VISUAL PENDIENTE: t33-44-akers-y-aprendizaje-social-criminologico.webp -->
+<!-- VISUAL:t33-44-akers-y-aprendizaje-social-criminologico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-44-akers-y-aprendizaje-social-criminologico.webp" alt="Akers y aprendizaje social criminológico" width="820">
+</p>
+<p align="center"><em>Infografía: Akers y aprendizaje social criminológico.</em></p>
 
 :::hablemos-claro
 Regla AKER: Asociación, definiciones, refuerzo e imitación.
@@ -1524,7 +1700,11 @@ Para dominar **durkheim: delito y anomia**, aplica esta regla: Normal significa 
 - **Incorrecto:** Llamar normal al delito significa aprobar moral y jurídicamente cualquier crimen.
 - **Incorrecto:** La anomia de Durkheim es una teoría biológica del cráneo.
 
-<!-- VISUAL PENDIENTE: t33-45-durkheim-delito-y-anomia.webp -->
+<!-- VISUAL:t33-45-durkheim-delito-y-anomia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-45-durkheim-delito-y-anomia.webp" alt="Durkheim: delito y anomia" width="820">
+</p>
+<p align="center"><em>Infografía: Durkheim: delito y anomia.</em></p>
 
 :::hablemos-claro
 Normal significa general como fenómeno social; anomia significa regulación debilitada, no ausencia física de normas.
@@ -1558,7 +1738,11 @@ Para dominar **merton: estructura social y anomia**, aplica esta regla: Merton: 
 - **Incorrecto:** Merton identificó anomia con una deformidad corporal hereditaria.
 - **Incorrecto:** Toda persona sin recursos adopta necesariamente una conducta delictiva.
 
-<!-- VISUAL PENDIENTE: t33-46-merton-estructura-social-y-anomia.webp -->
+<!-- VISUAL:t33-46-merton-estructura-social-y-anomia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-46-merton-estructura-social-y-anomia.webp" alt="Merton: estructura social y anomia" width="820">
+</p>
+<p align="center"><em>Infografía: Merton: estructura social y anomia.</em></p>
 
 :::hablemos-claro
 Merton: metas muy premiadas + acceso desigual a medios legítimos = presión estructural.
@@ -1592,7 +1776,11 @@ Para dominar **modos de adaptación de merton**, aplica esta regla: Tabla dos co
 - **Incorrecto:** Innovación rechaza metas y acepta exclusivamente medios institucionalizados.
 - **Incorrecto:** Rebelión y retraimiento son idénticos porque ambos conservan intacto el sistema.
 
-<!-- VISUAL PENDIENTE: t33-47-modos-de-adaptacion-de-merton.webp -->
+<!-- VISUAL:t33-47-modos-de-adaptacion-de-merton.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-47-modos-de-adaptacion-de-merton.webp" alt="Modos de adaptación de Merton" width="820">
+</p>
+<p align="center"><em>Infografía: Modos de adaptación de Merton.</em></p>
 
 :::hablemos-claro
 Tabla dos columnas: metas y medios; los signos de aceptación, rechazo o sustitución resuelven la pregunta.
@@ -1626,7 +1814,11 @@ Para dominar **agnew y la tensión general**, aplica esta regla: Tres fuentes: n
 - **Incorrecto:** Agnew sostuvo que toda emoción negativa produce necesariamente delito.
 - **Incorrecto:** La tensión general se limita al dinero y excluye pérdidas o malos tratos.
 
-<!-- VISUAL PENDIENTE: t33-48-agnew-y-la-tension-general.webp -->
+<!-- VISUAL:t33-48-agnew-y-la-tension-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-48-agnew-y-la-tension-general.webp" alt="Agnew y la tensión general" width="820">
+</p>
+<p align="center"><em>Infografía: Agnew y la tensión general.</em></p>
 
 :::hablemos-claro
 Tres fuentes: no lograr, perder lo positivo, sufrir lo negativo; después pregunta cómo se afronta.
@@ -1660,7 +1852,11 @@ Para dominar **escuela de chicago y ecología urbana**, aplica esta regla: Chica
 - **Incorrecto:** La Escuela de Chicago explica delito mediante biotipo corporal.
 - **Incorrecto:** Las zonas concéntricas describen con exactitud universal cualquier ciudad.
 
-<!-- VISUAL PENDIENTE: t33-49-escuela-de-chicago-y-ecologia-urbana.webp -->
+<!-- VISUAL:t33-49-escuela-de-chicago-y-ecologia-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-49-escuela-de-chicago-y-ecologia-urbana.webp" alt="Escuela de Chicago y ecología urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela de Chicago y ecología urbana.</em></p>
 
 :::hablemos-claro
 Chicago mira el mapa y la organización del área; no etiqueta como criminal a quien vive allí.
@@ -1694,7 +1890,11 @@ Para dominar **shaw y mckay: desorganización social**, aplica esta regla: El pa
 - **Incorrecto:** La desorganización social atribuye criminalidad a una raza o nacionalidad concreta.
 - **Incorrecto:** Toda persona que vive en un área desfavorecida delinque.
 
-<!-- VISUAL PENDIENTE: t33-il-50-shaw-y-mckay-desorganizacion-social.webp -->
+<!-- VISUAL:t33-il-50-shaw-y-mckay-desorganizacion-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-50-shaw-y-mckay-desorganizacion-social.webp" alt="Shaw y McKay: desorganización social" width="820">
+</p>
+<p align="center"><em>Infografía: Shaw y McKay: desorganización social.</em></p>
 
 :::hablemos-claro
 El patrón persiste en el área porque cambian redes y control, no porque sus habitantes tengan una esencia criminal.
@@ -1728,7 +1928,11 @@ Para dominar **cohen y la subcultura delictiva**, aplica esta regla: Cohen: prob
 - **Incorrecto:** Cohen sostuvo que toda delincuencia juvenil persigue beneficio económico racional.
 - **Incorrecto:** Pertenecer a un grupo juvenil demuestra integrar una subcultura delictiva.
 
-<!-- VISUAL PENDIENTE: t33-51-cohen-y-la-subcultura-delictiva.webp -->
+<!-- VISUAL:t33-51-cohen-y-la-subcultura-delictiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-51-cohen-y-la-subcultura-delictiva.webp" alt="Cohen y la subcultura delictiva" width="820">
+</p>
+<p align="center"><em>Infografía: Cohen y la subcultura delictiva.</em></p>
 
 :::hablemos-claro
 Cohen: problema de estatus + respuesta colectiva + valores propios del grupo.
@@ -1762,7 +1966,11 @@ Para dominar **cloward y ohlin: oportunidades diferenciales**, aplica esta regla
 - **Incorrecto:** Las oportunidades ilegítimas están igualmente disponibles para todas las personas.
 - **Incorrecto:** Criminal, conflictiva y de retirada son categorías del Código Penal.
 
-<!-- VISUAL PENDIENTE: t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp -->
+<!-- VISUAL:t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp" alt="Cloward y Ohlin: oportunidades diferenciales" width="820">
+</p>
+<p align="center"><em>Infografía: Cloward y Ohlin: oportunidades diferenciales.</em></p>
 
 :::hablemos-claro
 No basta querer delinquir: también se aprende y se accede de forma desigual a oportunidades ilegítimas.
@@ -1796,7 +2004,11 @@ Para dominar **hirschi y el vínculo social**, aplica esta regla: Hirschi: Apego
 - **Incorrecto:** Los cuatro vínculos son imitación, anomia, atavismo y oportunidad.
 - **Incorrecto:** Toda persona con un vínculo débil comete necesariamente delitos.
 
-<!-- VISUAL PENDIENTE: t33-53-hirschi-y-el-vinculo-social.webp -->
+<!-- VISUAL:t33-53-hirschi-y-el-vinculo-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-53-hirschi-y-el-vinculo-social.webp" alt="Hirschi y el vínculo social" width="820">
+</p>
+<p align="center"><em>Infografía: Hirschi y el vínculo social.</em></p>
 
 :::hablemos-claro
 Hirschi: Apego, Compromiso, Participación y Creencia.
@@ -1830,7 +2042,11 @@ Para dominar **gottfredson y hirschi: autocontrol**, aplica esta regla: Propensi
 - **Incorrecto:** La teoría afirma que oportunidad y contexto son irrelevantes.
 - **Incorrecto:** El bajo autocontrol constituye una condena clínica irreversible y suficiente para delinquir.
 
-<!-- VISUAL PENDIENTE: t33-54-gottfredson-y-hirschi-autocontrol.webp -->
+<!-- VISUAL:t33-54-gottfredson-y-hirschi-autocontrol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-54-gottfredson-y-hirschi-autocontrol.webp" alt="Gottfredson y Hirschi: autocontrol" width="820">
+</p>
+<p align="center"><em>Infografía: Gottfredson y Hirschi: autocontrol.</em></p>
 
 :::hablemos-claro
 Propensión no es acto: bajo autocontrol aumenta atractivo inmediato, pero necesita oportunidad.
@@ -1864,7 +2080,11 @@ Para dominar **becker y el etiquetamiento**, aplica esta regla: Cambia la pregun
 - **Incorrecto:** El etiquetamiento afirma que no existen actos ni daños y solo existe lenguaje.
 - **Incorrecto:** Toda etiqueta social genera inevitablemente una carrera criminal.
 
-<!-- VISUAL PENDIENTE: t33-il-55-becker-y-el-etiquetamiento.webp -->
+<!-- VISUAL:t33-il-55-becker-y-el-etiquetamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-55-becker-y-el-etiquetamiento.webp" alt="Becker y el etiquetamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Becker y el etiquetamiento.</em></p>
 
 :::hablemos-claro
 Cambia la pregunta: además de qué hizo, quién define, quién aplica y con qué consecuencias.
@@ -1898,7 +2118,11 @@ Para dominar **lemert: desviación primaria y secundaria**, aplica esta regla: P
 - **Incorrecto:** Desviación primaria significa primer delito tipificado y secundaria segundo delito cometido.
 - **Incorrecto:** Toda sanción produce automáticamente identidad desviada permanente.
 
-<!-- VISUAL PENDIENTE: t33-56-lemert-desviacion-primaria-y-secundaria.webp -->
+<!-- VISUAL:t33-56-lemert-desviacion-primaria-y-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-56-lemert-desviacion-primaria-y-secundaria.webp" alt="Lemert: desviación primaria y secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Lemert: desviación primaria y secundaria.</em></p>
 
 :::hablemos-claro
 Primaria no significa «primera condena»; secundaria describe reorganización de identidad por la reacción.
@@ -1932,7 +2156,11 @@ Para dominar **perspectivas de conflicto y críticas**, aplica esta regla: Tres 
 - **Incorrecto:** Toda norma penal existe únicamente para beneficiar a una clase y nunca protege bienes reales.
 - **Incorrecto:** Estudiar desigualdad en aplicación permite prescindir de evidencia sobre casos concretos.
 
-<!-- VISUAL PENDIENTE: t33-57-perspectivas-de-conflicto-y-criticas.webp -->
+<!-- VISUAL:t33-57-perspectivas-de-conflicto-y-criticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-57-perspectivas-de-conflicto-y-criticas.webp" alt="Perspectivas de conflicto y críticas" width="820">
+</p>
+<p align="center"><em>Infografía: Perspectivas de conflicto y críticas.</em></p>
 
 :::hablemos-claro
 Tres momentos: crear la regla, aplicarla y distribuir sus efectos.
@@ -1966,7 +2194,11 @@ Para dominar **elección racional**, aplica esta regla: Racional no significa pe
 - **Incorrecto:** Elección racional exige un cálculo perfecto y escrito antes de cada delito.
 - **Incorrecto:** La teoría niega que emoción, hábito o información incompleta afecten decisiones.
 
-<!-- VISUAL PENDIENTE: t33-58-eleccion-racional.webp -->
+<!-- VISUAL:t33-58-eleccion-racional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-58-eleccion-racional.webp" alt="Elección racional" width="820">
+</p>
+<p align="center"><em>Infografía: Elección racional.</em></p>
 
 :::hablemos-claro
 Racional no significa perfecto: basta una decisión orientada por incentivos bajo límites concretos.
@@ -2000,7 +2232,11 @@ Para dominar **actividades rutinarias**, aplica esta regla: Triángulo de 1979: 
 - **Incorrecto:** La teoría requiere delincuente, juez y prisión en el mismo lugar.
 - **Incorrecto:** Un guardián eficaz solo puede ser un agente uniformado.
 
-<!-- VISUAL PENDIENTE: t33-59-actividades-rutinarias.webp -->
+<!-- VISUAL:t33-59-actividades-rutinarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-59-actividades-rutinarias.webp" alt="Actividades rutinarias" width="820">
+</p>
+<p align="center"><em>Infografía: Actividades rutinarias.</em></p>
 
 :::hablemos-claro
 Triángulo de 1979: motivado + objetivo adecuado + guardián ausente.
@@ -2034,7 +2270,11 @@ Para dominar **prevención situacional del delito**, aplica esta regla: Intervie
 - **Incorrecto:** La prevención situacional busca cambiar para siempre la personalidad de toda la población.
 - **Incorrecto:** Toda barrera física funciona igual frente a cualquier modalidad delictiva.
 
-<!-- VISUAL PENDIENTE: t33-60-prevencion-situacional-del-delito.webp -->
+<!-- VISUAL:t33-60-prevencion-situacional-del-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-60-prevencion-situacional-del-delito.webp" alt="Prevención situacional del delito" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención situacional del delito.</em></p>
 
 :::hablemos-claro
 Interviene sobre la escena y la oportunidad, no diagnostica el alma del infractor.
@@ -2068,7 +2308,11 @@ Para dominar **diseño ambiental y espacio defendible**, aplica esta regla: Un e
 - **Incorrecto:** Espacio defendible significa cerrar todo espacio público y expulsar a desconocidos.
 - **Incorrecto:** Añadir cámaras garantiza por sí solo que no habrá delito.
 
-<!-- VISUAL PENDIENTE: t33-61-diseno-ambiental-y-espacio-defendible.webp -->
+<!-- VISUAL:t33-61-diseno-ambiental-y-espacio-defendible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-61-diseno-ambiental-y-espacio-defendible.webp" alt="Diseño ambiental y espacio defendible" width="820">
+</p>
+<p align="center"><em>Infografía: Diseño ambiental y espacio defendible.</em></p>
 
 :::hablemos-claro
 Un espacio seguro ayuda a ver, reconocer, usar y cuidar; no se reduce a fortificar.
@@ -2102,7 +2346,11 @@ Para dominar **ventanas rotas: tesis y límites**, aplica esta regla: Estudia se
 - **Incorrecto:** Una ventana rota causa por ley universal delitos graves en cualquier barrio.
 - **Incorrecto:** La teoría obliga jurídicamente a detener por toda incivilidad.
 
-<!-- VISUAL PENDIENTE: t33-il-62-ventanas-rotas-tesis-y-limites.webp -->
+<!-- VISUAL:t33-il-62-ventanas-rotas-tesis-y-limites.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-62-ventanas-rotas-tesis-y-limites.webp" alt="Ventanas rotas: tesis y límites" width="820">
+</p>
+<p align="center"><em>Infografía: Ventanas rotas: tesis y límites.</em></p>
 
 :::hablemos-claro
 Estudia señal y control informal, pero no conviertas metáfora en causalidad automática.
@@ -2136,7 +2384,11 @@ Para dominar **curso de vida y puntos de inflexión**, aplica esta regla: La tra
 - **Incorrecto:** Una conducta juvenil fija para siempre una carrera criminal inmutable.
 - **Incorrecto:** Todo acontecimiento vital produce el mismo cambio en cualquier persona.
 
-<!-- VISUAL PENDIENTE: t33-63-curso-de-vida-y-puntos-de-inflexion.webp -->
+<!-- VISUAL:t33-63-curso-de-vida-y-puntos-de-inflexion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-63-curso-de-vida-y-puntos-de-inflexion.webp" alt="Curso de vida y puntos de inflexión" width="820">
+</p>
+<p align="center"><em>Infografía: Curso de vida y puntos de inflexión.</em></p>
 
 :::hablemos-claro
 La trayectoria tiene continuidad, pero también giros: importa cuándo ocurre el vínculo y qué significado adquiere.
@@ -2170,7 +2422,11 @@ Para dominar **teorías integradoras**, aplica esta regla: Integrar es conectar 
 - **Incorrecto:** Una teoría integradora consiste en afirmar que todo causa todo.
 - **Incorrecto:** Cuantas más variables incluya un modelo, más verdadero es necesariamente.
 
-<!-- VISUAL PENDIENTE: t33-64-teorias-integradoras.webp -->
+<!-- VISUAL:t33-64-teorias-integradoras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-64-teorias-integradoras.webp" alt="Teorías integradoras" width="820">
+</p>
+<p align="center"><em>Infografía: Teorías integradoras.</em></p>
 
 :::hablemos-claro
 Integrar es conectar mecanismos con orden, no fabricar una enciclopedia sin dirección.
@@ -2204,7 +2460,11 @@ Para dominar **clasificar la delincuencia sin falso canon**, aplica esta regla: 
 - **Incorrecto:** Cada delito pertenece a una sola clase universal y excluyente.
 - **Incorrecto:** Una clasificación académica crea por sí sola consecuencias penales.
 
-<!-- VISUAL PENDIENTE: t33-65-clasificar-la-delincuencia-sin-falso-canon.webp -->
+<!-- VISUAL:t33-65-clasificar-la-delincuencia-sin-falso-canon.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-65-clasificar-la-delincuencia-sin-falso-canon.webp" alt="Clasificar la delincuencia sin falso canon" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificar la delincuencia sin falso canon.</em></p>
 
 :::hablemos-claro
 Antes de memorizar categorías pregunta: ¿clasificadas según qué?
@@ -2238,7 +2498,11 @@ Para dominar **delincuencia ocasional, habitual y profesional**, aplica esta reg
 - **Incorrecto:** Delincuente ocasional significa persona incapaz de repetir nunca una conducta.
 - **Incorrecto:** Habitualidad criminológica y reincidencia penal son siempre idénticas.
 
-<!-- VISUAL PENDIENTE: t33-66-delincuencia-ocasional-habitual-y-profesional.webp -->
+<!-- VISUAL:t33-66-delincuencia-ocasional-habitual-y-profesional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-66-delincuencia-ocasional-habitual-y-profesional.webp" alt="Delincuencia ocasional, habitual y profesional" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia ocasional, habitual y profesional.</em></p>
 
 :::hablemos-claro
 Frecuencia describe trayectoria; la consecuencia jurídica exige su propia norma y prueba.
@@ -2272,7 +2536,11 @@ Para dominar **delincuencia individual, grupal y organizada**, aplica esta regla
 - **Incorrecto:** Dos personas que coinciden una vez forman siempre un grupo delictivo organizado de Palermo.
 - **Incorrecto:** La delincuencia organizada exige necesariamente una empresa mercantil registrada.
 
-<!-- VISUAL PENDIENTE: t33-67-delincuencia-individual-grupal-y-organizada.webp -->
+<!-- VISUAL:t33-67-delincuencia-individual-grupal-y-organizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-67-delincuencia-individual-grupal-y-organizada.webp" alt="Delincuencia individual, grupal y organizada" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia individual, grupal y organizada.</em></p>
 
 :::hablemos-claro
 Pluralidad no basta: comprueba número, tiempo, concierto, delito grave y finalidad de beneficio en la fuente aplicable.
@@ -2306,7 +2574,11 @@ Para dominar **delincuencia juvenil y edad**, aplica esta regla: En España: 14 
 - **Incorrecto:** Toda persona menor de dieciocho responde penalmente con el mismo régimen que un adulto.
 - **Incorrecto:** La delincuencia juvenil posee una causa única común a todos los menores.
 
-<!-- VISUAL PENDIENTE: t33-68-delincuencia-juvenil-y-edad.webp -->
+<!-- VISUAL:t33-68-delincuencia-juvenil-y-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-68-delincuencia-juvenil-y-edad.webp" alt="Delincuencia juvenil y edad" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia juvenil y edad.</em></p>
 
 :::hablemos-claro
 En España: 14 a 17, régimen de menores; menos de 14, protección, no responsabilidad bajo la LO 5/2000.
@@ -2340,7 +2612,11 @@ Para dominar **delincuencia convencional, económica y de cuello blanco**, aplic
 - **Incorrecto:** Delito de cuello blanco significa cualquier delito cometido llevando camisa formal.
 - **Incorrecto:** Una persona de alto estatus no puede cometer delincuencia económica.
 
-<!-- VISUAL PENDIENTE: t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp -->
+<!-- VISUAL:t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp" alt="Delincuencia convencional, económica y de cuello blanco" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia convencional, económica y de cuello blanco.</em></p>
 
 :::hablemos-claro
 Sutherland rompió el sesgo: la delincuencia también puede ocultarse tras prestigio y ocupación.
@@ -2374,7 +2650,11 @@ Para dominar **delincuencia violenta, patrimonial y digital**, aplica esta regla
 - **Incorrecto:** Todo delito cometido con un teléfono es un delito exclusivamente informático.
 - **Incorrecto:** Las categorías violenta, patrimonial y digital nunca pueden coincidir.
 
-<!-- VISUAL PENDIENTE: t33-70-delincuencia-violenta-patrimonial-y-digital.webp -->
+<!-- VISUAL:t33-70-delincuencia-violenta-patrimonial-y-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-70-delincuencia-violenta-patrimonial-y-digital.webp" alt="Delincuencia violenta, patrimonial y digital" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia violenta, patrimonial y digital.</em></p>
 
 :::hablemos-claro
 Clasifica por conducta, bien y medio; un mismo hecho puede ocupar varios ejes.
@@ -2408,7 +2688,11 @@ Para dominar **criminalidad registrada, aparente y real**, aplica esta regla: No
 - **Incorrecto:** El número de condenas equivale exactamente al número total de delitos cometidos.
 - **Incorrecto:** Criminalidad real se obtiene leyendo una única base policial sin ajustes.
 
-<!-- VISUAL PENDIENTE: t33-71-criminalidad-registrada-aparente-y-real.webp -->
+<!-- VISUAL:t33-71-criminalidad-registrada-aparente-y-real.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-71-criminalidad-registrada-aparente-y-real.webp" alt="Criminalidad registrada, aparente y real" width="820">
+</p>
+<p align="center"><em>Infografía: Criminalidad registrada, aparente y real.</em></p>
 
 :::hablemos-claro
 No mezcles unidad de cuenta: hecho, denuncia, detenido, víctima y condena responden preguntas distintas.
@@ -2442,7 +2726,11 @@ Para dominar **tasas, prevalencia, incidencia y concentración**, aplica esta re
 - **Incorrecto:** Prevalencia e incidencia son siempre iguales porque ambas cuentan sucesos.
 - **Incorrecto:** Una tasa carece de denominador y solo expresa cifras absolutas.
 
-<!-- VISUAL PENDIENTE: t33-72-tasas-prevalencia-incidencia-y-concentracion.webp -->
+<!-- VISUAL:t33-72-tasas-prevalencia-incidencia-y-concentracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-72-tasas-prevalencia-incidencia-y-concentracion.webp" alt="Tasas, prevalencia, incidencia y concentración" width="820">
+</p>
+<p align="center"><em>Infografía: Tasas, prevalencia, incidencia y concentración.</em></p>
 
 :::hablemos-claro
 Prevalencia pregunta cuántos afectados; incidencia cuántos hechos; concentración dónde se acumulan.
@@ -2476,7 +2764,11 @@ Para dominar **lectura responsable de datos delictivos**, aplica esta regla: Cin
 - **Incorrecto:** Toda variación estadística refleja únicamente un cambio real de conducta criminal.
 - **Incorrecto:** Un promedio nacional describe por igual cada barrio y cada modalidad.
 
-<!-- VISUAL PENDIENTE: t33-73-lectura-responsable-de-datos-delictivos.webp -->
+<!-- VISUAL:t33-73-lectura-responsable-de-datos-delictivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-73-lectura-responsable-de-datos-delictivos.webp" alt="Lectura responsable de datos delictivos" width="820">
+</p>
+<p align="center"><em>Infografía: Lectura responsable de datos delictivos.</em></p>
 
 :::hablemos-claro
 Cinco controles antes del titular: definición, cifra, denominador, período y cambio de registro.

@@ -19,7 +19,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Es un concepto relacional porque siempre exige precisar qué se protege, frente a qué amenaza, mediante qué capacidades y en qué contexto.
 - La seguridad democrática protege personas, derechos, convivencia e instituciones bajo la ley; no convierte el orden en un fin desligado de la libertad.
 
-<!-- VISUAL PENDIENTE: t33-il-01-concepto-operativo-de-seguridad.webp -->
+<!-- VISUAL:t33-il-01-concepto-operativo-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-01-concepto-operativo-de-seguridad.webp" alt="Concepto operativo de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto operativo de seguridad.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T33 -->
 
@@ -32,7 +36,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Como política pública, la seguridad combina normas, instituciones, prevención, prestación de servicios, respuesta y rendición de cuentas.
 - Derecho a la seguridad, seguridad ciudadana y seguridad pública se relacionan, pero no son expresiones intercambiables en todos los contextos jurídicos.
 
-<!-- VISUAL PENDIENTE: t33-02-seguridad-como-valor-derecho-y-politica-publica.webp -->
+<!-- VISUAL:t33-02-seguridad-como-valor-derecho-y-politica-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-02-seguridad-como-valor-derecho-y-politica-publica.webp" alt="Seguridad como valor, derecho y política pública" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad como valor, derecho y política pública.</em></p>
 
 <!-- FUENTE: CE-1978-T33 -->
 
@@ -45,7 +53,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Ambas dimensiones pueden divergir: una reducción de delitos registrados no garantiza una reducción equivalente del miedo.
 - Una política rigurosa mide las dos dimensiones y evita usar la percepción como sustituto de los hechos o los registros como sustituto de la experiencia social.
 
-<!-- VISUAL PENDIENTE: t33-03-dimension-objetiva-y-dimension-subjetiva.webp -->
+<!-- VISUAL:t33-03-dimension-objetiva-y-dimension-subjetiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-03-dimension-objetiva-y-dimension-subjetiva.webp" alt="Dimensión objetiva y dimensión subjetiva" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensión objetiva y dimensión subjetiva.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -58,7 +70,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Exposición indica personas, bienes, derechos o sistemas situados al alcance de la amenaza.
 - Riesgo combina probabilidad y consecuencias dentro de un contexto; no se identifica automáticamente con amenaza ni con daño consumado.
 
-<!-- VISUAL PENDIENTE: t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp -->
+<!-- VISUAL:t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-04-amenaza-vulnerabilidad-exposicion-y-riesgo.webp" alt="Amenaza, vulnerabilidad, exposición y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Amenaza, vulnerabilidad, exposición y riesgo.</em></p>
 
 <!-- FUENTE: ESN-2021-T33 -->
 
@@ -71,7 +87,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La respuesta contiene el incidente, protege a las personas, preserva pruebas y restablece funciones prioritarias.
 - La recuperación repara daños, aprende del suceso y mejora capacidades para reducir repetición e impacto futuro.
 
-<!-- VISUAL PENDIENTE: t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp -->
+<!-- VISUAL:t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-05-prevencion-proteccion-respuesta-y-recuperacion.webp" alt="Prevención, protección, respuesta y recuperación" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención, protección, respuesta y recuperación.</em></p>
 
 <!-- FUENTE: ESN-2021-T33 -->
 
@@ -84,7 +104,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La prevención terciaria actúa después del delito para reducir reincidencia, revictimización y nuevos daños.
 - Los tres niveles pueden coexistir y no equivalen a una escala de mayor o menor dureza policial.
 
-<!-- VISUAL PENDIENTE: t33-06-prevencion-primaria-secundaria-y-terciaria.webp -->
+<!-- VISUAL:t33-06-prevencion-primaria-secundaria-y-terciaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-06-prevencion-primaria-secundaria-y-terciaria.webp" alt="Prevención primaria, secundaria y terciaria" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención primaria, secundaria y terciaria.</em></p>
 
 <!-- FUENTE: UNODC-PREVENTION-T33 -->
 
@@ -97,7 +121,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La Ley Orgánica 4/2015 somete las potestades de seguridad ciudadana a legalidad, igualdad y no discriminación, oportunidad, proporcionalidad, eficacia, eficiencia y responsabilidad.
 - Las medidas deben interpretarse del modo más favorable a la efectividad de derechos fundamentales cuando la ley así lo ordena.
 
-<!-- VISUAL PENDIENTE: t33-il-07-seguridad-libertad-y-proporcionalidad.webp -->
+<!-- VISUAL:t33-il-07-seguridad-libertad-y-proporcionalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-07-seguridad-libertad-y-proporcionalidad.webp" alt="Seguridad, libertad y proporcionalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad, libertad y proporcionalidad.</em></p>
 
 <!-- FUENTE: LO4-2015-T33 -->
 
@@ -110,7 +138,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Resiliencia es capacidad de resistir, absorber, adaptarse y recuperarse conservando funciones esenciales.
 - Coordinar capacidades no elimina la responsabilidad específica de cada autoridad, servicio u operador.
 
-<!-- VISUAL PENDIENTE: t33-08-seguridad-integral-y-resiliencia.webp -->
+<!-- VISUAL:t33-08-seguridad-integral-y-resiliencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-08-seguridad-integral-y-resiliencia.webp" alt="Seguridad integral y resiliencia" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad integral y resiliencia.</em></p>
 
 <!-- FUENTE: ESN-2021-T33 -->
 
@@ -123,7 +155,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La seguridad individual posee dimensión objetiva de protección y dimensión subjetiva de confianza o temor.
 - No autoriza a exigir al Estado una inmunidad absoluta frente a todo daño, sino garantías y actuaciones exigibles conforme al ordenamiento.
 
-<!-- VISUAL PENDIENTE: t33-09-seguridad-individual.webp -->
+<!-- VISUAL:t33-09-seguridad-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-09-seguridad-individual.webp" alt="Seguridad individual" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad individual.</em></p>
 
 <!-- FUENTE: CE-1978-T33 -->
 
@@ -136,7 +172,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La protección colectiva no disuelve a la persona: debe respetar derechos, igualdad y controles propios del Estado de Derecho.
 - Una amenaza puede afectar simultáneamente seguridad individual y colectiva, aunque las respuestas y competencias sean distintas.
 
-<!-- VISUAL PENDIENTE: t33-il-10-seguridad-colectiva.webp -->
+<!-- VISUAL:t33-il-10-seguridad-colectiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-10-seguridad-colectiva.webp" alt="Seguridad colectiva" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad colectiva.</em></p>
 
 <!-- FUENTE: LO4-2015-T33 -->
 
@@ -149,7 +189,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las dos misiones se leen conjuntamente: la seguridad ciudadana es garantía de libertad y no una finalidad separada de ella.
 - El artículo 104.2 reserva a una ley orgánica las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.
 
-<!-- VISUAL PENDIENTE: t33-11-seguridad-ciudadana-en-la-constitucion.webp -->
+<!-- VISUAL:t33-11-seguridad-ciudadana-en-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-11-seguridad-ciudadana-en-la-constitucion.webp" alt="Seguridad ciudadana en la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad ciudadana en la Constitución.</em></p>
 
 <!-- FUENTE: CE-1978-T33 -->
 
@@ -162,7 +206,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La competencia estatal no impide participación autonómica y local dentro del marco constitucional y legal.
 - Competencia, titularidad del cuerpo y ámbito territorial son planos distintos que deben analizarse por separado.
 
-<!-- VISUAL PENDIENTE: t33-12-competencia-sobre-seguridad-publica.webp -->
+<!-- VISUAL:t33-12-competencia-sobre-seguridad-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-12-competencia-sobre-seguridad-publica.webp" alt="Competencia sobre seguridad pública" width="820">
+</p>
+<p align="center"><em>Infografía: Competencia sobre seguridad pública.</em></p>
 
 <!-- FUENTE: CE-1978-T33 -->
 
@@ -175,7 +223,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Cada cuerpo actúa dentro de funciones y territorio atribuidos, sin que la cooperación transforme automáticamente una competencia en otra.
 - La seguridad pública exige intercambio de información, auxilio mutuo y mecanismos institucionales de coordinación.
 
-<!-- VISUAL PENDIENTE: t33-13-sistema-policial-y-cooperacion-territorial.webp -->
+<!-- VISUAL:t33-13-sistema-policial-y-cooperacion-territorial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-13-sistema-policial-y-cooperacion-territorial.webp" alt="Sistema policial y cooperación territorial" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema policial y cooperación territorial.</em></p>
 
 <!-- FUENTE: LO2-1986-T33 -->
 
@@ -188,7 +240,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La ley regula actuaciones diversas orientadas a tutelar la seguridad ciudadana mediante protección de personas y bienes y mantenimiento de la tranquilidad.
 - La seguridad ciudadana no se reduce al régimen sancionador: incluye prevención, actuación administrativa, colaboración y garantías.
 
-<!-- VISUAL PENDIENTE: t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp -->
+<!-- VISUAL:t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-14-objeto-de-la-proteccion-de-la-seguridad-ciudadana.webp" alt="Objeto de la protección de la seguridad ciudadana" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la protección de la seguridad ciudadana.</em></p>
 
 <!-- FUENTE: LO4-2015-T33 -->
 
@@ -201,7 +257,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las potestades se rigen por legalidad, igualdad y no discriminación, oportunidad, proporcionalidad, eficacia, eficiencia y responsabilidad.
 - Una amenaza concreta o un comportamiento objetivamente peligroso es el presupuesto que justifica la intervención en los términos legales.
 
-<!-- VISUAL PENDIENTE: t33-15-fines-y-principios-de-seguridad-ciudadana.webp -->
+<!-- VISUAL:t33-15-fines-y-principios-de-seguridad-ciudadana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-15-fines-y-principios-de-seguridad-ciudadana.webp" alt="Fines y principios de seguridad ciudadana" width="820">
+</p>
+<p align="center"><em>Infografía: Fines y principios de seguridad ciudadana.</em></p>
 
 <!-- FUENTE: LO4-2015-T33 -->
 
@@ -214,7 +274,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Se financia y organiza mediante poderes públicos, aunque pueda requerir colaboración social y privada sometida a ley.
 - No toda actividad que produce seguridad pertenece jurídicamente al título competencial de seguridad pública.
 
-<!-- VISUAL PENDIENTE: t33-16-concepto-funcional-de-seguridad-publica.webp -->
+<!-- VISUAL:t33-16-concepto-funcional-de-seguridad-publica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-16-concepto-funcional-de-seguridad-publica.webp" alt="Concepto funcional de seguridad pública" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto funcional de seguridad pública.</em></p>
 
 <!-- FUENTE: CE-1978-T33 -->
 
@@ -227,7 +291,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La finalidad privada de proteger personas o bienes puede contribuir simultáneamente a seguridad pública y prevención de infracciones.
 - La prestación está sujeta a habilitación, autorización, inspección y límites porque incide en derechos y seguridad general.
 
-<!-- VISUAL PENDIENTE: t33-17-modelo-espanol-de-seguridad-privada.webp -->
+<!-- VISUAL:t33-17-modelo-espanol-de-seguridad-privada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-17-modelo-espanol-de-seguridad-privada.webp" alt="Modelo español de seguridad privada" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo español de seguridad privada.</em></p>
 
 <!-- FUENTE: LEY5-2014-T33 -->
 
@@ -240,7 +308,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Subordinación funcional en supuestos legales no convierte al personal privado en miembro de las Fuerzas y Cuerpos de Seguridad.
 - Toda actuación privada queda sometida a legalidad, necesidad, proporcionalidad y respeto a dignidad y derechos.
 
-<!-- VISUAL PENDIENTE: t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp -->
+<!-- VISUAL:t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-18-relacion-y-limites-entre-seguridad-publica-y-privada.webp" alt="Relación y límites entre seguridad pública y privada" width="820">
+</p>
+<p align="center"><em>Infografía: Relación y límites entre seguridad pública y privada.</em></p>
 
 <!-- FUENTE: LEY5-2014-T33 -->
 
@@ -253,7 +325,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La inseguridad ciudadana suele analizar hechos delictivos, victimización, miedo, preocupación y conductas de evitación.
 - Una definición útil separa el fenómeno medido de la valoración emocional y del juicio político sobre su gravedad.
 
-<!-- VISUAL PENDIENTE: t33-19-concepto-de-inseguridad.webp -->
+<!-- VISUAL:t33-19-concepto-de-inseguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-19-concepto-de-inseguridad.webp" alt="Concepto de inseguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de inseguridad.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -266,7 +342,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las tasas permiten comparar poblaciones o períodos mejor que cifras absolutas cuando los denominadores difieren.
 - Comparar exige mantener definiciones, fuentes, período y cobertura territorial o explicar sus cambios.
 
-<!-- VISUAL PENDIENTE: t33-20-inseguridad-objetiva.webp -->
+<!-- VISUAL:t33-20-inseguridad-objetiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-20-inseguridad-objetiva.webp" alt="Inseguridad objetiva" width="820">
+</p>
+<p align="center"><em>Infografía: Inseguridad objetiva.</em></p>
 
 <!-- FUENTE: INTERIOR-BALANCE-T33 -->
 
@@ -279,7 +359,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Una persona puede estimar probable un delito sin sentir miedo intenso o sentir temor con probabilidad objetiva baja.
 - La medición debe preguntar por conducta o emoción concreta, marco temporal y situación, no usar una sola pregunta ambigua.
 
-<!-- VISUAL PENDIENTE: t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp -->
+<!-- VISUAL:t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-21-inseguridad-subjetiva-y-miedo-al-delito.webp" alt="Inseguridad subjetiva y miedo al delito" width="820">
+</p>
+<p align="center"><em>Infografía: Inseguridad subjetiva y miedo al delito.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -292,7 +376,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Ambas dimensiones pueden cambiar por experiencia, información, entorno, vulnerabilidad percibida y confianza institucional.
 - La distinción evita interpretar una opinión sobre el país como miedo personal cotidiano.
 
-<!-- VISUAL PENDIENTE: t33-22-miedo-concreto-y-preocupacion-difusa.webp -->
+<!-- VISUAL:t33-22-miedo-concreto-y-preocupacion-difusa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-22-miedo-concreto-y-preocupacion-difusa.webp" alt="Miedo concreto y preocupación difusa" width="820">
+</p>
+<p align="center"><em>Infografía: Miedo concreto y preocupación difusa.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -305,7 +393,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las encuestas de victimización complementan registros, pero también sufren errores de recuerdo, interpretación y cobertura.
 - Combinar fuentes permite aproximarse mejor al fenómeno sin afirmar que ninguna ofrece por sí sola la cifra real completa.
 
-<!-- VISUAL PENDIENTE: t33-23-victimizacion-y-cifra-oculta.webp -->
+<!-- VISUAL:t33-23-victimizacion-y-cifra-oculta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-23-victimizacion-y-cifra-oculta.webp" alt="Victimización y cifra oculta" width="820">
+</p>
+<p align="center"><em>Infografía: Victimización y cifra oculta.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -318,7 +410,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La cobertura mediática y las redes pueden amplificar hechos llamativos, pero su efecto depende de recepción y contexto.
 - La confianza en policía, justicia, comunidad y capacidad personal modula la sensación de control y seguridad.
 
-<!-- VISUAL PENDIENTE: t33-24-factores-que-moldean-la-percepcion.webp -->
+<!-- VISUAL:t33-24-factores-que-moldean-la-percepcion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-24-factores-que-moldean-la-percepcion.webp" alt="Factores que moldean la percepción" width="820">
+</p>
+<p align="center"><em>Infografía: Factores que moldean la percepción.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -331,7 +427,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las conductas de evitación pueden proteger a corto plazo y, a la vez, disminuir presencia comunitaria y control informal.
 - La política pública debe reducir daños y miedo desproporcionado sin estigmatizar barrios, colectivos o víctimas.
 
-<!-- VISUAL PENDIENTE: t33-il-25-consecuencias-de-la-inseguridad-percibida.webp -->
+<!-- VISUAL:t33-il-25-consecuencias-de-la-inseguridad-percibida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-25-consecuencias-de-la-inseguridad-percibida.webp" alt="Consecuencias de la inseguridad percibida" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias de la inseguridad percibida.</em></p>
 
 <!-- FUENTE: CIS-SEGURIDAD-T33 -->
 
@@ -344,7 +444,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El descenso posterior no demuestra por sí solo causalidad si faltan comparación y control de tendencias externas.
 - La evaluación debe incluir eficacia, proporcionalidad, costes, efectos distributivos, derechos y confianza pública.
 
-<!-- VISUAL PENDIENTE: t33-26-evaluacion-de-politicas-de-seguridad.webp -->
+<!-- VISUAL:t33-26-evaluacion-de-politicas-de-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-26-evaluacion-de-politicas-de-seguridad.webp" alt="Evaluación de políticas de seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación de políticas de seguridad.</em></p>
 
 <!-- FUENTE: UNODC-PREVENTION-T33 -->
 
@@ -357,7 +461,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Criminalidad puede expresar el volumen, estructura o características de delitos en un lugar y período.
 - Criminología es una disciplina empírica e interdisciplinar que estudia delito, infractor, víctima, control social y prevención.
 
-<!-- VISUAL PENDIENTE: t33-27-delito-delincuencia-criminalidad-y-criminologia.webp -->
+<!-- VISUAL:t33-27-delito-delincuencia-criminalidad-y-criminologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-27-delito-delincuencia-criminalidad-y-criminologia.webp" alt="Delito, delincuencia, criminalidad y criminología" width="820">
+</p>
+<p align="center"><em>Infografía: Delito, delincuencia, criminalidad y criminología.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -370,7 +478,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Todo delito supone infracción penal, pero no toda desviación o conducta socialmente desaprobada constituye delito.
 - Confundir desaprobación moral con tipificación favorece estigma, arbitrariedad y errores de examen.
 
-<!-- VISUAL PENDIENTE: t33-28-desviacion-conducta-antisocial-y-delito.webp -->
+<!-- VISUAL:t33-28-desviacion-conducta-antisocial-y-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-28-desviacion-conducta-antisocial-y-delito.webp" alt="Desviación, conducta antisocial y delito" width="820">
+</p>
+<p align="center"><em>Infografía: Desviación, conducta antisocial y delito.</em></p>
 
 <!-- FUENTE: BECKER-1963-T33 -->
 
@@ -383,7 +495,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Un factor de riesgo se asocia con mayor probabilidad de un resultado, pero no constituye una causa necesaria ni suficiente.
 - Una buena explicación distingue correlación, mecanismo causal, condiciones de aplicación y evidencia que podría refutarla.
 
-<!-- VISUAL PENDIENTE: t33-29-teoria-modelo-y-factor-de-riesgo.webp -->
+<!-- VISUAL:t33-29-teoria-modelo-y-factor-de-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-29-teoria-modelo-y-factor-de-riesgo.webp" alt="Teoría, modelo y factor de riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Teoría, modelo y factor de riesgo.</em></p>
 
 <!-- FUENTE: UNODC-PREVENTION-T33 -->
 
@@ -396,7 +512,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El nivel situacional examina oportunidades, objetivos, guardianes, lugares, tiempos y diseño.
 - El nivel estructural estudia desigualdad, instituciones, organización comunitaria, mercados y distribución de recursos y poder.
 
-<!-- VISUAL PENDIENTE: t33-30-niveles-de-explicacion-de-la-delincuencia.webp -->
+<!-- VISUAL:t33-30-niveles-de-explicacion-de-la-delincuencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-30-niveles-de-explicacion-de-la-delincuencia.webp" alt="Niveles de explicación de la delincuencia" width="820">
+</p>
+<p align="center"><em>Infografía: Niveles de explicación de la delincuencia.</em></p>
 
 <!-- FUENTE: SAMPSON-LAUB-1993-T33 -->
 
@@ -409,7 +529,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El hallazgo se formuló sobre patrones colectivos y no permite predecir la conducta de un individuo concreto.
 - Las asociaciones históricas entre estación y delito pueden variar por movilidad, oportunidad, registro y organización social y no constituyen leyes naturales universales.
 
-<!-- VISUAL PENDIENTE: t33-31-quetelet-y-la-estadistica-moral.webp -->
+<!-- VISUAL:t33-31-quetelet-y-la-estadistica-moral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-31-quetelet-y-la-estadistica-moral.webp" alt="Quételet y la estadística moral" width="820">
+</p>
+<p align="center"><em>Infografía: Quételet y la estadística moral.</em></p>
 
 <!-- FUENTE: QUETELET-1835-T33 -->
 
@@ -422,7 +546,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La disuasión depende de percepción de costes y beneficios, con especial relevancia de certeza y celeridad.
 - El enfoque clásico inspira teorías de elección, pero no explica por sí solo emociones, aprendizaje, estructuras u oportunidades.
 
-<!-- VISUAL PENDIENTE: t33-32-escuela-clasica-y-eleccion.webp -->
+<!-- VISUAL:t33-32-escuela-clasica-y-eleccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-32-escuela-clasica-y-eleccion.webp" alt="Escuela clásica y elección" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela clásica y elección.</em></p>
 
 <!-- FUENTE: BECCARIA-1764-T33 -->
 
@@ -435,7 +563,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Impulsó investigación empírica, pero muchas categorías y métodos incurrieron en sesgo, circularidad y pseudociencia.
 - Las tipologías históricas deben estudiarse como antecedentes preguntables, no como diagnósticos actuales de peligrosidad.
 
-<!-- VISUAL PENDIENTE: t33-33-positivismo-criminologico.webp -->
+<!-- VISUAL:t33-33-positivismo-criminologico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-33-positivismo-criminologico.webp" alt="Positivismo criminológico" width="820">
+</p>
+<p align="center"><em>Infografía: Positivismo criminológico.</em></p>
 
 <!-- FUENTE: LOMBROSO-1876-T33 -->
 
@@ -448,7 +580,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - También importa qué predicción diferencial producen y qué evidencia podría contradecirlas.
 - Una teoría útil puede tener alcance limitado; el error es convertir una explicación parcial en ley universal.
 
-<!-- VISUAL PENDIENTE: t33-34-criterios-para-comparar-teorias.webp -->
+<!-- VISUAL:t33-34-criterios-para-comparar-teorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-34-criterios-para-comparar-teorias.webp" alt="Criterios para comparar teorías" width="820">
+</p>
+<p align="center"><em>Infografía: Criterios para comparar teorías.</em></p>
 
 <!-- FUENTE: UNODC-PREVENTION-T33 -->
 
@@ -461,7 +597,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La antropología criminal lombrosiana influyó en el positivismo y en clasificaciones posteriores.
 - Sus inferencias carecen de validez predictiva actual y confundieron selección penitenciaria, correlación, estigma y causalidad.
 
-<!-- VISUAL PENDIENTE: t33-il-35-lombroso-y-el-delincuente-nato.webp -->
+<!-- VISUAL:t33-il-35-lombroso-y-el-delincuente-nato.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-35-lombroso-y-el-delincuente-nato.webp" alt="Lombroso y el delincuente nato" width="820">
+</p>
+<p align="center"><em>Infografía: Lombroso y el delincuente nato.</em></p>
 
 <!-- FUENTE: LOMBROSO-1876-T33 -->
 
@@ -474,7 +614,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Defendió una clasificación de delincuentes y una política criminal orientada por peligrosidad y prevención.
 - Sus categorías son históricas y no legitiman atribuir delito a raza, clima o condición personal sin evidencia contemporánea.
 
-<!-- VISUAL PENDIENTE: t33-36-enrico-ferri-y-los-factores-del-delito.webp -->
+<!-- VISUAL:t33-36-enrico-ferri-y-los-factores-del-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-36-enrico-ferri-y-los-factores-del-delito.webp" alt="Enrico Ferri y los factores del delito" width="820">
+</p>
+<p align="center"><em>Infografía: Enrico Ferri y los factores del delito.</em></p>
 
 <!-- FUENTE: FERRI-1884-T33 -->
 
@@ -487,7 +631,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Su enfoque pertenece a la escuela positiva italiana y desplazó atención desde culpabilidad por el acto hacia características del autor.
 - La concepción histórica no sustituye las garantías actuales de legalidad, culpabilidad, prueba y proporcionalidad.
 
-<!-- VISUAL PENDIENTE: t33-37-garofalo-delito-natural-y-peligrosidad.webp -->
+<!-- VISUAL:t33-37-garofalo-delito-natural-y-peligrosidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-37-garofalo-delito-natural-y-peligrosidad.webp" alt="Garófalo, delito natural y peligrosidad" width="820">
+</p>
+<p align="center"><em>Infografía: Garófalo, delito natural y peligrosidad.</em></p>
 
 <!-- FUENTE: GAROFALO-1885-T33 -->
 
@@ -500,7 +648,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las descripciones físicas de sus tipos han sido preguntadas históricamente en el acceso policial.
 - No existe base para inferir culpabilidad o conducta criminal individual a partir de la forma corporal.
 
-<!-- VISUAL PENDIENTE: t33-38-kretschmer-y-la-biotipologia.webp -->
+<!-- VISUAL:t33-38-kretschmer-y-la-biotipologia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-38-kretschmer-y-la-biotipologia.webp" alt="Kretschmer y la biotipología" width="820">
+</p>
+<p align="center"><em>Infografía: Kretschmer y la biotipología.</em></p>
 
 <!-- FUENTE: KRETSCHMER-1921-T33 -->
 
@@ -513,7 +665,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Sus estudios intentaron relacionar predominio mesomorfo y delincuencia mediante muestras seleccionadas.
 - La teoría presenta problemas de medición, sesgo y causalidad y no sirve para perfilar delincuentes por apariencia.
 
-<!-- VISUAL PENDIENTE: t33-39-sheldon-y-los-somatotipos.webp -->
+<!-- VISUAL:t33-39-sheldon-y-los-somatotipos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-39-sheldon-y-los-somatotipos.webp" alt="Sheldon y los somatotipos" width="820">
+</p>
+<p align="center"><em>Infografía: Sheldon y los somatotipos.</em></p>
 
 <!-- FUENTE: SHELDON-1949-T33 -->
 
@@ -526,7 +682,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Ningún biomarcador diagnostica por sí solo conducta delictiva futura en una persona.
 - La interpretación responsable evita determinismo, discriminación y salto indebido desde asociación grupal a predicción individual.
 
-<!-- VISUAL PENDIENTE: t33-il-40-genetica-neurobiologia-y-conducta.webp -->
+<!-- VISUAL:t33-il-40-genetica-neurobiologia-y-conducta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-40-genetica-neurobiologia-y-conducta.webp" alt="Genética, neurobiología y conducta" width="820">
+</p>
+<p align="center"><em>Infografía: Genética, neurobiología y conducta.</em></p>
 
 <!-- FUENTE: UNODC-PREVENTION-T33 -->
 
@@ -539,7 +699,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Una baja adquisición de respuestas condicionadas de temor o conciencia dificultaría socialización en su modelo.
 - Las dimensiones son continuas y probabilísticas; no convierten una puntuación de personalidad en diagnóstico criminal.
 
-<!-- VISUAL PENDIENTE: t33-41-eysenck-personalidad-y-condicionamiento.webp -->
+<!-- VISUAL:t33-41-eysenck-personalidad-y-condicionamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-41-eysenck-personalidad-y-condicionamiento.webp" alt="Eysenck: personalidad y condicionamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Eysenck: personalidad y condicionamiento.</em></p>
 
 <!-- FUENTE: EYSENCK-1964-T33 -->
 
@@ -552,7 +716,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La observación puede producir adquisición o modelado, inhibición, desinhibición y facilitación de respuestas.
 - Aprender una conducta no implica ejecutarla: expectativas, consecuencias y autorregulación influyen en su realización.
 
-<!-- VISUAL PENDIENTE: t33-42-bandura-y-aprendizaje-observacional.webp -->
+<!-- VISUAL:t33-42-bandura-y-aprendizaje-observacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-42-bandura-y-aprendizaje-observacional.webp" alt="Bandura y aprendizaje observacional" width="820">
+</p>
+<p align="center"><em>Infografía: Bandura y aprendizaje observacional.</em></p>
 
 <!-- FUENTE: BANDURA-1977-T33 -->
 
@@ -565,7 +733,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La delincuencia se favorece cuando predominan definiciones favorables a infringir la ley sobre definiciones desfavorables.
 - Las asociaciones varían en frecuencia, duración, prioridad e intensidad; el contacto con delincuentes no produce automáticamente delito.
 
-<!-- VISUAL PENDIENTE: t33-43-sutherland-y-asociacion-diferencial.webp -->
+<!-- VISUAL:t33-43-sutherland-y-asociacion-diferencial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-43-sutherland-y-asociacion-diferencial.webp" alt="Sutherland y asociación diferencial" width="820">
+</p>
+<p align="center"><em>Infografía: Sutherland y asociación diferencial.</em></p>
 
 <!-- FUENTE: SUTHERLAND-1947-T33 -->
 
@@ -578,7 +750,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las recompensas y castigos reales o anticipados influyen en inicio, repetición y mantenimiento de la conducta.
 - El modelo especifica mecanismos de aprendizaje, pero no afirma que toda persona expuesta responda igual.
 
-<!-- VISUAL PENDIENTE: t33-44-akers-y-aprendizaje-social-criminologico.webp -->
+<!-- VISUAL:t33-44-akers-y-aprendizaje-social-criminologico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-44-akers-y-aprendizaje-social-criminologico.webp" alt="Akers y aprendizaje social criminológico" width="820">
+</p>
+<p align="center"><em>Infografía: Akers y aprendizaje social criminológico.</em></p>
 
 <!-- FUENTE: AKERS-1998-T33 -->
 
@@ -591,7 +767,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Una sociedad puede experimentar variaciones patológicas cuando el delito supera determinadas condiciones o cambia bruscamente.
 - Su explicación opera en el plano social y no atribuye anomia a una anomalía corporal individual.
 
-<!-- VISUAL PENDIENTE: t33-45-durkheim-delito-y-anomia.webp -->
+<!-- VISUAL:t33-45-durkheim-delito-y-anomia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-45-durkheim-delito-y-anomia.webp" alt="Durkheim: delito y anomia" width="820">
+</p>
+<p align="center"><em>Infografía: Durkheim: delito y anomia.</em></p>
 
 <!-- FUENTE: DURKHEIM-1897-T33 -->
 
@@ -604,7 +784,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La teoría es sociológica porque analiza organización cultural y oportunidades, aunque produzca adaptaciones individuales.
 - No predice que toda persona con desventaja elegirá delito ni reduce toda delincuencia a pobreza.
 
-<!-- VISUAL PENDIENTE: t33-46-merton-estructura-social-y-anomia.webp -->
+<!-- VISUAL:t33-46-merton-estructura-social-y-anomia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-46-merton-estructura-social-y-anomia.webp" alt="Merton: estructura social y anomia" width="820">
+</p>
+<p align="center"><em>Infografía: Merton: estructura social y anomia.</em></p>
 
 <!-- FUENTE: MERTON-1938-T33 -->
 
@@ -617,7 +801,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El ritualismo reduce o abandona metas mientras mantiene medios; el retraimiento rechaza ambos.
 - La rebelión sustituye metas y medios existentes por otros nuevos y no equivale al simple retraimiento.
 
-<!-- VISUAL PENDIENTE: t33-47-modos-de-adaptacion-de-merton.webp -->
+<!-- VISUAL:t33-47-modos-de-adaptacion-de-merton.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-47-modos-de-adaptacion-de-merton.webp" alt="Modos de adaptación de Merton" width="820">
+</p>
+<p align="center"><em>Infografía: Modos de adaptación de Merton.</em></p>
 
 <!-- FUENTE: MERTON-1938-T33 -->
 
@@ -630,7 +818,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La tensión genera emociones como ira o frustración, pero la respuesta depende de apoyos, habilidades, control y oportunidades.
 - Delito es una posible estrategia de afrontamiento, no una consecuencia automática de toda adversidad.
 
-<!-- VISUAL PENDIENTE: t33-48-agnew-y-la-tension-general.webp -->
+<!-- VISUAL:t33-48-agnew-y-la-tension-general.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-48-agnew-y-la-tension-general.webp" alt="Agnew y la tensión general" width="820">
+</p>
+<p align="center"><em>Infografía: Agnew y la tensión general.</em></p>
 
 <!-- FUENTE: AGNEW-1992-T33 -->
 
@@ -643,7 +835,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El enfoque ecológico sitúa la unidad de análisis en áreas y relaciones urbanas, no en supuestas esencias criminales de sus residentes.
 - El modelo nació en un contexto histórico concreto y no debe trasladarse mecánicamente a toda ciudad.
 
-<!-- VISUAL PENDIENTE: t33-49-escuela-de-chicago-y-ecologia-urbana.webp -->
+<!-- VISUAL:t33-49-escuela-de-chicago-y-ecologia-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-49-escuela-de-chicago-y-ecologia-urbana.webp" alt="Escuela de Chicago y ecología urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela de Chicago y ecología urbana.</em></p>
 
 <!-- FUENTE: PARK-BURGESS-1925-T33 -->
 
@@ -656,7 +852,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La desorganización dificulta supervisión, cooperación y transmisión eficaz de normas convencionales.
 - La teoría explica condiciones de áreas y control informal; no afirma que pobreza o diversidad causen delito por naturaleza.
 
-<!-- VISUAL PENDIENTE: t33-il-50-shaw-y-mckay-desorganizacion-social.webp -->
+<!-- VISUAL:t33-il-50-shaw-y-mckay-desorganizacion-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-50-shaw-y-mckay-desorganizacion-social.webp" alt="Shaw y McKay: desorganización social" width="820">
+</p>
+<p align="center"><em>Infografía: Shaw y McKay: desorganización social.</em></p>
 
 <!-- FUENTE: SHAW-MCKAY-1942-T33 -->
 
@@ -669,7 +869,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Describió rasgos como no utilidad inmediata, malicia y negativismo en la subcultura analizada.
 - La teoría se refiere a un fenómeno delimitado y no permite atribuir delincuencia a toda juventud o grupo de clase trabajadora.
 
-<!-- VISUAL PENDIENTE: t33-51-cohen-y-la-subcultura-delictiva.webp -->
+<!-- VISUAL:t33-51-cohen-y-la-subcultura-delictiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-51-cohen-y-la-subcultura-delictiva.webp" alt="Cohen y la subcultura delictiva" width="820">
+</p>
+<p align="center"><em>Infografía: Cohen y la subcultura delictiva.</em></p>
 
 <!-- FUENTE: COHEN-1955-T33 -->
 
@@ -682,7 +886,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Diferenciaron subculturas criminal, conflictiva y de retirada dentro de su esquema.
 - La tipología es un modelo histórico y no una clasificación legal actual de grupos o delitos.
 
-<!-- VISUAL PENDIENTE: t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp -->
+<!-- VISUAL:t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-52-cloward-y-ohlin-oportunidades-diferenciales.webp" alt="Cloward y Ohlin: oportunidades diferenciales" width="820">
+</p>
+<p align="center"><em>Infografía: Cloward y Ohlin: oportunidades diferenciales.</em></p>
 
 <!-- FUENTE: CLOWARD-OHLIN-1960-T33 -->
 
@@ -695,7 +903,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Vínculos fuertes elevan costes sociales y morales de transgredir y ocupan tiempo en actividades convencionales.
 - Un vínculo débil aumenta posibilidad, pero no convierte el delito en resultado inevitable.
 
-<!-- VISUAL PENDIENTE: t33-53-hirschi-y-el-vinculo-social.webp -->
+<!-- VISUAL:t33-53-hirschi-y-el-vinculo-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-53-hirschi-y-el-vinculo-social.webp" alt="Hirschi y el vínculo social" width="820">
+</p>
+<p align="center"><em>Infografía: Hirschi y el vínculo social.</em></p>
 
 <!-- FUENTE: HIRSCHI-1969-T33 -->
 
@@ -708,7 +920,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La oportunidad sigue siendo necesaria para que una propensión se traduzca en un acto concreto.
 - La estabilidad propuesta ha sido discutida y no autoriza etiquetar de forma permanente a una persona desde la infancia.
 
-<!-- VISUAL PENDIENTE: t33-54-gottfredson-y-hirschi-autocontrol.webp -->
+<!-- VISUAL:t33-54-gottfredson-y-hirschi-autocontrol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-54-gottfredson-y-hirschi-autocontrol.webp" alt="Gottfredson y Hirschi: autocontrol" width="820">
+</p>
+<p align="center"><em>Infografía: Gottfredson y Hirschi: autocontrol.</em></p>
 
 <!-- FUENTE: GOTTFREDSON-HIRSCHI-1990-T33 -->
 
@@ -721,7 +937,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El enfoque estudia quién crea y aplica normas, a quién se etiqueta y qué consecuencias genera.
 - No sostiene que el acto material nunca importe ni que etiquetar sea la única causa de toda delincuencia.
 
-<!-- VISUAL PENDIENTE: t33-il-55-becker-y-el-etiquetamiento.webp -->
+<!-- VISUAL:t33-il-55-becker-y-el-etiquetamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-55-becker-y-el-etiquetamiento.webp" alt="Becker y el etiquetamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Becker y el etiquetamiento.</em></p>
 
 <!-- FUENTE: BECKER-1963-T33 -->
 
@@ -734,7 +954,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El proceso puede incluir exclusión de oportunidades convencionales y mayor relación con grupos estigmatizados.
 - La distinción es analítica y no convierte cualquier intervención formal en causa suficiente de reincidencia.
 
-<!-- VISUAL PENDIENTE: t33-56-lemert-desviacion-primaria-y-secundaria.webp -->
+<!-- VISUAL:t33-56-lemert-desviacion-primaria-y-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-56-lemert-desviacion-primaria-y-secundaria.webp" alt="Lemert: desviación primaria y secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Lemert: desviación primaria y secundaria.</em></p>
 
 <!-- FUENTE: LEMERT-1951-T33 -->
 
@@ -747,7 +971,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Una ley puede aplicarse de forma desigual aunque su texto sea general, lo que exige estudiar datos y procedimientos.
 - Analizar poder no demuestra que toda norma sea ilegítima ni sustituye la prueba del delito concreto.
 
-<!-- VISUAL PENDIENTE: t33-57-perspectivas-de-conflicto-y-criticas.webp -->
+<!-- VISUAL:t33-57-perspectivas-de-conflicto-y-criticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-57-perspectivas-de-conflicto-y-criticas.webp" alt="Perspectivas de conflicto y críticas" width="820">
+</p>
+<p align="center"><em>Infografía: Perspectivas de conflicto y críticas.</em></p>
 
 <!-- FUENTE: BECKER-1963-T33 -->
 
@@ -760,7 +988,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Las decisiones varían según tipo de delito y entre inicio, preparación, ejecución y abandono.
 - El modelo orienta prevención situacional sin afirmar cálculo perfecto ni explicar por sí solo el origen de preferencias.
 
-<!-- VISUAL PENDIENTE: t33-58-eleccion-racional.webp -->
+<!-- VISUAL:t33-58-eleccion-racional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-58-eleccion-racional.webp" alt="Elección racional" width="820">
+</p>
+<p align="center"><em>Infografía: Elección racional.</em></p>
 
 <!-- FUENTE: CORNISH-CLARKE-1986-T33 -->
 
@@ -773,7 +1005,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - El guardián puede ser persona, organización, tecnología o diseño que disuada o impida, no solo policía.
 - La teoría toma la motivación como dada para analizar oportunidad y no explica por sí sola cómo nace el infractor motivado.
 
-<!-- VISUAL PENDIENTE: t33-59-actividades-rutinarias.webp -->
+<!-- VISUAL:t33-59-actividades-rutinarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-59-actividades-rutinarias.webp" alt="Actividades rutinarias" width="820">
+</p>
+<p align="center"><em>Infografía: Actividades rutinarias.</em></p>
 
 <!-- FUENTE: COHEN-FELSON-1979-T33 -->
 
@@ -786,7 +1022,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Debe adaptarse al mecanismo del delito concreto y evaluarse frente a desplazamiento y difusión de beneficios.
 - No sustituye prevención social ni justicia y puede producir costes o exclusiones si se diseña sin proporcionalidad.
 
-<!-- VISUAL PENDIENTE: t33-60-prevencion-situacional-del-delito.webp -->
+<!-- VISUAL:t33-60-prevencion-situacional-del-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-60-prevencion-situacional-del-delito.webp" alt="Prevención situacional del delito" width="820">
+</p>
+<p align="center"><em>Infografía: Prevención situacional del delito.</em></p>
 
 <!-- FUENTE: CLARKE-1997-T33 -->
 
@@ -799,7 +1039,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La vigilancia natural depende de usos y presencia legítima, no solo de cámaras o iluminación intensa.
 - El diseño debe evitar exclusión, desplazamiento y falsa sensación de seguridad por soluciones meramente estéticas.
 
-<!-- VISUAL PENDIENTE: t33-61-diseno-ambiental-y-espacio-defendible.webp -->
+<!-- VISUAL:t33-61-diseno-ambiental-y-espacio-defendible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-61-diseno-ambiental-y-espacio-defendible.webp" alt="Diseño ambiental y espacio defendible" width="820">
+</p>
+<p align="center"><em>Infografía: Diseño ambiental y espacio defendible.</em></p>
 
 <!-- FUENTE: NEWMAN-1972-T33 -->
 
@@ -812,7 +1056,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La relación entre desorden y delito no es automática y puede estar confundida por desventaja, segregación y otros factores.
 - La teoría no justifica tolerancia cero indiscriminada ni intervenciones desproporcionadas sobre conductas no delictivas.
 
-<!-- VISUAL PENDIENTE: t33-il-62-ventanas-rotas-tesis-y-limites.webp -->
+<!-- VISUAL:t33-il-62-ventanas-rotas-tesis-y-limites.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-62-ventanas-rotas-tesis-y-limites.webp" alt="Ventanas rotas: tesis y límites" width="820">
+</p>
+<p align="center"><em>Infografía: Ventanas rotas: tesis y límites.</em></p>
 
 <!-- FUENTE: WILSON-KELLING-1982-T33 -->
 
@@ -825,7 +1073,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Transiciones como empleo estable o relaciones significativas pueden actuar como puntos de inflexión según su calidad y contexto.
 - La historia previa condiciona, pero no determina de forma irreversible la conducta futura.
 
-<!-- VISUAL PENDIENTE: t33-63-curso-de-vida-y-puntos-de-inflexion.webp -->
+<!-- VISUAL:t33-63-curso-de-vida-y-puntos-de-inflexion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-63-curso-de-vida-y-puntos-de-inflexion.webp" alt="Curso de vida y puntos de inflexión" width="820">
+</p>
+<p align="center"><em>Infografía: Curso de vida y puntos de inflexión.</em></p>
 
 <!-- FUENTE: SAMPSON-LAUB-1993-T33 -->
 
@@ -838,7 +1090,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Un modelo puede enlazar estructura con redes, aprendizaje, autocontrol, oportunidad y reacción institucional.
 - Más variables no garantizan mejor teoría si no aumentan claridad, contraste y capacidad explicativa.
 
-<!-- VISUAL PENDIENTE: t33-64-teorias-integradoras.webp -->
+<!-- VISUAL:t33-64-teorias-integradoras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-64-teorias-integradoras.webp" alt="Teorías integradoras" width="820">
+</p>
+<p align="center"><em>Infografía: Teorías integradoras.</em></p>
 
 <!-- FUENTE: SAMPSON-LAUB-1993-T33 -->
 
@@ -851,7 +1107,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Una misma conducta puede pertenecer simultáneamente a varias categorías según el eje utilizado.
 - Toda clasificación debe declarar criterio, fuente y finalidad para evitar presentar etiquetas descriptivas como tipos legales.
 
-<!-- VISUAL PENDIENTE: t33-65-clasificar-la-delincuencia-sin-falso-canon.webp -->
+<!-- VISUAL:t33-65-clasificar-la-delincuencia-sin-falso-canon.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-65-clasificar-la-delincuencia-sin-falso-canon.webp" alt="Clasificar la delincuencia sin falso canon" width="820">
+</p>
+<p align="center"><em>Infografía: Clasificar la delincuencia sin falso canon.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -864,7 +1124,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Profesional describe planificación, especialización, continuidad y obtención de recursos mediante actividad delictiva.
 - Las etiquetas son descriptivas y no sustituyen requisitos legales de reincidencia, habitualidad u organización criminal.
 
-<!-- VISUAL PENDIENTE: t33-66-delincuencia-ocasional-habitual-y-profesional.webp -->
+<!-- VISUAL:t33-66-delincuencia-ocasional-habitual-y-profesional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-66-delincuencia-ocasional-habitual-y-profesional.webp" alt="Delincuencia ocasional, habitual y profesional" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia ocasional, habitual y profesional.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -877,7 +1141,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - La Convención de Palermo define grupo delictivo organizado mediante tres o más personas, existencia durante cierto tiempo, actuación concertada y finalidad delictiva y de beneficio.
 - No toda pluralidad de autores constituye delincuencia organizada; deben comprobarse los elementos de la definición aplicable.
 
-<!-- VISUAL PENDIENTE: t33-67-delincuencia-individual-grupal-y-organizada.webp -->
+<!-- VISUAL:t33-67-delincuencia-individual-grupal-y-organizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-67-delincuencia-individual-grupal-y-organizada.webp" alt="Delincuencia individual, grupal y organizada" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia individual, grupal y organizada.</em></p>
 
 <!-- FUENTE: UNTOC-2000-T33 -->
 
@@ -890,7 +1158,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Quienes tienen menos de catorce años no responden conforme a esa ley y quedan bajo normas de protección de menores.
 - Edad no explica por sí sola el delito y ninguna característica negativa puede atribuirse a toda la juventud.
 
-<!-- VISUAL PENDIENTE: t33-68-delincuencia-juvenil-y-edad.webp -->
+<!-- VISUAL:t33-68-delincuencia-juvenil-y-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-68-delincuencia-juvenil-y-edad.webp" alt="Delincuencia juvenil y edad" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia juvenil y edad.</em></p>
 
 <!-- FUENTE: LO5-2000-T33 -->
 
@@ -903,7 +1175,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Delincuencia económica abarca conductas que dañan orden socioeconómico, mercados, hacienda, consumidores o empresas según el marco usado.
 - La posición social no convierte una conducta en delito ni la excluye: la tipificación y prueba siguen siendo necesarias.
 
-<!-- VISUAL PENDIENTE: t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp -->
+<!-- VISUAL:t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-il-69-delincuencia-convencional-economica-y-de-cuello-blanco.webp" alt="Delincuencia convencional, económica y de cuello blanco" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia convencional, económica y de cuello blanco.</em></p>
 
 <!-- FUENTE: SUTHERLAND-1947-T33 -->
 
@@ -916,7 +1192,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Ciberdelincuencia puede comprender delitos dependientes de sistemas y delitos tradicionales facilitados por medios digitales.
 - Las categorías pueden solaparse: una extorsión digital puede ser patrimonial, intimidatoria y transnacional.
 
-<!-- VISUAL PENDIENTE: t33-70-delincuencia-violenta-patrimonial-y-digital.webp -->
+<!-- VISUAL:t33-70-delincuencia-violenta-patrimonial-y-digital.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-70-delincuencia-violenta-patrimonial-y-digital.webp" alt="Delincuencia violenta, patrimonial y digital" width="820">
+</p>
+<p align="center"><em>Infografía: Delincuencia violenta, patrimonial y digital.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -929,7 +1209,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Criminalidad real es una magnitud teórica que incluye hechos conocidos y ocultos y no se observa de forma completa y directa.
 - Denuncias, diligencias, condenas y víctimas son unidades distintas y no deben sumarse o compararse como equivalentes.
 
-<!-- VISUAL PENDIENTE: t33-71-criminalidad-registrada-aparente-y-real.webp -->
+<!-- VISUAL:t33-71-criminalidad-registrada-aparente-y-real.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-71-criminalidad-registrada-aparente-y-real.webp" alt="Criminalidad registrada, aparente y real" width="820">
+</p>
+<p align="center"><em>Infografía: Criminalidad registrada, aparente y real.</em></p>
 
 <!-- FUENTE: INTERIOR-BALANCE-T33 -->
 
@@ -942,7 +1226,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Incidencia cuenta el número de sucesos, por lo que incorpora repetición sobre una misma víctima.
 - Concentración examina qué parte de hechos se acumula en pocos lugares, víctimas, objetivos o infractores.
 
-<!-- VISUAL PENDIENTE: t33-72-tasas-prevalencia-incidencia-y-concentracion.webp -->
+<!-- VISUAL:t33-72-tasas-prevalencia-incidencia-y-concentracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-72-tasas-prevalencia-incidencia-y-concentracion.webp" alt="Tasas, prevalencia, incidencia y concentración" width="820">
+</p>
+<p align="center"><em>Infografía: Tasas, prevalencia, incidencia y concentración.</em></p>
 
 <!-- FUENTE: UNODC-ICCS-T33 -->
 
@@ -955,7 +1243,11 @@ El Tema 33 se estudia en ocho partes: concepto y gestión de la seguridad; dimen
 - Los promedios nacionales pueden ocultar concentración territorial, modalidades y grupos afectados.
 - Comunicar seguridad exige incertidumbre, contexto y ausencia de inferencias estigmatizantes sobre colectivos.
 
-<!-- VISUAL PENDIENTE: t33-73-lectura-responsable-de-datos-delictivos.webp -->
+<!-- VISUAL:t33-73-lectura-responsable-de-datos-delictivos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-33/t33-73-lectura-responsable-de-datos-delictivos.webp" alt="Lectura responsable de datos delictivos" width="820">
+</p>
+<p align="center"><em>Infografía: Lectura responsable de datos delictivos.</em></p>
 
 <!-- FUENTE: INTERIOR-BALANCE-T33 -->
 

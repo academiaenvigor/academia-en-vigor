@@ -4,14 +4,14 @@
   "topic": "tema-28",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "partial",
   "totals": {
     "resources": 41,
-    "integrated": 0,
-    "planned": 41
+    "integrated": 39,
+    "planned": 2
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "partial",
+  "integrated_at": "2026-08-10",
   "resources": [
     {
       "id": "T28-V01",
@@ -19,14 +19,15 @@
       "title": "Concepto general de globalización",
       "type": "ilustracion_simple",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Piensa en una red de conexiones transfronterizas, no en un único mercado ni en un planeta convertido en una copia idéntica.",
+      "description": "Piensa en una red de conexiones transfronterizas, no en un único mercado ni en un planeta convertido en una copia idéntica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Globalización económica e interdependencia",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Separa proceso, políticas e instituciones: están conectados, pero una pregunta puede cambiar uno por otro.",
+      "description": "Separa proceso, políticas e instituciones: están conectados, pero una pregunta puede cambiar uno por otro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Antecedentes históricos de la integración mundial",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La fecha de una palabra no es la fecha de nacimiento del proceso: distingue término, etapa histórica y aceleración contemporánea.",
+      "description": "La fecha de una palabra no es la fecha de nacimiento del proceso: distingue término, etapa histórica y aceleración contemporánea.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "GATT, Ronda Uruguay y nacimiento de la OMC",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Secuencia de examen: GATT 1948, Ronda Uruguay 1986-1994, Marrakech 1994 y OMC 1995.",
+      "description": "Secuencia de examen: GATT 1948, Ronda Uruguay 1986-1994, Marrakech 1994 y OMC 1995.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Tecnología como motor de la globalización",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tecnología es acelerador, no piloto automático: abre posibilidades y también amplifica riesgos.",
+      "description": "Tecnología es acelerador, no piloto automático: abre posibilidades y también amplifica riesgos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Liberalización y decisiones públicas",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trampa habitual enfrenta mercado y reglas; en realidad, la apertura organizada necesita reglas comunes.",
+      "description": "La trampa habitual enfrenta mercado y reglas; en realidad, la apertura organizada necesita reglas comunes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Empresas multinacionales y cadenas globales de valor",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Ubica cada eslabón: quién lo controla, dónde se realiza y qué ocurre si falla.",
+      "description": "Ubica cada eslabón: quién lo controla, dónde se realiza y qué ocurre si falla.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Globalización financiera",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No memorices solo el beneficio o solo el riesgo: el examen puede pedir la doble cara.",
+      "description": "No memorices solo el beneficio o solo el riesgo: el examen puede pedir la doble cara.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Dimensiones de la globalización",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Clasifica primero la dimensión y después el efecto; evitarás confundir causa económica con reacción cultural.",
+      "description": "Clasifica primero la dimensión y después el efecto; evitarás confundir causa económica con reacción cultural.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Rasgos estructurales: alcance, intensidad y velocidad",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tres preguntas: hasta dónde llega, cuánto conecta y con qué rapidez se transmite.",
+      "description": "Tres preguntas: hasta dónde llega, cuánto conecta y con qué rapidez se transmite.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Homogeneización, hibridación y diversidad",
       "type": "ilustracion_simple",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Globalización cultural no tiene un resultado único: puede difundir, mezclar, enriquecer o desplazar.",
+      "description": "Globalización cultural no tiene un resultado único: puede difundir, mezclar, enriquecer o desplazar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Glocalización",
       "type": "ilustracion_simple",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Glocal no es mitad global y mitad local: es la relación activa entre ambos niveles.",
+      "description": "Glocal no es mitad global y mitad local: es la relación activa entre ambos niveles.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Aldea global y medios de comunicación",
       "type": "ilustracion_simple",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: McLuhan explica proximidad mediática; Sassen, ciudad global; Robertson, glocalización.",
+      "description": "McLuhan explica proximidad mediática; Sassen, ciudad global; Robertson, glocalización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Sociedad red",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mira la red y también sus huecos: conectividad no garantiza capacidad real de participación.",
+      "description": "Mira la red y también sus huecos: conectividad no garantiza capacidad real de participación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Ciudad global",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Sassen: función de mando y red; no confundas ciudad global con ciudad simplemente grande.",
+      "description": "Sassen: función de mando y red; no confundas ciudad global con ciudad simplemente grande.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Actores e instituciones de la globalización",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aprende el verbo de cada actor: negociar, financiar, supervisar, producir, comunicar, movilizar.",
+      "description": "Aprende el verbo de cada actor: negociar, financiar, supervisar, producir, comunicar, movilizar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "FMI, Banco Mundial y OMC: diferencias",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: FMI: estabilidad monetaria; Banco Mundial: desarrollo; OMC: reglas comerciales.",
+      "description": "FMI: estabilidad monetaria; Banco Mundial: desarrollo; OMC: reglas comerciales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +324,15 @@
       "title": "Desigualdad, pobreza y distribución",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Evita respuestas absolutas: el vínculo depende de qué desigualdad se mide, en qué lugar y con qué políticas.",
+      "description": "Evita respuestas absolutas: el vínculo depende de qué desigualdad se mide, en qué lugar y con qué políticas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +341,15 @@
       "title": "Empleo, deslocalización y trabajo decente",
       "type": "ilustracion_simple",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La empresa ve costes y capacidades; la política pública debe ver también transición, derechos y seguridad.",
+      "description": "La empresa ve costes y capacidades; la política pública debe ver también transición, derechos y seguridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +358,15 @@
       "title": "Soberanía, gobernanza y poder transnacional",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Soberanía hoy incluye capacidad de cooperar; aislarse puede reducir poder real frente a problemas globales.",
+      "description": "Soberanía hoy incluye capacidad de cooperar; aislarse puede reducir poder real frente a problemas globales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +391,15 @@
       "title": "Consecuencias culturales y diversidad",
       "type": "ilustracion_simple",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Diversidad viva: ni uniformidad forzada ni museo inmóvil.",
+      "description": "Diversidad viva: ni uniformidad forzada ni museo inmóvil.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +408,15 @@
       "title": "Consecuencias ambientales",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Analiza cinco piezas: escala, qué se produce, cómo se produce, qué se regula y qué se consume.",
+      "description": "Analiza cinco piezas: escala, qué se produce, cómo se produce, qué se regula y qué se consume.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +425,15 @@
       "title": "Riesgos sistémicos, resiliencia y fragmentación",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Eficiencia y resiliencia no son enemigas absolutas: la decisión real busca un equilibrio verificable.",
+      "description": "Eficiencia y resiliencia no son enemigas absolutas: la decisión real busca un equilibrio verificable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +442,15 @@
       "title": "Reacciones culturales: etnocentrismo",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La identidad dice quiénes somos; el etnocentrismo añade que nuestra medida debe juzgar a todos.",
+      "description": "La identidad dice quiénes somos; el etnocentrismo añade que nuestra medida debe juzgar a todos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +459,15 @@
       "title": "Relativismo cultural y sus límites",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Comprender primero no significa justificar después: contexto y límite universal son dos pasos distintos.",
+      "description": "Comprender primero no significa justificar después: contexto y límite universal son dos pasos distintos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +476,15 @@
       "title": "Xenocentrismo y desarraigo",
       "type": "ilustracion_simple",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: No cambies un pedestal por otro: la comparación crítica evita superioridades automáticas.",
+      "description": "No cambies un pedestal por otro: la comparación crítica evita superioridades automáticas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +493,15 @@
       "title": "Interculturalismo",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Multiculturalidad describe diversidad; interculturalismo añade relación y diálogo.",
+      "description": "Multiculturalidad describe diversidad; interculturalismo añade relación y diálogo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +510,15 @@
       "title": "Universalismo cultural y derechos humanos",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Universal es la dignidad; diversas son las formas legítimas de vivirla.",
+      "description": "Universal es la dignidad; diversas son las formas legítimas de vivirla.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +527,15 @@
       "title": "Localismo, nacionalismo y cierre identitario",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Evalúa objetivo, instrumento y efectos; las etiquetas globalista o proteccionista no bastan.",
+      "description": "Evalúa objetivo, instrumento y efectos; las etiquetas globalista o proteccionista no bastan.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +544,15 @@
       "title": "Antiglobalización y altermundismo: concepto",
       "type": "ilustracion_simple",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La etiqueta dice contra qué modelo protestan; altermundismo aclara qué alternativas intentan construir.",
+      "description": "La etiqueta dice contra qué modelo protestan; altermundismo aclara qué alternativas intentan construir.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +561,15 @@
       "title": "Objetivos y críticas del movimiento",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pregunta siempre quién critica qué, con qué propuesta y mediante qué táctica.",
+      "description": "Pregunta siempre quién critica qué, con qué propuesta y mediante qué táctica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +578,15 @@
       "title": "Historia: antecedentes y movilizaciones de 1998",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: 1998 concentra dos claves: oposición al AMI y nacimiento de redes como ATTAC.",
+      "description": "1998 concentra dos claves: oposición al AMI y nacimiento de redes como ATTAC.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +595,15 @@
       "title": "La batalla de Seattle de 1999",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Seattle 1999 es el gran símbolo de irrupción pública; el movimiento ya tenía raíces previas.",
+      "description": "Seattle 1999 es el gran símbolo de irrupción pública; el movimiento ya tenía raíces previas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +612,15 @@
       "title": "Organizaciones y redes: ATTAC",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ATTAC: tasa y acción ciudadana; es una organización del movimiento, no el movimiento entero.",
+      "description": "ATTAC: tasa y acción ciudadana; es una organización del movimiento, no el movimiento entero.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +629,15 @@
       "title": "Propuestas: tasa sobre transacciones financieras",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Aprende el tronco común y no confundas sus ramas: cambio de divisas original frente a diseños financieros posteriores.",
+      "description": "Aprende el tronco común y no confundas sus ramas: cambio de divisas original frente a diseños financieros posteriores.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +646,15 @@
       "title": "Origen del Foro Social Mundial",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Porto Alegre, Brasil, 2001: lugar, país y año forman una unidad de memoria.",
+      "description": "Porto Alegre, Brasil, 2001: lugar, país y año forman una unidad de memoria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +663,15 @@
       "title": "Carta de Principios: naturaleza del Foro",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La pregunta clave es qué no es: ni gobierno, ni parlamento, ni representante único.",
+      "description": "La pregunta clave es qué no es: ni gobierno, ni parlamento, ni representante único.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +680,15 @@
       "title": "Principios, límites y participación",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El Foro facilita acuerdos entre quienes los firman, sin apropiarse de la voz de todos.",
+      "description": "El Foro facilita acuerdos entre quienes los firman, sin apropiarse de la voz de todos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +697,15 @@
       "title": "Historia y geografía del Foro Social Mundial",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Primero fija 2001 y 2002 en Porto Alegre; después ubica la descentralización posterior.",
+      "description": "Primero fija 2001 y 2002 en Porto Alegre; después ubica la descentralización posterior.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],

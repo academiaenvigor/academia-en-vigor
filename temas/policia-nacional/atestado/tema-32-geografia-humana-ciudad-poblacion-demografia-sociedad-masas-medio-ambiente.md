@@ -28,7 +28,11 @@ Para dominar **concepto de geografía humana**, usa este criterio: Piensa en una
 - **Incorrecto:** La geografía humana estudia solo rasgos biológicos individuales sin atender al espacio.
 - **Incorrecto:** La geografía física y la humana nunca comparten procesos ni escalas.
 
-<!-- VISUAL PENDIENTE: t32-il-01-concepto-de-geografia-humana.webp -->
+<!-- VISUAL:t32-il-01-concepto-de-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-01-concepto-de-geografia-humana.webp" alt="Concepto de geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de geografía humana.</em></p>
 
 :::hablemos-claro
 Piensa en una relación de doble sentido: la sociedad organiza el espacio y el espacio condiciona posibilidades sin dictar el resultado.
@@ -62,7 +66,11 @@ Para dominar **sociedad, espacio y medio**, usa este criterio: Evita los determi
 - **Incorrecto:** El medio físico determina de forma automática e idéntica todas las sociedades.
 - **Incorrecto:** Las infraestructuras carecen de efectos sobre accesibilidad, riesgos y desigualdades.
 
-<!-- VISUAL PENDIENTE: t32-02-sociedad-espacio-y-medio.webp -->
+<!-- VISUAL:t32-02-sociedad-espacio-y-medio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-02-sociedad-espacio-y-medio.webp" alt="Sociedad, espacio y medio" width="820">
+</p>
+<p align="center"><em>Infografía: Sociedad, espacio y medio.</em></p>
 
 :::hablemos-claro
 Evita los determinismos: condición física no equivale a destino social.
@@ -96,7 +104,11 @@ Para dominar **ramas de la geografía humana**, usa este criterio: Clasifica la 
 - **Incorrecto:** La geografía de la población se limita a describir edificios y calles.
 - **Incorrecto:** La geografía política estudia únicamente el relieve de las fronteras.
 
-<!-- VISUAL PENDIENTE: t32-03-ramas-de-la-geografia-humana.webp -->
+<!-- VISUAL:t32-03-ramas-de-la-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-03-ramas-de-la-geografia-humana.webp" alt="Ramas de la geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Ramas de la geografía humana.</em></p>
 
 :::hablemos-claro
 Clasifica la rama por la pregunta central, no por una palabra suelta del enunciado.
@@ -130,7 +142,11 @@ Para dominar **lugar, región, paisaje y territorio**, usa este criterio: Lugar 
 - **Incorrecto:** Región, paisaje, lugar y territorio son sinónimos exactos en cualquier escala.
 - **Incorrecto:** Un territorio carece de actores, normas y relaciones de poder.
 
-<!-- VISUAL PENDIENTE: t32-04-lugar-region-paisaje-y-territorio.webp -->
+<!-- VISUAL:t32-04-lugar-region-paisaje-y-territorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-04-lugar-region-paisaje-y-territorio.webp" alt="Lugar, región, paisaje y territorio" width="820">
+</p>
+<p align="center"><em>Infografía: Lugar, región, paisaje y territorio.</em></p>
 
 :::hablemos-claro
 Lugar aporta significado; región delimita; paisaje muestra; territorio organiza y ejerce poder.
@@ -164,7 +180,11 @@ Para dominar **escala, localización y situación**, usa este criterio: Coordena
 - **Incorrecto:** La situación de una ciudad equivale exclusivamente a sus coordenadas.
 - **Incorrecto:** Cambiar la escala nunca altera el patrón observado ni la explicación.
 
-<!-- VISUAL PENDIENTE: t32-il-05-escala-localizacion-y-situacion.webp -->
+<!-- VISUAL:t32-il-05-escala-localizacion-y-situacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-05-escala-localizacion-y-situacion.webp" alt="Escala, localización y situación" width="820">
+</p>
+<p align="center"><em>Infografía: Escala, localización y situación.</em></p>
 
 :::hablemos-claro
 Coordenada localiza; relación sitúa; escala decide cuánto detalle ves.
@@ -198,7 +218,11 @@ Para dominar **distribución, densidad y accesibilidad**, usa este criterio: La 
 - **Incorrecto:** La densidad media muestra exactamente dónde vive cada persona dentro del territorio.
 - **Incorrecto:** Accesibilidad es sinónimo exclusivo de distancia en línea recta.
 
-<!-- VISUAL PENDIENTE: t32-06-distribucion-densidad-y-accesibilidad.webp -->
+<!-- VISUAL:t32-06-distribucion-densidad-y-accesibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-06-distribucion-densidad-y-accesibilidad.webp" alt="Distribución, densidad y accesibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución, densidad y accesibilidad.</em></p>
 
 :::hablemos-claro
 La media territorial puede esconder vacíos y concentraciones; añade siempre distribución y conexiones.
@@ -232,7 +256,11 @@ Para dominar **enfoques y métodos de la geografía humana**, usa este criterio:
 - **Incorrecto:** El enfoque cuantitativo prohíbe cualquier medición o comparación.
 - **Incorrecto:** La geografía crítica considera irrelevantes el poder y la desigualdad.
 
-<!-- VISUAL PENDIENTE: t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp -->
+<!-- VISUAL:t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-07-enfoques-y-metodos-de-la-geografia-humana.webp" alt="Enfoques y métodos de la geografía humana" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoques y métodos de la geografía humana.</em></p>
 
 :::hablemos-claro
 Los enfoques no se excluyen: cada uno ilumina una dimensión y tiene límites.
@@ -266,7 +294,11 @@ Para dominar **concepto operativo de ciudad**, usa este criterio: Una cifra sola
 - **Incorrecto:** Toda ciudad del mundo se define jurídicamente a partir de 10.000 habitantes.
 - **Incorrecto:** Los límites administrativos coinciden siempre con la huella urbana real.
 
-<!-- VISUAL PENDIENTE: t32-08-concepto-operativo-de-ciudad.webp -->
+<!-- VISUAL:t32-08-concepto-operativo-de-ciudad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-08-concepto-operativo-de-ciudad.webp" alt="Concepto operativo de ciudad" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto operativo de ciudad.</em></p>
 
 :::hablemos-claro
 Una cifra sola no define toda ciudad: cruza población, forma, función y administración.
@@ -300,7 +332,11 @@ Para dominar **grado de urbanización y comparación internacional**, usa este c
 - **Incorrecto:** El grado de urbanización usa únicamente el nombre oficial del municipio.
 - **Incorrecto:** La metodología armonizada sustituye automáticamente toda definición nacional.
 
-<!-- VISUAL PENDIENTE: t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp -->
+<!-- VISUAL:t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-09-grado-de-urbanizacion-y-comparacion-internacional.webp" alt="Grado de urbanización y comparación internacional" width="820">
+</p>
+<p align="center"><em>Infografía: Grado de urbanización y comparación internacional.</em></p>
 
 :::hablemos-claro
 Distingue clasificación estadística comparable y estatuto administrativo.
@@ -334,7 +370,11 @@ Para dominar **emplazamiento, situación, función y jerarquía**, usa este crit
 - **Incorrecto:** El emplazamiento es la red de relaciones exteriores y la situación es solo el suelo edificado.
 - **Incorrecto:** La jerarquía urbana depende únicamente de la antigüedad de la ciudad.
 
-<!-- VISUAL PENDIENTE: t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp -->
+<!-- VISUAL:t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-10-emplazamiento-situacion-funcion-y-jerarquia.webp" alt="Emplazamiento, situación, función y jerarquía" width="820">
+</p>
+<p align="center"><em>Infografía: Emplazamiento, situación, función y jerarquía.</em></p>
 
 :::hablemos-claro
 Sitio es dónde se asienta; situación, con qué se conecta; función, qué hace; jerarquía, hasta dónde influye.
@@ -368,7 +408,11 @@ Para dominar **urbanización y crecimiento urbano**, usa este criterio: Urbaniza
 - **Incorrecto:** Urbanización y crecimiento urbano son siempre la misma magnitud estadística.
 - **Incorrecto:** Toda expansión urbana es compacta y reduce automáticamente los desplazamientos.
 
-<!-- VISUAL PENDIENTE: t32-11-urbanizacion-y-crecimiento-urbano.webp -->
+<!-- VISUAL:t32-11-urbanizacion-y-crecimiento-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-11-urbanizacion-y-crecimiento-urbano.webp" alt="Urbanización y crecimiento urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Urbanización y crecimiento urbano.</em></p>
 
 :::hablemos-claro
 Urbanización mide proporción; crecimiento mide volumen; expansión mide huella.
@@ -402,7 +446,11 @@ Para dominar **morfología y plano urbano**, usa este criterio: Lee el plano com
 - **Incorrecto:** Morfología urbana significa exclusivamente número de habitantes.
 - **Incorrecto:** Toda ciudad conserva un único plano homogéneo desde su origen.
 
-<!-- VISUAL PENDIENTE: t32-12-morfologia-y-plano-urbano.webp -->
+<!-- VISUAL:t32-12-morfologia-y-plano-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-12-morfologia-y-plano-urbano.webp" alt="Morfología y plano urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Morfología y plano urbano.</em></p>
 
 :::hablemos-claro
 Lee el plano como una biografía: cada trama deja la huella de una etapa.
@@ -436,7 +484,11 @@ Para dominar **planos irregular, ortogonal, radial y lineal**, usa este criterio
 - **Incorrecto:** El plano ortogonal carece de cruces regulares y forma un laberinto sinuoso.
 - **Incorrecto:** El plano lineal se organiza exclusivamente mediante círculos concéntricos.
 
-<!-- VISUAL PENDIENTE: t32-13-planos-irregular-ortogonal-radial-y-lineal.webp -->
+<!-- VISUAL:t32-13-planos-irregular-ortogonal-radial-y-lineal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-13-planos-irregular-ortogonal-radial-y-lineal.webp" alt="Planos irregular, ortogonal, radial y lineal" width="820">
+</p>
+<p align="center"><em>Infografía: Planos irregular, ortogonal, radial y lineal.</em></p>
 
 :::hablemos-claro
 Identifica la geometría dominante: laberinto, cuadrícula, radios o eje.
@@ -470,7 +522,11 @@ Para dominar **centro histórico, ensanche y periferia**, usa este criterio: Dis
 - **Incorrecto:** Todo ensanche tiene trama medieval irregular y precede al casco histórico.
 - **Incorrecto:** Toda periferia es homogénea y necesariamente pobre.
 
-<!-- VISUAL PENDIENTE: t32-14-centro-historico-ensanche-y-periferia.webp -->
+<!-- VISUAL:t32-14-centro-historico-ensanche-y-periferia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-14-centro-historico-ensanche-y-periferia.webp" alt="Centro histórico, ensanche y periferia" width="820">
+</p>
+<p align="center"><em>Infografía: Centro histórico, ensanche y periferia.</em></p>
 
 :::hablemos-claro
 Distingue etapa y función sin convertir centro-periferia en una etiqueta social absoluta.
@@ -504,7 +560,11 @@ Para dominar **red urbana y áreas de influencia**, usa este criterio: La red ex
 - **Incorrecto:** Una red urbana es solo un inventario alfabético de municipios sin relaciones.
 - **Incorrecto:** El área de influencia coincide siempre con el término municipal.
 
-<!-- VISUAL PENDIENTE: t32-15-red-urbana-y-areas-de-influencia.webp -->
+<!-- VISUAL:t32-15-red-urbana-y-areas-de-influencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-15-red-urbana-y-areas-de-influencia.webp" alt="Red urbana y áreas de influencia" width="820">
+</p>
+<p align="center"><em>Infografía: Red urbana y áreas de influencia.</em></p>
 
 :::hablemos-claro
 La red existe por los flujos; sin relaciones solo hay puntos sobre un mapa.
@@ -538,7 +598,11 @@ Para dominar **metrópolis, área metropolitana, conurbación y megalópolis**, 
 - **Incorrecto:** Conurbación es un barrio construido dentro de una sola parcela municipal.
 - **Incorrecto:** Megalópolis y metrópolis son siempre sinónimos.
 
-<!-- VISUAL PENDIENTE: t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp -->
+<!-- VISUAL:t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-16-metropolis-area-metropolitana-conurbacion-y-megalopolis.webp" alt="Metrópolis, área metropolitana, conurbación y megalópolis" width="820">
+</p>
+<p align="center"><em>Infografía: Metrópolis, área metropolitana, conurbación y megalópolis.</em></p>
 
 :::hablemos-claro
 La conurbación nace de varios núcleos; el área metropolitana se reconoce por su integración funcional.
@@ -572,7 +636,11 @@ Para dominar **suburbanización, periurbanización y rururbanización**, usa est
 - **Incorrecto:** Suburbanización significa regreso exclusivo de jubilados a aldeas remotas sin relación urbana.
 - **Incorrecto:** Periurbanización elimina toda mezcla entre usos rurales y urbanos.
 
-<!-- VISUAL PENDIENTE: t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp -->
+<!-- VISUAL:t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-17-suburbanizacion-periurbanizacion-y-rururbanizacion.webp" alt="Suburbanización, periurbanización y rururbanización" width="820">
+</p>
+<p align="center"><em>Infografía: Suburbanización, periurbanización y rururbanización.</em></p>
 
 :::hablemos-claro
 La corona exterior no es un vacío: combina desplazamiento residencial, nuevos usos y dependencia funcional.
@@ -606,7 +674,11 @@ Para dominar **desurbanización, reurbanización y ciudad compacta**, usa este c
 - **Incorrecto:** Reurbanización es el abandono del centro hacia la corona exterior.
 - **Incorrecto:** Ciudad compacta significa construir sin espacios públicos ni límites de densidad.
 
-<!-- VISUAL PENDIENTE: t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp -->
+<!-- VISUAL:t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-18-desurbanizacion-reurbanizacion-y-ciudad-compacta.webp" alt="Desurbanización, reurbanización y ciudad compacta" width="820">
+</p>
+<p align="center"><em>Infografía: Desurbanización, reurbanización y ciudad compacta.</em></p>
 
 :::hablemos-claro
 Recuperar y compactar exige calidad y equidad; densidad sola no resuelve la ciudad.
@@ -640,7 +712,11 @@ Para dominar **segregación, gueto y gentrificación**, usa este criterio: Rehab
 - **Incorrecto:** Todo barrio culturalmente homogéneo es necesariamente un gueto impuesto.
 - **Incorrecto:** Gentrificación significa abandono y caída del valor del suelo.
 
-<!-- VISUAL PENDIENTE: t32-il-19-segregacion-gueto-y-gentrificacion.webp -->
+<!-- VISUAL:t32-il-19-segregacion-gueto-y-gentrificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-19-segregacion-gueto-y-gentrificacion.webp" alt="Segregación, gueto y gentrificación" width="820">
+</p>
+<p align="center"><em>Infografía: Segregación, gueto y gentrificación.</em></p>
 
 :::hablemos-claro
 Rehabilitar un edificio no basta para definir gentrificación: observa revalorización, cambio social y desplazamiento.
@@ -674,7 +750,11 @@ Para dominar **ciudad jardín y ciudad lineal**, usa este criterio: Howard dibuj
 - **Incorrecto:** Howard diseñó el modelo sectorial de crecimiento residencial.
 - **Incorrecto:** La ciudad lineal se organiza mediante anillos alrededor de un centro único.
 
-<!-- VISUAL PENDIENTE: t32-20-ciudad-jardin-y-ciudad-lineal.webp -->
+<!-- VISUAL:t32-20-ciudad-jardin-y-ciudad-lineal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-20-ciudad-jardin-y-ciudad-lineal.webp" alt="Ciudad jardín y ciudad lineal" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudad jardín y ciudad lineal.</em></p>
 
 :::hablemos-claro
 Howard dibuja núcleos con cinturón verde; Soria despliega la ciudad sobre un eje.
@@ -708,7 +788,11 @@ Para dominar **escuela de chicago y ecología urbana**, usa este criterio: Es un
 - **Incorrecto:** Park y Burgess pertenecen a una teoría exclusivamente jurídica de la ciudad.
 - **Incorrecto:** La ecología urbana demuestra que toda ciudad reproduce idénticas zonas.
 
-<!-- VISUAL PENDIENTE: t32-21-escuela-de-chicago-y-ecologia-urbana.webp -->
+<!-- VISUAL:t32-21-escuela-de-chicago-y-ecologia-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-21-escuela-de-chicago-y-ecologia-urbana.webp" alt="Escuela de Chicago y ecología urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Escuela de Chicago y ecología urbana.</em></p>
 
 :::hablemos-claro
 Es una analogía ecológica para estudiar organización social y espacio, no una ley biológica de la ciudad.
@@ -742,7 +826,11 @@ Para dominar **modelo concéntrico de burgess**, usa este criterio: Burgess pien
 - **Incorrecto:** El modelo concéntrico fue formulado por Homer Hoyt y organiza la ciudad en sectores.
 - **Incorrecto:** La zona de transición es la corona residencial más estable y alejada del centro.
 
-<!-- VISUAL PENDIENTE: t32-il-22-modelo-concentrico-de-burgess.webp -->
+<!-- VISUAL:t32-il-22-modelo-concentrico-de-burgess.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-22-modelo-concentrico-de-burgess.webp" alt="Modelo concéntrico de Burgess" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo concéntrico de Burgess.</em></p>
 
 :::hablemos-claro
 Burgess piensa en anillos; recuerda que el mapa real puede deformarlos.
@@ -776,7 +864,11 @@ Para dominar **modelo sectorial de homer hoyt**, usa este criterio: Hoyt corta l
 - **Incorrecto:** Hoyt formuló el modelo multinuclear de Harris y Ullman.
 - **Incorrecto:** El modelo sectorial distribuye todos los usos en anillos sin ejes.
 
-<!-- VISUAL PENDIENTE: t32-23-modelo-sectorial-de-homer-hoyt.webp -->
+<!-- VISUAL:t32-23-modelo-sectorial-de-homer-hoyt.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-23-modelo-sectorial-de-homer-hoyt.webp" alt="Modelo sectorial de Homer Hoyt" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo sectorial de Homer Hoyt.</em></p>
 
 :::hablemos-claro
 Hoyt corta la diana de Burgess en cuñas que siguen corredores.
@@ -810,7 +902,11 @@ Para dominar **modelo de núcleos múltiples**, usa este criterio: La ciudad dej
 - **Incorrecto:** El modelo multinuclear exige un único distrito central que monopolice todas las funciones.
 - **Incorrecto:** Harris y Ullman propusieron exclusivamente la ciudad jardín.
 
-<!-- VISUAL PENDIENTE: t32-il-24-modelo-de-nucleos-multiples.webp -->
+<!-- VISUAL:t32-il-24-modelo-de-nucleos-multiples.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-24-modelo-de-nucleos-multiples.webp" alt="Modelo de núcleos múltiples" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de núcleos múltiples.</em></p>
 
 :::hablemos-claro
 La ciudad deja de ser una diana única y funciona como constelación de centros.
@@ -844,7 +940,11 @@ Para dominar **urbanismo como modo de vida: louis wirth**, usa este criterio: Re
 - **Incorrecto:** Wirth definió la ciudad únicamente por su altitud y clima.
 - **Incorrecto:** La heterogeneidad urbana elimina necesariamente toda comunidad y vínculo primario.
 
-<!-- VISUAL PENDIENTE: t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp -->
+<!-- VISUAL:t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-25-urbanismo-como-modo-de-vida-louis-wirth.webp" alt="Urbanismo como modo de vida: Louis Wirth" width="820">
+</p>
+<p align="center"><em>Infografía: Urbanismo como modo de vida: Louis Wirth.</em></p>
 
 :::hablemos-claro
 Regla TDH: tamaño, densidad y heterogeneidad; después analiza efectos, no destinos inevitables.
@@ -878,7 +978,11 @@ Para dominar **geografía cuantitativa y análisis espacial urbano**, usa este c
 - **Incorrecto:** Un sistema de información geográfica es solo un dibujo sin base de datos.
 - **Incorrecto:** Un modelo matemático exacto en sus cálculos es necesariamente verdadero en sus supuestos.
 
-<!-- VISUAL PENDIENTE: t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp -->
+<!-- VISUAL:t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-26-geografia-cuantitativa-y-analisis-espacial-urbano.webp" alt="Geografía cuantitativa y análisis espacial urbano" width="820">
+</p>
+<p align="center"><em>Infografía: Geografía cuantitativa y análisis espacial urbano.</em></p>
 
 :::hablemos-claro
 El número ayuda a contrastar patrones; no sustituye la calidad de datos ni la explicación.
@@ -912,7 +1016,11 @@ Para dominar **enfoques perceptivo, humanista y crítico de la ciudad**, usa est
 - **Incorrecto:** La percepción urbana reproduce siempre con exactitud el plano oficial.
 - **Incorrecto:** La geografía crítica excluye vivienda, capital y relaciones de poder.
 
-<!-- VISUAL PENDIENTE: t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp -->
+<!-- VISUAL:t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-27-enfoques-perceptivo-humanista-y-critico-de-la-ciudad.webp" alt="Enfoques perceptivo, humanista y crítico de la ciudad" width="820">
+</p>
+<p align="center"><em>Infografía: Enfoques perceptivo, humanista y crítico de la ciudad.</em></p>
 
 :::hablemos-claro
 La ciudad también se percibe, se vive y se disputa; no es solo forma edificada.
@@ -946,7 +1054,11 @@ Para dominar **ciudades según su función predominante**, usa este criterio: Fu
 - **Incorrecto:** Una ciudad universitaria carece de cualquier función comercial o residencial.
 - **Incorrecto:** La función de una ciudad queda fijada para siempre desde su fundación.
 
-<!-- VISUAL PENDIENTE: t32-28-ciudades-segun-su-funcion-predominante.webp -->
+<!-- VISUAL:t32-28-ciudades-segun-su-funcion-predominante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-28-ciudades-segun-su-funcion-predominante.webp" alt="Ciudades según su función predominante" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudades según su función predominante.</em></p>
 
 :::hablemos-claro
 Función predominante no significa función exclusiva.
@@ -980,7 +1092,11 @@ Para dominar **formas de la red urbana**, usa este criterio: Mira la silueta de 
 - **Incorrecto:** La red dendrítica forma obligatoriamente círculos perfectos alrededor de la capital.
 - **Incorrecto:** Una red lineal carece de cualquier eje territorial dominante.
 
-<!-- VISUAL PENDIENTE: t32-29-formas-de-la-red-urbana.webp -->
+<!-- VISUAL:t32-29-formas-de-la-red-urbana.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-29-formas-de-la-red-urbana.webp" alt="Formas de la red urbana" width="820">
+</p>
+<p align="center"><em>Infografía: Formas de la red urbana.</em></p>
 
 :::hablemos-claro
 Mira la silueta de las conexiones: mancha, línea, radios o ramas.
@@ -1014,7 +1130,11 @@ Para dominar **población absoluta y población relativa**, usa este criterio: A
 - **Incorrecto:** Población absoluta es el número de habitantes por kilómetro cuadrado.
 - **Incorrecto:** Una cifra de población mantiene el mismo significado sin fecha ni territorio.
 
-<!-- VISUAL PENDIENTE: t32-30-poblacion-absoluta-y-poblacion-relativa.webp -->
+<!-- VISUAL:t32-30-poblacion-absoluta-y-poblacion-relativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-30-poblacion-absoluta-y-poblacion-relativa.webp" alt="Población absoluta y población relativa" width="820">
+</p>
+<p align="center"><em>Infografía: Población absoluta y población relativa.</em></p>
 
 :::hablemos-claro
 Absoluta cuenta personas; relativa pone la cifra en relación con otra magnitud.
@@ -1048,7 +1168,11 @@ Para dominar **distribución de la población**, usa este criterio: Separa estad
 - **Incorrecto:** Baja densidad y despoblación son siempre el mismo fenómeno.
 - **Incorrecto:** La concentración urbana solo produce beneficios y carece de costes.
 
-<!-- VISUAL PENDIENTE: t32-31-distribucion-de-la-poblacion.webp -->
+<!-- VISUAL:t32-31-distribucion-de-la-poblacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-31-distribucion-de-la-poblacion.webp" alt="Distribución de la población" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de la población.</em></p>
 
 :::hablemos-claro
 Separa estado y tendencia: baja densidad es una foto; despoblación, una trayectoria.
@@ -1082,7 +1206,11 @@ Para dominar **estructura por sexo y edad**, usa este criterio: El total puede n
 - **Incorrecto:** Los grupos de edad tienen límites idénticos en toda estadística y país.
 - **Incorrecto:** Una población total estable mantiene necesariamente la misma estructura por edad.
 
-<!-- VISUAL PENDIENTE: t32-32-estructura-por-sexo-y-edad.webp -->
+<!-- VISUAL:t32-32-estructura-por-sexo-y-edad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-32-estructura-por-sexo-y-edad.webp" alt="Estructura por sexo y edad" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura por sexo y edad.</em></p>
 
 :::hablemos-claro
 El total puede no moverse mientras cambia por completo quiénes lo componen.
@@ -1116,7 +1244,11 @@ Para dominar **pirámides de población**, usa este criterio: Base ancha expande
 - **Incorrecto:** Una pirámide estacionaria se caracteriza por crecimiento necesariamente explosivo.
 - **Incorrecto:** La forma de la pirámide depende solo del saldo migratorio del último año.
 
-<!-- VISUAL PENDIENTE: t32-33-piramides-de-poblacion.webp -->
+<!-- VISUAL:t32-33-piramides-de-poblacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-33-piramides-de-poblacion.webp" alt="Pirámides de población" width="820">
+</p>
+<p align="center"><em>Infografía: Pirámides de población.</em></p>
 
 :::hablemos-claro
 Base ancha expande; lados equilibrados estacionan; base estrecha envejece.
@@ -1150,7 +1282,11 @@ Para dominar **estructura económica y actividad**, usa este criterio: Activa su
 - **Incorrecto:** Toda persona sin empleo pertenece automáticamente a la población parada.
 - **Incorrecto:** La población activa excluye a todas las personas ocupadas.
 
-<!-- VISUAL PENDIENTE: t32-34-estructura-economica-y-actividad.webp -->
+<!-- VISUAL:t32-34-estructura-economica-y-actividad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-34-estructura-economica-y-actividad.webp" alt="Estructura económica y actividad" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura económica y actividad.</em></p>
 
 :::hablemos-claro
 Activa suma ocupadas y paradas; sin empleo no basta para ser parada estadística.
@@ -1184,7 +1320,11 @@ Para dominar **estructura social, posición y rol**, usa este criterio: Estatus 
 - **Incorrecto:** Estatus y rol son términos idénticos: ambos designan únicamente conducta.
 - **Incorrecto:** Una persona solo puede ocupar una posición social durante toda su vida.
 
-<!-- VISUAL PENDIENTE: t32-il-35-estructura-social-posicion-y-rol.webp -->
+<!-- VISUAL:t32-il-35-estructura-social-posicion-y-rol.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-35-estructura-social-posicion-y-rol.webp" alt="Estructura social, posición y rol" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura social, posición y rol.</em></p>
 
 :::hablemos-claro
 Estatus responde dónde estás; rol, qué se espera que hagas.
@@ -1218,7 +1358,11 @@ Para dominar **estratificación y movilidad social**, usa este criterio: Vertica
 - **Incorrecto:** Movilidad horizontal significa necesariamente ascender a una clase superior.
 - **Incorrecto:** La estratificación se limita a diferencias de edad sin poder ni recursos.
 
-<!-- VISUAL PENDIENTE: t32-36-estratificacion-y-movilidad-social.webp -->
+<!-- VISUAL:t32-36-estratificacion-y-movilidad-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-36-estratificacion-y-movilidad-social.webp" alt="Estratificación y movilidad social" width="820">
+</p>
+<p align="center"><em>Infografía: Estratificación y movilidad social.</em></p>
 
 :::hablemos-claro
 Vertical cambia escalón; horizontal cambia lugar; intergeneracional compara generaciones.
@@ -1252,7 +1396,11 @@ Para dominar **grupos sociales y categorías estadísticas**, usa este criterio:
 - **Incorrecto:** Compartir edad convierte automáticamente a todas las personas en un grupo con interacción.
 - **Incorrecto:** Grupo formal y grupo primario son siempre la misma categoría.
 
-<!-- VISUAL PENDIENTE: t32-37-grupos-sociales-y-categorias-estadisticas.webp -->
+<!-- VISUAL:t32-37-grupos-sociales-y-categorias-estadisticas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-37-grupos-sociales-y-categorias-estadisticas.webp" alt="Grupos sociales y categorías estadísticas" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos sociales y categorías estadísticas.</em></p>
 
 :::hablemos-claro
 No confundas casilla estadística con grupo: falta interacción o identidad compartida.
@@ -1286,7 +1434,11 @@ Para dominar **fuentes demográficas y territoriales**, usa este criterio: Censo
 - **Incorrecto:** Censo y padrón son el mismo registro administrativo con idéntica finalidad.
 - **Incorrecto:** El Registro Civil calcula por sí solo todas las migraciones interiores.
 
-<!-- VISUAL PENDIENTE: t32-38-fuentes-demograficas-y-territoriales.webp -->
+<!-- VISUAL:t32-38-fuentes-demograficas-y-territoriales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-38-fuentes-demograficas-y-territoriales.webp" alt="Fuentes demográficas y territoriales" width="820">
+</p>
+<p align="center"><em>Infografía: Fuentes demográficas y territoriales.</em></p>
 
 :::hablemos-claro
 Censo describe; padrón registra vecinos; Registro Civil documenta hechos vitales.
@@ -1320,7 +1472,11 @@ Para dominar **concepto y dimensiones de la demografía**, usa este criterio: Fo
 - **Incorrecto:** Demografía estudia únicamente mapas urbanos y no cambios de población.
 - **Incorrecto:** Un stock cuenta sucesos ocurridos durante un año y una tasa es siempre un número absoluto.
 
-<!-- VISUAL PENDIENTE: t32-39-concepto-y-dimensiones-de-la-demografia.webp -->
+<!-- VISUAL:t32-39-concepto-y-dimensiones-de-la-demografia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-39-concepto-y-dimensiones-de-la-demografia.webp" alt="Concepto y dimensiones de la demografía" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y dimensiones de la demografía.</em></p>
 
 :::hablemos-claro
 Foto: stock y estructura; película: nacimientos, defunciones y migraciones.
@@ -1354,7 +1510,11 @@ Para dominar **densidad demográfica**, usa este criterio: Fórmula limpia: habi
 - **Incorrecto:** La densidad se obtiene restando defunciones a nacimientos.
 - **Incorrecto:** Población relativa es sinónimo de número total de habitantes.
 
-<!-- VISUAL PENDIENTE: t32-40-densidad-demografica.webp -->
+<!-- VISUAL:t32-40-densidad-demografica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-40-densidad-demografica.webp" alt="Densidad demográfica" width="820">
+</p>
+<p align="center"><em>Infografía: Densidad demográfica.</em></p>
 
 :::hablemos-claro
 Fórmula limpia: habitantes entre km²; interpretación prudente: la media no dibuja el asentamiento.
@@ -1388,7 +1548,11 @@ Para dominar **tasa bruta de natalidad**, usa este criterio: Nacimientos / pobla
 - **Incorrecto:** La tasa bruta de natalidad usa como denominador exclusivo a mujeres de 15 a 49 años.
 - **Incorrecto:** El número absoluto de nacimientos permite comparar sin ajuste territorios de cualquier tamaño.
 
-<!-- VISUAL PENDIENTE: t32-41-tasa-bruta-de-natalidad.webp -->
+<!-- VISUAL:t32-41-tasa-bruta-de-natalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-41-tasa-bruta-de-natalidad.webp" alt="Tasa bruta de natalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Tasa bruta de natalidad.</em></p>
 
 :::hablemos-claro
 Nacimientos / población media × 1.000; bruta significa que usa toda la población.
@@ -1422,7 +1586,11 @@ Para dominar **tasa bruta de mortalidad**, usa este criterio: La estructura por 
 - **Incorrecto:** Una tasa bruta alta demuestra por sí sola peor sistema sanitario.
 - **Incorrecto:** La tasa de mortalidad se obtiene dividiendo nacimientos entre mujeres en edad fértil.
 
-<!-- VISUAL PENDIENTE: t32-42-tasa-bruta-de-mortalidad.webp -->
+<!-- VISUAL:t32-42-tasa-bruta-de-mortalidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-42-tasa-bruta-de-mortalidad.webp" alt="Tasa bruta de mortalidad" width="820">
+</p>
+<p align="center"><em>Infografía: Tasa bruta de mortalidad.</em></p>
 
 :::hablemos-claro
 La estructura por edad puede engañar a la tasa bruta; no confundas nivel con causa.
@@ -1456,7 +1624,11 @@ Para dominar **crecimiento vegetativo o natural**, usa este criterio: Natural = 
 - **Incorrecto:** Un crecimiento vegetativo negativo significa que nacen más personas de las que mueren.
 - **Incorrecto:** El saldo vegetativo suma automáticamente el saldo migratorio.
 
-<!-- VISUAL PENDIENTE: t32-43-crecimiento-vegetativo-o-natural.webp -->
+<!-- VISUAL:t32-43-crecimiento-vegetativo-o-natural.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-43-crecimiento-vegetativo-o-natural.webp" alt="Crecimiento vegetativo o natural" width="820">
+</p>
+<p align="center"><em>Infografía: Crecimiento vegetativo o natural.</em></p>
 
 :::hablemos-claro
 Natural = nacimientos − defunciones; total añade después la migración.
@@ -1490,7 +1662,11 @@ Para dominar **crecimiento total y saldo migratorio**, usa este criterio: Ecuaci
 - **Incorrecto:** Saldo migratorio es nacimientos menos defunciones.
 - **Incorrecto:** Con saldo vegetativo negativo la población total debe disminuir siempre.
 
-<!-- VISUAL PENDIENTE: t32-44-crecimiento-total-y-saldo-migratorio.webp -->
+<!-- VISUAL:t32-44-crecimiento-total-y-saldo-migratorio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-44-crecimiento-total-y-saldo-migratorio.webp" alt="Crecimiento total y saldo migratorio" width="820">
+</p>
+<p align="center"><em>Infografía: Crecimiento total y saldo migratorio.</em></p>
 
 :::hablemos-claro
 Ecuación de control: total = natural + migratorio; el signo final depende de ambos.
@@ -1524,7 +1700,11 @@ Para dominar **natalidad, fecundidad y reproducción**, usa este criterio: Natal
 - **Incorrecto:** Natalidad y fecundidad usan siempre idéntico denominador.
 - **Incorrecto:** Fertilidad demográfica significa número efectivo de hijos ya nacidos.
 
-<!-- VISUAL PENDIENTE: t32-45-natalidad-fecundidad-y-reproduccion.webp -->
+<!-- VISUAL:t32-45-natalidad-fecundidad-y-reproduccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-45-natalidad-fecundidad-y-reproduccion.webp" alt="Natalidad, fecundidad y reproducción" width="820">
+</p>
+<p align="center"><em>Infografía: Natalidad, fecundidad y reproducción.</em></p>
 
 :::hablemos-claro
 Natalidad mira toda la población; fecundidad centra la población expuesta; fertilidad alude a capacidad.
@@ -1558,7 +1738,11 @@ Para dominar **mortalidad infantil y esperanza de vida**, usa este criterio: Son
 - **Incorrecto:** Esperanza de vida es la edad que alcanzará con certeza toda persona nacida ese año.
 - **Incorrecto:** La mortalidad infantil divide todas las defunciones entre la población total.
 
-<!-- VISUAL PENDIENTE: t32-46-mortalidad-infantil-y-esperanza-de-vida.webp -->
+<!-- VISUAL:t32-46-mortalidad-infantil-y-esperanza-de-vida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-46-mortalidad-infantil-y-esperanza-de-vida.webp" alt="Mortalidad infantil y esperanza de vida" width="820">
+</p>
+<p align="center"><em>Infografía: Mortalidad infantil y esperanza de vida.</em></p>
 
 :::hablemos-claro
 Son indicadores sintéticos, no profecías individuales.
@@ -1592,7 +1776,11 @@ Para dominar **tasas brutas, específicas y estandarizadas**, usa este criterio:
 - **Incorrecto:** Una tasa específica usa siempre toda la población sin distinguir grupos.
 - **Incorrecto:** Razón y proporción son necesariamente idénticas en numerador y denominador.
 
-<!-- VISUAL PENDIENTE: t32-47-tasas-brutas-especificas-y-estandarizadas.webp -->
+<!-- VISUAL:t32-47-tasas-brutas-especificas-y-estandarizadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-47-tasas-brutas-especificas-y-estandarizadas.webp" alt="Tasas brutas, específicas y estandarizadas" width="820">
+</p>
+<p align="center"><em>Infografía: Tasas brutas, específicas y estandarizadas.</em></p>
 
 :::hablemos-claro
 Bruta resume; específica enfoca; estandarizada compara con mayor limpieza.
@@ -1626,7 +1814,11 @@ Para dominar **transición demográfica**, usa este criterio: El desfase entre c
 - **Incorrecto:** La transición comienza siempre con natalidad baja y mortalidad nula.
 - **Incorrecto:** Natalidad y mortalidad descienden obligatoriamente el mismo año y al mismo ritmo.
 
-<!-- VISUAL PENDIENTE: t32-48-transicion-demografica.webp -->
+<!-- VISUAL:t32-48-transicion-demografica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-48-transicion-demografica.webp" alt="Transición demográfica" width="820">
+</p>
+<p align="center"><em>Infografía: Transición demográfica.</em></p>
 
 :::hablemos-claro
 El desfase entre caída de mortalidad y natalidad explica el gran crecimiento transicional.
@@ -1660,7 +1852,11 @@ Para dominar **regímenes demográficos y envejecimiento**, usa este criterio: L
 - **Incorrecto:** Envejecimiento significa solo que cada persona cumple años, sin cambio de estructura.
 - **Incorrecto:** El índice de dependencia mide con exactitud quién trabaja y quién recibe ayuda económica.
 
-<!-- VISUAL PENDIENTE: t32-49-regimenes-demograficos-y-envejecimiento.webp -->
+<!-- VISUAL:t32-49-regimenes-demograficos-y-envejecimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-49-regimenes-demograficos-y-envejecimiento.webp" alt="Regímenes demográficos y envejecimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Regímenes demográficos y envejecimiento.</em></p>
 
 :::hablemos-claro
 Los índices usan grupos de edad convencionales; describen estructura, no conducta laboral individual.
@@ -1694,7 +1890,11 @@ Para dominar **masa, multitud, público y grupo**, usa este criterio: Cuerpo jun
 - **Incorrecto:** Toda masa ocupa necesariamente el mismo espacio físico al mismo tiempo.
 - **Incorrecto:** Público y grupo estable son sinónimos exactos.
 
-<!-- VISUAL PENDIENTE: t32-50-masa-multitud-publico-y-grupo.webp -->
+<!-- VISUAL:t32-50-masa-multitud-publico-y-grupo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-50-masa-multitud-publico-y-grupo.webp" alt="Masa, multitud, público y grupo" width="820">
+</p>
+<p align="center"><em>Infografía: Masa, multitud, público y grupo.</em></p>
 
 :::hablemos-claro
 Cuerpo junto: multitud; atención compartida: público; interacción estable: grupo.
@@ -1728,7 +1928,11 @@ Para dominar **características de la sociedad de masas**, usa este criterio: Gr
 - **Incorrecto:** La sociedad de masas elimina toda diversidad de públicos y estilos.
 - **Incorrecto:** Urbanización y alfabetización impiden cualquier asociación voluntaria.
 
-<!-- VISUAL PENDIENTE: t32-51-caracteristicas-de-la-sociedad-de-masas.webp -->
+<!-- VISUAL:t32-51-caracteristicas-de-la-sociedad-de-masas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-51-caracteristicas-de-la-sociedad-de-masas.webp" alt="Características de la sociedad de masas" width="820">
+</p>
+<p align="center"><em>Infografía: Características de la sociedad de masas.</em></p>
 
 :::hablemos-claro
 Gran escala no significa uniformidad total: estandariza algunas vías y multiplica otras.
@@ -1762,7 +1966,11 @@ Para dominar **gustave le bon y la psicología de las multitudes**, usa este cri
 - **Incorrecto:** Le Bon analizó exclusivamente públicos dispersos que debaten racionalmente por prensa.
 - **Incorrecto:** Toda multitud comete necesariamente violencia por una ley psicológica universal.
 
-<!-- VISUAL PENDIENTE: t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp -->
+<!-- VISUAL:t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-52-gustave-le-bon-y-la-psicologia-de-las-multitudes.webp" alt="Gustave Le Bon y la psicología de las multitudes" width="820">
+</p>
+<p align="center"><em>Infografía: Gustave Le Bon y la psicología de las multitudes.</em></p>
 
 :::hablemos-claro
 Memoriza sus tres claves y también el límite: es una teoría histórica, no una condena de toda concentración.
@@ -1796,7 +2004,11 @@ Para dominar **gabriel tarde: públicos, imitación y opinión**, usa este crite
 - **Incorrecto:** Para Tarde, el público exige contacto corporal simultáneo en una plaza.
 - **Incorrecto:** Imitación significa copia automática sin interacción ni interpretación.
 
-<!-- VISUAL PENDIENTE: t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp -->
+<!-- VISUAL:t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-53-gabriel-tarde-publicos-imitacion-y-opinion.webp" alt="Gabriel Tarde: públicos, imitación y opinión" width="820">
+</p>
+<p align="center"><em>Infografía: Gabriel Tarde: públicos, imitación y opinión.</em></p>
 
 :::hablemos-claro
 Le Bon mira la multitud reunida; Tarde abre el análisis al público conectado a distancia.
@@ -1830,7 +2042,11 @@ Para dominar **ortega y gasset y el hombre-masa**, usa este criterio: En Ortega,
 - **Incorrecto:** Hombre-masa significa exclusivamente trabajador pobre reunido en una manifestación.
 - **Incorrecto:** Minoría excelente designa por nacimiento una aristocracia jurídica.
 
-<!-- VISUAL PENDIENTE: t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp -->
+<!-- VISUAL:t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-54-ortega-y-gasset-y-el-hombre-masa.webp" alt="Ortega y Gasset y el hombre-masa" width="820">
+</p>
+<p align="center"><em>Infografía: Ortega y Gasset y el hombre-masa.</em></p>
 
 :::hablemos-claro
 En Ortega, masa es una actitud de baja autoexigencia, no una nómina ni un aforo.
@@ -1864,7 +2080,11 @@ Para dominar **elias canetti y los tipos de masa**, usa este criterio: Canetti c
 - **Incorrecto:** La clasificación de masas de guerra, acoso, inversión, festiva y lamento pertenece a Homer Hoyt.
 - **Incorrecto:** Las categorías de Canetti son infracciones administrativas tipificadas.
 
-<!-- VISUAL PENDIENTE: t32-il-55-elias-canetti-y-los-tipos-de-masa.webp -->
+<!-- VISUAL:t32-il-55-elias-canetti-y-los-tipos-de-masa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-55-elias-canetti-y-los-tipos-de-masa.webp" alt="Elias Canetti y los tipos de masa" width="820">
+</p>
+<p align="center"><em>Infografía: Elias Canetti y los tipos de masa.</em></p>
 
 :::hablemos-claro
 Canetti clasifica la dirección afectiva de la masa; no confundas su ensayo con una norma.
@@ -1898,7 +2118,11 @@ Para dominar **medio ambiente, contaminación y contaminante**, usa este criteri
 - **Incorrecto:** Toda transformación humana del territorio es jurídicamente contaminación.
 - **Incorrecto:** Un contaminante solo puede ser una sustancia sólida visible.
 
-<!-- VISUAL PENDIENTE: t32-56-medio-ambiente-contaminacion-y-contaminante.webp -->
+<!-- VISUAL:t32-56-medio-ambiente-contaminacion-y-contaminante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-56-medio-ambiente-contaminacion-y-contaminante.webp" alt="Medio ambiente, contaminación y contaminante" width="820">
+</p>
+<p align="center"><em>Infografía: Medio ambiente, contaminación y contaminante.</em></p>
 
 :::hablemos-claro
 Separa agente, medio y efecto; la contaminación puede viajar como materia o energía.
@@ -1932,7 +2156,11 @@ Para dominar **fuente, vía, receptor y escala del impacto**, usa este criterio:
 - **Incorrecto:** Una fuente difusa se localiza siempre en un único conducto de descarga.
 - **Incorrecto:** El receptor es necesariamente la empresa que emite el contaminante.
 
-<!-- VISUAL PENDIENTE: t32-57-fuente-via-receptor-y-escala-del-impacto.webp -->
+<!-- VISUAL:t32-57-fuente-via-receptor-y-escala-del-impacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-57-fuente-via-receptor-y-escala-del-impacto.webp" alt="Fuente, vía, receptor y escala del impacto" width="820">
+</p>
+<p align="center"><em>Infografía: Fuente, vía, receptor y escala del impacto.</em></p>
 
 :::hablemos-claro
 Cadena de control: fuente → vía → receptor → efecto; cuanto antes cortes, mejor.
@@ -1966,7 +2194,11 @@ Para dominar **contaminación atmosférica**, usa este criterio: Emisión sale d
 - **Incorrecto:** Un contaminante secundario se emite siempre directamente por una chimenea.
 - **Incorrecto:** Emisión e inmisión son el mismo punto de medición.
 
-<!-- VISUAL PENDIENTE: t32-58-contaminacion-atmosferica.webp -->
+<!-- VISUAL:t32-58-contaminacion-atmosferica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-58-contaminacion-atmosferica.webp" alt="Contaminación atmosférica" width="820">
+</p>
+<p align="center"><em>Infografía: Contaminación atmosférica.</em></p>
 
 :::hablemos-claro
 Emisión sale de la fuente; inmisión llega al aire que respira el receptor.
@@ -2000,7 +2232,11 @@ Para dominar **contaminación del agua y del suelo**, usa este criterio: El cont
 - **Incorrecto:** Toda contaminación del agua procede de un único tubo visible.
 - **Incorrecto:** Un suelo se declara contaminado solo por cambiar de color.
 
-<!-- VISUAL PENDIENTE: t32-59-contaminacion-del-agua-y-del-suelo.webp -->
+<!-- VISUAL:t32-59-contaminacion-del-agua-y-del-suelo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-59-contaminacion-del-agua-y-del-suelo.webp" alt="Contaminación del agua y del suelo" width="820">
+</p>
+<p align="center"><em>Infografía: Contaminación del agua y del suelo.</em></p>
 
 :::hablemos-claro
 El contaminante cruza fronteras entre suelo, agua superficial y acuífero; no estudies los medios como cajas aisladas.
@@ -2034,7 +2270,11 @@ Para dominar **residuos, subproductos y economía circular**, usa este criterio:
 - **Incorrecto:** Todo objeto con valor de reventa deja automáticamente de ser residuo.
 - **Incorrecto:** Prevenir residuos significa exclusivamente depositarlos después en un vertedero.
 
-<!-- VISUAL PENDIENTE: t32-60-residuos-subproductos-y-economia-circular.webp -->
+<!-- VISUAL:t32-60-residuos-subproductos-y-economia-circular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-60-residuos-subproductos-y-economia-circular.webp" alt="Residuos, subproductos y economía circular" width="820">
+</p>
+<p align="center"><em>Infografía: Residuos, subproductos y economía circular.</em></p>
 
 :::hablemos-claro
 La mejor gestión empieza antes del residuo: diseño, duración, reparación y reutilización.
@@ -2068,7 +2308,11 @@ Para dominar **ruido, luz, calor y radiaciones**, usa este criterio: Materia no 
 - **Incorrecto:** La contaminación acústica solo existe cuando rompe físicamente un edificio.
 - **Incorrecto:** Toda radiación tiene la misma energía, penetración y efecto biológico.
 
-<!-- VISUAL PENDIENTE: t32-il-61-ruido-luz-calor-y-radiaciones.webp -->
+<!-- VISUAL:t32-il-61-ruido-luz-calor-y-radiaciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-61-ruido-luz-calor-y-radiaciones.webp" alt="Ruido, luz, calor y radiaciones" width="820">
+</p>
+<p align="center"><em>Infografía: Ruido, luz, calor y radiaciones.</em></p>
 
 :::hablemos-claro
 Materia no es la única vía: ruido, luz, calor y radiación también alteran el medio.
@@ -2102,7 +2346,11 @@ Para dominar **efectos sobre salud, ecosistemas y clima**, usa este criterio: Pr
 - **Incorrecto:** La contaminación solo causa efectos inmediatos y nunca crónicos.
 - **Incorrecto:** Cambio climático y contaminación atmosférica designan exactamente el mismo fenómeno.
 
-<!-- VISUAL PENDIENTE: t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp -->
+<!-- VISUAL:t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-62-efectos-sobre-salud-ecosistemas-y-clima.webp" alt="Efectos sobre salud, ecosistemas y clima" width="820">
+</p>
+<p align="center"><em>Infografía: Efectos sobre salud, ecosistemas y clima.</em></p>
 
 :::hablemos-claro
 Pregunta siempre dosis, tiempo, vía, receptor y combinación con otros impactos.
@@ -2136,7 +2384,11 @@ Para dominar **artículo 45 de la constitución**, usa este criterio: Regla 45: 
 - **Incorrecto:** El artículo 45 reconoce solo un derecho y omite deber, restauración y sanciones.
 - **Incorrecto:** La Constitución atribuye el medio ambiente exclusivamente a decisiones privadas sin intervención pública.
 
-<!-- VISUAL PENDIENTE: t32-63-articulo-45-de-la-constitucion.webp -->
+<!-- VISUAL:t32-63-articulo-45-de-la-constitucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-63-articulo-45-de-la-constitucion.webp" alt="Artículo 45 de la Constitución" width="820">
+</p>
+<p align="center"><em>Infografía: Artículo 45 de la Constitución.</em></p>
 
 :::hablemos-claro
 Regla 45: disfrutar y conservar; usar racionalmente, defender y restaurar; sancionar y reparar.
@@ -2170,7 +2422,11 @@ Para dominar **principios de protección ambiental**, usa este criterio: Preveni
 - **Incorrecto:** El principio quien contamina paga permite contaminar libremente pagando una tarifa.
 - **Incorrecto:** Precaución solo puede aplicarse cuando el daño ya está demostrado con certeza absoluta.
 
-<!-- VISUAL PENDIENTE: t32-64-principios-de-proteccion-ambiental.webp -->
+<!-- VISUAL:t32-64-principios-de-proteccion-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-64-principios-de-proteccion-ambiental.webp" alt="Principios de protección ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de protección ambiental.</em></p>
 
 :::hablemos-claro
 Prevenir antes, actuar con cautela ante incertidumbre y cargar el coste al responsable.
@@ -2204,7 +2460,11 @@ Para dominar **evaluación ambiental y control preventivo**, usa este criterio: 
 - **Incorrecto:** La evaluación ambiental se realiza únicamente después de ejecutar el proyecto.
 - **Incorrecto:** La evaluación estratégica es el procedimiento exclusivo para una obra concreta.
 
-<!-- VISUAL PENDIENTE: t32-65-evaluacion-ambiental-y-control-preventivo.webp -->
+<!-- VISUAL:t32-65-evaluacion-ambiental-y-control-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-65-evaluacion-ambiental-y-control-preventivo.webp" alt="Evaluación ambiental y control preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación ambiental y control preventivo.</em></p>
 
 :::hablemos-claro
 Plan o programa: estratégica; proyecto: impacto; ambos deben actuar antes de decidir.
@@ -2238,7 +2498,11 @@ Para dominar **jerarquía de residuos y responsabilidad ambiental**, usa este cr
 - **Incorrecto:** La eliminación es siempre la primera opción de la jerarquía de residuos.
 - **Incorrecto:** Responsabilidad ambiental significa pagar una multa sin prevenir ni reparar el daño.
 
-<!-- VISUAL PENDIENTE: t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp -->
+<!-- VISUAL:t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-66-jerarquia-de-residuos-y-responsabilidad-ambiental.webp" alt="Jerarquía de residuos y responsabilidad ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía de residuos y responsabilidad ambiental.</em></p>
 
 :::hablemos-claro
 Primero evita crear residuo; si hay daño, la respuesta no termina en sancionar: hay que reparar.
@@ -2272,7 +2536,11 @@ Para dominar **información, participación y justicia ambiental**, usa este cri
 - **Incorrecto:** El Consejo Asesor de Medio Ambiente dicta sentencias y sanciones penales.
 - **Incorrecto:** La participación ambiental se abre solo después de adoptar una decisión irreversible.
 
-<!-- VISUAL PENDIENTE: t32-67-informacion-participacion-y-justicia-ambiental.webp -->
+<!-- VISUAL:t32-67-informacion-participacion-y-justicia-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-67-informacion-participacion-y-justicia-ambiental.webp" alt="Información, participación y justicia ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Información, participación y justicia ambiental.</em></p>
 
 :::hablemos-claro
 Tres puertas ciudadanas: información, participación y justicia; el Consejo asesora y hace seguimiento.
@@ -2306,7 +2574,11 @@ Para dominar **agencia europea de medio ambiente**, usa este criterio: AEMA info
 - **Incorrecto:** La AEMA es una agencia sanitaria con sede en Lyon.
 - **Incorrecto:** La AEMA aprueba por sí sola todas las leyes ambientales de los Estados miembros.
 
-<!-- VISUAL PENDIENTE: t32-il-68-agencia-europea-de-medio-ambiente.webp -->
+<!-- VISUAL:t32-il-68-agencia-europea-de-medio-ambiente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-il-68-agencia-europea-de-medio-ambiente.webp" alt="Agencia Europea de Medio Ambiente" width="820">
+</p>
+<p align="center"><em>Infografía: Agencia Europea de Medio Ambiente.</em></p>
 
 :::hablemos-claro
 AEMA informa y evalúa; no legisla. Sede: Copenhague.
@@ -2340,7 +2612,11 @@ Para dominar **competencias, vigilancia y respuesta ambiental**, usa este criter
 - **Incorrecto:** Existe una única autoridad ambiental que asume en exclusiva todas las materias y territorios.
 - **Incorrecto:** La actuación policial sustituye cualquier análisis técnico, autorización y restauración ambiental.
 
-<!-- VISUAL PENDIENTE: t32-69-competencias-vigilancia-y-respuesta-ambiental.webp -->
+<!-- VISUAL:t32-69-competencias-vigilancia-y-respuesta-ambiental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-32/t32-69-competencias-vigilancia-y-respuesta-ambiental.webp" alt="Competencias, vigilancia y respuesta ambiental" width="820">
+</p>
+<p align="center"><em>Infografía: Competencias, vigilancia y respuesta ambiental.</em></p>
 
 :::hablemos-claro
 Proteger el medio exige datos, competencias claras, coordinación y una cadena de custodia sólida.

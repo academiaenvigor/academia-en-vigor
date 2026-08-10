@@ -19,7 +19,11 @@ La globalización describe la extensión de relaciones, instituciones, decisione
 - La interdependencia aumenta cuando una decisión o crisis localizada produce efectos relevantes en otros territorios y sistemas conectados.
 - Globalización no equivale a uniformidad total: conecta espacios y puede homogeneizar algunas prácticas mientras mantiene o reactiva diferencias locales.
 
-<!-- VISUAL PENDIENTE: t28-il-01-concepto-general-de-globalizacion.webp -->
+<!-- VISUAL:t28-il-01-concepto-general-de-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-01-concepto-general-de-globalizacion.webp" alt="Concepto general de globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto general de globalización.</em></p>
 
 <!-- FUENTE: RAE-GLOBAL-T28 -->
 
@@ -32,7 +36,11 @@ La globalización económica implica una creciente integración transfronteriza 
 - La apertura económica es una política que facilita intercambios; la globalización es el proceso más amplio que resulta de múltiples políticas, tecnologías y decisiones privadas.
 - Integración no elimina la capacidad pública: desplaza parte de los problemas hacia niveles de coordinación regional y multilateral.
 
-<!-- VISUAL PENDIENTE: t28-02-globalizacion-economica-e-interdependencia.webp -->
+<!-- VISUAL:t28-02-globalizacion-economica-e-interdependencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-02-globalizacion-economica-e-interdependencia.webp" alt="Globalización económica e interdependencia" width="820">
+</p>
+<p align="center"><em>Infografía: Globalización económica e interdependencia.</em></p>
 
 <!-- FUENTE: ONU-GLOBAL-T28 -->
 
@@ -45,7 +53,11 @@ Los intercambios a larga distancia, las migraciones, los imperios y la difusión
 - Las guerras mundiales y la crisis de entreguerras interrumpieron y reordenaron flujos, demostrando que la globalización no avanza de forma lineal e irreversible.
 - Tras 1945 se construyó un marco multilateral de cooperación económica que impulsó nuevas etapas de apertura e integración.
 
-<!-- VISUAL PENDIENTE: t28-03-antecedentes-historicos-de-la-integracion-mundial.webp -->
+<!-- VISUAL:t28-03-antecedentes-historicos-de-la-integracion-mundial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-03-antecedentes-historicos-de-la-integracion-mundial.webp" alt="Antecedentes históricos de la integración mundial" width="820">
+</p>
+<p align="center"><em>Infografía: Antecedentes históricos de la integración mundial.</em></p>
 
 <!-- FUENTE: WTO-HISTORY-T28 -->
 
@@ -58,7 +70,11 @@ El GATT entró en vigor el 1 de enero de 1948 y proporcionó reglas para gran pa
 - El Acuerdo de Marrakech por el que se establece la OMC se firmó el 15 de abril de 1994 y la organización comenzó a funcionar el 1 de enero de 1995.
 - La OMC amplió el marco multilateral más allá de mercancías, incorporando servicios y aspectos comerciales de la propiedad intelectual.
 
-<!-- VISUAL PENDIENTE: t28-04-gatt-ronda-uruguay-y-nacimiento-de-la-omc.webp -->
+<!-- VISUAL:t28-04-gatt-ronda-uruguay-y-nacimiento-de-la-omc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-04-gatt-ronda-uruguay-y-nacimiento-de-la-omc.webp" alt="GATT, Ronda Uruguay y nacimiento de la OMC" width="820">
+</p>
+<p align="center"><em>Infografía: GATT, Ronda Uruguay y nacimiento de la OMC.</em></p>
 
 <!-- FUENTE: WTO-HISTORY-T28 -->
 
@@ -71,7 +87,11 @@ La reducción de costes de transporte y comunicación permite coordinar activida
 - La conectividad aumenta la velocidad de propagación tanto de innovaciones como de desinformación, fraudes, ciberamenazas y crisis.
 - La tecnología facilita la integración, pero sus efectos dependen de normas, capacidades, competencia, educación e infraestructuras.
 
-<!-- VISUAL PENDIENTE: t28-il-05-tecnologia-como-motor-de-la-globalizacion.webp -->
+<!-- VISUAL:t28-il-05-tecnologia-como-motor-de-la-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-05-tecnologia-como-motor-de-la-globalizacion.webp" alt="Tecnología como motor de la globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Tecnología como motor de la globalización.</em></p>
 
 <!-- FUENTE: OECD-MEASURE-T28 -->
 
@@ -84,7 +104,11 @@ La liberalización comercial reduce o disciplina obstáculos al intercambio medi
 - Liberalizar no significa ausencia de reglas: el sistema multilateral funciona mediante reglas, compromisos, excepciones y mecanismos de solución de diferencias.
 - La apertura puede aumentar oportunidades, pero requiere políticas internas de adaptación, competencia, protección social y formación.
 
-<!-- VISUAL PENDIENTE: t28-06-liberalizacion-y-decisiones-publicas.webp -->
+<!-- VISUAL:t28-06-liberalizacion-y-decisiones-publicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-06-liberalizacion-y-decisiones-publicas.webp" alt="Liberalización y decisiones públicas" width="820">
+</p>
+<p align="center"><em>Infografía: Liberalización y decisiones públicas.</em></p>
 
 <!-- FUENTE: WTO-INBRIEF-T28 -->
 
@@ -97,7 +121,11 @@ Una empresa multinacional controla o coordina actividades en más de un país y 
 - La deslocalización traslada una actividad a otro territorio; la externalización encarga una actividad a otra empresa y ambas decisiones pueden coincidir o no.
 - Las cadenas globales generan especialización y eficiencia, pero también dependencia de proveedores, rutas, tecnologías y decisiones concentradas.
 
-<!-- VISUAL PENDIENTE: t28-07-empresas-multinacionales-y-cadenas-globales-de-valor.webp -->
+<!-- VISUAL:t28-07-empresas-multinacionales-y-cadenas-globales-de-valor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-07-empresas-multinacionales-y-cadenas-globales-de-valor.webp" alt="Empresas multinacionales y cadenas globales de valor" width="820">
+</p>
+<p align="center"><em>Infografía: Empresas multinacionales y cadenas globales de valor.</em></p>
 
 <!-- FUENTE: WB-GVC-T28 -->
 
@@ -110,7 +138,11 @@ La globalización financiera incrementa las operaciones, inversiones y movimient
 - La velocidad de los flujos exige supervisión financiera, transparencia, cooperación y políticas macroeconómicas capaces de gestionar vulnerabilidades.
 - Integración financiera y globalización comercial son dimensiones relacionadas, pero no idénticas: una puede avanzar o retroceder a distinto ritmo.
 
-<!-- VISUAL PENDIENTE: t28-08-globalizacion-financiera.webp -->
+<!-- VISUAL:t28-08-globalizacion-financiera.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-08-globalizacion-financiera.webp" alt="Globalización financiera" width="820">
+</p>
+<p align="center"><em>Infografía: Globalización financiera.</em></p>
 
 <!-- FUENTE: IMF-GLOBAL-T28 -->
 
@@ -123,7 +155,11 @@ La dimensión económica comprende comercio, inversión, financiación, producci
 - La dimensión social y cultural incluye movilidad, estilos de vida, identidades, consumo, medios y contactos entre grupos.
 - La dimensión política, jurídica y ambiental aparece cuando decisiones y problemas requieren reglas, cooperación o respuestas transnacionales.
 
-<!-- VISUAL PENDIENTE: t28-09-dimensiones-de-la-globalizacion.webp -->
+<!-- VISUAL:t28-09-dimensiones-de-la-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-09-dimensiones-de-la-globalizacion.webp" alt="Dimensiones de la globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Dimensiones de la globalización.</em></p>
 
 <!-- FUENTE: OECD-MEASURE-T28 -->
 
@@ -136,7 +172,11 @@ El alcance expresa cuántos territorios y ámbitos conecta un proceso; la intens
 - La simultaneidad permite coordinar actividades en tiempo real, pero no suprime distancias físicas, fronteras ni diferencias horarias.
 - La desigualdad de conexión explica que personas y territorios participen de manera distinta y soporten costes y beneficios desiguales.
 
-<!-- VISUAL PENDIENTE: t28-10-rasgos-estructurales-alcance-intensidad-y-velocidad.webp -->
+<!-- VISUAL:t28-10-rasgos-estructurales-alcance-intensidad-y-velocidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-10-rasgos-estructurales-alcance-intensidad-y-velocidad.webp" alt="Rasgos estructurales: alcance, intensidad y velocidad" width="820">
+</p>
+<p align="center"><em>Infografía: Rasgos estructurales: alcance, intensidad y velocidad.</em></p>
 
 <!-- FUENTE: ONU-GLOBAL-T28 -->
 
@@ -149,7 +189,11 @@ La difusión mundial de productos, marcas, formatos y prácticas puede favorecer
 - La circulación de ideas puede enriquecer la diversidad, mientras los desequilibrios de poder y acceso pueden amenazar expresiones minoritarias.
 - Los bienes y servicios culturales transmiten identidades, valores y significados, por lo que no poseen únicamente valor comercial.
 
-<!-- VISUAL PENDIENTE: t28-il-11-homogeneizacion-hibridacion-y-diversidad.webp -->
+<!-- VISUAL:t28-il-11-homogeneizacion-hibridacion-y-diversidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-11-homogeneizacion-hibridacion-y-diversidad.webp" alt="Homogeneización, hibridación y diversidad" width="820">
+</p>
+<p align="center"><em>Infografía: Homogeneización, hibridación y diversidad.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -162,7 +206,11 @@ Glocalización expresa la interacción entre dinámicas globales y respuestas, a
 - Roland Robertson difundió el término en la teoría social de la globalización y se asocia a la fórmula didáctica de pensar globalmente y actuar localmente.
 - Adaptar un producto mundial a preferencias locales es un ejemplo comercial, pero la glocalización también tiene usos sociales, culturales y políticos.
 
-<!-- VISUAL PENDIENTE: t28-il-12-glocalizacion.webp -->
+<!-- VISUAL:t28-il-12-glocalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-12-glocalizacion.webp" alt="Glocalización" width="820">
+</p>
+<p align="center"><em>Infografía: Glocalización.</em></p>
 
 <!-- FUENTE: OECD-GLOCAL-T28 -->
 
@@ -175,7 +223,11 @@ Marshall McLuhan introdujo expresiones como aldea global para describir el efect
 - La comunicación inmediata puede ampliar conocimiento y participación, pero también concentrar agendas, acelerar rumores y generar sobrecarga informativa.
 - La frase el medio es el mensaje destaca que la forma tecnológica de comunicación transforma relaciones y percepciones, además del contenido transmitido.
 
-<!-- VISUAL PENDIENTE: t28-il-13-aldea-global-y-medios-de-comunicacion.webp -->
+<!-- VISUAL:t28-il-13-aldea-global-y-medios-de-comunicacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-13-aldea-global-y-medios-de-comunicacion.webp" alt="Aldea global y medios de comunicación" width="820">
+</p>
+<p align="center"><em>Infografía: Aldea global y medios de comunicación.</em></p>
 
 <!-- FUENTE: UNESCO-MCLUHAN-T28 -->
 
@@ -188,7 +240,11 @@ La sociedad red organiza actividades y relaciones mediante redes de información
 - Un nodo puede ser una persona, organización, ciudad o infraestructura; su posición y capacidad de conexión condicionan su influencia.
 - La exclusión digital no es solo carecer de internet: también incluye falta de dispositivos, competencias, accesibilidad, seguridad y uso significativo.
 
-<!-- VISUAL PENDIENTE: t28-14-sociedad-red.webp -->
+<!-- VISUAL:t28-14-sociedad-red.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-14-sociedad-red.webp" alt="Sociedad red" width="820">
+</p>
+<p align="center"><em>Infografía: Sociedad red.</em></p>
 
 <!-- FUENTE: UNESCO-DIGITAL-T28 -->
 
@@ -201,7 +257,11 @@ Saskia Sassen se asocia al concepto de ciudad global y al análisis de Nueva Yor
 - La relevancia global no depende solo del tamaño demográfico: importa la función que la ciudad cumple dentro de redes mundiales.
 - La concentración de riqueza y servicios avanzados puede coexistir con desigualdad, segmentación laboral y expulsión residencial.
 
-<!-- VISUAL PENDIENTE: t28-15-ciudad-global.webp -->
+<!-- VISUAL:t28-15-ciudad-global.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-15-ciudad-global.webp" alt="Ciudad global" width="820">
+</p>
+<p align="center"><em>Infografía: Ciudad global.</em></p>
 
 <!-- FUENTE: UN-GLOBAL-CITY-T28 -->
 
@@ -214,7 +274,11 @@ Los Estados siguen siendo actores centrales porque negocian tratados, regulan me
 - Empresas multinacionales, inversores, medios, plataformas y organizaciones de la sociedad civil también influyen en flujos y agendas globales.
 - Ningún actor controla por sí solo la globalización: el resultado surge de relaciones de poder, reglas, tecnología, mercados y acción colectiva.
 
-<!-- VISUAL PENDIENTE: t28-16-actores-e-instituciones-de-la-globalizacion.webp -->
+<!-- VISUAL:t28-16-actores-e-instituciones-de-la-globalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-16-actores-e-instituciones-de-la-globalizacion.webp" alt="Actores e instituciones de la globalización" width="820">
+</p>
+<p align="center"><em>Infografía: Actores e instituciones de la globalización.</em></p>
 
 <!-- FUENTE: WTO-INBRIEF-T28 -->
 
@@ -227,7 +291,11 @@ El Fondo Monetario Internacional promueve cooperación monetaria, estabilidad fi
 - La Organización Mundial del Comercio administra acuerdos comerciales, sirve de foro negociador y encauza diferencias entre sus miembros.
 - Las tres instituciones influyen en la economía global, pero no comparten órgano, tratado fundacional, financiación ni competencias.
 
-<!-- VISUAL PENDIENTE: t28-17-fmi-banco-mundial-y-omc-diferencias.webp -->
+<!-- VISUAL:t28-17-fmi-banco-mundial-y-omc-diferencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-17-fmi-banco-mundial-y-omc-diferencias.webp" alt="FMI, Banco Mundial y OMC: diferencias" width="820">
+</p>
+<p align="center"><em>Infografía: FMI, Banco Mundial y OMC: diferencias.</em></p>
 
 <!-- FUENTE: IMF-ATGLANCE-T28 -->
 
@@ -253,7 +321,11 @@ La globalización puede contribuir al crecimiento y a reducir pobreza, pero sus 
 - La OIT sostiene que una globalización justa debe ampliar oportunidades, trabajo decente, protección social, derechos y participación.
 - Atribuir toda pobreza o toda mejora a la globalización ignora factores como conflicto, educación, salud, instituciones, tecnología y distribución interna.
 
-<!-- VISUAL PENDIENTE: t28-19-desigualdad-pobreza-y-distribucion.webp -->
+<!-- VISUAL:t28-19-desigualdad-pobreza-y-distribucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-19-desigualdad-pobreza-y-distribucion.webp" alt="Desigualdad, pobreza y distribución" width="820">
+</p>
+<p align="center"><em>Infografía: Desigualdad, pobreza y distribución.</em></p>
 
 <!-- FUENTE: ILO-FAIR-T28 -->
 
@@ -266,7 +338,11 @@ La competencia y la reorganización productiva pueden crear empleo en unos secto
 - Sin normas y vigilancia adecuadas, la presión competitiva puede favorecer precariedad, explotación o deterioro de derechos laborales.
 - El trabajo decente integra empleo productivo, derechos, protección social y diálogo social, no únicamente disponer de cualquier puesto.
 
-<!-- VISUAL PENDIENTE: t28-il-20-empleo-deslocalizacion-y-trabajo-decente.webp -->
+<!-- VISUAL:t28-il-20-empleo-deslocalizacion-y-trabajo-decente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-20-empleo-deslocalizacion-y-trabajo-decente.webp" alt="Empleo, deslocalización y trabajo decente" width="820">
+</p>
+<p align="center"><em>Infografía: Empleo, deslocalización y trabajo decente.</em></p>
 
 <!-- FUENTE: ILO-FAIR-T28 -->
 
@@ -279,7 +355,11 @@ La soberanía estatal no desaparece, pero se ejerce en un entorno donde problema
 - Los tratados limitan y habilitan a la vez: crean compromisos, pero también cooperación, previsibilidad y capacidad de afrontar problemas comunes.
 - El déficit de gobernanza aparece cuando los efectos transnacionales avanzan más rápido que la rendición de cuentas, la regulación o la participación.
 
-<!-- VISUAL PENDIENTE: t28-21-soberania-gobernanza-y-poder-transnacional.webp -->
+<!-- VISUAL:t28-21-soberania-gobernanza-y-poder-transnacional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-21-soberania-gobernanza-y-poder-transnacional.webp" alt="Soberanía, gobernanza y poder transnacional" width="820">
+</p>
+<p align="center"><em>Infografía: Soberanía, gobernanza y poder transnacional.</em></p>
 
 <!-- FUENTE: ONU-GLOBAL-T28 -->
 
@@ -305,7 +385,11 @@ La globalización y las TIC crean condiciones inéditas para el intercambio cult
 - El pluralismo cultural exige interacción armoniosa, inclusión y participación de personas y grupos con identidades diversas.
 - Proteger diversidad no significa congelar culturas: las culturas cambian, intercambian y se recrean.
 
-<!-- VISUAL PENDIENTE: t28-il-23-consecuencias-culturales-y-diversidad.webp -->
+<!-- VISUAL:t28-il-23-consecuencias-culturales-y-diversidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-23-consecuencias-culturales-y-diversidad.webp" alt="Consecuencias culturales y diversidad" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias culturales y diversidad.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -318,7 +402,11 @@ Producción, transporte y consumo globales pueden aumentar extracción de recurs
 - Los daños ambientales cruzan fronteras mediante clima, aire, agua, biodiversidad y cadenas de suministro, por lo que requieren coordinación.
 - El efecto ambiental neto depende de escala de actividad, composición productiva, tecnología, regulación y hábitos de consumo.
 
-<!-- VISUAL PENDIENTE: t28-24-consecuencias-ambientales.webp -->
+<!-- VISUAL:t28-24-consecuencias-ambientales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-24-consecuencias-ambientales.webp" alt="Consecuencias ambientales" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias ambientales.</em></p>
 
 <!-- FUENTE: UN-ENV-GLOBAL-T28 -->
 
@@ -331,7 +419,11 @@ Una red muy interconectada transmite con rapidez perturbaciones financieras, san
 - Diversificar proveedores, rutas, tecnologías y reservas reduce ciertas dependencias, aunque puede elevar costes y complejidad.
 - La fragmentación económica puede disminuir algunos riesgos de dependencia y crear otros por duplicación, menor cooperación y pérdida de eficiencia.
 
-<!-- VISUAL PENDIENTE: t28-25-riesgos-sistemicos-resiliencia-y-fragmentacion.webp -->
+<!-- VISUAL:t28-25-riesgos-sistemicos-resiliencia-y-fragmentacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-25-riesgos-sistemicos-resiliencia-y-fragmentacion.webp" alt="Riesgos sistémicos, resiliencia y fragmentación" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgos sistémicos, resiliencia y fragmentación.</em></p>
 
 <!-- FUENTE: IMF-GLOBAL-2024-T28 -->
 
@@ -344,7 +436,11 @@ El etnocentrismo interpreta otras culturas usando la propia como centro y patró
 - Etnocentrismo no es sinónimo de toda identidad cultural: una identidad fuerte puede convivir con respeto y autocrítica.
 - Su radicalización favorece estereotipos, discriminación, xenofobia y chovinismo.
 
-<!-- VISUAL PENDIENTE: t28-26-reacciones-culturales-etnocentrismo.webp -->
+<!-- VISUAL:t28-26-reacciones-culturales-etnocentrismo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-26-reacciones-culturales-etnocentrismo.webp" alt="Reacciones culturales: etnocentrismo" width="820">
+</p>
+<p align="center"><em>Infografía: Reacciones culturales: etnocentrismo.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -357,7 +453,11 @@ El relativismo cultural propone comprender prácticas y valores dentro del conte
 - Llevado a un extremo normativo, puede impedir criticar prácticas que vulneran dignidad, igualdad o derechos humanos.
 - La diversidad cultural no puede invocarse para vulnerar derechos humanos ni limitar su alcance universal.
 
-<!-- VISUAL PENDIENTE: t28-27-relativismo-cultural-y-sus-limites.webp -->
+<!-- VISUAL:t28-27-relativismo-cultural-y-sus-limites.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-27-relativismo-cultural-y-sus-limites.webp" alt="Relativismo cultural y sus límites" width="820">
+</p>
+<p align="center"><em>Infografía: Relativismo cultural y sus límites.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -370,7 +470,11 @@ El xenocentrismo valora sistemáticamente lo extranjero como superior y despreci
 - Puede favorecer imitación acrítica, pérdida de autoestima colectiva o desarraigo, aunque adoptar elementos externos no es por sí mismo xenocentrismo.
 - La reacción opuesta al etnocentrismo no garantiza una evaluación más rigurosa si sustituye un prejuicio por otro.
 
-<!-- VISUAL PENDIENTE: t28-il-28-xenocentrismo-y-desarraigo.webp -->
+<!-- VISUAL:t28-il-28-xenocentrismo-y-desarraigo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-28-xenocentrismo-y-desarraigo.webp" alt="Xenocentrismo y desarraigo" width="820">
+</p>
+<p align="center"><em>Infografía: Xenocentrismo y desarraigo.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -383,7 +487,11 @@ El interculturalismo promueve encuentro, comunicación y diálogo entre culturas
 - Requiere combatir discriminación y corregir desigualdades que impiden un diálogo materialmente equilibrado.
 - Su límite es el respeto a dignidad y derechos humanos; tolerancia no obliga a aceptar prácticas lesivas.
 
-<!-- VISUAL PENDIENTE: t28-29-interculturalismo.webp -->
+<!-- VISUAL:t28-29-interculturalismo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-29-interculturalismo.webp" alt="Interculturalismo" width="820">
+</p>
+<p align="center"><em>Infografía: Interculturalismo.</em></p>
 
 <!-- FUENTE: UNESCO-DIVERSITY-T28 -->
 
@@ -396,7 +504,11 @@ El universalismo sostiene que ciertos principios de dignidad y derechos correspo
 - La diversidad cultural es compatible con un núcleo de derechos humanos que limita prácticas discriminatorias o lesivas.
 - El reto consiste en aplicar universales mediante diálogo, igualdad y participación, evitando tanto imposición cultural como relativismo extremo.
 
-<!-- VISUAL PENDIENTE: t28-30-universalismo-cultural-y-derechos-humanos.webp -->
+<!-- VISUAL:t28-30-universalismo-cultural-y-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-30-universalismo-cultural-y-derechos-humanos.webp" alt="Universalismo cultural y derechos humanos" width="820">
+</p>
+<p align="center"><em>Infografía: Universalismo cultural y derechos humanos.</em></p>
 
 <!-- FUENTE: UNESCO-DECLARATION-T28 -->
 
@@ -409,7 +521,11 @@ La percepción de pérdida de control puede alimentar demandas de relocalizació
 - El proteccionismo utiliza barreras para defender objetivos internos; sus efectos dependen del instrumento, duración, respuesta externa y estructura productiva.
 - No toda crítica a la globalización es xenófoba ni toda cooperación internacional elimina la identidad nacional.
 
-<!-- VISUAL PENDIENTE: t28-31-localismo-nacionalismo-y-cierre-identitario.webp -->
+<!-- VISUAL:t28-31-localismo-nacionalismo-y-cierre-identitario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-31-localismo-nacionalismo-y-cierre-identitario.webp" alt="Localismo, nacionalismo y cierre identitario" width="820">
+</p>
+<p align="center"><em>Infografía: Localismo, nacionalismo y cierre identitario.</em></p>
 
 <!-- FUENTE: ONU-GLOBAL-T28 -->
 
@@ -422,7 +538,11 @@ Movimiento antiglobalización es una etiqueta amplia para redes y organizaciones
 - El movimiento es plural y descentralizado: incluye sindicatos, ONG, ecologistas, feministas, campesinado, colectivos indígenas, redes religiosas y grupos de acción directa.
 - Su heterogeneidad impide atribuir a todas las organizaciones una ideología, estructura, táctica o programa único.
 
-<!-- VISUAL PENDIENTE: t28-il-32-antiglobalizacion-y-altermundismo-concepto.webp -->
+<!-- VISUAL:t28-il-32-antiglobalizacion-y-altermundismo-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-32-antiglobalizacion-y-altermundismo-concepto.webp" alt="Antiglobalización y altermundismo: concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Antiglobalización y altermundismo: concepto.</em></p>
 
 <!-- FUENTE: ILO-FAIR-T28 -->
 
@@ -435,7 +555,11 @@ Entre sus críticas aparecen desigualdad, deuda, especulación, poder corporativ
 - Las prioridades varían entre organizaciones y campañas, por lo que no existe un catálogo cerrado aceptado por todo el movimiento.
 - La obra No Logo, de Naomi Klein, se convirtió en una referencia simbólica de la crítica al poder de las marcas y corporaciones globales.
 
-<!-- VISUAL PENDIENTE: t28-33-objetivos-y-criticas-del-movimiento.webp -->
+<!-- VISUAL:t28-33-objetivos-y-criticas-del-movimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-33-objetivos-y-criticas-del-movimiento.webp" alt="Objetivos y críticas del movimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Objetivos y críticas del movimiento.</em></p>
 
 <!-- FUENTE: WSF-CHARTER-T28 -->
 
@@ -448,7 +572,11 @@ A finales de la década de 1990 confluyeron campañas contra acuerdos de inversi
 - ATTAC nació en Francia en 1998 a partir del debate sobre gravar transacciones financieras y ampliar control democrático sobre las finanzas.
 - La Acción Global de los Pueblos articuló desde 1998 una coordinación descentralizada de movimientos y jornadas de acción global.
 
-<!-- VISUAL PENDIENTE: t28-34-historia-antecedentes-y-movilizaciones-de-1998.webp -->
+<!-- VISUAL:t28-34-historia-antecedentes-y-movilizaciones-de-1998.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-34-historia-antecedentes-y-movilizaciones-de-1998.webp" alt="Historia: antecedentes y movilizaciones de 1998" width="820">
+</p>
+<p align="center"><em>Infografía: Historia: antecedentes y movilizaciones de 1998.</em></p>
 
 <!-- FUENTE: ATTAC-ES-T28 -->
 
@@ -461,7 +589,11 @@ Las protestas contra la Conferencia Ministerial de la OMC celebrada en Seattle e
 - Seattle adquirió valor simbólico por su visibilidad mediática y por mostrar coordinación transnacional contra la llamada Ronda del Milenio.
 - Considerarla acto fundacional es una convención histórica sobre visibilidad del movimiento, no la negación de antecedentes anteriores.
 
-<!-- VISUAL PENDIENTE: t28-il-35-la-batalla-de-seattle-de-1999.webp -->
+<!-- VISUAL:t28-il-35-la-batalla-de-seattle-de-1999.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-il-35-la-batalla-de-seattle-de-1999.webp" alt="La batalla de Seattle de 1999" width="820">
+</p>
+<p align="center"><em>Infografía: La batalla de Seattle de 1999.</em></p>
 
 <!-- FUENTE: WTO-SEATTLE-T28 -->
 
@@ -474,7 +606,11 @@ ATTAC es una asociación vinculada históricamente a la propuesta de gravar tran
 - ATTAC España declara utilizar estudio, investigación, formación ciudadana, presión política, movilización y acciones legales.
 - ATTAC no representa a todo el movimiento altermundista y su estrategia institucional y educativa difiere de redes de acción directa.
 
-<!-- VISUAL PENDIENTE: t28-36-organizaciones-y-redes-attac.webp -->
+<!-- VISUAL:t28-36-organizaciones-y-redes-attac.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-36-organizaciones-y-redes-attac.webp" alt="Organizaciones y redes: ATTAC" width="820">
+</p>
+<p align="center"><em>Infografía: Organizaciones y redes: ATTAC.</em></p>
 
 <!-- FUENTE: ATTAC-ES-T28 -->
 
@@ -487,7 +623,11 @@ James Tobin propuso en 1972 un gravamen reducido sobre determinadas operaciones 
 - La Comisión Europea propuso en 2011 un impuesto armonizado sobre transacciones financieras y, ante falta de unanimidad, varios Estados promovieron cooperación reforzada.
 - Tasa Tobin y las distintas propuestas modernas de impuesto financiero están relacionadas, pero no son idénticas en base, tipos, ámbito ni destino de ingresos.
 
-<!-- VISUAL PENDIENTE: t28-37-propuestas-tasa-sobre-transacciones-financieras.webp -->
+<!-- VISUAL:t28-37-propuestas-tasa-sobre-transacciones-financieras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-37-propuestas-tasa-sobre-transacciones-financieras.webp" alt="Propuestas: tasa sobre transacciones financieras" width="820">
+</p>
+<p align="center"><em>Infografía: Propuestas: tasa sobre transacciones financieras.</em></p>
 
 <!-- FUENTE: EU-FTT-T28 -->
 
@@ -500,7 +640,11 @@ El primer Foro Social Mundial se celebró en Porto Alegre, Brasil, del 25 al 30 
 - La afirmación otro mundo es posible sintetiza la orientación propositiva del proceso del Foro Social Mundial.
 - Su celebración se presentó como contrapunto al Foro Económico Mundial de Davos, aunque ambos foros poseen naturaleza y participantes distintos.
 
-<!-- VISUAL PENDIENTE: t28-38-origen-del-foro-social-mundial.webp -->
+<!-- VISUAL:t28-38-origen-del-foro-social-mundial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-38-origen-del-foro-social-mundial.webp" alt="Origen del Foro Social Mundial" width="820">
+</p>
+<p align="center"><em>Infografía: Origen del Foro Social Mundial.</em></p>
 
 <!-- FUENTE: WSF-CHARTER-T28 -->
 
@@ -513,7 +657,11 @@ La Carta define el Foro como lugar abierto de reflexión, debate democrático, f
 - No pretende convertirse en instancia representativa de la sociedad civil mundial ni hablar en nombre de todas las personas participantes.
 - El Foro se concibe como proceso permanente y no queda reducido a un único acontecimiento, lugar o calendario anual.
 
-<!-- VISUAL PENDIENTE: t28-39-carta-de-principios-naturaleza-del-foro.webp -->
+<!-- VISUAL:t28-39-carta-de-principios-naturaleza-del-foro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-39-carta-de-principios-naturaleza-del-foro.webp" alt="Carta de Principios: naturaleza del Foro" width="820">
+</p>
+<p align="center"><em>Infografía: Carta de Principios: naturaleza del Foro.</em></p>
 
 <!-- FUENTE: WSF-CHARTER-T28 -->
 
@@ -526,7 +674,11 @@ El proceso se orienta a una globalización solidaria respetuosa con derechos hum
 - Las decisiones o declaraciones corresponden a las organizaciones que las suscriben y no al Foro como totalidad.
 - La pluralidad permite estrategias distintas, pero la Carta fija un marco común frente a neoliberalismo, dominación e imperialismo.
 
-<!-- VISUAL PENDIENTE: t28-40-principios-limites-y-participacion.webp -->
+<!-- VISUAL:t28-40-principios-limites-y-participacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-40-principios-limites-y-participacion.webp" alt="Principios, límites y participación" width="820">
+</p>
+<p align="center"><em>Infografía: Principios, límites y participación.</em></p>
 
 <!-- FUENTE: WSF-CHARTER-T28 -->
 
@@ -539,7 +691,11 @@ El segundo Foro Social Mundial volvió a celebrarse en Porto Alegre del 31 de en
 - Entre las sedes mundiales posteriores figuran Mumbai en 2004, Nairobi en 2007, Túnez en 2013 y 2015, Montreal en 2016 y México en 2022.
 - Las descripciones organizativas del Foro han evolucionado; referencias históricas al Consejo Internacional, Secretaría y comités organizadores no deben tratarse como una estructura jurídica inmutable.
 
-<!-- VISUAL PENDIENTE: t28-41-historia-y-geografia-del-foro-social-mundial.webp -->
+<!-- VISUAL:t28-41-historia-y-geografia-del-foro-social-mundial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-41-historia-y-geografia-del-foro-social-mundial.webp" alt="Historia y geografía del Foro Social Mundial" width="820">
+</p>
+<p align="center"><em>Infografía: Historia y geografía del Foro Social Mundial.</em></p>
 
 <!-- FUENTE: WSF-HISTORY-T28 -->
 

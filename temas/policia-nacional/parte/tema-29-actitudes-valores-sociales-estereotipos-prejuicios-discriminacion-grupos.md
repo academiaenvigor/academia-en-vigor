@@ -19,7 +19,11 @@ La actitud es una disposición o tendencia evaluativa hacia una persona, objeto,
 - Las actitudes poseen un objeto identificable; no existe una actitud en abstracto sin algo real, simbólico o social que sea evaluado.
 - La mayoría de las actitudes sociales se adquieren y modifican mediante experiencia, información, interacción y aprendizaje social.
 
-<!-- VISUAL PENDIENTE: t29-il-01-concepto-de-actitud.webp -->
+<!-- VISUAL:t29-il-01-concepto-de-actitud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-01-concepto-de-actitud.webp" alt="Concepto de actitud" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de actitud.</em></p>
 
 <!-- FUENTE: RAE-ACTITUD-T29 -->
 
@@ -32,7 +36,11 @@ Las actitudes presentan dirección, porque pueden ser positivas, negativas o amb
 - Su estabilidad es relativa; pueden persistir, pero cambian con nueva experiencia, información, reflexión o presión social.
 - Su accesibilidad influye en la rapidez con la que la evaluación aparece al interpretar una situación relacionada.
 
-<!-- VISUAL PENDIENTE: t29-02-caracteristicas-de-las-actitudes.webp -->
+<!-- VISUAL:t29-02-caracteristicas-de-las-actitudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-02-caracteristicas-de-las-actitudes.webp" alt="Características de las actitudes" width="820">
+</p>
+<p align="center"><em>Infografía: Características de las actitudes.</em></p>
 
 <!-- FUENTE: AJZEN-1991-T29 -->
 
@@ -45,7 +53,11 @@ Un valor social es un criterio compartido sobre lo deseable, importante o correc
 - La jerarquía de valores varía entre personas, grupos y momentos históricos, aunque algunos se institucionalizan en normas y derechos.
 - Los valores declarados no garantizan por sí solos conductas coherentes; intereses, hábitos, incentivos y situaciones también intervienen.
 
-<!-- VISUAL PENDIENTE: t29-il-03-concepto-de-valor-social.webp -->
+<!-- VISUAL:t29-il-03-concepto-de-valor-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-03-concepto-de-valor-social.webp" alt="Concepto de valor social" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de valor social.</em></p>
 
 <!-- FUENTE: RAE-VALOR-T29 -->
 
@@ -58,7 +70,11 @@ Una creencia afirma o presupone algo sobre la realidad; puede ser verdadera, fal
 - Una norma prescribe o prohíbe comportamientos y puede tener carácter social, moral, profesional o jurídico.
 - Valor, creencia, opinión, norma y actitud se relacionan, pero no deben intercambiarse como términos equivalentes.
 
-<!-- VISUAL PENDIENTE: t29-04-normas-valores-creencias-y-opiniones.webp -->
+<!-- VISUAL:t29-04-normas-valores-creencias-y-opiniones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-04-normas-valores-creencias-y-opiniones.webp" alt="Normas, valores, creencias y opiniones" width="820">
+</p>
+<p align="center"><em>Infografía: Normas, valores, creencias y opiniones.</em></p>
 
 <!-- FUENTE: UNESCO-TOLERANCE-T29 -->
 
@@ -71,7 +87,11 @@ La socialización es el proceso mediante el cual las personas aprenden pautas, s
 - La socialización no convierte a la persona en receptora pasiva: interpreta, negocia, rechaza y transforma parte de lo aprendido.
 - El proceso continúa durante la vida y puede intensificarse al cambiar de grupo, profesión, entorno cultural o posición social.
 
-<!-- VISUAL PENDIENTE: t29-il-05-socializacion-y-aprendizaje-social.webp -->
+<!-- VISUAL:t29-il-05-socializacion-y-aprendizaje-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-05-socializacion-y-aprendizaje-social.webp" alt="Socialización y aprendizaje social" width="820">
+</p>
+<p align="center"><em>Infografía: Socialización y aprendizaje social.</em></p>
 
 <!-- FUENTE: UNESCO-EDUCATION-T29 -->
 
@@ -84,7 +104,11 @@ El componente cognitivo reúne creencias, conocimientos, percepciones e interpre
 - El componente conductual incluye intenciones, tendencias de acción y comportamientos relacionados con el objeto.
 - Los tres componentes pueden reforzarse mutuamente o mostrar incoherencias; el modelo no exige que siempre coincidan.
 
-<!-- VISUAL PENDIENTE: t29-06-modelo-de-tres-componentes.webp -->
+<!-- VISUAL:t29-06-modelo-de-tres-componentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-06-modelo-de-tres-componentes.webp" alt="Modelo de tres componentes" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de tres componentes.</em></p>
 
 <!-- FUENTE: ROSENBERG-HOVLAND-T29 -->
 
@@ -97,7 +121,11 @@ Existe consistencia cuando creencias, emociones e inclinaciones de conducta mant
 - La ambivalencia no equivale a ausencia de actitud: expresa conflicto interno entre valoraciones simultáneas.
 - Una actitud consistente y accesible suele orientar mejor la respuesta, pero continúa sometida a oportunidades y restricciones situacionales.
 
-<!-- VISUAL PENDIENTE: t29-07-consistencia-y-ambivalencia-actitudinal.webp -->
+<!-- VISUAL:t29-07-consistencia-y-ambivalencia-actitudinal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-07-consistencia-y-ambivalencia-actitudinal.webp" alt="Consistencia y ambivalencia actitudinal" width="820">
+</p>
+<p align="center"><em>Infografía: Consistencia y ambivalencia actitudinal.</em></p>
 
 <!-- FUENTE: AJZEN-1991-T29 -->
 
@@ -110,7 +138,11 @@ Daniel Katz distinguió cuatro funciones: instrumental o adaptativa, defensiva d
 - Clasificar una función exige identificar para qué sirve la actitud en el caso, no limitarse al tema sobre el que versa.
 - La función de gestión del duelo no integra la clasificación clásica de cuatro funciones formulada por Katz.
 
-<!-- VISUAL PENDIENTE: t29-08-funciones-de-las-actitudes-segun-katz.webp -->
+<!-- VISUAL:t29-08-funciones-de-las-actitudes-segun-katz.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-08-funciones-de-las-actitudes-segun-katz.webp" alt="Funciones de las actitudes según Katz" width="820">
+</p>
+<p align="center"><em>Infografía: Funciones de las actitudes según Katz.</em></p>
 
 <!-- FUENTE: KATZ-1960-T29 -->
 
@@ -123,7 +155,11 @@ La función de conocimiento ayuda a organizar, simplificar e interpretar informa
 - Simplificar facilita decidir, pero también puede mantener categorías rígidas o ignorar información que contradice la actitud.
 - Esta función responde a la necesidad de coherencia y significado, no a la obtención directa de una recompensa externa.
 
-<!-- VISUAL PENDIENTE: t29-il-09-funcion-de-conocimiento.webp -->
+<!-- VISUAL:t29-il-09-funcion-de-conocimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-09-funcion-de-conocimiento.webp" alt="Función de conocimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Función de conocimiento.</em></p>
 
 <!-- FUENTE: KATZ-1960-T29 -->
 
@@ -136,7 +172,11 @@ La función instrumental orienta hacia objetos asociados con recompensas y aleja
 - Una actitud mantenida para obtener aceptación, beneficio o evitar sanción puede cumplir esta función aunque no exprese convicción profunda.
 - Instrumental no significa necesariamente manipuladora; describe el servicio práctico que presta la actitud.
 
-<!-- VISUAL PENDIENTE: t29-10-funcion-instrumental-o-adaptativa.webp -->
+<!-- VISUAL:t29-10-funcion-instrumental-o-adaptativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-10-funcion-instrumental-o-adaptativa.webp" alt="Función instrumental o adaptativa" width="820">
+</p>
+<p align="center"><em>Infografía: Función instrumental o adaptativa.</em></p>
 
 <!-- FUENTE: KATZ-1960-T29 -->
 
@@ -149,7 +189,11 @@ La función defensiva del yo protege la autoestima o reduce ansiedad al manejar 
 - Culpar globalmente a un grupo de un fracaso personal puede funcionar como desplazamiento defensivo y alimentar prejuicios.
 - Que una actitud cumpla una defensa psicológica no vuelve correcta la creencia ni justifica una conducta discriminatoria.
 
-<!-- VISUAL PENDIENTE: t29-il-11-funcion-defensiva-del-yo.webp -->
+<!-- VISUAL:t29-il-11-funcion-defensiva-del-yo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-11-funcion-defensiva-del-yo.webp" alt="Función defensiva del yo" width="820">
+</p>
+<p align="center"><em>Infografía: Función defensiva del yo.</em></p>
 
 <!-- FUENTE: KATZ-1960-T29 -->
 
@@ -162,7 +206,11 @@ La función expresiva permite manifestar valores centrales, identidad y autoconc
 - Expresar un valor no exige una recompensa inmediata, aunque pueda producir aprobación o rechazo social.
 - Se diferencia de la función de conocimiento porque su centro es afirmar identidad y principios, no ordenar información.
 
-<!-- VISUAL PENDIENTE: t29-il-12-funcion-expresiva-de-valores.webp -->
+<!-- VISUAL:t29-il-12-funcion-expresiva-de-valores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-12-funcion-expresiva-de-valores.webp" alt="Función expresiva de valores" width="820">
+</p>
+<p align="center"><em>Infografía: Función expresiva de valores.</em></p>
 
 <!-- FUENTE: KATZ-1960-T29 -->
 
@@ -175,7 +223,11 @@ La experiencia directa aporta información concreta y asociaciones emocionales s
 - El condicionamiento operante refuerza respuestas cuando reciben premios o reduce su frecuencia cuando acarrean consecuencias adversas.
 - Una actitud formada mediante experiencia directa puede ser más accesible, pero la experiencia individual no siempre representa al conjunto.
 
-<!-- VISUAL PENDIENTE: t29-13-experiencia-directa-y-condicionamiento.webp -->
+<!-- VISUAL:t29-13-experiencia-directa-y-condicionamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-13-experiencia-directa-y-condicionamiento.webp" alt="Experiencia directa y condicionamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Experiencia directa y condicionamiento.</em></p>
 
 <!-- FUENTE: AJZEN-1991-T29 -->
 
@@ -188,7 +240,11 @@ Las personas pueden aprender evaluaciones observando la conducta y las consecuen
 - La aprobación y sanción del grupo influyen en la expresión pública de actitudes, aunque no aseguran un cambio privado equivalente.
 - Los grupos de pertenencia y referencia aportan normas comparativas con las que la persona evalúa su posición y conducta.
 
-<!-- VISUAL PENDIENTE: t29-il-14-observacion-imitacion-y-grupos.webp -->
+<!-- VISUAL:t29-il-14-observacion-imitacion-y-grupos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-14-observacion-imitacion-y-grupos.webp" alt="Observación, imitación y grupos" width="820">
+</p>
+<p align="center"><em>Infografía: Observación, imitación y grupos.</em></p>
 
 <!-- FUENTE: UNESCO-EDUCATION-T29 -->
 
@@ -201,7 +257,11 @@ La persuasión depende de la fuente, el mensaje, el canal, la audiencia y el con
 - Argumentos comprensibles y relevantes favorecen un examen reflexivo; señales superficiales pueden influir cuando hay poca motivación o capacidad.
 - La alfabetización mediática ayuda a contrastar evidencias, detectar manipulación y frenar la repetición automática de estereotipos.
 
-<!-- VISUAL PENDIENTE: t29-15-informacion-persuasion-y-credibilidad.webp -->
+<!-- VISUAL:t29-15-informacion-persuasion-y-credibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-15-informacion-persuasion-y-credibilidad.webp" alt="Información, persuasión y credibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Información, persuasión y credibilidad.</em></p>
 
 <!-- FUENTE: UNESCO-MEDIA-T29 -->
 
@@ -214,7 +274,11 @@ La teoría del comportamiento planificado relaciona intención con actitud hacia
 - El control percibido alude a la facilidad o dificultad que la persona cree tener para ejecutar la conducta.
 - Una actitud favorable puede no producir conducta si la norma social, la intención o el control percibido actúan en sentido contrario.
 
-<!-- VISUAL PENDIENTE: t29-16-intencion-norma-social-y-control-percibido.webp -->
+<!-- VISUAL:t29-16-intencion-norma-social-y-control-percibido.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-16-intencion-norma-social-y-control-percibido.webp" alt="Intención, norma social y control percibido" width="820">
+</p>
+<p align="center"><em>Infografía: Intención, norma social y control percibido.</em></p>
 
 <!-- FUENTE: AJZEN-1991-T29 -->
 
@@ -227,7 +291,11 @@ Festinger formuló la teoría de la disonancia cognitiva para explicar el malest
 - La disonancia no garantiza un cambio correcto: también puede resolverse racionalizando o evitando información.
 - Su intensidad depende, entre otros factores, de la importancia de las cogniciones y de la proporción entre elementos consonantes y disonantes.
 
-<!-- VISUAL PENDIENTE: t29-il-17-disonancia-cognitiva-y-cambio.webp -->
+<!-- VISUAL:t29-il-17-disonancia-cognitiva-y-cambio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-17-disonancia-cognitiva-y-cambio.webp" alt="Disonancia cognitiva y cambio" width="820">
+</p>
+<p align="center"><em>Infografía: Disonancia cognitiva y cambio.</em></p>
 
 <!-- FUENTE: FESTINGER-1957-T29 -->
 
@@ -240,7 +308,11 @@ Las actitudes no se observan directamente; se infieren mediante respuestas, elec
 - El diferencial semántico de Osgood, Suci y Tannenbaum sitúa el objeto entre pares de adjetivos opuestos.
 - Una puntuación mide respuestas bajo determinadas condiciones; no convierte una actitud compleja en una verdad exacta e inmutable.
 
-<!-- VISUAL PENDIENTE: t29-18-medicion-de-actitudes.webp -->
+<!-- VISUAL:t29-18-medicion-de-actitudes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-18-medicion-de-actitudes.webp" alt="Medición de actitudes" width="820">
+</p>
+<p align="center"><em>Infografía: Medición de actitudes.</em></p>
 
 <!-- FUENTE: OSGOOD-1957-T29 -->
 
@@ -253,7 +325,11 @@ Boninger, Krosnick y Berent relacionaron la importancia de una actitud con inter
 - La accesibilidad expresa la facilidad con la que la evaluación se recupera de la memoria ante el objeto o la situación.
 - Importancia, conocimiento y accesibilidad pueden reforzar la estabilidad, pero son propiedades distintas y no deben confundirse.
 
-<!-- VISUAL PENDIENTE: t29-19-importancia-conocimiento-y-accesibilidad.webp -->
+<!-- VISUAL:t29-19-importancia-conocimiento-y-accesibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-19-importancia-conocimiento-y-accesibilidad.webp" alt="Importancia, conocimiento y accesibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Importancia, conocimiento y accesibilidad.</em></p>
 
 <!-- FUENTE: BONINGER-1995-T29 -->
 
@@ -266,7 +342,11 @@ La predicción mejora cuando actitud y conducta se miden con niveles semejantes 
 - Restricciones, recursos, hábitos, normas y consecuencias pueden separar lo que la persona evalúa de lo que finalmente hace.
 - Las respuestas públicas pueden estar influidas por deseabilidad social, por lo que no siempre revelan la evaluación privada.
 
-<!-- VISUAL PENDIENTE: t29-20-limites-de-la-prediccion-actitud-conducta.webp -->
+<!-- VISUAL:t29-20-limites-de-la-prediccion-actitud-conducta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-20-limites-de-la-prediccion-actitud-conducta.webp" alt="Límites de la predicción actitud-conducta" width="820">
+</p>
+<p align="center"><em>Infografía: Límites de la predicción actitud-conducta.</em></p>
 
 <!-- FUENTE: AJZEN-1991-T29 -->
 
@@ -279,7 +359,11 @@ Un estereotipo es una representación simplificada y generalizada que atribuye r
 - Los estereotipos cumplen una función de categorización y economía cognitiva, pero pueden distorsionar percepción y expectativas.
 - Aplicar automáticamente al individuo una característica del grupo es el error central de la estereotipación.
 
-<!-- VISUAL PENDIENTE: t29-il-21-concepto-de-estereotipo.webp -->
+<!-- VISUAL:t29-il-21-concepto-de-estereotipo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-21-concepto-de-estereotipo.webp" alt="Concepto de estereotipo" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de estereotipo.</em></p>
 
 <!-- FUENTE: COE-STEREOTYPES-T29 -->
 
@@ -292,7 +376,11 @@ La categorización social organiza a las personas en grupos y acentúa semejanza
 - La identidad social incorpora parte del autoconcepto derivada de pertenencias grupales y de su valoración.
 - Identificarse con un grupo no obliga a hostilidad, pero puede favorecer comparación, favoritismo endogrupal o distancia frente al exogrupo.
 
-<!-- VISUAL PENDIENTE: t29-22-categorizacion-endogrupo-y-exogrupo.webp -->
+<!-- VISUAL:t29-22-categorizacion-endogrupo-y-exogrupo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-22-categorizacion-endogrupo-y-exogrupo.webp" alt="Categorización, endogrupo y exogrupo" width="820">
+</p>
+<p align="center"><em>Infografía: Categorización, endogrupo y exogrupo.</em></p>
 
 <!-- FUENTE: TAJFEL-TURNER-T29 -->
 
@@ -305,7 +393,11 @@ El prejuicio es una evaluación o actitud desfavorable hacia una persona basada 
 - Se caracteriza por anticipar el juicio sin atender de manera suficiente a la evidencia individual relevante.
 - Prejuicio y estereotipo se relacionan, pero el primero destaca la evaluación afectiva y el segundo la creencia generalizada.
 
-<!-- VISUAL PENDIENTE: t29-23-concepto-de-prejuicio.webp -->
+<!-- VISUAL:t29-23-concepto-de-prejuicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-23-concepto-de-prejuicio.webp" alt="Concepto de prejuicio" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de prejuicio.</em></p>
 
 <!-- FUENTE: ALLPORT-1954-T29 -->
 
@@ -318,7 +410,11 @@ La discriminación consiste en un trato desfavorable, exclusión o desventaja vi
 - Puede existir conducta discriminatoria sin hostilidad consciente, por ejemplo mediante una regla aparentemente neutra con desventaja injustificada.
 - También puede haber prejuicio que no llega a convertirse en discriminación porque la persona se abstiene de actuar o existen controles eficaces.
 
-<!-- VISUAL PENDIENTE: t29-24-concepto-de-discriminacion.webp -->
+<!-- VISUAL:t29-24-concepto-de-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-24-concepto-de-discriminacion.webp" alt="Concepto de discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de discriminación.</em></p>
 
 <!-- FUENTE: BOE-L15-2022-T29 -->
 
@@ -331,7 +427,11 @@ En una secuencia didáctica, el estereotipo ocupa principalmente el plano cognit
 - Las instituciones pueden reproducir desventajas mediante procedimientos aunque ningún decisor individual declare un prejuicio explícito.
 - La intervención puede actuar sobre información y estereotipos, emociones y contacto, o normas y prácticas discriminatorias.
 
-<!-- VISUAL PENDIENTE: t29-25-cadena-estereotipo-prejuicio-discriminacion.webp -->
+<!-- VISUAL:t29-25-cadena-estereotipo-prejuicio-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-25-cadena-estereotipo-prejuicio-discriminacion.webp" alt="Cadena estereotipo-prejuicio-discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Cadena estereotipo-prejuicio-discriminación.</em></p>
 
 <!-- FUENTE: COE-STEREOTYPES-T29 -->
 
@@ -344,7 +444,11 @@ La discriminación directa aparece cuando una persona o grupo recibe trato menos
 - La intención de discriminar no es requisito imprescindible para apreciar una discriminación indirecta.
 - Comparar directa e indirecta exige observar respectivamente el trato diferenciado visible y el efecto desigual de una regla neutra.
 
-<!-- VISUAL PENDIENTE: t29-26-discriminacion-directa-e-indirecta.webp -->
+<!-- VISUAL:t29-26-discriminacion-directa-e-indirecta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-26-discriminacion-directa-e-indirecta.webp" alt="Discriminación directa e indirecta" width="820">
+</p>
+<p align="center"><em>Infografía: Discriminación directa e indirecta.</em></p>
 
 <!-- FUENTE: BOE-L15-2022-T29 -->
 
@@ -357,7 +461,11 @@ La discriminación por asociación perjudica a una persona por su relación con 
 - Existe discriminación múltiple cuando concurren dos o más causas y discriminación interseccional cuando interactúan generando una forma específica de desventaja.
 - La ley también identifica acoso discriminatorio, inducción u orden de discriminar y represalias como conductas contrarias a la igualdad de trato.
 
-<!-- VISUAL PENDIENTE: t29-27-discriminacion-por-asociacion-error-y-multiples-caus.webp -->
+<!-- VISUAL:t29-27-discriminacion-por-asociacion-error-y-multiples-caus.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-27-discriminacion-por-asociacion-error-y-multiples-caus.webp" alt="Discriminación por asociación, error y múltiples causas" width="820">
+</p>
+<p align="center"><em>Infografía: Discriminación por asociación, error y múltiples causas.</em></p>
 
 <!-- FUENTE: BOE-L15-2022-T29 -->
 
@@ -370,7 +478,11 @@ Un sesgo cognitivo es una tendencia sistemática de procesamiento que puede infl
 - La correlación ilusoria consiste en percibir una relación entre grupo y conducta mayor de la que muestran los datos.
 - Reconocer sesgos no equivale a declarar inevitable toda decisión; protocolos, datos, revisión y rendición de cuentas pueden reducir su impacto.
 
-<!-- VISUAL PENDIENTE: t29-il-28-sesgos-atribucion-y-correlacion-ilusoria.webp -->
+<!-- VISUAL:t29-il-28-sesgos-atribucion-y-correlacion-ilusoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-28-sesgos-atribucion-y-correlacion-ilusoria.webp" alt="Sesgos, atribución y correlación ilusoria" width="820">
+</p>
+<p align="center"><em>Infografía: Sesgos, atribución y correlación ilusoria.</em></p>
 
 <!-- FUENTE: FRA-BIAS-T29 -->
 
@@ -383,7 +495,11 @@ Un delito de odio combina un hecho tipificado penalmente con una motivación de 
 - No todo discurso ofensivo constituye delito y no todo prejuicio se traduce en infracción penal; debe analizarse el tipo aplicable.
 - La motivación discriminatoria puede aparecer mediante palabras, símbolos, selección de víctima, antecedentes, contexto y otros indicadores convergentes.
 
-<!-- VISUAL PENDIENTE: t29-29-del-prejuicio-al-odio-y-al-delito.webp -->
+<!-- VISUAL:t29-29-del-prejuicio-al-odio-y-al-delito.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-29-del-prejuicio-al-odio-y-al-delito.webp" alt="Del prejuicio al odio y al delito" width="820">
+</p>
+<p align="center"><em>Infografía: Del prejuicio al odio y al delito.</em></p>
 
 <!-- FUENTE: OSCE-HATE-T29 -->
 
@@ -396,7 +512,11 @@ La educación crítica puede corregir información falsa, hacer visibles estereo
 - Las normas claras, procedimientos transparentes y mecanismos de denuncia reducen oportunidades de trato discriminatorio.
 - Ninguna medida aislada elimina por sí sola el prejuicio: información, contacto, incentivos, liderazgo y control institucional se complementan.
 
-<!-- VISUAL PENDIENTE: t29-il-30-reduccion-del-prejuicio-y-prevencion.webp -->
+<!-- VISUAL:t29-il-30-reduccion-del-prejuicio-y-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-30-reduccion-del-prejuicio-y-prevencion.webp" alt="Reducción del prejuicio y prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Reducción del prejuicio y prevención.</em></p>
 
 <!-- FUENTE: UNESCO-TOLERANCE-T29 -->
 
@@ -409,7 +529,11 @@ La investigación clásica de Adorno y colaboradores buscó explicar disposicion
 - El enfoque conecta convencionalismo, sumisión autoritaria y agresión hacia quienes se perciben como desviados de las normas del endogrupo.
 - Sus instrumentos y conclusiones han recibido críticas metodológicas; en examen debe distinguirse la teoría histórica de una verdad total sobre cada persona.
 
-<!-- VISUAL PENDIENTE: t29-31-personalidad-autoritaria.webp -->
+<!-- VISUAL:t29-31-personalidad-autoritaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-31-personalidad-autoritaria.webp" alt="Personalidad autoritaria" width="820">
+</p>
+<p align="center"><em>Infografía: Personalidad autoritaria.</em></p>
 
 <!-- FUENTE: ADORNO-1950-T29 -->
 
@@ -422,7 +546,11 @@ La escala F fue elaborada por Adorno y colaboradores a finales de los años cuar
 - También contemplaba poder y dureza, destructividad y cinismo, proyectividad y preocupación exagerada por cuestiones sexuales.
 - La F alude al constructo fascista estudiado y no debe confundirse con una escala de sinceridad, inteligencia o liderazgo.
 
-<!-- VISUAL PENDIENTE: t29-32-escala-f-y-dimensiones-autoritarias.webp -->
+<!-- VISUAL:t29-32-escala-f-y-dimensiones-autoritarias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-32-escala-f-y-dimensiones-autoritarias.webp" alt="Escala F y dimensiones autoritarias" width="820">
+</p>
+<p align="center"><em>Infografía: Escala F y dimensiones autoritarias.</em></p>
 
 <!-- FUENTE: ADORNO-1950-T29 -->
 
@@ -435,7 +563,11 @@ Rokeach conceptualizó el dogmatismo como una organización relativamente cerrad
 - El dogmatismo puede aparecer con contenidos ideológicos distintos; no queda limitado a una posición política concreta.
 - Rigidez, intolerancia a la ambigüedad y resistencia a revisar creencias son rasgos asociados, pero no autorizan inferencias automáticas sobre conducta criminal.
 
-<!-- VISUAL PENDIENTE: t29-il-33-dogmatismo-y-sistema-cerrado-de-creencias.webp -->
+<!-- VISUAL:t29-il-33-dogmatismo-y-sistema-cerrado-de-creencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-33-dogmatismo-y-sistema-cerrado-de-creencias.webp" alt="Dogmatismo y sistema cerrado de creencias" width="820">
+</p>
+<p align="center"><em>Infografía: Dogmatismo y sistema cerrado de creencias.</em></p>
 
 <!-- FUENTE: ROKEACH-1960-T29 -->
 
@@ -448,7 +580,11 @@ La xenofobia es aversión, rechazo u hostilidad hacia personas extranjeras o per
 - No requiere miedo clínico pese al sufijo fobia; en el uso social describe prejuicio y hostilidad.
 - La persona afectada puede ser nacional del país y sufrir xenofobia porque el agresor la percibe como ajena.
 
-<!-- VISUAL PENDIENTE: t29-34-xenofobia-concepto-y-alcance.webp -->
+<!-- VISUAL:t29-34-xenofobia-concepto-y-alcance.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-34-xenofobia-concepto-y-alcance.webp" alt="Xenofobia: concepto y alcance" width="820">
+</p>
+<p align="center"><em>Infografía: Xenofobia: concepto y alcance.</em></p>
 
 <!-- FUENTE: RAE-XENOFOBIA-T29 -->
 
@@ -461,7 +597,11 @@ El racismo atribuye superioridad, inferioridad o valor desigual a personas o gru
 - La discriminación describe el trato o desventaja; racismo y xenofobia describen marcos de creencias, actitudes y hostilidad que pueden motivarla.
 - Un mismo hecho puede reunir motivaciones racistas y xenófobas, por lo que no siempre existe una frontera práctica nítida.
 
-<!-- VISUAL PENDIENTE: t29-35-racismo-xenofobia-y-discriminacion.webp -->
+<!-- VISUAL:t29-35-racismo-xenofobia-y-discriminacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-35-racismo-xenofobia-y-discriminacion.webp" alt="Racismo, xenofobia y discriminación" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo, xenofobia y discriminación.</em></p>
 
 <!-- FUENTE: ECRI-GPR7-T29 -->
 
@@ -474,7 +614,11 @@ La intolerancia rechaza la igual dignidad o convivencia con personas y grupos pe
 - La respuesta debe graduarse atendiendo a contenido, contexto, alcance, intención, audiencia y probabilidad de daño.
 - La libertad de expresión protege ideas molestas o impopulares, pero no es absoluta y convive con derechos, responsabilidades y límites legales.
 
-<!-- VISUAL PENDIENTE: t29-36-intolerancia-y-discurso-de-odio.webp -->
+<!-- VISUAL:t29-36-intolerancia-y-discurso-de-odio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-36-intolerancia-y-discurso-de-odio.webp" alt="Intolerancia y discurso de odio" width="820">
+</p>
+<p align="center"><em>Infografía: Intolerancia y discurso de odio.</em></p>
 
 <!-- FUENTE: COE-HATE-SPEECH-T29 -->
 
@@ -487,7 +631,11 @@ Un grupo social reúne personas que interactúan, se reconocen vinculadas y mant
 - El grupo constituye una unidad dinámica: el cambio de un miembro o de las condiciones puede alterar relaciones del conjunto.
 - Los límites del grupo pueden ser formales o informales, claros o difusos, y variar con la situación.
 
-<!-- VISUAL PENDIENTE: t29-37-concepto-de-grupo-social.webp -->
+<!-- VISUAL:t29-37-concepto-de-grupo-social.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-37-concepto-de-grupo-social.webp" alt="Concepto de grupo social" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto de grupo social.</em></p>
 
 <!-- FUENTE: LEWIN-1947-T29 -->
 
@@ -500,7 +648,11 @@ La estructura grupal organiza posiciones, estatus, roles, normas, canales de com
 - Las normas indican conductas esperadas y pueden ser explícitas, escritas o implícitas.
 - La comunicación permite compartir información, coordinar tareas y gestionar desacuerdos; su concentración puede crear dependencia y poder.
 
-<!-- VISUAL PENDIENTE: t29-38-elementos-de-la-estructura-grupal.webp -->
+<!-- VISUAL:t29-38-elementos-de-la-estructura-grupal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-38-elementos-de-la-estructura-grupal.webp" alt="Elementos de la estructura grupal" width="820">
+</p>
+<p align="center"><em>Infografía: Elementos de la estructura grupal.</em></p>
 
 <!-- FUENTE: COE-GROUP-T29 -->
 
@@ -513,7 +665,11 @@ Los grupos primarios se caracterizan por relaciones directas, personales, afecti
 - Primario no significa pequeño por definición ni secundario significa poco importante; el criterio central es la cualidad de la relación.
 - Un mismo entorno puede contener vínculos secundarios formales y, con el tiempo, relaciones primarias entre algunos miembros.
 
-<!-- VISUAL PENDIENTE: t29-39-grupos-primarios-y-secundarios.webp -->
+<!-- VISUAL:t29-39-grupos-primarios-y-secundarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-39-grupos-primarios-y-secundarios.webp" alt="Grupos primarios y secundarios" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos primarios y secundarios.</em></p>
 
 <!-- FUENTE: COOLEY-1909-T29 -->
 
@@ -526,7 +682,11 @@ Un grupo formal nace con objetivos, funciones, reglas o posiciones definidas por
 - Formal no equivale a eficaz ni informal a desorganizado; ambos pueden desarrollar normas, liderazgo y cohesión.
 - Dentro de una organización formal suelen aparecer redes informales que facilitan o dificultan sus objetivos.
 
-<!-- VISUAL PENDIENTE: t29-40-grupos-formales-e-informales.webp -->
+<!-- VISUAL:t29-40-grupos-formales-e-informales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-40-grupos-formales-e-informales.webp" alt="Grupos formales e informales" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos formales e informales.</em></p>
 
 <!-- FUENTE: COE-GROUP-T29 -->
 
@@ -539,7 +699,11 @@ El grupo de pertenencia es aquel del que la persona forma parte objetivamente o 
 - Un grupo de referencia puede ejercer influencia normativa, al señalar cómo actuar, o comparativa, al permitir valorar la propia situación.
 - Pertenencia y referencia pueden coincidir, pero también divergir cuando la persona toma como modelo un grupo externo.
 
-<!-- VISUAL PENDIENTE: t29-41-grupos-de-pertenencia-y-referencia.webp -->
+<!-- VISUAL:t29-41-grupos-de-pertenencia-y-referencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-41-grupos-de-pertenencia-y-referencia.webp" alt="Grupos de pertenencia y referencia" width="820">
+</p>
+<p align="center"><em>Infografía: Grupos de pertenencia y referencia.</em></p>
 
 <!-- FUENTE: HYMAN-1942-T29 -->
 
@@ -552,7 +716,11 @@ El estatus es la posición relativa que una persona ocupa dentro de una estructu
 - El conflicto de roles aparece cuando las expectativas ligadas a dos o más posiciones resultan incompatibles.
 - La ambigüedad de rol surge cuando las expectativas, responsabilidades o criterios de desempeño no están suficientemente claros.
 
-<!-- VISUAL PENDIENTE: t29-42-estatus-rol-y-conflicto-de-roles.webp -->
+<!-- VISUAL:t29-42-estatus-rol-y-conflicto-de-roles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-42-estatus-rol-y-conflicto-de-roles.webp" alt="Estatus, rol y conflicto de roles" width="820">
+</p>
+<p align="center"><em>Infografía: Estatus, rol y conflicto de roles.</em></p>
 
 <!-- FUENTE: COE-GROUP-T29 -->
 
@@ -565,7 +733,11 @@ La cohesión expresa la fuerza de los vínculos y el deseo de permanecer en el g
 - La cohesión puede facilitar coordinación y apoyo, pero también intensificar conformidad y dificultar la crítica interna.
 - La unanimidad aparente no prueba acuerdo privado: puede reflejar autocensura, dependencia o temor a consecuencias.
 
-<!-- VISUAL PENDIENTE: t29-il-43-cohesion-conformidad-y-presion-grupal.webp -->
+<!-- VISUAL:t29-il-43-cohesion-conformidad-y-presion-grupal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-il-43-cohesion-conformidad-y-presion-grupal.webp" alt="Cohesión, conformidad y presión grupal" width="820">
+</p>
+<p align="center"><em>Infografía: Cohesión, conformidad y presión grupal.</em></p>
 
 <!-- FUENTE: LEWIN-1947-T29 -->
 
@@ -578,7 +750,11 @@ El liderazgo es un proceso de influencia mediante el cual una persona o varias o
 - El estilo laissez-faire reduce la dirección y concede amplia autonomía, lo que puede funcionar o generar desorganización según tarea y grupo.
 - No existe un estilo óptimo para toda situación: urgencia, competencia, madurez, riesgo y objetivos modifican sus efectos.
 
-<!-- VISUAL PENDIENTE: t29-44-liderazgo-y-estilos-de-direccion.webp -->
+<!-- VISUAL:t29-44-liderazgo-y-estilos-de-direccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-44-liderazgo-y-estilos-de-direccion.webp" alt="Liderazgo y estilos de dirección" width="820">
+</p>
+<p align="center"><em>Infografía: Liderazgo y estilos de dirección.</em></p>
 
 <!-- FUENTE: LEWIN-1939-T29 -->
 
@@ -591,7 +767,11 @@ El modelo de interacción de Rabbie explica la diferenciación intergrupal integ
 - Una experiencia de destino común puede aumentar la percepción de pertenencia incluso antes de que exista una historia larga de interacción.
 - Interdependencia e identidad no son explicaciones necesariamente excluyentes: pueden reforzarse al formar y diferenciar grupos.
 
-<!-- VISUAL PENDIENTE: t29-45-diferenciacion-intergrupal-e-interdependencia.webp -->
+<!-- VISUAL:t29-45-diferenciacion-intergrupal-e-interdependencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-45-diferenciacion-intergrupal-e-interdependencia.webp" alt="Diferenciación intergrupal e interdependencia" width="820">
+</p>
+<p align="center"><em>Infografía: Diferenciación intergrupal e interdependencia.</em></p>
 
 <!-- FUENTE: RABBIE-1989-T29 -->
 
@@ -604,7 +784,11 @@ El conflicto intergrupal puede surgir por competencia percibida por recursos, po
 - Los objetivos supraordenados requieren cooperación entre grupos y pueden reducir tensiones cuando ninguno puede alcanzarlos por separado.
 - Regular el conflicto exige diagnosticar intereses, identidades, emociones, relaciones de poder y reglas; reprimirlo no elimina necesariamente sus causas.
 
-<!-- VISUAL PENDIENTE: t29-46-conflicto-e-identidad-entre-grupos.webp -->
+<!-- VISUAL:t29-46-conflicto-e-identidad-entre-grupos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-29/t29-46-conflicto-e-identidad-entre-grupos.webp" alt="Conflicto e identidad entre grupos" width="820">
+</p>
+<p align="center"><em>Infografía: Conflicto e identidad entre grupos.</em></p>
 
 <!-- FUENTE: SHERIF-1961-T29 -->
 
