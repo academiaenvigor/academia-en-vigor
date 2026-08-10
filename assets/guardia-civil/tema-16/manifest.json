@@ -1,0 +1,802 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-16",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 49,
+    "integrated": 0,
+    "planned": 49
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T16-V00",
+      "file": "t16-00-mapa-proteccion-civil-biodiversidad-energia.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Tres rutas: emergencias, naturaleza y energía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V01",
+      "file": "t16-01-alcance-oficial-metodo-y-corte-normativo.webp",
+      "title": "Alcance oficial, método y corte normativo",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar alcance oficial, método y corte normativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V02",
+      "file": "t16-02-objeto-definiciones-y-sistema-nacional.webp",
+      "title": "Objeto, definiciones y Sistema Nacional",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar objeto, definiciones y sistema nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V03",
+      "file": "t16-03-estrategia-proteccion-informacion-y-participacion.webp",
+      "title": "Estrategia, protección, información y participación",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar estrategia, protección, información y participación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V04",
+      "file": "t16-04-colaboracion-cautela-autoproteccion-y-voluntariado.webp",
+      "title": "Colaboración, cautela, autoprotección y voluntariado",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar colaboración, cautela, autoprotección y voluntariado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V05",
+      "file": "t16-05-anticipacion-y-red-nacional-de-informacion.webp",
+      "title": "Anticipación y Red Nacional de Información",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar anticipación y red nacional de información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V06",
+      "file": "t16-06-prevencion-fondo-preventivo-y-red-de-alerta.webp",
+      "title": "Prevención, fondo preventivo y Red de Alerta",
+      "type": "ilustracion_simple",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar prevención, fondo preventivo y red de alerta.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V07",
+      "file": "t16-07-norma-basica-y-planes-de-proteccion-civil.webp",
+      "title": "Norma Básica y planes de protección civil",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar norma básica y planes de protección civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V08",
+      "file": "t16-08-respuesta-inmediata-servicios-y-recursos-estatales.webp",
+      "title": "Respuesta inmediata, servicios y recursos estatales",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar respuesta inmediata, servicios y recursos estatales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V09",
+      "file": "t16-09-recuperacion-danos-declaracion-y-medidas.webp",
+      "title": "Recuperación, daños, declaración y medidas",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar recuperación, daños, declaración y medidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V10",
+      "file": "t16-10-evaluacion-inspeccion-y-memoria-anual.webp",
+      "title": "Evaluación, inspección y memoria anual",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar evaluación, inspección y memoria anual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V11",
+      "file": "t16-11-emergencias-de-interes-nacional.webp",
+      "title": "Emergencias de interés nacional",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar emergencias de interés nacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V12",
+      "file": "t16-12-formacion-y-escuela-nacional-de-proteccion-civil.webp",
+      "title": "Formación y Escuela Nacional de Protección Civil",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar formación y escuela nacional de protección civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V13",
+      "file": "t16-13-competencias-del-gobierno-y-del-ministro-del-interior.webp",
+      "title": "Competencias del Gobierno y del Ministro del Interior",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar competencias del gobierno y del ministro del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V14",
+      "file": "t16-14-otros-departamentos-y-delegados-del-gobierno.webp",
+      "title": "Otros departamentos y Delegados del Gobierno",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar otros departamentos y delegados del gobierno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V15",
+      "file": "t16-15-fuerzas-armadas-ume-y-fuerzas-y-cuerpos-de-seguridad.webp",
+      "title": "Fuerzas Armadas, UME y Fuerzas y Cuerpos de Seguridad",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar fuerzas armadas, ume y fuerzas y cuerpos de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V16",
+      "file": "t16-16-coordinacion-nacional-union-europea-y-cooperacion-internacional.webp",
+      "title": "Coordinación nacional, Unión Europea y cooperación internacional",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar coordinación nacional, unión europea y cooperación internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V17",
+      "file": "t16-17-objeto-principios-y-definiciones-de-patrimonio-natural.webp",
+      "title": "Objeto, principios y definiciones de patrimonio natural",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar objeto, principios y definiciones de patrimonio natural.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V18",
+      "file": "t16-18-funcion-social-deberes-competencias-y-cooperacion.webp",
+      "title": "Función social, deberes, competencias y cooperación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar función social, deberes, competencias y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V19",
+      "file": "t16-19-habitats-en-peligro-catalogo-efectos-y-estrategias.webp",
+      "title": "Hábitats en peligro: catálogo, efectos y estrategias",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar hábitats en peligro: catálogo, efectos y estrategias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V20",
+      "file": "t16-20-espacios-naturales-protegidos-concepto-y-clasificacion.webp",
+      "title": "Espacios naturales protegidos: concepto y clasificación",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar espacios naturales protegidos: concepto y clasificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V21",
+      "file": "t16-21-parques-reservas-areas-marinas-monumentos-y-paisajes.webp",
+      "title": "Parques, reservas, áreas marinas, monumentos y paisajes",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar parques, reservas, áreas marinas, monumentos y paisajes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V22",
+      "file": "t16-22-declaracion-gestion-y-proteccion-de-espacios.webp",
+      "title": "Declaración, gestión y protección de espacios",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar declaración, gestión y protección de espacios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V23",
+      "file": "t16-23-red-natura-2000-lic-zec-y-zepa.webp",
+      "title": "Red Natura 2000: LIC, ZEC y ZEPA",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar red natura 2000: lic, zec y zepa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V24",
+      "file": "t16-24-conservacion-conectividad-vigilancia-y-cambios-de-categoria.webp",
+      "title": "Conservación, conectividad, vigilancia y cambios de categoría",
+      "type": "ilustracion_simple",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar conservación, conectividad, vigilancia y cambios de categoría.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V25",
+      "file": "t16-25-areas-internacionales-inventario-delimitacion-y-registro.webp",
+      "title": "Áreas internacionales, inventario, delimitación y Registro",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar áreas internacionales, inventario, delimitación y registro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V26",
+      "file": "t16-26-especies-autoctonas-y-reintroduccion.webp",
+      "title": "Especies autóctonas y reintroducción",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar especies autóctonas y reintroducción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V27",
+      "file": "t16-27-listado-de-especies-silvestres-y-prohibiciones.webp",
+      "title": "Listado de Especies Silvestres y prohibiciones",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar listado de especies silvestres y prohibiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V28",
+      "file": "t16-28-catalogo-de-especies-amenazadas-y-estrategias.webp",
+      "title": "Catálogo de Especies Amenazadas y estrategias",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar catálogo de especies amenazadas y estrategias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V29",
+      "file": "t16-29-excepciones-al-regimen-de-proteccion.webp",
+      "title": "Excepciones al régimen de protección",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar excepciones al régimen de protección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V30",
+      "file": "t16-30-propagacion-y-conservacion-ex-situ.webp",
+      "title": "Propagación y conservación ex situ",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar propagación y conservación ex situ.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V31",
+      "file": "t16-31-especies-exoticas-invasoras.webp",
+      "title": "Especies exóticas invasoras",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar especies exóticas invasoras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V32",
+      "file": "t16-32-caza-pesca-e-inventario.webp",
+      "title": "Caza, pesca e inventario",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar caza, pesca e inventario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V33",
+      "file": "t16-33-red-espanola-de-reservas-de-la-biosfera.webp",
+      "title": "Red Española de Reservas de la Biosfera",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar red española de reservas de la biosfera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V34",
+      "file": "t16-34-recursos-geneticos-acceso-beneficios-y-control.webp",
+      "title": "Recursos genéticos: acceso, beneficios y control",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar recursos genéticos: acceso, beneficios y control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V35",
+      "file": "t16-35-comercio-internacional-y-conocimientos-tradicionales.webp",
+      "title": "Comercio internacional y conocimientos tradicionales",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar comercio internacional y conocimientos tradicionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V36",
+      "file": "t16-36-vigencia-de-la-directiva-programada-y-correspondencia-actual.webp",
+      "title": "Vigencia de la Directiva programada y correspondencia actual",
+      "type": "ilustracion_simple",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar vigencia de la directiva programada y correspondencia actual.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V37",
+      "file": "t16-37-objeto-y-ambito-de-la-directiva-2012-27-ue.webp",
+      "title": "Objeto y ámbito de la Directiva 2012/27/UE",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar objeto y ámbito de la directiva 2012/27/ue.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V38",
+      "file": "t16-38-definiciones-de-eficiencia-energetica.webp",
+      "title": "Definiciones de eficiencia energética",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar definiciones de eficiencia energética.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V39",
+      "file": "t16-39-objetivos-de-eficiencia-energetica.webp",
+      "title": "Objetivos de eficiencia energética",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar objetivos de eficiencia energética.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V40",
+      "file": "t16-40-edificios-de-los-organismos-publicos.webp",
+      "title": "Edificios de los organismos públicos",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar edificios de los organismos públicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V41",
+      "file": "t16-41-adquisicion-por-organismos-publicos.webp",
+      "title": "Adquisición por organismos públicos",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar adquisición por organismos públicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V42",
+      "file": "t16-42-obligaciones-de-ahorro-y-medidas-alternativas.webp",
+      "title": "Obligaciones de ahorro y medidas alternativas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar obligaciones de ahorro y medidas alternativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V43",
+      "file": "t16-43-auditorias-energeticas-y-sistemas-de-gestion.webp",
+      "title": "Auditorías energéticas y sistemas de gestión",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar auditorías energéticas y sistemas de gestión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V44",
+      "file": "t16-44-contadores-de-electricidad-y-gas.webp",
+      "title": "Contadores de electricidad y gas",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar contadores de electricidad y gas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V45",
+      "file": "t16-45-medicion-de-calefaccion-refrigeracion-y-agua-caliente.webp",
+      "title": "Medición de calefacción, refrigeración y agua caliente",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar medición de calefacción, refrigeración y agua caliente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V46",
+      "file": "t16-46-informacion-de-facturacion.webp",
+      "title": "Información de facturación",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar información de facturación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V47",
+      "file": "t16-47-costes-consumidores-y-regimen-de-sanciones.webp",
+      "title": "Costes, consumidores y régimen de sanciones",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar costes, consumidores y régimen de sanciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T16-V48",
+      "file": "t16-48-sintesis-examinable-y-regla-de-transicion-normativa.webp",
+      "title": "Síntesis examinable y regla de transición normativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar síntesis examinable y regla de transición normativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,338 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 16,
+  "topic_title": "Materias socio-culturales. Protección civil. Desarrollo sostenible. Eficiencia energética",
+  "id_prefix": "GC-T16",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-16/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-16/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial, método y corte normativo"
+      },
+      {
+        "number": 2,
+        "title": "Objeto, definiciones y Sistema Nacional"
+      },
+      {
+        "number": 3,
+        "title": "Estrategia, protección, información y participación"
+      },
+      {
+        "number": 4,
+        "title": "Colaboración, cautela, autoprotección y voluntariado"
+      },
+      {
+        "number": 5,
+        "title": "Anticipación y Red Nacional de Información"
+      },
+      {
+        "number": 6,
+        "title": "Prevención, fondo preventivo y Red de Alerta"
+      },
+      {
+        "number": 7,
+        "title": "Norma Básica y planes de protección civil"
+      },
+      {
+        "number": 8,
+        "title": "Respuesta inmediata, servicios y recursos estatales"
+      },
+      {
+        "number": 9,
+        "title": "Recuperación, daños, declaración y medidas"
+      },
+      {
+        "number": 10,
+        "title": "Evaluación, inspección y memoria anual"
+      },
+      {
+        "number": 11,
+        "title": "Emergencias de interés nacional"
+      },
+      {
+        "number": 12,
+        "title": "Formación y Escuela Nacional de Protección Civil"
+      },
+      {
+        "number": 13,
+        "title": "Competencias del Gobierno y del Ministro del Interior"
+      },
+      {
+        "number": 14,
+        "title": "Otros departamentos y Delegados del Gobierno"
+      },
+      {
+        "number": 15,
+        "title": "Fuerzas Armadas, UME y Fuerzas y Cuerpos de Seguridad"
+      },
+      {
+        "number": 16,
+        "title": "Coordinación nacional, Unión Europea y cooperación internacional"
+      },
+      {
+        "number": 17,
+        "title": "Objeto, principios y definiciones de patrimonio natural"
+      },
+      {
+        "number": 18,
+        "title": "Función social, deberes, competencias y cooperación"
+      },
+      {
+        "number": 19,
+        "title": "Hábitats en peligro: catálogo, efectos y estrategias"
+      },
+      {
+        "number": 20,
+        "title": "Espacios naturales protegidos: concepto y clasificación"
+      },
+      {
+        "number": 21,
+        "title": "Parques, reservas, áreas marinas, monumentos y paisajes"
+      },
+      {
+        "number": 22,
+        "title": "Declaración, gestión y protección de espacios"
+      },
+      {
+        "number": 23,
+        "title": "Red Natura 2000: LIC, ZEC y ZEPA"
+      },
+      {
+        "number": 24,
+        "title": "Conservación, conectividad, vigilancia y cambios de categoría"
+      },
+      {
+        "number": 25,
+        "title": "Áreas internacionales, inventario, delimitación y Registro"
+      },
+      {
+        "number": 26,
+        "title": "Especies autóctonas y reintroducción"
+      },
+      {
+        "number": 27,
+        "title": "Listado de Especies Silvestres y prohibiciones"
+      },
+      {
+        "number": 28,
+        "title": "Catálogo de Especies Amenazadas y estrategias"
+      },
+      {
+        "number": 29,
+        "title": "Excepciones al régimen de protección"
+      },
+      {
+        "number": 30,
+        "title": "Propagación y conservación ex situ"
+      },
+      {
+        "number": 31,
+        "title": "Especies exóticas invasoras"
+      },
+      {
+        "number": 32,
+        "title": "Caza, pesca e inventario"
+      },
+      {
+        "number": 33,
+        "title": "Red Española de Reservas de la Biosfera"
+      },
+      {
+        "number": 34,
+        "title": "Recursos genéticos: acceso, beneficios y control"
+      },
+      {
+        "number": 35,
+        "title": "Comercio internacional y conocimientos tradicionales"
+      },
+      {
+        "number": 36,
+        "title": "Vigencia de la Directiva programada y correspondencia actual"
+      },
+      {
+        "number": 37,
+        "title": "Objeto y ámbito de la Directiva 2012/27/UE"
+      },
+      {
+        "number": 38,
+        "title": "Definiciones de eficiencia energética"
+      },
+      {
+        "number": 39,
+        "title": "Objetivos de eficiencia energética"
+      },
+      {
+        "number": 40,
+        "title": "Edificios de los organismos públicos"
+      },
+      {
+        "number": 41,
+        "title": "Adquisición por organismos públicos"
+      },
+      {
+        "number": 42,
+        "title": "Obligaciones de ahorro y medidas alternativas"
+      },
+      {
+        "number": 43,
+        "title": "Auditorías energéticas y sistemas de gestión"
+      },
+      {
+        "number": 44,
+        "title": "Contadores de electricidad y gas"
+      },
+      {
+        "number": 45,
+        "title": "Medición de calefacción, refrigeración y agua caliente"
+      },
+      {
+        "number": 46,
+        "title": "Información de facturación"
+      },
+      {
+        "number": 47,
+        "title": "Costes, consumidores y régimen de sanciones"
+      },
+      {
+        "number": 48,
+        "title": "Síntesis examinable y regla de transición normativa"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PROTECCION-CIVIL",
+        "title": "Sistema Nacional de Protección Civil",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "ESPACIOS",
+        "title": "Patrimonio natural y espacios protegidos",
+        "blocks": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "BIODIVERSIDAD",
+        "title": "Conservación de la biodiversidad",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "USO-SOSTENIBLE",
+        "title": "Uso sostenible del patrimonio natural",
+        "blocks": [
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "code": "ENERGIA",
+        "title": "Eficiencia energética",
+        "blocks": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}
