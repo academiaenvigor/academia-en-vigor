@@ -1,0 +1,1475 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 6,
+  "titulo": "Instituciones internacionales",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Los datos variables se muestran con su contexto histórico y con nota de vigencia 2026.",
+  "total_referencias": 66,
+  "con_bloque_asignado": 66,
+  "con_respuesta_verificada": 66,
+  "por_bloque": {
+    "2": 3,
+    "3": 4,
+    "5": 1,
+    "6": 1,
+    "7": 1,
+    "9": 2,
+    "11": 6,
+    "12": 1,
+    "13": 2,
+    "14": 3,
+    "15": 3,
+    "16": 3,
+    "17": 3,
+    "18": 4,
+    "19": 1,
+    "20": 1,
+    "21": 1,
+    "23": 3,
+    "24": 1,
+    "25": 2,
+    "26": 2,
+    "27": 1,
+    "28": 2,
+    "30": 1,
+    "31": 2,
+    "32": 1,
+    "33": 2,
+    "34": 1,
+    "35": 1,
+    "36": 1,
+    "38": 2,
+    "39": 1,
+    "41": 3
+  },
+  "por_promocion": {
+    "2020": 11,
+    "2021": 11,
+    "2022": 15,
+    "2023": 12,
+    "2024": 7,
+    "2025": 5,
+    "2026": 5
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q029",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 29,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T06-F035"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. De los siguientes órganos, ¿cuál NO es un órgano principal de las Naciones Unidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q030",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 30,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T06-F085"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. La OTAN, también llamada Alianza Atlántica, es una alianza militar intergubernamental que tiene sus orígenes en:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q031",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 31,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T06-F066",
+        "GC-T06-F063",
+        "GC-T06-F065"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. De los siguientes, ¿Cuál NO forma parte de su estructura?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q032",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 32,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T06-F133"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Qué nombre recibe la organización internacional que ayuda a los países de la Unión Europea a luchar contra el terrorismo y las formas graves de delincuencia organizada, coordinando las investigaciones judiciales que afecten como mínimo a dos países de la Unión?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q033",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 33,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T06-F156"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. CEPOL. ¿Cuál de las siguientes afirmaciones es CORRECTA respecto a CEPOL?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q029",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 29,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T06-F027"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. En relación al Consejo de Seguridad. ¿Por. cuántos miembros de las Naciones Unidas esla compuesto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q030",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 30,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F051"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. El citado Consejo fue creado por....: L",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q031",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 31,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T06-F117"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. EUROPOL. Dónde se encuentra la sede principal de EUROPOL?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q032",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 32,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T06-F128"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. EUROPOL. ¿Por quién es nombrado el Director Ejecutivo y representante legal Al de EUROPOL?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q033",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 33,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T06-F142"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. En relación a la Agencia Europea de la Guardía de Fronteras y Costas FRONTEX, a señale la opcidén INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q034",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 34,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T06-F161",
+        "GC-T06-F162"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales: CEPOL. Señale la opcibn INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q032",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 32,
+      "block_refs": [
+        2,
+        3
+      ],
+      "fact_refs": [
+        "GC-T06-F006",
+        "GC-T06-F013"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. ¿En qué año empezó oficialmente a existir? ¿Dónde se encuentra su sede principal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q033",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 33,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T06-F057",
+        "GC-T06-F058"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Qué nombre recibe la organización internacional que tiene como objetivo principal la defensa, protección y promoción de los derechos humanos, la democracia y el Estado de Derecho?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q034",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 34,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T06-F082"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cuál de los siguientes países de la Unión Europea, NO forma parte de la zona euro, también denominada “eurozona”?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q035",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 35,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T06-F084"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. El número de eurodiputados por cada país es aproximadamente proporcional a su población. Ningún país puede tener menos de_______ ni más de______ eurodiputados.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q036",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 36,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T06-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q030",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 30,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T06-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. ¿De qué manera son admitidos los Estados como miembros de las Naciones Unidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q031",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 31,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F055"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. ¿Dónde tiene su sede el Consejo de Europa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q032",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 32,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T06-F069"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cuál de los siguientes países NO es un miembro de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q033",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 33,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T06-F079"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cada cuánto tiempo tienen lugar las elecciones al Parlamento Europeo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q034",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 34,
+      "block_refs": [
+        19,
+        18
+      ],
+      "fact_refs": [
+        "GC-T06-F096",
+        "GC-T06-F099",
+        "GC-T06-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q035",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 35,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T06-F106"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Con respecto a INTERPOL, la _____________ es su órgano de gobierno y reúne a todos los países ____________ para tomar decisiones.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q032",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 32,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F053"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. ¿Cuántos Estados miembros tiene el Consejo de Europa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q033",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 33,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T06-F076"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cuál es la institución de la Unión Europea que define las orientaciones y las prioridades políticas generales de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q034",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 34,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T06-F090",
+        "GC-T06-F092"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. En relación con el Grupo de Planes Nucleares y el Consejo del Atlántico Norte, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q035",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 35,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T06-F128"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Ante quién responde EUROPOL a escala de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q036",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 36,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T06-F136"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. En relación con EUROJUST, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q031",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 31,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T06-F011"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. ¿Cuántos Estados miembros tiene en la actualidad la ONU?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q032",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 32,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T06-F074"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. De las siguientes, ¿cuál NO es una Institución u órgano de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q033",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 33,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T06-F090"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. ¿Cuál es el organismo político principal de toma de decisiones de la OTAN?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q034",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 34,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T06-F116"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Qué nombre recibe la agencia de la Unión Europea en materia policial, cuyo principal objetivo es contribuir a la consecución de una Europa más segura para beneficio de todos los ciudadanos de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q035",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 35,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T06-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. EUROPOL. ¿Qué nombre recibe la publicación anual en la que se esbozan resultados y se facilita información específica sobre los tipos de funciones y sistemas de los que dispone Europol?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q036",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 36,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T06-F151"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. FRONTEX. ¿Quién aprueba el presupuesto y verifica su ejecución, nombra al Director Ejecutivo y al Director Ejecutivo Adjunto, y vela por la transparencia de los procedimientos de toma de decisiones de la Agencia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q028",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 28,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T06-F023"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. La toma de decisiones en la Asamblea General requiere una mayoría de ________________ cuando se trata de asuntos de vital importancia, como aquellos referidos a la paz y la seguridad, la admisión de nuevos miembros y los asuntos presupuestarios.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q029",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 29,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F056"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. De los 46 Estados miembros que tiene el Consejo de Europa, ¿cuántos son miembros de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q030",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 30,
+      "block_refs": [
+        20,
+        22
+      ],
+      "fact_refs": [
+        "GC-T06-F103",
+        "GC-T06-F111"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Cuál es la organización intergubernamental que ayuda a la policía de sus 194 países miembros a colaborar entre sí, facilitándoles el intercambio y acceso a información sobre delitos y delincuentes, así como apoyo técnico y operativo de diversa índole?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q031",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 31,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T06-F132"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. EUROJUST. ¿Dónde tiene su sede EUROJUST?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q031",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 31,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T06-F045"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. ¿Quién es el actual Secretario General de las Naciones Unidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q032",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 32,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F053"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. ¿Cuál de los siguientes NO es un Estado miembro del Consejo de Europa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q033",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 33,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T06-F078"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cuál es la institución de la Unión Europea en la que se reúnen los ministros nacionales de cada gobierno para adoptar leyes y coordinar políticas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q034",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 34,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T06-F167"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Cuál de las siguientes Instituciones Internacionales tiene su sede en Roma (Italia)?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q035",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 35,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T06-F183",
+        "GC-T06-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Fondo Monetario Internacional (FMI). ¿Cuál NO es una de las misiones críticas que tiene el FMI?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q036",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 36,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T06-F196",
+        "GC-T06-F195",
+        "GC-T06-F194"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. En relación con la Organización Mundial de la Salud (OMS), señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q032",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 32,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T06-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. Los Estados son admitidos como miembros de las Naciones Unidas por decisión de la Asamblea General y por recomendación…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q033",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 33,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T06-F073"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. Cualquier país que reúna las condiciones para ser miembro de la UE puede solicitar la adhesión. Dichas condiciones se conocen como…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q034",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 34,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T06-F156",
+        "GC-T06-F158"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. CEPOL. ¿Cuál de las siguientes afirmaciones respecto a CEPOL es CORRECTA?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q035",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 35,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T06-F167",
+        "GC-T06-F166",
+        "GC-T06-F168"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q036",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 36,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T06-F189",
+        "GC-T06-F190",
+        "GC-T06-F191"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Fondo Monetario Internacional (FMI). ¿Cuál NO es una de las vías mediante las que el FMI promueve la estabilidad financiera internacional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q037",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 37,
+      "block_refs": [
+        41,
+        39
+      ],
+      "fact_refs": [
+        "GC-T06-F204",
+        "GC-T06-F194",
+        "GC-T06-F195"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización Mundial de la Salud (OMS). Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q031",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 31,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T06-F192"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Fondo Monetario Internacional (FMI). De las siguientes, ¿cuál NO es una de las fuentes de financiación del FMI?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q030",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 30,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T06-F176"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). ¿Cada cuánto tiempo han de organizar las Oficinas Regionales una Conferencia Regional de la FAO para su región?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q031",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 31,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T06-F207"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización Mundial de la Salud (OMS). ¿Dónde está ubicado el Centro de Información de la OMS sobre Pandemias y Epidemias?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q030",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 30,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T06-F006",
+        "GC-T06-F007"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. Las Naciones Unidas nacieron oficialmente el 24 de octubre de 1945, después de que la mayoría de los_________ Estados Miembros signatarios del documento fundacional de la Organización, la Carta de la ONU, la ratificaran.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q031",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 31,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T06-F010"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. ¿En cuántas ocasiones se ha otorgado el Premio Nobel de la Paz a las Naciones Unidas, así como a sus organismos especializados, organismos relacionados, fondos, programas y a miembros del personal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q032",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 32,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T06-F087"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. De los siguientes, ¿cuál es uno de sus países miembros?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q033",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 33,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T06-F206"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización Mundial de la Salud (OMS). ¿A partir de qué fuentes principales se financia la OMS?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q031",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 31,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T06-F016"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q032",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 32,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T06-F062",
+        "GC-T06-F067",
+        "GC-T06-F068"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. En relación con el Consejo de Europa, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q033",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 33,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T06-F069"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Unión Europea. ¿Cuál de los siguientes países NO forma parte de la Unión Europea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q034",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 34,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T06-F087"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. ¿Cuántos países son miembros de la OTAN?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q035",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 35,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T06-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). Entre los órganos rectores de la FAO se encuentra la Conferencia. Este órgano celebra un período ordinario de sesiones…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q028",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 28,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T06-F045"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización de las Naciones Unidas. António Manuel de Oliveira Guterres, es el _________ Secretario General de las Naciones Unidas.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q029",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 29,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T06-F052"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Consejo de Europa. ¿Cuál de los siguientes países NO es uno de los miembros fundadores del Consejo de Europa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q030",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 30,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T06-F094"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. Organización del Tratado del Atlántico Norte. ¿Quién es el actual Secretario General de la OTAN?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q031",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 31,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T06-F116",
+        "GC-T06-F118"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_snapshot_with_current_note",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Qué nombre recibe la agencia que tiene la misión de asistir a los Estados miembros de la Unión Europea en la prevención y la lucha contra toda forma grave y organizada de delincuencia, ciberdelincuencia y terrorismo a escala internacional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q032",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 32,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T06-F142"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Instituciones Internacionales. ¿Dónde se encuentra la sede central de la Agencia Europea de la Guardia de Fronteras y Costas, FRONTEX?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; los datos variables se leen con el corte normativo del tema."
+    }
+  ]
+}

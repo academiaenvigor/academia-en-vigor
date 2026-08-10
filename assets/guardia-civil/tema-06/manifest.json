@@ -1,0 +1,706 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-06",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 43,
+    "integrated": 0,
+    "planned": 43
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T06-V00",
+      "file": "t06-00-mapa-instituciones-internacionales.webp",
+      "title": "Mapa general de instituciones internacionales",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Mapa general de familias, sedes y funciones para orientar todo el Tema 6.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V01",
+      "file": "t06-01-mapa-de-las-instituciones-del-tema.webp",
+      "title": "Mapa de las instituciones del tema",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir mapa de las instituciones del tema con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V02",
+      "file": "t06-02-onu-nacimiento-y-carta-fundacional.webp",
+      "title": "ONU: nacimiento y Carta fundacional",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir onu: nacimiento y carta fundacional con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V03",
+      "file": "t06-03-onu-miembros-observadores-sedes-e-idiomas.webp",
+      "title": "ONU: miembros, observadores, sedes e idiomas",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir onu: miembros, observadores, sedes e idiomas con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V04",
+      "file": "t06-04-onu-propositos-y-principios.webp",
+      "title": "ONU: propósitos y principios",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir onu: propósitos y principios con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V05",
+      "file": "t06-05-onu-asamblea-general.webp",
+      "title": "ONU: Asamblea General",
+      "type": "ilustracion",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir onu: asamblea general con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V06",
+      "file": "t06-06-onu-consejo-de-seguridad.webp",
+      "title": "ONU: Consejo de Seguridad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir onu: consejo de seguridad con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V07",
+      "file": "t06-07-onu-ecosoc-y-consejo-de-administracion-fiduciaria.webp",
+      "title": "ONU: ECOSOC y Consejo de Administración Fiduciaria",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir onu: ecosoc y consejo de administración fiduciaria con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V08",
+      "file": "t06-08-onu-corte-internacional-de-justicia.webp",
+      "title": "ONU: Corte Internacional de Justicia",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir onu: corte internacional de justicia con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V09",
+      "file": "t06-09-onu-secretaria-y-secretario-general.webp",
+      "title": "ONU: Secretaría y Secretario General",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir onu: secretaría y secretario general con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V10",
+      "file": "t06-10-onu-seguridad-colectiva-y-mantenimiento-de-la-paz.webp",
+      "title": "ONU: seguridad colectiva y mantenimiento de la paz",
+      "type": "ilustracion",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir onu: seguridad colectiva y mantenimiento de la paz con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V11",
+      "file": "t06-11-consejo-de-europa-origen-miembros-y-sede.webp",
+      "title": "Consejo de Europa: origen, miembros y sede",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir consejo de europa: origen, miembros y sede con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V12",
+      "file": "t06-12-consejo-de-europa-fines-y-organos-estatutarios.webp",
+      "title": "Consejo de Europa: fines y órganos estatutarios",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir consejo de europa: fines y órganos estatutarios con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V13",
+      "file": "t06-13-consejo-de-europa-instituciones-y-mecanismos.webp",
+      "title": "Consejo de Europa: instituciones y mecanismos",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir consejo de europa: instituciones y mecanismos con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V14",
+      "file": "t06-14-union-europea-evolucion-miembros-y-valores.webp",
+      "title": "Unión Europea: evolución, miembros y valores",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir unión europea: evolución, miembros y valores con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V15",
+      "file": "t06-15-union-europea-siete-instituciones.webp",
+      "title": "Unión Europea: siete instituciones",
+      "type": "ilustracion",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir unión europea: siete instituciones con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V16",
+      "file": "t06-16-union-europea-ciudadania-elecciones-y-decisiones.webp",
+      "title": "Unión Europea: ciudadanía, elecciones y decisiones",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir unión europea: ciudadanía, elecciones y decisiones con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V17",
+      "file": "t06-17-otan-origen-miembros-y-sede.webp",
+      "title": "OTAN: origen, miembros y sede",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir otan: origen, miembros y sede con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V18",
+      "file": "t06-18-otan-estructura-y-decision-por-consenso.webp",
+      "title": "OTAN: estructura y decisión por consenso",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir otan: estructura y decisión por consenso con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V19",
+      "file": "t06-19-otan-articulos-4-y-5-y-gestion-de-crisis.webp",
+      "title": "OTAN: artículos 4 y 5 y gestión de crisis",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir otan: artículos 4 y 5 y gestión de crisis con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V20",
+      "file": "t06-20-interpol-origen-alcance-y-sede.webp",
+      "title": "INTERPOL: origen, alcance y sede",
+      "type": "ilustracion",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir interpol: origen, alcance y sede con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V21",
+      "file": "t06-21-interpol-organos-y-oficinas-centrales-nacionales.webp",
+      "title": "INTERPOL: órganos y Oficinas Centrales Nacionales",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir interpol: órganos y oficinas centrales nacionales con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V22",
+      "file": "t06-22-interpol-funciones-limites-y-herramientas.webp",
+      "title": "INTERPOL: funciones, límites y herramientas",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir interpol: funciones, límites y herramientas con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V23",
+      "file": "t06-23-europol-base-juridica-mision-y-ambito.webp",
+      "title": "Europol: base jurídica, misión y ámbito",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir europol: base jurídica, misión y ámbito con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V24",
+      "file": "t06-24-europol-tareas-y-cooperacion-operativa.webp",
+      "title": "Europol: tareas y cooperación operativa",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir europol: tareas y cooperación operativa con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V25",
+      "file": "t06-25-europol-gobierno-y-control.webp",
+      "title": "Europol: gobierno y control",
+      "type": "ilustracion",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir europol: gobierno y control con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V26",
+      "file": "t06-26-eurojust-mision-y-competencia.webp",
+      "title": "Eurojust: misión y competencia",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir eurojust: misión y competencia con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V27",
+      "file": "t06-27-eurojust-estructura-e-instrumentos.webp",
+      "title": "Eurojust: estructura e instrumentos",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir eurojust: estructura e instrumentos con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V28",
+      "file": "t06-28-frontex-y-la-guardia-europea-de-fronteras-y-costas.webp",
+      "title": "Frontex y la Guardia Europea de Fronteras y Costas",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir frontex y la guardia europea de fronteras y costas con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V29",
+      "file": "t06-29-frontex-tareas-y-cuerpo-permanente.webp",
+      "title": "Frontex: tareas y cuerpo permanente",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir frontex: tareas y cuerpo permanente con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V30",
+      "file": "t06-30-frontex-gobierno-presupuesto-y-derechos-fundamentales.webp",
+      "title": "Frontex: gobierno, presupuesto y derechos fundamentales",
+      "type": "ilustracion",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir frontex: gobierno, presupuesto y derechos fundamentales con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V31",
+      "file": "t06-31-cepol-mision-sede-y-destinatarios.webp",
+      "title": "CEPOL: misión, sede y destinatarios",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir cepol: misión, sede y destinatarios con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V32",
+      "file": "t06-32-cepol-organizacion-y-red-nacional.webp",
+      "title": "CEPOL: organización y red nacional",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir cepol: organización y red nacional con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V33",
+      "file": "t06-33-fao-origen-sede-miembros-y-objetivo.webp",
+      "title": "FAO: origen, sede, miembros y objetivo",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir fao: origen, sede, miembros y objetivo con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V34",
+      "file": "t06-34-fao-conferencia-consejo-y-director-general.webp",
+      "title": "FAO: Conferencia, Consejo y Director General",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir fao: conferencia, consejo y director general con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V35",
+      "file": "t06-35-fao-trabajo-regional-y-financiacion.webp",
+      "title": "FAO: trabajo regional y financiación",
+      "type": "ilustracion",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir fao: trabajo regional y financiación con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V36",
+      "file": "t06-36-fmi-origen-miembros-sede-y-fines.webp",
+      "title": "FMI: origen, miembros, sede y fines",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para distinguir fmi: origen, miembros, sede y fines con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V37",
+      "file": "t06-37-fmi-gobierno-cuotas-y-voto.webp",
+      "title": "FMI: gobierno, cuotas y voto",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para distinguir fmi: gobierno, cuotas y voto con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V38",
+      "file": "t06-38-fmi-supervision-prestamos-y-recursos.webp",
+      "title": "FMI: supervisión, préstamos y recursos",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para distinguir fmi: supervisión, préstamos y recursos con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V39",
+      "file": "t06-39-oms-origen-miembros-sede-y-concepto-de-salud.webp",
+      "title": "OMS: origen, miembros, sede y concepto de salud",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para distinguir oms: origen, miembros, sede y concepto de salud con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V40",
+      "file": "t06-40-oms-asamblea-mundial-consejo-ejecutivo-y-secretaria.webp",
+      "title": "OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría",
+      "type": "ilustracion",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa geográfico para distinguir oms: asamblea mundial, consejo ejecutivo y secretaría con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V41",
+      "file": "t06-41-oms-funciones-regiones-financiacion-y-hub-de-berlin.webp",
+      "title": "OMS: funciones, regiones, financiación y Hub de Berlín",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para distinguir oms: funciones, regiones, financiación y hub de berlín con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T06-V42",
+      "file": "t06-42-comparaciones-y-trampas-finales.webp",
+      "title": "Comparaciones y trampas finales",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para distinguir comparaciones y trampas finales con texto integrado y anclas visuales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

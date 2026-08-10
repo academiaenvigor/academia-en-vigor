@@ -1,0 +1,292 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 6,
+  "topic_title": "Instituciones internacionales",
+  "id_prefix": "GC-T06",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-06/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-06/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa de las instituciones del tema"
+      },
+      {
+        "number": 2,
+        "title": "ONU: nacimiento y Carta fundacional"
+      },
+      {
+        "number": 3,
+        "title": "ONU: miembros, observadores, sedes e idiomas"
+      },
+      {
+        "number": 4,
+        "title": "ONU: propósitos y principios"
+      },
+      {
+        "number": 5,
+        "title": "ONU: Asamblea General"
+      },
+      {
+        "number": 6,
+        "title": "ONU: Consejo de Seguridad"
+      },
+      {
+        "number": 7,
+        "title": "ONU: ECOSOC y Consejo de Administración Fiduciaria"
+      },
+      {
+        "number": 8,
+        "title": "ONU: Corte Internacional de Justicia"
+      },
+      {
+        "number": 9,
+        "title": "ONU: Secretaría y Secretario General"
+      },
+      {
+        "number": 10,
+        "title": "ONU: seguridad colectiva y mantenimiento de la paz"
+      },
+      {
+        "number": 11,
+        "title": "Consejo de Europa: origen, miembros y sede"
+      },
+      {
+        "number": 12,
+        "title": "Consejo de Europa: fines y órganos estatutarios"
+      },
+      {
+        "number": 13,
+        "title": "Consejo de Europa: instituciones y mecanismos"
+      },
+      {
+        "number": 14,
+        "title": "Unión Europea: evolución, miembros y valores"
+      },
+      {
+        "number": 15,
+        "title": "Unión Europea: siete instituciones"
+      },
+      {
+        "number": 16,
+        "title": "Unión Europea: ciudadanía, elecciones y decisiones"
+      },
+      {
+        "number": 17,
+        "title": "OTAN: origen, miembros y sede"
+      },
+      {
+        "number": 18,
+        "title": "OTAN: estructura y decisión por consenso"
+      },
+      {
+        "number": 19,
+        "title": "OTAN: artículos 4 y 5 y gestión de crisis"
+      },
+      {
+        "number": 20,
+        "title": "INTERPOL: origen, alcance y sede"
+      },
+      {
+        "number": 21,
+        "title": "INTERPOL: órganos y Oficinas Centrales Nacionales"
+      },
+      {
+        "number": 22,
+        "title": "INTERPOL: funciones, límites y herramientas"
+      },
+      {
+        "number": 23,
+        "title": "Europol: base jurídica, misión y ámbito"
+      },
+      {
+        "number": 24,
+        "title": "Europol: tareas y cooperación operativa"
+      },
+      {
+        "number": 25,
+        "title": "Europol: gobierno y control"
+      },
+      {
+        "number": 26,
+        "title": "Eurojust: misión y competencia"
+      },
+      {
+        "number": 27,
+        "title": "Eurojust: estructura e instrumentos"
+      },
+      {
+        "number": 28,
+        "title": "Frontex y la Guardia Europea de Fronteras y Costas"
+      },
+      {
+        "number": 29,
+        "title": "Frontex: tareas y cuerpo permanente"
+      },
+      {
+        "number": 30,
+        "title": "Frontex: gobierno, presupuesto y derechos fundamentales"
+      },
+      {
+        "number": 31,
+        "title": "CEPOL: misión, sede y destinatarios"
+      },
+      {
+        "number": 32,
+        "title": "CEPOL: organización y red nacional"
+      },
+      {
+        "number": 33,
+        "title": "FAO: origen, sede, miembros y objetivo"
+      },
+      {
+        "number": 34,
+        "title": "FAO: Conferencia, Consejo y Director General"
+      },
+      {
+        "number": 35,
+        "title": "FAO: trabajo regional y financiación"
+      },
+      {
+        "number": 36,
+        "title": "FMI: origen, miembros, sede y fines"
+      },
+      {
+        "number": 37,
+        "title": "FMI: gobierno, cuotas y voto"
+      },
+      {
+        "number": 38,
+        "title": "FMI: supervisión, préstamos y recursos"
+      },
+      {
+        "number": 39,
+        "title": "OMS: origen, miembros, sede y concepto de salud"
+      },
+      {
+        "number": 40,
+        "title": "OMS: Asamblea Mundial, Consejo Ejecutivo y Secretaría"
+      },
+      {
+        "number": 41,
+        "title": "OMS: funciones, regiones, financiación y Hub de Berlín"
+      },
+      {
+        "number": 42,
+        "title": "Comparaciones y trampas finales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "ONU: sistema universal de paz y cooperación",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Organizaciones europeas políticas y de seguridad",
+        "blocks": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Cooperación policial, judicial, fronteriza y formativa",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "FAO, FMI, OMS y comparaciones finales",
+        "blocks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    }
+  ]
+}
