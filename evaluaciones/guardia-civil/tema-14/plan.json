@@ -1,0 +1,326 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 14,
+  "topic_title": "Ministerio del Interior y Ministerio de Defensa",
+  "id_prefix": "GC-T14",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-14/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-14/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y reformas vigentes"
+      },
+      {
+        "number": 2,
+        "title": "Organización general del Ministerio del Interior"
+      },
+      {
+        "number": 3,
+        "title": "Secretaría de Estado de Seguridad"
+      },
+      {
+        "number": 4,
+        "title": "Dirección General de la Policía"
+      },
+      {
+        "number": 5,
+        "title": "Dirección General de la Guardia Civil"
+      },
+      {
+        "number": 6,
+        "title": "Relaciones Internacionales y Extranjería"
+      },
+      {
+        "number": 7,
+        "title": "Coordinación y Estudios"
+      },
+      {
+        "number": 8,
+        "title": "Secretaría General de Instituciones Penitenciarias"
+      },
+      {
+        "number": 9,
+        "title": "Ejecución Penal y Reinserción Social"
+      },
+      {
+        "number": 10,
+        "title": "Secretaría General de Protección Civil y Emergencias"
+      },
+      {
+        "number": 11,
+        "title": "Dirección General de Protección Civil y Emergencias"
+      },
+      {
+        "number": 12,
+        "title": "Subsecretaría del Interior"
+      },
+      {
+        "number": 13,
+        "title": "Secretaría General Técnica del Interior"
+      },
+      {
+        "number": 14,
+        "title": "Política Interior"
+      },
+      {
+        "number": 15,
+        "title": "Tráfico"
+      },
+      {
+        "number": 16,
+        "title": "Víctimas del terrorismo y protección internacional"
+      },
+      {
+        "number": 17,
+        "title": "Disposiciones adicionales I del Interior"
+      },
+      {
+        "number": 18,
+        "title": "Disposiciones adicionales II del Interior"
+      },
+      {
+        "number": 19,
+        "title": "Disposiciones transitorias y finales del Interior"
+      },
+      {
+        "number": 20,
+        "title": "Organización general del Ministerio de Defensa"
+      },
+      {
+        "number": 21,
+        "title": "Fuerzas Armadas y Estado Mayor de la Defensa"
+      },
+      {
+        "number": 22,
+        "title": "Secretaría de Estado de Defensa"
+      },
+      {
+        "number": 23,
+        "title": "Estrategia e Innovación de la Industria de Defensa"
+      },
+      {
+        "number": 24,
+        "title": "Armamento y Material"
+      },
+      {
+        "number": 25,
+        "title": "Asuntos Económicos"
+      },
+      {
+        "number": 26,
+        "title": "Infraestructura"
+      },
+      {
+        "number": 27,
+        "title": "Sistemas y Tecnologías de la Información"
+      },
+      {
+        "number": 28,
+        "title": "Subsecretaría de Defensa"
+      },
+      {
+        "number": 29,
+        "title": "Secretaría General Técnica de Defensa"
+      },
+      {
+        "number": 30,
+        "title": "Personal"
+      },
+      {
+        "number": 31,
+        "title": "Reclutamiento y Enseñanza Militar"
+      },
+      {
+        "number": 32,
+        "title": "Asesoría Jurídica General de la Defensa"
+      },
+      {
+        "number": 33,
+        "title": "Intervención General de la Defensa"
+      },
+      {
+        "number": 34,
+        "title": "Inspección General de Sanidad de la Defensa"
+      },
+      {
+        "number": 35,
+        "title": "Secretaría General de Política de Defensa"
+      },
+      {
+        "number": 36,
+        "title": "Dirección General de Política de Defensa"
+      },
+      {
+        "number": 37,
+        "title": "Consejos y Juntas Superiores"
+      },
+      {
+        "number": 38,
+        "title": "Precedencias del Ministerio de Defensa"
+      },
+      {
+        "number": 39,
+        "title": "Centro Nacional de Inteligencia"
+      },
+      {
+        "number": 40,
+        "title": "Redes y sistemas de información de Defensa"
+      },
+      {
+        "number": 41,
+        "title": "Disposiciones adicionales IV a VI de Defensa"
+      },
+      {
+        "number": 42,
+        "title": "Disposiciones adicionales VII a XI de Defensa"
+      },
+      {
+        "number": 43,
+        "title": "Disposiciones transitoria, derogatoria y finales de Defensa"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "INTERIOR-ORGANIZACION",
+        "title": "Organización y seguridad interior",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "INTERIOR-COORDINACION",
+        "title": "Coordinación, acción exterior y penitenciarias",
+        "blocks": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "INTERIOR-PROTECCION-SUBSECRETARIA",
+        "title": "Protección civil y Subsecretaría",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "code": "INTERIOR-DISPOSICIONES",
+        "title": "Disposiciones del Interior con repaso de estructura",
+        "blocks": [
+          2,
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "code": "DEFENSA-ORGANIZACION",
+        "title": "Organización, Fuerzas Armadas y Secretaría de Estado",
+        "blocks": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "code": "DEFENSA-SUBSECRETARIA",
+        "title": "Subsecretaría, personal y servicios comunes",
+        "blocks": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "code": "DEFENSA-POLITICA-DISPOSICIONES",
+        "title": "Política y disposiciones de Defensa",
+        "blocks": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

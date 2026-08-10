@@ -1,0 +1,1189 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 14,
+  "titulo": "Ministerio del Interior y Ministerio de Defensa",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las preguntas oficiales permanecen separadas del banco propio; su respuesta solo se muestra con plantilla final verificada.",
+  "total_referencias": 44,
+  "con_bloque_asignado": 44,
+  "con_respuesta_verificada": 44,
+  "por_bloque": {
+    "2": 7,
+    "3": 3,
+    "4": 2,
+    "6": 2,
+    "7": 6,
+    "11": 2,
+    "14": 3,
+    "16": 1,
+    "20": 2,
+    "21": 4,
+    "22": 3,
+    "23": 1,
+    "24": 1,
+    "27": 1,
+    "28": 4,
+    "35": 2
+  },
+  "por_promocion": {
+    "2020": 7,
+    "2021": 6,
+    "2022": 10,
+    "2023": 6,
+    "2024": 8,
+    "2025": 3,
+    "2026": 4
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q069",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 69,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F013"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de los siguientes órganos directivos depende de la Secretaría de Estado de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q070",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 70,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F207"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de las siguientes NO es una función del Gabinete de Coordinación y Estudios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q071",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 71,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T14-F485"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. Adscrito al Ministerio de Defensa, el Centro Nacional de Inteligencia depende:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q072",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 72,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T14-F503"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. Señale la opción CORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q068",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 68,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F020"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. Cuál de los siguientes órganos depende de la Subsecretaría del Interior?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q069",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 69,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T14-F388"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de las ae siguientes NO es una funcion de la Dirección General de Política interior?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q070",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 70,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T14-F755"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿A cual de los siguientes érganos le corresponde, en particular, disponer la actuación del Departamento en materia de control de armamento, no proliferación y desarme?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q073",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 73,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T14-F040"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A quién corresponde ejercer las funciones de Relatoría Nacional contra la Trata de Seres Humanos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q074",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 74,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F205"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿De qué órgano depende la Inspección de Personal y Servicios de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q075",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 75,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T14-F543"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. La Dirección General de Armamento y Material, depende…",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 4bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q073",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 73,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T14-F051"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿De qué órgano depende la Oficina Nacional de Información sobre pasajeros (ONIP)?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q074",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 74,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F183"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de las siguientes NO es una función de la Dirección General de Coordinación y Estudios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q075",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 75,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T14-F501"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. Las representaciones militares en los organismos internacionales dependen...",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q074",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 74,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T14-F175"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. La Subdirección General de Cooperación Policial Internacional, depende de:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q075",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 75,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T14-F457"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. La Subdirección General de Protección Internacional está integrada en…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q076",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 76,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T14-F641"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. La Dirección General de Reclutamiento y Enseñanza Militar depende de:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q074",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 74,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F197"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde dirigir la Oficina Nacional de lucha contra los delitos de odio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q075",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 75,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T14-F377"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde la gestión de las relaciones con los órganos competentes de las Comunidades Autónomas y ciudades con Estatuto de Autonomía en materia electoral?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q076",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 76,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T14-F516"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. El Instituto Nacional de Técnica Aeroespacial “Esteban Terradas” (INTA), está adscrito a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q069",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 69,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T14-F175"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde la coordinación de las relaciones del Departamento con la Agencia Europea de la Guardia de Fronteras y Costas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q070",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 70,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F019"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de los siguientes órganos NO depende de la Secretaría de Estado de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q071",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 71,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T14-F511"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. La Dirección General de Infraestructura depende de…",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q072",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 72,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T14-F625"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. Impulsar la política de igualdad es una de las funciones de…",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q074",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 74,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T14-F098"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de las siguientes NO es una de las Divisiones que forman parte de la estructura de la Dirección General de la Policía?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q075",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 75,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F196"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde, entre otras funciones, constituirse como Servicio Central de Violencia de Género para la dirección, definición y operación del Sistema de Seguimiento Integral de los casos de Violencia de Género?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q076",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 76,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T14-F648"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿Cuál de los siguientes órganos NO depende de la Subsecretaría de Defensa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q074",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 74,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T14-F082"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de las siguientes NO es una de las Comisarías Generales que forman parte de la estructura de la Dirección General de la Policía?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q075",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 75,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T14-F028"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde desarrollar las funciones encomendadas al Subregistro Principal OTAN-UE para los órganos centrales del Ministerio del Interior?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q076",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 76,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T14-F764"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_crosswalk_to_current_structure",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. A la Secretaría General de Política de Defensa está adscrita…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q070",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 70,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de los siguientes órganos NO depende de la Subsecretaría del Interior?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q071",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 71,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T14-F487"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. Entre los órganos asesores y consultivos de la persona titular del Departamento, se encuentra…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q069",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 69,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T14-F201"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde constituirse como Observatorio de la Cibercriminalidad del citado Ministerio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q070",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 70,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T14-F512"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿Cuál de los siguientes órganos depende de la Secretaría de Estado de Defensa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q067",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 67,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F006"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A quién corresponde el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q068",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 68,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F021"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿De qué órgano depende la Dirección General de Protección Internacional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q069",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 69,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T14-F374"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿A qué órgano le corresponde la planificación, dirección y coordinación de las actuaciones en materia de ciberseguridad en el ámbito electoral?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q070",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 70,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T14-F649"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿De qué órgano depende la Inspección General de Sanidad de la Defensa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q069",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 69,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T14-F011"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Dentro de la estructura de qué órgano está integrada la Secretaría General de Instituciones Penitenciarias?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q070",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 70,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T14-F503"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿Quién ejercerá sobre la Unidad Militar de Emergencias las competencias que tiene atribuidas en los supuestos de conducción de operaciones militares que contribuyan a la seguridad y defensa de España y de sus aliados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q071",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 71,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T14-F517"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿A qué órgano le corresponde la planificación y desarrollo de la política industrial de la Defensa?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q064",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 64,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T14-F290"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿De qué órgano depende la Dirección General de Protección Civil y Emergencias?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 8ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q065",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 65,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T14-F291"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio del Interior. ¿Cuál de los siguientes NO es uno de los órganos directivos con nivel orgánico de Subdirección General por los cuales está integrada la Dirección General de Protección Civil y Emergencias?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 207/2024, art./disp. 8ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q066",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 66,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T14-F614"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿Qué Órgano de este Ministerio proporcionará las capacidades en el ámbito de las tecnologías de la información y de las comunicaciones (TIC) que resulten necesarias para garantizar el ejercicio de las funciones propias de la Jefatura del Estado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q067",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 67,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T14-F501"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa. ¿De quién dependen las representaciones militares en los organismos internacionales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; las preguntas anteriores a 2024 se conservan como antecedente histórico y se cruzan con la estructura vigente.",
+      "historical_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    }
+  ]
+}

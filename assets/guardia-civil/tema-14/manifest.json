@@ -1,0 +1,722 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-14",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 44,
+    "integrated": 0,
+    "planned": 44
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T14-V00",
+      "file": "t14-00-mapa-interior-defensa.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Doble organigrama para comparar los Ministerios del Interior y de Defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V01",
+      "file": "t14-01-alcance-oficial-y-reformas-vigentes.webp",
+      "title": "Alcance oficial y reformas vigentes",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar alcance oficial y reformas vigentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V02",
+      "file": "t14-02-organizacion-general-del-ministerio-del-interior.webp",
+      "title": "Organización general del Ministerio del Interior",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar organización general del ministerio del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V03",
+      "file": "t14-03-secretaria-de-estado-de-seguridad.webp",
+      "title": "Secretaría de Estado de Seguridad",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar secretaría de estado de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V04",
+      "file": "t14-04-direccion-general-de-la-policia.webp",
+      "title": "Dirección General de la Policía",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar dirección general de la policía.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V05",
+      "file": "t14-05-direccion-general-de-la-guardia-civil.webp",
+      "title": "Dirección General de la Guardia Civil",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar dirección general de la guardia civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V06",
+      "file": "t14-06-relaciones-internacionales-y-extranjeria.webp",
+      "title": "Relaciones Internacionales y Extranjería",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar relaciones internacionales y extranjería.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V07",
+      "file": "t14-07-coordinacion-y-estudios.webp",
+      "title": "Coordinación y Estudios",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar coordinación y estudios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V08",
+      "file": "t14-08-secretaria-general-de-instituciones-penitenciarias.webp",
+      "title": "Secretaría General de Instituciones Penitenciarias",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar secretaría general de instituciones penitenciarias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V09",
+      "file": "t14-09-ejecucion-penal-y-reinsercion-social.webp",
+      "title": "Ejecución Penal y Reinserción Social",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar ejecución penal y reinserción social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V10",
+      "file": "t14-10-secretaria-general-de-proteccion-civil-y-emergencias.webp",
+      "title": "Secretaría General de Protección Civil y Emergencias",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar secretaría general de protección civil y emergencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V11",
+      "file": "t14-11-direccion-general-de-proteccion-civil-y-emergencias.webp",
+      "title": "Dirección General de Protección Civil y Emergencias",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar dirección general de protección civil y emergencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V12",
+      "file": "t14-12-subsecretaria-del-interior.webp",
+      "title": "Subsecretaría del Interior",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar subsecretaría del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V13",
+      "file": "t14-13-secretaria-general-tecnica-del-interior.webp",
+      "title": "Secretaría General Técnica del Interior",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar secretaría general técnica del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V14",
+      "file": "t14-14-politica-interior.webp",
+      "title": "Política Interior",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar política interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V15",
+      "file": "t14-15-trafico.webp",
+      "title": "Tráfico",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar tráfico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V16",
+      "file": "t14-16-victimas-del-terrorismo-y-proteccion-internacional.webp",
+      "title": "Víctimas del terrorismo y protección internacional",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar víctimas del terrorismo y protección internacional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V17",
+      "file": "t14-17-disposiciones-adicionales-i-del-interior.webp",
+      "title": "Disposiciones adicionales I del Interior",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar disposiciones adicionales i del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V18",
+      "file": "t14-18-disposiciones-adicionales-ii-del-interior.webp",
+      "title": "Disposiciones adicionales II del Interior",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar disposiciones adicionales ii del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V19",
+      "file": "t14-19-disposiciones-transitorias-y-finales-del-interior.webp",
+      "title": "Disposiciones transitorias y finales del Interior",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar disposiciones transitorias y finales del interior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V20",
+      "file": "t14-20-organizacion-general-del-ministerio-de-defensa.webp",
+      "title": "Organización general del Ministerio de Defensa",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar organización general del ministerio de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V21",
+      "file": "t14-21-fuerzas-armadas-y-estado-mayor-de-la-defensa.webp",
+      "title": "Fuerzas Armadas y Estado Mayor de la Defensa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar fuerzas armadas y estado mayor de la defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V22",
+      "file": "t14-22-secretaria-de-estado-de-defensa.webp",
+      "title": "Secretaría de Estado de Defensa",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar secretaría de estado de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V23",
+      "file": "t14-23-estrategia-e-innovacion-de-la-industria-de-defensa.webp",
+      "title": "Estrategia e Innovación de la Industria de Defensa",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar estrategia e innovación de la industria de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V24",
+      "file": "t14-24-armamento-y-material.webp",
+      "title": "Armamento y Material",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar armamento y material.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V25",
+      "file": "t14-25-asuntos-economicos.webp",
+      "title": "Asuntos Económicos",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar asuntos económicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V26",
+      "file": "t14-26-infraestructura.webp",
+      "title": "Infraestructura",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar infraestructura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V27",
+      "file": "t14-27-sistemas-y-tecnologias-de-la-informacion.webp",
+      "title": "Sistemas y Tecnologías de la Información",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar sistemas y tecnologías de la información.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V28",
+      "file": "t14-28-subsecretaria-de-defensa.webp",
+      "title": "Subsecretaría de Defensa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar subsecretaría de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V29",
+      "file": "t14-29-secretaria-general-tecnica-de-defensa.webp",
+      "title": "Secretaría General Técnica de Defensa",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar secretaría general técnica de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V30",
+      "file": "t14-30-personal.webp",
+      "title": "Personal",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar personal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V31",
+      "file": "t14-31-reclutamiento-y-ensenanza-militar.webp",
+      "title": "Reclutamiento y Enseñanza Militar",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar reclutamiento y enseñanza militar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V32",
+      "file": "t14-32-asesoria-juridica-general-de-la-defensa.webp",
+      "title": "Asesoría Jurídica General de la Defensa",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar asesoría jurídica general de la defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V33",
+      "file": "t14-33-intervencion-general-de-la-defensa.webp",
+      "title": "Intervención General de la Defensa",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar intervención general de la defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V34",
+      "file": "t14-34-inspeccion-general-de-sanidad-de-la-defensa.webp",
+      "title": "Inspección General de Sanidad de la Defensa",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar inspección general de sanidad de la defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V35",
+      "file": "t14-35-secretaria-general-de-politica-de-defensa.webp",
+      "title": "Secretaría General de Política de Defensa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar secretaría general de política de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V36",
+      "file": "t14-36-direccion-general-de-politica-de-defensa.webp",
+      "title": "Dirección General de Política de Defensa",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar dirección general de política de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V37",
+      "file": "t14-37-consejos-y-juntas-superiores.webp",
+      "title": "Consejos y Juntas Superiores",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar consejos y juntas superiores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V38",
+      "file": "t14-38-precedencias-del-ministerio-de-defensa.webp",
+      "title": "Precedencias del Ministerio de Defensa",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar precedencias del ministerio de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V39",
+      "file": "t14-39-centro-nacional-de-inteligencia.webp",
+      "title": "Centro Nacional de Inteligencia",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar centro nacional de inteligencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V40",
+      "file": "t14-40-redes-y-sistemas-de-informacion-de-defensa.webp",
+      "title": "Redes y sistemas de información de Defensa",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar redes y sistemas de información de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V41",
+      "file": "t14-41-disposiciones-adicionales-iv-a-vi-de-defensa.webp",
+      "title": "Disposiciones adicionales IV a VI de Defensa",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar disposiciones adicionales iv a vi de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V42",
+      "file": "t14-42-disposiciones-adicionales-vii-a-xi-de-defensa.webp",
+      "title": "Disposiciones adicionales VII a XI de Defensa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar disposiciones adicionales vii a xi de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T14-V43",
+      "file": "t14-43-disposiciones-transitoria-derogatoria-y-finales-de-defensa.webp",
+      "title": "Disposiciones transitoria, derogatoria y finales de Defensa",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar disposiciones transitoria, derogatoria y finales de defensa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

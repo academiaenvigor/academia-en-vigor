@@ -1,0 +1,756 @@
+{
+  "schema_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 14,
+  "merge_policy": "merge_by_question_id_without_replacing_other_theme_refs",
+  "updates": [
+    {
+      "question_id": "of-gc-p2020-1a-q069",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F013"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q070",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F207"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q071",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F485"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q072",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F503"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q068",
+      "exam_id": "of-gc-p2020-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F020"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q069",
+      "exam_id": "of-gc-p2020-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F388"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q070",
+      "exam_id": "of-gc-p2020-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F755"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q073",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F040"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q074",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F205"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q075",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F543"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 4bis",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q073",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F051"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q074",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F183"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q075",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F501"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q074",
+      "exam_id": "of-gc-p2022-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F175"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q075",
+      "exam_id": "of-gc-p2022-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F457"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q076",
+      "exam_id": "of-gc-p2022-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F641"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q074",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F197"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q075",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F377"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q076",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F516"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q069",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F175"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 5",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q070",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F019"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q071",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F511"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q072",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F625"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q074",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F098"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q075",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F196"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q076",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F648"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q074",
+      "exam_id": "of-gc-p2023-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F082"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q075",
+      "exam_id": "of-gc-p2023-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F028"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q076",
+      "exam_id": "of-gc-p2023-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F764"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 15",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q070",
+      "exam_id": "of-gc-p2024-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F015"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q071",
+      "exam_id": "of-gc-p2024-1a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F487"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q069",
+      "exam_id": "of-gc-p2024-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F201"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 6",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q070",
+      "exam_id": "of-gc-p2024-2a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F512"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q067",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F006"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q068",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F021"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q069",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F374"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 11",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q070",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F649"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 8",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q069",
+      "exam_id": "of-gc-p2025-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F011"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 1",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q070",
+      "exam_id": "of-gc-p2025-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F503"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q071",
+      "exam_id": "of-gc-p2025-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F517"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 4",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q064",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F290"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 8ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q065",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F291"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 207/2024, art./disp. 8ter",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3793",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q066",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F614"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q067",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T14"
+      ],
+      "fact_refs": [
+        "GC-T14-F501"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "RD 205/2024, art./disp. 2",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-3791",
+        "reference_date": "2026-08-09"
+      }
+    }
+  ]
+}
