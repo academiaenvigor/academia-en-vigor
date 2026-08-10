@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-10",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada_sin_produccion_grafica",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los archivos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-10",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "GC-T10-PARTE-1",
+      "number": 1,
+      "title": "Fundamentos y sujetos del procedimiento",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "anchor_blocks": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-2",
+      "number": 2,
+      "title": "Actividad y actos administrativos",
+      "blocks": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "anchor_blocks": [
+        6,
+        20
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-3",
+      "number": 3,
+      "title": "Procedimiento administrativo común",
+      "blocks": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "anchor_blocks": [
+        21,
+        33
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-4",
+      "number": 4,
+      "title": "Revisión, recursos y producción normativa",
+      "blocks": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "anchor_blocks": [
+        34,
+        39
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-5",
+      "number": 5,
+      "title": "Régimen jurídico del sector público",
+      "blocks": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "anchor_blocks": [
+        40,
+        52
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-6",
+      "number": 6,
+      "title": "Administración General del Estado",
+      "blocks": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "anchor_blocks": [
+        53,
+        60
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-7",
+      "number": 7,
+      "title": "Relaciones interadministrativas",
+      "blocks": [
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "anchor_blocks": [
+        61,
+        65
+      ]
+    },
+    {
+      "id": "GC-T10-PARTE-8",
+      "number": 8,
+      "title": "Ley del Gobierno reformada por la Ley 40/2015",
+      "blocks": [
+        66
+      ],
+      "anchor_blocks": [
+        66,
+        66
+      ]
+    }
+  ],
+  "resources": []
+}

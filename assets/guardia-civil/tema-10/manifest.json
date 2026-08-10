@@ -1,0 +1,1090 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-10",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 67,
+    "integrated": 0,
+    "planned": 67
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T10-V00",
+      "file": "t10-00-mapa-derecho-administrativo.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido por personas, actos, procedimiento, organización y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V01",
+      "file": "t10-01-mapa-alcance-y-vigencia.webp",
+      "title": "Mapa, alcance y vigencia",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar mapa, alcance y vigencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V02",
+      "file": "t10-02-objeto-ambito-y-estructura-de-la-ley-39-2015.webp",
+      "title": "Objeto, ámbito y estructura de la Ley 39/2015",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar objeto, ámbito y estructura de la ley 39/2015.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V03",
+      "file": "t10-03-capacidad-de-obrar-y-condicion-de-interesado.webp",
+      "title": "Capacidad de obrar y condición de interesado",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar capacidad de obrar y condición de interesado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V04",
+      "file": "t10-04-representacion-y-apoderamientos.webp",
+      "title": "Representación y apoderamientos",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar representación y apoderamientos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V05",
+      "file": "t10-05-pluralidad-identificacion-firma-y-asistencia.webp",
+      "title": "Pluralidad, identificación, firma y asistencia",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar pluralidad, identificación, firma y asistencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V06",
+      "file": "t10-06-derechos-y-relacion-electronica.webp",
+      "title": "Derechos y relación electrónica",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar derechos y relación electrónica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V07",
+      "file": "t10-07-lengua-registros-y-archivo.webp",
+      "title": "Lengua, registros y archivo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar lengua, registros y archivo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V08",
+      "file": "t10-08-colaboracion-comparecencia-y-responsabilidad-de-tramitacion.webp",
+      "title": "Colaboración, comparecencia y responsabilidad de tramitación",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar colaboración, comparecencia y responsabilidad de tramitación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V09",
+      "file": "t10-09-obligacion-de-resolver.webp",
+      "title": "Obligación de resolver",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar obligación de resolver.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V10",
+      "file": "t10-10-suspension-y-ampliacion-del-plazo-maximo.webp",
+      "title": "Suspensión y ampliación del plazo máximo",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar suspensión y ampliación del plazo máximo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V11",
+      "file": "t10-11-silencio-administrativo.webp",
+      "title": "Silencio administrativo",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar silencio administrativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V12",
+      "file": "t10-12-documentos-copias-y-expediente-administrativo.webp",
+      "title": "Documentos, copias y expediente administrativo",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar documentos, copias y expediente administrativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V13",
+      "file": "t10-13-terminos-plazos-ampliacion-y-urgencia.webp",
+      "title": "Términos, plazos, ampliación y urgencia",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar términos, plazos, ampliación y urgencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V14",
+      "file": "t10-14-produccion-contenido-motivacion-y-forma.webp",
+      "title": "Producción, contenido, motivación y forma",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar producción, contenido, motivación y forma.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V15",
+      "file": "t10-15-inderogabilidad-singular-y-legalidad-del-acto.webp",
+      "title": "Inderogabilidad singular y legalidad del acto",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar inderogabilidad singular y legalidad del acto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V16",
+      "file": "t10-16-eficacia-demora-y-retroactividad.webp",
+      "title": "Eficacia, demora y retroactividad",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar eficacia, demora y retroactividad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V17",
+      "file": "t10-17-notificacion-electronica-y-en-papel.webp",
+      "title": "Notificación electrónica y en papel",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar notificación electrónica y en papel.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V18",
+      "file": "t10-18-publicacion-e-indicacion-de-recursos.webp",
+      "title": "Publicación e indicación de recursos",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar publicación e indicación de recursos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V19",
+      "file": "t10-19-nulidad-y-anulabilidad.webp",
+      "title": "Nulidad y anulabilidad",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar nulidad y anulabilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V20",
+      "file": "t10-20-limites-conversion-conservacion-y-convalidacion.webp",
+      "title": "Límites, conversión, conservación y convalidación",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar límites, conversión, conservación y convalidación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V21",
+      "file": "t10-21-garantias-del-procedimiento.webp",
+      "title": "Garantías del procedimiento",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar garantías del procedimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V22",
+      "file": "t10-22-iniciacion-reglas-generales-y-medidas-provisionales.webp",
+      "title": "Iniciación: reglas generales y medidas provisionales",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar iniciación: reglas generales y medidas provisionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V23",
+      "file": "t10-23-iniciacion-de-oficio.webp",
+      "title": "Iniciación de oficio",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar iniciación de oficio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V24",
+      "file": "t10-24-iniciacion-a-solicitud-del-interesado.webp",
+      "title": "Iniciación a solicitud del interesado",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar iniciación a solicitud del interesado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V25",
+      "file": "t10-25-ordenacion-del-procedimiento.webp",
+      "title": "Ordenación del procedimiento",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar ordenación del procedimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V26",
+      "file": "t10-26-actos-de-instruccion-y-alegaciones.webp",
+      "title": "Actos de instrucción y alegaciones",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar actos de instrucción y alegaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V27",
+      "file": "t10-27-prueba.webp",
+      "title": "Prueba",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar prueba.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V28",
+      "file": "t10-28-informes-audiencia-e-informacion-publica.webp",
+      "title": "Informes, audiencia e información pública",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar informes, audiencia e información pública.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V29",
+      "file": "t10-29-terminacion-general-y-convencional.webp",
+      "title": "Terminación general y convencional",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar terminación general y convencional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V30",
+      "file": "t10-30-resolucion-y-especialidades.webp",
+      "title": "Resolución y especialidades",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar resolución y especialidades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V31",
+      "file": "t10-31-desistimiento-renuncia-y-caducidad.webp",
+      "title": "Desistimiento, renuncia y caducidad",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar desistimiento, renuncia y caducidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V32",
+      "file": "t10-32-tramitacion-simplificada.webp",
+      "title": "Tramitación simplificada",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar tramitación simplificada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V33",
+      "file": "t10-33-ejecucion.webp",
+      "title": "Ejecución",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V34",
+      "file": "t10-34-revision-de-oficio.webp",
+      "title": "Revisión de oficio",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar revisión de oficio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V35",
+      "file": "t10-35-recursos-administrativos-reglas-generales.webp",
+      "title": "Recursos administrativos: reglas generales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar recursos administrativos: reglas generales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V36",
+      "file": "t10-36-recurso-de-alzada.webp",
+      "title": "Recurso de alzada",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar recurso de alzada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V37",
+      "file": "t10-37-recurso-potestativo-de-reposicion.webp",
+      "title": "Recurso potestativo de reposición",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar recurso potestativo de reposición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V38",
+      "file": "t10-38-recurso-extraordinario-de-revision.webp",
+      "title": "Recurso extraordinario de revisión",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar recurso extraordinario de revisión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V39",
+      "file": "t10-39-iniciativa-legislativa-y-potestad-reglamentaria.webp",
+      "title": "Iniciativa legislativa y potestad reglamentaria",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar iniciativa legislativa y potestad reglamentaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V40",
+      "file": "t10-40-ley-40-2015-objeto-ambito-y-principios.webp",
+      "title": "Ley 40/2015: objeto, ámbito y principios",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar ley 40/2015: objeto, ámbito y principios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V41",
+      "file": "t10-41-organos-administrativos-instrucciones-y-competencia.webp",
+      "title": "Órganos administrativos, instrucciones y competencia",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar órganos administrativos, instrucciones y competencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V42",
+      "file": "t10-42-delegacion-avocacion-encomienda-firma-y-suplencia.webp",
+      "title": "Delegación, avocación, encomienda, firma y suplencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar delegación, avocación, encomienda, firma y suplencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V43",
+      "file": "t10-43-decisiones-de-competencia-y-organos-colegiados.webp",
+      "title": "Decisiones de competencia y órganos colegiados",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar decisiones de competencia y órganos colegiados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V44",
+      "file": "t10-44-organos-colegiados-de-la-administracion-general-del-estado.webp",
+      "title": "Órganos colegiados de la Administración General del Estado",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar órganos colegiados de la administración general del estado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V45",
+      "file": "t10-45-abstencion-y-recusacion.webp",
+      "title": "Abstención y recusación",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar abstención y recusación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V46",
+      "file": "t10-46-principios-de-la-potestad-sancionadora.webp",
+      "title": "Principios de la potestad sancionadora",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar principios de la potestad sancionadora.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V47",
+      "file": "t10-47-responsabilidad-patrimonial-de-las-administraciones.webp",
+      "title": "Responsabilidad patrimonial de las Administraciones",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar responsabilidad patrimonial de las administraciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V48",
+      "file": "t10-48-responsabilidad-de-autoridades-y-personal.webp",
+      "title": "Responsabilidad de autoridades y personal",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar responsabilidad de autoridades y personal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V49",
+      "file": "t10-49-funcionamiento-electronico-del-sector-publico.webp",
+      "title": "Funcionamiento electrónico del sector público",
+      "type": "ilustracion_simple",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar funcionamiento electrónico del sector público.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V50",
+      "file": "t10-50-convenios-concepto-requisitos-y-validez.webp",
+      "title": "Convenios: concepto, requisitos y validez",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar convenios: concepto, requisitos y validez.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V51",
+      "file": "t10-51-convenios-extincion-liquidacion-y-control.webp",
+      "title": "Convenios: extinción, liquidación y control",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar convenios: extinción, liquidación y control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V52",
+      "file": "t10-52-administracion-de-los-territorios-historicos.webp",
+      "title": "Administración de los territorios históricos",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar administración de los territorios históricos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V53",
+      "file": "t10-53-organizacion-de-la-administracion-general-del-estado.webp",
+      "title": "Organización de la Administración General del Estado",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar organización de la administración general del estado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V54",
+      "file": "t10-54-ministerios-secretarias-de-estado-y-organos-superiores.webp",
+      "title": "Ministerios, Secretarías de Estado y órganos superiores",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar ministerios, secretarías de estado y órganos superiores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V55",
+      "file": "t10-55-subsecretarias-secretarias-generales-y-direcciones.webp",
+      "title": "Subsecretarías, Secretarías Generales y Direcciones",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar subsecretarías, secretarías generales y direcciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V56",
+      "file": "t10-56-jerarquia-y-servicios-comunes.webp",
+      "title": "Jerarquía y servicios comunes",
+      "type": "ilustracion_simple",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar jerarquía y servicios comunes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V57",
+      "file": "t10-57-organizacion-territorial-y-delegados-del-gobierno.webp",
+      "title": "Organización territorial y Delegados del Gobierno",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar organización territorial y delegados del gobierno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V58",
+      "file": "t10-58-subdelegados-del-gobierno-y-directores-insulares.webp",
+      "title": "Subdelegados del Gobierno y Directores Insulares",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar subdelegados del gobierno y directores insulares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V59",
+      "file": "t10-59-estructura-territorial-y-comision-de-asistencia.webp",
+      "title": "Estructura territorial y Comisión de asistencia",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar estructura territorial y comisión de asistencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V60",
+      "file": "t10-60-administracion-general-del-estado-en-el-exterior.webp",
+      "title": "Administración General del Estado en el exterior",
+      "type": "infografia",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar administración general del estado en el exterior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V61",
+      "file": "t10-61-principios-y-deber-de-colaboracion-interadministrativa.webp",
+      "title": "Principios y deber de colaboración interadministrativa",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar principios y deber de colaboración interadministrativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V62",
+      "file": "t10-62-tecnicas-de-colaboracion.webp",
+      "title": "Técnicas de colaboración",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar técnicas de colaboración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V63",
+      "file": "t10-63-cooperacion-y-conferencias-sectoriales.webp",
+      "title": "Cooperación y conferencias sectoriales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar cooperación y conferencias sectoriales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V64",
+      "file": "t10-64-comisiones-otros-organos-y-registro.webp",
+      "title": "Comisiones, otros órganos y registro",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar comisiones, otros órganos y registro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V65",
+      "file": "t10-65-relaciones-electronicas-y-transferencia-tecnologica.webp",
+      "title": "Relaciones electrónicas y transferencia tecnológica",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar relaciones electrónicas y transferencia tecnológica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T10-V66",
+      "file": "t10-66-disposicion-final-tercera-reforma-de-la-ley-del-gobierno.webp",
+      "title": "Disposición final tercera: reforma de la Ley del Gobierno",
+      "type": "infografia",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar disposición final tercera: reforma de la ley del gobierno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

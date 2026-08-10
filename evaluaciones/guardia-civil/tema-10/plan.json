@@ -1,0 +1,446 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 10,
+  "topic_title": "Derecho administrativo",
+  "id_prefix": "GC-T10",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-10/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-10/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa, alcance y vigencia"
+      },
+      {
+        "number": 2,
+        "title": "Objeto, ámbito y estructura de la Ley 39/2015"
+      },
+      {
+        "number": 3,
+        "title": "Capacidad de obrar y condición de interesado"
+      },
+      {
+        "number": 4,
+        "title": "Representación y apoderamientos"
+      },
+      {
+        "number": 5,
+        "title": "Pluralidad, identificación, firma y asistencia"
+      },
+      {
+        "number": 6,
+        "title": "Derechos y relación electrónica"
+      },
+      {
+        "number": 7,
+        "title": "Lengua, registros y archivo"
+      },
+      {
+        "number": 8,
+        "title": "Colaboración, comparecencia y responsabilidad de tramitación"
+      },
+      {
+        "number": 9,
+        "title": "Obligación de resolver"
+      },
+      {
+        "number": 10,
+        "title": "Suspensión y ampliación del plazo máximo"
+      },
+      {
+        "number": 11,
+        "title": "Silencio administrativo"
+      },
+      {
+        "number": 12,
+        "title": "Documentos, copias y expediente administrativo"
+      },
+      {
+        "number": 13,
+        "title": "Términos, plazos, ampliación y urgencia"
+      },
+      {
+        "number": 14,
+        "title": "Producción, contenido, motivación y forma"
+      },
+      {
+        "number": 15,
+        "title": "Inderogabilidad singular y legalidad del acto"
+      },
+      {
+        "number": 16,
+        "title": "Eficacia, demora y retroactividad"
+      },
+      {
+        "number": 17,
+        "title": "Notificación electrónica y en papel"
+      },
+      {
+        "number": 18,
+        "title": "Publicación e indicación de recursos"
+      },
+      {
+        "number": 19,
+        "title": "Nulidad y anulabilidad"
+      },
+      {
+        "number": 20,
+        "title": "Límites, conversión, conservación y convalidación"
+      },
+      {
+        "number": 21,
+        "title": "Garantías del procedimiento"
+      },
+      {
+        "number": 22,
+        "title": "Iniciación: reglas generales y medidas provisionales"
+      },
+      {
+        "number": 23,
+        "title": "Iniciación de oficio"
+      },
+      {
+        "number": 24,
+        "title": "Iniciación a solicitud del interesado"
+      },
+      {
+        "number": 25,
+        "title": "Ordenación del procedimiento"
+      },
+      {
+        "number": 26,
+        "title": "Actos de instrucción y alegaciones"
+      },
+      {
+        "number": 27,
+        "title": "Prueba"
+      },
+      {
+        "number": 28,
+        "title": "Informes, audiencia e información pública"
+      },
+      {
+        "number": 29,
+        "title": "Terminación general y convencional"
+      },
+      {
+        "number": 30,
+        "title": "Resolución y especialidades"
+      },
+      {
+        "number": 31,
+        "title": "Desistimiento, renuncia y caducidad"
+      },
+      {
+        "number": 32,
+        "title": "Tramitación simplificada"
+      },
+      {
+        "number": 33,
+        "title": "Ejecución"
+      },
+      {
+        "number": 34,
+        "title": "Revisión de oficio"
+      },
+      {
+        "number": 35,
+        "title": "Recursos administrativos: reglas generales"
+      },
+      {
+        "number": 36,
+        "title": "Recurso de alzada"
+      },
+      {
+        "number": 37,
+        "title": "Recurso potestativo de reposición"
+      },
+      {
+        "number": 38,
+        "title": "Recurso extraordinario de revisión"
+      },
+      {
+        "number": 39,
+        "title": "Iniciativa legislativa y potestad reglamentaria"
+      },
+      {
+        "number": 40,
+        "title": "Ley 40/2015: objeto, ámbito y principios"
+      },
+      {
+        "number": 41,
+        "title": "Órganos administrativos, instrucciones y competencia"
+      },
+      {
+        "number": 42,
+        "title": "Delegación, avocación, encomienda, firma y suplencia"
+      },
+      {
+        "number": 43,
+        "title": "Decisiones de competencia y órganos colegiados"
+      },
+      {
+        "number": 44,
+        "title": "Órganos colegiados de la Administración General del Estado"
+      },
+      {
+        "number": 45,
+        "title": "Abstención y recusación"
+      },
+      {
+        "number": 46,
+        "title": "Principios de la potestad sancionadora"
+      },
+      {
+        "number": 47,
+        "title": "Responsabilidad patrimonial de las Administraciones"
+      },
+      {
+        "number": 48,
+        "title": "Responsabilidad de autoridades y personal"
+      },
+      {
+        "number": 49,
+        "title": "Funcionamiento electrónico del sector público"
+      },
+      {
+        "number": 50,
+        "title": "Convenios: concepto, requisitos y validez"
+      },
+      {
+        "number": 51,
+        "title": "Convenios: extinción, liquidación y control"
+      },
+      {
+        "number": 52,
+        "title": "Administración de los territorios históricos"
+      },
+      {
+        "number": 53,
+        "title": "Organización de la Administración General del Estado"
+      },
+      {
+        "number": 54,
+        "title": "Ministerios, Secretarías de Estado y órganos superiores"
+      },
+      {
+        "number": 55,
+        "title": "Subsecretarías, Secretarías Generales y Direcciones"
+      },
+      {
+        "number": 56,
+        "title": "Jerarquía y servicios comunes"
+      },
+      {
+        "number": 57,
+        "title": "Organización territorial y Delegados del Gobierno"
+      },
+      {
+        "number": 58,
+        "title": "Subdelegados del Gobierno y Directores Insulares"
+      },
+      {
+        "number": 59,
+        "title": "Estructura territorial y Comisión de asistencia"
+      },
+      {
+        "number": 60,
+        "title": "Administración General del Estado en el exterior"
+      },
+      {
+        "number": 61,
+        "title": "Principios y deber de colaboración interadministrativa"
+      },
+      {
+        "number": 62,
+        "title": "Técnicas de colaboración"
+      },
+      {
+        "number": 63,
+        "title": "Cooperación y conferencias sectoriales"
+      },
+      {
+        "number": 64,
+        "title": "Comisiones, otros órganos y registro"
+      },
+      {
+        "number": 65,
+        "title": "Relaciones electrónicas y transferencia tecnológica"
+      },
+      {
+        "number": 66,
+        "title": "Disposición final tercera: reforma de la Ley del Gobierno"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Fundamentos y sujetos del procedimiento",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Actividad y actos administrativos",
+        "blocks": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Procedimiento administrativo común",
+        "blocks": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Revisión, recursos y producción normativa",
+        "blocks": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Régimen jurídico del sector público",
+        "blocks": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Administración General del Estado",
+        "blocks": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      {
+        "code": "PARTE-7",
+        "title": "Relaciones interadministrativas",
+        "blocks": [
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      {
+        "code": "PARTE-8",
+        "title": "Ley del Gobierno reformada por la Ley 40/2015",
+        "blocks": [
+          66
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

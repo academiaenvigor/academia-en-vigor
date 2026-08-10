@@ -1,0 +1,1766 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 10,
+  "titulo": "Derecho administrativo",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las preguntas oficiales permanecen separadas del banco propio; su respuesta se muestra solo cuando la plantilla final está verificada.",
+  "total_referencias": 81,
+  "con_bloque_asignado": 81,
+  "con_respuesta_verificada": 81,
+  "por_bloque": {
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 1,
+    "6": 2,
+    "7": 1,
+    "9": 4,
+    "11": 1,
+    "13": 6,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "17": 3,
+    "19": 2,
+    "22": 1,
+    "23": 1,
+    "24": 1,
+    "28": 1,
+    "33": 1,
+    "35": 2,
+    "36": 1,
+    "38": 4,
+    "39": 2,
+    "41": 1,
+    "42": 8,
+    "43": 4,
+    "44": 1,
+    "45": 6,
+    "47": 2,
+    "51": 1,
+    "53": 4,
+    "54": 1,
+    "57": 1,
+    "58": 1,
+    "63": 2,
+    "66": 6
+  },
+  "por_promocion": {
+    "2020": 12,
+    "2021": 12,
+    "2022": 22,
+    "2023": 12,
+    "2024": 14,
+    "2025": 5,
+    "2026": 4
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q052",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 52,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T10-F020"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Quién se considera interesado en el procedimiento administrativo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q053",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 53,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T10-F126"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Silencio administrativo en procedimientos iniciados a solicitud del interesado. ¿Qué efectos tiene el silencio administrativo en los procedimientos de responsabilidad patrimonial de las Administraciones Públicas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q054",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 54,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T10-F460"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Recurso de alzada. Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, ¿en qué plazo deberá dicho órgano remitirlo al competente, con su informe y con una copia completa y ordenada del expediente?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q055",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 55,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F530"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. ¿Qué técnica de Derecho administrativo se aplica cuando un órgano superior reclama para sí el conocimiento de un asunto cuya resolución corresponde ordinariamente a sus órganos administrativos dependientes, cuando circunstancias de índole técnica lo hagan conveniente?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q056",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 56,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F543"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Respecto a la suplencia, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q057",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 57,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T10-F735"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. La determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado se establecen mediante:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q058",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 58,
+      "block_refs": [
+        57
+      ],
+      "fact_refs": [
+        "GC-T10-F802"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Los Delegados del Gobierno en las Comunidades Autónomas. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q052",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 52,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T10-F075"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Publicas. En relacion a la lengua en los procedimientos, sefale la opción INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q053",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 53,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T10-F103"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Obligación de resolver. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q055",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 55,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F532"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Juridico del Sector Publico. ¿Qué técnica de derecho administrativo es aplicada cuando un arte órgano administrativo encarga a otro órgano la realizacién de actividades de carácter material, por razones de eficacia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q056",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 56,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F603"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Juridico del Sector Publico. Recusación. Si el recusado niega la causa de recusacién, ¿en qué il de plazo resolverá el superior la misma, previos tos informes y comprobaciones que considere oportunos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q057",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 57,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F912"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Disposición final tercera. En caso de que existan Ministros sin cartera, ¿por qué norma se determinarán el ámbito de sus competencias, la estructura administrativa y los medios materiales y personales adscritos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q056",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 56,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T10-F026"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. En relación con la representación, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q057",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 57,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F165"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Términos y plazos. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q058",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 58,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T10-F198"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De los actos administrativos. Eficacia de los actos. ¿Dentro de qué plazo deberá ser cursada toda notificación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q059",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 59,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F531"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. En relación con la avocación, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q060",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 60,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T10-F728"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. De acuerdo con la estructura de la Administración General del Estado, diga cuál de los siguientes NO son órganos directivos:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q061",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 61,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F943"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Disposición Final 3ª. De la suplencia. La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por ___________del Presidente del Gobierno.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q056",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 56,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T10-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. NO tiene la consideración de Administraciones Públicas….:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q057",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 57,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F162"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Términos y plazos. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q058",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 58,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T10-F190"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿A qué principio hace referencia la expresión: “Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria”?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q059",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 59,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F535"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. En relación con las encomiendas de gestión, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q060",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 60,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T10-F724"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. De acuerdo con la ordenación jerárquica de los órganos ministeriales, diga cuál de los siguientes tienen categoría de Director General:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q061",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 61,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F958"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Disposición Final 3ª. ¿Quién aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q057",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 57,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T10-F104"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Cuál será el plazo máximo en el que debe notificarse la resolución expresa en los procedimientos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q058",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 58,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F180"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Términos y plazos. ¿Cuándo se podrá acordar la aplicación de la tramitación de urgencia al procedimiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q059",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 59,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T10-F269"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Iniciación del procedimiento. Se entiende por _______________, el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q060",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 60,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T10-F466"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Qué nombre recibe el procedimiento de revisión de actos que puede interponerse contra actos firmes en vía administrativa cuando aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q061",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 61,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "GC-T10-F548"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Decisiones sobre competencia. ¿Sólo entre qué órganos podrán suscitarse conflictos de atribuciones?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q062",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 62,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F598"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. ¿Cuál de los siguientes, NO es un motivo de abstención de las autoridades y el personal al servicio de las Administraciones para intervenir en un procedimiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q063",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 63,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F913"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. Disposición Final 3ª. Del Consejo de Ministros. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q064",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 64,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F932"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Disposición Final 3ª. Los Gabinetes, NO son órganos de apoyo político y técnico de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q056",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 56,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T10-F070"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Quiénes, en todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q057",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 57,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F164"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Cómputo de plazos. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q058",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 58,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T10-F261"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Iniciación del procedimiento. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q059",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 59,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T10-F436"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Qué recurso cabe contra las disposiciones administrativas de carácter general?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q060",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 60,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T10-F471"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Recursos administrativos. Con arreglo a lo dispuesto en esta Ley, transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, ¿cómo se entenderá el mismo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q061",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 61,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T10-F570"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. De los órganos colegiados de la Administración General del Estado. ¿A quién corresponde expedir certificaciones de las consultas y dictámenes aprobados por el órgano colegiado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q062",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 62,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "GC-T10-F709"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Extinción de los convenios. De las siguientes opciones, ¿cuál NO es una causa de resolución por la que se extinguen los convenios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q063",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 63,
+      "block_refs": [
+        66
+      ],
+      "fact_refs": [
+        "GC-T10-F925"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. Disposición Final 3ª. ¿Cuál es el órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q051",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 51,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T10-F040"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De los interesados en el Procedimiento. Cuando en una solicitud o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado y, en su defecto…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q052",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 52,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T10-F235"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Nulidad y anulabilidad de los actos de las Administraciones Públicas. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q053",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 53,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T10-F291"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Cuándo prescribirá el derecho a solicitar el inicio de un procedimiento de responsabilidad patrimonial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q054",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 54,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F598"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. ¿Cuál de las siguientes opciones, NO es un motivo de abstención de las autoridades y el personal al servicio de las Administraciones para intervenir en un procedimiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q055",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 55,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F602"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Abstención y recusación. Con arreglo a lo dispuesto en esta Ley, en el supuesto de que exista una causa de abstención en el instructor de un procedimiento administrativo, podrá promoverse recusación por los interesados…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q056",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 56,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T10-F827"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. Administración General del Estado. ¿A quién de los siguientes le corresponde proteger el libre ejercicio de los derechos y libertades, garantizando la seguridad ciudadana, todo ello dentro de las competencias estatales en la materia, dirigiendo, a estos efectos, las Fuerzas y Cuerpos de Seguridad del Estado en la provincia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q058",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 58,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T10-F014"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. En relación con las Universidades públicas, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q059",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 59,
+      "block_refs": [
+        16
+      ],
+      "fact_refs": [
+        "GC-T10-F192"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Eficacia de los actos. ¿Puede quedar demorada la eficacia de los actos de las Administraciones Públicas sujetos al Derecho Administrativo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q060",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 60,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T10-F433"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿Cuál NO es uno de los recursos administrativos que se contemplan en esta Ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q061",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 61,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T10-F479"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿En virtud de qué principio, la iniciativa legislativa que se proponga por las Administraciones Públicas deberá contener la regulación imprescindible para atender la necesidad a cubrir con la norma, tras constatar que no existen otras medidas que impongan menos obligaciones a los destinatarios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q062",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 62,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "GC-T10-F546"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. De los órganos de las Administraciones Públicas. El órgano administrativo que se estime incompetente para la resolución de un asunto…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q063",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 63,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F600"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Abstención y recusación. En relación con la abstención de las autoridades y el personal al servicio de las Administraciones para intervenir en un procedimiento, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q060",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 60,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T10-F026"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. La insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se subsane el defecto dentro del plazo de __________ que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q061",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 61,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T10-F215"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Práctica de las notificaciones en papel. Cuando la notificación se practique en el domicilio del interesado, si nadie se hiciera cargo de la misma, el intento se repetirá por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q062",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 62,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T10-F476"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones. En relación con la potestad reglamentaria, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q063",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 63,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F541"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. En relación con la delegación de firma, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q064",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 64,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "GC-T10-F556"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Los órganos colegiados de las distintas Administraciones Públicas en que participen organizaciones representativas de intereses sociales…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q065",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 65,
+      "block_refs": [
+        63
+      ],
+      "fact_refs": [
+        "GC-T10-F862"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. Relaciones interadministrativas. Relaciones de cooperación. ¿Quién preside la Conferencia de Presidentes?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q054",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 54,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F164"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. En relación con el cómputo de plazos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q055",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 55,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T10-F198"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Eficacia de los actos. ¿Dentro de qué plazo a partir de la fecha en que el acto haya sido dictado deberá ser cursada toda notificación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q056",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 56,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T10-F415"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De las disposiciones sobre el procedimiento administrativo común. Los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ser ejecutados por _____________________________________ en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q057",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 57,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T10-F633"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. La responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia se regirá por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q058",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 58,
+      "block_refs": [
+        63
+      ],
+      "fact_refs": [
+        "GC-T10-F859"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Relaciones interadministrativas. Los órganos de cooperación son órganos de composición…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q053",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 53,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T10-F102"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De la actividad de las Administraciones Públicas. La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación. ¿En cuál de los siguientes casos esa resolución NO consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q054",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 54,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T10-F180"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Tramitación de urgencia. En relación con dicha tramitación, indique la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q055",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 55,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T10-F340"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. En el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q056",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 56,
+      "block_refs": [
+        43
+      ],
+      "fact_refs": [
+        "GC-T10-F550"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Los órganos colegiados compuestos por representaciones de distintas Administraciones Públicas...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q057",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 57,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T10-F634"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Responsabilidad Patrimonial de las Administraciones Públicas. ¿Quién fijará el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de las cuestiones de inconstitucionalidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q052",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 52,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T10-F070"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De la actividad de las Administraciones Públicas. ¿Quiénes NO estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q053",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 53,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T10-F103"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Obligación de resolver. Indique la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q054",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 54,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T10-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De los actos administrativos. ¿Cuál de los siguientes NO es uno de los casos que la ley especifica que deben ser motivados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q055",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 55,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T10-F728"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Régimen Jurídico del Sector Público. Administración General del Estado. ¿Cuál de los siguientes NO es un órgano directivo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q054",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 54,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T10-F038"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Registros electrónicos de apoderamientos. Como norma general, los poderes inscritos en los registros tendrán una validez determinada máxima de________________ a contar desde la fecha de inscripción .",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q055",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 55,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T10-F468"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. ¿En cuál de las siguientes circunstancias, el recurso extraordinario de revisión se interpondrá, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q056",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 56,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T10-F513"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. De los órganos administrativos. ¿Cómo podrán los órganos administrativos dirigir las actividades de sus órganos jerárquicamente dependientes?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q057",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 57,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F532"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. En relación con la encomienda de gestión, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q058",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 58,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T10-F598"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. ¿Cuál de las siguientes circunstancias, NO es un motivo por el que tengan que abstenerse las autoridades y el personal al servicio de las Administraciones de intervenir en un procedimiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q051",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 51,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T10-F235"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. De los actos administrativos. Nulidad y anulabilidad de los actos administrativos. ¿Qué consecuencias jurídicas atribuye la ley a la “desviación de poder”?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q052",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 52,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T10-F471"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Procedimiento Administrativo Común de las Administraciones Públicas. Recurso extraordinario de revisión. Transcurrido el plazo de ______________desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q053",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 53,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T10-F529"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. En relación con la delegación de competencias, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q054",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 54,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T10-F724"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Régimen Jurídico del Sector Público. Con respecto a la Estructura de la Administración General del Estado, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con BOE."
+    }
+  ]
+}
