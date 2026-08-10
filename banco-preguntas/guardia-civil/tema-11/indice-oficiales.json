@@ -1,0 +1,804 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 11,
+  "titulo": "Protección de datos",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las preguntas oficiales permanecen separadas del banco propio; su respuesta solo se muestra con plantilla final verificada.",
+  "total_referencias": 36,
+  "con_bloque_asignado": 36,
+  "con_respuesta_verificada": 36,
+  "por_bloque": {
+    "2": 1,
+    "4": 1,
+    "7": 1,
+    "11": 1,
+    "17": 3,
+    "19": 3,
+    "21": 1,
+    "22": 2,
+    "23": 1,
+    "25": 4,
+    "26": 1,
+    "27": 3,
+    "28": 5,
+    "29": 1,
+    "33": 1,
+    "37": 1,
+    "38": 1,
+    "39": 3,
+    "42": 2
+  },
+  "por_promocion": {
+    "2020": 5,
+    "2021": 6,
+    "2022": 10,
+    "2023": 5,
+    "2024": 6,
+    "2025": 2,
+    "2026": 2
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q059",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 59,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T11-F143"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q060",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 60,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T11-F269"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. En relación al Consejo Consultivo de la Agencia Española de Protección de Datos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q061",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 61,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T11-F345"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿En qué casos podrá la Agencia Española de Protección de Datos inadmitir las reclamaciones presentadas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q058",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 58,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T11-F168"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Para cual de las siguientes entidades NO es obligatoria la designación de un Delegado de Protección de Datos por los encargados o responsables del tratamiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q059",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 59,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T11-F271"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. En relación al Consejo Consultivo de la Agencia Española de Protección de Datos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q062",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 62,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T11-F144"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Responsable y encargado del tratamiento. ¿Qué nombre recibe la identificación y reserva de los datos, adoptando medidas técnicas y organizativas para impedir su tratamiento, incluyendo su visualización, para la exigencia de posibles responsabilidades derivadas del tratamiento y solo por el plazo de prescripción de las mismas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q063",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 63,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T11-F245"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Por quién serán nombrados la Presidencia de la Agencia Española de Protección de Datos y su Adjunto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q064",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 64,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T11-F246"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. El mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de Datos tiene una duración de ________ años y puede ser renovado para otro periodo de ______________.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q062",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 62,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T11-F217"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. De conformidad con lo establecido en la Ley 40/2015 de Régimen Jurídico del Sector Público, ¿cuál será la denominación oficial de la Agencia Española de Protección de Datos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q063",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 63,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T11-F241"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿A propuesta de quién serán nombrados la Presidencia de la Agencia Española de Protección de Datos y su Adjunto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q064",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 64,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T11-F255"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Quién NO es uno de los miembros del Consejo Consultivo que asesora a la Presidencia de la Agencia Española de Protección de Datos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q065",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 65,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T11-F082"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Salvo prueba en contrario, indique cuál de las opciones siguientes NO es uno de los requisitos de presunción de licitud del tratamiento de datos personales relativos al incumplimiento de obligaciones dinerarias, financieras o de crédito por sistemas comunes de información crediticia que han de cumplirse.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q066",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 66,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T11-F330"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Título VIII Procedimientos en caso de posible vulneración de la normativa de protección de datos. El Gobierno regulará por ________________los procedimientos que tramite la Agencia Española de Protección de Datos al amparo de este Título, asegurando en todo caso los derechos de defensa y audiencia de los interesados.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q064",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 64,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T11-F032"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Principios de protección de datos. ¿A partir de qué edad el tratamiento de los datos personales de un menor de edad podrá fundarse en su consentimiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q065",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 65,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T11-F218"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿A través de qué Ministerio se relaciona la Agencia Española de Protección de Datos con el Gobierno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q066",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 66,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T11-F351"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿En qué plazo deberá la Agencia Española de Protección de Datos notificar al reclamante la decisión sobre la admisión o inadmisión a trámite de una reclamación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q057",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 57,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T11-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. En relación con los datos de las personas fallecidas, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q058",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 58,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T11-F002"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Cuál de los siguientes NO es un derecho que ampare al afectado por el tratamiento de sus datos personales?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q059",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 59,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T11-F143"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su …:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q060",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 60,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T11-F172"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Delegado de protección de datos. Los responsables y encargados del tratamiento deberán designar un delegado de protección de datos cuando se trate de las siguientes entidades…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q061",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 61,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T11-F205"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos podrán adoptar cláusulas contractuales tipo para la realización de transferencias internacionales de datos. El procedimiento se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q064",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 64,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T11-F224"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Autoridades de protección de datos. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q065",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 65,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T11-F275"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Potestades de investigación y planes de auditoría preventiva. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q066",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 66,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T11-F365"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. En los casos en que la Agencia Española de Protección de Datos considere que la transferencia internacional de los datos personales comportará un menoscabo grave del derecho a la protección de datos personales, ¿qué podrá ordenar a los responsables o encargados de los tratamientos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q066",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 66,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T11-F260"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Cuántos expertos son propuestos por las Organizaciones Empresariales para ser miembros del Consejo Consultivo que asesora a la Presidencia de la Agencia Española de Protección de Datos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q067",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 67,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T11-F306"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿A quién corresponde la titularidad y el ejercicio de las funciones relacionadas con la acción exterior del Estado en materia de protección de datos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q059",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 59,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T11-F201"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Códigos de conducta. Mediante ____________________ se establecerán el contenido del registro y las especialidades del procedimiento de aprobación de los códigos de conducta.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q060",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 60,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T11-F365"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿A qué puede proceder la Agencia Española de Protección de Datos, cuando considere que la continuación del tratamiento de los datos personales comportara un menoscabo grave del derecho a su protección, y una vez ordenado a los responsables de los tratamientos el bloqueo de los datos o el cese de su tratamiento, estos incumpliesen dichos mandatos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q058",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 58,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T11-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Cuando un afectado presente una reclamación ante la Agencia Española de Protección de Datos o, en su caso, ante las autoridades autonómicas de protección de datos, aquellas podrán remitir la reclamación al delegado de protección de datos a fin de que este responda en el plazo de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q059",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 59,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T11-F336"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Procedimientos en caso de posible vulneración de la normativa de protección de datos. Si el procedimiento se fundase en una reclamación formulada ante la Agencia Española de Protección de Datos, tendrá una duración máxima de ___________________ a contar desde la fecha del acuerdo de inicio.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q056",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 56,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T11-F195"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Códigos de conducta y certificación. ¿Por quién serán aprobados los códigos de conducta?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q057",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 57,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T11-F349"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. Admisión a trámite de las reclamaciones. En el caso de que la Agencia Española de Protección de Datos haya remitido una reclamación al responsable del tratamiento cuando no se hubiera designado un delegado de protección de datos ni estuviera adherido a mecanismos de resolución extrajudicial de conflictos, ¿en qué plazo el responsable deberá dar respuesta a la reclamación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q059",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 59,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T11-F223"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Quién aprobará el Estatuto de la Agencia Española de Protección de Datos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q060",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 60,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T11-F268"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección Datos personales y garantía de derechos digitales. En relación con el Consejo Consultivo de la Agencia Española de Protección de Datos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q055",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 55,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T11-F158"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. En todo caso, ¿para cuál de las siguientes entidades NO es obligatoria la designación de un Delegado de Protección de Datos por los responsables y encargados del tratamiento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q056",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 56,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T11-F220"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales. ¿Quiénes colaborarán en aras del adecuado ejercicio de las respectivas competencias que la Ley Orgánica del Poder Judicial les atribuye en materia de protección de datos personales en el ámbito de la Administración de Justicia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; referencia corregida y regla vigente cotejada con BOE."
+    }
+  ]
+}

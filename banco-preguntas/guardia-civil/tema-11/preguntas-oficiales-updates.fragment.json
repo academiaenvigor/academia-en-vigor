@@ -1,0 +1,659 @@
+{
+  "schema_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 11,
+  "merge_policy": "merge_by_question_id_without_replacing_other_theme_refs",
+  "updates": [
+    {
+      "question_id": "of-gc-p2020-1a-q059",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F143",
+        "GC-T11-F155"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 32",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2020-10-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q060",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F269",
+        "GC-T11-F286"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 49",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2020-10-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q061",
+      "exam_id": "of-gc-p2020-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F345",
+        "GC-T11-F369"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 65",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2020-10-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q058",
+      "exam_id": "of-gc-p2020-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F168",
+        "GC-T11-F181",
+        "GC-T11-F182"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 34",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2020-10-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q059",
+      "exam_id": "of-gc-p2020-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F271",
+        "GC-T11-F288"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 49",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2020-10-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q062",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F144",
+        "GC-T11-F157"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 32",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210925&tn=1",
+        "reference_date": "2021-09-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q063",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F245",
+        "GC-T11-F260"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 48",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210925&tn=1",
+        "reference_date": "2021-09-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q064",
+      "exam_id": "of-gc-p2021-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F246",
+        "GC-T11-F261"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 48",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210925&tn=1",
+        "reference_date": "2021-09-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q062",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F217",
+        "GC-T11-F232"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 44",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210926&tn=1",
+        "reference_date": "2021-09-26"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q063",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F241",
+        "GC-T11-F256",
+        "GC-T11-F260"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 48",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210926&tn=1",
+        "reference_date": "2021-09-26"
+      }
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q064",
+      "exam_id": "of-gc-p2021-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F255",
+        "GC-T11-F269",
+        "GC-T11-F272"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 49",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673&p=20210926&tn=1",
+        "reference_date": "2021-09-26"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q065",
+      "exam_id": "of-gc-p2022-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F082",
+        "GC-T11-F091"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 20",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-09-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q066",
+      "exam_id": "of-gc-p2022-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F330",
+        "GC-T11-F353"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 63",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-09-25"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q064",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F032",
+        "GC-T11-F036"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 7",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-09-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q065",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F218",
+        "GC-T11-F233"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 44",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-09-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q066",
+      "exam_id": "of-gc-p2022-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F351",
+        "GC-T11-F376"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 65",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-09-24"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q057",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F015",
+        "GC-T11-F018"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 3",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-10-15"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q058",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F002"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, arts. 12 a 18",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-10-15"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q059",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F143",
+        "GC-T11-F155"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 32",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-10-15"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q060",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F172",
+        "GC-T11-F186"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 34",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-10-15"
+      }
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q061",
+      "exam_id": "of-gc-p2022-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F205",
+        "GC-T11-F219"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 41",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2022-10-15"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q064",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F224",
+        "GC-T11-F239"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 46",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2023-10-29"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q065",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F275",
+        "GC-T11-F292"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 51",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2023-10-29"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q066",
+      "exam_id": "of-gc-p2023-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F365",
+        "GC-T11-F390"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 69",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2023-10-29"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q066",
+      "exam_id": "of-gc-p2023-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F260",
+        "GC-T11-F277"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 49",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2023-10-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q067",
+      "exam_id": "of-gc-p2023-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F306",
+        "GC-T11-F327"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 56",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2023-10-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q059",
+      "exam_id": "of-gc-p2024-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F201",
+        "GC-T11-F215"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 38",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-09-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q060",
+      "exam_id": "of-gc-p2024-1a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F365",
+        "GC-T11-F390"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 69",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-09-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q058",
+      "exam_id": "of-gc-p2024-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F184",
+        "GC-T11-F198"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 37",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-09-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q059",
+      "exam_id": "of-gc-p2024-2a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F336",
+        "GC-T11-F359"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 64",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-09-28"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q056",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F195",
+        "GC-T11-F209"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 38",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-10-13"
+      }
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q057",
+      "exam_id": "of-gc-p2024-3a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F349",
+        "GC-T11-F374"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 65",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2024-10-13"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q059",
+      "exam_id": "of-gc-p2025-a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F223",
+        "GC-T11-F238"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 45",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2025-09-06"
+      }
+    },
+    {
+      "question_id": "of-gc-p2025-a-q060",
+      "exam_id": "of-gc-p2025-a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F268",
+        "GC-T11-F285"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 49",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2025-09-06"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q055",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F158",
+        "GC-T11-F169",
+        "GC-T11-F172"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 34",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2026-07-11"
+      }
+    },
+    {
+      "question_id": "of-gc-p2026-a-q056",
+      "exam_id": "of-gc-p2026-a",
+      "theme_refs": [
+        "GC-T11"
+      ],
+      "fact_refs": [
+        "GC-T11-F220",
+        "GC-T11-F235"
+      ],
+      "mapping_status": "editorially_mapped",
+      "counts_for_ha_caido": true,
+      "source_reference": {
+        "label": "LO 3/2018, art. 44",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+        "reference_date": "2026-07-11"
+      }
+    }
+  ]
+}

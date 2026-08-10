@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 11,
+  "topic_title": "Protección de datos",
+  "id_prefix": "GC-T11",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-11/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-11/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Objeto, alcance oficial y sistema normativo"
+      },
+      {
+        "number": 2,
+        "title": "Ámbito de aplicación y personas fallecidas"
+      },
+      {
+        "number": 3,
+        "title": "Exactitud y confidencialidad"
+      },
+      {
+        "number": 4,
+        "title": "Consentimiento y menores"
+      },
+      {
+        "number": 5,
+        "title": "Bases legales, categorías especiales y datos penales"
+      },
+      {
+        "number": 6,
+        "title": "Transparencia e información al afectado"
+      },
+      {
+        "number": 7,
+        "title": "Ejercicio de los derechos"
+      },
+      {
+        "number": 8,
+        "title": "Acceso, rectificación y supresión"
+      },
+      {
+        "number": 9,
+        "title": "Limitación, portabilidad y oposición"
+      },
+      {
+        "number": 10,
+        "title": "Datos de contacto y profesionales"
+      },
+      {
+        "number": 11,
+        "title": "Sistemas de información crediticia"
+      },
+      {
+        "number": 12,
+        "title": "Operaciones mercantiles y videovigilancia"
+      },
+      {
+        "number": 13,
+        "title": "Exclusión publicitaria e informantes"
+      },
+      {
+        "number": 14,
+        "title": "Estadística, archivo e infracciones administrativas"
+      },
+      {
+        "number": 15,
+        "title": "Responsabilidad activa y corresponsabilidad"
+      },
+      {
+        "number": 16,
+        "title": "Representación y registro de actividades"
+      },
+      {
+        "number": 17,
+        "title": "Bloqueo de datos"
+      },
+      {
+        "number": 18,
+        "title": "Encargado del tratamiento"
+      },
+      {
+        "number": 19,
+        "title": "Designación del delegado de protección de datos"
+      },
+      {
+        "number": 20,
+        "title": "Cualificación y posición del delegado"
+      },
+      {
+        "number": 21,
+        "title": "Intervención del delegado ante reclamaciones"
+      },
+      {
+        "number": 22,
+        "title": "Códigos de conducta y certificación"
+      },
+      {
+        "number": 23,
+        "title": "Transferencias: régimen, cláusulas y normas vinculantes"
+      },
+      {
+        "number": 24,
+        "title": "Autorización e información previa"
+      },
+      {
+        "number": 25,
+        "title": "Naturaleza y régimen jurídico de la AEPD"
+      },
+      {
+        "number": 26,
+        "title": "Régimen económico, funciones y potestades"
+      },
+      {
+        "number": 27,
+        "title": "Presidencia y Adjunto de la AEPD"
+      },
+      {
+        "number": 28,
+        "title": "Consejo Consultivo y publicidad"
+      },
+      {
+        "number": 29,
+        "title": "Personal investigador"
+      },
+      {
+        "number": 30,
+        "title": "Deber de colaboración"
+      },
+      {
+        "number": 31,
+        "title": "Alcance e investigación mediante sistemas digitales"
+      },
+      {
+        "number": 32,
+        "title": "Auditorías preventivas y circulares"
+      },
+      {
+        "number": 33,
+        "title": "Acción exterior"
+      },
+      {
+        "number": 34,
+        "title": "Autoridades autonómicas y cooperación"
+      },
+      {
+        "number": 35,
+        "title": "Tratamientos contrarios y dictamen europeo"
+      },
+      {
+        "number": 36,
+        "title": "Tratamientos transfronterizos y conflictos europeos"
+      },
+      {
+        "number": 37,
+        "title": "Régimen jurídico de los procedimientos"
+      },
+      {
+        "number": 38,
+        "title": "Iniciación y duración"
+      },
+      {
+        "number": 39,
+        "title": "Admisión de reclamaciones"
+      },
+      {
+        "number": 40,
+        "title": "Determinación del alcance territorial"
+      },
+      {
+        "number": 41,
+        "title": "Investigación previa e inicio sancionador"
+      },
+      {
+        "number": 42,
+        "title": "Medidas provisionales y garantía de derechos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Disposiciones generales y principios",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Derechos de las personas",
+        "blocks": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Tratamientos concretos",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Responsables, encargados y garantías",
+        "blocks": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Transferencias y autoridades",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Procedimientos por posible vulneración",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

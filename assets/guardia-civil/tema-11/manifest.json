@@ -1,0 +1,706 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-11",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 43,
+    "integrated": 0,
+    "planned": 43
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T11-V00",
+      "file": "t11-00-mapa-proteccion-datos.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido desde la recogida del dato hasta derechos, control y reclamación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V01",
+      "file": "t11-01-objeto-alcance-oficial-y-sistema-normativo.webp",
+      "title": "Objeto, alcance oficial y sistema normativo",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar objeto, alcance oficial y sistema normativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V02",
+      "file": "t11-02-ambito-de-aplicacion-y-personas-fallecidas.webp",
+      "title": "Ámbito de aplicación y personas fallecidas",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar ámbito de aplicación y personas fallecidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V03",
+      "file": "t11-03-exactitud-y-confidencialidad.webp",
+      "title": "Exactitud y confidencialidad",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar exactitud y confidencialidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V04",
+      "file": "t11-04-consentimiento-y-menores.webp",
+      "title": "Consentimiento y menores",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar consentimiento y menores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V05",
+      "file": "t11-05-bases-legales-categorias-especiales-y-datos-penales.webp",
+      "title": "Bases legales, categorías especiales y datos penales",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar bases legales, categorías especiales y datos penales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V06",
+      "file": "t11-06-transparencia-e-informacion-al-afectado.webp",
+      "title": "Transparencia e información al afectado",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar transparencia e información al afectado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V07",
+      "file": "t11-07-ejercicio-de-los-derechos.webp",
+      "title": "Ejercicio de los derechos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar ejercicio de los derechos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V08",
+      "file": "t11-08-acceso-rectificacion-y-supresion.webp",
+      "title": "Acceso, rectificación y supresión",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar acceso, rectificación y supresión.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V09",
+      "file": "t11-09-limitacion-portabilidad-y-oposicion.webp",
+      "title": "Limitación, portabilidad y oposición",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar limitación, portabilidad y oposición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V10",
+      "file": "t11-10-datos-de-contacto-y-profesionales.webp",
+      "title": "Datos de contacto y profesionales",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar datos de contacto y profesionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V11",
+      "file": "t11-11-sistemas-de-informacion-crediticia.webp",
+      "title": "Sistemas de información crediticia",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar sistemas de información crediticia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V12",
+      "file": "t11-12-operaciones-mercantiles-y-videovigilancia.webp",
+      "title": "Operaciones mercantiles y videovigilancia",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar operaciones mercantiles y videovigilancia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V13",
+      "file": "t11-13-exclusion-publicitaria-e-informantes.webp",
+      "title": "Exclusión publicitaria e informantes",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar exclusión publicitaria e informantes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V14",
+      "file": "t11-14-estadistica-archivo-e-infracciones-administrativas.webp",
+      "title": "Estadística, archivo e infracciones administrativas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar estadística, archivo e infracciones administrativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V15",
+      "file": "t11-15-responsabilidad-activa-y-corresponsabilidad.webp",
+      "title": "Responsabilidad activa y corresponsabilidad",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar responsabilidad activa y corresponsabilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V16",
+      "file": "t11-16-representacion-y-registro-de-actividades.webp",
+      "title": "Representación y registro de actividades",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar representación y registro de actividades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V17",
+      "file": "t11-17-bloqueo-de-datos.webp",
+      "title": "Bloqueo de datos",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar bloqueo de datos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V18",
+      "file": "t11-18-encargado-del-tratamiento.webp",
+      "title": "Encargado del tratamiento",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar encargado del tratamiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V19",
+      "file": "t11-19-designacion-del-delegado-de-proteccion-de-datos.webp",
+      "title": "Designación del delegado de protección de datos",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar designación del delegado de protección de datos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V20",
+      "file": "t11-20-cualificacion-y-posicion-del-delegado.webp",
+      "title": "Cualificación y posición del delegado",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar cualificación y posición del delegado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V21",
+      "file": "t11-21-intervencion-del-delegado-ante-reclamaciones.webp",
+      "title": "Intervención del delegado ante reclamaciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar intervención del delegado ante reclamaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V22",
+      "file": "t11-22-codigos-de-conducta-y-certificacion.webp",
+      "title": "Códigos de conducta y certificación",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar códigos de conducta y certificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V23",
+      "file": "t11-23-transferencias-regimen-clausulas-y-normas-vinculantes.webp",
+      "title": "Transferencias: régimen, cláusulas y normas vinculantes",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar transferencias: régimen, cláusulas y normas vinculantes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V24",
+      "file": "t11-24-autorizacion-e-informacion-previa.webp",
+      "title": "Autorización e información previa",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar autorización e información previa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V25",
+      "file": "t11-25-naturaleza-y-regimen-juridico-de-la-aepd.webp",
+      "title": "Naturaleza y régimen jurídico de la AEPD",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar naturaleza y régimen jurídico de la aepd.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V26",
+      "file": "t11-26-regimen-economico-funciones-y-potestades.webp",
+      "title": "Régimen económico, funciones y potestades",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar régimen económico, funciones y potestades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V27",
+      "file": "t11-27-presidencia-y-adjunto-de-la-aepd.webp",
+      "title": "Presidencia y Adjunto de la AEPD",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar presidencia y adjunto de la aepd.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V28",
+      "file": "t11-28-consejo-consultivo-y-publicidad.webp",
+      "title": "Consejo Consultivo y publicidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar consejo consultivo y publicidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V29",
+      "file": "t11-29-personal-investigador.webp",
+      "title": "Personal investigador",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar personal investigador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V30",
+      "file": "t11-30-deber-de-colaboracion.webp",
+      "title": "Deber de colaboración",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar deber de colaboración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V31",
+      "file": "t11-31-alcance-e-investigacion-mediante-sistemas-digitales.webp",
+      "title": "Alcance e investigación mediante sistemas digitales",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar alcance e investigación mediante sistemas digitales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V32",
+      "file": "t11-32-auditorias-preventivas-y-circulares.webp",
+      "title": "Auditorías preventivas y circulares",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar auditorías preventivas y circulares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V33",
+      "file": "t11-33-accion-exterior.webp",
+      "title": "Acción exterior",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar acción exterior.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V34",
+      "file": "t11-34-autoridades-autonomicas-y-cooperacion.webp",
+      "title": "Autoridades autonómicas y cooperación",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar autoridades autonómicas y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V35",
+      "file": "t11-35-tratamientos-contrarios-y-dictamen-europeo.webp",
+      "title": "Tratamientos contrarios y dictamen europeo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar tratamientos contrarios y dictamen europeo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V36",
+      "file": "t11-36-tratamientos-transfronterizos-y-conflictos-europeos.webp",
+      "title": "Tratamientos transfronterizos y conflictos europeos",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar tratamientos transfronterizos y conflictos europeos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V37",
+      "file": "t11-37-regimen-juridico-de-los-procedimientos.webp",
+      "title": "Régimen jurídico de los procedimientos",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar régimen jurídico de los procedimientos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V38",
+      "file": "t11-38-iniciacion-y-duracion.webp",
+      "title": "Iniciación y duración",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar iniciación y duración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V39",
+      "file": "t11-39-admision-de-reclamaciones.webp",
+      "title": "Admisión de reclamaciones",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar admisión de reclamaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V40",
+      "file": "t11-40-determinacion-del-alcance-territorial.webp",
+      "title": "Determinación del alcance territorial",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar determinación del alcance territorial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V41",
+      "file": "t11-41-investigacion-previa-e-inicio-sancionador.webp",
+      "title": "Investigación previa e inicio sancionador",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar investigación previa e inicio sancionador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T11-V42",
+      "file": "t11-42-medidas-provisionales-y-garantia-de-derechos.webp",
+      "title": "Medidas provisionales y garantía de derechos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar medidas provisionales y garantía de derechos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}
