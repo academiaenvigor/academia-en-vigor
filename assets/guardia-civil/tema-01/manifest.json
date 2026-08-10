@@ -1,0 +1,443 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-01",
+  "content_version": "1.0.0",
+  "visual_version": "1.0.0",
+  "status": "integrated",
+  "totals": {
+    "resources": 25,
+    "integrated": 25,
+    "planned": 0
+  },
+  "integration_status": "complete",
+  "integrated_at": "2026-08-05",
+  "resources": [
+    {
+      "id": "GC-T01-V01",
+      "file": "t01-01-mapa-sistemas-derechos-humanos.webp",
+      "title": "Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "integrated_webp",
+      "block": 1,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar mapa de los sistemas onu, consejo de europa, ue, cpi y mnp mediante mapa-ecosistema, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V02",
+      "file": "t01-02-seis-organos-onu.webp",
+      "title": "Los seis órganos principales de Naciones Unidas",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "integrated_webp",
+      "block": 4,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar los seis órganos principales de naciones unidas mediante organigrama, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V03",
+      "file": "t01-03-asamblea-vs-consejo.webp",
+      "title": "Asamblea General frente a Consejo de Seguridad",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "integrated_webp",
+      "block": 5,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar asamblea general frente a consejo de seguridad mediante comparacion, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V04",
+      "file": "t01-04-dudh-30-articulos.webp",
+      "title": "Mapa de los treinta artículos de la DUDH",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "integrated_webp",
+      "block": 7,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar mapa de los treinta artículos de la dudh mediante mapa-radial, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V05",
+      "file": "t01-il-01-puerta-del-asilo.webp",
+      "title": "La excepción del asilo frente a delitos comunes",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "integrated_webp",
+      "block": 10,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar la excepción del asilo frente a delitos comunes mediante escena-metaforica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V06",
+      "file": "t01-il-02-linea-roja-articulo-3.webp",
+      "title": "La prohibición absoluta de la tortura como línea roja",
+      "type": "ilustracion_simple",
+      "placement": "bloque-13",
+      "status": "integrated_webp",
+      "block": 13,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar la prohibición absoluta de la tortura como línea roja mediante metafora-visual, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V07",
+      "file": "t01-05-formaciones-tedh.webp",
+      "title": "Regla 1-3-7-17 de las formaciones del TEDH",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "integrated_webp",
+      "block": 18,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar regla 1-3-7-17 de las formaciones del tedh mediante regla-mnemotecnica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V08",
+      "file": "t01-06-recorrido-demanda-tedh.webp",
+      "title": "Recorrido desde la demanda hasta la ejecución",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "integrated_webp",
+      "block": 19,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar recorrido desde la demanda hasta la ejecución mediante flujo, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V09",
+      "file": "t01-07-carta-social-derechos.webp",
+      "title": "Familias de derechos de la Carta Social Europea revisada",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "integrated_webp",
+      "block": 21,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar familias de derechos de la carta social europea revisada mediante panel-tematico, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V10",
+      "file": "t01-08-pidesc-vs-pidcp.webp",
+      "title": "Comparación PIDESC y PIDCP",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "integrated_webp",
+      "block": 25,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar comparación pidesc y pidcp mediante comparacion, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V11",
+      "file": "t01-09-comite-pidcp.webp",
+      "title": "Comité de Derechos Humanos: 18 miembros, elección y Mesa",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar comité de derechos humanos: 18 miembros, elección y mesa mediante ficha-organica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V12",
+      "file": "t01-10-escanos-consejo-ddhh.webp",
+      "title": "Distribución regional de los 47 escaños",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "integrated_webp",
+      "block": 32,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar distribución regional de los 47 escaños mediante mapa-regional, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V13",
+      "file": "t01-11-mecanismos-consejo-ddhh.webp",
+      "title": "EPU, quejas y Comité Asesor",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "integrated_webp",
+      "block": 33,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar epu, quejas y comité asesor mediante tridente-funcional, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V14",
+      "file": "t01-il-03-prohibicion-sin-excusas.webp",
+      "title": "Ninguna emergencia u orden superior justifica la tortura",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "integrated_webp",
+      "block": 34,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar ninguna emergencia u orden superior justifica la tortura mediante escena-simbolica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V15",
+      "file": "t01-12-cadena-prevencion-cat.webp",
+      "title": "Formación, revisión, investigación, reparación y exclusión probatoria",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "integrated_webp",
+      "block": 36,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar formación, revisión, investigación, reparación y exclusión probatoria mediante cadena-proceso, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V16",
+      "file": "t01-13-comite-contra-tortura.webp",
+      "title": "Comité contra la Tortura: 10 miembros y quórum de 6",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "integrated_webp",
+      "block": 37,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar comité contra la tortura: 10 miembros y quórum de 6 mediante regla-mnemotecnica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V17",
+      "file": "t01-14-opcat-doble-mecanismo.webp",
+      "title": "SPT internacional y MNP nacional",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "integrated_webp",
+      "block": 38,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar spt internacional y mnp nacional mediante doble-capa, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V18",
+      "file": "t01-15-visita-preventiva-spt.webp",
+      "title": "Flujo de una visita preventiva",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "integrated_webp",
+      "block": 40,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar flujo de una visita preventiva mediante recorrido, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V19",
+      "file": "t01-16-siete-titulos-carta-ue.webp",
+      "title": "Los siete títulos de la Carta de la UE",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "integrated_webp",
+      "block": 42,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar los siete títulos de la carta de la ue mediante escalera, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V20",
+      "file": "t01-17-cuatro-crimenes-cpi.webp",
+      "title": "Los cuatro crímenes de competencia de la CPI",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "integrated_webp",
+      "block": 46,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar los cuatro crímenes de competencia de la cpi mediante cuadrante, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V21",
+      "file": "t01-il-04-genocidio-vs-lesa.webp",
+      "title": "Diferencia visual entre genocidio y lesa humanidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-47",
+      "status": "integrated_webp",
+      "block": 47,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar diferencia visual entre genocidio y lesa humanidad mediante balanza-metaforica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V22",
+      "file": "t01-18-organos-cpi.webp",
+      "title": "Órganos y secciones de la Corte Penal Internacional",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "integrated_webp",
+      "block": 50,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar órganos y secciones de la corte penal internacional mediante organigrama, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V23",
+      "file": "t01-19-cooperacion-espana-cpi.webp",
+      "title": "Circuito español de cooperación con la CPI",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "integrated_webp",
+      "block": 52,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar circuito español de cooperación con la cpi mediante flujo-institucional, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V24",
+      "file": "t01-il-05-visita-mnp.webp",
+      "title": "Visita independiente del MNP a un lugar de custodia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-57",
+      "status": "integrated_webp",
+      "block": 57,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar visita independiente del mnp a un lugar de custodia mediante escena-operativa, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V25",
+      "file": "t01-20-consejo-asesor-mnp.webp",
+      "title": "Composición, mandato y funciones del Consejo Asesor",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "integrated_webp",
+      "block": 58,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Explicar composición, mandato y funciones del consejo asesor mediante ficha-composicion, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    }
+  ],
+  "planned_resources": []
+}
