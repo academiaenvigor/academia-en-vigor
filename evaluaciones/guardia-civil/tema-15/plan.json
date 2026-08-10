@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 15,
+  "topic_title": "Fuerzas y Cuerpos de Seguridad. Guardia Civil",
+  "id_prefix": "GC-T15",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-15/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-15/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y corte normativo"
+      },
+      {
+        "number": 2,
+        "title": "Seguridad pública y Fuerzas y Cuerpos de Seguridad"
+      },
+      {
+        "number": 3,
+        "title": "Principios básicos de actuación"
+      },
+      {
+        "number": 4,
+        "title": "Disposiciones estatutarias comunes"
+      },
+      {
+        "number": 5,
+        "title": "Fuerzas y Cuerpos de Seguridad del Estado: organización"
+      },
+      {
+        "number": 6,
+        "title": "Funciones de las Fuerzas y Cuerpos de Seguridad del Estado"
+      },
+      {
+        "number": 7,
+        "title": "Distribución material y territorial de competencias"
+      },
+      {
+        "number": 8,
+        "title": "Guardia Civil: naturaleza, dependencia y régimen"
+      },
+      {
+        "number": 9,
+        "title": "Policía Judicial"
+      },
+      {
+        "number": 10,
+        "title": "Policías de las Comunidades Autónomas"
+      },
+      {
+        "number": 11,
+        "title": "Colaboración y coordinación entre Administraciones"
+      },
+      {
+        "number": 12,
+        "title": "Policías Locales"
+      },
+      {
+        "number": 13,
+        "title": "Disposiciones de la Ley Orgánica 2/1986"
+      },
+      {
+        "number": 14,
+        "title": "Objeto, ámbito, condición de guardia civil e igualdad"
+      },
+      {
+        "number": 15,
+        "title": "Código de conducta y reglas de comportamiento"
+      },
+      {
+        "number": 16,
+        "title": "Competencias en política de personal"
+      },
+      {
+        "number": 17,
+        "title": "Funciones profesionales"
+      },
+      {
+        "number": 18,
+        "title": "Escalas, categorías y empleos"
+      },
+      {
+        "number": 19,
+        "title": "Escalafón, capacidades y especialidades"
+      },
+      {
+        "number": 20,
+        "title": "Dirección General, órganos superiores y Gabinete Técnico"
+      },
+      {
+        "number": 21,
+        "title": "Dirección Adjunta Operativa y unidades dependientes"
+      },
+      {
+        "number": 22,
+        "title": "Mando de Operaciones y unidades dependientes"
+      },
+      {
+        "number": 23,
+        "title": "Mando de Fronteras y Policía Marítima"
+      },
+      {
+        "number": 24,
+        "title": "Mando de Personal"
+      },
+      {
+        "number": 25,
+        "title": "Mando de Apoyo"
+      },
+      {
+        "number": 26,
+        "title": "Organización periférica"
+      },
+      {
+        "number": 27,
+        "title": "Antecedentes del siglo XIX"
+      },
+      {
+        "number": 28,
+        "title": "La Fundación"
+      },
+      {
+        "number": 29,
+        "title": "La Consolidación"
+      },
+      {
+        "number": 30,
+        "title": "El Sexenio Revolucionario"
+      },
+      {
+        "number": 31,
+        "title": "La Restauración Monárquica"
+      },
+      {
+        "number": 32,
+        "title": "El reinado de Alfonso XIII"
+      },
+      {
+        "number": 33,
+        "title": "La Segunda República"
+      },
+      {
+        "number": 34,
+        "title": "La Guerra Civil"
+      },
+      {
+        "number": 35,
+        "title": "El Franquismo"
+      },
+      {
+        "number": 36,
+        "title": "La Transición y la Democracia"
+      },
+      {
+        "number": 37,
+        "title": "Objeto, titularidad, igualdad y libertades personales"
+      },
+      {
+        "number": 38,
+        "title": "Expresión, reunión, asociación, sufragio y petición"
+      },
+      {
+        "number": 39,
+        "title": "Deberes profesionales"
+      },
+      {
+        "number": 40,
+        "title": "Defensa, uniforme, armas y formación"
+      },
+      {
+        "number": 41,
+        "title": "Derechos profesionales"
+      },
+      {
+        "number": 42,
+        "title": "Asociaciones profesionales: constitución y ejercicio"
+      },
+      {
+        "number": 43,
+        "title": "Asociaciones representativas y sus derechos"
+      },
+      {
+        "number": 44,
+        "title": "Consejo de la Guardia Civil: composición y funciones"
+      },
+      {
+        "number": 45,
+        "title": "Consejo de la Guardia Civil: funcionamiento y elección"
+      },
+      {
+        "number": 46,
+        "title": "Disposiciones de la Ley Orgánica 11/2007"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "LOFCS",
+        "title": "Alcance y sistema de seguridad pública",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "PERSONAL-ESTRUCTURA",
+        "title": "Régimen de personal y estructura de la Guardia Civil",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "code": "HISTORIA",
+        "title": "Historia institucional",
+        "blocks": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "DERECHOS-DEBERES",
+        "title": "Derechos, deberes y representación profesional",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

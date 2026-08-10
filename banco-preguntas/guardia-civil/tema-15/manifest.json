@@ -1,0 +1,113 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 15,
+  "estado": "approved_internal",
+  "publicacion": "not_published",
+  "total_preguntas": 990,
+  "total_hechos": 802,
+  "hechos_cubiertos": 802,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 330,
+    "B": 330,
+    "C": 330
+  },
+  "distribucion_dificultad": {
+    "alta": 376,
+    "baja": 298,
+    "media": 316
+  },
+  "distribucion_tipo": {
+    "literal": 198,
+    "inversa": 198,
+    "comparativa": 198,
+    "regla_requisito": 198,
+    "supuesto_practico": 198
+  },
+  "preguntas_por_bloque": {
+    "1": 8,
+    "2": 11,
+    "3": 22,
+    "4": 22,
+    "5": 9,
+    "6": 19,
+    "7": 21,
+    "8": 9,
+    "9": 18,
+    "10": 36,
+    "11": 29,
+    "12": 25,
+    "13": 76,
+    "14": 21,
+    "15": 20,
+    "16": 35,
+    "17": 3,
+    "18": 53,
+    "19": 14,
+    "20": 21,
+    "21": 17,
+    "22": 12,
+    "23": 5,
+    "24": 7,
+    "25": 7,
+    "26": 1,
+    "27": 16,
+    "28": 28,
+    "29": 24,
+    "30": 19,
+    "31": 20,
+    "32": 45,
+    "33": 33,
+    "34": 13,
+    "35": 33,
+    "36": 54,
+    "37": 13,
+    "38": 17,
+    "39": 12,
+    "40": 3,
+    "41": 17,
+    "42": 19,
+    "43": 29,
+    "44": 22,
+    "45": 23,
+    "46": 29
+  },
+  "preguntas_por_parte": {
+    "1": 305,
+    "2": 216,
+    "3": 285,
+    "4": 184
+  },
+  "caracter": {
+    "propias": 888,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "conocimiento/guardia-civil/tema-15/cobertura.json",
+  "cobertura": "conocimiento/guardia-civil/tema-15/cobertura.json",
+  "evaluation_plan": "evaluaciones/guardia-civil/tema-15/plan.json",
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-15/indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": {
+    "status": "not_published",
+    "reasons": [
+      "publication_not_requested"
+    ]
+  },
+  "quality_gate": {
+    "status": "passed",
+    "reasons": []
+  }
+}

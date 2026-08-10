@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-15",
+  "topic_number": 15,
+  "slug": "fuerzas-cuerpos-seguridad-guardia-civil",
+  "title": "Fuerzas y Cuerpos de Seguridad. Guardia Civil",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": {
+    "cutoff": "2026-08-10",
+    "status": "verified"
+  },
+  "source_file": "conocimiento/guardia-civil/tema-15/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "official_consolidated_text_and_original_editorial_structure"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-15-fuerzas-cuerpos-seguridad-guardia-civil.md",
+    "atestado": "temas/guardia-civil/atestado/tema-15-fuerzas-cuerpos-seguridad-guardia-civil.md"
+  },
+  "semantic_blocks": 46,
+  "atomic_facts": 802,
+  "master_statements": 802,
+  "coverage_file": "conocimiento/guardia-civil/tema-15/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2024-T15",
+    "LO2-1986-GC-T15",
+    "L29-2014-GC-T15",
+    "RD207-2024-ART4-GC-T15",
+    "RD353-2025-GC-T15",
+    "RD328-2026-GC-T15",
+    "GC-HISTORIA-T15",
+    "LO11-2007-GC-T15"
+  ],
+  "official_exam_items": 87,
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-15/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-15/preguntas.jsonl",
+    "questions": 990
+  },
+  "evaluations": {
+    "path": "evaluaciones/guardia-civil/tema-15/plan.json",
+    "status": "planned"
+  },
+  "assets": {
+    "path": "assets/guardia-civil/tema-15/manifest.json",
+    "integrated": 0,
+    "planned": 47
+  },
+  "teaching_materials": {
+    "path": "materiales-didacticos/guardia-civil/tema-15/manifest.json",
+    "status": "planned"
+  },
+  "review": {
+    "status": "passed",
+    "reviewed_at": "2026-08-10",
+    "notes": "Alcance oficial, consolidación normativa y mapeo de exámenes verificados."
+  }
+}
