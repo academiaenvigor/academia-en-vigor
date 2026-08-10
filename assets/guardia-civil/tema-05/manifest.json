@@ -1,0 +1,802 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-05",
+  "content_version": "1.0.0",
+  "visual_version": "0.1.0",
+  "status": "planned",
+  "totals": {
+    "resources": 49,
+    "integrated": 0,
+    "planned": 49
+  },
+  "integration_status": "planned_in_other_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T05-V01",
+      "file": "t05-01-valores-objetivos-y-principios-comunes.webp",
+      "title": "Valores, objetivos y principios comunes",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 1 a 8 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V02",
+      "file": "t05-02-principios-democraticos-y-parlamentos-nacionales.webp",
+      "title": "Principios democráticos y Parlamentos nacionales",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 9 a 12 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V03",
+      "file": "t05-03-marco-institucional-de-la-union.webp",
+      "title": "Marco institucional de la Unión",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar art. 13 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V04",
+      "file": "t05-04-parlamento-europeo.webp",
+      "title": "Parlamento Europeo",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar art. 14 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V05",
+      "file": "t05-05-consejo-europeo.webp",
+      "title": "Consejo Europeo",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar art. 15 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V06",
+      "file": "t05-06-consejo.webp",
+      "title": "Consejo",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar art. 16 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V07",
+      "file": "t05-07-comision-europea.webp",
+      "title": "Comisión Europea",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar art. 17 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V08",
+      "file": "t05-08-alto-representante.webp",
+      "title": "Alto Representante",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar art. 18 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V09",
+      "file": "t05-09-tribunal-de-justicia-de-la-union-europea.webp",
+      "title": "Tribunal de Justicia de la Unión Europea",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar art. 19 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V10",
+      "file": "t05-10-cooperaciones-reforzadas.webp",
+      "title": "Cooperaciones reforzadas",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar art. 20 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V11",
+      "file": "t05-11-politica-comun-de-seguridad-y-defensa.webp",
+      "title": "Política común de seguridad y defensa",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 42 a 43 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V12",
+      "file": "t05-12-misiones-agencia-europea-de-defensa-y-cooperacion-estructurada.webp",
+      "title": "Misiones, Agencia Europea de Defensa y cooperación estructurada permanente",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 44 a 46 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V13",
+      "file": "t05-13-personalidad-juridica-y-revision-de-los-tratados.webp",
+      "title": "Personalidad jurídica y revisión de los Tratados",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 47 a 48 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V14",
+      "file": "t05-14-adhesion-y-retirada-de-la-union.webp",
+      "title": "Adhesión y retirada de la Unión",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 49 a 50 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V15",
+      "file": "t05-15-protocolos-ambito-territorial-duracion-y-lenguas.webp",
+      "title": "Protocolos, ámbito territorial, duración y lenguas",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar arts. 51 a 55 TUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V16",
+      "file": "t05-16-delimitacion-y-categorias-de-competencias.webp",
+      "title": "Delimitación y categorías de competencias",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 1 a 6 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V17",
+      "file": "t05-17-clausulas-horizontales-de-la-union.webp",
+      "title": "Cláusulas horizontales de la Unión",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 7 a 17 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V18",
+      "file": "t05-18-no-discriminacion.webp",
+      "title": "No discriminación",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 18 a 19 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V19",
+      "file": "t05-19-ciudadania-de-la-union-y-sus-derechos.webp",
+      "title": "Ciudadanía de la Unión y sus derechos",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 20 a 25 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V20",
+      "file": "t05-20-mercado-interior.webp",
+      "title": "Mercado interior",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 26 a 27 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V21",
+      "file": "t05-21-union-aduanera-y-cooperacion-aduanera.webp",
+      "title": "Unión aduanera y cooperación aduanera",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar arts. 28 a 33 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V22",
+      "file": "t05-22-restricciones-cuantitativas-y-monopolios-comerciales.webp",
+      "title": "Restricciones cuantitativas y monopolios comerciales",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 34 a 37 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V23",
+      "file": "t05-23-libre-circulacion-de-trabajadores.webp",
+      "title": "Libre circulación de trabajadores",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 45 a 48 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V24",
+      "file": "t05-24-derecho-de-establecimiento.webp",
+      "title": "Derecho de establecimiento",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 49 a 55 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V25",
+      "file": "t05-25-libre-prestacion-de-servicios.webp",
+      "title": "Libre prestación de servicios",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 56 a 62 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V26",
+      "file": "t05-26-capitales-y-pagos.webp",
+      "title": "Capitales y pagos",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 63 a 66 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V27",
+      "file": "t05-27-espacio-de-libertad-seguridad-y-justicia-reglas-generales.webp",
+      "title": "Espacio de libertad, seguridad y justicia: reglas generales",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar arts. 67 a 76 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V28",
+      "file": "t05-28-fronteras-asilo-e-inmigracion.webp",
+      "title": "Fronteras, asilo e inmigración",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 77 a 80 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V29",
+      "file": "t05-29-cooperacion-judicial-en-materia-civil.webp",
+      "title": "Cooperación judicial en materia civil",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar art. 81 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V30",
+      "file": "t05-30-cooperacion-judicial-en-materia-penal.webp",
+      "title": "Cooperación judicial en materia penal",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 82 a 86 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V31",
+      "file": "t05-31-cooperacion-policial.webp",
+      "title": "Cooperación policial",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 87 a 89 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V32",
+      "file": "t05-32-medio-ambiente.webp",
+      "title": "Medio ambiente",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 191 a 193 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V33",
+      "file": "t05-33-proteccion-civil.webp",
+      "title": "Protección civil",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar art. 196 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V34",
+      "file": "t05-34-asociacion-de-los-paises-y-territorios-de-ultramar.webp",
+      "title": "Asociación de los países y territorios de ultramar",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 198 a 204 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V35",
+      "file": "t05-35-cooperacion-para-el-desarrollo.webp",
+      "title": "Cooperación para el desarrollo",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 208 a 211 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V36",
+      "file": "t05-36-cooperacion-economica-financiera-tecnica-y-ayuda-humanitaria.webp",
+      "title": "Cooperación económica, financiera, técnica y ayuda humanitaria",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 212 a 214 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V37",
+      "file": "t05-37-clausula-de-solidaridad.webp",
+      "title": "Cláusula de solidaridad",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar art. 222 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V38",
+      "file": "t05-38-parlamento-europeo-y-defensor-del-pueblo-europeo.webp",
+      "title": "Parlamento Europeo y Defensor del Pueblo Europeo",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 223 a 234 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V39",
+      "file": "t05-39-consejo-europeo-y-consejo.webp",
+      "title": "Consejo Europeo y Consejo",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar arts. 235 a 243 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V40",
+      "file": "t05-40-comision-europea.webp",
+      "title": "Comisión Europea",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 244 a 250 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V41",
+      "file": "t05-41-tribunal-de-justicia-y-tribunal-general-composicion-y-control.webp",
+      "title": "Tribunal de Justicia y Tribunal General: composición y control",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 251 a 260 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V42",
+      "file": "t05-42-recursos-cuestion-prejudicial-y-responsabilidad.webp",
+      "title": "Recursos, cuestión prejudicial y responsabilidad",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 261 a 270 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V43",
+      "file": "t05-43-competencias-especiales-cautelares-y-estatuto-del-tribunal.webp",
+      "title": "Competencias especiales, cautelares y Estatuto del Tribunal",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 271 a 281 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V44",
+      "file": "t05-44-actos-juridicos-de-la-union.webp",
+      "title": "Actos jurídicos de la Unión",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual con edificio institucional para explicar arts. 288 a 292 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V45",
+      "file": "t05-45-comite-economico-y-social-y-comite-de-las-regiones.webp",
+      "title": "Comité Económico y Social y Comité de las Regiones",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión con pasaporte europeo para explicar arts. 300 a 307 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V46",
+      "file": "t05-46-capacidad-juridica-personal-informacion-y-responsabilidad.webp",
+      "title": "Capacidad jurídica, personal, información y responsabilidad",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "cronología con aduana y frontera para explicar arts. 335 a 340 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V47",
+      "file": "t05-47-sedes-lenguas-inmunidades-y-excepciones-de-seguridad.webp",
+      "title": "Sedes, lenguas, inmunidades y excepciones de seguridad",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas con balanza judicial para explicar arts. 341 a 348 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V48",
+      "file": "t05-48-regiones-ultraperifericas-convenios-flexibilidad-y-articulo-7-.webp",
+      "title": "Regiones ultraperiféricas, convenios, flexibilidad y artículo 7 TUE",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica con mapa de competencias para explicar arts. 349 a 354 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T05-V49",
+      "file": "t05-49-ambito-territorial-duracion-ratificacion-y-lenguas-autenticas.webp",
+      "title": "Ámbito territorial, duración, ratificación y lenguas auténticas",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jerárquico con hemiciclo para explicar arts. 355 a 358 TFUE.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}
