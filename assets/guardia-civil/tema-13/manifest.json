@@ -1,0 +1,946 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-13",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 58,
+    "integrated": 0,
+    "planned": 58
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T13-V00",
+      "file": "t13-00-mapa-seguridad-publica-privada.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Mapa para separar potestades públicas, seguridad privada, empresas, personal, servicios, medidas y control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V01",
+      "file": "t13-01-objeto-y-ambito-de-la-seguridad-ciudadana.webp",
+      "title": "Objeto y ámbito de la seguridad ciudadana",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar objeto y ámbito de la seguridad ciudadana.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V02",
+      "file": "t13-02-fines-y-principios-rectores.webp",
+      "title": "Fines y principios rectores",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar fines y principios rectores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V03",
+      "file": "t13-03-autoridades-cooperacion-y-colaboracion.webp",
+      "title": "Autoridades, cooperación y colaboración",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar autoridades, cooperación y colaboración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V04",
+      "file": "t13-04-identidad-y-documento-nacional-de-identidad.webp",
+      "title": "Identidad y Documento Nacional de Identidad",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar identidad y documento nacional de identidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V05",
+      "file": "t13-05-pasaporte-de-ciudadanos-espanoles.webp",
+      "title": "Pasaporte de ciudadanos españoles",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar pasaporte de ciudadanos españoles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V06",
+      "file": "t13-06-identidad-de-ciudadanos-extranjeros.webp",
+      "title": "Identidad de ciudadanos extranjeros",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar identidad de ciudadanos extranjeros.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V07",
+      "file": "t13-07-ordenes-entrada-en-domicilio-y-edificios-oficiales.webp",
+      "title": "Órdenes, entrada en domicilio y edificios oficiales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar órdenes, entrada en domicilio y edificios oficiales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V08",
+      "file": "t13-08-identificacion-de-personas.webp",
+      "title": "Identificación de personas",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar identificación de personas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V09",
+      "file": "t13-09-restriccion-del-transito-y-controles-en-vias-publicas.webp",
+      "title": "Restricción del tránsito y controles en vías públicas",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar restricción del tránsito y controles en vías públicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V10",
+      "file": "t13-10-comprobaciones-registros-y-diligencias-comunes.webp",
+      "title": "Comprobaciones, registros y diligencias comunes",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar comprobaciones, registros y diligencias comunes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V11",
+      "file": "t13-11-registros-corporales-externos.webp",
+      "title": "Registros corporales externos",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar registros corporales externos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V12",
+      "file": "t13-12-medidas-extraordinarias-y-videocamaras.webp",
+      "title": "Medidas extraordinarias y videocámaras",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar medidas extraordinarias y videocámaras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V13",
+      "file": "t13-13-reuniones-manifestaciones-y-colaboracion-policial.webp",
+      "title": "Reuniones, manifestaciones y colaboración policial",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar reuniones, manifestaciones y colaboración policial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V14",
+      "file": "t13-14-registros-documentales-y-establecimientos-obligados.webp",
+      "title": "Registros documentales y establecimientos obligados",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar registros documentales y establecimientos obligados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V15",
+      "file": "t13-15-espectaculos-armas-y-medidas-de-control.webp",
+      "title": "Espectáculos, armas y medidas de control",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar espectáculos, armas y medidas de control.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V16",
+      "file": "t13-16-sujetos-responsables-y-concurso-de-infracciones.webp",
+      "title": "Sujetos responsables y concurso de infracciones",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar sujetos responsables y concurso de infracciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V17",
+      "file": "t13-17-competencia-y-graduacion-de-sanciones.webp",
+      "title": "Competencia y graduación de sanciones",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar competencia y graduación de sanciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V18",
+      "file": "t13-18-clasificacion-e-infracciones-muy-graves.webp",
+      "title": "Clasificación e infracciones muy graves",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar clasificación e infracciones muy graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V19",
+      "file": "t13-19-infracciones-graves.webp",
+      "title": "Infracciones graves",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar infracciones graves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V20",
+      "file": "t13-20-infracciones-leves.webp",
+      "title": "Infracciones leves",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar infracciones leves.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V21",
+      "file": "t13-21-prescripcion-de-infracciones.webp",
+      "title": "Prescripción de infracciones",
+      "type": "ilustracion_simple",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar prescripción de infracciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V22",
+      "file": "t13-22-sanciones-y-prescripcion.webp",
+      "title": "Sanciones y prescripción",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar sanciones y prescripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V23",
+      "file": "t13-23-reparacion-registro-central-y-regimen-juridico.webp",
+      "title": "Reparación, Registro Central y régimen jurídico",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar reparación, registro central y régimen jurídico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V24",
+      "file": "t13-24-procedimiento-sancionador-y-medidas-provisionales.webp",
+      "title": "Procedimiento sancionador y medidas provisionales",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar procedimiento sancionador y medidas provisionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V25",
+      "file": "t13-25-caducidad-resolucion-prueba-y-ejecucion.webp",
+      "title": "Caducidad, resolución, prueba y ejecución",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar caducidad, resolución, prueba y ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V26",
+      "file": "t13-26-objeto-definiciones-y-ambito-de-la-seguridad-privada.webp",
+      "title": "Objeto, definiciones y ámbito de la seguridad privada",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar objeto, definiciones y ámbito de la seguridad privada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V27",
+      "file": "t13-27-fines-actividades-y-compatibilidades.webp",
+      "title": "Fines, actividades y compatibilidades",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar fines, actividades y compatibilidades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V28",
+      "file": "t13-28-actividades-excluidas-y-principios-rectores.webp",
+      "title": "Actividades excluidas y principios rectores",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar actividades excluidas y principios rectores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V29",
+      "file": "t13-29-contratacion-comunicacion-y-prohibiciones.webp",
+      "title": "Contratación, comunicación y prohibiciones",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar contratación, comunicación y prohibiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V30",
+      "file": "t13-30-registro-nacional-y-registros-autonomicos.webp",
+      "title": "Registro Nacional y registros autonómicos",
+      "type": "infografia",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar registro nacional y registros autonómicos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V31",
+      "file": "t13-31-competencias-estatal-y-autonomica.webp",
+      "title": "Competencias estatal y autonómica",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar competencias estatal y autonómica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V32",
+      "file": "t13-32-colaboracion-acceso-a-informacion-y-coordinacion.webp",
+      "title": "Colaboración, acceso a información y coordinación",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar colaboración, acceso a información y coordinación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V33",
+      "file": "t13-33-actividades-y-autorizacion-de-empresas.webp",
+      "title": "Actividades y autorización de empresas",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar actividades y autorización de empresas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V34",
+      "file": "t13-34-requisitos-generales-e-inscripcion-empresarial.webp",
+      "title": "Requisitos generales e inscripción empresarial",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar requisitos generales e inscripción empresarial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V35",
+      "file": "t13-35-obligaciones-y-representantes-legales.webp",
+      "title": "Obligaciones y representantes legales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar obligaciones y representantes legales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V36",
+      "file": "t13-36-despachos-de-detectives-apertura-y-obligaciones.webp",
+      "title": "Despachos de detectives: apertura y obligaciones",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar despachos de detectives: apertura y obligaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V37",
+      "file": "t13-37-profesiones-y-habilitacion-profesional.webp",
+      "title": "Profesiones y habilitación profesional",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar profesiones y habilitación profesional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V38",
+      "file": "t13-38-requisitos-generales-y-formacion.webp",
+      "title": "Requisitos generales y formación",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar requisitos generales y formación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V39",
+      "file": "t13-39-principios-de-actuacion-y-proteccion-juridica.webp",
+      "title": "Principios de actuación y protección jurídica",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar principios de actuación y protección jurídica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V40",
+      "file": "t13-40-vigilantes-de-seguridad-y-especialidades.webp",
+      "title": "Vigilantes de seguridad y especialidades",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar vigilantes de seguridad y especialidades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V41",
+      "file": "t13-41-escoltas-privados.webp",
+      "title": "Escoltas privados",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar escoltas privados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V42",
+      "file": "t13-42-guardas-rurales-y-especialidades.webp",
+      "title": "Guardas rurales y especialidades",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar guardas rurales y especialidades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V43",
+      "file": "t13-43-jefes-de-seguridad.webp",
+      "title": "Jefes de seguridad",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar jefes de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V44",
+      "file": "t13-44-directores-de-seguridad.webp",
+      "title": "Directores de seguridad",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar directores de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V45",
+      "file": "t13-45-detectives-privados.webp",
+      "title": "Detectives privados",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar detectives privados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V46",
+      "file": "t13-46-prestacion-y-forma-de-los-servicios.webp",
+      "title": "Prestación y forma de los servicios",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar prestación y forma de los servicios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V47",
+      "file": "t13-47-servicios-con-armas-de-fuego.webp",
+      "title": "Servicios con armas de fuego",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar servicios con armas de fuego.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V48",
+      "file": "t13-48-vigilancia-y-proteccion.webp",
+      "title": "Vigilancia y protección",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar vigilancia y protección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V49",
+      "file": "t13-49-videovigilancia.webp",
+      "title": "Videovigilancia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar videovigilancia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V50",
+      "file": "t13-50-proteccion-personal.webp",
+      "title": "Protección personal",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar protección personal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V51",
+      "file": "t13-51-deposito-y-transporte-de-seguridad.webp",
+      "title": "Depósito y transporte de seguridad",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar depósito y transporte de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V52",
+      "file": "t13-52-instalacion-mantenimiento-y-gestion-de-alarmas.webp",
+      "title": "Instalación, mantenimiento y gestión de alarmas",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar instalación, mantenimiento y gestión de alarmas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V53",
+      "file": "t13-53-investigacion-privada.webp",
+      "title": "Investigación privada",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar investigación privada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V54",
+      "file": "t13-54-informes-y-reserva-profesional.webp",
+      "title": "Informes y reserva profesional",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar informes y reserva profesional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V55",
+      "file": "t13-55-adopcion-y-tipos-de-medidas-de-seguridad.webp",
+      "title": "Adopción y tipos de medidas de seguridad",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar adopción y tipos de medidas de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V56",
+      "file": "t13-56-actuaciones-de-control-e-inspeccion.webp",
+      "title": "Actuaciones de control e inspección",
+      "type": "ilustracion_simple",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar actuaciones de control e inspección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T13-V57",
+      "file": "t13-57-medidas-provisionales-anteriores-al-procedimiento.webp",
+      "title": "Medidas provisionales anteriores al procedimiento",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar medidas provisionales anteriores al procedimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

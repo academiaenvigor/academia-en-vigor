@@ -1,0 +1,407 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 13,
+  "topic_title": "Seguridad pública y seguridad privada",
+  "id_prefix": "GC-T13",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-13/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-13/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Objeto y ámbito de la seguridad ciudadana"
+      },
+      {
+        "number": 2,
+        "title": "Fines y principios rectores"
+      },
+      {
+        "number": 3,
+        "title": "Autoridades, cooperación y colaboración"
+      },
+      {
+        "number": 4,
+        "title": "Identidad y Documento Nacional de Identidad"
+      },
+      {
+        "number": 5,
+        "title": "Pasaporte de ciudadanos españoles"
+      },
+      {
+        "number": 6,
+        "title": "Identidad de ciudadanos extranjeros"
+      },
+      {
+        "number": 7,
+        "title": "Órdenes, entrada en domicilio y edificios oficiales"
+      },
+      {
+        "number": 8,
+        "title": "Identificación de personas"
+      },
+      {
+        "number": 9,
+        "title": "Restricción del tránsito y controles en vías públicas"
+      },
+      {
+        "number": 10,
+        "title": "Comprobaciones, registros y diligencias comunes"
+      },
+      {
+        "number": 11,
+        "title": "Registros corporales externos"
+      },
+      {
+        "number": 12,
+        "title": "Medidas extraordinarias y videocámaras"
+      },
+      {
+        "number": 13,
+        "title": "Reuniones, manifestaciones y colaboración policial"
+      },
+      {
+        "number": 14,
+        "title": "Registros documentales y establecimientos obligados"
+      },
+      {
+        "number": 15,
+        "title": "Espectáculos, armas y medidas de control"
+      },
+      {
+        "number": 16,
+        "title": "Sujetos responsables y concurso de infracciones"
+      },
+      {
+        "number": 17,
+        "title": "Competencia y graduación de sanciones"
+      },
+      {
+        "number": 18,
+        "title": "Clasificación e infracciones muy graves"
+      },
+      {
+        "number": 19,
+        "title": "Infracciones graves"
+      },
+      {
+        "number": 20,
+        "title": "Infracciones leves"
+      },
+      {
+        "number": 21,
+        "title": "Prescripción de infracciones"
+      },
+      {
+        "number": 22,
+        "title": "Sanciones y prescripción"
+      },
+      {
+        "number": 23,
+        "title": "Reparación, Registro Central y régimen jurídico"
+      },
+      {
+        "number": 24,
+        "title": "Procedimiento sancionador y medidas provisionales"
+      },
+      {
+        "number": 25,
+        "title": "Caducidad, resolución, prueba y ejecución"
+      },
+      {
+        "number": 26,
+        "title": "Objeto, definiciones y ámbito de la seguridad privada"
+      },
+      {
+        "number": 27,
+        "title": "Fines, actividades y compatibilidades"
+      },
+      {
+        "number": 28,
+        "title": "Actividades excluidas y principios rectores"
+      },
+      {
+        "number": 29,
+        "title": "Contratación, comunicación y prohibiciones"
+      },
+      {
+        "number": 30,
+        "title": "Registro Nacional y registros autonómicos"
+      },
+      {
+        "number": 31,
+        "title": "Competencias estatal y autonómica"
+      },
+      {
+        "number": 32,
+        "title": "Colaboración, acceso a información y coordinación"
+      },
+      {
+        "number": 33,
+        "title": "Actividades y autorización de empresas"
+      },
+      {
+        "number": 34,
+        "title": "Requisitos generales e inscripción empresarial"
+      },
+      {
+        "number": 35,
+        "title": "Obligaciones y representantes legales"
+      },
+      {
+        "number": 36,
+        "title": "Despachos de detectives: apertura y obligaciones"
+      },
+      {
+        "number": 37,
+        "title": "Profesiones y habilitación profesional"
+      },
+      {
+        "number": 38,
+        "title": "Requisitos generales y formación"
+      },
+      {
+        "number": 39,
+        "title": "Principios de actuación y protección jurídica"
+      },
+      {
+        "number": 40,
+        "title": "Vigilantes de seguridad y especialidades"
+      },
+      {
+        "number": 41,
+        "title": "Escoltas privados"
+      },
+      {
+        "number": 42,
+        "title": "Guardas rurales y especialidades"
+      },
+      {
+        "number": 43,
+        "title": "Jefes de seguridad"
+      },
+      {
+        "number": 44,
+        "title": "Directores de seguridad"
+      },
+      {
+        "number": 45,
+        "title": "Detectives privados"
+      },
+      {
+        "number": 46,
+        "title": "Prestación y forma de los servicios"
+      },
+      {
+        "number": 47,
+        "title": "Servicios con armas de fuego"
+      },
+      {
+        "number": 48,
+        "title": "Vigilancia y protección"
+      },
+      {
+        "number": 49,
+        "title": "Videovigilancia"
+      },
+      {
+        "number": 50,
+        "title": "Protección personal"
+      },
+      {
+        "number": 51,
+        "title": "Depósito y transporte de seguridad"
+      },
+      {
+        "number": 52,
+        "title": "Instalación, mantenimiento y gestión de alarmas"
+      },
+      {
+        "number": 53,
+        "title": "Investigación privada"
+      },
+      {
+        "number": 54,
+        "title": "Informes y reserva profesional"
+      },
+      {
+        "number": 55,
+        "title": "Adopción y tipos de medidas de seguridad"
+      },
+      {
+        "number": 56,
+        "title": "Actuaciones de control e inspección"
+      },
+      {
+        "number": 57,
+        "title": "Medidas provisionales anteriores al procedimiento"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Fundamentos y autoridades",
+        "blocks": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Documentación e identificación",
+        "blocks": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-3-4",
+        "title": "Actuaciones de seguridad ciudadana y policía administrativa especial",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Régimen sancionador",
+        "blocks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "PARTE-6-7",
+        "title": "Bases privadas y coordinación",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "code": "PARTE-8",
+        "title": "Empresas y despachos",
+        "blocks": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "code": "PARTE-9",
+        "title": "Personal de seguridad privada",
+        "blocks": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      {
+        "code": "PARTE-10",
+        "title": "Servicios de seguridad privada",
+        "blocks": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      },
+      {
+        "code": "PARTE-11",
+        "title": "Medidas y control administrativo",
+        "blocks": [
+          55,
+          56,
+          57
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}
