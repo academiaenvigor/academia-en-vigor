@@ -1,0 +1,384 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 7,
+  "topic_title": "Derecho civil",
+  "id_prefix": "GC-T07",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-07/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-07/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa del Código Civil exigido"
+      },
+      {
+        "number": 2,
+        "title": "Fuentes del Derecho y jerarquía normativa"
+      },
+      {
+        "number": 3,
+        "title": "Interpretación, analogía y cómputo civil"
+      },
+      {
+        "number": 4,
+        "title": "Eficacia de las normas, buena fe, abuso y fraude"
+      },
+      {
+        "number": 5,
+        "title": "Normas de Derecho internacional privado"
+      },
+      {
+        "number": 6,
+        "title": "Vecindad civil y Derecho interregional"
+      },
+      {
+        "number": 7,
+        "title": "Españoles de origen y nacionalidad por opción"
+      },
+      {
+        "number": 8,
+        "title": "Posesión de estado y consolidación de la nacionalidad"
+      },
+      {
+        "number": 9,
+        "title": "Adquisición de la nacionalidad y residencia"
+      },
+      {
+        "number": 10,
+        "title": "Pérdida, recuperación y doble nacionalidad"
+      },
+      {
+        "number": 11,
+        "title": "Extranjeros y capacidad civil"
+      },
+      {
+        "number": 12,
+        "title": "Nacimiento, personalidad y muerte"
+      },
+      {
+        "number": 13,
+        "title": "Personas jurídicas"
+      },
+      {
+        "number": 14,
+        "title": "Domicilio"
+      },
+      {
+        "number": 15,
+        "title": "Promesa de matrimonio"
+      },
+      {
+        "number": 16,
+        "title": "Requisitos e impedimentos matrimoniales"
+      },
+      {
+        "number": 17,
+        "title": "Autoridad, forma y celebración del matrimonio"
+      },
+      {
+        "number": 18,
+        "title": "Forma religiosa e inscripción del matrimonio"
+      },
+      {
+        "number": 19,
+        "title": "Derechos y deberes de los cónyuges"
+      },
+      {
+        "number": 20,
+        "title": "Nulidad matrimonial"
+      },
+      {
+        "number": 21,
+        "title": "Separación y reconciliación"
+      },
+      {
+        "number": 22,
+        "title": "Disolución y divorcio"
+      },
+      {
+        "number": 23,
+        "title": "Convenio regulador y efectos comunes"
+      },
+      {
+        "number": 24,
+        "title": "Medidas provisionales"
+      },
+      {
+        "number": 25,
+        "title": "Ley aplicable a la nulidad, separación y divorcio"
+      },
+      {
+        "number": 26,
+        "title": "Filiación y sus efectos"
+      },
+      {
+        "number": 27,
+        "title": "Determinación y prueba de la filiación"
+      },
+      {
+        "number": 28,
+        "title": "Filiación matrimonial"
+      },
+      {
+        "number": 29,
+        "title": "Filiación no matrimonial"
+      },
+      {
+        "number": 30,
+        "title": "Acciones de filiación y reclamación"
+      },
+      {
+        "number": 31,
+        "title": "Impugnación de la filiación"
+      },
+      {
+        "number": 32,
+        "title": "Alimentos entre parientes"
+      },
+      {
+        "number": 33,
+        "title": "Patria potestad: contenido y ejercicio"
+      },
+      {
+        "number": 34,
+        "title": "Representación y bienes de los hijos"
+      },
+      {
+        "number": 35,
+        "title": "Extinción, privación y recuperación de la patria potestad"
+      },
+      {
+        "number": 36,
+        "title": "Desamparo, tutela pública y guarda"
+      },
+      {
+        "number": 37,
+        "title": "Acogimiento familiar"
+      },
+      {
+        "number": 38,
+        "title": "Adopción"
+      },
+      {
+        "number": 39,
+        "title": "Desaparición y ausencia legal"
+      },
+      {
+        "number": 40,
+        "title": "Declaración de fallecimiento e inscripción"
+      },
+      {
+        "number": 41,
+        "title": "Tutela de menores: disposiciones generales"
+      },
+      {
+        "number": 42,
+        "title": "Delación y nombramiento del tutor"
+      },
+      {
+        "number": 43,
+        "title": "Ejercicio de la tutela"
+      },
+      {
+        "number": 44,
+        "title": "Extinción de la tutela y rendición de cuentas"
+      },
+      {
+        "number": 45,
+        "title": "Defensor judicial y guarda de hecho del menor"
+      },
+      {
+        "number": 46,
+        "title": "Mayoría de edad y emancipación"
+      },
+      {
+        "number": 47,
+        "title": "Principios de las medidas de apoyo"
+      },
+      {
+        "number": 48,
+        "title": "Medidas voluntarias y poderes preventivos"
+      },
+      {
+        "number": 49,
+        "title": "Guarda de hecho de la persona con discapacidad"
+      },
+      {
+        "number": 50,
+        "title": "Curatela y autocuratela"
+      },
+      {
+        "number": 51,
+        "title": "Nombramiento del curador"
+      },
+      {
+        "number": 52,
+        "title": "Ejercicio de la curatela"
+      },
+      {
+        "number": 53,
+        "title": "Extinción de la curatela"
+      },
+      {
+        "number": 54,
+        "title": "Defensor judicial de la persona con discapacidad"
+      },
+      {
+        "number": 55,
+        "title": "Responsabilidad y disposiciones comunes"
+      },
+      {
+        "number": 56,
+        "title": "Preceptos derogados del Libro I"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Sistema de fuentes y aplicación de las normas",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Nacionalidad, personalidad y domicilio",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Matrimonio y crisis matrimonial",
+        "blocks": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Filiación, alimentos y relaciones paterno-filiales",
+        "blocks": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Protección de menores y ausencia",
+        "blocks": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Emancipación y apoyos a personas con discapacidad",
+        "blocks": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

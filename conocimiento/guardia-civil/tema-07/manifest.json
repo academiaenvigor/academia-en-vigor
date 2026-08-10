@@ -1,0 +1,131 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-07",
+  "topic_number": 7,
+  "slug": "derecho-civil",
+  "title": "Derecho civil",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "reviewed_primary_sources_2026-08-09",
+  "source_file": "conocimiento/guardia-civil/tema-07/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "official_consolidated_text_and_original_editorial_structure"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-07-derecho-civil.md",
+    "atestado": "temas/guardia-civil/atestado/tema-07-derecho-civil.md"
+  },
+  "semantic_blocks": 56,
+  "atomic_facts": 999,
+  "master_statements": 999,
+  "coverage_file": "conocimiento/guardia-civil/tema-07/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T07",
+    "CC-BOE-A-1889-4763-T07"
+  ],
+  "official_exam_items": [
+    "of-gc-p2020-1a-q034",
+    "of-gc-p2020-1a-q035",
+    "of-gc-p2020-1a-q036",
+    "of-gc-p2020-2a-q036",
+    "of-gc-p2020-2a-q037",
+    "of-gc-p2020-2a-q038",
+    "of-gc-p2020-2a-q039",
+    "of-gc-p2021-1a-q037",
+    "of-gc-p2021-1a-q038",
+    "of-gc-p2021-1a-q039",
+    "of-gc-p2021-1a-q040",
+    "of-gc-p2021-2a-q036",
+    "of-gc-p2021-2a-q037",
+    "of-gc-p2021-2a-q038",
+    "of-gc-p2021-2a-q039",
+    "of-gc-p2022-1a-q037",
+    "of-gc-p2022-1a-q038",
+    "of-gc-p2022-1a-q039",
+    "of-gc-p2022-1a-q040",
+    "of-gc-p2022-1a-q041",
+    "of-gc-p2022-2a-q037",
+    "of-gc-p2022-2a-q038",
+    "of-gc-p2022-2a-q039",
+    "of-gc-p2022-2a-q040",
+    "of-gc-p2022-3a-q032",
+    "of-gc-p2022-3a-q033",
+    "of-gc-p2022-3a-q034",
+    "of-gc-p2023-1a-q037",
+    "of-gc-p2023-1a-q038",
+    "of-gc-p2023-1a-q039",
+    "of-gc-p2023-1a-q040",
+    "of-gc-p2023-2a-q038",
+    "of-gc-p2023-2a-q039",
+    "of-gc-p2023-2a-q040",
+    "of-gc-p2023-2a-q041",
+    "of-gc-p2023-2a-q042",
+    "of-gc-p2024-1a-q032",
+    "of-gc-p2024-1a-q033",
+    "of-gc-p2024-1a-q034",
+    "of-gc-p2024-1a-q035",
+    "of-gc-p2024-2a-q032",
+    "of-gc-p2024-2a-q033",
+    "of-gc-p2024-2a-q034",
+    "of-gc-p2024-2a-q035",
+    "of-gc-p2024-3a-q034",
+    "of-gc-p2024-3a-q035",
+    "of-gc-p2024-3a-q036",
+    "of-gc-p2024-3a-q037",
+    "of-gc-p2025-a-q036",
+    "of-gc-p2025-a-q037",
+    "of-gc-p2025-a-q038",
+    "of-gc-p2025-a-q039",
+    "of-gc-p2026-a-q033",
+    "of-gc-p2026-a-q034",
+    "of-gc-p2026-a-q035",
+    "of-gc-p2026-a-q036"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-07/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-07/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-07/manifest.json",
+    "questions": 1311,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-07/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-07/manifest.json",
+    "total": 0,
+    "planned": 57
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-07/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "reviewed_primary_sources_2026-08-09",
+    "pedagogical": "approved_narrative_revision",
+    "editorial": "approved_internal",
+    "question_bank": "quality_gate_passed",
+    "review_file": "conocimiento/guardia-civil/tema-07/revision-1.0.md"
+  }
+}

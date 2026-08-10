@@ -1,0 +1,930 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-07",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 57,
+    "integrated": 0,
+    "planned": 57
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T07-V00",
+      "file": "t07-00-mapa-derecho-civil.webp",
+      "title": "Mapa general del Derecho civil",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido general por el Título preliminar y el Libro I.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V01",
+      "file": "t07-01-mapa-del-codigo-civil-exigido.webp",
+      "title": "Mapa del Código Civil exigido",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar mapa del código civil exigido.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V02",
+      "file": "t07-02-fuentes-del-derecho-y-jerarquia-normativa.webp",
+      "title": "Fuentes del Derecho y jerarquía normativa",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar fuentes del derecho y jerarquía normativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V03",
+      "file": "t07-03-interpretacion-analogia-y-computo-civil.webp",
+      "title": "Interpretación, analogía y cómputo civil",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar interpretación, analogía y cómputo civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V04",
+      "file": "t07-04-eficacia-de-las-normas-buena-fe-abuso-y-fraude.webp",
+      "title": "Eficacia de las normas, buena fe, abuso y fraude",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar eficacia de las normas, buena fe, abuso y fraude.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V05",
+      "file": "t07-05-normas-de-derecho-internacional-privado.webp",
+      "title": "Normas de Derecho internacional privado",
+      "type": "ilustracion_simple",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar normas de derecho internacional privado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V06",
+      "file": "t07-06-vecindad-civil-y-derecho-interregional.webp",
+      "title": "Vecindad civil y Derecho interregional",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar vecindad civil y derecho interregional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V07",
+      "file": "t07-07-espanoles-de-origen-y-nacionalidad-por-opcion.webp",
+      "title": "Españoles de origen y nacionalidad por opción",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar españoles de origen y nacionalidad por opción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V08",
+      "file": "t07-08-posesion-de-estado-y-consolidacion-de-la-nacionalidad.webp",
+      "title": "Posesión de estado y consolidación de la nacionalidad",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar posesión de estado y consolidación de la nacionalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V09",
+      "file": "t07-09-adquisicion-de-la-nacionalidad-y-residencia.webp",
+      "title": "Adquisición de la nacionalidad y residencia",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar adquisición de la nacionalidad y residencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V10",
+      "file": "t07-10-perdida-recuperacion-y-doble-nacionalidad.webp",
+      "title": "Pérdida, recuperación y doble nacionalidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar pérdida, recuperación y doble nacionalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V11",
+      "file": "t07-11-extranjeros-y-capacidad-civil.webp",
+      "title": "Extranjeros y capacidad civil",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar extranjeros y capacidad civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V12",
+      "file": "t07-12-nacimiento-personalidad-y-muerte.webp",
+      "title": "Nacimiento, personalidad y muerte",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar nacimiento, personalidad y muerte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V13",
+      "file": "t07-13-personas-juridicas.webp",
+      "title": "Personas jurídicas",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar personas jurídicas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V14",
+      "file": "t07-14-domicilio.webp",
+      "title": "Domicilio",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar domicilio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V15",
+      "file": "t07-15-promesa-de-matrimonio.webp",
+      "title": "Promesa de matrimonio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar promesa de matrimonio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V16",
+      "file": "t07-16-requisitos-e-impedimentos-matrimoniales.webp",
+      "title": "Requisitos e impedimentos matrimoniales",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar requisitos e impedimentos matrimoniales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V17",
+      "file": "t07-17-autoridad-forma-y-celebracion-del-matrimonio.webp",
+      "title": "Autoridad, forma y celebración del matrimonio",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar autoridad, forma y celebración del matrimonio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V18",
+      "file": "t07-18-forma-religiosa-e-inscripcion-del-matrimonio.webp",
+      "title": "Forma religiosa e inscripción del matrimonio",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar forma religiosa e inscripción del matrimonio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V19",
+      "file": "t07-19-derechos-y-deberes-de-los-conyuges.webp",
+      "title": "Derechos y deberes de los cónyuges",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar derechos y deberes de los cónyuges.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V20",
+      "file": "t07-20-nulidad-matrimonial.webp",
+      "title": "Nulidad matrimonial",
+      "type": "ilustracion_simple",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar nulidad matrimonial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V21",
+      "file": "t07-21-separacion-y-reconciliacion.webp",
+      "title": "Separación y reconciliación",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar separación y reconciliación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V22",
+      "file": "t07-22-disolucion-y-divorcio.webp",
+      "title": "Disolución y divorcio",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar disolución y divorcio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V23",
+      "file": "t07-23-convenio-regulador-y-efectos-comunes.webp",
+      "title": "Convenio regulador y efectos comunes",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar convenio regulador y efectos comunes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V24",
+      "file": "t07-24-medidas-provisionales.webp",
+      "title": "Medidas provisionales",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar medidas provisionales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V25",
+      "file": "t07-25-ley-aplicable-a-la-nulidad-separacion-y-divorcio.webp",
+      "title": "Ley aplicable a la nulidad, separación y divorcio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar ley aplicable a la nulidad, separación y divorcio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V26",
+      "file": "t07-26-filiacion-y-sus-efectos.webp",
+      "title": "Filiación y sus efectos",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar filiación y sus efectos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V27",
+      "file": "t07-27-determinacion-y-prueba-de-la-filiacion.webp",
+      "title": "Determinación y prueba de la filiación",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar determinación y prueba de la filiación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V28",
+      "file": "t07-28-filiacion-matrimonial.webp",
+      "title": "Filiación matrimonial",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar filiación matrimonial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V29",
+      "file": "t07-29-filiacion-no-matrimonial.webp",
+      "title": "Filiación no matrimonial",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar filiación no matrimonial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V30",
+      "file": "t07-30-acciones-de-filiacion-y-reclamacion.webp",
+      "title": "Acciones de filiación y reclamación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar acciones de filiación y reclamación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V31",
+      "file": "t07-31-impugnacion-de-la-filiacion.webp",
+      "title": "Impugnación de la filiación",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar impugnación de la filiación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V32",
+      "file": "t07-32-alimentos-entre-parientes.webp",
+      "title": "Alimentos entre parientes",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar alimentos entre parientes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V33",
+      "file": "t07-33-patria-potestad-contenido-y-ejercicio.webp",
+      "title": "Patria potestad: contenido y ejercicio",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar patria potestad: contenido y ejercicio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V34",
+      "file": "t07-34-representacion-y-bienes-de-los-hijos.webp",
+      "title": "Representación y bienes de los hijos",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar representación y bienes de los hijos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V35",
+      "file": "t07-35-extincion-privacion-y-recuperacion-de-la-patria-potestad.webp",
+      "title": "Extinción, privación y recuperación de la patria potestad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar extinción, privación y recuperación de la patria potestad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V36",
+      "file": "t07-36-desamparo-tutela-publica-y-guarda.webp",
+      "title": "Desamparo, tutela pública y guarda",
+      "type": "infografia",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar desamparo, tutela pública y guarda.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V37",
+      "file": "t07-37-acogimiento-familiar.webp",
+      "title": "Acogimiento familiar",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar acogimiento familiar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V38",
+      "file": "t07-38-adopcion.webp",
+      "title": "Adopción",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar adopción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V39",
+      "file": "t07-39-desaparicion-y-ausencia-legal.webp",
+      "title": "Desaparición y ausencia legal",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar desaparición y ausencia legal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V40",
+      "file": "t07-40-declaracion-de-fallecimiento-e-inscripcion.webp",
+      "title": "Declaración de fallecimiento e inscripción",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar declaración de fallecimiento e inscripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V41",
+      "file": "t07-41-tutela-de-menores-disposiciones-generales.webp",
+      "title": "Tutela de menores: disposiciones generales",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar tutela de menores: disposiciones generales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V42",
+      "file": "t07-42-delacion-y-nombramiento-del-tutor.webp",
+      "title": "Delación y nombramiento del tutor",
+      "type": "infografia",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar delación y nombramiento del tutor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V43",
+      "file": "t07-43-ejercicio-de-la-tutela.webp",
+      "title": "Ejercicio de la tutela",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar ejercicio de la tutela.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V44",
+      "file": "t07-44-extincion-de-la-tutela-y-rendicion-de-cuentas.webp",
+      "title": "Extinción de la tutela y rendición de cuentas",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar extinción de la tutela y rendición de cuentas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V45",
+      "file": "t07-45-defensor-judicial-y-guarda-de-hecho-del-menor.webp",
+      "title": "Defensor judicial y guarda de hecho del menor",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar defensor judicial y guarda de hecho del menor.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V46",
+      "file": "t07-46-mayoria-de-edad-y-emancipacion.webp",
+      "title": "Mayoría de edad y emancipación",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar mayoría de edad y emancipación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V47",
+      "file": "t07-47-principios-de-las-medidas-de-apoyo.webp",
+      "title": "Principios de las medidas de apoyo",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar principios de las medidas de apoyo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V48",
+      "file": "t07-48-medidas-voluntarias-y-poderes-preventivos.webp",
+      "title": "Medidas voluntarias y poderes preventivos",
+      "type": "infografia",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar medidas voluntarias y poderes preventivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V49",
+      "file": "t07-49-guarda-de-hecho-de-la-persona-con-discapacidad.webp",
+      "title": "Guarda de hecho de la persona con discapacidad",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar guarda de hecho de la persona con discapacidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V50",
+      "file": "t07-50-curatela-y-autocuratela.webp",
+      "title": "Curatela y autocuratela",
+      "type": "ilustracion_simple",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar curatela y autocuratela.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V51",
+      "file": "t07-51-nombramiento-del-curador.webp",
+      "title": "Nombramiento del curador",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para diferenciar nombramiento del curador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V52",
+      "file": "t07-52-ejercicio-de-la-curatela.webp",
+      "title": "Ejercicio de la curatela",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para diferenciar ejercicio de la curatela.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V53",
+      "file": "t07-53-extincion-de-la-curatela.webp",
+      "title": "Extinción de la curatela",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para diferenciar extinción de la curatela.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V54",
+      "file": "t07-54-defensor-judicial-de-la-persona-con-discapacidad.webp",
+      "title": "Defensor judicial de la persona con discapacidad",
+      "type": "infografia",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para diferenciar defensor judicial de la persona con discapacidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V55",
+      "file": "t07-55-responsabilidad-y-disposiciones-comunes.webp",
+      "title": "Responsabilidad y disposiciones comunes",
+      "type": "ilustracion_simple",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para diferenciar responsabilidad y disposiciones comunes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T07-V56",
+      "file": "t07-56-preceptos-derogados-del-libro-i.webp",
+      "title": "Preceptos derogados del Libro I",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para diferenciar preceptos derogados del libro i.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,1285 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 7,
+  "titulo": "Derecho civil",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las respuestas proceden de plantillas oficiales finales archivadas y las reglas se cotejan con el Código Civil vigente.",
+  "total_referencias": 56,
+  "con_bloque_asignado": 56,
+  "con_respuesta_verificada": 56,
+  "por_bloque": {
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "6": 2,
+    "7": 3,
+    "12": 1,
+    "13": 3,
+    "14": 2,
+    "17": 5,
+    "20": 3,
+    "21": 1,
+    "22": 2,
+    "24": 1,
+    "26": 2,
+    "28": 1,
+    "32": 4,
+    "33": 1,
+    "37": 4,
+    "38": 2,
+    "39": 2,
+    "41": 2,
+    "42": 2,
+    "46": 5,
+    "47": 1,
+    "49": 1,
+    "54": 1
+  },
+  "por_promocion": {
+    "2020": 7,
+    "2021": 8,
+    "2022": 12,
+    "2023": 9,
+    "2024": 12,
+    "2025": 4,
+    "2026": 4
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q034",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 34,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T07-F023",
+        "GC-T07-F025"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Eficacia general de las normas jurídicas. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q035",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 35,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T07-F216",
+        "GC-T07-F212"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. En relación con el matrimonio, señale la opción CORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q036",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 36,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T07-F730",
+        "GC-T07-F729"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Están sujetos a tutela:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q036",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 36,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T07-F093",
+        "GC-T07-F087"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Las normas jurídicas, su aplicación y eficacia. ¿Qué vecindad civil tendrá el extranjero que adquiera la nacionalidad española por carta de naturaleza?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q037",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 37,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T07-F276",
+        "GC-T07-F267"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del matrimonio. La separación. ¿Quién debe poner en conocimiento del Juez que haya entendido en el litigio la reconciliación de los cónyuges en un procedimiento de separación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q038",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 38,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T07-F676",
+        "GC-T07-F672"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Desaparecida una persona de su domicilio o de su última residencia, sin haberse tenido más noticias, ¿quién podrá, a instancia de parte interesada o del Ministerio Fiscal, nombrar un defensor que ampare y represente al desaparecido en juicios o negocios que no admitan demora sin perjuicio grave?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q039",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 39,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T07-F818",
+        "GC-T07-F819"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La emancipación tiene lugar:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q037",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 37,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T07-F016",
+        "GC-T07-F019"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las normas jurídicas, su aplicación y eficacia. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q038",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 38,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T07-F174",
+        "GC-T07-F179"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las personas jurídicas. La capacidad civil de las corporaciones se regulará por:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q039",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 39,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T07-F384",
+        "GC-T07-F386"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. En relación con la filiación y sus efectos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q040",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 40,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T07-F625",
+        "GC-T07-F608"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La adopción y otras formas de protección de menores. ¿Qué modalidades podrá adoptar el acogimiento familiar atendiendo a su duración y objetivos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q036",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 36,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T07-F021"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las normas jurídicas, su aplicación y eficacia. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q037",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 37,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T07-F358",
+        "GC-T07-F357"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del matrimonio. De las medidas provisionales por demanda de nulidad, separación y divorcio. ¿Cuándo los cónyuges pueden vivir separados y cesa la presunción de convivencia conyugal?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q038",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 38,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T07-F490",
+        "GC-T07-F491"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Respecto a las relaciones paterno-filiales, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q039",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 39,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T07-F680",
+        "GC-T07-F681"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la ausencia. ¿Cuándo se considerará en situación de ausencia legal al desaparecido de su domicilio o de su última residencia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q037",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 37,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T07-F107"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los españoles y extranjeros. La nacionalidad española se adquiere por carta de naturaleza, otorgada discrecionalmente mediante ______________, cuando en el interesado concurran circunstancias excepcionales.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q038",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 38,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T07-F186",
+        "GC-T07-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Cuando ni la ley que las haya creado o reconocido, ni los estatutos o las reglas de fundación fijaren el domicilio de las personas jurídicas, ¿dónde se entenderá que lo tienen?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q039",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 39,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T07-F230",
+        "GC-T07-F233"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. ¿Desde cuándo produce efectos civiles el matrimonio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q040",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 40,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T07-F631",
+        "GC-T07-F627"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la adopción y otras formas de protección de menores. En relación con la guarda y acogimiento de menores, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q041",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 41,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T07-F984",
+        "GC-T07-F985"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del defensor judicial de la persona con discapacidad. ¿En cuál de los siguientes casos se nombrará un defensor judicial de las personas con discapacidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q037",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 37,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T07-F185",
+        "GC-T07-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del domicilio. ¿Cuál será el domicilio de los diplomáticos residentes por razón de su cargo en el extranjero, que gocen del derecho de extraterritorialidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q038",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 38,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T07-F210",
+        "GC-T07-F216"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del matrimonio. Señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q039",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 39,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T07-F468",
+        "GC-T07-F466"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los alimentos entre parientes. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q040",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 40,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T07-F821",
+        "GC-T07-F825"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la mayor edad y de la emancipación. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q032",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 32,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T07-F174",
+        "GC-T07-F179"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las personas jurídicas. La capacidad civil de las asociaciones se regulará por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q033",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 33,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T07-F263",
+        "GC-T07-F264"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La declaración de nulidad del matrimonio, ¿qué efectos ya producidos NO invalidará?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q034",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 34,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T07-F283",
+        "GC-T07-F279"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La reconciliación de los cónyuges posterior al divorcio, ¿qué efectos legales produce?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q037",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 37,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T07-F663",
+        "GC-T07-F645"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Los padres, o el que de ellos ejerza o le haya sido atribuida la patria potestad, podrán atribuir al hijo la vecindad civil de cualquiera de ellos en tanto no transcurran los ___________ siguientes al nacimiento o a la adopción.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q038",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 38,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T07-F259",
+        "GC-T07-F260"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Nulidad del matrimonio. En los casos de coacción o miedo grave solamente podrá ejercitar la acción de nulidad el cónyuge que hubiera sufrido el vicio. Caduca la acción y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante __________ después de haber cesado la fuerza o la causa del miedo.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q039",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 39,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T07-F611",
+        "GC-T07-F608"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la guarda y acogimiento de menores. ¿Qué tipo de acogimiento familiar es el que podrá adoptarse principalmente para menores de seis años, que tiene una duración no superior a seis meses, en tanto se decide la medida de protección familiar que corresponda?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q040",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 40,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T07-F776",
+        "GC-T07-F747"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la delación de la tutela y del nombramiento del tutor. La autoridad judicial podrá decretar la remoción de la tutela a solicitud de la persona menor de edad si tuviere suficiente madurez. ¿Mayor de qué edad deberá ser el menor para ser tenida en cuenta su opinión y que se le dé audiencia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q038",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 38,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T07-F007",
+        "GC-T07-F004"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Fuentes del Derecho. Los usos jurídicos que no sean meramente interpretativos de una declaración de voluntad, tendrán la consideración de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q039",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 39,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T07-F169",
+        "GC-T07-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Del nacimiento y la extinción de la personalidad civil. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q040",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 40,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T07-F404",
+        "GC-T07-F403"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la paternidad y filiación. Nacido el hijo dentro de los ______________________ siguientes a la celebración del matrimonio, podrá el marido destruir la presunción de que el hijo es suyo mediante declaración auténtica en contrario formalizada dentro de los _____________________ siguientes al conocimiento del parto.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q041",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 41,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T07-F739",
+        "GC-T07-F742"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la tutela y de la guarda de los menores. ¿Cuál de los siguientes NO estará obligado a promover la constitución de la tutela desde el momento en que conociera el hecho que la motivare?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q042",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 42,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T07-F819",
+        "GC-T07-F818"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La emancipación puede tener lugar…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q032",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 32,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T07-F082",
+        "GC-T07-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Si al nacer el hijo, o al ser adoptado, los padres tuvieren distinta vecindad civil, el hijo tendrá en primer lugar la vecindad …:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q033",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 33,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T07-F179",
+        "GC-T07-F174"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las personas jurídicas. La capacidad civil de las fundaciones se regulará por ___________________, debidamente aprobadas por disposición administrativa, cuando este requisito fuere necesario.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q034",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 34,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T07-F382",
+        "GC-T07-F383"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la filiación y sus efectos. ¿Cuál de las siguientes NO es una de las formas por las que puede tener lugar la filiación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q035",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 35,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T07-F821",
+        "GC-T07-F833"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la mayor edad y de la emancipación. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q032",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 32,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T07-F108",
+        "GC-T07-F107"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los españoles y extranjeros. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q033",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 33,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T07-F259",
+        "GC-T07-F256"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. En los casos de error, solamente puede ejercitar la acción de nulidad del matrimonio…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q034",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 34,
+      "block_refs": [
+        38
+      ],
+      "fact_refs": [
+        "GC-T07-F663",
+        "GC-T07-F636"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la adopción y otras formas de protección de menores. La adopción requiere que…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q035",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 35,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T07-F842",
+        "GC-T07-F843"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De las medidas de apoyo a las personas con discapacidad para el ejercicio de su capacidad jurídica. ¿Cuál de las siguientes NO es una de esas medidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q034",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 34,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T07-F109",
+        "GC-T07-F107"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los españoles y extranjeros. Los nacidos en España de padres extranjeros, si ambos carecieren de nacionalidad o si la legislación de ninguno de ellos atribuye al hijo una nacionalidad…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q035",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 35,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T07-F215",
+        "GC-T07-F207"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. La validez del matrimonio, ¿queda afectada por la incompetencia o falta de nombramiento legítimo del Juez de Paz, Alcalde, Concejal, Secretario judicial, Notario o funcionario ante quien se celebre?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q036",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 36,
+      "block_refs": [
+        22
+      ],
+      "fact_refs": [
+        "GC-T07-F279",
+        "GC-T07-F280"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la disolución del matrimonio. Sea cual fuere la forma y el tiempo de su celebración, ¿cómo se disuelve el matrimonio?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q037",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 37,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T07-F469",
+        "GC-T07-F476"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los alimentos entre parientes. En relación con la obligación de dar alimentos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q036",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 36,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T07-F452",
+        "GC-T07-F453"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los alimentos entre parientes. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q037",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 37,
+      "block_refs": [
+        37
+      ],
+      "fact_refs": [
+        "GC-T07-F608",
+        "GC-T07-F624"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la guarda y acogimiento de menores. En relación con el acogimiento familiar, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q038",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 38,
+      "block_refs": [
+        42
+      ],
+      "fact_refs": [
+        "GC-T07-F776",
+        "GC-T07-F747"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la delación de la tutela y del nombramiento del tutor. La autoridad judicial podrá decretar la remoción de la tutela a solicitud de la persona menor de edad si tuviere suficiente madurez. En todo caso será tenida en cuenta su opinión y se le dará audiencia si fuere mayor de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q039",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 39,
+      "block_refs": [
+        46
+      ],
+      "fact_refs": [
+        "GC-T07-F833",
+        "GC-T07-F832"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la mayor edad y la emancipación. Respecto al menor que hubiere obtenido judicialmente la emancipación, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q033",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 33,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T07-F022",
+        "GC-T07-F026"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. En relación con la eficacia general de las normas jurídicas, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q034",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 34,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T07-F216",
+        "GC-T07-F206"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. Cuando concurra causa grave suficientemente probada, podrá autorizarse el matrimonio secreto por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q035",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 35,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T07-F479",
+        "GC-T07-F476"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De los alimentos entre parientes. ¿Cuál de los siguientes NO es uno de los casos por los cuales cesará la obligación de suministrar alimentos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q036",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 36,
+      "block_refs": [
+        49
+      ],
+      "fact_refs": [
+        "GC-T07-F885",
+        "GC-T07-F886"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Código Civil. De la guarda de hecho de las personas con discapacidad. La guarda de hecho se extingue…: Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla cotejada con el Código Civil consolidado."
+    }
+  ]
+}
