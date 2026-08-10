@@ -1,0 +1,1170 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-09",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 72,
+    "integrated": 0,
+    "planned": 72
+  },
+  "integration_status": "planned_in_separate_chat",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T09-V00",
+      "file": "t09-00-mapa-derecho-procesal-penal.webp",
+      "title": "Mapa general",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido por órganos, actuaciones, garantías y víctimas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V01",
+      "file": "t09-01-mapa-y-alcance-del-tema-9.webp",
+      "title": "Mapa y alcance del Tema 9",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar mapa y alcance del tema 9.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V02",
+      "file": "t09-02-competencia-objetiva-y-primeras-diligencias.webp",
+      "title": "Competencia objetiva y primeras diligencias",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar competencia objetiva y primeras diligencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V03",
+      "file": "t09-03-competencia-territorial-y-delitos-conexos.webp",
+      "title": "Competencia territorial y delitos conexos",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar competencia territorial y delitos conexos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V04",
+      "file": "t09-04-acciones-penal-y-civil-titulares.webp",
+      "title": "Acciones penal y civil: titulares",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar acciones penal y civil: titulares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V05",
+      "file": "t09-05-renuncia-extincion-y-reserva-de-acciones.webp",
+      "title": "Renuncia, extinción y reserva de acciones",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar renuncia, extinción y reserva de acciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V06",
+      "file": "t09-06-derecho-de-defensa-y-asistencia-juridica-gratuita.webp",
+      "title": "Derecho de defensa y asistencia jurídica gratuita",
+      "type": "ilustracion_simple",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar derecho de defensa y asistencia jurídica gratuita.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V07",
+      "file": "t09-07-traduccion-e-interpretacion.webp",
+      "title": "Traducción e interpretación",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar traducción e interpretación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V08",
+      "file": "t09-08-denuncia.webp",
+      "title": "Denuncia",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar denuncia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V09",
+      "file": "t09-09-querella.webp",
+      "title": "Querella",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar querella.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V10",
+      "file": "t09-10-policia-judicial-mision-y-agente-encubierto.webp",
+      "title": "Policía Judicial: misión y agente encubierto",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar policía judicial: misión y agente encubierto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V11",
+      "file": "t09-11-atestado-comunicacion-y-diligencias-policiales.webp",
+      "title": "Atestado, comunicación y diligencias policiales",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar atestado, comunicación y diligencias policiales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V12",
+      "file": "t09-12-sumario-secreto-y-autoridades-instructoras.webp",
+      "title": "Sumario, secreto y autoridades instructoras",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar sumario, secreto y autoridades instructoras.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V13",
+      "file": "t09-13-formacion-y-direccion-de-la-instruccion.webp",
+      "title": "Formación y dirección de la instrucción",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar formación y dirección de la instrucción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V14",
+      "file": "t09-14-inspeccion-ocular.webp",
+      "title": "Inspección ocular",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar inspección ocular.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V15",
+      "file": "t09-15-cuerpo-del-delito.webp",
+      "title": "Cuerpo del delito",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar cuerpo del delito.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V16",
+      "file": "t09-16-destruccion-y-realizacion-anticipada-de-efectos.webp",
+      "title": "Destrucción y realización anticipada de efectos",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar destrucción y realización anticipada de efectos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V17",
+      "file": "t09-17-identidad-y-circunstancias-del-investigado.webp",
+      "title": "Identidad y circunstancias del investigado",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar identidad y circunstancias del investigado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V18",
+      "file": "t09-18-declaraciones-de-los-procesados.webp",
+      "title": "Declaraciones de los procesados",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar declaraciones de los procesados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V19",
+      "file": "t09-19-testigos-deber-exenciones-y-dispensas.webp",
+      "title": "Testigos: deber, exenciones y dispensas",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar testigos: deber, exenciones y dispensas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V20",
+      "file": "t09-20-testigos-declaracion-proteccion-y-prueba-preconstituida.webp",
+      "title": "Testigos: declaración, protección y prueba preconstituida",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar testigos: declaración, protección y prueba preconstituida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V21",
+      "file": "t09-21-careos.webp",
+      "title": "Careos",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar careos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V22",
+      "file": "t09-22-informe-pericial.webp",
+      "title": "Informe pericial",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar informe pericial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V23",
+      "file": "t09-23-detencion-por-particulares-y-agentes.webp",
+      "title": "Detención por particulares y agentes",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar detención por particulares y agentes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V24",
+      "file": "t09-24-entrega-libertad-y-plazos-de-detencion.webp",
+      "title": "Entrega, libertad y plazos de detención",
+      "type": "ilustracion_simple",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar entrega, libertad y plazos de detención.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V25",
+      "file": "t09-25-informacion-de-derechos-y-asistencia-letrada.webp",
+      "title": "Información de derechos y asistencia letrada",
+      "type": "infografia",
+      "placement": "bloque-25",
+      "status": "planned",
+      "block": 25,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar información de derechos y asistencia letrada.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V26",
+      "file": "t09-26-tratamiento-comunicaciones-e-incomunicacion.webp",
+      "title": "Tratamiento, comunicaciones e incomunicación",
+      "type": "infografia",
+      "placement": "bloque-26",
+      "status": "planned",
+      "block": 26,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar tratamiento, comunicaciones e incomunicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V27",
+      "file": "t09-27-entrada-y-registro-presupuestos-y-lugares.webp",
+      "title": "Entrada y registro: presupuestos y lugares",
+      "type": "infografia",
+      "placement": "bloque-27",
+      "status": "planned",
+      "block": 27,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar entrada y registro: presupuestos y lugares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V28",
+      "file": "t09-28-practica-de-la-entrada-y-registro.webp",
+      "title": "Práctica de la entrada y registro",
+      "type": "infografia",
+      "placement": "bloque-28",
+      "status": "planned",
+      "block": 28,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar práctica de la entrada y registro.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V29",
+      "file": "t09-29-registro-de-libros-y-papeles.webp",
+      "title": "Registro de libros y papeles",
+      "type": "infografia",
+      "placement": "bloque-29",
+      "status": "planned",
+      "block": 29,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar registro de libros y papeles.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V30",
+      "file": "t09-30-correspondencia-escrita-y-telegrafica.webp",
+      "title": "Correspondencia escrita y telegráfica",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "planned",
+      "block": 30,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar correspondencia escrita y telegráfica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V31",
+      "file": "t09-31-habeas-corpus-objeto-principios-y-privacion-ilegal.webp",
+      "title": "Habeas corpus: objeto, principios y privación ilegal",
+      "type": "infografia",
+      "placement": "bloque-31",
+      "status": "planned",
+      "block": 31,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar habeas corpus: objeto, principios y privación ilegal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V32",
+      "file": "t09-32-habeas-corpus-legitimacion-y-competencia.webp",
+      "title": "Habeas corpus: legitimación y competencia",
+      "type": "infografia",
+      "placement": "bloque-32",
+      "status": "planned",
+      "block": 32,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar habeas corpus: legitimación y competencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V33",
+      "file": "t09-33-habeas-corpus-inicio-e-incoacion.webp",
+      "title": "Habeas corpus: inicio e incoación",
+      "type": "infografia",
+      "placement": "bloque-33",
+      "status": "planned",
+      "block": 33,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar habeas corpus: inicio e incoación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V34",
+      "file": "t09-34-habeas-corpus-audiencia-resolucion-y-efectos.webp",
+      "title": "Habeas corpus: audiencia, resolución y efectos",
+      "type": "infografia",
+      "placement": "bloque-34",
+      "status": "planned",
+      "block": 34,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar habeas corpus: audiencia, resolución y efectos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V35",
+      "file": "t09-35-tribunal-supremo-posicion-y-composicion.webp",
+      "title": "Tribunal Supremo: posición y composición",
+      "type": "infografia",
+      "placement": "bloque-35",
+      "status": "planned",
+      "block": 35,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar tribunal supremo: posición y composición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V36",
+      "file": "t09-36-tribunal-supremo-salas-civil-y-penal.webp",
+      "title": "Tribunal Supremo: Salas Civil y Penal",
+      "type": "ilustracion_simple",
+      "placement": "bloque-36",
+      "status": "planned",
+      "block": 36,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar tribunal supremo: salas civil y penal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V37",
+      "file": "t09-37-tribunal-supremo-salas-contenciosa-social-y-militar.webp",
+      "title": "Tribunal Supremo: Salas Contenciosa, Social y Militar",
+      "type": "infografia",
+      "placement": "bloque-37",
+      "status": "planned",
+      "block": 37,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar tribunal supremo: salas contenciosa, social y militar.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V38",
+      "file": "t09-38-tribunal-supremo-salas-especiales-y-suplicatorios.webp",
+      "title": "Tribunal Supremo: salas especiales y suplicatorios",
+      "type": "infografia",
+      "placement": "bloque-38",
+      "status": "planned",
+      "block": 38,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar tribunal supremo: salas especiales y suplicatorios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V39",
+      "file": "t09-39-audiencia-nacional-estructura.webp",
+      "title": "Audiencia Nacional: estructura",
+      "type": "infografia",
+      "placement": "bloque-39",
+      "status": "planned",
+      "block": 39,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar audiencia nacional: estructura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V40",
+      "file": "t09-40-audiencia-nacional-competencias.webp",
+      "title": "Audiencia Nacional: competencias",
+      "type": "infografia",
+      "placement": "bloque-40",
+      "status": "planned",
+      "block": 40,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar audiencia nacional: competencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V41",
+      "file": "t09-41-tribunales-superiores-de-justicia-composicion.webp",
+      "title": "Tribunales Superiores de Justicia: composición",
+      "type": "infografia",
+      "placement": "bloque-41",
+      "status": "planned",
+      "block": 41,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar tribunales superiores de justicia: composición.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V42",
+      "file": "t09-42-tribunales-superiores-de-justicia-sala-civil-y-penal.webp",
+      "title": "Tribunales Superiores de Justicia: Sala Civil y Penal",
+      "type": "ilustracion_simple",
+      "placement": "bloque-42",
+      "status": "planned",
+      "block": 42,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar tribunales superiores de justicia: sala civil y penal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V43",
+      "file": "t09-43-tribunales-superiores-de-justicia-salas-contenciosa-y-social.webp",
+      "title": "Tribunales Superiores de Justicia: Salas Contenciosa y Social",
+      "type": "infografia",
+      "placement": "bloque-43",
+      "status": "planned",
+      "block": 43,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar tribunales superiores de justicia: salas contenciosa y social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V44",
+      "file": "t09-44-audiencias-provinciales.webp",
+      "title": "Audiencias Provinciales",
+      "type": "infografia",
+      "placement": "bloque-44",
+      "status": "planned",
+      "block": 44,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar audiencias provinciales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V45",
+      "file": "t09-45-tribunales-de-instancia-organizacion-general.webp",
+      "title": "Tribunales de Instancia: organización general",
+      "type": "infografia",
+      "placement": "bloque-45",
+      "status": "planned",
+      "block": 45,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar tribunales de instancia: organización general.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V46",
+      "file": "t09-46-secciones-civil-familia-mercantil-y-social.webp",
+      "title": "Secciones Civil, Familia, Mercantil y Social",
+      "type": "infografia",
+      "placement": "bloque-46",
+      "status": "planned",
+      "block": 46,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar secciones civil, familia, mercantil y social.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V47",
+      "file": "t09-47-secciones-de-instruccion-y-violencia.webp",
+      "title": "Secciones de Instrucción y Violencia",
+      "type": "infografia",
+      "placement": "bloque-47",
+      "status": "planned",
+      "block": 47,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar secciones de instrucción y violencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V48",
+      "file": "t09-48-secciones-penal-menores-y-vigilancia-penitenciaria.webp",
+      "title": "Secciones Penal, Menores y Vigilancia Penitenciaria",
+      "type": "ilustracion_simple",
+      "placement": "bloque-48",
+      "status": "planned",
+      "block": 48,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar secciones penal, menores y vigilancia penitenciaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V49",
+      "file": "t09-49-secciones-contencioso-administrativas.webp",
+      "title": "Secciones Contencioso-Administrativas",
+      "type": "infografia",
+      "placement": "bloque-49",
+      "status": "planned",
+      "block": 49,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar secciones contencioso-administrativas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V50",
+      "file": "t09-50-tribunal-central-de-instancia.webp",
+      "title": "Tribunal Central de Instancia",
+      "type": "infografia",
+      "placement": "bloque-50",
+      "status": "planned",
+      "block": 50,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar tribunal central de instancia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V51",
+      "file": "t09-51-oficinas-de-justicia-en-los-municipios.webp",
+      "title": "Oficinas de Justicia en los municipios",
+      "type": "infografia",
+      "placement": "bloque-51",
+      "status": "planned",
+      "block": 51,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar oficinas de justicia en los municipios.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V52",
+      "file": "t09-52-ministerio-fiscal-y-fiscalia-europea.webp",
+      "title": "Ministerio Fiscal y Fiscalía Europea",
+      "type": "infografia",
+      "placement": "bloque-52",
+      "status": "planned",
+      "block": 52,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar ministerio fiscal y fiscalía europea.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V53",
+      "file": "t09-53-abogacia-procuraduria-y-graduados-sociales.webp",
+      "title": "Abogacía, Procuraduría y Graduados Sociales",
+      "type": "infografia",
+      "placement": "bloque-53",
+      "status": "planned",
+      "block": 53,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar abogacía, procuraduría y graduados sociales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V54",
+      "file": "t09-54-policia-judicial-en-la-lopj.webp",
+      "title": "Policía Judicial en la LOPJ",
+      "type": "ilustracion_simple",
+      "placement": "bloque-54",
+      "status": "planned",
+      "block": 54,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar policía judicial en la lopj.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V55",
+      "file": "t09-55-funcion-general-de-policia-judicial.webp",
+      "title": "Función general de Policía Judicial",
+      "type": "infografia",
+      "placement": "bloque-55",
+      "status": "planned",
+      "block": 55,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar función general de policía judicial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V56",
+      "file": "t09-56-unidades-organicas-de-policia-judicial.webp",
+      "title": "Unidades Orgánicas de Policía Judicial",
+      "type": "infografia",
+      "placement": "bloque-56",
+      "status": "planned",
+      "block": 56,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar unidades orgánicas de policía judicial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V57",
+      "file": "t09-57-dependencia-funcional.webp",
+      "title": "Dependencia funcional",
+      "type": "infografia",
+      "placement": "bloque-57",
+      "status": "planned",
+      "block": 57,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar dependencia funcional.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V58",
+      "file": "t09-58-encargos-instrucciones-e-informes.webp",
+      "title": "Encargos, instrucciones e informes",
+      "type": "infografia",
+      "placement": "bloque-58",
+      "status": "planned",
+      "block": 58,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar encargos, instrucciones e informes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V59",
+      "file": "t09-59-principios-y-formas-de-actuacion.webp",
+      "title": "Principios y formas de actuación",
+      "type": "infografia",
+      "placement": "bloque-59",
+      "status": "planned",
+      "block": 59,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar principios y formas de actuación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V60",
+      "file": "t09-60-estatuto-de-la-victima-ambito-y-concepto.webp",
+      "title": "Estatuto de la Víctima: ámbito y concepto",
+      "type": "ilustracion_simple",
+      "placement": "bloque-60",
+      "status": "planned",
+      "block": 60,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar estatuto de la víctima: ámbito y concepto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V61",
+      "file": "t09-61-comprension-informacion-y-denuncia.webp",
+      "title": "Comprensión, información y denuncia",
+      "type": "infografia",
+      "placement": "bloque-61",
+      "status": "planned",
+      "block": 61,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar comprensión, información y denuncia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V62",
+      "file": "t09-62-reflexion-traduccion-y-servicios-de-apoyo.webp",
+      "title": "Reflexión, traducción y servicios de apoyo",
+      "type": "infografia",
+      "placement": "bloque-62",
+      "status": "planned",
+      "block": 62,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar reflexión, traducción y servicios de apoyo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V63",
+      "file": "t09-63-participacion-y-revision-del-sobreseimiento.webp",
+      "title": "Participación y revisión del sobreseimiento",
+      "type": "infografia",
+      "placement": "bloque-63",
+      "status": "planned",
+      "block": 63,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar participación y revisión del sobreseimiento.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V64",
+      "file": "t09-64-ejecucion-gastos-y-justicia-restaurativa.webp",
+      "title": "Ejecución, gastos y justicia restaurativa",
+      "type": "infografia",
+      "placement": "bloque-64",
+      "status": "planned",
+      "block": 64,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar ejecución, gastos y justicia restaurativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V65",
+      "file": "t09-65-justicia-gratuita-dimension-europea-y-devolucion.webp",
+      "title": "Justicia gratuita, dimensión europea y devolución",
+      "type": "infografia",
+      "placement": "bloque-65",
+      "status": "planned",
+      "block": 65,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar justicia gratuita, dimensión europea y devolución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V66",
+      "file": "t09-66-proteccion-contacto-investigacion-e-intimidad.webp",
+      "title": "Protección, contacto, investigación e intimidad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-66",
+      "status": "planned",
+      "block": 66,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar protección, contacto, investigación e intimidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V67",
+      "file": "t09-67-evaluacion-individual-de-necesidades.webp",
+      "title": "Evaluación individual de necesidades",
+      "type": "infografia",
+      "placement": "bloque-67",
+      "status": "planned",
+      "block": 67,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar evaluación individual de necesidades.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V68",
+      "file": "t09-68-medidas-especiales-de-proteccion.webp",
+      "title": "Medidas especiales de protección",
+      "type": "infografia",
+      "placement": "bloque-68",
+      "status": "planned",
+      "block": 68,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para explicar medidas especiales de protección.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V69",
+      "file": "t09-69-oficinas-de-asistencia-a-las-victimas.webp",
+      "title": "Oficinas de Asistencia a las Víctimas",
+      "type": "infografia",
+      "placement": "bloque-69",
+      "status": "planned",
+      "block": 69,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para explicar oficinas de asistencia a las víctimas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V70",
+      "file": "t09-70-formacion-y-protocolos.webp",
+      "title": "Formación y protocolos",
+      "type": "infografia",
+      "placement": "bloque-70",
+      "status": "planned",
+      "block": 70,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para explicar formación y protocolos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T09-V71",
+      "file": "t09-71-cooperacion-sensibilizacion-y-disposiciones.webp",
+      "title": "Cooperación, sensibilización y disposiciones",
+      "type": "infografia",
+      "placement": "bloque-71",
+      "status": "planned",
+      "block": 71,
+      "documents": [
+        "master"
+      ],
+      "description": "organigrama para explicar cooperación, sensibilización y disposiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

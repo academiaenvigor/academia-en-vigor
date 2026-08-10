@@ -1,0 +1,465 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 9,
+  "topic_title": "Derecho procesal penal",
+  "id_prefix": "GC-T09",
+  "status": "ready",
+  "bank": "banco-preguntas/guardia-civil/tema-09/preguntas.jsonl",
+  "output": "build/evaluaciones/guardia-civil/tema-09/tests-generados",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Mapa y alcance del Tema 9"
+      },
+      {
+        "number": 2,
+        "title": "Competencia objetiva y primeras diligencias"
+      },
+      {
+        "number": 3,
+        "title": "Competencia territorial y delitos conexos"
+      },
+      {
+        "number": 4,
+        "title": "Acciones penal y civil: titulares"
+      },
+      {
+        "number": 5,
+        "title": "Renuncia, extinción y reserva de acciones"
+      },
+      {
+        "number": 6,
+        "title": "Derecho de defensa y asistencia jurídica gratuita"
+      },
+      {
+        "number": 7,
+        "title": "Traducción e interpretación"
+      },
+      {
+        "number": 8,
+        "title": "Denuncia"
+      },
+      {
+        "number": 9,
+        "title": "Querella"
+      },
+      {
+        "number": 10,
+        "title": "Policía Judicial: misión y agente encubierto"
+      },
+      {
+        "number": 11,
+        "title": "Atestado, comunicación y diligencias policiales"
+      },
+      {
+        "number": 12,
+        "title": "Sumario, secreto y autoridades instructoras"
+      },
+      {
+        "number": 13,
+        "title": "Formación y dirección de la instrucción"
+      },
+      {
+        "number": 14,
+        "title": "Inspección ocular"
+      },
+      {
+        "number": 15,
+        "title": "Cuerpo del delito"
+      },
+      {
+        "number": 16,
+        "title": "Destrucción y realización anticipada de efectos"
+      },
+      {
+        "number": 17,
+        "title": "Identidad y circunstancias del investigado"
+      },
+      {
+        "number": 18,
+        "title": "Declaraciones de los procesados"
+      },
+      {
+        "number": 19,
+        "title": "Testigos: deber, exenciones y dispensas"
+      },
+      {
+        "number": 20,
+        "title": "Testigos: declaración, protección y prueba preconstituida"
+      },
+      {
+        "number": 21,
+        "title": "Careos"
+      },
+      {
+        "number": 22,
+        "title": "Informe pericial"
+      },
+      {
+        "number": 23,
+        "title": "Detención por particulares y agentes"
+      },
+      {
+        "number": 24,
+        "title": "Entrega, libertad y plazos de detención"
+      },
+      {
+        "number": 25,
+        "title": "Información de derechos y asistencia letrada"
+      },
+      {
+        "number": 26,
+        "title": "Tratamiento, comunicaciones e incomunicación"
+      },
+      {
+        "number": 27,
+        "title": "Entrada y registro: presupuestos y lugares"
+      },
+      {
+        "number": 28,
+        "title": "Práctica de la entrada y registro"
+      },
+      {
+        "number": 29,
+        "title": "Registro de libros y papeles"
+      },
+      {
+        "number": 30,
+        "title": "Correspondencia escrita y telegráfica"
+      },
+      {
+        "number": 31,
+        "title": "Habeas corpus: objeto, principios y privación ilegal"
+      },
+      {
+        "number": 32,
+        "title": "Habeas corpus: legitimación y competencia"
+      },
+      {
+        "number": 33,
+        "title": "Habeas corpus: inicio e incoación"
+      },
+      {
+        "number": 34,
+        "title": "Habeas corpus: audiencia, resolución y efectos"
+      },
+      {
+        "number": 35,
+        "title": "Tribunal Supremo: posición y composición"
+      },
+      {
+        "number": 36,
+        "title": "Tribunal Supremo: Salas Civil y Penal"
+      },
+      {
+        "number": 37,
+        "title": "Tribunal Supremo: Salas Contenciosa, Social y Militar"
+      },
+      {
+        "number": 38,
+        "title": "Tribunal Supremo: salas especiales y suplicatorios"
+      },
+      {
+        "number": 39,
+        "title": "Audiencia Nacional: estructura"
+      },
+      {
+        "number": 40,
+        "title": "Audiencia Nacional: competencias"
+      },
+      {
+        "number": 41,
+        "title": "Tribunales Superiores de Justicia: composición"
+      },
+      {
+        "number": 42,
+        "title": "Tribunales Superiores de Justicia: Sala Civil y Penal"
+      },
+      {
+        "number": 43,
+        "title": "Tribunales Superiores de Justicia: Salas Contenciosa y Social"
+      },
+      {
+        "number": 44,
+        "title": "Audiencias Provinciales"
+      },
+      {
+        "number": 45,
+        "title": "Tribunales de Instancia: organización general"
+      },
+      {
+        "number": 46,
+        "title": "Secciones Civil, Familia, Mercantil y Social"
+      },
+      {
+        "number": 47,
+        "title": "Secciones de Instrucción y Violencia"
+      },
+      {
+        "number": 48,
+        "title": "Secciones Penal, Menores y Vigilancia Penitenciaria"
+      },
+      {
+        "number": 49,
+        "title": "Secciones Contencioso-Administrativas"
+      },
+      {
+        "number": 50,
+        "title": "Tribunal Central de Instancia"
+      },
+      {
+        "number": 51,
+        "title": "Oficinas de Justicia en los municipios"
+      },
+      {
+        "number": 52,
+        "title": "Ministerio Fiscal y Fiscalía Europea"
+      },
+      {
+        "number": 53,
+        "title": "Abogacía, Procuraduría y Graduados Sociales"
+      },
+      {
+        "number": 54,
+        "title": "Policía Judicial en la LOPJ"
+      },
+      {
+        "number": 55,
+        "title": "Función general de Policía Judicial"
+      },
+      {
+        "number": 56,
+        "title": "Unidades Orgánicas de Policía Judicial"
+      },
+      {
+        "number": 57,
+        "title": "Dependencia funcional"
+      },
+      {
+        "number": 58,
+        "title": "Encargos, instrucciones e informes"
+      },
+      {
+        "number": 59,
+        "title": "Principios y formas de actuación"
+      },
+      {
+        "number": 60,
+        "title": "Estatuto de la Víctima: ámbito y concepto"
+      },
+      {
+        "number": 61,
+        "title": "Comprensión, información y denuncia"
+      },
+      {
+        "number": 62,
+        "title": "Reflexión, traducción y servicios de apoyo"
+      },
+      {
+        "number": 63,
+        "title": "Participación y revisión del sobreseimiento"
+      },
+      {
+        "number": 64,
+        "title": "Ejecución, gastos y justicia restaurativa"
+      },
+      {
+        "number": 65,
+        "title": "Justicia gratuita, dimensión europea y devolución"
+      },
+      {
+        "number": 66,
+        "title": "Protección, contacto, investigación e intimidad"
+      },
+      {
+        "number": 67,
+        "title": "Evaluación individual de necesidades"
+      },
+      {
+        "number": 68,
+        "title": "Medidas especiales de protección"
+      },
+      {
+        "number": 69,
+        "title": "Oficinas de Asistencia a las Víctimas"
+      },
+      {
+        "number": 70,
+        "title": "Formación y protocolos"
+      },
+      {
+        "number": 71,
+        "title": "Cooperación, sensibilización y disposiciones"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 25,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      },
+      {
+        "id": "C",
+        "offset": 2
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Alcance y disposiciones generales",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Inicio e instrucción del proceso",
+        "blocks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Comprobación del delito y prueba",
+        "blocks": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Detención, defensa y registros",
+        "blocks": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "code": "PARTE-5",
+        "title": "Habeas corpus y órganos estatales",
+        "blocks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      {
+        "code": "PARTE-6",
+        "title": "Organización judicial y Policía Judicial",
+        "blocks": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      {
+        "code": "PARTE-7",
+        "title": "Derechos y protección de víctimas",
+        "blocks": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 25,
+      "variant": "C",
+      "offset": 2
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 50,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "C",
+      "offset": 2
+    }
+  ]
+}

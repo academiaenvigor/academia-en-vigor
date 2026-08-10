@@ -1,0 +1,2924 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 9,
+  "titulo": "Derecho procesal penal",
+  "generated_at": "2026-08-09",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las apariciones históricas se separan de la regla vigente; la terminología anterior a la LO 1/2025 no se presenta como actual.",
+  "total_referencias": 133,
+  "con_bloque_asignado": 133,
+  "con_respuesta_verificada": 133,
+  "por_bloque": {
+    "2": 5,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 2,
+    "7": 1,
+    "8": 7,
+    "9": 4,
+    "10": 5,
+    "11": 5,
+    "12": 1,
+    "13": 2,
+    "14": 1,
+    "15": 1,
+    "17": 1,
+    "19": 3,
+    "20": 1,
+    "23": 3,
+    "24": 2,
+    "25": 4,
+    "26": 2,
+    "27": 3,
+    "28": 2,
+    "29": 2,
+    "30": 2,
+    "31": 4,
+    "32": 3,
+    "33": 5,
+    "34": 2,
+    "35": 5,
+    "36": 2,
+    "39": 3,
+    "40": 4,
+    "41": 2,
+    "44": 1,
+    "45": 3,
+    "47": 1,
+    "51": 2,
+    "52": 1,
+    "53": 3,
+    "54": 3,
+    "55": 1,
+    "56": 3,
+    "58": 2,
+    "59": 4,
+    "61": 9
+  },
+  "por_promocion": {
+    "2020": 16,
+    "2021": 20,
+    "2022": 29,
+    "2023": 19,
+    "2024": 31,
+    "2025": 9,
+    "2026": 9
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-1a-q043",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 43,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T09-F024"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Según lo dispuesto en la citada Ley, NO se consideran primeras diligencias...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q044",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 44,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F116"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. La denuncia. ¿Cuál de las siguientes personas que hubiere presenciado un delito público estará obligada a denunciar?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q045",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 45,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T09-F158"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. ¿De cuál de los siguientes delitos NO está prevista su investigación a través del empleo de la figura del agente encubierto previsto en esta ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q046",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 46,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T09-F502",
+        "GC-T09-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Los reconocimientos médicos al detenido a quien se le restrinja el derecho a comunicarse con todas o alguna de las personas con las que tenga derecho a hacerlo se realizarán con una frecuencia de al menos, según criterio facultativo.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q047",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 47,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T09-F505",
+        "GC-T09-F513"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. A los efectos de practicar una entrada y registro en un lugar cerrado, NO se reputarán edificios o lugares públicos:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q048",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 48,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T09-F637"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Podrá instar el procedimiento de «Habeas Corpus». Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q049",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 49,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T09-F654",
+        "GC-T09-F656"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la instrucción y enjuiciamiento de las causas contra el Defensor del Pueblo conocerá:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q050",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 50,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T09-F683"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. ¿Cuál de las siguientes NO es una Sala de las que integra la Audiencia Nacional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q051",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 51,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T09-F885",
+        "GC-T09-F886"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la Policía Judicial. ¿Cuál de las siguientes funciones NO corresponde específicamente a las unidades de Policía Judicial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q045",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 45,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T09-F047"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. A los efectos de la atribución de jurisdicción y de la distribución de la A competencia, ¿cuál de las siguientes opciones NO se considera un delito conexo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q046",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 46,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F121",
+        "GC-T09-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. El Juez que dicte la resolución por la que se autoriza la circulacién o entrega vigilada de drogas téxicas, estupefacientes o sustancias psicotrépicas dará traslado de copia de la misma a:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q047",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 47,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T09-F453"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Cualquier persona puede detener:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q048",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 48,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T09-F537"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Entrada y registro en lugar cerrado. ¿En qué caso se expedira a la parte interesada certificacién del acto de la diligencia del registro?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q049",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 49,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T09-F638"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Salvo cuando se incoe de oficio, ¿de cual de las siguientes formas puede iniciarse el procedimiento de Habeas Corpus?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q050",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 50,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T09-F702"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. ¿Cuál de las siguientes NO es una Sala de las que integra el Tribunal Superior de Justicia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q051",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 51,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T09-F907"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. Principios que carácterizan su actuación y formas en que la misma se exterioriza. gCon qué carácter le corresponderá la función de investigación criminal a las Unidades Orgánicas de la Policía Judicial? i",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q047",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 47,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T09-F056"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De los siguientes, ¿quién/es podrá/n ejercer la acción penal por delito cometido contra sus personas o bienes o contra las personas o bienes de sus cónyuges, ascendientes, descendientes, hermanos consanguíneos o uterinos y afines?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q048",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 48,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T09-F078"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos y faltas. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q049",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 49,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T09-F352",
+        "GC-T09-F353"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Declaraciones de los testigos. ¿Quiénes NO están exentos del deber de declarar?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q050",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 50,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T09-F461"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. El particular que detuviere a una persona, deberá ponerla en libertad o entregarla al Juez más próximo al lugar en que hubiere hecho la detención dentro de las ______________horas siguientes al acto de la misma.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q051",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 51,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T09-F518"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con el auto de entrada y registro en el domicilio de un particular, ¿cuál de los siguientes datos NO es necesario que se exprese concretamente por el Juez en dicho auto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q052",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 52,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T09-F640"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q053",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 53,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T09-F649"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. ¿Por qué Salas está integrado el Tribunal Supremo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q054",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 54,
+      "block_refs": [
+        41
+      ],
+      "fact_refs": [
+        "GC-T09-F702"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. ¿Qué consideración tendrá el presidente del Tribunal Superior de Justicia mientras desempeñe su cargo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q055",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 55,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T09-F903"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. En las diligencias o actuaciones que llevan a cabo por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes, los funcionarios integrantes de las Unidades Orgánicas de la Policía Judicial tendrán el carácter de_________________ de aquéllos.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q045",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 45,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T09-F042",
+        "GC-T09-F043"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Cuando no conste el lugar en que se ha cometido el delito, pero se han encontrado pruebas materiales de su comisión en lugar distinto al de la detención del sospechoso. Con arreglo a la prioridad establecida por la Ley, ¿de qué término municipal, partido o circunscripción serán los Jueces competentes para conocer de la causa en primer lugar?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q046",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 46,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T09-F081"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De las personas a quienes corresponde el ejercicio de las acciones que nacen de los delitos y faltas. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q047",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 47,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T09-F142",
+        "GC-T09-F143"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. La querella. ¿Cuál de los siguientes requisitos NO es necesario que se exprese en ella?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q048",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 48,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T09-F274"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. ¿Cuándo podrá el Juez de Instrucción acordar la obtención de muestras biológicas del sospechoso que resulten indispensables para la determinación de su perfil de ADN?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q049",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 49,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T09-F367"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Declaraciones de los testigos. ¿Quiénes podrán ser obligados a declarar como testigos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q050",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 50,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T09-F488",
+        "GC-T09-F489"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Cuando dentro de las primeras cuarenta y ocho horas desde la detención de una persona por un delito de terrorismo, ha sido solicitada la prórroga de la misma mediante comunicación motivada, ¿en qué plazo será autorizada por el Juez dicha prórroga?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q051",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 51,
+      "block_refs": [
+        29
+      ],
+      "fact_refs": [
+        "GC-T09-F537",
+        "GC-T09-F541"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Del registro de libros y papeles. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q052",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 52,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T09-F637"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Una vez oída la persona privada de libertad por el Juez competente y antes de dictar resolución en dicho procedimiento. ¿A quién podrá el Juez dar a conocer las declaraciones del privado de libertad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q053",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 53,
+      "block_refs": [
+        36
+      ],
+      "fact_refs": [
+        "GC-T09-F654",
+        "GC-T09-F656"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la instrucción y enjuiciamiento de las causas contra los Magistrados del Tribunal Supremo conocerá:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q054",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 54,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T09-F683"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Qué órgano/s jurisdiccional/es posee/n una Sala de Apelación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q055",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 55,
+      "block_refs": [
+        56
+      ],
+      "fact_refs": [
+        "GC-T09-F896"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. ¿Por qué razones se podrán constituir Unidades de Policía Judicial con un ámbito de actuación que exceda del provincial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q048",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 48,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T09-F022"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. El conocimiento de las causas por delitos en que aparezcan a la vez culpables personas sujetas a la jurisdicción ordinaria y otras aforadas corresponderá…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q049",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 49,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T09-F050",
+        "GC-T09-F051"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Son Jueces y Tribunales competentes, por su orden, para conocer de las causas por delitos conexos…: Señale el orden INCORRECTO.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q050",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 50,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T09-F097",
+        "GC-T09-F098"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Del derecho a la defensa y a la asistencia jurídica gratuita. Todos los que sean parte en una causa, si no se les hubiere reconocido el derecho a la asistencia jurídica gratuita, tendrán obligación de satisfacer ____________ de los procuradores que les representen, ____________ de los abogados que les defiendan, los de los peritos que informen a su instancia y ____________ de los testigos que presentaren, cuando los peritos y testigos, al declarar, hubiesen formulado su reclamación y el Juez o Tribunal la estimaren.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q051",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 51,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T09-F224"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la instrucción. La investigación judicial, sin perjuicio de las prórrogas que puedan acordarse, se desarrollará en un plazo máximo de ________________ desde la incoación de la causa.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q052",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 52,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T09-F543"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la detención y apertura de la correspondencia escrita y telegráfica. ¿Durante qué plazo puede acordar el Juez, en resolución motivada, la observación de las comunicaciones postales del investigado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q053",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 53,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T09-F645",
+        "GC-T09-F644"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Si el Juez mediante auto motivado, estima que concurren alguna de las circunstancias previstas en esta Ley, de las siguientes, ¿qué medidas podrá acordar en el acto?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q054",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 54,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T09-F649"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. De las siguientes opciones, señale la INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q055",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 55,
+      "block_refs": [
+        52
+      ],
+      "fact_refs": [
+        "GC-T09-F871"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Del Ministerio Fiscal y la Fiscalía Europea. Sin perjuicio de las funciones encomendadas a otros órganos, el Ministerio Fiscal tiene por misión…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q056",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 56,
+      "block_refs": [
+        58
+      ],
+      "fact_refs": [
+        "GC-T09-F903",
+        "GC-T09-F902"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. En relación con los criterios y normas de actuación de las Unidades Orgánicas de la Policía Judicial, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q048",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 48,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T09-F044",
+        "GC-T09-F042"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De las reglas por donde se determina la competencia. En el caso de que se trate de alguno de los delitos cuya instrucción o conocimiento corresponda al Juez de Violencia sobre la Mujer, la competencia territorial vendrá determinada por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q049",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 49,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T09-F095",
+        "GC-T09-F093"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Del derecho a la defensa y a la asistencia jurídica gratuita. En relación con las particularidades en que ha de practicarse la comparecencia prevista en esta Ley. En el caso de la imputación de una persona jurídica, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q050",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 50,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la denuncia. El que presenciare la perpetración de cualquier delito público está obligado a ponerlo inmediatamente en conocimiento del ___________________ más próximo al sitio en que se hallare. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q051",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 51,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T09-F482",
+        "GC-T09-F469"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En el caso de que el abogado designado no compareciera en el centro de detención en el plazo establecido y el Colegio de Abogados designará un nuevo abogado del turno de oficio, ¿en qué plazo de tiempo deberá comparecer éste último en el centro de detención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q052",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 52,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T09-F640",
+        "GC-T09-F638"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q053",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 53,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T09-F686",
+        "GC-T09-F689"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_wording_superseded_by_tribunals_of_instance",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Salvo que corresponda en primera instancia a los Juzgados Centrales de lo Penal, ¿quién conocerá del enjuiciamiento de los delitos cometidos contra el titular de la Corona?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q054",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 54,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "GC-T09-F867",
+        "GC-T09-F868"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "historical_wording_superseded_by_tribunals_of_instance",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De los Juzgados de Paz. ¿Por quién serán nombrados los Jueces de Paz y sus sustitutos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q055",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 55,
+      "block_refs": [
+        56
+      ],
+      "fact_refs": [
+        "GC-T09-F895"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. Las Unidades Orgánicas de la Policía Judicial se estructurarán con arreglo a criterios de distribución ______________ sobre una base ______________.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q039",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 39,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T09-F026",
+        "GC-T09-F029"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados. Dentro de la circunscripción donde el delito fue cometido, ¿a quién corresponde el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q040",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 40,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T09-F052",
+        "GC-T09-F053"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con la acción penal. Señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q041",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 41,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T09-F144"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la querella. Si la querella tuviere por objeto algún delito de los que solamente pueden perseguirse a instancia de parte, acompañará también la certificación que acredite haberse celebrado o intentado el acto de conciliación entre querellante y querellado, excepto…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q042",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 42,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T09-F156",
+        "GC-T09-F157"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la Policía Judicial. ¿Cuál de los siguientes supuestos se considerará delincuencia organizada?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q043",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 43,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T09-F478",
+        "GC-T09-F492"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Respecto del tratamiento de los detenidos y presos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q044",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 44,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T09-F505",
+        "GC-T09-F513"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. A los efectos de entrada y registro en un lugar cerrado, ¿cuál de los siguientes NO tendrá consideración de lugar o edificio público?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q045",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 45,
+      "block_refs": [
+        30
+      ],
+      "fact_refs": [
+        "GC-T09-F545",
+        "GC-T09-F544"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En caso de urgencia, cuando las investigaciones se realicen para la averiguación de delitos relacionados con la actuación de bandas armadas, el Ministro del Interior podrá ordenar la observación de las comunicaciones telegráficas, comunicándolo inmediatamente al Juez competente. ¿Qué plazo tendrá dicha autoridad judicial para de forma motivada revocar o confirmar tal actuación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q046",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 46,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T09-F006"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. ¿Cuál es el origen de la institución del Habeas Corpus?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q047",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 47,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T09-F007",
+        "GC-T09-F009"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. La citada Ley se inspira en cuatro principios complementarios. ¿A cuál de ellos nos referimos cuando decimos: “Que ningún particular o agente de la autoridad puede sustraerse al control judicial de la legalidad de la detención de las personas sin excepción de ningún género, ni siquiera en lo referente a la Autoridad Militar”?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q048",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 48,
+      "block_refs": [
+        39
+      ],
+      "fact_refs": [
+        "GC-T09-F684",
+        "GC-T09-F683"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la Audiencia Nacional. ¿Los magistrados de qué Sala podrán ser adscritos por el Consejo General del Poder Judicial a otra Sala de diferente orden, cuando la sensible y continuada diferencia en el volumen de trabajo lo aconseje?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q049",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 49,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T09-F877",
+        "GC-T09-F874"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. En relación con los abogados, procuradores y graduados sociales, indique la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q050",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 50,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T09-F909",
+        "GC-T09-F910"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. Cuando los funcionarios integrantes de las Unidades Orgánicas de la Policía Judicial realicen diligencias de investigación criminal formalmente concretadas a un supuesto presuntamente delictivo, pero con carácter previo a la apertura de la correspondiente actuación judicial, actuarán bajo la dependencia de....:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q049",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 49,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T09-F137"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la querella. Salvo que el querellado estuviese sometido, por disposición especial de la Ley, a determinado Tribunal, ¿ante quién se interpondrá la querella?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q050",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 50,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T09-F162",
+        "GC-T09-F153"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la Policía Judicial. De los que a continuación se expresan, ¿quién puede autorizar a un miembro de la Policía Judicial a actuar bajo identidad supuesta?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q051",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 51,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T09-F193"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Instrucción del Sumario. ¿Al menos, con qué plazo de antelación a su conclusión, deberá alzarse necesariamente el secreto del sumario declarado total o parcialmente por el Juez de Instrucción?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q052",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 52,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T09-F355",
+        "GC-T09-F353"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Declaraciones de los testigos. Estarán exentos de concurrir al llamamiento del Juez, pero no de declarar, pudiendo informar por escrito sobre los hechos de que tengan conocimiento por razón de su cargo...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q053",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 53,
+      "block_refs": [
+        27
+      ],
+      "fact_refs": [
+        "GC-T09-F507",
+        "GC-T09-F504"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la entrada y registro en lugar cerrado. Señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q054",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 54,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T09-F638"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Cuando el procedimiento se inicie por medio de escrito o comparecencia, en dicho escrito o comparecencia deberán constar…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q055",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 55,
+      "block_refs": [
+        44
+      ],
+      "fact_refs": [
+        "GC-T09-F734",
+        "GC-T09-F731"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Qué órganos jurisdiccionales conocerán en el orden penal de los recursos contra las resoluciones de los Juzgados de Menores con sede en la provincia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q056",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 56,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T09-F884"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la Policía Judicial. ¿Cómo se fijará la organización de estas unidades y los medios de selección y régimen jurídico de sus miembros?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q057",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 57,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F923"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Oficinas de Asistencia a las Víctimas. ¿Quiénes organizarán en el ámbito que les es propio, Oficinas de Asistencia a las Víctimas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q050",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 50,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T09-F060"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Con respecto a la renuncia de la acción penal renunciable por parte del ofendido, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q051",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 51,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T09-F147",
+        "GC-T09-F148"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. La querella. El particular querellante prestará fianza de la clase y en la cuantía que fijare el Juez o Tribunal para responder de las resultas del juicio. De los siguientes, ¿quienes NO quedarán exentos de prestarla?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q052",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 52,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T09-F182"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la Policía Judicial. Salvo en los supuestos marcados por la Ley, los funcionarios de Policía Judicial no podrán dejar transcurrir más de _________________ sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias que hubieran practicado.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q053",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 53,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T09-F203"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la instrucción. En el caso de que el Juez municipal comenzare a instruir las primeras diligencias del sumario, practicadas que sean las más urgentes y todas las que el Juez de instrucción le hubiere prevenido, le remitirá la causa, que nunca podrá retener más de _________________.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q054",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 54,
+      "block_refs": [
+        26
+      ],
+      "fact_refs": [
+        "GC-T09-F502",
+        "GC-T09-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con el tratamiento de los detenidos y presos, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q055",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 55,
+      "block_refs": [
+        28
+      ],
+      "fact_refs": [
+        "GC-T09-F531",
+        "GC-T09-F529"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con la entrada y registro en lugar cerrado, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q056",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 56,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T09-F647",
+        "GC-T09-F649"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. En relación con el Tribunal Supremo, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q057",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 57,
+      "block_refs": [
+        47
+      ],
+      "fact_refs": [
+        "GC-T09-F786"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "historical_wording_superseded_by_tribunals_of_instance",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. ¿Qué órganos jurisdiccionales conocerán en el orden penal de los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Paz y de las cuestiones de competencia entre éstos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q058",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 58,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T09-F911"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. Cuando haya que realizar la adscripción permanente a una concreta investigación de funcionarios integrados en la correspondiente Unidad Orgánica de Policía Judicial, en caso de discrepancia, resolverá __________________ previo informe de la Comisión Provincial de Coordinación de la Policía Judicial.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q059",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 59,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F921"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Protocolos de actuación. Con el fin de hacer más efectiva la protección de las víctimas y de sus derechos reconocidos por esta Ley, ¿quiénes aprobarán los Protocolos que resulten necesarios para la protección de las víctimas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q042",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 42,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T09-F026",
+        "GC-T09-F027"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Competencia de los Jueces y Tribunales en lo criminal. Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados y salvo que la competencia corresponda al Juez de Violencia sobre la Mujer, ¿quién será competente para el conocimiento y fallo de los juicios por delito leve?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q043",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 43,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F121",
+        "GC-T09-F125"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la denuncia. ¿Cuál de los siguientes NO podrá autorizar la circulación o entrega vigilada de drogas tóxicas, estupefacientes o sustancias psicotrópicas, así como de otras sustancias prohibidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q044",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 44,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T09-F154",
+        "GC-T09-F160"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con las actuaciones y la información que vaya obteniendo el agente encubierto, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q045",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 45,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T09-F170",
+        "GC-T09-F175"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. ¿Quién extenderá diligencia expresiva del lugar, tiempo y ocasión en que se encontraren las armas, instrumentos o efectos de cualquiera clase que puedan tener relación con el delito y se hallen en el lugar en que éste se cometió?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q046",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 46,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T09-F454"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En el caso de haber sido designado un abogado de oficio para que asista al detenido, ¿en qué plazo máximo de tiempo acudirá éste al centro de detención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q047",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 47,
+      "block_refs": [
+        34
+      ],
+      "fact_refs": [
+        "GC-T09-F641"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Si la detención obedece a la aplicación de la Ley Orgánica que desarrolla los supuestos previstos en la Constitución relacionados con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, el procedimiento deberá seguirse ante…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q048",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 48,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T09-F746"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "historical_wording_superseded_by_tribunals_of_instance",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Salvo que corresponda en primera instancia a los Juzgados Centrales de lo Penal, ¿quién conocerá del enjuiciamiento de los delitos de contrabando de productos y tecnología de doble uso?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q049",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 49,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T09-F747"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De los recursos que establezca la ley contra las resoluciones en materia penal dictadas por los Juzgados de Violencia sobre la Mujer de la provincia, conocerá en el orden penal…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q050",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 50,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T09-F881",
+        "GC-T09-F873"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. En relación con los Abogados, Procuradores y Graduados Sociales, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q051",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 51,
+      "block_refs": [
+        56
+      ],
+      "fact_refs": [
+        "GC-T09-F893"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. Cuando por los Jueces, Tribunales o Fiscales competentes se encomienden funciones a las Unidades de Policía Judicial con carácter excepcional como las de prevención de la delincuencia, ¿a quién se dará cuenta?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q052",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 52,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F921"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Medidas de protección. Durante la fase de investigación podrán ser adoptadas las siguientes medidas para la protección de las víctimas…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q053",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 53,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F923"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. ¿Con que periodicidad será objeto de evaluación el funcionamiento de las instituciones, mecanismos y garantías de asistencia a las víctimas del delito por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q042",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 42,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T09-F100",
+        "GC-T09-F102"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Del derecho a la traducción e interpretación. En relación con los imputados o acusados que no hablen o entiendan el castellano o la lengua oficial en la que se desarrolle la actuación, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q043",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 43,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F127"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. El denunciador de un delito de los que deben perseguirse de oficio…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q044",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 44,
+      "block_refs": [
+        14
+      ],
+      "fact_refs": [
+        "GC-T09-F237"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Cuando al practicarse las diligencias correspondientes a la inspección ocular hubiese alguna persona declarada procesada como presunta autora del hecho punible…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q045",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 45,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T09-F048"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Como norma general, ¿en qué plazo máximo el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q046",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 46,
+      "block_refs": [
+        32
+      ],
+      "fact_refs": [
+        "GC-T09-F637"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Si no constare el lugar en que se encuentra la persona detenida para la que se solicita el Habeas Corpus, ¿quién será el Juez competente en primer lugar de entre los que a continuación se expresan?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q047",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 47,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T09-F686",
+        "GC-T09-F689"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. La Sala de lo Penal de la Audiencia Nacional conocerá…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q048",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 48,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T09-F649"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Composición y atribuciones de los órganos jurisdiccionales. De las siguientes proposiciones señale la INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q049",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 49,
+      "block_refs": [
+        51
+      ],
+      "fact_refs": [
+        "GC-T09-F867"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Respecto a los Jueces de Paz y sus sustitutos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q050",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 50,
+      "block_refs": [
+        55
+      ],
+      "fact_refs": [
+        "GC-T09-F890"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. En relación con las Unidades de Policía Judicial, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q051",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 51,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F921"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Salvo que la prestación de servicios profesionales haya sido solicitada expresamente por la víctima, los Procuradores no podrán dirigirse a las víctimas directas de catástrofes que hubieran producido un número elevado de víctimas que cumplan los requisitos que se determinen reglamentariamente y que puedan constituir delito, para ofrecerles sus servicios profesionales hasta transcurridos__________ desde el hecho.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q052",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 52,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F923"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Evaluación periódica del sistema de atención a las víctimas del delito en España. ¿Quién remitirá a las Cortes Generales un informe anual con la evaluación y las propuestas de mejora del sistema de protección de las víctimas y de las medidas que garanticen su eficacia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q044",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 44,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T09-F024"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Competencias de los Jueces y Tribunales en lo Criminal. ¿Qué se consideran primeras diligencias? Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q045",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 45,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F121"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. ¿Quién tendrá custodiado un registro de las resoluciones dictadas por los Jueces por las que se autoriza la circulación o entrega vigilada de drogas tóxicas, estupefacientes o sustancias psicotrópicas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q046",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 46,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T09-F053"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con las personas que pueden querellarse, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q047",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 47,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T09-F461"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la citación, de la detención y de la prisión provisional. El particular, Autoridad o agente de Policía judicial que detuviere a una persona deberá ponerla en libertad o entregarla al Juez más próximo al lugar en que hubiere hecho la detención dentro de las ______________ horas siguientes al acto de la misma.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q048",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 48,
+      "block_refs": [
+        33
+      ],
+      "fact_refs": [
+        "GC-T09-F640"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q049",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 49,
+      "block_refs": [
+        45
+      ],
+      "fact_refs": [
+        "GC-T09-F747"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Composición y atribuciones de los órganos jurisdiccionales. De las siguientes opciones, señale la INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q050",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 50,
+      "block_refs": [
+        54
+      ],
+      "fact_refs": [
+        "GC-T09-F887"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. En relación con las funciones de las Unidades de Policía Judicial, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q051",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 51,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F922"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Formación en los principios de protección de las víctimas. En estos cursos de formación, ¿a quién se prestará particular atención?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q045",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 45,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T09-F116",
+        "GC-T09-F117"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. La denuncia. De las siguientes personas que hubieren presenciado un delito contra la vida en el que la víctima es una persona menor de edad, ¿quiénes estarán obligados a denunciar?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q046",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 46,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T09-F152",
+        "GC-T09-F153"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. A los fines de llevar a cabo el objeto que tiene la Policía Judicial, y cuando se trate de investigaciones que afecten a actividades propias de la delincuencia organizada, ¿quién otorga la identidad supuesta al agente encubierto y por cuánto tiempo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q047",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 47,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T09-F185"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. Los atestados que redactaren y las manifestaciones que hicieren los funcionarios de Policía judicial, a consecuencia de las averiguaciones que hubiesen practicado, se considerarán ___________________ para los efectos legales.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q048",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 48,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T09-F392",
+        "GC-T09-F391"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En relación con la declaración de los testigos, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q049",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 49,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T09-F007"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del Procedimiento de Habeas Corpus. Según la Exposición de Motivos de la ley, ¿cuál es el objetivo fundamental del constitucionalismo moderno, que constituye, al mismo tiempo, su raíz última?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q050",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 50,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T09-F691",
+        "GC-T09-F690"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. La Sala de lo Penal de la Audiencia Nacional conocerá…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q051",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 51,
+      "block_refs": [
+        53
+      ],
+      "fact_refs": [
+        "GC-T09-F877",
+        "GC-T09-F881"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. Con respecto a los Abogados y Procuradores, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q052",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 52,
+      "block_refs": [
+        59
+      ],
+      "fact_refs": [
+        "GC-T09-F907"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto sobre regulación de la Policía Judicial. A las Unidades Orgánicas de la Policía Judicial corresponderá la función de investigación criminal con carácter permanente y especial. A tal fin, contarán con los efectivos y medios necesarios para el eficaz desenvolvimiento de sus cometidos, estableciéndose, en aquellas Unidades en cuyo ámbito de actuación a nivel de delincuencia lo hiciere preciso, los correspondientes equipos…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q053",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 53,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F929"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Derechos de la víctima como denunciante. ¿Qué derechos tiene toda víctima en el momento de presentar su denuncia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q042",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 42,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T09-F168",
+        "GC-T09-F184"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la Policía Judicial. Cuando no exista autor conocido del delito la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo, salvo que concurra alguna de las siguientes circunstancias…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q043",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 43,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T09-F176"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En caso de muerte sobrevenida por consecuencia de un accidente ocurrido en las vías férreas yendo un tren en marcha, la citada Ley establece que…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q044",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 44,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T09-F299",
+        "GC-T09-F298"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la identidad del delincuente y de sus circunstancias personales. En relación con la diligencia de reconocimiento. Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q045",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 45,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T09-F453",
+        "GC-T09-F455"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. De la detención. Cualquier persona puede detener…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q046",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 46,
+      "block_refs": [
+        25
+      ],
+      "fact_refs": [
+        "GC-T09-F469"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley de Enjuiciamiento Criminal. En todo caso, con carácter general el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial en un plazo máximo de…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q047",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 47,
+      "block_refs": [
+        31
+      ],
+      "fact_refs": [
+        "GC-T09-F007"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora del procedimiento de Habeas Corpus. ¿En qué principios complementarios se inspira la presente Ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q048",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 48,
+      "block_refs": [
+        35
+      ],
+      "fact_refs": [
+        "GC-T09-F649",
+        "GC-T09-F648"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. De la composición y atribuciones de los órganos jurisdiccionales. En relación con las Salas que integran el Tribunal Supremo, indique la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q049",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 49,
+      "block_refs": [
+        40
+      ],
+      "fact_refs": [
+        "GC-T09-F686",
+        "GC-T09-F693"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica del Poder Judicial. ¿Quién conocerá del enjuiciamiento de las causas por los delitos cometidos contra la forma de Gobierno, salvo que corresponda en primera instancia a la Sección de lo Penal del Tribunal Central de Instancia?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q050",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 50,
+      "block_refs": [
+        61
+      ],
+      "fact_refs": [
+        "GC-T09-F921"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley del Estatuto de la víctima del delito. Servicios de justicia restaurativa. Las víctimas podrán acceder a servicios de justicia restaurativa, en los términos que reglamentariamente se determinen, con la finalidad de obtener una adecuada reparación material y moral de los perjuicios derivados del delito, cuando se cumplan los siguientes requisitos…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; regla vigente cotejada con fuente oficial."
+    }
+  ]
+}
