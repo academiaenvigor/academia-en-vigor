@@ -308,11 +308,7 @@ Este bloque fija **solidaridad mecánica y orgánica** con una idea de control: 
 - Mecánica no significa producida por máquinas y orgánica no significa biológica en sentido médico.
 - Las dos formas son tipos analíticos; una sociedad concreta puede mostrar combinaciones y transformaciones.
 
-<!-- VISUAL:t30-18-solidaridad-mecanica-y-organica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-18-solidaridad-mecanica-y-organica.webp" alt="Solidaridad mecánica y orgánica" width="820">
-</p>
-<p align="center"><em>Infografía: Solidaridad mecánica y orgánica.</em></p>
+<!-- VISUAL PENDIENTE: t30-18-solidaridad-mecanica-y-organica.webp -->
 
 <!-- FUENTE: DURKHEIM-T30 -->
 
@@ -410,11 +406,7 @@ Este bloque fija **racismo simbólico, moderno y aversivo** con una idea de cont
 - El racismo aversivo describe la tensión entre una autoimagen igualitaria y sesgos que aparecen en situaciones ambiguas.
 - Estas categorías son modelos analíticos y no permiten diagnosticar automáticamente a una persona por una sola respuesta.
 
-<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
-</p>
-<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
+<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
 
 <!-- FUENTE: FRA-RACISM-T30 -->
 
@@ -1039,11 +1031,7 @@ Este bloque fija **organización institucional frente a los delitos de odio** co
 - En Policía Nacional, la Unidad Central de Participación Ciudadana es responsable nacional de interlocución social en materia de delitos de odio.
 - No deben confundirse la dirección de la Oficina Nacional, la interlocución social policial y la investigación operativa de cada hecho.
 
-<!-- VISUAL:t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp" alt="Organización institucional frente a los delitos de odio" width="820">
-</p>
-<p align="center"><em>Infografía: Organización institucional frente a los delitos de odio.</em></p>
+<!-- VISUAL PENDIENTE: t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
 
 <!-- FUENTE: RD207-2024-T30 -->
 

@@ -332,11 +332,7 @@ Para dominar **separar clasificación clínica, legal y farmacológica**, aplica
 - **Incorrecto:** Una sustancia controlada en una lista es siempre la más tóxica de su grupo.
 - **Incorrecto:** Clasificación clínica y fiscalización legal son exactamente la misma operación.
 
-<!-- VISUAL:t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp" alt="Separar clasificación clínica, legal y farmacológica" width="820">
-</p>
-<p align="center"><em>Infografía: Separar clasificación clínica, legal y farmacológica.</em></p>
+<!-- VISUAL PENDIENTE: t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
 
 :::hablemos-claro
 Antes de clasificar pregunta: ¿salud, efecto o control jurídico?
@@ -674,11 +670,7 @@ Para dominar **vías inhalada y fumada**, aplica esta regla: Rapidez y pulmón s
 - **Incorrecto:** Inhalar produce un inicio más lento que la vía oral en todos los casos.
 - **Incorrecto:** Un producto vaporizado es seguro porque no hay combustión.
 
-<!-- VISUAL:t34-18-vias-inhalada-y-fumada.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-18-vias-inhalada-y-fumada.webp" alt="Vías inhalada y fumada" width="820">
-</p>
-<p align="center"><em>Infografía: Vías inhalada y fumada.</em></p>
+<!-- VISUAL PENDIENTE: t34-18-vias-inhalada-y-fumada.webp -->
 
 :::hablemos-claro
 Rapidez y pulmón son las dos claves: efecto precoz y exposición respiratoria.
@@ -788,11 +780,7 @@ Para dominar **vías sublingual, bucal y transdérmica**, aplica esta regla: Mis
 - **Incorrecto:** Sublingual y oral son idénticas porque ambas usan la boca.
 - **Incorrecto:** Un parche terapéutico puede manipularse sin modificar su riesgo.
 
-<!-- VISUAL:t34-21-vias-sublingual-bucal-y-transdermica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-21-vias-sublingual-bucal-y-transdermica.webp" alt="Vías sublingual, bucal y transdérmica" width="820">
-</p>
-<p align="center"><em>Infografía: Vías sublingual, bucal y transdérmica.</em></p>
+<!-- VISUAL PENDIENTE: t34-21-vias-sublingual-bucal-y-transdermica.webp -->
 
 :::hablemos-claro
 Misma zona visible, distinta absorción: debajo de la lengua, mucosa bucal o piel.
@@ -2042,11 +2030,7 @@ Para dominar **metadona y buprenorfina**, aplica esta regla: La acción opioide 
 - **Incorrecto:** El tratamiento sustituye una droga sin aportar ninguna finalidad clínica.
 - **Incorrecto:** Metadona y buprenorfina pueden mezclarse libremente con otros depresores.
 
-<!-- VISUAL:t34-54-metadona-y-buprenorfina.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-54-metadona-y-buprenorfina.webp" alt="Metadona y buprenorfina" width="820">
-</p>
-<p align="center"><em>Infografía: Metadona y buprenorfina.</em></p>
+<!-- VISUAL PENDIENTE: t34-54-metadona-y-buprenorfina.webp -->
 
 :::hablemos-claro
 La acción opioide puede usarse de forma controlada para estabilizar y reducir daño.

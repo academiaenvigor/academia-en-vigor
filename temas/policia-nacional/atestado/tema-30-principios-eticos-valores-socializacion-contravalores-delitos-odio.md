@@ -674,11 +674,7 @@ Para dominar **solidaridad mecánica y orgánica**, parte de este criterio: Mec�
 - **Incorrecto:** La solidaridad mecánica depende de tecnología industrial y la orgánica de parentesco idéntico.
 - **Incorrecto:** Durkheim sostuvo que ambas formas son incompatibles con cualquier mezcla histórica.
 
-<!-- VISUAL:t30-18-solidaridad-mecanica-y-organica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-18-solidaridad-mecanica-y-organica.webp" alt="Solidaridad mecánica y orgánica" width="820">
-</p>
-<p align="center"><em>Infografía: Solidaridad mecánica y orgánica.</em></p>
+<!-- VISUAL PENDIENTE: t30-18-solidaridad-mecanica-y-organica.webp -->
 
 :::hablemos-claro
 Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.
@@ -902,11 +898,7 @@ Para dominar **racismo simbólico, moderno y aversivo**, parte de este criterio:
 - **Incorrecto:** Quien se declara contrario al racismo carece necesariamente de cualquier sesgo implícito.
 - **Incorrecto:** Una sola conducta ambigua demuestra por sí misma un diagnóstico psicológico definitivo.
 
-<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
-</p>
-<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
+<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
 
 :::hablemos-claro
 Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.
@@ -2308,11 +2300,7 @@ Para dominar **organización institucional frente a los delitos de odio**, parte
 - **Incorrecto:** La Oficina Nacional de Deportes dirige la lucha estatal contra los delitos de odio.
 - **Incorrecto:** La Unidad Central de Participación Ciudadana dicta sentencias penales y sustituye a los órganos judiciales.
 
-<!-- VISUAL:t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-30/t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp" alt="Organización institucional frente a los delitos de odio" width="820">
-</p>
-<p align="center"><em>Infografía: Organización institucional frente a los delitos de odio.</em></p>
+<!-- VISUAL PENDIENTE: t30-61-organizacion-institucional-frente-a-los-delitos-de-o.webp -->
 
 :::hablemos-claro
 Tres planos: coordinación estatal, interlocución social e investigación del caso.

@@ -155,11 +155,7 @@ El Tema 34 se estudia en nueve partes: conceptos; consumidor y vías; adicción,
 - La clasificación legal determina controles aplicables y no funciona como escala completa de peligrosidad.
 - Una respuesta de examen falla si intercambia sin aviso una categoría clínica, farmacológica y jurídica.
 
-<!-- VISUAL:t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp" alt="Separar clasificación clínica, legal y farmacológica" width="820">
-</p>
-<p align="center"><em>Infografía: Separar clasificación clínica, legal y farmacológica.</em></p>
+<!-- VISUAL PENDIENTE: t34-09-separar-clasificacion-clinica-legal-y-farmacologica.webp -->
 
 <!-- FUENTE: UNODC-TERMINOLOGY-T34 -->
 
@@ -308,11 +304,7 @@ El Tema 34 se estudia en nueve partes: conceptos; consumidor y vías; adicción,
 - Humo, vapores y aerosoles pueden añadir daño respiratorio independiente del efecto psicoactivo.
 - Vapear no garantiza composición conocida ni elimina el riesgo de intoxicación.
 
-<!-- VISUAL:t34-18-vias-inhalada-y-fumada.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-18-vias-inhalada-y-fumada.webp" alt="Vías inhalada y fumada" width="820">
-</p>
-<p align="center"><em>Infografía: Vías inhalada y fumada.</em></p>
+<!-- VISUAL PENDIENTE: t34-18-vias-inhalada-y-fumada.webp -->
 
 <!-- FUENTE: UNODC-TERMINOLOGY-T34 -->
 
@@ -359,11 +351,7 @@ El Tema 34 se estudia en nueve partes: conceptos; consumidor y vías; adicción,
 - La vía transdérmica libera sustancia a través de la piel, a menudo de forma sostenida.
 - Que una vía tenga uso terapéutico no autoriza alterar, combinar o manipular una formulación prescrita.
 
-<!-- VISUAL:t34-21-vias-sublingual-bucal-y-transdermica.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-21-vias-sublingual-bucal-y-transdermica.webp" alt="Vías sublingual, bucal y transdérmica" width="820">
-</p>
-<p align="center"><em>Infografía: Vías sublingual, bucal y transdérmica.</em></p>
+<!-- VISUAL PENDIENTE: t34-21-vias-sublingual-bucal-y-transdermica.webp -->
 
 <!-- FUENTE: UNODC-TERMINOLOGY-T34 -->
 
@@ -920,11 +908,7 @@ El Tema 34 se estudia en nueve partes: conceptos; consumidor y vías; adicción,
 - El objetivo terapéutico incluye estabilizar, reducir consumo ilícito, daños y mortalidad.
 - Que sean tratamientos no elimina necesidad de prescripción, seguimiento y prevención de mezclas peligrosas.
 
-<!-- VISUAL:t34-54-metadona-y-buprenorfina.webp -->
-<p align="center">
-  <img src="../../../assets/policia-nacional/tema-34/t34-54-metadona-y-buprenorfina.webp" alt="Metadona y buprenorfina" width="820">
-</p>
-<p align="center"><em>Infografía: Metadona y buprenorfina.</em></p>
+<!-- VISUAL PENDIENTE: t34-54-metadona-y-buprenorfina.webp -->
 
 <!-- FUENTE: PNSD-INFORMACION-T34 -->
 

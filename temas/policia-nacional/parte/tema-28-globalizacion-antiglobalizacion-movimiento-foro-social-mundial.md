@@ -308,7 +308,11 @@ La integración comercial puede ampliar mercados, favorecer especialización, di
 - La reasignación productiva crea oportunidades y también costes de ajuste para actividades expuestas a nueva competencia o cambios tecnológicos.
 - Formación, movilidad, competencia, innovación y protección social condicionan cómo se reparten los beneficios y los costes de la apertura.
 
-<!-- VISUAL PENDIENTE: t28-18-consecuencias-economicas-crecimiento-y-especializaci.webp -->
+<!-- VISUAL:t28-18-consecuencias-economicas-crecimiento-y-especializacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-18-consecuencias-economicas-crecimiento-y-especializacion.webp" alt="Consecuencias económicas: crecimiento y especialización" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias económicas: crecimiento y especialización.</em></p>
 
 <!-- FUENTE: WB-TRADE-T28 -->
 
@@ -372,7 +376,11 @@ La dimensión social incluye empleo, salud, educación, seguridad económica, pa
 - La cohesión social se debilita cuando los costes se concentran y las instituciones no ofrecen protección, voz ni oportunidades creíbles.
 - Políticas inclusivas, servicios públicos y diálogo social pueden convertir interdependencia en cooperación en lugar de polarización.
 
-<!-- VISUAL PENDIENTE: t28-22-consecuencias-sociales-movilidad-identidades-y-cohes.webp -->
+<!-- VISUAL:t28-22-consecuencias-sociales-movilidad-identidades-y-cohesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-28/t28-22-consecuencias-sociales-movilidad-identidades-y-cohesion.webp" alt="Consecuencias sociales: movilidad, identidades y cohesión" width="820">
+</p>
+<p align="center"><em>Infografía: Consecuencias sociales: movilidad, identidades y cohesión.</em></p>
 
 <!-- FUENTE: ILO-FAIR-T28 -->
 
