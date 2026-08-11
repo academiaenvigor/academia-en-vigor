@@ -898,7 +898,11 @@ Para dominar **racismo simbólico, moderno y aversivo**, parte de este criterio:
 - **Incorrecto:** Quien se declara contrario al racismo carece necesariamente de cualquier sesgo implícito.
 - **Incorrecto:** Una sola conducta ambigua demuestra por sí misma un diagnóstico psicológico definitivo.
 
-<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
 
 :::hablemos-claro
 Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.

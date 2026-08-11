@@ -31,6 +31,12 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 </p>
 <p align="center"><em>Infografía: Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.</em></p>
 
+<!-- VISUAL:t01-il-09-sistemas-proteccion-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-09-sistemas-proteccion-derechos-humanos.webp" alt="Los sistemas de protección de los derechos humanos" width="600">
+</p>
+<p align="center"><em>Ilustración: Los sistemas de protección de los derechos humanos.</em></p>
+
 <!-- FUENTE: ONU-CARTA-GC-T01 -->
 
 ## 02. Principios de la Carta
@@ -115,6 +121,12 @@ La Declaración fue adoptada y proclamada por la Asamblea General mediante la Re
 </p>
 <p align="center"><em>Infografía: Mapa de los treinta artículos de la DUDH.</em></p>
 
+<!-- VISUAL:t01-il-01-declaracion-universal-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-01-declaracion-universal-derechos-humanos.webp" alt="La Declaración Universal de Derechos Humanos" width="600">
+</p>
+<p align="center"><em>Ilustración: La Declaración Universal de Derechos Humanos.</em></p>
+
 <!-- FUENTE: ONU-DUDH-GC-T01 -->
 
 ## 08. Vida, libertad e integridad
@@ -191,6 +203,12 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
   <img src="../../../assets/guardia-civil/tema-01/t01-il-02-linea-roja-articulo-3.webp" alt="La prohibición absoluta de la tortura como línea roja" width="820">
 </p>
 <p align="center"><em>Infografía: La prohibición absoluta de la tortura como línea roja.</em></p>
+
+<!-- VISUAL:t01-il-02-convenio-europeo-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-02-convenio-europeo-derechos-humanos.webp" alt="El Convenio Europeo de Derechos Humanos" width="600">
+</p>
+<p align="center"><em>Ilustración: El Convenio Europeo de Derechos Humanos.</em></p>
 
 <!-- FUENTE: COE-CEDH-GC-T01 -->
 
@@ -381,6 +399,12 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 - Nadie será condenado por actos que no fueran delictivos al cometerse ni se impondrá una pena más grave que la entonces aplicable.
 - Todo ser humano tiene derecho al reconocimiento de su personalidad jurídica.
 
+<!-- VISUAL:t01-il-07-garantias-persona-detenida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-07-garantias-persona-detenida.webp" alt="Garantías de la persona detenida" width="600">
+</p>
+<p align="center"><em>Ilustración: Garantías de la persona detenida.</em></p>
+
 <!-- FUENTE: ONU-PIDCP-GC-T01 -->
 
 ## 29. Libertades, familia y participación
@@ -470,6 +494,12 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
   <img src="../../../assets/guardia-civil/tema-01/t01-il-03-prohibicion-sin-excusas.webp" alt="Ninguna emergencia u orden superior justifica la tortura" width="820">
 </p>
 <p align="center"><em>Infografía: Ninguna emergencia u orden superior justifica la tortura.</em></p>
+
+<!-- VISUAL:t01-il-06-prohibicion-tortura-malos-tratos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-06-prohibicion-tortura-malos-tratos.webp" alt="Prohibición de la tortura y de los malos tratos" width="600">
+</p>
+<p align="center"><em>Ilustración: Prohibición de la tortura y de los malos tratos.</em></p>
 
 <!-- FUENTE: ONU-CAT-GC-T01 -->
 
@@ -639,6 +669,12 @@ La Corte Penal Internacional es una institución permanente y complementaria de 
 </p>
 <p align="center"><em>Infografía: Los cuatro crímenes de competencia de la CPI.</em></p>
 
+<!-- VISUAL:t01-il-03-corte-penal-internacional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-03-corte-penal-internacional.webp" alt="La Corte Penal Internacional" width="600">
+</p>
+<p align="center"><em>Ilustración: La Corte Penal Internacional.</em></p>
+
 <!-- FUENTE: CPI-ESTATUTO-GC-T01 -->
 
 ## 47. Genocidio y lesa humanidad
@@ -765,6 +801,12 @@ El Defensor del Pueblo ejerce en España las funciones de Mecanismo Nacional de 
 - El Defensor del Pueblo ejerce en España las funciones de Mecanismo Nacional de Prevención de la Tortura.
 - El MNP actúa conforme a la Constitución, la Ley Orgánica del Defensor del Pueblo y el Protocolo Facultativo.
 - Un Consejo Asesor coopera técnica y jurídicamente en el ejercicio de las funciones del MNP.
+
+<!-- VISUAL:t01-il-08-guardia-civil-derechos-humanos.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-08-guardia-civil-derechos-humanos.webp" alt="La Guardia Civil y los derechos humanos" width="600">
+</p>
+<p align="center"><em>Ilustración: La Guardia Civil y los derechos humanos.</em></p>
 
 <!-- FUENTE: BOE-LO3-1981-GC-T01 -->
 

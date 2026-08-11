@@ -6,8 +6,8 @@
   "visual_version": "1.0.0",
   "status": "integrated",
   "totals": {
-    "resources": 25,
-    "integrated": 25,
+    "resources": 32,
+    "integrated": 32,
     "planned": 0
   },
   "integration_status": "complete",
@@ -184,6 +184,23 @@
       "max_bytes": 1000000
     },
     {
+      "id": "GC-T01-V30",
+      "file": "t01-il-07-garantias-persona-detenida.webp",
+      "title": "Garantías de la persona detenida",
+      "type": "ilustracion_simple",
+      "placement": "bloque-27",
+      "status": "integrated_webp",
+      "block": 27,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Garantías de la persona detenida",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
       "id": "GC-T01-V11",
       "file": "t01-09-comite-pidcp.webp",
       "title": "Comité de Derechos Humanos: 18 miembros, elección y Mesa",
@@ -196,6 +213,74 @@
         "atestado"
       ],
       "description": "Explicar comité de derechos humanos: 18 miembros, elección y mesa mediante ficha-organica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V31",
+      "file": "t01-il-08-guardia-civil-derechos-humanos.webp",
+      "title": "La Guardia Civil y los derechos humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-30",
+      "status": "integrated_webp",
+      "block": 30,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "La Guardia Civil y los derechos humanos",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V26",
+      "file": "t01-il-01-declaracion-universal-derechos-humanos.webp",
+      "title": "Declaración Universal de Derechos Humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Declaración Universal de Derechos Humanos",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V27",
+      "file": "t01-il-02-convenio-europeo-derechos-humanos.webp",
+      "title": "Convenio Europeo de Derechos Humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Convenio Europeo de Derechos Humanos",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V32",
+      "file": "t01-il-09-sistemas-proteccion-derechos-humanos.webp",
+      "title": "Sistemas de protección de los derechos humanos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-31",
+      "status": "integrated_webp",
+      "block": 31,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Sistemas de protección de los derechos humanos",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
@@ -247,6 +332,23 @@
         "atestado"
       ],
       "description": "Explicar ninguna emergencia u orden superior justifica la tortura mediante escena-simbolica, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V29",
+      "file": "t01-il-06-prohibicion-tortura-malos-tratos.webp",
+      "title": "Prohibición de la tortura y los malos tratos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "integrated_webp",
+      "block": 34,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Prohibición de la tortura y los malos tratos",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
@@ -349,6 +451,23 @@
         "atestado"
       ],
       "description": "Explicar los cuatro crímenes de competencia de la cpi mediante cuadrante, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V28",
+      "file": "t01-il-03-corte-penal-internacional.webp",
+      "title": "Corte Penal Internacional",
+      "type": "ilustracion_simple",
+      "placement": "bloque-46",
+      "status": "integrated_webp",
+      "block": 46,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Corte Penal Internacional",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000

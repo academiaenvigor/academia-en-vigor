@@ -27,6 +27,10 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 **Referencia visual prevista:** `t01-01-mapa-sistemas-derechos-humanos.webp` · Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-09-sistemas-proteccion-derechos-humanos.webp` · Los sistemas de protección de los derechos humanos.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -46,6 +50,10 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 
 :::visual
 **Referencia visual prevista:** `t01-01-mapa-sistemas-derechos-humanos.webp` · Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-09-sistemas-proteccion-derechos-humanos.webp` · Los sistemas de protección de los derechos humanos.
 :::
 
 :::hablemos-claro
@@ -319,6 +327,10 @@ La Declaración fue adoptada y proclamada por la Asamblea General mediante la Re
 **Referencia visual prevista:** `t01-04-dudh-30-articulos.webp` · Mapa de los treinta artículos de la DUDH.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-01-declaracion-universal-derechos-humanos.webp` · La Declaración Universal de Derechos Humanos.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -338,6 +350,10 @@ La Declaración fue adoptada y proclamada por la Asamblea General mediante la Re
 
 :::visual
 **Referencia visual prevista:** `t01-04-dudh-30-articulos.webp` · Mapa de los treinta artículos de la DUDH.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-01-declaracion-universal-derechos-humanos.webp` · La Declaración Universal de Derechos Humanos.
 :::
 
 :::hablemos-claro
@@ -604,6 +620,10 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
 **Referencia visual prevista:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-02-convenio-europeo-derechos-humanos.webp` · El Convenio Europeo de Derechos Humanos.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -623,6 +643,10 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
 
 :::visual
 **Referencia visual prevista:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-02-convenio-europeo-derechos-humanos.webp` · El Convenio Europeo de Derechos Humanos.
 :::
 
 :::hablemos-claro
@@ -1331,6 +1355,10 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 - Nadie será condenado por actos que no fueran delictivos al cometerse ni se impondrá una pena más grave que la entonces aplicable.
 - Todo ser humano tiene derecho al reconocimiento de su personalidad jurídica.
 
+:::visual
+**Ilustración simple:** `t01-il-07-garantias-persona-detenida.webp` · Garantías de la persona detenida.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -1347,6 +1375,10 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 <!-- FACT:GC-T01-F110 -->
 - Todo ser humano tiene derecho al reconocimiento de su personalidad jurídica.
 <!-- FACT:GC-T01-F111 -->
+
+:::visual
+**Ilustración simple:** `t01-il-07-garantias-persona-detenida.webp` · Garantías de la persona detenida.
+:::
 
 :::hablemos-claro
 El principio de legalidad permite aplicar retroactivamente una pena más grave si la ley posterior lo decide. Esa formulación es falsa: separa el órgano, la cifra o la excepción antes de responder.
@@ -1641,6 +1673,10 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
 **Referencia visual prevista:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-06-prohibicion-tortura-malos-tratos.webp` · Prohibición de la tortura y de los malos tratos.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -1660,6 +1696,10 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
 
 :::visual
 **Referencia visual prevista:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-06-prohibicion-tortura-malos-tratos.webp` · Prohibición de la tortura y de los malos tratos.
 :::
 
 :::hablemos-claro
@@ -2239,6 +2279,10 @@ La Corte Penal Internacional es una institución permanente y complementaria de 
 **Referencia visual prevista:** `t01-17-cuatro-crimenes-cpi.webp` · Los cuatro crímenes de competencia de la CPI.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-03-corte-penal-internacional.webp` · La Corte Penal Internacional.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -2258,6 +2302,10 @@ La Corte Penal Internacional es una institución permanente y complementaria de 
 
 :::visual
 **Referencia visual prevista:** `t01-17-cuatro-crimenes-cpi.webp` · Los cuatro crímenes de competencia de la CPI.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-03-corte-penal-internacional.webp` · La Corte Penal Internacional.
 :::
 
 :::hablemos-claro
@@ -2720,6 +2768,10 @@ El Defensor del Pueblo ejerce en España las funciones de Mecanismo Nacional de 
 - El MNP actúa conforme a la Constitución, la Ley Orgánica del Defensor del Pueblo y el Protocolo Facultativo.
 - Un Consejo Asesor coopera técnica y jurídicamente en el ejercicio de las funciones del MNP.
 
+:::visual
+**Ilustración simple:** `t01-il-08-guardia-civil-derechos-humanos.webp` · La Guardia Civil y los derechos humanos.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -2734,6 +2786,10 @@ El Defensor del Pueblo ejerce en España las funciones de Mecanismo Nacional de 
 <!-- FACT:GC-T01-F221 -->
 - Un Consejo Asesor coopera técnica y jurídicamente en el ejercicio de las funciones del MNP.
 <!-- FACT:GC-T01-F222 -->
+
+:::visual
+**Ilustración simple:** `t01-il-08-guardia-civil-derechos-humanos.webp` · La Guardia Civil y los derechos humanos.
+:::
 
 :::hablemos-claro
 En España, el Mecanismo Nacional de Prevención corresponde al Ministerio del Interior. Esa formulación es falsa: separa el órgano, la cifra o la excepción antes de responder.

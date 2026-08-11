@@ -406,7 +406,11 @@ Este bloque fija **racismo simbólico, moderno y aversivo** con una idea de cont
 - El racismo aversivo describe la tensión entre una autoimagen igualitaria y sesgos que aparecen en situaciones ambiguas.
 - Estas categorías son modelos analíticos y no permiten diagnosticar automáticamente a una persona por una sola respuesta.
 
-<!-- VISUAL PENDIENTE: t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<!-- VISUAL:t30-il-24-racismo-simbolico-moderno-y-aversivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-30/t30-il-24-racismo-simbolico-moderno-y-aversivo.webp" alt="Racismo simbólico, moderno y aversivo" width="820">
+</p>
+<p align="center"><em>Infografía: Racismo simbólico, moderno y aversivo.</em></p>
 
 <!-- FUENTE: FRA-RACISM-T30 -->
 
