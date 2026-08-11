@@ -885,7 +885,7 @@ La integración comercial puede ampliar mercados, favorecer especialización, di
 - Formación, movilidad, competencia, innovación y protección social condicionan cómo se reparten los beneficios y los costes de la apertura.
 
 :::visual
-**Referencia visual prevista:** `t28-18-consecuencias-economicas-crecimiento-y-especializaci.webp` · Consecuencias económicas: crecimiento y especialización.
+**Referencia visual prevista:** `t28-18-consecuencias-economicas-crecimiento-y-especializacion.webp` · Consecuencias económicas: crecimiento y especialización.
 :::
 
 <!-- PARTE END -->
@@ -906,7 +906,7 @@ La integración comercial puede ampliar mercados, favorecer especialización, di
 <!-- FACT:PN-T28-F072 -->
 
 :::visual
-**Referencia visual prevista:** `t28-18-consecuencias-economicas-crecimiento-y-especializaci.webp` · Consecuencias económicas: crecimiento y especialización.
+**Referencia visual prevista:** `t28-18-consecuencias-economicas-crecimiento-y-especializacion.webp` · Consecuencias económicas: crecimiento y especialización.
 :::
 
 :::hablemos-claro
@@ -1089,7 +1089,7 @@ La dimensión social incluye empleo, salud, educación, seguridad económica, pa
 - Políticas inclusivas, servicios públicos y diálogo social pueden convertir interdependencia en cooperación en lugar de polarización.
 
 :::visual
-**Referencia visual prevista:** `t28-22-consecuencias-sociales-movilidad-identidades-y-cohes.webp` · Consecuencias sociales: movilidad, identidades y cohesión.
+**Referencia visual prevista:** `t28-22-consecuencias-sociales-movilidad-identidades-y-cohesion.webp` · Consecuencias sociales: movilidad, identidades y cohesión.
 :::
 
 <!-- PARTE END -->
@@ -1110,7 +1110,7 @@ La dimensión social incluye empleo, salud, educación, seguridad económica, pa
 <!-- FACT:PN-T28-F088 -->
 
 :::visual
-**Referencia visual prevista:** `t28-22-consecuencias-sociales-movilidad-identidades-y-cohes.webp` · Consecuencias sociales: movilidad, identidades y cohesión.
+**Referencia visual prevista:** `t28-22-consecuencias-sociales-movilidad-identidades-y-cohesion.webp` · Consecuencias sociales: movilidad, identidades y cohesión.
 :::
 
 :::hablemos-claro

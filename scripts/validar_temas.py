@@ -19,6 +19,8 @@ FACT_FIELDS = {
     "estado_revision", "content_version", "riesgo_examen", "risk",
     "preguntas", "covered", "anchor_score",
 }
+FACT_OPTIONAL_FIELDS = frozenset({"articulo", "official_question_refs"})
+OFFICIAL_INDEX_OPTIONAL_FIELDS = frozenset({"en_cuarentena"})
 QUESTION_FIELDS = {
     "id", "fact_id", "oposicion", "tema", "bloque", "punto", "subpunto",
     "parte", "parte_titulo", "concepto", "norma", "articulo",
@@ -103,9 +105,20 @@ def add(errors: list[str], condition: bool, message: str) -> None:
         errors.append(message)
 
 
-def exact_keys(errors: list[str], data: dict, fields: set[str], label: str) -> None:
+def exact_keys(
+    errors: list[str],
+    data: dict,
+    fields: set[str],
+    label: str,
+    optional: frozenset[str] = frozenset(),
+) -> None:
+    """Comprueba el contrato de claves de un documento.
+
+    `optional` recoge claves admitidas pero no exigidas: enriquecen el
+    documento sin romper a los temas que todavía no las traen.
+    """
     missing = fields - data.keys()
-    extra = data.keys() - fields
+    extra = data.keys() - fields - optional
     if missing:
         errors.append(f"{label}: faltan claves {sorted(missing)}")
     if extra:
@@ -146,7 +159,7 @@ def validate_topic(opposition: str, topic: dict) -> tuple[list[str], list[str]]:
     materials = read_json(paths["materials"])
     exact_keys(errors, knowledge, KNOWLEDGE_FIELDS, f"{label}/manifest")
     exact_keys(errors, bank_manifest, BANK_MANIFEST_FIELDS, f"{label}/banco-manifest")
-    exact_keys(errors, official, OFFICIAL_INDEX_FIELDS, f"{label}/indice-oficiales")
+    exact_keys(errors, official, OFFICIAL_INDEX_FIELDS, f"{label}/indice-oficiales", OFFICIAL_INDEX_OPTIONAL_FIELDS)
     exact_keys(errors, evaluation, EVALUATION_FIELDS, f"{label}/evaluaciones")
     exact_keys(errors, assets, ASSET_FIELDS, f"{label}/assets")
     exact_keys(errors, materials, MATERIAL_FIELDS, f"{label}/materiales")
@@ -169,7 +182,7 @@ def validate_topic(opposition: str, topic: dict) -> tuple[list[str], list[str]]:
 
     facts = coverage.get("facts", [])
     for fact in facts:
-        exact_keys(errors, fact, FACT_FIELDS, f"{label}/{fact.get('id', 'fact-sin-id')}")
+        exact_keys(errors, fact, FACT_FIELDS, f"{label}/{fact.get('id', 'fact-sin-id')}", FACT_OPTIONAL_FIELDS)
     fact_ids = [fact.get("id") for fact in facts]
     add(errors, len(fact_ids) == len(set(fact_ids)), f"{label}: IDs de hechos duplicados")
     add(errors, knowledge["atomic_facts"] == len(facts), f"{label}: atomic_facts incoherente")
