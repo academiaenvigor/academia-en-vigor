@@ -4,13 +4,13 @@
   "topic": "tema-30",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "integrated",
+  "status": "partial",
   "totals": {
     "resources": 61,
-    "integrated": 61,
-    "planned": 0
+    "integrated": 58,
+    "planned": 3
   },
-  "integration_status": "complete",
+  "integration_status": "partial",
   "integrated_at": "2026-08-10",
   "resources": [
     {
@@ -308,13 +308,12 @@
       "title": "Solidaridad mecánica y orgánica",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 18,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.",
+      "description": "Referencia visual pendiente: Mecánica une por semejanza; orgánica, por diferencia coordinada e interdependencia.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
@@ -410,13 +409,12 @@
       "title": "Racismo simbólico, moderno y aversivo",
       "type": "ilustracion_simple",
       "placement": "bloque-24",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 24,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.",
+      "description": "Referencia visual pendiente: Lo sutil no es invisible: compara criterios, contexto y aplicación selectiva.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
@@ -1039,13 +1037,12 @@
       "title": "Organización institucional frente a los delitos de odio",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 61,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Tres planos: coordinación estatal, interlocución social e investigación del caso.",
+      "description": "Referencia visual pendiente: Tres planos: coordinación estatal, interlocución social e investigación del caso.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000

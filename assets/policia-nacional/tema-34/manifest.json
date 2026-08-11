@@ -4,13 +4,13 @@
   "topic": "tema-34",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "integrated",
+  "status": "partial",
   "totals": {
     "resources": 94,
-    "integrated": 94,
-    "planned": 0
+    "integrated": 90,
+    "planned": 4
   },
-  "integration_status": "complete",
+  "integration_status": "partial",
   "integrated_at": "2026-08-10",
   "resources": [
     {
@@ -155,13 +155,12 @@
       "title": "Separar clasificación clínica, legal y farmacológica",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 9,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Antes de clasificar pregunta: ¿salud, efecto o control jurídico?",
+      "description": "Referencia visual pendiente: Antes de clasificar pregunta: ¿salud, efecto o control jurídico?",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
@@ -308,13 +307,12 @@
       "title": "Vías inhalada y fumada",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 18,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Rapidez y pulmón son las dos claves: efecto precoz y exposición respiratoria.",
+      "description": "Referencia visual pendiente: Rapidez y pulmón son las dos claves: efecto precoz y exposición respiratoria.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
@@ -359,13 +357,12 @@
       "title": "Vías sublingual, bucal y transdérmica",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 21,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "Misma zona visible, distinta absorción: debajo de la lengua, mucosa bucal o piel.",
+      "description": "Referencia visual pendiente: Misma zona visible, distinta absorción: debajo de la lengua, mucosa bucal o piel.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
@@ -920,13 +917,12 @@
       "title": "Metadona y buprenorfina",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "integrated_webp",
+      "status": "planned",
       "block": 54,
       "documents": [
-        "parte",
-        "atestado"
+        "master"
       ],
-      "description": "La acción opioide puede usarse de forma controlada para estabilizar y reducir daño.",
+      "description": "Referencia visual pendiente: La acción opioide puede usarse de forma controlada para estabilizar y reducir daño.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 260000
