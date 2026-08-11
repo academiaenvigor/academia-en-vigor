@@ -3,15 +3,15 @@
   "opposition": "guardia-civil",
   "topic": "tema-01",
   "content_version": "1.0.0",
-  "visual_version": "1.0.0",
+  "visual_version": "1.1.0",
   "status": "integrated",
   "totals": {
-    "resources": 32,
-    "integrated": 32,
+    "resources": 37,
+    "integrated": 37,
     "planned": 0
   },
   "integration_status": "complete",
-  "integrated_at": "2026-08-05",
+  "integrated_at": "2026-08-11",
   "resources": [
     {
       "id": "GC-T01-V01",
@@ -188,9 +188,9 @@
       "file": "t01-il-07-garantias-persona-detenida.webp",
       "title": "Garantías de la persona detenida",
       "type": "ilustracion_simple",
-      "placement": "bloque-27",
+      "placement": "bloque-28",
       "status": "integrated_webp",
-      "block": 27,
+      "block": 28,
       "documents": [
         "parte",
         "atestado"
@@ -222,9 +222,9 @@
       "file": "t01-il-08-guardia-civil-derechos-humanos.webp",
       "title": "La Guardia Civil y los derechos humanos",
       "type": "ilustracion_simple",
-      "placement": "bloque-30",
+      "placement": "bloque-56",
       "status": "integrated_webp",
-      "block": 30,
+      "block": 56,
       "documents": [
         "parte",
         "atestado"
@@ -239,9 +239,9 @@
       "file": "t01-il-01-declaracion-universal-derechos-humanos.webp",
       "title": "Declaración Universal de Derechos Humanos",
       "type": "ilustracion_simple",
-      "placement": "bloque-31",
+      "placement": "bloque-07",
       "status": "integrated_webp",
-      "block": 31,
+      "block": 7,
       "documents": [
         "parte",
         "atestado"
@@ -256,31 +256,14 @@
       "file": "t01-il-02-convenio-europeo-derechos-humanos.webp",
       "title": "Convenio Europeo de Derechos Humanos",
       "type": "ilustracion_simple",
-      "placement": "bloque-31",
+      "placement": "bloque-13",
       "status": "integrated_webp",
-      "block": 31,
+      "block": 13,
       "documents": [
         "parte",
         "atestado"
       ],
       "description": "Convenio Europeo de Derechos Humanos",
-      "source_content_version": "1.0.0",
-      "required_format": "webp",
-      "max_bytes": 1000000
-    },
-    {
-      "id": "GC-T01-V32",
-      "file": "t01-il-09-sistemas-proteccion-derechos-humanos.webp",
-      "title": "Sistemas de protección de los derechos humanos",
-      "type": "ilustracion_simple",
-      "placement": "bloque-31",
-      "status": "integrated_webp",
-      "block": 31,
-      "documents": [
-        "parte",
-        "atestado"
-      ],
-      "description": "Sistemas de protección de los derechos humanos",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000
@@ -553,6 +536,108 @@
         "atestado"
       ],
       "description": "Explicar composición, mandato y funciones del consejo asesor mediante ficha-composicion, con texto exacto, alto contraste y marca Academia En Vigor.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V33",
+      "file": "t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp",
+      "title": "Lectura de derechos a la persona detenida",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "integrated_webp",
+      "block": 14,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena de lectura comprensible de derechos a una persona detenida.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V34",
+      "file": "t01-il-11-asistencia-letrada-y-garantias-judiciales.webp",
+      "title": "Asistencia letrada y garantías judiciales",
+      "type": "ilustracion_simple",
+      "placement": "bloque-28",
+      "status": "integrated_webp",
+      "block": 28,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena de asistencia letrada como garantía judicial de la persona detenida.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V35",
+      "file": "t01-il-12-prohibicion-absoluta-de-la-tortura.webp",
+      "title": "Prohibición absoluta de la tortura",
+      "type": "ilustracion_simple",
+      "placement": "bloque-34",
+      "status": "integrated_webp",
+      "block": 34,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena institucional sobre la prohibición absoluta de la tortura.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V36",
+      "file": "t01-il-13-reconocimiento-medico-y-trato-digno.webp",
+      "title": "Reconocimiento médico y trato digno",
+      "type": "ilustracion_simple",
+      "placement": "bloque-36",
+      "status": "integrated_webp",
+      "block": 36,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena de reconocimiento médico y trato digno durante la custodia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V37",
+      "file": "t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp",
+      "title": "Visita preventiva a un lugar de custodia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-40",
+      "status": "integrated_webp",
+      "block": 40,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena de una visita preventiva independiente a un lugar de custodia.",
+      "source_content_version": "1.0.0",
+      "required_format": "webp",
+      "max_bytes": 1000000
+    },
+    {
+      "id": "GC-T01-V38",
+      "file": "t01-il-15-actuacion-respetuosa-y-proporcional.webp",
+      "title": "Actuación respetuosa y proporcional",
+      "type": "ilustracion_simple",
+      "placement": "bloque-45",
+      "status": "integrated_webp",
+      "block": 45,
+      "documents": [
+        "parte",
+        "atestado"
+      ],
+      "description": "Escena operativa de actuación respetuosa, necesaria y proporcional.",
       "source_content_version": "1.0.0",
       "required_format": "webp",
       "max_bytes": 1000000

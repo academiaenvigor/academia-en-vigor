@@ -1,6 +1,6 @@
 # Plan visual · GC Tema 1
 
-Corte: 2026-08-05. Todas las piezas serán originales, con texto legible y logotipo de Academia En Vigor.
+Corte: 2026-08-11. Todas las piezas son originales, con texto legible y logotipo de Academia En Vigor.
 
 | ID | Bloque | Recurso | Función | Familia | Diferenciador |
 |---|---:|---|---|---|---|
@@ -29,3 +29,15 @@ Corte: 2026-08-05. Todas las piezas serán originales, con texto legible y logot
 | GC-T01-V23 | 52 | `t01-19-cooperacion-espana-cpi.webp` | Circuito español de cooperación con la CPI | infografia | Explicar circuito español de cooperación con la cpi mediante flujo-institucional, con texto exacto, alto contraste y marca Academia En Vigor. |
 | GC-T01-V24 | 57 | `t01-il-05-visita-mnp.webp` | Visita independiente del MNP a un lugar de custodia | ilustracion | Explicar visita independiente del mnp a un lugar de custodia mediante escena-operativa, con texto exacto, alto contraste y marca Academia En Vigor. |
 | GC-T01-V25 | 58 | `t01-20-consejo-asesor-mnp.webp` | Composición, mandato y funciones del Consejo Asesor | infografia | Explicar composición, mandato y funciones del consejo asesor mediante ficha-composicion, con texto exacto, alto contraste y marca Academia En Vigor. |
+| GC-T01-V26 | 7 | `t01-il-01-declaracion-universal-derechos-humanos.webp` | Recordar la Declaración Universal de Derechos Humanos | ilustracion | Escena institucional de la DUDH con predominio visual y texto breve. |
+| GC-T01-V27 | 13 | `t01-il-02-convenio-europeo-derechos-humanos.webp` | Recordar el sistema europeo de protección | ilustracion | Escena institucional del CEDH con predominio visual y texto breve. |
+| GC-T01-V28 | 46 | `t01-il-03-corte-penal-internacional.webp` | Identificar la Corte Penal Internacional | ilustracion | Escena institucional de la CPI con predominio visual y texto breve. |
+| GC-T01-V29 | 34 | `t01-il-06-prohibicion-tortura-malos-tratos.webp` | Recordar la prohibición de la tortura y los malos tratos | ilustracion | Escena de custodia digna con foco único y texto mínimo. |
+| GC-T01-V30 | 28 | `t01-il-07-garantias-persona-detenida.webp` | Recordar las garantías de la persona detenida | ilustracion | Escena de custodia centrada en las garantías procesales. |
+| GC-T01-V31 | 56 | `t01-il-08-guardia-civil-derechos-humanos.webp` | Vincular la actuación de la Guardia Civil con los derechos humanos | ilustracion | Escena operativa institucional con foco en el trato respetuoso. |
+| GC-T01-V33 | 14 | `t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp` | Mostrar la información de derechos a la persona detenida | ilustracion | Escena directa de lectura comprensible de derechos. |
+| GC-T01-V34 | 28 | `t01-il-11-asistencia-letrada-y-garantias-judiciales.webp` | Mostrar la asistencia letrada como garantía judicial | ilustracion | Entrevista entre persona detenida y letrada, con texto mínimo. |
+| GC-T01-V35 | 34 | `t01-il-12-prohibicion-absoluta-de-la-tortura.webp` | Reforzar el carácter absoluto de la prohibición | ilustracion | Escena de custodia digna y control profesional sin dramatización. |
+| GC-T01-V36 | 36 | `t01-il-13-reconocimiento-medico-y-trato-digno.webp` | Mostrar reconocimiento médico y trato digno | ilustracion | Escena médica durante la custodia con foco único. |
+| GC-T01-V37 | 40 | `t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp` | Mostrar una visita preventiva independiente | ilustracion | Recorrido de un equipo visitante por un lugar de custodia. |
+| GC-T01-V38 | 45 | `t01-il-15-actuacion-respetuosa-y-proporcional.webp` | Vincular necesidad y proporcionalidad con la actuación | ilustracion | Escena operativa de proximidad, serena y no coercitiva. |

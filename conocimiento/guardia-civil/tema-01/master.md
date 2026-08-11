@@ -27,10 +27,6 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 **Referencia visual prevista:** `t01-01-mapa-sistemas-derechos-humanos.webp` · Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.
 :::
 
-:::visual
-**Ilustración simple:** `t01-il-09-sistemas-proteccion-derechos-humanos.webp` · Los sistemas de protección de los derechos humanos.
-:::
-
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -50,10 +46,6 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 
 :::visual
 **Referencia visual prevista:** `t01-01-mapa-sistemas-derechos-humanos.webp` · Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.
-:::
-
-:::visual
-**Ilustración simple:** `t01-il-09-sistemas-proteccion-derechos-humanos.webp` · Los sistemas de protección de los derechos humanos.
 :::
 
 :::hablemos-claro
@@ -470,7 +462,7 @@ Toda persona tiene derecho a circular y elegir residencia dentro de un Estado y 
 - Nadie será privado arbitrariamente de su nacionalidad ni del derecho a cambiarla.
 
 :::visual
-**Referencia visual prevista:** `t01-il-01-puerta-del-asilo.webp` · La excepción del asilo frente a delitos comunes.
+**Ilustración simple:** `t01-il-01-puerta-del-asilo.webp` · La excepción del asilo frente a delitos comunes.
 :::
 
 <!-- PARTE END -->
@@ -491,7 +483,7 @@ Toda persona tiene derecho a circular y elegir residencia dentro de un Estado y 
 <!-- FACT:GC-T01-F039 -->
 
 :::visual
-**Referencia visual prevista:** `t01-il-01-puerta-del-asilo.webp` · La excepción del asilo frente a delitos comunes.
+**Ilustración simple:** `t01-il-01-puerta-del-asilo.webp` · La excepción del asilo frente a delitos comunes.
 :::
 
 :::hablemos-claro
@@ -617,7 +609,7 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
 - La prohibición de la tortura no admite derogación ni siquiera en guerra o peligro público.
 
 :::visual
-**Referencia visual prevista:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
+**Ilustración simple:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
 :::
 
 :::visual
@@ -642,7 +634,7 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
 <!-- FACT:GC-T01-F051 -->
 
 :::visual
-**Referencia visual prevista:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
+**Ilustración simple:** `t01-il-02-linea-roja-articulo-3.webp` · La prohibición absoluta de la tortura como línea roja.
 :::
 
 :::visual
@@ -679,6 +671,10 @@ Nadie puede ser privado de libertad salvo en los casos previstos por el artícul
 - Toda persona tiene derecho a que su causa sea oída equitativa, públicamente y dentro de un plazo razonable por un tribunal independiente e imparcial.
 - Nadie puede ser condenado por una acción u omisión que no constituía infracción cuando se cometió ni sufrir una pena más grave que la aplicable entonces.
 
+:::visual
+**Ilustración simple:** `t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp` · Lectura de derechos a la persona detenida.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -695,6 +691,10 @@ Nadie puede ser privado de libertad salvo en los casos previstos por el artícul
 <!-- FACT:GC-T01-F054 -->
 - Nadie puede ser condenado por una acción u omisión que no constituía infracción cuando se cometió ni sufrir una pena más grave que la aplicable entonces.
 <!-- FACT:GC-T01-F055 -->
+
+:::visual
+**Ilustración simple:** `t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp` · Lectura de derechos a la persona detenida.
+:::
 
 :::hablemos-claro
 El CEDH permite imponer retroactivamente una pena más grave si el hecho provoca alarma social. Esa formulación es falsa: separa el órgano, la cifra o la excepción antes de responder.
@@ -1359,6 +1359,10 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 **Ilustración simple:** `t01-il-07-garantias-persona-detenida.webp` · Garantías de la persona detenida.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-11-asistencia-letrada-y-garantias-judiciales.webp` · Asistencia letrada y garantías judiciales.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -1378,6 +1382,10 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 
 :::visual
 **Ilustración simple:** `t01-il-07-garantias-persona-detenida.webp` · Garantías de la persona detenida.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-11-asistencia-letrada-y-garantias-judiciales.webp` · Asistencia letrada y garantías judiciales.
 :::
 
 :::hablemos-claro
@@ -1670,11 +1678,15 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
 - Ningún Estado expulsará, devolverá o extraditará a una persona cuando haya razones fundadas para creer que estaría en peligro de ser torturada.
 
 :::visual
-**Referencia visual prevista:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
+**Ilustración simple:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
 :::
 
 :::visual
 **Ilustración simple:** `t01-il-06-prohibicion-tortura-malos-tratos.webp` · Prohibición de la tortura y de los malos tratos.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-12-prohibicion-absoluta-de-la-tortura.webp` · Prohibición absoluta de la tortura.
 :::
 
 <!-- PARTE END -->
@@ -1695,11 +1707,15 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
 <!-- FACT:GC-T01-F135 -->
 
 :::visual
-**Referencia visual prevista:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
+**Ilustración simple:** `t01-il-03-prohibicion-sin-excusas.webp` · Ninguna emergencia u orden superior justifica la tortura.
 :::
 
 :::visual
 **Ilustración simple:** `t01-il-06-prohibicion-tortura-malos-tratos.webp` · Prohibición de la tortura y de los malos tratos.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-12-prohibicion-absoluta-de-la-tortura.webp` · Prohibición absoluta de la tortura.
 :::
 
 :::hablemos-claro
@@ -1779,6 +1795,10 @@ La formación del personal encargado de aplicar la ley debe incluir plenamente l
 **Referencia visual prevista:** `t01-12-cadena-prevencion-cat.webp` · Formación, revisión, investigación, reparación y exclusión probatoria.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-13-reconocimiento-medico-y-trato-digno.webp` · Reconocimiento médico y trato digno durante la custodia.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -1798,6 +1818,10 @@ La formación del personal encargado de aplicar la ley debe incluir plenamente l
 
 :::visual
 **Referencia visual prevista:** `t01-12-cadena-prevencion-cat.webp` · Formación, revisión, investigación, reparación y exclusión probatoria.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-13-reconocimiento-medico-y-trato-digno.webp` · Reconocimiento médico y trato digno durante la custodia.
 :::
 
 :::hablemos-claro
@@ -1985,6 +2009,10 @@ El Subcomité visita lugares de privación de libertad y formula recomendaciones
 **Referencia visual prevista:** `t01-15-visita-preventiva-spt.webp` · Flujo de una visita preventiva.
 :::
 
+:::visual
+**Ilustración simple:** `t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp` · Visita preventiva a un lugar de custodia.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -2004,6 +2032,10 @@ El Subcomité visita lugares de privación de libertad y formula recomendaciones
 
 :::visual
 **Referencia visual prevista:** `t01-15-visita-preventiva-spt.webp` · Flujo de una visita preventiva.
+:::
+
+:::visual
+**Ilustración simple:** `t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp` · Visita preventiva a un lugar de custodia.
 :::
 
 :::hablemos-claro
@@ -2226,6 +2258,10 @@ Toda limitación debe estar establecida por ley, respetar el contenido esencial 
 - La Carta no puede interpretarse como limitativa de derechos reconocidos por el Derecho de la Unión, internacional, convenios o constituciones nacionales.
 - Ninguna disposición confiere derecho a destruir derechos o imponer limitaciones más amplias que las previstas.
 
+:::visual
+**Ilustración simple:** `t01-il-15-actuacion-respetuosa-y-proporcional.webp` · Actuación respetuosa y proporcional.
+:::
+
 <!-- PARTE END -->
 <!-- ATESTADO START -->
 ### Regla y encaje
@@ -2242,6 +2278,10 @@ Toda limitación debe estar establecida por ley, respetar el contenido esencial 
 <!-- FACT:GC-T01-F178 -->
 - Ninguna disposición confiere derecho a destruir derechos o imponer limitaciones más amplias que las previstas.
 <!-- FACT:GC-T01-F179 -->
+
+:::visual
+**Ilustración simple:** `t01-il-15-actuacion-respetuosa-y-proporcional.webp` · Actuación respetuosa y proporcional.
+:::
 
 :::hablemos-claro
 La Carta permite limitar un derecho sin ley siempre que la Administración invoque eficacia. Esa formulación es falsa: separa el órgano, la cifra o la excepción antes de responder.
@@ -2339,7 +2379,7 @@ El genocidio exige intención de destruir total o parcialmente a un grupo nacion
 - Exterminio incluye imponer intencionalmente condiciones de vida, como privación de alimentos o medicinas, encaminadas a destruir parte de una población.
 
 :::visual
-**Referencia visual prevista:** `t01-il-04-genocidio-vs-lesa.webp` · Diferencia visual entre genocidio y lesa humanidad.
+**Ilustración simple:** `t01-il-04-genocidio-vs-lesa.webp` · Diferencia visual entre genocidio y lesa humanidad.
 :::
 
 <!-- PARTE END -->
@@ -2360,7 +2400,7 @@ El genocidio exige intención de destruir total o parcialmente a un grupo nacion
 <!-- FACT:GC-T01-F187 -->
 
 :::visual
-**Referencia visual prevista:** `t01-il-04-genocidio-vs-lesa.webp` · Diferencia visual entre genocidio y lesa humanidad.
+**Ilustración simple:** `t01-il-04-genocidio-vs-lesa.webp` · Diferencia visual entre genocidio y lesa humanidad.
 :::
 
 :::hablemos-claro
@@ -2818,7 +2858,7 @@ El Consejo Asesor es un órgano de cooperación técnica y jurídica del Mecanis
 - Los Vocales deben ser mayores de edad, estar en pleno disfrute de derechos civiles y políticos y acreditar trayectoria pertinente.
 
 :::visual
-**Referencia visual prevista:** `t01-il-05-visita-mnp.webp` · Visita independiente del MNP a un lugar de custodia.
+**Ilustración simple:** `t01-il-05-visita-mnp.webp` · Visita independiente del MNP a un lugar de custodia.
 :::
 
 <!-- PARTE END -->
@@ -2839,7 +2879,7 @@ El Consejo Asesor es un órgano de cooperación técnica y jurídica del Mecanis
 <!-- FACT:GC-T01-F226 -->
 
 :::visual
-**Referencia visual prevista:** `t01-il-05-visita-mnp.webp` · Visita independiente del MNP a un lugar de custodia.
+**Ilustración simple:** `t01-il-05-visita-mnp.webp` · Visita independiente del MNP a un lugar de custodia.
 :::
 
 :::hablemos-claro

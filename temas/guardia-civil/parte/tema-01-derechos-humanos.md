@@ -31,12 +31,6 @@ Mantener la paz y la seguridad internacionales es el primer propósito de las Na
 </p>
 <p align="center"><em>Infografía: Mapa de los sistemas ONU, Consejo de Europa, UE, CPI y MNP.</em></p>
 
-<!-- VISUAL:t01-il-09-sistemas-proteccion-derechos-humanos.webp -->
-<p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-09-sistemas-proteccion-derechos-humanos.webp" alt="Los sistemas de protección de los derechos humanos" width="600">
-</p>
-<p align="center"><em>Ilustración: Los sistemas de protección de los derechos humanos.</em></p>
-
 <!-- FUENTE: ONU-CARTA-GC-T01 -->
 
 ## 02. Principios de la Carta
@@ -161,9 +155,9 @@ Toda persona tiene derecho a circular y elegir residencia dentro de un Estado y 
 
 <!-- VISUAL:t01-il-01-puerta-del-asilo.webp -->
 <p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-01-puerta-del-asilo.webp" alt="La excepción del asilo frente a delitos comunes" width="820">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-01-puerta-del-asilo.webp" alt="La excepción del asilo frente a delitos comunes" width="600">
 </p>
-<p align="center"><em>Infografía: La excepción del asilo frente a delitos comunes.</em></p>
+<p align="center"><em>Ilustración: La excepción del asilo frente a delitos comunes.</em></p>
 
 <!-- FUENTE: ONU-DUDH-GC-T01 -->
 
@@ -200,9 +194,9 @@ Las Altas Partes Contratantes reconocen a toda persona bajo su jurisdicción los
 
 <!-- VISUAL:t01-il-02-linea-roja-articulo-3.webp -->
 <p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-02-linea-roja-articulo-3.webp" alt="La prohibición absoluta de la tortura como línea roja" width="820">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-02-linea-roja-articulo-3.webp" alt="La prohibición absoluta de la tortura como línea roja" width="600">
 </p>
-<p align="center"><em>Infografía: La prohibición absoluta de la tortura como línea roja.</em></p>
+<p align="center"><em>Ilustración: La prohibición absoluta de la tortura como línea roja.</em></p>
 
 <!-- VISUAL:t01-il-02-convenio-europeo-derechos-humanos.webp -->
 <p align="center">
@@ -220,6 +214,12 @@ Nadie puede ser privado de libertad salvo en los casos previstos por el artícul
 - Toda persona detenida debe ser informada, en una lengua que comprenda, de las razones de su detención y de la acusación.
 - Toda persona tiene derecho a que su causa sea oída equitativa, públicamente y dentro de un plazo razonable por un tribunal independiente e imparcial.
 - Nadie puede ser condenado por una acción u omisión que no constituía infracción cuando se cometió ni sufrir una pena más grave que la aplicable entonces.
+
+<!-- VISUAL:t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-10-lectura-de-derechos-a-la-persona-detenida.webp" alt="Lectura de derechos a la persona detenida" width="600">
+</p>
+<p align="center"><em>Ilustración: Lectura de derechos a la persona detenida.</em></p>
 
 <!-- FUENTE: COE-CEDH-GC-T01 -->
 
@@ -405,6 +405,12 @@ Todas las personas son iguales ante los tribunales y tienen derecho a ser oídas
 </p>
 <p align="center"><em>Ilustración: Garantías de la persona detenida.</em></p>
 
+<!-- VISUAL:t01-il-11-asistencia-letrada-y-garantias-judiciales.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-11-asistencia-letrada-y-garantias-judiciales.webp" alt="Asistencia letrada y garantías judiciales" width="600">
+</p>
+<p align="center"><em>Ilustración: Asistencia letrada y garantías judiciales.</em></p>
+
 <!-- FUENTE: ONU-PIDCP-GC-T01 -->
 
 ## 29. Libertades, familia y participación
@@ -491,15 +497,21 @@ Tortura es el dolor o sufrimiento grave infligido intencionadamente con una fina
 
 <!-- VISUAL:t01-il-03-prohibicion-sin-excusas.webp -->
 <p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-03-prohibicion-sin-excusas.webp" alt="Ninguna emergencia u orden superior justifica la tortura" width="820">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-03-prohibicion-sin-excusas.webp" alt="Ninguna emergencia u orden superior justifica la tortura" width="600">
 </p>
-<p align="center"><em>Infografía: Ninguna emergencia u orden superior justifica la tortura.</em></p>
+<p align="center"><em>Ilustración: Ninguna emergencia u orden superior justifica la tortura.</em></p>
 
 <!-- VISUAL:t01-il-06-prohibicion-tortura-malos-tratos.webp -->
 <p align="center">
   <img src="../../../assets/guardia-civil/tema-01/t01-il-06-prohibicion-tortura-malos-tratos.webp" alt="Prohibición de la tortura y de los malos tratos" width="600">
 </p>
 <p align="center"><em>Ilustración: Prohibición de la tortura y de los malos tratos.</em></p>
+
+<!-- VISUAL:t01-il-12-prohibicion-absoluta-de-la-tortura.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-12-prohibicion-absoluta-de-la-tortura.webp" alt="Prohibición absoluta de la tortura" width="600">
+</p>
+<p align="center"><em>Ilustración: Prohibición absoluta de la tortura.</em></p>
 
 <!-- FUENTE: ONU-CAT-GC-T01 -->
 
@@ -528,6 +540,12 @@ La formación del personal encargado de aplicar la ley debe incluir plenamente l
   <img src="../../../assets/guardia-civil/tema-01/t01-12-cadena-prevencion-cat.webp" alt="Formación, revisión, investigación, reparación y exclusión probatoria" width="820">
 </p>
 <p align="center"><em>Infografía: Formación, revisión, investigación, reparación y exclusión probatoria.</em></p>
+
+<!-- VISUAL:t01-il-13-reconocimiento-medico-y-trato-digno.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-13-reconocimiento-medico-y-trato-digno.webp" alt="Reconocimiento médico y trato digno durante la custodia" width="600">
+</p>
+<p align="center"><em>Ilustración: Reconocimiento médico y trato digno durante la custodia.</em></p>
 
 <!-- FUENTE: ONU-CAT-GC-T01 -->
 
@@ -591,6 +609,12 @@ El Subcomité visita lugares de privación de libertad y formula recomendaciones
 </p>
 <p align="center"><em>Infografía: Flujo de una visita preventiva.</em></p>
 
+<!-- VISUAL:t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-14-visita-preventiva-a-un-lugar-de-custodia.webp" alt="Visita preventiva a un lugar de custodia" width="600">
+</p>
+<p align="center"><em>Ilustración: Visita preventiva a un lugar de custodia.</em></p>
+
 <!-- FUENTE: ONU-OPCAT-GC-T01 -->
 
 ## 41. Mecanismos nacionales de prevención
@@ -652,6 +676,12 @@ Toda limitación debe estar establecida por ley, respetar el contenido esencial 
 - La Carta no puede interpretarse como limitativa de derechos reconocidos por el Derecho de la Unión, internacional, convenios o constituciones nacionales.
 - Ninguna disposición confiere derecho a destruir derechos o imponer limitaciones más amplias que las previstas.
 
+<!-- VISUAL:t01-il-15-actuacion-respetuosa-y-proporcional.webp -->
+<p align="center">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-15-actuacion-respetuosa-y-proporcional.webp" alt="Actuación respetuosa y proporcional" width="600">
+</p>
+<p align="center"><em>Ilustración: Actuación respetuosa y proporcional.</em></p>
+
 <!-- FUENTE: UE-CARTA-GC-T01 -->
 
 ## 46. Corte, competencia y crímenes
@@ -688,9 +718,9 @@ El genocidio exige intención de destruir total o parcialmente a un grupo nacion
 
 <!-- VISUAL:t01-il-04-genocidio-vs-lesa.webp -->
 <p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-04-genocidio-vs-lesa.webp" alt="Diferencia visual entre genocidio y lesa humanidad" width="820">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-04-genocidio-vs-lesa.webp" alt="Diferencia visual entre genocidio y lesa humanidad" width="600">
 </p>
-<p align="center"><em>Infografía: Diferencia visual entre genocidio y lesa humanidad.</em></p>
+<p align="center"><em>Ilustración: Diferencia visual entre genocidio y lesa humanidad.</em></p>
 
 <!-- FUENTE: CPI-ESTATUTO-GC-T01 -->
 
@@ -821,9 +851,9 @@ El Consejo Asesor es un órgano de cooperación técnica y jurídica del Mecanis
 
 <!-- VISUAL:t01-il-05-visita-mnp.webp -->
 <p align="center">
-  <img src="../../../assets/guardia-civil/tema-01/t01-il-05-visita-mnp.webp" alt="Visita independiente del MNP a un lugar de custodia" width="820">
+  <img src="../../../assets/guardia-civil/tema-01/t01-il-05-visita-mnp.webp" alt="Visita independiente del MNP a un lugar de custodia" width="600">
 </p>
-<p align="center"><em>Infografía: Visita independiente del MNP a un lugar de custodia.</em></p>
+<p align="center"><em>Ilustración: Visita independiente del MNP a un lugar de custodia.</em></p>
 
 <!-- FUENTE: BOE-DP-GC-T01 -->
 
