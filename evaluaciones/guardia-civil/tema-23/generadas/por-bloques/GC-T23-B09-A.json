@@ -1,0 +1,569 @@
+{
+  "id": "GC-T23-B09-A",
+  "titulo": "Tema 23 · Bloque 9: Código Aduanero: información, decisiones y operador autorizado · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      9
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q00742",
+      "fact_id": "GC-T23-F502",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 2 · 2",
+      "articulo": "Artículo 6",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 6 · regla 2 · 2?",
+      "opciones": {
+        "A": "Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+        "B": "2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+        "C": "Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1."
+      }
+    },
+    {
+      "id": "GC-T23-Q00740",
+      "fact_id": "GC-T23-F501",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 1. · 1",
+      "articulo": "Artículo 6",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 6 · 1. · 1, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+        "B": "1. Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+        "C": "2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1."
+      }
+    },
+    {
+      "id": "GC-T23-Q00741",
+      "fact_id": "GC-T23-F501",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 1. · 1",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 2 · 2",
+        "B": "Artículo 6 · 2. · 3",
+        "C": "Artículo 6 · 1. · 1"
+      }
+    },
+    {
+      "id": "GC-T23-Q00745",
+      "fact_id": "GC-T23-F503",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 2. · 3",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.»?",
+      "opciones": {
+        "A": "Artículo 6 · 2. · 3",
+        "B": "Artículo 6 · regla 4 · 4",
+        "C": "Artículo 6 · 3. · 5"
+      }
+    },
+    {
+      "id": "GC-T23-Q00743",
+      "fact_id": "GC-T23-F502",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 2 · 2",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.»?",
+      "opciones": {
+        "A": "Artículo 6 · 2. · 3",
+        "B": "Artículo 6 · regla 2 · 2",
+        "C": "Artículo 6 · regla 4 · 4"
+      }
+    },
+    {
+      "id": "GC-T23-Q00744",
+      "fact_id": "GC-T23-F503",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 2. · 3",
+      "articulo": "Artículo 6",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 6 · 2. · 3?",
+      "opciones": {
+        "A": "Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+        "B": "3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+        "C": "2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1."
+      }
+    },
+    {
+      "id": "GC-T23-Q00748",
+      "fact_id": "GC-T23-F505",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 3. · 5",
+      "articulo": "Artículo 6",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 6 · 3. · 5, indique la opción correcta.",
+      "opciones": {
+        "A": "3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+        "B": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+        "C": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:"
+      }
+    },
+    {
+      "id": "GC-T23-Q00746",
+      "fact_id": "GC-T23-F504",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 4 · 4",
+      "articulo": "Artículo 6",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 6 · regla 4 · 4.",
+      "opciones": {
+        "A": "3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+        "B": "Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+        "C": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;"
+      }
+    },
+    {
+      "id": "GC-T23-Q00747",
+      "fact_id": "GC-T23-F504",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 4 · 4",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.»?",
+      "opciones": {
+        "A": "Artículo 6 · 3. · 5",
+        "B": "Artículo 6 · regla 6 · 6",
+        "C": "Artículo 6 · regla 4 · 4"
+      }
+    },
+    {
+      "id": "GC-T23-Q00751",
+      "fact_id": "GC-T23-F506",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 6 · 6",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 6 · 6",
+        "B": "Artículo 6 · regla 7 · 7",
+        "C": "Artículo 6 · regla 8 · 8"
+      }
+    },
+    {
+      "id": "GC-T23-Q00749",
+      "fact_id": "GC-T23-F505",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 3. · 5",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 6 · 6",
+        "B": "Artículo 6 · 3. · 5",
+        "C": "Artículo 6 · regla 7 · 7"
+      }
+    },
+    {
+      "id": "GC-T23-Q00750",
+      "fact_id": "GC-T23-F506",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 6 · 6",
+      "articulo": "Artículo 6",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 6 · regla 6 · 6, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:",
+        "B": "con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;",
+        "C": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;"
+      }
+    },
+    {
+      "id": "GC-T23-Q00754",
+      "fact_id": "GC-T23-F508",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 8 · 8",
+      "articulo": "Artículo 6",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 6 · regla 8 · 8?",
+      "opciones": {
+        "A": "con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;",
+        "B": "con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+        "C": "4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos."
+      }
+    },
+    {
+      "id": "GC-T23-Q00752",
+      "fact_id": "GC-T23-F507",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 7 · 7",
+      "articulo": "Artículo 6",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 6 · regla 7 · 7?",
+      "opciones": {
+        "A": "con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;",
+        "B": "Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:",
+        "C": "con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;"
+      }
+    },
+    {
+      "id": "GC-T23-Q00753",
+      "fact_id": "GC-T23-F507",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 7 · 7",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 8 · 8",
+        "B": "Artículo 6 · regla 9 · 9",
+        "C": "Artículo 6 · regla 7 · 7"
+      }
+    },
+    {
+      "id": "GC-T23-Q00757",
+      "fact_id": "GC-T23-F509",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 9 · 9",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 9 · 9",
+        "B": "Artículo 6 · 4. · 10",
+        "C": "Artículo 6 · regla 11 · 11"
+      }
+    },
+    {
+      "id": "GC-T23-Q00755",
+      "fact_id": "GC-T23-F508",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 8 · 8",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 9 · 9",
+        "B": "Artículo 6 · regla 8 · 8",
+        "C": "Artículo 6 · 4. · 10"
+      }
+    },
+    {
+      "id": "GC-T23-Q00756",
+      "fact_id": "GC-T23-F509",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 9 · 9",
+      "articulo": "Artículo 6",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 6 · regla 9 · 9.",
+      "opciones": {
+        "A": "4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+        "B": "Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+        "C": "con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;"
+      }
+    },
+    {
+      "id": "GC-T23-Q00760",
+      "fact_id": "GC-T23-F511",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 11 · 11",
+      "articulo": "Artículo 6",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 6 · regla 11 · 11, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+        "B": "La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada.",
+        "C": "La excepción no deberá afectar al intercambio de información entre el Estado miembro al que vaya dirigida y otros Estados miembros ni al intercambio y almacenamiento de información en otros Estados miembros a efectos de la aplicación de la legislación aduanera."
+      }
+    },
+    {
+      "id": "GC-T23-Q00758",
+      "fact_id": "GC-T23-F510",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 4. · 10",
+      "articulo": "Artículo 6",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 6 · 4. · 10, indique la opción correcta.",
+      "opciones": {
+        "A": "Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+        "B": "4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+        "C": "La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada."
+      }
+    },
+    {
+      "id": "GC-T23-Q00759",
+      "fact_id": "GC-T23-F510",
+      "bloque": 9,
+      "concepto": "Artículo 6 · 4. · 10",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 11 · 11",
+        "B": "Artículo 6 · regla 12 · 12",
+        "C": "Artículo 6 · 4. · 10"
+      }
+    },
+    {
+      "id": "GC-T23-Q00763",
+      "fact_id": "GC-T23-F512",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 12 · 12",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada.»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 12 · 12",
+        "B": "Artículo 6 · regla 13 · 13",
+        "C": "Artículo 7 · regla 1 · 1"
+      }
+    },
+    {
+      "id": "GC-T23-Q00761",
+      "fact_id": "GC-T23-F511",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 11 · 11",
+      "articulo": "Artículo 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.»?",
+      "opciones": {
+        "A": "Artículo 6 · regla 12 · 12",
+        "B": "Artículo 6 · regla 11 · 11",
+        "C": "Artículo 6 · regla 13 · 13"
+      }
+    },
+    {
+      "id": "GC-T23-Q00762",
+      "fact_id": "GC-T23-F512",
+      "bloque": 9,
+      "concepto": "Artículo 6 · regla 12 · 12",
+      "articulo": "Artículo 6",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 6 · regla 12 · 12?",
+      "opciones": {
+        "A": "La excepción no deberá afectar al intercambio de información entre el Estado miembro al que vaya dirigida y otros Estados miembros ni al intercambio y almacenamiento de información en otros Estados miembros a efectos de la aplicación de la legislación aduanera.",
+        "B": "Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar lo siguiente:",
+        "C": "La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada."
+      }
+    },
+    {
+      "id": "GC-T23-Q00766",
+      "fact_id": "GC-T23-F514",
+      "bloque": 9,
+      "concepto": "Artículo 7 · regla 1 · 1",
+      "articulo": "Artículo 7",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 7 · regla 1 · 1.",
+      "opciones": {
+        "A": "Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar lo siguiente:",
+        "B": "los requisitos comunes en materia de datos a que se refiere el artículo 6, apartado 2, teniendo en cuenta la necesidad de llevar a cabo las formalidades aduaneras previstas en la legislación aduanera, así como el carácter y finalidad del intercambio y almacenamiento de información a los que se refiere el artículo 6, apartado 1;",
+        "C": "los casos específicos en los que pueden utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos, de conformidad con el artículo 6, apartado 3, letra a);"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q00742",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 2 · 2: Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F502",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00740",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · 1. · 1: 1. Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F501",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00741",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · 1. · 1: 1. Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F501",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00745",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · 2. · 3: 2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+      "fact_id": "GC-T23-F503",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00743",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · regla 2 · 2: Todo intercambio de información, como declaraciones, solicitudes o decisiones entre las autoridades aduaneras y entre estas y los operadores económicos, y el almacenamiento de esa información necesario con arreglo a la legislación aduanera deberán efectuarse mediante técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F502",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00744",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · 2. · 3: 2. Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+      "fact_id": "GC-T23-F503",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00748",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · 3. · 5: 3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F505",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00746",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · regla 4 · 4: Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+      "fact_id": "GC-T23-F504",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00747",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · regla 4 · 4: Se determinarán requisitos comunes en materia de datos a efectos del intercambio y almacenamiento de la información a que se refiere el apartado 1.",
+      "fact_id": "GC-T23-F504",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00751",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 6 · 6: Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F506",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00749",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · 3. · 5: 3. Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F505",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00750",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · regla 6 · 6: Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos: a) con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate; b) con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F506",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00754",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 8 · 8: con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;",
+      "fact_id": "GC-T23-F508",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00752",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · regla 7 · 7: Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:",
+      "fact_id": "GC-T23-F507",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00753",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · regla 7 · 7: Podrán utilizarse medios de intercambio y almacenamiento de información distintos de las técnicas mencionadas en el apartado 1, en los siguientes casos:",
+      "fact_id": "GC-T23-F507",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00757",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 9 · 9: con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F509",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00755",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · regla 8 · 8: con carácter permanente en caso de que resulte debidamente justificado por el tipo de tráfico, o cuando no sea adecuado utilizar técnicas de tratamiento electrónico de datos en relación con las formalidades aduaneras de que se trate;",
+      "fact_id": "GC-T23-F508",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00756",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · regla 9 · 9: con carácter temporal, en caso de que fallen temporalmente los sistemas informáticos de las autoridades aduaneras o de los operadores económicos;",
+      "fact_id": "GC-T23-F509",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00760",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 11 · 11: Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F511",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00758",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · 4. · 10: 4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F510",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00759",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · 4. · 10: 4. Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F510",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00763",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 6 · regla 12 · 12: La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada.",
+      "fact_id": "GC-T23-F512",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00761",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 6 · regla 11 · 11: Como excepción a lo dispuesto en el apartado 1, la Comisión podrá adoptar en casos excepcionales decisiones por las que se autorice a uno o varios Estados miembros a utilizar medios de intercambio y almacenamiento de información distintos de las técnicas de tratamiento electrónico de datos.",
+      "fact_id": "GC-T23-F511",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00762",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 6 · regla 12 · 12: La decisión relativa a la excepción deberá estar justificada por la situación específica del Estado miembro que la haya solicitado y se concederá la excepción por un período de tiempo limitado. ►C3 La excepción se reexaminará periódicamente y podrá ser prorrogada por nuevos plazos determinados previa solicitud del Estado miembro al que vaya dirigida. ◄ Se revocará cuando deje de estar justificada.",
+      "fact_id": "GC-T23-F512",
+      "articulo": "Artículo 6"
+    },
+    {
+      "id": "GC-T23-Q00766",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 7 · regla 1 · 1: Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar lo siguiente:",
+      "fact_id": "GC-T23-F514",
+      "articulo": "Artículo 7"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

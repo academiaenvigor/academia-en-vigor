@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 23,
+  "topic_title": "Derecho fiscal",
+  "id_prefix": "GC-T23",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-23/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-23/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Contrabando: alcance y definiciones"
+      },
+      {
+        "number": 2,
+        "title": "Contrabando: delito y penalidad"
+      },
+      {
+        "number": 3,
+        "title": "Contrabando: responsabilidad, valoración y comiso"
+      },
+      {
+        "number": 4,
+        "title": "Contrabando: infracciones administrativas y disposiciones"
+      },
+      {
+        "number": 5,
+        "title": "RD 1649/1998: tipificación, sujetos y sanciones"
+      },
+      {
+        "number": 6,
+        "title": "RD 1649/1998: graduación, reiteración y cierre"
+      },
+      {
+        "number": 7,
+        "title": "RD 1649/1998: procedimiento sancionador y disposiciones"
+      },
+      {
+        "number": 8,
+        "title": "Código Aduanero: ámbito, misión y definiciones"
+      },
+      {
+        "number": 9,
+        "title": "Código Aduanero: información, decisiones y operador autorizado"
+      },
+      {
+        "number": 10,
+        "title": "Código Aduanero: representación aduanera"
+      },
+      {
+        "number": 11,
+        "title": "Código Aduanero: nacimiento de la deuda de importación y exportación"
+      },
+      {
+        "number": 12,
+        "title": "Código Aduanero: libre práctica y franquicia de derechos"
+      },
+      {
+        "number": 13,
+        "title": "Código Aduanero: regímenes especiales y tránsito"
+      },
+      {
+        "number": 14,
+        "title": "Código Aduanero: formalidades de salida, exportación y reexportación"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Ley Orgánica de represión del contrabando",
+        "blocks": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Infracciones administrativas de contrabando",
+        "blocks": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Código Aduanero: ámbito, derechos, información, representación y deuda",
+        "blocks": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Código Aduanero: regímenes, tránsito y salida",
+        "blocks": [
+          12,
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

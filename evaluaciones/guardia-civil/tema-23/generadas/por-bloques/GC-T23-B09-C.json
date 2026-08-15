@@ -1,0 +1,569 @@
+{
+  "id": "GC-T23-B09-C",
+  "titulo": "Tema 23 · Bloque 9: Código Aduanero: información, decisiones y operador autorizado · Test C",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      9
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q00789",
+      "fact_id": "GC-T23-F527",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 1. · 1",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. Los operadores económicos establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidos.»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 2 · 2",
+        "B": "Artículo 9 · 2. · 3",
+        "C": "Artículo 9 · 1. · 1"
+      }
+    },
+    {
+      "id": "GC-T23-Q00793",
+      "fact_id": "GC-T23-F529",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 2. · 3",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.»?",
+      "opciones": {
+        "A": "Artículo 9 · 2. · 3",
+        "B": "Artículo 9 · regla 4 · 4",
+        "C": "Artículo 9 · 3. · 5"
+      }
+    },
+    {
+      "id": "GC-T23-Q00791",
+      "fact_id": "GC-T23-F528",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 2 · 2",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Los operadores económicos establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidos.»?",
+      "opciones": {
+        "A": "Artículo 9 · 2. · 3",
+        "B": "Artículo 9 · regla 2 · 2",
+        "C": "Artículo 9 · regla 4 · 4"
+      }
+    },
+    {
+      "id": "GC-T23-Q00792",
+      "fact_id": "GC-T23-F529",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 2. · 3",
+      "articulo": "Artículo 9",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 9 · 2. · 3?",
+      "opciones": {
+        "A": "En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+        "B": "3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+        "C": "2. En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión."
+      }
+    },
+    {
+      "id": "GC-T23-Q00796",
+      "fact_id": "GC-T23-F531",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 3. · 5",
+      "articulo": "Artículo 9",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 9 · 3. · 5.",
+      "opciones": {
+        "A": "3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+        "B": "Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+        "C": "Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:"
+      }
+    },
+    {
+      "id": "GC-T23-Q00794",
+      "fact_id": "GC-T23-F530",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 4 · 4",
+      "articulo": "Artículo 9",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 9 · regla 4 · 4?",
+      "opciones": {
+        "A": "3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+        "B": "En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+        "C": "Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras."
+      }
+    },
+    {
+      "id": "GC-T23-Q00795",
+      "fact_id": "GC-T23-F530",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 4 · 4",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.»?",
+      "opciones": {
+        "A": "Artículo 9 · 3. · 5",
+        "B": "Artículo 9 · regla 6 · 6",
+        "C": "Artículo 9 · regla 4 · 4"
+      }
+    },
+    {
+      "id": "GC-T23-Q00799",
+      "fact_id": "GC-T23-F532",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 6 · 6",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 6 · 6",
+        "B": "Artículo 9 · regla 7 · 7",
+        "C": "Artículo 9 · regla 8 · 8"
+      }
+    },
+    {
+      "id": "GC-T23-Q00797",
+      "fact_id": "GC-T23-F531",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 3. · 5",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 6 · 6",
+        "B": "Artículo 9 · 3. · 5",
+        "C": "Artículo 9 · regla 7 · 7"
+      }
+    },
+    {
+      "id": "GC-T23-Q00798",
+      "fact_id": "GC-T23-F532",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 6 · 6",
+      "articulo": "Artículo 9",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 9 · regla 6 · 6, indique la opción correcta.",
+      "opciones": {
+        "A": "Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:",
+        "B": "si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;",
+        "C": "Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras."
+      }
+    },
+    {
+      "id": "GC-T23-Q00802",
+      "fact_id": "GC-T23-F534",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 8 · 8",
+      "articulo": "Artículo 9",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 9 · regla 8 · 8?",
+      "opciones": {
+        "A": "si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;",
+        "B": "si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+        "C": "4. En casos específicos, las autoridades aduaneras invalidarán el registro."
+      }
+    },
+    {
+      "id": "GC-T23-Q00800",
+      "fact_id": "GC-T23-F533",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 7 · 7",
+      "articulo": "Artículo 9",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 9 · regla 7 · 7, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;",
+        "B": "Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:",
+        "C": "si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión."
+      }
+    },
+    {
+      "id": "GC-T23-Q00801",
+      "fact_id": "GC-T23-F533",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 7 · 7",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 8 · 8",
+        "B": "Artículo 9 · regla 9 · 9",
+        "C": "Artículo 9 · regla 7 · 7"
+      }
+    },
+    {
+      "id": "GC-T23-Q00805",
+      "fact_id": "GC-T23-F535",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 9 · 9",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 9 · 9",
+        "B": "Artículo 9 · 4. · 10",
+        "C": "Artículo 9 · regla 11 · 11"
+      }
+    },
+    {
+      "id": "GC-T23-Q00803",
+      "fact_id": "GC-T23-F534",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 8 · 8",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 9 · 9",
+        "B": "Artículo 9 · regla 8 · 8",
+        "C": "Artículo 9 · 4. · 10"
+      }
+    },
+    {
+      "id": "GC-T23-Q00804",
+      "fact_id": "GC-T23-F535",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 9 · 9",
+      "articulo": "Artículo 9",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 9 · regla 9 · 9?",
+      "opciones": {
+        "A": "4. En casos específicos, las autoridades aduaneras invalidarán el registro.",
+        "B": "En casos específicos, las autoridades aduaneras invalidarán el registro.",
+        "C": "si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión."
+      }
+    },
+    {
+      "id": "GC-T23-Q00808",
+      "fact_id": "GC-T23-F537",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 11 · 11",
+      "articulo": "Artículo 9",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 9 · regla 11 · 11, indique la opción correcta.",
+      "opciones": {
+        "A": "En casos específicos, las autoridades aduaneras invalidarán el registro.",
+        "B": "Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar:",
+        "C": "los casos mencionados en el artículo 9, apartado 2, en los que se exija registrarse ante las autoridades aduaneras a los operadores económicos no establecidos en el territorio aduanero de la Unión;"
+      }
+    },
+    {
+      "id": "GC-T23-Q00806",
+      "fact_id": "GC-T23-F536",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 4. · 10",
+      "articulo": "Artículo 9",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 9 · 4. · 10.",
+      "opciones": {
+        "A": "En casos específicos, las autoridades aduaneras invalidarán el registro.",
+        "B": "4. En casos específicos, las autoridades aduaneras invalidarán el registro.",
+        "C": "Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar:"
+      }
+    },
+    {
+      "id": "GC-T23-Q00807",
+      "fact_id": "GC-T23-F536",
+      "bloque": 9,
+      "concepto": "Artículo 9 · 4. · 10",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «4. En casos específicos, las autoridades aduaneras invalidarán el registro.»?",
+      "opciones": {
+        "A": "Artículo 9 · regla 11 · 11",
+        "B": "Artículo 10 · regla 1 · 1",
+        "C": "Artículo 9 · 4. · 10"
+      }
+    },
+    {
+      "id": "GC-T23-Q00811",
+      "fact_id": "GC-T23-F539",
+      "bloque": 9,
+      "concepto": "Artículo 10 · regla 2 · 2",
+      "articulo": "Artículo 10",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 10 · regla 2 · 2.",
+      "opciones": {
+        "A": "los casos mencionados en el artículo 9, apartado 2, en los que se exija registrarse ante las autoridades aduaneras a los operadores económicos no establecidos en el territorio aduanero de la Unión;",
+        "B": "los casos mencionados en el artículo 9, apartado 3, párrafo primero, en los que se exija registrarse ante la autoridades aduaneras a personas distintas de los operadores económicos;",
+        "C": "los casos mencionados en el artículo 9, apartado 4, en los que las autoridades aduaneras invaliden un registro."
+      }
+    },
+    {
+      "id": "GC-T23-Q00809",
+      "fact_id": "GC-T23-F537",
+      "bloque": 9,
+      "concepto": "Artículo 9 · regla 11 · 11",
+      "articulo": "Artículo 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «En casos específicos, las autoridades aduaneras invalidarán el registro.»?",
+      "opciones": {
+        "A": "Artículo 10 · regla 1 · 1",
+        "B": "Artículo 9 · regla 11 · 11",
+        "C": "Artículo 10 · regla 2 · 2"
+      }
+    },
+    {
+      "id": "GC-T23-Q00810",
+      "fact_id": "GC-T23-F538",
+      "bloque": 9,
+      "concepto": "Artículo 10 · regla 1 · 1",
+      "articulo": "Artículo 10",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta literal sobre Artículo 10 · regla 1 · 1, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "los casos mencionados en el artículo 9, apartado 2, en los que se exija registrarse ante las autoridades aduaneras a los operadores económicos no establecidos en el territorio aduanero de la Unión;",
+        "B": "los casos mencionados en el artículo 9, apartado 3, párrafo primero, en los que se exija registrarse ante la autoridades aduaneras a personas distintas de los operadores económicos;",
+        "C": "Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar:"
+      }
+    },
+    {
+      "id": "GC-T23-Q00814",
+      "fact_id": "GC-T23-F542",
+      "bloque": 9,
+      "concepto": "Artículo 11 · regla 1 · 1",
+      "articulo": "Artículo 11",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 11 · regla 1 · 1?",
+      "opciones": {
+        "A": "La Comisión especificará, mediante actos de ejecución, la autoridad aduanera responsable del registro a que se refiere el artículo 9.",
+        "B": "Dichos actos de ejecución se adoptarán con arreglo al procedimiento de examen a que se refiere el artículo 285, apartado 4.",
+        "C": "1. Toda información obtenida por las autoridades aduaneras en el desempeño de sus funciones que sea confidencial por naturaleza o que se haya facilitado con ese carácter estará protegida por el deber de secreto profesional. Sin perjuicio de lo dispuesto en el artículo 47, apartado 2, las autoridades competentes no podrán difundir esa información sin el consentimiento expreso de la persona o autoridad que la haya facilitado."
+      }
+    },
+    {
+      "id": "GC-T23-Q00812",
+      "fact_id": "GC-T23-F540",
+      "bloque": 9,
+      "concepto": "Artículo 10 · regla 3 · 3",
+      "articulo": "Artículo 10",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "¿Qué dispone la regla Artículo 10 · regla 3 · 3?",
+      "opciones": {
+        "A": "los casos mencionados en el artículo 9, apartado 4, en los que las autoridades aduaneras invaliden un registro.",
+        "B": "los casos mencionados en el artículo 9, apartado 3, párrafo primero, en los que se exija registrarse ante la autoridades aduaneras a personas distintas de los operadores económicos;",
+        "C": "La Comisión especificará, mediante actos de ejecución, la autoridad aduanera responsable del registro a que se refiere el artículo 9."
+      }
+    },
+    {
+      "id": "GC-T23-Q00813",
+      "fact_id": "GC-T23-F541",
+      "bloque": 9,
+      "concepto": "Artículo 10 · regla 4 · 4",
+      "articulo": "Artículo 10",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Artículo 10 · regla 4 · 4, indique la opción correcta.",
+      "opciones": {
+        "A": "La Comisión especificará, mediante actos de ejecución, la autoridad aduanera responsable del registro a que se refiere el artículo 9.",
+        "B": "Dichos actos de ejecución se adoptarán con arreglo al procedimiento de examen a que se refiere el artículo 285, apartado 4.",
+        "C": "los casos mencionados en el artículo 9, apartado 4, en los que las autoridades aduaneras invaliden un registro."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q00789",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · 1. · 1: 1. Los operadores económicos establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidos.",
+      "fact_id": "GC-T23-F527",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00793",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · 2. · 3: 2. En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F529",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00791",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · regla 2 · 2: Los operadores económicos establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidos.",
+      "fact_id": "GC-T23-F528",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00792",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · 2. · 3: 2. En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F529",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00796",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · 3. · 5: 3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+      "fact_id": "GC-T23-F531",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00794",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · regla 4 · 4: En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F530",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00795",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · regla 4 · 4: En casos específicos, los operadores económicos que no estén establecidos en el territorio aduanero de la Unión se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F530",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00799",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · regla 6 · 6: Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+      "fact_id": "GC-T23-F532",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00797",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · 3. · 5: 3. Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+      "fact_id": "GC-T23-F531",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00798",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · regla 6 · 6: Salvo que se disponga lo contrario, las personas que no sean operadores económicos no tendrán obligación de registro ante las autoridades aduaneras.",
+      "fact_id": "GC-T23-F532",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00802",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · regla 8 · 8: si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;",
+      "fact_id": "GC-T23-F534",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00800",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · regla 7 · 7: Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:",
+      "fact_id": "GC-T23-F533",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00801",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · regla 7 · 7: Cuando se las personas mencionadas en el párrafo primero tengan la obligación de registrarse, será de aplicación lo siguiente:",
+      "fact_id": "GC-T23-F533",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00805",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · regla 9 · 9: si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F535",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00803",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · regla 8 · 8: si están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que estén establecidas;",
+      "fact_id": "GC-T23-F534",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00804",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · regla 9 · 9: si no están establecidas en el territorio aduanero de la Unión, se registrarán ante las autoridades aduaneras responsables del lugar en el que presenten por primera vez una declaración o una solicitud de decisión.",
+      "fact_id": "GC-T23-F535",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00808",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9 · regla 11 · 11: En casos específicos, las autoridades aduaneras invalidarán el registro.",
+      "fact_id": "GC-T23-F537",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00806",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · 4. · 10: 4. En casos específicos, las autoridades aduaneras invalidarán el registro.",
+      "fact_id": "GC-T23-F536",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00807",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9 · 4. · 10: 4. En casos específicos, las autoridades aduaneras invalidarán el registro.",
+      "fact_id": "GC-T23-F536",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00811",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 10 · regla 2 · 2: los casos mencionados en el artículo 9, apartado 2, en los que se exija registrarse ante las autoridades aduaneras a los operadores económicos no establecidos en el territorio aduanero de la Unión;",
+      "fact_id": "GC-T23-F539",
+      "articulo": "Artículo 10"
+    },
+    {
+      "id": "GC-T23-Q00809",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9 · regla 11 · 11: En casos específicos, las autoridades aduaneras invalidarán el registro.",
+      "fact_id": "GC-T23-F537",
+      "articulo": "Artículo 9"
+    },
+    {
+      "id": "GC-T23-Q00810",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 10 · regla 1 · 1: Se otorgan a la Comisión los poderes para adoptar actos delegados con arreglo al artículo 284, con el fin de determinar:",
+      "fact_id": "GC-T23-F538",
+      "articulo": "Artículo 10"
+    },
+    {
+      "id": "GC-T23-Q00814",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 11 · regla 1 · 1: La Comisión especificará, mediante actos de ejecución, la autoridad aduanera responsable del registro a que se refiere el artículo 9.",
+      "fact_id": "GC-T23-F542",
+      "articulo": "Artículo 11"
+    },
+    {
+      "id": "GC-T23-Q00812",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 10 · regla 3 · 3: los casos mencionados en el artículo 9, apartado 3, párrafo primero, en los que se exija registrarse ante la autoridades aduaneras a personas distintas de los operadores económicos;",
+      "fact_id": "GC-T23-F540",
+      "articulo": "Artículo 10"
+    },
+    {
+      "id": "GC-T23-Q00813",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 10 · regla 4 · 4: los casos mencionados en el artículo 9, apartado 4, en los que las autoridades aduaneras invaliden un registro.",
+      "fact_id": "GC-T23-F541",
+      "articulo": "Artículo 10"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

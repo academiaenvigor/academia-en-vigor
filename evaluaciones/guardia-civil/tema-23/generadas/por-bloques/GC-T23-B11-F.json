@@ -1,0 +1,217 @@
+{
+  "id": "GC-T23-B11-F",
+  "titulo": "Tema 23 · Bloque 11: Código Aduanero: nacimiento de la deuda de importación y exportación · Test F",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      11
+    ]
+  },
+  "numero_preguntas": 9,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q00999",
+      "fact_id": "GC-T23-F660",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 15 · 15",
+      "articulo": "Artículo 82",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «toda persona a la que se hubiera exigido el cumplimiento de la obligación en cuestión;»?",
+      "opciones": {
+        "A": "Artículo 82 · regla 16 · 16",
+        "B": "Artículo 82 · regla 17 · 17",
+        "C": "Artículo 82 · regla 15 · 15"
+      }
+    },
+    {
+      "id": "GC-T23-Q01000",
+      "fact_id": "GC-T23-F661",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 16 · 16",
+      "articulo": "Artículo 82",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 82 · regla 16 · 16, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "toda persona que supiera o debiera razonablemente haber sabido que no se había cumplido la obligación en cuestión y que hubiera actuado por cuenta de la persona obligada a cumplir dicha obligación;",
+        "B": "toda persona que hubiera participado en el acto que llevó al incumplimiento de la obligación y que supiera o debiera razonablemente haber sabido que no se había presentado una declaración en aduana, a pesar de ser preceptiva.",
+        "C": "4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación."
+      }
+    },
+    {
+      "id": "GC-T23-Q01001",
+      "fact_id": "GC-T23-F661",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 16 · 16",
+      "articulo": "Artículo 82",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «toda persona que supiera o debiera razonablemente haber sabido que no se había cumplido la obligación en cuestión y que hubiera actuado por cuenta de la persona obligada a cumplir dicha obligación;»?",
+      "opciones": {
+        "A": "Artículo 82 · regla 17 · 17",
+        "B": "Artículo 82 · regla 16 · 16",
+        "C": "Artículo 82 · 4. · 18"
+      }
+    },
+    {
+      "id": "GC-T23-Q01002",
+      "fact_id": "GC-T23-F662",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 17 · 17",
+      "articulo": "Artículo 82",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 82 · regla 17 · 17?",
+      "opciones": {
+        "A": "4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+        "B": "En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+        "C": "toda persona que hubiera participado en el acto que llevó al incumplimiento de la obligación y que supiera o debiera razonablemente haber sabido que no se había presentado una declaración en aduana, a pesar de ser preceptiva."
+      }
+    },
+    {
+      "id": "GC-T23-Q01003",
+      "fact_id": "GC-T23-F662",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 17 · 17",
+      "articulo": "Artículo 82",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «toda persona que hubiera participado en el acto que llevó al incumplimiento de la obligación y que supiera o debiera razonablemente haber sabido que no se había presentado una declaración en aduana, a pesar de ser preceptiva.»?",
+      "opciones": {
+        "A": "Artículo 82 · regla 17 · 17",
+        "B": "Artículo 82 · 4. · 18",
+        "C": "Artículo 82 · regla 19 · 19"
+      }
+    },
+    {
+      "id": "GC-T23-Q01004",
+      "fact_id": "GC-T23-F663",
+      "bloque": 11,
+      "concepto": "Artículo 82 · 4. · 18",
+      "articulo": "Artículo 82",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 82 · 4. · 18?",
+      "opciones": {
+        "A": "En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+        "B": "4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+        "C": "1. Una deuda aduanera de importación nacerá al incluirse las mercancías no pertenecientes a la Unión sujetas a derechos de importación en alguno de los regímenes aduaneros siguientes: a) el despacho a libre práctica, incluso con arreglo a las disposiciones del destino final; b) la importación temporal con exención parcial de derechos de importación."
+      }
+    },
+    {
+      "id": "GC-T23-Q01005",
+      "fact_id": "GC-T23-F663",
+      "bloque": 11,
+      "concepto": "Artículo 82 · 4. · 18",
+      "articulo": "Artículo 82",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.»?",
+      "opciones": {
+        "A": "Artículo 82 · regla 19 · 19",
+        "B": "Artículo 77 · 1. · 1",
+        "C": "Artículo 82 · 4. · 18"
+      }
+    },
+    {
+      "id": "GC-T23-Q01006",
+      "fact_id": "GC-T23-F664",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 19 · 19",
+      "articulo": "Artículo 82",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 82 · regla 19 · 19.",
+      "opciones": {
+        "A": "En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+        "B": "1. Una deuda aduanera de importación nacerá al incluirse las mercancías no pertenecientes a la Unión sujetas a derechos de importación en alguno de los regímenes aduaneros siguientes: a) el despacho a libre práctica, incluso con arreglo a las disposiciones del destino final; b) la importación temporal con exención parcial de derechos de importación.",
+        "C": "Una deuda aduanera de importación nacerá al incluirse las mercancías no pertenecientes a la Unión sujetas a derechos de importación en alguno de los regímenes aduaneros siguientes: a) el despacho a libre práctica, incluso con arreglo a las disposiciones del destino final; b) la importación temporal con exención parcial de derechos de importación."
+      }
+    },
+    {
+      "id": "GC-T23-Q01007",
+      "fact_id": "GC-T23-F664",
+      "bloque": 11,
+      "concepto": "Artículo 82 · regla 19 · 19",
+      "articulo": "Artículo 82",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.»?",
+      "opciones": {
+        "A": "Artículo 77 · 1. · 1",
+        "B": "Artículo 82 · regla 19 · 19",
+        "C": "Artículo 77 · regla 2 · 2"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q00999",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 82 · regla 15 · 15: toda persona a la que se hubiera exigido el cumplimiento de la obligación en cuestión;",
+      "fact_id": "GC-T23-F660",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01000",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 82 · regla 16 · 16: toda persona que supiera o debiera razonablemente haber sabido que no se había cumplido la obligación en cuestión y que hubiera actuado por cuenta de la persona obligada a cumplir dicha obligación;",
+      "fact_id": "GC-T23-F661",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01001",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 82 · regla 16 · 16: toda persona que supiera o debiera razonablemente haber sabido que no se había cumplido la obligación en cuestión y que hubiera actuado por cuenta de la persona obligada a cumplir dicha obligación;",
+      "fact_id": "GC-T23-F661",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01002",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 82 · regla 17 · 17: toda persona que hubiera participado en el acto que llevó al incumplimiento de la obligación y que supiera o debiera razonablemente haber sabido que no se había presentado una declaración en aduana, a pesar de ser preceptiva.",
+      "fact_id": "GC-T23-F662",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01003",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 82 · regla 17 · 17: toda persona que hubiera participado en el acto que llevó al incumplimiento de la obligación y que supiera o debiera razonablemente haber sabido que no se había presentado una declaración en aduana, a pesar de ser preceptiva.",
+      "fact_id": "GC-T23-F662",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01004",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 82 · 4. · 18: 4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+      "fact_id": "GC-T23-F663",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01005",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 82 · 4. · 18: 4. En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+      "fact_id": "GC-T23-F663",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01006",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 82 · regla 19 · 19: En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+      "fact_id": "GC-T23-F664",
+      "articulo": "Artículo 82"
+    },
+    {
+      "id": "GC-T23-Q01007",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 82 · regla 19 · 19: En los casos mencionados en la letra b) del apartado 1, el deudor será toda persona que esté obligada a cumplir las condiciones con arreglo a las cuales se autorizó la salida de las mercancías del territorio aduanero de la Unión con exención total o parcial de los derechos de exportación.",
+      "fact_id": "GC-T23-F664",
+      "articulo": "Artículo 82"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

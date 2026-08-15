@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-23",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 15,
+    "integrated": 0,
+    "planned": 15
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T23-V00",
+      "file": "t23-00-mapa-general.webp",
+      "title": "Mapa general del Tema 23",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Arquitectura completa de derecho fiscal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V01",
+      "file": "t23-01-contrabando-alcance-y-definiciones.webp",
+      "title": "Contrabando: alcance y definiciones",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para contrabando: alcance y definiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V02",
+      "file": "t23-02-contrabando-delito-y-penalidad.webp",
+      "title": "Contrabando: delito y penalidad",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para contrabando: delito y penalidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V03",
+      "file": "t23-03-contrabando-responsabilidad-valoracion-y-comiso.webp",
+      "title": "Contrabando: responsabilidad, valoración y comiso",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para contrabando: responsabilidad, valoración y comiso.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V04",
+      "file": "t23-04-contrabando-infracciones-administrativas-y-disposiciones.webp",
+      "title": "Contrabando: infracciones administrativas y disposiciones",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para contrabando: infracciones administrativas y disposiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V05",
+      "file": "t23-05-rd-1649-1998-tipificacion-sujetos-y-sanciones.webp",
+      "title": "RD 1649/1998: tipificación, sujetos y sanciones",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para rd 1649/1998: tipificación, sujetos y sanciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V06",
+      "file": "t23-06-rd-1649-1998-graduacion-reiteracion-y-cierre.webp",
+      "title": "RD 1649/1998: graduación, reiteración y cierre",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para rd 1649/1998: graduación, reiteración y cierre.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V07",
+      "file": "t23-07-rd-1649-1998-procedimiento-sancionador-y-disposiciones.webp",
+      "title": "RD 1649/1998: procedimiento sancionador y disposiciones",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para rd 1649/1998: procedimiento sancionador y disposiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V08",
+      "file": "t23-08-codigo-aduanero-ambito-mision-y-definiciones.webp",
+      "title": "Código Aduanero: ámbito, misión y definiciones",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: ámbito, misión y definiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V09",
+      "file": "t23-09-codigo-aduanero-informacion-decisiones-y-operador-autorizado.webp",
+      "title": "Código Aduanero: información, decisiones y operador autorizado",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: información, decisiones y operador autorizado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V10",
+      "file": "t23-10-codigo-aduanero-representacion-aduanera.webp",
+      "title": "Código Aduanero: representación aduanera",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: representación aduanera.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V11",
+      "file": "t23-11-codigo-aduanero-nacimiento-de-la-deuda-de-importacion-y-exportacion.webp",
+      "title": "Código Aduanero: nacimiento de la deuda de importación y exportación",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: nacimiento de la deuda de importación y exportación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V12",
+      "file": "t23-12-codigo-aduanero-libre-practica-y-franquicia-de-derechos.webp",
+      "title": "Código Aduanero: libre práctica y franquicia de derechos",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: libre práctica y franquicia de derechos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V13",
+      "file": "t23-13-codigo-aduanero-regimenes-especiales-y-transito.webp",
+      "title": "Código Aduanero: regímenes especiales y tránsito",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: regímenes especiales y tránsito.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T23-V14",
+      "file": "t23-14-codigo-aduanero-formalidades-de-salida-exportacion-y-reexportacion.webp",
+      "title": "Código Aduanero: formalidades de salida, exportación y reexportación",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para código aduanero: formalidades de salida, exportación y reexportación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

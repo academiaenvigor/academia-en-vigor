@@ -1,0 +1,569 @@
+{
+  "id": "GC-T23-B13-A",
+  "titulo": "Tema 23 · Bloque 13: Código Aduanero: regímenes especiales y tránsito · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      13
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q01078",
+      "fact_id": "GC-T23-F723",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 1 · 1",
+      "articulo": "Artículo 210",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:»?",
+      "opciones": {
+        "A": "Artículo 210 · regla 1 · 1",
+        "B": "Artículo 210 · regla 2 · 2",
+        "C": "Artículo 210 · regla 3 · 3"
+      }
+    },
+    {
+      "id": "GC-T23-Q01079",
+      "fact_id": "GC-T23-F724",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 2 · 2",
+      "articulo": "Artículo 210",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 210 · regla 2 · 2?",
+      "opciones": {
+        "A": "el depósito, que incluirá el depósito aduanero y las zonas francas;",
+        "B": "el tránsito, que incluirá el tránsito interno y el tránsito externo;",
+        "C": "destinos especiales, que incluirán la importación temporal y el destino final;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01077",
+      "fact_id": "GC-T23-F723",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 1 · 1",
+      "articulo": "Artículo 210",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 210 · regla 1 · 1?",
+      "opciones": {
+        "A": "el tránsito, que incluirá el tránsito interno y el tránsito externo;",
+        "B": "el depósito, que incluirá el depósito aduanero y las zonas francas;",
+        "C": "Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01081",
+      "fact_id": "GC-T23-F725",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 3 · 3",
+      "articulo": "Artículo 210",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 210 · regla 3 · 3.",
+      "opciones": {
+        "A": "el depósito, que incluirá el depósito aduanero y las zonas francas;",
+        "B": "destinos especiales, que incluirán la importación temporal y el destino final;",
+        "C": "el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo."
+      }
+    },
+    {
+      "id": "GC-T23-Q01082",
+      "fact_id": "GC-T23-F725",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 3 · 3",
+      "articulo": "Artículo 210",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «el depósito, que incluirá el depósito aduanero y las zonas francas;»?",
+      "opciones": {
+        "A": "Artículo 210 · regla 4 · 4",
+        "B": "Artículo 210 · regla 3 · 3",
+        "C": "Artículo 210 · regla 5 · 5"
+      }
+    },
+    {
+      "id": "GC-T23-Q01080",
+      "fact_id": "GC-T23-F724",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 2 · 2",
+      "articulo": "Artículo 210",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «el tránsito, que incluirá el tránsito interno y el tránsito externo;»?",
+      "opciones": {
+        "A": "Artículo 210 · regla 3 · 3",
+        "B": "Artículo 210 · regla 4 · 4",
+        "C": "Artículo 210 · regla 2 · 2"
+      }
+    },
+    {
+      "id": "GC-T23-Q01084",
+      "fact_id": "GC-T23-F726",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 4 · 4",
+      "articulo": "Artículo 210",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «destinos especiales, que incluirán la importación temporal y el destino final;»?",
+      "opciones": {
+        "A": "Artículo 210 · regla 4 · 4",
+        "B": "Artículo 210 · regla 5 · 5",
+        "C": "Artículo 211 · 1. · 1"
+      }
+    },
+    {
+      "id": "GC-T23-Q01085",
+      "fact_id": "GC-T23-F727",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 5 · 5",
+      "articulo": "Artículo 210",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 210 · regla 5 · 5, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "1. Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "B": "el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.",
+        "C": "Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera."
+      }
+    },
+    {
+      "id": "GC-T23-Q01083",
+      "fact_id": "GC-T23-F726",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 4 · 4",
+      "articulo": "Artículo 210",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 210 · regla 4 · 4, indique la opción correcta.",
+      "opciones": {
+        "A": "el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.",
+        "B": "1. Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "destinos especiales, que incluirán la importación temporal y el destino final;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01087",
+      "fact_id": "GC-T23-F728",
+      "bloque": 13,
+      "concepto": "Artículo 211 · 1. · 1",
+      "articulo": "Artículo 211",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "¿Qué dispone la regla Artículo 211 · 1. · 1?",
+      "opciones": {
+        "A": "1. Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "B": "Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "Se requerirá autorización de las autoridades aduaneras para lo siguiente:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01088",
+      "fact_id": "GC-T23-F729",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 2 · 2",
+      "articulo": "Artículo 211",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Artículo 211 · regla 2 · 2, indique la opción correcta.",
+      "opciones": {
+        "A": "Se requerirá autorización de las autoridades aduaneras para lo siguiente:",
+        "B": "Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01086",
+      "fact_id": "GC-T23-F727",
+      "bloque": 13,
+      "concepto": "Artículo 210 · regla 5 · 5",
+      "articulo": "Artículo 210",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.»?",
+      "opciones": {
+        "A": "Artículo 211 · 1. · 1",
+        "B": "Artículo 211 · regla 2 · 2",
+        "C": "Artículo 210 · regla 5 · 5"
+      }
+    },
+    {
+      "id": "GC-T23-Q01090",
+      "fact_id": "GC-T23-F731",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 4 · 4",
+      "articulo": "Artículo 211",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta literal sobre Artículo 211 · regla 4 · 4, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final;",
+        "B": "la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "En la autorización figurarán las condiciones en que se permitirá el uso de uno o más de los regímenes mencionados en el párrafo primero o la explotación de almacenes de depósito."
+      }
+    },
+    {
+      "id": "GC-T23-Q01091",
+      "fact_id": "GC-T23-F732",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 5 · 5",
+      "articulo": "Artículo 211",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 211 · regla 5 · 5.",
+      "opciones": {
+        "A": "En la autorización figurarán las condiciones en que se permitirá el uso de uno o más de los regímenes mencionados en el párrafo primero o la explotación de almacenes de depósito.",
+        "B": "la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "2. Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original."
+      }
+    },
+    {
+      "id": "GC-T23-Q01089",
+      "fact_id": "GC-T23-F730",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 3 · 3",
+      "articulo": "Artículo 211",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 211 · regla 3 · 3?",
+      "opciones": {
+        "A": "la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final;",
+        "B": "la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+        "C": "Se requerirá autorización de las autoridades aduaneras para lo siguiente:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01093",
+      "fact_id": "GC-T23-F734",
+      "bloque": 13,
+      "concepto": "Artículo 211 · 2. · 7",
+      "articulo": "Artículo 211",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Artículo 211 · 2. · 7, indique la opción correcta.",
+      "opciones": {
+        "A": "2. Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+        "B": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+        "C": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01094",
+      "fact_id": "GC-T23-F735",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 8 · 8",
+      "articulo": "Artículo 211",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 211 · regla 8 · 8?",
+      "opciones": {
+        "A": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes:",
+        "B": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+        "C": "que exista una necesidad económica demostrada;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01092",
+      "fact_id": "GC-T23-F733",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 6 · 6",
+      "articulo": "Artículo 211",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "¿Qué dispone la regla Artículo 211 · regla 6 · 6?",
+      "opciones": {
+        "A": "2. Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+        "B": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+        "C": "En la autorización figurarán las condiciones en que se permitirá el uso de uno o más de los regímenes mencionados en el párrafo primero o la explotación de almacenes de depósito."
+      }
+    },
+    {
+      "id": "GC-T23-Q01096",
+      "fact_id": "GC-T23-F737",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 10 · 10",
+      "articulo": "Artículo 211",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 211 · regla 10 · 10.",
+      "opciones": {
+        "A": "que exista una necesidad económica demostrada;",
+        "B": "que la solicitud no esté relacionada con una tentativa de fraude;",
+        "C": "que el solicitante haya demostrado, mediante cuentas o registros, que:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01097",
+      "fact_id": "GC-T23-F738",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 11 · 11",
+      "articulo": "Artículo 211",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "¿Qué dispone la regla Artículo 211 · regla 11 · 11?",
+      "opciones": {
+        "A": "que el solicitante haya demostrado, mediante cuentas o registros, que:",
+        "B": "que la solicitud no esté relacionada con una tentativa de fraude;",
+        "C": "se cumplen todos los requisitos del procedimiento;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01095",
+      "fact_id": "GC-T23-F736",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 9 · 9",
+      "articulo": "Artículo 211",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta literal sobre Artículo 211 · regla 9 · 9, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "que exista una necesidad económica demostrada;",
+        "B": "que la solicitud no esté relacionada con una tentativa de fraude;",
+        "C": "Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01099",
+      "fact_id": "GC-T23-F740",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 13 · 13",
+      "articulo": "Artículo 211",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 211 · regla 13 · 13?",
+      "opciones": {
+        "A": "se cumplen todos los requisitos del procedimiento;",
+        "B": "en su caso, las mercancías pueden identificarse respecto del período de que se trate;",
+        "C": "tales cuentas o registros permiten que se controle el procedimiento;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01100",
+      "fact_id": "GC-T23-F741",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 14 · 14",
+      "articulo": "Artículo 211",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta literal sobre Artículo 211 · regla 14 · 14, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "tales cuentas o registros permiten que se controle el procedimiento;",
+        "B": "en su caso, las mercancías pueden identificarse respecto del período de que se trate;",
+        "C": "que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01098",
+      "fact_id": "GC-T23-F739",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 12 · 12",
+      "articulo": "Artículo 211",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Artículo 211 · regla 12 · 12, indique la opción correcta.",
+      "opciones": {
+        "A": "se cumplen todos los requisitos del procedimiento;",
+        "B": "en su caso, las mercancías pueden identificarse respecto del período de que se trate;",
+        "C": "que el solicitante haya demostrado, mediante cuentas o registros, que:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01102",
+      "fact_id": "GC-T23-F743",
+      "bloque": 13,
+      "concepto": "Artículo 211 · regla 16 · 16",
+      "articulo": "Artículo 211",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "¿Qué dispone la regla Artículo 211 · regla 16 · 16?",
+      "opciones": {
+        "A": "que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente;",
+        "B": "que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud;",
+        "C": "que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías;"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q01078",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 210 · regla 1 · 1: Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:",
+      "fact_id": "GC-T23-F723",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01079",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 210 · regla 2 · 2: el tránsito, que incluirá el tránsito interno y el tránsito externo;",
+      "fact_id": "GC-T23-F724",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01077",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 210 · regla 1 · 1: Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:",
+      "fact_id": "GC-T23-F723",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01081",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 210 · regla 3 · 3: el depósito, que incluirá el depósito aduanero y las zonas francas;",
+      "fact_id": "GC-T23-F725",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01082",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 210 · regla 3 · 3: el depósito, que incluirá el depósito aduanero y las zonas francas;",
+      "fact_id": "GC-T23-F725",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01080",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 210 · regla 2 · 2: el tránsito, que incluirá el tránsito interno y el tránsito externo;",
+      "fact_id": "GC-T23-F724",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01084",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 210 · regla 4 · 4: destinos especiales, que incluirán la importación temporal y el destino final;",
+      "fact_id": "GC-T23-F726",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01085",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 210 · regla 5 · 5: el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.",
+      "fact_id": "GC-T23-F727",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01083",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 210 · regla 4 · 4: destinos especiales, que incluirán la importación temporal y el destino final;",
+      "fact_id": "GC-T23-F726",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01087",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · 1. · 1: 1. Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+      "fact_id": "GC-T23-F728",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01088",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 211 · regla 2 · 2: Se requerirá autorización de las autoridades aduaneras para lo siguiente: a) la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final; b) la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+      "fact_id": "GC-T23-F729",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01086",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 210 · regla 5 · 5: el perfeccionamiento, que incluirá el perfeccionamiento activo y el perfeccionamiento pasivo.",
+      "fact_id": "GC-T23-F727",
+      "articulo": "Artículo 210"
+    },
+    {
+      "id": "GC-T23-Q01090",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · regla 4 · 4: la utilización de regímenes de perfeccionamiento activo o pasivo, de importación temporal y de destino final;",
+      "fact_id": "GC-T23-F731",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01091",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 211 · regla 5 · 5: la explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías, a no ser que el operador de las instalaciones de almacenamiento sea la propia autoridad aduanera.",
+      "fact_id": "GC-T23-F732",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01089",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 211 · regla 3 · 3: Se requerirá autorización de las autoridades aduaneras para lo siguiente:",
+      "fact_id": "GC-T23-F730",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01093",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · 2. · 7: 2. Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+      "fact_id": "GC-T23-F734",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01094",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 211 · regla 8 · 8: Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes: a) que exista una necesidad económica demostrada; b) que la solicitud no esté relacionada con una tentativa de fraude; c) que el solicitante haya demostrado, mediante cuentas o registros, que: i) se cumplen todos los requisitos del procedimiento; ii) en su caso, las mercancías pueden identificarse respecto del período de que se trate; iii) tales cuentas o registros permiten que se controle el procedimiento; d) que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente; e) que no se haya concedido al solicitante ninguna autorización con efecto retroactivo en un plazo de tres años a partir de la fecha en que fue admitida la solicitud; f) que no se precise el examen de las condiciones económicas excepto cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías; g) que la solicitud no se refiera a la explotación de almacenes para el depósito aduanero de mercancías; h) cuando la solicitud se refiera a la renovación de una autorización relativa al mismo tipo de operación y mercancías, que la solicitud se presente en un plazo de tres años después de que haya expirado la autorización original.",
+      "fact_id": "GC-T23-F735",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01092",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 211 · regla 6 · 6: En la autorización figurarán las condiciones en que se permitirá el uso de uno o más de los regímenes mencionados en el párrafo primero o la explotación de almacenes de depósito.",
+      "fact_id": "GC-T23-F733",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01096",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · regla 10 · 10: que exista una necesidad económica demostrada;",
+      "fact_id": "GC-T23-F737",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01097",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 211 · regla 11 · 11: que la solicitud no esté relacionada con una tentativa de fraude;",
+      "fact_id": "GC-T23-F738",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01095",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 211 · regla 9 · 9: Las autoridades aduaneras concederán una autorización con efecto retroactivo cuando se cumplan todas las condiciones siguientes:",
+      "fact_id": "GC-T23-F736",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01099",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · regla 13 · 13: se cumplen todos los requisitos del procedimiento;",
+      "fact_id": "GC-T23-F740",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01100",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 211 · regla 14 · 14: en su caso, las mercancías pueden identificarse respecto del período de que se trate;",
+      "fact_id": "GC-T23-F741",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01098",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 211 · regla 12 · 12: que el solicitante haya demostrado, mediante cuentas o registros, que:",
+      "fact_id": "GC-T23-F739",
+      "articulo": "Artículo 211"
+    },
+    {
+      "id": "GC-T23-Q01102",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 211 · regla 16 · 16: que puedan efectuarse todos los trámites necesarios para regularizar la situación de las mercancías, entre ellos, en caso necesario, la invalidación de la declaración en aduana correspondiente;",
+      "fact_id": "GC-T23-F743",
+      "articulo": "Artículo 211"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

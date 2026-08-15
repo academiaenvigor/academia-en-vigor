@@ -1,0 +1,85 @@
+{
+  "id": "GC-T23-B13-H",
+  "titulo": "Tema 23 · Bloque 13: Código Aduanero: regímenes especiales y tránsito · Test H",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      13
+    ]
+  },
+  "numero_preguntas": 3,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q01253",
+      "fact_id": "GC-T23-F894",
+      "bloque": 13,
+      "concepto": "Artículo 236 · regla 4 · 4",
+      "articulo": "Artículo 236",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Artículo 236 · regla 4 · 4, indique la opción correcta.",
+      "opciones": {
+        "A": "Dichos actos de ejecución se adoptarán con arreglo al procedimiento de examen a que se refiere el artículo 285, apartado 4.",
+        "B": "la vigilancia aduanera de las mercancías que atraviesen el territorio de un país o territorio que no forme parte del territorio aduanero de la Unión al amparo del régimen de tránsito externo de la Unión a que se refiere el artículo 234.",
+        "C": "Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:"
+      }
+    },
+    {
+      "id": "GC-T23-Q01251",
+      "fact_id": "GC-T23-F892",
+      "bloque": 13,
+      "concepto": "Artículo 236 · regla 2 · 2",
+      "articulo": "Artículo 236",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 236 · regla 2 · 2.",
+      "opciones": {
+        "A": "el funcionamiento de las simplificaciones a que se refiere el artículo 233, apartado 4;",
+        "B": "la vigilancia aduanera de las mercancías que atraviesen el territorio de un país o territorio que no forme parte del territorio aduanero de la Unión al amparo del régimen de tránsito externo de la Unión a que se refiere el artículo 234.",
+        "C": "la inclusión de mercancías en el régimen de tránsito de la Unión y para poner fin a dicho régimen;"
+      }
+    },
+    {
+      "id": "GC-T23-Q01254",
+      "fact_id": "GC-T23-F895",
+      "bloque": 13,
+      "concepto": "Artículo 236 · regla 5 · 5",
+      "articulo": "Artículo 236",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 236 · regla 5 · 5?",
+      "opciones": {
+        "A": "Las mercancías podrán incluirse en cualquiera de las siguientes categorías de regímenes especiales:",
+        "B": "el tránsito, que incluirá el tránsito interno y el tránsito externo;",
+        "C": "Dichos actos de ejecución se adoptarán con arreglo al procedimiento de examen a que se refiere el artículo 285, apartado 4."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q01253",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 236 · regla 4 · 4: la vigilancia aduanera de las mercancías que atraviesen el territorio de un país o territorio que no forme parte del territorio aduanero de la Unión al amparo del régimen de tránsito externo de la Unión a que se refiere el artículo 234.",
+      "fact_id": "GC-T23-F894",
+      "articulo": "Artículo 236"
+    },
+    {
+      "id": "GC-T23-Q01251",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 236 · regla 2 · 2: la inclusión de mercancías en el régimen de tránsito de la Unión y para poner fin a dicho régimen;",
+      "fact_id": "GC-T23-F892",
+      "articulo": "Artículo 236"
+    },
+    {
+      "id": "GC-T23-Q01254",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 236 · regla 5 · 5: Dichos actos de ejecución se adoptarán con arreglo al procedimiento de examen a que se refiere el artículo 285, apartado 4.",
+      "fact_id": "GC-T23-F895",
+      "articulo": "Artículo 236"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

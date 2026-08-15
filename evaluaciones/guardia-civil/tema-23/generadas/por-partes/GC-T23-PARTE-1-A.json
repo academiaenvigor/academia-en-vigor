@@ -1,0 +1,352 @@
+{
+  "id": "GC-T23-PARTE-1-A",
+  "titulo": "Tema 23 · Ley Orgánica de represión del contrabando · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T23-Q00001",
+      "fact_id": "GC-T23-F001",
+      "bloque": 1,
+      "concepto": "Alcance oficial del Tema 23",
+      "articulo": "Epígrafe oficial",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Alcance oficial del Tema 23.",
+      "opciones": {
+        "A": "LO 12/1995 y RD 1649/1998 completos; Reglamento (UE) 952/2013, artículos 1-21, 77-82, 201-236 y 263-273.",
+        "B": "A los efectos de la presente Ley se entenderá por:",
+        "C": "1. “Mercancía”: todo bien corporal susceptible de ser objeto de comercio."
+      }
+    },
+    {
+      "id": "GC-T23-Q00002",
+      "fact_id": "GC-T23-F002",
+      "bloque": 1,
+      "concepto": "Artículo 1. Definiciones. · regla 1",
+      "articulo": "Artículo 1. Definiciones.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 1. Definiciones. · regla 1?",
+      "opciones": {
+        "A": "1. “Mercancía”: todo bien corporal susceptible de ser objeto de comercio.",
+        "B": "A los efectos de la presente Ley se entenderá por:",
+        "C": "A estos efectos, la moneda metálica, los billetes de banco y los cheques bancarios al portador denominados en moneda nacional o en cualquier otra moneda, y cualquier medio físico, incluidos los electrónicos, concebido para ser utilizado como medio de pago se considerarán como mercancías cuando se oculten bien entre otras mercancías presentadas ante la aduana o bien en los medios de transporte en los que se encuentren."
+      }
+    },
+    {
+      "id": "GC-T23-Q00171",
+      "fact_id": "GC-T23-F090",
+      "bloque": 4,
+      "concepto": "Artículo 10. Valoración de los bienes. · 2.",
+      "articulo": "Artículo 10. Valoración de los bienes.",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la formulación correcta sobre Artículo 10. Valoración de los bienes. · 2..",
+      "opciones": {
+        "A": "3. Cuando los bienes, géneros o efectos sean objeto de importación o exportación y no se encuentren comprendidos en los apartados 1 y 2 anteriores, su valor será el precio medio declarado a las autoridades aduaneras de los productos semejantes clasificados en la subpartida a nivel de ocho dígitos y, en su defecto, a nivel de seis o cuatro dígitos de la nomenclatura prevista en el Reglamento (CEE) n.º 2658/1987 del Consejo, de 23 de julio de 1987, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, y en función de su tipo de operación.",
+        "B": "4. En el resto de los casos, su precio oficial o, en su defecto, el precio medio de mercado español de bienes semejantes o el valor de venta, siempre que fuese superior al de compra o al coste de producción incrementados, en su caso, con el índice general de precios al consumo desde la fecha de compra o producción, y siempre que entre ese momento y la realización del delito hubiese transcurrido más de un año natural. El índice aplicable será el correspondiente a cada uno de los años naturales. Se aplicará el valor de compra o el coste de producción con el incremento indicado cuando razonablemente no pueda determinarse el valor de venta.",
+        "C": "2. Para la valoración de los bienes, géneros y efectos comprendidos en las letras a) y b) del artículo 2.2 así como para la de los delitos de ilícito comercio, el juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios."
+      }
+    },
+    {
+      "id": "GC-T23-Q00055",
+      "fact_id": "GC-T23-F028",
+      "bloque": 2,
+      "concepto": "Artículo 2. Tipificación del delito. · 1.",
+      "articulo": "Artículo 2. Tipificación del delito.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros, los que realicen alguno de los siguientes hechos:»?",
+      "opciones": {
+        "A": "Artículo 2. Tipificación del delito. · 1.",
+        "B": "Artículo 2. Tipificación del delito. · a)",
+        "C": "Artículo 2. Tipificación del delito. · regla 3"
+      }
+    },
+    {
+      "id": "GC-T23-Q00056",
+      "fact_id": "GC-T23-F029",
+      "bloque": 2,
+      "concepto": "Artículo 2. Tipificación del delito. · a)",
+      "articulo": "Artículo 2. Tipificación del delito.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 2. Tipificación del delito. · a).",
+      "opciones": {
+        "A": "La ocultación o sustracción de cualquier clase de mercancías a la acción de la Administración aduanera dentro de los recintos o lugares habilitados equivaldrá a la no presentación.",
+        "B": "a) Importen o exporten mercancías de lícito comercio sin presentarlas para su despacho en las oficinas de aduanas o en los lugares habilitados por la Administración aduanera.",
+        "C": "b) Realicen operaciones de comercio, tenencia o circulación de mercancías no comunitarias de lícito comercio sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación."
+      }
+    },
+    {
+      "id": "GC-T23-Q00006",
+      "fact_id": "GC-T23-F004",
+      "bloque": 1,
+      "concepto": "Artículo 1. Definiciones. · regla 3",
+      "articulo": "Artículo 1. Definiciones.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la formulación correcta sobre Artículo 1. Definiciones. · regla 3.",
+      "opciones": {
+        "A": "2. “Mercancías comunitarias”: las mercancías definidas como tales en el apartado 18 del artículo 4 del Reglamento (CE) n.º 450/2008, del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (Código Aduanero Modernizado).",
+        "B": "3. “Mercancías no comunitarias”: las mercancías definidas como tales en el apartado 19 del artículo 4 del Reglamento (CE) n.º 450/2008, del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (Código Aduanero Modernizado).",
+        "C": "A estos efectos, la moneda metálica, los billetes de banco y los cheques bancarios al portador denominados en moneda nacional o en cualquier otra moneda, y cualquier medio físico, incluidos los electrónicos, concebido para ser utilizado como medio de pago se considerarán como mercancías cuando se oculten bien entre otras mercancías presentadas ante la aduana o bien en los medios de transporte en los que se encuentren."
+      }
+    },
+    {
+      "id": "GC-T23-Q00124",
+      "fact_id": "GC-T23-F063",
+      "bloque": 3,
+      "concepto": "Artículo 4. Responsabilidad civil. · regla 2",
+      "articulo": "Artículo 4. Responsabilidad civil.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 4. Responsabilidad civil. · regla 2?",
+      "opciones": {
+        "A": "Cuando pudiera practicarse la liquidación de la deuda tributaria se observarán las reglas contenidas en la disposición adicional cuarta de esta Ley.",
+        "B": "Respecto de la deuda aduanera se estará, asimismo, a lo previsto en la citada Disposición adicional cuarta.",
+        "C": "Para la ejecución de la pena de multa y de la responsabilidad civil, los jueces y tribunales recabarán el auxilio de los servicios de la Administración Tributaria, que las exigirá por el procedimiento administrativo de apremio en los términos establecidos en la Ley General Tributaria."
+      }
+    },
+    {
+      "id": "GC-T23-Q00122",
+      "fact_id": "GC-T23-F062",
+      "bloque": 3,
+      "concepto": "Artículo 4. Responsabilidad civil. · regla 1",
+      "articulo": "Artículo 4. Responsabilidad civil.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla Artículo 4. Responsabilidad civil. · regla 1?",
+      "opciones": {
+        "A": "Cuando pudiera practicarse la liquidación de la deuda tributaria se observarán las reglas contenidas en la disposición adicional cuarta de esta Ley.",
+        "B": "En los procedimientos por delito de contrabando la responsabilidad civil comprenderá la totalidad de la deuda tributaria no ingresada que la Administración Tributaria no haya podido liquidar por prescripción o por alguna de las causas previstas en el artículo 251.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, incluidos sus intereses de demora.",
+        "C": "Respecto de la deuda aduanera se estará, asimismo, a lo previsto en la citada Disposición adicional cuarta."
+      }
+    },
+    {
+      "id": "GC-T23-Q00169",
+      "fact_id": "GC-T23-F088",
+      "bloque": 4,
+      "concepto": "Artículo 10. Valoración de los bienes. · regla 1",
+      "articulo": "Artículo 10. Valoración de los bienes.",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 10. Valoración de los bienes. · regla 1?",
+      "opciones": {
+        "A": "La fijación del valor de los bienes, mercancías, géneros o efectos objeto de contrabando se hará conforme a las siguientes reglas:",
+        "B": "1. Si se trata de géneros estancados, por el precio máximo de venta al público. De no estar señalado dicho precio, se adoptará la valoración establecida para la clase más similar. Si no fuera posible la asimilación, el juez fijará la valoración previa tasación pericial.",
+        "C": "2. Para la valoración de los bienes, géneros y efectos comprendidos en las letras a) y b) del artículo 2.2 así como para la de los delitos de ilícito comercio, el juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios."
+      }
+    },
+    {
+      "id": "GC-T23-Q00170",
+      "fact_id": "GC-T23-F089",
+      "bloque": 4,
+      "concepto": "Artículo 10. Valoración de los bienes. · 1.",
+      "articulo": "Artículo 10. Valoración de los bienes.",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta literal sobre Artículo 10. Valoración de los bienes. · 1., ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "2. Para la valoración de los bienes, géneros y efectos comprendidos en las letras a) y b) del artículo 2.2 así como para la de los delitos de ilícito comercio, el juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios.",
+        "B": "1. Si se trata de géneros estancados, por el precio máximo de venta al público. De no estar señalado dicho precio, se adoptará la valoración establecida para la clase más similar. Si no fuera posible la asimilación, el juez fijará la valoración previa tasación pericial.",
+        "C": "3. Cuando los bienes, géneros o efectos sean objeto de importación o exportación y no se encuentren comprendidos en los apartados 1 y 2 anteriores, su valor será el precio medio declarado a las autoridades aduaneras de los productos semejantes clasificados en la subpartida a nivel de ocho dígitos y, en su defecto, a nivel de seis o cuatro dígitos de la nomenclatura prevista en el Reglamento (CEE) n.º 2658/1987 del Consejo, de 23 de julio de 1987, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, y en función de su tipo de operación."
+      }
+    },
+    {
+      "id": "GC-T23-Q00004",
+      "fact_id": "GC-T23-F003",
+      "bloque": 1,
+      "concepto": "Artículo 1. Definiciones. · 1.",
+      "articulo": "Artículo 1. Definiciones.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido normativo de Artículo 1. Definiciones. · 1.?",
+      "opciones": {
+        "A": "1. “Mercancía”: todo bien corporal susceptible de ser objeto de comercio.",
+        "B": "A estos efectos, la moneda metálica, los billetes de banco y los cheques bancarios al portador denominados en moneda nacional o en cualquier otra moneda, y cualquier medio físico, incluidos los electrónicos, concebido para ser utilizado como medio de pago se considerarán como mercancías cuando se oculten bien entre otras mercancías presentadas ante la aduana o bien en los medios de transporte en los que se encuentren.",
+        "C": "2. “Mercancías comunitarias”: las mercancías definidas como tales en el apartado 18 del artículo 4 del Reglamento (CE) n.º 450/2008, del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (Código Aduanero Modernizado)."
+      }
+    },
+    {
+      "id": "GC-T23-Q00058",
+      "fact_id": "GC-T23-F030",
+      "bloque": 2,
+      "concepto": "Artículo 2. Tipificación del delito. · regla 3",
+      "articulo": "Artículo 2. Tipificación del delito.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 2. Tipificación del delito. · regla 3, indique la opción correcta.",
+      "opciones": {
+        "A": "La ocultación o sustracción de cualquier clase de mercancías a la acción de la Administración aduanera dentro de los recintos o lugares habilitados equivaldrá a la no presentación.",
+        "B": "b) Realicen operaciones de comercio, tenencia o circulación de mercancías no comunitarias de lícito comercio sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación.",
+        "C": "c) Destinen al consumo las mercancías en tránsito con incumplimiento de la normativa reguladora de este régimen aduanero, establecida en los artículos 62, 63, 103, 136, 140, 143, 144, 145, 146 y 147 del Reglamento (CE) n.º 450/2008, del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (Código Aduanero Modernizado), y sus disposiciones de aplicación, así como en el Convenio TIR de 14 de noviembre de 1975."
+      }
+    },
+    {
+      "id": "GC-T23-Q00127",
+      "fact_id": "GC-T23-F064",
+      "bloque": 3,
+      "concepto": "Artículo 4. Responsabilidad civil. · regla 3",
+      "articulo": "Artículo 4. Responsabilidad civil.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «Respecto de la deuda aduanera se estará, asimismo, a lo previsto en la citada Disposición adicional cuarta.»?",
+      "opciones": {
+        "A": "Artículo 4. Responsabilidad civil. · regla 3",
+        "B": "Artículo 4 bis. Ejecución de la pena de multa y de la responsabilidad civil. · regla 1",
+        "C": "Artículo 5. Comiso. · 1."
+      }
+    },
+    {
+      "id": "GC-T23-Q00061",
+      "fact_id": "GC-T23-F031",
+      "bloque": 2,
+      "concepto": "Artículo 2. Tipificación del delito. · b)",
+      "articulo": "Artículo 2. Tipificación del delito.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «b) Realicen operaciones de comercio, tenencia o circulación de mercancías no comunitarias de lícito comercio sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación.»?",
+      "opciones": {
+        "A": "Artículo 2. Tipificación del delito. · b)",
+        "B": "Artículo 2. Tipificación del delito. · c)",
+        "C": "Artículo 2. Tipificación del delito. · d)"
+      }
+    },
+    {
+      "id": "GC-T23-Q00130",
+      "fact_id": "GC-T23-F066",
+      "bloque": 3,
+      "concepto": "Artículo 5. Comiso. · 1.",
+      "articulo": "Artículo 5. Comiso.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 5. Comiso. · 1., ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "1. Toda pena que se impusiere por un delito de contrabando llevará consigo el comiso de los siguientes bienes, efectos e instrumentos:",
+        "B": "a) Las mercancías que constituyan el objeto del delito.",
+        "C": "b) Los materiales, instrumentos o maquinaria empleados en la fabricación, elaboración, transformación o comercio de los géneros estancados o prohibidos."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T23-Q00001",
+      "respuesta_correcta": "A",
+      "explicacion": "Alcance oficial del Tema 23: LO 12/1995 y RD 1649/1998 completos; Reglamento (UE) 952/2013, artículos 1-21, 77-82, 201-236 y 263-273.",
+      "fact_id": "GC-T23-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T23-Q00002",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 1. Definiciones. · regla 1: A los efectos de la presente Ley se entenderá por:",
+      "fact_id": "GC-T23-F002",
+      "articulo": "Artículo 1. Definiciones."
+    },
+    {
+      "id": "GC-T23-Q00171",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 10. Valoración de los bienes. · 2.: 2. Para la valoración de los bienes, géneros y efectos comprendidos en las letras a) y b) del artículo 2.2 así como para la de los delitos de ilícito comercio, el juez recabará de las Administraciones competentes el asesoramiento y los informes que estime necesarios.",
+      "fact_id": "GC-T23-F090",
+      "articulo": "Artículo 10. Valoración de los bienes."
+    },
+    {
+      "id": "GC-T23-Q00055",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 2. Tipificación del delito. · 1.: 1. Cometen delito de contrabando, siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros, los que realicen alguno de los siguientes hechos:",
+      "fact_id": "GC-T23-F028",
+      "articulo": "Artículo 2. Tipificación del delito."
+    },
+    {
+      "id": "GC-T23-Q00056",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 2. Tipificación del delito. · a): a) Importen o exporten mercancías de lícito comercio sin presentarlas para su despacho en las oficinas de aduanas o en los lugares habilitados por la Administración aduanera.",
+      "fact_id": "GC-T23-F029",
+      "articulo": "Artículo 2. Tipificación del delito."
+    },
+    {
+      "id": "GC-T23-Q00006",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 1. Definiciones. · regla 3: A estos efectos, la moneda metálica, los billetes de banco y los cheques bancarios al portador denominados en moneda nacional o en cualquier otra moneda, y cualquier medio físico, incluidos los electrónicos, concebido para ser utilizado como medio de pago se considerarán como mercancías cuando se oculten bien entre otras mercancías presentadas ante la aduana o bien en los medios de transporte en los que se encuentren.",
+      "fact_id": "GC-T23-F004",
+      "articulo": "Artículo 1. Definiciones."
+    },
+    {
+      "id": "GC-T23-Q00124",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 4. Responsabilidad civil. · regla 2: Cuando pudiera practicarse la liquidación de la deuda tributaria se observarán las reglas contenidas en la disposición adicional cuarta de esta Ley.",
+      "fact_id": "GC-T23-F063",
+      "articulo": "Artículo 4. Responsabilidad civil."
+    },
+    {
+      "id": "GC-T23-Q00122",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 4. Responsabilidad civil. · regla 1: En los procedimientos por delito de contrabando la responsabilidad civil comprenderá la totalidad de la deuda tributaria no ingresada que la Administración Tributaria no haya podido liquidar por prescripción o por alguna de las causas previstas en el artículo 251.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, incluidos sus intereses de demora.",
+      "fact_id": "GC-T23-F062",
+      "articulo": "Artículo 4. Responsabilidad civil."
+    },
+    {
+      "id": "GC-T23-Q00169",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 10. Valoración de los bienes. · regla 1: La fijación del valor de los bienes, mercancías, géneros o efectos objeto de contrabando se hará conforme a las siguientes reglas:",
+      "fact_id": "GC-T23-F088",
+      "articulo": "Artículo 10. Valoración de los bienes."
+    },
+    {
+      "id": "GC-T23-Q00170",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 10. Valoración de los bienes. · 1.: 1. Si se trata de géneros estancados, por el precio máximo de venta al público. De no estar señalado dicho precio, se adoptará la valoración establecida para la clase más similar. Si no fuera posible la asimilación, el juez fijará la valoración previa tasación pericial.",
+      "fact_id": "GC-T23-F089",
+      "articulo": "Artículo 10. Valoración de los bienes."
+    },
+    {
+      "id": "GC-T23-Q00004",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 1. Definiciones. · 1.: 1. “Mercancía”: todo bien corporal susceptible de ser objeto de comercio.",
+      "fact_id": "GC-T23-F003",
+      "articulo": "Artículo 1. Definiciones."
+    },
+    {
+      "id": "GC-T23-Q00058",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 2. Tipificación del delito. · regla 3: La ocultación o sustracción de cualquier clase de mercancías a la acción de la Administración aduanera dentro de los recintos o lugares habilitados equivaldrá a la no presentación.",
+      "fact_id": "GC-T23-F030",
+      "articulo": "Artículo 2. Tipificación del delito."
+    },
+    {
+      "id": "GC-T23-Q00127",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 4. Responsabilidad civil. · regla 3: Respecto de la deuda aduanera se estará, asimismo, a lo previsto en la citada Disposición adicional cuarta.",
+      "fact_id": "GC-T23-F064",
+      "articulo": "Artículo 4. Responsabilidad civil."
+    },
+    {
+      "id": "GC-T23-Q00061",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 2. Tipificación del delito. · b): b) Realicen operaciones de comercio, tenencia o circulación de mercancías no comunitarias de lícito comercio sin cumplir los requisitos legalmente establecidos para acreditar su lícita importación.",
+      "fact_id": "GC-T23-F031",
+      "articulo": "Artículo 2. Tipificación del delito."
+    },
+    {
+      "id": "GC-T23-Q00130",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 5. Comiso. · 1.: 1. Toda pena que se impusiere por un delito de contrabando llevará consigo el comiso de los siguientes bienes, efectos e instrumentos:",
+      "fact_id": "GC-T23-F066",
+      "articulo": "Artículo 5. Comiso."
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

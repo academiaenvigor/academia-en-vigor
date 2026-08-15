@@ -1,0 +1,97 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-23",
+  "topic_number": 23,
+  "slug": "derecho-fiscal",
+  "title": "Derecho fiscal",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-14",
+  "source_file": "conocimiento/guardia-civil/tema-23/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "editorial_reconstruction_from_official_consolidated_legislation"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-23-derecho-fiscal.md",
+    "atestado": "temas/guardia-civil/atestado/tema-23-derecho-fiscal.md"
+  },
+  "semantic_blocks": 14,
+  "atomic_facts": 989,
+  "master_statements": 989,
+  "coverage_file": "conocimiento/guardia-civil/tema-23/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T23",
+    "LO12-1995-T23",
+    "RD1649-1998-T23",
+    "UE952-2013-T23"
+  ],
+  "official_exam_items": [
+    "of-gc-p2023-1a-q099",
+    "of-gc-p2023-2a-q099",
+    "of-gc-p2023-1a-q100",
+    "of-gc-p2023-2a-q100",
+    "of-gc-p2024-2a-q098",
+    "of-gc-p2024-1a-q099",
+    "of-gc-p2024-2a-q099",
+    "of-gc-p2024-3a-q099",
+    "of-gc-p2024-1a-q100",
+    "of-gc-p2024-2a-q100",
+    "of-gc-p2024-3a-q100",
+    "of-gc-p2025-a-q097",
+    "of-gc-p2025-a-q098",
+    "of-gc-p2025-a-q099",
+    "of-gc-p2025-a-q100",
+    "of-gc-p2026-a-q096",
+    "of-gc-p2026-a-q097",
+    "of-gc-p2026-a-q098",
+    "of-gc-p2026-a-q099",
+    "of-gc-p2026-a-q100"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-23/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_juridico_operativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-23/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-23/manifest.json",
+    "questions": 1373,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-23/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-23/manifest.json",
+    "total": 15,
+    "planned": 15
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-23/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "checked_official_sources",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-23/revision-1.0.md"
+  }
+}
