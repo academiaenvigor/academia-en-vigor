@@ -1,0 +1,41 @@
+{
+  "id": "GC-T18-B11-B",
+  "titulo": "Tema 18 · Bloque 11: Cálculos con escalas lineales y superficiales · Test B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      11
+    ]
+  },
+  "numero_preguntas": 1,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0210",
+      "fact_id": "GC-T18-F117",
+      "bloque": 11,
+      "concepto": "Error típico de superficie",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Error típico de superficie?",
+      "opciones": {
+        "A": "Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.",
+        "B": "Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+        "C": "Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0210",
+      "respuesta_correcta": "C",
+      "explicacion": "Error típico de superficie: Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática.",
+      "fact_id": "GC-T18-F117",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

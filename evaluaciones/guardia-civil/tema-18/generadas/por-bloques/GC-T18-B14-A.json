@@ -1,0 +1,569 @@
+{
+  "id": "GC-T18-B14-A",
+  "titulo": "Tema 18 · Bloque 14: Sistema de planos acotados y curvas de nivel · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      14
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0247",
+      "fact_id": "GC-T18-F138",
+      "bloque": 14,
+      "concepto": "Sistema de planos acotados",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.»?",
+      "opciones": {
+        "A": "Sistema de planos acotados",
+        "B": "Plano de comparación",
+        "C": "Cota positiva"
+      }
+    },
+    {
+      "id": "GC-T18-Q0248",
+      "fact_id": "GC-T18-F139",
+      "bloque": 14,
+      "concepto": "Plano de comparación",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Plano de comparación.",
+      "opciones": {
+        "A": "Corresponde a un punto situado por encima del plano de comparación.",
+        "B": "Superficie horizontal de referencia desde la que se miden las cotas.",
+        "C": "Corresponde a un punto situado por debajo del plano de comparación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0246",
+      "fact_id": "GC-T18-F138",
+      "bloque": 14,
+      "concepto": "Sistema de planos acotados",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Sistema de planos acotados, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Superficie horizontal de referencia desde la que se miden las cotas.",
+        "B": "Corresponde a un punto situado por encima del plano de comparación.",
+        "C": "Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0250",
+      "fact_id": "GC-T18-F140",
+      "bloque": 14,
+      "concepto": "Cota positiva",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Corresponde a un punto situado por encima del plano de comparación.»?",
+      "opciones": {
+        "A": "Cota positiva",
+        "B": "Cota negativa",
+        "C": "Cota cero"
+      }
+    },
+    {
+      "id": "GC-T18-Q0251",
+      "fact_id": "GC-T18-F141",
+      "bloque": 14,
+      "concepto": "Cota negativa",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Cota negativa, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Corresponde a un punto contenido en el propio plano de comparación.",
+        "B": "Corresponde a un punto situado por debajo del plano de comparación.",
+        "C": "Línea que une puntos del terreno con la misma cota o altitud."
+      }
+    },
+    {
+      "id": "GC-T18-Q0249",
+      "fact_id": "GC-T18-F140",
+      "bloque": 14,
+      "concepto": "Cota positiva",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Cota positiva, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Corresponde a un punto situado por debajo del plano de comparación.",
+        "B": "Corresponde a un punto contenido en el propio plano de comparación.",
+        "C": "Corresponde a un punto situado por encima del plano de comparación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0253",
+      "fact_id": "GC-T18-F142",
+      "bloque": 14,
+      "concepto": "Cota cero",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Cota cero.",
+      "opciones": {
+        "A": "Corresponde a un punto contenido en el propio plano de comparación.",
+        "B": "Línea que une puntos del terreno con la misma cota o altitud.",
+        "C": "Otro nombre de la curva de nivel empleada para representar alturas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0254",
+      "fact_id": "GC-T18-F142",
+      "bloque": 14,
+      "concepto": "Cota cero",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Corresponde a un punto contenido en el propio plano de comparación.»?",
+      "opciones": {
+        "A": "Curva de nivel",
+        "B": "Cota cero",
+        "C": "Isohipsa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0252",
+      "fact_id": "GC-T18-F141",
+      "bloque": 14,
+      "concepto": "Cota negativa",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Corresponde a un punto situado por debajo del plano de comparación.»?",
+      "opciones": {
+        "A": "Cota cero",
+        "B": "Curva de nivel",
+        "C": "Cota negativa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0256",
+      "fact_id": "GC-T18-F143",
+      "bloque": 14,
+      "concepto": "Curva de nivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Línea que une puntos del terreno con la misma cota o altitud.»?",
+      "opciones": {
+        "A": "Curva de nivel",
+        "B": "Isohipsa",
+        "C": "Isóbata"
+      }
+    },
+    {
+      "id": "GC-T18-Q0257",
+      "fact_id": "GC-T18-F144",
+      "bloque": 14,
+      "concepto": "Isohipsa",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Isohipsa?",
+      "opciones": {
+        "A": "Línea que une puntos de igual profundidad bajo una superficie de referencia acuática.",
+        "B": "Otro nombre de la curva de nivel empleada para representar alturas.",
+        "C": "Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones."
+      }
+    },
+    {
+      "id": "GC-T18-Q0255",
+      "fact_id": "GC-T18-F143",
+      "bloque": 14,
+      "concepto": "Curva de nivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Curva de nivel?",
+      "opciones": {
+        "A": "Otro nombre de la curva de nivel empleada para representar alturas.",
+        "B": "Línea que une puntos de igual profundidad bajo una superficie de referencia acuática.",
+        "C": "Línea que une puntos del terreno con la misma cota o altitud."
+      }
+    },
+    {
+      "id": "GC-T18-Q0259",
+      "fact_id": "GC-T18-F145",
+      "bloque": 14,
+      "concepto": "Isóbata",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Isóbata, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Línea que une puntos de igual profundidad bajo una superficie de referencia acuática.",
+        "B": "Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones.",
+        "C": "Diferencia vertical constante de cota entre dos curvas de nivel consecutivas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0260",
+      "fact_id": "GC-T18-F146",
+      "bloque": 14,
+      "concepto": "Generación de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Generación de curvas?",
+      "opciones": {
+        "A": "Diferencia vertical constante de cota entre dos curvas de nivel consecutivas.",
+        "B": "Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones.",
+        "C": "Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0258",
+      "fact_id": "GC-T18-F144",
+      "bloque": 14,
+      "concepto": "Isohipsa",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Otro nombre de la curva de nivel empleada para representar alturas.»?",
+      "opciones": {
+        "A": "Isóbata",
+        "B": "Generación de curvas",
+        "C": "Isohipsa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0262",
+      "fact_id": "GC-T18-F147",
+      "bloque": 14,
+      "concepto": "Equidistancia",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Equidistancia?",
+      "opciones": {
+        "A": "Diferencia vertical constante de cota entre dos curvas de nivel consecutivas.",
+        "B": "Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal.",
+        "C": "Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0263",
+      "fact_id": "GC-T18-F147",
+      "bloque": 14,
+      "concepto": "Equidistancia",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Diferencia vertical constante de cota entre dos curvas de nivel consecutivas.»?",
+      "opciones": {
+        "A": "Curvas juntas",
+        "B": "Equidistancia",
+        "C": "Curvas separadas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0261",
+      "fact_id": "GC-T18-F146",
+      "bloque": 14,
+      "concepto": "Generación de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones.»?",
+      "opciones": {
+        "A": "Equidistancia",
+        "B": "Curvas juntas",
+        "C": "Generación de curvas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0265",
+      "fact_id": "GC-T18-F148",
+      "bloque": 14,
+      "concepto": "Curvas juntas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal.»?",
+      "opciones": {
+        "A": "Curvas juntas",
+        "B": "Curvas separadas",
+        "C": "Cierre de curvas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0266",
+      "fact_id": "GC-T18-F149",
+      "bloque": 14,
+      "concepto": "Curvas separadas",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Curvas separadas, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Toda curva de nivel es cerrada en el terreno, aunque pueda quedar cortada por el borde del mapa.",
+        "B": "Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal.",
+        "C": "En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan."
+      }
+    },
+    {
+      "id": "GC-T18-Q0264",
+      "fact_id": "GC-T18-F148",
+      "bloque": 14,
+      "concepto": "Curvas juntas",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Curvas juntas, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal.",
+        "B": "Toda curva de nivel es cerrada en el terreno, aunque pueda quedar cortada por el borde del mapa.",
+        "C": "Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0268",
+      "fact_id": "GC-T18-F150",
+      "bloque": 14,
+      "concepto": "Cierre de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Cierre de curvas.",
+      "opciones": {
+        "A": "Toda curva de nivel es cerrada en el terreno, aunque pueda quedar cortada por el borde del mapa.",
+        "B": "En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan.",
+        "C": "La tangencia o coincidencia aparente de curvas puede expresar una ruptura abrupta como un cantil."
+      }
+    },
+    {
+      "id": "GC-T18-Q0269",
+      "fact_id": "GC-T18-F151",
+      "bloque": 14,
+      "concepto": "Cruce de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Cruce de curvas, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "La tangencia o coincidencia aparente de curvas puede expresar una ruptura abrupta como un cantil.",
+        "B": "En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan.",
+        "C": "Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0267",
+      "fact_id": "GC-T18-F149",
+      "bloque": 14,
+      "concepto": "Curvas separadas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal.»?",
+      "opciones": {
+        "A": "Cierre de curvas",
+        "B": "Cruce de curvas",
+        "C": "Curvas separadas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0271",
+      "fact_id": "GC-T18-F152",
+      "bloque": 14,
+      "concepto": "Tangencia de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Tangencia de curvas, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "La tangencia o coincidencia aparente de curvas puede expresar una ruptura abrupta como un cantil.",
+        "B": "Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.",
+        "C": "Superficie horizontal de referencia desde la que se miden las cotas."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0247",
+      "respuesta_correcta": "A",
+      "explicacion": "Sistema de planos acotados: Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.",
+      "fact_id": "GC-T18-F138",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0248",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano de comparación: Superficie horizontal de referencia desde la que se miden las cotas.",
+      "fact_id": "GC-T18-F139",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0246",
+      "respuesta_correcta": "C",
+      "explicacion": "Sistema de planos acotados: Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.",
+      "fact_id": "GC-T18-F138",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0250",
+      "respuesta_correcta": "A",
+      "explicacion": "Cota positiva: Corresponde a un punto situado por encima del plano de comparación.",
+      "fact_id": "GC-T18-F140",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0251",
+      "respuesta_correcta": "B",
+      "explicacion": "Cota negativa: Corresponde a un punto situado por debajo del plano de comparación.",
+      "fact_id": "GC-T18-F141",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0249",
+      "respuesta_correcta": "C",
+      "explicacion": "Cota positiva: Corresponde a un punto situado por encima del plano de comparación.",
+      "fact_id": "GC-T18-F140",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0253",
+      "respuesta_correcta": "A",
+      "explicacion": "Cota cero: Corresponde a un punto contenido en el propio plano de comparación.",
+      "fact_id": "GC-T18-F142",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0254",
+      "respuesta_correcta": "B",
+      "explicacion": "Cota cero: Corresponde a un punto contenido en el propio plano de comparación.",
+      "fact_id": "GC-T18-F142",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0252",
+      "respuesta_correcta": "C",
+      "explicacion": "Cota negativa: Corresponde a un punto situado por debajo del plano de comparación.",
+      "fact_id": "GC-T18-F141",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0256",
+      "respuesta_correcta": "A",
+      "explicacion": "Curva de nivel: Línea que une puntos del terreno con la misma cota o altitud.",
+      "fact_id": "GC-T18-F143",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0257",
+      "respuesta_correcta": "B",
+      "explicacion": "Isohipsa: Otro nombre de la curva de nivel empleada para representar alturas.",
+      "fact_id": "GC-T18-F144",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0255",
+      "respuesta_correcta": "C",
+      "explicacion": "Curva de nivel: Línea que une puntos del terreno con la misma cota o altitud.",
+      "fact_id": "GC-T18-F143",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0259",
+      "respuesta_correcta": "A",
+      "explicacion": "Isóbata: Línea que une puntos de igual profundidad bajo una superficie de referencia acuática.",
+      "fact_id": "GC-T18-F145",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0260",
+      "respuesta_correcta": "B",
+      "explicacion": "Generación de curvas: Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones.",
+      "fact_id": "GC-T18-F146",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0258",
+      "respuesta_correcta": "C",
+      "explicacion": "Isohipsa: Otro nombre de la curva de nivel empleada para representar alturas.",
+      "fact_id": "GC-T18-F144",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0262",
+      "respuesta_correcta": "A",
+      "explicacion": "Equidistancia: Diferencia vertical constante de cota entre dos curvas de nivel consecutivas.",
+      "fact_id": "GC-T18-F147",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0263",
+      "respuesta_correcta": "B",
+      "explicacion": "Equidistancia: Diferencia vertical constante de cota entre dos curvas de nivel consecutivas.",
+      "fact_id": "GC-T18-F147",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0261",
+      "respuesta_correcta": "C",
+      "explicacion": "Generación de curvas: Se obtienen al cortar idealmente el terreno con planos horizontales paralelos y proyectar sus intersecciones.",
+      "fact_id": "GC-T18-F146",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0265",
+      "respuesta_correcta": "A",
+      "explicacion": "Curvas juntas: Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal.",
+      "fact_id": "GC-T18-F148",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0266",
+      "respuesta_correcta": "B",
+      "explicacion": "Curvas separadas: Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal.",
+      "fact_id": "GC-T18-F149",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0264",
+      "respuesta_correcta": "C",
+      "explicacion": "Curvas juntas: Indican una pendiente fuerte porque una misma diferencia de altura se salva en poca distancia horizontal.",
+      "fact_id": "GC-T18-F148",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0268",
+      "respuesta_correcta": "A",
+      "explicacion": "Cierre de curvas: Toda curva de nivel es cerrada en el terreno, aunque pueda quedar cortada por el borde del mapa.",
+      "fact_id": "GC-T18-F150",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0269",
+      "respuesta_correcta": "B",
+      "explicacion": "Cruce de curvas: En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan.",
+      "fact_id": "GC-T18-F151",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0267",
+      "respuesta_correcta": "C",
+      "explicacion": "Curvas separadas: Indican una pendiente suave porque la diferencia de altura se salva en mayor distancia horizontal.",
+      "fact_id": "GC-T18-F149",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0271",
+      "respuesta_correcta": "A",
+      "explicacion": "Tangencia de curvas: La tangencia o coincidencia aparente de curvas puede expresar una ruptura abrupta como un cantil.",
+      "fact_id": "GC-T18-F152",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

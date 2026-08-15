@@ -1,0 +1,41 @@
+{
+  "id": "GC-T18-B14-B",
+  "titulo": "Tema 18 · Bloque 14: Sistema de planos acotados y curvas de nivel · Test B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      14
+    ]
+  },
+  "numero_preguntas": 1,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0270",
+      "fact_id": "GC-T18-F151",
+      "bloque": 14,
+      "concepto": "Cruce de curvas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan.»?",
+      "opciones": {
+        "A": "Tangencia de curvas",
+        "B": "Sistema de planos acotados",
+        "C": "Cruce de curvas"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0270",
+      "respuesta_correcta": "C",
+      "explicacion": "Cruce de curvas: En la representación ordinaria, las curvas de nivel no se cruzan ni se bifurcan.",
+      "fact_id": "GC-T18-F151",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

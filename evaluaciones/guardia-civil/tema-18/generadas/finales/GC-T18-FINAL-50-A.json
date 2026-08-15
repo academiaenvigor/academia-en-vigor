@@ -1,0 +1,1136 @@
+{
+  "id": "GC-T18-FINAL-50-A",
+  "titulo": "Tema 18 · Topografía · Test final A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_final",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "numero_preguntas": 50,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0004",
+      "fact_id": "GC-T18-F003",
+      "bloque": 1,
+      "concepto": "Regla de homogeneidad",
+      "articulo": "Método de cálculo",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Regla de homogeneidad, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "Las superficies cambian con el cuadrado del denominador de la escala."
+      }
+    },
+    {
+      "id": "GC-T18-Q0044",
+      "fact_id": "GC-T18-F028",
+      "bloque": 4,
+      "concepto": "Meridiano de Greenwich",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Meridiano de Greenwich, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "B": "Meridiano adoptado como origen para medir longitudes geográficas.",
+        "C": "Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "fact_id": "GC-T18-F002",
+      "bloque": 1,
+      "concepto": "Bloque único",
+      "articulo": "Epígrafe oficial",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Bloque único.",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "fact_id": "GC-T18-F011",
+      "bloque": 2,
+      "concepto": "Planimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.»?",
+      "opciones": {
+        "A": "Planimetría",
+        "B": "Proyección planimétrica",
+        "C": "Altimetría"
+      }
+    },
+    {
+      "id": "GC-T18-Q0227",
+      "fact_id": "GC-T18-F128",
+      "bloque": 13,
+      "concepto": "Distancia real o topográfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Distancia real o topográfica?",
+      "opciones": {
+        "A": "Diferencia vertical de altura o cota entre dos puntos.",
+        "B": "Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+        "C": "Distancia vertical de un punto respecto del plano horizontal de referencia adoptado."
+      }
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "fact_id": "GC-T18-F009",
+      "bloque": 2,
+      "concepto": "Topografía",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Topografía?",
+      "opciones": {
+        "A": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+        "B": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+        "C": "Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "fact_id": "GC-T18-F019",
+      "bloque": 3,
+      "concepto": "Polo Norte",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Polo Norte, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "B": "Extremo austral del eje terrestre, situado en el continente antártico.",
+        "C": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra."
+      }
+    },
+    {
+      "id": "GC-T18-Q0020",
+      "fact_id": "GC-T18-F012",
+      "bloque": 2,
+      "concepto": "Proyección planimétrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Proyección planimétrica?",
+      "opciones": {
+        "A": "Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.",
+        "B": "Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación.",
+        "C": "Denominación vinculada a la medición y representación de las alturas del terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "fact_id": "GC-T18-F017",
+      "bloque": 3,
+      "concepto": "Eje terrestre",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Eje terrestre?",
+      "opciones": {
+        "A": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "B": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "C": "Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0067",
+      "fact_id": "GC-T18-F042",
+      "bloque": 5,
+      "concepto": "Oeste",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Oeste?",
+      "opciones": {
+        "A": "Punto cardinal denominado también occidente o poniente.",
+        "B": "Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+        "C": "Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0032",
+      "fact_id": "GC-T18-F020",
+      "bloque": 3,
+      "concepto": "Polo Sur",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Polo Sur?",
+      "opciones": {
+        "A": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra.",
+        "B": "Extremo austral del eje terrestre, situado en el continente antártico.",
+        "C": "Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "fact_id": "GC-T18-F027",
+      "bloque": 4,
+      "concepto": "Meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Meridiano?",
+      "opciones": {
+        "A": "Meridiano adoptado como origen para medir longitudes geográficas.",
+        "B": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "C": "Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro."
+      }
+    },
+    {
+      "id": "GC-T18-Q0082",
+      "fact_id": "GC-T18-F050",
+      "bloque": 6,
+      "concepto": "Rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Rumbo?",
+      "opciones": {
+        "A": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "B": "El rumbo toma como referencia el norte magnético.",
+        "C": "En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados."
+      }
+    },
+    {
+      "id": "GC-T18-Q0068",
+      "fact_id": "GC-T18-F043",
+      "bloque": 5,
+      "concepto": "Norte geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Norte geográfico.",
+      "opciones": {
+        "A": "Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.",
+        "B": "Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+        "C": "Ángulo existente en un lugar entre el norte geográfico y el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "fact_id": "GC-T18-F038",
+      "bloque": 5,
+      "concepto": "Meridiana",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Meridiana.",
+      "opciones": {
+        "A": "Punto cardinal también denominado septentrión.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "fact_id": "GC-T18-F061",
+      "bloque": 7,
+      "concepto": "Kilómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Kilómetro.",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 1 000 metros.",
+        "B": "Múltiplo del metro equivalente a 100 metros.",
+        "C": "Múltiplo del metro equivalente a 10 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0101",
+      "fact_id": "GC-T18-F060",
+      "bloque": 7,
+      "concepto": "Definición operacional del metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Definición operacional del metro, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 1 000 metros.",
+        "B": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+        "C": "Múltiplo del metro equivalente a 100 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "fact_id": "GC-T18-F048",
+      "bloque": 6,
+      "concepto": "Acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Acimut.",
+      "opciones": {
+        "A": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "B": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "C": "Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario."
+      }
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "fact_id": "GC-T18-F073",
+      "bloque": 8,
+      "concepto": "Circunferencia sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Circunferencia sexagesimal, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Una vuelta completa contiene 360 grados sexagesimales.",
+        "B": "Cada grado sexagesimal se divide en 60 minutos.",
+        "C": "Cada minuto sexagesimal se divide en 60 segundos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0215",
+      "fact_id": "GC-T18-F120",
+      "bloque": 12,
+      "concepto": "Plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Plano?",
+      "opciones": {
+        "A": "Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso.",
+        "B": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+        "C": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa."
+      }
+    },
+    {
+      "id": "GC-T18-Q0099",
+      "fact_id": "GC-T18-F059",
+      "bloque": 7,
+      "concepto": "Metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Metro, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+        "B": "Múltiplo del metro equivalente a 1 000 metros.",
+        "C": "Unidad básica de longitud del Sistema Internacional, símbolo m."
+      }
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "fact_id": "GC-T18-F085",
+      "bloque": 9,
+      "concepto": "Ángulo llano en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Ángulo llano en radianes.",
+      "opciones": {
+        "A": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "B": "Noventa grados sexagesimales equivalen a π/2 radianes.",
+        "C": "Unidad angular definida, en el convenio del temario, como la milésima parte de un radián."
+      }
+    },
+    {
+      "id": "GC-T18-Q0251",
+      "fact_id": "GC-T18-F141",
+      "bloque": 14,
+      "concepto": "Cota negativa",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Cota negativa, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Corresponde a un punto contenido en el propio plano de comparación.",
+        "B": "Corresponde a un punto situado por debajo del plano de comparación.",
+        "C": "Línea que une puntos del terreno con la misma cota o altitud."
+      }
+    },
+    {
+      "id": "GC-T18-Q0123",
+      "fact_id": "GC-T18-F072",
+      "bloque": 8,
+      "concepto": "Grado sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad obtenida al dividir el ángulo recto en 90 partes iguales.»?",
+      "opciones": {
+        "A": "Circunferencia sexagesimal",
+        "B": "Minuto sexagesimal",
+        "C": "Grado sexagesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "fact_id": "GC-T18-F097",
+      "bloque": 10,
+      "concepto": "Numerador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Numerador de la escala?",
+      "opciones": {
+        "A": "Representa una unidad medida en el plano.",
+        "B": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.",
+        "C": "Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor."
+      }
+    },
+    {
+      "id": "GC-T18-Q0144",
+      "fact_id": "GC-T18-F083",
+      "bloque": 9,
+      "concepto": "Radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Radián, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Una circunferencia completa contiene 2π radianes.",
+        "B": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "C": "Ángulo central que abarca un arco de longitud igual al radio de la circunferencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "fact_id": "GC-T18-F107",
+      "bloque": 11,
+      "concepto": "Denominador desconocido",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Denominador desconocido?",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "B": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.",
+        "C": "Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0168",
+      "fact_id": "GC-T18-F095",
+      "bloque": 10,
+      "concepto": "Escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Escala.",
+      "opciones": {
+        "A": "Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+        "B": "Representa una unidad medida en el plano.",
+        "C": "Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "fact_id": "GC-T18-F122",
+      "bloque": 12,
+      "concepto": "Croquis",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Croquis?",
+      "opciones": {
+        "A": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+        "B": "Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida.",
+        "C": "Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0186",
+      "fact_id": "GC-T18-F105",
+      "bloque": 11,
+      "concepto": "Distancia real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Distancia real desde el plano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+        "B": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "C": "Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0250",
+      "fact_id": "GC-T18-F140",
+      "bloque": 14,
+      "concepto": "Cota positiva",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Corresponde a un punto situado por encima del plano de comparación.»?",
+      "opciones": {
+        "A": "Cota positiva",
+        "B": "Cota negativa",
+        "C": "Cota cero"
+      }
+    },
+    {
+      "id": "GC-T18-Q0213",
+      "fact_id": "GC-T18-F119",
+      "bloque": 12,
+      "concepto": "Mapa topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Mapa topográfico.",
+      "opciones": {
+        "A": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+        "B": "Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso.",
+        "C": "Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0277",
+      "fact_id": "GC-T18-F155",
+      "bloque": 15,
+      "concepto": "Incremento de cota",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Es la fracción de avance multiplicada por la equidistancia.»?",
+      "opciones": {
+        "A": "Incremento de cota",
+        "B": "Cota interpolada",
+        "C": "Pendiente decimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "fact_id": "GC-T18-F127",
+      "bloque": 13,
+      "concepto": "Distancia geométrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Distancia geométrica?",
+      "opciones": {
+        "A": "Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+        "B": "Diferencia vertical de altura o cota entre dos puntos.",
+        "C": "Longitud en línea recta entre dos puntos considerados en el espacio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0295",
+      "fact_id": "GC-T18-F167",
+      "bloque": 16,
+      "concepto": "Terreno compacto",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Terreno compacto?",
+      "opciones": {
+        "A": "Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad.",
+        "B": "Contiene abundancia de piedras o fragmentos rocosos que dificultan el desplazamiento.",
+        "C": "Está formado predominantemente por arena y puede ofrecer poca cohesión."
+      }
+    },
+    {
+      "id": "GC-T18-Q0246",
+      "fact_id": "GC-T18-F138",
+      "bloque": 14,
+      "concepto": "Sistema de planos acotados",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Sistema de planos acotados, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Superficie horizontal de referencia desde la que se miden las cotas.",
+        "B": "Corresponde a un punto situado por encima del plano de comparación.",
+        "C": "Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0307",
+      "fact_id": "GC-T18-F178",
+      "bloque": 17,
+      "concepto": "Vaguada",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Vaguada?",
+      "opciones": {
+        "A": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+        "B": "Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada.",
+        "C": "Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce."
+      }
+    },
+    {
+      "id": "GC-T18-Q0273",
+      "fact_id": "GC-T18-F153",
+      "bloque": 15,
+      "concepto": "Interpolación lineal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.»?",
+      "opciones": {
+        "A": "Fracción de avance",
+        "B": "Incremento de cota",
+        "C": "Interpolación lineal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0328",
+      "fact_id": "GC-T18-F191",
+      "bloque": 18,
+      "concepto": "Garganta",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Garganta.",
+      "opciones": {
+        "A": "Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Agrupación compacta de montañas sin una única dirección general obligatoria."
+      }
+    },
+    {
+      "id": "GC-T18-Q0291",
+      "fact_id": "GC-T18-F163",
+      "bloque": 16,
+      "concepto": "Terreno llano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Terreno llano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Presenta pendientes pequeñas y escasas variaciones de cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0046",
+      "fact_id": "GC-T18-F029",
+      "bloque": 4,
+      "concepto": "Antimeridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Antimeridiano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "B": "Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.",
+        "C": "Todos los puntos de un mismo paralelo tienen la misma latitud."
+      }
+    },
+    {
+      "id": "GC-T18-Q0303",
+      "fact_id": "GC-T18-F175",
+      "bloque": 17,
+      "concepto": "Ladera",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Ladera.",
+      "opciones": {
+        "A": "Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Superficie inclinada comprendida entre una zona alta y otra baja del relieve."
+      }
+    },
+    {
+      "id": "GC-T18-Q0229",
+      "fact_id": "GC-T18-F129",
+      "bloque": 13,
+      "concepto": "Desnivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Desnivel, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Diferencia vertical de altura o cota entre dos puntos.",
+        "B": "Distancia vertical de un punto respecto del plano horizontal de referencia adoptado.",
+        "C": "Cota referida al nivel medio del mar establecido como referencia altimétrica."
+      }
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "fact_id": "GC-T18-F190",
+      "bloque": 18,
+      "concepto": "Barranco",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Barranco?",
+      "opciones": {
+        "A": "Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Vaguada profunda y encajada excavada por la erosión o el agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0006",
+      "fact_id": "GC-T18-F004",
+      "bloque": 1,
+      "concepto": "Regla de escala lineal",
+      "articulo": "Método de cálculo",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Regla de escala lineal, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Las superficies cambian con el cuadrado del denominador de la escala.",
+        "B": "No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+        "C": "Las longitudes cambian con el denominador de la escala en primera potencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0081",
+      "fact_id": "GC-T18-F049",
+      "bloque": 6,
+      "concepto": "Origen del acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El acimut toma como referencia el norte geográfico o verdadero.»?",
+      "opciones": {
+        "A": "Rumbo",
+        "B": "Origen del rumbo",
+        "C": "Origen del acimut"
+      }
+    },
+    {
+      "id": "GC-T18-Q0126",
+      "fact_id": "GC-T18-F074",
+      "bloque": 8,
+      "concepto": "Minuto sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Minuto sexagesimal, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Cada minuto sexagesimal se divide en 60 segundos.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+        "C": "Cada grado sexagesimal se divide en 60 minutos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0147",
+      "fact_id": "GC-T18-F084",
+      "bloque": 9,
+      "concepto": "Vuelta en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Una circunferencia completa contiene 2π radianes.»?",
+      "opciones": {
+        "A": "Ángulo llano en radianes",
+        "B": "Ángulo recto en radianes",
+        "C": "Vuelta en radianes"
+      }
+    },
+    {
+      "id": "GC-T18-Q0171",
+      "fact_id": "GC-T18-F096",
+      "bloque": 10,
+      "concepto": "Escala numérica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.»?",
+      "opciones": {
+        "A": "Numerador de la escala",
+        "B": "Denominador de la escala",
+        "C": "Escala numérica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0189",
+      "fact_id": "GC-T18-F106",
+      "bloque": 11,
+      "concepto": "Distancia en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.»?",
+      "opciones": {
+        "A": "Denominador desconocido",
+        "B": "Ejemplo 1:25 000",
+        "C": "Distancia en el plano"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0004",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de homogeneidad: Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+      "fact_id": "GC-T18-F003",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0044",
+      "respuesta_correcta": "B",
+      "explicacion": "Meridiano de Greenwich: Meridiano adoptado como origen para medir longitudes geográficas.",
+      "fact_id": "GC-T18-F028",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Bloque único: El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio.",
+      "fact_id": "GC-T18-F002",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "respuesta_correcta": "A",
+      "explicacion": "Planimetría: Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+      "fact_id": "GC-T18-F011",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0227",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia real o topográfica: Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+      "fact_id": "GC-T18-F128",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "respuesta_correcta": "C",
+      "explicacion": "Topografía: Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+      "fact_id": "GC-T18-F009",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "respuesta_correcta": "A",
+      "explicacion": "Polo Norte: Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+      "fact_id": "GC-T18-F019",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0020",
+      "respuesta_correcta": "B",
+      "explicacion": "Proyección planimétrica: Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación.",
+      "fact_id": "GC-T18-F012",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "respuesta_correcta": "C",
+      "explicacion": "Eje terrestre: Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.",
+      "fact_id": "GC-T18-F017",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0067",
+      "respuesta_correcta": "A",
+      "explicacion": "Oeste: Punto cardinal denominado también occidente o poniente.",
+      "fact_id": "GC-T18-F042",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0032",
+      "respuesta_correcta": "B",
+      "explicacion": "Polo Sur: Extremo austral del eje terrestre, situado en el continente antártico.",
+      "fact_id": "GC-T18-F020",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiano: Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.",
+      "fact_id": "GC-T18-F027",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0082",
+      "respuesta_correcta": "A",
+      "explicacion": "Rumbo: Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+      "fact_id": "GC-T18-F050",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0068",
+      "respuesta_correcta": "B",
+      "explicacion": "Norte geográfico: Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+      "fact_id": "GC-T18-F043",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiana: Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur.",
+      "fact_id": "GC-T18-F038",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "respuesta_correcta": "A",
+      "explicacion": "Kilómetro: Múltiplo del metro equivalente a 1 000 metros.",
+      "fact_id": "GC-T18-F061",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0101",
+      "respuesta_correcta": "B",
+      "explicacion": "Definición operacional del metro: El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+      "fact_id": "GC-T18-F060",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "respuesta_correcta": "C",
+      "explicacion": "Acimut: Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.",
+      "fact_id": "GC-T18-F048",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "respuesta_correcta": "A",
+      "explicacion": "Circunferencia sexagesimal: Una vuelta completa contiene 360 grados sexagesimales.",
+      "fact_id": "GC-T18-F073",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0215",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano: Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+      "fact_id": "GC-T18-F120",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0099",
+      "respuesta_correcta": "C",
+      "explicacion": "Metro: Unidad básica de longitud del Sistema Internacional, símbolo m.",
+      "fact_id": "GC-T18-F059",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo llano en radianes: Ciento ochenta grados sexagesimales equivalen a π radianes.",
+      "fact_id": "GC-T18-F085",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0251",
+      "respuesta_correcta": "B",
+      "explicacion": "Cota negativa: Corresponde a un punto situado por debajo del plano de comparación.",
+      "fact_id": "GC-T18-F141",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0123",
+      "respuesta_correcta": "C",
+      "explicacion": "Grado sexagesimal: Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+      "fact_id": "GC-T18-F072",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "respuesta_correcta": "A",
+      "explicacion": "Numerador de la escala: Representa una unidad medida en el plano.",
+      "fact_id": "GC-T18-F097",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0144",
+      "respuesta_correcta": "C",
+      "explicacion": "Radián: Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+      "fact_id": "GC-T18-F083",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "respuesta_correcta": "A",
+      "explicacion": "Denominador desconocido: Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+      "fact_id": "GC-T18-F107",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0168",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala: Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+      "fact_id": "GC-T18-F095",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "respuesta_correcta": "A",
+      "explicacion": "Croquis: Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+      "fact_id": "GC-T18-F122",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0186",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia real desde el plano: Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F105",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0250",
+      "respuesta_correcta": "A",
+      "explicacion": "Cota positiva: Corresponde a un punto situado por encima del plano de comparación.",
+      "fact_id": "GC-T18-F140",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0213",
+      "respuesta_correcta": "C",
+      "explicacion": "Mapa topográfico: Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+      "fact_id": "GC-T18-F119",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0277",
+      "respuesta_correcta": "A",
+      "explicacion": "Incremento de cota: Es la fracción de avance multiplicada por la equidistancia.",
+      "fact_id": "GC-T18-F155",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia geométrica: Longitud en línea recta entre dos puntos considerados en el espacio.",
+      "fact_id": "GC-T18-F127",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0295",
+      "respuesta_correcta": "A",
+      "explicacion": "Terreno compacto: Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad.",
+      "fact_id": "GC-T18-F167",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0246",
+      "respuesta_correcta": "C",
+      "explicacion": "Sistema de planos acotados: Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.",
+      "fact_id": "GC-T18-F138",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0307",
+      "respuesta_correcta": "A",
+      "explicacion": "Vaguada: Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+      "fact_id": "GC-T18-F178",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0273",
+      "respuesta_correcta": "C",
+      "explicacion": "Interpolación lineal: Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+      "fact_id": "GC-T18-F153",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0328",
+      "respuesta_correcta": "A",
+      "explicacion": "Garganta: Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+      "fact_id": "GC-T18-F191",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0291",
+      "respuesta_correcta": "C",
+      "explicacion": "Terreno llano: Presenta pendientes pequeñas y escasas variaciones de cota.",
+      "fact_id": "GC-T18-F163",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0046",
+      "respuesta_correcta": "A",
+      "explicacion": "Antimeridiano: Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+      "fact_id": "GC-T18-F029",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0303",
+      "respuesta_correcta": "C",
+      "explicacion": "Ladera: Superficie inclinada comprendida entre una zona alta y otra baja del relieve.",
+      "fact_id": "GC-T18-F175",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0229",
+      "respuesta_correcta": "A",
+      "explicacion": "Desnivel: Diferencia vertical de altura o cota entre dos puntos.",
+      "fact_id": "GC-T18-F129",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "respuesta_correcta": "C",
+      "explicacion": "Barranco: Vaguada profunda y encajada excavada por la erosión o el agua.",
+      "fact_id": "GC-T18-F190",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0006",
+      "respuesta_correcta": "C",
+      "explicacion": "Regla de escala lineal: Las longitudes cambian con el denominador de la escala en primera potencia.",
+      "fact_id": "GC-T18-F004",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0081",
+      "respuesta_correcta": "C",
+      "explicacion": "Origen del acimut: El acimut toma como referencia el norte geográfico o verdadero.",
+      "fact_id": "GC-T18-F049",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0126",
+      "respuesta_correcta": "C",
+      "explicacion": "Minuto sexagesimal: Cada grado sexagesimal se divide en 60 minutos.",
+      "fact_id": "GC-T18-F074",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0147",
+      "respuesta_correcta": "C",
+      "explicacion": "Vuelta en radianes: Una circunferencia completa contiene 2π radianes.",
+      "fact_id": "GC-T18-F084",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0171",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala numérica: Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+      "fact_id": "GC-T18-F096",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0189",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia en el plano: Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F106",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

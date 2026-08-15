@@ -1,0 +1,713 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 18,
+  "titulo": "Topografía",
+  "generated_at": "2026-08-14",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las operaciones se han contrastado con unidades homogéneas y la convención angular empleada por el temario.",
+  "total_referencias": 32,
+  "con_bloque_asignado": 32,
+  "con_respuesta_verificada": 32,
+  "en_cuarentena": 0,
+  "por_bloque": {
+    "2": 1,
+    "4": 2,
+    "6": 3,
+    "7": 1,
+    "8": 2,
+    "9": 2,
+    "11": 10,
+    "13": 2,
+    "15": 4,
+    "17": 2,
+    "18": 3
+  },
+  "por_promocion": {
+    "2020": 5,
+    "2021": 4,
+    "2022": 8,
+    "2023": 2,
+    "2024": 9,
+    "2025": 2,
+    "2026": 2
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-2a-q087",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 87,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T18-F158"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Calcular la pendiente entre dos puntos A y B cuya distancia horizontal es de 2000 metros sí el punto A esla a una altitud de 250 metros y el B esla a una altitud de 400 metros",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q088",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 88,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F111"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Una misma zona del terreno está representada en dos mapas de escalas diferentes. La misma distancia AB del terreno mide en el mapa «A» 0,15 m y en el mapa «B» 0,2 m. Si este último tiene una escala 1/15.000, ¿cuál sería la escala en el mapa «A»?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q088",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 88,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T18-F135"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Halle la diferencia de nivel entre dos puntos separados en un plano de escala 1/1000 por una distancia reducida de 0,02 metros y en el terreno por una distancia geométrica de 40 metros.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q089",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 89,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T18-F135"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Hallar la diferencia de nivel entre dos puntos a los que les separa en un plano de escala 1/1000 una distancia reducida de 0,02 metros y en el terreno una distancia geométrica de 25 metros.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2020-2a-q089",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 89,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F107"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. La distancia horizontal entre las porterías de un campo de fútbol es de 120 metros. Si esa distancia esla representada en un plano por una longitud de 8 milímetros,,cual es la escala del plano?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q089",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 89,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T18-F159"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Si la pendiente entre dos puntos A y B es de un 6%, la distancia horizontal entre ellos es de 1200 metros y el punto A está a una altitud de 200 metros, ¿a qué altitud estará el punto B?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q089",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 89,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F105"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Si la distancia entre dos puntos en un plano de escala 1:50000 es de 6 milímetros. ¿Cuál es su distancia horizontal en el terreno?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q090",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 90,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F107"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Si la distancia entre dos puntos A y B en un plano es de 8 cms. y su distancia horizontal en el terreno es de 4 Km. ¿Cuál es la escala del plano?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q090",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 90,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T18-F178"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cómo se denomina la unión, por su parte inferior, de dos laderas opuestas, que recibe las aguas de dichas laderas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q090",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 90,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T18-F050"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cómo se denomina el ángulo que forma el Norte magnético con una dirección determinada medido desde el Norte magnético a dicha dirección en el sentido de las agujas del reloj?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q090",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 90,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T18-F030"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cómo se denominan las líneas de intersección con la superficie terrestre de todo plano perpendicular al eje terrestre?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q091",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 91,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T18-F011"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cuál es la ciencia que estudia el conjunto de métodos y procedimientos que tienden a conseguir la representación a escala, sobre una superficie plana, de todos los detalles interesantes del terreno, prescindiendo de su relieve?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q091",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 91,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T18-F198"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Accidentes del Terreno. De las siguientes opciones, señale la INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q091",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 91,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F111"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Una misma zona del terreno está representada en dos planos de escalas diferentes. La misma distancia AB del terreno mide en uno de los planos 0’08 m. y en el otro 0’12 m. Si este último tiene una escala 1/10.000, ¿cuál sería la escala del primero?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q092",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 92,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T18-F182"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Con respecto a la interpretación de un mapa topográfico, ¿qué es un collado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q092",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 92,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F114"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Una superficie en un plano tiene 4 cm2 y en el terreno 1 Hm2. ¿Cuál es la escala del plano?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q093",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 93,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T18-F156"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Dos curvas de nivel consecutivas A y B con una pendiente constante y cuya equidistancia es de 20 metros, se hallan separadas en el plano 6 milímetros. Si la curva de nivel A, de 440 metros de altitud, es de menor cota que la B, ¿cuál es la cota de un punto P que se halla situado entre ellas y que dista de la curva A 2,7 milímetros?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q088",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 88,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T18-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Reducir a radianes el ángulo 97g 49m 16s dado en el sistema centesimal.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q088",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 88,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T18-F090"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Reducir a milésimas el ángulo 6º 41’ 12” dado en el sistema sexagesimal.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q085",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 85,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T18-F072"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. En relación a las unidades de medida, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q086",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 86,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T18-F048"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cuál es la definición de acimut de una dirección?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q086",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 86,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T18-F203"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. En relación con los accidentes del terreno, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q086",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 86,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T18-F196"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cómo se denomina al punto de unión de dos cursos de agua?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q087",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 87,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T18-F054"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Respecto de una dirección AB, ¿cómo se denomina el ángulo que forma el Norte magnético con la dirección opuesta BA, contando desde el Norte magnético a la dirección opuesta BA, en el sentido de las agujas del reloj?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q087",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 87,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F115"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. La huerta de mis padres ocupa sobre el terreno una superficie de 600 m2. ¿Qué superficie ocupará en un plano a escala 1:2000?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q087",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 87,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F110"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Hallar, en un plano a escala 1/100.000, la separación entre dos puntos, sabiendo que en el terreno están a 85 km de distancia en línea recta?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q088",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 88,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F109"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Qué distancia reducida u horizontal tendrá la fachada de una casa que en un plano a escala 1/800 mide 10 cm?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q088",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 88,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T18-F161"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Sobre el terreno, el punto A tiene una cota de 800 metros y el punto B, de 1400 metros. La distancia reducida u horizontal entre ambos es de 1500 metros. ¿Cuál es el valor de la pendiente que los une, si damos un paseo desde A hasta B?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q086",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 86,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T18-F060"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. ¿Cuál es la unidad de medida lineal que se define como la longitud recorrida en el vacío por un rayo de luz en 1/299792458 segundos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q087",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 87,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T18-F035"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. Con respecto a los elementos geográficos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q084",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 84,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T18-F108"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. La distancia entre dos puntos en el terreno es de 500 metros, ¿cuál es la separación de esos dos puntos en un plano con una escala 1:25.000?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q085",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 85,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T18-F076"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Topografía. En relación con las Unidades de Medida, señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; cálculo o concepto contrastado con la fuente temática."
+    }
+  ]
+}

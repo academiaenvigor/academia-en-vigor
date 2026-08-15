@@ -1,0 +1,283 @@
+{
+  "id": "GC-T18-B16-A",
+  "titulo": "Tema 18 · Bloque 16: Clases del terreno · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      16
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0292",
+      "fact_id": "GC-T18-F164",
+      "bloque": 16,
+      "concepto": "Terreno ondulado",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Terreno ondulado?",
+      "opciones": {
+        "A": "Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel."
+      }
+    },
+    {
+      "id": "GC-T18-Q0293",
+      "fact_id": "GC-T18-F165",
+      "bloque": 16,
+      "concepto": "Terreno montañoso",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Terreno montañoso.",
+      "opciones": {
+        "A": "Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad."
+      }
+    },
+    {
+      "id": "GC-T18-Q0291",
+      "fact_id": "GC-T18-F163",
+      "bloque": 16,
+      "concepto": "Terreno llano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Terreno llano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Presenta pendientes pequeñas y escasas variaciones de cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0295",
+      "fact_id": "GC-T18-F167",
+      "bloque": 16,
+      "concepto": "Terreno compacto",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Terreno compacto?",
+      "opciones": {
+        "A": "Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad.",
+        "B": "Contiene abundancia de piedras o fragmentos rocosos que dificultan el desplazamiento.",
+        "C": "Está formado predominantemente por arena y puede ofrecer poca cohesión."
+      }
+    },
+    {
+      "id": "GC-T18-Q0296",
+      "fact_id": "GC-T18-F168",
+      "bloque": 16,
+      "concepto": "Terreno pedregoso",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Terreno pedregoso, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Está formado predominantemente por arena y puede ofrecer poca cohesión.",
+        "B": "Contiene abundancia de piedras o fragmentos rocosos que dificultan el desplazamiento.",
+        "C": "Posee materiales poco cohesionados que se desplazan con facilidad."
+      }
+    },
+    {
+      "id": "GC-T18-Q0294",
+      "fact_id": "GC-T18-F166",
+      "bloque": 16,
+      "concepto": "Terreno escarpado",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Terreno escarpado, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad.",
+        "B": "Contiene abundancia de piedras o fragmentos rocosos que dificultan el desplazamiento.",
+        "C": "Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel."
+      }
+    },
+    {
+      "id": "GC-T18-Q0298",
+      "fact_id": "GC-T18-F170",
+      "bloque": 16,
+      "concepto": "Terreno suelto",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Terreno suelto.",
+      "opciones": {
+        "A": "Posee materiales poco cohesionados que se desplazan con facilidad.",
+        "B": "Está saturado de agua y ofrece escasa capacidad portante.",
+        "C": "Distingue llano, ondulado, montañoso y escarpado atendiendo a pendientes y desniveles."
+      }
+    },
+    {
+      "id": "GC-T18-Q0299",
+      "fact_id": "GC-T18-F171",
+      "bloque": 16,
+      "concepto": "Terreno pantanoso",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Terreno pantanoso, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Distingue llano, ondulado, montañoso y escarpado atendiendo a pendientes y desniveles.",
+        "B": "Está saturado de agua y ofrece escasa capacidad portante.",
+        "C": "Atiende a la composición y consistencia física del suelo."
+      }
+    },
+    {
+      "id": "GC-T18-Q0297",
+      "fact_id": "GC-T18-F169",
+      "bloque": 16,
+      "concepto": "Terreno arenoso",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Terreno arenoso?",
+      "opciones": {
+        "A": "Posee materiales poco cohesionados que se desplazan con facilidad.",
+        "B": "Está saturado de agua y ofrece escasa capacidad portante.",
+        "C": "Está formado predominantemente por arena y puede ofrecer poca cohesión."
+      }
+    },
+    {
+      "id": "GC-T18-Q0301",
+      "fact_id": "GC-T18-F173",
+      "bloque": 16,
+      "concepto": "Clasificación por naturaleza",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Clasificación por naturaleza, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Atiende a la composición y consistencia física del suelo.",
+        "B": "La clase de terreno condiciona visibilidad, movilidad, itinerarios y elección de puntos de observación.",
+        "C": "Presenta pendientes pequeñas y escasas variaciones de cota."
+      }
+    },
+    {
+      "id": "GC-T18-Q0302",
+      "fact_id": "GC-T18-F174",
+      "bloque": 16,
+      "concepto": "Finalidad operativa",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Finalidad operativa?",
+      "opciones": {
+        "A": "Presenta pendientes pequeñas y escasas variaciones de cota.",
+        "B": "La clase de terreno condiciona visibilidad, movilidad, itinerarios y elección de puntos de observación.",
+        "C": "Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0300",
+      "fact_id": "GC-T18-F172",
+      "bloque": 16,
+      "concepto": "Clasificación por relieve",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Clasificación por relieve?",
+      "opciones": {
+        "A": "Atiende a la composición y consistencia física del suelo.",
+        "B": "La clase de terreno condiciona visibilidad, movilidad, itinerarios y elección de puntos de observación.",
+        "C": "Distingue llano, ondulado, montañoso y escarpado atendiendo a pendientes y desniveles."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0292",
+      "respuesta_correcta": "A",
+      "explicacion": "Terreno ondulado: Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+      "fact_id": "GC-T18-F164",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0293",
+      "respuesta_correcta": "B",
+      "explicacion": "Terreno montañoso: Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+      "fact_id": "GC-T18-F165",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0291",
+      "respuesta_correcta": "C",
+      "explicacion": "Terreno llano: Presenta pendientes pequeñas y escasas variaciones de cota.",
+      "fact_id": "GC-T18-F163",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0295",
+      "respuesta_correcta": "A",
+      "explicacion": "Terreno compacto: Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad.",
+      "fact_id": "GC-T18-F167",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0296",
+      "respuesta_correcta": "B",
+      "explicacion": "Terreno pedregoso: Contiene abundancia de piedras o fragmentos rocosos que dificultan el desplazamiento.",
+      "fact_id": "GC-T18-F168",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0294",
+      "respuesta_correcta": "C",
+      "explicacion": "Terreno escarpado: Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel.",
+      "fact_id": "GC-T18-F166",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0298",
+      "respuesta_correcta": "A",
+      "explicacion": "Terreno suelto: Posee materiales poco cohesionados que se desplazan con facilidad.",
+      "fact_id": "GC-T18-F170",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0299",
+      "respuesta_correcta": "B",
+      "explicacion": "Terreno pantanoso: Está saturado de agua y ofrece escasa capacidad portante.",
+      "fact_id": "GC-T18-F171",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0297",
+      "respuesta_correcta": "C",
+      "explicacion": "Terreno arenoso: Está formado predominantemente por arena y puede ofrecer poca cohesión.",
+      "fact_id": "GC-T18-F169",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0301",
+      "respuesta_correcta": "A",
+      "explicacion": "Clasificación por naturaleza: Atiende a la composición y consistencia física del suelo.",
+      "fact_id": "GC-T18-F173",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0302",
+      "respuesta_correcta": "B",
+      "explicacion": "Finalidad operativa: La clase de terreno condiciona visibilidad, movilidad, itinerarios y elección de puntos de observación.",
+      "fact_id": "GC-T18-F174",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0300",
+      "respuesta_correcta": "C",
+      "explicacion": "Clasificación por relieve: Distingue llano, ondulado, montañoso y escarpado atendiendo a pendientes y desniveles.",
+      "fact_id": "GC-T18-F172",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

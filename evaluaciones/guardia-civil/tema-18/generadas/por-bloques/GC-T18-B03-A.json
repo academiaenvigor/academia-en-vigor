@@ -1,0 +1,305 @@
+{
+  "id": "GC-T18-B03-A",
+  "titulo": "Tema 18 · Bloque 3: Eje terrestre, polos y ecuador · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      3
+    ]
+  },
+  "numero_preguntas": 13,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0028",
+      "fact_id": "GC-T18-F017",
+      "bloque": 3,
+      "concepto": "Eje terrestre",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.»?",
+      "opciones": {
+        "A": "Eje terrestre",
+        "B": "Polo geográfico",
+        "C": "Polo Norte"
+      }
+    },
+    {
+      "id": "GC-T18-Q0029",
+      "fact_id": "GC-T18-F018",
+      "bloque": 3,
+      "concepto": "Polo geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Polo geográfico, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "B": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "C": "Extremo austral del eje terrestre, situado en el continente antártico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "fact_id": "GC-T18-F017",
+      "bloque": 3,
+      "concepto": "Eje terrestre",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Eje terrestre?",
+      "opciones": {
+        "A": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "B": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "C": "Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "fact_id": "GC-T18-F019",
+      "bloque": 3,
+      "concepto": "Polo Norte",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Polo Norte, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "B": "Extremo austral del eje terrestre, situado en el continente antártico.",
+        "C": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra."
+      }
+    },
+    {
+      "id": "GC-T18-Q0032",
+      "fact_id": "GC-T18-F020",
+      "bloque": 3,
+      "concepto": "Polo Sur",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Polo Sur?",
+      "opciones": {
+        "A": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra.",
+        "B": "Extremo austral del eje terrestre, situado en el continente antártico.",
+        "C": "Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0030",
+      "fact_id": "GC-T18-F018",
+      "bloque": 3,
+      "concepto": "Polo geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada punto en el que el eje terrestre corta la superficie del planeta.»?",
+      "opciones": {
+        "A": "Polo Norte",
+        "B": "Polo Sur",
+        "C": "Polo geográfico"
+      }
+    },
+    {
+      "id": "GC-T18-Q0034",
+      "fact_id": "GC-T18-F021",
+      "bloque": 3,
+      "concepto": "Plano ecuatorial",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Plano perpendicular al eje terrestre que pasa por el centro de la Tierra.»?",
+      "opciones": {
+        "A": "Plano ecuatorial",
+        "B": "Ecuador",
+        "C": "Hemisferio norte"
+      }
+    },
+    {
+      "id": "GC-T18-Q0035",
+      "fact_id": "GC-T18-F022",
+      "bloque": 3,
+      "concepto": "Ecuador",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Ecuador?",
+      "opciones": {
+        "A": "Mitad de la Tierra situada al norte del ecuador, también llamada boreal.",
+        "B": "Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre.",
+        "C": "Mitad de la Tierra situada al sur del ecuador, también llamada austral."
+      }
+    },
+    {
+      "id": "GC-T18-Q0033",
+      "fact_id": "GC-T18-F021",
+      "bloque": 3,
+      "concepto": "Plano ecuatorial",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Plano ecuatorial.",
+      "opciones": {
+        "A": "Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre.",
+        "B": "Mitad de la Tierra situada al norte del ecuador, también llamada boreal.",
+        "C": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra."
+      }
+    },
+    {
+      "id": "GC-T18-Q0037",
+      "fact_id": "GC-T18-F023",
+      "bloque": 3,
+      "concepto": "Hemisferio norte",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Hemisferio norte?",
+      "opciones": {
+        "A": "Mitad de la Tierra situada al norte del ecuador, también llamada boreal.",
+        "B": "Mitad de la Tierra situada al sur del ecuador, también llamada austral.",
+        "C": "Movimiento de la Tierra alrededor de su eje, completado aproximadamente en un día."
+      }
+    },
+    {
+      "id": "GC-T18-Q0038",
+      "fact_id": "GC-T18-F024",
+      "bloque": 3,
+      "concepto": "Hemisferio sur",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Hemisferio sur.",
+      "opciones": {
+        "A": "Movimiento de la Tierra alrededor de su eje, completado aproximadamente en un día.",
+        "B": "Mitad de la Tierra situada al sur del ecuador, también llamada austral.",
+        "C": "Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0036",
+      "fact_id": "GC-T18-F022",
+      "bloque": 3,
+      "concepto": "Ecuador",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre.»?",
+      "opciones": {
+        "A": "Hemisferio norte",
+        "B": "Hemisferio sur",
+        "C": "Ecuador"
+      }
+    },
+    {
+      "id": "GC-T18-Q0039",
+      "fact_id": "GC-T18-F025",
+      "bloque": 3,
+      "concepto": "Rotación",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Rotación, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.",
+        "B": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "C": "Movimiento de la Tierra alrededor de su eje, completado aproximadamente en un día."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0028",
+      "respuesta_correcta": "A",
+      "explicacion": "Eje terrestre: Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.",
+      "fact_id": "GC-T18-F017",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0029",
+      "respuesta_correcta": "B",
+      "explicacion": "Polo geográfico: Cada punto en el que el eje terrestre corta la superficie del planeta.",
+      "fact_id": "GC-T18-F018",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "respuesta_correcta": "C",
+      "explicacion": "Eje terrestre: Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.",
+      "fact_id": "GC-T18-F017",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "respuesta_correcta": "A",
+      "explicacion": "Polo Norte: Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+      "fact_id": "GC-T18-F019",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0032",
+      "respuesta_correcta": "B",
+      "explicacion": "Polo Sur: Extremo austral del eje terrestre, situado en el continente antártico.",
+      "fact_id": "GC-T18-F020",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0030",
+      "respuesta_correcta": "C",
+      "explicacion": "Polo geográfico: Cada punto en el que el eje terrestre corta la superficie del planeta.",
+      "fact_id": "GC-T18-F018",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0034",
+      "respuesta_correcta": "A",
+      "explicacion": "Plano ecuatorial: Plano perpendicular al eje terrestre que pasa por el centro de la Tierra.",
+      "fact_id": "GC-T18-F021",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0035",
+      "respuesta_correcta": "B",
+      "explicacion": "Ecuador: Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre.",
+      "fact_id": "GC-T18-F022",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0033",
+      "respuesta_correcta": "C",
+      "explicacion": "Plano ecuatorial: Plano perpendicular al eje terrestre que pasa por el centro de la Tierra.",
+      "fact_id": "GC-T18-F021",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0037",
+      "respuesta_correcta": "A",
+      "explicacion": "Hemisferio norte: Mitad de la Tierra situada al norte del ecuador, también llamada boreal.",
+      "fact_id": "GC-T18-F023",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0038",
+      "respuesta_correcta": "B",
+      "explicacion": "Hemisferio sur: Mitad de la Tierra situada al sur del ecuador, también llamada austral.",
+      "fact_id": "GC-T18-F024",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0036",
+      "respuesta_correcta": "C",
+      "explicacion": "Ecuador: Circunferencia máxima resultante de la intersección del plano ecuatorial con la superficie terrestre.",
+      "fact_id": "GC-T18-F022",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0039",
+      "respuesta_correcta": "C",
+      "explicacion": "Rotación: Movimiento de la Tierra alrededor de su eje, completado aproximadamente en un día.",
+      "fact_id": "GC-T18-F025",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

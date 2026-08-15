@@ -1,0 +1,21 @@
+# Plan visual diferido
+
+- `t18-00-mapa-topografia.webp` — Mapa de elementos geográficos, medidas, escalas y terreno.
+- `t18-01-alcance-oficial-y-metodo-de-resolucion.webp` — flujo de cálculo para explicar alcance oficial y método de resolución.
+- `t18-il-02-topografia-planimetria-y-altimetria.webp` — escena de orientación para explicar topografía, planimetría y altimetría.
+- `t18-03-eje-terrestre-polos-y-ecuador.webp` — corte del relieve para explicar eje terrestre, polos y ecuador.
+- `t18-04-meridianos-paralelos-y-coordenadas-geograficas.webp` — regla mnemotécnica para explicar meridianos, paralelos y coordenadas geográficas.
+- `t18-05-puntos-cardinales-nortes-y-declinacion-magnetica.webp` — mapa comparativo para explicar puntos cardinales, nortes y declinación magnética.
+- `t18-il-06-acimut-rumbo-y-direcciones-inversas.webp` — flujo de cálculo para explicar acimut, rumbo y direcciones inversas.
+- `t18-07-unidades-lineales-y-superficiales.webp` — escena de orientación para explicar unidades lineales y superficiales.
+- `t18-08-sistemas-angulares-sexagesimal-y-centesimal.webp` — corte del relieve para explicar sistemas angulares sexagesimal y centesimal.
+- `t18-09-radian-milesima-y-conversiones-angulares.webp` — regla mnemotécnica para explicar radián, milésima y conversiones angulares.
+- `t18-il-10-concepto-y-tipos-de-escala.webp` — mapa comparativo para explicar concepto y tipos de escala.
+- `t18-11-calculos-con-escalas-lineales-y-superficiales.webp` — flujo de cálculo para explicar cálculos con escalas lineales y superficiales.
+- `t18-12-mapas-planos-cartas-y-croquis.webp` — escena de orientación para explicar mapas, planos, cartas y croquis.
+- `t18-13-distancias-cota-altitud-y-desnivel.webp` — corte del relieve para explicar distancias, cota, altitud y desnivel.
+- `t18-il-14-sistema-de-planos-acotados-y-curvas-de-nivel.webp` — regla mnemotécnica para explicar sistema de planos acotados y curvas de nivel.
+- `t18-15-interpolacion-de-cotas-y-pendiente.webp` — mapa comparativo para explicar interpolación de cotas y pendiente.
+- `t18-16-clases-del-terreno.webp` — flujo de cálculo para explicar clases del terreno.
+- `t18-17-accidentes-basicos-laderas-divisorias-vaguadas-y-collados.webp` — escena de orientación para explicar accidentes básicos: laderas, divisorias, vaguadas y collados.
+- `t18-il-18-accidentes-complejos-e-hidrograficos.webp` — corte del relieve para explicar accidentes complejos e hidrográficos.

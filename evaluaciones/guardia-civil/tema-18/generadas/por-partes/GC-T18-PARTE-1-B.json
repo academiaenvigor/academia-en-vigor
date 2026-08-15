@@ -1,0 +1,354 @@
+{
+  "id": "GC-T18-PARTE-1-B",
+  "titulo": "Tema 18 · Fundamentos y elementos geográficos · Test B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0004",
+      "fact_id": "GC-T18-F003",
+      "bloque": 1,
+      "concepto": "Regla de homogeneidad",
+      "articulo": "Método de cálculo",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Regla de homogeneidad, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "Las superficies cambian con el cuadrado del denominador de la escala."
+      }
+    },
+    {
+      "id": "GC-T18-Q0002",
+      "fact_id": "GC-T18-F001",
+      "bloque": 1,
+      "concepto": "Alcance del Tema 18",
+      "articulo": "Epígrafe oficial",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.»?",
+      "opciones": {
+        "A": "Bloque único",
+        "B": "Alcance del Tema 18",
+        "C": "Regla de homogeneidad"
+      }
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "fact_id": "GC-T18-F002",
+      "bloque": 1,
+      "concepto": "Bloque único",
+      "articulo": "Epígrafe oficial",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Bloque único.",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "fact_id": "GC-T18-F011",
+      "bloque": 2,
+      "concepto": "Planimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.»?",
+      "opciones": {
+        "A": "Planimetría",
+        "B": "Proyección planimétrica",
+        "C": "Altimetría"
+      }
+    },
+    {
+      "id": "GC-T18-Q0017",
+      "fact_id": "GC-T18-F010",
+      "bloque": 2,
+      "concepto": "Ámbito topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Ámbito topográfico?",
+      "opciones": {
+        "A": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+        "B": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+        "C": "Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "fact_id": "GC-T18-F009",
+      "bloque": 2,
+      "concepto": "Topografía",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Topografía?",
+      "opciones": {
+        "A": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+        "B": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+        "C": "Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "fact_id": "GC-T18-F019",
+      "bloque": 3,
+      "concepto": "Polo Norte",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Polo Norte, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "B": "Extremo austral del eje terrestre, situado en el continente antártico.",
+        "C": "Plano perpendicular al eje terrestre que pasa por el centro de la Tierra."
+      }
+    },
+    {
+      "id": "GC-T18-Q0029",
+      "fact_id": "GC-T18-F018",
+      "bloque": 3,
+      "concepto": "Polo geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Polo geográfico, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "B": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "C": "Extremo austral del eje terrestre, situado en el continente antártico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "fact_id": "GC-T18-F017",
+      "bloque": 3,
+      "concepto": "Eje terrestre",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Eje terrestre?",
+      "opciones": {
+        "A": "Cada punto en el que el eje terrestre corta la superficie del planeta.",
+        "B": "Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+        "C": "Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0041",
+      "fact_id": "GC-T18-F026",
+      "bloque": 4,
+      "concepto": "Plano meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Todo plano que contiene el eje terrestre.»?",
+      "opciones": {
+        "A": "Meridiano",
+        "B": "Plano meridiano",
+        "C": "Meridiano de Greenwich"
+      }
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "fact_id": "GC-T18-F027",
+      "bloque": 4,
+      "concepto": "Meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Meridiano?",
+      "opciones": {
+        "A": "Meridiano adoptado como origen para medir longitudes geográficas.",
+        "B": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "C": "Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro."
+      }
+    },
+    {
+      "id": "GC-T18-Q0065",
+      "fact_id": "GC-T18-F040",
+      "bloque": 5,
+      "concepto": "Este",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Este?",
+      "opciones": {
+        "A": "Punto cardinal denominado también mediodía.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Punto cardinal denominado también occidente o poniente."
+      }
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "fact_id": "GC-T18-F038",
+      "bloque": 5,
+      "concepto": "Meridiana",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Meridiana.",
+      "opciones": {
+        "A": "Punto cardinal también denominado septentrión.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0080",
+      "fact_id": "GC-T18-F049",
+      "bloque": 6,
+      "concepto": "Origen del acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Origen del acimut?",
+      "opciones": {
+        "A": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "B": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "C": "El rumbo toma como referencia el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "fact_id": "GC-T18-F048",
+      "bloque": 6,
+      "concepto": "Acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Acimut.",
+      "opciones": {
+        "A": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "B": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "C": "Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0004",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de homogeneidad: Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+      "fact_id": "GC-T18-F003",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0002",
+      "respuesta_correcta": "B",
+      "explicacion": "Alcance del Tema 18: Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+      "fact_id": "GC-T18-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Bloque único: El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio.",
+      "fact_id": "GC-T18-F002",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "respuesta_correcta": "A",
+      "explicacion": "Planimetría: Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+      "fact_id": "GC-T18-F011",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0017",
+      "respuesta_correcta": "B",
+      "explicacion": "Ámbito topográfico: En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+      "fact_id": "GC-T18-F010",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "respuesta_correcta": "C",
+      "explicacion": "Topografía: Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+      "fact_id": "GC-T18-F009",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0031",
+      "respuesta_correcta": "A",
+      "explicacion": "Polo Norte: Extremo boreal del eje terrestre, situado en la región del océano Ártico.",
+      "fact_id": "GC-T18-F019",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0029",
+      "respuesta_correcta": "B",
+      "explicacion": "Polo geográfico: Cada punto en el que el eje terrestre corta la superficie del planeta.",
+      "fact_id": "GC-T18-F018",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0027",
+      "respuesta_correcta": "C",
+      "explicacion": "Eje terrestre: Línea ideal alrededor de la cual gira la Tierra y que atraviesa el planeta por los polos geográficos.",
+      "fact_id": "GC-T18-F017",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0041",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano meridiano: Todo plano que contiene el eje terrestre.",
+      "fact_id": "GC-T18-F026",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiano: Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.",
+      "fact_id": "GC-T18-F027",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0065",
+      "respuesta_correcta": "B",
+      "explicacion": "Este: Punto cardinal denominado también oriente o levante.",
+      "fact_id": "GC-T18-F040",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiana: Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur.",
+      "fact_id": "GC-T18-F038",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0080",
+      "respuesta_correcta": "B",
+      "explicacion": "Origen del acimut: El acimut toma como referencia el norte geográfico o verdadero.",
+      "fact_id": "GC-T18-F049",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "respuesta_correcta": "C",
+      "explicacion": "Acimut: Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.",
+      "fact_id": "GC-T18-F048",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

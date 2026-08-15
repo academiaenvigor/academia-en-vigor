@@ -1,0 +1,525 @@
+{
+  "id": "GC-T18-B04-A",
+  "titulo": "Tema 18 · Bloque 4: Meridianos, paralelos y coordenadas geográficas · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      4
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0040",
+      "fact_id": "GC-T18-F026",
+      "bloque": 4,
+      "concepto": "Plano meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Plano meridiano?",
+      "opciones": {
+        "A": "Todo plano que contiene el eje terrestre.",
+        "B": "Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.",
+        "C": "Meridiano adoptado como origen para medir longitudes geográficas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0041",
+      "fact_id": "GC-T18-F026",
+      "bloque": 4,
+      "concepto": "Plano meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Todo plano que contiene el eje terrestre.»?",
+      "opciones": {
+        "A": "Meridiano",
+        "B": "Plano meridiano",
+        "C": "Meridiano de Greenwich"
+      }
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "fact_id": "GC-T18-F027",
+      "bloque": 4,
+      "concepto": "Meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Meridiano?",
+      "opciones": {
+        "A": "Meridiano adoptado como origen para medir longitudes geográficas.",
+        "B": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "C": "Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro."
+      }
+    },
+    {
+      "id": "GC-T18-Q0043",
+      "fact_id": "GC-T18-F027",
+      "bloque": 4,
+      "concepto": "Meridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.»?",
+      "opciones": {
+        "A": "Meridiano",
+        "B": "Meridiano de Greenwich",
+        "C": "Antimeridiano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0044",
+      "fact_id": "GC-T18-F028",
+      "bloque": 4,
+      "concepto": "Meridiano de Greenwich",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Meridiano de Greenwich, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "B": "Meridiano adoptado como origen para medir longitudes geográficas.",
+        "C": "Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0045",
+      "fact_id": "GC-T18-F028",
+      "bloque": 4,
+      "concepto": "Meridiano de Greenwich",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Meridiano adoptado como origen para medir longitudes geográficas.»?",
+      "opciones": {
+        "A": "Antimeridiano",
+        "B": "Paralelo",
+        "C": "Meridiano de Greenwich"
+      }
+    },
+    {
+      "id": "GC-T18-Q0046",
+      "fact_id": "GC-T18-F029",
+      "bloque": 4,
+      "concepto": "Antimeridiano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Antimeridiano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+        "B": "Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.",
+        "C": "Todos los puntos de un mismo paralelo tienen la misma latitud."
+      }
+    },
+    {
+      "id": "GC-T18-Q0047",
+      "fact_id": "GC-T18-F030",
+      "bloque": 4,
+      "concepto": "Paralelo",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Paralelo?",
+      "opciones": {
+        "A": "Todos los puntos de un mismo paralelo tienen la misma latitud.",
+        "B": "Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.",
+        "C": "Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0048",
+      "fact_id": "GC-T18-F030",
+      "bloque": 4,
+      "concepto": "Paralelo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.»?",
+      "opciones": {
+        "A": "Propiedad de los paralelos",
+        "B": "Latitud",
+        "C": "Paralelo"
+      }
+    },
+    {
+      "id": "GC-T18-Q0049",
+      "fact_id": "GC-T18-F031",
+      "bloque": 4,
+      "concepto": "Propiedad de los paralelos",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Propiedad de los paralelos, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Todos los puntos de un mismo paralelo tienen la misma latitud.",
+        "B": "Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur.",
+        "C": "La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo."
+      }
+    },
+    {
+      "id": "GC-T18-Q0050",
+      "fact_id": "GC-T18-F031",
+      "bloque": 4,
+      "concepto": "Propiedad de los paralelos",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Todos los puntos de un mismo paralelo tienen la misma latitud.»?",
+      "opciones": {
+        "A": "Latitud",
+        "B": "Propiedad de los paralelos",
+        "C": "Intervalo de latitud"
+      }
+    },
+    {
+      "id": "GC-T18-Q0051",
+      "fact_id": "GC-T18-F032",
+      "bloque": 4,
+      "concepto": "Latitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Latitud, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo.",
+        "B": "Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.",
+        "C": "Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0052",
+      "fact_id": "GC-T18-F032",
+      "bloque": 4,
+      "concepto": "Latitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur.»?",
+      "opciones": {
+        "A": "Latitud",
+        "B": "Intervalo de latitud",
+        "C": "Longitud"
+      }
+    },
+    {
+      "id": "GC-T18-Q0053",
+      "fact_id": "GC-T18-F033",
+      "bloque": 4,
+      "concepto": "Intervalo de latitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Intervalo de latitud.",
+      "opciones": {
+        "A": "Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.",
+        "B": "La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo.",
+        "C": "La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste."
+      }
+    },
+    {
+      "id": "GC-T18-Q0054",
+      "fact_id": "GC-T18-F033",
+      "bloque": 4,
+      "concepto": "Intervalo de latitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo.»?",
+      "opciones": {
+        "A": "Longitud",
+        "B": "Intervalo de longitud",
+        "C": "Intervalo de latitud"
+      }
+    },
+    {
+      "id": "GC-T18-Q0055",
+      "fact_id": "GC-T18-F034",
+      "bloque": 4,
+      "concepto": "Longitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Longitud?",
+      "opciones": {
+        "A": "Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.",
+        "B": "La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste.",
+        "C": "Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0056",
+      "fact_id": "GC-T18-F034",
+      "bloque": 4,
+      "concepto": "Longitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.»?",
+      "opciones": {
+        "A": "Intervalo de longitud",
+        "B": "Longitud",
+        "C": "Coordenadas geográficas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0057",
+      "fact_id": "GC-T18-F035",
+      "bloque": 4,
+      "concepto": "Intervalo de longitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Intervalo de longitud?",
+      "opciones": {
+        "A": "Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre.",
+        "B": "Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.",
+        "C": "La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste."
+      }
+    },
+    {
+      "id": "GC-T18-Q0058",
+      "fact_id": "GC-T18-F035",
+      "bloque": 4,
+      "concepto": "Intervalo de longitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste.»?",
+      "opciones": {
+        "A": "Intervalo de longitud",
+        "B": "Coordenadas geográficas",
+        "C": "Error típico de coordenadas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0059",
+      "fact_id": "GC-T18-F036",
+      "bloque": 4,
+      "concepto": "Coordenadas geográficas",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Coordenadas geográficas, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.",
+        "B": "Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre.",
+        "C": "Todo plano que contiene el eje terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0060",
+      "fact_id": "GC-T18-F036",
+      "bloque": 4,
+      "concepto": "Coordenadas geográficas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre.»?",
+      "opciones": {
+        "A": "Error típico de coordenadas",
+        "B": "Plano meridiano",
+        "C": "Coordenadas geográficas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0061",
+      "fact_id": "GC-T18-F037",
+      "bloque": 4,
+      "concepto": "Error típico de coordenadas",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Error típico de coordenadas, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.",
+        "B": "Todo plano que contiene el eje terrestre.",
+        "C": "Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro."
+      }
+    },
+    {
+      "id": "GC-T18-Q0062",
+      "fact_id": "GC-T18-F037",
+      "bloque": 4,
+      "concepto": "Error típico de coordenadas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.»?",
+      "opciones": {
+        "A": "Plano meridiano",
+        "B": "Error típico de coordenadas",
+        "C": "Meridiano"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0040",
+      "respuesta_correcta": "A",
+      "explicacion": "Plano meridiano: Todo plano que contiene el eje terrestre.",
+      "fact_id": "GC-T18-F026",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0041",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano meridiano: Todo plano que contiene el eje terrestre.",
+      "fact_id": "GC-T18-F026",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0042",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiano: Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.",
+      "fact_id": "GC-T18-F027",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0043",
+      "respuesta_correcta": "A",
+      "explicacion": "Meridiano: Semicircunferencia terrestre determinada por la intersección de un plano meridiano con la superficie, desde un polo al otro.",
+      "fact_id": "GC-T18-F027",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0044",
+      "respuesta_correcta": "B",
+      "explicacion": "Meridiano de Greenwich: Meridiano adoptado como origen para medir longitudes geográficas.",
+      "fact_id": "GC-T18-F028",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0045",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiano de Greenwich: Meridiano adoptado como origen para medir longitudes geográficas.",
+      "fact_id": "GC-T18-F028",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0046",
+      "respuesta_correcta": "A",
+      "explicacion": "Antimeridiano: Meridiano opuesto al de Greenwich, correspondiente a 180 grados de longitud.",
+      "fact_id": "GC-T18-F029",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0047",
+      "respuesta_correcta": "B",
+      "explicacion": "Paralelo: Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.",
+      "fact_id": "GC-T18-F030",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0048",
+      "respuesta_correcta": "C",
+      "explicacion": "Paralelo: Línea de intersección con la superficie terrestre de un plano perpendicular al eje terrestre.",
+      "fact_id": "GC-T18-F030",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0049",
+      "respuesta_correcta": "A",
+      "explicacion": "Propiedad de los paralelos: Todos los puntos de un mismo paralelo tienen la misma latitud.",
+      "fact_id": "GC-T18-F031",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0050",
+      "respuesta_correcta": "B",
+      "explicacion": "Propiedad de los paralelos: Todos los puntos de un mismo paralelo tienen la misma latitud.",
+      "fact_id": "GC-T18-F031",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0051",
+      "respuesta_correcta": "C",
+      "explicacion": "Latitud: Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur.",
+      "fact_id": "GC-T18-F032",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0052",
+      "respuesta_correcta": "A",
+      "explicacion": "Latitud: Ángulo medido sobre el meridiano del lugar desde el ecuador hasta el paralelo del punto, hacia el norte o el sur.",
+      "fact_id": "GC-T18-F032",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0053",
+      "respuesta_correcta": "B",
+      "explicacion": "Intervalo de latitud: La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo.",
+      "fact_id": "GC-T18-F033",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0054",
+      "respuesta_correcta": "C",
+      "explicacion": "Intervalo de latitud: La latitud varía entre 0 grados en el ecuador y 90 grados en cada polo.",
+      "fact_id": "GC-T18-F033",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0055",
+      "respuesta_correcta": "A",
+      "explicacion": "Longitud: Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.",
+      "fact_id": "GC-T18-F034",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0056",
+      "respuesta_correcta": "B",
+      "explicacion": "Longitud: Ángulo entre el meridiano de origen y el meridiano del punto, medido hacia el este o el oeste.",
+      "fact_id": "GC-T18-F034",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0057",
+      "respuesta_correcta": "C",
+      "explicacion": "Intervalo de longitud: La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste.",
+      "fact_id": "GC-T18-F035",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0058",
+      "respuesta_correcta": "A",
+      "explicacion": "Intervalo de longitud: La longitud varía entre 0 y 180 grados hacia el este o hacia el oeste.",
+      "fact_id": "GC-T18-F035",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0059",
+      "respuesta_correcta": "B",
+      "explicacion": "Coordenadas geográficas: Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre.",
+      "fact_id": "GC-T18-F036",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0060",
+      "respuesta_correcta": "C",
+      "explicacion": "Coordenadas geográficas: Pareja formada por la latitud y la longitud que localiza un punto sobre la superficie terrestre.",
+      "fact_id": "GC-T18-F036",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0061",
+      "respuesta_correcta": "A",
+      "explicacion": "Error típico de coordenadas: Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.",
+      "fact_id": "GC-T18-F037",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0062",
+      "respuesta_correcta": "B",
+      "explicacion": "Error típico de coordenadas: Asignar a la longitud el intervalo de 0 a 90 grados es incorrecto; ese límite corresponde a la latitud.",
+      "fact_id": "GC-T18-F037",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

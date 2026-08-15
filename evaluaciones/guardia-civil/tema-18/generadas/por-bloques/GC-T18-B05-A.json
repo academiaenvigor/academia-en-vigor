@@ -1,0 +1,349 @@
+{
+  "id": "GC-T18-B05-A",
+  "titulo": "Tema 18 · Bloque 5: Puntos cardinales, nortes y declinación magnética · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      5
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0064",
+      "fact_id": "GC-T18-F039",
+      "bloque": 5,
+      "concepto": "Norte",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Norte, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Punto cardinal también denominado septentrión.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Punto cardinal denominado también mediodía."
+      }
+    },
+    {
+      "id": "GC-T18-Q0065",
+      "fact_id": "GC-T18-F040",
+      "bloque": 5,
+      "concepto": "Este",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Este?",
+      "opciones": {
+        "A": "Punto cardinal denominado también mediodía.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Punto cardinal denominado también occidente o poniente."
+      }
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "fact_id": "GC-T18-F038",
+      "bloque": 5,
+      "concepto": "Meridiana",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Meridiana.",
+      "opciones": {
+        "A": "Punto cardinal también denominado septentrión.",
+        "B": "Punto cardinal denominado también oriente o levante.",
+        "C": "Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0067",
+      "fact_id": "GC-T18-F042",
+      "bloque": 5,
+      "concepto": "Oeste",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Oeste?",
+      "opciones": {
+        "A": "Punto cardinal denominado también occidente o poniente.",
+        "B": "Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+        "C": "Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0068",
+      "fact_id": "GC-T18-F043",
+      "bloque": 5,
+      "concepto": "Norte geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Norte geográfico.",
+      "opciones": {
+        "A": "Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.",
+        "B": "Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+        "C": "Ángulo existente en un lugar entre el norte geográfico y el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0066",
+      "fact_id": "GC-T18-F041",
+      "bloque": 5,
+      "concepto": "Sur",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Sur, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Punto cardinal denominado también occidente o poniente.",
+        "B": "Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+        "C": "Punto cardinal denominado también mediodía."
+      }
+    },
+    {
+      "id": "GC-T18-Q0070",
+      "fact_id": "GC-T18-F044",
+      "bloque": 5,
+      "concepto": "Norte magnético",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Norte magnético?",
+      "opciones": {
+        "A": "Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.",
+        "B": "Ángulo existente en un lugar entre el norte geográfico y el norte magnético.",
+        "C": "Se produce cuando el norte magnético queda al este del norte geográfico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0071",
+      "fact_id": "GC-T18-F044",
+      "bloque": 5,
+      "concepto": "Norte magnético",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.»?",
+      "opciones": {
+        "A": "Declinación magnética",
+        "B": "Norte magnético",
+        "C": "Declinación oriental"
+      }
+    },
+    {
+      "id": "GC-T18-Q0069",
+      "fact_id": "GC-T18-F043",
+      "bloque": 5,
+      "concepto": "Norte geográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Dirección del meridiano del lugar hacia el Polo Norte geográfico.»?",
+      "opciones": {
+        "A": "Norte magnético",
+        "B": "Declinación magnética",
+        "C": "Norte geográfico"
+      }
+    },
+    {
+      "id": "GC-T18-Q0073",
+      "fact_id": "GC-T18-F045",
+      "bloque": 5,
+      "concepto": "Declinación magnética",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo existente en un lugar entre el norte geográfico y el norte magnético.»?",
+      "opciones": {
+        "A": "Declinación magnética",
+        "B": "Declinación oriental",
+        "C": "Declinación occidental"
+      }
+    },
+    {
+      "id": "GC-T18-Q0074",
+      "fact_id": "GC-T18-F046",
+      "bloque": 5,
+      "concepto": "Declinación oriental",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Declinación oriental, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Se produce cuando el norte magnético queda al oeste del norte geográfico.",
+        "B": "Se produce cuando el norte magnético queda al este del norte geográfico.",
+        "C": "Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur."
+      }
+    },
+    {
+      "id": "GC-T18-Q0072",
+      "fact_id": "GC-T18-F045",
+      "bloque": 5,
+      "concepto": "Declinación magnética",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Declinación magnética?",
+      "opciones": {
+        "A": "Se produce cuando el norte magnético queda al este del norte geográfico.",
+        "B": "Se produce cuando el norte magnético queda al oeste del norte geográfico.",
+        "C": "Ángulo existente en un lugar entre el norte geográfico y el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0076",
+      "fact_id": "GC-T18-F047",
+      "bloque": 5,
+      "concepto": "Declinación occidental",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Declinación occidental, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se produce cuando el norte magnético queda al oeste del norte geográfico.",
+        "B": "Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur.",
+        "C": "Punto cardinal también denominado septentrión."
+      }
+    },
+    {
+      "id": "GC-T18-Q0077",
+      "fact_id": "GC-T18-F047",
+      "bloque": 5,
+      "concepto": "Declinación occidental",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se produce cuando el norte magnético queda al oeste del norte geográfico.»?",
+      "opciones": {
+        "A": "Meridiana",
+        "B": "Declinación occidental",
+        "C": "Norte"
+      }
+    },
+    {
+      "id": "GC-T18-Q0075",
+      "fact_id": "GC-T18-F046",
+      "bloque": 5,
+      "concepto": "Declinación oriental",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se produce cuando el norte magnético queda al este del norte geográfico.»?",
+      "opciones": {
+        "A": "Declinación occidental",
+        "B": "Meridiana",
+        "C": "Declinación oriental"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0064",
+      "respuesta_correcta": "A",
+      "explicacion": "Norte: Punto cardinal también denominado septentrión.",
+      "fact_id": "GC-T18-F039",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0065",
+      "respuesta_correcta": "B",
+      "explicacion": "Este: Punto cardinal denominado también oriente o levante.",
+      "fact_id": "GC-T18-F040",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0063",
+      "respuesta_correcta": "C",
+      "explicacion": "Meridiana: Intersección del plano meridiano del lugar con el plano horizontal, que materializa la dirección norte-sur.",
+      "fact_id": "GC-T18-F038",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0067",
+      "respuesta_correcta": "A",
+      "explicacion": "Oeste: Punto cardinal denominado también occidente o poniente.",
+      "fact_id": "GC-T18-F042",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0068",
+      "respuesta_correcta": "B",
+      "explicacion": "Norte geográfico: Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+      "fact_id": "GC-T18-F043",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0066",
+      "respuesta_correcta": "C",
+      "explicacion": "Sur: Punto cardinal denominado también mediodía.",
+      "fact_id": "GC-T18-F041",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0070",
+      "respuesta_correcta": "A",
+      "explicacion": "Norte magnético: Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.",
+      "fact_id": "GC-T18-F044",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0071",
+      "respuesta_correcta": "B",
+      "explicacion": "Norte magnético: Dirección señalada por la aguja de una brújula bajo la acción del campo magnético terrestre.",
+      "fact_id": "GC-T18-F044",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0069",
+      "respuesta_correcta": "C",
+      "explicacion": "Norte geográfico: Dirección del meridiano del lugar hacia el Polo Norte geográfico.",
+      "fact_id": "GC-T18-F043",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0073",
+      "respuesta_correcta": "A",
+      "explicacion": "Declinación magnética: Ángulo existente en un lugar entre el norte geográfico y el norte magnético.",
+      "fact_id": "GC-T18-F045",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0074",
+      "respuesta_correcta": "B",
+      "explicacion": "Declinación oriental: Se produce cuando el norte magnético queda al este del norte geográfico.",
+      "fact_id": "GC-T18-F046",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0072",
+      "respuesta_correcta": "C",
+      "explicacion": "Declinación magnética: Ángulo existente en un lugar entre el norte geográfico y el norte magnético.",
+      "fact_id": "GC-T18-F045",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0076",
+      "respuesta_correcta": "A",
+      "explicacion": "Declinación occidental: Se produce cuando el norte magnético queda al oeste del norte geográfico.",
+      "fact_id": "GC-T18-F047",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0077",
+      "respuesta_correcta": "B",
+      "explicacion": "Declinación occidental: Se produce cuando el norte magnético queda al oeste del norte geográfico.",
+      "fact_id": "GC-T18-F047",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0075",
+      "respuesta_correcta": "C",
+      "explicacion": "Declinación oriental: Se produce cuando el norte magnético queda al este del norte geográfico.",
+      "fact_id": "GC-T18-F046",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,503 @@
+{
+  "id": "GC-T18-B17-A",
+  "titulo": "Tema 18 · Bloque 17: Accidentes básicos: laderas, divisorias, vaguadas y collados · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      17
+    ]
+  },
+  "numero_preguntas": 22,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0304",
+      "fact_id": "GC-T18-F176",
+      "bloque": 17,
+      "concepto": "Vertiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Vertiente, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0305",
+      "fact_id": "GC-T18-F177",
+      "bloque": 17,
+      "concepto": "Divisoria",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Divisoria?",
+      "opciones": {
+        "A": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada."
+      }
+    },
+    {
+      "id": "GC-T18-Q0303",
+      "fact_id": "GC-T18-F175",
+      "bloque": 17,
+      "concepto": "Ladera",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Ladera.",
+      "opciones": {
+        "A": "Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Superficie inclinada comprendida entre una zona alta y otra baja del relieve."
+      }
+    },
+    {
+      "id": "GC-T18-Q0307",
+      "fact_id": "GC-T18-F178",
+      "bloque": 17,
+      "concepto": "Vaguada",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Vaguada?",
+      "opciones": {
+        "A": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+        "B": "Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada.",
+        "C": "Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce."
+      }
+    },
+    {
+      "id": "GC-T18-Q0308",
+      "fact_id": "GC-T18-F178",
+      "bloque": 17,
+      "concepto": "Vaguada",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.»?",
+      "opciones": {
+        "A": "Regla de alternancia",
+        "B": "Vaguada",
+        "C": "V en vaguada"
+      }
+    },
+    {
+      "id": "GC-T18-Q0306",
+      "fact_id": "GC-T18-F177",
+      "bloque": 17,
+      "concepto": "Divisoria",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.»?",
+      "opciones": {
+        "A": "Vaguada",
+        "B": "Regla de alternancia",
+        "C": "Divisoria"
+      }
+    },
+    {
+      "id": "GC-T18-Q0310",
+      "fact_id": "GC-T18-F179",
+      "bloque": 17,
+      "concepto": "Regla de alternancia",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada.»?",
+      "opciones": {
+        "A": "Regla de alternancia",
+        "B": "V en vaguada",
+        "C": "V en divisoria"
+      }
+    },
+    {
+      "id": "GC-T18-Q0311",
+      "fact_id": "GC-T18-F180",
+      "bloque": 17,
+      "concepto": "V en vaguada",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de V en vaguada, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.",
+        "B": "Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce.",
+        "C": "Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0309",
+      "fact_id": "GC-T18-F179",
+      "bloque": 17,
+      "concepto": "Regla de alternancia",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Regla de alternancia, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce.",
+        "B": "Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.",
+        "C": "Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada."
+      }
+    },
+    {
+      "id": "GC-T18-Q0313",
+      "fact_id": "GC-T18-F181",
+      "bloque": 17,
+      "concepto": "V en divisoria",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre V en divisoria.",
+      "opciones": {
+        "A": "Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.",
+        "B": "Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes.",
+        "C": "Paso practicable que aprovecha un collado para atravesar una alineación montañosa."
+      }
+    },
+    {
+      "id": "GC-T18-Q0314",
+      "fact_id": "GC-T18-F181",
+      "bloque": 17,
+      "concepto": "V en divisoria",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.»?",
+      "opciones": {
+        "A": "Collado",
+        "B": "V en divisoria",
+        "C": "Puerto"
+      }
+    },
+    {
+      "id": "GC-T18-Q0312",
+      "fact_id": "GC-T18-F180",
+      "bloque": 17,
+      "concepto": "V en vaguada",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce.»?",
+      "opciones": {
+        "A": "V en divisoria",
+        "B": "Collado",
+        "C": "V en vaguada"
+      }
+    },
+    {
+      "id": "GC-T18-Q0316",
+      "fact_id": "GC-T18-F182",
+      "bloque": 17,
+      "concepto": "Collado",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes.»?",
+      "opciones": {
+        "A": "Collado",
+        "B": "Puerto",
+        "C": "Hoya"
+      }
+    },
+    {
+      "id": "GC-T18-Q0317",
+      "fact_id": "GC-T18-F183",
+      "bloque": 17,
+      "concepto": "Puerto",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Puerto?",
+      "opciones": {
+        "A": "Depresión del terreno respecto de las zonas que la rodean.",
+        "B": "Paso practicable que aprovecha un collado para atravesar una alineación montañosa.",
+        "C": "Pequeña elevación aislada, normalmente de forma aproximada troncocónica."
+      }
+    },
+    {
+      "id": "GC-T18-Q0315",
+      "fact_id": "GC-T18-F182",
+      "bloque": 17,
+      "concepto": "Collado",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Collado?",
+      "opciones": {
+        "A": "Paso practicable que aprovecha un collado para atravesar una alineación montañosa.",
+        "B": "Depresión del terreno respecto de las zonas que la rodean.",
+        "C": "Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0319",
+      "fact_id": "GC-T18-F184",
+      "bloque": 17,
+      "concepto": "Hoya",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Depresión del terreno respecto de las zonas que la rodean.»?",
+      "opciones": {
+        "A": "Hoya",
+        "B": "Mogote",
+        "C": "Cima"
+      }
+    },
+    {
+      "id": "GC-T18-Q0320",
+      "fact_id": "GC-T18-F185",
+      "bloque": 17,
+      "concepto": "Mogote",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Mogote?",
+      "opciones": {
+        "A": "Punto o zona más elevada de una montaña o elevación.",
+        "B": "Pequeña elevación aislada, normalmente de forma aproximada troncocónica.",
+        "C": "Línea superior alargada que enlaza puntos altos de una elevación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0318",
+      "fact_id": "GC-T18-F184",
+      "bloque": 17,
+      "concepto": "Hoya",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Hoya.",
+      "opciones": {
+        "A": "Pequeña elevación aislada, normalmente de forma aproximada troncocónica.",
+        "B": "Punto o zona más elevada de una montaña o elevación.",
+        "C": "Depresión del terreno respecto de las zonas que la rodean."
+      }
+    },
+    {
+      "id": "GC-T18-Q0322",
+      "fact_id": "GC-T18-F186",
+      "bloque": 17,
+      "concepto": "Cima",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Cima?",
+      "opciones": {
+        "A": "Punto o zona más elevada de una montaña o elevación.",
+        "B": "Línea superior alargada que enlaza puntos altos de una elevación.",
+        "C": "Escarpe o pared de pendiente muy fuerte que produce una ruptura brusca del relieve."
+      }
+    },
+    {
+      "id": "GC-T18-Q0323",
+      "fact_id": "GC-T18-F187",
+      "bloque": 17,
+      "concepto": "Cresta",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Cresta.",
+      "opciones": {
+        "A": "Escarpe o pared de pendiente muy fuerte que produce una ruptura brusca del relieve.",
+        "B": "Línea superior alargada que enlaza puntos altos de una elevación.",
+        "C": "Superficie inclinada comprendida entre una zona alta y otra baja del relieve."
+      }
+    },
+    {
+      "id": "GC-T18-Q0321",
+      "fact_id": "GC-T18-F185",
+      "bloque": 17,
+      "concepto": "Mogote",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Pequeña elevación aislada, normalmente de forma aproximada troncocónica.»?",
+      "opciones": {
+        "A": "Cima",
+        "B": "Cresta",
+        "C": "Mogote"
+      }
+    },
+    {
+      "id": "GC-T18-Q0324",
+      "fact_id": "GC-T18-F188",
+      "bloque": 17,
+      "concepto": "Cantil",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Cantil, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Superficie inclinada comprendida entre una zona alta y otra baja del relieve.",
+        "B": "Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+        "C": "Escarpe o pared de pendiente muy fuerte que produce una ruptura brusca del relieve."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0304",
+      "respuesta_correcta": "A",
+      "explicacion": "Vertiente: Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+      "fact_id": "GC-T18-F176",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0305",
+      "respuesta_correcta": "B",
+      "explicacion": "Divisoria: Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+      "fact_id": "GC-T18-F177",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0303",
+      "respuesta_correcta": "C",
+      "explicacion": "Ladera: Superficie inclinada comprendida entre una zona alta y otra baja del relieve.",
+      "fact_id": "GC-T18-F175",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0307",
+      "respuesta_correcta": "A",
+      "explicacion": "Vaguada: Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+      "fact_id": "GC-T18-F178",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0308",
+      "respuesta_correcta": "B",
+      "explicacion": "Vaguada: Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+      "fact_id": "GC-T18-F178",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0306",
+      "respuesta_correcta": "C",
+      "explicacion": "Divisoria: Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+      "fact_id": "GC-T18-F177",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0310",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de alternancia: Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada.",
+      "fact_id": "GC-T18-F179",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0311",
+      "respuesta_correcta": "B",
+      "explicacion": "V en vaguada: Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce.",
+      "fact_id": "GC-T18-F180",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0309",
+      "respuesta_correcta": "C",
+      "explicacion": "Regla de alternancia: Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada.",
+      "fact_id": "GC-T18-F179",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0313",
+      "respuesta_correcta": "A",
+      "explicacion": "V en divisoria: Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.",
+      "fact_id": "GC-T18-F181",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0314",
+      "respuesta_correcta": "B",
+      "explicacion": "V en divisoria: Las curvas forman una V o U cuya abertura se orienta hacia las cotas más bajas.",
+      "fact_id": "GC-T18-F181",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0312",
+      "respuesta_correcta": "C",
+      "explicacion": "V en vaguada: Las curvas forman una V cuyo vértice apunta hacia las cotas más altas o nacimiento del cauce.",
+      "fact_id": "GC-T18-F180",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0316",
+      "respuesta_correcta": "A",
+      "explicacion": "Collado: Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes.",
+      "fact_id": "GC-T18-F182",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0317",
+      "respuesta_correcta": "B",
+      "explicacion": "Puerto: Paso practicable que aprovecha un collado para atravesar una alineación montañosa.",
+      "fact_id": "GC-T18-F183",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0315",
+      "respuesta_correcta": "C",
+      "explicacion": "Collado: Punto o zona baja entre dos elevaciones, formado por la unión de dos entrantes y dos salientes.",
+      "fact_id": "GC-T18-F182",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0319",
+      "respuesta_correcta": "A",
+      "explicacion": "Hoya: Depresión del terreno respecto de las zonas que la rodean.",
+      "fact_id": "GC-T18-F184",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0320",
+      "respuesta_correcta": "B",
+      "explicacion": "Mogote: Pequeña elevación aislada, normalmente de forma aproximada troncocónica.",
+      "fact_id": "GC-T18-F185",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0318",
+      "respuesta_correcta": "C",
+      "explicacion": "Hoya: Depresión del terreno respecto de las zonas que la rodean.",
+      "fact_id": "GC-T18-F184",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0322",
+      "respuesta_correcta": "A",
+      "explicacion": "Cima: Punto o zona más elevada de una montaña o elevación.",
+      "fact_id": "GC-T18-F186",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0323",
+      "respuesta_correcta": "B",
+      "explicacion": "Cresta: Línea superior alargada que enlaza puntos altos de una elevación.",
+      "fact_id": "GC-T18-F187",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0321",
+      "respuesta_correcta": "C",
+      "explicacion": "Mogote: Pequeña elevación aislada, normalmente de forma aproximada troncocónica.",
+      "fact_id": "GC-T18-F185",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0324",
+      "respuesta_correcta": "C",
+      "explicacion": "Cantil: Escarpe o pared de pendiente muy fuerte que produce una ruptura brusca del relieve.",
+      "fact_id": "GC-T18-F188",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

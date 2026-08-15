@@ -1,0 +1,283 @@
+{
+  "id": "GC-T18-B02-A",
+  "titulo": "Tema 18 · Bloque 2: Topografía, planimetría y altimetría · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      2
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0016",
+      "fact_id": "GC-T18-F009",
+      "bloque": 2,
+      "concepto": "Topografía",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.»?",
+      "opciones": {
+        "A": "Topografía",
+        "B": "Ámbito topográfico",
+        "C": "Planimetría"
+      }
+    },
+    {
+      "id": "GC-T18-Q0017",
+      "fact_id": "GC-T18-F010",
+      "bloque": 2,
+      "concepto": "Ámbito topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Ámbito topográfico?",
+      "opciones": {
+        "A": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+        "B": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+        "C": "Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "fact_id": "GC-T18-F009",
+      "bloque": 2,
+      "concepto": "Topografía",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Topografía?",
+      "opciones": {
+        "A": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+        "B": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+        "C": "Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "fact_id": "GC-T18-F011",
+      "bloque": 2,
+      "concepto": "Planimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.»?",
+      "opciones": {
+        "A": "Planimetría",
+        "B": "Proyección planimétrica",
+        "C": "Altimetría"
+      }
+    },
+    {
+      "id": "GC-T18-Q0020",
+      "fact_id": "GC-T18-F012",
+      "bloque": 2,
+      "concepto": "Proyección planimétrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Proyección planimétrica?",
+      "opciones": {
+        "A": "Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.",
+        "B": "Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación.",
+        "C": "Denominación vinculada a la medición y representación de las alturas del terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0018",
+      "fact_id": "GC-T18-F011",
+      "bloque": 2,
+      "concepto": "Planimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Planimetría.",
+      "opciones": {
+        "A": "Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación.",
+        "B": "Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.",
+        "C": "Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve."
+      }
+    },
+    {
+      "id": "GC-T18-Q0022",
+      "fact_id": "GC-T18-F013",
+      "bloque": 2,
+      "concepto": "Altimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.»?",
+      "opciones": {
+        "A": "Altimetría",
+        "B": "Hipsometría",
+        "C": "Representación topográfica completa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0023",
+      "fact_id": "GC-T18-F014",
+      "bloque": 2,
+      "concepto": "Hipsometría",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Hipsometría.",
+      "opciones": {
+        "A": "Integra la posición horizontal de la planimetría y la información de alturas de la altimetría.",
+        "B": "Denominación vinculada a la medición y representación de las alturas del terreno.",
+        "C": "La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra."
+      }
+    },
+    {
+      "id": "GC-T18-Q0021",
+      "fact_id": "GC-T18-F013",
+      "bloque": 2,
+      "concepto": "Altimetría",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Altimetría, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Denominación vinculada a la medición y representación de las alturas del terreno.",
+        "B": "Integra la posición horizontal de la planimetría y la información de alturas de la altimetría.",
+        "C": "Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0025",
+      "fact_id": "GC-T18-F016",
+      "bloque": 2,
+      "concepto": "Diferencia esencial",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Diferencia esencial?",
+      "opciones": {
+        "A": "La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra.",
+        "B": "Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+        "C": "En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre."
+      }
+    },
+    {
+      "id": "GC-T18-Q0026",
+      "fact_id": "GC-T18-F016",
+      "bloque": 2,
+      "concepto": "Diferencia esencial",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra.»?",
+      "opciones": {
+        "A": "Topografía",
+        "B": "Diferencia esencial",
+        "C": "Ámbito topográfico"
+      }
+    },
+    {
+      "id": "GC-T18-Q0024",
+      "fact_id": "GC-T18-F015",
+      "bloque": 2,
+      "concepto": "Representación topográfica completa",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Representación topográfica completa, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra.",
+        "B": "Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+        "C": "Integra la posición horizontal de la planimetría y la información de alturas de la altimetría."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0016",
+      "respuesta_correcta": "A",
+      "explicacion": "Topografía: Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+      "fact_id": "GC-T18-F009",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0017",
+      "respuesta_correcta": "B",
+      "explicacion": "Ámbito topográfico: En extensiones reducidas puede adoptarse una superficie plana de referencia y despreciarse, a efectos prácticos, la curvatura terrestre.",
+      "fact_id": "GC-T18-F010",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0015",
+      "respuesta_correcta": "C",
+      "explicacion": "Topografía: Disciplina que mide y representa una porción limitada de la superficie terrestre con sus detalles naturales y artificiales.",
+      "fact_id": "GC-T18-F009",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0019",
+      "respuesta_correcta": "A",
+      "explicacion": "Planimetría: Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+      "fact_id": "GC-T18-F011",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0020",
+      "respuesta_correcta": "B",
+      "explicacion": "Proyección planimétrica: Sitúa los puntos del terreno mediante su proyección ortogonal sobre un plano horizontal de comparación.",
+      "fact_id": "GC-T18-F012",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0018",
+      "respuesta_correcta": "C",
+      "explicacion": "Planimetría: Conjunto de métodos para representar a escala los detalles del terreno sobre un plano horizontal, prescindiendo del relieve.",
+      "fact_id": "GC-T18-F011",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0022",
+      "respuesta_correcta": "A",
+      "explicacion": "Altimetría: Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.",
+      "fact_id": "GC-T18-F013",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0023",
+      "respuesta_correcta": "B",
+      "explicacion": "Hipsometría: Denominación vinculada a la medición y representación de las alturas del terreno.",
+      "fact_id": "GC-T18-F014",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0021",
+      "respuesta_correcta": "C",
+      "explicacion": "Altimetría: Conjunto de métodos para determinar y representar las alturas o cotas de los puntos respecto de una superficie de referencia.",
+      "fact_id": "GC-T18-F013",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0025",
+      "respuesta_correcta": "A",
+      "explicacion": "Diferencia esencial: La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra.",
+      "fact_id": "GC-T18-F016",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0026",
+      "respuesta_correcta": "B",
+      "explicacion": "Diferencia esencial: La planimetría responde dónde está un punto en horizontal; la altimetría responde a qué altura se encuentra.",
+      "fact_id": "GC-T18-F016",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0024",
+      "respuesta_correcta": "C",
+      "explicacion": "Representación topográfica completa: Integra la posición horizontal de la planimetría y la información de alturas de la altimetría.",
+      "fact_id": "GC-T18-F015",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

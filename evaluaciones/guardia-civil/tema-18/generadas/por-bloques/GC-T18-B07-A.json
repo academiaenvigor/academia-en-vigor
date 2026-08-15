@@ -1,0 +1,525 @@
+{
+  "id": "GC-T18-B07-A",
+  "titulo": "Tema 18 · Bloque 7: Unidades lineales y superficiales · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      7
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0100",
+      "fact_id": "GC-T18-F059",
+      "bloque": 7,
+      "concepto": "Metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad básica de longitud del Sistema Internacional, símbolo m.»?",
+      "opciones": {
+        "A": "Metro",
+        "B": "Definición operacional del metro",
+        "C": "Kilómetro"
+      }
+    },
+    {
+      "id": "GC-T18-Q0098",
+      "fact_id": "GC-T18-F058",
+      "bloque": 7,
+      "concepto": "Medir",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Medir.",
+      "opciones": {
+        "A": "Unidad básica de longitud del Sistema Internacional, símbolo m.",
+        "B": "Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+        "C": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo."
+      }
+    },
+    {
+      "id": "GC-T18-Q0099",
+      "fact_id": "GC-T18-F059",
+      "bloque": 7,
+      "concepto": "Metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Metro, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+        "B": "Múltiplo del metro equivalente a 1 000 metros.",
+        "C": "Unidad básica de longitud del Sistema Internacional, símbolo m."
+      }
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "fact_id": "GC-T18-F061",
+      "bloque": 7,
+      "concepto": "Kilómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Kilómetro.",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 1 000 metros.",
+        "B": "Múltiplo del metro equivalente a 100 metros.",
+        "C": "Múltiplo del metro equivalente a 10 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0101",
+      "fact_id": "GC-T18-F060",
+      "bloque": 7,
+      "concepto": "Definición operacional del metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Definición operacional del metro, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 1 000 metros.",
+        "B": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+        "C": "Múltiplo del metro equivalente a 100 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0102",
+      "fact_id": "GC-T18-F060",
+      "bloque": 7,
+      "concepto": "Definición operacional del metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.»?",
+      "opciones": {
+        "A": "Kilómetro",
+        "B": "Hectómetro",
+        "C": "Definición operacional del metro"
+      }
+    },
+    {
+      "id": "GC-T18-Q0106",
+      "fact_id": "GC-T18-F062",
+      "bloque": 7,
+      "concepto": "Hectómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Múltiplo del metro equivalente a 100 metros.»?",
+      "opciones": {
+        "A": "Hectómetro",
+        "B": "Decámetro",
+        "C": "Decímetro"
+      }
+    },
+    {
+      "id": "GC-T18-Q0104",
+      "fact_id": "GC-T18-F061",
+      "bloque": 7,
+      "concepto": "Kilómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Múltiplo del metro equivalente a 1 000 metros.»?",
+      "opciones": {
+        "A": "Hectómetro",
+        "B": "Kilómetro",
+        "C": "Decámetro"
+      }
+    },
+    {
+      "id": "GC-T18-Q0105",
+      "fact_id": "GC-T18-F062",
+      "bloque": 7,
+      "concepto": "Hectómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Hectómetro?",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 10 metros.",
+        "B": "Submúltiplo del metro equivalente a 0,1 metros.",
+        "C": "Múltiplo del metro equivalente a 100 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0109",
+      "fact_id": "GC-T18-F065",
+      "bloque": 7,
+      "concepto": "Centímetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Centímetro, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Submúltiplo del metro equivalente a 0,01 metros.",
+        "B": "Submúltiplo del metro equivalente a 0,001 metros.",
+        "C": "Unidad de superficie correspondiente al área de un cuadrado de un metro de lado."
+      }
+    },
+    {
+      "id": "GC-T18-Q0107",
+      "fact_id": "GC-T18-F063",
+      "bloque": 7,
+      "concepto": "Decámetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Decámetro?",
+      "opciones": {
+        "A": "Submúltiplo del metro equivalente a 0,1 metros.",
+        "B": "Múltiplo del metro equivalente a 10 metros.",
+        "C": "Submúltiplo del metro equivalente a 0,01 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0108",
+      "fact_id": "GC-T18-F064",
+      "bloque": 7,
+      "concepto": "Decímetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Decímetro.",
+      "opciones": {
+        "A": "Submúltiplo del metro equivalente a 0,01 metros.",
+        "B": "Submúltiplo del metro equivalente a 0,001 metros.",
+        "C": "Submúltiplo del metro equivalente a 0,1 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0112",
+      "fact_id": "GC-T18-F066",
+      "bloque": 7,
+      "concepto": "Milímetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Submúltiplo del metro equivalente a 0,001 metros.»?",
+      "opciones": {
+        "A": "Milímetro",
+        "B": "Metro cuadrado",
+        "C": "Hectárea"
+      }
+    },
+    {
+      "id": "GC-T18-Q0110",
+      "fact_id": "GC-T18-F065",
+      "bloque": 7,
+      "concepto": "Centímetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Submúltiplo del metro equivalente a 0,01 metros.»?",
+      "opciones": {
+        "A": "Milímetro",
+        "B": "Centímetro",
+        "C": "Metro cuadrado"
+      }
+    },
+    {
+      "id": "GC-T18-Q0111",
+      "fact_id": "GC-T18-F066",
+      "bloque": 7,
+      "concepto": "Milímetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Milímetro, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Unidad de superficie correspondiente al área de un cuadrado de un metro de lado.",
+        "B": "Unidad de superficie equivalente a 10 000 metros cuadrados.",
+        "C": "Submúltiplo del metro equivalente a 0,001 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0115",
+      "fact_id": "GC-T18-F068",
+      "bloque": 7,
+      "concepto": "Hectárea",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Hectárea?",
+      "opciones": {
+        "A": "Unidad de superficie equivalente a 10 000 metros cuadrados.",
+        "B": "Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea.",
+        "C": "Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie."
+      }
+    },
+    {
+      "id": "GC-T18-Q0113",
+      "fact_id": "GC-T18-F067",
+      "bloque": 7,
+      "concepto": "Metro cuadrado",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Metro cuadrado.",
+      "opciones": {
+        "A": "Unidad de superficie equivalente a 10 000 metros cuadrados.",
+        "B": "Unidad de superficie correspondiente al área de un cuadrado de un metro de lado.",
+        "C": "Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea."
+      }
+    },
+    {
+      "id": "GC-T18-Q0114",
+      "fact_id": "GC-T18-F067",
+      "bloque": 7,
+      "concepto": "Metro cuadrado",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad de superficie correspondiente al área de un cuadrado de un metro de lado.»?",
+      "opciones": {
+        "A": "Hectárea",
+        "B": "Hectómetro cuadrado",
+        "C": "Metro cuadrado"
+      }
+    },
+    {
+      "id": "GC-T18-Q0118",
+      "fact_id": "GC-T18-F069",
+      "bloque": 7,
+      "concepto": "Hectómetro cuadrado",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea.»?",
+      "opciones": {
+        "A": "Hectómetro cuadrado",
+        "B": "Conversión superficial",
+        "C": "Medir"
+      }
+    },
+    {
+      "id": "GC-T18-Q0116",
+      "fact_id": "GC-T18-F068",
+      "bloque": 7,
+      "concepto": "Hectárea",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad de superficie equivalente a 10 000 metros cuadrados.»?",
+      "opciones": {
+        "A": "Hectómetro cuadrado",
+        "B": "Hectárea",
+        "C": "Conversión superficial"
+      }
+    },
+    {
+      "id": "GC-T18-Q0117",
+      "fact_id": "GC-T18-F069",
+      "bloque": 7,
+      "concepto": "Hectómetro cuadrado",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Hectómetro cuadrado?",
+      "opciones": {
+        "A": "Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie.",
+        "B": "Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+        "C": "Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea."
+      }
+    },
+    {
+      "id": "GC-T18-Q0119",
+      "fact_id": "GC-T18-F070",
+      "bloque": 7,
+      "concepto": "Conversión superficial",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Conversión superficial, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+        "B": "Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie.",
+        "C": "Unidad básica de longitud del Sistema Internacional, símbolo m."
+      }
+    },
+    {
+      "id": "GC-T18-Q0120",
+      "fact_id": "GC-T18-F070",
+      "bloque": 7,
+      "concepto": "Conversión superficial",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie.»?",
+      "opciones": {
+        "A": "Medir",
+        "B": "Metro",
+        "C": "Conversión superficial"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0100",
+      "respuesta_correcta": "A",
+      "explicacion": "Metro: Unidad básica de longitud del Sistema Internacional, símbolo m.",
+      "fact_id": "GC-T18-F059",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0098",
+      "respuesta_correcta": "B",
+      "explicacion": "Medir: Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+      "fact_id": "GC-T18-F058",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0099",
+      "respuesta_correcta": "C",
+      "explicacion": "Metro: Unidad básica de longitud del Sistema Internacional, símbolo m.",
+      "fact_id": "GC-T18-F059",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "respuesta_correcta": "A",
+      "explicacion": "Kilómetro: Múltiplo del metro equivalente a 1 000 metros.",
+      "fact_id": "GC-T18-F061",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0101",
+      "respuesta_correcta": "B",
+      "explicacion": "Definición operacional del metro: El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+      "fact_id": "GC-T18-F060",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0102",
+      "respuesta_correcta": "C",
+      "explicacion": "Definición operacional del metro: El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo.",
+      "fact_id": "GC-T18-F060",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0106",
+      "respuesta_correcta": "A",
+      "explicacion": "Hectómetro: Múltiplo del metro equivalente a 100 metros.",
+      "fact_id": "GC-T18-F062",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0104",
+      "respuesta_correcta": "B",
+      "explicacion": "Kilómetro: Múltiplo del metro equivalente a 1 000 metros.",
+      "fact_id": "GC-T18-F061",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0105",
+      "respuesta_correcta": "C",
+      "explicacion": "Hectómetro: Múltiplo del metro equivalente a 100 metros.",
+      "fact_id": "GC-T18-F062",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0109",
+      "respuesta_correcta": "A",
+      "explicacion": "Centímetro: Submúltiplo del metro equivalente a 0,01 metros.",
+      "fact_id": "GC-T18-F065",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0107",
+      "respuesta_correcta": "B",
+      "explicacion": "Decámetro: Múltiplo del metro equivalente a 10 metros.",
+      "fact_id": "GC-T18-F063",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0108",
+      "respuesta_correcta": "C",
+      "explicacion": "Decímetro: Submúltiplo del metro equivalente a 0,1 metros.",
+      "fact_id": "GC-T18-F064",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0112",
+      "respuesta_correcta": "A",
+      "explicacion": "Milímetro: Submúltiplo del metro equivalente a 0,001 metros.",
+      "fact_id": "GC-T18-F066",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0110",
+      "respuesta_correcta": "B",
+      "explicacion": "Centímetro: Submúltiplo del metro equivalente a 0,01 metros.",
+      "fact_id": "GC-T18-F065",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0111",
+      "respuesta_correcta": "C",
+      "explicacion": "Milímetro: Submúltiplo del metro equivalente a 0,001 metros.",
+      "fact_id": "GC-T18-F066",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0115",
+      "respuesta_correcta": "A",
+      "explicacion": "Hectárea: Unidad de superficie equivalente a 10 000 metros cuadrados.",
+      "fact_id": "GC-T18-F068",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0113",
+      "respuesta_correcta": "B",
+      "explicacion": "Metro cuadrado: Unidad de superficie correspondiente al área de un cuadrado de un metro de lado.",
+      "fact_id": "GC-T18-F067",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0114",
+      "respuesta_correcta": "C",
+      "explicacion": "Metro cuadrado: Unidad de superficie correspondiente al área de un cuadrado de un metro de lado.",
+      "fact_id": "GC-T18-F067",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0118",
+      "respuesta_correcta": "A",
+      "explicacion": "Hectómetro cuadrado: Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea.",
+      "fact_id": "GC-T18-F069",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0116",
+      "respuesta_correcta": "B",
+      "explicacion": "Hectárea: Unidad de superficie equivalente a 10 000 metros cuadrados.",
+      "fact_id": "GC-T18-F068",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0117",
+      "respuesta_correcta": "C",
+      "explicacion": "Hectómetro cuadrado: Superficie equivalente a 10 000 metros cuadrados y, por tanto, a una hectárea.",
+      "fact_id": "GC-T18-F069",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0119",
+      "respuesta_correcta": "B",
+      "explicacion": "Conversión superficial: Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie.",
+      "fact_id": "GC-T18-F070",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0120",
+      "respuesta_correcta": "C",
+      "explicacion": "Conversión superficial: Cada salto decimal entre unidades lineales se convierte en un factor cien cuando se trata de superficie.",
+      "fact_id": "GC-T18-F070",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

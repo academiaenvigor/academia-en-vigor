@@ -1,0 +1,261 @@
+{
+  "id": "GC-T18-B12-A",
+  "titulo": "Tema 18 · Bloque 12: Mapas, planos, cartas y croquis · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      12
+    ]
+  },
+  "numero_preguntas": 11,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0214",
+      "fact_id": "GC-T18-F119",
+      "bloque": 12,
+      "concepto": "Mapa topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.»?",
+      "opciones": {
+        "A": "Mapa topográfico",
+        "B": "Plano",
+        "C": "Carta"
+      }
+    },
+    {
+      "id": "GC-T18-Q0212",
+      "fact_id": "GC-T18-F118",
+      "bloque": 12,
+      "concepto": "Mapa",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Mapa?",
+      "opciones": {
+        "A": "Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+        "B": "Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella.",
+        "C": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse."
+      }
+    },
+    {
+      "id": "GC-T18-Q0213",
+      "fact_id": "GC-T18-F119",
+      "bloque": 12,
+      "concepto": "Mapa topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Mapa topográfico.",
+      "opciones": {
+        "A": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+        "B": "Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso.",
+        "C": "Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "fact_id": "GC-T18-F122",
+      "bloque": 12,
+      "concepto": "Croquis",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Croquis?",
+      "opciones": {
+        "A": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+        "B": "Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida.",
+        "C": "Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0215",
+      "fact_id": "GC-T18-F120",
+      "bloque": 12,
+      "concepto": "Plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Plano?",
+      "opciones": {
+        "A": "Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso.",
+        "B": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+        "C": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa."
+      }
+    },
+    {
+      "id": "GC-T18-Q0216",
+      "fact_id": "GC-T18-F121",
+      "bloque": 12,
+      "concepto": "Carta",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Carta, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+        "B": "Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida.",
+        "C": "Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso."
+      }
+    },
+    {
+      "id": "GC-T18-Q0220",
+      "fact_id": "GC-T18-F124",
+      "bloque": 12,
+      "concepto": "Signo convencional",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Signo convencional?",
+      "opciones": {
+        "A": "Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico.",
+        "B": "Explicación de los signos, colores y símbolos utilizados en el mapa o plano.",
+        "C": "Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella."
+      }
+    },
+    {
+      "id": "GC-T18-Q0218",
+      "fact_id": "GC-T18-F122",
+      "bloque": 12,
+      "concepto": "Croquis",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.»?",
+      "opciones": {
+        "A": "Generalización cartográfica",
+        "B": "Croquis",
+        "C": "Signo convencional"
+      }
+    },
+    {
+      "id": "GC-T18-Q0219",
+      "fact_id": "GC-T18-F123",
+      "bloque": 12,
+      "concepto": "Generalización cartográfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Generalización cartográfica, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico.",
+        "B": "Explicación de los signos, colores y símbolos utilizados en el mapa o plano.",
+        "C": "Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida."
+      }
+    },
+    {
+      "id": "GC-T18-Q0221",
+      "fact_id": "GC-T18-F125",
+      "bloque": 12,
+      "concepto": "Leyenda",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Leyenda, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella.",
+        "B": "Explicación de los signos, colores y símbolos utilizados en el mapa o plano.",
+        "C": "Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0222",
+      "fact_id": "GC-T18-F125",
+      "bloque": 12,
+      "concepto": "Leyenda",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Explicación de los signos, colores y símbolos utilizados en el mapa o plano.»?",
+      "opciones": {
+        "A": "Mapa",
+        "B": "Mapa topográfico",
+        "C": "Leyenda"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0214",
+      "respuesta_correcta": "A",
+      "explicacion": "Mapa topográfico: Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+      "fact_id": "GC-T18-F119",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0212",
+      "respuesta_correcta": "B",
+      "explicacion": "Mapa: Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella.",
+      "fact_id": "GC-T18-F118",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0213",
+      "respuesta_correcta": "C",
+      "explicacion": "Mapa topográfico: Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+      "fact_id": "GC-T18-F119",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "respuesta_correcta": "A",
+      "explicacion": "Croquis: Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+      "fact_id": "GC-T18-F122",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0215",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano: Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse.",
+      "fact_id": "GC-T18-F120",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0216",
+      "respuesta_correcta": "C",
+      "explicacion": "Carta: Representación cartográfica destinada especialmente a la navegación marítima o aérea y adaptada a ese uso.",
+      "fact_id": "GC-T18-F121",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0220",
+      "respuesta_correcta": "A",
+      "explicacion": "Signo convencional: Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico.",
+      "fact_id": "GC-T18-F124",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0218",
+      "respuesta_correcta": "B",
+      "explicacion": "Croquis: Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+      "fact_id": "GC-T18-F122",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0219",
+      "respuesta_correcta": "C",
+      "explicacion": "Generalización cartográfica: Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida.",
+      "fact_id": "GC-T18-F123",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0221",
+      "respuesta_correcta": "B",
+      "explicacion": "Leyenda: Explicación de los signos, colores y símbolos utilizados en el mapa o plano.",
+      "fact_id": "GC-T18-F125",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0222",
+      "respuesta_correcta": "C",
+      "explicacion": "Leyenda: Explicación de los signos, colores y símbolos utilizados en el mapa o plano.",
+      "fact_id": "GC-T18-F125",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

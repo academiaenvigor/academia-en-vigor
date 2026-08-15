@@ -1,0 +1,353 @@
+{
+  "id": "GC-T18-PARTE-2-A",
+  "titulo": "Tema 18 · Unidades geométricas y escalas · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0100",
+      "fact_id": "GC-T18-F059",
+      "bloque": 7,
+      "concepto": "Metro",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad básica de longitud del Sistema Internacional, símbolo m.»?",
+      "opciones": {
+        "A": "Metro",
+        "B": "Definición operacional del metro",
+        "C": "Kilómetro"
+      }
+    },
+    {
+      "id": "GC-T18-Q0098",
+      "fact_id": "GC-T18-F058",
+      "bloque": 7,
+      "concepto": "Medir",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Medir.",
+      "opciones": {
+        "A": "Unidad básica de longitud del Sistema Internacional, símbolo m.",
+        "B": "Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+        "C": "El valor fijado de la velocidad de la luz en el vacío es 299 792 458 metros por segundo."
+      }
+    },
+    {
+      "id": "GC-T18-Q0121",
+      "fact_id": "GC-T18-F071",
+      "bloque": 8,
+      "concepto": "Ángulo recto",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Ángulo recto, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ángulo formado por dos direcciones perpendiculares.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+        "C": "Una vuelta completa contiene 360 grados sexagesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0122",
+      "fact_id": "GC-T18-F072",
+      "bloque": 8,
+      "concepto": "Grado sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Grado sexagesimal?",
+      "opciones": {
+        "A": "Una vuelta completa contiene 360 grados sexagesimales.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+        "C": "Cada grado sexagesimal se divide en 60 minutos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0145",
+      "fact_id": "GC-T18-F083",
+      "bloque": 9,
+      "concepto": "Radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.»?",
+      "opciones": {
+        "A": "Radián",
+        "B": "Vuelta en radianes",
+        "C": "Ángulo llano en radianes"
+      }
+    },
+    {
+      "id": "GC-T18-Q0146",
+      "fact_id": "GC-T18-F084",
+      "bloque": 9,
+      "concepto": "Vuelta en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Vuelta en radianes, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "B": "Una circunferencia completa contiene 2π radianes.",
+        "C": "Noventa grados sexagesimales equivalen a π/2 radianes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0169",
+      "fact_id": "GC-T18-F095",
+      "bloque": 10,
+      "concepto": "Escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.»?",
+      "opciones": {
+        "A": "Escala",
+        "B": "Escala numérica",
+        "C": "Numerador de la escala"
+      }
+    },
+    {
+      "id": "GC-T18-Q0170",
+      "fact_id": "GC-T18-F096",
+      "bloque": 10,
+      "concepto": "Escala numérica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Escala numérica?",
+      "opciones": {
+        "A": "Representa una unidad medida en el plano.",
+        "B": "Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+        "C": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano."
+      }
+    },
+    {
+      "id": "GC-T18-Q0187",
+      "fact_id": "GC-T18-F105",
+      "bloque": 11,
+      "concepto": "Distancia real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.»?",
+      "opciones": {
+        "A": "Distancia real desde el plano",
+        "B": "Distancia en el plano",
+        "C": "Denominador desconocido"
+      }
+    },
+    {
+      "id": "GC-T18-Q0188",
+      "fact_id": "GC-T18-F106",
+      "bloque": 11,
+      "concepto": "Distancia en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Distancia en el plano.",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "B": "Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+        "C": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000."
+      }
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "fact_id": "GC-T18-F061",
+      "bloque": 7,
+      "concepto": "Kilómetro",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Kilómetro.",
+      "opciones": {
+        "A": "Múltiplo del metro equivalente a 1 000 metros.",
+        "B": "Múltiplo del metro equivalente a 100 metros.",
+        "C": "Múltiplo del metro equivalente a 10 metros."
+      }
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "fact_id": "GC-T18-F073",
+      "bloque": 8,
+      "concepto": "Circunferencia sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Circunferencia sexagesimal, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Una vuelta completa contiene 360 grados sexagesimales.",
+        "B": "Cada grado sexagesimal se divide en 60 minutos.",
+        "C": "Cada minuto sexagesimal se divide en 60 segundos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "fact_id": "GC-T18-F085",
+      "bloque": 9,
+      "concepto": "Ángulo llano en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Ángulo llano en radianes.",
+      "opciones": {
+        "A": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "B": "Noventa grados sexagesimales equivalen a π/2 radianes.",
+        "C": "Unidad angular definida, en el convenio del temario, como la milésima parte de un radián."
+      }
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "fact_id": "GC-T18-F097",
+      "bloque": 10,
+      "concepto": "Numerador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Numerador de la escala?",
+      "opciones": {
+        "A": "Representa una unidad medida en el plano.",
+        "B": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.",
+        "C": "Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor."
+      }
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "fact_id": "GC-T18-F107",
+      "bloque": 11,
+      "concepto": "Denominador desconocido",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Denominador desconocido?",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "B": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.",
+        "C": "Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0100",
+      "respuesta_correcta": "A",
+      "explicacion": "Metro: Unidad básica de longitud del Sistema Internacional, símbolo m.",
+      "fact_id": "GC-T18-F059",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0098",
+      "respuesta_correcta": "B",
+      "explicacion": "Medir: Comparar una magnitud con otra de la misma especie adoptada como unidad para expresar cuántas veces la contiene.",
+      "fact_id": "GC-T18-F058",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0121",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo recto: Ángulo formado por dos direcciones perpendiculares.",
+      "fact_id": "GC-T18-F071",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0122",
+      "respuesta_correcta": "B",
+      "explicacion": "Grado sexagesimal: Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+      "fact_id": "GC-T18-F072",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0145",
+      "respuesta_correcta": "A",
+      "explicacion": "Radián: Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+      "fact_id": "GC-T18-F083",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0146",
+      "respuesta_correcta": "B",
+      "explicacion": "Vuelta en radianes: Una circunferencia completa contiene 2π radianes.",
+      "fact_id": "GC-T18-F084",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0169",
+      "respuesta_correcta": "A",
+      "explicacion": "Escala: Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+      "fact_id": "GC-T18-F095",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0170",
+      "respuesta_correcta": "B",
+      "explicacion": "Escala numérica: Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+      "fact_id": "GC-T18-F096",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0187",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia real desde el plano: Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F105",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0188",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia en el plano: Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F106",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0103",
+      "respuesta_correcta": "A",
+      "explicacion": "Kilómetro: Múltiplo del metro equivalente a 1 000 metros.",
+      "fact_id": "GC-T18-F061",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "respuesta_correcta": "A",
+      "explicacion": "Circunferencia sexagesimal: Una vuelta completa contiene 360 grados sexagesimales.",
+      "fact_id": "GC-T18-F073",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo llano en radianes: Ciento ochenta grados sexagesimales equivalen a π radianes.",
+      "fact_id": "GC-T18-F085",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "respuesta_correcta": "A",
+      "explicacion": "Numerador de la escala: Representa una unidad medida en el plano.",
+      "fact_id": "GC-T18-F097",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "respuesta_correcta": "A",
+      "explicacion": "Denominador desconocido: Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+      "fact_id": "GC-T18-F107",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

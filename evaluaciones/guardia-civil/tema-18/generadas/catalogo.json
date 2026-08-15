@@ -1,0 +1,352 @@
+{
+  "content_version": "1.0.0",
+  "total_tests": 29,
+  "tests_cobertura_bloque": 20,
+  "tests_por_partes": 6,
+  "tests_finales": 3,
+  "regla_cobertura": "Cada pregunta del banco aparece exactamente una vez en el conjunto de tests de cobertura por bloque.",
+  "tests": [
+    {
+      "id": "GC-T18-B01-A",
+      "ruta": "por-bloques/GC-T18-B01-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 14,
+      "bloques": [
+        1
+      ]
+    },
+    {
+      "id": "GC-T18-B02-A",
+      "ruta": "por-bloques/GC-T18-B02-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 12,
+      "bloques": [
+        2
+      ]
+    },
+    {
+      "id": "GC-T18-B03-A",
+      "ruta": "por-bloques/GC-T18-B03-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 13,
+      "bloques": [
+        3
+      ]
+    },
+    {
+      "id": "GC-T18-B04-A",
+      "ruta": "por-bloques/GC-T18-B04-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 23,
+      "bloques": [
+        4
+      ]
+    },
+    {
+      "id": "GC-T18-B05-A",
+      "ruta": "por-bloques/GC-T18-B05-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 15,
+      "bloques": [
+        5
+      ]
+    },
+    {
+      "id": "GC-T18-B06-A",
+      "ruta": "por-bloques/GC-T18-B06-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 20,
+      "bloques": [
+        6
+      ]
+    },
+    {
+      "id": "GC-T18-B07-A",
+      "ruta": "por-bloques/GC-T18-B07-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 23,
+      "bloques": [
+        7
+      ]
+    },
+    {
+      "id": "GC-T18-B08-A",
+      "ruta": "por-bloques/GC-T18-B08-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 23,
+      "bloques": [
+        8
+      ]
+    },
+    {
+      "id": "GC-T18-B09-A",
+      "ruta": "por-bloques/GC-T18-B09-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 24,
+      "bloques": [
+        9
+      ]
+    },
+    {
+      "id": "GC-T18-B10-A",
+      "ruta": "por-bloques/GC-T18-B10-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 18,
+      "bloques": [
+        10
+      ]
+    },
+    {
+      "id": "GC-T18-B11-A",
+      "ruta": "por-bloques/GC-T18-B11-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        11
+      ]
+    },
+    {
+      "id": "GC-T18-B11-B",
+      "ruta": "por-bloques/GC-T18-B11-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 1,
+      "bloques": [
+        11
+      ]
+    },
+    {
+      "id": "GC-T18-B12-A",
+      "ruta": "por-bloques/GC-T18-B12-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 11,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T18-B13-A",
+      "ruta": "por-bloques/GC-T18-B13-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 23,
+      "bloques": [
+        13
+      ]
+    },
+    {
+      "id": "GC-T18-B14-A",
+      "ruta": "por-bloques/GC-T18-B14-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        14
+      ]
+    },
+    {
+      "id": "GC-T18-B14-B",
+      "ruta": "por-bloques/GC-T18-B14-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 1,
+      "bloques": [
+        14
+      ]
+    },
+    {
+      "id": "GC-T18-B15-A",
+      "ruta": "por-bloques/GC-T18-B15-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 19,
+      "bloques": [
+        15
+      ]
+    },
+    {
+      "id": "GC-T18-B16-A",
+      "ruta": "por-bloques/GC-T18-B16-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 12,
+      "bloques": [
+        16
+      ]
+    },
+    {
+      "id": "GC-T18-B17-A",
+      "ruta": "por-bloques/GC-T18-B17-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 22,
+      "bloques": [
+        17
+      ]
+    },
+    {
+      "id": "GC-T18-B18-A",
+      "ruta": "por-bloques/GC-T18-B18-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 21,
+      "bloques": [
+        18
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-1-A",
+      "ruta": "por-partes/GC-T18-PARTE-1-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-1-B",
+      "ruta": "por-partes/GC-T18-PARTE-1-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-2-A",
+      "ruta": "por-partes/GC-T18-PARTE-2-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-2-B",
+      "ruta": "por-partes/GC-T18-PARTE-2-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-3-A",
+      "ruta": "por-partes/GC-T18-PARTE-3-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "GC-T18-PARTE-3-B",
+      "ruta": "por-partes/GC-T18-PARTE-3-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "GC-T18-FINAL-25-A",
+      "ruta": "finales/GC-T18-FINAL-25-A.json",
+      "tipo": "test_final",
+      "preguntas": 25,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "GC-T18-FINAL-25-B",
+      "ruta": "finales/GC-T18-FINAL-25-B.json",
+      "tipo": "test_final",
+      "preguntas": 25,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "GC-T18-FINAL-50-A",
+      "ruta": "finales/GC-T18-FINAL-50-A.json",
+      "tipo": "test_final",
+      "preguntas": 50,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ]
+}

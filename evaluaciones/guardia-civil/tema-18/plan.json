@@ -1,0 +1,157 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 18,
+  "topic_title": "Topografía",
+  "id_prefix": "GC-T18",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-18/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-18/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial y método de resolución"
+      },
+      {
+        "number": 2,
+        "title": "Topografía, planimetría y altimetría"
+      },
+      {
+        "number": 3,
+        "title": "Eje terrestre, polos y ecuador"
+      },
+      {
+        "number": 4,
+        "title": "Meridianos, paralelos y coordenadas geográficas"
+      },
+      {
+        "number": 5,
+        "title": "Puntos cardinales, nortes y declinación magnética"
+      },
+      {
+        "number": 6,
+        "title": "Acimut, rumbo y direcciones inversas"
+      },
+      {
+        "number": 7,
+        "title": "Unidades lineales y superficiales"
+      },
+      {
+        "number": 8,
+        "title": "Sistemas angulares sexagesimal y centesimal"
+      },
+      {
+        "number": 9,
+        "title": "Radián, milésima y conversiones angulares"
+      },
+      {
+        "number": 10,
+        "title": "Concepto y tipos de escala"
+      },
+      {
+        "number": 11,
+        "title": "Cálculos con escalas lineales y superficiales"
+      },
+      {
+        "number": 12,
+        "title": "Mapas, planos, cartas y croquis"
+      },
+      {
+        "number": 13,
+        "title": "Distancias, cota, altitud y desnivel"
+      },
+      {
+        "number": 14,
+        "title": "Sistema de planos acotados y curvas de nivel"
+      },
+      {
+        "number": 15,
+        "title": "Interpolación de cotas y pendiente"
+      },
+      {
+        "number": 16,
+        "title": "Clases del terreno"
+      },
+      {
+        "number": 17,
+        "title": "Accidentes básicos: laderas, divisorias, vaguadas y collados"
+      },
+      {
+        "number": 18,
+        "title": "Accidentes complejos e hidrográficos"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Fundamentos y elementos geográficos",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Unidades geométricas y escalas",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Representación y lectura del terreno",
+        "blocks": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

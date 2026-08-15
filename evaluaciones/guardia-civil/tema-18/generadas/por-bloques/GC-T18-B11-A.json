@@ -1,0 +1,569 @@
+{
+  "id": "GC-T18-B11-A",
+  "titulo": "Tema 18 · Bloque 11: Cálculos con escalas lineales y superficiales · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      11
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0187",
+      "fact_id": "GC-T18-F105",
+      "bloque": 11,
+      "concepto": "Distancia real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.»?",
+      "opciones": {
+        "A": "Distancia real desde el plano",
+        "B": "Distancia en el plano",
+        "C": "Denominador desconocido"
+      }
+    },
+    {
+      "id": "GC-T18-Q0188",
+      "fact_id": "GC-T18-F106",
+      "bloque": 11,
+      "concepto": "Distancia en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Distancia en el plano.",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "B": "Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+        "C": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000."
+      }
+    },
+    {
+      "id": "GC-T18-Q0186",
+      "fact_id": "GC-T18-F105",
+      "bloque": 11,
+      "concepto": "Distancia real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Distancia real desde el plano, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+        "B": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "C": "Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "fact_id": "GC-T18-F107",
+      "bloque": 11,
+      "concepto": "Denominador desconocido",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Denominador desconocido?",
+      "opciones": {
+        "A": "Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+        "B": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.",
+        "C": "Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0191",
+      "fact_id": "GC-T18-F107",
+      "bloque": 11,
+      "concepto": "Denominador desconocido",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.»?",
+      "opciones": {
+        "A": "Ejemplo 1:25 000",
+        "B": "Denominador desconocido",
+        "C": "Ejemplo 1:800"
+      }
+    },
+    {
+      "id": "GC-T18-Q0189",
+      "fact_id": "GC-T18-F106",
+      "bloque": 11,
+      "concepto": "Distancia en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.»?",
+      "opciones": {
+        "A": "Denominador desconocido",
+        "B": "Ejemplo 1:25 000",
+        "C": "Distancia en el plano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0193",
+      "fact_id": "GC-T18-F108",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:25 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.»?",
+      "opciones": {
+        "A": "Ejemplo 1:25 000",
+        "B": "Ejemplo 1:800",
+        "C": "Ejemplo 1:100 000"
+      }
+    },
+    {
+      "id": "GC-T18-Q0194",
+      "fact_id": "GC-T18-F109",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:800",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Ejemplo 1:800, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.",
+        "B": "Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno.",
+        "C": "Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores."
+      }
+    },
+    {
+      "id": "GC-T18-Q0192",
+      "fact_id": "GC-T18-F108",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:25 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Ejemplo 1:25 000?",
+      "opciones": {
+        "A": "Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno.",
+        "B": "Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.",
+        "C": "Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000."
+      }
+    },
+    {
+      "id": "GC-T18-Q0196",
+      "fact_id": "GC-T18-F110",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:100 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Ejemplo 1:100 000, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.",
+        "B": "Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores.",
+        "C": "Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala."
+      }
+    },
+    {
+      "id": "GC-T18-Q0197",
+      "fact_id": "GC-T18-F110",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:100 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.»?",
+      "opciones": {
+        "A": "Relación entre dos planos",
+        "B": "Ejemplo 1:100 000",
+        "C": "Área real desde el plano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0195",
+      "fact_id": "GC-T18-F109",
+      "bloque": 11,
+      "concepto": "Ejemplo 1:800",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno.»?",
+      "opciones": {
+        "A": "Ejemplo 1:100 000",
+        "B": "Relación entre dos planos",
+        "C": "Ejemplo 1:800"
+      }
+    },
+    {
+      "id": "GC-T18-Q0199",
+      "fact_id": "GC-T18-F111",
+      "bloque": 11,
+      "concepto": "Relación entre dos planos",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores.»?",
+      "opciones": {
+        "A": "Relación entre dos planos",
+        "B": "Área real desde el plano",
+        "C": "Área en el plano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0200",
+      "fact_id": "GC-T18-F112",
+      "bloque": 11,
+      "concepto": "Área real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Área real desde el plano?",
+      "opciones": {
+        "A": "Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.",
+        "B": "Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala.",
+        "C": "Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano."
+      }
+    },
+    {
+      "id": "GC-T18-Q0198",
+      "fact_id": "GC-T18-F111",
+      "bloque": 11,
+      "concepto": "Relación entre dos planos",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Relación entre dos planos.",
+      "opciones": {
+        "A": "Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala.",
+        "B": "Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.",
+        "C": "Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores."
+      }
+    },
+    {
+      "id": "GC-T18-Q0202",
+      "fact_id": "GC-T18-F113",
+      "bloque": 11,
+      "concepto": "Área en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Área en el plano?",
+      "opciones": {
+        "A": "Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.",
+        "B": "Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano.",
+        "C": "Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000."
+      }
+    },
+    {
+      "id": "GC-T18-Q0203",
+      "fact_id": "GC-T18-F113",
+      "bloque": 11,
+      "concepto": "Área en el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.»?",
+      "opciones": {
+        "A": "Denominador desde superficies",
+        "B": "Área en el plano",
+        "C": "Ejemplo superficial 1:2 000"
+      }
+    },
+    {
+      "id": "GC-T18-Q0201",
+      "fact_id": "GC-T18-F112",
+      "bloque": 11,
+      "concepto": "Área real desde el plano",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala.»?",
+      "opciones": {
+        "A": "Área en el plano",
+        "B": "Denominador desde superficies",
+        "C": "Área real desde el plano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0205",
+      "fact_id": "GC-T18-F114",
+      "bloque": 11,
+      "concepto": "Denominador desde superficies",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano.»?",
+      "opciones": {
+        "A": "Denominador desde superficies",
+        "B": "Ejemplo superficial 1:2 000",
+        "C": "Control dimensional"
+      }
+    },
+    {
+      "id": "GC-T18-Q0206",
+      "fact_id": "GC-T18-F115",
+      "bloque": 11,
+      "concepto": "Ejemplo superficial 1:2 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Ejemplo superficial 1:2 000, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.",
+        "B": "Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000.",
+        "C": "Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática."
+      }
+    },
+    {
+      "id": "GC-T18-Q0204",
+      "fact_id": "GC-T18-F114",
+      "bloque": 11,
+      "concepto": "Denominador desde superficies",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Denominador desde superficies, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000.",
+        "B": "Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.",
+        "C": "Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano."
+      }
+    },
+    {
+      "id": "GC-T18-Q0208",
+      "fact_id": "GC-T18-F116",
+      "bloque": 11,
+      "concepto": "Control dimensional",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Control dimensional.",
+      "opciones": {
+        "A": "Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.",
+        "B": "Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática.",
+        "C": "Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0209",
+      "fact_id": "GC-T18-F116",
+      "bloque": 11,
+      "concepto": "Control dimensional",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.»?",
+      "opciones": {
+        "A": "Error típico de superficie",
+        "B": "Control dimensional",
+        "C": "Distancia real desde el plano"
+      }
+    },
+    {
+      "id": "GC-T18-Q0207",
+      "fact_id": "GC-T18-F115",
+      "bloque": 11,
+      "concepto": "Ejemplo superficial 1:2 000",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000.»?",
+      "opciones": {
+        "A": "Control dimensional",
+        "B": "Error típico de superficie",
+        "C": "Ejemplo superficial 1:2 000"
+      }
+    },
+    {
+      "id": "GC-T18-Q0211",
+      "fact_id": "GC-T18-F117",
+      "bloque": 11,
+      "concepto": "Error típico de superficie",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática.»?",
+      "opciones": {
+        "A": "Error típico de superficie",
+        "B": "Distancia real desde el plano",
+        "C": "Distancia en el plano"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0187",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia real desde el plano: Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F105",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0188",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia en el plano: Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F106",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0186",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia real desde el plano: Se obtiene multiplicando la distancia del plano por el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F105",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0190",
+      "respuesta_correcta": "A",
+      "explicacion": "Denominador desconocido: Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+      "fact_id": "GC-T18-F107",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0191",
+      "respuesta_correcta": "B",
+      "explicacion": "Denominador desconocido: Se obtiene dividiendo la distancia real entre la distancia correspondiente medida en el plano.",
+      "fact_id": "GC-T18-F107",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0189",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia en el plano: Se obtiene dividiendo la distancia horizontal real entre el denominador de la escala, con unidades homogéneas.",
+      "fact_id": "GC-T18-F106",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0193",
+      "respuesta_correcta": "A",
+      "explicacion": "Ejemplo 1:25 000: Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.",
+      "fact_id": "GC-T18-F108",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0194",
+      "respuesta_correcta": "B",
+      "explicacion": "Ejemplo 1:800: Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno.",
+      "fact_id": "GC-T18-F109",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0192",
+      "respuesta_correcta": "C",
+      "explicacion": "Ejemplo 1:25 000: Quinientos metros reales se representan por dos centímetros en un plano a escala 1:25 000.",
+      "fact_id": "GC-T18-F108",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0196",
+      "respuesta_correcta": "A",
+      "explicacion": "Ejemplo 1:100 000: Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.",
+      "fact_id": "GC-T18-F110",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0197",
+      "respuesta_correcta": "B",
+      "explicacion": "Ejemplo 1:100 000: Ochenta y cinco kilómetros reales se representan por ochenta y cinco centímetros en el plano.",
+      "fact_id": "GC-T18-F110",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0195",
+      "respuesta_correcta": "C",
+      "explicacion": "Ejemplo 1:800: Diez centímetros en un plano a escala 1:800 representan ochenta metros en el terreno.",
+      "fact_id": "GC-T18-F109",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0199",
+      "respuesta_correcta": "A",
+      "explicacion": "Relación entre dos planos: Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores.",
+      "fact_id": "GC-T18-F111",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0200",
+      "respuesta_correcta": "B",
+      "explicacion": "Área real desde el plano: Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F112",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0198",
+      "respuesta_correcta": "C",
+      "explicacion": "Relación entre dos planos: Para una misma distancia real, las longitudes medidas en dos planos son inversamente proporcionales a sus denominadores.",
+      "fact_id": "GC-T18-F111",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0202",
+      "respuesta_correcta": "A",
+      "explicacion": "Área en el plano: Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F113",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0203",
+      "respuesta_correcta": "B",
+      "explicacion": "Área en el plano: Se obtiene dividiendo el área real entre el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F113",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0201",
+      "respuesta_correcta": "C",
+      "explicacion": "Área real desde el plano: Se obtiene multiplicando el área del plano por el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F112",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0205",
+      "respuesta_correcta": "A",
+      "explicacion": "Denominador desde superficies: Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano.",
+      "fact_id": "GC-T18-F114",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0206",
+      "respuesta_correcta": "B",
+      "explicacion": "Ejemplo superficial 1:2 000: Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000.",
+      "fact_id": "GC-T18-F115",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0204",
+      "respuesta_correcta": "C",
+      "explicacion": "Denominador desde superficies: Se obtiene calculando la raíz cuadrada del cociente entre el área real y el área del plano.",
+      "fact_id": "GC-T18-F114",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0208",
+      "respuesta_correcta": "A",
+      "explicacion": "Control dimensional: Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.",
+      "fact_id": "GC-T18-F116",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0209",
+      "respuesta_correcta": "B",
+      "explicacion": "Control dimensional: Una respuesta de superficie debe expresarse en unidades cuadradas; una respuesta lineal, en unidades de longitud.",
+      "fact_id": "GC-T18-F116",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0207",
+      "respuesta_correcta": "C",
+      "explicacion": "Ejemplo superficial 1:2 000: Seiscientos metros cuadrados ocupan 1,5 centímetros cuadrados en un plano a escala 1:2 000.",
+      "fact_id": "GC-T18-F115",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0211",
+      "respuesta_correcta": "A",
+      "explicacion": "Error típico de superficie: Aplicar una sola vez el denominador a un área produce un resultado incorrecto porque la escala superficial es cuadrática.",
+      "fact_id": "GC-T18-F117",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

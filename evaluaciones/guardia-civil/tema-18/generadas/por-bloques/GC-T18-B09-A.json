@@ -1,0 +1,547 @@
+{
+  "id": "GC-T18-B09-A",
+  "titulo": "Tema 18 · Bloque 9: Radián, milésima y conversiones angulares · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      9
+    ]
+  },
+  "numero_preguntas": 24,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0145",
+      "fact_id": "GC-T18-F083",
+      "bloque": 9,
+      "concepto": "Radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.»?",
+      "opciones": {
+        "A": "Radián",
+        "B": "Vuelta en radianes",
+        "C": "Ángulo llano en radianes"
+      }
+    },
+    {
+      "id": "GC-T18-Q0146",
+      "fact_id": "GC-T18-F084",
+      "bloque": 9,
+      "concepto": "Vuelta en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Vuelta en radianes, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "B": "Una circunferencia completa contiene 2π radianes.",
+        "C": "Noventa grados sexagesimales equivalen a π/2 radianes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0144",
+      "fact_id": "GC-T18-F083",
+      "bloque": 9,
+      "concepto": "Radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Radián, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Una circunferencia completa contiene 2π radianes.",
+        "B": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "C": "Ángulo central que abarca un arco de longitud igual al radio de la circunferencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "fact_id": "GC-T18-F085",
+      "bloque": 9,
+      "concepto": "Ángulo llano en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Ángulo llano en radianes.",
+      "opciones": {
+        "A": "Ciento ochenta grados sexagesimales equivalen a π radianes.",
+        "B": "Noventa grados sexagesimales equivalen a π/2 radianes.",
+        "C": "Unidad angular definida, en el convenio del temario, como la milésima parte de un radián."
+      }
+    },
+    {
+      "id": "GC-T18-Q0149",
+      "fact_id": "GC-T18-F085",
+      "bloque": 9,
+      "concepto": "Ángulo llano en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ciento ochenta grados sexagesimales equivalen a π radianes.»?",
+      "opciones": {
+        "A": "Ángulo recto en radianes",
+        "B": "Ángulo llano en radianes",
+        "C": "Milésima"
+      }
+    },
+    {
+      "id": "GC-T18-Q0147",
+      "fact_id": "GC-T18-F084",
+      "bloque": 9,
+      "concepto": "Vuelta en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Una circunferencia completa contiene 2π radianes.»?",
+      "opciones": {
+        "A": "Ángulo llano en radianes",
+        "B": "Ángulo recto en radianes",
+        "C": "Vuelta en radianes"
+      }
+    },
+    {
+      "id": "GC-T18-Q0151",
+      "fact_id": "GC-T18-F086",
+      "bloque": 9,
+      "concepto": "Ángulo recto en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Noventa grados sexagesimales equivalen a π/2 radianes.»?",
+      "opciones": {
+        "A": "Ángulo recto en radianes",
+        "B": "Milésima",
+        "C": "Radián en milésimas"
+      }
+    },
+    {
+      "id": "GC-T18-Q0152",
+      "fact_id": "GC-T18-F087",
+      "bloque": 9,
+      "concepto": "Milésima",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Milésima?",
+      "opciones": {
+        "A": "Un radián equivale a 1 000 milésimas.",
+        "B": "Unidad angular definida, en el convenio del temario, como la milésima parte de un radián.",
+        "C": "Dos π radianes equivalen aproximadamente a 6 283,185 milésimas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0150",
+      "fact_id": "GC-T18-F086",
+      "bloque": 9,
+      "concepto": "Ángulo recto en radianes",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Ángulo recto en radianes?",
+      "opciones": {
+        "A": "Unidad angular definida, en el convenio del temario, como la milésima parte de un radián.",
+        "B": "Un radián equivale a 1 000 milésimas.",
+        "C": "Noventa grados sexagesimales equivalen a π/2 radianes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0154",
+      "fact_id": "GC-T18-F088",
+      "bloque": 9,
+      "concepto": "Radián en milésimas",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Radián en milésimas, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Un radián equivale a 1 000 milésimas.",
+        "B": "Dos π radianes equivalen aproximadamente a 6 283,185 milésimas.",
+        "C": "Los grados sexagesimales se multiplican por π y se dividen entre 180."
+      }
+    },
+    {
+      "id": "GC-T18-Q0155",
+      "fact_id": "GC-T18-F088",
+      "bloque": 9,
+      "concepto": "Radián en milésimas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Un radián equivale a 1 000 milésimas.»?",
+      "opciones": {
+        "A": "Vuelta en milésimas teóricas",
+        "B": "Radián en milésimas",
+        "C": "Conversión sexagesimal-radián"
+      }
+    },
+    {
+      "id": "GC-T18-Q0153",
+      "fact_id": "GC-T18-F087",
+      "bloque": 9,
+      "concepto": "Milésima",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad angular definida, en el convenio del temario, como la milésima parte de un radián.»?",
+      "opciones": {
+        "A": "Radián en milésimas",
+        "B": "Vuelta en milésimas teóricas",
+        "C": "Milésima"
+      }
+    },
+    {
+      "id": "GC-T18-Q0157",
+      "fact_id": "GC-T18-F089",
+      "bloque": 9,
+      "concepto": "Vuelta en milésimas teóricas",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Dos π radianes equivalen aproximadamente a 6 283,185 milésimas.»?",
+      "opciones": {
+        "A": "Vuelta en milésimas teóricas",
+        "B": "Conversión sexagesimal-radián",
+        "C": "Conversión centesimal-radián"
+      }
+    },
+    {
+      "id": "GC-T18-Q0158",
+      "fact_id": "GC-T18-F090",
+      "bloque": 9,
+      "concepto": "Conversión sexagesimal-radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Conversión sexagesimal-radián.",
+      "opciones": {
+        "A": "Los grados centesimales se multiplican por π y se dividen entre 200.",
+        "B": "Los grados sexagesimales se multiplican por π y se dividen entre 180.",
+        "C": "Los grados sexagesimales se multiplican por 10/9."
+      }
+    },
+    {
+      "id": "GC-T18-Q0156",
+      "fact_id": "GC-T18-F089",
+      "bloque": 9,
+      "concepto": "Vuelta en milésimas teóricas",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Vuelta en milésimas teóricas, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Los grados sexagesimales se multiplican por π y se dividen entre 180.",
+        "B": "Los grados centesimales se multiplican por π y se dividen entre 200.",
+        "C": "Dos π radianes equivalen aproximadamente a 6 283,185 milésimas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0160",
+      "fact_id": "GC-T18-F091",
+      "bloque": 9,
+      "concepto": "Conversión centesimal-radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Conversión centesimal-radián?",
+      "opciones": {
+        "A": "Los grados centesimales se multiplican por π y se dividen entre 200.",
+        "B": "Los grados sexagesimales se multiplican por 10/9.",
+        "C": "Los grados centesimales se multiplican por 9/10."
+      }
+    },
+    {
+      "id": "GC-T18-Q0161",
+      "fact_id": "GC-T18-F091",
+      "bloque": 9,
+      "concepto": "Conversión centesimal-radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Los grados centesimales se multiplican por π y se dividen entre 200.»?",
+      "opciones": {
+        "A": "Conversión sexagesimal-centesimal",
+        "B": "Conversión centesimal-radián",
+        "C": "Conversión centesimal-sexagesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0159",
+      "fact_id": "GC-T18-F090",
+      "bloque": 9,
+      "concepto": "Conversión sexagesimal-radián",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Los grados sexagesimales se multiplican por π y se dividen entre 180.»?",
+      "opciones": {
+        "A": "Conversión centesimal-radián",
+        "B": "Conversión sexagesimal-centesimal",
+        "C": "Conversión sexagesimal-radián"
+      }
+    },
+    {
+      "id": "GC-T18-Q0163",
+      "fact_id": "GC-T18-F092",
+      "bloque": 9,
+      "concepto": "Conversión sexagesimal-centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Los grados sexagesimales se multiplican por 10/9.»?",
+      "opciones": {
+        "A": "Conversión sexagesimal-centesimal",
+        "B": "Conversión centesimal-sexagesimal",
+        "C": "Paso previo a convertir"
+      }
+    },
+    {
+      "id": "GC-T18-Q0164",
+      "fact_id": "GC-T18-F093",
+      "bloque": 9,
+      "concepto": "Conversión centesimal-sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Conversión centesimal-sexagesimal, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.",
+        "B": "Los grados centesimales se multiplican por 9/10.",
+        "C": "Ángulo central que abarca un arco de longitud igual al radio de la circunferencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0162",
+      "fact_id": "GC-T18-F092",
+      "bloque": 9,
+      "concepto": "Conversión sexagesimal-centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Conversión sexagesimal-centesimal?",
+      "opciones": {
+        "A": "Los grados centesimales se multiplican por 9/10.",
+        "B": "Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.",
+        "C": "Los grados sexagesimales se multiplican por 10/9."
+      }
+    },
+    {
+      "id": "GC-T18-Q0166",
+      "fact_id": "GC-T18-F094",
+      "bloque": 9,
+      "concepto": "Paso previo a convertir",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Paso previo a convertir, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.",
+        "B": "Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+        "C": "Una circunferencia completa contiene 2π radianes."
+      }
+    },
+    {
+      "id": "GC-T18-Q0167",
+      "fact_id": "GC-T18-F094",
+      "bloque": 9,
+      "concepto": "Paso previo a convertir",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.»?",
+      "opciones": {
+        "A": "Radián",
+        "B": "Paso previo a convertir",
+        "C": "Vuelta en radianes"
+      }
+    },
+    {
+      "id": "GC-T18-Q0165",
+      "fact_id": "GC-T18-F093",
+      "bloque": 9,
+      "concepto": "Conversión centesimal-sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Los grados centesimales se multiplican por 9/10.»?",
+      "opciones": {
+        "A": "Paso previo a convertir",
+        "B": "Radián",
+        "C": "Conversión centesimal-sexagesimal"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0145",
+      "respuesta_correcta": "A",
+      "explicacion": "Radián: Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+      "fact_id": "GC-T18-F083",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0146",
+      "respuesta_correcta": "B",
+      "explicacion": "Vuelta en radianes: Una circunferencia completa contiene 2π radianes.",
+      "fact_id": "GC-T18-F084",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0144",
+      "respuesta_correcta": "C",
+      "explicacion": "Radián: Ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+      "fact_id": "GC-T18-F083",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0148",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo llano en radianes: Ciento ochenta grados sexagesimales equivalen a π radianes.",
+      "fact_id": "GC-T18-F085",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0149",
+      "respuesta_correcta": "B",
+      "explicacion": "Ángulo llano en radianes: Ciento ochenta grados sexagesimales equivalen a π radianes.",
+      "fact_id": "GC-T18-F085",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0147",
+      "respuesta_correcta": "C",
+      "explicacion": "Vuelta en radianes: Una circunferencia completa contiene 2π radianes.",
+      "fact_id": "GC-T18-F084",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0151",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo recto en radianes: Noventa grados sexagesimales equivalen a π/2 radianes.",
+      "fact_id": "GC-T18-F086",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0152",
+      "respuesta_correcta": "B",
+      "explicacion": "Milésima: Unidad angular definida, en el convenio del temario, como la milésima parte de un radián.",
+      "fact_id": "GC-T18-F087",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0150",
+      "respuesta_correcta": "C",
+      "explicacion": "Ángulo recto en radianes: Noventa grados sexagesimales equivalen a π/2 radianes.",
+      "fact_id": "GC-T18-F086",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0154",
+      "respuesta_correcta": "A",
+      "explicacion": "Radián en milésimas: Un radián equivale a 1 000 milésimas.",
+      "fact_id": "GC-T18-F088",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0155",
+      "respuesta_correcta": "B",
+      "explicacion": "Radián en milésimas: Un radián equivale a 1 000 milésimas.",
+      "fact_id": "GC-T18-F088",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0153",
+      "respuesta_correcta": "C",
+      "explicacion": "Milésima: Unidad angular definida, en el convenio del temario, como la milésima parte de un radián.",
+      "fact_id": "GC-T18-F087",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0157",
+      "respuesta_correcta": "A",
+      "explicacion": "Vuelta en milésimas teóricas: Dos π radianes equivalen aproximadamente a 6 283,185 milésimas.",
+      "fact_id": "GC-T18-F089",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0158",
+      "respuesta_correcta": "B",
+      "explicacion": "Conversión sexagesimal-radián: Los grados sexagesimales se multiplican por π y se dividen entre 180.",
+      "fact_id": "GC-T18-F090",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0156",
+      "respuesta_correcta": "C",
+      "explicacion": "Vuelta en milésimas teóricas: Dos π radianes equivalen aproximadamente a 6 283,185 milésimas.",
+      "fact_id": "GC-T18-F089",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0160",
+      "respuesta_correcta": "A",
+      "explicacion": "Conversión centesimal-radián: Los grados centesimales se multiplican por π y se dividen entre 200.",
+      "fact_id": "GC-T18-F091",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0161",
+      "respuesta_correcta": "B",
+      "explicacion": "Conversión centesimal-radián: Los grados centesimales se multiplican por π y se dividen entre 200.",
+      "fact_id": "GC-T18-F091",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0159",
+      "respuesta_correcta": "C",
+      "explicacion": "Conversión sexagesimal-radián: Los grados sexagesimales se multiplican por π y se dividen entre 180.",
+      "fact_id": "GC-T18-F090",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0163",
+      "respuesta_correcta": "A",
+      "explicacion": "Conversión sexagesimal-centesimal: Los grados sexagesimales se multiplican por 10/9.",
+      "fact_id": "GC-T18-F092",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0164",
+      "respuesta_correcta": "B",
+      "explicacion": "Conversión centesimal-sexagesimal: Los grados centesimales se multiplican por 9/10.",
+      "fact_id": "GC-T18-F093",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0162",
+      "respuesta_correcta": "C",
+      "explicacion": "Conversión sexagesimal-centesimal: Los grados sexagesimales se multiplican por 10/9.",
+      "fact_id": "GC-T18-F092",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0166",
+      "respuesta_correcta": "A",
+      "explicacion": "Paso previo a convertir: Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.",
+      "fact_id": "GC-T18-F094",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0167",
+      "respuesta_correcta": "B",
+      "explicacion": "Paso previo a convertir: Los minutos y segundos deben transformarse en fracción decimal del grado correspondiente.",
+      "fact_id": "GC-T18-F094",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0165",
+      "respuesta_correcta": "C",
+      "explicacion": "Conversión centesimal-sexagesimal: Los grados centesimales se multiplican por 9/10.",
+      "fact_id": "GC-T18-F093",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

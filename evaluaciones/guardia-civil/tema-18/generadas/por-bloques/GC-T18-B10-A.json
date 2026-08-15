@@ -1,0 +1,415 @@
+{
+  "id": "GC-T18-B10-A",
+  "titulo": "Tema 18 · Bloque 10: Concepto y tipos de escala · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      10
+    ]
+  },
+  "numero_preguntas": 18,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0169",
+      "fact_id": "GC-T18-F095",
+      "bloque": 10,
+      "concepto": "Escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.»?",
+      "opciones": {
+        "A": "Escala",
+        "B": "Escala numérica",
+        "C": "Numerador de la escala"
+      }
+    },
+    {
+      "id": "GC-T18-Q0170",
+      "fact_id": "GC-T18-F096",
+      "bloque": 10,
+      "concepto": "Escala numérica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Escala numérica?",
+      "opciones": {
+        "A": "Representa una unidad medida en el plano.",
+        "B": "Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+        "C": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano."
+      }
+    },
+    {
+      "id": "GC-T18-Q0168",
+      "fact_id": "GC-T18-F095",
+      "bloque": 10,
+      "concepto": "Escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Escala.",
+      "opciones": {
+        "A": "Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+        "B": "Representa una unidad medida en el plano.",
+        "C": "Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "fact_id": "GC-T18-F097",
+      "bloque": 10,
+      "concepto": "Numerador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Numerador de la escala?",
+      "opciones": {
+        "A": "Representa una unidad medida en el plano.",
+        "B": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.",
+        "C": "Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor."
+      }
+    },
+    {
+      "id": "GC-T18-Q0173",
+      "fact_id": "GC-T18-F097",
+      "bloque": 10,
+      "concepto": "Numerador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Representa una unidad medida en el plano.»?",
+      "opciones": {
+        "A": "Denominador de la escala",
+        "B": "Numerador de la escala",
+        "C": "Escala grande"
+      }
+    },
+    {
+      "id": "GC-T18-Q0171",
+      "fact_id": "GC-T18-F096",
+      "bloque": 10,
+      "concepto": "Escala numérica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.»?",
+      "opciones": {
+        "A": "Numerador de la escala",
+        "B": "Denominador de la escala",
+        "C": "Escala numérica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0175",
+      "fact_id": "GC-T18-F098",
+      "bloque": 10,
+      "concepto": "Denominador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.»?",
+      "opciones": {
+        "A": "Denominador de la escala",
+        "B": "Escala grande",
+        "C": "Escala pequeña"
+      }
+    },
+    {
+      "id": "GC-T18-Q0176",
+      "fact_id": "GC-T18-F099",
+      "bloque": 10,
+      "concepto": "Escala grande",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Escala grande, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.",
+        "B": "Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor.",
+        "C": "Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño."
+      }
+    },
+    {
+      "id": "GC-T18-Q0174",
+      "fact_id": "GC-T18-F098",
+      "bloque": 10,
+      "concepto": "Denominador de la escala",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Denominador de la escala, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor.",
+        "B": "Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.",
+        "C": "Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano."
+      }
+    },
+    {
+      "id": "GC-T18-Q0178",
+      "fact_id": "GC-T18-F100",
+      "bloque": 10,
+      "concepto": "Escala pequeña",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Escala pequeña.",
+      "opciones": {
+        "A": "Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.",
+        "B": "Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño.",
+        "C": "Tramo situado a la izquierda del cero y subdividido para medir fracciones de la unidad principal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0179",
+      "fact_id": "GC-T18-F100",
+      "bloque": 10,
+      "concepto": "Escala pequeña",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.»?",
+      "opciones": {
+        "A": "Escala gráfica",
+        "B": "Escala pequeña",
+        "C": "Talón de escala gráfica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0177",
+      "fact_id": "GC-T18-F099",
+      "bloque": 10,
+      "concepto": "Escala grande",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor.»?",
+      "opciones": {
+        "A": "Escala pequeña",
+        "B": "Escala gráfica",
+        "C": "Escala grande"
+      }
+    },
+    {
+      "id": "GC-T18-Q0181",
+      "fact_id": "GC-T18-F101",
+      "bloque": 10,
+      "concepto": "Escala gráfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño.»?",
+      "opciones": {
+        "A": "Escala gráfica",
+        "B": "Talón de escala gráfica",
+        "C": "Cuerpo de escala gráfica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0182",
+      "fact_id": "GC-T18-F102",
+      "bloque": 10,
+      "concepto": "Talón de escala gráfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Talón de escala gráfica?",
+      "opciones": {
+        "A": "Tramo situado a la derecha del cero y dividido en unidades principales.",
+        "B": "Tramo situado a la izquierda del cero y subdividido para medir fracciones de la unidad principal.",
+        "C": "Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala."
+      }
+    },
+    {
+      "id": "GC-T18-Q0180",
+      "fact_id": "GC-T18-F101",
+      "bloque": 10,
+      "concepto": "Escala gráfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Escala gráfica?",
+      "opciones": {
+        "A": "Tramo situado a la izquierda del cero y subdividido para medir fracciones de la unidad principal.",
+        "B": "Tramo situado a la derecha del cero y dividido en unidades principales.",
+        "C": "Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño."
+      }
+    },
+    {
+      "id": "GC-T18-Q0184",
+      "fact_id": "GC-T18-F104",
+      "bloque": 10,
+      "concepto": "Condición de uso",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Condición de uso, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala.",
+        "B": "Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+        "C": "Se expresa como fracción 1/E o razón 1:E, donde E es el denominador."
+      }
+    },
+    {
+      "id": "GC-T18-Q0185",
+      "fact_id": "GC-T18-F104",
+      "bloque": 10,
+      "concepto": "Condición de uso",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala.»?",
+      "opciones": {
+        "A": "Escala",
+        "B": "Condición de uso",
+        "C": "Escala numérica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0183",
+      "fact_id": "GC-T18-F103",
+      "bloque": 10,
+      "concepto": "Cuerpo de escala gráfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Cuerpo de escala gráfica.",
+      "opciones": {
+        "A": "Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala.",
+        "B": "Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+        "C": "Tramo situado a la derecha del cero y dividido en unidades principales."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0169",
+      "respuesta_correcta": "A",
+      "explicacion": "Escala: Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+      "fact_id": "GC-T18-F095",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0170",
+      "respuesta_correcta": "B",
+      "explicacion": "Escala numérica: Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+      "fact_id": "GC-T18-F096",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0168",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala: Relación constante entre una longitud medida en la representación y la longitud horizontal correspondiente en el terreno.",
+      "fact_id": "GC-T18-F095",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0172",
+      "respuesta_correcta": "A",
+      "explicacion": "Numerador de la escala: Representa una unidad medida en el plano.",
+      "fact_id": "GC-T18-F097",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0173",
+      "respuesta_correcta": "B",
+      "explicacion": "Numerador de la escala: Representa una unidad medida en el plano.",
+      "fact_id": "GC-T18-F097",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0171",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala numérica: Se expresa como fracción 1/E o razón 1:E, donde E es el denominador.",
+      "fact_id": "GC-T18-F096",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0175",
+      "respuesta_correcta": "A",
+      "explicacion": "Denominador de la escala: Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.",
+      "fact_id": "GC-T18-F098",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0176",
+      "respuesta_correcta": "B",
+      "explicacion": "Escala grande: Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor.",
+      "fact_id": "GC-T18-F099",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0174",
+      "respuesta_correcta": "C",
+      "explicacion": "Denominador de la escala: Indica cuántas unidades iguales corresponden en el terreno a una unidad del plano.",
+      "fact_id": "GC-T18-F098",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0178",
+      "respuesta_correcta": "A",
+      "explicacion": "Escala pequeña: Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.",
+      "fact_id": "GC-T18-F100",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0179",
+      "respuesta_correcta": "B",
+      "explicacion": "Escala pequeña: Tiene denominador relativamente grande y muestra menos detalle de una extensión mayor.",
+      "fact_id": "GC-T18-F100",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0177",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala grande: Tiene denominador relativamente pequeño y muestra más detalle de una extensión menor.",
+      "fact_id": "GC-T18-F099",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0181",
+      "respuesta_correcta": "A",
+      "explicacion": "Escala gráfica: Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño.",
+      "fact_id": "GC-T18-F101",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0182",
+      "respuesta_correcta": "B",
+      "explicacion": "Talón de escala gráfica: Tramo situado a la izquierda del cero y subdividido para medir fracciones de la unidad principal.",
+      "fact_id": "GC-T18-F102",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0180",
+      "respuesta_correcta": "C",
+      "explicacion": "Escala gráfica: Segmento graduado que permite obtener distancias reales mediante comparación directa y conserva utilidad si el documento cambia proporcionalmente de tamaño.",
+      "fact_id": "GC-T18-F101",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0184",
+      "respuesta_correcta": "A",
+      "explicacion": "Condición de uso: Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala.",
+      "fact_id": "GC-T18-F104",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0185",
+      "respuesta_correcta": "B",
+      "explicacion": "Condición de uso: Plano y terreno deben compararse en la misma unidad antes de aplicar la relación de escala.",
+      "fact_id": "GC-T18-F104",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0183",
+      "respuesta_correcta": "C",
+      "explicacion": "Cuerpo de escala gráfica: Tramo situado a la derecha del cero y dividido en unidades principales.",
+      "fact_id": "GC-T18-F103",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

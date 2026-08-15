@@ -1,0 +1,525 @@
+{
+  "id": "GC-T18-B13-A",
+  "titulo": "Tema 18 · Bloque 13: Distancias, cota, altitud y desnivel · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      13
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0223",
+      "fact_id": "GC-T18-F126",
+      "bloque": 13,
+      "concepto": "Distancia horizontal o reducida",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Distancia horizontal o reducida.",
+      "opciones": {
+        "A": "Proyección horizontal de la línea recta que une dos puntos del terreno.",
+        "B": "Longitud en línea recta entre dos puntos considerados en el espacio.",
+        "C": "Longitud del recorrido seguido sobre la superficie irregular del terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0224",
+      "fact_id": "GC-T18-F126",
+      "bloque": 13,
+      "concepto": "Distancia horizontal o reducida",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Proyección horizontal de la línea recta que une dos puntos del terreno.»?",
+      "opciones": {
+        "A": "Distancia geométrica",
+        "B": "Distancia horizontal o reducida",
+        "C": "Distancia real o topográfica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "fact_id": "GC-T18-F127",
+      "bloque": 13,
+      "concepto": "Distancia geométrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Distancia geométrica?",
+      "opciones": {
+        "A": "Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+        "B": "Diferencia vertical de altura o cota entre dos puntos.",
+        "C": "Longitud en línea recta entre dos puntos considerados en el espacio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0226",
+      "fact_id": "GC-T18-F127",
+      "bloque": 13,
+      "concepto": "Distancia geométrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Longitud en línea recta entre dos puntos considerados en el espacio.»?",
+      "opciones": {
+        "A": "Distancia geométrica",
+        "B": "Distancia real o topográfica",
+        "C": "Desnivel"
+      }
+    },
+    {
+      "id": "GC-T18-Q0227",
+      "fact_id": "GC-T18-F128",
+      "bloque": 13,
+      "concepto": "Distancia real o topográfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Distancia real o topográfica?",
+      "opciones": {
+        "A": "Diferencia vertical de altura o cota entre dos puntos.",
+        "B": "Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+        "C": "Distancia vertical de un punto respecto del plano horizontal de referencia adoptado."
+      }
+    },
+    {
+      "id": "GC-T18-Q0228",
+      "fact_id": "GC-T18-F128",
+      "bloque": 13,
+      "concepto": "Distancia real o topográfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Longitud del recorrido seguido sobre la superficie irregular del terreno.»?",
+      "opciones": {
+        "A": "Desnivel",
+        "B": "Cota",
+        "C": "Distancia real o topográfica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0229",
+      "fact_id": "GC-T18-F129",
+      "bloque": 13,
+      "concepto": "Desnivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Desnivel, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Diferencia vertical de altura o cota entre dos puntos.",
+        "B": "Distancia vertical de un punto respecto del plano horizontal de referencia adoptado.",
+        "C": "Cota referida al nivel medio del mar establecido como referencia altimétrica."
+      }
+    },
+    {
+      "id": "GC-T18-Q0230",
+      "fact_id": "GC-T18-F129",
+      "bloque": 13,
+      "concepto": "Desnivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Diferencia vertical de altura o cota entre dos puntos.»?",
+      "opciones": {
+        "A": "Cota",
+        "B": "Desnivel",
+        "C": "Altitud"
+      }
+    },
+    {
+      "id": "GC-T18-Q0231",
+      "fact_id": "GC-T18-F130",
+      "bloque": 13,
+      "concepto": "Cota",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Cota, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Cota referida al nivel medio del mar establecido como referencia altimétrica.",
+        "B": "En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.",
+        "C": "Distancia vertical de un punto respecto del plano horizontal de referencia adoptado."
+      }
+    },
+    {
+      "id": "GC-T18-Q0232",
+      "fact_id": "GC-T18-F130",
+      "bloque": 13,
+      "concepto": "Cota",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Distancia vertical de un punto respecto del plano horizontal de referencia adoptado.»?",
+      "opciones": {
+        "A": "Cota",
+        "B": "Altitud",
+        "C": "Referencia peninsular"
+      }
+    },
+    {
+      "id": "GC-T18-Q0233",
+      "fact_id": "GC-T18-F131",
+      "bloque": 13,
+      "concepto": "Altitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Altitud.",
+      "opciones": {
+        "A": "En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.",
+        "B": "Cota referida al nivel medio del mar establecido como referencia altimétrica.",
+        "C": "En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional."
+      }
+    },
+    {
+      "id": "GC-T18-Q0234",
+      "fact_id": "GC-T18-F131",
+      "bloque": 13,
+      "concepto": "Altitud",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cota referida al nivel medio del mar establecido como referencia altimétrica.»?",
+      "opciones": {
+        "A": "Referencia peninsular",
+        "B": "Referencia insular",
+        "C": "Altitud"
+      }
+    },
+    {
+      "id": "GC-T18-Q0235",
+      "fact_id": "GC-T18-F132",
+      "bloque": 13,
+      "concepto": "Referencia peninsular",
+      "articulo": "Artículo 4 del RD 1071/2007",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Referencia peninsular?",
+      "opciones": {
+        "A": "En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.",
+        "B": "En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional.",
+        "C": "El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel."
+      }
+    },
+    {
+      "id": "GC-T18-Q0236",
+      "fact_id": "GC-T18-F132",
+      "bloque": 13,
+      "concepto": "Referencia peninsular",
+      "articulo": "Artículo 4 del RD 1071/2007",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.»?",
+      "opciones": {
+        "A": "Referencia insular",
+        "B": "Referencia peninsular",
+        "C": "Relación pitagórica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0237",
+      "fact_id": "GC-T18-F133",
+      "bloque": 13,
+      "concepto": "Referencia insular",
+      "articulo": "Artículo 4 del RD 1071/2007",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Referencia insular?",
+      "opciones": {
+        "A": "El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel.",
+        "B": "Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.",
+        "C": "En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional."
+      }
+    },
+    {
+      "id": "GC-T18-Q0238",
+      "fact_id": "GC-T18-F133",
+      "bloque": 13,
+      "concepto": "Referencia insular",
+      "articulo": "Artículo 4 del RD 1071/2007",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional.»?",
+      "opciones": {
+        "A": "Referencia insular",
+        "B": "Relación pitagórica",
+        "C": "Desnivel por distancias"
+      }
+    },
+    {
+      "id": "GC-T18-Q0239",
+      "fact_id": "GC-T18-F134",
+      "bloque": 13,
+      "concepto": "Relación pitagórica",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Relación pitagórica, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.",
+        "B": "El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel.",
+        "C": "Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0240",
+      "fact_id": "GC-T18-F134",
+      "bloque": 13,
+      "concepto": "Relación pitagórica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel.»?",
+      "opciones": {
+        "A": "Desnivel por distancias",
+        "B": "Orden habitual de magnitudes",
+        "C": "Relación pitagórica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0241",
+      "fact_id": "GC-T18-F135",
+      "bloque": 13,
+      "concepto": "Desnivel por distancias",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Desnivel por distancias, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.",
+        "B": "Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal.",
+        "C": "Depende del sentido del recorrido: es positivo al ascender y negativo al descender si se conserva orientación algebraica."
+      }
+    },
+    {
+      "id": "GC-T18-Q0242",
+      "fact_id": "GC-T18-F135",
+      "bloque": 13,
+      "concepto": "Desnivel por distancias",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.»?",
+      "opciones": {
+        "A": "Orden habitual de magnitudes",
+        "B": "Desnivel por distancias",
+        "C": "Signo del desnivel"
+      }
+    },
+    {
+      "id": "GC-T18-Q0243",
+      "fact_id": "GC-T18-F136",
+      "bloque": 13,
+      "concepto": "Orden habitual de magnitudes",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Orden habitual de magnitudes.",
+      "opciones": {
+        "A": "Depende del sentido del recorrido: es positivo al ascender y negativo al descender si se conserva orientación algebraica.",
+        "B": "Proyección horizontal de la línea recta que une dos puntos del terreno.",
+        "C": "Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0244",
+      "fact_id": "GC-T18-F136",
+      "bloque": 13,
+      "concepto": "Orden habitual de magnitudes",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal.»?",
+      "opciones": {
+        "A": "Orden habitual de magnitudes",
+        "B": "Signo del desnivel",
+        "C": "Distancia horizontal o reducida"
+      }
+    },
+    {
+      "id": "GC-T18-Q0245",
+      "fact_id": "GC-T18-F137",
+      "bloque": 13,
+      "concepto": "Signo del desnivel",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Signo del desnivel?",
+      "opciones": {
+        "A": "Proyección horizontal de la línea recta que une dos puntos del terreno.",
+        "B": "Depende del sentido del recorrido: es positivo al ascender y negativo al descender si se conserva orientación algebraica.",
+        "C": "Longitud en línea recta entre dos puntos considerados en el espacio."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0223",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia horizontal o reducida: Proyección horizontal de la línea recta que une dos puntos del terreno.",
+      "fact_id": "GC-T18-F126",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0224",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia horizontal o reducida: Proyección horizontal de la línea recta que une dos puntos del terreno.",
+      "fact_id": "GC-T18-F126",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia geométrica: Longitud en línea recta entre dos puntos considerados en el espacio.",
+      "fact_id": "GC-T18-F127",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0226",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia geométrica: Longitud en línea recta entre dos puntos considerados en el espacio.",
+      "fact_id": "GC-T18-F127",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0227",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia real o topográfica: Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+      "fact_id": "GC-T18-F128",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0228",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia real o topográfica: Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+      "fact_id": "GC-T18-F128",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0229",
+      "respuesta_correcta": "A",
+      "explicacion": "Desnivel: Diferencia vertical de altura o cota entre dos puntos.",
+      "fact_id": "GC-T18-F129",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0230",
+      "respuesta_correcta": "B",
+      "explicacion": "Desnivel: Diferencia vertical de altura o cota entre dos puntos.",
+      "fact_id": "GC-T18-F129",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0231",
+      "respuesta_correcta": "C",
+      "explicacion": "Cota: Distancia vertical de un punto respecto del plano horizontal de referencia adoptado.",
+      "fact_id": "GC-T18-F130",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0232",
+      "respuesta_correcta": "A",
+      "explicacion": "Cota: Distancia vertical de un punto respecto del plano horizontal de referencia adoptado.",
+      "fact_id": "GC-T18-F130",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0233",
+      "respuesta_correcta": "B",
+      "explicacion": "Altitud: Cota referida al nivel medio del mar establecido como referencia altimétrica.",
+      "fact_id": "GC-T18-F131",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0234",
+      "respuesta_correcta": "C",
+      "explicacion": "Altitud: Cota referida al nivel medio del mar establecido como referencia altimétrica.",
+      "fact_id": "GC-T18-F131",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0235",
+      "respuesta_correcta": "A",
+      "explicacion": "Referencia peninsular: En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.",
+      "fact_id": "GC-T18-F132",
+      "articulo": "Artículo 4 del RD 1071/2007"
+    },
+    {
+      "id": "GC-T18-Q0236",
+      "respuesta_correcta": "B",
+      "explicacion": "Referencia peninsular: En la Península se toma como referencia de altitudes el nivel medio del mar en Alicante.",
+      "fact_id": "GC-T18-F132",
+      "articulo": "Artículo 4 del RD 1071/2007"
+    },
+    {
+      "id": "GC-T18-Q0237",
+      "respuesta_correcta": "C",
+      "explicacion": "Referencia insular: En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional.",
+      "fact_id": "GC-T18-F133",
+      "articulo": "Artículo 4 del RD 1071/2007"
+    },
+    {
+      "id": "GC-T18-Q0238",
+      "respuesta_correcta": "A",
+      "explicacion": "Referencia insular: En cada isla se utilizan las referencias mareográficas locales definidas por el Instituto Geográfico Nacional.",
+      "fact_id": "GC-T18-F133",
+      "articulo": "Artículo 4 del RD 1071/2007"
+    },
+    {
+      "id": "GC-T18-Q0239",
+      "respuesta_correcta": "B",
+      "explicacion": "Relación pitagórica: El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel.",
+      "fact_id": "GC-T18-F134",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0240",
+      "respuesta_correcta": "C",
+      "explicacion": "Relación pitagórica: El cuadrado de la distancia geométrica es igual al cuadrado de la distancia horizontal más el cuadrado del desnivel.",
+      "fact_id": "GC-T18-F134",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0241",
+      "respuesta_correcta": "A",
+      "explicacion": "Desnivel por distancias: Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.",
+      "fact_id": "GC-T18-F135",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0242",
+      "respuesta_correcta": "B",
+      "explicacion": "Desnivel por distancias: Se obtiene como raíz cuadrada de la diferencia entre el cuadrado de la distancia geométrica y el cuadrado de la horizontal.",
+      "fact_id": "GC-T18-F135",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0243",
+      "respuesta_correcta": "C",
+      "explicacion": "Orden habitual de magnitudes: Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal.",
+      "fact_id": "GC-T18-F136",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0244",
+      "respuesta_correcta": "A",
+      "explicacion": "Orden habitual de magnitudes: Entre dos puntos a distinta altura, la distancia geométrica es mayor que la distancia horizontal.",
+      "fact_id": "GC-T18-F136",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0245",
+      "respuesta_correcta": "B",
+      "explicacion": "Signo del desnivel: Depende del sentido del recorrido: es positivo al ascender y negativo al descender si se conserva orientación algebraica.",
+      "fact_id": "GC-T18-F137",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,525 @@
+{
+  "id": "GC-T18-B08-A",
+  "titulo": "Tema 18 · Bloque 8: Sistemas angulares sexagesimal y centesimal · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      8
+    ]
+  },
+  "numero_preguntas": 23,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0121",
+      "fact_id": "GC-T18-F071",
+      "bloque": 8,
+      "concepto": "Ángulo recto",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Ángulo recto, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ángulo formado por dos direcciones perpendiculares.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+        "C": "Una vuelta completa contiene 360 grados sexagesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0122",
+      "fact_id": "GC-T18-F072",
+      "bloque": 8,
+      "concepto": "Grado sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Grado sexagesimal?",
+      "opciones": {
+        "A": "Una vuelta completa contiene 360 grados sexagesimales.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+        "C": "Cada grado sexagesimal se divide en 60 minutos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0123",
+      "fact_id": "GC-T18-F072",
+      "bloque": 8,
+      "concepto": "Grado sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad obtenida al dividir el ángulo recto en 90 partes iguales.»?",
+      "opciones": {
+        "A": "Circunferencia sexagesimal",
+        "B": "Minuto sexagesimal",
+        "C": "Grado sexagesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "fact_id": "GC-T18-F073",
+      "bloque": 8,
+      "concepto": "Circunferencia sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Circunferencia sexagesimal, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Una vuelta completa contiene 360 grados sexagesimales.",
+        "B": "Cada grado sexagesimal se divide en 60 minutos.",
+        "C": "Cada minuto sexagesimal se divide en 60 segundos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0125",
+      "fact_id": "GC-T18-F073",
+      "bloque": 8,
+      "concepto": "Circunferencia sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Una vuelta completa contiene 360 grados sexagesimales.»?",
+      "opciones": {
+        "A": "Minuto sexagesimal",
+        "B": "Circunferencia sexagesimal",
+        "C": "Segundo sexagesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0126",
+      "fact_id": "GC-T18-F074",
+      "bloque": 8,
+      "concepto": "Minuto sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Minuto sexagesimal, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Cada minuto sexagesimal se divide en 60 segundos.",
+        "B": "Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+        "C": "Cada grado sexagesimal se divide en 60 minutos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0127",
+      "fact_id": "GC-T18-F074",
+      "bloque": 8,
+      "concepto": "Minuto sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada grado sexagesimal se divide en 60 minutos.»?",
+      "opciones": {
+        "A": "Minuto sexagesimal",
+        "B": "Segundo sexagesimal",
+        "C": "Grado centesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0128",
+      "fact_id": "GC-T18-F075",
+      "bloque": 8,
+      "concepto": "Segundo sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Segundo sexagesimal.",
+      "opciones": {
+        "A": "Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+        "B": "Cada minuto sexagesimal se divide en 60 segundos.",
+        "C": "Una vuelta completa contiene 400 grados centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0129",
+      "fact_id": "GC-T18-F075",
+      "bloque": 8,
+      "concepto": "Segundo sexagesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada minuto sexagesimal se divide en 60 segundos.»?",
+      "opciones": {
+        "A": "Grado centesimal",
+        "B": "Circunferencia centesimal",
+        "C": "Segundo sexagesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0130",
+      "fact_id": "GC-T18-F076",
+      "bloque": 8,
+      "concepto": "Grado centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Grado centesimal?",
+      "opciones": {
+        "A": "Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+        "B": "Una vuelta completa contiene 400 grados centesimales.",
+        "C": "Cada grado centesimal se divide en 100 minutos centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0131",
+      "fact_id": "GC-T18-F076",
+      "bloque": 8,
+      "concepto": "Grado centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Unidad obtenida al dividir el ángulo recto en 100 partes iguales.»?",
+      "opciones": {
+        "A": "Circunferencia centesimal",
+        "B": "Grado centesimal",
+        "C": "Minuto centesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0132",
+      "fact_id": "GC-T18-F077",
+      "bloque": 8,
+      "concepto": "Circunferencia centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Circunferencia centesimal?",
+      "opciones": {
+        "A": "Cada grado centesimal se divide en 100 minutos centesimales.",
+        "B": "Cada minuto centesimal se divide en 100 segundos centesimales.",
+        "C": "Una vuelta completa contiene 400 grados centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0133",
+      "fact_id": "GC-T18-F077",
+      "bloque": 8,
+      "concepto": "Circunferencia centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Una vuelta completa contiene 400 grados centesimales.»?",
+      "opciones": {
+        "A": "Circunferencia centesimal",
+        "B": "Minuto centesimal",
+        "C": "Segundo centesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0134",
+      "fact_id": "GC-T18-F078",
+      "bloque": 8,
+      "concepto": "Minuto centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Minuto centesimal, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Cada minuto centesimal se divide en 100 segundos centesimales.",
+        "B": "Cada grado centesimal se divide en 100 minutos centesimales.",
+        "C": "Noventa grados sexagesimales equivalen a cien grados centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0135",
+      "fact_id": "GC-T18-F078",
+      "bloque": 8,
+      "concepto": "Minuto centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada grado centesimal se divide en 100 minutos centesimales.»?",
+      "opciones": {
+        "A": "Segundo centesimal",
+        "B": "Equivalencia de ángulo recto",
+        "C": "Minuto centesimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0136",
+      "fact_id": "GC-T18-F079",
+      "bloque": 8,
+      "concepto": "Segundo centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Segundo centesimal, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Cada minuto centesimal se divide en 100 segundos centesimales.",
+        "B": "Noventa grados sexagesimales equivalen a cien grados centesimales.",
+        "C": "Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0137",
+      "fact_id": "GC-T18-F079",
+      "bloque": 8,
+      "concepto": "Segundo centesimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cada minuto centesimal se divide en 100 segundos centesimales.»?",
+      "opciones": {
+        "A": "Equivalencia de ángulo recto",
+        "B": "Segundo centesimal",
+        "C": "Equivalencia de vuelta"
+      }
+    },
+    {
+      "id": "GC-T18-Q0138",
+      "fact_id": "GC-T18-F080",
+      "bloque": 8,
+      "concepto": "Equivalencia de ángulo recto",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Equivalencia de ángulo recto.",
+      "opciones": {
+        "A": "Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales.",
+        "B": "El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.",
+        "C": "Noventa grados sexagesimales equivalen a cien grados centesimales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0139",
+      "fact_id": "GC-T18-F080",
+      "bloque": 8,
+      "concepto": "Equivalencia de ángulo recto",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Noventa grados sexagesimales equivalen a cien grados centesimales.»?",
+      "opciones": {
+        "A": "Equivalencia de ángulo recto",
+        "B": "Equivalencia de vuelta",
+        "C": "Error centesimal frecuente"
+      }
+    },
+    {
+      "id": "GC-T18-Q0140",
+      "fact_id": "GC-T18-F081",
+      "bloque": 8,
+      "concepto": "Equivalencia de vuelta",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Equivalencia de vuelta?",
+      "opciones": {
+        "A": "El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.",
+        "B": "Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales.",
+        "C": "Ángulo formado por dos direcciones perpendiculares."
+      }
+    },
+    {
+      "id": "GC-T18-Q0141",
+      "fact_id": "GC-T18-F081",
+      "bloque": 8,
+      "concepto": "Equivalencia de vuelta",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales.»?",
+      "opciones": {
+        "A": "Error centesimal frecuente",
+        "B": "Ángulo recto",
+        "C": "Equivalencia de vuelta"
+      }
+    },
+    {
+      "id": "GC-T18-Q0142",
+      "fact_id": "GC-T18-F082",
+      "bloque": 8,
+      "concepto": "Error centesimal frecuente",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Error centesimal frecuente?",
+      "opciones": {
+        "A": "El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.",
+        "B": "Ángulo formado por dos direcciones perpendiculares.",
+        "C": "Unidad obtenida al dividir el ángulo recto en 90 partes iguales."
+      }
+    },
+    {
+      "id": "GC-T18-Q0143",
+      "fact_id": "GC-T18-F082",
+      "bloque": 8,
+      "concepto": "Error centesimal frecuente",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.»?",
+      "opciones": {
+        "A": "Ángulo recto",
+        "B": "Error centesimal frecuente",
+        "C": "Grado sexagesimal"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0121",
+      "respuesta_correcta": "A",
+      "explicacion": "Ángulo recto: Ángulo formado por dos direcciones perpendiculares.",
+      "fact_id": "GC-T18-F071",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0122",
+      "respuesta_correcta": "B",
+      "explicacion": "Grado sexagesimal: Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+      "fact_id": "GC-T18-F072",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0123",
+      "respuesta_correcta": "C",
+      "explicacion": "Grado sexagesimal: Unidad obtenida al dividir el ángulo recto en 90 partes iguales.",
+      "fact_id": "GC-T18-F072",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0124",
+      "respuesta_correcta": "A",
+      "explicacion": "Circunferencia sexagesimal: Una vuelta completa contiene 360 grados sexagesimales.",
+      "fact_id": "GC-T18-F073",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0125",
+      "respuesta_correcta": "B",
+      "explicacion": "Circunferencia sexagesimal: Una vuelta completa contiene 360 grados sexagesimales.",
+      "fact_id": "GC-T18-F073",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0126",
+      "respuesta_correcta": "C",
+      "explicacion": "Minuto sexagesimal: Cada grado sexagesimal se divide en 60 minutos.",
+      "fact_id": "GC-T18-F074",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0127",
+      "respuesta_correcta": "A",
+      "explicacion": "Minuto sexagesimal: Cada grado sexagesimal se divide en 60 minutos.",
+      "fact_id": "GC-T18-F074",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0128",
+      "respuesta_correcta": "B",
+      "explicacion": "Segundo sexagesimal: Cada minuto sexagesimal se divide en 60 segundos.",
+      "fact_id": "GC-T18-F075",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0129",
+      "respuesta_correcta": "C",
+      "explicacion": "Segundo sexagesimal: Cada minuto sexagesimal se divide en 60 segundos.",
+      "fact_id": "GC-T18-F075",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0130",
+      "respuesta_correcta": "A",
+      "explicacion": "Grado centesimal: Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+      "fact_id": "GC-T18-F076",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0131",
+      "respuesta_correcta": "B",
+      "explicacion": "Grado centesimal: Unidad obtenida al dividir el ángulo recto en 100 partes iguales.",
+      "fact_id": "GC-T18-F076",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0132",
+      "respuesta_correcta": "C",
+      "explicacion": "Circunferencia centesimal: Una vuelta completa contiene 400 grados centesimales.",
+      "fact_id": "GC-T18-F077",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0133",
+      "respuesta_correcta": "A",
+      "explicacion": "Circunferencia centesimal: Una vuelta completa contiene 400 grados centesimales.",
+      "fact_id": "GC-T18-F077",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0134",
+      "respuesta_correcta": "B",
+      "explicacion": "Minuto centesimal: Cada grado centesimal se divide en 100 minutos centesimales.",
+      "fact_id": "GC-T18-F078",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0135",
+      "respuesta_correcta": "C",
+      "explicacion": "Minuto centesimal: Cada grado centesimal se divide en 100 minutos centesimales.",
+      "fact_id": "GC-T18-F078",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0136",
+      "respuesta_correcta": "A",
+      "explicacion": "Segundo centesimal: Cada minuto centesimal se divide en 100 segundos centesimales.",
+      "fact_id": "GC-T18-F079",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0137",
+      "respuesta_correcta": "B",
+      "explicacion": "Segundo centesimal: Cada minuto centesimal se divide en 100 segundos centesimales.",
+      "fact_id": "GC-T18-F079",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0138",
+      "respuesta_correcta": "C",
+      "explicacion": "Equivalencia de ángulo recto: Noventa grados sexagesimales equivalen a cien grados centesimales.",
+      "fact_id": "GC-T18-F080",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0139",
+      "respuesta_correcta": "A",
+      "explicacion": "Equivalencia de ángulo recto: Noventa grados sexagesimales equivalen a cien grados centesimales.",
+      "fact_id": "GC-T18-F080",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0140",
+      "respuesta_correcta": "B",
+      "explicacion": "Equivalencia de vuelta: Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales.",
+      "fact_id": "GC-T18-F081",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0141",
+      "respuesta_correcta": "C",
+      "explicacion": "Equivalencia de vuelta: Trescientos sesenta grados sexagesimales equivalen a cuatrocientos grados centesimales.",
+      "fact_id": "GC-T18-F081",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0142",
+      "respuesta_correcta": "A",
+      "explicacion": "Error centesimal frecuente: El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.",
+      "fact_id": "GC-T18-F082",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0143",
+      "respuesta_correcta": "B",
+      "explicacion": "Error centesimal frecuente: El grado centesimal no resulta de dividir la circunferencia en 100 partes, sino el ángulo recto.",
+      "fact_id": "GC-T18-F082",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

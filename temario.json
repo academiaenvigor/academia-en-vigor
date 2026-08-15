@@ -1499,6 +1499,30 @@
           "official_exam_mapped": 30,
           "official_exam_verified": 30,
           "ha_caido_active": 30
+        },
+        {
+          "number": 18,
+          "slug": "topografia",
+          "title": "Topografía",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/guardia-civil/tema-18/manifest.json",
+          "parte": "temas/guardia-civil/parte/tema-18-topografia.md",
+          "atestado": "temas/guardia-civil/atestado/tema-18-topografia.md",
+          "question_bank": "banco-preguntas/guardia-civil/tema-18/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/guardia-civil/tema-18/plan.json",
+          "assets": "assets/guardia-civil/tema-18/manifest.json",
+          "teaching_materials": "materiales-didacticos/guardia-civil/tema-18/manifest.json",
+          "visual_version": "0.0.0",
+          "visual_assets": 0,
+          "visual_planned": 19,
+          "atomic_facts": 203,
+          "question_count": 345,
+          "official_exam_index": "banco-preguntas/guardia-civil/tema-18/indice-oficiales.json",
+          "official_exam_mapped": 32,
+          "official_exam_verified": 32,
+          "ha_caido_active": 32
         }
       ]
     }

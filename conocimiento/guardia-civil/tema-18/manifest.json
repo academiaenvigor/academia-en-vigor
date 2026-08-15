@@ -1,0 +1,109 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-18",
+  "topic_number": 18,
+  "slug": "topografia",
+  "title": "Topografía",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-14",
+  "source_file": "conocimiento/guardia-civil/tema-18/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-18-topografia.md",
+    "atestado": "temas/guardia-civil/atestado/tema-18-topografia.md"
+  },
+  "semantic_blocks": 18,
+  "atomic_facts": 203,
+  "master_statements": 203,
+  "coverage_file": "conocimiento/guardia-civil/tema-18/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T18",
+    "IGN-CONCEPTOS-CARTOGRAFICOS-T18",
+    "CEM-SI-9ED-T18",
+    "RD1071-2007-T18"
+  ],
+  "official_exam_items": [
+    "of-gc-p2020-2a-q087",
+    "of-gc-p2020-1a-q088",
+    "of-gc-p2020-2a-q088",
+    "of-gc-p2020-1a-q089",
+    "of-gc-p2020-2a-q089",
+    "of-gc-p2021-1a-q089",
+    "of-gc-p2021-2a-q089",
+    "of-gc-p2021-1a-q090",
+    "of-gc-p2021-2a-q090",
+    "of-gc-p2022-2a-q090",
+    "of-gc-p2022-3a-q090",
+    "of-gc-p2022-1a-q091",
+    "of-gc-p2022-2a-q091",
+    "of-gc-p2022-3a-q091",
+    "of-gc-p2022-1a-q092",
+    "of-gc-p2022-2a-q092",
+    "of-gc-p2022-1a-q093",
+    "of-gc-p2023-1a-q088",
+    "of-gc-p2023-2a-q088",
+    "of-gc-p2024-3a-q085",
+    "of-gc-p2024-1a-q086",
+    "of-gc-p2024-2a-q086",
+    "of-gc-p2024-3a-q086",
+    "of-gc-p2024-1a-q087",
+    "of-gc-p2024-2a-q087",
+    "of-gc-p2024-3a-q087",
+    "of-gc-p2024-1a-q088",
+    "of-gc-p2024-2a-q088",
+    "of-gc-p2025-a-q086",
+    "of-gc-p2025-a-q087",
+    "of-gc-p2026-a-q084",
+    "of-gc-p2026-a-q085"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-18/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_tecnico_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-18/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-18/manifest.json",
+    "questions": 345,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-18/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-18/manifest.json",
+    "total": 19,
+    "planned": 19
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-18/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "not_applicable_technical_sources_checked",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-18/revision-1.0.md"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "id": "GC-T18-B18-A",
+  "titulo": "Tema 18 · Bloque 18: Accidentes complejos e hidrográficos · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      18
+    ]
+  },
+  "numero_preguntas": 21,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0325",
+      "fact_id": "GC-T18-F189",
+      "bloque": 18,
+      "concepto": "Valle",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Valle?",
+      "opciones": {
+        "A": "Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+        "B": "Vaguada profunda y encajada excavada por la erosión o el agua.",
+        "C": "Paso estrecho y profundo entre paredes o laderas muy abruptas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0326",
+      "fact_id": "GC-T18-F189",
+      "bloque": 18,
+      "concepto": "Valle",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.»?",
+      "opciones": {
+        "A": "Barranco",
+        "B": "Valle",
+        "C": "Garganta"
+      }
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "fact_id": "GC-T18-F190",
+      "bloque": 18,
+      "concepto": "Barranco",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Barranco?",
+      "opciones": {
+        "A": "Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Vaguada profunda y encajada excavada por la erosión o el agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0328",
+      "fact_id": "GC-T18-F191",
+      "bloque": 18,
+      "concepto": "Garganta",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Garganta.",
+      "opciones": {
+        "A": "Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Agrupación compacta de montañas sin una única dirección general obligatoria."
+      }
+    },
+    {
+      "id": "GC-T18-Q0329",
+      "fact_id": "GC-T18-F192",
+      "bloque": 18,
+      "concepto": "Desfiladero",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Desfiladero, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Agrupación compacta de montañas sin una única dirección general obligatoria.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Alineación de montañas que sigue una dirección general reconocible."
+      }
+    },
+    {
+      "id": "GC-T18-Q0330",
+      "fact_id": "GC-T18-F193",
+      "bloque": 18,
+      "concepto": "Macizo",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Macizo?",
+      "opciones": {
+        "A": "Alineación de montañas que sigue una dirección general reconocible.",
+        "B": "Sistema extenso de sierras y montañas enlazadas.",
+        "C": "Agrupación compacta de montañas sin una única dirección general obligatoria."
+      }
+    },
+    {
+      "id": "GC-T18-Q0331",
+      "fact_id": "GC-T18-F193",
+      "bloque": 18,
+      "concepto": "Macizo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Agrupación compacta de montañas sin una única dirección general obligatoria.»?",
+      "opciones": {
+        "A": "Macizo",
+        "B": "Sierra",
+        "C": "Cordillera"
+      }
+    },
+    {
+      "id": "GC-T18-Q0332",
+      "fact_id": "GC-T18-F194",
+      "bloque": 18,
+      "concepto": "Sierra",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Sierra?",
+      "opciones": {
+        "A": "Sistema extenso de sierras y montañas enlazadas.",
+        "B": "Alineación de montañas que sigue una dirección general reconocible.",
+        "C": "Punto de unión de dos cursos de agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0333",
+      "fact_id": "GC-T18-F194",
+      "bloque": 18,
+      "concepto": "Sierra",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Alineación de montañas que sigue una dirección general reconocible.»?",
+      "opciones": {
+        "A": "Cordillera",
+        "B": "Confluencia",
+        "C": "Sierra"
+      }
+    },
+    {
+      "id": "GC-T18-Q0334",
+      "fact_id": "GC-T18-F195",
+      "bloque": 18,
+      "concepto": "Cordillera",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Cordillera, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Sistema extenso de sierras y montañas enlazadas.",
+        "B": "Punto de unión de dos cursos de agua.",
+        "C": "Curso de agua que desemboca en otro curso principal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0335",
+      "fact_id": "GC-T18-F196",
+      "bloque": 18,
+      "concepto": "Confluencia",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Confluencia?",
+      "opciones": {
+        "A": "Curso de agua que desemboca en otro curso principal.",
+        "B": "Punto de unión de dos cursos de agua.",
+        "C": "Tramo poco profundo y de fondo firme que permite atravesar un curso de agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0336",
+      "fact_id": "GC-T18-F196",
+      "bloque": 18,
+      "concepto": "Confluencia",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Punto de unión de dos cursos de agua.»?",
+      "opciones": {
+        "A": "Afluente",
+        "B": "Vado",
+        "C": "Confluencia"
+      }
+    },
+    {
+      "id": "GC-T18-Q0337",
+      "fact_id": "GC-T18-F197",
+      "bloque": 18,
+      "concepto": "Afluente",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Afluente?",
+      "opciones": {
+        "A": "Curso de agua que desemboca en otro curso principal.",
+        "B": "Tramo poco profundo y de fondo firme que permite atravesar un curso de agua.",
+        "C": "Curva pronunciada descrita por el cauce de un río."
+      }
+    },
+    {
+      "id": "GC-T18-Q0338",
+      "fact_id": "GC-T18-F198",
+      "bloque": 18,
+      "concepto": "Vado",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Vado.",
+      "opciones": {
+        "A": "Curva pronunciada descrita por el cauce de un río.",
+        "B": "Tramo poco profundo y de fondo firme que permite atravesar un curso de agua.",
+        "C": "Territorio cuyas aguas drenan hacia un mismo río, lago o mar por una red de cauces."
+      }
+    },
+    {
+      "id": "GC-T18-Q0339",
+      "fact_id": "GC-T18-F198",
+      "bloque": 18,
+      "concepto": "Vado",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Tramo poco profundo y de fondo firme que permite atravesar un curso de agua.»?",
+      "opciones": {
+        "A": "Meandro",
+        "B": "Cuenca hidrográfica",
+        "C": "Vado"
+      }
+    },
+    {
+      "id": "GC-T18-Q0340",
+      "fact_id": "GC-T18-F199",
+      "bloque": 18,
+      "concepto": "Meandro",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Meandro?",
+      "opciones": {
+        "A": "Curva pronunciada descrita por el cauce de un río.",
+        "B": "Territorio cuyas aguas drenan hacia un mismo río, lago o mar por una red de cauces.",
+        "C": "Espacio por el que circula habitualmente una corriente de agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0341",
+      "fact_id": "GC-T18-F200",
+      "bloque": 18,
+      "concepto": "Cuenca hidrográfica",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Respecto de Cuenca hidrográfica, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Espacio por el que circula habitualmente una corriente de agua.",
+        "B": "Territorio cuyas aguas drenan hacia un mismo río, lago o mar por una red de cauces.",
+        "C": "Lugar donde un curso de agua vierte en otro río, lago o mar."
+      }
+    },
+    {
+      "id": "GC-T18-Q0342",
+      "fact_id": "GC-T18-F201",
+      "bloque": 18,
+      "concepto": "Cauce",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Cauce?",
+      "opciones": {
+        "A": "Lugar donde un curso de agua vierte en otro río, lago o mar.",
+        "B": "Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.",
+        "C": "Espacio por el que circula habitualmente una corriente de agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0343",
+      "fact_id": "GC-T18-F202",
+      "bloque": 18,
+      "concepto": "Desembocadura",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Desembocadura.",
+      "opciones": {
+        "A": "Lugar donde un curso de agua vierte en otro río, lago o mar.",
+        "B": "Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.",
+        "C": "Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0344",
+      "fact_id": "GC-T18-F203",
+      "bloque": 18,
+      "concepto": "Error sobre el macizo",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Error sobre el macizo, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+        "B": "Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.",
+        "C": "Vaguada profunda y encajada excavada por la erosión o el agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0345",
+      "fact_id": "GC-T18-F203",
+      "bloque": 18,
+      "concepto": "Error sobre el macizo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.»?",
+      "opciones": {
+        "A": "Valle",
+        "B": "Barranco",
+        "C": "Error sobre el macizo"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0325",
+      "respuesta_correcta": "A",
+      "explicacion": "Valle: Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+      "fact_id": "GC-T18-F189",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0326",
+      "respuesta_correcta": "B",
+      "explicacion": "Valle: Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+      "fact_id": "GC-T18-F189",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "respuesta_correcta": "C",
+      "explicacion": "Barranco: Vaguada profunda y encajada excavada por la erosión o el agua.",
+      "fact_id": "GC-T18-F190",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0328",
+      "respuesta_correcta": "A",
+      "explicacion": "Garganta: Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+      "fact_id": "GC-T18-F191",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0329",
+      "respuesta_correcta": "B",
+      "explicacion": "Desfiladero: Paso largo y estrecho entre montañas o paredes escarpadas.",
+      "fact_id": "GC-T18-F192",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0330",
+      "respuesta_correcta": "C",
+      "explicacion": "Macizo: Agrupación compacta de montañas sin una única dirección general obligatoria.",
+      "fact_id": "GC-T18-F193",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0331",
+      "respuesta_correcta": "A",
+      "explicacion": "Macizo: Agrupación compacta de montañas sin una única dirección general obligatoria.",
+      "fact_id": "GC-T18-F193",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0332",
+      "respuesta_correcta": "B",
+      "explicacion": "Sierra: Alineación de montañas que sigue una dirección general reconocible.",
+      "fact_id": "GC-T18-F194",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0333",
+      "respuesta_correcta": "C",
+      "explicacion": "Sierra: Alineación de montañas que sigue una dirección general reconocible.",
+      "fact_id": "GC-T18-F194",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0334",
+      "respuesta_correcta": "A",
+      "explicacion": "Cordillera: Sistema extenso de sierras y montañas enlazadas.",
+      "fact_id": "GC-T18-F195",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0335",
+      "respuesta_correcta": "B",
+      "explicacion": "Confluencia: Punto de unión de dos cursos de agua.",
+      "fact_id": "GC-T18-F196",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0336",
+      "respuesta_correcta": "C",
+      "explicacion": "Confluencia: Punto de unión de dos cursos de agua.",
+      "fact_id": "GC-T18-F196",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0337",
+      "respuesta_correcta": "A",
+      "explicacion": "Afluente: Curso de agua que desemboca en otro curso principal.",
+      "fact_id": "GC-T18-F197",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0338",
+      "respuesta_correcta": "B",
+      "explicacion": "Vado: Tramo poco profundo y de fondo firme que permite atravesar un curso de agua.",
+      "fact_id": "GC-T18-F198",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0339",
+      "respuesta_correcta": "C",
+      "explicacion": "Vado: Tramo poco profundo y de fondo firme que permite atravesar un curso de agua.",
+      "fact_id": "GC-T18-F198",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0340",
+      "respuesta_correcta": "A",
+      "explicacion": "Meandro: Curva pronunciada descrita por el cauce de un río.",
+      "fact_id": "GC-T18-F199",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0341",
+      "respuesta_correcta": "B",
+      "explicacion": "Cuenca hidrográfica: Territorio cuyas aguas drenan hacia un mismo río, lago o mar por una red de cauces.",
+      "fact_id": "GC-T18-F200",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0342",
+      "respuesta_correcta": "C",
+      "explicacion": "Cauce: Espacio por el que circula habitualmente una corriente de agua.",
+      "fact_id": "GC-T18-F201",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0343",
+      "respuesta_correcta": "A",
+      "explicacion": "Desembocadura: Lugar donde un curso de agua vierte en otro río, lago o mar.",
+      "fact_id": "GC-T18-F202",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0344",
+      "respuesta_correcta": "B",
+      "explicacion": "Error sobre el macizo: Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.",
+      "fact_id": "GC-T18-F203",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0345",
+      "respuesta_correcta": "C",
+      "explicacion": "Error sobre el macizo: Definir el macizo como montañas con una sola dirección general confunde este accidente con una sierra o alineación.",
+      "fact_id": "GC-T18-F203",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,437 @@
+{
+  "id": "GC-T18-B15-A",
+  "titulo": "Tema 18 · Bloque 15: Interpolación de cotas y pendiente · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      15
+    ]
+  },
+  "numero_preguntas": 19,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0274",
+      "fact_id": "GC-T18-F154",
+      "bloque": 15,
+      "concepto": "Fracción de avance",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Fracción de avance, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+        "B": "Es la fracción de avance multiplicada por la equidistancia.",
+        "C": "Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior."
+      }
+    },
+    {
+      "id": "GC-T18-Q0272",
+      "fact_id": "GC-T18-F153",
+      "bloque": 15,
+      "concepto": "Interpolación lineal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Interpolación lineal?",
+      "opciones": {
+        "A": "Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+        "B": "Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+        "C": "Es la fracción de avance multiplicada por la equidistancia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0273",
+      "fact_id": "GC-T18-F153",
+      "bloque": 15,
+      "concepto": "Interpolación lineal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.»?",
+      "opciones": {
+        "A": "Fracción de avance",
+        "B": "Incremento de cota",
+        "C": "Interpolación lineal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0277",
+      "fact_id": "GC-T18-F155",
+      "bloque": 15,
+      "concepto": "Incremento de cota",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Es la fracción de avance multiplicada por la equidistancia.»?",
+      "opciones": {
+        "A": "Incremento de cota",
+        "B": "Cota interpolada",
+        "C": "Pendiente decimal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0275",
+      "fact_id": "GC-T18-F154",
+      "bloque": 15,
+      "concepto": "Fracción de avance",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.»?",
+      "opciones": {
+        "A": "Incremento de cota",
+        "B": "Fracción de avance",
+        "C": "Cota interpolada"
+      }
+    },
+    {
+      "id": "GC-T18-Q0276",
+      "fact_id": "GC-T18-F155",
+      "bloque": 15,
+      "concepto": "Incremento de cota",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Incremento de cota, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior.",
+        "B": "Cociente entre el desnivel y la distancia horizontal.",
+        "C": "Es la fracción de avance multiplicada por la equidistancia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0280",
+      "fact_id": "GC-T18-F157",
+      "bloque": 15,
+      "concepto": "Pendiente decimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Pendiente decimal?",
+      "opciones": {
+        "A": "Cociente entre el desnivel y la distancia horizontal.",
+        "B": "Pendiente decimal multiplicada por cien.",
+        "C": "Se obtiene multiplicando la pendiente decimal por la distancia horizontal."
+      }
+    },
+    {
+      "id": "GC-T18-Q0278",
+      "fact_id": "GC-T18-F156",
+      "bloque": 15,
+      "concepto": "Cota interpolada",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Cota interpolada.",
+      "opciones": {
+        "A": "Cociente entre el desnivel y la distancia horizontal.",
+        "B": "Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior.",
+        "C": "Pendiente decimal multiplicada por cien."
+      }
+    },
+    {
+      "id": "GC-T18-Q0279",
+      "fact_id": "GC-T18-F156",
+      "bloque": 15,
+      "concepto": "Cota interpolada",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior.»?",
+      "opciones": {
+        "A": "Pendiente decimal",
+        "B": "Pendiente porcentual",
+        "C": "Cota interpolada"
+      }
+    },
+    {
+      "id": "GC-T18-Q0283",
+      "fact_id": "GC-T18-F158",
+      "bloque": 15,
+      "concepto": "Pendiente porcentual",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Pendiente decimal multiplicada por cien.»?",
+      "opciones": {
+        "A": "Pendiente porcentual",
+        "B": "Desnivel desde pendiente",
+        "C": "Distancia desde pendiente"
+      }
+    },
+    {
+      "id": "GC-T18-Q0281",
+      "fact_id": "GC-T18-F157",
+      "bloque": 15,
+      "concepto": "Pendiente decimal",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Cociente entre el desnivel y la distancia horizontal.»?",
+      "opciones": {
+        "A": "Pendiente porcentual",
+        "B": "Pendiente decimal",
+        "C": "Desnivel desde pendiente"
+      }
+    },
+    {
+      "id": "GC-T18-Q0282",
+      "fact_id": "GC-T18-F158",
+      "bloque": 15,
+      "concepto": "Pendiente porcentual",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Pendiente porcentual?",
+      "opciones": {
+        "A": "Se obtiene multiplicando la pendiente decimal por la distancia horizontal.",
+        "B": "Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.",
+        "C": "Pendiente decimal multiplicada por cien."
+      }
+    },
+    {
+      "id": "GC-T18-Q0286",
+      "fact_id": "GC-T18-F160",
+      "bloque": 15,
+      "concepto": "Distancia desde pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Distancia desde pendiente, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.",
+        "B": "Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento.",
+        "C": "El valor absoluto mide inclinación; su signo puede indicar ascenso o descenso según el sentido elegido."
+      }
+    },
+    {
+      "id": "GC-T18-Q0284",
+      "fact_id": "GC-T18-F159",
+      "bloque": 15,
+      "concepto": "Desnivel desde pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Desnivel desde pendiente, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.",
+        "B": "Se obtiene multiplicando la pendiente decimal por la distancia horizontal.",
+        "C": "Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento."
+      }
+    },
+    {
+      "id": "GC-T18-Q0285",
+      "fact_id": "GC-T18-F159",
+      "bloque": 15,
+      "concepto": "Desnivel desde pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene multiplicando la pendiente decimal por la distancia horizontal.»?",
+      "opciones": {
+        "A": "Distancia desde pendiente",
+        "B": "Ejemplo de pendiente",
+        "C": "Desnivel desde pendiente"
+      }
+    },
+    {
+      "id": "GC-T18-Q0289",
+      "fact_id": "GC-T18-F161",
+      "bloque": 15,
+      "concepto": "Ejemplo de pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento.»?",
+      "opciones": {
+        "A": "Ejemplo de pendiente",
+        "B": "Pendiente y sentido",
+        "C": "Interpolación lineal"
+      }
+    },
+    {
+      "id": "GC-T18-Q0287",
+      "fact_id": "GC-T18-F160",
+      "bloque": 15,
+      "concepto": "Distancia desde pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.»?",
+      "opciones": {
+        "A": "Ejemplo de pendiente",
+        "B": "Distancia desde pendiente",
+        "C": "Pendiente y sentido"
+      }
+    },
+    {
+      "id": "GC-T18-Q0288",
+      "fact_id": "GC-T18-F161",
+      "bloque": 15,
+      "concepto": "Ejemplo de pendiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Ejemplo de pendiente.",
+      "opciones": {
+        "A": "El valor absoluto mide inclinación; su signo puede indicar ascenso o descenso según el sentido elegido.",
+        "B": "Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+        "C": "Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento."
+      }
+    },
+    {
+      "id": "GC-T18-Q0290",
+      "fact_id": "GC-T18-F162",
+      "bloque": 15,
+      "concepto": "Pendiente y sentido",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Pendiente y sentido?",
+      "opciones": {
+        "A": "Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+        "B": "El valor absoluto mide inclinación; su signo puede indicar ascenso o descenso según el sentido elegido.",
+        "C": "Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0274",
+      "respuesta_correcta": "A",
+      "explicacion": "Fracción de avance: Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+      "fact_id": "GC-T18-F154",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0272",
+      "respuesta_correcta": "B",
+      "explicacion": "Interpolación lineal: Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+      "fact_id": "GC-T18-F153",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0273",
+      "respuesta_correcta": "C",
+      "explicacion": "Interpolación lineal: Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+      "fact_id": "GC-T18-F153",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0277",
+      "respuesta_correcta": "A",
+      "explicacion": "Incremento de cota: Es la fracción de avance multiplicada por la equidistancia.",
+      "fact_id": "GC-T18-F155",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0275",
+      "respuesta_correcta": "B",
+      "explicacion": "Fracción de avance: Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+      "fact_id": "GC-T18-F154",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0276",
+      "respuesta_correcta": "C",
+      "explicacion": "Incremento de cota: Es la fracción de avance multiplicada por la equidistancia.",
+      "fact_id": "GC-T18-F155",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0280",
+      "respuesta_correcta": "A",
+      "explicacion": "Pendiente decimal: Cociente entre el desnivel y la distancia horizontal.",
+      "fact_id": "GC-T18-F157",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0278",
+      "respuesta_correcta": "B",
+      "explicacion": "Cota interpolada: Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior.",
+      "fact_id": "GC-T18-F156",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0279",
+      "respuesta_correcta": "C",
+      "explicacion": "Cota interpolada: Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior.",
+      "fact_id": "GC-T18-F156",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0283",
+      "respuesta_correcta": "A",
+      "explicacion": "Pendiente porcentual: Pendiente decimal multiplicada por cien.",
+      "fact_id": "GC-T18-F158",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0281",
+      "respuesta_correcta": "B",
+      "explicacion": "Pendiente decimal: Cociente entre el desnivel y la distancia horizontal.",
+      "fact_id": "GC-T18-F157",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0282",
+      "respuesta_correcta": "C",
+      "explicacion": "Pendiente porcentual: Pendiente decimal multiplicada por cien.",
+      "fact_id": "GC-T18-F158",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0286",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia desde pendiente: Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.",
+      "fact_id": "GC-T18-F160",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0284",
+      "respuesta_correcta": "B",
+      "explicacion": "Desnivel desde pendiente: Se obtiene multiplicando la pendiente decimal por la distancia horizontal.",
+      "fact_id": "GC-T18-F159",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0285",
+      "respuesta_correcta": "C",
+      "explicacion": "Desnivel desde pendiente: Se obtiene multiplicando la pendiente decimal por la distancia horizontal.",
+      "fact_id": "GC-T18-F159",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0289",
+      "respuesta_correcta": "A",
+      "explicacion": "Ejemplo de pendiente: Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento.",
+      "fact_id": "GC-T18-F161",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0287",
+      "respuesta_correcta": "B",
+      "explicacion": "Distancia desde pendiente: Se obtiene dividiendo el desnivel entre la pendiente expresada en forma decimal.",
+      "fact_id": "GC-T18-F160",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0288",
+      "respuesta_correcta": "C",
+      "explicacion": "Ejemplo de pendiente: Un desnivel de 600 metros en 1 500 metros horizontales equivale a 0,4 o 40 por ciento.",
+      "fact_id": "GC-T18-F161",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0290",
+      "respuesta_correcta": "B",
+      "explicacion": "Pendiente y sentido: El valor absoluto mide inclinación; su signo puede indicar ascenso o descenso según el sentido elegido.",
+      "fact_id": "GC-T18-F162",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

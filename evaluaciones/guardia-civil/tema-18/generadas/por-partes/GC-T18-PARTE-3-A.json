@@ -1,0 +1,355 @@
+{
+  "id": "GC-T18-PARTE-3-A",
+  "titulo": "Tema 18 · Representación y lectura del terreno · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0214",
+      "fact_id": "GC-T18-F119",
+      "bloque": 12,
+      "concepto": "Mapa topográfico",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.»?",
+      "opciones": {
+        "A": "Mapa topográfico",
+        "B": "Plano",
+        "C": "Carta"
+      }
+    },
+    {
+      "id": "GC-T18-Q0212",
+      "fact_id": "GC-T18-F118",
+      "bloque": 12,
+      "concepto": "Mapa",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Mapa?",
+      "opciones": {
+        "A": "Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+        "B": "Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella.",
+        "C": "Representación a escala de una extensión reducida en la que la curvatura terrestre puede despreciarse."
+      }
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "fact_id": "GC-T18-F127",
+      "bloque": 13,
+      "concepto": "Distancia geométrica",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Distancia geométrica?",
+      "opciones": {
+        "A": "Longitud del recorrido seguido sobre la superficie irregular del terreno.",
+        "B": "Diferencia vertical de altura o cota entre dos puntos.",
+        "C": "Longitud en línea recta entre dos puntos considerados en el espacio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0223",
+      "fact_id": "GC-T18-F126",
+      "bloque": 13,
+      "concepto": "Distancia horizontal o reducida",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Distancia horizontal o reducida.",
+      "opciones": {
+        "A": "Proyección horizontal de la línea recta que une dos puntos del terreno.",
+        "B": "Longitud en línea recta entre dos puntos considerados en el espacio.",
+        "C": "Longitud del recorrido seguido sobre la superficie irregular del terreno."
+      }
+    },
+    {
+      "id": "GC-T18-Q0248",
+      "fact_id": "GC-T18-F139",
+      "bloque": 14,
+      "concepto": "Plano de comparación",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Plano de comparación.",
+      "opciones": {
+        "A": "Corresponde a un punto situado por encima del plano de comparación.",
+        "B": "Superficie horizontal de referencia desde la que se miden las cotas.",
+        "C": "Corresponde a un punto situado por debajo del plano de comparación."
+      }
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "fact_id": "GC-T18-F190",
+      "bloque": 18,
+      "concepto": "Barranco",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Barranco?",
+      "opciones": {
+        "A": "Paso estrecho y profundo entre paredes o laderas muy abruptas.",
+        "B": "Paso largo y estrecho entre montañas o paredes escarpadas.",
+        "C": "Vaguada profunda y encajada excavada por la erosión o el agua."
+      }
+    },
+    {
+      "id": "GC-T18-Q0247",
+      "fact_id": "GC-T18-F138",
+      "bloque": 14,
+      "concepto": "Sistema de planos acotados",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.»?",
+      "opciones": {
+        "A": "Sistema de planos acotados",
+        "B": "Plano de comparación",
+        "C": "Cota positiva"
+      }
+    },
+    {
+      "id": "GC-T18-Q0272",
+      "fact_id": "GC-T18-F153",
+      "bloque": 15,
+      "concepto": "Interpolación lineal",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Interpolación lineal?",
+      "opciones": {
+        "A": "Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+        "B": "Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+        "C": "Es la fracción de avance multiplicada por la equidistancia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0274",
+      "fact_id": "GC-T18-F154",
+      "bloque": 15,
+      "concepto": "Fracción de avance",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Fracción de avance, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+        "B": "Es la fracción de avance multiplicada por la equidistancia.",
+        "C": "Se obtiene sumando el incremento a la cota inferior cuando se avanza hacia la curva superior."
+      }
+    },
+    {
+      "id": "GC-T18-Q0293",
+      "fact_id": "GC-T18-F165",
+      "bloque": 16,
+      "concepto": "Terreno montañoso",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Terreno montañoso.",
+      "opciones": {
+        "A": "Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Ofrece firmeza y cohesión suficientes para soportar el tránsito con relativa estabilidad."
+      }
+    },
+    {
+      "id": "GC-T18-Q0292",
+      "fact_id": "GC-T18-F164",
+      "bloque": 16,
+      "concepto": "Terreno ondulado",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En topografía, ¿qué definición corresponde a Terreno ondulado?",
+      "opciones": {
+        "A": "Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+        "B": "Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+        "C": "Presenta pendientes muy fuertes, cortados o cambios bruscos de nivel."
+      }
+    },
+    {
+      "id": "GC-T18-Q0305",
+      "fact_id": "GC-T18-F177",
+      "bloque": 17,
+      "concepto": "Divisoria",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Divisoria?",
+      "opciones": {
+        "A": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Entre dos vaguadas existe una divisoria y entre dos divisorias existe una vaguada."
+      }
+    },
+    {
+      "id": "GC-T18-Q0304",
+      "fact_id": "GC-T18-F176",
+      "bloque": 17,
+      "concepto": "Vertiente",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Vertiente, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+        "B": "Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+        "C": "Unión por su parte inferior de dos laderas opuestas que recoge las aguas de ambas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0325",
+      "fact_id": "GC-T18-F189",
+      "bloque": 18,
+      "concepto": "Valle",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Valle?",
+      "opciones": {
+        "A": "Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+        "B": "Vaguada profunda y encajada excavada por la erosión o el agua.",
+        "C": "Paso estrecho y profundo entre paredes o laderas muy abruptas."
+      }
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "fact_id": "GC-T18-F122",
+      "bloque": 12,
+      "concepto": "Croquis",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Croquis?",
+      "opciones": {
+        "A": "Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+        "B": "Selección y simplificación de elementos para que la representación siga siendo legible a la escala elegida.",
+        "C": "Símbolo acordado que representa un objeto o fenómeno del terreno en el documento cartográfico."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0214",
+      "respuesta_correcta": "A",
+      "explicacion": "Mapa topográfico: Representación que muestra conjuntamente planimetría y relieve, normalmente mediante curvas de nivel y cotas.",
+      "fact_id": "GC-T18-F119",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0212",
+      "respuesta_correcta": "B",
+      "explicacion": "Mapa: Representación reducida, generalizada y convencional de la superficie terrestre o de una parte de ella.",
+      "fact_id": "GC-T18-F118",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0225",
+      "respuesta_correcta": "C",
+      "explicacion": "Distancia geométrica: Longitud en línea recta entre dos puntos considerados en el espacio.",
+      "fact_id": "GC-T18-F127",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0223",
+      "respuesta_correcta": "A",
+      "explicacion": "Distancia horizontal o reducida: Proyección horizontal de la línea recta que une dos puntos del terreno.",
+      "fact_id": "GC-T18-F126",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0248",
+      "respuesta_correcta": "B",
+      "explicacion": "Plano de comparación: Superficie horizontal de referencia desde la que se miden las cotas.",
+      "fact_id": "GC-T18-F139",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0327",
+      "respuesta_correcta": "C",
+      "explicacion": "Barranco: Vaguada profunda y encajada excavada por la erosión o el agua.",
+      "fact_id": "GC-T18-F190",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0247",
+      "respuesta_correcta": "A",
+      "explicacion": "Sistema de planos acotados: Representa cada punto mediante su proyección ortogonal sobre un plano horizontal y un número que indica su cota.",
+      "fact_id": "GC-T18-F138",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0272",
+      "respuesta_correcta": "B",
+      "explicacion": "Interpolación lineal: Permite estimar la cota de un punto entre dos curvas suponiendo pendiente uniforme.",
+      "fact_id": "GC-T18-F153",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0274",
+      "respuesta_correcta": "A",
+      "explicacion": "Fracción de avance: Se calcula dividiendo la distancia desde la curva de menor cota hasta el punto entre la separación total de las curvas.",
+      "fact_id": "GC-T18-F154",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0293",
+      "respuesta_correcta": "B",
+      "explicacion": "Terreno montañoso: Presenta elevaciones importantes, vertientes marcadas y desniveles considerables.",
+      "fact_id": "GC-T18-F165",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0292",
+      "respuesta_correcta": "A",
+      "explicacion": "Terreno ondulado: Alterna elevaciones y depresiones suaves sin grandes desniveles abruptos.",
+      "fact_id": "GC-T18-F164",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0305",
+      "respuesta_correcta": "B",
+      "explicacion": "Divisoria: Línea alta del terreno que separa aguas que discurren hacia vertientes distintas.",
+      "fact_id": "GC-T18-F177",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0304",
+      "respuesta_correcta": "A",
+      "explicacion": "Vertiente: Conjunto de laderas cuyas aguas vierten hacia un mismo cauce o cuenca.",
+      "fact_id": "GC-T18-F176",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0325",
+      "respuesta_correcta": "A",
+      "explicacion": "Valle: Zona de terreno comprendida entre grandes divisorias por la que normalmente discurre un curso de agua.",
+      "fact_id": "GC-T18-F189",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0217",
+      "respuesta_correcta": "A",
+      "explicacion": "Croquis: Dibujo simplificado que refleja la disposición relativa de elementos sin exigir una escala rigurosa.",
+      "fact_id": "GC-T18-F122",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

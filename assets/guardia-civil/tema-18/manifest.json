@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-18",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 19,
+    "integrated": 0,
+    "planned": 19
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T18-V00",
+      "file": "t18-00-mapa-topografia.webp",
+      "title": "Mapa general de Topografía",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Mapa de elementos geográficos, medidas, escalas y terreno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V01",
+      "file": "t18-01-alcance-oficial-y-metodo-de-resolucion.webp",
+      "title": "Alcance oficial y método de resolución",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de cálculo para explicar alcance oficial y método de resolución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V02",
+      "file": "t18-il-02-topografia-planimetria-y-altimetria.webp",
+      "title": "Topografía, planimetría y altimetría",
+      "type": "ilustracion_simple",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "escena de orientación para explicar topografía, planimetría y altimetría.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V03",
+      "file": "t18-03-eje-terrestre-polos-y-ecuador.webp",
+      "title": "Eje terrestre, polos y ecuador",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "corte del relieve para explicar eje terrestre, polos y ecuador.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V04",
+      "file": "t18-04-meridianos-paralelos-y-coordenadas-geograficas.webp",
+      "title": "Meridianos, paralelos y coordenadas geográficas",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica para explicar meridianos, paralelos y coordenadas geográficas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V05",
+      "file": "t18-05-puntos-cardinales-nortes-y-declinacion-magnetica.webp",
+      "title": "Puntos cardinales, nortes y declinación magnética",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar puntos cardinales, nortes y declinación magnética.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V06",
+      "file": "t18-il-06-acimut-rumbo-y-direcciones-inversas.webp",
+      "title": "Acimut, rumbo y direcciones inversas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de cálculo para explicar acimut, rumbo y direcciones inversas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V07",
+      "file": "t18-07-unidades-lineales-y-superficiales.webp",
+      "title": "Unidades lineales y superficiales",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "escena de orientación para explicar unidades lineales y superficiales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V08",
+      "file": "t18-08-sistemas-angulares-sexagesimal-y-centesimal.webp",
+      "title": "Sistemas angulares sexagesimal y centesimal",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "corte del relieve para explicar sistemas angulares sexagesimal y centesimal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V09",
+      "file": "t18-09-radian-milesima-y-conversiones-angulares.webp",
+      "title": "Radián, milésima y conversiones angulares",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica para explicar radián, milésima y conversiones angulares.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V10",
+      "file": "t18-il-10-concepto-y-tipos-de-escala.webp",
+      "title": "Concepto y tipos de escala",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar concepto y tipos de escala.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V11",
+      "file": "t18-11-calculos-con-escalas-lineales-y-superficiales.webp",
+      "title": "Cálculos con escalas lineales y superficiales",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de cálculo para explicar cálculos con escalas lineales y superficiales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V12",
+      "file": "t18-12-mapas-planos-cartas-y-croquis.webp",
+      "title": "Mapas, planos, cartas y croquis",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "escena de orientación para explicar mapas, planos, cartas y croquis.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V13",
+      "file": "t18-13-distancias-cota-altitud-y-desnivel.webp",
+      "title": "Distancias, cota, altitud y desnivel",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "corte del relieve para explicar distancias, cota, altitud y desnivel.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V14",
+      "file": "t18-il-14-sistema-de-planos-acotados-y-curvas-de-nivel.webp",
+      "title": "Sistema de planos acotados y curvas de nivel",
+      "type": "ilustracion_simple",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "regla mnemotécnica para explicar sistema de planos acotados y curvas de nivel.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V15",
+      "file": "t18-15-interpolacion-de-cotas-y-pendiente.webp",
+      "title": "Interpolación de cotas y pendiente",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para explicar interpolación de cotas y pendiente.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V16",
+      "file": "t18-16-clases-del-terreno.webp",
+      "title": "Clases del terreno",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de cálculo para explicar clases del terreno.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V17",
+      "file": "t18-17-accidentes-basicos-laderas-divisorias-vaguadas-y-collados.webp",
+      "title": "Accidentes básicos: laderas, divisorias, vaguadas y collados",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "escena de orientación para explicar accidentes básicos: laderas, divisorias, vaguadas y collados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T18-V18",
+      "file": "t18-il-18-accidentes-complejos-e-hidrograficos.webp",
+      "title": "Accidentes complejos e hidrográficos",
+      "type": "ilustracion_simple",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "corte del relieve para explicar accidentes complejos e hidrográficos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,327 @@
+{
+  "id": "GC-T18-B01-A",
+  "titulo": "Tema 18 · Bloque 1: Alcance oficial y método de resolución · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      1
+    ]
+  },
+  "numero_preguntas": 14,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0001",
+      "fact_id": "GC-T18-F001",
+      "bloque": 1,
+      "concepto": "Alcance del Tema 18",
+      "articulo": "Epígrafe oficial",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Alcance del Tema 18, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+        "B": "El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio.",
+        "C": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles."
+      }
+    },
+    {
+      "id": "GC-T18-Q0002",
+      "fact_id": "GC-T18-F001",
+      "bloque": 1,
+      "concepto": "Alcance del Tema 18",
+      "articulo": "Epígrafe oficial",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.»?",
+      "opciones": {
+        "A": "Bloque único",
+        "B": "Alcance del Tema 18",
+        "C": "Regla de homogeneidad"
+      }
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "fact_id": "GC-T18-F002",
+      "bloque": 1,
+      "concepto": "Bloque único",
+      "articulo": "Epígrafe oficial",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Señale la regla correcta sobre Bloque único.",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio."
+      }
+    },
+    {
+      "id": "GC-T18-Q0004",
+      "fact_id": "GC-T18-F003",
+      "bloque": 1,
+      "concepto": "Regla de homogeneidad",
+      "articulo": "Método de cálculo",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Regla de homogeneidad, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+        "B": "Las longitudes cambian con el denominador de la escala en primera potencia.",
+        "C": "Las superficies cambian con el cuadrado del denominador de la escala."
+      }
+    },
+    {
+      "id": "GC-T18-Q0005",
+      "fact_id": "GC-T18-F003",
+      "bloque": 1,
+      "concepto": "Regla de homogeneidad",
+      "articulo": "Método de cálculo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.»?",
+      "opciones": {
+        "A": "Regla de escala lineal",
+        "B": "Regla de homogeneidad",
+        "C": "Regla de escala superficial"
+      }
+    },
+    {
+      "id": "GC-T18-Q0006",
+      "fact_id": "GC-T18-F004",
+      "bloque": 1,
+      "concepto": "Regla de escala lineal",
+      "articulo": "Método de cálculo",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Regla de escala lineal, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Las superficies cambian con el cuadrado del denominador de la escala.",
+        "B": "No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+        "C": "Las longitudes cambian con el denominador de la escala en primera potencia."
+      }
+    },
+    {
+      "id": "GC-T18-Q0007",
+      "fact_id": "GC-T18-F004",
+      "bloque": 1,
+      "concepto": "Regla de escala lineal",
+      "articulo": "Método de cálculo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Las longitudes cambian con el denominador de la escala en primera potencia.»?",
+      "opciones": {
+        "A": "Regla de escala lineal",
+        "B": "Regla de escala superficial",
+        "C": "Regla angular"
+      }
+    },
+    {
+      "id": "GC-T18-Q0008",
+      "fact_id": "GC-T18-F005",
+      "bloque": 1,
+      "concepto": "Regla de escala superficial",
+      "articulo": "Método de cálculo",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Regla de escala superficial.",
+      "opciones": {
+        "A": "No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+        "B": "Las superficies cambian con el cuadrado del denominador de la escala.",
+        "C": "La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada."
+      }
+    },
+    {
+      "id": "GC-T18-Q0009",
+      "fact_id": "GC-T18-F005",
+      "bloque": 1,
+      "concepto": "Regla de escala superficial",
+      "articulo": "Método de cálculo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Las superficies cambian con el cuadrado del denominador de la escala.»?",
+      "opciones": {
+        "A": "Regla angular",
+        "B": "Regla de pendiente",
+        "C": "Regla de escala superficial"
+      }
+    },
+    {
+      "id": "GC-T18-Q0010",
+      "fact_id": "GC-T18-F006",
+      "bloque": 1,
+      "concepto": "Regla angular",
+      "articulo": "Método de cálculo",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Regla angular?",
+      "opciones": {
+        "A": "No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+        "B": "La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada.",
+        "C": "Esta entrega planifica referencias visuales, pero no integra archivos PNG, WEBP ni otros binarios gráficos."
+      }
+    },
+    {
+      "id": "GC-T18-Q0011",
+      "fact_id": "GC-T18-F006",
+      "bloque": 1,
+      "concepto": "Regla angular",
+      "articulo": "Método de cálculo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.»?",
+      "opciones": {
+        "A": "Regla de pendiente",
+        "B": "Regla angular",
+        "C": "Producción gráfica"
+      }
+    },
+    {
+      "id": "GC-T18-Q0012",
+      "fact_id": "GC-T18-F007",
+      "bloque": 1,
+      "concepto": "Regla de pendiente",
+      "articulo": "Método de cálculo",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Regla de pendiente?",
+      "opciones": {
+        "A": "Esta entrega planifica referencias visuales, pero no integra archivos PNG, WEBP ni otros binarios gráficos.",
+        "B": "Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+        "C": "La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada."
+      }
+    },
+    {
+      "id": "GC-T18-Q0013",
+      "fact_id": "GC-T18-F007",
+      "bloque": 1,
+      "concepto": "Regla de pendiente",
+      "articulo": "Método de cálculo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada.»?",
+      "opciones": {
+        "A": "Regla de pendiente",
+        "B": "Producción gráfica",
+        "C": "Alcance del Tema 18"
+      }
+    },
+    {
+      "id": "GC-T18-Q0014",
+      "fact_id": "GC-T18-F008",
+      "bloque": 1,
+      "concepto": "Producción gráfica",
+      "articulo": "Producción",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "En un ejercicio sobre Producción gráfica, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+        "B": "Esta entrega planifica referencias visuales, pero no integra archivos PNG, WEBP ni otros binarios gráficos.",
+        "C": "El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0001",
+      "respuesta_correcta": "A",
+      "explicacion": "Alcance del Tema 18: Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+      "fact_id": "GC-T18-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0002",
+      "respuesta_correcta": "B",
+      "explicacion": "Alcance del Tema 18: Comprende elementos geográficos; unidades lineales y angulares; escalas numérica y gráfica; planimetría y altimetría; clases y accidentes del terreno; planos acotados y pendiente entre dos puntos.",
+      "fact_id": "GC-T18-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Bloque único: El programa oficial agrupa todo el Tema 18 de Topografía en un único bloque, aunque pedagógicamente se divida en partes de estudio.",
+      "fact_id": "GC-T18-F002",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T18-Q0004",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de homogeneidad: Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+      "fact_id": "GC-T18-F003",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0005",
+      "respuesta_correcta": "B",
+      "explicacion": "Regla de homogeneidad: Antes de operar, todas las distancias deben expresarse en una misma unidad y todas las superficies en unidades cuadradas compatibles.",
+      "fact_id": "GC-T18-F003",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0006",
+      "respuesta_correcta": "C",
+      "explicacion": "Regla de escala lineal: Las longitudes cambian con el denominador de la escala en primera potencia.",
+      "fact_id": "GC-T18-F004",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0007",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de escala lineal: Las longitudes cambian con el denominador de la escala en primera potencia.",
+      "fact_id": "GC-T18-F004",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0008",
+      "respuesta_correcta": "B",
+      "explicacion": "Regla de escala superficial: Las superficies cambian con el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F005",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0009",
+      "respuesta_correcta": "C",
+      "explicacion": "Regla de escala superficial: Las superficies cambian con el cuadrado del denominador de la escala.",
+      "fact_id": "GC-T18-F005",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0010",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla angular: No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+      "fact_id": "GC-T18-F006",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0011",
+      "respuesta_correcta": "B",
+      "explicacion": "Regla angular: No deben mezclarse grados sexagesimales, centesimales, radianes y milésimas sin convertir previamente.",
+      "fact_id": "GC-T18-F006",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0012",
+      "respuesta_correcta": "C",
+      "explicacion": "Regla de pendiente: La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada.",
+      "fact_id": "GC-T18-F007",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0013",
+      "respuesta_correcta": "A",
+      "explicacion": "Regla de pendiente: La pendiente se calcula con el desnivel y la distancia horizontal, no con la distancia geométrica inclinada.",
+      "fact_id": "GC-T18-F007",
+      "articulo": "Método de cálculo"
+    },
+    {
+      "id": "GC-T18-Q0014",
+      "respuesta_correcta": "B",
+      "explicacion": "Producción gráfica: Esta entrega planifica referencias visuales, pero no integra archivos PNG, WEBP ni otros binarios gráficos.",
+      "fact_id": "GC-T18-F008",
+      "articulo": "Producción"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

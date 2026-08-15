@@ -1,0 +1,459 @@
+{
+  "id": "GC-T18-B06-A",
+  "titulo": "Tema 18 · Bloque 6: Acimut, rumbo y direcciones inversas · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      6
+    ]
+  },
+  "numero_preguntas": 20,
+  "preguntas": [
+    {
+      "id": "GC-T18-Q0079",
+      "fact_id": "GC-T18-F048",
+      "bloque": 6,
+      "concepto": "Acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.»?",
+      "opciones": {
+        "A": "Acimut",
+        "B": "Origen del acimut",
+        "C": "Rumbo"
+      }
+    },
+    {
+      "id": "GC-T18-Q0080",
+      "fact_id": "GC-T18-F049",
+      "bloque": 6,
+      "concepto": "Origen del acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Origen del acimut?",
+      "opciones": {
+        "A": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "B": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "C": "El rumbo toma como referencia el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "fact_id": "GC-T18-F048",
+      "bloque": 6,
+      "concepto": "Acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Acimut.",
+      "opciones": {
+        "A": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "B": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "C": "Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario."
+      }
+    },
+    {
+      "id": "GC-T18-Q0082",
+      "fact_id": "GC-T18-F050",
+      "bloque": 6,
+      "concepto": "Rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Rumbo?",
+      "opciones": {
+        "A": "Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+        "B": "El rumbo toma como referencia el norte magnético.",
+        "C": "En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados."
+      }
+    },
+    {
+      "id": "GC-T18-Q0083",
+      "fact_id": "GC-T18-F050",
+      "bloque": 6,
+      "concepto": "Rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.»?",
+      "opciones": {
+        "A": "Origen del rumbo",
+        "B": "Rumbo",
+        "C": "Intervalo de acimut y rumbo"
+      }
+    },
+    {
+      "id": "GC-T18-Q0081",
+      "fact_id": "GC-T18-F049",
+      "bloque": 6,
+      "concepto": "Origen del acimut",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El acimut toma como referencia el norte geográfico o verdadero.»?",
+      "opciones": {
+        "A": "Rumbo",
+        "B": "Origen del rumbo",
+        "C": "Origen del acimut"
+      }
+    },
+    {
+      "id": "GC-T18-Q0085",
+      "fact_id": "GC-T18-F051",
+      "bloque": 6,
+      "concepto": "Origen del rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «El rumbo toma como referencia el norte magnético.»?",
+      "opciones": {
+        "A": "Origen del rumbo",
+        "B": "Intervalo de acimut y rumbo",
+        "C": "Acimut inverso"
+      }
+    },
+    {
+      "id": "GC-T18-Q0086",
+      "fact_id": "GC-T18-F052",
+      "bloque": 6,
+      "concepto": "Intervalo de acimut y rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Intervalo de acimut y rumbo, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Acimut de la dirección opuesta a la considerada inicialmente.",
+        "B": "En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados.",
+        "C": "Rumbo medido hacia la dirección opuesta a la considerada inicialmente."
+      }
+    },
+    {
+      "id": "GC-T18-Q0084",
+      "fact_id": "GC-T18-F051",
+      "bloque": 6,
+      "concepto": "Origen del rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Origen del rumbo, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados.",
+        "B": "Acimut de la dirección opuesta a la considerada inicialmente.",
+        "C": "El rumbo toma como referencia el norte magnético."
+      }
+    },
+    {
+      "id": "GC-T18-Q0088",
+      "fact_id": "GC-T18-F053",
+      "bloque": 6,
+      "concepto": "Acimut inverso",
+      "articulo": "Concepto topográfico",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Señale la regla correcta sobre Acimut inverso.",
+      "opciones": {
+        "A": "Acimut de la dirección opuesta a la considerada inicialmente.",
+        "B": "Rumbo medido hacia la dirección opuesta a la considerada inicialmente.",
+        "C": "Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor."
+      }
+    },
+    {
+      "id": "GC-T18-Q0089",
+      "fact_id": "GC-T18-F053",
+      "bloque": 6,
+      "concepto": "Acimut inverso",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Acimut de la dirección opuesta a la considerada inicialmente.»?",
+      "opciones": {
+        "A": "Rumbo inverso",
+        "B": "Acimut inverso",
+        "C": "Cálculo de dirección inversa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0087",
+      "fact_id": "GC-T18-F052",
+      "bloque": 6,
+      "concepto": "Intervalo de acimut y rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados.»?",
+      "opciones": {
+        "A": "Acimut inverso",
+        "B": "Rumbo inverso",
+        "C": "Intervalo de acimut y rumbo"
+      }
+    },
+    {
+      "id": "GC-T18-Q0091",
+      "fact_id": "GC-T18-F054",
+      "bloque": 6,
+      "concepto": "Rumbo inverso",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Rumbo medido hacia la dirección opuesta a la considerada inicialmente.»?",
+      "opciones": {
+        "A": "Rumbo inverso",
+        "B": "Cálculo de dirección inversa",
+        "C": "Conversión acimut-rumbo"
+      }
+    },
+    {
+      "id": "GC-T18-Q0092",
+      "fact_id": "GC-T18-F055",
+      "bloque": 6,
+      "concepto": "Cálculo de dirección inversa",
+      "articulo": "Concepto topográfico",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En topografía, ¿qué definición corresponde a Cálculo de dirección inversa?",
+      "opciones": {
+        "A": "Exige aplicar la declinación magnética local con su signo correcto.",
+        "B": "Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor.",
+        "C": "Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico."
+      }
+    },
+    {
+      "id": "GC-T18-Q0090",
+      "fact_id": "GC-T18-F054",
+      "bloque": 6,
+      "concepto": "Rumbo inverso",
+      "articulo": "Concepto topográfico",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál de estas formulaciones describe correctamente Rumbo inverso?",
+      "opciones": {
+        "A": "Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor.",
+        "B": "Exige aplicar la declinación magnética local con su signo correcto.",
+        "C": "Rumbo medido hacia la dirección opuesta a la considerada inicialmente."
+      }
+    },
+    {
+      "id": "GC-T18-Q0094",
+      "fact_id": "GC-T18-F056",
+      "bloque": 6,
+      "concepto": "Conversión acimut-rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "En un ejercicio sobre Conversión acimut-rumbo, ¿qué criterio debe aplicarse?",
+      "opciones": {
+        "A": "Exige aplicar la declinación magnética local con su signo correcto.",
+        "B": "Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico.",
+        "C": "Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario."
+      }
+    },
+    {
+      "id": "GC-T18-Q0095",
+      "fact_id": "GC-T18-F056",
+      "bloque": 6,
+      "concepto": "Conversión acimut-rumbo",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Exige aplicar la declinación magnética local con su signo correcto.»?",
+      "opciones": {
+        "A": "Confusión crítica",
+        "B": "Conversión acimut-rumbo",
+        "C": "Acimut"
+      }
+    },
+    {
+      "id": "GC-T18-Q0093",
+      "fact_id": "GC-T18-F055",
+      "bloque": 6,
+      "concepto": "Cálculo de dirección inversa",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor.»?",
+      "opciones": {
+        "A": "Conversión acimut-rumbo",
+        "B": "Confusión crítica",
+        "C": "Cálculo de dirección inversa"
+      }
+    },
+    {
+      "id": "GC-T18-Q0097",
+      "fact_id": "GC-T18-F057",
+      "bloque": 6,
+      "concepto": "Confusión crítica",
+      "articulo": "Concepto topográfico",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto topográfico corresponde a esta definición: «Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico.»?",
+      "opciones": {
+        "A": "Confusión crítica",
+        "B": "Acimut",
+        "C": "Origen del acimut"
+      }
+    },
+    {
+      "id": "GC-T18-Q0096",
+      "fact_id": "GC-T18-F057",
+      "bloque": 6,
+      "concepto": "Confusión crítica",
+      "articulo": "Concepto topográfico",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Respecto de Confusión crítica, ¿qué afirmación es correcta?",
+      "opciones": {
+        "A": "Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.",
+        "B": "El acimut toma como referencia el norte geográfico o verdadero.",
+        "C": "Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T18-Q0079",
+      "respuesta_correcta": "A",
+      "explicacion": "Acimut: Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.",
+      "fact_id": "GC-T18-F048",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0080",
+      "respuesta_correcta": "B",
+      "explicacion": "Origen del acimut: El acimut toma como referencia el norte geográfico o verdadero.",
+      "fact_id": "GC-T18-F049",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0078",
+      "respuesta_correcta": "C",
+      "explicacion": "Acimut: Ángulo que forma el norte geográfico con una dirección, medido desde el norte geográfico en sentido horario.",
+      "fact_id": "GC-T18-F048",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0082",
+      "respuesta_correcta": "A",
+      "explicacion": "Rumbo: Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+      "fact_id": "GC-T18-F050",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0083",
+      "respuesta_correcta": "B",
+      "explicacion": "Rumbo: Ángulo que forma el norte magnético con una dirección, medido desde el norte magnético en sentido horario.",
+      "fact_id": "GC-T18-F050",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0081",
+      "respuesta_correcta": "C",
+      "explicacion": "Origen del acimut: El acimut toma como referencia el norte geográfico o verdadero.",
+      "fact_id": "GC-T18-F049",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0085",
+      "respuesta_correcta": "A",
+      "explicacion": "Origen del rumbo: El rumbo toma como referencia el norte magnético.",
+      "fact_id": "GC-T18-F051",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0086",
+      "respuesta_correcta": "B",
+      "explicacion": "Intervalo de acimut y rumbo: En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados.",
+      "fact_id": "GC-T18-F052",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0084",
+      "respuesta_correcta": "C",
+      "explicacion": "Origen del rumbo: El rumbo toma como referencia el norte magnético.",
+      "fact_id": "GC-T18-F051",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0088",
+      "respuesta_correcta": "A",
+      "explicacion": "Acimut inverso: Acimut de la dirección opuesta a la considerada inicialmente.",
+      "fact_id": "GC-T18-F053",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0089",
+      "respuesta_correcta": "B",
+      "explicacion": "Acimut inverso: Acimut de la dirección opuesta a la considerada inicialmente.",
+      "fact_id": "GC-T18-F053",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0087",
+      "respuesta_correcta": "C",
+      "explicacion": "Intervalo de acimut y rumbo: En el convenio utilizado por el temario, ambos se expresan entre 0 y 360 grados.",
+      "fact_id": "GC-T18-F052",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0091",
+      "respuesta_correcta": "A",
+      "explicacion": "Rumbo inverso: Rumbo medido hacia la dirección opuesta a la considerada inicialmente.",
+      "fact_id": "GC-T18-F054",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0092",
+      "respuesta_correcta": "B",
+      "explicacion": "Cálculo de dirección inversa: Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor.",
+      "fact_id": "GC-T18-F055",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0090",
+      "respuesta_correcta": "C",
+      "explicacion": "Rumbo inverso: Rumbo medido hacia la dirección opuesta a la considerada inicialmente.",
+      "fact_id": "GC-T18-F054",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0094",
+      "respuesta_correcta": "A",
+      "explicacion": "Conversión acimut-rumbo: Exige aplicar la declinación magnética local con su signo correcto.",
+      "fact_id": "GC-T18-F056",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0095",
+      "respuesta_correcta": "B",
+      "explicacion": "Conversión acimut-rumbo: Exige aplicar la declinación magnética local con su signo correcto.",
+      "fact_id": "GC-T18-F056",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0093",
+      "respuesta_correcta": "C",
+      "explicacion": "Cálculo de dirección inversa: Se suma 180 grados si el valor directo es menor de 180 y se resta 180 si es igual o mayor.",
+      "fact_id": "GC-T18-F055",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0097",
+      "respuesta_correcta": "A",
+      "explicacion": "Confusión crítica: Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico.",
+      "fact_id": "GC-T18-F057",
+      "articulo": "Concepto topográfico"
+    },
+    {
+      "id": "GC-T18-Q0096",
+      "respuesta_correcta": "C",
+      "explicacion": "Confusión crítica: Acimut no se mide desde el norte magnético y rumbo no se mide desde el norte geográfico.",
+      "fact_id": "GC-T18-F057",
+      "articulo": "Concepto topográfico"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}
