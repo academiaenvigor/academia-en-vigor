@@ -1,0 +1,354 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-22",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 21,
+    "integrated": 0,
+    "planned": 21
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T22-V00",
+      "file": "t22-00-mapa-general.webp",
+      "title": "Mapa general del Tema 22",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Arquitectura completa de armas y explosivos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V01",
+      "file": "t22-01-reglamento-de-armas-alcance-definiciones-y-clasificacion.webp",
+      "title": "Reglamento de Armas: alcance, definiciones y clasificación",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: alcance, definiciones y clasificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V02",
+      "file": "t22-02-reglamento-de-armas-fabricacion-reparacion-pruebas-y-circulacion.webp",
+      "title": "Reglamento de Armas: fabricación, reparación, pruebas y circulación",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: fabricación, reparación, pruebas y circulación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V03",
+      "file": "t22-03-reglamento-de-armas-comercio-importacion-exportacion-y-seguridad.webp",
+      "title": "Reglamento de Armas: comercio, importación, exportación y seguridad",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: comercio, importación, exportación y seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V04",
+      "file": "t22-04-reglamento-de-armas-documentacion-licencias-y-autorizaciones.webp",
+      "title": "Reglamento de Armas: documentación, licencias y autorizaciones",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: documentación, licencias y autorizaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V05",
+      "file": "t22-05-reglamento-de-armas-uso-campos-sanciones-y-depositos.webp",
+      "title": "Reglamento de Armas: uso, campos, sanciones y depósitos",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: uso, campos, sanciones y depósitos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V06",
+      "file": "t22-06-reglamento-de-armas-disposiciones-y-cierre-del-articulado.webp",
+      "title": "Reglamento de Armas: disposiciones y cierre del articulado",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: disposiciones y cierre del articulado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V07",
+      "file": "t22-07-reglamento-de-armas-itc-y-anexos.webp",
+      "title": "Reglamento de Armas: ITC y anexos",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de armas: itc y anexos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V08",
+      "file": "t22-08-reglamento-de-explosivos-aprobacion-conceptos-y-clasificacion.webp",
+      "title": "Reglamento de Explosivos: aprobación, conceptos y clasificación",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: aprobación, conceptos y clasificación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V09",
+      "file": "t22-09-reglamento-de-explosivos-fabricas.webp",
+      "title": "Reglamento de Explosivos: fábricas",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: fábricas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V10",
+      "file": "t22-10-reglamento-de-explosivos-depositos-envases-y-comercializacion.webp",
+      "title": "Reglamento de Explosivos: depósitos, envases y comercialización",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: depósitos, envases y comercialización.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V11",
+      "file": "t22-11-reglamento-de-explosivos-control-de-mercado-y-utilizacion.webp",
+      "title": "Reglamento de Explosivos: control de mercado y utilización",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: control de mercado y utilización.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V12",
+      "file": "t22-12-reglamento-de-explosivos-importacion-exportacion-y-transferencias.webp",
+      "title": "Reglamento de Explosivos: importación, exportación y transferencias",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: importación, exportación y transferencias.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V13",
+      "file": "t22-13-reglamento-de-explosivos-transporte.webp",
+      "title": "Reglamento de Explosivos: transporte",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: transporte.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V14",
+      "file": "t22-14-reglamento-de-explosivos-regimen-sancionador-y-medidas-de-seguridad.webp",
+      "title": "Reglamento de Explosivos: régimen sancionador y medidas de seguridad",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para reglamento de explosivos: régimen sancionador y medidas de seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V15",
+      "file": "t22-15-explosivos-itc-1-a-5.webp",
+      "title": "Explosivos: ITC 1 a 5",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 1 a 5.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V16",
+      "file": "t22-16-explosivos-itc-6-a-10.webp",
+      "title": "Explosivos: ITC 6 a 10",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 6 a 10.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V17",
+      "file": "t22-17-explosivos-itc-11-a-15.webp",
+      "title": "Explosivos: ITC 11 a 15",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 11 a 15.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V18",
+      "file": "t22-18-explosivos-itc-16-a-20.webp",
+      "title": "Explosivos: ITC 16 a 20",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 16 a 20.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V19",
+      "file": "t22-19-explosivos-itc-21-a-27.webp",
+      "title": "Explosivos: ITC 21 a 27",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 21 a 27.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T22-V20",
+      "file": "t22-20-explosivos-itc-28-a-34.webp",
+      "title": "Explosivos: ITC 28 a 34",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Esquema normativo para explosivos: itc 28 a 34.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

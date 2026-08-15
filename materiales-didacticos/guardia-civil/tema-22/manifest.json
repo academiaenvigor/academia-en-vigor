@@ -1,0 +1,93 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-22",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada_sin_produccion_grafica",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los archivos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-22",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "GC-T22-PARTE-1",
+      "number": 1,
+      "title": "Reglamento de Armas: concepto, clasificación y circulación",
+      "blocks": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "anchor_blocks": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "GC-T22-PARTE-2",
+      "number": 2,
+      "title": "Reglamento de Armas: tenencia, uso, control e ITC",
+      "blocks": [
+        5,
+        6,
+        7
+      ],
+      "anchor_blocks": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "GC-T22-PARTE-3",
+      "number": 3,
+      "title": "Reglamento de Explosivos: régimen general y operativo",
+      "blocks": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "anchor_blocks": [
+        8,
+        14
+      ]
+    },
+    {
+      "id": "GC-T22-PARTE-4",
+      "number": 4,
+      "title": "Reglamento de Explosivos: instrucciones técnicas complementarias",
+      "blocks": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "anchor_blocks": [
+        15,
+        20
+      ]
+    }
+  ],
+  "resources": []
+}

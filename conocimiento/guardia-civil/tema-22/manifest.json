@@ -1,0 +1,104 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-22",
+  "topic_number": 22,
+  "slug": "armas-explosivos",
+  "title": "Armas y explosivos",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-14",
+  "source_file": "conocimiento/guardia-civil/tema-22/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "editorial_reconstruction_from_official_consolidated_legislation"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-22-armas-explosivos.md",
+    "atestado": "temas/guardia-civil/atestado/tema-22-armas-explosivos.md"
+  },
+  "semantic_blocks": 20,
+  "atomic_facts": 849,
+  "master_statements": 849,
+  "coverage_file": "conocimiento/guardia-civil/tema-22/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T22",
+    "RD137-1993-T22",
+    "RD130-2017-T22"
+  ],
+  "official_exam_items": [
+    "of-gc-p2023-1a-q096",
+    "of-gc-p2023-2a-q096",
+    "of-gc-p2023-1a-q097",
+    "of-gc-p2023-2a-q097",
+    "of-gc-p2023-1a-q098",
+    "of-gc-p2023-2a-q098",
+    "of-gc-p2024-2a-q093",
+    "of-gc-p2024-1a-q094",
+    "of-gc-p2024-2a-q094",
+    "of-gc-p2024-1a-q095",
+    "of-gc-p2024-2a-q095",
+    "of-gc-p2024-3a-q095",
+    "of-gc-p2024-1a-q096",
+    "of-gc-p2024-2a-q096",
+    "of-gc-p2024-3a-q096",
+    "of-gc-p2024-1a-q097",
+    "of-gc-p2024-2a-q097",
+    "of-gc-p2024-3a-q097",
+    "of-gc-p2024-1a-q098",
+    "of-gc-p2024-3a-q098",
+    "of-gc-p2025-a-q093",
+    "of-gc-p2025-a-q094",
+    "of-gc-p2025-a-q095",
+    "of-gc-p2025-a-q096",
+    "of-gc-p2026-a-q092",
+    "of-gc-p2026-a-q093",
+    "of-gc-p2026-a-q094",
+    "of-gc-p2026-a-q095"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-22/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_juridico_operativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-22/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-22/manifest.json",
+    "questions": 938,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-22/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-22/manifest.json",
+    "total": 21,
+    "planned": 21
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-22/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "checked_official_sources",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-22/revision-1.0.md"
+  }
+}

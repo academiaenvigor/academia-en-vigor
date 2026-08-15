@@ -1,0 +1,173 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 22,
+  "topic_title": "Armas y explosivos",
+  "id_prefix": "GC-T22",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-22/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-22/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Reglamento de Armas: alcance, definiciones y clasificación"
+      },
+      {
+        "number": 2,
+        "title": "Reglamento de Armas: fabricación, reparación, pruebas y circulación"
+      },
+      {
+        "number": 3,
+        "title": "Reglamento de Armas: comercio, importación, exportación y seguridad"
+      },
+      {
+        "number": 4,
+        "title": "Reglamento de Armas: documentación, licencias y autorizaciones"
+      },
+      {
+        "number": 5,
+        "title": "Reglamento de Armas: uso, campos, sanciones y depósitos"
+      },
+      {
+        "number": 6,
+        "title": "Reglamento de Armas: disposiciones y cierre del articulado"
+      },
+      {
+        "number": 7,
+        "title": "Reglamento de Armas: ITC y anexos"
+      },
+      {
+        "number": 8,
+        "title": "Reglamento de Explosivos: aprobación, conceptos y clasificación"
+      },
+      {
+        "number": 9,
+        "title": "Reglamento de Explosivos: fábricas"
+      },
+      {
+        "number": 10,
+        "title": "Reglamento de Explosivos: depósitos, envases y comercialización"
+      },
+      {
+        "number": 11,
+        "title": "Reglamento de Explosivos: control de mercado y utilización"
+      },
+      {
+        "number": 12,
+        "title": "Reglamento de Explosivos: importación, exportación y transferencias"
+      },
+      {
+        "number": 13,
+        "title": "Reglamento de Explosivos: transporte"
+      },
+      {
+        "number": 14,
+        "title": "Reglamento de Explosivos: régimen sancionador y medidas de seguridad"
+      },
+      {
+        "number": 15,
+        "title": "Explosivos: ITC 1 a 5"
+      },
+      {
+        "number": 16,
+        "title": "Explosivos: ITC 6 a 10"
+      },
+      {
+        "number": 17,
+        "title": "Explosivos: ITC 11 a 15"
+      },
+      {
+        "number": 18,
+        "title": "Explosivos: ITC 16 a 20"
+      },
+      {
+        "number": 19,
+        "title": "Explosivos: ITC 21 a 27"
+      },
+      {
+        "number": 20,
+        "title": "Explosivos: ITC 28 a 34"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Reglamento de Armas: concepto, clasificación y circulación",
+        "blocks": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Reglamento de Armas: tenencia, uso, control e ITC",
+        "blocks": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Reglamento de Explosivos: régimen general y operativo",
+        "blocks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Reglamento de Explosivos: instrucciones técnicas complementarias",
+        "blocks": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

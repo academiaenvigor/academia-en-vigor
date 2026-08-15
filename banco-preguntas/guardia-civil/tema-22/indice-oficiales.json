@@ -1,0 +1,627 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 22,
+  "titulo": "Armas y explosivos",
+  "generated_at": "2026-08-14",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Referencias históricas contrastadas con el corte normativo y la plantilla final oficial.",
+  "total_referencias": 28,
+  "con_bloque_asignado": 28,
+  "con_respuesta_verificada": 28,
+  "en_cuarentena": 0,
+  "por_bloque": {
+    "1": 6,
+    "2": 4,
+    "3": 2,
+    "4": 3,
+    "5": 1,
+    "8": 3,
+    "9": 2,
+    "10": 2,
+    "12": 1,
+    "13": 2,
+    "15": 1,
+    "19": 1
+  },
+  "por_promocion": {
+    "2023": 6,
+    "2024": 14,
+    "2025": 4,
+    "2026": 4
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2023-1a-q096",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 96,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F020"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Clasificación de las armas reglamentadas. De las siguientes armas, ¿cuáles NO pertenecen a la 3ª categoría?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q096",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 96,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F018"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. De las siguientes opciones, ¿Cuál de las siguientes es un arma de fuego corta?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q097",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 97,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T22-F073"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. ¿De qué cuerpos se compondrá la guía de circulación de armas para el territorio nacional?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q097",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 97,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T22-F200"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Intervención e inspección. A través de la Dirección General de Protocolo, Cancillería y Órdenes, se realizarán las actuaciones oportunas, en colaboración directa con la Dirección General de la Guardia Civil, para tramitar la solicitud y concesión de las licencias y autorizaciones especiales de armas requeridas por…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q098",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 98,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T22-F469"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. ¿Cuál de los siguientes NO es uno de los tipos de depósitos de explosivos que establece el Reglamento?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q098",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 98,
+      "block_refs": [
+        15
+      ],
+      "fact_refs": [
+        "GC-T22-F744"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Los “hidrogeles”, de acuerdo con su composición y aplicación, se encuentran clasificados dentro de las materias explosivas como…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q093",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 93,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F020"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. ¿En qué categoría se clasifica una carabina de ánima lisa y de un solo tiro accionada por gas comprimido no asimilada a escopeta cuya energía cinética del proyectil en boca no exceda de 24,2 julios?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q094",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 94,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F027"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Armas de guerra. ¿A quién corresponde determinar las armas de guerra que pueden ser utilizadas como dotación de los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q094",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 94,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T22-F091"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Fabricación de armas. ¿Con qué periodicidad, deben anotar la producción de armas en el libro que deben llevar, los fabricantes autorizados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q095",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 95,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T22-F073"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. ¿Qué destino se le da a la filial de una guía de circulación para la importación de armas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q095",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 95,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T22-F208"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. En relación con las Tarjetas de Armas, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q095",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 95,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F021"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. ¿En qué categoría se clasifican las armas de alarma y señales y pistolas lanzabengalas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q096",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 96,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T22-F283"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Con respecto a las características y requisitos que deben cumplir los campos de tiro eventuales, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q096",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 96,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T22-F376"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. ¿En cuántas divisiones de riesgo definidas en el Manual de Recomendaciones relativas al transporte de mercancías peligrosas, Reglamento tipo, de las Naciones Unidas, se adscribirán los explosivos a los efectos de la graduación de riesgo involucrado en la manipulación, almacenamiento y transporte?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q096",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 96,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T22-F062"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Envío de armas. En las poblaciones donde tenga su residencia un banco oficial de pruebas, el envío de las armas, desde la fábrica al banco y viceversa, se documentará con…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q097",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 97,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T22-F423"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Cerramiento y vigilancia de las fábricas. Con respecto a los requisitos que debe cumplir el cerramiento de una fábrica de explosivos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q097",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 97,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T22-F583"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. La autorización para la utilización habitual de explosivos con ámbito nacional será otorgada por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q097",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 97,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T22-F372"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. A los efectos del citado Reglamento, se entenderá por_______________ cualquier medida destinada a obtener la devolución de un explosivo ya puesto a disposición del usuario final.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q098",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 98,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T22-F476"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Depósitos de explosivos. En relación con los polvorines, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q098",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 98,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T22-F653"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Transporte por carretera. En relación a las paradas de un transporte de explosivos por carretera, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q093",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 93,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T22-F018"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Definiciones. ¿A qué arma de fuego nos referimos, si la misma en su ornamentación presenta una peculiaridad distinta a las demás de su clase, en razón de los materiales nobles empleados o de diseño, que le confiere un especial valor?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q094",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 94,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T22-F080"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. Envases y precintos. Los envases para el comercio interior de armas de fuego…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q095",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 95,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T22-F422"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. La alambrada de espino de la parte superior del cerramiento de una fábrica de explosivos estará inclinada hacia el exterior…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q096",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 96,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T22-F653"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Transporte por carretera. En relación con las paradas de un transporte de explosivos por carretera, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q092",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 92,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T22-F040"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. De las siguientes opciones, ¿cuál NO estimaremos como una modificación sustancial de una fábrica de armas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q093",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 93,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T22-F181"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Armas. En relación con el pase de la revista de Armas, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q094",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 94,
+      "block_refs": [
+        8
+      ],
+      "fact_refs": [
+        "GC-T22-F376"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Clasificación de explosivos. Divisiones de riesgo. ¿Cuál de las siguientes opciones corresponde a la División 1.4, según la graduación del riesgo involucrado en su manipulación, almacenamiento y transporte?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q095",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 95,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T22-F819"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Reglamento de Explosivos. Los responsables del libro registro de consumo y de las actas de uso de explosivos remitirán mensualmente estos a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; precepto contrastado con la fuente oficial vigente."
+    }
+  ]
+}

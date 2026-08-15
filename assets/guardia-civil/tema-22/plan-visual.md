@@ -1,0 +1,23 @@
+# Plan visual diferido
+
+- `t22-00-mapa-general.webp` — Arquitectura completa de armas y explosivos.
+- `t22-01-reglamento-de-armas-alcance-definiciones-y-clasificacion.webp` — Esquema normativo para reglamento de armas: alcance, definiciones y clasificación.
+- `t22-02-reglamento-de-armas-fabricacion-reparacion-pruebas-y-circulacion.webp` — Esquema normativo para reglamento de armas: fabricación, reparación, pruebas y circulación.
+- `t22-03-reglamento-de-armas-comercio-importacion-exportacion-y-seguridad.webp` — Esquema normativo para reglamento de armas: comercio, importación, exportación y seguridad.
+- `t22-04-reglamento-de-armas-documentacion-licencias-y-autorizaciones.webp` — Esquema normativo para reglamento de armas: documentación, licencias y autorizaciones.
+- `t22-05-reglamento-de-armas-uso-campos-sanciones-y-depositos.webp` — Esquema normativo para reglamento de armas: uso, campos, sanciones y depósitos.
+- `t22-06-reglamento-de-armas-disposiciones-y-cierre-del-articulado.webp` — Esquema normativo para reglamento de armas: disposiciones y cierre del articulado.
+- `t22-07-reglamento-de-armas-itc-y-anexos.webp` — Esquema normativo para reglamento de armas: itc y anexos.
+- `t22-08-reglamento-de-explosivos-aprobacion-conceptos-y-clasificacion.webp` — Esquema normativo para reglamento de explosivos: aprobación, conceptos y clasificación.
+- `t22-09-reglamento-de-explosivos-fabricas.webp` — Esquema normativo para reglamento de explosivos: fábricas.
+- `t22-10-reglamento-de-explosivos-depositos-envases-y-comercializacion.webp` — Esquema normativo para reglamento de explosivos: depósitos, envases y comercialización.
+- `t22-11-reglamento-de-explosivos-control-de-mercado-y-utilizacion.webp` — Esquema normativo para reglamento de explosivos: control de mercado y utilización.
+- `t22-12-reglamento-de-explosivos-importacion-exportacion-y-transferencias.webp` — Esquema normativo para reglamento de explosivos: importación, exportación y transferencias.
+- `t22-13-reglamento-de-explosivos-transporte.webp` — Esquema normativo para reglamento de explosivos: transporte.
+- `t22-14-reglamento-de-explosivos-regimen-sancionador-y-medidas-de-seguridad.webp` — Esquema normativo para reglamento de explosivos: régimen sancionador y medidas de seguridad.
+- `t22-15-explosivos-itc-1-a-5.webp` — Esquema normativo para explosivos: itc 1 a 5.
+- `t22-16-explosivos-itc-6-a-10.webp` — Esquema normativo para explosivos: itc 6 a 10.
+- `t22-17-explosivos-itc-11-a-15.webp` — Esquema normativo para explosivos: itc 11 a 15.
+- `t22-18-explosivos-itc-16-a-20.webp` — Esquema normativo para explosivos: itc 16 a 20.
+- `t22-19-explosivos-itc-21-a-27.webp` — Esquema normativo para explosivos: itc 21 a 27.
+- `t22-20-explosivos-itc-28-a-34.webp` — Esquema normativo para explosivos: itc 28 a 34.
