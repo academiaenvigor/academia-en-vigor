@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 21,
+  "topic_title": "Protección integral contra la violencia de género",
+  "id_prefix": "GC-T21",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-21/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-21/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Objeto y principios rectores"
+      },
+      {
+        "number": 2,
+        "title": "Sensibilización, educación e inspección educativa"
+      },
+      {
+        "number": 3,
+        "title": "Publicidad y medios de comunicación"
+      },
+      {
+        "number": 4,
+        "title": "Ámbito sanitario"
+      },
+      {
+        "number": 5,
+        "title": "Información, atención integral, salud y asistencia jurídica"
+      },
+      {
+        "number": 6,
+        "title": "Derechos laborales, Seguridad Social y función pública"
+      },
+      {
+        "number": 7,
+        "title": "Ayudas, vivienda y derecho a la reparación"
+      },
+      {
+        "number": 8,
+        "title": "Delegación del Gobierno y Observatorio Estatal"
+      },
+      {
+        "number": 9,
+        "title": "Fuerzas y Cuerpos de Seguridad y planes de colaboración"
+      },
+      {
+        "number": 10,
+        "title": "Tutela penal y Administración penitenciaria"
+      },
+      {
+        "number": 11,
+        "title": "Organización judicial, competencias y reglas procesales"
+      },
+      {
+        "number": 12,
+        "title": "Medidas judiciales de protección y seguridad"
+      },
+      {
+        "number": 13,
+        "title": "Fiscal contra la Violencia sobre la Mujer"
+      },
+      {
+        "number": 14,
+        "title": "Disposiciones adicionales, transitoria y finales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Fundamentos, sensibilización y prevención",
+        "blocks": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Derechos de las víctimas y tutela institucional",
+        "blocks": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Seguridad, tutela penal y organización judicial",
+        "blocks": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Protección judicial, Ministerio Fiscal y disposiciones",
+        "blocks": [
+          12,
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-21",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 15,
+    "integrated": 0,
+    "planned": 15
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T21-V00",
+      "file": "t21-00-mapa-proteccion-integral.webp",
+      "title": "Mapa general de la protección integral contra la violencia de género",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido desde la prevención y los derechos hasta la respuesta policial y la protección judicial.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V01",
+      "file": "t21-01-objeto-y-principios-rectores.webp",
+      "title": "Objeto y principios rectores",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar objeto y principios rectores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V02",
+      "file": "t21-il-02-sensibilizacion-educacion-e-inspeccion-educativa.webp",
+      "title": "Sensibilización, educación e inspección educativa",
+      "type": "ilustracion_simple",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar sensibilización, educación e inspección educativa.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V03",
+      "file": "t21-03-publicidad-y-medios-de-comunicacion.webp",
+      "title": "Publicidad y medios de comunicación",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar publicidad y medios de comunicación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V04",
+      "file": "t21-il-04-ambito-sanitario.webp",
+      "title": "Ámbito sanitario",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar ámbito sanitario.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V05",
+      "file": "t21-05-informacion-atencion-integral-salud-y-asistencia-juridica.webp",
+      "title": "Información, atención integral, salud y asistencia jurídica",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jurídico para explicar información, atención integral, salud y asistencia jurídica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V06",
+      "file": "t21-06-derechos-laborales-seguridad-social-y-funcion-publica.webp",
+      "title": "Derechos laborales, Seguridad Social y función pública",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar derechos laborales, seguridad social y función pública.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V07",
+      "file": "t21-il-07-ayudas-vivienda-y-derecho-a-la-reparacion.webp",
+      "title": "Ayudas, vivienda y derecho a la reparación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar ayudas, vivienda y derecho a la reparación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V08",
+      "file": "t21-08-delegacion-del-gobierno-y-observatorio-estatal.webp",
+      "title": "Delegación del Gobierno y Observatorio Estatal",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar delegación del gobierno y observatorio estatal.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V09",
+      "file": "t21-09-fuerzas-y-cuerpos-de-seguridad-y-planes-de-colaboracion.webp",
+      "title": "Fuerzas y Cuerpos de Seguridad y planes de colaboración",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar fuerzas y cuerpos de seguridad y planes de colaboración.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V10",
+      "file": "t21-il-10-tutela-penal-y-administracion-penitenciaria.webp",
+      "title": "Tutela penal y Administración penitenciaria",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jurídico para explicar tutela penal y administración penitenciaria.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V11",
+      "file": "t21-11-organizacion-judicial-competencias-y-reglas-procesales.webp",
+      "title": "Organización judicial, competencias y reglas procesales",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar organización judicial, competencias y reglas procesales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V12",
+      "file": "t21-il-12-medidas-judiciales-de-proteccion-y-seguridad.webp",
+      "title": "Medidas judiciales de protección y seguridad",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar medidas judiciales de protección y seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V13",
+      "file": "t21-13-fiscal-contra-la-violencia-sobre-la-mujer.webp",
+      "title": "Fiscal contra la Violencia sobre la Mujer",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar fiscal contra la violencia sobre la mujer.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T21-V14",
+      "file": "t21-14-disposiciones-adicionales-transitoria-y-finales.webp",
+      "title": "Disposiciones adicionales, transitoria y finales",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar disposiciones adicionales, transitoria y finales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}
