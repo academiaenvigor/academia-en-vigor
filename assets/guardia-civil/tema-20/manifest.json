@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-20",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 15,
+    "integrated": 0,
+    "planned": 15
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T20-V00",
+      "file": "t20-00-mapa-responsabilidad-menores.webp",
+      "title": "Mapa general de la responsabilidad penal de los menores",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Recorrido desde el ámbito y las medidas hasta la ejecución y la responsabilidad civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V01",
+      "file": "t20-01-objeto-ambito-victimas-y-sujetos-intervinientes.webp",
+      "title": "Objeto, ámbito, víctimas y sujetos intervinientes",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar objeto, ámbito, víctimas y sujetos intervinientes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V02",
+      "file": "t20-il-02-catalogo-y-contenido-de-las-medidas.webp",
+      "title": "Catálogo y contenido de las medidas",
+      "type": "ilustracion_simple",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar catálogo y contenido de las medidas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V03",
+      "file": "t20-03-determinacion-modificacion-mayoria-de-edad-y-prescripcion.webp",
+      "title": "Determinación, modificación, mayoría de edad y prescripción",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar determinación, modificación, mayoría de edad y prescripción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V04",
+      "file": "t20-il-04-incoacion-detencion-desistimiento-y-conciliacion.webp",
+      "title": "Incoación, detención, desistimiento y conciliación",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar incoación, detención, desistimiento y conciliación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V05",
+      "file": "t20-05-unidad-del-expediente-defensa-secreto-y-equipo-tecnico.webp",
+      "title": "Unidad del expediente, defensa, secreto y equipo técnico",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jurídico para explicar unidad del expediente, defensa, secreto y equipo técnico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V06",
+      "file": "t20-06-medidas-cautelares-y-conclusion-de-la-instruccion.webp",
+      "title": "Medidas cautelares y conclusión de la instrucción",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar medidas cautelares y conclusión de la instrucción.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V07",
+      "file": "t20-il-07-fase-de-audiencia.webp",
+      "title": "Fase de audiencia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar fase de audiencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V08",
+      "file": "t20-08-sentencia-suspension-y-vistas.webp",
+      "title": "Sentencia, suspensión y vistas",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar sentencia, suspensión y vistas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V09",
+      "file": "t20-09-regimen-de-recursos.webp",
+      "title": "Régimen de recursos",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar régimen de recursos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V10",
+      "file": "t20-il-10-inicio-y-principios-de-la-ejecucion.webp",
+      "title": "Inicio y principios de la ejecución",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa jurídico para explicar inicio y principios de la ejecución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V11",
+      "file": "t20-11-reglas-de-ejecucion-quebrantamiento-y-sustitucion.webp",
+      "title": "Reglas de ejecución, quebrantamiento y sustitución",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "escena procesal para explicar reglas de ejecución, quebrantamiento y sustitución.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V12",
+      "file": "t20-il-12-centros-derechos-deberes-vigilancia-y-disciplina.webp",
+      "title": "Centros, derechos, deberes, vigilancia y disciplina",
+      "type": "ilustracion_simple",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para explicar centros, derechos, deberes, vigilancia y disciplina.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V13",
+      "file": "t20-13-responsabilidad-civil.webp",
+      "title": "Responsabilidad civil",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "árbol de decisión para explicar responsabilidad civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T20-V14",
+      "file": "t20-14-disposiciones-adicionales-transitoria-y-finales.webp",
+      "title": "Disposiciones adicionales, transitoria y finales",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "comparación visual para explicar disposiciones adicionales, transitoria y finales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 20,
+  "titulo": "Responsabilidad penal de los menores",
+  "generated_at": "2026-08-14",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las referencias históricas se han contrastado con el texto consolidado actualizado en 2025.",
+  "total_referencias": 13,
+  "con_bloque_asignado": 13,
+  "con_respuesta_verificada": 13,
+  "en_cuarentena": 0,
+  "por_bloque": {
+    "1": 1,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "6": 3,
+    "12": 1
+  },
+  "por_promocion": {
+    "2023": 6,
+    "2024": 5,
+    "2025": 1,
+    "2026": 1
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2023-1a-q091",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 91,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T20-F022"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. ¿Cuál de las siguientes medidas NO es una de las que se definen en esta Ley que pueden ser impuestas por los Jueces de Menores a estos?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q091",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 91,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T20-F004"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de _______________ años y menores de dieciocho por la comisión de hechos tipificados en el Código Penal o las leyes penales especiales.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q092",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 92,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T20-F092"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. En relación con las personas que la Ley establece que deberán estar siempre presentes en toda declaración del menor detenido, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q092",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 92,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T20-F022"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. De las medidas. Indique cuál de las siguientes NO es una de las medidas que pueden imponer los Jueces de Menores.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q093",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 93,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T20-F269"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. De la ejecución de las medidas. ¿Cuál de los siguientes derechos NO es uno de los que se le reconoce a los menores internados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q093",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 93,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T20-F150"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Medidas cautelares. Para la adopción de la medida cautelar de internamiento del menor en un centro en el régimen adecuado se valorará especialmente…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q090",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 90,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T20-F029"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Salvo el tiempo que deban dedicar a las tareas socio-educativas asignadas por el Juez que deban llevarse a cabo fuera del lugar de permanencia, ¿cuál es el tiempo máximo que los menores sometidos a la medida de “Permanencia de fin de semana”, permanecerán en su domicilio o en un centro entre la tarde o noche del viernes y la noche del domingo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q090",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 90,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T20-F025"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. ¿Qué medida susceptible de ser impuesta a un menor consiste en llevar a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q091",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 91,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T20-F086"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Incoación del expediente. ¿A quién corresponde la instrucción de los procedimientos por los hechos tipificados como delito en el Código Penal o las leyes penales especiales cometidos por las personas mayores de catorce años y menores de dieciocho?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q091",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 91,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T20-F102"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. En relación con el desistimiento en la continuación del expediente por conciliación o reparación entre el menor y la víctima. Se entenderá que existe conciliación…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q092",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 92,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T20-F150"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Medidas cautelares. Para la adopción de la medida cautelar de internamiento del menor en un centro en el régimen adecuado se valorará especialmente…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q090",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 90,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T20-F151"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. El tiempo máximo de la medida cautelar de internamiento será de __________, y podrá prorrogarse, a instancia del Ministerio Fiscal, previa audiencia del letrado del menor y mediante auto motivado, por otros __________ como máximo.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q089",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 89,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T20-F084"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley Orgánica reguladora de la responsabilidad penal de los menores. Los hechos delictivos cometidos por menores cuando se trata de un delito menos grave prescriben…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; artículo contrastado con el texto consolidado vigente."
+    }
+  ]
+}

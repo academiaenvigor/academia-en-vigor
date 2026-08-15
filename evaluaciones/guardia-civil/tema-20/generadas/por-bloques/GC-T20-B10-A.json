@@ -1,0 +1,569 @@
+{
+  "id": "GC-T20-B10-A",
+  "titulo": "Tema 20 · Bloque 10: Inicio y principios de la ejecución · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      10
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T20-Q0403",
+      "fact_id": "GC-T20-F203",
+      "bloque": 10,
+      "concepto": "Artículo 43. Principio de legalidad. · 2. · 2",
+      "articulo": "Artículo 43. Principio de legalidad.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 43. Principio de legalidad. · 2. · 2, indique la opción correcta.",
+      "opciones": {
+        "A": "2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.",
+        "B": "1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso.",
+        "C": "2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:"
+      }
+    },
+    {
+      "id": "GC-T20-Q0401",
+      "fact_id": "GC-T20-F202",
+      "bloque": 10,
+      "concepto": "Artículo 43. Principio de legalidad. · 1. · 1",
+      "articulo": "Artículo 43. Principio de legalidad.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 43. Principio de legalidad. · 1. · 1.",
+      "opciones": {
+        "A": "2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.",
+        "B": "1. No podrá ejecutarse ninguna de las medidas establecidas en esta Ley sino en virtud de sentencia firme dictada de acuerdo con el procedimiento regulado en la misma.",
+        "C": "1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso."
+      }
+    },
+    {
+      "id": "GC-T20-Q0402",
+      "fact_id": "GC-T20-F202",
+      "bloque": 10,
+      "concepto": "Artículo 43. Principio de legalidad. · 1. · 1",
+      "articulo": "Artículo 43. Principio de legalidad.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. No podrá ejecutarse ninguna de las medidas establecidas en esta Ley sino en virtud de sentencia firme dictada de acuerdo con el procedimiento regulado en la misma.»?",
+      "opciones": {
+        "A": "Artículo 43. Principio de legalidad. · 2. · 2",
+        "B": "Artículo 44. Competencia judicial. · 1. · 1",
+        "C": "Artículo 43. Principio de legalidad. · 1. · 1"
+      }
+    },
+    {
+      "id": "GC-T20-Q0406",
+      "fact_id": "GC-T20-F204",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · 1. · 1",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · 1. · 1",
+        "B": "Artículo 44. Competencia judicial. · 2. · 2",
+        "C": "Artículo 44. Competencia judicial. · a) · 3"
+      }
+    },
+    {
+      "id": "GC-T20-Q0404",
+      "fact_id": "GC-T20-F203",
+      "bloque": 10,
+      "concepto": "Artículo 43. Principio de legalidad. · 2. · 2",
+      "articulo": "Artículo 43. Principio de legalidad.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · 1. · 1",
+        "B": "Artículo 43. Principio de legalidad. · 2. · 2",
+        "C": "Artículo 44. Competencia judicial. · 2. · 2"
+      }
+    },
+    {
+      "id": "GC-T20-Q0405",
+      "fact_id": "GC-T20-F204",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · 1. · 1",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 44. Competencia judicial. · 1. · 1, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:",
+        "B": "a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.",
+        "C": "1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso."
+      }
+    },
+    {
+      "id": "GC-T20-Q0409",
+      "fact_id": "GC-T20-F206",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · a) · 3",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 44. Competencia judicial. · a) · 3?",
+      "opciones": {
+        "A": "a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.",
+        "B": "b) Resolver las propuestas de revisión de las medidas.",
+        "C": "c) Aprobar los programas de ejecución de las medidas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0407",
+      "fact_id": "GC-T20-F205",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · 2. · 2",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 44. Competencia judicial. · 2. · 2?",
+      "opciones": {
+        "A": "a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.",
+        "B": "2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:",
+        "C": "b) Resolver las propuestas de revisión de las medidas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0408",
+      "fact_id": "GC-T20-F205",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · 2. · 2",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · a) · 3",
+        "B": "Artículo 44. Competencia judicial. · b) · 4",
+        "C": "Artículo 44. Competencia judicial. · 2. · 2"
+      }
+    },
+    {
+      "id": "GC-T20-Q0412",
+      "fact_id": "GC-T20-F207",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · b) · 4",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «b) Resolver las propuestas de revisión de las medidas.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · b) · 4",
+        "B": "Artículo 44. Competencia judicial. · c) · 5",
+        "C": "Artículo 44. Competencia judicial. · d) · 6"
+      }
+    },
+    {
+      "id": "GC-T20-Q0410",
+      "fact_id": "GC-T20-F206",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · a) · 3",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · b) · 4",
+        "B": "Artículo 44. Competencia judicial. · a) · 3",
+        "C": "Artículo 44. Competencia judicial. · c) · 5"
+      }
+    },
+    {
+      "id": "GC-T20-Q0411",
+      "fact_id": "GC-T20-F207",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · b) · 4",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 44. Competencia judicial. · b) · 4.",
+      "opciones": {
+        "A": "c) Aprobar los programas de ejecución de las medidas.",
+        "B": "d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.",
+        "C": "b) Resolver las propuestas de revisión de las medidas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0415",
+      "fact_id": "GC-T20-F209",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · d) · 6",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 44. Competencia judicial. · d) · 6, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.",
+        "B": "e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley.",
+        "C": "f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales."
+      }
+    },
+    {
+      "id": "GC-T20-Q0413",
+      "fact_id": "GC-T20-F208",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · c) · 5",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 44. Competencia judicial. · c) · 5, indique la opción correcta.",
+      "opciones": {
+        "A": "d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.",
+        "B": "c) Aprobar los programas de ejecución de las medidas.",
+        "C": "e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0414",
+      "fact_id": "GC-T20-F208",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · c) · 5",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «c) Aprobar los programas de ejecución de las medidas.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · d) · 6",
+        "B": "Artículo 44. Competencia judicial. · e) · 7",
+        "C": "Artículo 44. Competencia judicial. · c) · 5"
+      }
+    },
+    {
+      "id": "GC-T20-Q0418",
+      "fact_id": "GC-T20-F210",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · e) · 7",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · e) · 7",
+        "B": "Artículo 44. Competencia judicial. · f) · 8",
+        "C": "Artículo 44. Competencia judicial. · g) · 9"
+      }
+    },
+    {
+      "id": "GC-T20-Q0416",
+      "fact_id": "GC-T20-F209",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · d) · 6",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · e) · 7",
+        "B": "Artículo 44. Competencia judicial. · d) · 6",
+        "C": "Artículo 44. Competencia judicial. · f) · 8"
+      }
+    },
+    {
+      "id": "GC-T20-Q0417",
+      "fact_id": "GC-T20-F210",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · e) · 7",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 44. Competencia judicial. · e) · 7?",
+      "opciones": {
+        "A": "f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.",
+        "B": "g) Realizar regularmente visitas a los centros y entrevistas con los menores.",
+        "C": "e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0421",
+      "fact_id": "GC-T20-F212",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · g) · 9",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 44. Competencia judicial. · g) · 9.",
+      "opciones": {
+        "A": "g) Realizar regularmente visitas a los centros y entrevistas con los menores.",
+        "B": "h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas.",
+        "C": "i) Adoptar las resoluciones que, en relación con el régimen disciplinario, les atribuye el artículo 60 de esta Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0419",
+      "fact_id": "GC-T20-F211",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · f) · 8",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 44. Competencia judicial. · f) · 8?",
+      "opciones": {
+        "A": "g) Realizar regularmente visitas a los centros y entrevistas con los menores.",
+        "B": "f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.",
+        "C": "h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0420",
+      "fact_id": "GC-T20-F211",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · f) · 8",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · g) · 9",
+        "B": "Artículo 44. Competencia judicial. · h) · 10",
+        "C": "Artículo 44. Competencia judicial. · f) · 8"
+      }
+    },
+    {
+      "id": "GC-T20-Q0424",
+      "fact_id": "GC-T20-F213",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · h) · 10",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · h) · 10",
+        "B": "Artículo 44. Competencia judicial. · i) · 11",
+        "C": "Artículo 44. Competencia judicial. · 3. · 12"
+      }
+    },
+    {
+      "id": "GC-T20-Q0422",
+      "fact_id": "GC-T20-F212",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · g) · 9",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «g) Realizar regularmente visitas a los centros y entrevistas con los menores.»?",
+      "opciones": {
+        "A": "Artículo 44. Competencia judicial. · h) · 10",
+        "B": "Artículo 44. Competencia judicial. · g) · 9",
+        "C": "Artículo 44. Competencia judicial. · i) · 11"
+      }
+    },
+    {
+      "id": "GC-T20-Q0423",
+      "fact_id": "GC-T20-F213",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · h) · 10",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 44. Competencia judicial. · h) · 10, indique la opción correcta.",
+      "opciones": {
+        "A": "i) Adoptar las resoluciones que, en relación con el régimen disciplinario, les atribuye el artículo 60 de esta Ley.",
+        "B": "3. Cuando, por aplicación de lo dispuesto en el artículo 14 de esta Ley, la medida de internamiento se cumpla en un establecimiento penitenciario, el Juez de Menores competente para la ejecución conservará la competencia para decidir sobre la pervivencia, modificación o sustitución de la medida en los términos previstos en esta Ley, asumiendo el Juez de Vigilancia Penitenciaria el control de las incidencias de la ejecución de la misma en todas las cuestiones y materias a que se refiere la legislación penitenciaria.",
+        "C": "h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0427",
+      "fact_id": "GC-T20-F215",
+      "bloque": 10,
+      "concepto": "Artículo 44. Competencia judicial. · 3. · 12",
+      "articulo": "Artículo 44. Competencia judicial.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 44. Competencia judicial. · 3. · 12?",
+      "opciones": {
+        "A": "3. Cuando, por aplicación de lo dispuesto en el artículo 14 de esta Ley, la medida de internamiento se cumpla en un establecimiento penitenciario, el Juez de Menores competente para la ejecución conservará la competencia para decidir sobre la pervivencia, modificación o sustitución de la medida en los términos previstos en esta Ley, asumiendo el Juez de Vigilancia Penitenciaria el control de las incidencias de la ejecución de la misma en todas las cuestiones y materias a que se refiere la legislación penitenciaria.",
+        "B": "1. La ejecución de las medidas adoptadas por los Jueces de Menores en sus sentencias firmes es competencia de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla, con arreglo a la disposición final vigésima segunda de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor. Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas normas de organización, la creación, dirección, organización y gestión de los servicios, instituciones y programas adecuados para garantizar la correcta ejecución de las medidas previstas en esta Ley.",
+        "C": "2. La ejecución de las medidas corresponderá a las Comunidades Autónomas y Ciudades de Ceuta y Melilla, donde se ubique el Juzgado de Menores que haya dictado la sentencia, sin perjuicio de lo dispuesto en el apartado 3 del artículo siguiente."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T20-Q0403",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 43. Principio de legalidad. · 2. · 2: 2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.",
+      "fact_id": "GC-T20-F203",
+      "articulo": "Artículo 43. Principio de legalidad."
+    },
+    {
+      "id": "GC-T20-Q0401",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 43. Principio de legalidad. · 1. · 1: 1. No podrá ejecutarse ninguna de las medidas establecidas en esta Ley sino en virtud de sentencia firme dictada de acuerdo con el procedimiento regulado en la misma.",
+      "fact_id": "GC-T20-F202",
+      "articulo": "Artículo 43. Principio de legalidad."
+    },
+    {
+      "id": "GC-T20-Q0402",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 43. Principio de legalidad. · 1. · 1: 1. No podrá ejecutarse ninguna de las medidas establecidas en esta Ley sino en virtud de sentencia firme dictada de acuerdo con el procedimiento regulado en la misma.",
+      "fact_id": "GC-T20-F202",
+      "articulo": "Artículo 43. Principio de legalidad."
+    },
+    {
+      "id": "GC-T20-Q0406",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · 1. · 1: 1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso.",
+      "fact_id": "GC-T20-F204",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0404",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 43. Principio de legalidad. · 2. · 2: 2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.",
+      "fact_id": "GC-T20-F203",
+      "articulo": "Artículo 43. Principio de legalidad."
+    },
+    {
+      "id": "GC-T20-Q0405",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · 1. · 1: 1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso.",
+      "fact_id": "GC-T20-F204",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0409",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · a) · 3: a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.",
+      "fact_id": "GC-T20-F206",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0407",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · 2. · 2: 2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:",
+      "fact_id": "GC-T20-F205",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0408",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · 2. · 2: 2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:",
+      "fact_id": "GC-T20-F205",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0412",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · b) · 4: b) Resolver las propuestas de revisión de las medidas.",
+      "fact_id": "GC-T20-F207",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0410",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · a) · 3: a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.",
+      "fact_id": "GC-T20-F206",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0411",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · b) · 4: b) Resolver las propuestas de revisión de las medidas.",
+      "fact_id": "GC-T20-F207",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0415",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · d) · 6: d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.",
+      "fact_id": "GC-T20-F209",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0413",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · c) · 5: c) Aprobar los programas de ejecución de las medidas.",
+      "fact_id": "GC-T20-F208",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0414",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · c) · 5: c) Aprobar los programas de ejecución de las medidas.",
+      "fact_id": "GC-T20-F208",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0418",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · e) · 7: e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley.",
+      "fact_id": "GC-T20-F210",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0416",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · d) · 6: d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.",
+      "fact_id": "GC-T20-F209",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0417",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · e) · 7: e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley.",
+      "fact_id": "GC-T20-F210",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0421",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · g) · 9: g) Realizar regularmente visitas a los centros y entrevistas con los menores.",
+      "fact_id": "GC-T20-F212",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0419",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · f) · 8: f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.",
+      "fact_id": "GC-T20-F211",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0420",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · f) · 8: f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.",
+      "fact_id": "GC-T20-F211",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0424",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · h) · 10: h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas.",
+      "fact_id": "GC-T20-F213",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0422",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 44. Competencia judicial. · g) · 9: g) Realizar regularmente visitas a los centros y entrevistas con los menores.",
+      "fact_id": "GC-T20-F212",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0423",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 44. Competencia judicial. · h) · 10: h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas.",
+      "fact_id": "GC-T20-F213",
+      "articulo": "Artículo 44. Competencia judicial."
+    },
+    {
+      "id": "GC-T20-Q0427",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 44. Competencia judicial. · 3. · 12: 3. Cuando, por aplicación de lo dispuesto en el artículo 14 de esta Ley, la medida de internamiento se cumpla en un establecimiento penitenciario, el Juez de Menores competente para la ejecución conservará la competencia para decidir sobre la pervivencia, modificación o sustitución de la medida en los términos previstos en esta Ley, asumiendo el Juez de Vigilancia Penitenciaria el control de las incidencias de la ejecución de la misma en todas las cuestiones y materias a que se refiere la legislación penitenciaria.",
+      "fact_id": "GC-T20-F215",
+      "articulo": "Artículo 44. Competencia judicial."
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

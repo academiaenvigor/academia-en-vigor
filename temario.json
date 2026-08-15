@@ -1547,6 +1547,30 @@
           "official_exam_mapped": 14,
           "official_exam_verified": 14,
           "ha_caido_active": 14
+        },
+        {
+          "number": 20,
+          "slug": "responsabilidad-penal-menores",
+          "title": "Responsabilidad penal de los menores",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/guardia-civil/tema-20/manifest.json",
+          "parte": "temas/guardia-civil/parte/tema-20-responsabilidad-penal-menores.md",
+          "atestado": "temas/guardia-civil/atestado/tema-20-responsabilidad-penal-menores.md",
+          "question_bank": "banco-preguntas/guardia-civil/tema-20/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/guardia-civil/tema-20/plan.json",
+          "assets": "assets/guardia-civil/tema-20/manifest.json",
+          "teaching_materials": "materiales-didacticos/guardia-civil/tema-20/manifest.json",
+          "visual_version": "0.0.0",
+          "visual_assets": 0,
+          "visual_planned": 15,
+          "atomic_facts": 352,
+          "question_count": 660,
+          "official_exam_index": "banco-preguntas/guardia-civil/tema-20/indice-oficiales.json",
+          "official_exam_mapped": 13,
+          "official_exam_verified": 13,
+          "ha_caido_active": 13
         }
       ]
     }

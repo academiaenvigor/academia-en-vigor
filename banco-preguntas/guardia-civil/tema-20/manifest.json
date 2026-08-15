@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 20,
+  "estado": "approved_internal",
+  "publicacion": "not_published",
+  "total_preguntas": 660,
+  "total_hechos": 352,
+  "hechos_cubiertos": 352,
+  "cobertura_por_hechos": 100.0,
+  "distribucion_respuestas": {
+    "A": 220,
+    "B": 220,
+    "C": 220
+  },
+  "distribucion_dificultad": {
+    "alta": 616,
+    "media": 44
+  },
+  "distribucion_tipo": {
+    "literal": 69,
+    "inversa": 308,
+    "comparativa": 71,
+    "terminologica": 71,
+    "regla_requisito": 71,
+    "supuesto_practico": 70
+  },
+  "preguntas_por_bloque": {
+    "1": 42,
+    "2": 54,
+    "3": 74,
+    "4": 52,
+    "5": 74,
+    "6": 20,
+    "7": 45,
+    "8": 19,
+    "9": 20,
+    "10": 34,
+    "11": 63,
+    "12": 110,
+    "13": 23,
+    "14": 30
+  },
+  "preguntas_por_parte": {
+    "1": 170,
+    "2": 146,
+    "3": 84,
+    "4": 260
+  },
+  "caracter": {
+    "propias": 660,
+    "oficiales": 0
+  },
+  "fuente_conocimiento": "conocimiento/guardia-civil/tema-20/cobertura.json",
+  "cobertura": "conocimiento/guardia-civil/tema-20/cobertura.json",
+  "evaluation_plan": "evaluaciones/guardia-civil/tema-20/plan.json",
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-20/indice-oficiales.json",
+  "retroalimentacion": {
+    "schema": "acierto_fallo_v1",
+    "required": true,
+    "humor_first": true
+  },
+  "generacion_de_tests": {
+    "max_questions_per_block_test": 25,
+    "full_topic_sizes": [
+      25,
+      50
+    ]
+  },
+  "publication_gate": {
+    "status": "not_published",
+    "reasons": [
+      "publication_not_requested"
+    ]
+  },
+  "quality_gate": {
+    "status": "passed",
+    "reasons": []
+  }
+}

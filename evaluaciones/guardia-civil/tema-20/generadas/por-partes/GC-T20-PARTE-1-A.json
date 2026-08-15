@@ -1,0 +1,351 @@
+{
+  "id": "GC-T20-PARTE-1-A",
+  "titulo": "Tema 20 · Ámbito, medidas y reglas de aplicación · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T20-Q0001",
+      "fact_id": "GC-T20-F001",
+      "bloque": 1,
+      "concepto": "Alcance oficial del Tema 20",
+      "articulo": "Epígrafe oficial",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Alcance oficial del Tema 20.",
+      "opciones": {
+        "A": "El programa oficial exige la Ley Orgánica 5/2000 completa, incluidos sus 64 artículos y sus disposiciones; limitar el estudio a detención o medidas deja el tema incompleto.",
+        "B": "El texto consolidado utilizado incorpora la última actualización publicada el 3 de enero de 2025.",
+        "C": "Las referencias de la Ley a Juzgados se entienden hechas a las Secciones correspondientes de los Tribunales de Instancia, y las referencias a Juzgados Centrales a las Secciones del Tribunal Central de Instancia."
+      }
+    },
+    {
+      "id": "GC-T20-Q0005",
+      "fact_id": "GC-T20-F003",
+      "bloque": 1,
+      "concepto": "Referencias a órganos judiciales desde 2025",
+      "articulo": "LO 1/2025, disposición adicional primera",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Referencias a órganos judiciales desde 2025, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "1. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de catorce años y menores de dieciocho por la comisión de hechos tipificados como delitos o faltas en el Código Penal o las leyes penales especiales.",
+        "B": "Las referencias de la Ley a Juzgados se entienden hechas a las Secciones correspondientes de los Tribunales de Instancia, y las referencias a Juzgados Centrales a las Secciones del Tribunal Central de Instancia.",
+        "C": "2. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España."
+      }
+    },
+    {
+      "id": "GC-T20-Q0003",
+      "fact_id": "GC-T20-F002",
+      "bloque": 1,
+      "concepto": "Corte consolidado de la Ley",
+      "articulo": "Ficha BOE",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Corte consolidado de la Ley, indique la opción correcta.",
+      "opciones": {
+        "A": "Las referencias de la Ley a Juzgados se entienden hechas a las Secciones correspondientes de los Tribunales de Instancia, y las referencias a Juzgados Centrales a las Secciones del Tribunal Central de Instancia.",
+        "B": "1. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de catorce años y menores de dieciocho por la comisión de hechos tipificados como delitos o faltas en el Código Penal o las leyes penales especiales.",
+        "C": "El texto consolidado utilizado incorpora la última actualización publicada el 3 de enero de 2025."
+      }
+    },
+    {
+      "id": "GC-T20-Q0043",
+      "fact_id": "GC-T20-F022",
+      "bloque": 2,
+      "concepto": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · 1. · 1",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · 1. · 1, indique la opción correcta.",
+      "opciones": {
+        "A": "1. Las medidas que pueden imponer los Jueces de Menores, ordenadas según la restricción de derechos que suponen, son las siguientes:",
+        "B": "a) Internamiento en régimen cerrado. Las personas sometidas a esta medida residirán en el centro y desarrollarán en el mismo las actividades formativas, educativas, laborales y de ocio.",
+        "C": "b) Internamiento en régimen semiabierto. Las personas sometidas a esta medida residirán en el centro, pero podrán realizar fuera del mismo alguna o algunas de las actividades formativas, educativas, laborales y de ocio establecidas en el programa individualizado de ejecución de la medida. La realización de actividades fuera del centro quedará condicionada a la evolución de la persona y al cumplimiento de los objetivos previstos en las mismas, pudiendo el Juez de Menores suspenderlas por tiempo determinado, acordando que todas las actividades se lleven a cabo dentro del centro."
+      }
+    },
+    {
+      "id": "GC-T20-Q0047",
+      "fact_id": "GC-T20-F024",
+      "bloque": 2,
+      "concepto": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · b) · 3",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · b) · 3?",
+      "opciones": {
+        "A": "c) Internamiento en régimen abierto. Las personas sometidas a esta medida llevarán a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo.",
+        "B": "b) Internamiento en régimen semiabierto. Las personas sometidas a esta medida residirán en el centro, pero podrán realizar fuera del mismo alguna o algunas de las actividades formativas, educativas, laborales y de ocio establecidas en el programa individualizado de ejecución de la medida. La realización de actividades fuera del centro quedará condicionada a la evolución de la persona y al cumplimiento de los objetivos previstos en las mismas, pudiendo el Juez de Menores suspenderlas por tiempo determinado, acordando que todas las actividades se lleven a cabo dentro del centro.",
+        "C": "d) Internamiento terapéutico en régimen cerrado, semiabierto o abierto. En los centros de esta naturaleza se realizará una atención educativa especializada o tratamiento específico dirigido a personas que padezcan anomalías o alteraciones psíquicas, un estado de dependencia de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias."
+      }
+    },
+    {
+      "id": "GC-T20-Q0045",
+      "fact_id": "GC-T20-F023",
+      "bloque": 2,
+      "concepto": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · a) · 2",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · a) · 2, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "b) Internamiento en régimen semiabierto. Las personas sometidas a esta medida residirán en el centro, pero podrán realizar fuera del mismo alguna o algunas de las actividades formativas, educativas, laborales y de ocio establecidas en el programa individualizado de ejecución de la medida. La realización de actividades fuera del centro quedará condicionada a la evolución de la persona y al cumplimiento de los objetivos previstos en las mismas, pudiendo el Juez de Menores suspenderlas por tiempo determinado, acordando que todas las actividades se lleven a cabo dentro del centro.",
+        "B": "c) Internamiento en régimen abierto. Las personas sometidas a esta medida llevarán a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo.",
+        "C": "a) Internamiento en régimen cerrado. Las personas sometidas a esta medida residirán en el centro y desarrollarán en el mismo las actividades formativas, educativas, laborales y de ocio."
+      }
+    },
+    {
+      "id": "GC-T20-Q0097",
+      "fact_id": "GC-T20-F049",
+      "bloque": 3,
+      "concepto": "Artículo 8. Principio acusatorio. · regla 1 · 1",
+      "articulo": "Artículo 8. Principio acusatorio.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 8. Principio acusatorio. · regla 1 · 1?",
+      "opciones": {
+        "A": "El Juez de Menores no podrá imponer una medida que suponga una mayor restricción de derechos ni por un tiempo superior a la medida solicitada por el Ministerio Fiscal o por el acusador particular.",
+        "B": "Tampoco podrá exceder la duración de las medidas privativas de libertad contempladas en el artículo 7.1.ª), b), c), d) y g), en ningún caso, del tiempo que hubiera durado la pena privativa de libertad que se le hubiere impuesto por el mismo hecho, si el sujeto, de haber sido mayor de edad, hubiera sido declarado responsable, de acuerdo con el Código Penal.",
+        "C": "No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:"
+      }
+    },
+    {
+      "id": "GC-T20-Q0101",
+      "fact_id": "GC-T20-F051",
+      "bloque": 3,
+      "concepto": "Artículo 9. Régimen general de aplicación y duración de las medidas. · regla 1 · 1",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 9. Régimen general de aplicación y duración de las medidas. · regla 1 · 1.",
+      "opciones": {
+        "A": "1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.",
+        "B": "No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:",
+        "C": "2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:"
+      }
+    },
+    {
+      "id": "GC-T20-Q0099",
+      "fact_id": "GC-T20-F050",
+      "bloque": 3,
+      "concepto": "Artículo 8. Principio acusatorio. · regla 2 · 2",
+      "articulo": "Artículo 8. Principio acusatorio.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 8. Principio acusatorio. · regla 2 · 2?",
+      "opciones": {
+        "A": "No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:",
+        "B": "1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.",
+        "C": "Tampoco podrá exceder la duración de las medidas privativas de libertad contempladas en el artículo 7.1.ª), b), c), d) y g), en ningún caso, del tiempo que hubiera durado la pena privativa de libertad que se le hubiere impuesto por el mismo hecho, si el sujeto, de haber sido mayor de edad, hubiera sido declarado responsable, de acuerdo con el Código Penal."
+      }
+    },
+    {
+      "id": "GC-T20-Q0007",
+      "fact_id": "GC-T20-F004",
+      "bloque": 1,
+      "concepto": "Artículo 1. Declaración general. · 1. · 1",
+      "articulo": "Artículo 1. Declaración general.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 1. Declaración general. · 1. · 1?",
+      "opciones": {
+        "A": "1. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de catorce años y menores de dieciocho por la comisión de hechos tipificados como delitos o faltas en el Código Penal o las leyes penales especiales.",
+        "B": "2. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España.",
+        "C": "1. Los Jueces de Menores serán competentes para conocer de los hechos cometidos por las personas mencionadas en el artículo 1 de esta Ley, así como para hacer ejecutar las sentencias, sin perjuicio de las facultades atribuidas por esta Ley a las Comunidades Autónomas respecto a la protección y reforma de menores."
+      }
+    },
+    {
+      "id": "GC-T20-Q0009",
+      "fact_id": "GC-T20-F005",
+      "bloque": 1,
+      "concepto": "Artículo 1. Declaración general. · 2. · 2",
+      "articulo": "Artículo 1. Declaración general.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 1. Declaración general. · 2. · 2?",
+      "opciones": {
+        "A": "1. Los Jueces de Menores serán competentes para conocer de los hechos cometidos por las personas mencionadas en el artículo 1 de esta Ley, así como para hacer ejecutar las sentencias, sin perjuicio de las facultades atribuidas por esta Ley a las Comunidades Autónomas respecto a la protección y reforma de menores.",
+        "B": "2. Los Jueces de Menores serán asimismo competentes para resolver sobre las responsabilidades civiles derivadas de los hechos cometidos por las personas a las que resulta aplicable la presente Ley.",
+        "C": "2. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España."
+      }
+    },
+    {
+      "id": "GC-T20-Q0049",
+      "fact_id": "GC-T20-F025",
+      "bloque": 2,
+      "concepto": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · c) · 4",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · c) · 4?",
+      "opciones": {
+        "A": "c) Internamiento en régimen abierto. Las personas sometidas a esta medida llevarán a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo.",
+        "B": "d) Internamiento terapéutico en régimen cerrado, semiabierto o abierto. En los centros de esta naturaleza se realizará una atención educativa especializada o tratamiento específico dirigido a personas que padezcan anomalías o alteraciones psíquicas, un estado de dependencia de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias.",
+        "C": "e) Tratamiento ambulatorio. Las personas sometidas a esta medida habrán de asistir al centro designado con la periodicidad requerida por los facultativos que las atiendan y seguir las pautas fijadas para el adecuado tratamiento de la anomalía o alteración psíquica, adicción al consumo de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que padezcan. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias."
+      }
+    },
+    {
+      "id": "GC-T20-Q0051",
+      "fact_id": "GC-T20-F026",
+      "bloque": 2,
+      "concepto": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · d) · 5",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · d) · 5.",
+      "opciones": {
+        "A": "e) Tratamiento ambulatorio. Las personas sometidas a esta medida habrán de asistir al centro designado con la periodicidad requerida por los facultativos que las atiendan y seguir las pautas fijadas para el adecuado tratamiento de la anomalía o alteración psíquica, adicción al consumo de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que padezcan. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias.",
+        "B": "f) Asistencia a un centro de día. Las personas sometidas a esta medida residirán en su domicilio habitual y acudirán a un centro, plenamente integrado en la comunidad, a realizar actividades de apoyo, educativas, formativas, laborales o de ocio.",
+        "C": "d) Internamiento terapéutico en régimen cerrado, semiabierto o abierto. En los centros de esta naturaleza se realizará una atención educativa especializada o tratamiento específico dirigido a personas que padezcan anomalías o alteraciones psíquicas, un estado de dependencia de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias."
+      }
+    },
+    {
+      "id": "GC-T20-Q0103",
+      "fact_id": "GC-T20-F052",
+      "bloque": 3,
+      "concepto": "Artículo 9. Régimen general de aplicación y duración de las medidas. · 1. · 2",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 9. Régimen general de aplicación y duración de las medidas. · 1. · 2, indique la opción correcta.",
+      "opciones": {
+        "A": "1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.",
+        "B": "2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:",
+        "C": "a) Los hechos estén tipificados como delito grave por el Código Penal o las leyes penales especiales."
+      }
+    },
+    {
+      "id": "GC-T20-Q0105",
+      "fact_id": "GC-T20-F053",
+      "bloque": 3,
+      "concepto": "Artículo 9. Régimen general de aplicación y duración de las medidas. · 2. · 3",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 9. Régimen general de aplicación y duración de las medidas. · 2. · 3, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "a) Los hechos estén tipificados como delito grave por el Código Penal o las leyes penales especiales.",
+        "B": "b) Tratándose de hechos tipificados como delito menos grave, en su ejecución se haya empleado violencia o intimidación en las personas o se haya generado grave riesgo para la vida o la integridad física de las mismas.",
+        "C": "2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T20-Q0001",
+      "respuesta_correcta": "A",
+      "explicacion": "Alcance oficial del Tema 20: El programa oficial exige la Ley Orgánica 5/2000 completa, incluidos sus 64 artículos y sus disposiciones; limitar el estudio a detención o medidas deja el tema incompleto.",
+      "fact_id": "GC-T20-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T20-Q0005",
+      "respuesta_correcta": "B",
+      "explicacion": "Referencias a órganos judiciales desde 2025: Las referencias de la Ley a Juzgados se entienden hechas a las Secciones correspondientes de los Tribunales de Instancia, y las referencias a Juzgados Centrales a las Secciones del Tribunal Central de Instancia.",
+      "fact_id": "GC-T20-F003",
+      "articulo": "LO 1/2025, disposición adicional primera"
+    },
+    {
+      "id": "GC-T20-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Corte consolidado de la Ley: El texto consolidado utilizado incorpora la última actualización publicada el 3 de enero de 2025.",
+      "fact_id": "GC-T20-F002",
+      "articulo": "Ficha BOE"
+    },
+    {
+      "id": "GC-T20-Q0043",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · 1. · 1: 1. Las medidas que pueden imponer los Jueces de Menores, ordenadas según la restricción de derechos que suponen, son las siguientes:",
+      "fact_id": "GC-T20-F022",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas."
+    },
+    {
+      "id": "GC-T20-Q0047",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · b) · 3: b) Internamiento en régimen semiabierto. Las personas sometidas a esta medida residirán en el centro, pero podrán realizar fuera del mismo alguna o algunas de las actividades formativas, educativas, laborales y de ocio establecidas en el programa individualizado de ejecución de la medida. La realización de actividades fuera del centro quedará condicionada a la evolución de la persona y al cumplimiento de los objetivos previstos en las mismas, pudiendo el Juez de Menores suspenderlas por tiempo determinado, acordando que todas las actividades se lleven a cabo dentro del centro.",
+      "fact_id": "GC-T20-F024",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas."
+    },
+    {
+      "id": "GC-T20-Q0045",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · a) · 2: a) Internamiento en régimen cerrado. Las personas sometidas a esta medida residirán en el centro y desarrollarán en el mismo las actividades formativas, educativas, laborales y de ocio.",
+      "fact_id": "GC-T20-F023",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas."
+    },
+    {
+      "id": "GC-T20-Q0097",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 8. Principio acusatorio. · regla 1 · 1: El Juez de Menores no podrá imponer una medida que suponga una mayor restricción de derechos ni por un tiempo superior a la medida solicitada por el Ministerio Fiscal o por el acusador particular.",
+      "fact_id": "GC-T20-F049",
+      "articulo": "Artículo 8. Principio acusatorio."
+    },
+    {
+      "id": "GC-T20-Q0101",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 9. Régimen general de aplicación y duración de las medidas. · regla 1 · 1: No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:",
+      "fact_id": "GC-T20-F051",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas."
+    },
+    {
+      "id": "GC-T20-Q0099",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 8. Principio acusatorio. · regla 2 · 2: Tampoco podrá exceder la duración de las medidas privativas de libertad contempladas en el artículo 7.1.ª), b), c), d) y g), en ningún caso, del tiempo que hubiera durado la pena privativa de libertad que se le hubiere impuesto por el mismo hecho, si el sujeto, de haber sido mayor de edad, hubiera sido declarado responsable, de acuerdo con el Código Penal.",
+      "fact_id": "GC-T20-F050",
+      "articulo": "Artículo 8. Principio acusatorio."
+    },
+    {
+      "id": "GC-T20-Q0007",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 1. Declaración general. · 1. · 1: 1. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de catorce años y menores de dieciocho por la comisión de hechos tipificados como delitos o faltas en el Código Penal o las leyes penales especiales.",
+      "fact_id": "GC-T20-F004",
+      "articulo": "Artículo 1. Declaración general."
+    },
+    {
+      "id": "GC-T20-Q0009",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 1. Declaración general. · 2. · 2: 2. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España.",
+      "fact_id": "GC-T20-F005",
+      "articulo": "Artículo 1. Declaración general."
+    },
+    {
+      "id": "GC-T20-Q0049",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · c) · 4: c) Internamiento en régimen abierto. Las personas sometidas a esta medida llevarán a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo.",
+      "fact_id": "GC-T20-F025",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas."
+    },
+    {
+      "id": "GC-T20-Q0051",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas. · d) · 5: d) Internamiento terapéutico en régimen cerrado, semiabierto o abierto. En los centros de esta naturaleza se realizará una atención educativa especializada o tratamiento específico dirigido a personas que padezcan anomalías o alteraciones psíquicas, un estado de dependencia de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias.",
+      "fact_id": "GC-T20-F026",
+      "articulo": "Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas."
+    },
+    {
+      "id": "GC-T20-Q0103",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 9. Régimen general de aplicación y duración de las medidas. · 1. · 2: 1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.",
+      "fact_id": "GC-T20-F052",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas."
+    },
+    {
+      "id": "GC-T20-Q0105",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 9. Régimen general de aplicación y duración de las medidas. · 2. · 3: 2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:",
+      "fact_id": "GC-T20-F053",
+      "articulo": "Artículo 9. Régimen general de aplicación y duración de las medidas."
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

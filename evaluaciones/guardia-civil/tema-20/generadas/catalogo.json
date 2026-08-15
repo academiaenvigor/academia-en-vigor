@@ -1,0 +1,456 @@
+{
+  "content_version": "1.0.0",
+  "total_tests": 43,
+  "tests_cobertura_bloque": 32,
+  "tests_por_partes": 8,
+  "tests_finales": 3,
+  "regla_cobertura": "Cada pregunta del banco aparece exactamente una vez en el conjunto de tests de cobertura por bloque.",
+  "tests": [
+    {
+      "id": "GC-T20-B01-A",
+      "ruta": "por-bloques/GC-T20-B01-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        1
+      ]
+    },
+    {
+      "id": "GC-T20-B01-B",
+      "ruta": "por-bloques/GC-T20-B01-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 17,
+      "bloques": [
+        1
+      ]
+    },
+    {
+      "id": "GC-T20-B02-A",
+      "ruta": "por-bloques/GC-T20-B02-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        2
+      ]
+    },
+    {
+      "id": "GC-T20-B02-B",
+      "ruta": "por-bloques/GC-T20-B02-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        2
+      ]
+    },
+    {
+      "id": "GC-T20-B02-C",
+      "ruta": "por-bloques/GC-T20-B02-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 4,
+      "bloques": [
+        2
+      ]
+    },
+    {
+      "id": "GC-T20-B03-A",
+      "ruta": "por-bloques/GC-T20-B03-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        3
+      ]
+    },
+    {
+      "id": "GC-T20-B03-B",
+      "ruta": "por-bloques/GC-T20-B03-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        3
+      ]
+    },
+    {
+      "id": "GC-T20-B03-C",
+      "ruta": "por-bloques/GC-T20-B03-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 24,
+      "bloques": [
+        3
+      ]
+    },
+    {
+      "id": "GC-T20-B04-A",
+      "ruta": "por-bloques/GC-T20-B04-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        4
+      ]
+    },
+    {
+      "id": "GC-T20-B04-B",
+      "ruta": "por-bloques/GC-T20-B04-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        4
+      ]
+    },
+    {
+      "id": "GC-T20-B04-C",
+      "ruta": "por-bloques/GC-T20-B04-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 2,
+      "bloques": [
+        4
+      ]
+    },
+    {
+      "id": "GC-T20-B05-A",
+      "ruta": "por-bloques/GC-T20-B05-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        5
+      ]
+    },
+    {
+      "id": "GC-T20-B05-B",
+      "ruta": "por-bloques/GC-T20-B05-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        5
+      ]
+    },
+    {
+      "id": "GC-T20-B05-C",
+      "ruta": "por-bloques/GC-T20-B05-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 24,
+      "bloques": [
+        5
+      ]
+    },
+    {
+      "id": "GC-T20-B06-A",
+      "ruta": "por-bloques/GC-T20-B06-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 20,
+      "bloques": [
+        6
+      ]
+    },
+    {
+      "id": "GC-T20-B07-A",
+      "ruta": "por-bloques/GC-T20-B07-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        7
+      ]
+    },
+    {
+      "id": "GC-T20-B07-B",
+      "ruta": "por-bloques/GC-T20-B07-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 20,
+      "bloques": [
+        7
+      ]
+    },
+    {
+      "id": "GC-T20-B08-A",
+      "ruta": "por-bloques/GC-T20-B08-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 19,
+      "bloques": [
+        8
+      ]
+    },
+    {
+      "id": "GC-T20-B09-A",
+      "ruta": "por-bloques/GC-T20-B09-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 20,
+      "bloques": [
+        9
+      ]
+    },
+    {
+      "id": "GC-T20-B10-A",
+      "ruta": "por-bloques/GC-T20-B10-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        10
+      ]
+    },
+    {
+      "id": "GC-T20-B10-B",
+      "ruta": "por-bloques/GC-T20-B10-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 9,
+      "bloques": [
+        10
+      ]
+    },
+    {
+      "id": "GC-T20-B11-A",
+      "ruta": "por-bloques/GC-T20-B11-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        11
+      ]
+    },
+    {
+      "id": "GC-T20-B11-B",
+      "ruta": "por-bloques/GC-T20-B11-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        11
+      ]
+    },
+    {
+      "id": "GC-T20-B11-C",
+      "ruta": "por-bloques/GC-T20-B11-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 13,
+      "bloques": [
+        11
+      ]
+    },
+    {
+      "id": "GC-T20-B12-A",
+      "ruta": "por-bloques/GC-T20-B12-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T20-B12-B",
+      "ruta": "por-bloques/GC-T20-B12-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T20-B12-C",
+      "ruta": "por-bloques/GC-T20-B12-C.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T20-B12-D",
+      "ruta": "por-bloques/GC-T20-B12-D.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T20-B12-E",
+      "ruta": "por-bloques/GC-T20-B12-E.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 10,
+      "bloques": [
+        12
+      ]
+    },
+    {
+      "id": "GC-T20-B13-A",
+      "ruta": "por-bloques/GC-T20-B13-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 23,
+      "bloques": [
+        13
+      ]
+    },
+    {
+      "id": "GC-T20-B14-A",
+      "ruta": "por-bloques/GC-T20-B14-A.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 25,
+      "bloques": [
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-B14-B",
+      "ruta": "por-bloques/GC-T20-B14-B.json",
+      "tipo": "cobertura_bloque",
+      "preguntas": 5,
+      "bloques": [
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-1-A",
+      "ruta": "por-partes/GC-T20-PARTE-1-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-1-B",
+      "ruta": "por-partes/GC-T20-PARTE-1-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-2-A",
+      "ruta": "por-partes/GC-T20-PARTE-2-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-2-B",
+      "ruta": "por-partes/GC-T20-PARTE-2-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-3-A",
+      "ruta": "por-partes/GC-T20-PARTE-3-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-3-B",
+      "ruta": "por-partes/GC-T20-PARTE-3-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-4-A",
+      "ruta": "por-partes/GC-T20-PARTE-4-A.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-PARTE-4-B",
+      "ruta": "por-partes/GC-T20-PARTE-4-B.json",
+      "tipo": "test_parte",
+      "preguntas": 15,
+      "bloques": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-FINAL-25-A",
+      "ruta": "finales/GC-T20-FINAL-25-A.json",
+      "tipo": "test_final",
+      "preguntas": 25,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-FINAL-25-B",
+      "ruta": "finales/GC-T20-FINAL-25-B.json",
+      "tipo": "test_final",
+      "preguntas": 25,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "GC-T20-FINAL-50-A",
+      "ruta": "finales/GC-T20-FINAL-50-A.json",
+      "tipo": "test_final",
+      "preguntas": 50,
+      "bloques": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ]
+}

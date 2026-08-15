@@ -1,0 +1,63 @@
+{
+  "id": "GC-T20-B04-C",
+  "titulo": "Tema 20 · Bloque 4: Incoación, detención, desistimiento y conciliación · Test C",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      4
+    ]
+  },
+  "numero_preguntas": 2,
+  "preguntas": [
+    {
+      "id": "GC-T20-Q0219",
+      "fact_id": "GC-T20-F110",
+      "bloque": 4,
+      "concepto": "Artículo 20. Unidad de expediente. · 3. · 3",
+      "articulo": "Artículo 20. Unidad de expediente.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 20. Unidad de expediente. · 3. · 3?",
+      "opciones": {
+        "A": "4. Los procedimientos de la competencia de la Audiencia Nacional no podrán ser objeto de acumulación con otros procedimientos instruidos en el ámbito de la jurisdicción de menores, sean o no los mismos los sujetos imputados.",
+        "B": "1. Corresponde al Ministerio Fiscal la instrucción de los procedimientos por los hechos a los que se refiere el artículo 1 de esta Ley.",
+        "C": "3. En los casos en los que los delitos atribuidos al menor expedientado hubieran sido cometidos en diferentes territorios, la determinación del órgano judicial competente para el enjuiciamiento de todos ellos en unidad de expediente, así como de las entidades públicas competentes para la ejecución de las medidas que se apliquen, se hará teniendo en cuenta el lugar del domicilio del menor y, subsidiariamente, los criterios expresados en el artículo 18 de la Ley de Enjuiciamiento Criminal."
+      }
+    },
+    {
+      "id": "GC-T20-Q0222",
+      "fact_id": "GC-T20-F111",
+      "bloque": 4,
+      "concepto": "Artículo 20. Unidad de expediente. · 4. · 4",
+      "articulo": "Artículo 20. Unidad de expediente.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «4. Los procedimientos de la competencia de la Audiencia Nacional no podrán ser objeto de acumulación con otros procedimientos instruidos en el ámbito de la jurisdicción de menores, sean o no los mismos los sujetos imputados.»?",
+      "opciones": {
+        "A": "Artículo 16. Incoación del expediente. · 1. · 1",
+        "B": "Artículo 16. Incoación del expediente. · 2. · 2",
+        "C": "Artículo 20. Unidad de expediente. · 4. · 4"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T20-Q0219",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 20. Unidad de expediente. · 3. · 3: 3. En los casos en los que los delitos atribuidos al menor expedientado hubieran sido cometidos en diferentes territorios, la determinación del órgano judicial competente para el enjuiciamiento de todos ellos en unidad de expediente, así como de las entidades públicas competentes para la ejecución de las medidas que se apliquen, se hará teniendo en cuenta el lugar del domicilio del menor y, subsidiariamente, los criterios expresados en el artículo 18 de la Ley de Enjuiciamiento Criminal.",
+      "fact_id": "GC-T20-F110",
+      "articulo": "Artículo 20. Unidad de expediente."
+    },
+    {
+      "id": "GC-T20-Q0222",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 20. Unidad de expediente. · 4. · 4: 4. Los procedimientos de la competencia de la Audiencia Nacional no podrán ser objeto de acumulación con otros procedimientos instruidos en el ámbito de la jurisdicción de menores, sean o no los mismos los sujetos imputados.",
+      "fact_id": "GC-T20-F111",
+      "articulo": "Artículo 20. Unidad de expediente."
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

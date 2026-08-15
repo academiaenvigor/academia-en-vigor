@@ -1,0 +1,569 @@
+{
+  "id": "GC-T20-B11-A",
+  "titulo": "Tema 20 · Bloque 11: Reglas de ejecución, quebrantamiento y sustitución · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      11
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T20-Q0436",
+      "fact_id": "GC-T20-F219",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el secretario del Juzgado de Menores competente para la ejecución de la medida practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.»?",
+      "opciones": {
+        "A": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1",
+        "B": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2",
+        "C": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3"
+      }
+    },
+    {
+      "id": "GC-T20-Q0437",
+      "fact_id": "GC-T20-F220",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2?",
+      "opciones": {
+        "A": "3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.",
+        "B": "2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.",
+        "C": "1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo."
+      }
+    },
+    {
+      "id": "GC-T20-Q0435",
+      "fact_id": "GC-T20-F219",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.",
+        "B": "3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.",
+        "C": "1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el secretario del Juzgado de Menores competente para la ejecución de la medida practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0439",
+      "fact_id": "GC-T20-F221",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3?",
+      "opciones": {
+        "A": "3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.",
+        "B": "1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo.",
+        "C": "La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda."
+      }
+    },
+    {
+      "id": "GC-T20-Q0440",
+      "fact_id": "GC-T20-F221",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 1. · 1",
+        "B": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3",
+        "C": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2"
+      }
+    },
+    {
+      "id": "GC-T20-Q0438",
+      "fact_id": "GC-T20-F220",
+      "bloque": 11,
+      "concepto": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.»?",
+      "opciones": {
+        "A": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3",
+        "B": "Artículo 47. Refundición de medidas impuestas. · 1. · 1",
+        "C": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2"
+      }
+    },
+    {
+      "id": "GC-T20-Q0442",
+      "fact_id": "GC-T20-F222",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 1. · 1",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 1. · 1",
+        "B": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2",
+        "C": "Artículo 47. Refundición de medidas impuestas. · 2. · 3"
+      }
+    },
+    {
+      "id": "GC-T20-Q0443",
+      "fact_id": "GC-T20-F223",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 47. Refundición de medidas impuestas. · regla 2 · 2, indique la opción correcta.",
+      "opciones": {
+        "A": "2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.",
+        "B": "La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.",
+        "C": "El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0441",
+      "fact_id": "GC-T20-F222",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 1. · 1",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 47. Refundición de medidas impuestas. · 1. · 1.",
+      "opciones": {
+        "A": "La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.",
+        "B": "2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.",
+        "C": "1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo."
+      }
+    },
+    {
+      "id": "GC-T20-Q0445",
+      "fact_id": "GC-T20-F224",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 2. · 3",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 47. Refundición de medidas impuestas. · 2. · 3, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.",
+        "B": "El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley.",
+        "C": "3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución."
+      }
+    },
+    {
+      "id": "GC-T20-Q0446",
+      "fact_id": "GC-T20-F224",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 2. · 3",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4",
+        "B": "Artículo 47. Refundición de medidas impuestas. · 2. · 3",
+        "C": "Artículo 47. Refundición de medidas impuestas. · 3. · 5"
+      }
+    },
+    {
+      "id": "GC-T20-Q0444",
+      "fact_id": "GC-T20-F223",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 2. · 3",
+        "B": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4",
+        "C": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2"
+      }
+    },
+    {
+      "id": "GC-T20-Q0448",
+      "fact_id": "GC-T20-F225",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4",
+        "B": "Artículo 47. Refundición de medidas impuestas. · 3. · 5",
+        "C": "Artículo 47. Refundición de medidas impuestas. · 4. · 6"
+      }
+    },
+    {
+      "id": "GC-T20-Q0449",
+      "fact_id": "GC-T20-F226",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 3. · 5",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el contenido vigente de Artículo 47. Refundición de medidas impuestas. · 3. · 5?",
+      "opciones": {
+        "A": "4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.",
+        "B": "3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.",
+        "C": "5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:"
+      }
+    },
+    {
+      "id": "GC-T20-Q0447",
+      "fact_id": "GC-T20-F225",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 47. Refundición de medidas impuestas. · regla 4 · 4?",
+      "opciones": {
+        "A": "3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.",
+        "B": "4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.",
+        "C": "El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley."
+      }
+    },
+    {
+      "id": "GC-T20-Q0451",
+      "fact_id": "GC-T20-F227",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 4. · 6",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Según la Ley Orgánica 5/2000, señale la formulación correcta sobre Artículo 47. Refundición de medidas impuestas. · 4. · 6.",
+      "opciones": {
+        "A": "4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.",
+        "B": "5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:",
+        "C": "a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra."
+      }
+    },
+    {
+      "id": "GC-T20-Q0452",
+      "fact_id": "GC-T20-F227",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 4. · 6",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 5. · 7",
+        "B": "Artículo 47. Refundición de medidas impuestas. · 4. · 6",
+        "C": "Artículo 47. Refundición de medidas impuestas. · a) · 8"
+      }
+    },
+    {
+      "id": "GC-T20-Q0450",
+      "fact_id": "GC-T20-F226",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 3. · 5",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 4. · 6",
+        "B": "Artículo 47. Refundición de medidas impuestas. · 5. · 7",
+        "C": "Artículo 47. Refundición de medidas impuestas. · 3. · 5"
+      }
+    },
+    {
+      "id": "GC-T20-Q0454",
+      "fact_id": "GC-T20-F228",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 5. · 7",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · 5. · 7",
+        "B": "Artículo 47. Refundición de medidas impuestas. · a) · 8",
+        "C": "Artículo 47. Refundición de medidas impuestas. · b) · 9"
+      }
+    },
+    {
+      "id": "GC-T20-Q0455",
+      "fact_id": "GC-T20-F229",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · a) · 8",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta literal sobre Artículo 47. Refundición de medidas impuestas. · a) · 8, ¿qué respuesta debe elegirse?",
+      "opciones": {
+        "A": "b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.",
+        "B": "a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.",
+        "C": "c) La medida de internamiento se cumplirá antes que las no privativas de libertad, y en su caso interrumpirá la ejecución de éstas."
+      }
+    },
+    {
+      "id": "GC-T20-Q0453",
+      "fact_id": "GC-T20-F228",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · 5. · 7",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Artículo 47. Refundición de medidas impuestas. · 5. · 7, indique la opción correcta.",
+      "opciones": {
+        "A": "a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.",
+        "B": "b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.",
+        "C": "5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:"
+      }
+    },
+    {
+      "id": "GC-T20-Q0457",
+      "fact_id": "GC-T20-F230",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · b) · 9",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "¿Qué dispone la regla identificada como Artículo 47. Refundición de medidas impuestas. · b) · 9?",
+      "opciones": {
+        "A": "b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.",
+        "B": "c) La medida de internamiento se cumplirá antes que las no privativas de libertad, y en su caso interrumpirá la ejecución de éstas.",
+        "C": "d) Las medidas de libertad vigilada contempladas en el artículo 10 se ejecutarán una vez finalizado el internamiento en régimen cerrado que se prevé en el mismo artículo."
+      }
+    },
+    {
+      "id": "GC-T20-Q0458",
+      "fact_id": "GC-T20-F230",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · b) · 9",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · c) · 10",
+        "B": "Artículo 47. Refundición de medidas impuestas. · b) · 9",
+        "C": "Artículo 47. Refundición de medidas impuestas. · d) · 11"
+      }
+    },
+    {
+      "id": "GC-T20-Q0456",
+      "fact_id": "GC-T20-F229",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · a) · 8",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · b) · 9",
+        "B": "Artículo 47. Refundición de medidas impuestas. · c) · 10",
+        "C": "Artículo 47. Refundición de medidas impuestas. · a) · 8"
+      }
+    },
+    {
+      "id": "GC-T20-Q0460",
+      "fact_id": "GC-T20-F231",
+      "bloque": 11,
+      "concepto": "Artículo 47. Refundición de medidas impuestas. · c) · 10",
+      "articulo": "Artículo 47. Refundición de medidas impuestas.",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿A qué artículo o apartado corresponde esta regla: «c) La medida de internamiento se cumplirá antes que las no privativas de libertad, y en su caso interrumpirá la ejecución de éstas.»?",
+      "opciones": {
+        "A": "Artículo 47. Refundición de medidas impuestas. · c) · 10",
+        "B": "Artículo 47. Refundición de medidas impuestas. · d) · 11",
+        "C": "Artículo 47. Refundición de medidas impuestas. · e) · 12"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T20-Q0436",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1: 1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el secretario del Juzgado de Menores competente para la ejecución de la medida practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.",
+      "fact_id": "GC-T20-F219",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0437",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2: 2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.",
+      "fact_id": "GC-T20-F220",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0435",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 1. · 1: 1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el secretario del Juzgado de Menores competente para la ejecución de la medida practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.",
+      "fact_id": "GC-T20-F219",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0439",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3: 3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.",
+      "fact_id": "GC-T20-F221",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0440",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 3. · 3: 3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.",
+      "fact_id": "GC-T20-F221",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0438",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 46. Liquidación de la medida y traslado del menor a un centro. · 2. · 2: 2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.",
+      "fact_id": "GC-T20-F220",
+      "articulo": "Artículo 46. Liquidación de la medida y traslado del menor a un centro."
+    },
+    {
+      "id": "GC-T20-Q0442",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 1. · 1: 1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo.",
+      "fact_id": "GC-T20-F222",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0443",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2: La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.",
+      "fact_id": "GC-T20-F223",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0441",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 1. · 1: 1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo.",
+      "fact_id": "GC-T20-F222",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0445",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 2. · 3: 2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.",
+      "fact_id": "GC-T20-F224",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0446",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 2. · 3: 2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.",
+      "fact_id": "GC-T20-F224",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0444",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · regla 2 · 2: La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.",
+      "fact_id": "GC-T20-F223",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0448",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4: El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley.",
+      "fact_id": "GC-T20-F225",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0449",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 3. · 5: 3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.",
+      "fact_id": "GC-T20-F226",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0447",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · regla 4 · 4: El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley.",
+      "fact_id": "GC-T20-F225",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0451",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 4. · 6: 4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.",
+      "fact_id": "GC-T20-F227",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0452",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 4. · 6: 4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.",
+      "fact_id": "GC-T20-F227",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0450",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 3. · 5: 3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.",
+      "fact_id": "GC-T20-F226",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0454",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 5. · 7: 5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:",
+      "fact_id": "GC-T20-F228",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0455",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · a) · 8: a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.",
+      "fact_id": "GC-T20-F229",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0453",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · 5. · 7: 5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:",
+      "fact_id": "GC-T20-F228",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0457",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · b) · 9: b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.",
+      "fact_id": "GC-T20-F230",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0458",
+      "respuesta_correcta": "B",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · b) · 9: b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.",
+      "fact_id": "GC-T20-F230",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0456",
+      "respuesta_correcta": "C",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · a) · 8: a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.",
+      "fact_id": "GC-T20-F229",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    },
+    {
+      "id": "GC-T20-Q0460",
+      "respuesta_correcta": "A",
+      "explicacion": "Artículo 47. Refundición de medidas impuestas. · c) · 10: c) La medida de internamiento se cumplirá antes que las no privativas de libertad, y en su caso interrumpirá la ejecución de éstas.",
+      "fact_id": "GC-T20-F231",
+      "articulo": "Artículo 47. Refundición de medidas impuestas."
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

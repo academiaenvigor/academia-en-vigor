@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 20,
+  "topic_title": "Responsabilidad penal de los menores",
+  "id_prefix": "GC-T20",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-20/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-20/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Objeto, ámbito, víctimas y sujetos intervinientes"
+      },
+      {
+        "number": 2,
+        "title": "Catálogo y contenido de las medidas"
+      },
+      {
+        "number": 3,
+        "title": "Determinación, modificación, mayoría de edad y prescripción"
+      },
+      {
+        "number": 4,
+        "title": "Incoación, detención, desistimiento y conciliación"
+      },
+      {
+        "number": 5,
+        "title": "Unidad del expediente, defensa, secreto y equipo técnico"
+      },
+      {
+        "number": 6,
+        "title": "Medidas cautelares y conclusión de la instrucción"
+      },
+      {
+        "number": 7,
+        "title": "Fase de audiencia"
+      },
+      {
+        "number": 8,
+        "title": "Sentencia, suspensión y vistas"
+      },
+      {
+        "number": 9,
+        "title": "Régimen de recursos"
+      },
+      {
+        "number": 10,
+        "title": "Inicio y principios de la ejecución"
+      },
+      {
+        "number": 11,
+        "title": "Reglas de ejecución, quebrantamiento y sustitución"
+      },
+      {
+        "number": 12,
+        "title": "Centros, derechos, deberes, vigilancia y disciplina"
+      },
+      {
+        "number": 13,
+        "title": "Responsabilidad civil"
+      },
+      {
+        "number": 14,
+        "title": "Disposiciones adicionales, transitoria y finales"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Ámbito, medidas y reglas de aplicación",
+        "blocks": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Instrucción y medidas cautelares",
+        "blocks": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Audiencia, sentencia y recursos",
+        "blocks": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Ejecución, internamiento y responsabilidad civil",
+        "blocks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

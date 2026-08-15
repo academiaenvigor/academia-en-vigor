@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-20",
+  "topic_number": 20,
+  "slug": "responsabilidad-penal-menores",
+  "title": "Responsabilidad penal de los menores",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-14_boe_update_2025-01-03",
+  "source_file": "conocimiento/guardia-civil/tema-20/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "editorial_reconstruction_from_official_consolidated_legislation"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-20-responsabilidad-penal-menores.md",
+    "atestado": "temas/guardia-civil/atestado/tema-20-responsabilidad-penal-menores.md"
+  },
+  "semantic_blocks": 14,
+  "atomic_facts": 352,
+  "master_statements": 352,
+  "coverage_file": "conocimiento/guardia-civil/tema-20/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T20",
+    "LO5-2000-T20",
+    "LO1-2025-TRIBUNALES-T20"
+  ],
+  "official_exam_items": [
+    "of-gc-p2023-1a-q091",
+    "of-gc-p2023-2a-q091",
+    "of-gc-p2023-1a-q092",
+    "of-gc-p2023-2a-q092",
+    "of-gc-p2023-1a-q093",
+    "of-gc-p2023-2a-q093",
+    "of-gc-p2024-1a-q090",
+    "of-gc-p2024-2a-q090",
+    "of-gc-p2024-1a-q091",
+    "of-gc-p2024-3a-q091",
+    "of-gc-p2024-3a-q092",
+    "of-gc-p2025-a-q090",
+    "of-gc-p2026-a-q089"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-20/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_juridico_operativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-20/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-20/manifest.json",
+    "questions": 660,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-20/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-20/manifest.json",
+    "total": 15,
+    "planned": 15
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-20/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "checked_official_sources",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-20/revision-1.0.md"
+  }
+}
