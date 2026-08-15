@@ -1,0 +1,569 @@
+{
+  "id": "GC-T19-B03-A",
+  "titulo": "Tema 19 · Bloque 3: Armas de fuego: umbral, advertencia y regulación · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      3
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0046",
+      "fact_id": "GC-T19-F026",
+      "bloque": 3,
+      "concepto": "Delito especialmente grave",
+      "articulo": "Principio 9",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Delito especialmente grave.",
+      "opciones": {
+        "A": "Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+        "B": "Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes.",
+        "C": "Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida."
+      }
+    },
+    {
+      "id": "GC-T19-Q0044",
+      "fact_id": "GC-T19-F025",
+      "bloque": 3,
+      "concepto": "Defensa propia o de terceros",
+      "articulo": "Principio 9",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Defensa propia o de terceros?",
+      "opciones": {
+        "A": "Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+        "B": "Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+        "C": "Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0045",
+      "fact_id": "GC-T19-F025",
+      "bloque": 3,
+      "concepto": "Defensa propia o de terceros",
+      "articulo": "Principio 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.»?",
+      "opciones": {
+        "A": "Delito especialmente grave",
+        "B": "Detención o fuga de persona peligrosa",
+        "C": "Defensa propia o de terceros"
+      }
+    },
+    {
+      "id": "GC-T19-Q0049",
+      "fact_id": "GC-T19-F027",
+      "bloque": 3,
+      "concepto": "Detención o fuga de persona peligrosa",
+      "articulo": "Principio 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes.»?",
+      "opciones": {
+        "A": "Detención o fuga de persona peligrosa",
+        "B": "Uso intencional letal",
+        "C": "Identificación antes del disparo"
+      }
+    },
+    {
+      "id": "GC-T19-Q0047",
+      "fact_id": "GC-T19-F026",
+      "bloque": 3,
+      "concepto": "Delito especialmente grave",
+      "articulo": "Principio 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.»?",
+      "opciones": {
+        "A": "Detención o fuga de persona peligrosa",
+        "B": "Delito especialmente grave",
+        "C": "Uso intencional letal"
+      }
+    },
+    {
+      "id": "GC-T19-Q0048",
+      "fact_id": "GC-T19-F027",
+      "bloque": 3,
+      "concepto": "Detención o fuga de persona peligrosa",
+      "articulo": "Principio 9",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Detención o fuga de persona peligrosa, indique la opción correcta.",
+      "opciones": {
+        "A": "Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida.",
+        "B": "En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.",
+        "C": "Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0052",
+      "fact_id": "GC-T19-F029",
+      "bloque": 3,
+      "concepto": "Identificación antes del disparo",
+      "articulo": "Principio 10",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Identificación antes del disparo?",
+      "opciones": {
+        "A": "En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.",
+        "B": "Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta.",
+        "C": "No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil."
+      }
+    },
+    {
+      "id": "GC-T19-Q0050",
+      "fact_id": "GC-T19-F028",
+      "bloque": 3,
+      "concepto": "Uso intencional letal",
+      "articulo": "Principio 9",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Uso intencional letal, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.",
+        "B": "Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida.",
+        "C": "Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta."
+      }
+    },
+    {
+      "id": "GC-T19-Q0051",
+      "fact_id": "GC-T19-F028",
+      "bloque": 3,
+      "concepto": "Uso intencional letal",
+      "articulo": "Principio 9",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida.»?",
+      "opciones": {
+        "A": "Identificación antes del disparo",
+        "B": "Advertencia previa",
+        "C": "Uso intencional letal"
+      }
+    },
+    {
+      "id": "GC-T19-Q0055",
+      "fact_id": "GC-T19-F030",
+      "bloque": 3,
+      "concepto": "Advertencia previa",
+      "articulo": "Principio 10",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta.»?",
+      "opciones": {
+        "A": "Advertencia previa",
+        "B": "Excepciones a la advertencia",
+        "C": "Circunstancias autorizadas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0053",
+      "fact_id": "GC-T19-F029",
+      "bloque": 3,
+      "concepto": "Identificación antes del disparo",
+      "articulo": "Principio 10",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.»?",
+      "opciones": {
+        "A": "Advertencia previa",
+        "B": "Identificación antes del disparo",
+        "C": "Excepciones a la advertencia"
+      }
+    },
+    {
+      "id": "GC-T19-Q0054",
+      "fact_id": "GC-T19-F030",
+      "bloque": 3,
+      "concepto": "Advertencia previa",
+      "articulo": "Principio 10",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Advertencia previa?",
+      "opciones": {
+        "A": "No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil.",
+        "B": "Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.",
+        "C": "Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta."
+      }
+    },
+    {
+      "id": "GC-T19-Q0058",
+      "fact_id": "GC-T19-F032",
+      "bloque": 3,
+      "concepto": "Circunstancias autorizadas",
+      "articulo": "Principio 11.a",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Circunstancias autorizadas, indique la opción correcta.",
+      "opciones": {
+        "A": "Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.",
+        "B": "Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios.",
+        "C": "Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado."
+      }
+    },
+    {
+      "id": "GC-T19-Q0056",
+      "fact_id": "GC-T19-F031",
+      "bloque": 3,
+      "concepto": "Excepciones a la advertencia",
+      "articulo": "Principio 10",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Excepciones a la advertencia.",
+      "opciones": {
+        "A": "Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.",
+        "B": "No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil.",
+        "C": "Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0057",
+      "fact_id": "GC-T19-F031",
+      "bloque": 3,
+      "concepto": "Excepciones a la advertencia",
+      "articulo": "Principio 10",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil.»?",
+      "opciones": {
+        "A": "Circunstancias autorizadas",
+        "B": "Uso apropiado",
+        "C": "Excepciones a la advertencia"
+      }
+    },
+    {
+      "id": "GC-T19-Q0061",
+      "fact_id": "GC-T19-F033",
+      "bloque": 3,
+      "concepto": "Uso apropiado",
+      "articulo": "Principio 11.b",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios.»?",
+      "opciones": {
+        "A": "Uso apropiado",
+        "B": "Armas y municiones prohibidas",
+        "C": "Control, almacenamiento y distribución"
+      }
+    },
+    {
+      "id": "GC-T19-Q0059",
+      "fact_id": "GC-T19-F032",
+      "bloque": 3,
+      "concepto": "Circunstancias autorizadas",
+      "articulo": "Principio 11.a",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.»?",
+      "opciones": {
+        "A": "Uso apropiado",
+        "B": "Circunstancias autorizadas",
+        "C": "Armas y municiones prohibidas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0060",
+      "fact_id": "GC-T19-F033",
+      "bloque": 3,
+      "concepto": "Uso apropiado",
+      "articulo": "Principio 11.b",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Uso apropiado, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado.",
+        "B": "Las normas regularán estas materias y asegurarán que los funcionarios respondan de las armas y municiones que se les entreguen.",
+        "C": "Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0064",
+      "fact_id": "GC-T19-F035",
+      "bloque": 3,
+      "concepto": "Control, almacenamiento y distribución",
+      "articulo": "Principio 11.d",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Control, almacenamiento y distribución?",
+      "opciones": {
+        "A": "Las normas regularán estas materias y asegurarán que los funcionarios respondan de las armas y municiones que se les entreguen.",
+        "B": "Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego.",
+        "C": "Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0062",
+      "fact_id": "GC-T19-F034",
+      "bloque": 3,
+      "concepto": "Armas y municiones prohibidas",
+      "articulo": "Principio 11.c",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Armas y municiones prohibidas?",
+      "opciones": {
+        "A": "Las normas regularán estas materias y asegurarán que los funcionarios respondan de las armas y municiones que se les entreguen.",
+        "B": "Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado.",
+        "C": "Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego."
+      }
+    },
+    {
+      "id": "GC-T19-Q0063",
+      "fact_id": "GC-T19-F034",
+      "bloque": 3,
+      "concepto": "Armas y municiones prohibidas",
+      "articulo": "Principio 11.c",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado.»?",
+      "opciones": {
+        "A": "Control, almacenamiento y distribución",
+        "B": "Avisos de advertencia regulados",
+        "C": "Armas y municiones prohibidas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0067",
+      "fact_id": "GC-T19-F037",
+      "bloque": 3,
+      "concepto": "Sistema de informes",
+      "articulo": "Principio 11.f",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Sistema de informes?",
+      "opciones": {
+        "A": "Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo.",
+        "B": "Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+        "C": "Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0065",
+      "fact_id": "GC-T19-F036",
+      "bloque": 3,
+      "concepto": "Avisos de advertencia regulados",
+      "articulo": "Principio 11.e",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Avisos de advertencia regulados, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo.",
+        "B": "Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego.",
+        "C": "Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9."
+      }
+    },
+    {
+      "id": "GC-T19-Q0066",
+      "fact_id": "GC-T19-F036",
+      "bloque": 3,
+      "concepto": "Avisos de advertencia regulados",
+      "articulo": "Principio 11.e",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego.»?",
+      "opciones": {
+        "A": "Sistema de informes",
+        "B": "Defensa propia o de terceros",
+        "C": "Avisos de advertencia regulados"
+      }
+    },
+    {
+      "id": "GC-T19-Q0068",
+      "fact_id": "GC-T19-F037",
+      "bloque": 3,
+      "concepto": "Sistema de informes",
+      "articulo": "Principio 11.f",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo.»?",
+      "opciones": {
+        "A": "Defensa propia o de terceros",
+        "B": "Sistema de informes",
+        "C": "Delito especialmente grave"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0046",
+      "respuesta_correcta": "A",
+      "explicacion": "Delito especialmente grave: Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+      "fact_id": "GC-T19-F026",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0044",
+      "respuesta_correcta": "B",
+      "explicacion": "Defensa propia o de terceros: Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+      "fact_id": "GC-T19-F025",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0045",
+      "respuesta_correcta": "C",
+      "explicacion": "Defensa propia o de terceros: Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+      "fact_id": "GC-T19-F025",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0049",
+      "respuesta_correcta": "A",
+      "explicacion": "Detención o fuga de persona peligrosa: Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes.",
+      "fact_id": "GC-T19-F027",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0047",
+      "respuesta_correcta": "B",
+      "explicacion": "Delito especialmente grave: Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+      "fact_id": "GC-T19-F026",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0048",
+      "respuesta_correcta": "C",
+      "explicacion": "Detención o fuga de persona peligrosa: Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes.",
+      "fact_id": "GC-T19-F027",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0052",
+      "respuesta_correcta": "A",
+      "explicacion": "Identificación antes del disparo: En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.",
+      "fact_id": "GC-T19-F029",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0050",
+      "respuesta_correcta": "B",
+      "explicacion": "Uso intencional letal: Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida.",
+      "fact_id": "GC-T19-F028",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0051",
+      "respuesta_correcta": "C",
+      "explicacion": "Uso intencional letal: Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida.",
+      "fact_id": "GC-T19-F028",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0055",
+      "respuesta_correcta": "A",
+      "explicacion": "Advertencia previa: Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta.",
+      "fact_id": "GC-T19-F030",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0053",
+      "respuesta_correcta": "B",
+      "explicacion": "Identificación antes del disparo: En los supuestos del principio 9, los funcionarios se identificarán como tales antes de emplear armas de fuego.",
+      "fact_id": "GC-T19-F029",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0054",
+      "respuesta_correcta": "C",
+      "explicacion": "Advertencia previa: Darán una clara advertencia de su intención de emplear armas de fuego y tiempo suficiente para que se tome en cuenta.",
+      "fact_id": "GC-T19-F030",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0058",
+      "respuesta_correcta": "A",
+      "explicacion": "Circunstancias autorizadas: Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.",
+      "fact_id": "GC-T19-F032",
+      "articulo": "Principio 11.a"
+    },
+    {
+      "id": "GC-T19-Q0056",
+      "respuesta_correcta": "B",
+      "explicacion": "Excepciones a la advertencia: No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil.",
+      "fact_id": "GC-T19-F031",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0057",
+      "respuesta_correcta": "C",
+      "explicacion": "Excepciones a la advertencia: No será exigible si pone indebidamente en peligro al funcionario, crea riesgo de muerte o daño grave a otras personas o resulta evidentemente inadecuada o inútil.",
+      "fact_id": "GC-T19-F031",
+      "articulo": "Principio 10"
+    },
+    {
+      "id": "GC-T19-Q0061",
+      "respuesta_correcta": "A",
+      "explicacion": "Uso apropiado: Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios.",
+      "fact_id": "GC-T19-F033",
+      "articulo": "Principio 11.b"
+    },
+    {
+      "id": "GC-T19-Q0059",
+      "respuesta_correcta": "B",
+      "explicacion": "Circunstancias autorizadas: Las normas deben especificar cuándo se autoriza portar armas de fuego y prescribir sus tipos y municiones.",
+      "fact_id": "GC-T19-F032",
+      "articulo": "Principio 11.a"
+    },
+    {
+      "id": "GC-T19-Q0060",
+      "respuesta_correcta": "C",
+      "explicacion": "Uso apropiado: Las normas asegurarán que las armas se usen solo en circunstancias apropiadas y de modo que disminuya el riesgo de daños innecesarios.",
+      "fact_id": "GC-T19-F033",
+      "articulo": "Principio 11.b"
+    },
+    {
+      "id": "GC-T19-Q0064",
+      "respuesta_correcta": "A",
+      "explicacion": "Control, almacenamiento y distribución: Las normas regularán estas materias y asegurarán que los funcionarios respondan de las armas y municiones que se les entreguen.",
+      "fact_id": "GC-T19-F035",
+      "articulo": "Principio 11.d"
+    },
+    {
+      "id": "GC-T19-Q0062",
+      "respuesta_correcta": "B",
+      "explicacion": "Armas y municiones prohibidas: Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado.",
+      "fact_id": "GC-T19-F034",
+      "articulo": "Principio 11.c"
+    },
+    {
+      "id": "GC-T19-Q0063",
+      "respuesta_correcta": "C",
+      "explicacion": "Armas y municiones prohibidas: Las normas prohibirán las que provoquen lesiones no deseadas o signifiquen un riesgo injustificado.",
+      "fact_id": "GC-T19-F034",
+      "articulo": "Principio 11.c"
+    },
+    {
+      "id": "GC-T19-Q0067",
+      "respuesta_correcta": "A",
+      "explicacion": "Sistema de informes: Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo.",
+      "fact_id": "GC-T19-F037",
+      "articulo": "Principio 11.f"
+    },
+    {
+      "id": "GC-T19-Q0065",
+      "respuesta_correcta": "B",
+      "explicacion": "Avisos de advertencia regulados: Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego.",
+      "fact_id": "GC-T19-F036",
+      "articulo": "Principio 11.e"
+    },
+    {
+      "id": "GC-T19-Q0066",
+      "respuesta_correcta": "C",
+      "explicacion": "Avisos de advertencia regulados: Las directrices señalan los avisos que deberán darse, siempre que proceda, cuando vaya a hacerse uso de un arma de fuego.",
+      "fact_id": "GC-T19-F036",
+      "articulo": "Principio 11.e"
+    },
+    {
+      "id": "GC-T19-Q0068",
+      "respuesta_correcta": "B",
+      "explicacion": "Sistema de informes: Las normas establecerán un sistema de presentación de informes cuando se recurra a armas de fuego en el ejercicio del cargo.",
+      "fact_id": "GC-T19-F037",
+      "articulo": "Principio 11.f"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

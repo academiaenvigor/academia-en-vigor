@@ -1,0 +1,327 @@
+{
+  "id": "GC-T19-B01-A",
+  "titulo": "Tema 19 · Bloque 1: Alcance, adopción y conceptos de partida · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      1
+    ]
+  },
+  "numero_preguntas": 14,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0001",
+      "fact_id": "GC-T19-F001",
+      "bloque": 1,
+      "concepto": "Alcance oficial del Tema 19",
+      "articulo": "Epígrafe oficial",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Alcance oficial del Tema 19.",
+      "opciones": {
+        "A": "Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+        "B": "Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.",
+        "C": "El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990."
+      }
+    },
+    {
+      "id": "GC-T19-Q0002",
+      "fact_id": "GC-T19-F001",
+      "bloque": 1,
+      "concepto": "Alcance oficial del Tema 19",
+      "articulo": "Epígrafe oficial",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.»?",
+      "opciones": {
+        "A": "Adopción de los Principios Básicos",
+        "B": "Alcance oficial del Tema 19",
+        "C": "Lugar y fechas de adopción"
+      }
+    },
+    {
+      "id": "GC-T19-Q0003",
+      "fact_id": "GC-T19-F002",
+      "bloque": 1,
+      "concepto": "Adopción de los Principios Básicos",
+      "articulo": "Adopción",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Adopción de los Principios Básicos, indique la opción correcta.",
+      "opciones": {
+        "A": "El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.",
+        "B": "Formulan estándares internacionales para orientar a gobiernos y cuerpos encargados de hacer cumplir la ley; deben incorporarse a la legislación y práctica nacionales.",
+        "C": "Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente."
+      }
+    },
+    {
+      "id": "GC-T19-Q0004",
+      "fact_id": "GC-T19-F002",
+      "bloque": 1,
+      "concepto": "Adopción de los Principios Básicos",
+      "articulo": "Adopción",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.»?",
+      "opciones": {
+        "A": "Adopción de los Principios Básicos",
+        "B": "Lugar y fechas de adopción",
+        "C": "Naturaleza de los Principios"
+      }
+    },
+    {
+      "id": "GC-T19-Q0005",
+      "fact_id": "GC-T19-F003",
+      "bloque": 1,
+      "concepto": "Lugar y fechas de adopción",
+      "articulo": "Adopción",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Lugar y fechas de adopción, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Formulan estándares internacionales para orientar a gobiernos y cuerpos encargados de hacer cumplir la ley; deben incorporarse a la legislación y práctica nacionales.",
+        "B": "El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.",
+        "C": "La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos."
+      }
+    },
+    {
+      "id": "GC-T19-Q0006",
+      "fact_id": "GC-T19-F003",
+      "bloque": 1,
+      "concepto": "Lugar y fechas de adopción",
+      "articulo": "Adopción",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.»?",
+      "opciones": {
+        "A": "Naturaleza de los Principios",
+        "B": "Funcionarios encargados de hacer cumplir la ley",
+        "C": "Lugar y fechas de adopción"
+      }
+    },
+    {
+      "id": "GC-T19-Q0007",
+      "fact_id": "GC-T19-F004",
+      "bloque": 1,
+      "concepto": "Naturaleza de los Principios",
+      "articulo": "Preámbulo",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Naturaleza de los Principios?",
+      "opciones": {
+        "A": "Formulan estándares internacionales para orientar a gobiernos y cuerpos encargados de hacer cumplir la ley; deben incorporarse a la legislación y práctica nacionales.",
+        "B": "La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos.",
+        "C": "Quedan comprendidas cuando ejercen funciones de policía y poseen facultades de arresto o detención."
+      }
+    },
+    {
+      "id": "GC-T19-Q0008",
+      "fact_id": "GC-T19-F005",
+      "bloque": 1,
+      "concepto": "Funcionarios encargados de hacer cumplir la ley",
+      "articulo": "Nota al instrumento",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Funcionarios encargados de hacer cumplir la ley, indique la opción correcta.",
+      "opciones": {
+        "A": "Quedan comprendidas cuando ejercen funciones de policía y poseen facultades de arresto o detención.",
+        "B": "La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos.",
+        "C": "El preámbulo reconoce que la labor de estos funcionarios es un servicio social de gran importancia y puede entrañar peligro."
+      }
+    },
+    {
+      "id": "GC-T19-Q0009",
+      "fact_id": "GC-T19-F005",
+      "bloque": 1,
+      "concepto": "Funcionarios encargados de hacer cumplir la ley",
+      "articulo": "Nota al instrumento",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos.»?",
+      "opciones": {
+        "A": "Fuerzas militares o de seguridad",
+        "B": "Riesgo profesional",
+        "C": "Funcionarios encargados de hacer cumplir la ley"
+      }
+    },
+    {
+      "id": "GC-T19-Q0010",
+      "fact_id": "GC-T19-F006",
+      "bloque": 1,
+      "concepto": "Fuerzas militares o de seguridad",
+      "articulo": "Nota al instrumento",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta sobre Fuerzas militares o de seguridad, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Quedan comprendidas cuando ejercen funciones de policía y poseen facultades de arresto o detención.",
+        "B": "El preámbulo reconoce que la labor de estos funcionarios es un servicio social de gran importancia y puede entrañar peligro.",
+        "C": "La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0011",
+      "fact_id": "GC-T19-F007",
+      "bloque": 1,
+      "concepto": "Riesgo profesional",
+      "articulo": "Preámbulo",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la afirmación correcta sobre Riesgo profesional.",
+      "opciones": {
+        "A": "La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad.",
+        "B": "El preámbulo reconoce que la labor de estos funcionarios es un servicio social de gran importancia y puede entrañar peligro.",
+        "C": "El instrumento subraya la función de estos funcionarios en la protección del derecho a la vida, la libertad y la seguridad de las personas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0012",
+      "fact_id": "GC-T19-F008",
+      "bloque": 1,
+      "concepto": "Amenaza a los funcionarios",
+      "articulo": "Preámbulo",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Amenaza a los funcionarios?",
+      "opciones": {
+        "A": "El instrumento subraya la función de estos funcionarios en la protección del derecho a la vida, la libertad y la seguridad de las personas.",
+        "B": "Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+        "C": "La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0013",
+      "fact_id": "GC-T19-F008",
+      "bloque": 1,
+      "concepto": "Amenaza a los funcionarios",
+      "articulo": "Preámbulo",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad.»?",
+      "opciones": {
+        "A": "Amenaza a los funcionarios",
+        "B": "Derechos protegidos",
+        "C": "Alcance oficial del Tema 19"
+      }
+    },
+    {
+      "id": "GC-T19-Q0014",
+      "fact_id": "GC-T19-F009",
+      "bloque": 1,
+      "concepto": "Derechos protegidos",
+      "articulo": "Preámbulo",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Derechos protegidos?",
+      "opciones": {
+        "A": "Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+        "B": "El instrumento subraya la función de estos funcionarios en la protección del derecho a la vida, la libertad y la seguridad de las personas.",
+        "C": "Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0001",
+      "respuesta_correcta": "A",
+      "explicacion": "Alcance oficial del Tema 19: Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+      "fact_id": "GC-T19-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T19-Q0002",
+      "respuesta_correcta": "B",
+      "explicacion": "Alcance oficial del Tema 19: Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+      "fact_id": "GC-T19-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T19-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Adopción de los Principios Básicos: Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.",
+      "fact_id": "GC-T19-F002",
+      "articulo": "Adopción"
+    },
+    {
+      "id": "GC-T19-Q0004",
+      "respuesta_correcta": "A",
+      "explicacion": "Adopción de los Principios Básicos: Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.",
+      "fact_id": "GC-T19-F002",
+      "articulo": "Adopción"
+    },
+    {
+      "id": "GC-T19-Q0005",
+      "respuesta_correcta": "B",
+      "explicacion": "Lugar y fechas de adopción: El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.",
+      "fact_id": "GC-T19-F003",
+      "articulo": "Adopción"
+    },
+    {
+      "id": "GC-T19-Q0006",
+      "respuesta_correcta": "C",
+      "explicacion": "Lugar y fechas de adopción: El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.",
+      "fact_id": "GC-T19-F003",
+      "articulo": "Adopción"
+    },
+    {
+      "id": "GC-T19-Q0007",
+      "respuesta_correcta": "A",
+      "explicacion": "Naturaleza de los Principios: Formulan estándares internacionales para orientar a gobiernos y cuerpos encargados de hacer cumplir la ley; deben incorporarse a la legislación y práctica nacionales.",
+      "fact_id": "GC-T19-F004",
+      "articulo": "Preámbulo"
+    },
+    {
+      "id": "GC-T19-Q0008",
+      "respuesta_correcta": "B",
+      "explicacion": "Funcionarios encargados de hacer cumplir la ley: La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos.",
+      "fact_id": "GC-T19-F005",
+      "articulo": "Nota al instrumento"
+    },
+    {
+      "id": "GC-T19-Q0009",
+      "respuesta_correcta": "C",
+      "explicacion": "Funcionarios encargados de hacer cumplir la ley: La expresión incluye a quienes ejercen funciones de policía, especialmente facultades de arresto o detención, sean nombrados o elegidos.",
+      "fact_id": "GC-T19-F005",
+      "articulo": "Nota al instrumento"
+    },
+    {
+      "id": "GC-T19-Q0010",
+      "respuesta_correcta": "A",
+      "explicacion": "Fuerzas militares o de seguridad: Quedan comprendidas cuando ejercen funciones de policía y poseen facultades de arresto o detención.",
+      "fact_id": "GC-T19-F006",
+      "articulo": "Nota al instrumento"
+    },
+    {
+      "id": "GC-T19-Q0011",
+      "respuesta_correcta": "B",
+      "explicacion": "Riesgo profesional: El preámbulo reconoce que la labor de estos funcionarios es un servicio social de gran importancia y puede entrañar peligro.",
+      "fact_id": "GC-T19-F007",
+      "articulo": "Preámbulo"
+    },
+    {
+      "id": "GC-T19-Q0012",
+      "respuesta_correcta": "C",
+      "explicacion": "Amenaza a los funcionarios: La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad.",
+      "fact_id": "GC-T19-F008",
+      "articulo": "Preámbulo"
+    },
+    {
+      "id": "GC-T19-Q0013",
+      "respuesta_correcta": "A",
+      "explicacion": "Amenaza a los funcionarios: La amenaza a la vida y seguridad de quienes hacen cumplir la ley debe considerarse una amenaza a la estabilidad de toda la sociedad.",
+      "fact_id": "GC-T19-F008",
+      "articulo": "Preámbulo"
+    },
+    {
+      "id": "GC-T19-Q0014",
+      "respuesta_correcta": "B",
+      "explicacion": "Derechos protegidos: El instrumento subraya la función de estos funcionarios en la protección del derecho a la vida, la libertad y la seguridad de las personas.",
+      "fact_id": "GC-T19-F009",
+      "articulo": "Preámbulo"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

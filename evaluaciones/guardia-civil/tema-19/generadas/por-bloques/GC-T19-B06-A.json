@@ -1,0 +1,415 @@
+{
+  "id": "GC-T19-B06-A",
+  "titulo": "Tema 19 · Bloque 6: Informes, revisión y responsabilidad · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      6
+    ]
+  },
+  "numero_preguntas": 18,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0097",
+      "fact_id": "GC-T19-F054",
+      "bloque": 6,
+      "concepto": "Revisión administrativa independiente",
+      "articulo": "Principio 22",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Revisión administrativa independiente?",
+      "opciones": {
+        "A": "Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+        "B": "En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes.",
+        "C": "Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial."
+      }
+    },
+    {
+      "id": "GC-T19-Q0095",
+      "fact_id": "GC-T19-F053",
+      "bloque": 6,
+      "concepto": "Procedimientos eficaces de informe",
+      "articulo": "Principio 22",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Procedimientos eficaces de informe, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+        "B": "Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f.",
+        "C": "En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0096",
+      "fact_id": "GC-T19-F053",
+      "bloque": 6,
+      "concepto": "Procedimientos eficaces de informe",
+      "articulo": "Principio 22",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f.»?",
+      "opciones": {
+        "A": "Revisión administrativa independiente",
+        "B": "Informe detallado",
+        "C": "Procedimientos eficaces de informe"
+      }
+    },
+    {
+      "id": "GC-T19-Q0100",
+      "fact_id": "GC-T19-F055",
+      "bloque": 6,
+      "concepto": "Informe detallado",
+      "articulo": "Principio 22",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes.»?",
+      "opciones": {
+        "A": "Informe detallado",
+        "B": "Acceso a proceso independiente",
+        "C": "Responsabilidad de superiores"
+      }
+    },
+    {
+      "id": "GC-T19-Q0098",
+      "fact_id": "GC-T19-F054",
+      "bloque": 6,
+      "concepto": "Revisión administrativa independiente",
+      "articulo": "Principio 22",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.»?",
+      "opciones": {
+        "A": "Informe detallado",
+        "B": "Revisión administrativa independiente",
+        "C": "Acceso a proceso independiente"
+      }
+    },
+    {
+      "id": "GC-T19-Q0099",
+      "fact_id": "GC-T19-F055",
+      "bloque": 6,
+      "concepto": "Informe detallado",
+      "articulo": "Principio 22",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Informe detallado?",
+      "opciones": {
+        "A": "Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial.",
+        "B": "Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.",
+        "C": "En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0103",
+      "fact_id": "GC-T19-F057",
+      "bloque": 6,
+      "concepto": "Responsabilidad de superiores",
+      "articulo": "Principio 24",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Responsabilidad de superiores, indique la opción correcta.",
+      "opciones": {
+        "A": "Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.",
+        "B": "No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios.",
+        "C": "Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0101",
+      "fact_id": "GC-T19-F056",
+      "bloque": 6,
+      "concepto": "Acceso a proceso independiente",
+      "articulo": "Principio 23",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Acceso a proceso independiente.",
+      "opciones": {
+        "A": "Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.",
+        "B": "Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial.",
+        "C": "No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0102",
+      "fact_id": "GC-T19-F056",
+      "bloque": 6,
+      "concepto": "Acceso a proceso independiente",
+      "articulo": "Principio 23",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial.»?",
+      "opciones": {
+        "A": "Responsabilidad de superiores",
+        "B": "Protección por negarse a órdenes ilícitas",
+        "C": "Acceso a proceso independiente"
+      }
+    },
+    {
+      "id": "GC-T19-Q0106",
+      "fact_id": "GC-T19-F058",
+      "bloque": 6,
+      "concepto": "Protección por negarse a órdenes ilícitas",
+      "articulo": "Principio 25",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios.»?",
+      "opciones": {
+        "A": "Protección por negarse a órdenes ilícitas",
+        "B": "Protección por denunciar",
+        "C": "Obediencia debida"
+      }
+    },
+    {
+      "id": "GC-T19-Q0104",
+      "fact_id": "GC-T19-F057",
+      "bloque": 6,
+      "concepto": "Responsabilidad de superiores",
+      "articulo": "Principio 24",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.»?",
+      "opciones": {
+        "A": "Protección por negarse a órdenes ilícitas",
+        "B": "Responsabilidad de superiores",
+        "C": "Protección por denunciar"
+      }
+    },
+    {
+      "id": "GC-T19-Q0105",
+      "fact_id": "GC-T19-F058",
+      "bloque": 6,
+      "concepto": "Protección por negarse a órdenes ilícitas",
+      "articulo": "Principio 25",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Protección por negarse a órdenes ilícitas, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios.",
+        "B": "No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.",
+        "C": "No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0109",
+      "fact_id": "GC-T19-F060",
+      "bloque": 6,
+      "concepto": "Obediencia debida",
+      "articulo": "Principio 26",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Obediencia debida?",
+      "opciones": {
+        "A": "No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.",
+        "B": "La responsabilidad también recae en el superior que impartió la orden ilícita.",
+        "C": "Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f."
+      }
+    },
+    {
+      "id": "GC-T19-Q0107",
+      "fact_id": "GC-T19-F059",
+      "bloque": 6,
+      "concepto": "Protección por denunciar",
+      "articulo": "Principio 25",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Protección por denunciar?",
+      "opciones": {
+        "A": "No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.",
+        "B": "Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios.",
+        "C": "La responsabilidad también recae en el superior que impartió la orden ilícita."
+      }
+    },
+    {
+      "id": "GC-T19-Q0108",
+      "fact_id": "GC-T19-F059",
+      "bloque": 6,
+      "concepto": "Protección por denunciar",
+      "articulo": "Principio 25",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios.»?",
+      "opciones": {
+        "A": "Obediencia debida",
+        "B": "Superior que da orden ilícita",
+        "C": "Protección por denunciar"
+      }
+    },
+    {
+      "id": "GC-T19-Q0112",
+      "fact_id": "GC-T19-F061",
+      "bloque": 6,
+      "concepto": "Superior que da orden ilícita",
+      "articulo": "Principio 26",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «La responsabilidad también recae en el superior que impartió la orden ilícita.»?",
+      "opciones": {
+        "A": "Superior que da orden ilícita",
+        "B": "Procedimientos eficaces de informe",
+        "C": "Revisión administrativa independiente"
+      }
+    },
+    {
+      "id": "GC-T19-Q0110",
+      "fact_id": "GC-T19-F060",
+      "bloque": 6,
+      "concepto": "Obediencia debida",
+      "articulo": "Principio 26",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.»?",
+      "opciones": {
+        "A": "Superior que da orden ilícita",
+        "B": "Obediencia debida",
+        "C": "Procedimientos eficaces de informe"
+      }
+    },
+    {
+      "id": "GC-T19-Q0111",
+      "fact_id": "GC-T19-F061",
+      "bloque": 6,
+      "concepto": "Superior que da orden ilícita",
+      "articulo": "Principio 26",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Superior que da orden ilícita.",
+      "opciones": {
+        "A": "Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f.",
+        "B": "Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+        "C": "La responsabilidad también recae en el superior que impartió la orden ilícita."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0097",
+      "respuesta_correcta": "A",
+      "explicacion": "Revisión administrativa independiente: Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+      "fact_id": "GC-T19-F054",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0095",
+      "respuesta_correcta": "B",
+      "explicacion": "Procedimientos eficaces de informe: Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f.",
+      "fact_id": "GC-T19-F053",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0096",
+      "respuesta_correcta": "C",
+      "explicacion": "Procedimientos eficaces de informe: Los gobiernos y organismos establecerán procedimientos eficaces para informar de los incidentes contemplados en los principios 6 y 11.f.",
+      "fact_id": "GC-T19-F053",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0100",
+      "respuesta_correcta": "A",
+      "explicacion": "Informe detallado: En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes.",
+      "fact_id": "GC-T19-F055",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0098",
+      "respuesta_correcta": "B",
+      "explicacion": "Revisión administrativa independiente: Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+      "fact_id": "GC-T19-F054",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0099",
+      "respuesta_correcta": "C",
+      "explicacion": "Informe detallado: En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes.",
+      "fact_id": "GC-T19-F055",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0103",
+      "respuesta_correcta": "A",
+      "explicacion": "Responsabilidad de superiores: Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.",
+      "fact_id": "GC-T19-F057",
+      "articulo": "Principio 24"
+    },
+    {
+      "id": "GC-T19-Q0101",
+      "respuesta_correcta": "B",
+      "explicacion": "Acceso a proceso independiente: Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial.",
+      "fact_id": "GC-T19-F056",
+      "articulo": "Principio 23"
+    },
+    {
+      "id": "GC-T19-Q0102",
+      "respuesta_correcta": "C",
+      "explicacion": "Acceso a proceso independiente: Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial.",
+      "fact_id": "GC-T19-F056",
+      "articulo": "Principio 23"
+    },
+    {
+      "id": "GC-T19-Q0106",
+      "respuesta_correcta": "A",
+      "explicacion": "Protección por negarse a órdenes ilícitas: No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios.",
+      "fact_id": "GC-T19-F058",
+      "articulo": "Principio 25"
+    },
+    {
+      "id": "GC-T19-Q0104",
+      "respuesta_correcta": "B",
+      "explicacion": "Responsabilidad de superiores: Los superiores responderán si sabían o debían saber del uso ilícito y no adoptaron medidas a su alcance para impedirlo, hacerlo cesar o denunciarlo.",
+      "fact_id": "GC-T19-F057",
+      "articulo": "Principio 24"
+    },
+    {
+      "id": "GC-T19-Q0105",
+      "respuesta_correcta": "C",
+      "explicacion": "Protección por negarse a órdenes ilícitas: No se impondrá sanción penal o disciplinaria a quien se niegue a ejecutar una orden de emplear fuerza o armas contraria a estos Principios.",
+      "fact_id": "GC-T19-F058",
+      "articulo": "Principio 25"
+    },
+    {
+      "id": "GC-T19-Q0109",
+      "respuesta_correcta": "A",
+      "explicacion": "Obediencia debida: No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.",
+      "fact_id": "GC-T19-F060",
+      "articulo": "Principio 26"
+    },
+    {
+      "id": "GC-T19-Q0107",
+      "respuesta_correcta": "B",
+      "explicacion": "Protección por denunciar: Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios.",
+      "fact_id": "GC-T19-F059",
+      "articulo": "Principio 25"
+    },
+    {
+      "id": "GC-T19-Q0108",
+      "respuesta_correcta": "C",
+      "explicacion": "Protección por denunciar: Tampoco se sancionará a quien denuncie el empleo ilícito realizado por otros funcionarios.",
+      "fact_id": "GC-T19-F059",
+      "articulo": "Principio 25"
+    },
+    {
+      "id": "GC-T19-Q0112",
+      "respuesta_correcta": "A",
+      "explicacion": "Superior que da orden ilícita: La responsabilidad también recae en el superior que impartió la orden ilícita.",
+      "fact_id": "GC-T19-F061",
+      "articulo": "Principio 26"
+    },
+    {
+      "id": "GC-T19-Q0110",
+      "respuesta_correcta": "B",
+      "explicacion": "Obediencia debida: No puede alegarse cuando la orden era manifiestamente ilícita, existía oportunidad razonable de negarse y el funcionario sabía que ocasionaría muerte o lesiones graves.",
+      "fact_id": "GC-T19-F060",
+      "articulo": "Principio 26"
+    },
+    {
+      "id": "GC-T19-Q0111",
+      "respuesta_correcta": "C",
+      "explicacion": "Superior que da orden ilícita: La responsabilidad también recae en el superior que impartió la orden ilícita.",
+      "fact_id": "GC-T19-F061",
+      "articulo": "Principio 26"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

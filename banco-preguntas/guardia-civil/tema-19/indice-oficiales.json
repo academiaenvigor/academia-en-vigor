@@ -1,0 +1,333 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 19,
+  "titulo": "Deontología profesional",
+  "generated_at": "2026-08-14",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "El principio 9 de la ONU y el artículo 43 del Código se estudian como reglas relacionadas, no como textos idénticos.",
+  "total_referencias": 14,
+  "con_bloque_asignado": 14,
+  "con_respuesta_verificada": 14,
+  "en_cuarentena": 0,
+  "por_bloque": {
+    "1": 1,
+    "2": 2,
+    "3": 1,
+    "4": 1,
+    "7": 1,
+    "9": 2,
+    "10": 1,
+    "12": 1,
+    "13": 1,
+    "18": 1,
+    "19": 1,
+    "20": 1
+  },
+  "por_promocion": {
+    "2023": 4,
+    "2024": 5,
+    "2025": 2,
+    "2026": 3
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2023-1a-q089",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 89,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T19-F036"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios Encargados de Hacer Cumplir la Ley. Las normas y reglamentaciones sobre el empleo de armas de fuego por los funcionarios encargados de hacer cumplir la ley deben contener directrices que…: Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q089",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 89,
+      "block_refs": [
+        1
+      ],
+      "fact_refs": [
+        "GC-T19-F008"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios Básicos sobre el empleo de la Fuerza y Armas de Fuego por los Funcionarios encargados de hacer cumplir la ley. De acuerdo con el preámbulo de estos Principios, ¿cómo debe considerarse la amenaza a la vida y a la seguridad de los funcionarios encargados de hacer cumplir la ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q090",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 90,
+      "block_refs": [
+        12
+      ],
+      "fact_refs": [
+        "GC-T19-F108"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. ¿Cuál es el principio institucional que establece que los guardias civiles prestarán auxilio con los medios a su alcance a todo aquel que lo necesite, se encuentren o no de servicio, con especial atención a las personas y colectivos más vulnerables?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q090",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 90,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T19-F088"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. ¿Cuál de los siguientes NO es uno de los valores fundamentales que contempla dicho Código?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q088",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 88,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T19-F122"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. Según se recoge en las normas generales de comportamiento, ¿De qué forma el uniforme de la Guardia Civil deberá ser vestido?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q089",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 89,
+      "block_refs": [
+        19
+      ],
+      "fact_refs": [
+        "GC-T19-F165"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. Decálogo de los miembros de la Guardia Civil. Serenidad y empleo de la fuerza. ”Fiel a mi deber, con actitud serena en el peligro, seré prudente _______________ y firme sin violencia”",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q089",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 89,
+      "block_refs": [
+        9
+      ],
+      "fact_refs": [
+        "GC-T19-F084"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. Cuando decimos: “Los guardias civiles actuarán siempre con rectitud y honradez. Por ello, se opondrán resueltamente a cualquier forma de corrupción y en ningún caso aceptarán ofrecimientos, favores o regalos que, directa o indirectamente, puedan comprometer su honestidad y su actuación profesional”. ¿A qué valor fundamental nos estamos refiriendo?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q089",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 89,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T19-F021"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios básicos sobre el empleo de la fuerza y armas de fuego por los funcionarios encargados de hacer cumplir la Ley. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q090",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 90,
+      "block_refs": [
+        4
+      ],
+      "fact_refs": [
+        "GC-T19-F039"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios básicos sobre el empleo de la fuerza y armas de fuego por los funcionarios encargados de hacer cumplir la ley. En relación con la actuación de estos funcionarios al dispersar reuniones ilícitas, pero no violentas, indique la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q088",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 88,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T19-F160"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. De las siguientes opciones, ¿cuál NO se corresponde con lo dispuesto en el Decálogo de los miembros de la Guardia Civil?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q089",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 89,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T19-F173"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios básicos sobre el empleo de la fuerza y armas de fuego por los funcionarios encargados de hacer cumplir la Ley. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q086",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 86,
+      "block_refs": [
+        7
+      ],
+      "fact_refs": [
+        "GC-T19-F072"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. En relación con la inclusión del Código de Conducta en los procesos selectivos para acceso a las escalas por promoción profesional de la Guardia Civil, señale la proposición CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q087",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 87,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T19-F092"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se aprueba el Código de Conducta del personal de la Guardia Civil. Respecto al Capítulo sobre los valores fundamentales, ¿cuál de las siguientes opciones se corresponde con uno de los aspectos que recoge el referido a la dignidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q088",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 88,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T19-F014"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios Básicos sobre el empleo de la Fuerza y Armas de Fuego por los Funcionarios encargados de hacer cumplir la ley. ¿Con qué fin se hará una cuidadosa evaluación de la fabricación y distribución de armas no letales incapacitantes?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; contenido contrastado con la fuente oficial vigente."
+    }
+  ]
+}

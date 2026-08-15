@@ -1,0 +1,353 @@
+{
+  "id": "GC-T19-PARTE-3-A",
+  "titulo": "Tema 19 · Normas de comportamiento y prestación del servicio · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_parte",
+  "ambito": {
+    "bloques": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "numero_preguntas": 15,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0208",
+      "fact_id": "GC-T19-F114",
+      "bloque": 13,
+      "concepto": "Dedicación profesional",
+      "articulo": "Código art. 24.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Dedicación profesional, indique la opción correcta.",
+      "opciones": {
+        "A": "La profesión se desempeña con total dedicación, espíritu de servicio y afán de superación.",
+        "B": "Las intervenciones serán racionales y templadas, siguiendo oportunidad, congruencia y proporcionalidad.",
+        "C": "La gestión de medios seguirá efectividad, eficacia, eficiencia, racionalidad y prudencia para el interés general y objetivos del Cuerpo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0206",
+      "fact_id": "GC-T19-F113",
+      "bloque": 13,
+      "concepto": "Disponibilidad permanente",
+      "articulo": "Código art. 24.1",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Disponibilidad permanente.",
+      "opciones": {
+        "A": "La profesión se desempeña con total dedicación, espíritu de servicio y afán de superación.",
+        "B": "Supone actuar en cualquier momento y lugar con iniciativa y decisión conforme a instrucciones, procedimientos y principios del Código.",
+        "C": "Las intervenciones serán racionales y templadas, siguiendo oportunidad, congruencia y proporcionalidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0234",
+      "fact_id": "GC-T19-F129",
+      "bloque": 15,
+      "concepto": "Información comprensible",
+      "articulo": "Código art. 33.2",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Información comprensible?",
+      "opciones": {
+        "A": "Se actuará con respeto, cortesía y colaboración y se cumplirán instrucciones de las autoridades de las que se dependa jerárquicamente.",
+        "B": "Como policía judicial se auxiliará a jueces y fiscales respetando su independencia e imparcialidad.",
+        "C": "Cuando las circunstancias lo permitan se informará de manera comprensible sobre materias que afecten directamente o haya derecho a conocer."
+      }
+    },
+    {
+      "id": "GC-T19-Q0226",
+      "fact_id": "GC-T19-F124",
+      "bloque": 14,
+      "concepto": "Igualdad y diversidad",
+      "articulo": "Código art. 30",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se impedirá la discriminación, respetando igualdad efectiva, prevención de violencia de género, diversidad y orientación sexual.»?",
+      "opciones": {
+        "A": "Igualdad y diversidad",
+        "B": "Conciliación",
+        "C": "Saludo militar"
+      }
+    },
+    {
+      "id": "GC-T19-Q0224",
+      "fact_id": "GC-T19-F123",
+      "bloque": 14,
+      "concepto": "Sostenibilidad corporativa",
+      "articulo": "Código art. 29",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Sostenibilidad corporativa?",
+      "opciones": {
+        "A": "Se impedirá la discriminación, respetando igualdad efectiva, prevención de violencia de género, diversidad y orientación sexual.",
+        "B": "La actuación considerará impactos económicos, sociales y ambientales y se comprometerá con la protección ambiental frente al cambio climático.",
+        "C": "Se procurará la conciliación profesional, personal y familiar en el entorno propio y respecto del personal subordinado."
+      }
+    },
+    {
+      "id": "GC-T19-Q0232",
+      "fact_id": "GC-T19-F128",
+      "bloque": 15,
+      "concepto": "Relaciones con la ciudadanía",
+      "articulo": "Código art. 33.1",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Relaciones con la ciudadanía?",
+      "opciones": {
+        "A": "Exigen cortesía, educación, trato respetuoso y atento, auxilio y protección cuando proceda.",
+        "B": "Cuando las circunstancias lo permitan se informará de manera comprensible sobre materias que afecten directamente o haya derecho a conocer.",
+        "C": "Se actuará con respeto, cortesía y colaboración y se cumplirán instrucciones de las autoridades de las que se dependa jerárquicamente."
+      }
+    },
+    {
+      "id": "GC-T19-Q0245",
+      "fact_id": "GC-T19-F135",
+      "bloque": 16,
+      "concepto": "Obligación de identificarse",
+      "articulo": "Código art. 39.1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Obligación de identificarse, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "B": "Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+        "C": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0247",
+      "fact_id": "GC-T19-F136",
+      "bloque": 16,
+      "concepto": "Excepción a la identificación",
+      "articulo": "Código art. 39.2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Excepción a la identificación?",
+      "opciones": {
+        "A": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "B": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+        "C": "Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0266",
+      "fact_id": "GC-T19-F146",
+      "bloque": 17,
+      "concepto": "Víctimas y testigos",
+      "articulo": "Código art. 44.1",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Víctimas y testigos.",
+      "opciones": {
+        "A": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+        "B": "Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+        "C": "Se realizará con el mayor respeto a reputación, imagen y dignidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0268",
+      "fact_id": "GC-T19-F147",
+      "bloque": 17,
+      "concepto": "Colectivos vulnerables",
+      "articulo": "Código art. 44.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Colectivos vulnerables, indique la opción correcta.",
+      "opciones": {
+        "A": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+        "B": "Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+        "C": "Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria."
+      }
+    },
+    {
+      "id": "GC-T19-Q0236",
+      "fact_id": "GC-T19-F130",
+      "bloque": 15,
+      "concepto": "Autoridades civiles",
+      "articulo": "Código art. 34",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Autoridades civiles.",
+      "opciones": {
+        "A": "Como policía judicial se auxiliará a jueces y fiscales respetando su independencia e imparcialidad.",
+        "B": "Se actuará con respeto, cortesía y colaboración y se cumplirán instrucciones de las autoridades de las que se dependa jerárquicamente.",
+        "C": "La relación se basa en cooperación y colaboración recíproca, coordinación orgánica, lealtad institucional y respeto competencial."
+      }
+    },
+    {
+      "id": "GC-T19-Q0211",
+      "fact_id": "GC-T19-F115",
+      "bloque": 13,
+      "concepto": "Serenidad, prudencia y firmeza",
+      "articulo": "Código art. 25",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las intervenciones serán racionales y templadas, siguiendo oportunidad, congruencia y proporcionalidad.»?",
+      "opciones": {
+        "A": "Serenidad, prudencia y firmeza",
+        "B": "Eficacia y eficiencia",
+        "C": "Cuidado de recursos"
+      }
+    },
+    {
+      "id": "GC-T19-Q0229",
+      "fact_id": "GC-T19-F126",
+      "bloque": 14,
+      "concepto": "Saludo militar",
+      "articulo": "Código art. 31",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Expresa cortesía mutua, disciplina y unión, y muestra respeto a autoridades, otras fuerzas, instituciones militares y ciudadanía.»?",
+      "opciones": {
+        "A": "Saludo militar",
+        "B": "Cuidado de la salud",
+        "C": "Sostenibilidad corporativa"
+      }
+    },
+    {
+      "id": "GC-T19-Q0250",
+      "fact_id": "GC-T19-F137",
+      "bloque": 16,
+      "concepto": "Prevención de riesgos laborales",
+      "articulo": "Código art. 40",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.»?",
+      "opciones": {
+        "A": "Prevención de riesgos laborales",
+        "B": "Autoridad y acción de mando",
+        "C": "Ejercicio digno del mando"
+      }
+    },
+    {
+      "id": "GC-T19-Q0271",
+      "fact_id": "GC-T19-F148",
+      "bloque": 17,
+      "concepto": "Detención respetuosa",
+      "articulo": "Código art. 45.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se realizará con el mayor respeto a reputación, imagen y dignidad.»?",
+      "opciones": {
+        "A": "Detención respetuosa",
+        "B": "Personas bajo custodia",
+        "C": "Conciencia informativa"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0208",
+      "respuesta_correcta": "A",
+      "explicacion": "Dedicación profesional: La profesión se desempeña con total dedicación, espíritu de servicio y afán de superación.",
+      "fact_id": "GC-T19-F114",
+      "articulo": "Código art. 24.2"
+    },
+    {
+      "id": "GC-T19-Q0206",
+      "respuesta_correcta": "B",
+      "explicacion": "Disponibilidad permanente: Supone actuar en cualquier momento y lugar con iniciativa y decisión conforme a instrucciones, procedimientos y principios del Código.",
+      "fact_id": "GC-T19-F113",
+      "articulo": "Código art. 24.1"
+    },
+    {
+      "id": "GC-T19-Q0234",
+      "respuesta_correcta": "C",
+      "explicacion": "Información comprensible: Cuando las circunstancias lo permitan se informará de manera comprensible sobre materias que afecten directamente o haya derecho a conocer.",
+      "fact_id": "GC-T19-F129",
+      "articulo": "Código art. 33.2"
+    },
+    {
+      "id": "GC-T19-Q0226",
+      "respuesta_correcta": "A",
+      "explicacion": "Igualdad y diversidad: Se impedirá la discriminación, respetando igualdad efectiva, prevención de violencia de género, diversidad y orientación sexual.",
+      "fact_id": "GC-T19-F124",
+      "articulo": "Código art. 30"
+    },
+    {
+      "id": "GC-T19-Q0224",
+      "respuesta_correcta": "B",
+      "explicacion": "Sostenibilidad corporativa: La actuación considerará impactos económicos, sociales y ambientales y se comprometerá con la protección ambiental frente al cambio climático.",
+      "fact_id": "GC-T19-F123",
+      "articulo": "Código art. 29"
+    },
+    {
+      "id": "GC-T19-Q0232",
+      "respuesta_correcta": "A",
+      "explicacion": "Relaciones con la ciudadanía: Exigen cortesía, educación, trato respetuoso y atento, auxilio y protección cuando proceda.",
+      "fact_id": "GC-T19-F128",
+      "articulo": "Código art. 33.1"
+    },
+    {
+      "id": "GC-T19-Q0245",
+      "respuesta_correcta": "B",
+      "explicacion": "Obligación de identificarse: Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+      "fact_id": "GC-T19-F135",
+      "articulo": "Código art. 39.1"
+    },
+    {
+      "id": "GC-T19-Q0247",
+      "respuesta_correcta": "A",
+      "explicacion": "Excepción a la identificación: Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+      "fact_id": "GC-T19-F136",
+      "articulo": "Código art. 39.2"
+    },
+    {
+      "id": "GC-T19-Q0266",
+      "respuesta_correcta": "B",
+      "explicacion": "Víctimas y testigos: Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+      "fact_id": "GC-T19-F146",
+      "articulo": "Código art. 44.1"
+    },
+    {
+      "id": "GC-T19-Q0268",
+      "respuesta_correcta": "A",
+      "explicacion": "Colectivos vulnerables: Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+      "fact_id": "GC-T19-F147",
+      "articulo": "Código art. 44.2"
+    },
+    {
+      "id": "GC-T19-Q0236",
+      "respuesta_correcta": "B",
+      "explicacion": "Autoridades civiles: Se actuará con respeto, cortesía y colaboración y se cumplirán instrucciones de las autoridades de las que se dependa jerárquicamente.",
+      "fact_id": "GC-T19-F130",
+      "articulo": "Código art. 34"
+    },
+    {
+      "id": "GC-T19-Q0211",
+      "respuesta_correcta": "A",
+      "explicacion": "Serenidad, prudencia y firmeza: Las intervenciones serán racionales y templadas, siguiendo oportunidad, congruencia y proporcionalidad.",
+      "fact_id": "GC-T19-F115",
+      "articulo": "Código art. 25"
+    },
+    {
+      "id": "GC-T19-Q0229",
+      "respuesta_correcta": "A",
+      "explicacion": "Saludo militar: Expresa cortesía mutua, disciplina y unión, y muestra respeto a autoridades, otras fuerzas, instituciones militares y ciudadanía.",
+      "fact_id": "GC-T19-F126",
+      "articulo": "Código art. 31"
+    },
+    {
+      "id": "GC-T19-Q0250",
+      "respuesta_correcta": "A",
+      "explicacion": "Prevención de riesgos laborales: Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+      "fact_id": "GC-T19-F137",
+      "articulo": "Código art. 40"
+    },
+    {
+      "id": "GC-T19-Q0271",
+      "respuesta_correcta": "A",
+      "explicacion": "Detención respetuosa: Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+      "fact_id": "GC-T19-F148",
+      "articulo": "Código art. 45.1"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

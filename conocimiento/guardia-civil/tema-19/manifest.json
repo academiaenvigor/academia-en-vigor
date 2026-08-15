@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-19",
+  "topic_number": 19,
+  "slug": "deontologia-profesional",
+  "title": "Deontología profesional",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-14",
+  "source_file": "conocimiento/guardia-civil/tema-19/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-19-deontologia-profesional.md",
+    "atestado": "temas/guardia-civil/atestado/tema-19-deontologia-profesional.md"
+  },
+  "semantic_blocks": 20,
+  "atomic_facts": 173,
+  "master_statements": 173,
+  "coverage_file": "conocimiento/guardia-civil/tema-19/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T19",
+    "ONU-PRINCIPIOS-FUERZA-1990-T19",
+    "RD176-2022-T19"
+  ],
+  "official_exam_items": [
+    "of-gc-p2023-1a-q089",
+    "of-gc-p2023-2a-q089",
+    "of-gc-p2023-1a-q090",
+    "of-gc-p2023-2a-q090",
+    "of-gc-p2024-3a-q088",
+    "of-gc-p2024-1a-q089",
+    "of-gc-p2024-2a-q089",
+    "of-gc-p2024-3a-q089",
+    "of-gc-p2024-3a-q090",
+    "of-gc-p2025-a-q088",
+    "of-gc-p2025-a-q089",
+    "of-gc-p2026-a-q086",
+    "of-gc-p2026-a-q087",
+    "of-gc-p2026-a-q088"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-19/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_juridico_operativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-19/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-19/manifest.json",
+    "questions": 318,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-19/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-19/manifest.json",
+    "total": 21,
+    "planned": 21
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-19/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "checked_official_sources",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-19/revision-1.0.md"
+  }
+}

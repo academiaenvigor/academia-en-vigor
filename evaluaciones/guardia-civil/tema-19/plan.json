@@ -1,0 +1,173 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 19,
+  "topic_title": "Deontología profesional",
+  "id_prefix": "GC-T19",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-19/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-19/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance, adopción y conceptos de partida"
+      },
+      {
+        "number": 2,
+        "title": "Reglas generales de necesidad y reducción del daño"
+      },
+      {
+        "number": 3,
+        "title": "Armas de fuego: umbral, advertencia y regulación"
+      },
+      {
+        "number": 4,
+        "title": "Reuniones ilícitas y personas bajo custodia"
+      },
+      {
+        "number": 5,
+        "title": "Selección, capacitación y asistencia"
+      },
+      {
+        "number": 6,
+        "title": "Informes, revisión y responsabilidad"
+      },
+      {
+        "number": 7,
+        "title": "Parte dispositiva del Real Decreto 176/2022"
+      },
+      {
+        "number": 8,
+        "title": "Disposiciones y arquitectura del Código"
+      },
+      {
+        "number": 9,
+        "title": "Valores fundamentales: honor a justicia"
+      },
+      {
+        "number": 10,
+        "title": "Valores fundamentales: imparcialidad a sacrificio"
+      },
+      {
+        "number": 11,
+        "title": "Principios institucionales: Constitución a subordinación"
+      },
+      {
+        "number": 12,
+        "title": "Principios institucionales: pluralidad a tradiciones"
+      },
+      {
+        "number": 13,
+        "title": "Normas generales: disponibilidad a uniforme"
+      },
+      {
+        "number": 14,
+        "title": "Normas generales: sostenibilidad a salud"
+      },
+      {
+        "number": 15,
+        "title": "Prestación del servicio: ciudadanía y cooperación"
+      },
+      {
+        "number": 16,
+        "title": "Prestación del servicio: identificación, mando y fuerza"
+      },
+      {
+        "number": 17,
+        "title": "Prestación del servicio: protección y funciones especiales"
+      },
+      {
+        "number": 18,
+        "title": "Decálogo: compromisos primero a quinto"
+      },
+      {
+        "number": 19,
+        "title": "Decálogo: compromisos sexto a décimo"
+      },
+      {
+        "number": 20,
+        "title": "Comparaciones críticas para examen"
+      }
+    ]
+  },
+  "part_tests": {
+    "questions_per_test": 15,
+    "variants": [
+      {
+        "id": "A",
+        "offset": 0
+      },
+      {
+        "id": "B",
+        "offset": 1
+      }
+    ],
+    "parts": [
+      {
+        "code": "PARTE-1",
+        "title": "Principios de las Naciones Unidas sobre el empleo de la fuerza",
+        "blocks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "code": "PARTE-2",
+        "title": "Real Decreto 176/2022 y valores institucionales",
+        "blocks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "code": "PARTE-3",
+        "title": "Normas de comportamiento y prestación del servicio",
+        "blocks": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "code": "PARTE-4",
+        "title": "Decálogo y síntesis operativa",
+        "blocks": [
+          18,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  "final_tests": [
+    {
+      "questions": 25,
+      "variant": "A",
+      "offset": 0
+    },
+    {
+      "questions": 25,
+      "variant": "B",
+      "offset": 1
+    },
+    {
+      "questions": 50,
+      "variant": "A",
+      "offset": 2
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "id": "GC-T19-B16-A",
+  "titulo": "Tema 19 · Bloque 16: Prestación del servicio: identificación, mando y fuerza · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      16
+    ]
+  },
+  "numero_preguntas": 21,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0247",
+      "fact_id": "GC-T19-F136",
+      "bloque": 16,
+      "concepto": "Excepción a la identificación",
+      "articulo": "Código art. 39.2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Excepción a la identificación?",
+      "opciones": {
+        "A": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "B": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+        "C": "Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0245",
+      "fact_id": "GC-T19-F135",
+      "bloque": 16,
+      "concepto": "Obligación de identificarse",
+      "articulo": "Código art. 39.1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Obligación de identificarse, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "B": "Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+        "C": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0246",
+      "fact_id": "GC-T19-F135",
+      "bloque": 16,
+      "concepto": "Obligación de identificarse",
+      "articulo": "Código art. 39.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.»?",
+      "opciones": {
+        "A": "Excepción a la identificación",
+        "B": "Prevención de riesgos laborales",
+        "C": "Obligación de identificarse"
+      }
+    },
+    {
+      "id": "GC-T19-Q0250",
+      "fact_id": "GC-T19-F137",
+      "bloque": 16,
+      "concepto": "Prevención de riesgos laborales",
+      "articulo": "Código art. 40",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.»?",
+      "opciones": {
+        "A": "Prevención de riesgos laborales",
+        "B": "Autoridad y acción de mando",
+        "C": "Ejercicio digno del mando"
+      }
+    },
+    {
+      "id": "GC-T19-Q0248",
+      "fact_id": "GC-T19-F136",
+      "bloque": 16,
+      "concepto": "Excepción a la identificación",
+      "articulo": "Código art. 39.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.»?",
+      "opciones": {
+        "A": "Prevención de riesgos laborales",
+        "B": "Excepción a la identificación",
+        "C": "Autoridad y acción de mando"
+      }
+    },
+    {
+      "id": "GC-T19-Q0249",
+      "fact_id": "GC-T19-F137",
+      "bloque": 16,
+      "concepto": "Prevención de riesgos laborales",
+      "articulo": "Código art. 40",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Prevención de riesgos laborales?",
+      "opciones": {
+        "A": "Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad.",
+        "B": "Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.",
+        "C": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0253",
+      "fact_id": "GC-T19-F139",
+      "bloque": 16,
+      "concepto": "Ejercicio digno del mando",
+      "articulo": "Código art. 41.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Ejercicio digno del mando, indique la opción correcta.",
+      "opciones": {
+        "A": "Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.",
+        "B": "No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito.",
+        "C": "Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0251",
+      "fact_id": "GC-T19-F138",
+      "bloque": 16,
+      "concepto": "Autoridad y acción de mando",
+      "articulo": "Código art. 41.1",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Autoridad y acción de mando.",
+      "opciones": {
+        "A": "Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.",
+        "B": "Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad.",
+        "C": "No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito."
+      }
+    },
+    {
+      "id": "GC-T19-Q0252",
+      "fact_id": "GC-T19-F138",
+      "bloque": 16,
+      "concepto": "Autoridad y acción de mando",
+      "articulo": "Código art. 41.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad.»?",
+      "opciones": {
+        "A": "Ejercicio digno del mando",
+        "B": "Órdenes prohibidas al mando",
+        "C": "Autoridad y acción de mando"
+      }
+    },
+    {
+      "id": "GC-T19-Q0256",
+      "fact_id": "GC-T19-F140",
+      "bloque": 16,
+      "concepto": "Órdenes prohibidas al mando",
+      "articulo": "Código art. 41.3",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito.»?",
+      "opciones": {
+        "A": "Órdenes prohibidas al mando",
+        "B": "Liderazgo eficaz",
+        "C": "Cualidades del liderazgo"
+      }
+    },
+    {
+      "id": "GC-T19-Q0254",
+      "fact_id": "GC-T19-F139",
+      "bloque": 16,
+      "concepto": "Ejercicio digno del mando",
+      "articulo": "Código art. 41.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.»?",
+      "opciones": {
+        "A": "Órdenes prohibidas al mando",
+        "B": "Ejercicio digno del mando",
+        "C": "Liderazgo eficaz"
+      }
+    },
+    {
+      "id": "GC-T19-Q0255",
+      "fact_id": "GC-T19-F140",
+      "bloque": 16,
+      "concepto": "Órdenes prohibidas al mando",
+      "articulo": "Código art. 41.3",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Órdenes prohibidas al mando, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo.",
+        "B": "Prestigio, dedicación, preparación, iniciativa, decisión y preocupación por el personal sustentan el liderazgo ejemplar.",
+        "C": "No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito."
+      }
+    },
+    {
+      "id": "GC-T19-Q0259",
+      "fact_id": "GC-T19-F142",
+      "bloque": 16,
+      "concepto": "Cualidades del liderazgo",
+      "articulo": "Código art. 42.2",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Cualidades del liderazgo?",
+      "opciones": {
+        "A": "Prestigio, dedicación, preparación, iniciativa, decisión y preocupación por el personal sustentan el liderazgo ejemplar.",
+        "B": "La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo.",
+        "C": "Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0257",
+      "fact_id": "GC-T19-F141",
+      "bloque": 16,
+      "concepto": "Liderazgo eficaz",
+      "articulo": "Código art. 42.1",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Liderazgo eficaz?",
+      "opciones": {
+        "A": "Prestigio, dedicación, preparación, iniciativa, decisión y preocupación por el personal sustentan el liderazgo ejemplar.",
+        "B": "Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo.",
+        "C": "La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0258",
+      "fact_id": "GC-T19-F141",
+      "bloque": 16,
+      "concepto": "Liderazgo eficaz",
+      "articulo": "Código art. 42.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo.»?",
+      "opciones": {
+        "A": "Cualidades del liderazgo",
+        "B": "Primeras armas",
+        "C": "Liderazgo eficaz"
+      }
+    },
+    {
+      "id": "GC-T19-Q0262",
+      "fact_id": "GC-T19-F144",
+      "bloque": 16,
+      "concepto": "Uso gradual de la fuerza",
+      "articulo": "Código art. 43.1",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Uso gradual de la fuerza?",
+      "opciones": {
+        "A": "Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad.",
+        "B": "Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios.",
+        "C": "Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía."
+      }
+    },
+    {
+      "id": "GC-T19-Q0260",
+      "fact_id": "GC-T19-F143",
+      "bloque": 16,
+      "concepto": "Primeras armas",
+      "articulo": "Código art. 43.1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Primeras armas, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad.",
+        "B": "La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo.",
+        "C": "Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0261",
+      "fact_id": "GC-T19-F143",
+      "bloque": 16,
+      "concepto": "Primeras armas",
+      "articulo": "Código art. 43.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo.»?",
+      "opciones": {
+        "A": "Uso gradual de la fuerza",
+        "B": "Armas de fuego en el Código",
+        "C": "Primeras armas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0265",
+      "fact_id": "GC-T19-F145",
+      "bloque": 16,
+      "concepto": "Armas de fuego en el Código",
+      "articulo": "Código art. 43.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios.»?",
+      "opciones": {
+        "A": "Armas de fuego en el Código",
+        "B": "Obligación de identificarse",
+        "C": "Excepción a la identificación"
+      }
+    },
+    {
+      "id": "GC-T19-Q0263",
+      "fact_id": "GC-T19-F144",
+      "bloque": 16,
+      "concepto": "Uso gradual de la fuerza",
+      "articulo": "Código art. 43.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad.»?",
+      "opciones": {
+        "A": "Armas de fuego en el Código",
+        "B": "Uso gradual de la fuerza",
+        "C": "Obligación de identificarse"
+      }
+    },
+    {
+      "id": "GC-T19-Q0264",
+      "fact_id": "GC-T19-F145",
+      "bloque": 16,
+      "concepto": "Armas de fuego en el Código",
+      "articulo": "Código art. 43.2",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Armas de fuego en el Código?",
+      "opciones": {
+        "A": "Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+        "B": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "C": "Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0247",
+      "respuesta_correcta": "A",
+      "explicacion": "Excepción a la identificación: Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+      "fact_id": "GC-T19-F136",
+      "articulo": "Código art. 39.2"
+    },
+    {
+      "id": "GC-T19-Q0245",
+      "respuesta_correcta": "B",
+      "explicacion": "Obligación de identificarse: Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+      "fact_id": "GC-T19-F135",
+      "articulo": "Código art. 39.1"
+    },
+    {
+      "id": "GC-T19-Q0246",
+      "respuesta_correcta": "C",
+      "explicacion": "Obligación de identificarse: Rige durante el desempeño de funciones cuando lo requieran autoridades o ciudadanía.",
+      "fact_id": "GC-T19-F135",
+      "articulo": "Código art. 39.1"
+    },
+    {
+      "id": "GC-T19-Q0250",
+      "respuesta_correcta": "A",
+      "explicacion": "Prevención de riesgos laborales: Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+      "fact_id": "GC-T19-F137",
+      "articulo": "Código art. 40"
+    },
+    {
+      "id": "GC-T19-Q0248",
+      "respuesta_correcta": "B",
+      "explicacion": "Excepción a la identificación: Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+      "fact_id": "GC-T19-F136",
+      "articulo": "Código art. 39.2"
+    },
+    {
+      "id": "GC-T19-Q0249",
+      "respuesta_correcta": "C",
+      "explicacion": "Prevención de riesgos laborales: Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+      "fact_id": "GC-T19-F137",
+      "articulo": "Código art. 40"
+    },
+    {
+      "id": "GC-T19-Q0253",
+      "respuesta_correcta": "A",
+      "explicacion": "Ejercicio digno del mando: Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.",
+      "fact_id": "GC-T19-F139",
+      "articulo": "Código art. 41.2"
+    },
+    {
+      "id": "GC-T19-Q0251",
+      "respuesta_correcta": "B",
+      "explicacion": "Autoridad y acción de mando: Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad.",
+      "fact_id": "GC-T19-F138",
+      "articulo": "Código art. 41.1"
+    },
+    {
+      "id": "GC-T19-Q0252",
+      "respuesta_correcta": "C",
+      "explicacion": "Autoridad y acción de mando: Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad.",
+      "fact_id": "GC-T19-F138",
+      "articulo": "Código art. 41.1"
+    },
+    {
+      "id": "GC-T19-Q0256",
+      "respuesta_correcta": "A",
+      "explicacion": "Órdenes prohibidas al mando: No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito.",
+      "fact_id": "GC-T19-F140",
+      "articulo": "Código art. 41.3"
+    },
+    {
+      "id": "GC-T19-Q0254",
+      "respuesta_correcta": "B",
+      "explicacion": "Ejercicio digno del mando: Se ejercerá con respeto a la dignidad, firmeza y determinación, sin invadir competencias ajenas.",
+      "fact_id": "GC-T19-F139",
+      "articulo": "Código art. 41.2"
+    },
+    {
+      "id": "GC-T19-Q0255",
+      "respuesta_correcta": "C",
+      "explicacion": "Órdenes prohibidas al mando: No podrá ordenar actos contrarios a la Constitución, a las leyes o constitutivos de delito.",
+      "fact_id": "GC-T19-F140",
+      "articulo": "Código art. 41.3"
+    },
+    {
+      "id": "GC-T19-Q0259",
+      "respuesta_correcta": "A",
+      "explicacion": "Cualidades del liderazgo: Prestigio, dedicación, preparación, iniciativa, decisión y preocupación por el personal sustentan el liderazgo ejemplar.",
+      "fact_id": "GC-T19-F142",
+      "articulo": "Código art. 42.2"
+    },
+    {
+      "id": "GC-T19-Q0257",
+      "respuesta_correcta": "B",
+      "explicacion": "Liderazgo eficaz: Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo.",
+      "fact_id": "GC-T19-F141",
+      "articulo": "Código art. 42.1"
+    },
+    {
+      "id": "GC-T19-Q0258",
+      "respuesta_correcta": "C",
+      "explicacion": "Liderazgo eficaz: Debe influir positivamente, crear cohesión, motivar al equipo y contribuir a la buena imagen del Cuerpo.",
+      "fact_id": "GC-T19-F141",
+      "articulo": "Código art. 42.1"
+    },
+    {
+      "id": "GC-T19-Q0262",
+      "respuesta_correcta": "A",
+      "explicacion": "Uso gradual de la fuerza: Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad.",
+      "fact_id": "GC-T19-F144",
+      "articulo": "Código art. 43.1"
+    },
+    {
+      "id": "GC-T19-Q0260",
+      "respuesta_correcta": "B",
+      "explicacion": "Primeras armas: La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo.",
+      "fact_id": "GC-T19-F143",
+      "articulo": "Código art. 43.1"
+    },
+    {
+      "id": "GC-T19-Q0261",
+      "respuesta_correcta": "C",
+      "explicacion": "Primeras armas: La persuasión y la fuerza moral son las primeras armas; la fuerza queda para cuando no exista un modo menos lesivo.",
+      "fact_id": "GC-T19-F143",
+      "articulo": "Código art. 43.1"
+    },
+    {
+      "id": "GC-T19-Q0265",
+      "respuesta_correcta": "A",
+      "explicacion": "Armas de fuego en el Código: Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios.",
+      "fact_id": "GC-T19-F145",
+      "articulo": "Código art. 43.2"
+    },
+    {
+      "id": "GC-T19-Q0263",
+      "respuesta_correcta": "B",
+      "explicacion": "Uso gradual de la fuerza: Se hará con prudencia y firmeza, de forma gradual y conforme a congruencia, oportunidad y proporcionalidad.",
+      "fact_id": "GC-T19-F144",
+      "articulo": "Código art. 43.1"
+    },
+    {
+      "id": "GC-T19-Q0264",
+      "respuesta_correcta": "C",
+      "explicacion": "Armas de fuego en el Código: Solo ante riesgo racionalmente grave para vida o integridad propia o ajena, o grave riesgo para la seguridad ciudadana, con los mismos principios.",
+      "fact_id": "GC-T19-F145",
+      "articulo": "Código art. 43.2"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

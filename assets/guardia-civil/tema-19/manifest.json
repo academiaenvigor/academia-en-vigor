@@ -1,0 +1,354 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-19",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 21,
+    "integrated": 0,
+    "planned": 21
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T19-V00",
+      "file": "t19-00-mapa-deontologia.webp",
+      "title": "Mapa general de Deontología profesional",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Mapa de Principios ONU, Código de Conducta y Decálogo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V01",
+      "file": "t19-01-alcance-adopcion-y-conceptos-de-partida.webp",
+      "title": "Alcance, adopción y conceptos de partida",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir alcance, adopción y conceptos de partida.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V02",
+      "file": "t19-02-reglas-generales-de-necesidad-y-reduccion-del-dano.webp",
+      "title": "Reglas generales de necesidad y reducción del daño",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir reglas generales de necesidad y reducción del daño.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V03",
+      "file": "t19-03-armas-de-fuego-umbral-advertencia-y-regulacion.webp",
+      "title": "Armas de fuego: umbral, advertencia y regulación",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir armas de fuego: umbral, advertencia y regulación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V04",
+      "file": "t19-il-04-reuniones-ilicitas-y-personas-bajo-custodia.webp",
+      "title": "Reuniones ilícitas y personas bajo custodia",
+      "type": "ilustracion_simple",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir reuniones ilícitas y personas bajo custodia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V05",
+      "file": "t19-05-seleccion-capacitacion-y-asistencia.webp",
+      "title": "Selección, capacitación y asistencia",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir selección, capacitación y asistencia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V06",
+      "file": "t19-06-informes-revision-y-responsabilidad.webp",
+      "title": "Informes, revisión y responsabilidad",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir informes, revisión y responsabilidad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V07",
+      "file": "t19-07-parte-dispositiva-del-real-decreto-176-2022.webp",
+      "title": "Parte dispositiva del Real Decreto 176/2022",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir parte dispositiva del real decreto 176/2022.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V08",
+      "file": "t19-08-disposiciones-y-arquitectura-del-codigo.webp",
+      "title": "Disposiciones y arquitectura del Código",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir disposiciones y arquitectura del código.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V09",
+      "file": "t19-09-valores-fundamentales-honor-a-justicia.webp",
+      "title": "Valores fundamentales: honor a justicia",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir valores fundamentales: honor a justicia.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V10",
+      "file": "t19-il-10-valores-fundamentales-imparcialidad-a-sacrificio.webp",
+      "title": "Valores fundamentales: imparcialidad a sacrificio",
+      "type": "ilustracion_simple",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir valores fundamentales: imparcialidad a sacrificio.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V11",
+      "file": "t19-11-principios-institucionales-constitucion-a-subordinacion.webp",
+      "title": "Principios institucionales: Constitución a subordinación",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir principios institucionales: constitución a subordinación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V12",
+      "file": "t19-12-principios-institucionales-pluralidad-a-tradiciones.webp",
+      "title": "Principios institucionales: pluralidad a tradiciones",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir principios institucionales: pluralidad a tradiciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V13",
+      "file": "t19-13-normas-generales-disponibilidad-a-uniforme.webp",
+      "title": "Normas generales: disponibilidad a uniforme",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir normas generales: disponibilidad a uniforme.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V14",
+      "file": "t19-14-normas-generales-sostenibilidad-a-salud.webp",
+      "title": "Normas generales: sostenibilidad a salud",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir normas generales: sostenibilidad a salud.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V15",
+      "file": "t19-15-prestacion-del-servicio-ciudadania-y-cooperacion.webp",
+      "title": "Prestación del servicio: ciudadanía y cooperación",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir prestación del servicio: ciudadanía y cooperación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V16",
+      "file": "t19-il-16-prestacion-del-servicio-identificacion-mando-y-fuerza.webp",
+      "title": "Prestación del servicio: identificación, mando y fuerza",
+      "type": "ilustracion_simple",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir prestación del servicio: identificación, mando y fuerza.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V17",
+      "file": "t19-17-prestacion-del-servicio-proteccion-y-funciones-especiales.webp",
+      "title": "Prestación del servicio: protección y funciones especiales",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir prestación del servicio: protección y funciones especiales.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V18",
+      "file": "t19-18-decalogo-compromisos-primero-a-quinto.webp",
+      "title": "Decálogo: compromisos primero a quinto",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir decálogo: compromisos primero a quinto.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V19",
+      "file": "t19-il-19-decalogo-compromisos-sexto-a-decimo.webp",
+      "title": "Decálogo: compromisos sexto a décimo",
+      "type": "ilustracion_simple",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir decálogo: compromisos sexto a décimo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T19-V20",
+      "file": "t19-20-comparaciones-criticas-para-examen.webp",
+      "title": "Comparaciones críticas para examen",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "Recurso didáctico para distinguir comparaciones críticas para examen.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

@@ -1,0 +1,107 @@
+{
+  "id": "GC-T19-B02-B",
+  "titulo": "Tema 19 · Bloque 2: Reglas generales de necesidad y reducción del daño · Test B",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      2
+    ]
+  },
+  "numero_preguntas": 4,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0041",
+      "fact_id": "GC-T19-F023",
+      "bloque": 2,
+      "concepto": "Uso arbitrario o abusivo",
+      "articulo": "Principio 7",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.»?",
+      "opciones": {
+        "A": "Prohibición de excepciones",
+        "B": "Uso arbitrario o abusivo",
+        "C": "Normas nacionales sobre fuerza"
+      }
+    },
+    {
+      "id": "GC-T19-Q0039",
+      "fact_id": "GC-T19-F022",
+      "bloque": 2,
+      "concepto": "Informe por lesiones o muerte",
+      "articulo": "Principio 6",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22.»?",
+      "opciones": {
+        "A": "Uso arbitrario o abusivo",
+        "B": "Prohibición de excepciones",
+        "C": "Informe por lesiones o muerte"
+      }
+    },
+    {
+      "id": "GC-T19-Q0043",
+      "fact_id": "GC-T19-F024",
+      "bloque": 2,
+      "concepto": "Prohibición de excepciones",
+      "articulo": "Principio 8",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios.»?",
+      "opciones": {
+        "A": "Prohibición de excepciones",
+        "B": "Normas nacionales sobre fuerza",
+        "C": "Medios diferenciados"
+      }
+    },
+    {
+      "id": "GC-T19-Q0042",
+      "fact_id": "GC-T19-F024",
+      "bloque": 2,
+      "concepto": "Prohibición de excepciones",
+      "articulo": "Principio 8",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Prohibición de excepciones?",
+      "opciones": {
+        "A": "Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.",
+        "B": "Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+        "C": "Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0041",
+      "respuesta_correcta": "B",
+      "explicacion": "Uso arbitrario o abusivo: Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.",
+      "fact_id": "GC-T19-F023",
+      "articulo": "Principio 7"
+    },
+    {
+      "id": "GC-T19-Q0039",
+      "respuesta_correcta": "C",
+      "explicacion": "Informe por lesiones o muerte: Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22.",
+      "fact_id": "GC-T19-F022",
+      "articulo": "Principio 6"
+    },
+    {
+      "id": "GC-T19-Q0043",
+      "respuesta_correcta": "A",
+      "explicacion": "Prohibición de excepciones: Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios.",
+      "fact_id": "GC-T19-F024",
+      "articulo": "Principio 8"
+    },
+    {
+      "id": "GC-T19-Q0042",
+      "respuesta_correcta": "C",
+      "explicacion": "Prohibición de excepciones: Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios.",
+      "fact_id": "GC-T19-F024",
+      "articulo": "Principio 8"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

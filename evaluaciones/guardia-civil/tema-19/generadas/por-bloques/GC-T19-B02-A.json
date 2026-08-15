@@ -1,0 +1,569 @@
+{
+  "id": "GC-T19-B02-A",
+  "titulo": "Tema 19 · Bloque 2: Reglas generales de necesidad y reducción del daño · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      2
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0016",
+      "fact_id": "GC-T19-F010",
+      "bloque": 2,
+      "concepto": "Normas nacionales sobre fuerza",
+      "articulo": "Principio 1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.»?",
+      "opciones": {
+        "A": "Normas nacionales sobre fuerza",
+        "B": "Medios diferenciados",
+        "C": "Armas incapacitantes no letales"
+      }
+    },
+    {
+      "id": "GC-T19-Q0017",
+      "fact_id": "GC-T19-F011",
+      "bloque": 2,
+      "concepto": "Medios diferenciados",
+      "articulo": "Principio 2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Medios diferenciados?",
+      "opciones": {
+        "A": "Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+        "B": "Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+        "C": "Los funcionarios deben contar, cuando proceda, con escudos, cascos, chalecos antibalas y medios de transporte blindados para disminuir la necesidad de usar armas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0015",
+      "fact_id": "GC-T19-F010",
+      "bloque": 2,
+      "concepto": "Normas nacionales sobre fuerza",
+      "articulo": "Principio 1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Normas nacionales sobre fuerza, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+        "B": "Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+        "C": "Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen."
+      }
+    },
+    {
+      "id": "GC-T19-Q0019",
+      "fact_id": "GC-T19-F012",
+      "bloque": 2,
+      "concepto": "Armas incapacitantes no letales",
+      "articulo": "Principio 2",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Armas incapacitantes no letales?",
+      "opciones": {
+        "A": "Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+        "B": "Los funcionarios deben contar, cuando proceda, con escudos, cascos, chalecos antibalas y medios de transporte blindados para disminuir la necesidad de usar armas.",
+        "C": "Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos."
+      }
+    },
+    {
+      "id": "GC-T19-Q0020",
+      "fact_id": "GC-T19-F012",
+      "bloque": 2,
+      "concepto": "Armas incapacitantes no letales",
+      "articulo": "Principio 2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.»?",
+      "opciones": {
+        "A": "Equipo defensivo",
+        "B": "Armas incapacitantes no letales",
+        "C": "Evaluación de armas no letales"
+      }
+    },
+    {
+      "id": "GC-T19-Q0018",
+      "fact_id": "GC-T19-F011",
+      "bloque": 2,
+      "concepto": "Medios diferenciados",
+      "articulo": "Principio 2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.»?",
+      "opciones": {
+        "A": "Armas incapacitantes no letales",
+        "B": "Equipo defensivo",
+        "C": "Medios diferenciados"
+      }
+    },
+    {
+      "id": "GC-T19-Q0022",
+      "fact_id": "GC-T19-F014",
+      "bloque": 2,
+      "concepto": "Evaluación de armas no letales",
+      "articulo": "Principio 3",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Evaluación de armas no letales?",
+      "opciones": {
+        "A": "Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos.",
+        "B": "El uso de armas no letales incapacitantes debe controlarse con todo cuidado.",
+        "C": "Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego."
+      }
+    },
+    {
+      "id": "GC-T19-Q0023",
+      "fact_id": "GC-T19-F014",
+      "bloque": 2,
+      "concepto": "Evaluación de armas no letales",
+      "articulo": "Principio 3",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos.»?",
+      "opciones": {
+        "A": "Control de armas no letales",
+        "B": "Evaluación de armas no letales",
+        "C": "Prioridad de medios no violentos"
+      }
+    },
+    {
+      "id": "GC-T19-Q0021",
+      "fact_id": "GC-T19-F013",
+      "bloque": 2,
+      "concepto": "Equipo defensivo",
+      "articulo": "Principio 2",
+      "tipo": "literal",
+      "dificultad": "media",
+      "enunciado": "Señale la afirmación correcta sobre Equipo defensivo.",
+      "opciones": {
+        "A": "Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos.",
+        "B": "El uso de armas no letales incapacitantes debe controlarse con todo cuidado.",
+        "C": "Los funcionarios deben contar, cuando proceda, con escudos, cascos, chalecos antibalas y medios de transporte blindados para disminuir la necesidad de usar armas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0025",
+      "fact_id": "GC-T19-F015",
+      "bloque": 2,
+      "concepto": "Control de armas no letales",
+      "articulo": "Principio 3",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «El uso de armas no letales incapacitantes debe controlarse con todo cuidado.»?",
+      "opciones": {
+        "A": "Control de armas no letales",
+        "B": "Prioridad de medios no violentos",
+        "C": "Condición para usar fuerza"
+      }
+    },
+    {
+      "id": "GC-T19-Q0026",
+      "fact_id": "GC-T19-F016",
+      "bloque": 2,
+      "concepto": "Prioridad de medios no violentos",
+      "articulo": "Principio 4",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Prioridad de medios no violentos.",
+      "opciones": {
+        "A": "La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.",
+        "B": "Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego.",
+        "C": "Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido."
+      }
+    },
+    {
+      "id": "GC-T19-Q0024",
+      "fact_id": "GC-T19-F015",
+      "bloque": 2,
+      "concepto": "Control de armas no letales",
+      "articulo": "Principio 3",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Control de armas no letales?",
+      "opciones": {
+        "A": "Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego.",
+        "B": "La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.",
+        "C": "El uso de armas no letales incapacitantes debe controlarse con todo cuidado."
+      }
+    },
+    {
+      "id": "GC-T19-Q0028",
+      "fact_id": "GC-T19-F017",
+      "bloque": 2,
+      "concepto": "Condición para usar fuerza",
+      "articulo": "Principio 4",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Condición para usar fuerza, indique la opción correcta.",
+      "opciones": {
+        "A": "La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.",
+        "B": "Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido.",
+        "C": "En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana."
+      }
+    },
+    {
+      "id": "GC-T19-Q0029",
+      "fact_id": "GC-T19-F017",
+      "bloque": 2,
+      "concepto": "Condición para usar fuerza",
+      "articulo": "Principio 4",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.»?",
+      "opciones": {
+        "A": "Moderación y proporcionalidad",
+        "B": "Condición para usar fuerza",
+        "C": "Reducción de daños"
+      }
+    },
+    {
+      "id": "GC-T19-Q0027",
+      "fact_id": "GC-T19-F016",
+      "bloque": 2,
+      "concepto": "Prioridad de medios no violentos",
+      "articulo": "Principio 4",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego.»?",
+      "opciones": {
+        "A": "Condición para usar fuerza",
+        "B": "Moderación y proporcionalidad",
+        "C": "Prioridad de medios no violentos"
+      }
+    },
+    {
+      "id": "GC-T19-Q0031",
+      "fact_id": "GC-T19-F018",
+      "bloque": 2,
+      "concepto": "Moderación y proporcionalidad",
+      "articulo": "Principio 5.a",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido.»?",
+      "opciones": {
+        "A": "Moderación y proporcionalidad",
+        "B": "Reducción de daños",
+        "C": "Asistencia médica"
+      }
+    },
+    {
+      "id": "GC-T19-Q0032",
+      "fact_id": "GC-T19-F019",
+      "bloque": 2,
+      "concepto": "Reducción de daños",
+      "articulo": "Principio 5.b",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Reducción de daños?",
+      "opciones": {
+        "A": "Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.",
+        "B": "En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana.",
+        "C": "Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0030",
+      "fact_id": "GC-T19-F018",
+      "bloque": 2,
+      "concepto": "Moderación y proporcionalidad",
+      "articulo": "Principio 5.a",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Moderación y proporcionalidad, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana.",
+        "B": "Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.",
+        "C": "Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido."
+      }
+    },
+    {
+      "id": "GC-T19-Q0034",
+      "fact_id": "GC-T19-F020",
+      "bloque": 2,
+      "concepto": "Asistencia médica",
+      "articulo": "Principio 5.c",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Asistencia médica?",
+      "opciones": {
+        "A": "Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.",
+        "B": "Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas.",
+        "C": "Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22."
+      }
+    },
+    {
+      "id": "GC-T19-Q0035",
+      "fact_id": "GC-T19-F020",
+      "bloque": 2,
+      "concepto": "Asistencia médica",
+      "articulo": "Principio 5.c",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.»?",
+      "opciones": {
+        "A": "Aviso a allegados",
+        "B": "Asistencia médica",
+        "C": "Informe por lesiones o muerte"
+      }
+    },
+    {
+      "id": "GC-T19-Q0033",
+      "fact_id": "GC-T19-F019",
+      "bloque": 2,
+      "concepto": "Reducción de daños",
+      "articulo": "Principio 5.b",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana.»?",
+      "opciones": {
+        "A": "Asistencia médica",
+        "B": "Aviso a allegados",
+        "C": "Reducción de daños"
+      }
+    },
+    {
+      "id": "GC-T19-Q0037",
+      "fact_id": "GC-T19-F021",
+      "bloque": 2,
+      "concepto": "Aviso a allegados",
+      "articulo": "Principio 5.d",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas.»?",
+      "opciones": {
+        "A": "Aviso a allegados",
+        "B": "Informe por lesiones o muerte",
+        "C": "Uso arbitrario o abusivo"
+      }
+    },
+    {
+      "id": "GC-T19-Q0038",
+      "fact_id": "GC-T19-F022",
+      "bloque": 2,
+      "concepto": "Informe por lesiones o muerte",
+      "articulo": "Principio 6",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Informe por lesiones o muerte, indique la opción correcta.",
+      "opciones": {
+        "A": "Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.",
+        "B": "Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22.",
+        "C": "Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0036",
+      "fact_id": "GC-T19-F021",
+      "bloque": 2,
+      "concepto": "Aviso a allegados",
+      "articulo": "Principio 5.d",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Aviso a allegados.",
+      "opciones": {
+        "A": "Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22.",
+        "B": "Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.",
+        "C": "Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0040",
+      "fact_id": "GC-T19-F023",
+      "bloque": 2,
+      "concepto": "Uso arbitrario o abusivo",
+      "articulo": "Principio 7",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Uso arbitrario o abusivo, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.",
+        "B": "Inestabilidad política interna o cualquier otra emergencia pública no permiten apartarse de estos Principios.",
+        "C": "Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0016",
+      "respuesta_correcta": "A",
+      "explicacion": "Normas nacionales sobre fuerza: Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.",
+      "fact_id": "GC-T19-F010",
+      "articulo": "Principio 1"
+    },
+    {
+      "id": "GC-T19-Q0017",
+      "respuesta_correcta": "B",
+      "explicacion": "Medios diferenciados: Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+      "fact_id": "GC-T19-F011",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0015",
+      "respuesta_correcta": "C",
+      "explicacion": "Normas nacionales sobre fuerza: Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.",
+      "fact_id": "GC-T19-F010",
+      "articulo": "Principio 1"
+    },
+    {
+      "id": "GC-T19-Q0019",
+      "respuesta_correcta": "A",
+      "explicacion": "Armas incapacitantes no letales: Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+      "fact_id": "GC-T19-F012",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0020",
+      "respuesta_correcta": "B",
+      "explicacion": "Armas incapacitantes no letales: Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+      "fact_id": "GC-T19-F012",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0018",
+      "respuesta_correcta": "C",
+      "explicacion": "Medios diferenciados: Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+      "fact_id": "GC-T19-F011",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0022",
+      "respuesta_correcta": "A",
+      "explicacion": "Evaluación de armas no letales: Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos.",
+      "fact_id": "GC-T19-F014",
+      "articulo": "Principio 3"
+    },
+    {
+      "id": "GC-T19-Q0023",
+      "respuesta_correcta": "B",
+      "explicacion": "Evaluación de armas no letales: Su fabricación y distribución se evaluarán cuidadosamente para reducir al mínimo el riesgo de lesiones a personas ajenas a los hechos.",
+      "fact_id": "GC-T19-F014",
+      "articulo": "Principio 3"
+    },
+    {
+      "id": "GC-T19-Q0021",
+      "respuesta_correcta": "C",
+      "explicacion": "Equipo defensivo: Los funcionarios deben contar, cuando proceda, con escudos, cascos, chalecos antibalas y medios de transporte blindados para disminuir la necesidad de usar armas.",
+      "fact_id": "GC-T19-F013",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0025",
+      "respuesta_correcta": "A",
+      "explicacion": "Control de armas no letales: El uso de armas no letales incapacitantes debe controlarse con todo cuidado.",
+      "fact_id": "GC-T19-F015",
+      "articulo": "Principio 3"
+    },
+    {
+      "id": "GC-T19-Q0026",
+      "respuesta_correcta": "B",
+      "explicacion": "Prioridad de medios no violentos: Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego.",
+      "fact_id": "GC-T19-F016",
+      "articulo": "Principio 4"
+    },
+    {
+      "id": "GC-T19-Q0024",
+      "respuesta_correcta": "C",
+      "explicacion": "Control de armas no letales: El uso de armas no letales incapacitantes debe controlarse con todo cuidado.",
+      "fact_id": "GC-T19-F015",
+      "articulo": "Principio 3"
+    },
+    {
+      "id": "GC-T19-Q0028",
+      "respuesta_correcta": "A",
+      "explicacion": "Condición para usar fuerza: La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.",
+      "fact_id": "GC-T19-F017",
+      "articulo": "Principio 4"
+    },
+    {
+      "id": "GC-T19-Q0029",
+      "respuesta_correcta": "B",
+      "explicacion": "Condición para usar fuerza: La fuerza o las armas de fuego solo podrán utilizarse cuando otros medios resulten ineficaces o no garanticen de ninguna manera el resultado previsto.",
+      "fact_id": "GC-T19-F017",
+      "articulo": "Principio 4"
+    },
+    {
+      "id": "GC-T19-Q0027",
+      "respuesta_correcta": "C",
+      "explicacion": "Prioridad de medios no violentos: Se utilizarán, en la medida de lo posible, medios no violentos antes de recurrir a la fuerza y a las armas de fuego.",
+      "fact_id": "GC-T19-F016",
+      "articulo": "Principio 4"
+    },
+    {
+      "id": "GC-T19-Q0031",
+      "respuesta_correcta": "A",
+      "explicacion": "Moderación y proporcionalidad: Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido.",
+      "fact_id": "GC-T19-F018",
+      "articulo": "Principio 5.a"
+    },
+    {
+      "id": "GC-T19-Q0032",
+      "respuesta_correcta": "B",
+      "explicacion": "Reducción de daños: En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana.",
+      "fact_id": "GC-T19-F019",
+      "articulo": "Principio 5.b"
+    },
+    {
+      "id": "GC-T19-Q0030",
+      "respuesta_correcta": "C",
+      "explicacion": "Moderación y proporcionalidad: Cuando el uso lícito sea inevitable se actuará con moderación y en proporción a la gravedad del delito y al objetivo legítimo perseguido.",
+      "fact_id": "GC-T19-F018",
+      "articulo": "Principio 5.a"
+    },
+    {
+      "id": "GC-T19-Q0034",
+      "respuesta_correcta": "A",
+      "explicacion": "Asistencia médica: Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.",
+      "fact_id": "GC-T19-F020",
+      "articulo": "Principio 5.c"
+    },
+    {
+      "id": "GC-T19-Q0035",
+      "respuesta_correcta": "B",
+      "explicacion": "Asistencia médica: Debe facilitarse asistencia y servicios médicos a las personas heridas o afectadas lo antes posible.",
+      "fact_id": "GC-T19-F020",
+      "articulo": "Principio 5.c"
+    },
+    {
+      "id": "GC-T19-Q0033",
+      "respuesta_correcta": "C",
+      "explicacion": "Reducción de daños: En el uso inevitable se reducirán al mínimo daños y lesiones y se respetará y protegerá la vida humana.",
+      "fact_id": "GC-T19-F019",
+      "articulo": "Principio 5.b"
+    },
+    {
+      "id": "GC-T19-Q0037",
+      "respuesta_correcta": "A",
+      "explicacion": "Aviso a allegados: Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas.",
+      "fact_id": "GC-T19-F021",
+      "articulo": "Principio 5.d"
+    },
+    {
+      "id": "GC-T19-Q0038",
+      "respuesta_correcta": "B",
+      "explicacion": "Informe por lesiones o muerte: Cuando el empleo de fuerza o armas ocasione lesiones o muerte se comunicará inmediatamente el hecho a los superiores conforme al principio 22.",
+      "fact_id": "GC-T19-F022",
+      "articulo": "Principio 6"
+    },
+    {
+      "id": "GC-T19-Q0036",
+      "respuesta_correcta": "C",
+      "explicacion": "Aviso a allegados: Los parientes o amigos íntimos de las personas heridas o afectadas serán notificados a la menor brevedad posible; el principio no fija ocho ni veinticuatro horas.",
+      "fact_id": "GC-T19-F021",
+      "articulo": "Principio 5.d"
+    },
+    {
+      "id": "GC-T19-Q0040",
+      "respuesta_correcta": "A",
+      "explicacion": "Uso arbitrario o abusivo: Los gobiernos adoptarán medidas para castigarlo como delito en su legislación.",
+      "fact_id": "GC-T19-F023",
+      "articulo": "Principio 7"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

@@ -1,0 +1,393 @@
+{
+  "id": "GC-T19-B17-A",
+  "titulo": "Tema 19 · Bloque 17: Prestación del servicio: protección y funciones especiales · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      17
+    ]
+  },
+  "numero_preguntas": 17,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0268",
+      "fact_id": "GC-T19-F147",
+      "bloque": 17,
+      "concepto": "Colectivos vulnerables",
+      "articulo": "Código art. 44.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Colectivos vulnerables, indique la opción correcta.",
+      "opciones": {
+        "A": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+        "B": "Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+        "C": "Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria."
+      }
+    },
+    {
+      "id": "GC-T19-Q0266",
+      "fact_id": "GC-T19-F146",
+      "bloque": 17,
+      "concepto": "Víctimas y testigos",
+      "articulo": "Código art. 44.1",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Víctimas y testigos.",
+      "opciones": {
+        "A": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+        "B": "Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+        "C": "Se realizará con el mayor respeto a reputación, imagen y dignidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0267",
+      "fact_id": "GC-T19-F146",
+      "bloque": 17,
+      "concepto": "Víctimas y testigos",
+      "articulo": "Código art. 44.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.»?",
+      "opciones": {
+        "A": "Colectivos vulnerables",
+        "B": "Detención respetuosa",
+        "C": "Víctimas y testigos"
+      }
+    },
+    {
+      "id": "GC-T19-Q0271",
+      "fact_id": "GC-T19-F148",
+      "bloque": 17,
+      "concepto": "Detención respetuosa",
+      "articulo": "Código art. 45.1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se realizará con el mayor respeto a reputación, imagen y dignidad.»?",
+      "opciones": {
+        "A": "Detención respetuosa",
+        "B": "Personas bajo custodia",
+        "C": "Conciencia informativa"
+      }
+    },
+    {
+      "id": "GC-T19-Q0269",
+      "fact_id": "GC-T19-F147",
+      "bloque": 17,
+      "concepto": "Colectivos vulnerables",
+      "articulo": "Código art. 44.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.»?",
+      "opciones": {
+        "A": "Detención respetuosa",
+        "B": "Colectivos vulnerables",
+        "C": "Personas bajo custodia"
+      }
+    },
+    {
+      "id": "GC-T19-Q0270",
+      "fact_id": "GC-T19-F148",
+      "bloque": 17,
+      "concepto": "Detención respetuosa",
+      "articulo": "Código art. 45.1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Detención respetuosa, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria.",
+        "B": "Las noticias útiles para investigar infracciones, mantener seguridad o proteger derechos se transmitirán a mandos o autoridad competente.",
+        "C": "Se realizará con el mayor respeto a reputación, imagen y dignidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0274",
+      "fact_id": "GC-T19-F150",
+      "bloque": 17,
+      "concepto": "Conciencia informativa",
+      "articulo": "Código art. 46.1",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Conciencia informativa?",
+      "opciones": {
+        "A": "Las noticias útiles para investigar infracciones, mantener seguridad o proteger derechos se transmitirán a mandos o autoridad competente.",
+        "B": "Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada.",
+        "C": "Además de las Reales Ordenanzas se observarán las reglas de la LO 9/2011 y se continuará cumpliendo ejemplarmente el Código."
+      }
+    },
+    {
+      "id": "GC-T19-Q0272",
+      "fact_id": "GC-T19-F149",
+      "bloque": 17,
+      "concepto": "Personas bajo custodia",
+      "articulo": "Código art. 45.2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Personas bajo custodia?",
+      "opciones": {
+        "A": "Las noticias útiles para investigar infracciones, mantener seguridad o proteger derechos se transmitirán a mandos o autoridad competente.",
+        "B": "Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria.",
+        "C": "Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada."
+      }
+    },
+    {
+      "id": "GC-T19-Q0273",
+      "fact_id": "GC-T19-F149",
+      "bloque": 17,
+      "concepto": "Personas bajo custodia",
+      "articulo": "Código art. 45.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria.»?",
+      "opciones": {
+        "A": "Conciencia informativa",
+        "B": "Investigaciones",
+        "C": "Personas bajo custodia"
+      }
+    },
+    {
+      "id": "GC-T19-Q0277",
+      "fact_id": "GC-T19-F152",
+      "bloque": 17,
+      "concepto": "Misiones militares",
+      "articulo": "Código art. 47",
+      "tipo": "regla_requisito",
+      "dificultad": "media",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Misiones militares?",
+      "opciones": {
+        "A": "Además de las Reales Ordenanzas se observarán las reglas de la LO 9/2011 y se continuará cumpliendo ejemplarmente el Código.",
+        "B": "En misiones de paz, seguridad internacional o apoyo humanitario se actúa como instrumento de España y se influye en el prestigio del Cuerpo.",
+        "C": "Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional."
+      }
+    },
+    {
+      "id": "GC-T19-Q0275",
+      "fact_id": "GC-T19-F151",
+      "bloque": 17,
+      "concepto": "Investigaciones",
+      "articulo": "Código art. 46.2",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Investigaciones, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Además de las Reales Ordenanzas se observarán las reglas de la LO 9/2011 y se continuará cumpliendo ejemplarmente el Código.",
+        "B": "Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada.",
+        "C": "En misiones de paz, seguridad internacional o apoyo humanitario se actúa como instrumento de España y se influye en el prestigio del Cuerpo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0276",
+      "fact_id": "GC-T19-F151",
+      "bloque": 17,
+      "concepto": "Investigaciones",
+      "articulo": "Código art. 46.2",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada.»?",
+      "opciones": {
+        "A": "Misiones militares",
+        "B": "Acción exterior",
+        "C": "Investigaciones"
+      }
+    },
+    {
+      "id": "GC-T19-Q0280",
+      "fact_id": "GC-T19-F154",
+      "bloque": 17,
+      "concepto": "Funciones docentes",
+      "articulo": "Código art. 49",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional.»?",
+      "opciones": {
+        "A": "Funciones docentes",
+        "B": "Funciones técnicas y de gestión",
+        "C": "Víctimas y testigos"
+      }
+    },
+    {
+      "id": "GC-T19-Q0278",
+      "fact_id": "GC-T19-F153",
+      "bloque": 17,
+      "concepto": "Acción exterior",
+      "articulo": "Código art. 48",
+      "tipo": "comparativa",
+      "dificultad": "media",
+      "enunciado": "En relación con Acción exterior, indique la opción correcta.",
+      "opciones": {
+        "A": "Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional.",
+        "B": "En misiones de paz, seguridad internacional o apoyo humanitario se actúa como instrumento de España y se influye en el prestigio del Cuerpo.",
+        "C": "Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades."
+      }
+    },
+    {
+      "id": "GC-T19-Q0279",
+      "fact_id": "GC-T19-F154",
+      "bloque": 17,
+      "concepto": "Funciones docentes",
+      "articulo": "Código art. 49",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Funciones docentes?",
+      "opciones": {
+        "A": "Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades.",
+        "B": "Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+        "C": "Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional."
+      }
+    },
+    {
+      "id": "GC-T19-Q0281",
+      "fact_id": "GC-T19-F155",
+      "bloque": 17,
+      "concepto": "Funciones técnicas y de gestión",
+      "articulo": "Código art. 50",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Funciones técnicas y de gestión.",
+      "opciones": {
+        "A": "Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+        "B": "Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades.",
+        "C": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión."
+      }
+    },
+    {
+      "id": "GC-T19-Q0282",
+      "fact_id": "GC-T19-F155",
+      "bloque": 17,
+      "concepto": "Funciones técnicas y de gestión",
+      "articulo": "Código art. 50",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades.»?",
+      "opciones": {
+        "A": "Víctimas y testigos",
+        "B": "Colectivos vulnerables",
+        "C": "Funciones técnicas y de gestión"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0268",
+      "respuesta_correcta": "A",
+      "explicacion": "Colectivos vulnerables: Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+      "fact_id": "GC-T19-F147",
+      "articulo": "Código art. 44.2"
+    },
+    {
+      "id": "GC-T19-Q0266",
+      "respuesta_correcta": "B",
+      "explicacion": "Víctimas y testigos: Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+      "fact_id": "GC-T19-F146",
+      "articulo": "Código art. 44.1"
+    },
+    {
+      "id": "GC-T19-Q0267",
+      "respuesta_correcta": "C",
+      "explicacion": "Víctimas y testigos: Recibirán trato respetuoso, personalizado, profesional y no discriminatorio, con protección, información, apoyo, asistencia e interpretación cuando proceda.",
+      "fact_id": "GC-T19-F146",
+      "articulo": "Código art. 44.1"
+    },
+    {
+      "id": "GC-T19-Q0271",
+      "respuesta_correcta": "A",
+      "explicacion": "Detención respetuosa: Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+      "fact_id": "GC-T19-F148",
+      "articulo": "Código art. 45.1"
+    },
+    {
+      "id": "GC-T19-Q0269",
+      "respuesta_correcta": "B",
+      "explicacion": "Colectivos vulnerables: Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+      "fact_id": "GC-T19-F147",
+      "articulo": "Código art. 44.2"
+    },
+    {
+      "id": "GC-T19-Q0270",
+      "respuesta_correcta": "C",
+      "explicacion": "Detención respetuosa: Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+      "fact_id": "GC-T19-F148",
+      "articulo": "Código art. 45.1"
+    },
+    {
+      "id": "GC-T19-Q0274",
+      "respuesta_correcta": "A",
+      "explicacion": "Conciencia informativa: Las noticias útiles para investigar infracciones, mantener seguridad o proteger derechos se transmitirán a mandos o autoridad competente.",
+      "fact_id": "GC-T19-F150",
+      "articulo": "Código art. 46.1"
+    },
+    {
+      "id": "GC-T19-Q0272",
+      "respuesta_correcta": "B",
+      "explicacion": "Personas bajo custodia: Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria.",
+      "fact_id": "GC-T19-F149",
+      "articulo": "Código art. 45.2"
+    },
+    {
+      "id": "GC-T19-Q0273",
+      "respuesta_correcta": "C",
+      "explicacion": "Personas bajo custodia: Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria.",
+      "fact_id": "GC-T19-F149",
+      "articulo": "Código art. 45.2"
+    },
+    {
+      "id": "GC-T19-Q0277",
+      "respuesta_correcta": "A",
+      "explicacion": "Misiones militares: Además de las Reales Ordenanzas se observarán las reglas de la LO 9/2011 y se continuará cumpliendo ejemplarmente el Código.",
+      "fact_id": "GC-T19-F152",
+      "articulo": "Código art. 47"
+    },
+    {
+      "id": "GC-T19-Q0275",
+      "respuesta_correcta": "B",
+      "explicacion": "Investigaciones: Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada.",
+      "fact_id": "GC-T19-F151",
+      "articulo": "Código art. 46.2"
+    },
+    {
+      "id": "GC-T19-Q0276",
+      "respuesta_correcta": "C",
+      "explicacion": "Investigaciones: Serán rigurosas, exhaustivas e imparciales, sujetas a legalidad y control judicial, evitando injerencias arbitrarias en la vida privada.",
+      "fact_id": "GC-T19-F151",
+      "articulo": "Código art. 46.2"
+    },
+    {
+      "id": "GC-T19-Q0280",
+      "respuesta_correcta": "A",
+      "explicacion": "Funciones docentes: Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional.",
+      "fact_id": "GC-T19-F154",
+      "articulo": "Código art. 49"
+    },
+    {
+      "id": "GC-T19-Q0278",
+      "respuesta_correcta": "B",
+      "explicacion": "Acción exterior: En misiones de paz, seguridad internacional o apoyo humanitario se actúa como instrumento de España y se influye en el prestigio del Cuerpo.",
+      "fact_id": "GC-T19-F153",
+      "articulo": "Código art. 48"
+    },
+    {
+      "id": "GC-T19-Q0279",
+      "respuesta_correcta": "C",
+      "explicacion": "Funciones docentes: Requieren alta responsabilidad, prestigio, ejemplaridad, aptitudes pedagógicas, formación moral y competencia profesional.",
+      "fact_id": "GC-T19-F154",
+      "articulo": "Código art. 49"
+    },
+    {
+      "id": "GC-T19-Q0281",
+      "respuesta_correcta": "B",
+      "explicacion": "Funciones técnicas y de gestión: Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades.",
+      "fact_id": "GC-T19-F155",
+      "articulo": "Código art. 50"
+    },
+    {
+      "id": "GC-T19-Q0282",
+      "respuesta_correcta": "C",
+      "explicacion": "Funciones técnicas y de gestión: Se basan en objetividad, imparcialidad, eficacia y eficiencia para garantizar el funcionamiento normal y continuo de las unidades.",
+      "fact_id": "GC-T19-F155",
+      "articulo": "Código art. 50"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

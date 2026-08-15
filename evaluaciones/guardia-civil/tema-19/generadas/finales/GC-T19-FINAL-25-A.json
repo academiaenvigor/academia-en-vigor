@@ -1,0 +1,588 @@
+{
+  "id": "GC-T19-FINAL-25-A",
+  "titulo": "Tema 19 · Deontología profesional · Test final A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "test_final",
+  "ambito": {
+    "bloques": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  "numero_preguntas": 25,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0001",
+      "fact_id": "GC-T19-F001",
+      "bloque": 1,
+      "concepto": "Alcance oficial del Tema 19",
+      "articulo": "Epígrafe oficial",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Alcance oficial del Tema 19.",
+      "opciones": {
+        "A": "Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+        "B": "Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.",
+        "C": "El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990."
+      }
+    },
+    {
+      "id": "GC-T19-Q0017",
+      "fact_id": "GC-T19-F011",
+      "bloque": 2,
+      "concepto": "Medios diferenciados",
+      "articulo": "Principio 2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Medios diferenciados?",
+      "opciones": {
+        "A": "Deben desarrollarse para restringir cada vez más el empleo de medios que puedan causar lesiones o muertes.",
+        "B": "Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+        "C": "Los funcionarios deben contar, cuando proceda, con escudos, cascos, chalecos antibalas y medios de transporte blindados para disminuir la necesidad de usar armas."
+      }
+    },
+    {
+      "id": "GC-T19-Q0003",
+      "fact_id": "GC-T19-F002",
+      "bloque": 1,
+      "concepto": "Adopción de los Principios Básicos",
+      "articulo": "Adopción",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Adopción de los Principios Básicos, indique la opción correcta.",
+      "opciones": {
+        "A": "El Congreso se celebró en La Habana, Cuba, del 27 de agosto al 7 de septiembre de 1990.",
+        "B": "Formulan estándares internacionales para orientar a gobiernos y cuerpos encargados de hacer cumplir la ley; deben incorporarse a la legislación y práctica nacionales.",
+        "C": "Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente."
+      }
+    },
+    {
+      "id": "GC-T19-Q0016",
+      "fact_id": "GC-T19-F010",
+      "bloque": 2,
+      "concepto": "Normas nacionales sobre fuerza",
+      "articulo": "Principio 1",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.»?",
+      "opciones": {
+        "A": "Normas nacionales sobre fuerza",
+        "B": "Medios diferenciados",
+        "C": "Armas incapacitantes no letales"
+      }
+    },
+    {
+      "id": "GC-T19-Q0044",
+      "fact_id": "GC-T19-F025",
+      "bloque": 3,
+      "concepto": "Defensa propia o de terceros",
+      "articulo": "Principio 9",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Defensa propia o de terceros?",
+      "opciones": {
+        "A": "Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+        "B": "Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+        "C": "Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes."
+      }
+    },
+    {
+      "id": "GC-T19-Q0069",
+      "fact_id": "GC-T19-F038",
+      "bloque": 4,
+      "concepto": "Participación en reuniones lícitas y pacíficas",
+      "articulo": "Principio 12",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Participación en reuniones lícitas y pacíficas?",
+      "opciones": {
+        "A": "Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+        "B": "Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+        "C": "Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos."
+      }
+    },
+    {
+      "id": "GC-T19-Q0046",
+      "fact_id": "GC-T19-F026",
+      "bloque": 3,
+      "concepto": "Delito especialmente grave",
+      "articulo": "Principio 9",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Delito especialmente grave.",
+      "opciones": {
+        "A": "Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+        "B": "Las armas pueden emplearse para detener a quien presenta el peligro definido o impedir su fuga, solo si medios menos extremos son insuficientes.",
+        "C": "Solo podrá hacerse cuando sea estrictamente inevitable para proteger una vida."
+      }
+    },
+    {
+      "id": "GC-T19-Q0083",
+      "fact_id": "GC-T19-F046",
+      "bloque": 5,
+      "concepto": "Capacitación continua",
+      "articulo": "Principio 18",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Capacitación continua, indique la opción correcta.",
+      "opciones": {
+        "A": "Quienes deban portar armas de fuego solo estarán autorizados tras finalizar la capacitación especializada correspondiente.",
+        "B": "Los funcionarios recibirán capacitación profesional continua y completa y sus aptitudes se examinarán periódicamente.",
+        "C": "Los gobiernos y organismos procurarán que todos sean capacitados y examinados conforme a normas de evaluación adecuadas sobre el empleo de la fuerza."
+      }
+    },
+    {
+      "id": "GC-T19-Q0070",
+      "fact_id": "GC-T19-F039",
+      "bloque": 4,
+      "concepto": "Reunión ilícita no violenta",
+      "articulo": "Principio 13",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Reunión ilícita no violenta, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+        "B": "Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+        "C": "Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9."
+      }
+    },
+    {
+      "id": "GC-T19-Q0082",
+      "fact_id": "GC-T19-F045",
+      "bloque": 5,
+      "concepto": "Selección de funcionarios",
+      "articulo": "Principio 18",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se realizará mediante procedimientos adecuados, eligiendo personas con aptitudes éticas, psicológicas y físicas apropiadas.»?",
+      "opciones": {
+        "A": "Selección de funcionarios",
+        "B": "Capacitación continua",
+        "C": "Autorización para portar armas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0097",
+      "fact_id": "GC-T19-F054",
+      "bloque": 6,
+      "concepto": "Revisión administrativa independiente",
+      "articulo": "Principio 22",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Revisión administrativa independiente?",
+      "opciones": {
+        "A": "Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+        "B": "En caso de muerte, lesiones graves u otras consecuencias de importancia se enviará rápidamente un informe detallado a las autoridades competentes.",
+        "C": "Las personas afectadas por el empleo de la fuerza o sus representantes legales tendrán acceso a un proceso independiente, incluido el judicial."
+      }
+    },
+    {
+      "id": "GC-T19-Q0115",
+      "fact_id": "GC-T19-F063",
+      "bloque": 7,
+      "concepto": "Código como guía",
+      "articulo": "RD art. 2.1",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Código como guía, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Define los valores, principios y normas de comportamiento que han de regir en todo momento la actuación de los miembros del Cuerpo.",
+        "B": "Compendia las virtudes fundamentales y sirve de referencia ética y reafirmación de la identidad institucional.",
+        "C": "Se aplica al personal de la Guardia Civil sujeto al régimen de derechos y deberes de sus miembros."
+      }
+    },
+    {
+      "id": "GC-T19-Q0136",
+      "fact_id": "GC-T19-F075",
+      "bloque": 8,
+      "concepto": "Aplicación limitada del título IV",
+      "articulo": "Disposición adicional única.2",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Aplicación limitada del título IV.",
+      "opciones": {
+        "A": "Sus capítulos I, II, III y V solo se aplican en conflicto bélico, estado de sitio, misiones militares o integración en unidades militares.",
+        "B": "Quedan derogadas las disposiciones de igual o inferior rango que se opongan al Real Decreto.",
+        "C": "Se apoya en las competencias estatales exclusivas de defensa y Fuerzas Armadas y seguridad pública del artículo 149.1.4.ª y 29.ª CE."
+      }
+    },
+    {
+      "id": "GC-T19-Q0151",
+      "fact_id": "GC-T19-F084",
+      "bloque": 9,
+      "concepto": "Integridad",
+      "articulo": "Código art. 2",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Integridad.",
+      "opciones": {
+        "A": "Exige actuar con rectitud y honradez, oponerse a la corrupción y rechazar ofrecimientos, favores o regalos comprometedores.",
+        "B": "Implica fidelidad, respeto y sinceridad hacia los demás componentes del Cuerpo, con reciprocidad entre superiores y subordinados.",
+        "C": "Es acometer resuelta y racionalmente contingencias y peligros del deber y defender a los demás incluso con riesgo de daño propio."
+      }
+    },
+    {
+      "id": "GC-T19-Q0163",
+      "fact_id": "GC-T19-F090",
+      "bloque": 10,
+      "concepto": "Responsabilidad",
+      "articulo": "Código art. 7",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Responsabilidad, indique la opción correcta.",
+      "opciones": {
+        "A": "Es personal y directa por acciones u omisiones en el ejercicio de funciones y obliga a asumir sus consecuencias.",
+        "B": "Obliga a servir atendiendo a la trascendencia de la función, al buen nombre institucional y al impacto en la dignidad de las personas.",
+        "C": "El comportamiento se desarrollará con responsabilidad, seriedad y respeto hacia sí mismos y hacia los demás."
+      }
+    },
+    {
+      "id": "GC-T19-Q0175",
+      "fact_id": "GC-T19-F096",
+      "bloque": 11,
+      "concepto": "Derechos y libertades",
+      "articulo": "Código art. 11",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Derechos y libertades, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Se garantizará la seguridad ciudadana, se respetará y hará respetar su libre ejercicio y se protegerán vida, dignidad e integridad.",
+        "B": "La actuación estará guiada por la igualdad, sin discriminación por las condiciones personales o sociales enumeradas ni por cualquier otra.",
+        "C": "Impone respeto a todas las opciones, neutralidad y alejamiento del discurso político y debate partidista."
+      }
+    },
+    {
+      "id": "GC-T19-Q0193",
+      "fact_id": "GC-T19-F105",
+      "bloque": 12,
+      "concepto": "Formación y competencia profesional",
+      "articulo": "Código art. 18",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se buscará el máximo nivel para adaptarse a la evolución social, nuevos medios y procedimientos y servir con eficacia y eficiencia.»?",
+      "opciones": {
+        "A": "Formación y competencia profesional",
+        "B": "Cooperación",
+        "C": "Prestigio"
+      }
+    },
+    {
+      "id": "GC-T19-Q0208",
+      "fact_id": "GC-T19-F114",
+      "bloque": 13,
+      "concepto": "Dedicación profesional",
+      "articulo": "Código art. 24.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Dedicación profesional, indique la opción correcta.",
+      "opciones": {
+        "A": "La profesión se desempeña con total dedicación, espíritu de servicio y afán de superación.",
+        "B": "Las intervenciones serán racionales y templadas, siguiendo oportunidad, congruencia y proporcionalidad.",
+        "C": "La gestión de medios seguirá efectividad, eficacia, eficiencia, racionalidad y prudencia para el interés general y objetivos del Cuerpo."
+      }
+    },
+    {
+      "id": "GC-T19-Q0226",
+      "fact_id": "GC-T19-F124",
+      "bloque": 14,
+      "concepto": "Igualdad y diversidad",
+      "articulo": "Código art. 30",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Se impedirá la discriminación, respetando igualdad efectiva, prevención de violencia de género, diversidad y orientación sexual.»?",
+      "opciones": {
+        "A": "Igualdad y diversidad",
+        "B": "Conciliación",
+        "C": "Saludo militar"
+      }
+    },
+    {
+      "id": "GC-T19-Q0232",
+      "fact_id": "GC-T19-F128",
+      "bloque": 15,
+      "concepto": "Relaciones con la ciudadanía",
+      "articulo": "Código art. 33.1",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Relaciones con la ciudadanía?",
+      "opciones": {
+        "A": "Exigen cortesía, educación, trato respetuoso y atento, auxilio y protección cuando proceda.",
+        "B": "Cuando las circunstancias lo permitan se informará de manera comprensible sobre materias que afecten directamente o haya derecho a conocer.",
+        "C": "Se actuará con respeto, cortesía y colaboración y se cumplirán instrucciones de las autoridades de las que se dependa jerárquicamente."
+      }
+    },
+    {
+      "id": "GC-T19-Q0247",
+      "fact_id": "GC-T19-F136",
+      "bloque": 16,
+      "concepto": "Excepción a la identificación",
+      "articulo": "Código art. 39.2",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Excepción a la identificación?",
+      "opciones": {
+        "A": "Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+        "B": "Es preocupación permanente, especialmente de los mandos, que deben cumplir y hacer cumplir principios y normas preventivas.",
+        "C": "Comprende decidir, ordenar y hacer cumplir, mantener disciplina y administrar recursos, asumiendo responsabilidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0268",
+      "fact_id": "GC-T19-F147",
+      "bloque": 17,
+      "concepto": "Colectivos vulnerables",
+      "articulo": "Código art. 44.2",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Colectivos vulnerables, indique la opción correcta.",
+      "opciones": {
+        "A": "Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+        "B": "Se realizará con el mayor respeto a reputación, imagen y dignidad.",
+        "C": "Se protegerán vida e integridad física y moral, respetando la dignidad y sin permitir vejación, maltrato o injuria."
+      }
+    },
+    {
+      "id": "GC-T19-Q0283",
+      "fact_id": "GC-T19-F156",
+      "bloque": 18,
+      "concepto": "Decálogo primero: honor",
+      "articulo": "Decálogo primero",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Decálogo primero: honor, indique la opción correcta.",
+      "opciones": {
+        "A": "El honor es la principal divisa; debe conservarse sin mancha porque, una vez perdido, no se recobra jamás.",
+        "B": "El primer deber es defender España, guardar y hacer guardar Constitución y leyes, con lealtad al Rey.",
+        "C": "Obliga a comportarse siempre con la mayor dignidad, como exigen el Cuerpo y el uniforme."
+      }
+    },
+    {
+      "id": "GC-T19-Q0295",
+      "fact_id": "GC-T19-F162",
+      "bloque": 19,
+      "concepto": "Decálogo séptimo: espíritu benemérito",
+      "articulo": "Decálogo séptimo",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Decálogo séptimo: espíritu benemérito, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Ayudar siempre a quien lo necesite, especialmente a personas vulnerables o desprotegidas.",
+        "B": "Con orgullo de pertenencia, actuar con lealtad y compañerismo y fidelidad a valores, principios y tradiciones.",
+        "C": "Cumplir obligaciones y obedecer órdenes con disciplina, lealtad y responsabilidad."
+      }
+    },
+    {
+      "id": "GC-T19-Q0304",
+      "fact_id": "GC-T19-F166",
+      "bloque": 20,
+      "concepto": "ONU principio 9 frente a Código artículo 43",
+      "articulo": "Comparación normativa",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Son estándares relacionados, pero no textos idénticos: el principio 9 tasa supuestos y reserva el uso letal intencional a proteger la vida; el artículo 43 usa el umbral propio del Código.»?",
+      "opciones": {
+        "A": "ONU principio 9 frente a Código artículo 43",
+        "B": "Necesidad antes que proporcionalidad",
+        "C": "Reunión ilícita no equivale a violenta"
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0001",
+      "respuesta_correcta": "A",
+      "explicacion": "Alcance oficial del Tema 19: Comprende los Principios Básicos de las Naciones Unidas sobre el empleo de la fuerza y de armas de fuego y el Real Decreto 176/2022 completo.",
+      "fact_id": "GC-T19-F001",
+      "articulo": "Epígrafe oficial"
+    },
+    {
+      "id": "GC-T19-Q0017",
+      "respuesta_correcta": "B",
+      "explicacion": "Medios diferenciados: Debe establecerse una gama de medios tan amplia como sea posible para permitir un uso diferenciado de la fuerza y de las armas de fuego.",
+      "fact_id": "GC-T19-F011",
+      "articulo": "Principio 2"
+    },
+    {
+      "id": "GC-T19-Q0003",
+      "respuesta_correcta": "C",
+      "explicacion": "Adopción de los Principios Básicos: Fueron adoptados por el Octavo Congreso de las Naciones Unidas sobre Prevención del Delito y Tratamiento del Delincuente.",
+      "fact_id": "GC-T19-F002",
+      "articulo": "Adopción"
+    },
+    {
+      "id": "GC-T19-Q0016",
+      "respuesta_correcta": "A",
+      "explicacion": "Normas nacionales sobre fuerza: Los gobiernos y organismos deben adoptar y aplicar normas y reglamentaciones sobre el empleo de la fuerza y de armas de fuego y mantenerlas bajo examen.",
+      "fact_id": "GC-T19-F010",
+      "articulo": "Principio 1"
+    },
+    {
+      "id": "GC-T19-Q0044",
+      "respuesta_correcta": "B",
+      "explicacion": "Defensa propia o de terceros: Las armas de fuego solo podrán emplearse frente a una amenaza inminente de muerte o lesiones graves, entre los supuestos tasados del principio 9.",
+      "fact_id": "GC-T19-F025",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0069",
+      "respuesta_correcta": "C",
+      "explicacion": "Participación en reuniones lícitas y pacíficas: Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos.",
+      "fact_id": "GC-T19-F038",
+      "articulo": "Principio 12"
+    },
+    {
+      "id": "GC-T19-Q0046",
+      "respuesta_correcta": "A",
+      "explicacion": "Delito especialmente grave: Puede justificar armas de fuego si entraña una grave amenaza para la vida y los medios menos extremos son insuficientes.",
+      "fact_id": "GC-T19-F026",
+      "articulo": "Principio 9"
+    },
+    {
+      "id": "GC-T19-Q0083",
+      "respuesta_correcta": "B",
+      "explicacion": "Capacitación continua: Los funcionarios recibirán capacitación profesional continua y completa y sus aptitudes se examinarán periódicamente.",
+      "fact_id": "GC-T19-F046",
+      "articulo": "Principio 18"
+    },
+    {
+      "id": "GC-T19-Q0070",
+      "respuesta_correcta": "A",
+      "explicacion": "Reunión ilícita no violenta: Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+      "fact_id": "GC-T19-F039",
+      "articulo": "Principio 13"
+    },
+    {
+      "id": "GC-T19-Q0082",
+      "respuesta_correcta": "A",
+      "explicacion": "Selección de funcionarios: Se realizará mediante procedimientos adecuados, eligiendo personas con aptitudes éticas, psicológicas y físicas apropiadas.",
+      "fact_id": "GC-T19-F045",
+      "articulo": "Principio 18"
+    },
+    {
+      "id": "GC-T19-Q0097",
+      "respuesta_correcta": "A",
+      "explicacion": "Revisión administrativa independiente: Los incidentes serán revisados eficazmente y autoridades administrativas o judiciales independientes podrán ejercer jurisdicción cuando corresponda.",
+      "fact_id": "GC-T19-F054",
+      "articulo": "Principio 22"
+    },
+    {
+      "id": "GC-T19-Q0115",
+      "respuesta_correcta": "A",
+      "explicacion": "Código como guía: Define los valores, principios y normas de comportamiento que han de regir en todo momento la actuación de los miembros del Cuerpo.",
+      "fact_id": "GC-T19-F063",
+      "articulo": "RD art. 2.1"
+    },
+    {
+      "id": "GC-T19-Q0136",
+      "respuesta_correcta": "A",
+      "explicacion": "Aplicación limitada del título IV: Sus capítulos I, II, III y V solo se aplican en conflicto bélico, estado de sitio, misiones militares o integración en unidades militares.",
+      "fact_id": "GC-T19-F075",
+      "articulo": "Disposición adicional única.2"
+    },
+    {
+      "id": "GC-T19-Q0151",
+      "respuesta_correcta": "A",
+      "explicacion": "Integridad: Exige actuar con rectitud y honradez, oponerse a la corrupción y rechazar ofrecimientos, favores o regalos comprometedores.",
+      "fact_id": "GC-T19-F084",
+      "articulo": "Código art. 2"
+    },
+    {
+      "id": "GC-T19-Q0163",
+      "respuesta_correcta": "A",
+      "explicacion": "Responsabilidad: Es personal y directa por acciones u omisiones en el ejercicio de funciones y obliga a asumir sus consecuencias.",
+      "fact_id": "GC-T19-F090",
+      "articulo": "Código art. 7"
+    },
+    {
+      "id": "GC-T19-Q0175",
+      "respuesta_correcta": "A",
+      "explicacion": "Derechos y libertades: Se garantizará la seguridad ciudadana, se respetará y hará respetar su libre ejercicio y se protegerán vida, dignidad e integridad.",
+      "fact_id": "GC-T19-F096",
+      "articulo": "Código art. 11"
+    },
+    {
+      "id": "GC-T19-Q0193",
+      "respuesta_correcta": "A",
+      "explicacion": "Formación y competencia profesional: Se buscará el máximo nivel para adaptarse a la evolución social, nuevos medios y procedimientos y servir con eficacia y eficiencia.",
+      "fact_id": "GC-T19-F105",
+      "articulo": "Código art. 18"
+    },
+    {
+      "id": "GC-T19-Q0208",
+      "respuesta_correcta": "A",
+      "explicacion": "Dedicación profesional: La profesión se desempeña con total dedicación, espíritu de servicio y afán de superación.",
+      "fact_id": "GC-T19-F114",
+      "articulo": "Código art. 24.2"
+    },
+    {
+      "id": "GC-T19-Q0226",
+      "respuesta_correcta": "A",
+      "explicacion": "Igualdad y diversidad: Se impedirá la discriminación, respetando igualdad efectiva, prevención de violencia de género, diversidad y orientación sexual.",
+      "fact_id": "GC-T19-F124",
+      "articulo": "Código art. 30"
+    },
+    {
+      "id": "GC-T19-Q0232",
+      "respuesta_correcta": "A",
+      "explicacion": "Relaciones con la ciudadanía: Exigen cortesía, educación, trato respetuoso y atento, auxilio y protección cuando proceda.",
+      "fact_id": "GC-T19-F128",
+      "articulo": "Código art. 33.1"
+    },
+    {
+      "id": "GC-T19-Q0247",
+      "respuesta_correcta": "A",
+      "explicacion": "Excepción a la identificación: Solo cabe si la misión o factores concurrentes ponen en peligro la misión o la seguridad propia o de terceros.",
+      "fact_id": "GC-T19-F136",
+      "articulo": "Código art. 39.2"
+    },
+    {
+      "id": "GC-T19-Q0268",
+      "respuesta_correcta": "A",
+      "explicacion": "Colectivos vulnerables: Se prestará atención particular a violencia de género, personas indefensas o vulnerables y colectivos en riesgo de exclusión.",
+      "fact_id": "GC-T19-F147",
+      "articulo": "Código art. 44.2"
+    },
+    {
+      "id": "GC-T19-Q0283",
+      "respuesta_correcta": "A",
+      "explicacion": "Decálogo primero: honor: El honor es la principal divisa; debe conservarse sin mancha porque, una vez perdido, no se recobra jamás.",
+      "fact_id": "GC-T19-F156",
+      "articulo": "Decálogo primero"
+    },
+    {
+      "id": "GC-T19-Q0295",
+      "respuesta_correcta": "A",
+      "explicacion": "Decálogo séptimo: espíritu benemérito: Ayudar siempre a quien lo necesite, especialmente a personas vulnerables o desprotegidas.",
+      "fact_id": "GC-T19-F162",
+      "articulo": "Decálogo séptimo"
+    },
+    {
+      "id": "GC-T19-Q0304",
+      "respuesta_correcta": "A",
+      "explicacion": "ONU principio 9 frente a Código artículo 43: Son estándares relacionados, pero no textos idénticos: el principio 9 tasa supuestos y reserva el uso letal intencional a proteger la vida; el artículo 43 usa el umbral propio del Código.",
+      "fact_id": "GC-T19-F166",
+      "articulo": "Comparación normativa"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}

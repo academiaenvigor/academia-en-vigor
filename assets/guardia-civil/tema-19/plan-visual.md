@@ -1,0 +1,23 @@
+# Plan visual diferido
+
+- `t19-00-mapa-deontologia.webp` — Mapa de Principios ONU, Código de Conducta y Decálogo.
+- `t19-01-alcance-adopcion-y-conceptos-de-partida.webp` — Recurso didáctico para distinguir alcance, adopción y conceptos de partida.
+- `t19-02-reglas-generales-de-necesidad-y-reduccion-del-dano.webp` — Recurso didáctico para distinguir reglas generales de necesidad y reducción del daño.
+- `t19-03-armas-de-fuego-umbral-advertencia-y-regulacion.webp` — Recurso didáctico para distinguir armas de fuego: umbral, advertencia y regulación.
+- `t19-il-04-reuniones-ilicitas-y-personas-bajo-custodia.webp` — Recurso didáctico para distinguir reuniones ilícitas y personas bajo custodia.
+- `t19-05-seleccion-capacitacion-y-asistencia.webp` — Recurso didáctico para distinguir selección, capacitación y asistencia.
+- `t19-06-informes-revision-y-responsabilidad.webp` — Recurso didáctico para distinguir informes, revisión y responsabilidad.
+- `t19-07-parte-dispositiva-del-real-decreto-176-2022.webp` — Recurso didáctico para distinguir parte dispositiva del real decreto 176/2022.
+- `t19-08-disposiciones-y-arquitectura-del-codigo.webp` — Recurso didáctico para distinguir disposiciones y arquitectura del código.
+- `t19-09-valores-fundamentales-honor-a-justicia.webp` — Recurso didáctico para distinguir valores fundamentales: honor a justicia.
+- `t19-il-10-valores-fundamentales-imparcialidad-a-sacrificio.webp` — Recurso didáctico para distinguir valores fundamentales: imparcialidad a sacrificio.
+- `t19-11-principios-institucionales-constitucion-a-subordinacion.webp` — Recurso didáctico para distinguir principios institucionales: constitución a subordinación.
+- `t19-12-principios-institucionales-pluralidad-a-tradiciones.webp` — Recurso didáctico para distinguir principios institucionales: pluralidad a tradiciones.
+- `t19-13-normas-generales-disponibilidad-a-uniforme.webp` — Recurso didáctico para distinguir normas generales: disponibilidad a uniforme.
+- `t19-14-normas-generales-sostenibilidad-a-salud.webp` — Recurso didáctico para distinguir normas generales: sostenibilidad a salud.
+- `t19-15-prestacion-del-servicio-ciudadania-y-cooperacion.webp` — Recurso didáctico para distinguir prestación del servicio: ciudadanía y cooperación.
+- `t19-il-16-prestacion-del-servicio-identificacion-mando-y-fuerza.webp` — Recurso didáctico para distinguir prestación del servicio: identificación, mando y fuerza.
+- `t19-17-prestacion-del-servicio-proteccion-y-funciones-especiales.webp` — Recurso didáctico para distinguir prestación del servicio: protección y funciones especiales.
+- `t19-18-decalogo-compromisos-primero-a-quinto.webp` — Recurso didáctico para distinguir decálogo: compromisos primero a quinto.
+- `t19-il-19-decalogo-compromisos-sexto-a-decimo.webp` — Recurso didáctico para distinguir decálogo: compromisos sexto a décimo.
+- `t19-20-comparaciones-criticas-para-examen.webp` — Recurso didáctico para distinguir comparaciones críticas para examen.

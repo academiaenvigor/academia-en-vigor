@@ -1,0 +1,283 @@
+{
+  "id": "GC-T19-B04-A",
+  "titulo": "Tema 19 · Bloque 4: Reuniones ilícitas y personas bajo custodia · Test A",
+  "content_version": "1.0.0",
+  "bank_version": "1.0.0",
+  "tipo": "cobertura_bloque",
+  "ambito": {
+    "bloques": [
+      4
+    ]
+  },
+  "numero_preguntas": 12,
+  "preguntas": [
+    {
+      "id": "GC-T19-Q0070",
+      "fact_id": "GC-T19-F039",
+      "bloque": 4,
+      "concepto": "Reunión ilícita no violenta",
+      "articulo": "Principio 13",
+      "tipo": "terminologica",
+      "dificultad": "alta",
+      "enunciado": "Ante una pregunta sobre Reunión ilícita no violenta, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+        "B": "Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+        "C": "Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9."
+      }
+    },
+    {
+      "id": "GC-T19-Q0071",
+      "fact_id": "GC-T19-F039",
+      "bloque": 4,
+      "concepto": "Reunión ilícita no violenta",
+      "articulo": "Principio 13",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.»?",
+      "opciones": {
+        "A": "Reunión violenta",
+        "B": "Reunión ilícita no violenta",
+        "C": "Límite en reuniones violentas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0069",
+      "fact_id": "GC-T19-F038",
+      "bloque": 4,
+      "concepto": "Participación en reuniones lícitas y pacíficas",
+      "articulo": "Principio 12",
+      "tipo": "supuesto_practico",
+      "dificultad": "media",
+      "enunciado": "¿Cuál es el criterio examinable sobre Participación en reuniones lícitas y pacíficas?",
+      "opciones": {
+        "A": "Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+        "B": "Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+        "C": "Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos."
+      }
+    },
+    {
+      "id": "GC-T19-Q0073",
+      "fact_id": "GC-T19-F040",
+      "bloque": 4,
+      "concepto": "Reunión violenta",
+      "articulo": "Principio 14",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.»?",
+      "opciones": {
+        "A": "Reunión violenta",
+        "B": "Límite en reuniones violentas",
+        "C": "Fuerza en custodia"
+      }
+    },
+    {
+      "id": "GC-T19-Q0074",
+      "fact_id": "GC-T19-F041",
+      "bloque": 4,
+      "concepto": "Límite en reuniones violentas",
+      "articulo": "Principio 14",
+      "tipo": "supuesto_practico",
+      "dificultad": "alta",
+      "enunciado": "¿Cuál es el criterio examinable sobre Límite en reuniones violentas?",
+      "opciones": {
+        "A": "No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.",
+        "B": "Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9.",
+        "C": "No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9."
+      }
+    },
+    {
+      "id": "GC-T19-Q0072",
+      "fact_id": "GC-T19-F040",
+      "bloque": 4,
+      "concepto": "Reunión violenta",
+      "articulo": "Principio 14",
+      "tipo": "regla_requisito",
+      "dificultad": "alta",
+      "enunciado": "Según la fuente oficial, ¿qué regla corresponde a Reunión violenta?",
+      "opciones": {
+        "A": "Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9.",
+        "B": "No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.",
+        "C": "Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria."
+      }
+    },
+    {
+      "id": "GC-T19-Q0076",
+      "fact_id": "GC-T19-F042",
+      "bloque": 4,
+      "concepto": "Fuerza en custodia",
+      "articulo": "Principio 15",
+      "tipo": "literal",
+      "dificultad": "alta",
+      "enunciado": "Señale la afirmación correcta sobre Fuerza en custodia.",
+      "opciones": {
+        "A": "No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.",
+        "B": "No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9.",
+        "C": "Los principios 15 y 16 se aplican sin perjuicio de los derechos, deberes y responsabilidades de los funcionarios de establecimientos penitenciarios."
+      }
+    },
+    {
+      "id": "GC-T19-Q0077",
+      "fact_id": "GC-T19-F042",
+      "bloque": 4,
+      "concepto": "Fuerza en custodia",
+      "articulo": "Principio 15",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.»?",
+      "opciones": {
+        "A": "Armas de fuego en custodia",
+        "B": "Fuerza en custodia",
+        "C": "Reglas penitenciarias"
+      }
+    },
+    {
+      "id": "GC-T19-Q0075",
+      "fact_id": "GC-T19-F041",
+      "bloque": 4,
+      "concepto": "Límite en reuniones violentas",
+      "articulo": "Principio 14",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9.»?",
+      "opciones": {
+        "A": "Fuerza en custodia",
+        "B": "Armas de fuego en custodia",
+        "C": "Límite en reuniones violentas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0079",
+      "fact_id": "GC-T19-F043",
+      "bloque": 4,
+      "concepto": "Armas de fuego en custodia",
+      "articulo": "Principio 16",
+      "tipo": "inversa",
+      "dificultad": "alta",
+      "enunciado": "¿Qué concepto o referencia corresponde a esta regla: «No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9.»?",
+      "opciones": {
+        "A": "Armas de fuego en custodia",
+        "B": "Reglas penitenciarias",
+        "C": "Participación en reuniones lícitas y pacíficas"
+      }
+    },
+    {
+      "id": "GC-T19-Q0080",
+      "fact_id": "GC-T19-F044",
+      "bloque": 4,
+      "concepto": "Reglas penitenciarias",
+      "articulo": "Principio 17",
+      "tipo": "terminologica",
+      "dificultad": "media",
+      "enunciado": "Ante una pregunta sobre Reglas penitenciarias, ¿qué formulación debe elegirse?",
+      "opciones": {
+        "A": "Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos.",
+        "B": "Los principios 15 y 16 se aplican sin perjuicio de los derechos, deberes y responsabilidades de los funcionarios de establecimientos penitenciarios.",
+        "C": "Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario."
+      }
+    },
+    {
+      "id": "GC-T19-Q0078",
+      "fact_id": "GC-T19-F043",
+      "bloque": 4,
+      "concepto": "Armas de fuego en custodia",
+      "articulo": "Principio 16",
+      "tipo": "comparativa",
+      "dificultad": "alta",
+      "enunciado": "En relación con Armas de fuego en custodia, indique la opción correcta.",
+      "opciones": {
+        "A": "Los principios 15 y 16 se aplican sin perjuicio de los derechos, deberes y responsabilidades de los funcionarios de establecimientos penitenciarios.",
+        "B": "Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos.",
+        "C": "No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9."
+      }
+    }
+  ],
+  "soluciones": [
+    {
+      "id": "GC-T19-Q0070",
+      "respuesta_correcta": "A",
+      "explicacion": "Reunión ilícita no violenta: Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+      "fact_id": "GC-T19-F039",
+      "articulo": "Principio 13"
+    },
+    {
+      "id": "GC-T19-Q0071",
+      "respuesta_correcta": "B",
+      "explicacion": "Reunión ilícita no violenta: Al dispersarla se evitará el empleo de la fuerza o, si no es posible, se limitará al mínimo necesario.",
+      "fact_id": "GC-T19-F039",
+      "articulo": "Principio 13"
+    },
+    {
+      "id": "GC-T19-Q0069",
+      "respuesta_correcta": "C",
+      "explicacion": "Participación en reuniones lícitas y pacíficas: Todas las personas están autorizadas a participar en ellas conforme a la Declaración Universal y al Pacto Internacional de Derechos Civiles y Políticos.",
+      "fact_id": "GC-T19-F038",
+      "articulo": "Principio 12"
+    },
+    {
+      "id": "GC-T19-Q0073",
+      "respuesta_correcta": "A",
+      "explicacion": "Reunión violenta: Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+      "fact_id": "GC-T19-F040",
+      "articulo": "Principio 14"
+    },
+    {
+      "id": "GC-T19-Q0074",
+      "respuesta_correcta": "B",
+      "explicacion": "Límite en reuniones violentas: Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9.",
+      "fact_id": "GC-T19-F041",
+      "articulo": "Principio 14"
+    },
+    {
+      "id": "GC-T19-Q0072",
+      "respuesta_correcta": "C",
+      "explicacion": "Reunión violenta: Para dispersarla solo podrán emplearse armas de fuego cuando no puedan utilizarse medios menos peligrosos y únicamente en la mínima medida necesaria.",
+      "fact_id": "GC-T19-F040",
+      "articulo": "Principio 14"
+    },
+    {
+      "id": "GC-T19-Q0076",
+      "respuesta_correcta": "A",
+      "explicacion": "Fuerza en custodia: No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.",
+      "fact_id": "GC-T19-F042",
+      "articulo": "Principio 15"
+    },
+    {
+      "id": "GC-T19-Q0077",
+      "respuesta_correcta": "B",
+      "explicacion": "Fuerza en custodia: No se empleará salvo cuando sea estrictamente necesario para mantener la seguridad y el orden en los establecimientos o cuando peligre la integridad física de las personas.",
+      "fact_id": "GC-T19-F042",
+      "articulo": "Principio 15"
+    },
+    {
+      "id": "GC-T19-Q0075",
+      "respuesta_correcta": "C",
+      "explicacion": "Límite en reuniones violentas: Las armas de fuego solo podrán utilizarse en las condiciones estipuladas en el principio 9.",
+      "fact_id": "GC-T19-F041",
+      "articulo": "Principio 14"
+    },
+    {
+      "id": "GC-T19-Q0079",
+      "respuesta_correcta": "A",
+      "explicacion": "Armas de fuego en custodia: No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9.",
+      "fact_id": "GC-T19-F043",
+      "articulo": "Principio 16"
+    },
+    {
+      "id": "GC-T19-Q0080",
+      "respuesta_correcta": "B",
+      "explicacion": "Reglas penitenciarias: Los principios 15 y 16 se aplican sin perjuicio de los derechos, deberes y responsabilidades de los funcionarios de establecimientos penitenciarios.",
+      "fact_id": "GC-T19-F044",
+      "articulo": "Principio 17"
+    },
+    {
+      "id": "GC-T19-Q0078",
+      "respuesta_correcta": "C",
+      "explicacion": "Armas de fuego en custodia: No se emplearán salvo defensa propia o de terceros frente a peligro inminente de muerte o lesiones graves, o para impedir la fuga de quien presente el peligro del principio 9.",
+      "fact_id": "GC-T19-F043",
+      "articulo": "Principio 16"
+    }
+  ],
+  "estado": "generado_validado",
+  "publicacion": "not_published"
+}
