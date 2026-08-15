@@ -1,0 +1,418 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-17",
+  "content_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "status": "planned",
+  "totals": {
+    "resources": 25,
+    "integrated": 0,
+    "planned": 25
+  },
+  "integration_status": "planned",
+  "integrated_at": null,
+  "resources": [
+    {
+      "id": "GC-T17-V00",
+      "file": "t17-00-mapa-tic.webp",
+      "title": "Mapa general del Tema 17",
+      "type": "infografia",
+      "placement": "mapa-del-tema",
+      "status": "planned",
+      "block": 0,
+      "documents": [
+        "master"
+      ],
+      "description": "Mapa de las cinco partes del tema.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V01",
+      "file": "t17-01-alcance-oficial-metodo-y-corte-normativo.webp",
+      "title": "Alcance oficial, método y corte normativo",
+      "type": "infografia",
+      "placement": "bloque-01",
+      "status": "planned",
+      "block": 1,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para fijar alcance oficial, método y corte normativo.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V02",
+      "file": "t17-02-objeto-ambito-y-consideracion-de-las-telecomunicaciones.webp",
+      "title": "Objeto, ámbito y consideración de las telecomunicaciones",
+      "type": "infografia",
+      "placement": "bloque-02",
+      "status": "planned",
+      "block": 2,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para fijar objeto, ámbito y consideración de las telecomunicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V03",
+      "file": "t17-03-objetivos-y-principios-de-la-ley-general-de-telecomunicaciones.webp",
+      "title": "Objetivos y principios de la Ley General de Telecomunicaciones",
+      "type": "infografia",
+      "placement": "bloque-03",
+      "status": "planned",
+      "block": 3,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para fijar objetivos y principios de la ley general de telecomunicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V04",
+      "file": "t17-04-telecomunicaciones-para-seguridad-defensa-y-proteccion-civil.webp",
+      "title": "Telecomunicaciones para seguridad, defensa y protección civil",
+      "type": "infografia",
+      "placement": "bloque-04",
+      "status": "planned",
+      "block": 4,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para fijar telecomunicaciones para seguridad, defensa y protección civil.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V05",
+      "file": "t17-05-derechos-fundamentales-y-no-discriminacion.webp",
+      "title": "Derechos fundamentales y no discriminación",
+      "type": "infografia",
+      "placement": "bloque-05",
+      "status": "planned",
+      "block": 5,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para fijar derechos fundamentales y no discriminación.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V06",
+      "file": "t17-06-secreto-e-interceptacion-de-las-comunicaciones.webp",
+      "title": "Secreto e interceptación de las comunicaciones",
+      "type": "infografia",
+      "placement": "bloque-06",
+      "status": "planned",
+      "block": 6,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para fijar secreto e interceptación de las comunicaciones.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V07",
+      "file": "t17-07-datos-personales-cifrado-integridad-y-seguridad.webp",
+      "title": "Datos personales, cifrado, integridad y seguridad",
+      "type": "infografia",
+      "placement": "bloque-07",
+      "status": "planned",
+      "block": 7,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para fijar datos personales, cifrado, integridad y seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V08",
+      "file": "t17-08-transicion-del-real-decreto-806-2014-al-real-decreto-1125-2024.webp",
+      "title": "Transición del Real Decreto 806/2014 al Real Decreto 1125/2024",
+      "type": "infografia",
+      "placement": "bloque-08",
+      "status": "planned",
+      "block": 8,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para fijar transición del real decreto 806/2014 al real decreto 1125/2024.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V09",
+      "file": "t17-09-gobernanza-estrategia-y-servicios-digitales-comunes.webp",
+      "title": "Gobernanza, estrategia y servicios digitales comunes",
+      "type": "infografia",
+      "placement": "bloque-09",
+      "status": "planned",
+      "block": 9,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para fijar gobernanza, estrategia y servicios digitales comunes.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V10",
+      "file": "t17-10-disposiciones-generales-y-vigencia-de-certificados.webp",
+      "title": "Disposiciones generales y vigencia de certificados",
+      "type": "infografia",
+      "placement": "bloque-10",
+      "status": "planned",
+      "block": 10,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para fijar disposiciones generales y vigencia de certificados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V11",
+      "file": "t17-11-revocacion-y-suspension-de-certificados.webp",
+      "title": "Revocación y suspensión de certificados",
+      "type": "infografia",
+      "placement": "bloque-11",
+      "status": "planned",
+      "block": 11,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para fijar revocación y suspensión de certificados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V12",
+      "file": "t17-12-identidad-atributos-y-comprobacion-del-solicitante.webp",
+      "title": "Identidad, atributos y comprobación del solicitante",
+      "type": "infografia",
+      "placement": "bloque-12",
+      "status": "planned",
+      "block": 12,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para fijar identidad, atributos y comprobación del solicitante.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V13",
+      "file": "t17-13-proteccion-de-datos-y-obligaciones-de-los-prestadores.webp",
+      "title": "Protección de datos y obligaciones de los prestadores",
+      "type": "infografia",
+      "placement": "bloque-13",
+      "status": "planned",
+      "block": 13,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para fijar protección de datos y obligaciones de los prestadores.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V14",
+      "file": "t17-14-responsabilidad-inicio-de-actividad-y-seguridad.webp",
+      "title": "Responsabilidad, inicio de actividad y seguridad",
+      "type": "infografia",
+      "placement": "bloque-14",
+      "status": "planned",
+      "block": 14,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para fijar responsabilidad, inicio de actividad y seguridad.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V15",
+      "file": "t17-15-dni-electronico-y-eficacia-de-sus-certificados.webp",
+      "title": "DNI electrónico y eficacia de sus certificados",
+      "type": "infografia",
+      "placement": "bloque-15",
+      "status": "planned",
+      "block": 15,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para fijar dni electrónico y eficacia de sus certificados.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V16",
+      "file": "t17-16-factores-de-amenaza-y-ataques-dirigidos.webp",
+      "title": "Factores de amenaza y ataques dirigidos",
+      "type": "infografia",
+      "placement": "bloque-16",
+      "status": "planned",
+      "block": 16,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para fijar factores de amenaza y ataques dirigidos.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V17",
+      "file": "t17-17-internet-profunda-red-tor-y-bitcoin.webp",
+      "title": "Internet profunda, red TOR y bitcoin",
+      "type": "infografia",
+      "placement": "bloque-17",
+      "status": "planned",
+      "block": 17,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para fijar internet profunda, red tor y bitcoin.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V18",
+      "file": "t17-18-aplicaciones-cifrado-cortafuegos-antimalware-y-borrado.webp",
+      "title": "Aplicaciones, cifrado, cortafuegos, antimalware y borrado",
+      "type": "infografia",
+      "placement": "bloque-18",
+      "status": "planned",
+      "block": 18,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para fijar aplicaciones, cifrado, cortafuegos, antimalware y borrado.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V19",
+      "file": "t17-19-navegacion-segura.webp",
+      "title": "Navegación segura",
+      "type": "infografia",
+      "placement": "bloque-19",
+      "status": "planned",
+      "block": 19,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para fijar navegación segura.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V20",
+      "file": "t17-20-correo-electronico.webp",
+      "title": "Correo electrónico",
+      "type": "infografia",
+      "placement": "bloque-20",
+      "status": "planned",
+      "block": 20,
+      "documents": [
+        "master"
+      ],
+      "description": "línea temporal para fijar correo electrónico.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V21",
+      "file": "t17-21-virtualizacion-dispositivos-moviles-y-redes-inalambricas.webp",
+      "title": "Virtualización, dispositivos móviles y redes inalámbricas",
+      "type": "infografia",
+      "placement": "bloque-21",
+      "status": "planned",
+      "block": 21,
+      "documents": [
+        "master"
+      ],
+      "description": "mapa comparativo para fijar virtualización, dispositivos móviles y redes inalámbricas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V22",
+      "file": "t17-22-mensajeria-instantanea-redes-sociales-e-internet-de-las-cosas.webp",
+      "title": "Mensajería instantánea, redes sociales e Internet de las cosas",
+      "type": "infografia",
+      "placement": "bloque-22",
+      "status": "planned",
+      "block": 22,
+      "documents": [
+        "master"
+      ],
+      "description": "flujo de decisión para fijar mensajería instantánea, redes sociales e internet de las cosas.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V23",
+      "file": "t17-23-objeto-principios-e-interoperabilidad-organizativa-semantica-y-tecnica.webp",
+      "title": "Objeto, principios e interoperabilidad organizativa, semántica y técnica",
+      "type": "infografia",
+      "placement": "bloque-23",
+      "status": "planned",
+      "block": 23,
+      "documents": [
+        "master"
+      ],
+      "description": "corte por capas para fijar objeto, principios e interoperabilidad organizativa, semántica y técnica.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    },
+    {
+      "id": "GC-T17-V24",
+      "file": "t17-24-comunicaciones-reutilizacion-firma-y-conservacion-documental.webp",
+      "title": "Comunicaciones, reutilización, firma y conservación documental",
+      "type": "infografia",
+      "placement": "bloque-24",
+      "status": "planned",
+      "block": 24,
+      "documents": [
+        "master"
+      ],
+      "description": "escena mnemotécnica para fijar comunicaciones, reutilización, firma y conservación documental.",
+      "source_content_version": "1.0.0",
+      "required_format": "WEBP",
+      "max_bytes": 260000
+    }
+  ],
+  "planned_resources": []
+}

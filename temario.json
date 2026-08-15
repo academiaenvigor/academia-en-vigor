@@ -1475,6 +1475,30 @@
           "official_exam_mapped": 62,
           "official_exam_verified": 61,
           "ha_caido_active": 0
+        },
+        {
+          "number": 17,
+          "slug": "tecnologias-informacion-comunicacion",
+          "title": "Materias técnico-científicas. Tecnologías de la información y la comunicación",
+          "content_version": "1.0.0",
+          "editorial_status": "approved_internal",
+          "publication_status": "not_published",
+          "manifest": "conocimiento/guardia-civil/tema-17/manifest.json",
+          "parte": "temas/guardia-civil/parte/tema-17-tecnologias-informacion-comunicacion.md",
+          "atestado": "temas/guardia-civil/atestado/tema-17-tecnologias-informacion-comunicacion.md",
+          "question_bank": "banco-preguntas/guardia-civil/tema-17/preguntas.jsonl",
+          "evaluation_plan": "evaluaciones/guardia-civil/tema-17/plan.json",
+          "assets": "assets/guardia-civil/tema-17/manifest.json",
+          "teaching_materials": "materiales-didacticos/guardia-civil/tema-17/manifest.json",
+          "visual_version": "0.0.0",
+          "visual_assets": 0,
+          "visual_planned": 25,
+          "atomic_facts": 651,
+          "question_count": 987,
+          "official_exam_index": "banco-preguntas/guardia-civil/tema-17/indice-oficiales.json",
+          "official_exam_mapped": 30,
+          "official_exam_verified": 30,
+          "ha_caido_active": 30
         }
       ]
     }

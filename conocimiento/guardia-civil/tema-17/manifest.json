@@ -1,0 +1,109 @@
+{
+  "schema_version": "2.0.0",
+  "opposition": "guardia-civil",
+  "opposition_display_name": "Guardia Civil",
+  "topic": "tema-17",
+  "topic_number": 17,
+  "slug": "tecnologias-informacion-comunicacion",
+  "title": "Materias técnico-científicas. Tecnologías de la información y la comunicación",
+  "content_version": "1.0.0",
+  "pedagogical_version": "1.0.0",
+  "visual_version": "0.0.0",
+  "editorial_status": "approved_internal",
+  "publication_status": "not_published",
+  "normative_status": "checked_2026-08-13",
+  "source_file": "conocimiento/guardia-civil/tema-17/master.md",
+  "source_rights": {
+    "third_party_source_in_repository": false,
+    "method": "original_redaction_from_official_sources"
+  },
+  "outputs": {
+    "parte": "temas/guardia-civil/parte/tema-17-tecnologias-informacion-comunicacion.md",
+    "atestado": "temas/guardia-civil/atestado/tema-17-tecnologias-informacion-comunicacion.md"
+  },
+  "semantic_blocks": 24,
+  "atomic_facts": 651,
+  "master_statements": 651,
+  "coverage_file": "conocimiento/guardia-civil/tema-17/cobertura.json",
+  "official_references": [
+    "GC-PROGRAMA-2026-T17",
+    "L11-2022-GC-T17",
+    "RD1125-2024-GC-T17",
+    "L6-2020-GC-T17",
+    "CCNCERT-BP01-GC-T17",
+    "RD4-2010-GC-T17"
+  ],
+  "official_exam_items": [
+    "of-gc-p2020-2a-q084",
+    "of-gc-p2020-1a-q085",
+    "of-gc-p2021-1a-q088",
+    "of-gc-p2021-2a-q088",
+    "of-gc-p2022-3a-q086",
+    "of-gc-p2022-1a-q087",
+    "of-gc-p2022-2a-q087",
+    "of-gc-p2022-3a-q087",
+    "of-gc-p2022-2a-q088",
+    "of-gc-p2022-3a-q088",
+    "of-gc-p2022-1a-q089",
+    "of-gc-p2022-3a-q089",
+    "of-gc-p2023-1a-q086",
+    "of-gc-p2023-2a-q086",
+    "of-gc-p2023-1a-q087",
+    "of-gc-p2023-2a-q087",
+    "of-gc-p2024-3a-q082",
+    "of-gc-p2024-1a-q083",
+    "of-gc-p2024-3a-q083",
+    "of-gc-p2024-2a-q084",
+    "of-gc-p2024-3a-q084",
+    "of-gc-p2024-1a-q085",
+    "of-gc-p2024-2a-q085",
+    "of-gc-p2025-a-q083",
+    "of-gc-p2025-a-q084",
+    "of-gc-p2025-a-q085",
+    "of-gc-p2026-a-q080",
+    "of-gc-p2026-a-q081",
+    "of-gc-p2026-a-q082",
+    "of-gc-p2026-a-q083"
+  ],
+  "official_exam_index": "banco-preguntas/guardia-civil/tema-17/indice-oficiales.json",
+  "layers": [
+    "Mapa del tema",
+    "Contenido",
+    "Hablemos claro",
+    "En la calle",
+    "Lo que cae",
+    "Ha caído"
+  ],
+  "atestado_style": "narrativo_normativo_vigor",
+  "question_bank": {
+    "path": "banco-preguntas/guardia-civil/tema-17/preguntas.jsonl",
+    "manifest": "banco-preguntas/guardia-civil/tema-17/manifest.json",
+    "questions": 987,
+    "coverage_by_atomic_facts": 100.0
+  },
+  "evaluations": {
+    "plan": "evaluaciones/guardia-civil/tema-17/plan.json",
+    "generator": "scripts/generar_evaluaciones.py"
+  },
+  "assets": {
+    "manifest": "assets/guardia-civil/tema-17/manifest.json",
+    "total": 25,
+    "planned": 25
+  },
+  "teaching_materials": {
+    "manifest": "materiales-didacticos/guardia-civil/tema-17/manifest.json",
+    "categories": [
+      "infografias",
+      "presentaciones",
+      "audios",
+      "videos"
+    ]
+  },
+  "review": {
+    "legal": "checked",
+    "pedagogical": "checked",
+    "editorial": "approved_internal",
+    "question_bank": "tracked_by_quality_gate",
+    "review_file": "conocimiento/guardia-civil/tema-17/revision-1.0.md"
+  }
+}

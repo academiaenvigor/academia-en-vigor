@@ -1,0 +1,108 @@
+{
+  "schema_version": "2.1.0",
+  "opposition": "guardia-civil",
+  "topic": "tema-17",
+  "content_version": "1.0.0",
+  "source_version": "1.0.0",
+  "status": "estructura_preparada_sin_produccion_grafica",
+  "storage_policy": "external_by_default_for_audio_video_and_heavy_files",
+  "rights_policy": "own_or_explicitly_authorized_only",
+  "audio_note": "Los archivos pesados se alojan fuera del repositorio.",
+  "display_policy": {
+    "show_planned_in_temas": false
+  },
+  "storage_root": "gc/tema-17",
+  "categories": {
+    "infografias": "infografias/",
+    "presentaciones": "presentaciones/",
+    "audios": "audios/",
+    "videos": "videos/"
+  },
+  "scopes": [
+    "parte",
+    "tema"
+  ],
+  "nomenclature": "TNN-PN-CATEGORIA-descripcion.ext",
+  "parts": [
+    {
+      "id": "GC-T17-PARTE-1",
+      "number": 1,
+      "title": "Sistemas de telecomunicaciones",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "anchor_blocks": [
+        1,
+        7
+      ]
+    },
+    {
+      "id": "GC-T17-PARTE-2",
+      "number": 2,
+      "title": "Organización e instrumentos de la Administración Digital",
+      "blocks": [
+        8,
+        9
+      ],
+      "anchor_blocks": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "GC-T17-PARTE-3",
+      "number": 3,
+      "title": "Servicios electrónicos de confianza y firma digital",
+      "blocks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "anchor_blocks": [
+        10,
+        15
+      ]
+    },
+    {
+      "id": "GC-T17-PARTE-4",
+      "number": 4,
+      "title": "Principios de ciberseguridad del CCN-CERT",
+      "blocks": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "anchor_blocks": [
+        16,
+        22
+      ]
+    },
+    {
+      "id": "GC-T17-PARTE-5",
+      "number": 5,
+      "title": "Esquema Nacional de Interoperabilidad",
+      "blocks": [
+        23,
+        24
+      ],
+      "anchor_blocks": [
+        23,
+        24
+      ]
+    }
+  ],
+  "resources": []
+}

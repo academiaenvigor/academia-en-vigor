@@ -1,0 +1,27 @@
+# Plan visual diferido
+
+- `t17-00-mapa-tic.webp` — Mapa de las cinco partes del tema.
+- `t17-01-alcance-oficial-metodo-y-corte-normativo.webp` — mapa comparativo para fijar alcance oficial, método y corte normativo.
+- `t17-02-objeto-ambito-y-consideracion-de-las-telecomunicaciones.webp` — flujo de decisión para fijar objeto, ámbito y consideración de las telecomunicaciones.
+- `t17-03-objetivos-y-principios-de-la-ley-general-de-telecomunicaciones.webp` — corte por capas para fijar objetivos y principios de la ley general de telecomunicaciones.
+- `t17-04-telecomunicaciones-para-seguridad-defensa-y-proteccion-civil.webp` — escena mnemotécnica para fijar telecomunicaciones para seguridad, defensa y protección civil.
+- `t17-05-derechos-fundamentales-y-no-discriminacion.webp` — línea temporal para fijar derechos fundamentales y no discriminación.
+- `t17-06-secreto-e-interceptacion-de-las-comunicaciones.webp` — mapa comparativo para fijar secreto e interceptación de las comunicaciones.
+- `t17-07-datos-personales-cifrado-integridad-y-seguridad.webp` — flujo de decisión para fijar datos personales, cifrado, integridad y seguridad.
+- `t17-08-transicion-del-real-decreto-806-2014-al-real-decreto-1125-2024.webp` — corte por capas para fijar transición del real decreto 806/2014 al real decreto 1125/2024.
+- `t17-09-gobernanza-estrategia-y-servicios-digitales-comunes.webp` — escena mnemotécnica para fijar gobernanza, estrategia y servicios digitales comunes.
+- `t17-10-disposiciones-generales-y-vigencia-de-certificados.webp` — línea temporal para fijar disposiciones generales y vigencia de certificados.
+- `t17-11-revocacion-y-suspension-de-certificados.webp` — mapa comparativo para fijar revocación y suspensión de certificados.
+- `t17-12-identidad-atributos-y-comprobacion-del-solicitante.webp` — flujo de decisión para fijar identidad, atributos y comprobación del solicitante.
+- `t17-13-proteccion-de-datos-y-obligaciones-de-los-prestadores.webp` — corte por capas para fijar protección de datos y obligaciones de los prestadores.
+- `t17-14-responsabilidad-inicio-de-actividad-y-seguridad.webp` — escena mnemotécnica para fijar responsabilidad, inicio de actividad y seguridad.
+- `t17-15-dni-electronico-y-eficacia-de-sus-certificados.webp` — línea temporal para fijar dni electrónico y eficacia de sus certificados.
+- `t17-16-factores-de-amenaza-y-ataques-dirigidos.webp` — mapa comparativo para fijar factores de amenaza y ataques dirigidos.
+- `t17-17-internet-profunda-red-tor-y-bitcoin.webp` — flujo de decisión para fijar internet profunda, red tor y bitcoin.
+- `t17-18-aplicaciones-cifrado-cortafuegos-antimalware-y-borrado.webp` — corte por capas para fijar aplicaciones, cifrado, cortafuegos, antimalware y borrado.
+- `t17-19-navegacion-segura.webp` — escena mnemotécnica para fijar navegación segura.
+- `t17-20-correo-electronico.webp` — línea temporal para fijar correo electrónico.
+- `t17-21-virtualizacion-dispositivos-moviles-y-redes-inalambricas.webp` — mapa comparativo para fijar virtualización, dispositivos móviles y redes inalámbricas.
+- `t17-22-mensajeria-instantanea-redes-sociales-e-internet-de-las-cosas.webp` — flujo de decisión para fijar mensajería instantánea, redes sociales e internet de las cosas.
+- `t17-23-objeto-principios-e-interoperabilidad-organizativa-semantica-y-tecnica.webp` — corte por capas para fijar objeto, principios e interoperabilidad organizativa, semántica y técnica.
+- `t17-24-comunicaciones-reutilizacion-firma-y-conservacion-documental.webp` — escena mnemotécnica para fijar comunicaciones, reutilización, firma y conservación documental.

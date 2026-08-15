@@ -1,0 +1,673 @@
+{
+  "schema_version": "2.0.0",
+  "oposicion": "guardia-civil",
+  "tema": 17,
+  "titulo": "Materias técnico-científicas. Tecnologías de la información y la comunicación",
+  "generated_at": "2026-08-13",
+  "mapping_method": "manual_editorial_with_semantic_assistance",
+  "mapping_status": "complete_reviewed",
+  "answer_status": "official_final_answer_key",
+  "display_policy": "verified_only",
+  "aviso": "Las referencias al Real Decreto 806/2014 se conservan como antecedentes; la organización vigente se contrasta con el Real Decreto 1125/2024.",
+  "total_referencias": 30,
+  "con_bloque_asignado": 30,
+  "con_respuesta_verificada": 30,
+  "en_cuarentena": 0,
+  "por_bloque": {
+    "2": 3,
+    "3": 1,
+    "5": 1,
+    "6": 1,
+    "10": 5,
+    "11": 2,
+    "13": 2,
+    "17": 3,
+    "18": 1,
+    "20": 1,
+    "21": 1,
+    "23": 5,
+    "24": 4
+  },
+  "por_promocion": {
+    "2020": 2,
+    "2021": 2,
+    "2022": 8,
+    "2023": 4,
+    "2024": 7,
+    "2025": 3,
+    "2026": 4
+  },
+  "retroalimentacion": "banco-preguntas/guardia-civil/oficiales/retroalimentacion.json",
+  "questions": [
+    {
+      "question_id": "of-gc-p2020-2a-q084",
+      "exam_id": "of-gc-p2020-2a",
+      "series_year": 2020,
+      "question_number": 84,
+      "block_refs": [
+        21
+      ],
+      "fact_refs": [
+        "GC-T17-F350"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Tecnologías de la Información y Comunicación. Principios y recomendaciones básicas en Ciberseguridad. ¿Cuál de las siguientes es una de las recomendaciones específicas que hace el CCN-CERT, en ciberseguridad, indicada para dispositivos móviles, en el uso de mensajería instantánea?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2020-1a-q085",
+      "exam_id": "of-gc-p2020-1a",
+      "series_year": 2020,
+      "question_number": 85,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T17-F009"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Tecnologías de la Información y Comunicación. Ley General de Telecomunicaciones. Señale la opción INCORRECTA",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2021-1a-q088",
+      "exam_id": "of-gc-p2021-1a",
+      "series_year": 2021,
+      "question_number": 88,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T17-F178"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. ¿En cuál de los siguientes supuestos, los prestadores de servicios electrónicos de confianza NO extinguirán la vigencia de los certificados electrónicos mediante revocación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2021-2a-q088",
+      "exam_id": "of-gc-p2021-2a",
+      "series_year": 2021,
+      "question_number": 88,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T17-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. En relación con los certificados electrónicos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q086",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 86,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T17-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Vigencia y caducidad de los certificados electrónicos. El período de vigencia de los certificados cualificados no será superior a…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q087",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 87,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T17-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. En relación con el ámbito de aplicación, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q087",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 87,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T17-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. Formatos de los documentos. Con el fin de garantizar la conservación, el documento se conservará preferentemente en un formato correspondiente a un estándar abierto que preserve a lo largo del tiempo la integridad...:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q087",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 87,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T17-F456"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. Principios básicos del Esquema Nacional de Interoperabilidad. La aplicación del Esquema Nacional de Interoperabilidad, ¿con qué principios específicos de la interoperabilidad se desarrollará?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-2a-q088",
+      "exam_id": "of-gc-p2022-2a",
+      "series_year": 2022,
+      "question_number": 88,
+      "block_refs": [
+        20
+      ],
+      "fact_refs": [
+        "GC-T17-F339"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios y recomendaciones básicas en Ciberseguridad del CCN-CERT. ¿Cuál de las siguientes acciones NO es una recomendación para utilizar el correo electrónico de forma segura?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q088",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 88,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T17-F009"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Sistemas de telecomunicaciones. Unidades TIC. Se entenderá por provisión de servicios TIC la realización de una o varias de las siguientes funciones, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-1a-q089",
+      "exam_id": "of-gc-p2022-1a",
+      "series_year": 2022,
+      "question_number": 89,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T17-F456"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. ¿Cuál de los siguientes NO es uno de los principios específicos de acuerdo con los cuales se desarrollará la aplicación del Esquema Nacional de Interoperabilidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2022-3a-q089",
+      "exam_id": "of-gc-p2022-3a",
+      "series_year": 2022,
+      "question_number": 89,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T17-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. La digitalización de documentos en soporte papel por parte de las Administraciones públicas se realizará de acuerdo con lo indicado en la norma técnica de interoperabilidad correspondiente en relación con los siguientes aspectos, señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q086",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 86,
+      "block_refs": [
+        3
+      ],
+      "fact_refs": [
+        "GC-T17-F015"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley General de Telecomunicaciones. Disposiciones generales. ¿Cuál de los siguientes es uno de los objetivos o principios de la ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q086",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 86,
+      "block_refs": [
+        6
+      ],
+      "fact_refs": [
+        "GC-T17-F047"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley General de Telecomunicaciones. Secreto de las comunicaciones. Los sujetos obligados deberán facilitar al agente facultado, salvo que por las características del servicio no estén a su disposición, los datos indicados en la orden de interceptación legal. ¿Cuál de los siguientes NO es uno de los que se relacionan en la ley?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2023-1a-q087",
+      "exam_id": "of-gc-p2023-1a",
+      "series_year": 2023,
+      "question_number": 87,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T17-F456"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. Condiciones de licenciamiento aplicables. ¿Cuál de los siguientes NO es uno de los aspectos que tendrán en cuenta las condiciones de licenciamiento de las aplicaciones informáticas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2023-2a-q087",
+      "exam_id": "of-gc-p2023-2a",
+      "series_year": 2023,
+      "question_number": 87,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T17-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. Condiciones para la recuperación y conservación de documentos. Las Administraciones públicas adoptarán las medidas organizativas y técnicas necesarias con el fin de garantizar la interoperabilidad en relación con la recuperación y conservación de los documentos electrónicos a lo largo de su ciclo de vida. ¿Cuál de las siguientes NO se incluirá entre tales medidas?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q082",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 82,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T17-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Ámbito de aplicación. Esta Ley “se aplicará a los prestadores _____________en otro Estado que tengan un establecimiento_______ situado en España, siempre que ofrezcan servicios no supervisados por la autoridad competente de otro país de la Unión Europea”.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q083",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 83,
+      "block_refs": [
+        2
+      ],
+      "fact_refs": [
+        "GC-T17-F009"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley General de Telecomunicaciones. Los bienes muebles o inmuebles vinculados a los centros, establecimientos y dependencias afectos a la instalación y explotación de las redes y a la prestación de los servicios de comunicaciones electrónicas dispondrán de las medidas y sistemas de seguridad, vigilancia, y protección que se determinen por…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q083",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 83,
+      "block_refs": [
+        11
+      ],
+      "fact_refs": [
+        "GC-T17-F178"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Revocación y suspensión de los certificados electrónicos. ¿Cuál de los siguientes NO es uno de los supuestos en los que los prestadores de servicios electrónicos de confianza extinguirán la vigencia de los certificados electrónicos mediante revocación?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q084",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 84,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T17-F204"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. En relación con las obligaciones de los prestadores de servicios electrónicos de confianza, indique la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-3a-q084",
+      "exam_id": "of-gc-p2024-3a",
+      "series_year": 2024,
+      "question_number": 84,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T17-F266"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios y recomendaciones básicas en Ciberseguridad del CCN-CERT. Factores de la amenaza. En la llamada “Pirámide del daño” en la que se categorizan las ciberamenazas atendiendo a la mayor o menor peligrosidad, según sea su origen, ¿cuál de las siguientes opciones se encontraría en el nivel de peligrosidad y amenaza más elevado?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-1a-q085",
+      "exam_id": "of-gc-p2024-1a",
+      "series_year": 2024,
+      "question_number": 85,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T17-F266"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios y recomendaciones básicas en Ciberseguridad del CCN-CERT. La Internet Profunda. La Red TOR. Con el fin de fortalecer las comunicaciones por Internet y garantizar el anonimato y la privacidad, ¿por quién fue diseñado e implementado el proyecto The Onion Router (TOR)?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2024-2a-q085",
+      "exam_id": "of-gc-p2024-2a",
+      "series_year": 2024,
+      "question_number": 85,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T17-F456"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. La interoperabilidad de las sedes y registros electrónicos, así como la del acceso electrónico de los ciudadanos a los servicios públicos, se regirán por lo establecido en…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q083",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 83,
+      "block_refs": [
+        13
+      ],
+      "fact_refs": [
+        "GC-T17-F204"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Obligaciones y responsabilidad de los prestadores de servicios electrónicos de confianza. Señale la opción INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q084",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 84,
+      "block_refs": [
+        17
+      ],
+      "fact_refs": [
+        "GC-T17-F266"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios y recomendaciones básicas en Ciberseguridad del CCN-CERT. Con respecto a los Bitcoins, señale la opción CORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2025-a-q085",
+      "exam_id": "of-gc-p2025-a",
+      "series_year": 2025,
+      "question_number": 85,
+      "block_refs": [
+        23
+      ],
+      "fact_refs": [
+        "GC-T17-F456"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o1",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. Para garantizar la debida interoperabilidad en materia de ciberseguridad y criptografía, el órgano competente será el Centro Criptológico Nacional adscrito al…:",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q080",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 80,
+      "block_refs": [
+        5
+      ],
+      "fact_refs": [
+        "GC-T17-F043"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley General de Telecomunicaciones. Salvaguardia de derechos fundamentales. Las medidas que se adopten en relación al acceso o al uso por parte de los usuarios finales de los servicios y las aplicaciones a través de redes de comunicaciones electrónicas respetarán los derechos y libertades fundamentales, como queda garantizado en…: Señale la proposición INCORRECTA.",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q081",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 81,
+      "block_refs": [
+        10
+      ],
+      "fact_refs": [
+        "GC-T17-F171"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o4",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Vigencia y caducidad de los certificados electrónicos. En atención a las características y tecnología empleada, ¿para generar qué datos se fijará el periodo de vigencia de los certificados cualificados?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q082",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 82,
+      "block_refs": [
+        18
+      ],
+      "fact_refs": [
+        "GC-T17-F276"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o2",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Principios y recomendaciones básicas en Ciberseguridad del CCN-CERT. Mensajería instantánea. ¿En qué año fue lanzada al mercado la aplicación de mensajería WhatsApp?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    },
+    {
+      "question_id": "of-gc-p2026-a-q083",
+      "exam_id": "of-gc-p2026-a",
+      "series_year": 2026,
+      "question_number": 83,
+      "block_refs": [
+        24
+      ],
+      "fact_refs": [
+        "GC-T17-F499"
+      ],
+      "appearance_status": "official_exam_verified",
+      "answer_status": "official_final_answer_key",
+      "respuesta": "o3",
+      "rule_status_2026": "crosschecked_current_rule",
+      "counts_for_ha_caido": true,
+      "verification_status": "verified",
+      "prompt": "Real Decreto por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. ¿Quién aprobará las normas técnicas de interoperabilidad?",
+      "source_status": "official_archive_verified",
+      "editorial_note": "Cuadernillo y plantilla final verificados; mapeo temático y vigencia revisados."
+    }
+  ]
+}

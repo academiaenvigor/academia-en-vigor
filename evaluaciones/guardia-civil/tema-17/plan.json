@@ -1,0 +1,194 @@
+{
+  "schema_version": "2.0.0",
+  "content_version": "1.0.0",
+  "opposition": "guardia-civil",
+  "topic_number": 17,
+  "topic_title": "Materias técnico-científicas. Tecnologías de la información y la comunicación",
+  "id_prefix": "GC-T17",
+  "status": "approved_internal",
+  "bank": "banco-preguntas/guardia-civil/tema-17/preguntas.jsonl",
+  "output": "evaluaciones/guardia-civil/tema-17/generadas/",
+  "coverage_tests": {
+    "description": "Cobertura íntegra del banco por bloque",
+    "max_questions_per_test": 25,
+    "blocks": [
+      {
+        "number": 1,
+        "title": "Alcance oficial, método y corte normativo"
+      },
+      {
+        "number": 2,
+        "title": "Objeto, ámbito y consideración de las telecomunicaciones"
+      },
+      {
+        "number": 3,
+        "title": "Objetivos y principios de la Ley General de Telecomunicaciones"
+      },
+      {
+        "number": 4,
+        "title": "Telecomunicaciones para seguridad, defensa y protección civil"
+      },
+      {
+        "number": 5,
+        "title": "Derechos fundamentales y no discriminación"
+      },
+      {
+        "number": 6,
+        "title": "Secreto e interceptación de las comunicaciones"
+      },
+      {
+        "number": 7,
+        "title": "Datos personales, cifrado, integridad y seguridad"
+      },
+      {
+        "number": 8,
+        "title": "Transición del Real Decreto 806/2014 al Real Decreto 1125/2024"
+      },
+      {
+        "number": 9,
+        "title": "Gobernanza, estrategia y servicios digitales comunes"
+      },
+      {
+        "number": 10,
+        "title": "Disposiciones generales y vigencia de certificados"
+      },
+      {
+        "number": 11,
+        "title": "Revocación y suspensión de certificados"
+      },
+      {
+        "number": 12,
+        "title": "Identidad, atributos y comprobación del solicitante"
+      },
+      {
+        "number": 13,
+        "title": "Protección de datos y obligaciones de los prestadores"
+      },
+      {
+        "number": 14,
+        "title": "Responsabilidad, inicio de actividad y seguridad"
+      },
+      {
+        "number": 15,
+        "title": "DNI electrónico y eficacia de sus certificados"
+      },
+      {
+        "number": 16,
+        "title": "Factores de amenaza y ataques dirigidos"
+      },
+      {
+        "number": 17,
+        "title": "Internet profunda, red TOR y bitcoin"
+      },
+      {
+        "number": 18,
+        "title": "Aplicaciones, cifrado, cortafuegos, antimalware y borrado"
+      },
+      {
+        "number": 19,
+        "title": "Navegación segura"
+      },
+      {
+        "number": 20,
+        "title": "Correo electrónico"
+      },
+      {
+        "number": 21,
+        "title": "Virtualización, dispositivos móviles y redes inalámbricas"
+      },
+      {
+        "number": 22,
+        "title": "Mensajería instantánea, redes sociales e Internet de las cosas"
+      },
+      {
+        "number": 23,
+        "title": "Objeto, principios e interoperabilidad organizativa, semántica y técnica"
+      },
+      {
+        "number": 24,
+        "title": "Comunicaciones, reutilización, firma y conservación documental"
+      }
+    ]
+  },
+  "part_tests": [
+    {
+      "part": 1,
+      "title": "Sistemas de telecomunicaciones",
+      "blocks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sizes": [
+        25
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Organización e instrumentos de la Administración Digital",
+      "blocks": [
+        8,
+        9
+      ],
+      "sizes": [
+        25
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Servicios electrónicos de confianza y firma digital",
+      "blocks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "sizes": [
+        25
+      ]
+    },
+    {
+      "part": 4,
+      "title": "Principios de ciberseguridad del CCN-CERT",
+      "blocks": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sizes": [
+        25
+      ]
+    },
+    {
+      "part": 5,
+      "title": "Esquema Nacional de Interoperabilidad",
+      "blocks": [
+        23,
+        24
+      ],
+      "sizes": [
+        25
+      ]
+    }
+  ],
+  "final_tests": [
+    {
+      "id": "GC-T17-FINAL-25",
+      "questions": 25
+    },
+    {
+      "id": "GC-T17-FINAL-50",
+      "questions": 50
+    }
+  ]
+}
