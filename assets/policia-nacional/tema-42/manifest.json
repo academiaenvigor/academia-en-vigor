@@ -4,14 +4,14 @@
   "topic": "tema-42",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 99,
-    "integrated": 0,
-    "planned": 99
+    "integrated": 99,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-16",
   "resources": [
     {
       "id": "T42-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial del Tema 42",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El programa exige origen, definición, clasificación, categorías, funcionamiento, cartucho, prohibiciones, documentación y balística forense.",
+      "description": "El programa exige origen, definición, clasificación, categorías, funcionamiento, cartucho, prohibiciones, documentación y balística forense.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Primeras armas de fuego portátiles",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las primeras armas portátiles expuestas por el Museo del Ejército incluyen culebrinas de mano, arcabuces y mosquetes.",
+      "description": "Las primeras armas portátiles expuestas por el Museo del Ejército incluyen culebrinas de mano, arcabuces y mosquetes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Evolución de las llaves de ignición",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El Museo del Ejército ordena la evolución visible desde llaves de mecha, rueda y pedernal hasta la percusión del siglo XIX.",
+      "description": "El Museo del Ejército ordena la evolución visible desde llaves de mecha, rueda y pedernal hasta la percusión del siglo XIX.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Objeto del Reglamento de Armas",
       "type": "ilustracion_simple",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El Reglamento regula fabricación, reparación, circulación, almacenamiento, comercio, adquisición, enajenación, tenencia y utilización.",
+      "description": "El Reglamento regula fabricación, reparación, circulación, almacenamiento, comercio, adquisición, enajenación, tenencia y utilización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Definición reglamentaria de arma de fuego",
       "type": "infografia",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Es arma de fuego la portátil con cañón que lance, esté concebida para lanzar o pueda transformarse fácilmente para lanzar un proyectil.",
+      "description": "Es arma de fuego la portátil con cañón que lance, esté concebida para lanzar o pueda transformarse fácilmente para lanzar un proyectil.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Componentes esenciales de arma corta",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En armas de fuego cortas son esenciales el armazón y el cañón.",
+      "description": "En armas de fuego cortas son esenciales el armazón y el cañón.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Componentes esenciales de arma larga",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En armas largas es esencial la caja o cajón de mecanismos, incluidos superior e inferior cuando corresponda.",
+      "description": "En armas largas es esencial la caja o cajón de mecanismos, incluidos superior e inferior cuando corresponda.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Pieza y componente esencial",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pieza es el elemento específicamente concebido para un arma de fuego e indispensable para su funcionamiento.",
+      "description": "Pieza es el elemento específicamente concebido para un arma de fuego e indispensable para su funcionamiento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Arma corta y arma larga",
       "type": "ilustracion_simple",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Es arma de fuego corta aquella cuyo cañón no excede de 30 centímetros o cuya longitud total no excede de 60.",
+      "description": "Es arma de fuego corta aquella cuyo cañón no excede de 30 centímetros o cuya longitud total no excede de 60.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Partes funcionales básicas",
       "type": "infografia",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La recámara aloja el cartucho preparado para el disparo.",
+      "description": "La recámara aloja el cartucho preparado para el disparo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Ánima, campos y estrías",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El ánima es la superficie interior del cañón.",
+      "description": "El ánima es la superficie interior del cañón.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Avancarga y retrocarga",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En la avancarga la carga de proyección y el proyectil se introducen por la boca del cañón o de la recámara del tambor.",
+      "description": "En la avancarga la carga de proyección y el proyectil se introducen por la boca del cañón o de la recámara del tambor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Arma de un solo tiro",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El arma de un solo tiro carece de depósito de municiones.",
+      "description": "El arma de un solo tiro carece de depósito de municiones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Arma basculante",
       "type": "ilustracion_simple",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El arma basculante carece de depósito de municiones en la definición reglamentaria.",
+      "description": "El arma basculante carece de depósito de municiones en la definición reglamentaria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Arma de repetición",
       "type": "infografia",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El arma de repetición se recarga después de cada disparo.",
+      "description": "El arma de repetición se recarga después de cada disparo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Arma semiautomática",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El arma semiautomática se recarga automáticamente después de cada disparo.",
+      "description": "El arma semiautomática se recarga automáticamente después de cada disparo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Arma automática",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El arma automática se recarga automáticamente después de cada disparo.",
+      "description": "El arma automática se recarga automáticamente después de cada disparo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Pistola y revólver",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Pistolas y revólveres están incluidos en la 1.ª categoría como armas de fuego cortas.",
+      "description": "Pistolas y revólveres están incluidos en la 1.ª categoría como armas de fuego cortas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Fusil, carabina y escopeta",
       "type": "ilustracion_simple",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Fusil y carabina suelen designar armas largas de cañón rayado, con diferencias dependientes del diseño y uso.",
+      "description": "Fusil y carabina suelen designar armas largas de cañón rayado, con diferencias dependientes del diseño y uso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Cargador, depósito y recámara",
       "type": "infografia",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El depósito de municiones almacena cartuchos disponibles para alimentar el arma.",
+      "description": "El depósito de municiones almacena cartuchos disponibles para alimentar el arma.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Alimentación y acerrojamiento",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Alimentar es llevar un cartucho desde el depósito hacia la recámara.",
+      "description": "Alimentar es llevar un cartucho desde el depósito hacia la recámara.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Extracción y expulsión",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La extracción retira la vaina o cartucho de la recámara.",
+      "description": "La extracción retira la vaina o cartucho de la recámara.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Desmilitarización y transformación",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La desmilitarización es la actividad fabril cuyo objetivo es transformar en civil o desbaratar un arma de guerra.",
+      "description": "La desmilitarización es la actividad fabril cuyo objetivo es transformar en civil o desbaratar un arma de guerra.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Criterio de las categorías",
       "type": "ilustracion_simple",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 3 clasifica armas reglamentadas atendiendo a características, grado de peligrosidad y destino o utilización.",
+      "description": "El artículo 3 clasifica armas reglamentadas atendiendo a características, grado de peligrosidad y destino o utilización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "1.ª categoría",
       "type": "infografia",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 1.ª categoría comprende armas de fuego cortas.",
+      "description": "La 1.ª categoría comprende armas de fuego cortas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "2.ª categoría 1",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 2.ª.1 comprende armas de fuego largas para vigilancia y guardería.",
+      "description": "La 2.ª.1 comprende armas de fuego largas para vigilancia y guardería.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "2.ª categoría 2",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 2.ª.2 comprende armas de fuego largas rayadas utilizables para caza mayor.",
+      "description": "La 2.ª.2 comprende armas de fuego largas rayadas utilizables para caza mayor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "3.ª categoría 1",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 3.ª.1 comprende armas largas rayadas para tiro deportivo.",
+      "description": "La 3.ª.1 comprende armas largas rayadas para tiro deportivo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "3.ª categoría 2",
       "type": "ilustracion_simple",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 3.ª.2 comprende escopetas y demás armas largas de ánima lisa.",
+      "description": "La 3.ª.2 comprende escopetas y demás armas largas de ánima lisa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "3.ª categoría 3",
       "type": "infografia",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 3.ª.3 comprende armas accionadas por aire u otro gas comprimido.",
+      "description": "La 3.ª.3 comprende armas accionadas por aire u otro gas comprimido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "4.ª categoría 1",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 4.ª.1 comprende carabinas y pistolas de tiro semiautomático y de repetición accionadas por aire o gas.",
+      "description": "La 4.ª.1 comprende carabinas y pistolas de tiro semiautomático y de repetición accionadas por aire o gas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "4.ª categoría 2",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 4.ª.2 comprende carabinas y pistolas de un solo tiro accionadas por aire o gas.",
+      "description": "La 4.ª.2 comprende carabinas y pistolas de un solo tiro accionadas por aire o gas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "5.ª categoría",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 5.ª.1 comprende armas blancas y de hoja cortante o punzante no prohibidas.",
+      "description": "La 5.ª.1 comprende armas blancas y de hoja cortante o punzante no prohibidas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "6.ª categoría 1 y 2",
       "type": "ilustracion_simple",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 6.ª.1 incluye armas antiguas o históricas, reproducciones y asimiladas conservadas en museos autorizados.",
+      "description": "La 6.ª.1 incluye armas antiguas o históricas, reproducciones y asimiladas conservadas en museos autorizados.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "6.ª categoría 3 y 4",
       "type": "infografia",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 6.ª.3 comprende restantes armas conservadas por carácter histórico o artístico conforme a los artículos 107 y 108.",
+      "description": "La 6.ª.3 comprende restantes armas conservadas por carácter histórico o artístico conforme a los artículos 107 y 108.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "7.ª categoría 1 a 3",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 7.ª.1 comprende armas de inyección anestésica para captura o control temporal de animales.",
+      "description": "La 7.ª.1 comprende armas de inyección anestésica para captura o control temporal de animales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "7.ª categoría 4 a 6",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 7.ª.4 comprende armas de sistema Flobert.",
+      "description": "La 7.ª.4 comprende armas de sistema Flobert.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "8.ª y 9.ª categorías",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La 8.ª categoría comprende armas acústicas y de salvas.",
+      "description": "La 8.ª categoría comprende armas acústicas y de salvas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Definición de munición y cartucho",
       "type": "ilustracion_simple",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Munición comprende el cartucho completo o sus componentes autorizados para un arma de fuego.",
+      "description": "Munición comprende el cartucho completo o sus componentes autorizados para un arma de fuego.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Cartucho metálico",
       "type": "infografia",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El cartucho metálico emplea una vaina de material metálico que reúne los elementos.",
+      "description": "El cartucho metálico emplea una vaina de material metálico que reúne los elementos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Cartucho semimetálico",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El cartucho semimetálico combina un culote metálico con un cuerpo de otro material, habitualmente plástico o cartón.",
+      "description": "El cartucho semimetálico combina un culote metálico con un cuerpo de otro material, habitualmente plástico o cartón.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Partes de la vaina",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La boca de la vaina sujeta o cierra sobre el proyectil o contenido.",
+      "description": "La boca de la vaina sujeta o cierra sobre el proyectil o contenido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Pistón o cebo",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El pistón contiene una mezcla sensible que inicia la combustión de la carga.",
+      "description": "El pistón contiene una mezcla sensible que inicia la combustión de la carga.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Percusión central",
       "type": "ilustracion_simple",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En percusión central el iniciador se sitúa en la zona central del culote.",
+      "description": "En percusión central el iniciador se sitúa en la zona central del culote.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Percusión anular",
       "type": "infografia",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En percusión anular el compuesto iniciador está distribuido en el reborde hueco del culote.",
+      "description": "En percusión anular el compuesto iniciador está distribuido en el reborde hueco del culote.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Carga propulsora",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La carga propulsora arde rápidamente tras la iniciación y genera gases a presión.",
+      "description": "La carga propulsora arde rápidamente tras la iniciación y genera gases a presión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Bala o proyectil",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La bala es el proyectil de determinados cartuchos, no el cartucho completo.",
+      "description": "La bala es el proyectil de determinados cartuchos, no el cartucho completo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Taco y perdigones",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El taco separa componentes y ayuda a obturar gases en muchos cartuchos semimetálicos.",
+      "description": "El taco separa componentes y ayuda a obturar gases en muchos cartuchos semimetálicos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Secuencia del disparo",
       "type": "ilustracion_simple",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La acción del disparador libera o acciona el mecanismo de percusión según el diseño.",
+      "description": "La acción del disparador libera o acciona el mecanismo de percusión según el diseño.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Calibre, gauge y marcaje",
       "type": "infografia",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Calibre es una designación dimensional o comercial cuya interpretación depende del sistema y cartucho.",
+      "description": "Calibre es una designación dimensional o comercial cuya interpretación depende del sistema y cartucho.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Marcas producidas en el disparo",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La aguja puede dejar una impresión en el iniciador.",
+      "description": "La aguja puede dejar una impresión en el iniciador.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Tres niveles de prohibición",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 4 establece prohibiciones generales de fabricación, circulación, publicidad, compraventa, tenencia y uso.",
+      "description": "El artículo 4 establece prohibiciones generales de fabricación, circulación, publicidad, compraventa, tenencia y uso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Armas sustancialmente modificadas",
       "type": "ilustracion_simple",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 4 prohíbe armas de fuego resultantes de modificar sustancialmente características de fabricación u origen sin autorización.",
+      "description": "El artículo 4 prohíbe armas de fuego resultantes de modificar sustancialmente características de fabricación u origen sin autorización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Armas ocultas o disimuladas",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Se prohíben armas largas con dispositivos en culata o mecanismos para alojar pistolas u otras armas.",
+      "description": "Se prohíben armas largas con dispositivos en culata o mecanismos para alojar pistolas u otras armas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Armas de imitación peligrosa y armas blancas ocultas",
       "type": "infografia",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 4 incluye determinadas armas que imitan otros objetos o combinan mecanismos prohibidos.",
+      "description": "El artículo 4 incluye determinadas armas que imitan otros objetos o combinan mecanismos prohibidos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Semiautomáticas restringidas del artículo 5",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 5 restringe ciertas semiautomáticas de las categorías 2.ª.2 y 3.ª.2.",
+      "description": "El artículo 5 restringe ciertas semiautomáticas de las categorías 2.ª.2 y 3.ª.2.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Armas y defensas de uso especialmente habilitado",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 5 restringe sprays de defensa no aprobados por el Ministerio de Sanidad.",
+      "description": "El artículo 5 restringe sprays de defensa no aprobados por el Ministerio de Sanidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Silenciadores y municiones especiales",
       "type": "ilustracion_simple",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los dispositivos concebidos o adaptados para disminuir el sonido están sometidos al régimen de pieza y a prohibiciones específicas.",
+      "description": "Los dispositivos concebidos o adaptados para disminuir el sonido están sometidos al régimen de pieza y a prohibiciones específicas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Munición expansiva",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La munición de bala expansiva se define por proyectil que se deforma y expande en un blanco similar a tejido.",
+      "description": "La munición de bala expansiva se define por proyectil que se deforma y expande en un blanco similar a tejido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Navajas y armas blancas prohibidas",
       "type": "infografia",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las navajas automáticas están prohibidas en los términos del Reglamento.",
+      "description": "Las navajas automáticas están prohibidas en los términos del Reglamento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Armas de guerra por calibre y consideración",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Son armas de guerra las de calibre igual o superior a 20 milímetros.",
+      "description": "Son armas de guerra las de calibre igual o superior a 20 milímetros.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Armas automáticas como armas de guerra",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las armas de fuego automáticas son armas de guerra.",
+      "description": "Las armas de fuego automáticas son armas de guerra.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Armas de alarma y señales transformables",
       "type": "ilustracion_simple",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un arma de alarma y señales debe estar diseñada para fogueo, sustancias activas o señalización.",
+      "description": "Un arma de alarma y señales debe estar diseñada para fogueo, sustancias activas o señalización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Diferencia entre prohibida, reglamentada e inutilizada",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Arma reglamentada es la clasificada cuya adquisición, tenencia o uso puede autorizarse o permitirse.",
+      "description": "Arma reglamentada es la clasificada cuya adquisición, tenencia o uso puede autorizarse o permitirse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Principio general de autorización",
       "type": "infografia",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Nadie puede llevar ni poseer armas de fuego en España sin la autorización correspondiente.",
+      "description": "Nadie puede llevar ni poseer armas de fuego en España sin la autorización correspondiente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Mapa de licencias",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia A se vincula al personal expresamente incluido y tiene eficacia de B, D y E en su ámbito.",
+      "description": "La licencia A se vincula al personal expresamente incluido y tiene eficacia de B, D y E en su ámbito.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Licencia A",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia A documenta armas privadas de categorías 1.ª, 2.ª y 3.ª del personal incluido en el artículo 114.",
+      "description": "La licencia A documenta armas privadas de categorías 1.ª, 2.ª y 3.ª del personal incluido en el artículo 114.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Licencia B",
       "type": "ilustracion_simple",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia B ampara armas de fuego cortas de particulares.",
+      "description": "La licencia B ampara armas de fuego cortas de particulares.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Licencia C",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia C se vincula a armas de dotación del personal de vigilancia y seguridad habilitado.",
+      "description": "La licencia C se vincula a armas de dotación del personal de vigilancia y seguridad habilitado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Licencia D",
       "type": "infografia",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia D ampara armas de la 2.ª.2 destinadas a caza mayor.",
+      "description": "La licencia D ampara armas de la 2.ª.2 destinadas a caza mayor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Licencia E",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia E ampara armas de las categorías reglamentarias previstas para caza y tiro deportivo.",
+      "description": "La licencia E ampara armas de las categorías reglamentarias previstas para caza y tiro deportivo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Licencia F",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La licencia F ampara armas consideradas de concurso.",
+      "description": "La licencia F ampara armas consideradas de concurso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Clases y cupos de licencia F",
       "type": "ilustracion_simple",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La F de tercera clase autoriza un arma corta o larga de concurso y excluye pistolas libres.",
+      "description": "La F de tercera clase autoriza un arma corta o larga de concurso y excluye pistolas libres.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Guía de pertenencia",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cada arma de las categorías 1.ª, 2.ª, 3.ª, 6.ª y subcategorías 7.ª.1, 2, 3, 4 y 8.ª debe llevar guía.",
+      "description": "Cada arma de las categorías 1.ª, 2.ª, 3.ª, 6.ª y subcategorías 7.ª.1, 2, 3, 4 y 8.ª debe llevar guía.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Contenido y expedición de la guía",
       "type": "infografia",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La guía recoge identidad y datos personales del propietario.",
+      "description": "La guía recoge identidad y datos personales del propietario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "Guías del personal con licencia A",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El personal del artículo 114 necesita guía para cada arma particular.",
+      "description": "El personal del artículo 114 necesita guía para cada arma particular.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "Tarjetas de armas",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Para llevar y usar armas de 4.ª fuera del domicilio se requiere tarjeta que acompañe al arma.",
+      "description": "Para llevar y usar armas de 4.ª fuera del domicilio se requiere tarjeta que acompañe al arma.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "Autorización especial de menores",
       "type": "ilustracion_simple",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mayores de 16 y menores de 18 pueden usar ciertas armas largas para caza o tiro junior con autorización y supervisión.",
+      "description": "Mayores de 16 y menores de 18 pueden usar ciertas armas largas para caza o tiro junior con autorización y supervisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Tarjeta Europea de Armas de Fuego",
       "type": "infografia",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La Tarjeta Europea es personal e intransferible.",
+      "description": "La Tarjeta Europea es personal e intransferible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,14 +1362,15 @@
       "title": "Revista, renovación y autorización temporal",
       "type": "infografia",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las armas que precisan guía pasan revista cada cinco años con carácter general.",
+      "description": "Las armas que precisan guía pasan revista cada cinco años con carácter general.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1299,14 +1379,15 @@
       "title": "Custodia y comunicación de pérdida",
       "type": "infografia",
       "placement": "bloque-81",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 81,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El titular debe guardar armas y componentes esenciales en lugar seguro y minimizar acceso no autorizado.",
+      "description": "El titular debe guardar armas y componentes esenciales en lugar seguro y minimizar acceso no autorizado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1315,14 +1396,15 @@
       "title": "Concepto y ramas de la balística",
       "type": "infografia",
       "placement": "bloque-82",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 82,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística estudia el movimiento y comportamiento de proyectiles.",
+      "description": "La balística estudia el movimiento y comportamiento de proyectiles.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1331,14 +1413,15 @@
       "title": "Balística interna",
       "type": "ilustracion_simple",
       "placement": "bloque-83",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 83,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística interna comienza con la iniciación del cartucho.",
+      "description": "La balística interna comienza con la iniciación del cartucho.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1347,14 +1430,15 @@
       "title": "Balística externa",
       "type": "infografia",
       "placement": "bloque-84",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 84,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística externa comienza cuando el proyectil abandona la boca.",
+      "description": "La balística externa comienza cuando el proyectil abandona la boca.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1363,14 +1447,15 @@
       "title": "Balística terminal o de efectos",
       "type": "infografia",
       "placement": "bloque-85",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 85,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística terminal estudia el proyectil desde el impacto y su interacción con el blanco.",
+      "description": "La balística terminal estudia el proyectil desde el impacto y su interacción con el blanco.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1379,14 +1464,15 @@
       "title": "Trayectoria y línea de tiro",
       "type": "infografia",
       "placement": "bloque-86",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 86,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La línea inicial de tiro se aproxima a partir del eje del cañón en el instante de salida.",
+      "description": "La línea inicial de tiro se aproxima a partir del eje del cañón en el instante de salida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1395,14 +1481,15 @@
       "title": "Distancia de disparo",
       "type": "infografia",
       "placement": "bloque-87",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 87,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La distancia boca-blanco puede estimarse mediante residuos y patrones sobre el blanco.",
+      "description": "La distancia boca-blanco puede estimarse mediante residuos y patrones sobre el blanco.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1411,14 +1498,15 @@
       "title": "Orificios de entrada y salida",
       "type": "infografia",
       "placement": "bloque-88",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 88,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Entrada y salida se valoran por morfología, bordes, residuos, tejidos y trayectoria conjunta.",
+      "description": "Entrada y salida se valoran por morfología, bordes, residuos, tejidos y trayectoria conjunta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1427,14 +1515,15 @@
       "title": "Rebotes y proyectiles deformados",
       "type": "infografia",
       "placement": "bloque-89",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 89,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un rebote puede cambiar dirección, estabilidad y velocidad.",
+      "description": "Un rebote puede cambiar dirección, estabilidad y velocidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1443,14 +1532,15 @@
       "title": "Objeto de la balística forense",
       "type": "infografia",
       "placement": "bloque-90",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 90,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística forense aplica conocimientos sobre armas, munición, disparos y marcas a una investigación.",
+      "description": "La balística forense aplica conocimientos sobre armas, munición, disparos y marcas a una investigación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1459,14 +1549,15 @@
       "title": "Balística funcional",
       "type": "ilustracion_simple",
       "placement": "bloque-91",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 91,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística funcional examina características generales y estado de conservación.",
+      "description": "La balística funcional examina características generales y estado de conservación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1475,14 +1566,15 @@
       "title": "Balística identificativa",
       "type": "infografia",
       "placement": "bloque-92",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 92,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística identificativa compara vainas y proyectiles cuestionados con muestras de origen conocido.",
+      "description": "La balística identificativa compara vainas y proyectiles cuestionados con muestras de origen conocido.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1491,14 +1583,15 @@
       "title": "Características de clase, subclase e individuales",
       "type": "infografia",
       "placement": "bloque-93",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 93,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las características de clase proceden del diseño, como calibre, número y sentido de estrías.",
+      "description": "Las características de clase proceden del diseño, como calibre, número y sentido de estrías.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1507,14 +1600,15 @@
       "title": "Marcas en vaina",
       "type": "infografia",
       "placement": "bloque-94",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 94,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La vaina puede mostrar marca de aguja percutora.",
+      "description": "La vaina puede mostrar marca de aguja percutora.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1523,14 +1617,15 @@
       "title": "Marcas en proyectil",
       "type": "infografia",
       "placement": "bloque-95",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 95,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El proyectil puede recibir impresiones de campos y estrías durante su paso por el cañón.",
+      "description": "El proyectil puede recibir impresiones de campos y estrías durante su paso por el cañón.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1539,14 +1634,15 @@
       "title": "Balística operativa y escena",
       "type": "ilustracion_simple",
       "placement": "bloque-96",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 96,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La balística operativa examina lugares con impactos de disparos.",
+      "description": "La balística operativa examina lugares con impactos de disparos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1555,14 +1651,15 @@
       "title": "Residuos de disparo",
       "type": "infografia",
       "placement": "bloque-97",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 97,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los residuos pueden proceder del cebo, propelente, proyectil y superficies del arma.",
+      "description": "Los residuos pueden proceder del cebo, propelente, proyectil y superficies del arma.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1571,14 +1668,15 @@
       "title": "Estimación de distancia y patrones",
       "type": "infografia",
       "placement": "bloque-98",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 98,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Residuos sobre el blanco pueden compararse con patrones obtenidos a distancias conocidas.",
+      "description": "Residuos sobre el blanco pueden compararse con patrones obtenidos a distancias conocidas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1587,1601 +1685,17 @@
       "title": "Límites de la conclusión forense",
       "type": "infografia",
       "placement": "bloque-99",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 99,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una asociación de marcas se refiere a los elementos comparados y al alcance del método.",
+      "description": "Una asociación de marcas se refiere a los elementos comparados y al alcance del método.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T42-V01",
-      "file": "t42-01-alcance-oficial-del-tema-42.webp",
-      "title": "Alcance oficial del Tema 42",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El programa exige origen, definición, clasificación, categorías, funcionamiento, cartucho, prohibiciones, documentación y balística forense.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V02",
-      "file": "t42-02-primeras-armas-de-fuego-portatiles.webp",
-      "title": "Primeras armas de fuego portátiles",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las primeras armas portátiles expuestas por el Museo del Ejército incluyen culebrinas de mano, arcabuces y mosquetes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V03",
-      "file": "t42-03-evolucion-de-las-llaves-de-ignicion.webp",
-      "title": "Evolución de las llaves de ignición",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El Museo del Ejército ordena la evolución visible desde llaves de mecha, rueda y pedernal hasta la percusión del siglo XIX.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V04",
-      "file": "t42-il-04-objeto-del-reglamento-de-armas.webp",
-      "title": "Objeto del Reglamento de Armas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El Reglamento regula fabricación, reparación, circulación, almacenamiento, comercio, adquisición, enajenación, tenencia y utilización.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V05",
-      "file": "t42-05-definicion-reglamentaria-de-arma-de-fuego.webp",
-      "title": "Definición reglamentaria de arma de fuego",
-      "type": "infografia",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Es arma de fuego la portátil con cañón que lance, esté concebida para lanzar o pueda transformarse fácilmente para lanzar un proyectil.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V06",
-      "file": "t42-06-componentes-esenciales-de-arma-corta.webp",
-      "title": "Componentes esenciales de arma corta",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En armas de fuego cortas son esenciales el armazón y el cañón.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V07",
-      "file": "t42-07-componentes-esenciales-de-arma-larga.webp",
-      "title": "Componentes esenciales de arma larga",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En armas largas es esencial la caja o cajón de mecanismos, incluidos superior e inferior cuando corresponda.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V08",
-      "file": "t42-08-pieza-y-componente-esencial.webp",
-      "title": "Pieza y componente esencial",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pieza es el elemento específicamente concebido para un arma de fuego e indispensable para su funcionamiento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V09",
-      "file": "t42-il-09-arma-corta-y-arma-larga.webp",
-      "title": "Arma corta y arma larga",
-      "type": "ilustracion_simple",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Es arma de fuego corta aquella cuyo cañón no excede de 30 centímetros o cuya longitud total no excede de 60.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V10",
-      "file": "t42-10-partes-funcionales-basicas.webp",
-      "title": "Partes funcionales básicas",
-      "type": "infografia",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La recámara aloja el cartucho preparado para el disparo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V11",
-      "file": "t42-11-anima-campos-y-estrias.webp",
-      "title": "Ánima, campos y estrías",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El ánima es la superficie interior del cañón.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V12",
-      "file": "t42-12-avancarga-y-retrocarga.webp",
-      "title": "Avancarga y retrocarga",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En la avancarga la carga de proyección y el proyectil se introducen por la boca del cañón o de la recámara del tambor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V13",
-      "file": "t42-13-arma-de-un-solo-tiro.webp",
-      "title": "Arma de un solo tiro",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El arma de un solo tiro carece de depósito de municiones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V14",
-      "file": "t42-il-14-arma-basculante.webp",
-      "title": "Arma basculante",
-      "type": "ilustracion_simple",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El arma basculante carece de depósito de municiones en la definición reglamentaria.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V15",
-      "file": "t42-15-arma-de-repeticion.webp",
-      "title": "Arma de repetición",
-      "type": "infografia",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El arma de repetición se recarga después de cada disparo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V16",
-      "file": "t42-16-arma-semiautomatica.webp",
-      "title": "Arma semiautomática",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El arma semiautomática se recarga automáticamente después de cada disparo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V17",
-      "file": "t42-17-arma-automatica.webp",
-      "title": "Arma automática",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El arma automática se recarga automáticamente después de cada disparo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V18",
-      "file": "t42-18-pistola-y-revolver.webp",
-      "title": "Pistola y revólver",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Pistolas y revólveres están incluidos en la 1.ª categoría como armas de fuego cortas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V19",
-      "file": "t42-il-19-fusil-carabina-y-escopeta.webp",
-      "title": "Fusil, carabina y escopeta",
-      "type": "ilustracion_simple",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Fusil y carabina suelen designar armas largas de cañón rayado, con diferencias dependientes del diseño y uso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V20",
-      "file": "t42-20-cargador-deposito-y-recamara.webp",
-      "title": "Cargador, depósito y recámara",
-      "type": "infografia",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El depósito de municiones almacena cartuchos disponibles para alimentar el arma.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V21",
-      "file": "t42-21-alimentacion-y-acerrojamiento.webp",
-      "title": "Alimentación y acerrojamiento",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Alimentar es llevar un cartucho desde el depósito hacia la recámara.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V22",
-      "file": "t42-22-extraccion-y-expulsion.webp",
-      "title": "Extracción y expulsión",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La extracción retira la vaina o cartucho de la recámara.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V23",
-      "file": "t42-23-desmilitarizacion-y-transformacion.webp",
-      "title": "Desmilitarización y transformación",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La desmilitarización es la actividad fabril cuyo objetivo es transformar en civil o desbaratar un arma de guerra.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V24",
-      "file": "t42-il-24-criterio-de-las-categorias.webp",
-      "title": "Criterio de las categorías",
-      "type": "ilustracion_simple",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 3 clasifica armas reglamentadas atendiendo a características, grado de peligrosidad y destino o utilización.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V25",
-      "file": "t42-25-1-a-categoria.webp",
-      "title": "1.ª categoría",
-      "type": "infografia",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 1.ª categoría comprende armas de fuego cortas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V26",
-      "file": "t42-26-2-a-categoria-1.webp",
-      "title": "2.ª categoría 1",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 2.ª.1 comprende armas de fuego largas para vigilancia y guardería.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V27",
-      "file": "t42-27-2-a-categoria-2.webp",
-      "title": "2.ª categoría 2",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 2.ª.2 comprende armas de fuego largas rayadas utilizables para caza mayor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V28",
-      "file": "t42-28-3-a-categoria-1.webp",
-      "title": "3.ª categoría 1",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 3.ª.1 comprende armas largas rayadas para tiro deportivo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V29",
-      "file": "t42-il-29-3-a-categoria-2.webp",
-      "title": "3.ª categoría 2",
-      "type": "ilustracion_simple",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 3.ª.2 comprende escopetas y demás armas largas de ánima lisa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V30",
-      "file": "t42-30-3-a-categoria-3.webp",
-      "title": "3.ª categoría 3",
-      "type": "infografia",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 3.ª.3 comprende armas accionadas por aire u otro gas comprimido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V31",
-      "file": "t42-31-4-a-categoria-1.webp",
-      "title": "4.ª categoría 1",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 4.ª.1 comprende carabinas y pistolas de tiro semiautomático y de repetición accionadas por aire o gas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V32",
-      "file": "t42-32-4-a-categoria-2.webp",
-      "title": "4.ª categoría 2",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 4.ª.2 comprende carabinas y pistolas de un solo tiro accionadas por aire o gas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V33",
-      "file": "t42-33-5-a-categoria.webp",
-      "title": "5.ª categoría",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 5.ª.1 comprende armas blancas y de hoja cortante o punzante no prohibidas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V34",
-      "file": "t42-il-34-6-a-categoria-1-y-2.webp",
-      "title": "6.ª categoría 1 y 2",
-      "type": "ilustracion_simple",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 6.ª.1 incluye armas antiguas o históricas, reproducciones y asimiladas conservadas en museos autorizados.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V35",
-      "file": "t42-35-6-a-categoria-3-y-4.webp",
-      "title": "6.ª categoría 3 y 4",
-      "type": "infografia",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 6.ª.3 comprende restantes armas conservadas por carácter histórico o artístico conforme a los artículos 107 y 108.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V36",
-      "file": "t42-36-7-a-categoria-1-a-3.webp",
-      "title": "7.ª categoría 1 a 3",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 7.ª.1 comprende armas de inyección anestésica para captura o control temporal de animales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V37",
-      "file": "t42-37-7-a-categoria-4-a-6.webp",
-      "title": "7.ª categoría 4 a 6",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 7.ª.4 comprende armas de sistema Flobert.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V38",
-      "file": "t42-38-8-a-y-9-a-categorias.webp",
-      "title": "8.ª y 9.ª categorías",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La 8.ª categoría comprende armas acústicas y de salvas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V39",
-      "file": "t42-il-39-definicion-de-municion-y-cartucho.webp",
-      "title": "Definición de munición y cartucho",
-      "type": "ilustracion_simple",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Munición comprende el cartucho completo o sus componentes autorizados para un arma de fuego.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V40",
-      "file": "t42-40-cartucho-metalico.webp",
-      "title": "Cartucho metálico",
-      "type": "infografia",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El cartucho metálico emplea una vaina de material metálico que reúne los elementos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V41",
-      "file": "t42-41-cartucho-semimetalico.webp",
-      "title": "Cartucho semimetálico",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El cartucho semimetálico combina un culote metálico con un cuerpo de otro material, habitualmente plástico o cartón.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V42",
-      "file": "t42-42-partes-de-la-vaina.webp",
-      "title": "Partes de la vaina",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La boca de la vaina sujeta o cierra sobre el proyectil o contenido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V43",
-      "file": "t42-43-piston-o-cebo.webp",
-      "title": "Pistón o cebo",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El pistón contiene una mezcla sensible que inicia la combustión de la carga.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V44",
-      "file": "t42-il-44-percusion-central.webp",
-      "title": "Percusión central",
-      "type": "ilustracion_simple",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En percusión central el iniciador se sitúa en la zona central del culote.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V45",
-      "file": "t42-45-percusion-anular.webp",
-      "title": "Percusión anular",
-      "type": "infografia",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En percusión anular el compuesto iniciador está distribuido en el reborde hueco del culote.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V46",
-      "file": "t42-46-carga-propulsora.webp",
-      "title": "Carga propulsora",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La carga propulsora arde rápidamente tras la iniciación y genera gases a presión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V47",
-      "file": "t42-47-bala-o-proyectil.webp",
-      "title": "Bala o proyectil",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La bala es el proyectil de determinados cartuchos, no el cartucho completo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V48",
-      "file": "t42-48-taco-y-perdigones.webp",
-      "title": "Taco y perdigones",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El taco separa componentes y ayuda a obturar gases en muchos cartuchos semimetálicos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V49",
-      "file": "t42-il-49-secuencia-del-disparo.webp",
-      "title": "Secuencia del disparo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La acción del disparador libera o acciona el mecanismo de percusión según el diseño.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V50",
-      "file": "t42-50-calibre-gauge-y-marcaje.webp",
-      "title": "Calibre, gauge y marcaje",
-      "type": "infografia",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Calibre es una designación dimensional o comercial cuya interpretación depende del sistema y cartucho.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V51",
-      "file": "t42-51-marcas-producidas-en-el-disparo.webp",
-      "title": "Marcas producidas en el disparo",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La aguja puede dejar una impresión en el iniciador.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V52",
-      "file": "t42-52-tres-niveles-de-prohibicion.webp",
-      "title": "Tres niveles de prohibición",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 4 establece prohibiciones generales de fabricación, circulación, publicidad, compraventa, tenencia y uso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V53",
-      "file": "t42-il-53-armas-sustancialmente-modificadas.webp",
-      "title": "Armas sustancialmente modificadas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 4 prohíbe armas de fuego resultantes de modificar sustancialmente características de fabricación u origen sin autorización.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V54",
-      "file": "t42-54-armas-ocultas-o-disimuladas.webp",
-      "title": "Armas ocultas o disimuladas",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Se prohíben armas largas con dispositivos en culata o mecanismos para alojar pistolas u otras armas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V55",
-      "file": "t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp",
-      "title": "Armas de imitación peligrosa y armas blancas ocultas",
-      "type": "infografia",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 4 incluye determinadas armas que imitan otros objetos o combinan mecanismos prohibidos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V56",
-      "file": "t42-56-semiautomaticas-restringidas-del-articulo-5.webp",
-      "title": "Semiautomáticas restringidas del artículo 5",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 5 restringe ciertas semiautomáticas de las categorías 2.ª.2 y 3.ª.2.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V57",
-      "file": "t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp",
-      "title": "Armas y defensas de uso especialmente habilitado",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 5 restringe sprays de defensa no aprobados por el Ministerio de Sanidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V58",
-      "file": "t42-il-58-silenciadores-y-municiones-especiales.webp",
-      "title": "Silenciadores y municiones especiales",
-      "type": "ilustracion_simple",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los dispositivos concebidos o adaptados para disminuir el sonido están sometidos al régimen de pieza y a prohibiciones específicas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V59",
-      "file": "t42-59-municion-expansiva.webp",
-      "title": "Munición expansiva",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La munición de bala expansiva se define por proyectil que se deforma y expande en un blanco similar a tejido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V60",
-      "file": "t42-60-navajas-y-armas-blancas-prohibidas.webp",
-      "title": "Navajas y armas blancas prohibidas",
-      "type": "infografia",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las navajas automáticas están prohibidas en los términos del Reglamento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V61",
-      "file": "t42-61-armas-de-guerra-por-calibre-y-consideracion.webp",
-      "title": "Armas de guerra por calibre y consideración",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Son armas de guerra las de calibre igual o superior a 20 milímetros.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V62",
-      "file": "t42-62-armas-automaticas-como-armas-de-guerra.webp",
-      "title": "Armas automáticas como armas de guerra",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las armas de fuego automáticas son armas de guerra.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V63",
-      "file": "t42-il-63-armas-de-alarma-y-senales-transformables.webp",
-      "title": "Armas de alarma y señales transformables",
-      "type": "ilustracion_simple",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un arma de alarma y señales debe estar diseñada para fogueo, sustancias activas o señalización.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V64",
-      "file": "t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp",
-      "title": "Diferencia entre prohibida, reglamentada e inutilizada",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Arma reglamentada es la clasificada cuya adquisición, tenencia o uso puede autorizarse o permitirse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V65",
-      "file": "t42-65-principio-general-de-autorizacion.webp",
-      "title": "Principio general de autorización",
-      "type": "infografia",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Nadie puede llevar ni poseer armas de fuego en España sin la autorización correspondiente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V66",
-      "file": "t42-66-mapa-de-licencias.webp",
-      "title": "Mapa de licencias",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia A se vincula al personal expresamente incluido y tiene eficacia de B, D y E en su ámbito.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V67",
-      "file": "t42-67-licencia-a.webp",
-      "title": "Licencia A",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia A documenta armas privadas de categorías 1.ª, 2.ª y 3.ª del personal incluido en el artículo 114.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V68",
-      "file": "t42-il-68-licencia-b.webp",
-      "title": "Licencia B",
-      "type": "ilustracion_simple",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia B ampara armas de fuego cortas de particulares.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V69",
-      "file": "t42-69-licencia-c.webp",
-      "title": "Licencia C",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia C se vincula a armas de dotación del personal de vigilancia y seguridad habilitado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V70",
-      "file": "t42-70-licencia-d.webp",
-      "title": "Licencia D",
-      "type": "infografia",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia D ampara armas de la 2.ª.2 destinadas a caza mayor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V71",
-      "file": "t42-71-licencia-e.webp",
-      "title": "Licencia E",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia E ampara armas de las categorías reglamentarias previstas para caza y tiro deportivo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V72",
-      "file": "t42-72-licencia-f.webp",
-      "title": "Licencia F",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La licencia F ampara armas consideradas de concurso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V73",
-      "file": "t42-il-73-clases-y-cupos-de-licencia-f.webp",
-      "title": "Clases y cupos de licencia F",
-      "type": "ilustracion_simple",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La F de tercera clase autoriza un arma corta o larga de concurso y excluye pistolas libres.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V74",
-      "file": "t42-74-guia-de-pertenencia.webp",
-      "title": "Guía de pertenencia",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cada arma de las categorías 1.ª, 2.ª, 3.ª, 6.ª y subcategorías 7.ª.1, 2, 3, 4 y 8.ª debe llevar guía.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V75",
-      "file": "t42-75-contenido-y-expedicion-de-la-guia.webp",
-      "title": "Contenido y expedición de la guía",
-      "type": "infografia",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La guía recoge identidad y datos personales del propietario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V76",
-      "file": "t42-76-guias-del-personal-con-licencia-a.webp",
-      "title": "Guías del personal con licencia A",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El personal del artículo 114 necesita guía para cada arma particular.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V77",
-      "file": "t42-77-tarjetas-de-armas.webp",
-      "title": "Tarjetas de armas",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Para llevar y usar armas de 4.ª fuera del domicilio se requiere tarjeta que acompañe al arma.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V78",
-      "file": "t42-il-78-autorizacion-especial-de-menores.webp",
-      "title": "Autorización especial de menores",
-      "type": "ilustracion_simple",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mayores de 16 y menores de 18 pueden usar ciertas armas largas para caza o tiro junior con autorización y supervisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V79",
-      "file": "t42-79-tarjeta-europea-de-armas-de-fuego.webp",
-      "title": "Tarjeta Europea de Armas de Fuego",
-      "type": "infografia",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La Tarjeta Europea es personal e intransferible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V80",
-      "file": "t42-80-revista-renovacion-y-autorizacion-temporal.webp",
-      "title": "Revista, renovación y autorización temporal",
-      "type": "infografia",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las armas que precisan guía pasan revista cada cinco años con carácter general.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V81",
-      "file": "t42-81-custodia-y-comunicacion-de-perdida.webp",
-      "title": "Custodia y comunicación de pérdida",
-      "type": "infografia",
-      "placement": "bloque-81",
-      "status": "planned",
-      "block": 81,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El titular debe guardar armas y componentes esenciales en lugar seguro y minimizar acceso no autorizado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V82",
-      "file": "t42-82-concepto-y-ramas-de-la-balistica.webp",
-      "title": "Concepto y ramas de la balística",
-      "type": "infografia",
-      "placement": "bloque-82",
-      "status": "planned",
-      "block": 82,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística estudia el movimiento y comportamiento de proyectiles.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V83",
-      "file": "t42-il-83-balistica-interna.webp",
-      "title": "Balística interna",
-      "type": "ilustracion_simple",
-      "placement": "bloque-83",
-      "status": "planned",
-      "block": 83,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística interna comienza con la iniciación del cartucho.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V84",
-      "file": "t42-84-balistica-externa.webp",
-      "title": "Balística externa",
-      "type": "infografia",
-      "placement": "bloque-84",
-      "status": "planned",
-      "block": 84,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística externa comienza cuando el proyectil abandona la boca.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V85",
-      "file": "t42-85-balistica-terminal-o-de-efectos.webp",
-      "title": "Balística terminal o de efectos",
-      "type": "infografia",
-      "placement": "bloque-85",
-      "status": "planned",
-      "block": 85,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística terminal estudia el proyectil desde el impacto y su interacción con el blanco.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V86",
-      "file": "t42-86-trayectoria-y-linea-de-tiro.webp",
-      "title": "Trayectoria y línea de tiro",
-      "type": "infografia",
-      "placement": "bloque-86",
-      "status": "planned",
-      "block": 86,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La línea inicial de tiro se aproxima a partir del eje del cañón en el instante de salida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V87",
-      "file": "t42-87-distancia-de-disparo.webp",
-      "title": "Distancia de disparo",
-      "type": "infografia",
-      "placement": "bloque-87",
-      "status": "planned",
-      "block": 87,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La distancia boca-blanco puede estimarse mediante residuos y patrones sobre el blanco.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V88",
-      "file": "t42-88-orificios-de-entrada-y-salida.webp",
-      "title": "Orificios de entrada y salida",
-      "type": "infografia",
-      "placement": "bloque-88",
-      "status": "planned",
-      "block": 88,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Entrada y salida se valoran por morfología, bordes, residuos, tejidos y trayectoria conjunta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V89",
-      "file": "t42-89-rebotes-y-proyectiles-deformados.webp",
-      "title": "Rebotes y proyectiles deformados",
-      "type": "infografia",
-      "placement": "bloque-89",
-      "status": "planned",
-      "block": 89,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un rebote puede cambiar dirección, estabilidad y velocidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V90",
-      "file": "t42-90-objeto-de-la-balistica-forense.webp",
-      "title": "Objeto de la balística forense",
-      "type": "infografia",
-      "placement": "bloque-90",
-      "status": "planned",
-      "block": 90,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística forense aplica conocimientos sobre armas, munición, disparos y marcas a una investigación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V91",
-      "file": "t42-il-91-balistica-funcional.webp",
-      "title": "Balística funcional",
-      "type": "ilustracion_simple",
-      "placement": "bloque-91",
-      "status": "planned",
-      "block": 91,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística funcional examina características generales y estado de conservación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V92",
-      "file": "t42-92-balistica-identificativa.webp",
-      "title": "Balística identificativa",
-      "type": "infografia",
-      "placement": "bloque-92",
-      "status": "planned",
-      "block": 92,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística identificativa compara vainas y proyectiles cuestionados con muestras de origen conocido.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V93",
-      "file": "t42-93-caracteristicas-de-clase-subclase-e-individuales.webp",
-      "title": "Características de clase, subclase e individuales",
-      "type": "infografia",
-      "placement": "bloque-93",
-      "status": "planned",
-      "block": 93,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las características de clase proceden del diseño, como calibre, número y sentido de estrías.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V94",
-      "file": "t42-94-marcas-en-vaina.webp",
-      "title": "Marcas en vaina",
-      "type": "infografia",
-      "placement": "bloque-94",
-      "status": "planned",
-      "block": 94,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La vaina puede mostrar marca de aguja percutora.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V95",
-      "file": "t42-95-marcas-en-proyectil.webp",
-      "title": "Marcas en proyectil",
-      "type": "infografia",
-      "placement": "bloque-95",
-      "status": "planned",
-      "block": 95,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El proyectil puede recibir impresiones de campos y estrías durante su paso por el cañón.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V96",
-      "file": "t42-il-96-balistica-operativa-y-escena.webp",
-      "title": "Balística operativa y escena",
-      "type": "ilustracion_simple",
-      "placement": "bloque-96",
-      "status": "planned",
-      "block": 96,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La balística operativa examina lugares con impactos de disparos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V97",
-      "file": "t42-97-residuos-de-disparo.webp",
-      "title": "Residuos de disparo",
-      "type": "infografia",
-      "placement": "bloque-97",
-      "status": "planned",
-      "block": 97,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los residuos pueden proceder del cebo, propelente, proyectil y superficies del arma.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V98",
-      "file": "t42-98-estimacion-de-distancia-y-patrones.webp",
-      "title": "Estimación de distancia y patrones",
-      "type": "infografia",
-      "placement": "bloque-98",
-      "status": "planned",
-      "block": 98,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Residuos sobre el blanco pueden compararse con patrones obtenidos a distancias conocidas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T42-V99",
-      "file": "t42-99-limites-de-la-conclusion-forense.webp",
-      "title": "Límites de la conclusión forense",
-      "type": "infografia",
-      "placement": "bloque-99",
-      "status": "planned",
-      "block": 99,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una asociación de marcas se refiere a los elementos comparados y al alcance del método.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 42**, aplica esta regla: El programa exi
 - **Incorrecto:** El Tema 42 se limita a memorizar licencias.
 - **Incorrecto:** Toda clasificación técnica produce automáticamente una categoría legal.
 
-<!-- VISUAL PENDIENTE: t42-01-alcance-oficial-del-tema-42.webp -->
+<!-- VISUAL:t42-01-alcance-oficial-del-tema-42.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-01-alcance-oficial-del-tema-42.webp" alt="Alcance oficial del Tema 42" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 42.</em></p>
 
 :::hablemos-claro
 El programa exige origen, definición, clasificación, categorías, funcionamiento, cartucho, prohibiciones, documentación y balística forense.
@@ -72,7 +76,11 @@ Para dominar **primeras armas de fuego portátiles**, aplica esta regla: Las pri
 - **Incorrecto:** El primer arma portátil fue una pistola semiautomática.
 - **Incorrecto:** Arma antigua y arma de avancarga son términos equivalentes.
 
-<!-- VISUAL PENDIENTE: t42-02-primeras-armas-de-fuego-portatiles.webp -->
+<!-- VISUAL:t42-02-primeras-armas-de-fuego-portatiles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-02-primeras-armas-de-fuego-portatiles.webp" alt="Primeras armas de fuego portátiles" width="820">
+</p>
+<p align="center"><em>Infografía: Primeras armas de fuego portátiles.</em></p>
 
 :::hablemos-claro
 Las primeras armas portátiles expuestas por el Museo del Ejército incluyen culebrinas de mano, arcabuces y mosquetes.
@@ -111,7 +119,11 @@ Para dominar **evolución de las llaves de ignición**, aplica esta regla: El Mu
 - **Incorrecto:** La llave de pedernal usa un cartucho eléctrico.
 - **Incorrecto:** Percusión significa necesariamente fuego automático.
 
-<!-- VISUAL PENDIENTE: t42-03-evolucion-de-las-llaves-de-ignicion.webp -->
+<!-- VISUAL:t42-03-evolucion-de-las-llaves-de-ignicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-03-evolucion-de-las-llaves-de-ignicion.webp" alt="Evolución de las llaves de ignición" width="820">
+</p>
+<p align="center"><em>Infografía: Evolución de las llaves de ignición.</em></p>
 
 :::hablemos-claro
 El Museo del Ejército ordena la evolución visible desde llaves de mecha, rueda y pedernal hasta la percusión del siglo XIX.
@@ -150,7 +162,11 @@ Para dominar **objeto del reglamento de armas**, aplica esta regla: El Reglament
 - **Incorrecto:** El Reglamento solo regula la compra de pistolas.
 - **Incorrecto:** La regulación excluye por completo imitaciones y componentes.
 
-<!-- VISUAL PENDIENTE: t42-il-04-objeto-del-reglamento-de-armas.webp -->
+<!-- VISUAL:t42-il-04-objeto-del-reglamento-de-armas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-04-objeto-del-reglamento-de-armas.webp" alt="Objeto del Reglamento de Armas" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto del Reglamento de Armas.</em></p>
 
 :::hablemos-claro
 El Reglamento regula fabricación, reparación, circulación, almacenamiento, comercio, adquisición, enajenación, tenencia y utilización.
@@ -189,7 +205,11 @@ Para dominar **definición reglamentaria de arma de fuego**, aplica esta regla: 
 - **Incorrecto:** Cualquier objeto con forma de pistola es arma de fuego.
 - **Incorrecto:** Las armas de fuego solo incluyen las que ya han disparado.
 
-<!-- VISUAL PENDIENTE: t42-05-definicion-reglamentaria-de-arma-de-fuego.webp -->
+<!-- VISUAL:t42-05-definicion-reglamentaria-de-arma-de-fuego.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-05-definicion-reglamentaria-de-arma-de-fuego.webp" alt="Definición reglamentaria de arma de fuego" width="820">
+</p>
+<p align="center"><em>Infografía: Definición reglamentaria de arma de fuego.</em></p>
 
 :::hablemos-claro
 Es arma de fuego la portátil con cañón que lance, esté concebida para lanzar o pueda transformarse fácilmente para lanzar un proyectil.
@@ -228,7 +248,11 @@ Para dominar **componentes esenciales de arma corta**, aplica esta regla: En arm
 - **Incorrecto:** El cargador es siempre componente esencial reglamentario del arma corta.
 - **Incorrecto:** Toda arma corta debe tener a la vez tambor, corredera y cerrojo.
 
-<!-- VISUAL PENDIENTE: t42-06-componentes-esenciales-de-arma-corta.webp -->
+<!-- VISUAL:t42-06-componentes-esenciales-de-arma-corta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-06-componentes-esenciales-de-arma-corta.webp" alt="Componentes esenciales de arma corta" width="820">
+</p>
+<p align="center"><em>Infografía: Componentes esenciales de arma corta.</em></p>
 
 :::hablemos-claro
 En armas de fuego cortas son esenciales el armazón y el cañón.
@@ -267,7 +291,11 @@ Para dominar **componentes esenciales de arma larga**, aplica esta regla: En arm
 - **Incorrecto:** La culata es siempre el único componente esencial.
 - **Incorrecto:** Toda arma larga debe tener simultáneamente cerrojo y báscula.
 
-<!-- VISUAL PENDIENTE: t42-07-componentes-esenciales-de-arma-larga.webp -->
+<!-- VISUAL:t42-07-componentes-esenciales-de-arma-larga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-07-componentes-esenciales-de-arma-larga.webp" alt="Componentes esenciales de arma larga" width="820">
+</p>
+<p align="center"><em>Infografía: Componentes esenciales de arma larga.</em></p>
 
 :::hablemos-claro
 En armas largas es esencial la caja o cajón de mecanismos, incluidos superior e inferior cuando corresponda.
@@ -306,7 +334,11 @@ Para dominar **pieza y componente esencial**, aplica esta regla: Pieza es el ele
 - **Incorrecto:** Pieza y componente esencial son sinónimos perfectos.
 - **Incorrecto:** Solo se considera pieza lo que lleva número de serie.
 
-<!-- VISUAL PENDIENTE: t42-08-pieza-y-componente-esencial.webp -->
+<!-- VISUAL:t42-08-pieza-y-componente-esencial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-08-pieza-y-componente-esencial.webp" alt="Pieza y componente esencial" width="820">
+</p>
+<p align="center"><em>Infografía: Pieza y componente esencial.</em></p>
 
 :::hablemos-claro
 Pieza es el elemento específicamente concebido para un arma de fuego e indispensable para su funcionamiento.
@@ -345,7 +377,11 @@ Para dominar **arma corta y arma larga**, aplica esta regla: Es arma de fuego co
 - **Incorrecto:** Debe cumplir a la vez ambos límites para ser corta.
 - **Incorrecto:** Toda arma que mida 61 centímetros es necesariamente larga sin mirar el cañón.
 
-<!-- VISUAL PENDIENTE: t42-il-09-arma-corta-y-arma-larga.webp -->
+<!-- VISUAL:t42-il-09-arma-corta-y-arma-larga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-09-arma-corta-y-arma-larga.webp" alt="Arma corta y arma larga" width="820">
+</p>
+<p align="center"><em>Infografía: Arma corta y arma larga.</em></p>
 
 :::hablemos-claro
 Es arma de fuego corta aquella cuyo cañón no excede de 30 centímetros o cuya longitud total no excede de 60.
@@ -384,7 +420,11 @@ Para dominar **partes funcionales básicas**, aplica esta regla: La recámara al
 - **Incorrecto:** La recámara está siempre en el cargador.
 - **Incorrecto:** El cañón inicia por sí solo la mezcla fulminante.
 
-<!-- VISUAL PENDIENTE: t42-10-partes-funcionales-basicas.webp -->
+<!-- VISUAL:t42-10-partes-funcionales-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-10-partes-funcionales-basicas.webp" alt="Partes funcionales básicas" width="820">
+</p>
+<p align="center"><em>Infografía: Partes funcionales básicas.</em></p>
 
 :::hablemos-claro
 La recámara aloja el cartucho preparado para el disparo.
@@ -423,7 +463,11 @@ Para dominar **ánima, campos y estrías**, aplica esta regla: El ánima es la s
 - **Incorrecto:** Toda ánima es lisa.
 - **Incorrecto:** El número de estrías individualiza por sí solo un arma concreta.
 
-<!-- VISUAL PENDIENTE: t42-11-anima-campos-y-estrias.webp -->
+<!-- VISUAL:t42-11-anima-campos-y-estrias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-11-anima-campos-y-estrias.webp" alt="Ánima, campos y estrías" width="820">
+</p>
+<p align="center"><em>Infografía: Ánima, campos y estrías.</em></p>
 
 :::hablemos-claro
 El ánima es la superficie interior del cañón.
@@ -462,7 +506,11 @@ Para dominar **avancarga y retrocarga**, aplica esta regla: En la avancarga la c
 - **Incorrecto:** Avancarga significa cargar por el cerrojo.
 - **Incorrecto:** Toda retrocarga es semiautomática.
 
-<!-- VISUAL PENDIENTE: t42-12-avancarga-y-retrocarga.webp -->
+<!-- VISUAL:t42-12-avancarga-y-retrocarga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-12-avancarga-y-retrocarga.webp" alt="Avancarga y retrocarga" width="820">
+</p>
+<p align="center"><em>Infografía: Avancarga y retrocarga.</em></p>
 
 :::hablemos-claro
 En la avancarga la carga de proyección y el proyectil se introducen por la boca del cañón o de la recámara del tambor.
@@ -501,7 +549,11 @@ Para dominar **arma de un solo tiro**, aplica esta regla: El arma de un solo tir
 - **Incorrecto:** Un solo tiro significa cargador con un cartucho.
 - **Incorrecto:** Se recarga automáticamente después de disparar.
 
-<!-- VISUAL PENDIENTE: t42-13-arma-de-un-solo-tiro.webp -->
+<!-- VISUAL:t42-13-arma-de-un-solo-tiro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-13-arma-de-un-solo-tiro.webp" alt="Arma de un solo tiro" width="820">
+</p>
+<p align="center"><em>Infografía: Arma de un solo tiro.</em></p>
 
 :::hablemos-claro
 El arma de un solo tiro carece de depósito de municiones.
@@ -540,7 +592,11 @@ Para dominar **arma basculante**, aplica esta regla: El arma basculante carece d
 - **Incorrecto:** Basculante significa que usa un cerrojo longitudinal.
 - **Incorrecto:** Solo puede tener un cañón.
 
-<!-- VISUAL PENDIENTE: t42-il-14-arma-basculante.webp -->
+<!-- VISUAL:t42-il-14-arma-basculante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-14-arma-basculante.webp" alt="Arma basculante" width="820">
+</p>
+<p align="center"><em>Infografía: Arma basculante.</em></p>
 
 :::hablemos-claro
 El arma basculante carece de depósito de municiones en la definición reglamentaria.
@@ -579,7 +635,11 @@ Para dominar **arma de repetición**, aplica esta regla: El arma de repetición 
 - **Incorrecto:** Repetición significa varios disparos con una sola presión.
 - **Incorrecto:** El arma se recarga sola después de cada disparo.
 
-<!-- VISUAL PENDIENTE: t42-15-arma-de-repeticion.webp -->
+<!-- VISUAL:t42-15-arma-de-repeticion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-15-arma-de-repeticion.webp" alt="Arma de repetición" width="820">
+</p>
+<p align="center"><em>Infografía: Arma de repetición.</em></p>
 
 :::hablemos-claro
 El arma de repetición se recarga después de cada disparo.
@@ -618,7 +678,11 @@ Para dominar **arma semiautomática**, aplica esta regla: El arma semiautomátic
 - **Incorrecto:** Semiautomática y automática son sinónimos.
 - **Incorrecto:** Exige accionar manualmente el mecanismo de recarga tras cada tiro.
 
-<!-- VISUAL PENDIENTE: t42-16-arma-semiautomatica.webp -->
+<!-- VISUAL:t42-16-arma-semiautomatica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-16-arma-semiautomatica.webp" alt="Arma semiautomática" width="820">
+</p>
+<p align="center"><em>Infografía: Arma semiautomática.</em></p>
 
 :::hablemos-claro
 El arma semiautomática se recarga automáticamente después de cada disparo.
@@ -657,7 +721,11 @@ Para dominar **arma automática**, aplica esta regla: El arma automática se rec
 - **Incorrecto:** Automática significa un tiro por cada presión.
 - **Incorrecto:** Toda arma que expulsa la vaina es automática.
 
-<!-- VISUAL PENDIENTE: t42-17-arma-automatica.webp -->
+<!-- VISUAL:t42-17-arma-automatica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-17-arma-automatica.webp" alt="Arma automática" width="820">
+</p>
+<p align="center"><em>Infografía: Arma automática.</em></p>
 
 :::hablemos-claro
 El arma automática se recarga automáticamente después de cada disparo.
@@ -696,7 +764,11 @@ Para dominar **pistola y revólver**, aplica esta regla: Pistolas y revólveres 
 - **Incorrecto:** Todo revólver es una pistola semiautomática.
 - **Incorrecto:** Pistola y revólver producen siempre las mismas marcas sobre la vaina.
 
-<!-- VISUAL PENDIENTE: t42-18-pistola-y-revolver.webp -->
+<!-- VISUAL:t42-18-pistola-y-revolver.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-18-pistola-y-revolver.webp" alt="Pistola y revólver" width="820">
+</p>
+<p align="center"><em>Infografía: Pistola y revólver.</em></p>
 
 :::hablemos-claro
 Pistolas y revólveres están incluidos en la 1.ª categoría como armas de fuego cortas.
@@ -735,7 +807,11 @@ Para dominar **fusil, carabina y escopeta**, aplica esta regla: Fusil y carabina
 - **Incorrecto:** Toda arma larga es una escopeta.
 - **Incorrecto:** Carabina designa siempre un arma de aire comprimido.
 
-<!-- VISUAL PENDIENTE: t42-il-19-fusil-carabina-y-escopeta.webp -->
+<!-- VISUAL:t42-il-19-fusil-carabina-y-escopeta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-19-fusil-carabina-y-escopeta.webp" alt="Fusil, carabina y escopeta" width="820">
+</p>
+<p align="center"><em>Infografía: Fusil, carabina y escopeta.</em></p>
 
 :::hablemos-claro
 Fusil y carabina suelen designar armas largas de cañón rayado, con diferencias dependientes del diseño y uso.
@@ -774,7 +850,11 @@ Para dominar **cargador, depósito y recámara**, aplica esta regla: El depósit
 - **Incorrecto:** Cargador y recámara son la misma pieza.
 - **Incorrecto:** Un cartucho en recámara nunca cuenta en la capacidad legal.
 
-<!-- VISUAL PENDIENTE: t42-20-cargador-deposito-y-recamara.webp -->
+<!-- VISUAL:t42-20-cargador-deposito-y-recamara.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-20-cargador-deposito-y-recamara.webp" alt="Cargador, depósito y recámara" width="820">
+</p>
+<p align="center"><em>Infografía: Cargador, depósito y recámara.</em></p>
 
 :::hablemos-claro
 El depósito de municiones almacena cartuchos disponibles para alimentar el arma.
@@ -813,7 +893,11 @@ Para dominar **alimentación y acerrojamiento**, aplica esta regla: Alimentar es
 - **Incorrecto:** Alimentación significa expulsar la vaina.
 - **Incorrecto:** Todo cierre incompleto produce necesariamente un disparo.
 
-<!-- VISUAL PENDIENTE: t42-21-alimentacion-y-acerrojamiento.webp -->
+<!-- VISUAL:t42-21-alimentacion-y-acerrojamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-21-alimentacion-y-acerrojamiento.webp" alt="Alimentación y acerrojamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Alimentación y acerrojamiento.</em></p>
 
 :::hablemos-claro
 Alimentar es llevar un cartucho desde el depósito hacia la recámara.
@@ -852,7 +936,11 @@ Para dominar **extracción y expulsión**, aplica esta regla: La extracción ret
 - **Incorrecto:** Extraer y expulsar son siempre una única operación idéntica.
 - **Incorrecto:** Todo disparo deja una vaina en el suelo.
 
-<!-- VISUAL PENDIENTE: t42-22-extraccion-y-expulsion.webp -->
+<!-- VISUAL:t42-22-extraccion-y-expulsion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-22-extraccion-y-expulsion.webp" alt="Extracción y expulsión" width="820">
+</p>
+<p align="center"><em>Infografía: Extracción y expulsión.</em></p>
 
 :::hablemos-claro
 La extracción retira la vaina o cartucho de la recámara.
@@ -891,7 +979,11 @@ Para dominar **desmilitarización y transformación**, aplica esta regla: La des
 - **Incorrecto:** Desmilitarizar significa eliminar una marca o inscripción militar.
 - **Incorrecto:** Toda reparación convierte el arma en inutilizada.
 
-<!-- VISUAL PENDIENTE: t42-23-desmilitarizacion-y-transformacion.webp -->
+<!-- VISUAL:t42-23-desmilitarizacion-y-transformacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-23-desmilitarizacion-y-transformacion.webp" alt="Desmilitarización y transformación" width="820">
+</p>
+<p align="center"><em>Infografía: Desmilitarización y transformación.</em></p>
 
 :::hablemos-claro
 La desmilitarización es la actividad fabril cuyo objetivo es transformar en civil o desbaratar un arma de guerra.
@@ -930,7 +1022,11 @@ Para dominar **criterio de las categorías**, aplica esta regla: El artículo 3 
 - **Incorrecto:** Las categorías se ordenan solo por calibre.
 - **Incorrecto:** Toda arma de una categoría usa la misma licencia.
 
-<!-- VISUAL PENDIENTE: t42-il-24-criterio-de-las-categorias.webp -->
+<!-- VISUAL:t42-il-24-criterio-de-las-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-24-criterio-de-las-categorias.webp" alt="Criterio de las categorías" width="820">
+</p>
+<p align="center"><em>Infografía: Criterio de las categorías.</em></p>
 
 :::hablemos-claro
 El artículo 3 clasifica armas reglamentadas atendiendo a características, grado de peligrosidad y destino o utilización.
@@ -969,7 +1065,11 @@ Para dominar **1.ª categoría**, aplica esta regla: La 1.ª categoría comprend
 - **Incorrecto:** La 1.ª categoría contiene todas las armas largas.
 - **Incorrecto:** Solo incluye pistolas y excluye revólveres.
 
-<!-- VISUAL PENDIENTE: t42-25-1-a-categoria.webp -->
+<!-- VISUAL:t42-25-1-a-categoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-25-1-a-categoria.webp" alt="1.ª categoría" width="820">
+</p>
+<p align="center"><em>Infografía: 1.ª categoría.</em></p>
 
 :::hablemos-claro
 La 1.ª categoría comprende armas de fuego cortas.
@@ -1008,7 +1108,11 @@ Para dominar **2.ª categoría 1**, aplica esta regla: La 2.ª.1 comprende armas
 - **Incorrecto:** La 2.ª.1 son pistolas de particulares.
 - **Incorrecto:** Basta el uso ocasional en vigilancia para reclasificar cualquier arma.
 
-<!-- VISUAL PENDIENTE: t42-26-2-a-categoria-1.webp -->
+<!-- VISUAL:t42-26-2-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-26-2-a-categoria-1.webp" alt="2.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 2.ª categoría 1.</em></p>
 
 :::hablemos-claro
 La 2.ª.1 comprende armas de fuego largas para vigilancia y guardería.
@@ -1047,7 +1151,11 @@ Para dominar **2.ª categoría 2**, aplica esta regla: La 2.ª.2 comprende armas
 - **Incorrecto:** La 2.ª.2 son escopetas de ánima lisa.
 - **Incorrecto:** Incluye armas de guerra por ser rayadas.
 
-<!-- VISUAL PENDIENTE: t42-27-2-a-categoria-2.webp -->
+<!-- VISUAL:t42-27-2-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-27-2-a-categoria-2.webp" alt="2.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 2.ª categoría 2.</em></p>
 
 :::hablemos-claro
 La 2.ª.2 comprende armas de fuego largas rayadas utilizables para caza mayor.
@@ -1086,7 +1194,11 @@ Para dominar **3.ª categoría 1**, aplica esta regla: La 3.ª.1 comprende armas
 - **Incorrecto:** Incluye cualquier calibre de percusión central.
 - **Incorrecto:** Solo comprende armas semiautomáticas.
 
-<!-- VISUAL PENDIENTE: t42-28-3-a-categoria-1.webp -->
+<!-- VISUAL:t42-28-3-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-28-3-a-categoria-1.webp" alt="3.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 1.</em></p>
 
 :::hablemos-claro
 La 3.ª.1 comprende armas largas rayadas para tiro deportivo.
@@ -1125,7 +1237,11 @@ Para dominar **3.ª categoría 2**, aplica esta regla: La 3.ª.2 comprende escop
 - **Incorrecto:** Toda arma con cualquier raya pertenece a la 2.ª.2.
 - **Incorrecto:** Las escopetas de caza son 1.ª categoría.
 
-<!-- VISUAL PENDIENTE: t42-il-29-3-a-categoria-2.webp -->
+<!-- VISUAL:t42-il-29-3-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-29-3-a-categoria-2.webp" alt="3.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 2.</em></p>
 
 :::hablemos-claro
 La 3.ª.2 comprende escopetas y demás armas largas de ánima lisa.
@@ -1164,7 +1280,11 @@ Para dominar **3.ª categoría 3**, aplica esta regla: La 3.ª.3 comprende armas
 - **Incorrecto:** El límite es exactamente 24,2 J o menos.
 - **Incorrecto:** Solo comprende armas de fuego con pólvora.
 
-<!-- VISUAL PENDIENTE: t42-30-3-a-categoria-3.webp -->
+<!-- VISUAL:t42-30-3-a-categoria-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-30-3-a-categoria-3.webp" alt="3.ª categoría 3" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 3.</em></p>
 
 :::hablemos-claro
 La 3.ª.3 comprende armas accionadas por aire u otro gas comprimido.
@@ -1203,7 +1323,11 @@ Para dominar **4.ª categoría 1**, aplica esta regla: La 4.ª.1 comprende carab
 - **Incorrecto:** La 4.ª.1 contiene solo armas de un tiro.
 - **Incorrecto:** Todo revólver de aire es de 4.ª.2.
 
-<!-- VISUAL PENDIENTE: t42-31-4-a-categoria-1.webp -->
+<!-- VISUAL:t42-31-4-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-31-4-a-categoria-1.webp" alt="4.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 4.ª categoría 1.</em></p>
 
 :::hablemos-claro
 La 4.ª.1 comprende carabinas y pistolas de tiro semiautomático y de repetición accionadas por aire o gas.
@@ -1242,7 +1366,11 @@ Para dominar **4.ª categoría 2**, aplica esta regla: La 4.ª.2 comprende carab
 - **Incorrecto:** La 4.ª.2 comprende las semiautomáticas.
 - **Incorrecto:** Solo contiene armas de ánima lisa.
 
-<!-- VISUAL PENDIENTE: t42-32-4-a-categoria-2.webp -->
+<!-- VISUAL:t42-32-4-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-32-4-a-categoria-2.webp" alt="4.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 4.ª categoría 2.</em></p>
 
 :::hablemos-claro
 La 4.ª.2 comprende carabinas y pistolas de un solo tiro accionadas por aire o gas.
@@ -1281,7 +1409,11 @@ Para dominar **5.ª categoría**, aplica esta regla: La 5.ª.1 comprende armas b
 - **Incorrecto:** Toda arma blanca está permitida en cualquier circunstancia.
 - **Incorrecto:** La 5.ª categoría contiene pistolas detonadoras.
 
-<!-- VISUAL PENDIENTE: t42-33-5-a-categoria.webp -->
+<!-- VISUAL:t42-33-5-a-categoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-33-5-a-categoria.webp" alt="5.ª categoría" width="820">
+</p>
+<p align="center"><em>Infografía: 5.ª categoría.</em></p>
 
 :::hablemos-claro
 La 5.ª.1 comprende armas blancas y de hoja cortante o punzante no prohibidas.
@@ -1320,7 +1452,11 @@ Para dominar **6.ª categoría 1 y 2**, aplica esta regla: La 6.ª.1 incluye arm
 - **Incorrecto:** Toda arma fabricada en 1890 es antigua.
 - **Incorrecto:** La fecha basta aunque dispare munición de guerra.
 
-<!-- VISUAL PENDIENTE: t42-il-34-6-a-categoria-1-y-2.webp -->
+<!-- VISUAL:t42-il-34-6-a-categoria-1-y-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-34-6-a-categoria-1-y-2.webp" alt="6.ª categoría 1 y 2" width="820">
+</p>
+<p align="center"><em>Infografía: 6.ª categoría 1 y 2.</em></p>
 
 :::hablemos-claro
 La 6.ª.1 incluye armas antiguas o históricas, reproducciones y asimiladas conservadas en museos autorizados.
@@ -1359,7 +1495,11 @@ Para dominar **6.ª categoría 3 y 4**, aplica esta regla: La 6.ª.3 comprende r
 - **Incorrecto:** Toda arma decorada es histórica automáticamente.
 - **Incorrecto:** Las reproducciones de avancarga nunca están en 6.ª.
 
-<!-- VISUAL PENDIENTE: t42-35-6-a-categoria-3-y-4.webp -->
+<!-- VISUAL:t42-35-6-a-categoria-3-y-4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-35-6-a-categoria-3-y-4.webp" alt="6.ª categoría 3 y 4" width="820">
+</p>
+<p align="center"><em>Infografía: 6.ª categoría 3 y 4.</em></p>
 
 :::hablemos-claro
 La 6.ª.3 comprende restantes armas conservadas por carácter histórico o artístico conforme a los artículos 107 y 108.
@@ -1398,7 +1538,11 @@ Para dominar **7.ª categoría 1 a 3**, aplica esta regla: La 7.ª.1 comprende a
 - **Incorrecto:** Toda la 7.ª categoría son armas de fuego con pólvora.
 - **Incorrecto:** Las ballestas pertenecen a 5.ª categoría.
 
-<!-- VISUAL PENDIENTE: t42-36-7-a-categoria-1-a-3.webp -->
+<!-- VISUAL:t42-36-7-a-categoria-1-a-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-36-7-a-categoria-1-a-3.webp" alt="7.ª categoría 1 a 3" width="820">
+</p>
+<p align="center"><em>Infografía: 7.ª categoría 1 a 3.</em></p>
 
 :::hablemos-claro
 La 7.ª.1 comprende armas de inyección anestésica para captura o control temporal de animales.
@@ -1437,7 +1581,11 @@ Para dominar **7.ª categoría 4 a 6**, aplica esta regla: La 7.ª.4 comprende a
 - **Incorrecto:** Flobert pertenece a 3.ª.1 por ser .22.
 - **Incorrecto:** Las pistolas lanzabengalas son siempre 1.ª categoría.
 
-<!-- VISUAL PENDIENTE: t42-37-7-a-categoria-4-a-6.webp -->
+<!-- VISUAL:t42-37-7-a-categoria-4-a-6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-37-7-a-categoria-4-a-6.webp" alt="7.ª categoría 4 a 6" width="820">
+</p>
+<p align="center"><em>Infografía: 7.ª categoría 4 a 6.</em></p>
 
 :::hablemos-claro
 La 7.ª.4 comprende armas de sistema Flobert.
@@ -1476,7 +1624,11 @@ Para dominar **8.ª y 9.ª categorías**, aplica esta regla: La 8.ª categoría 
 - **Incorrecto:** Un arma de salvas es simplemente un arma de alarma nueva.
 - **Incorrecto:** Quitar una pieza convierte por sí solo el arma en 9.ª categoría.
 
-<!-- VISUAL PENDIENTE: t42-38-8-a-y-9-a-categorias.webp -->
+<!-- VISUAL:t42-38-8-a-y-9-a-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-38-8-a-y-9-a-categorias.webp" alt="8.ª y 9.ª categorías" width="820">
+</p>
+<p align="center"><em>Infografía: 8.ª y 9.ª categorías.</em></p>
 
 :::hablemos-claro
 La 8.ª categoría comprende armas acústicas y de salvas.
@@ -1515,7 +1667,11 @@ Para dominar **definición de munición y cartucho**, aplica esta regla: Munici�
 - **Incorrecto:** La vaina es siempre la bala.
 - **Incorrecto:** Munición solo designa el proyectil ya disparado.
 
-<!-- VISUAL PENDIENTE: t42-il-39-definicion-de-municion-y-cartucho.webp -->
+<!-- VISUAL:t42-il-39-definicion-de-municion-y-cartucho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-39-definicion-de-municion-y-cartucho.webp" alt="Definición de munición y cartucho" width="820">
+</p>
+<p align="center"><em>Infografía: Definición de munición y cartucho.</em></p>
 
 :::hablemos-claro
 Munición comprende el cartucho completo o sus componentes autorizados para un arma de fuego.
@@ -1554,7 +1710,11 @@ Para dominar **cartucho metálico**, aplica esta regla: El cartucho metálico em
 - **Incorrecto:** Metálico significa que el proyectil debe ser de acero.
 - **Incorrecto:** La vaina se consume por completo en todo disparo.
 
-<!-- VISUAL PENDIENTE: t42-40-cartucho-metalico.webp -->
+<!-- VISUAL:t42-40-cartucho-metalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-40-cartucho-metalico.webp" alt="Cartucho metálico" width="820">
+</p>
+<p align="center"><em>Infografía: Cartucho metálico.</em></p>
 
 :::hablemos-claro
 El cartucho metálico emplea una vaina de material metálico que reúne los elementos.
@@ -1593,7 +1753,11 @@ Para dominar **cartucho semimetálico**, aplica esta regla: El cartucho semimet�
 - **Incorrecto:** Todo cartucho de escopeta contiene perdigones.
 - **Incorrecto:** Semimetálico significa mitad de la carga propulsora.
 
-<!-- VISUAL PENDIENTE: t42-41-cartucho-semimetalico.webp -->
+<!-- VISUAL:t42-41-cartucho-semimetalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-41-cartucho-semimetalico.webp" alt="Cartucho semimetálico" width="820">
+</p>
+<p align="center"><em>Infografía: Cartucho semimetálico.</em></p>
 
 :::hablemos-claro
 El cartucho semimetálico combina un culote metálico con un cuerpo de otro material, habitualmente plástico o cartón.
@@ -1632,7 +1796,11 @@ Para dominar **partes de la vaina**, aplica esta regla: La boca de la vaina suje
 - **Incorrecto:** El culote es el extremo por el que sale la bala.
 - **Incorrecto:** Todas las vainas tienen idéntico reborde y ranura.
 
-<!-- VISUAL PENDIENTE: t42-42-partes-de-la-vaina.webp -->
+<!-- VISUAL:t42-42-partes-de-la-vaina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-42-partes-de-la-vaina.webp" alt="Partes de la vaina" width="820">
+</p>
+<p align="center"><em>Infografía: Partes de la vaina.</em></p>
 
 :::hablemos-claro
 La boca de la vaina sujeta o cierra sobre el proyectil o contenido.
@@ -1671,7 +1839,11 @@ Para dominar **pistón o cebo**, aplica esta regla: El pistón contiene una mezc
 - **Incorrecto:** El pistón es el proyectil del cartucho.
 - **Incorrecto:** Todo cebo contiene obligatoriamente plomo, bario y antimonio.
 
-<!-- VISUAL PENDIENTE: t42-43-piston-o-cebo.webp -->
+<!-- VISUAL:t42-43-piston-o-cebo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-43-piston-o-cebo.webp" alt="Pistón o cebo" width="820">
+</p>
+<p align="center"><em>Infografía: Pistón o cebo.</em></p>
 
 :::hablemos-claro
 El pistón contiene una mezcla sensible que inicia la combustión de la carga.
@@ -1710,7 +1882,11 @@ Para dominar **percusión central**, aplica esta regla: En percusión central el
 - **Incorrecto:** La aguja golpea el borde periférico.
 - **Incorrecto:** Percusión central significa que el arma es automática.
 
-<!-- VISUAL PENDIENTE: t42-il-44-percusion-central.webp -->
+<!-- VISUAL:t42-il-44-percusion-central.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-44-percusion-central.webp" alt="Percusión central" width="820">
+</p>
+<p align="center"><em>Infografía: Percusión central.</em></p>
 
 :::hablemos-claro
 En percusión central el iniciador se sitúa en la zona central del culote.
@@ -1749,7 +1925,11 @@ Para dominar **percusión anular**, aplica esta regla: En percusión anular el c
 - **Incorrecto:** La aguja golpea la parte central del culote.
 - **Incorrecto:** Percusión anular y fuego central son equivalentes.
 
-<!-- VISUAL PENDIENTE: t42-45-percusion-anular.webp -->
+<!-- VISUAL:t42-45-percusion-anular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-45-percusion-anular.webp" alt="Percusión anular" width="820">
+</p>
+<p align="center"><em>Infografía: Percusión anular.</em></p>
 
 :::hablemos-claro
 En percusión anular el compuesto iniciador está distribuido en el reborde hueco del culote.
@@ -1788,7 +1968,11 @@ Para dominar **carga propulsora**, aplica esta regla: La carga propulsora arde r
 - **Incorrecto:** La pólvora empuja la bala antes de iniciarse.
 - **Incorrecto:** Toda la carga sale intacta detrás del proyectil.
 
-<!-- VISUAL PENDIENTE: t42-46-carga-propulsora.webp -->
+<!-- VISUAL:t42-46-carga-propulsora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-46-carga-propulsora.webp" alt="Carga propulsora" width="820">
+</p>
+<p align="center"><em>Infografía: Carga propulsora.</em></p>
 
 :::hablemos-claro
 La carga propulsora arde rápidamente tras la iniciación y genera gases a presión.
@@ -1827,7 +2011,11 @@ Para dominar **bala o proyectil**, aplica esta regla: La bala es el proyectil de
 - **Incorrecto:** Bala y vaina son la misma pieza.
 - **Incorrecto:** La bala conserva siempre forma perfecta después del impacto.
 
-<!-- VISUAL PENDIENTE: t42-47-bala-o-proyectil.webp -->
+<!-- VISUAL:t42-47-bala-o-proyectil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-47-bala-o-proyectil.webp" alt="Bala o proyectil" width="820">
+</p>
+<p align="center"><em>Infografía: Bala o proyectil.</em></p>
 
 :::hablemos-claro
 La bala es el proyectil de determinados cartuchos, no el cartucho completo.
@@ -1866,7 +2054,11 @@ Para dominar **taco y perdigones**, aplica esta regla: El taco separa componente
 - **Incorrecto:** El taco es el iniciador del cartucho.
 - **Incorrecto:** La dispersión permite conocer una distancia exacta sin disparos de prueba.
 
-<!-- VISUAL PENDIENTE: t42-48-taco-y-perdigones.webp -->
+<!-- VISUAL:t42-48-taco-y-perdigones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-48-taco-y-perdigones.webp" alt="Taco y perdigones" width="820">
+</p>
+<p align="center"><em>Infografía: Taco y perdigones.</em></p>
 
 :::hablemos-claro
 El taco separa componentes y ayuda a obturar gases en muchos cartuchos semimetálicos.
@@ -1905,7 +2097,11 @@ Para dominar **secuencia del disparo**, aplica esta regla: La acción del dispar
 - **Incorrecto:** La vaina sale antes de la ignición.
 - **Incorrecto:** Todos los sistemas completan la recarga automáticamente.
 
-<!-- VISUAL PENDIENTE: t42-il-49-secuencia-del-disparo.webp -->
+<!-- VISUAL:t42-il-49-secuencia-del-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-49-secuencia-del-disparo.webp" alt="Secuencia del disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencia del disparo.</em></p>
 
 :::hablemos-claro
 La acción del disparador libera o acciona el mecanismo de percusión según el diseño.
@@ -1944,7 +2140,11 @@ Para dominar **calibre, gauge y marcaje**, aplica esta regla: Calibre es una des
 - **Incorrecto:** Si entra en la recámara, la munición es necesariamente segura.
 - **Incorrecto:** El marcaje de culote identifica el arma que disparó la vaina.
 
-<!-- VISUAL PENDIENTE: t42-50-calibre-gauge-y-marcaje.webp -->
+<!-- VISUAL:t42-50-calibre-gauge-y-marcaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-50-calibre-gauge-y-marcaje.webp" alt="Calibre, gauge y marcaje" width="820">
+</p>
+<p align="center"><em>Infografía: Calibre, gauge y marcaje.</em></p>
 
 :::hablemos-claro
 Calibre es una designación dimensional o comercial cuya interpretación depende del sistema y cartucho.
@@ -1983,7 +2183,11 @@ Para dominar **marcas producidas en el disparo**, aplica esta regla: La aguja pu
 - **Incorrecto:** Todas las marcas aparecen con la misma calidad en cada disparo.
 - **Incorrecto:** Una sola marca de clase demuestra la identidad de un arma concreta.
 
-<!-- VISUAL PENDIENTE: t42-51-marcas-producidas-en-el-disparo.webp -->
+<!-- VISUAL:t42-51-marcas-producidas-en-el-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-51-marcas-producidas-en-el-disparo.webp" alt="Marcas producidas en el disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas producidas en el disparo.</em></p>
 
 :::hablemos-claro
 La aguja puede dejar una impresión en el iniciador.
@@ -2022,7 +2226,11 @@ Para dominar **tres niveles de prohibición**, aplica esta regla: El artículo 4
 - **Incorrecto:** Todos los artículos prohíben exactamente las mismas conductas.
 - **Incorrecto:** Una excepción del artículo 5 legaliza cualquier arma de guerra.
 
-<!-- VISUAL PENDIENTE: t42-52-tres-niveles-de-prohibicion.webp -->
+<!-- VISUAL:t42-52-tres-niveles-de-prohibicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-52-tres-niveles-de-prohibicion.webp" alt="Tres niveles de prohibición" width="820">
+</p>
+<p align="center"><em>Infografía: Tres niveles de prohibición.</em></p>
 
 :::hablemos-claro
 El artículo 4 establece prohibiciones generales de fabricación, circulación, publicidad, compraventa, tenencia y uso.
@@ -2061,7 +2269,11 @@ Para dominar **armas sustancialmente modificadas**, aplica esta regla: El artíc
 - **Incorrecto:** Toda limpieza del arma es modificación prohibida.
 - **Incorrecto:** Una modificación casera siempre es lícita si el arma conserva el calibre.
 
-<!-- VISUAL PENDIENTE: t42-il-53-armas-sustancialmente-modificadas.webp -->
+<!-- VISUAL:t42-il-53-armas-sustancialmente-modificadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-53-armas-sustancialmente-modificadas.webp" alt="Armas sustancialmente modificadas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas sustancialmente modificadas.</em></p>
 
 :::hablemos-claro
 El artículo 4 prohíbe armas de fuego resultantes de modificar sustancialmente características de fabricación u origen sin autorización.
@@ -2100,7 +2312,11 @@ Para dominar **armas ocultas o disimuladas**, aplica esta regla: Se prohíben ar
 - **Incorrecto:** Las ballestas son prohibidas por estar ocultas.
 - **Incorrecto:** Toda funda de pistola convierte el conjunto en arma prohibida.
 
-<!-- VISUAL PENDIENTE: t42-54-armas-ocultas-o-disimuladas.webp -->
+<!-- VISUAL:t42-54-armas-ocultas-o-disimuladas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-54-armas-ocultas-o-disimuladas.webp" alt="Armas ocultas o disimuladas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas ocultas o disimuladas.</em></p>
 
 :::hablemos-claro
 Se prohíben armas largas con dispositivos en culata o mecanismos para alojar pistolas u otras armas.
@@ -2139,7 +2355,11 @@ Para dominar **armas de imitación peligrosa y armas blancas ocultas**, aplica e
 - **Incorrecto:** Todo cuchillo menor de 11 centímetros es puñal.
 - **Incorrecto:** Un bastón-estoque es una simple arma reglamentada de 5.ª.
 
-<!-- VISUAL PENDIENTE: t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp -->
+<!-- VISUAL:t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp" alt="Armas de imitación peligrosa y armas blancas ocultas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de imitación peligrosa y armas blancas ocultas.</em></p>
 
 :::hablemos-claro
 El artículo 4 incluye determinadas armas que imitan otros objetos o combinan mecanismos prohibidos.
@@ -2178,7 +2398,11 @@ Para dominar **semiautomáticas restringidas del artículo 5**, aplica esta regl
 - **Incorrecto:** El límite excluye siempre el cartucho de recámara.
 - **Incorrecto:** Toda semiautomática está prohibida sin excepción.
 
-<!-- VISUAL PENDIENTE: t42-56-semiautomaticas-restringidas-del-articulo-5.webp -->
+<!-- VISUAL:t42-56-semiautomaticas-restringidas-del-articulo-5.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-56-semiautomaticas-restringidas-del-articulo-5.webp" alt="Semiautomáticas restringidas del artículo 5" width="820">
+</p>
+<p align="center"><em>Infografía: Semiautomáticas restringidas del artículo 5.</em></p>
 
 :::hablemos-claro
 El artículo 5 restringe ciertas semiautomáticas de las categorías 2.ª.2 y 3.ª.2.
@@ -2217,7 +2441,11 @@ Para dominar **armas y defensas de uso especialmente habilitado**, aplica esta r
 - **Incorrecto:** Todo aerosol comercial es un spray de defensa aprobado.
 - **Incorrecto:** Una defensa extensible es de libre porte por cualquier adulto.
 
-<!-- VISUAL PENDIENTE: t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp -->
+<!-- VISUAL:t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp" alt="Armas y defensas de uso especialmente habilitado" width="820">
+</p>
+<p align="center"><em>Infografía: Armas y defensas de uso especialmente habilitado.</em></p>
 
 :::hablemos-claro
 El artículo 5 restringe sprays de defensa no aprobados por el Ministerio de Sanidad.
@@ -2256,7 +2484,11 @@ Para dominar **silenciadores y municiones especiales**, aplica esta regla: Los d
 - **Incorrecto:** Silenciador significa que el disparo queda inaudible.
 - **Incorrecto:** Toda bala encamisada es perforante militar.
 
-<!-- VISUAL PENDIENTE: t42-il-58-silenciadores-y-municiones-especiales.webp -->
+<!-- VISUAL:t42-il-58-silenciadores-y-municiones-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-58-silenciadores-y-municiones-especiales.webp" alt="Silenciadores y municiones especiales" width="820">
+</p>
+<p align="center"><em>Infografía: Silenciadores y municiones especiales.</em></p>
 
 :::hablemos-claro
 Los dispositivos concebidos o adaptados para disminuir el sonido están sometidos al régimen de pieza y a prohibiciones específicas.
@@ -2295,7 +2527,11 @@ Para dominar **munición expansiva**, aplica esta regla: La munición de bala ex
 - **Incorrecto:** Toda bala expansiva explota al impactar.
 - **Incorrecto:** Perforante y expansiva son la misma munición.
 
-<!-- VISUAL PENDIENTE: t42-59-municion-expansiva.webp -->
+<!-- VISUAL:t42-59-municion-expansiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-59-municion-expansiva.webp" alt="Munición expansiva" width="820">
+</p>
+<p align="center"><em>Infografía: Munición expansiva.</em></p>
 
 :::hablemos-claro
 La munición de bala expansiva se define por proyectil que se deforma y expande en un blanco similar a tejido.
@@ -2334,7 +2570,11 @@ Para dominar **navajas y armas blancas prohibidas**, aplica esta regla: Las nava
 - **Incorrecto:** Toda navaja no automática está prohibida.
 - **Incorrecto:** La hoja se mide solo por el filo útil visible.
 
-<!-- VISUAL PENDIENTE: t42-60-navajas-y-armas-blancas-prohibidas.webp -->
+<!-- VISUAL:t42-60-navajas-y-armas-blancas-prohibidas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-60-navajas-y-armas-blancas-prohibidas.webp" alt="Navajas y armas blancas prohibidas" width="820">
+</p>
+<p align="center"><em>Infografía: Navajas y armas blancas prohibidas.</em></p>
 
 :::hablemos-claro
 Las navajas automáticas están prohibidas en los términos del Reglamento.
@@ -2373,7 +2613,11 @@ Para dominar **armas de guerra por calibre y consideración**, aplica esta regla
 - **Incorrecto:** Todo calibre inferior a 20 milímetros es civil.
 - **Incorrecto:** Solo el arma completa puede ser de guerra, nunca sus componentes.
 
-<!-- VISUAL PENDIENTE: t42-61-armas-de-guerra-por-calibre-y-consideracion.webp -->
+<!-- VISUAL:t42-61-armas-de-guerra-por-calibre-y-consideracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-61-armas-de-guerra-por-calibre-y-consideracion.webp" alt="Armas de guerra por calibre y consideración" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de guerra por calibre y consideración.</em></p>
 
 :::hablemos-claro
 Son armas de guerra las de calibre igual o superior a 20 milímetros.
@@ -2412,7 +2656,11 @@ Para dominar **armas automáticas como armas de guerra**, aplica esta regla: Las
 - **Incorrecto:** Una licencia B permite poseer un arma automática.
 - **Incorrecto:** Semiautomática y automática reciben siempre el mismo régimen.
 
-<!-- VISUAL PENDIENTE: t42-62-armas-automaticas-como-armas-de-guerra.webp -->
+<!-- VISUAL:t42-62-armas-automaticas-como-armas-de-guerra.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-62-armas-automaticas-como-armas-de-guerra.webp" alt="Armas automáticas como armas de guerra" width="820">
+</p>
+<p align="center"><em>Infografía: Armas automáticas como armas de guerra.</em></p>
 
 :::hablemos-claro
 Las armas de fuego automáticas son armas de guerra.
@@ -2451,7 +2699,11 @@ Para dominar **armas de alarma y señales transformables**, aplica esta regla: U
 - **Incorrecto:** Toda pistola de fogueo es siempre libre.
 - **Incorrecto:** Basta retirar el cartucho para que deje de ser arma.
 
-<!-- VISUAL PENDIENTE: t42-il-63-armas-de-alarma-y-senales-transformables.webp -->
+<!-- VISUAL:t42-il-63-armas-de-alarma-y-senales-transformables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-63-armas-de-alarma-y-senales-transformables.webp" alt="Armas de alarma y señales transformables" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de alarma y señales transformables.</em></p>
 
 :::hablemos-claro
 Un arma de alarma y señales debe estar diseñada para fogueo, sustancias activas o señalización.
@@ -2490,7 +2742,11 @@ Para dominar **diferencia entre prohibida, reglamentada e inutilizada**, aplica 
 - **Incorrecto:** Averiada e inutilizada son sinónimos.
 - **Incorrecto:** Toda arma reglamentada puede portarse sin licencia.
 
-<!-- VISUAL PENDIENTE: t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp -->
+<!-- VISUAL:t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp" alt="Diferencia entre prohibida, reglamentada e inutilizada" width="820">
+</p>
+<p align="center"><em>Infografía: Diferencia entre prohibida, reglamentada e inutilizada.</em></p>
 
 :::hablemos-claro
 Arma reglamentada es la clasificada cuya adquisición, tenencia o uso puede autorizarse o permitirse.
@@ -2529,7 +2785,11 @@ Para dominar **principio general de autorización**, aplica esta regla: Nadie pu
 - **Incorrecto:** La guía sustituye siempre a la licencia.
 - **Incorrecto:** La propiedad privada permite portar cualquier arma en territorio nacional.
 
-<!-- VISUAL PENDIENTE: t42-65-principio-general-de-autorizacion.webp -->
+<!-- VISUAL:t42-65-principio-general-de-autorizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-65-principio-general-de-autorizacion.webp" alt="Principio general de autorización" width="820">
+</p>
+<p align="center"><em>Infografía: Principio general de autorización.</em></p>
 
 :::hablemos-claro
 Nadie puede llevar ni poseer armas de fuego en España sin la autorización correspondiente.
@@ -2568,7 +2828,11 @@ Para dominar **mapa de licencias**, aplica esta regla: La licencia A se vincula 
 - **Incorrecto:** Todas las licencias permiten las mismas armas.
 - **Incorrecto:** La licencia C es para cualquier arma corta de un particular.
 
-<!-- VISUAL PENDIENTE: t42-66-mapa-de-licencias.webp -->
+<!-- VISUAL:t42-66-mapa-de-licencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-66-mapa-de-licencias.webp" alt="Mapa de licencias" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa de licencias.</em></p>
 
 :::hablemos-claro
 La licencia A se vincula al personal expresamente incluido y tiene eficacia de B, D y E en su ámbito.
@@ -2607,7 +2871,11 @@ Para dominar **licencia a**, aplica esta regla: La licencia A documenta armas pr
 - **Incorrecto:** La licencia A permite cualquier arma de guerra particular.
 - **Incorrecto:** Con licencia A las armas no necesitan guía.
 
-<!-- VISUAL PENDIENTE: t42-67-licencia-a.webp -->
+<!-- VISUAL:t42-67-licencia-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-67-licencia-a.webp" alt="Licencia A" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia A.</em></p>
 
 :::hablemos-claro
 La licencia A documenta armas privadas de categorías 1.ª, 2.ª y 3.ª del personal incluido en el artículo 114.
@@ -2646,7 +2914,11 @@ Para dominar **licencia b**, aplica esta regla: La licencia B ampara armas de fu
 - **Incorrecto:** La licencia B se concede automáticamente a todo mayor de edad.
 - **Incorrecto:** B ampara rifles de caza mayor.
 
-<!-- VISUAL PENDIENTE: t42-il-68-licencia-b.webp -->
+<!-- VISUAL:t42-il-68-licencia-b.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-68-licencia-b.webp" alt="Licencia B" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia B.</em></p>
 
 :::hablemos-claro
 La licencia B ampara armas de fuego cortas de particulares.
@@ -2685,7 +2957,11 @@ Para dominar **licencia c**, aplica esta regla: La licencia C se vincula a armas
 - **Incorrecto:** La C autoriza armas privadas de concurso.
 - **Incorrecto:** El vigilante puede conservar el arma de dotación fuera del servicio como propia.
 
-<!-- VISUAL PENDIENTE: t42-69-licencia-c.webp -->
+<!-- VISUAL:t42-69-licencia-c.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-69-licencia-c.webp" alt="Licencia C" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia C.</em></p>
 
 :::hablemos-claro
 La licencia C se vincula a armas de dotación del personal de vigilancia y seguridad habilitado.
@@ -2724,7 +3000,11 @@ Para dominar **licencia d**, aplica esta regla: La licencia D ampara armas de la
 - **Incorrecto:** La D ampara pistolas y revólveres.
 - **Incorrecto:** Con D no se necesita guía de pertenencia.
 
-<!-- VISUAL PENDIENTE: t42-70-licencia-d.webp -->
+<!-- VISUAL:t42-70-licencia-d.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-70-licencia-d.webp" alt="Licencia D" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia D.</em></p>
 
 :::hablemos-claro
 La licencia D ampara armas de la 2.ª.2 destinadas a caza mayor.
@@ -2763,7 +3043,11 @@ Para dominar **licencia e**, aplica esta regla: La licencia E ampara armas de la
 - **Incorrecto:** La E ampara armas automáticas.
 - **Incorrecto:** La licencia permite disparar en cualquier lugar privado.
 
-<!-- VISUAL PENDIENTE: t42-71-licencia-e.webp -->
+<!-- VISUAL:t42-71-licencia-e.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-71-licencia-e.webp" alt="Licencia E" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia E.</em></p>
 
 :::hablemos-claro
 La licencia E ampara armas de las categorías reglamentarias previstas para caza y tiro deportivo.
@@ -2802,7 +3086,11 @@ Para dominar **licencia f**, aplica esta regla: La licencia F ampara armas consi
 - **Incorrecto:** La F permite portar el arma cargada para defensa personal.
 - **Incorrecto:** Cualquier arma deportiva queda automáticamente amparada sin reconocimiento de concurso.
 
-<!-- VISUAL PENDIENTE: t42-72-licencia-f.webp -->
+<!-- VISUAL:t42-72-licencia-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-72-licencia-f.webp" alt="Licencia F" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia F.</em></p>
 
 :::hablemos-claro
 La licencia F ampara armas consideradas de concurso.
@@ -2841,7 +3129,11 @@ Para dominar **clases y cupos de licencia f**, aplica esta regla: La F de tercer
 - **Incorrecto:** La tercera clase permite seis armas.
 - **Incorrecto:** El máximo de diez se aplica a cualquier titular F sin atender a su clase.
 
-<!-- VISUAL PENDIENTE: t42-il-73-clases-y-cupos-de-licencia-f.webp -->
+<!-- VISUAL:t42-il-73-clases-y-cupos-de-licencia-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-73-clases-y-cupos-de-licencia-f.webp" alt="Clases y cupos de licencia F" width="820">
+</p>
+<p align="center"><em>Infografía: Clases y cupos de licencia F.</em></p>
 
 :::hablemos-claro
 La F de tercera clase autoriza un arma corta o larga de concurso y excluye pistolas libres.
@@ -2880,7 +3172,11 @@ Para dominar **guía de pertenencia**, aplica esta regla: Cada arma de las categ
 - **Incorrecto:** Una guía puede amparar un número ilimitado de armas.
 - **Incorrecto:** La guía sustituye cualquier licencia personal.
 
-<!-- VISUAL PENDIENTE: t42-74-guia-de-pertenencia.webp -->
+<!-- VISUAL:t42-74-guia-de-pertenencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-74-guia-de-pertenencia.webp" alt="Guía de pertenencia" width="820">
+</p>
+<p align="center"><em>Infografía: Guía de pertenencia.</em></p>
 
 :::hablemos-claro
 Cada arma de las categorías 1.ª, 2.ª, 3.ª, 6.ª y subcategorías 7.ª.1, 2, 3, 4 y 8.ª debe llevar guía.
@@ -2919,7 +3215,11 @@ Para dominar **contenido y expedición de la guía**, aplica esta regla: La guí
 - **Incorrecto:** La guía solo contiene el calibre.
 - **Incorrecto:** La expide cualquier armería sin intervención administrativa.
 
-<!-- VISUAL PENDIENTE: t42-75-contenido-y-expedicion-de-la-guia.webp -->
+<!-- VISUAL:t42-75-contenido-y-expedicion-de-la-guia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-75-contenido-y-expedicion-de-la-guia.webp" alt="Contenido y expedición de la guía" width="820">
+</p>
+<p align="center"><em>Infografía: Contenido y expedición de la guía.</em></p>
 
 :::hablemos-claro
 La guía recoge identidad y datos personales del propietario.
@@ -2958,7 +3258,11 @@ Para dominar **guías del personal con licencia a**, aplica esta regla: El perso
 - **Incorrecto:** Todas las guías A las expide la alcaldía.
 - **Incorrecto:** Una sola guía C.N.P. documenta todas las armas del funcionario.
 
-<!-- VISUAL PENDIENTE: t42-76-guias-del-personal-con-licencia-a.webp -->
+<!-- VISUAL:t42-76-guias-del-personal-con-licencia-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-76-guias-del-personal-con-licencia-a.webp" alt="Guías del personal con licencia A" width="820">
+</p>
+<p align="center"><em>Infografía: Guías del personal con licencia A.</em></p>
 
 :::hablemos-claro
 El personal del artículo 114 necesita guía para cada arma particular.
@@ -2997,7 +3301,11 @@ Para dominar **tarjetas de armas**, aplica esta regla: Para llevar y usar armas 
 - **Incorrecto:** La tarjeta de armas tiene validez nacional.
 - **Incorrecto:** Tarjeta B corresponde a pistolas de fuego de 1.ª categoría.
 
-<!-- VISUAL PENDIENTE: t42-77-tarjetas-de-armas.webp -->
+<!-- VISUAL:t42-77-tarjetas-de-armas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-77-tarjetas-de-armas.webp" alt="Tarjetas de armas" width="820">
+</p>
+<p align="center"><em>Infografía: Tarjetas de armas.</em></p>
 
 :::hablemos-claro
 Para llevar y usar armas de 4.ª fuera del domicilio se requiere tarjeta que acompañe al arma.
@@ -3036,7 +3344,11 @@ Para dominar **autorización especial de menores**, aplica esta regla: Mayores d
 - **Incorrecto:** La autorización convierte al menor en titular pleno del arma.
 - **Incorrecto:** Cualquier menor de 14 puede usar un rifle con permiso familiar.
 
-<!-- VISUAL PENDIENTE: t42-il-78-autorizacion-especial-de-menores.webp -->
+<!-- VISUAL:t42-il-78-autorizacion-especial-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-78-autorizacion-especial-de-menores.webp" alt="Autorización especial de menores" width="820">
+</p>
+<p align="center"><em>Infografía: Autorización especial de menores.</em></p>
 
 :::hablemos-claro
 Mayores de 16 y menores de 18 pueden usar ciertas armas largas para caza o tiro junior con autorización y supervisión.
@@ -3075,7 +3387,11 @@ Para dominar **tarjeta europea de armas de fuego**, aplica esta regla: La Tarjet
 - **Incorrecto:** La Tarjeta Europea autoriza cualquier arma prohibida en España.
 - **Incorrecto:** Puede prestarse junto con el arma a otra persona.
 
-<!-- VISUAL PENDIENTE: t42-79-tarjeta-europea-de-armas-de-fuego.webp -->
+<!-- VISUAL:t42-79-tarjeta-europea-de-armas-de-fuego.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-79-tarjeta-europea-de-armas-de-fuego.webp" alt="Tarjeta Europea de Armas de Fuego" width="820">
+</p>
+<p align="center"><em>Infografía: Tarjeta Europea de Armas de Fuego.</em></p>
 
 :::hablemos-claro
 La Tarjeta Europea es personal e intransferible.
@@ -3114,7 +3430,11 @@ Para dominar **revista, renovación y autorización temporal**, aplica esta regl
 - **Incorrecto:** La revista sustituye definitivamente a la licencia.
 - **Incorrecto:** La autorización temporal dura cinco años.
 
-<!-- VISUAL PENDIENTE: t42-80-revista-renovacion-y-autorizacion-temporal.webp -->
+<!-- VISUAL:t42-80-revista-renovacion-y-autorizacion-temporal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-80-revista-renovacion-y-autorizacion-temporal.webp" alt="Revista, renovación y autorización temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Revista, renovación y autorización temporal.</em></p>
 
 :::hablemos-claro
 Las armas que precisan guía pasan revista cada cinco años con carácter general.
@@ -3153,7 +3473,11 @@ Para dominar **custodia y comunicación de pérdida**, aplica esta regla: El tit
 - **Incorrecto:** La licencia exime de toda medida de custodia.
 - **Incorrecto:** La pérdida puede comunicarse al renovar cinco años después.
 
-<!-- VISUAL PENDIENTE: t42-81-custodia-y-comunicacion-de-perdida.webp -->
+<!-- VISUAL:t42-81-custodia-y-comunicacion-de-perdida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-81-custodia-y-comunicacion-de-perdida.webp" alt="Custodia y comunicación de pérdida" width="820">
+</p>
+<p align="center"><em>Infografía: Custodia y comunicación de pérdida.</em></p>
 
 :::hablemos-claro
 El titular debe guardar armas y componentes esenciales en lugar seguro y minimizar acceso no autorizado.
@@ -3192,7 +3516,11 @@ Para dominar **concepto y ramas de la balística**, aplica esta regla: La balís
 - **Incorrecto:** La balística solo tiene dos ramas.
 - **Incorrecto:** La balística externa comienza dentro de la recámara.
 
-<!-- VISUAL PENDIENTE: t42-82-concepto-y-ramas-de-la-balistica.webp -->
+<!-- VISUAL:t42-82-concepto-y-ramas-de-la-balistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-82-concepto-y-ramas-de-la-balistica.webp" alt="Concepto y ramas de la balística" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y ramas de la balística.</em></p>
 
 :::hablemos-claro
 La balística estudia el movimiento y comportamiento de proyectiles.
@@ -3231,7 +3559,11 @@ Para dominar **balística interna**, aplica esta regla: La balística interna co
 - **Incorrecto:** Termina cuando el proyectil impacta en el blanco.
 - **Incorrecto:** Solo estudia las marcas sobre la víctima.
 
-<!-- VISUAL PENDIENTE: t42-il-83-balistica-interna.webp -->
+<!-- VISUAL:t42-il-83-balistica-interna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-83-balistica-interna.webp" alt="Balística interna" width="820">
+</p>
+<p align="center"><em>Infografía: Balística interna.</em></p>
 
 :::hablemos-claro
 La balística interna comienza con la iniciación del cartucho.
@@ -3270,7 +3602,11 @@ Para dominar **balística externa**, aplica esta regla: La balística externa co
 - **Incorrecto:** El proyectil vuela en línea recta indefinidamente.
 - **Incorrecto:** La humedad permite identificar por sí sola el arma.
 
-<!-- VISUAL PENDIENTE: t42-84-balistica-externa.webp -->
+<!-- VISUAL:t42-84-balistica-externa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-84-balistica-externa.webp" alt="Balística externa" width="820">
+</p>
+<p align="center"><em>Infografía: Balística externa.</em></p>
 
 :::hablemos-claro
 La balística externa comienza cuando el proyectil abandona la boca.
@@ -3309,7 +3645,11 @@ Para dominar **balística terminal o de efectos**, aplica esta regla: La balíst
 - **Incorrecto:** Todo proyectil produce siempre el mismo canal.
 - **Incorrecto:** Mayor calibre garantiza en cualquier caso mayor penetración.
 
-<!-- VISUAL PENDIENTE: t42-85-balistica-terminal-o-de-efectos.webp -->
+<!-- VISUAL:t42-85-balistica-terminal-o-de-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-85-balistica-terminal-o-de-efectos.webp" alt="Balística terminal o de efectos" width="820">
+</p>
+<p align="center"><em>Infografía: Balística terminal o de efectos.</em></p>
 
 :::hablemos-claro
 La balística terminal estudia el proyectil desde el impacto y su interacción con el blanco.
@@ -3348,7 +3688,11 @@ Para dominar **trayectoria y línea de tiro**, aplica esta regla: La línea inic
 - **Incorrecto:** Dos impactos alineados fijan siempre con exactitud la posición del tirador.
 - **Incorrecto:** La trayectoria nunca cambia después de un rebote.
 
-<!-- VISUAL PENDIENTE: t42-86-trayectoria-y-linea-de-tiro.webp -->
+<!-- VISUAL:t42-86-trayectoria-y-linea-de-tiro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-86-trayectoria-y-linea-de-tiro.webp" alt="Trayectoria y línea de tiro" width="820">
+</p>
+<p align="center"><em>Infografía: Trayectoria y línea de tiro.</em></p>
 
 :::hablemos-claro
 La línea inicial de tiro se aproxima a partir del eje del cañón en el instante de salida.
@@ -3387,7 +3731,11 @@ Para dominar **distancia de disparo**, aplica esta regla: La distancia boca-blan
 - **Incorrecto:** Todo tatuaje fija una distancia exacta de 30 centímetros.
 - **Incorrecto:** La ausencia de residuos demuestra disparo a larga distancia en cualquier material.
 
-<!-- VISUAL PENDIENTE: t42-87-distancia-de-disparo.webp -->
+<!-- VISUAL:t42-87-distancia-de-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-87-distancia-de-disparo.webp" alt="Distancia de disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Distancia de disparo.</em></p>
 
 :::hablemos-claro
 La distancia boca-blanco puede estimarse mediante residuos y patrones sobre el blanco.
@@ -3426,7 +3774,11 @@ Para dominar **orificios de entrada y salida**, aplica esta regla: Entrada y sal
 - **Incorrecto:** La entrada es siempre menor y perfectamente circular.
 - **Incorrecto:** Todo disparo produce necesariamente orificio de salida.
 
-<!-- VISUAL PENDIENTE: t42-88-orificios-de-entrada-y-salida.webp -->
+<!-- VISUAL:t42-88-orificios-de-entrada-y-salida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-88-orificios-de-entrada-y-salida.webp" alt="Orificios de entrada y salida" width="820">
+</p>
+<p align="center"><em>Infografía: Orificios de entrada y salida.</em></p>
 
 :::hablemos-claro
 Entrada y salida se valoran por morfología, bordes, residuos, tejidos y trayectoria conjunta.
@@ -3465,7 +3817,11 @@ Para dominar **rebotes y proyectiles deformados**, aplica esta regla: Un rebote 
 - **Incorrecto:** Un proyectil deformado carece siempre de valor forense.
 - **Incorrecto:** El ángulo de salida del rebote coincide necesariamente con el de entrada.
 
-<!-- VISUAL PENDIENTE: t42-89-rebotes-y-proyectiles-deformados.webp -->
+<!-- VISUAL:t42-89-rebotes-y-proyectiles-deformados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-89-rebotes-y-proyectiles-deformados.webp" alt="Rebotes y proyectiles deformados" width="820">
+</p>
+<p align="center"><em>Infografía: Rebotes y proyectiles deformados.</em></p>
 
 :::hablemos-claro
 Un rebote puede cambiar dirección, estabilidad y velocidad.
@@ -3504,7 +3860,11 @@ Para dominar **objeto de la balística forense**, aplica esta regla: La balísti
 - **Incorrecto:** Toda pericia balística identifica necesariamente un arma concreta.
 - **Incorrecto:** Balística forense solo estudia heridas humanas.
 
-<!-- VISUAL PENDIENTE: t42-90-objeto-de-la-balistica-forense.webp -->
+<!-- VISUAL:t42-90-objeto-de-la-balistica-forense.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-90-objeto-de-la-balistica-forense.webp" alt="Objeto de la balística forense" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la balística forense.</em></p>
 
 :::hablemos-claro
 La balística forense aplica conocimientos sobre armas, munición, disparos y marcas a una investigación.
@@ -3543,7 +3903,11 @@ Para dominar **balística funcional**, aplica esta regla: La balística funciona
 - **Incorrecto:** Si un arma está oxidada se considera inoperante sin ensayo.
 - **Incorrecto:** Funcional equivale a identificar la autoría del disparo.
 
-<!-- VISUAL PENDIENTE: t42-il-91-balistica-funcional.webp -->
+<!-- VISUAL:t42-il-91-balistica-funcional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-91-balistica-funcional.webp" alt="Balística funcional" width="820">
+</p>
+<p align="center"><em>Infografía: Balística funcional.</em></p>
 
 :::hablemos-claro
 La balística funcional examina características generales y estado de conservación.
@@ -3582,7 +3946,11 @@ Para dominar **balística identificativa**, aplica esta regla: La balística ide
 - **Incorrecto:** Una base de datos dicta por sí sola una identificación final.
 - **Incorrecto:** Indubitado significa hallado sin saber su origen.
 
-<!-- VISUAL PENDIENTE: t42-92-balistica-identificativa.webp -->
+<!-- VISUAL:t42-92-balistica-identificativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-92-balistica-identificativa.webp" alt="Balística identificativa" width="820">
+</p>
+<p align="center"><em>Infografía: Balística identificativa.</em></p>
 
 :::hablemos-claro
 La balística identificativa compara vainas y proyectiles cuestionados con muestras de origen conocido.
@@ -3621,7 +3989,11 @@ Para dominar **características de clase, subclase e individuales**, aplica esta
 - **Incorrecto:** Toda característica de clase identifica un arma única.
 - **Incorrecto:** Las marcas individuales se conocen antes de fabricar el arma.
 
-<!-- VISUAL PENDIENTE: t42-93-caracteristicas-de-clase-subclase-e-individuales.webp -->
+<!-- VISUAL:t42-93-caracteristicas-de-clase-subclase-e-individuales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-93-caracteristicas-de-clase-subclase-e-individuales.webp" alt="Características de clase, subclase e individuales" width="820">
+</p>
+<p align="center"><em>Infografía: Características de clase, subclase e individuales.</em></p>
 
 :::hablemos-claro
 Las características de clase proceden del diseño, como calibre, número y sentido de estrías.
@@ -3660,7 +4032,11 @@ Para dominar **marcas en vaina**, aplica esta regla: La vaina puede mostrar marc
 - **Incorrecto:** Toda vaina presenta obligatoriamente marca de expulsor.
 - **Incorrecto:** Una marca de aguja basta siempre para identificar sin comparación.
 
-<!-- VISUAL PENDIENTE: t42-94-marcas-en-vaina.webp -->
+<!-- VISUAL:t42-94-marcas-en-vaina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-94-marcas-en-vaina.webp" alt="Marcas en vaina" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas en vaina.</em></p>
 
 :::hablemos-claro
 La vaina puede mostrar marca de aguja percutora.
@@ -3699,7 +4075,11 @@ Para dominar **marcas en proyectil**, aplica esta regla: El proyectil puede reci
 - **Incorrecto:** El proyectil conserva siempre todas las estrías intactas.
 - **Incorrecto:** El número de campos identifica por sí solo el número de serie.
 
-<!-- VISUAL PENDIENTE: t42-95-marcas-en-proyectil.webp -->
+<!-- VISUAL:t42-95-marcas-en-proyectil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-95-marcas-en-proyectil.webp" alt="Marcas en proyectil" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas en proyectil.</em></p>
 
 :::hablemos-claro
 El proyectil puede recibir impresiones de campos y estrías durante su paso por el cañón.
@@ -3738,7 +4118,11 @@ Para dominar **balística operativa y escena**, aplica esta regla: La balística
 - **Incorrecto:** La trayectoria señala siempre la identidad del tirador.
 - **Incorrecto:** Mover un indicio antes de documentarlo no afecta a la reconstrucción.
 
-<!-- VISUAL PENDIENTE: t42-il-96-balistica-operativa-y-escena.webp -->
+<!-- VISUAL:t42-il-96-balistica-operativa-y-escena.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-96-balistica-operativa-y-escena.webp" alt="Balística operativa y escena" width="820">
+</p>
+<p align="center"><em>Infografía: Balística operativa y escena.</em></p>
 
 :::hablemos-claro
 La balística operativa examina lugares con impactos de disparos.
@@ -3777,7 +4161,11 @@ Para dominar **residuos de disparo**, aplica esta regla: Los residuos pueden pro
 - **Incorrecto:** Encontrar GSR demuestra sin excepción quién disparó.
 - **Incorrecto:** No hallar partículas excluye cualquier contacto con un arma.
 
-<!-- VISUAL PENDIENTE: t42-97-residuos-de-disparo.webp -->
+<!-- VISUAL:t42-97-residuos-de-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-97-residuos-de-disparo.webp" alt="Residuos de disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Residuos de disparo.</em></p>
 
 :::hablemos-claro
 Los residuos pueden proceder del cebo, propelente, proyectil y superficies del arma.
@@ -3816,7 +4204,11 @@ Para dominar **estimación de distancia y patrones**, aplica esta regla: Residuo
 - **Incorrecto:** El diámetro del patrón da una distancia exacta para todas las escopetas.
 - **Incorrecto:** No es necesario conocer la munición para comparar residuos.
 
-<!-- VISUAL PENDIENTE: t42-98-estimacion-de-distancia-y-patrones.webp -->
+<!-- VISUAL:t42-98-estimacion-de-distancia-y-patrones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-98-estimacion-de-distancia-y-patrones.webp" alt="Estimación de distancia y patrones" width="820">
+</p>
+<p align="center"><em>Infografía: Estimación de distancia y patrones.</em></p>
 
 :::hablemos-claro
 Residuos sobre el blanco pueden compararse con patrones obtenidos a distancias conocidas.
@@ -3855,7 +4247,11 @@ Para dominar **límites de la conclusión forense**, aplica esta regla: Una asoc
 - **Incorrecto:** Identificar un arma identifica automáticamente al autor.
 - **Incorrecto:** Resultado inconcluso equivale a demostrar que las armas son distintas.
 
-<!-- VISUAL PENDIENTE: t42-99-limites-de-la-conclusion-forense.webp -->
+<!-- VISUAL:t42-99-limites-de-la-conclusion-forense.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-99-limites-de-la-conclusion-forense.webp" alt="Límites de la conclusión forense" width="820">
+</p>
+<p align="center"><em>Infografía: Límites de la conclusión forense.</em></p>
 
 :::hablemos-claro
 Una asociación de marcas se refiere a los elementos comparados y al alcance del método.

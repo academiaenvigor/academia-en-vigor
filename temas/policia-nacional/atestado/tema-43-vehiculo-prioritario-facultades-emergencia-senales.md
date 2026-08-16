@@ -33,7 +33,11 @@ Para dominar **alcance oficial del tema 43**, aplica esta regla: El programa exi
 - **Incorrecto:** El Tema 43 se reduce al color de la luz V-1.
 - **Incorrecto:** Los sistemas ABS y airbag forman el núcleo de este tema.
 
-<!-- VISUAL PENDIENTE: t43-01-alcance-oficial-del-tema-43.webp -->
+<!-- VISUAL:t43-01-alcance-oficial-del-tema-43.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-01-alcance-oficial-del-tema-43.webp" alt="Alcance oficial del Tema 43" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 43.</em></p>
 
 :::hablemos-claro
 El programa exige concepto, facultades, conducta de terceros, conducción en emergencia y señales de emergencia.
@@ -72,7 +76,11 @@ Para dominar **mapa normativo del tema**, aplica esta regla: Los artículos 67 a
 - **Incorrecto:** Todo el tema se regula exclusivamente en la Ley de Tráfico.
 - **Incorrecto:** El anexo XI sustituye las condiciones de circulación de los artículos 67 a 70.
 
-<!-- VISUAL PENDIENTE: t43-02-mapa-normativo-del-tema.webp -->
+<!-- VISUAL:t43-02-mapa-normativo-del-tema.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-02-mapa-normativo-del-tema.webp" alt="Mapa normativo del tema" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa normativo del tema.</em></p>
 
 :::hablemos-claro
 Los artículos 67 a 70 del Reglamento General de Circulación contienen el régimen central de los servicios de urgencia.
@@ -111,7 +119,11 @@ Para dominar **corte normativo de 3 de agosto de 2026**, aplica esta regla: El c
 - **Incorrecto:** Todo real decreto obliga desde el mismo día de su publicación.
 - **Incorrecto:** El carril de emergencia del artículo 32 ya era exigible el 3 de agosto de 2026.
 
-<!-- VISUAL PENDIENTE: t43-03-corte-normativo-de-3-de-agosto-de-2026.webp -->
+<!-- VISUAL:t43-03-corte-normativo-de-3-de-agosto-de-2026.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-03-corte-normativo-de-3-de-agosto-de-2026.webp" alt="Corte normativo de 3 de agosto de 2026" width="820">
+</p>
+<p align="center"><em>Infografía: Corte normativo de 3 de agosto de 2026.</em></p>
 
 :::hablemos-claro
 El contenido vigente a 3 de agosto de 2026 se distingue expresamente de las reformas con eficacia futura.
@@ -150,7 +162,11 @@ Para dominar **prioridad ligada al servicio urgente**, aplica esta regla: La pri
 - **Incorrecto:** Todo vehículo policial conserva prioridad en cualquier desplazamiento.
 - **Incorrecto:** La rotulación oficial concede por sí sola preferencia de paso.
 
-<!-- VISUAL PENDIENTE: t43-04-prioridad-ligada-al-servicio-urgente.webp -->
+<!-- VISUAL:t43-04-prioridad-ligada-al-servicio-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-04-prioridad-ligada-al-servicio-urgente.webp" alt="Prioridad ligada al servicio urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Prioridad ligada al servicio urgente.</em></p>
 
 :::hablemos-claro
 La prioridad de paso corresponde a vehículos de servicios de urgencia cuando se hallan en servicio de tal carácter.
@@ -189,7 +205,11 @@ Para dominar **requisitos del carácter prioritario**, aplica esta regla: El car
 - **Incorrecto:** Basta con encender los intermitentes de emergencia para adquirir prioridad.
 - **Incorrecto:** Cualquier vehículo oficial es prioritario aunque no preste un servicio urgente.
 
-<!-- VISUAL PENDIENTE: t43-il-05-requisitos-del-caracter-prioritario.webp -->
+<!-- VISUAL:t43-il-05-requisitos-del-caracter-prioritario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-05-requisitos-del-caracter-prioritario.webp" alt="Requisitos del carácter prioritario" width="820">
+</p>
+<p align="center"><em>Infografía: Requisitos del carácter prioritario.</em></p>
 
 :::hablemos-claro
 El carácter prioritario exige pertenecer a uno de los servicios enumerados, circular en servicio urgente y advertir la presencia reglamentariamente.
@@ -228,7 +248,11 @@ Para dominar **vehículos de los servicios de policía**, aplica esta regla: Los
 - **Incorrecto:** Todo coche policial estacionado mantiene prioridad de paso.
 - **Incorrecto:** Un vehículo policial puede ignorar señales de agentes por pertenecer al mismo servicio.
 
-<!-- VISUAL PENDIENTE: t43-06-vehiculos-de-los-servicios-de-policia.webp -->
+<!-- VISUAL:t43-06-vehiculos-de-los-servicios-de-policia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-06-vehiculos-de-los-servicios-de-policia.webp" alt="Vehículos de los servicios de policía" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos de los servicios de policía.</em></p>
 
 :::hablemos-claro
 Los vehículos de los servicios de policía integran uno de los grupos legalmente enumerados como prioritarios.
@@ -267,7 +291,11 @@ Para dominar **extinción de incendios**, aplica esta regla: Los vehículos de e
 - **Incorrecto:** Los bomberos solo son prioritarios si el vehículo es estatal.
 - **Incorrecto:** La luz azul permite exceder límites aunque no exista urgencia.
 
-<!-- VISUAL PENDIENTE: t43-07-extincion-de-incendios.webp -->
+<!-- VISUAL:t43-07-extincion-de-incendios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-07-extincion-de-incendios.webp" alt="Extinción de incendios" width="820">
+</p>
+<p align="center"><em>Infografía: Extinción de incendios.</em></p>
 
 :::hablemos-claro
 Los vehículos de extinción de incendios están incluidos expresamente entre los servicios prioritarios.
@@ -306,7 +334,11 @@ Para dominar **protección civil y salvamento**, aplica esta regla: Protección 
 - **Incorrecto:** Toda grúa que acude a un siniestro pasa a ser vehículo prioritario.
 - **Incorrecto:** La denominación salvamento incluye automáticamente cualquier asistencia privada en carretera.
 
-<!-- VISUAL PENDIENTE: t43-08-proteccion-civil-y-salvamento.webp -->
+<!-- VISUAL:t43-08-proteccion-civil-y-salvamento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-08-proteccion-civil-y-salvamento.webp" alt="Protección civil y salvamento" width="820">
+</p>
+<p align="center"><em>Infografía: Protección civil y salvamento.</em></p>
 
 :::hablemos-claro
 Protección civil y salvamento forman un grupo expresamente incluido en la enumeración legal.
@@ -345,7 +377,11 @@ Para dominar **asistencia sanitaria pública o privada**, aplica esta regla: La 
 - **Incorrecto:** Solo las ambulancias públicas pueden ser prioritarias.
 - **Incorrecto:** Toda ambulancia vacía puede superar los límites por su rotulación.
 
-<!-- VISUAL PENDIENTE: t43-09-asistencia-sanitaria-publica-o-privada.webp -->
+<!-- VISUAL:t43-09-asistencia-sanitaria-publica-o-privada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-09-asistencia-sanitaria-publica-o-privada.webp" alt="Asistencia sanitaria pública o privada" width="820">
+</p>
+<p align="center"><em>Infografía: Asistencia sanitaria pública o privada.</em></p>
 
 :::hablemos-claro
 La asistencia sanitaria aparece expresamente con independencia de que sea pública o privada.
@@ -384,7 +420,11 @@ Para dominar **vehículos que no adquieren prioridad**, aplica esta regla: La se
 - **Incorrecto:** Toda luz amarilla concede preferencia de paso.
 - **Incorrecto:** V-16 y V-1 tienen la misma función jurídica.
 
-<!-- VISUAL PENDIENTE: t43-il-10-vehiculos-que-no-adquieren-prioridad.webp -->
+<!-- VISUAL:t43-il-10-vehiculos-que-no-adquieren-prioridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-10-vehiculos-que-no-adquieren-prioridad.webp" alt="Vehículos que no adquieren prioridad" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos que no adquieren prioridad.</em></p>
 
 :::hablemos-claro
 La señal V-2 identifica vehículos obstáculo o de determinados servicios, pero no les atribuye el carácter de prioritarios del artículo 68.2.
@@ -423,7 +463,11 @@ Para dominar **prioridad de paso**, aplica esta regla: En servicio urgente, los 
 - **Incorrecto:** La prioridad autoriza a embestir a quien no se aparte.
 - **Incorrecto:** La preferencia solo opera frente a vehículos, nunca frente a peatones.
 
-<!-- VISUAL PENDIENTE: t43-11-prioridad-de-paso.webp -->
+<!-- VISUAL:t43-11-prioridad-de-paso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-11-prioridad-de-paso.webp" alt="Prioridad de paso" width="820">
+</p>
+<p align="center"><em>Infografía: Prioridad de paso.</em></p>
 
 :::hablemos-claro
 En servicio urgente, los vehículos comprendidos en el régimen tienen prioridad sobre los demás vehículos y usuarios de la vía.
@@ -462,7 +506,11 @@ Para dominar **superación de límites de velocidad**, aplica esta regla: Los ve
 - **Incorrecto:** La señal V-1 obliga a mantener la máxima velocidad posible.
 - **Incorrecto:** Superar el límite queda permitido incluso fuera de servicio urgente.
 
-<!-- VISUAL PENDIENTE: t43-12-superacion-de-limites-de-velocidad.webp -->
+<!-- VISUAL:t43-12-superacion-de-limites-de-velocidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-12-superacion-de-limites-de-velocidad.webp" alt="Superación de límites de velocidad" width="820">
+</p>
+<p align="center"><em>Infografía: Superación de límites de velocidad.</em></p>
 
 :::hablemos-claro
 Los vehículos prioritarios en servicio urgente pueden circular por encima de los límites de velocidad en los casos y condiciones reglamentarios.
@@ -501,7 +549,11 @@ Para dominar **exención de otras normas o señales**, aplica esta regla: La exe
 - **Incorrecto:** El vehículo prioritario queda fuera de todo el Reglamento.
 - **Incorrecto:** Las señales de los agentes pueden desobedecerse si se usa sirena.
 
-<!-- VISUAL PENDIENTE: t43-13-exencion-de-otras-normas-o-senales.webp -->
+<!-- VISUAL:t43-13-exencion-de-otras-normas-o-senales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-13-exencion-de-otras-normas-o-senales.webp" alt="Exención de otras normas o señales" width="820">
+</p>
+<p align="center"><em>Infografía: Exención de otras normas o señales.</em></p>
 
 :::hablemos-claro
 La exención de otras normas o señales solo existe en los casos y con las condiciones determinadas por la sección.
@@ -540,7 +592,11 @@ Para dominar **uso ponderado del régimen especial**, aplica esta regla: Los con
 - **Incorrecto:** Ponderado significa usar siempre todas las facultades disponibles.
 - **Incorrecto:** La valoración corresponde exclusivamente al centro coordinador y nunca al conductor.
 
-<!-- VISUAL PENDIENTE: t43-14-uso-ponderado-del-regimen-especial.webp -->
+<!-- VISUAL:t43-14-uso-ponderado-del-regimen-especial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-14-uso-ponderado-del-regimen-especial.webp" alt="Uso ponderado del régimen especial" width="820">
+</p>
+<p align="center"><em>Infografía: Uso ponderado del régimen especial.</em></p>
 
 :::hablemos-claro
 Los conductores deben hacer un uso ponderado del régimen especial.
@@ -579,7 +635,11 @@ Para dominar **solo durante la prestación urgente**, aplica esta regla: El rég
 - **Incorrecto:** La prioridad dura toda la jornada del vehículo.
 - **Incorrecto:** Una llamada previa basta para mantener el régimen especial después de terminar la intervención.
 
-<!-- VISUAL PENDIENTE: t43-il-15-solo-durante-la-prestacion-urgente.webp -->
+<!-- VISUAL:t43-il-15-solo-durante-la-prestacion-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-15-solo-durante-la-prestacion-urgente.webp" alt="Solo durante la prestación urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Solo durante la prestación urgente.</em></p>
 
 :::hablemos-claro
 El régimen especial se utiliza únicamente mientras se presta un servicio urgente.
@@ -618,7 +678,11 @@ Para dominar **intersecciones y semáforos**, aplica esta regla: Antes de vulner
 - **Incorrecto:** Con sirena puede cruzarse una intersección sin reducir.
 - **Incorrecto:** La prioridad del vehículo urgente elimina el deber de comprobar el cruce.
 
-<!-- VISUAL PENDIENTE: t43-16-intersecciones-y-semaforos.webp -->
+<!-- VISUAL:t43-16-intersecciones-y-semaforos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-16-intersecciones-y-semaforos.webp" alt="Intersecciones y semáforos" width="820">
+</p>
+<p align="center"><em>Infografía: Intersecciones y semáforos.</em></p>
 
 :::hablemos-claro
 Antes de vulnerar una prioridad de paso o una señal semafórica deben adoptarse extremadas precauciones.
@@ -657,7 +721,11 @@ Para dominar **riesgo de atropello a peatones**, aplica esta regla: El conductor
 - **Incorrecto:** Los peatones pierden toda protección cuando oyen una sirena.
 - **Incorrecto:** Basta con presumir que el peatón se apartará.
 
-<!-- VISUAL PENDIENTE: t43-17-riesgo-de-atropello-a-peatones.webp -->
+<!-- VISUAL:t43-17-riesgo-de-atropello-a-peatones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-17-riesgo-de-atropello-a-peatones.webp" alt="Riesgo de atropello a peatones" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo de atropello a peatones.</em></p>
 
 :::hablemos-claro
 El conductor debe cerciorarse de que no existe riesgo de atropello a peatones.
@@ -696,7 +764,11 @@ Para dominar **reacción de los demás conductores**, aplica esta regla: Antes d
 - **Incorrecto:** La sirena demuestra jurídicamente que todos han detenido la marcha.
 - **Incorrecto:** El vehículo prioritario puede presumir que siempre le han visto.
 
-<!-- VISUAL PENDIENTE: t43-18-reaccion-de-los-demas-conductores.webp -->
+<!-- VISUAL:t43-18-reaccion-de-los-demas-conductores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-18-reaccion-de-los-demas-conductores.webp" alt="Reacción de los demás conductores" width="820">
+</p>
+<p align="center"><em>Infografía: Reacción de los demás conductores.</em></p>
 
 :::hablemos-claro
 Antes de avanzar, el conductor prioritario debe cerciorarse de que los otros vehículos se han detenido o se disponen a facilitar su marcha.
@@ -735,7 +807,11 @@ Para dominar **autorización de aparatos especiales**, aplica esta regla: La ins
 - **Incorrecto:** La instalación la autoriza siempre el Director General de la Policía.
 - **Incorrecto:** Uso e instalación de V-1 son una única operación jurídica.
 
-<!-- VISUAL PENDIENTE: t43-19-autorizacion-de-aparatos-especiales.webp -->
+<!-- VISUAL:t43-19-autorizacion-de-aparatos-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-19-autorizacion-de-aparatos-especiales.webp" alt="Autorización de aparatos especiales" width="820">
+</p>
+<p align="center"><em>Infografía: Autorización de aparatos especiales.</em></p>
 
 :::hablemos-claro
 La instalación de aparatos emisores de luces y señales acústicas especiales requiere autorización de la Jefatura Provincial de Tráfico correspondiente.
@@ -774,7 +850,11 @@ Para dominar **necesidad, idoneidad y mínimo riesgo**, aplica esta regla: El r�
 - **Incorrecto:** La maniobra más rápida es siempre la jurídicamente correcta.
 - **Incorrecto:** Una vez activada la sirena ya no es necesario reevaluar el riesgo.
 
-<!-- VISUAL PENDIENTE: t43-il-20-necesidad-idoneidad-y-minimo-riesgo.webp -->
+<!-- VISUAL:t43-il-20-necesidad-idoneidad-y-minimo-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-20-necesidad-idoneidad-y-minimo-riesgo.webp" alt="Necesidad, idoneidad y mínimo riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Necesidad, idoneidad y mínimo riesgo.</em></p>
 
 :::hablemos-claro
 El régimen debe aplicarse de forma adecuada a la urgencia y con el menor riesgo compatible con el servicio.
@@ -813,7 +893,11 @@ Para dominar **regla general de observancia**, aplica esta regla: Los conductore
 - **Incorrecto:** El artículo 68 elimina todas las obligaciones de conducción.
 - **Incorrecto:** Circular en urgencia sitúa al conductor fuera del Reglamento.
 
-<!-- VISUAL PENDIENTE: t43-21-regla-general-de-observancia.webp -->
+<!-- VISUAL:t43-21-regla-general-de-observancia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-21-regla-general-de-observancia.webp" alt="Regla general de observancia" width="820">
+</p>
+<p align="center"><em>Infografía: Regla general de observancia.</em></p>
 
 :::hablemos-claro
 Los conductores prioritarios deben observar como regla los preceptos del Reglamento General de Circulación.
@@ -852,7 +936,11 @@ Para dominar **títulos ii, iii y iv**, aplica esta regla: Cumplidas las condici
 - **Incorrecto:** La dispensa alcanza cualquier ley penal o administrativa.
 - **Incorrecto:** Solo pueden excepcionarse normas de estacionamiento.
 
-<!-- VISUAL PENDIENTE: t43-22-titulos-ii-iii-y-iv.webp -->
+<!-- VISUAL:t43-22-titulos-ii-iii-y-iv.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-22-titulos-ii-iii-y-iv.webp" alt="Títulos II, III y IV" width="820">
+</p>
+<p align="center"><em>Infografía: Títulos II, III y IV.</em></p>
 
 :::hablemos-claro
 Cumplidas las condiciones, pueden dejar de observarse normas de los títulos II, III y IV del Reglamento.
@@ -891,7 +979,11 @@ Para dominar **órdenes y señales de los agentes**, aplica esta regla: Las órd
 - **Incorrecto:** Un vehículo policial puede ignorar a cualquier agente de tráfico.
 - **Incorrecto:** Las órdenes dejan de obligar si retrasan el servicio.
 
-<!-- VISUAL PENDIENTE: t43-23-ordenes-y-senales-de-los-agentes.webp -->
+<!-- VISUAL:t43-23-ordenes-y-senales-de-los-agentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-23-ordenes-y-senales-de-los-agentes.webp" alt="Órdenes y señales de los agentes" width="820">
+</p>
+<p align="center"><em>Infografía: Órdenes y señales de los agentes.</em></p>
 
 :::hablemos-claro
 Las órdenes y señales de los agentes son siempre de obligado cumplimiento.
@@ -930,7 +1022,11 @@ Para dominar **exclusiva responsabilidad del conductor**, aplica esta regla: La 
 - **Incorrecto:** Toda responsabilidad recae siempre en la central operativa.
 - **Incorrecto:** El uso de V-1 elimina cualquier responsabilidad personal.
 
-<!-- VISUAL PENDIENTE: t43-24-exclusiva-responsabilidad-del-conductor.webp -->
+<!-- VISUAL:t43-24-exclusiva-responsabilidad-del-conductor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-24-exclusiva-responsabilidad-del-conductor.webp" alt="Exclusiva responsabilidad del conductor" width="820">
+</p>
+<p align="center"><em>Infografía: Exclusiva responsabilidad del conductor.</em></p>
 
 :::hablemos-claro
 La decisión de dejar de cumplir esas normas se ejerce bajo exclusiva responsabilidad del conductor.
@@ -969,7 +1065,11 @@ Para dominar **condición de no poner en peligro**, aplica esta regla: Antes de 
 - **Incorrecto:** Solo importa no poner en peligro al propio vehículo.
 - **Incorrecto:** La urgencia permite asumir cualquier riesgo para terceros.
 
-<!-- VISUAL PENDIENTE: t43-il-25-condicion-de-no-poner-en-peligro.webp -->
+<!-- VISUAL:t43-il-25-condicion-de-no-poner-en-peligro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-25-condicion-de-no-poner-en-peligro.webp" alt="Condición de no poner en peligro" width="820">
+</p>
+<p align="center"><em>Infografía: Condición de no poner en peligro.</em></p>
 
 :::hablemos-claro
 Antes de usar la excepción el conductor debe haberse cerciorado de que no pone en peligro a ningún usuario.
@@ -1008,7 +1108,11 @@ Para dominar **media vuelta en autopista o autovía**, aplica esta regla: En aut
 - **Incorrecto:** Cualquier vehículo con luces de emergencia puede dar media vuelta.
 - **Incorrecto:** La maniobra es libre siempre que se realice rápido.
 
-<!-- VISUAL PENDIENTE: t43-26-media-vuelta-en-autopista-o-autovia.webp -->
+<!-- VISUAL:t43-26-media-vuelta-en-autopista-o-autovia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-26-media-vuelta-en-autopista-o-autovia.webp" alt="Media vuelta en autopista o autovía" width="820">
+</p>
+<p align="center"><em>Infografía: Media vuelta en autopista o autovía.</em></p>
 
 :::hablemos-claro
 En autopista o autovía puede darse media vuelta con carácter excepcional en servicio urgente y sin comprometer la seguridad.
@@ -1047,7 +1151,11 @@ Para dominar **marcha atrás en autopista o autovía**, aplica esta regla: La ma
 - **Incorrecto:** La marcha atrás está autorizada a cualquier distancia sin valorar tráfico.
 - **Incorrecto:** Basta con activar los intermitentes ordinarios para usar esta facultad.
 
-<!-- VISUAL PENDIENTE: t43-27-marcha-atras-en-autopista-o-autovia.webp -->
+<!-- VISUAL:t43-27-marcha-atras-en-autopista-o-autovia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-27-marcha-atras-en-autopista-o-autovia.webp" alt="Marcha atrás en autopista o autovía" width="820">
+</p>
+<p align="center"><em>Infografía: Marcha atrás en autopista o autovía.</em></p>
 
 :::hablemos-claro
 La marcha atrás puede realizarse excepcionalmente en autopista o autovía durante un servicio urgente si no compromete la seguridad.
@@ -1086,7 +1194,11 @@ Para dominar **sentido contrario por el arcén**, aplica esta regla: La circulac
 - **Incorrecto:** El artículo permite elegir libremente el carril contrario.
 - **Incorrecto:** Circular por el arcén elimina el deber de comprobar usuarios detenidos.
 
-<!-- VISUAL PENDIENTE: t43-28-sentido-contrario-por-el-arcen.webp -->
+<!-- VISUAL:t43-28-sentido-contrario-por-el-arcen.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-28-sentido-contrario-por-el-arcen.webp" alt="Sentido contrario por el arcén" width="820">
+</p>
+<p align="center"><em>Infografía: Sentido contrario por el arcén.</em></p>
 
 :::hablemos-claro
 La circulación en sentido contrario al correspondiente a la calzada se admite excepcionalmente siempre que se haga por el arcén.
@@ -1125,7 +1237,11 @@ Para dominar **mediana y pasos transversales**, aplica esta regla: El vehículo 
 - **Incorrecto:** Puede atravesarse cualquier barrera física de la mediana.
 - **Incorrecto:** La autorización se extiende a vehículos particulares urgentes.
 
-<!-- VISUAL PENDIENTE: t43-29-mediana-y-pasos-transversales.webp -->
+<!-- VISUAL:t43-29-mediana-y-pasos-transversales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-29-mediana-y-pasos-transversales.webp" alt="Mediana y pasos transversales" width="820">
+</p>
+<p align="center"><em>Infografía: Mediana y pasos transversales.</em></p>
 
 :::hablemos-claro
 El vehículo prioritario puede penetrar excepcionalmente en la mediana o en sus pasos transversales.
@@ -1164,7 +1280,11 @@ Para dominar **posición de vehículos de los agentes**, aplica esta regla: Los 
 - **Incorrecto:** Los vehículos policiales pueden estacionar en cualquier punto sin causa de servicio.
 - **Incorrecto:** La facultad solo existe en vías urbanas.
 
-<!-- VISUAL PENDIENTE: t43-il-30-posicion-de-vehiculos-de-los-agentes.webp -->
+<!-- VISUAL:t43-il-30-posicion-de-vehiculos-de-los-agentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-30-posicion-de-vehiculos-de-los-agentes.webp" alt="Posición de vehículos de los agentes" width="820">
+</p>
+<p align="center"><em>Infografía: Posición de vehículos de los agentes.</em></p>
 
 :::hablemos-claro
 Los agentes responsables de vigilancia, regulación y control pueden utilizar o situar sus vehículos en la parte de la vía necesaria.
@@ -1203,7 +1323,11 @@ Para dominar **normas generales de advertencia especial**, aplica esta regla: Lo
 - **Incorrecto:** Todo vehículo de servicios puede usar V-1 por conveniencia.
 - **Incorrecto:** Las señales especiales anulan las órdenes de los agentes.
 
-<!-- VISUAL PENDIENTE: t43-31-normas-generales-de-advertencia-especial.webp -->
+<!-- VISUAL:t43-31-normas-generales-de-advertencia-especial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-31-normas-generales-de-advertencia-especial.webp" alt="Normas generales de advertencia especial" width="820">
+</p>
+<p align="center"><em>Infografía: Normas generales de advertencia especial.</em></p>
 
 :::hablemos-claro
 Los servicios de urgencia pueden utilizar señales ópticas y acústicas especiales en los casos y condiciones reglamentarios.
@@ -1242,7 +1366,11 @@ Para dominar **regla de uso simultáneo**, aplica esta regla: Como regla, la pre
 - **Incorrecto:** La regla general permite elegir libremente entre luz o sirena.
 - **Incorrecto:** Los intermitentes de dirección equivalen a la señal V-1.
 
-<!-- VISUAL PENDIENTE: t43-32-regla-de-uso-simultaneo.webp -->
+<!-- VISUAL:t43-32-regla-de-uso-simultaneo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-32-regla-de-uso-simultaneo.webp" alt="Regla de uso simultáneo" width="820">
+</p>
+<p align="center"><em>Infografía: Regla de uso simultáneo.</em></p>
 
 :::hablemos-claro
 Como regla, la presencia se advierte mediante utilización simultánea de la señal luminosa y del aparato acústico especial.
@@ -1281,7 +1409,11 @@ Para dominar **excepción de señal luminosa aislada**, aplica esta regla: La se
 - **Incorrecto:** La sirena puede omitirse siempre durante la noche.
 - **Incorrecto:** La luz aislada permite circular sin valorar si los demás perciben el vehículo.
 
-<!-- VISUAL PENDIENTE: t43-33-excepcion-de-senal-luminosa-aislada.webp -->
+<!-- VISUAL:t43-33-excepcion-de-senal-luminosa-aislada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-33-excepcion-de-senal-luminosa-aislada.webp" alt="Excepción de señal luminosa aislada" width="820">
+</p>
+<p align="center"><em>Infografía: Excepción de señal luminosa aislada.</em></p>
 
 :::hablemos-claro
 La señal luminosa debe utilizarse aisladamente cuando omitir la señal acústica especial no entrañe peligro para los demás usuarios.
@@ -1320,7 +1452,11 @@ Para dominar **significado de la señal v-1**, aplica esta regla: La utilizació
 - **Incorrecto:** V-1 indica cualquier vehículo detenido en la calzada.
 - **Incorrecto:** La luz azul solo identifica a la Policía Nacional.
 
-<!-- VISUAL PENDIENTE: t43-34-significado-de-la-senal-v-1.webp -->
+<!-- VISUAL:t43-34-significado-de-la-senal-v-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-34-significado-de-la-senal-v-1.webp" alt="Significado de la señal V-1" width="820">
+</p>
+<p align="center"><em>Infografía: Significado de la señal V-1.</em></p>
 
 :::hablemos-claro
 La utilización de V-1 indica un servicio de policía, incendios, protección civil y salvamento o asistencia sanitaria en servicio urgente.
@@ -1359,7 +1495,11 @@ Para dominar **uso de v-1 frente a instalación del equipo**, aplica esta regla:
 - **Incorrecto:** Si el uso no requiere autorización, la instalación tampoco puede exigirla.
 - **Incorrecto:** Toda utilización concreta debe autorizarla previamente la Jefatura Provincial.
 
-<!-- VISUAL PENDIENTE: t43-il-35-uso-de-v-1-frente-a-instalacion-del-equipo.webp -->
+<!-- VISUAL:t43-il-35-uso-de-v-1-frente-a-instalacion-del-equipo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-35-uso-de-v-1-frente-a-instalacion-del-equipo.webp" alt="Uso de V-1 frente a instalación del equipo" width="820">
+</p>
+<p align="center"><em>Infografía: Uso de V-1 frente a instalación del equipo.</em></p>
 
 :::hablemos-claro
 El anexo XI declara que la utilización de V-1 no requiere autorización administrativa, sea elemento adicional o constructivo.
@@ -1398,7 +1538,11 @@ Para dominar **color y homologación de v-1**, aplica esta regla: La señal lumi
 - **Incorrecto:** Las ambulancias mantienen obligatoriamente V-1 amarilla.
 - **Incorrecto:** V-1 puede ser roja si el vehículo es policial.
 
-<!-- VISUAL PENDIENTE: t43-36-color-y-homologacion-de-v-1.webp -->
+<!-- VISUAL:t43-36-color-y-homologacion-de-v-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-36-color-y-homologacion-de-v-1.webp" alt="Color y homologación de V-1" width="820">
+</p>
+<p align="center"><em>Infografía: Color y homologación de V-1.</em></p>
 
 :::hablemos-claro
 La señal luminosa V-1 está formada por una o varias luces de color azul.
@@ -1437,7 +1581,11 @@ Para dominar **colocación de v-1 en vehículos**, aplica esta regla: V-1 se ins
 - **Incorrecto:** La señal debe instalarse siempre dentro del maletero.
 - **Incorrecto:** Solo puede existir una fuente luminosa central.
 
-<!-- VISUAL PENDIENTE: t43-37-colocacion-de-v-1-en-vehiculos.webp -->
+<!-- VISUAL:t43-37-colocacion-de-v-1-en-vehiculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-37-colocacion-de-v-1-en-vehiculos.webp" alt="Colocación de V-1 en vehículos" width="820">
+</p>
+<p align="center"><em>Infografía: Colocación de V-1 en vehículos.</em></p>
 
 :::hablemos-claro
 V-1 se instala en la parte delantera del plano superior, por encima de la luz más alta, o a lo largo del perímetro de la zona más alta.
@@ -1476,7 +1624,11 @@ Para dominar **v-1 en motocicletas**, aplica esta regla: En motocicletas, V-1 pu
 - **Incorrecto:** Debe sobresalir siempre dos centímetros del carenado.
 - **Incorrecto:** La única ubicación permitida es el depósito de combustible.
 
-<!-- VISUAL PENDIENTE: t43-38-v-1-en-motocicletas.webp -->
+<!-- VISUAL:t43-38-v-1-en-motocicletas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-38-v-1-en-motocicletas.webp" alt="V-1 en motocicletas" width="820">
+</p>
+<p align="center"><em>Infografía: V-1 en motocicletas.</em></p>
 
 :::hablemos-claro
 En motocicletas, V-1 puede situarse atrás sobre un cabezal telescópico elevable por encima de su parte más alta.
@@ -1515,7 +1667,11 @@ Para dominar **visibilidad mínima de v-1**, aplica esta regla: V-1 debe ser vis
 - **Incorrecto:** V-1 debe verse como mínimo a 150 metros.
 - **Incorrecto:** La visibilidad solo se exige desde la parte trasera.
 
-<!-- VISUAL PENDIENTE: t43-39-visibilidad-minima-de-v-1.webp -->
+<!-- VISUAL:t43-39-visibilidad-minima-de-v-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-39-visibilidad-minima-de-v-1.webp" alt="Visibilidad mínima de V-1" width="820">
+</p>
+<p align="center"><em>Infografía: Visibilidad mínima de V-1.</em></p>
 
 :::hablemos-claro
 V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros.
@@ -1554,7 +1710,11 @@ Para dominar **sistemas auxiliares y prohibición de montaje**, aplica esta regl
 - **Incorrecto:** Cualquier vehículo puede montar V-1 si promete usarla solo en emergencias.
 - **Incorrecto:** Las luces auxiliares azules sustituyen todos los requisitos del artículo 68.2.
 
-<!-- VISUAL PENDIENTE: t43-il-40-sistemas-auxiliares-y-prohibicion-de-montaje.webp -->
+<!-- VISUAL:t43-il-40-sistemas-auxiliares-y-prohibicion-de-montaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-40-sistemas-auxiliares-y-prohibicion-de-montaje.webp" alt="Sistemas auxiliares y prohibición de montaje" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas auxiliares y prohibición de montaje.</em></p>
 
 :::hablemos-claro
 Los vehículos de policía pueden usar voluntariamente dos fuentes auxiliares azules intermitentes o estroboscópicas en el frontal.
@@ -1593,7 +1753,11 @@ Para dominar **momento en que nace el deber de facilitar**, aplica esta regla: E
 - **Incorrecto:** Solo hay que actuar cuando el vehículo prioritario toca el propio vehículo.
 - **Incorrecto:** La obligación nace únicamente tras una orden verbal del agente.
 
-<!-- VISUAL PENDIENTE: t43-41-momento-en-que-nace-el-deber-de-facilitar.webp -->
+<!-- VISUAL:t43-41-momento-en-que-nace-el-deber-de-facilitar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-41-momento-en-que-nace-el-deber-de-facilitar.webp" alt="Momento en que nace el deber de facilitar" width="820">
+</p>
+<p align="center"><em>Infografía: Momento en que nace el deber de facilitar.</em></p>
 
 :::hablemos-claro
 El deber de colaboración comienza tan pronto se perciben las señales especiales que anuncian la proximidad del vehículo prioritario.
@@ -1632,7 +1796,11 @@ Para dominar **medidas adecuadas según contexto**, aplica esta regla: Los condu
 - **Incorrecto:** Siempre debe subirse a la acera para dejar paso.
 - **Incorrecto:** La única reacción válida es acelerar hasta el siguiente cruce.
 
-<!-- VISUAL PENDIENTE: t43-42-medidas-adecuadas-segun-contexto.webp -->
+<!-- VISUAL:t43-42-medidas-adecuadas-segun-contexto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-42-medidas-adecuadas-segun-contexto.webp" alt="Medidas adecuadas según contexto" width="820">
+</p>
+<p align="center"><em>Infografía: Medidas adecuadas según contexto.</em></p>
 
 :::hablemos-claro
 Los conductores adoptarán las medidas adecuadas según las circunstancias del momento y lugar.
@@ -1671,7 +1839,11 @@ Para dominar **apartarse normalmente a la derecha**, aplica esta regla: La respu
 - **Incorrecto:** Siempre hay que apartarse a la izquierda.
 - **Incorrecto:** La derecha es obligatoria aunque exista un obstáculo o un peatón.
 
-<!-- VISUAL PENDIENTE: t43-43-apartarse-normalmente-a-la-derecha.webp -->
+<!-- VISUAL:t43-43-apartarse-normalmente-a-la-derecha.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-43-apartarse-normalmente-a-la-derecha.webp" alt="Apartarse normalmente a la derecha" width="820">
+</p>
+<p align="center"><em>Infografía: Apartarse normalmente a la derecha.</em></p>
 
 :::hablemos-claro
 La respuesta normal es apartarse a la derecha cuando resulte adecuada y segura.
@@ -1710,7 +1882,11 @@ Para dominar **detenerse si fuera preciso**, aplica esta regla: El conductor deb
 - **Incorrecto:** Está prohibido detenerse para dejar pasar a una ambulancia.
 - **Incorrecto:** La detención debe hacerse siempre en medio del carril.
 
-<!-- VISUAL PENDIENTE: t43-44-detenerse-si-fuera-preciso.webp -->
+<!-- VISUAL:t43-44-detenerse-si-fuera-preciso.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-44-detenerse-si-fuera-preciso.webp" alt="Detenerse si fuera preciso" width="820">
+</p>
+<p align="center"><em>Infografía: Detenerse si fuera preciso.</em></p>
 
 :::hablemos-claro
 El conductor debe detenerse si resulta preciso para facilitar el paso.
@@ -1749,7 +1925,11 @@ Para dominar **reacciones inseguras que no facilitan**, aplica esta regla: Una m
 - **Incorrecto:** Cualquier infracción queda autorizada si se hace para apartarse.
 - **Incorrecto:** Detenerse súbitamente es siempre la respuesta más segura.
 
-<!-- VISUAL PENDIENTE: t43-il-45-reacciones-inseguras-que-no-facilitan.webp -->
+<!-- VISUAL:t43-il-45-reacciones-inseguras-que-no-facilitan.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-45-reacciones-inseguras-que-no-facilitan.webp" alt="Reacciones inseguras que no facilitan" width="820">
+</p>
+<p align="center"><em>Infografía: Reacciones inseguras que no facilitan.</em></p>
 
 :::hablemos-claro
 Una maniobra brusca o imprevisible puede obstaculizar más al vehículo prioritario aunque pretenda ayudar.
@@ -1788,7 +1968,11 @@ Para dominar **activación policial de detención**, aplica esta regla: Desde el
 - **Incorrecto:** La luz vigente de detención policial es amarilla.
 - **Incorrecto:** Cualquier luz roja de un vehículo particular obliga a seguirlo.
 
-<!-- VISUAL PENDIENTE: t43-46-activacion-policial-de-detencion.webp -->
+<!-- VISUAL:t43-46-activacion-policial-de-detencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-46-activacion-policial-de-detencion.webp" alt="Activación policial de detención" width="820">
+</p>
+<p align="center"><em>Infografía: Activación policial de detención.</em></p>
 
 :::hablemos-claro
 Desde el 1 de julio de 2025, el supuesto de detención exige un vehículo de policía detrás que manifieste su presencia conforme al artículo 68.2 y active luz roja hacia adelante.
@@ -1827,7 +2011,11 @@ Para dominar **detención en el lado derecho**, aplica esta regla: El conductor 
 - **Incorrecto:** La norma exige detenerse en el lado izquierdo.
 - **Incorrecto:** El conductor puede continuar hasta una comisaría sin atender la indicación.
 
-<!-- VISUAL PENDIENTE: t43-47-detencion-en-el-lado-derecho.webp -->
+<!-- VISUAL:t43-47-detencion-en-el-lado-derecho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-47-detencion-en-el-lado-derecho.webp" alt="Detención en el lado derecho" width="820">
+</p>
+<p align="center"><em>Infografía: Detención en el lado derecho.</em></p>
 
 :::hablemos-claro
 El conductor requerido debe detener su vehículo con las debidas precauciones en el lado derecho.
@@ -1866,7 +2054,11 @@ Para dominar **posición delante del vehículo policial**, aplica esta regla: El
 - **Incorrecto:** La norma obliga a quedar detrás del patrulla.
 - **Incorrecto:** Debe colocarse en paralelo al vehículo policial.
 
-<!-- VISUAL PENDIENTE: t43-48-posicion-delante-del-vehiculo-policial.webp -->
+<!-- VISUAL:t43-48-posicion-delante-del-vehiculo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-48-posicion-delante-del-vehiculo-policial.webp" alt="Posición delante del vehículo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Posición delante del vehículo policial.</em></p>
 
 :::hablemos-claro
 El vehículo requerido debe quedar delante del vehículo policial.
@@ -1905,7 +2097,11 @@ Para dominar **lugar seguro y permanencia interior**, aplica esta regla: La dete
 - **Incorrecto:** El conductor debe abandonar inmediatamente el vehículo.
 - **Incorrecto:** La orden permite detenerse en cualquier curva sin visibilidad.
 
-<!-- VISUAL PENDIENTE: t43-49-lugar-seguro-y-permanencia-interior.webp -->
+<!-- VISUAL:t43-49-lugar-seguro-y-permanencia-interior.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-49-lugar-seguro-y-permanencia-interior.webp" alt="Lugar seguro y permanencia interior" width="820">
+</p>
+<p align="center"><em>Infografía: Lugar seguro y permanencia interior.</em></p>
 
 :::hablemos-claro
 La detención debe realizarse donde no genere mayores riesgos o molestias para los demás usuarios.
@@ -1944,7 +2140,11 @@ Para dominar **instrucciones del agente y cambio de color**, aplica esta regla: 
 - **Incorrecto:** Una pregunta antigua con amarillo demuestra que el color actual sigue siendo amarillo.
 - **Incorrecto:** Las instrucciones por megafonía son meras recomendaciones sin fuerza obligatoria.
 
-<!-- VISUAL PENDIENTE: t43-il-50-instrucciones-del-agente-y-cambio-de-color.webp -->
+<!-- VISUAL:t43-il-50-instrucciones-del-agente-y-cambio-de-color.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-50-instrucciones-del-agente-y-cambio-de-color.webp" alt="Instrucciones del agente y cambio de color" width="820">
+</p>
+<p align="center"><em>Infografía: Instrucciones del agente y cambio de color.</em></p>
 
 :::hablemos-claro
 El conductor ajustará en todo momento su comportamiento a las instrucciones impartidas por megafonía u otro medio claramente perceptible.
@@ -1983,7 +2183,11 @@ Para dominar **circunstancias especialmente graves**, aplica esta regla: El art�
 - **Incorrecto:** Llegar tarde a una cita constituye por sí solo urgencia reglamentaria.
 - **Incorrecto:** Cualquier malestar leve permite activar señales especiales.
 
-<!-- VISUAL PENDIENTE: t43-51-circunstancias-especialmente-graves.webp -->
+<!-- VISUAL:t43-51-circunstancias-especialmente-graves.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-51-circunstancias-especialmente-graves.webp" alt="Circunstancias especialmente graves" width="820">
+</p>
+<p align="center"><em>Infografía: Circunstancias especialmente graves.</em></p>
 
 :::hablemos-claro
 El artículo 70 parte de circunstancias especialmente graves.
@@ -2022,7 +2226,11 @@ Para dominar **falta de otro medio disponible**, aplica esta regla: El conductor
 - **Incorrecto:** Puede usarse el régimen aunque una ambulancia esté disponible de inmediato.
 - **Incorrecto:** La preferencia personal por el coche propio satisface el requisito.
 
-<!-- VISUAL PENDIENTE: t43-52-falta-de-otro-medio-disponible.webp -->
+<!-- VISUAL:t43-52-falta-de-otro-medio-disponible.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-52-falta-de-otro-medio-disponible.webp" alt="Falta de otro medio disponible" width="820">
+</p>
+<p align="center"><em>Infografía: Falta de otro medio disponible.</em></p>
 
 :::hablemos-claro
 El conductor debe verse forzado a actuar sin poder recurrir a otro medio.
@@ -2061,7 +2269,11 @@ Para dominar **servicio normalmente reservado a prioritarios**, aplica esta regl
 - **Incorrecto:** Cualquier reparto urgente de mercancía queda incluido.
 - **Incorrecto:** El conductor adquiere una licencia especial durante el trayecto.
 
-<!-- VISUAL PENDIENTE: t43-53-servicio-normalmente-reservado-a-prioritarios.webp -->
+<!-- VISUAL:t43-53-servicio-normalmente-reservado-a-prioritarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-53-servicio-normalmente-reservado-a-prioritarios.webp" alt="Servicio normalmente reservado a prioritarios" width="820">
+</p>
+<p align="center"><em>Infografía: Servicio normalmente reservado a prioritarios.</em></p>
 
 :::hablemos-claro
 El vehículo no prioritario efectúa excepcionalmente un servicio de los normalmente reservados a los prioritarios.
@@ -2100,7 +2312,11 @@ Para dominar **avisador acústico intermitente**, aplica esta regla: El conducto
 - **Incorrecto:** Debe instalarse una sirena policial antes de iniciar el trayecto.
 - **Incorrecto:** El claxon continuo autoriza a superar todos los límites.
 
-<!-- VISUAL PENDIENTE: t43-54-avisador-acustico-intermitente.webp -->
+<!-- VISUAL:t43-54-avisador-acustico-intermitente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-54-avisador-acustico-intermitente.webp" alt="Avisador acústico intermitente" width="820">
+</p>
+<p align="center"><em>Infografía: Avisador acústico intermitente.</em></p>
 
 :::hablemos-claro
 El conductor procurará advertir la situación utilizando el avisador acústico de forma intermitente.
@@ -2139,7 +2355,11 @@ Para dominar **conexión de la luz de emergencia**, aplica esta regla: El vehíc
 - **Incorrecto:** Las cuatro intermitentes transforman el vehículo en prioritario.
 - **Incorrecto:** La luz de emergencia debe sustituirse por V-1 azul.
 
-<!-- VISUAL PENDIENTE: t43-il-55-conexion-de-la-luz-de-emergencia.webp -->
+<!-- VISUAL:t43-il-55-conexion-de-la-luz-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-55-conexion-de-la-luz-de-emergencia.webp" alt="Conexión de la luz de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: Conexión de la luz de emergencia.</em></p>
 
 :::hablemos-claro
 El vehículo conectará la luz de emergencia si dispone de ella para hacer visible la situación especial.
@@ -2178,7 +2398,11 @@ Para dominar **pañuelo o procedimiento similar**, aplica esta regla: El artícu
 - **Incorrecto:** El pañuelo concede preferencia absoluta en intersecciones.
 - **Incorrecto:** Solo es válido si es de color azul y está homologado.
 
-<!-- VISUAL PENDIENTE: t43-56-panuelo-o-procedimiento-similar.webp -->
+<!-- VISUAL:t43-56-panuelo-o-procedimiento-similar.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-56-panuelo-o-procedimiento-similar.webp" alt="Pañuelo o procedimiento similar" width="820">
+</p>
+<p align="center"><em>Infografía: Pañuelo o procedimiento similar.</em></p>
 
 :::hablemos-claro
 El artículo 70 admite agitar un pañuelo o utilizar un procedimiento similar para advertir la especial situación.
@@ -2217,7 +2441,11 @@ Para dominar **no adquisición del carácter prioritario**, aplica esta regla: E
 - **Incorrecto:** El vehículo particular se convierte temporalmente en vehículo policial.
 - **Incorrecto:** Puede circular en sentido contrario por el arcén como un prioritario.
 
-<!-- VISUAL PENDIENTE: t43-57-no-adquisicion-del-caracter-prioritario.webp -->
+<!-- VISUAL:t43-57-no-adquisicion-del-caracter-prioritario.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-57-no-adquisicion-del-caracter-prioritario.webp" alt="No adquisición del carácter prioritario" width="820">
+</p>
+<p align="center"><em>Infografía: No adquisición del carácter prioritario.</em></p>
 
 :::hablemos-claro
 El vehículo continúa siendo no prioritario pese a realizar el servicio urgente excepcional.
@@ -2256,7 +2484,11 @@ Para dominar **respeto de las normas de circulación**, aplica esta regla: El co
 - **Incorrecto:** El pañuelo autoriza a saltarse un semáforo rojo.
 - **Incorrecto:** La urgencia elimina toda responsabilidad por una maniobra peligrosa.
 
-<!-- VISUAL PENDIENTE: t43-58-respeto-de-las-normas-de-circulacion.webp -->
+<!-- VISUAL:t43-58-respeto-de-las-normas-de-circulacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-58-respeto-de-las-normas-de-circulacion.webp" alt="Respeto de las normas de circulación" width="820">
+</p>
+<p align="center"><em>Infografía: Respeto de las normas de circulación.</em></p>
 
 :::hablemos-claro
 El conductor no prioritario debe respetar las normas de circulación.
@@ -2295,7 +2527,11 @@ Para dominar **conducta de los demás usuarios**, aplica esta regla: Los demás 
 - **Incorrecto:** Los demás usuarios deben bloquear el paso por no llevar V-1.
 - **Incorrecto:** La remisión al artículo 69 convierte al vehículo en prioritario.
 
-<!-- VISUAL PENDIENTE: t43-59-conducta-de-los-demas-usuarios.webp -->
+<!-- VISUAL:t43-59-conducta-de-los-demas-usuarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-59-conducta-de-los-demas-usuarios.webp" alt="Conducta de los demás usuarios" width="820">
+</p>
+<p align="center"><em>Infografía: Conducta de los demás usuarios.</em></p>
 
 :::hablemos-claro
 Los demás usuarios cumplirán respecto de ese vehículo lo dispuesto en el artículo 69.
@@ -2334,7 +2570,11 @@ Para dominar **justificación exigible por agentes**, aplica esta regla: Los age
 - **Incorrecto:** La urgencia solo puede comprobarse antes de iniciar el trayecto.
 - **Incorrecto:** Los agentes nunca pueden pedir prueba por afectar a datos personales.
 
-<!-- VISUAL PENDIENTE: t43-il-60-justificacion-exigible-por-agentes.webp -->
+<!-- VISUAL:t43-il-60-justificacion-exigible-por-agentes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-60-justificacion-exigible-por-agentes.webp" alt="Justificación exigible por agentes" width="820">
+</p>
+<p align="center"><em>Infografía: Justificación exigible por agentes.</em></p>
 
 :::hablemos-claro
 Los agentes pueden exigir en cualquier momento la justificación de las circunstancias graves.
@@ -2373,7 +2613,11 @@ Para dominar **concepto técnico de señal de emergencia**, aplica esta regla: L
 - **Incorrecto:** La señal de emergencia es una luz azul giratoria.
 - **Incorrecto:** Solo funciona en la parte trasera del vehículo.
 
-<!-- VISUAL PENDIENTE: t43-61-concepto-tecnico-de-senal-de-emergencia.webp -->
+<!-- VISUAL:t43-61-concepto-tecnico-de-senal-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-61-concepto-tecnico-de-senal-de-emergencia.webp" alt="Concepto técnico de señal de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto técnico de señal de emergencia.</em></p>
 
 :::hablemos-claro
 La señal de emergencia consiste en el funcionamiento simultáneo de todas las luces indicadoras de dirección.
@@ -2412,7 +2656,11 @@ Para dominar **advertencia de inmovilización o frenado**, aplica esta regla: El
 - **Incorrecto:** Nunca se advierte una frenada impuesta por el tráfico.
 - **Incorrecto:** La señal V-1 sustituye las luces de frenado ordinarias.
 
-<!-- VISUAL PENDIENTE: t43-62-advertencia-de-inmovilizacion-o-frenado.webp -->
+<!-- VISUAL:t43-62-advertencia-de-inmovilizacion-o-frenado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-62-advertencia-de-inmovilizacion-o-frenado.webp" alt="Advertencia de inmovilización o frenado" width="820">
+</p>
+<p align="center"><em>Infografía: Advertencia de inmovilización o frenado.</em></p>
 
 :::hablemos-claro
 El propósito de inmovilizar el vehículo o frenar considerablemente debe advertirse ópticamente con antelación suficiente cuando sea posible.
@@ -2451,7 +2699,11 @@ Para dominar **inmovilización en autopista o con poca visibilidad**, aplica est
 - **Incorrecto:** En autopista basta con apagar el motor sin señalizar.
 - **Incorrecto:** Las luces de posición deben sustituir siempre la señal de emergencia.
 
-<!-- VISUAL PENDIENTE: t43-63-inmovilizacion-en-autopista-o-con-poca-visibilidad.webp -->
+<!-- VISUAL:t43-63-inmovilizacion-en-autopista-o-con-poca-visibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-63-inmovilizacion-en-autopista-o-con-poca-visibilidad.webp" alt="Inmovilización en autopista o con poca visibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Inmovilización en autopista o con poca visibilidad.</em></p>
 
 :::hablemos-claro
 En autopista o autovía, la inmovilización se señaliza con la luz de emergencia si el vehículo dispone de ella.
@@ -2490,7 +2742,11 @@ Para dominar **obstáculo por accidente, avería o carga**, aplica esta regla: S
 - **Incorrecto:** El vehículo debe permanecer en el carril hasta que llegue una grúa.
 - **Incorrecto:** La carga caída no necesita señalización si es visible de día.
 
-<!-- VISUAL PENDIENTE: t43-64-obstaculo-por-accidente-averia-o-carga.webp -->
+<!-- VISUAL:t43-64-obstaculo-por-accidente-averia-o-carga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-64-obstaculo-por-accidente-averia-o-carga.webp" alt="Obstáculo por accidente, avería o carga" width="820">
+</p>
+<p align="center"><em>Infografía: Obstáculo por accidente, avería o carga.</em></p>
 
 :::hablemos-claro
 Si un accidente, avería o carga obstaculiza la calzada, debe señalizarse convenientemente el vehículo o el obstáculo.
@@ -2529,7 +2785,11 @@ Para dominar **vehículo que puede continuar la marcha**, aplica esta regla: Tra
 - **Incorrecto:** Todo vehículo accidentado debe esperar inmóvil a la policía.
 - **Incorrecto:** Puede continuar aunque pierda elementos que comprometan la seguridad.
 
-<!-- VISUAL PENDIENTE: t43-il-65-vehiculo-que-puede-continuar-la-marcha.webp -->
+<!-- VISUAL:t43-il-65-vehiculo-que-puede-continuar-la-marcha.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-65-vehiculo-que-puede-continuar-la-marcha.webp" alt="Vehículo que puede continuar la marcha" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículo que puede continuar la marcha.</em></p>
 
 :::hablemos-claro
 Tras accidente o avería, el vehículo que pueda continuar lo hará de forma inmediata.
@@ -2568,7 +2828,11 @@ Para dominar **vehículo que necesita auxilio**, aplica esta regla: Si precisa a
 - **Incorrecto:** Debe cruzar todos los carriles hasta el arcén izquierdo.
 - **Incorrecto:** Puede continuar por el arcén durante cualquier distancia hasta su destino.
 
-<!-- VISUAL PENDIENTE: t43-66-vehiculo-que-necesita-auxilio.webp -->
+<!-- VISUAL:t43-66-vehiculo-que-necesita-auxilio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-66-vehiculo-que-necesita-auxilio.webp" alt="Vehículo que necesita auxilio" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículo que necesita auxilio.</em></p>
 
 :::hablemos-claro
 Si precisa auxilio, el vehículo debe abandonar cuanto antes los carriles de circulación.
@@ -2607,7 +2871,11 @@ Para dominar **imposibilidad de alcanzar una salida**, aplica esta regla: Si no 
 - **Incorrecto:** La norma ordena detenerse en el carril izquierdo.
 - **Incorrecto:** Cualquier lugar es equivalente una vez encendida la emergencia.
 
-<!-- VISUAL PENDIENTE: t43-67-imposibilidad-de-alcanzar-una-salida.webp -->
+<!-- VISUAL:t43-67-imposibilidad-de-alcanzar-una-salida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-67-imposibilidad-de-alcanzar-una-salida.webp" alt="Imposibilidad de alcanzar una salida" width="820">
+</p>
+<p align="center"><em>Infografía: Imposibilidad de alcanzar una salida.</em></p>
 
 :::hablemos-claro
 Si no puede llegar a una salida, debe detenerse en el arcén derecho.
@@ -2646,7 +2914,11 @@ Para dominar **salida de ocupantes**, aplica esta regla: Como regla, los ocupant
 - **Incorrecto:** Todos deben salir siempre por el lado del tráfico.
 - **Incorrecto:** El arcén es el lugar ordinario para esperar de pie.
 
-<!-- VISUAL PENDIENTE: t43-68-salida-de-ocupantes.webp -->
+<!-- VISUAL:t43-68-salida-de-ocupantes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-68-salida-de-ocupantes.webp" alt="Salida de ocupantes" width="820">
+</p>
+<p align="center"><em>Infografía: Salida de ocupantes.</em></p>
 
 :::hablemos-claro
 Como regla, los ocupantes abandonarán el vehículo inmovilizado si existe un lugar seguro fuera de la plataforma de circulación.
@@ -2685,7 +2957,11 @@ Para dominar **luces durante la retirada del obstáculo**, aplica esta regla: Mi
 - **Incorrecto:** La luz de emergencia excluye usar cualquier otro dispositivo.
 - **Incorrecto:** Las luces de gálibo sustituyen siempre a V-16.
 
-<!-- VISUAL PENDIENTE: t43-69-luces-durante-la-retirada-del-obstaculo.webp -->
+<!-- VISUAL:t43-69-luces-durante-la-retirada-del-obstaculo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-69-luces-durante-la-retirada-del-obstaculo.webp" alt="Luces durante la retirada del obstáculo" width="820">
+</p>
+<p align="center"><em>Infografía: Luces durante la retirada del obstáculo.</em></p>
 
 :::hablemos-claro
 Mientras se deja expedita la vía se enciende la luz de emergencia si el vehículo la lleva.
@@ -2724,7 +3000,11 @@ Para dominar **dispositivo reglamentario de preseñalización**, aplica esta reg
 - **Incorrecto:** V-16 sustituye la señal V-1 de los servicios urgentes.
 - **Incorrecto:** La baliza concede prioridad para continuar por el arcén.
 
-<!-- VISUAL PENDIENTE: t43-il-70-dispositivo-reglamentario-de-presenalizacion.webp -->
+<!-- VISUAL:t43-il-70-dispositivo-reglamentario-de-presenalizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-70-dispositivo-reglamentario-de-presenalizacion.webp" alt="Dispositivo reglamentario de preseñalización" width="820">
+</p>
+<p align="center"><em>Infografía: Dispositivo reglamentario de preseñalización.</em></p>
 
 :::hablemos-claro
 Todo conductor debe emplear el dispositivo reglamentario de preseñalización para advertir la inmovilización o el obstáculo.
@@ -2763,7 +3043,11 @@ Para dominar **significado de v-16**, aplica esta regla: V-16 indica que el veh�
 - **Incorrecto:** V-16 identifica un vehículo prioritario en servicio urgente.
 - **Incorrecto:** La baliza solo sirve para transportes de mercancías.
 
-<!-- VISUAL PENDIENTE: t43-71-significado-de-v-16.webp -->
+<!-- VISUAL:t43-71-significado-de-v-16.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-71-significado-de-v-16.webp" alt="Significado de V-16" width="820">
+</p>
+<p align="center"><em>Infografía: Significado de V-16.</em></p>
 
 :::hablemos-claro
 V-16 indica que el vehículo ha quedado inmovilizado en la calzada o que su carga está caída sobre ella.
@@ -2802,7 +3086,11 @@ Para dominar **colocación de v-16**, aplica esta regla: V-16, de color amarillo
 - **Incorrecto:** Debe colocarse obligatoriamente a cien metros detrás del vehículo.
 - **Incorrecto:** Su lugar reglamentario es el suelo del arcén.
 
-<!-- VISUAL PENDIENTE: t43-72-colocacion-de-v-16.webp -->
+<!-- VISUAL:t43-72-colocacion-de-v-16.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-72-colocacion-de-v-16.webp" alt="Colocación de V-16" width="820">
+</p>
+<p align="center"><em>Infografía: Colocación de V-16.</em></p>
 
 :::hablemos-claro
 V-16, de color amarillo auto, se coloca en la parte más alta posible del vehículo inmovilizado.
@@ -2841,7 +3129,11 @@ Para dominar **características luminosas de v-16**, aplica esta regla: La seña
 - **Incorrecto:** Cualquier linterna amarilla cumple la función V-16.
 - **Incorrecto:** La baliza válida puede añadir libremente funciones de ocio.
 
-<!-- VISUAL PENDIENTE: t43-73-caracteristicas-luminosas-de-v-16.webp -->
+<!-- VISUAL:t43-73-caracteristicas-luminosas-de-v-16.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-73-caracteristicas-luminosas-de-v-16.webp" alt="Características luminosas de V-16" width="820">
+</p>
+<p align="center"><em>Infografía: Características luminosas de V-16.</em></p>
 
 :::hablemos-claro
 La señal V-16 emite luz amarillo auto y debe cumplir las características técnicas reglamentarias.
@@ -2880,7 +3172,11 @@ Para dominar **comunicación y geoposicionamiento v-16**, aplica esta regla: V-1
 - **Incorrecto:** La ubicación solo se envía una vez al comprar la baliza.
 - **Incorrecto:** V-16 transmite audio del habitáculo a la DGT.
 
-<!-- VISUAL PENDIENTE: t43-74-comunicacion-y-geoposicionamiento-v-16.webp -->
+<!-- VISUAL:t43-74-comunicacion-y-geoposicionamiento-v-16.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-74-comunicacion-y-geoposicionamiento-v-16.webp" alt="Comunicación y geoposicionamiento V-16" width="820">
+</p>
+<p align="center"><em>Infografía: Comunicación y geoposicionamiento V-16.</em></p>
 
 :::hablemos-claro
 V-16 comunica su activación, desactivación y geoposicionamiento al punto de acceso nacional de tráfico y movilidad.
@@ -2919,7 +3215,11 @@ Para dominar **conectividad, plazo y caducidad**, aplica esta regla: El coste de
 - **Incorrecto:** El usuario debe contratar mensualmente una línea telefónica.
 - **Incorrecto:** La conectividad reglamentaria solo dura dos años.
 
-<!-- VISUAL PENDIENTE: t43-il-75-conectividad-plazo-y-caducidad.webp -->
+<!-- VISUAL:t43-il-75-conectividad-plazo-y-caducidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-75-conectividad-plazo-y-caducidad.webp" alt="Conectividad, plazo y caducidad" width="820">
+</p>
+<p align="center"><em>Infografía: Conectividad, plazo y caducidad.</em></p>
 
 :::hablemos-claro
 El coste de las comunicaciones está incluido en el precio de venta de V-16.
@@ -2958,7 +3258,11 @@ Para dominar **finalidad exclusiva de v-16**, aplica esta regla: V-16 se destina
 - **Incorrecto:** Una V-16 puede integrar cámara, micrófono y publicidad interactiva.
 - **Incorrecto:** Cualquier dispositivo con GPS equivale a una V-16 homologada.
 
-<!-- VISUAL PENDIENTE: t43-76-finalidad-exclusiva-de-v-16.webp -->
+<!-- VISUAL:t43-76-finalidad-exclusiva-de-v-16.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-76-finalidad-exclusiva-de-v-16.webp" alt="Finalidad exclusiva de V-16" width="820">
+</p>
+<p align="center"><em>Infografía: Finalidad exclusiva de V-16.</em></p>
 
 :::hablemos-claro
 V-16 se destina exclusivamente a visibilizar el vehículo accidentado y remitir su ubicación a la DGT.
@@ -2997,7 +3301,11 @@ Para dominar **fin de la transición de v-16 no conectada**, aplica esta regla: 
 - **Incorrecto:** Las V-16 no conectadas siguen admitidas indefinidamente.
 - **Incorrecto:** La transición terminaba el 1 de enero de 2030.
 
-<!-- VISUAL PENDIENTE: t43-77-fin-de-la-transicion-de-v-16-no-conectada.webp -->
+<!-- VISUAL:t43-77-fin-de-la-transicion-de-v-16-no-conectada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-77-fin-de-la-transicion-de-v-16-no-conectada.webp" alt="Fin de la transición de V-16 no conectada" width="820">
+</p>
+<p align="center"><em>Infografía: Fin de la transición de V-16 no conectada.</em></p>
 
 :::hablemos-claro
 Los dispositivos con características anteriores pudieron utilizarse como V-16 hasta el 1 de enero de 2026.
@@ -3036,7 +3344,11 @@ Para dominar **cambio amarillo-rojo del dispositivo policial**, aplica esta regl
 - **Incorrecto:** El amarillo histórico sigue siendo la respuesta vigente en 2026.
 - **Incorrecto:** La luz roja regulada es la propia V-1 del vehículo prioritario.
 
-<!-- VISUAL PENDIENTE: t43-78-cambio-amarillo-rojo-del-dispositivo-policial.webp -->
+<!-- VISUAL:t43-78-cambio-amarillo-rojo-del-dispositivo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-78-cambio-amarillo-rojo-del-dispositivo-policial.webp" alt="Cambio amarillo-rojo del dispositivo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Cambio amarillo-rojo del dispositivo policial.</em></p>
 
 :::hablemos-claro
 El artículo 69 vigente usa luz roja hacia adelante para ordenar la detención desde el vehículo policial.
@@ -3075,7 +3387,11 @@ Para dominar **carril de emergencia futuro**, aplica esta regla: El Real Decreto
 - **Incorrecto:** El carril de emergencia ya era obligatorio el 3 de agosto de 2026.
 - **Incorrecto:** En vías de tres carriles se forma siempre entre los dos carriles derechos.
 
-<!-- VISUAL PENDIENTE: t43-79-carril-de-emergencia-futuro.webp -->
+<!-- VISUAL:t43-79-carril-de-emergencia-futuro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-79-carril-de-emergencia-futuro.webp" alt="Carril de emergencia futuro" width="820">
+</p>
+<p align="center"><em>Infografía: Carril de emergencia futuro.</em></p>
 
 :::hablemos-claro
 El Real Decreto 518/2026 introduce el artículo 32 sobre carriles de emergencia con efectos desde el 1 de octubre de 2026.
@@ -3114,7 +3430,11 @@ Para dominar **árbol final de decisión**, aplica esta regla: Para resolver un 
 - **Incorrecto:** Toda emergencia activa automáticamente las facultades del artículo 68.
 - **Incorrecto:** Todas las luces de emergencia producen la misma prioridad jurídica.
 
-<!-- VISUAL PENDIENTE: t43-il-80-arbol-final-de-decision.webp -->
+<!-- VISUAL:t43-il-80-arbol-final-de-decision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-43/t43-il-80-arbol-final-de-decision.webp" alt="Árbol final de decisión" width="820">
+</p>
+<p align="center"><em>Infografía: Árbol final de decisión.</em></p>
 
 :::hablemos-claro
 Para resolver un supuesto se identifica primero si el vehículo pertenece a un servicio enumerado o es no prioritario.

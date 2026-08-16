@@ -4,14 +4,14 @@
   "topic": "tema-43",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 80,
-    "integrated": 0,
-    "planned": 80
+    "integrated": 80,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-16",
   "resources": [
     {
       "id": "T43-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial del Tema 43",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El programa exige concepto, facultades, conducta de terceros, conducción en emergencia y señales de emergencia.",
+      "description": "El programa exige concepto, facultades, conducta de terceros, conducción en emergencia y señales de emergencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Mapa normativo del tema",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los artículos 67 a 70 del Reglamento General de Circulación contienen el régimen central de los servicios de urgencia.",
+      "description": "Los artículos 67 a 70 del Reglamento General de Circulación contienen el régimen central de los servicios de urgencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Corte normativo de 3 de agosto de 2026",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El contenido vigente a 3 de agosto de 2026 se distingue expresamente de las reformas con eficacia futura.",
+      "description": "El contenido vigente a 3 de agosto de 2026 se distingue expresamente de las reformas con eficacia futura.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Prioridad ligada al servicio urgente",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La prioridad de paso corresponde a vehículos de servicios de urgencia cuando se hallan en servicio de tal carácter.",
+      "description": "La prioridad de paso corresponde a vehículos de servicios de urgencia cuando se hallan en servicio de tal carácter.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Requisitos del carácter prioritario",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El carácter prioritario exige pertenecer a uno de los servicios enumerados, circular en servicio urgente y advertir la presencia reglamentariamente.",
+      "description": "El carácter prioritario exige pertenecer a uno de los servicios enumerados, circular en servicio urgente y advertir la presencia reglamentariamente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Vehículos de los servicios de policía",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los vehículos de los servicios de policía integran uno de los grupos legalmente enumerados como prioritarios.",
+      "description": "Los vehículos de los servicios de policía integran uno de los grupos legalmente enumerados como prioritarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Extinción de incendios",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los vehículos de extinción de incendios están incluidos expresamente entre los servicios prioritarios.",
+      "description": "Los vehículos de extinción de incendios están incluidos expresamente entre los servicios prioritarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Protección civil y salvamento",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Protección civil y salvamento forman un grupo expresamente incluido en la enumeración legal.",
+      "description": "Protección civil y salvamento forman un grupo expresamente incluido en la enumeración legal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Asistencia sanitaria pública o privada",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La asistencia sanitaria aparece expresamente con independencia de que sea pública o privada.",
+      "description": "La asistencia sanitaria aparece expresamente con independencia de que sea pública o privada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Vehículos que no adquieren prioridad",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La señal V-2 identifica vehículos obstáculo o de determinados servicios, pero no les atribuye el carácter de prioritarios del artículo 68.2.",
+      "description": "La señal V-2 identifica vehículos obstáculo o de determinados servicios, pero no les atribuye el carácter de prioritarios del artículo 68.2.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Prioridad de paso",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En servicio urgente, los vehículos comprendidos en el régimen tienen prioridad sobre los demás vehículos y usuarios de la vía.",
+      "description": "En servicio urgente, los vehículos comprendidos en el régimen tienen prioridad sobre los demás vehículos y usuarios de la vía.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Superación de límites de velocidad",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los vehículos prioritarios en servicio urgente pueden circular por encima de los límites de velocidad en los casos y condiciones reglamentarios.",
+      "description": "Los vehículos prioritarios en servicio urgente pueden circular por encima de los límites de velocidad en los casos y condiciones reglamentarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Exención de otras normas o señales",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La exención de otras normas o señales solo existe en los casos y con las condiciones determinadas por la sección.",
+      "description": "La exención de otras normas o señales solo existe en los casos y con las condiciones determinadas por la sección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Uso ponderado del régimen especial",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los conductores deben hacer un uso ponderado del régimen especial.",
+      "description": "Los conductores deben hacer un uso ponderado del régimen especial.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Solo durante la prestación urgente",
       "type": "ilustracion_simple",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El régimen especial se utiliza únicamente mientras se presta un servicio urgente.",
+      "description": "El régimen especial se utiliza únicamente mientras se presta un servicio urgente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Intersecciones y semáforos",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de vulnerar una prioridad de paso o una señal semafórica deben adoptarse extremadas precauciones.",
+      "description": "Antes de vulnerar una prioridad de paso o una señal semafórica deben adoptarse extremadas precauciones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Riesgo de atropello a peatones",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor debe cerciorarse de que no existe riesgo de atropello a peatones.",
+      "description": "El conductor debe cerciorarse de que no existe riesgo de atropello a peatones.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Reacción de los demás conductores",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de avanzar, el conductor prioritario debe cerciorarse de que los otros vehículos se han detenido o se disponen a facilitar su marcha.",
+      "description": "Antes de avanzar, el conductor prioritario debe cerciorarse de que los otros vehículos se han detenido o se disponen a facilitar su marcha.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Autorización de aparatos especiales",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La instalación de aparatos emisores de luces y señales acústicas especiales requiere autorización de la Jefatura Provincial de Tráfico correspondiente.",
+      "description": "La instalación de aparatos emisores de luces y señales acústicas especiales requiere autorización de la Jefatura Provincial de Tráfico correspondiente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Necesidad, idoneidad y mínimo riesgo",
       "type": "ilustracion_simple",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El régimen debe aplicarse de forma adecuada a la urgencia y con el menor riesgo compatible con el servicio.",
+      "description": "El régimen debe aplicarse de forma adecuada a la urgencia y con el menor riesgo compatible con el servicio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Regla general de observancia",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los conductores prioritarios deben observar como regla los preceptos del Reglamento General de Circulación.",
+      "description": "Los conductores prioritarios deben observar como regla los preceptos del Reglamento General de Circulación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Títulos II, III y IV",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cumplidas las condiciones, pueden dejar de observarse normas de los títulos II, III y IV del Reglamento.",
+      "description": "Cumplidas las condiciones, pueden dejar de observarse normas de los títulos II, III y IV del Reglamento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Órdenes y señales de los agentes",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las órdenes y señales de los agentes son siempre de obligado cumplimiento.",
+      "description": "Las órdenes y señales de los agentes son siempre de obligado cumplimiento.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Exclusiva responsabilidad del conductor",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La decisión de dejar de cumplir esas normas se ejerce bajo exclusiva responsabilidad del conductor.",
+      "description": "La decisión de dejar de cumplir esas normas se ejerce bajo exclusiva responsabilidad del conductor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Condición de no poner en peligro",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Antes de usar la excepción el conductor debe haberse cerciorado de que no pone en peligro a ningún usuario.",
+      "description": "Antes de usar la excepción el conductor debe haberse cerciorado de que no pone en peligro a ningún usuario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Media vuelta en autopista o autovía",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En autopista o autovía puede darse media vuelta con carácter excepcional en servicio urgente y sin comprometer la seguridad.",
+      "description": "En autopista o autovía puede darse media vuelta con carácter excepcional en servicio urgente y sin comprometer la seguridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Marcha atrás en autopista o autovía",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La marcha atrás puede realizarse excepcionalmente en autopista o autovía durante un servicio urgente si no compromete la seguridad.",
+      "description": "La marcha atrás puede realizarse excepcionalmente en autopista o autovía durante un servicio urgente si no compromete la seguridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Sentido contrario por el arcén",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La circulación en sentido contrario al correspondiente a la calzada se admite excepcionalmente siempre que se haga por el arcén.",
+      "description": "La circulación en sentido contrario al correspondiente a la calzada se admite excepcionalmente siempre que se haga por el arcén.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Mediana y pasos transversales",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El vehículo prioritario puede penetrar excepcionalmente en la mediana o en sus pasos transversales.",
+      "description": "El vehículo prioritario puede penetrar excepcionalmente en la mediana o en sus pasos transversales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Posición de vehículos de los agentes",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los agentes responsables de vigilancia, regulación y control pueden utilizar o situar sus vehículos en la parte de la vía necesaria.",
+      "description": "Los agentes responsables de vigilancia, regulación y control pueden utilizar o situar sus vehículos en la parte de la vía necesaria.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Normas generales de advertencia especial",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los servicios de urgencia pueden utilizar señales ópticas y acústicas especiales en los casos y condiciones reglamentarios.",
+      "description": "Los servicios de urgencia pueden utilizar señales ópticas y acústicas especiales en los casos y condiciones reglamentarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Regla de uso simultáneo",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Como regla, la presencia se advierte mediante utilización simultánea de la señal luminosa y del aparato acústico especial.",
+      "description": "Como regla, la presencia se advierte mediante utilización simultánea de la señal luminosa y del aparato acústico especial.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "Excepción de señal luminosa aislada",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La señal luminosa debe utilizarse aisladamente cuando omitir la señal acústica especial no entrañe peligro para los demás usuarios.",
+      "description": "La señal luminosa debe utilizarse aisladamente cuando omitir la señal acústica especial no entrañe peligro para los demás usuarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Significado de la señal V-1",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La utilización de V-1 indica un servicio de policía, incendios, protección civil y salvamento o asistencia sanitaria en servicio urgente.",
+      "description": "La utilización de V-1 indica un servicio de policía, incendios, protección civil y salvamento o asistencia sanitaria en servicio urgente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Uso de V-1 frente a instalación del equipo",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El anexo XI declara que la utilización de V-1 no requiere autorización administrativa, sea elemento adicional o constructivo.",
+      "description": "El anexo XI declara que la utilización de V-1 no requiere autorización administrativa, sea elemento adicional o constructivo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Color y homologación de V-1",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La señal luminosa V-1 está formada por una o varias luces de color azul.",
+      "description": "La señal luminosa V-1 está formada por una o varias luces de color azul.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Colocación de V-1 en vehículos",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-1 se instala en la parte delantera del plano superior, por encima de la luz más alta, o a lo largo del perímetro de la zona más alta.",
+      "description": "V-1 se instala en la parte delantera del plano superior, por encima de la luz más alta, o a lo largo del perímetro de la zona más alta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "V-1 en motocicletas",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En motocicletas, V-1 puede situarse atrás sobre un cabezal telescópico elevable por encima de su parte más alta.",
+      "description": "En motocicletas, V-1 puede situarse atrás sobre un cabezal telescópico elevable por encima de su parte más alta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "Visibilidad mínima de V-1",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros.",
+      "description": "V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Sistemas auxiliares y prohibición de montaje",
       "type": "ilustracion_simple",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los vehículos de policía pueden usar voluntariamente dos fuentes auxiliares azules intermitentes o estroboscópicas en el frontal.",
+      "description": "Los vehículos de policía pueden usar voluntariamente dos fuentes auxiliares azules intermitentes o estroboscópicas en el frontal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Momento en que nace el deber de facilitar",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El deber de colaboración comienza tan pronto se perciben las señales especiales que anuncian la proximidad del vehículo prioritario.",
+      "description": "El deber de colaboración comienza tan pronto se perciben las señales especiales que anuncian la proximidad del vehículo prioritario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Medidas adecuadas según contexto",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los conductores adoptarán las medidas adecuadas según las circunstancias del momento y lugar.",
+      "description": "Los conductores adoptarán las medidas adecuadas según las circunstancias del momento y lugar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Apartarse normalmente a la derecha",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La respuesta normal es apartarse a la derecha cuando resulte adecuada y segura.",
+      "description": "La respuesta normal es apartarse a la derecha cuando resulte adecuada y segura.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Detenerse si fuera preciso",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor debe detenerse si resulta preciso para facilitar el paso.",
+      "description": "El conductor debe detenerse si resulta preciso para facilitar el paso.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "Reacciones inseguras que no facilitan",
       "type": "ilustracion_simple",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Una maniobra brusca o imprevisible puede obstaculizar más al vehículo prioritario aunque pretenda ayudar.",
+      "description": "Una maniobra brusca o imprevisible puede obstaculizar más al vehículo prioritario aunque pretenda ayudar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "Activación policial de detención",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Desde el 1 de julio de 2025, el supuesto de detención exige un vehículo de policía detrás que manifieste su presencia conforme al artículo 68.2 y active luz roja hacia adelante.",
+      "description": "Desde el 1 de julio de 2025, el supuesto de detención exige un vehículo de policía detrás que manifieste su presencia conforme al artículo 68.2 y active luz roja hacia adelante.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Detención en el lado derecho",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor requerido debe detener su vehículo con las debidas precauciones en el lado derecho.",
+      "description": "El conductor requerido debe detener su vehículo con las debidas precauciones en el lado derecho.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Posición delante del vehículo policial",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El vehículo requerido debe quedar delante del vehículo policial.",
+      "description": "El vehículo requerido debe quedar delante del vehículo policial.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Lugar seguro y permanencia interior",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La detención debe realizarse donde no genere mayores riesgos o molestias para los demás usuarios.",
+      "description": "La detención debe realizarse donde no genere mayores riesgos o molestias para los demás usuarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "Instrucciones del agente y cambio de color",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor ajustará en todo momento su comportamiento a las instrucciones impartidas por megafonía u otro medio claramente perceptible.",
+      "description": "El conductor ajustará en todo momento su comportamiento a las instrucciones impartidas por megafonía u otro medio claramente perceptible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Circunstancias especialmente graves",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 70 parte de circunstancias especialmente graves.",
+      "description": "El artículo 70 parte de circunstancias especialmente graves.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Falta de otro medio disponible",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor debe verse forzado a actuar sin poder recurrir a otro medio.",
+      "description": "El conductor debe verse forzado a actuar sin poder recurrir a otro medio.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Servicio normalmente reservado a prioritarios",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El vehículo no prioritario efectúa excepcionalmente un servicio de los normalmente reservados a los prioritarios.",
+      "description": "El vehículo no prioritario efectúa excepcionalmente un servicio de los normalmente reservados a los prioritarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "Avisador acústico intermitente",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor procurará advertir la situación utilizando el avisador acústico de forma intermitente.",
+      "description": "El conductor procurará advertir la situación utilizando el avisador acústico de forma intermitente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "Conexión de la luz de emergencia",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El vehículo conectará la luz de emergencia si dispone de ella para hacer visible la situación especial.",
+      "description": "El vehículo conectará la luz de emergencia si dispone de ella para hacer visible la situación especial.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Pañuelo o procedimiento similar",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 70 admite agitar un pañuelo o utilizar un procedimiento similar para advertir la especial situación.",
+      "description": "El artículo 70 admite agitar un pañuelo o utilizar un procedimiento similar para advertir la especial situación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "No adquisición del carácter prioritario",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El vehículo continúa siendo no prioritario pese a realizar el servicio urgente excepcional.",
+      "description": "El vehículo continúa siendo no prioritario pese a realizar el servicio urgente excepcional.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Respeto de las normas de circulación",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor no prioritario debe respetar las normas de circulación.",
+      "description": "El conductor no prioritario debe respetar las normas de circulación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Conducta de los demás usuarios",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los demás usuarios cumplirán respecto de ese vehículo lo dispuesto en el artículo 69.",
+      "description": "Los demás usuarios cumplirán respecto de ese vehículo lo dispuesto en el artículo 69.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Justificación exigible por agentes",
       "type": "ilustracion_simple",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los agentes pueden exigir en cualquier momento la justificación de las circunstancias graves.",
+      "description": "Los agentes pueden exigir en cualquier momento la justificación de las circunstancias graves.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Concepto técnico de señal de emergencia",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La señal de emergencia consiste en el funcionamiento simultáneo de todas las luces indicadoras de dirección.",
+      "description": "La señal de emergencia consiste en el funcionamiento simultáneo de todas las luces indicadoras de dirección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Advertencia de inmovilización o frenado",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El propósito de inmovilizar el vehículo o frenar considerablemente debe advertirse ópticamente con antelación suficiente cuando sea posible.",
+      "description": "El propósito de inmovilizar el vehículo o frenar considerablemente debe advertirse ópticamente con antelación suficiente cuando sea posible.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Inmovilización en autopista o con poca visibilidad",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: En autopista o autovía, la inmovilización se señaliza con la luz de emergencia si el vehículo dispone de ella.",
+      "description": "En autopista o autovía, la inmovilización se señaliza con la luz de emergencia si el vehículo dispone de ella.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Obstáculo por accidente, avería o carga",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si un accidente, avería o carga obstaculiza la calzada, debe señalizarse convenientemente el vehículo o el obstáculo.",
+      "description": "Si un accidente, avería o carga obstaculiza la calzada, debe señalizarse convenientemente el vehículo o el obstáculo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Vehículo que puede continuar la marcha",
       "type": "ilustracion_simple",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tras accidente o avería, el vehículo que pueda continuar lo hará de forma inmediata.",
+      "description": "Tras accidente o avería, el vehículo que pueda continuar lo hará de forma inmediata.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Vehículo que necesita auxilio",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si precisa auxilio, el vehículo debe abandonar cuanto antes los carriles de circulación.",
+      "description": "Si precisa auxilio, el vehículo debe abandonar cuanto antes los carriles de circulación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Imposibilidad de alcanzar una salida",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Si no puede llegar a una salida, debe detenerse en el arcén derecho.",
+      "description": "Si no puede llegar a una salida, debe detenerse en el arcén derecho.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Salida de ocupantes",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Como regla, los ocupantes abandonarán el vehículo inmovilizado si existe un lugar seguro fuera de la plataforma de circulación.",
+      "description": "Como regla, los ocupantes abandonarán el vehículo inmovilizado si existe un lugar seguro fuera de la plataforma de circulación.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Luces durante la retirada del obstáculo",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Mientras se deja expedita la vía se enciende la luz de emergencia si el vehículo la lleva.",
+      "description": "Mientras se deja expedita la vía se enciende la luz de emergencia si el vehículo la lleva.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Dispositivo reglamentario de preseñalización",
       "type": "ilustracion_simple",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Todo conductor debe emplear el dispositivo reglamentario de preseñalización para advertir la inmovilización o el obstáculo.",
+      "description": "Todo conductor debe emplear el dispositivo reglamentario de preseñalización para advertir la inmovilización o el obstáculo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Significado de V-16",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-16 indica que el vehículo ha quedado inmovilizado en la calzada o que su carga está caída sobre ella.",
+      "description": "V-16 indica que el vehículo ha quedado inmovilizado en la calzada o que su carga está caída sobre ella.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Colocación de V-16",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-16, de color amarillo auto, se coloca en la parte más alta posible del vehículo inmovilizado.",
+      "description": "V-16, de color amarillo auto, se coloca en la parte más alta posible del vehículo inmovilizado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Características luminosas de V-16",
       "type": "infografia",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La señal V-16 emite luz amarillo auto y debe cumplir las características técnicas reglamentarias.",
+      "description": "La señal V-16 emite luz amarillo auto y debe cumplir las características técnicas reglamentarias.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Comunicación y geoposicionamiento V-16",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-16 comunica su activación, desactivación y geoposicionamiento al punto de acceso nacional de tráfico y movilidad.",
+      "description": "V-16 comunica su activación, desactivación y geoposicionamiento al punto de acceso nacional de tráfico y movilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Conectividad, plazo y caducidad",
       "type": "ilustracion_simple",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El coste de las comunicaciones está incluido en el precio de venta de V-16.",
+      "description": "El coste de las comunicaciones está incluido en el precio de venta de V-16.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "Finalidad exclusiva de V-16",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: V-16 se destina exclusivamente a visibilizar el vehículo accidentado y remitir su ubicación a la DGT.",
+      "description": "V-16 se destina exclusivamente a visibilizar el vehículo accidentado y remitir su ubicación a la DGT.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "Fin de la transición de V-16 no conectada",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los dispositivos con características anteriores pudieron utilizarse como V-16 hasta el 1 de enero de 2026.",
+      "description": "Los dispositivos con características anteriores pudieron utilizarse como V-16 hasta el 1 de enero de 2026.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "Cambio amarillo-rojo del dispositivo policial",
       "type": "infografia",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El artículo 69 vigente usa luz roja hacia adelante para ordenar la detención desde el vehículo policial.",
+      "description": "El artículo 69 vigente usa luz roja hacia adelante para ordenar la detención desde el vehículo policial.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Carril de emergencia futuro",
       "type": "infografia",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El Real Decreto 518/2026 introduce el artículo 32 sobre carriles de emergencia con efectos desde el 1 de octubre de 2026.",
+      "description": "El Real Decreto 518/2026 introduce el artículo 32 sobre carriles de emergencia con efectos desde el 1 de octubre de 2026.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,1297 +1362,17 @@
       "title": "Árbol final de decisión",
       "type": "ilustracion_simple",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Para resolver un supuesto se identifica primero si el vehículo pertenece a un servicio enumerado o es no prioritario.",
+      "description": "Para resolver un supuesto se identifica primero si el vehículo pertenece a un servicio enumerado o es no prioritario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T43-V01",
-      "file": "t43-01-alcance-oficial-del-tema-43.webp",
-      "title": "Alcance oficial del Tema 43",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El programa exige concepto, facultades, conducta de terceros, conducción en emergencia y señales de emergencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V02",
-      "file": "t43-02-mapa-normativo-del-tema.webp",
-      "title": "Mapa normativo del tema",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los artículos 67 a 70 del Reglamento General de Circulación contienen el régimen central de los servicios de urgencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V03",
-      "file": "t43-03-corte-normativo-de-3-de-agosto-de-2026.webp",
-      "title": "Corte normativo de 3 de agosto de 2026",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El contenido vigente a 3 de agosto de 2026 se distingue expresamente de las reformas con eficacia futura.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V04",
-      "file": "t43-04-prioridad-ligada-al-servicio-urgente.webp",
-      "title": "Prioridad ligada al servicio urgente",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La prioridad de paso corresponde a vehículos de servicios de urgencia cuando se hallan en servicio de tal carácter.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V05",
-      "file": "t43-il-05-requisitos-del-caracter-prioritario.webp",
-      "title": "Requisitos del carácter prioritario",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El carácter prioritario exige pertenecer a uno de los servicios enumerados, circular en servicio urgente y advertir la presencia reglamentariamente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V06",
-      "file": "t43-06-vehiculos-de-los-servicios-de-policia.webp",
-      "title": "Vehículos de los servicios de policía",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los vehículos de los servicios de policía integran uno de los grupos legalmente enumerados como prioritarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V07",
-      "file": "t43-07-extincion-de-incendios.webp",
-      "title": "Extinción de incendios",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los vehículos de extinción de incendios están incluidos expresamente entre los servicios prioritarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V08",
-      "file": "t43-08-proteccion-civil-y-salvamento.webp",
-      "title": "Protección civil y salvamento",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Protección civil y salvamento forman un grupo expresamente incluido en la enumeración legal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V09",
-      "file": "t43-09-asistencia-sanitaria-publica-o-privada.webp",
-      "title": "Asistencia sanitaria pública o privada",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La asistencia sanitaria aparece expresamente con independencia de que sea pública o privada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V10",
-      "file": "t43-il-10-vehiculos-que-no-adquieren-prioridad.webp",
-      "title": "Vehículos que no adquieren prioridad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La señal V-2 identifica vehículos obstáculo o de determinados servicios, pero no les atribuye el carácter de prioritarios del artículo 68.2.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V11",
-      "file": "t43-11-prioridad-de-paso.webp",
-      "title": "Prioridad de paso",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En servicio urgente, los vehículos comprendidos en el régimen tienen prioridad sobre los demás vehículos y usuarios de la vía.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V12",
-      "file": "t43-12-superacion-de-limites-de-velocidad.webp",
-      "title": "Superación de límites de velocidad",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los vehículos prioritarios en servicio urgente pueden circular por encima de los límites de velocidad en los casos y condiciones reglamentarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V13",
-      "file": "t43-13-exencion-de-otras-normas-o-senales.webp",
-      "title": "Exención de otras normas o señales",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La exención de otras normas o señales solo existe en los casos y con las condiciones determinadas por la sección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V14",
-      "file": "t43-14-uso-ponderado-del-regimen-especial.webp",
-      "title": "Uso ponderado del régimen especial",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los conductores deben hacer un uso ponderado del régimen especial.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V15",
-      "file": "t43-il-15-solo-durante-la-prestacion-urgente.webp",
-      "title": "Solo durante la prestación urgente",
-      "type": "ilustracion_simple",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El régimen especial se utiliza únicamente mientras se presta un servicio urgente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V16",
-      "file": "t43-16-intersecciones-y-semaforos.webp",
-      "title": "Intersecciones y semáforos",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de vulnerar una prioridad de paso o una señal semafórica deben adoptarse extremadas precauciones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V17",
-      "file": "t43-17-riesgo-de-atropello-a-peatones.webp",
-      "title": "Riesgo de atropello a peatones",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor debe cerciorarse de que no existe riesgo de atropello a peatones.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V18",
-      "file": "t43-18-reaccion-de-los-demas-conductores.webp",
-      "title": "Reacción de los demás conductores",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de avanzar, el conductor prioritario debe cerciorarse de que los otros vehículos se han detenido o se disponen a facilitar su marcha.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V19",
-      "file": "t43-19-autorizacion-de-aparatos-especiales.webp",
-      "title": "Autorización de aparatos especiales",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La instalación de aparatos emisores de luces y señales acústicas especiales requiere autorización de la Jefatura Provincial de Tráfico correspondiente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V20",
-      "file": "t43-il-20-necesidad-idoneidad-y-minimo-riesgo.webp",
-      "title": "Necesidad, idoneidad y mínimo riesgo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El régimen debe aplicarse de forma adecuada a la urgencia y con el menor riesgo compatible con el servicio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V21",
-      "file": "t43-21-regla-general-de-observancia.webp",
-      "title": "Regla general de observancia",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los conductores prioritarios deben observar como regla los preceptos del Reglamento General de Circulación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V22",
-      "file": "t43-22-titulos-ii-iii-y-iv.webp",
-      "title": "Títulos II, III y IV",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cumplidas las condiciones, pueden dejar de observarse normas de los títulos II, III y IV del Reglamento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V23",
-      "file": "t43-23-ordenes-y-senales-de-los-agentes.webp",
-      "title": "Órdenes y señales de los agentes",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las órdenes y señales de los agentes son siempre de obligado cumplimiento.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V24",
-      "file": "t43-24-exclusiva-responsabilidad-del-conductor.webp",
-      "title": "Exclusiva responsabilidad del conductor",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La decisión de dejar de cumplir esas normas se ejerce bajo exclusiva responsabilidad del conductor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V25",
-      "file": "t43-il-25-condicion-de-no-poner-en-peligro.webp",
-      "title": "Condición de no poner en peligro",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Antes de usar la excepción el conductor debe haberse cerciorado de que no pone en peligro a ningún usuario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V26",
-      "file": "t43-26-media-vuelta-en-autopista-o-autovia.webp",
-      "title": "Media vuelta en autopista o autovía",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En autopista o autovía puede darse media vuelta con carácter excepcional en servicio urgente y sin comprometer la seguridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V27",
-      "file": "t43-27-marcha-atras-en-autopista-o-autovia.webp",
-      "title": "Marcha atrás en autopista o autovía",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La marcha atrás puede realizarse excepcionalmente en autopista o autovía durante un servicio urgente si no compromete la seguridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V28",
-      "file": "t43-28-sentido-contrario-por-el-arcen.webp",
-      "title": "Sentido contrario por el arcén",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La circulación en sentido contrario al correspondiente a la calzada se admite excepcionalmente siempre que se haga por el arcén.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V29",
-      "file": "t43-29-mediana-y-pasos-transversales.webp",
-      "title": "Mediana y pasos transversales",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El vehículo prioritario puede penetrar excepcionalmente en la mediana o en sus pasos transversales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V30",
-      "file": "t43-il-30-posicion-de-vehiculos-de-los-agentes.webp",
-      "title": "Posición de vehículos de los agentes",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los agentes responsables de vigilancia, regulación y control pueden utilizar o situar sus vehículos en la parte de la vía necesaria.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V31",
-      "file": "t43-31-normas-generales-de-advertencia-especial.webp",
-      "title": "Normas generales de advertencia especial",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los servicios de urgencia pueden utilizar señales ópticas y acústicas especiales en los casos y condiciones reglamentarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V32",
-      "file": "t43-32-regla-de-uso-simultaneo.webp",
-      "title": "Regla de uso simultáneo",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Como regla, la presencia se advierte mediante utilización simultánea de la señal luminosa y del aparato acústico especial.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V33",
-      "file": "t43-33-excepcion-de-senal-luminosa-aislada.webp",
-      "title": "Excepción de señal luminosa aislada",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La señal luminosa debe utilizarse aisladamente cuando omitir la señal acústica especial no entrañe peligro para los demás usuarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V34",
-      "file": "t43-34-significado-de-la-senal-v-1.webp",
-      "title": "Significado de la señal V-1",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La utilización de V-1 indica un servicio de policía, incendios, protección civil y salvamento o asistencia sanitaria en servicio urgente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V35",
-      "file": "t43-il-35-uso-de-v-1-frente-a-instalacion-del-equipo.webp",
-      "title": "Uso de V-1 frente a instalación del equipo",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El anexo XI declara que la utilización de V-1 no requiere autorización administrativa, sea elemento adicional o constructivo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V36",
-      "file": "t43-36-color-y-homologacion-de-v-1.webp",
-      "title": "Color y homologación de V-1",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La señal luminosa V-1 está formada por una o varias luces de color azul.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V37",
-      "file": "t43-37-colocacion-de-v-1-en-vehiculos.webp",
-      "title": "Colocación de V-1 en vehículos",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-1 se instala en la parte delantera del plano superior, por encima de la luz más alta, o a lo largo del perímetro de la zona más alta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V38",
-      "file": "t43-38-v-1-en-motocicletas.webp",
-      "title": "V-1 en motocicletas",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En motocicletas, V-1 puede situarse atrás sobre un cabezal telescópico elevable por encima de su parte más alta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V39",
-      "file": "t43-39-visibilidad-minima-de-v-1.webp",
-      "title": "Visibilidad mínima de V-1",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-1 debe ser visible en todas las direcciones a una distancia mínima de 50 metros.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V40",
-      "file": "t43-il-40-sistemas-auxiliares-y-prohibicion-de-montaje.webp",
-      "title": "Sistemas auxiliares y prohibición de montaje",
-      "type": "ilustracion_simple",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los vehículos de policía pueden usar voluntariamente dos fuentes auxiliares azules intermitentes o estroboscópicas en el frontal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V41",
-      "file": "t43-41-momento-en-que-nace-el-deber-de-facilitar.webp",
-      "title": "Momento en que nace el deber de facilitar",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El deber de colaboración comienza tan pronto se perciben las señales especiales que anuncian la proximidad del vehículo prioritario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V42",
-      "file": "t43-42-medidas-adecuadas-segun-contexto.webp",
-      "title": "Medidas adecuadas según contexto",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los conductores adoptarán las medidas adecuadas según las circunstancias del momento y lugar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V43",
-      "file": "t43-43-apartarse-normalmente-a-la-derecha.webp",
-      "title": "Apartarse normalmente a la derecha",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La respuesta normal es apartarse a la derecha cuando resulte adecuada y segura.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V44",
-      "file": "t43-44-detenerse-si-fuera-preciso.webp",
-      "title": "Detenerse si fuera preciso",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor debe detenerse si resulta preciso para facilitar el paso.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V45",
-      "file": "t43-il-45-reacciones-inseguras-que-no-facilitan.webp",
-      "title": "Reacciones inseguras que no facilitan",
-      "type": "ilustracion_simple",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Una maniobra brusca o imprevisible puede obstaculizar más al vehículo prioritario aunque pretenda ayudar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V46",
-      "file": "t43-46-activacion-policial-de-detencion.webp",
-      "title": "Activación policial de detención",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Desde el 1 de julio de 2025, el supuesto de detención exige un vehículo de policía detrás que manifieste su presencia conforme al artículo 68.2 y active luz roja hacia adelante.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V47",
-      "file": "t43-47-detencion-en-el-lado-derecho.webp",
-      "title": "Detención en el lado derecho",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor requerido debe detener su vehículo con las debidas precauciones en el lado derecho.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V48",
-      "file": "t43-48-posicion-delante-del-vehiculo-policial.webp",
-      "title": "Posición delante del vehículo policial",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El vehículo requerido debe quedar delante del vehículo policial.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V49",
-      "file": "t43-49-lugar-seguro-y-permanencia-interior.webp",
-      "title": "Lugar seguro y permanencia interior",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La detención debe realizarse donde no genere mayores riesgos o molestias para los demás usuarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V50",
-      "file": "t43-il-50-instrucciones-del-agente-y-cambio-de-color.webp",
-      "title": "Instrucciones del agente y cambio de color",
-      "type": "ilustracion_simple",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor ajustará en todo momento su comportamiento a las instrucciones impartidas por megafonía u otro medio claramente perceptible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V51",
-      "file": "t43-51-circunstancias-especialmente-graves.webp",
-      "title": "Circunstancias especialmente graves",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 70 parte de circunstancias especialmente graves.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V52",
-      "file": "t43-52-falta-de-otro-medio-disponible.webp",
-      "title": "Falta de otro medio disponible",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor debe verse forzado a actuar sin poder recurrir a otro medio.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V53",
-      "file": "t43-53-servicio-normalmente-reservado-a-prioritarios.webp",
-      "title": "Servicio normalmente reservado a prioritarios",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El vehículo no prioritario efectúa excepcionalmente un servicio de los normalmente reservados a los prioritarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V54",
-      "file": "t43-54-avisador-acustico-intermitente.webp",
-      "title": "Avisador acústico intermitente",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor procurará advertir la situación utilizando el avisador acústico de forma intermitente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V55",
-      "file": "t43-il-55-conexion-de-la-luz-de-emergencia.webp",
-      "title": "Conexión de la luz de emergencia",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El vehículo conectará la luz de emergencia si dispone de ella para hacer visible la situación especial.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V56",
-      "file": "t43-56-panuelo-o-procedimiento-similar.webp",
-      "title": "Pañuelo o procedimiento similar",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 70 admite agitar un pañuelo o utilizar un procedimiento similar para advertir la especial situación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V57",
-      "file": "t43-57-no-adquisicion-del-caracter-prioritario.webp",
-      "title": "No adquisición del carácter prioritario",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El vehículo continúa siendo no prioritario pese a realizar el servicio urgente excepcional.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V58",
-      "file": "t43-58-respeto-de-las-normas-de-circulacion.webp",
-      "title": "Respeto de las normas de circulación",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor no prioritario debe respetar las normas de circulación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V59",
-      "file": "t43-59-conducta-de-los-demas-usuarios.webp",
-      "title": "Conducta de los demás usuarios",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los demás usuarios cumplirán respecto de ese vehículo lo dispuesto en el artículo 69.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V60",
-      "file": "t43-il-60-justificacion-exigible-por-agentes.webp",
-      "title": "Justificación exigible por agentes",
-      "type": "ilustracion_simple",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los agentes pueden exigir en cualquier momento la justificación de las circunstancias graves.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V61",
-      "file": "t43-61-concepto-tecnico-de-senal-de-emergencia.webp",
-      "title": "Concepto técnico de señal de emergencia",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La señal de emergencia consiste en el funcionamiento simultáneo de todas las luces indicadoras de dirección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V62",
-      "file": "t43-62-advertencia-de-inmovilizacion-o-frenado.webp",
-      "title": "Advertencia de inmovilización o frenado",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El propósito de inmovilizar el vehículo o frenar considerablemente debe advertirse ópticamente con antelación suficiente cuando sea posible.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V63",
-      "file": "t43-63-inmovilizacion-en-autopista-o-con-poca-visibilidad.webp",
-      "title": "Inmovilización en autopista o con poca visibilidad",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: En autopista o autovía, la inmovilización se señaliza con la luz de emergencia si el vehículo dispone de ella.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V64",
-      "file": "t43-64-obstaculo-por-accidente-averia-o-carga.webp",
-      "title": "Obstáculo por accidente, avería o carga",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si un accidente, avería o carga obstaculiza la calzada, debe señalizarse convenientemente el vehículo o el obstáculo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V65",
-      "file": "t43-il-65-vehiculo-que-puede-continuar-la-marcha.webp",
-      "title": "Vehículo que puede continuar la marcha",
-      "type": "ilustracion_simple",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tras accidente o avería, el vehículo que pueda continuar lo hará de forma inmediata.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V66",
-      "file": "t43-66-vehiculo-que-necesita-auxilio.webp",
-      "title": "Vehículo que necesita auxilio",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si precisa auxilio, el vehículo debe abandonar cuanto antes los carriles de circulación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V67",
-      "file": "t43-67-imposibilidad-de-alcanzar-una-salida.webp",
-      "title": "Imposibilidad de alcanzar una salida",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Si no puede llegar a una salida, debe detenerse en el arcén derecho.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V68",
-      "file": "t43-68-salida-de-ocupantes.webp",
-      "title": "Salida de ocupantes",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Como regla, los ocupantes abandonarán el vehículo inmovilizado si existe un lugar seguro fuera de la plataforma de circulación.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V69",
-      "file": "t43-69-luces-durante-la-retirada-del-obstaculo.webp",
-      "title": "Luces durante la retirada del obstáculo",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Mientras se deja expedita la vía se enciende la luz de emergencia si el vehículo la lleva.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V70",
-      "file": "t43-il-70-dispositivo-reglamentario-de-presenalizacion.webp",
-      "title": "Dispositivo reglamentario de preseñalización",
-      "type": "ilustracion_simple",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Todo conductor debe emplear el dispositivo reglamentario de preseñalización para advertir la inmovilización o el obstáculo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V71",
-      "file": "t43-71-significado-de-v-16.webp",
-      "title": "Significado de V-16",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-16 indica que el vehículo ha quedado inmovilizado en la calzada o que su carga está caída sobre ella.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V72",
-      "file": "t43-72-colocacion-de-v-16.webp",
-      "title": "Colocación de V-16",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-16, de color amarillo auto, se coloca en la parte más alta posible del vehículo inmovilizado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V73",
-      "file": "t43-73-caracteristicas-luminosas-de-v-16.webp",
-      "title": "Características luminosas de V-16",
-      "type": "infografia",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La señal V-16 emite luz amarillo auto y debe cumplir las características técnicas reglamentarias.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V74",
-      "file": "t43-74-comunicacion-y-geoposicionamiento-v-16.webp",
-      "title": "Comunicación y geoposicionamiento V-16",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-16 comunica su activación, desactivación y geoposicionamiento al punto de acceso nacional de tráfico y movilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V75",
-      "file": "t43-il-75-conectividad-plazo-y-caducidad.webp",
-      "title": "Conectividad, plazo y caducidad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El coste de las comunicaciones está incluido en el precio de venta de V-16.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V76",
-      "file": "t43-76-finalidad-exclusiva-de-v-16.webp",
-      "title": "Finalidad exclusiva de V-16",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: V-16 se destina exclusivamente a visibilizar el vehículo accidentado y remitir su ubicación a la DGT.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V77",
-      "file": "t43-77-fin-de-la-transicion-de-v-16-no-conectada.webp",
-      "title": "Fin de la transición de V-16 no conectada",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los dispositivos con características anteriores pudieron utilizarse como V-16 hasta el 1 de enero de 2026.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V78",
-      "file": "t43-78-cambio-amarillo-rojo-del-dispositivo-policial.webp",
-      "title": "Cambio amarillo-rojo del dispositivo policial",
-      "type": "infografia",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El artículo 69 vigente usa luz roja hacia adelante para ordenar la detención desde el vehículo policial.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V79",
-      "file": "t43-79-carril-de-emergencia-futuro.webp",
-      "title": "Carril de emergencia futuro",
-      "type": "infografia",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El Real Decreto 518/2026 introduce el artículo 32 sobre carriles de emergencia con efectos desde el 1 de octubre de 2026.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T43-V80",
-      "file": "t43-il-80-arbol-final-de-decision.webp",
-      "title": "Árbol final de decisión",
-      "type": "ilustracion_simple",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Para resolver un supuesto se identifica primero si el vehículo pertenece a un servicio enumerado o es no prioritario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

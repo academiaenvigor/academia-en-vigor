@@ -19,7 +19,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La conducción policial añade exigencias operativas, pero no altera las leyes físicas ni convierte la urgencia en inmunidad.
 - Las cifras de efectividad son estimaciones dependientes del escenario y no definiciones universales.
 
-<!-- VISUAL PENDIENTE: t44-01-alcance-oficial-y-metodo-del-tema-44.webp -->
+<!-- VISUAL:t44-01-alcance-oficial-y-metodo-del-tema-44.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-01-alcance-oficial-y-metodo-del-tema-44.webp" alt="Alcance oficial y método del Tema 44" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y método del Tema 44.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T44 -->
 
@@ -32,7 +36,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Antes de franquear una intersección debe confirmarse que el resto se ha detenido o facilita efectivamente el paso.
 - Una maniobra legalmente facultada puede ser operativamente insegura si supera adherencia, visibilidad o capacidad de reacción.
 
-<!-- VISUAL PENDIENTE: t44-02-urgencia-prioridad-y-seguridad.webp -->
+<!-- VISUAL:t44-02-urgencia-prioridad-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-02-urgencia-prioridad-y-seguridad.webp" alt="Urgencia, prioridad y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Urgencia, prioridad y seguridad.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -45,7 +53,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El espacio crea tiempo para frenar, esquivar o abortar una maniobra.
 - Anticipar no es adivinar: consiste en reconocer indicios y preparar una respuesta de bajo riesgo.
 
-<!-- VISUAL PENDIENTE: t44-03-conduccion-defensiva-vea.webp -->
+<!-- VISUAL:t44-03-conduccion-defensiva-vea.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-03-conduccion-defensiva-vea.webp" alt="Conducción defensiva VEA" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción defensiva VEA.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -58,7 +70,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Duplicar la velocidad no duplica sin más la energía cinética: esta depende del cuadrado de la velocidad.
 - La urgencia operativa debe ponderarse frente al aumento no lineal de consecuencias y necesidad de espacio.
 
-<!-- VISUAL PENDIENTE: t44-04-dinamica-de-la-velocidad.webp -->
+<!-- VISUAL:t44-04-dinamica-de-la-velocidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-04-dinamica-de-la-velocidad.webp" alt="Dinámica de la velocidad" width="820">
+</p>
+<p align="center"><em>Infografía: Dinámica de la velocidad.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -71,7 +87,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Combinar giro intenso y frenada intensa reduce el margen frente a pérdida de trayectoria.
 - ABS y ESC ayudan dentro de la adherencia disponible; no crean agarre donde la calzada no lo ofrece.
 
-<!-- VISUAL PENDIENTE: t44-il-05-adherencia-y-transferencia-de-masas.webp -->
+<!-- VISUAL:t44-il-05-adherencia-y-transferencia-de-masas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-05-adherencia-y-transferencia-de-masas.webp" alt="Adherencia y transferencia de masas" width="820">
+</p>
+<p align="center"><em>Infografía: Adherencia y transferencia de masas.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -84,7 +104,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La entrada se realiza cuando las trayectorias conflictivas están controladas, no por confianza en la prioridad.
 - Un vehículo detenido puede ocultar a otro usuario que todavía no ha percibido la emergencia.
 
-<!-- VISUAL PENDIENTE: t44-06-intersecciones-en-servicio-urgente.webp -->
+<!-- VISUAL:t44-06-intersecciones-en-servicio-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-06-intersecciones-en-servicio-urgente.webp" alt="Intersecciones en servicio urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Intersecciones en servicio urgente.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -97,7 +121,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El conductor debe evitar encajonarse entre obstáculos, bordillos o vehículos sin margen lateral.
 - La maniobra debe poder abortarse si cambia el escenario o aparece un usuario vulnerable.
 
-<!-- VISUAL PENDIENTE: t44-07-eleccion-de-trayectoria-y-escape.webp -->
+<!-- VISUAL:t44-07-eleccion-de-trayectoria-y-escape.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-07-eleccion-de-trayectoria-y-escape.webp" alt="Elección de trayectoria y escape" width="820">
+</p>
+<p align="center"><em>Infografía: Elección de trayectoria y escape.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -110,7 +138,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La tripulación debe distribuir tareas para que el conductor conserve atención sobre la conducción.
 - La señal acústica puede provocar reacciones bruscas o imprevisibles en otros usuarios.
 
-<!-- VISUAL PENDIENTE: t44-08-uso-de-senales-y-carga-mental.webp -->
+<!-- VISUAL:t44-08-uso-de-senales-y-carga-mental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-08-uso-de-senales-y-carga-mental.webp" alt="Uso de señales y carga mental" width="820">
+</p>
+<p align="center"><em>Infografía: Uso de señales y carga mental.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -123,7 +155,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La carga y el material deben quedar asegurados para que no se conviertan en proyectiles.
 - La seguridad comienza antes de arrancar y continúa con vigilancia de anomalías durante el servicio.
 
-<!-- VISUAL PENDIENTE: t44-09-comprobacion-previa-del-vehiculo.webp -->
+<!-- VISUAL:t44-09-comprobacion-previa-del-vehiculo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-09-comprobacion-previa-del-vehiculo.webp" alt="Comprobación previa del vehículo" width="820">
+</p>
+<p align="center"><em>Infografía: Comprobación previa del vehículo.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -136,7 +172,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La conservación de datos o indicios nunca prevalece sobre la protección inmediata de la vida.
 - La notificación debe ser clara y permitir movilizar recursos adecuados sin abandonar la seguridad de la escena.
 
-<!-- VISUAL PENDIENTE: t44-il-10-despues-de-una-incidencia.webp -->
+<!-- VISUAL:t44-il-10-despues-de-una-incidencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-10-despues-de-una-incidencia.webp" alt="Después de una incidencia" width="820">
+</p>
+<p align="center"><em>Infografía: Después de una incidencia.</em></p>
 
 <!-- FUENTE: BOE-LSV-T44 -->
 
@@ -149,7 +189,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un sistema activo puede advertir, asistir o intervenir, según su diseño.
 - La clasificación atiende a la función principal y no al nombre comercial.
 
-<!-- VISUAL PENDIENTE: t44-11-seguridad-activa-o-primaria.webp -->
+<!-- VISUAL:t44-11-seguridad-activa-o-primaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-11-seguridad-activa-o-primaria.webp" alt="Seguridad activa o primaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad activa o primaria.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -162,7 +206,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La protección depende de compatibilidad, posición, ajuste y uso correcto.
 - Un elemento pasivo no evita necesariamente el choque, pero puede reducir sus consecuencias.
 
-<!-- VISUAL PENDIENTE: t44-12-seguridad-pasiva-o-secundaria.webp -->
+<!-- VISUAL:t44-12-seguridad-pasiva-o-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-12-seguridad-pasiva-o-secundaria.webp" alt="Seguridad pasiva o secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad pasiva o secundaria.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -175,7 +223,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La clasificación terciaria evita llamar pasivo a todo lo que no frena o dirige.
 - La rapidez de respuesta puede reducir consecuencias sin haber evitado el impacto.
 
-<!-- VISUAL PENDIENTE: t44-13-seguridad-terciaria.webp -->
+<!-- VISUAL:t44-13-seguridad-terciaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-13-seguridad-terciaria.webp" alt="Seguridad terciaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad terciaria.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -188,7 +240,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las capas no compiten: se complementan porque ningún sistema elimina todos los riesgos.
 - El resultado depende de la cadena completa, desde percepción hasta asistencia.
 
-<!-- VISUAL PENDIENTE: t44-14-seguridad-integrada.webp -->
+<!-- VISUAL:t44-14-seguridad-integrada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-14-seguridad-integrada.webp" alt="Seguridad integrada" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad integrada.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -201,7 +257,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El fallo de una función no implica necesariamente fallo mecánico de todo el vehículo.
 - El examen debe separar el componente físico de la función que presta.
 
-<!-- VISUAL PENDIENTE: t44-il-15-sistema-funcion-y-componente.webp -->
+<!-- VISUAL:t44-il-15-sistema-funcion-y-componente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-15-sistema-funcion-y-componente.webp" alt="Sistema, función y componente" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema, función y componente.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -214,7 +274,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una intervención automática puede requerir corrección o recuperación inmediata por la persona que conduce.
 - Confiar ciegamente en la asistencia crea riesgo de sobredependencia.
 
-<!-- VISUAL PENDIENTE: t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp -->
+<!-- VISUAL:t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp" alt="Ayuda a la conducción y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Ayuda a la conducción y responsabilidad.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -227,7 +291,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La advertencia de indisponibilidad debe interpretarse y no ignorarse.
 - Un sistema sin error visible tampoco garantiza detección perfecta de todos los peligros.
 
-<!-- VISUAL PENDIENTE: t44-17-sensor-entorno-y-degradacion.webp -->
+<!-- VISUAL:t44-17-sensor-entorno-y-degradacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-17-sensor-entorno-y-degradacion.webp" alt="Sensor, entorno y degradación" width="820">
+</p>
+<p align="center"><em>Infografía: Sensor, entorno y degradación.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -240,7 +308,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Desactivar permanentemente un sistema obligatorio o circular con un defecto puede comprometer seguridad y conformidad.
 - El mantenimiento preventivo sostiene la eficacia que se atribuye al sistema.
 
-<!-- VISUAL PENDIENTE: t44-18-mantenimiento-y-calibracion.webp -->
+<!-- VISUAL:t44-18-mantenimiento-y-calibracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-18-mantenimiento-y-calibracion.webp" alt="Mantenimiento y calibración" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento y calibración.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -253,7 +325,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un dispositivo instalado debe usarse dentro de sus condiciones y no como permiso para asumir más riesgo.
 - El calendario normativo se consulta por sistema y categoría, no mediante una fecha única.
 
-<!-- VISUAL PENDIENTE: t44-19-homologacion-y-uso-real.webp -->
+<!-- VISUAL:t44-19-homologacion-y-uso-real.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-19-homologacion-y-uso-real.webp" alt="Homologación y uso real" width="820">
+</p>
+<p align="center"><em>Infografía: Homologación y uso real.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -266,7 +342,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los porcentajes de estudios distintos no deben sumarse como si fueran independientes.
 - Para examen importa primero el mecanismo y después la magnitud contextualizada.
 
-<!-- VISUAL PENDIENTE: t44-il-20-trampa-de-las-cifras-universales.webp -->
+<!-- VISUAL:t44-il-20-trampa-de-las-cifras-universales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-20-trampa-de-las-cifras-universales.webp" alt="Trampa de las cifras universales" width="820">
+</p>
+<p align="center"><em>Infografía: Trampa de las cifras universales.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -279,7 +359,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La rigidez útil del habitáculo no significa que todo el vehículo deba ser indeformable.
 - La intrusión y la desaceleración soportada por ocupantes son variables distintas pero relacionadas.
 
-<!-- VISUAL PENDIENTE: t44-21-estructura-y-celula-de-supervivencia.webp -->
+<!-- VISUAL:t44-21-estructura-y-celula-de-supervivencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-21-estructura-y-celula-de-supervivencia.webp" alt="Estructura y célula de supervivencia" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura y célula de supervivencia.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -292,7 +376,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La banda diagonal pasa por clavícula y centro del pecho; la pélvica se apoya baja sobre la pelvis.
 - Airbag y cinturón están diseñados para trabajar conjuntamente.
 
-<!-- VISUAL PENDIENTE: t44-22-cinturon-de-tres-puntos.webp -->
+<!-- VISUAL:t44-22-cinturon-de-tres-puntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-22-cinturon-de-tres-puntos.webp" alt="Cinturón de tres puntos" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón de tres puntos.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -305,7 +393,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Pretensor y limitador cumplen funciones complementarias y no opuestas.
 - Su activación depende de la lógica del sistema y del tipo de colisión.
 
-<!-- VISUAL PENDIENTE: t44-23-pretensor-y-limitador-de-carga.webp -->
+<!-- VISUAL:t44-23-pretensor-y-limitador-de-carga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-23-pretensor-y-limitador-de-carga.webp" alt="Pretensor y limitador de carga" width="820">
+</p>
+<p align="center"><em>Infografía: Pretensor y limitador de carga.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -318,7 +410,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La separación con la cabeza debe ser pequeña sin forzar una postura anormal.
 - Un reposacabezas presente pero mal ajustado pierde gran parte de su utilidad.
 
-<!-- VISUAL PENDIENTE: t44-24-reposacabezas-y-latigazo-cervical.webp -->
+<!-- VISUAL:t44-24-reposacabezas-y-latigazo-cervical.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-24-reposacabezas-y-latigazo-cervical.webp" alt="Reposacabezas y latigazo cervical" width="820">
+</p>
+<p align="center"><em>Infografía: Reposacabezas y latigazo cervical.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -331,7 +427,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La distancia y postura del ocupante influyen en su protección.
 - Objetos, sistemas infantiles a contramarcha y ocupantes demasiado próximos exigen cautelas específicas.
 
-<!-- VISUAL PENDIENTE: t44-il-25-airbag-como-complemento.webp -->
+<!-- VISUAL:t44-il-25-airbag-como-complemento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-25-airbag-como-complemento.webp" alt="Airbag como complemento" width="820">
+</p>
+<p align="center"><em>Infografía: Airbag como complemento.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -344,7 +444,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un sistema orientado hacia atrás en asiento delantero exige desactivar el airbag frontal.
 - La instalación debe seguir las instrucciones del fabricante del sistema.
 
-<!-- VISUAL PENDIENTE: t44-26-sistemas-de-retencion-infantil.webp -->
+<!-- VISUAL:t44-26-sistemas-de-retencion-infantil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-26-sistemas-de-retencion-infantil.webp" alt="Sistemas de retención infantil" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas de retención infantil.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -357,7 +461,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los anclajes infantiles facilitan instalación correcta, pero no corrigen un montaje incompatible.
 - La regulación del asiento debe permitir control del vehículo sin acercamiento excesivo al airbag.
 
-<!-- VISUAL PENDIENTE: t44-27-asientos-y-anclajes.webp -->
+<!-- VISUAL:t44-27-asientos-y-anclajes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-27-asientos-y-anclajes.webp" alt="Asientos y anclajes" width="820">
+</p>
+<p align="center"><em>Infografía: Asientos y anclajes.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -370,7 +478,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los vidrios laterales pueden usar soluciones distintas y no se comportan igual que el parabrisas.
 - Una grieta en zona crítica puede afectar visión y resistencia.
 
-<!-- VISUAL PENDIENTE: t44-28-cristales-y-parabrisas.webp -->
+<!-- VISUAL:t44-28-cristales-y-parabrisas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-28-cristales-y-parabrisas.webp" alt="Cristales y parabrisas" width="820">
+</p>
+<p align="center"><em>Infografía: Cristales y parabrisas.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -383,7 +495,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La posición de manos y cuerpo influye en la interacción con volante y airbag.
 - Las modificaciones no homologadas pueden alterar rutas de carga previstas.
 
-<!-- VISUAL PENDIENTE: t44-29-columna-de-direccion-y-pedales.webp -->
+<!-- VISUAL:t44-29-columna-de-direccion-y-pedales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-29-columna-de-direccion-y-pedales.webp" alt="Columna de dirección y pedales" width="820">
+</p>
+<p align="center"><em>Infografía: Columna de dirección y pedales.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -396,7 +512,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La detección activa y la protección pasiva son capas diferentes que pueden actuar sobre el mismo riesgo.
 - La homologación europea incorpora requisitos orientados a ocupantes y usuarios vulnerables.
 
-<!-- VISUAL PENDIENTE: t44-il-30-proteccion-de-usuarios-vulnerables.webp -->
+<!-- VISUAL:t44-il-30-proteccion-de-usuarios-vulnerables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-30-proteccion-de-usuarios-vulnerables.webp" alt="Protección de usuarios vulnerables" width="820">
+</p>
+<p align="center"><em>Infografía: Protección de usuarios vulnerables.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -409,7 +529,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El dibujo ayuda a evacuar agua, pero no elimina el aquaplaning.
 - La profundidad mínima legal depende de la categoría; 1,6 milímetros no debe universalizarse a toda motocicleta.
 
-<!-- VISUAL PENDIENTE: t44-31-neumatico-como-unico-contacto.webp -->
+<!-- VISUAL:t44-31-neumatico-como-unico-contacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-31-neumatico-como-unico-contacto.webp" alt="Neumático como único contacto" width="820">
+</p>
+<p align="center"><em>Infografía: Neumático como único contacto.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -422,7 +546,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El sobrecalentamiento puede producir pérdida de eficacia aunque el pedal siga actuando.
 - La distancia final depende también de adherencia, velocidad, pendiente y reacción.
 
-<!-- VISUAL PENDIENTE: t44-32-sistema-de-frenado-y-reparto.webp -->
+<!-- VISUAL:t44-32-sistema-de-frenado-y-reparto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-32-sistema-de-frenado-y-reparto.webp" alt="Sistema de frenado y reparto" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema de frenado y reparto.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -435,7 +563,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La vibración del pedal puede indicar regulación y no obliga a soltarlo.
 - ABS no garantiza menor distancia en toda superficie ni vence la falta de adherencia.
 
-<!-- VISUAL PENDIENTE: t44-33-abs.webp -->
+<!-- VISUAL:t44-33-abs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-33-abs.webp" alt="ABS" width="820">
+</p>
+<p align="center"><em>Infografía: ABS.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -448,7 +580,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Su utilidad aparece cuando la persona pisa rápido pero con fuerza insuficiente.
 - El sistema trabaja con frenos y ABS, pero no modifica el límite de adherencia.
 
-<!-- VISUAL PENDIENTE: t44-34-asistencia-a-la-frenada.webp -->
+<!-- VISUAL:t44-34-asistencia-a-la-frenada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-34-asistencia-a-la-frenada.webp" alt="Asistencia a la frenada" width="820">
+</p>
+<p align="center"><em>Infografía: Asistencia a la frenada.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -461,7 +597,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Ayuda frente a subviraje o sobreviraje dentro de límites físicos.
 - No compensa una velocidad incompatible con la curva o adherencia disponible.
 
-<!-- VISUAL PENDIENTE: t44-il-35-control-electronico-de-estabilidad.webp -->
+<!-- VISUAL:t44-il-35-control-electronico-de-estabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-35-control-electronico-de-estabilidad.webp" alt="Control electrónico de estabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Control electrónico de estabilidad.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -474,7 +614,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Su función principal se diferencia de ABS porque interviene al transmitir tracción.
 - No permite acelerar sin medida sobre hielo o agua.
 
-<!-- VISUAL PENDIENTE: t44-36-control-de-traccion.webp -->
+<!-- VISUAL:t44-36-control-de-traccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-36-control-de-traccion.webp" alt="Control de tracción" width="820">
+</p>
+<p align="center"><em>Infografía: Control de tracción.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -487,7 +631,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una suspensión firme no es automáticamente más segura en toda superficie.
 - Los sistemas electrónicos dependen de una base mecánica en buen estado.
 
-<!-- VISUAL PENDIENTE: t44-37-direccion-y-suspension.webp -->
+<!-- VISUAL:t44-37-direccion-y-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-37-direccion-y-suspension.webp" alt="Dirección y suspensión" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección y suspensión.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -500,7 +648,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Luces adaptativas modifican distribución según condiciones, pero no sustituyen una velocidad visible segura.
 - Parabrisas limpio, limpiaparabrisas y desempañado también sostienen percepción.
 
-<!-- VISUAL PENDIENTE: t44-38-alumbrado-y-visibilidad.webp -->
+<!-- VISUAL:t44-38-alumbrado-y-visibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-38-alumbrado-y-visibilidad.webp" alt="Alumbrado y visibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Alumbrado y visibilidad.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -513,7 +665,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una advertencia exige detenerse con seguridad y revisar causa, no limitarse a reiniciarla.
 - TPMS no informa necesariamente sobre profundidad de dibujo, grietas o envejecimiento.
 
-<!-- VISUAL PENDIENTE: t44-39-tpms.webp -->
+<!-- VISUAL:t44-39-tpms.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-39-tpms.webp" alt="TPMS" width="820">
+</p>
+<p align="center"><em>Infografía: TPMS.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -526,7 +682,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La inspección técnica no sustituye las comprobaciones cotidianas del usuario.
 - Las modificaciones deben respetar homologación y no interferir con sensores o protecciones.
 
-<!-- VISUAL PENDIENTE: t44-il-40-mantenimiento-como-seguridad-activa.webp -->
+<!-- VISUAL:t44-il-40-mantenimiento-como-seguridad-activa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-40-mantenimiento-como-seguridad-activa.webp" alt="Mantenimiento como seguridad activa" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento como seguridad activa.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -539,7 +699,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El 7 de julio de 2026 marca, entre otros hitos, la extensión del aviso avanzado de distracción a todos los vehículos nuevos afectados.
 - Para resolver una pregunta debe identificarse sistema, categoría y clase de fecha.
 
-<!-- VISUAL PENDIENTE: t44-41-calendario-escalonado-del-gsr.webp -->
+<!-- VISUAL:t44-41-calendario-escalonado-del-gsr.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-41-calendario-escalonado-del-gsr.webp" alt="Calendario escalonado del GSR" width="820">
+</p>
+<p align="center"><em>Infografía: Calendario escalonado del GSR.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -552,7 +716,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El tiempo de aviso depende de detección, velocidad relativa y parámetros del sistema.
 - Una falsa alarma no justifica desactivar permanentemente toda ayuda.
 
-<!-- VISUAL PENDIENTE: t44-42-aviso-de-colision-frontal.webp -->
+<!-- VISUAL:t44-42-aviso-de-colision-frontal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-42-aviso-de-colision-frontal.webp" alt="Aviso de colisión frontal" width="820">
+</p>
+<p align="center"><em>Infografía: Aviso de colisión frontal.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -565,7 +733,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Mitigar significa reducir severidad cuando evitar por completo no es posible.
 - El conductor debe seguir frenando o maniobrando si la situación lo exige.
 
-<!-- VISUAL PENDIENTE: t44-43-frenada-autonoma-de-emergencia.webp -->
+<!-- VISUAL:t44-43-frenada-autonoma-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-43-frenada-autonoma-de-emergencia.webp" alt="Frenada autónoma de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: Frenada autónoma de emergencia.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -578,7 +750,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un sistema de emergencia de mantenimiento interviene ante una situación definida y no equivale a conducción centrada continua.
 - Marcas deficientes, obras o carriles ambiguos pueden limitar detección.
 
-<!-- VISUAL PENDIENTE: t44-44-aviso-y-mantenimiento-de-carril.webp -->
+<!-- VISUAL:t44-44-aviso-y-mantenimiento-de-carril.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-44-aviso-y-mantenimiento-de-carril.webp" alt="Aviso y mantenimiento de carril" width="820">
+</p>
+<p align="center"><em>Infografía: Aviso y mantenimiento de carril.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -591,7 +767,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El conductor debe atender al límite aplicable y al contexto real.
 - ISA no autoriza a circular automáticamente a la velocidad indicada cuando las condiciones exigen menos.
 
-<!-- VISUAL PENDIENTE: t44-il-45-isa.webp -->
+<!-- VISUAL:t44-il-45-isa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-45-isa.webp" alt="ISA" width="820">
+</p>
+<p align="center"><em>Infografía: ISA.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -604,7 +784,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La distancia seleccionada debe ser compatible con condiciones y normativa.
 - El conductor debe poder frenar y asumir control.
 
-<!-- VISUAL PENDIENTE: t44-46-acc.webp -->
+<!-- VISUAL:t44-46-acc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-46-acc.webp" alt="ACC" width="820">
+</p>
+<p align="center"><em>Infografía: ACC.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -617,7 +801,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - RCTA supervisa tráfico transversal trasero al salir marcha atrás.
 - Una alerta indica riesgo detectado, no certeza absoluta sobre todo el entorno.
 
-<!-- VISUAL PENDIENTE: t44-47-angulo-muerto-y-trafico-cruzado.webp -->
+<!-- VISUAL:t44-47-angulo-muerto-y-trafico-cruzado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-47-angulo-muerto-y-trafico-cruzado.webp" alt="Ángulo muerto y tráfico cruzado" width="820">
+</p>
+<p align="center"><em>Infografía: Ángulo muerto y tráfico cruzado.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -630,7 +818,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - No diagnostican médicamente ni garantizan detectar todo episodio.
 - El conductor no debe usar el sistema como permiso para prolongar una conducción fatigada.
 
-<!-- VISUAL PENDIENTE: t44-48-somnolencia-y-distraccion.webp -->
+<!-- VISUAL:t44-48-somnolencia-y-distraccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-48-somnolencia-y-distraccion.webp" alt="Somnolencia y distracción" width="820">
+</p>
+<p align="center"><em>Infografía: Somnolencia y distracción.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -643,7 +835,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Cámara y sensores tienen zonas ciegas y requieren observación directa.
 - La maniobra debe hacerse lentamente y con posibilidad de detenerse.
 
-<!-- VISUAL PENDIENTE: t44-49-detector-de-marcha-atras.webp -->
+<!-- VISUAL:t44-49-detector-de-marcha-atras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-49-detector-de-marcha-atras.webp" alt="Detector de marcha atrás" width="820">
+</p>
+<p align="center"><em>Infografía: Detector de marcha atrás.</em></p>
 
 <!-- FUENTE: DGT-ADAS-T44 -->
 
@@ -656,7 +852,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Registrar datos y pedir ayuda son funciones distintas, aunque ambas se relacionen con el siniestro.
 - Ninguna de ellas convierte por sí sola el vehículo en autónomo.
 
-<!-- VISUAL PENDIENTE: t44-il-50-edr-y-llamada-de-emergencia.webp -->
+<!-- VISUAL:t44-il-50-edr-y-llamada-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-50-edr-y-llamada-de-emergencia.webp" alt="EDR y llamada de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: EDR y llamada de emergencia.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -669,7 +869,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La visibilidad del motorista para terceros es una variable crítica.
 - La protección no debe estudiarse copiando sin más la arquitectura de un turismo.
 
-<!-- VISUAL PENDIENTE: t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp -->
+<!-- VISUAL:t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp" alt="Vulnerabilidad específica de la motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Vulnerabilidad específica de la motocicleta.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -682,7 +886,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La inspección debe buscar daños, deformaciones, objetos y envejecimiento además del dibujo.
 - La cifra de 1,6 milímetros no debe trasladarse como mínimo universal a todas las categorías L.
 
-<!-- VISUAL PENDIENTE: t44-52-neumaticos-de-motocicleta.webp -->
+<!-- VISUAL:t44-52-neumaticos-de-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-52-neumaticos-de-motocicleta.webp" alt="Neumáticos de motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos de motocicleta.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -695,7 +903,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La eficacia exige técnica compatible con adherencia y geometría de la motocicleta.
 - La normativa europea diferencia categorías y requisitos de frenado, por lo que no admite una regla única para toda moto.
 
-<!-- VISUAL PENDIENTE: t44-53-frenado-combinado-y-reparto.webp -->
+<!-- VISUAL:t44-53-frenado-combinado-y-reparto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-53-frenado-combinado-y-reparto.webp" alt="Frenado combinado y reparto" width="820">
+</p>
+<p align="center"><em>Infografía: Frenado combinado y reparto.</em></p>
 
 <!-- FUENTE: EU-L-168-2013-T44 -->
 
@@ -708,7 +920,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La regulación se percibe como pulsación o modulación y no aconseja soltar el freno por reflejo.
 - Los requisitos de equipamiento dependen de categoría y fecha de homologación.
 
-<!-- VISUAL PENDIENTE: t44-54-abs-en-motocicleta.webp -->
+<!-- VISUAL:t44-54-abs-en-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-54-abs-en-motocicleta.webp" alt="ABS en motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: ABS en motocicleta.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -721,7 +937,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La ayuda en curva no vence la combinación extrema de velocidad, inclinación y baja adherencia.
 - Debe distinguirse ABS convencional de funciones sensibles al ángulo.
 
-<!-- VISUAL PENDIENTE: t44-il-55-abs-en-curva-e-imu.webp -->
+<!-- VISUAL:t44-il-55-abs-en-curva-e-imu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-55-abs-en-curva-e-imu.webp" alt="ABS en curva e IMU" width="820">
+</p>
+<p align="center"><em>Infografía: ABS en curva e IMU.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -734,7 +954,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - No evita que la rueda delantera pierda adherencia por cualquier causa.
 - El ajuste elegido debe responder a firme, neumático y operación.
 
-<!-- VISUAL PENDIENTE: t44-56-control-de-traccion-en-motocicleta.webp -->
+<!-- VISUAL:t44-56-control-de-traccion-en-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-56-control-de-traccion-en-motocicleta.webp" alt="Control de tracción en motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Control de tracción en motocicleta.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -747,7 +971,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un casco que ha sufrido un golpe relevante puede requerir sustitución aunque el daño externo parezca pequeño.
 - La pantalla debe mantener visibilidad y protección compatibles con las condiciones.
 
-<!-- VISUAL PENDIENTE: t44-57-casco-homologado-y-ajuste.webp -->
+<!-- VISUAL:t44-57-casco-homologado-y-ajuste.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-57-casco-homologado-y-ajuste.webp" alt="Casco homologado y ajuste" width="820">
+</p>
+<p align="center"><em>Infografía: Casco homologado y ajuste.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -760,7 +988,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Protecciones de espalda y articulaciones deben ajustarse y permanecer en posición.
 - La visibilidad de la ropa complementa, pero no sustituye, alumbrado y conducción defensiva.
 
-<!-- VISUAL PENDIENTE: t44-58-ropa-guantes-botas-y-protecciones.webp -->
+<!-- VISUAL:t44-58-ropa-guantes-botas-y-protecciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-58-ropa-guantes-botas-y-protecciones.webp" alt="Ropa, guantes, botas y protecciones" width="820">
+</p>
+<p align="center"><em>Infografía: Ropa, guantes, botas y protecciones.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -773,7 +1005,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los sistemas con cable y electrónicos tienen lógicas distintas.
 - Es una capa adicional y no sustituye casco ni conducción preventiva.
 
-<!-- VISUAL PENDIENTE: t44-59-airbag-de-motorista.webp -->
+<!-- VISUAL:t44-59-airbag-de-motorista.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-59-airbag-de-motorista.webp" alt="Airbag de motorista" width="820">
+</p>
+<p align="center"><em>Infografía: Airbag de motorista.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -786,7 +1022,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Conductor y pasajero necesitan coordinación en aceleración, frenada y curva.
 - La presión y reglajes se adaptan según indicaciones del fabricante.
 
-<!-- VISUAL PENDIENTE: t44-il-60-conduccion-con-pasajero-y-carga.webp -->
+<!-- VISUAL:t44-il-60-conduccion-con-pasajero-y-carga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-60-conduccion-con-pasajero-y-carga.webp" alt="Conducción con pasajero y carga" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción con pasajero y carga.</em></p>
 
 <!-- FUENTE: DGT-MOTOS-2021-T44 -->
 
@@ -799,7 +1039,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La lesión depende de energía, dirección, protección, ocupante y respuesta posterior.
 - Analizar solo si hubo colisión oculta beneficios de mitigación.
 
-<!-- VISUAL PENDIENTE: t44-61-cadena-del-siniestro.webp -->
+<!-- VISUAL:t44-61-cadena-del-siniestro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-61-cadena-del-siniestro.webp" alt="Cadena del siniestro" width="820">
+</p>
+<p align="center"><em>Infografía: Cadena del siniestro.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -812,7 +1056,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un sistema puede mejorar un resultado sin cambiar de forma apreciable el otro.
 - Los estudios deben declarar qué variable y población comparan.
 
-<!-- VISUAL PENDIENTE: t44-62-probabilidad-frente-a-severidad.webp -->
+<!-- VISUAL:t44-62-probabilidad-frente-a-severidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-62-probabilidad-frente-a-severidad.webp" alt="Probabilidad frente a severidad" width="820">
+</p>
+<p align="center"><em>Infografía: Probabilidad frente a severidad.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -825,7 +1073,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una capa posterior sigue siendo necesaria porque la anterior no cubre todos los casos.
 - El rendimiento real depende de uso correcto y mantenimiento.
 
-<!-- VISUAL PENDIENTE: t44-63-efectividad-combinada.webp -->
+<!-- VISUAL:t44-63-efectividad-combinada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-63-efectividad-combinada.webp" alt="Efectividad combinada" width="820">
+</p>
+<p align="center"><em>Infografía: Efectividad combinada.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -838,7 +1090,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La comunicación del sistema debe evitar promesas de invulnerabilidad.
 - La formación reduce mal uso y expectativas falsas.
 
-<!-- VISUAL PENDIENTE: t44-64-compensacion-del-riesgo.webp -->
+<!-- VISUAL:t44-64-compensacion-del-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-64-compensacion-del-riesgo.webp" alt="Compensación del riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Compensación del riesgo.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -851,7 +1107,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las alertas excesivas pueden provocar habituación o rechazo.
 - La interfaz debe facilitar comprensión sin distraer.
 
-<!-- VISUAL PENDIENTE: t44-il-65-uso-real-y-tasa-de-activacion.webp -->
+<!-- VISUAL:t44-il-65-uso-real-y-tasa-de-activacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-65-uso-real-y-tasa-de-activacion.webp" alt="Uso real y tasa de activación" width="820">
+</p>
+<p align="center"><em>Infografía: Uso real y tasa de activación.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -864,7 +1124,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La evaluación debe distinguir ausencia de detección, detección tardía, intervención insuficiente y conducta posterior.
 - No existe un único sistema capaz de resolver todos los modos de siniestro.
 
-<!-- VISUAL PENDIENTE: t44-66-siniestros-evitables-y-no-cubiertos.webp -->
+<!-- VISUAL:t44-66-siniestros-evitables-y-no-cubiertos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-66-siniestros-evitables-y-no-cubiertos.webp" alt="Siniestros evitables y no cubiertos" width="820">
+</p>
+<p align="center"><em>Infografía: Siniestros evitables y no cubiertos.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -877,7 +1141,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los sistemas infantiles responden a necesidades distintas de las del adulto.
 - La evaluación no debe usar al ocupante medio como única referencia.
 
-<!-- VISUAL PENDIENTE: t44-67-compatibilidad-entre-ocupante-y-retencion.webp -->
+<!-- VISUAL:t44-67-compatibilidad-entre-ocupante-y-retencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-67-compatibilidad-entre-ocupante-y-retencion.webp" alt="Compatibilidad entre ocupante y retención" width="820">
+</p>
+<p align="center"><em>Infografía: Compatibilidad entre ocupante y retención.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -890,7 +1158,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La revisión preventiva busca detectar degradación antes de una demanda crítica.
 - El testigo o la inspección son señales para actuar, no simples molestias administrativas.
 
-<!-- VISUAL PENDIENTE: t44-68-mantenimiento-y-siniestralidad.webp -->
+<!-- VISUAL:t44-68-mantenimiento-y-siniestralidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-68-mantenimiento-y-siniestralidad.webp" alt="Mantenimiento y siniestralidad" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento y siniestralidad.</em></p>
 
 <!-- FUENTE: BOE-RGV-T44 -->
 
@@ -903,7 +1175,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La ausencia de un dato puede deberse al diseño o a límites de registro.
 - La investigación integra huellas físicas, testimonios, vehículo, vía y datos.
 
-<!-- VISUAL PENDIENTE: t44-69-datos-edr-y-atribucion.webp -->
+<!-- VISUAL:t44-69-datos-edr-y-atribucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-69-datos-edr-y-atribucion.webp" alt="Datos, EDR y atribución" width="820">
+</p>
+<p align="center"><em>Infografía: Datos, EDR y atribución.</em></p>
 
 <!-- FUENTE: EU-GSR-2019-2144-T44 -->
 
@@ -916,7 +1192,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La infraestructura puede facilitar o dificultar el funcionamiento de percepción y guiado.
 - El enfoque de sistema evita atribuir toda la seguridad a un solo actor.
 
-<!-- VISUAL PENDIENTE: t44-il-70-jerarquia-preventiva.webp -->
+<!-- VISUAL:t44-il-70-jerarquia-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-70-jerarquia-preventiva.webp" alt="Jerarquía preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía preventiva.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -929,7 +1209,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La conducción segura busca llegar con capacidad operativa, no solo reducir tiempo.
 - La tripulación debe ajustar velocidad, ruta y señales a tráfico, vía y misión.
 
-<!-- VISUAL PENDIENTE: t44-71-conduccion-policial-convencional-y-urgente.webp -->
+<!-- VISUAL:t44-71-conduccion-policial-convencional-y-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-71-conduccion-policial-convencional-y-urgente.webp" alt="Conducción policial convencional y urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción policial convencional y urgente.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -942,7 +1226,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La exención no alcanza autopistas, autovías ni carreteras convencionales.
 - Una exención jurídica no convierte en segura la falta de cinturón ni obliga a prescindir de él.
 
-<!-- VISUAL PENDIENTE: t44-72-cinturon-en-servicios-de-urgencia.webp -->
+<!-- VISUAL:t44-72-cinturon-en-servicios-de-urgencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-72-cinturon-en-servicios-de-urgencia.webp" alt="Cinturón en servicios de urgencia" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón en servicios de urgencia.</em></p>
 
 <!-- FUENTE: BOE-RGC-T44 -->
 
@@ -955,7 +1243,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las órdenes deben ser breves y evitar mensajes simultáneos contradictorios.
 - La coordinación reduce carga mental y errores en intersecciones o maniobras.
 
-<!-- VISUAL PENDIENTE: t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp -->
+<!-- VISUAL:t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp" alt="Distribución de tareas en el vehículo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de tareas en el vehículo policial.</em></p>
 
 <!-- FUENTE: DGT-EFECTIVIDAD-2022-T44 -->
 
@@ -968,7 +1260,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La seguridad comprende a la persona trasladada, la escolta y terceros.
 - Peligrosidad, salud, duración y circunstancias influyen en la planificación.
 
-<!-- VISUAL PENDIENTE: t44-74-traslado-digno-y-seguro.webp -->
+<!-- VISUAL:t44-74-traslado-digno-y-seguro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-74-traslado-digno-y-seguro.webp" alt="Traslado digno y seguro" width="820">
+</p>
+<p align="center"><em>Infografía: Traslado digno y seguro.</em></p>
 
 <!-- FUENTE: BOE-RP-190-1996-T44 -->
 
@@ -981,7 +1277,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La adaptación o sustitución se condiciona a posibilidad técnica y disponibilidades previstas.
 - El anexo aplicable depende de que el número de plazas exceda o no de nueve, incluido conductor y escolta.
 
-<!-- VISUAL PENDIENTE: t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp -->
+<!-- VISUAL:t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp" alt="Ámbito temporal de la Orden INT/2573/2015" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito temporal de la Orden INT/2573/2015.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 
@@ -994,7 +1294,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Prevé puertas de servicio y salida de socorro, con ambos sistemas cuando la configuración lo permita.
 - El maletero es un espacio separado para equipaje cuando existe.
 
-<!-- VISUAL PENDIENTE: t44-76-vehiculos-de-hasta-nueve-plazas.webp -->
+<!-- VISUAL:t44-76-vehiculos-de-hasta-nueve-plazas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-76-vehiculos-de-hasta-nueve-plazas.webp" alt="Vehículos de hasta nueve plazas" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos de hasta nueve plazas.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 
@@ -1007,7 +1311,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El alumbrado debe ser suficiente sin deslumbrar ni molestar indebidamente a otros usuarios.
 - La luz del compartimento de detenidos debe estar protegida y permitir observación.
 
-<!-- VISUAL PENDIENTE: t44-77-habitabilidad-y-alumbrado.webp -->
+<!-- VISUAL:t44-77-habitabilidad-y-alumbrado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-77-habitabilidad-y-alumbrado.webp" alt="Habitabilidad y alumbrado" width="820">
+</p>
+<p align="center"><em>Infografía: Habitabilidad y alumbrado.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 
@@ -1020,7 +1328,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los asientos se colocan en dirección de la marcha.
 - El sistema de retención homologado se abre desde el puesto de vigilancia.
 
-<!-- VISUAL PENDIENTE: t44-78-compartimento-asientos-y-retencion.webp -->
+<!-- VISUAL:t44-78-compartimento-asientos-y-retencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-78-compartimento-asientos-y-retencion.webp" alt="Compartimento, asientos y retención" width="820">
+</p>
+<p align="center"><em>Infografía: Compartimento, asientos y retención.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 
@@ -1033,7 +1345,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La apertura de socorro se acciona desde los compartimentos de conducción y vigilancia.
 - Los vehículos de hasta nueve plazas llevan un extintor de polvo de seis kilogramos accesible a la escolta.
 
-<!-- VISUAL PENDIENTE: t44-79-vigilancia-salidas-y-extintor.webp -->
+<!-- VISUAL:t44-79-vigilancia-salidas-y-extintor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-79-vigilancia-salidas-y-extintor.webp" alt="Vigilancia, salidas y extintor" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia, salidas y extintor.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 
@@ -1046,7 +1362,11 @@ El Tema 44 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los compartimentos delantero y trasero se conectan mediante intercomunicador.
 - Las celdas incorporan aviso de emergencia, intercomunicación y cámaras según la Orden.
 
-<!-- VISUAL PENDIENTE: t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp -->
+<!-- VISUAL:t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp" alt="Vehículos de más de nueve plazas" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos de más de nueve plazas.</em></p>
 
 <!-- FUENTE: BOE-INT-2573-2015-T44 -->
 

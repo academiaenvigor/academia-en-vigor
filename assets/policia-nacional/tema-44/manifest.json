@@ -4,14 +4,14 @@
   "topic": "tema-44",
   "content_version": "1.0.0",
   "visual_version": "0.1.0",
-  "status": "planned",
+  "status": "integrated",
   "totals": {
     "resources": 80,
-    "integrated": 0,
-    "planned": 80
+    "integrated": 80,
+    "planned": 0
   },
-  "integration_status": "planned",
-  "integrated_at": null,
+  "integration_status": "complete",
+  "integrated_at": "2026-08-16",
   "resources": [
     {
       "id": "T44-V01",
@@ -19,14 +19,15 @@
       "title": "Alcance oficial y método del Tema 44",
       "type": "infografia",
       "placement": "bloque-01",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 1,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El programa enlaza conducción prioritaria, seguridad activa y pasiva, turismo, motocicleta, siniestralidad y traslado de detenidos.",
+      "description": "El programa enlaza conducción prioritaria, seguridad activa y pasiva, turismo, motocicleta, siniestralidad y traslado de detenidos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -35,14 +36,15 @@
       "title": "Urgencia, prioridad y seguridad",
       "type": "infografia",
       "placement": "bloque-02",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 2,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El régimen prioritario permite excepciones reglamentarias, pero exige uso ponderado y ausencia de peligro para los demás usuarios.",
+      "description": "El régimen prioritario permite excepciones reglamentarias, pero exige uso ponderado y ausencia de peligro para los demás usuarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -51,14 +53,15 @@
       "title": "Conducción defensiva VEA",
       "type": "infografia",
       "placement": "bloque-03",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 3,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La conducción defensiva combina visión amplia, espacio de seguridad y anticipación de errores ajenos.",
+      "description": "La conducción defensiva combina visión amplia, espacio de seguridad y anticipación de errores ajenos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -67,14 +70,15 @@
       "title": "Dinámica de la velocidad",
       "type": "infografia",
       "placement": "bloque-04",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 4,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Al aumentar la velocidad crecen la distancia recorrida durante la reacción y la energía que debe disiparse.",
+      "description": "Al aumentar la velocidad crecen la distancia recorrida durante la reacción y la energía que debe disiparse.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -83,14 +87,15 @@
       "title": "Adherencia y transferencia de masas",
       "type": "ilustracion_simple",
       "placement": "bloque-05",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 5,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Frenar, acelerar y girar consumen la capacidad limitada de adherencia disponible en cada neumático.",
+      "description": "Frenar, acelerar y girar consumen la capacidad limitada de adherencia disponible en cada neumático.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -99,14 +104,15 @@
       "title": "Intersecciones en servicio urgente",
       "type": "infografia",
       "placement": "bloque-06",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 6,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La intersección es un punto crítico porque la señal acústica puede dificultar localizar la procedencia exacta del prioritario.",
+      "description": "La intersección es un punto crítico porque la señal acústica puede dificultar localizar la procedencia exacta del prioritario.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -115,14 +121,15 @@
       "title": "Elección de trayectoria y escape",
       "type": "infografia",
       "placement": "bloque-07",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 7,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La trayectoria segura maximiza visibilidad, estabilidad y posibilidad de escape.",
+      "description": "La trayectoria segura maximiza visibilidad, estabilidad y posibilidad de escape.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -131,14 +138,15 @@
       "title": "Uso de señales y carga mental",
       "type": "infografia",
       "placement": "bloque-08",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 8,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Las señales especiales informan de presencia urgente, pero no sustituyen observación ni comunicación táctica.",
+      "description": "Las señales especiales informan de presencia urgente, pero no sustituyen observación ni comunicación táctica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -147,14 +155,15 @@
       "title": "Comprobación previa del vehículo",
       "type": "infografia",
       "placement": "bloque-09",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 9,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La revisión previa debe detectar defectos de neumáticos, frenos, alumbrado, señalización, niveles y elementos de retención.",
+      "description": "La revisión previa debe detectar defectos de neumáticos, frenos, alumbrado, señalización, niveles y elementos de retención.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -163,14 +172,15 @@
       "title": "Después de una incidencia",
       "type": "ilustracion_simple",
       "placement": "bloque-10",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 10,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Tras una incidencia debe evitarse crear un segundo siniestro mediante posición, señalización y autoprotección.",
+      "description": "Tras una incidencia debe evitarse crear un segundo siniestro mediante posición, señalización y autoprotección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -179,14 +189,15 @@
       "title": "Seguridad activa o primaria",
       "type": "infografia",
       "placement": "bloque-11",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 11,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad activa o primaria trata de evitar el siniestro o reducir su probabilidad y gravedad antes del impacto.",
+      "description": "La seguridad activa o primaria trata de evitar el siniestro o reducir su probabilidad y gravedad antes del impacto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -195,14 +206,15 @@
       "title": "Seguridad pasiva o secundaria",
       "type": "infografia",
       "placement": "bloque-12",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 12,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad pasiva o secundaria busca limitar lesiones cuando el siniestro ya se produce.",
+      "description": "La seguridad pasiva o secundaria busca limitar lesiones cuando el siniestro ya se produce.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -211,14 +223,15 @@
       "title": "Seguridad terciaria",
       "type": "infografia",
       "placement": "bloque-13",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 13,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad terciaria facilita rescate, aviso y asistencia después del siniestro.",
+      "description": "La seguridad terciaria facilita rescate, aviso y asistencia después del siniestro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -227,14 +240,15 @@
       "title": "Seguridad integrada",
       "type": "infografia",
       "placement": "bloque-14",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 14,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad integrada coordina funciones activas, pasivas y posteriores al impacto.",
+      "description": "La seguridad integrada coordina funciones activas, pasivas y posteriores al impacto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -243,14 +257,15 @@
       "title": "Sistema, función y componente",
       "type": "ilustracion_simple",
       "placement": "bloque-15",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 15,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un sistema combina sensores, lógica, actuadores e interfaz para cumplir una función de seguridad.",
+      "description": "Un sistema combina sensores, lógica, actuadores e interfaz para cumplir una función de seguridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -259,14 +274,15 @@
       "title": "Ayuda a la conducción y responsabilidad",
       "type": "infografia",
       "placement": "bloque-16",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 16,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ADAS significa sistema avanzado de ayuda a la conducción, no sustitución general del conductor.",
+      "description": "ADAS significa sistema avanzado de ayuda a la conducción, no sustitución general del conductor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -275,14 +291,15 @@
       "title": "Sensor, entorno y degradación",
       "type": "infografia",
       "placement": "bloque-17",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 17,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La eficacia de cámaras, radar y otros sensores depende de visibilidad, limpieza, calibración y condiciones ambientales.",
+      "description": "La eficacia de cámaras, radar y otros sensores depende de visibilidad, limpieza, calibración y condiciones ambientales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -291,14 +308,15 @@
       "title": "Mantenimiento y calibración",
       "type": "infografia",
       "placement": "bloque-18",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 18,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La sustitución de parabrisas, sensores, ruedas o elementos de suspensión puede exigir calibración de ayudas.",
+      "description": "La sustitución de parabrisas, sensores, ruedas o elementos de suspensión puede exigir calibración de ayudas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -307,14 +325,15 @@
       "title": "Homologación y uso real",
       "type": "infografia",
       "placement": "bloque-19",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 19,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La homologación verifica requisitos técnicos definidos, no promete ausencia de siniestros.",
+      "description": "La homologación verifica requisitos técnicos definidos, no promete ausencia de siniestros.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -323,14 +342,15 @@
       "title": "Trampa de las cifras universales",
       "type": "ilustracion_simple",
       "placement": "bloque-20",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 20,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La efectividad se estima comparando escenarios y depende de exposición, parque, uso y definición de resultado.",
+      "description": "La efectividad se estima comparando escenarios y depende de exposición, parque, uso y definición de resultado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -339,14 +359,15 @@
       "title": "Estructura y célula de supervivencia",
       "type": "infografia",
       "placement": "bloque-21",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 21,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La estructura combina zonas de deformación programada con un habitáculo que debe preservar espacio vital.",
+      "description": "La estructura combina zonas de deformación programada con un habitáculo que debe preservar espacio vital.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -355,14 +376,15 @@
       "title": "Cinturón de tres puntos",
       "type": "infografia",
       "placement": "bloque-22",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 22,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El cinturón retiene al ocupante, distribuye cargas y reduce impactos contra interior o expulsión.",
+      "description": "El cinturón retiene al ocupante, distribuye cargas y reduce impactos contra interior o expulsión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -371,14 +393,15 @@
       "title": "Pretensor y limitador de carga",
       "type": "infografia",
       "placement": "bloque-23",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 23,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El pretensor reduce rápidamente la holgura del cinturón al iniciarse un choque relevante.",
+      "description": "El pretensor reduce rápidamente la holgura del cinturón al iniciarse un choque relevante.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -387,14 +410,15 @@
       "title": "Reposacabezas y latigazo cervical",
       "type": "infografia",
       "placement": "bloque-24",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 24,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El reposacabezas limita el desplazamiento relativo de la cabeza respecto del tronco en un alcance.",
+      "description": "El reposacabezas limita el desplazamiento relativo de la cabeza respecto del tronco en un alcance.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -403,14 +427,15 @@
       "title": "Airbag como complemento",
       "type": "ilustracion_simple",
       "placement": "bloque-25",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 25,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El airbag crea una superficie de desaceleración y reduce contacto con elementos duros en colisiones previstas.",
+      "description": "El airbag crea una superficie de desaceleración y reduce contacto con elementos duros en colisiones previstas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -419,14 +444,15 @@
       "title": "Sistemas de retención infantil",
       "type": "infografia",
       "placement": "bloque-26",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 26,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los menores de estatura igual o inferior a 135 centímetros deben usar sistemas homologados adecuados a sus características.",
+      "description": "Los menores de estatura igual o inferior a 135 centímetros deben usar sistemas homologados adecuados a sus características.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -435,14 +461,15 @@
       "title": "Asientos y anclajes",
       "type": "infografia",
       "placement": "bloque-27",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 27,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El asiento y sus anclajes deben soportar cargas y mantener al ocupante en posición compatible con la retención.",
+      "description": "El asiento y sus anclajes deben soportar cargas y mantener al ocupante en posición compatible con la retención.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -451,14 +478,15 @@
       "title": "Cristales y parabrisas",
       "type": "infografia",
       "placement": "bloque-28",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 28,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El parabrisas laminado contribuye a visibilidad, retención de fragmentos y comportamiento estructural.",
+      "description": "El parabrisas laminado contribuye a visibilidad, retención de fragmentos y comportamiento estructural.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -467,14 +495,15 @@
       "title": "Columna de dirección y pedales",
       "type": "infografia",
       "placement": "bloque-29",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 29,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los diseños colapsables y de desacoplamiento buscan reducir lesiones por intrusión durante el impacto.",
+      "description": "Los diseños colapsables y de desacoplamiento buscan reducir lesiones por intrusión durante el impacto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -483,14 +512,15 @@
       "title": "Protección de usuarios vulnerables",
       "type": "ilustracion_simple",
       "placement": "bloque-30",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 30,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad pasiva también puede reducir lesiones de peatones o ciclistas en un impacto.",
+      "description": "La seguridad pasiva también puede reducir lesiones de peatones o ciclistas en un impacto.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -499,14 +529,15 @@
       "title": "Neumático como único contacto",
       "type": "infografia",
       "placement": "bloque-31",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 31,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El neumático transmite frenado, guiado y aceleración entre vehículo y calzada.",
+      "description": "El neumático transmite frenado, guiado y aceleración entre vehículo y calzada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -515,14 +546,15 @@
       "title": "Sistema de frenado y reparto",
       "type": "infografia",
       "placement": "bloque-32",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 32,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El freno transforma energía cinética principalmente en calor para reducir velocidad.",
+      "description": "El freno transforma energía cinética principalmente en calor para reducir velocidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -531,14 +563,15 @@
       "title": "ABS",
       "type": "infografia",
       "placement": "bloque-33",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 33,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ABS modula la presión para evitar bloqueo sostenido de ruedas durante una frenada intensa.",
+      "description": "ABS modula la presión para evitar bloqueo sostenido de ruedas durante una frenada intensa.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -547,14 +580,15 @@
       "title": "Asistencia a la frenada",
       "type": "infografia",
       "placement": "bloque-34",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 34,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La asistencia de frenado reconoce una solicitud urgente y ayuda a alcanzar presión suficiente.",
+      "description": "La asistencia de frenado reconoce una solicitud urgente y ayuda a alcanzar presión suficiente.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -563,14 +597,15 @@
       "title": "Control electrónico de estabilidad",
       "type": "ilustracion_simple",
       "placement": "bloque-35",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 35,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ESC compara trayectoria pretendida y movimiento real para ayudar a corregir pérdida de estabilidad.",
+      "description": "ESC compara trayectoria pretendida y movimiento real para ayudar a corregir pérdida de estabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -579,14 +614,15 @@
       "title": "Control de tracción",
       "type": "infografia",
       "placement": "bloque-36",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 36,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El control de tracción limita el patinamiento excesivo de ruedas motrices.",
+      "description": "El control de tracción limita el patinamiento excesivo de ruedas motrices.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -595,14 +631,15 @@
       "title": "Dirección y suspensión",
       "type": "infografia",
       "placement": "bloque-37",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 37,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La dirección permite orientar el vehículo y la suspensión ayuda a mantener contacto y controlar movimientos.",
+      "description": "La dirección permite orientar el vehículo y la suspensión ayuda a mantener contacto y controlar movimientos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -611,14 +648,15 @@
       "title": "Alumbrado y visibilidad",
       "type": "infografia",
       "placement": "bloque-38",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 38,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El alumbrado permite ver la vía y hacer visible el vehículo sin deslumbrar.",
+      "description": "El alumbrado permite ver la vía y hacer visible el vehículo sin deslumbrar.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -627,14 +665,15 @@
       "title": "TPMS",
       "type": "infografia",
       "placement": "bloque-39",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 39,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: TPMS advierte una presión anómala o pérdida según el sistema y sus umbrales.",
+      "description": "TPMS advierte una presión anómala o pérdida según el sistema y sus umbrales.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -643,14 +682,15 @@
       "title": "Mantenimiento como seguridad activa",
       "type": "ilustracion_simple",
       "placement": "bloque-40",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 40,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El mantenimiento conserva prestaciones de neumáticos, frenos, dirección, suspensión y luces.",
+      "description": "El mantenimiento conserva prestaciones de neumáticos, frenos, dirección, suspensión y luces.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -659,14 +699,15 @@
       "title": "Calendario escalonado del GSR",
       "type": "infografia",
       "placement": "bloque-41",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 41,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El Reglamento 2019/2144 implanta requisitos por fases y distingue homologaciones nuevas de todos los vehículos nuevos.",
+      "description": "El Reglamento 2019/2144 implanta requisitos por fases y distingue homologaciones nuevas de todos los vehículos nuevos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -675,14 +716,15 @@
       "title": "Aviso de colisión frontal",
       "type": "infografia",
       "placement": "bloque-42",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 42,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: FCW estima riesgo de colisión frontal y emite una advertencia para provocar reacción del conductor.",
+      "description": "FCW estima riesgo de colisión frontal y emite una advertencia para provocar reacción del conductor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -691,14 +733,15 @@
       "title": "Frenada autónoma de emergencia",
       "type": "infografia",
       "placement": "bloque-43",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 43,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: AEB detecta una situación de emergencia y puede activar frenos para evitar o mitigar la colisión.",
+      "description": "AEB detecta una situación de emergencia y puede activar frenos para evitar o mitigar la colisión.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -707,14 +750,15 @@
       "title": "Aviso y mantenimiento de carril",
       "type": "infografia",
       "placement": "bloque-44",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 44,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: LDW avisa de una salida involuntaria de carril detectada.",
+      "description": "LDW avisa de una salida involuntaria de carril detectada.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -723,14 +767,15 @@
       "title": "ISA",
       "type": "ilustracion_simple",
       "placement": "bloque-45",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 45,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ISA ayuda a conocer y respetar el límite de velocidad mediante información, aviso o asistencia según diseño.",
+      "description": "ISA ayuda a conocer y respetar el límite de velocidad mediante información, aviso o asistencia según diseño.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -739,14 +784,15 @@
       "title": "ACC",
       "type": "infografia",
       "placement": "bloque-46",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 46,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ACC adapta velocidad para mantener una separación programada respecto de un vehículo detectado.",
+      "description": "ACC adapta velocidad para mantener una separación programada respecto de un vehículo detectado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -755,14 +801,15 @@
       "title": "Ángulo muerto y tráfico cruzado",
       "type": "infografia",
       "placement": "bloque-47",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 47,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: BSM vigila zonas laterales difíciles de ver y advierte de usuarios presentes.",
+      "description": "BSM vigila zonas laterales difíciles de ver y advierte de usuarios presentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -771,14 +818,15 @@
       "title": "Somnolencia y distracción",
       "type": "infografia",
       "placement": "bloque-48",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 48,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los sistemas de somnolencia o distracción analizan indicios y avisan cuando detectan pérdida de atención.",
+      "description": "Los sistemas de somnolencia o distracción analizan indicios y avisan cuando detectan pérdida de atención.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -787,14 +835,15 @@
       "title": "Detector de marcha atrás",
       "type": "infografia",
       "placement": "bloque-49",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 49,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El detector de marcha atrás advierte de personas u objetos en la zona posterior al retroceder.",
+      "description": "El detector de marcha atrás advierte de personas u objetos en la zona posterior al retroceder.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -803,14 +852,15 @@
       "title": "EDR y llamada de emergencia",
       "type": "ilustracion_simple",
       "placement": "bloque-50",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 50,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: EDR registra determinados parámetros asociados a un incidente para análisis y no actúa como freno o dirección.",
+      "description": "EDR registra determinados parámetros asociados a un incidente para análisis y no actúa como freno o dirección.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -819,14 +869,15 @@
       "title": "Vulnerabilidad específica de la motocicleta",
       "type": "infografia",
       "placement": "bloque-51",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 51,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La motocicleta ofrece menor protección estructural y exige combinar estabilidad, evitación y equipamiento personal.",
+      "description": "La motocicleta ofrece menor protección estructural y exige combinar estabilidad, evitación y equipamiento personal.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -835,14 +886,15 @@
       "title": "Neumáticos de motocicleta",
       "type": "infografia",
       "placement": "bloque-52",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 52,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los neumáticos sostienen inclinación, guiado, frenada y tracción mediante una huella reducida.",
+      "description": "Los neumáticos sostienen inclinación, guiado, frenada y tracción mediante una huella reducida.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -851,14 +903,15 @@
       "title": "Frenado combinado y reparto",
       "type": "infografia",
       "placement": "bloque-53",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 53,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: CBS distribuye o combina la acción de frenado entre ruedas según el diseño.",
+      "description": "CBS distribuye o combina la acción de frenado entre ruedas según el diseño.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -867,14 +920,15 @@
       "title": "ABS en motocicleta",
       "type": "infografia",
       "placement": "bloque-54",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 54,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: ABS de motocicleta reduce el riesgo de bloqueo durante frenada y puede ayudar a conservar estabilidad.",
+      "description": "ABS de motocicleta reduce el riesgo de bloqueo durante frenada y puede ayudar a conservar estabilidad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -883,14 +937,15 @@
       "title": "ABS en curva e IMU",
       "type": "ilustracion_simple",
       "placement": "bloque-55",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 55,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los sistemas avanzados pueden usar una unidad inercial para adaptar frenado a inclinación y dinámica.",
+      "description": "Los sistemas avanzados pueden usar una unidad inercial para adaptar frenado a inclinación y dinámica.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -899,14 +954,15 @@
       "title": "Control de tracción en motocicleta",
       "type": "infografia",
       "placement": "bloque-56",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 56,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El control de tracción reduce patinamiento excesivo de la rueda motriz durante aceleración.",
+      "description": "El control de tracción reduce patinamiento excesivo de la rueda motriz durante aceleración.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -915,14 +971,15 @@
       "title": "Casco homologado y ajuste",
       "type": "infografia",
       "placement": "bloque-57",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 57,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El casco homologado es el elemento pasivo esencial del motorista y debe llevarse correctamente abrochado.",
+      "description": "El casco homologado es el elemento pasivo esencial del motorista y debe llevarse correctamente abrochado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -931,14 +988,15 @@
       "title": "Ropa, guantes, botas y protecciones",
       "type": "infografia",
       "placement": "bloque-58",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 58,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La equipación reduce abrasión, cortes y cargas sobre articulaciones, aunque no evita todo daño.",
+      "description": "La equipación reduce abrasión, cortes y cargas sobre articulaciones, aunque no evita todo daño.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -947,14 +1005,15 @@
       "title": "Airbag de motorista",
       "type": "infografia",
       "placement": "bloque-59",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 59,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El airbag de motorista despliega protección corporal al detectar condiciones previstas por su diseño.",
+      "description": "El airbag de motorista despliega protección corporal al detectar condiciones previstas por su diseño.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -963,14 +1022,15 @@
       "title": "Conducción con pasajero y carga",
       "type": "ilustracion_simple",
       "placement": "bloque-60",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 60,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El pasajero y la carga modifican masa, centro de gravedad, frenada y respuesta de la motocicleta.",
+      "description": "El pasajero y la carga modifican masa, centro de gravedad, frenada y respuesta de la motocicleta.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -979,14 +1039,15 @@
       "title": "Cadena del siniestro",
       "type": "infografia",
       "placement": "bloque-61",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 61,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La seguridad puede actuar reduciendo exposición, evitando conflicto, mitigando impacto o facilitando asistencia.",
+      "description": "La seguridad puede actuar reduciendo exposición, evitando conflicto, mitigando impacto o facilitando asistencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -995,14 +1056,15 @@
       "title": "Probabilidad frente a severidad",
       "type": "infografia",
       "placement": "bloque-62",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 62,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La frecuencia de siniestros y la gravedad de lesiones son resultados diferentes.",
+      "description": "La frecuencia de siniestros y la gravedad de lesiones son resultados diferentes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1011,14 +1073,15 @@
       "title": "Efectividad combinada",
       "type": "infografia",
       "placement": "bloque-63",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 63,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La combinación de sistemas puede producir efectos solapados o complementarios.",
+      "description": "La combinación de sistemas puede producir efectos solapados o complementarios.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1027,14 +1090,15 @@
       "title": "Compensación del riesgo",
       "type": "infografia",
       "placement": "bloque-64",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 64,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La sensación de protección puede inducir a algunas personas a asumir más riesgo.",
+      "description": "La sensación de protección puede inducir a algunas personas a asumir más riesgo.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1043,14 +1107,15 @@
       "title": "Uso real y tasa de activación",
       "type": "ilustracion_simple",
       "placement": "bloque-65",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 65,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Un sistema solo aporta su beneficio potencial cuando está disponible, operativo y correctamente utilizado.",
+      "description": "Un sistema solo aporta su beneficio potencial cuando está disponible, operativo y correctamente utilizado.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1059,14 +1124,15 @@
       "title": "Siniestros evitables y no cubiertos",
       "type": "infografia",
       "placement": "bloque-66",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 66,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Cada sistema tiene un dominio de diseño con tipos de peligro, velocidades y condiciones cubiertas.",
+      "description": "Cada sistema tiene un dominio de diseño con tipos de peligro, velocidades y condiciones cubiertas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1075,14 +1141,15 @@
       "title": "Compatibilidad entre ocupante y retención",
       "type": "infografia",
       "placement": "bloque-67",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 67,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La protección varía con talla, edad, posición y compatibilidad del sistema de retención.",
+      "description": "La protección varía con talla, edad, posición y compatibilidad del sistema de retención.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1091,14 +1158,15 @@
       "title": "Mantenimiento y siniestralidad",
       "type": "infografia",
       "placement": "bloque-68",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 68,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Neumáticos, frenos, alumbrado y suspensión degradados reducen márgenes antes del siniestro.",
+      "description": "Neumáticos, frenos, alumbrado y suspensión degradados reducen márgenes antes del siniestro.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1107,14 +1175,15 @@
       "title": "Datos, EDR y atribución",
       "type": "infografia",
       "placement": "bloque-69",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 69,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los datos de un registrador ayudan a reconstruir parámetros, pero requieren interpretación contextual.",
+      "description": "Los datos de un registrador ayudan a reconstruir parámetros, pero requieren interpretación contextual.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1123,14 +1192,15 @@
       "title": "Jerarquía preventiva",
       "type": "ilustracion_simple",
       "placement": "bloque-70",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 70,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La prevención eficaz combina comportamiento, vehículo seguro, vía y respuesta de emergencia.",
+      "description": "La prevención eficaz combina comportamiento, vehículo seguro, vía y respuesta de emergencia.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1139,14 +1209,15 @@
       "title": "Conducción policial convencional y urgente",
       "type": "infografia",
       "placement": "bloque-71",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 71,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El patrullaje ordinario se rige por normas comunes; el servicio urgente añade facultades y riesgos específicos.",
+      "description": "El patrullaje ordinario se rige por normas comunes; el servicio urgente añade facultades y riesgos específicos.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1155,14 +1226,15 @@
       "title": "Cinturón en servicios de urgencia",
       "type": "infografia",
       "placement": "bloque-72",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 72,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La regla general obliga a conductor y ocupantes a usar cinturones homologados en vías urbanas e interurbanas.",
+      "description": "La regla general obliga a conductor y ocupantes a usar cinturones homologados en vías urbanas e interurbanas.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1171,14 +1243,15 @@
       "title": "Distribución de tareas en el vehículo policial",
       "type": "infografia",
       "placement": "bloque-73",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 73,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El conductor debe priorizar control del vehículo y percepción del entorno.",
+      "description": "El conductor debe priorizar control del vehículo y percepción del entorno.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1187,14 +1260,15 @@
       "title": "Traslado digno y seguro",
       "type": "infografia",
       "placement": "bloque-74",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 74,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los desplazamientos de detenidos, presos y penados deben respetar dignidad y derechos y garantizar seguridad.",
+      "description": "Los desplazamientos de detenidos, presos y penados deben respetar dignidad y derechos y garantizar seguridad.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1203,14 +1277,15 @@
       "title": "Ámbito temporal de la Orden INT/2573/2015",
       "type": "ilustracion_simple",
       "placement": "bloque-75",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 75,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La Orden fija condiciones mínimas para vehículos de las FCSE adquiridos desde su entrada en vigor.",
+      "description": "La Orden fija condiciones mínimas para vehículos de las FCSE adquiridos desde su entrada en vigor.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1219,14 +1294,15 @@
       "title": "Vehículos de hasta nueve plazas",
       "type": "infografia",
       "placement": "bloque-76",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 76,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El anexo I regula vehículos celulares de hasta nueve plazas, incluido conductor y escolta, y los encuadra en M1.",
+      "description": "El anexo I regula vehículos celulares de hasta nueve plazas, incluido conductor y escolta, y los encuadra en M1.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1235,14 +1311,15 @@
       "title": "Habitabilidad y alumbrado",
       "type": "infografia",
       "placement": "bloque-77",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 77,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: Los habitáculos deben mantenerse aproximadamente entre 18 y 28 grados mediante climatización.",
+      "description": "Los habitáculos deben mantenerse aproximadamente entre 18 y 28 grados mediante climatización.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1251,14 +1328,15 @@
       "title": "Compartimento, asientos y retención",
       "type": "infografia",
       "placement": "bloque-78",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 78,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El compartimento se separa mediante estructura antivandálica transparente u opaca con ventana no practicable.",
+      "description": "El compartimento se separa mediante estructura antivandálica transparente u opaca con ventana no practicable.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1267,14 +1345,15 @@
       "title": "Vigilancia, salidas y extintor",
       "type": "infografia",
       "placement": "bloque-79",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 79,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: La vigilancia electrónica permite observar el habitáculo mediante cámaras y pantallas y graba las imágenes.",
+      "description": "La vigilancia electrónica permite observar el habitáculo mediante cámaras y pantallas y graba las imágenes.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     },
     {
@@ -1283,1297 +1362,17 @@
       "title": "Vehículos de más de nueve plazas",
       "type": "ilustracion_simple",
       "placement": "bloque-80",
-      "status": "planned",
+      "status": "integrated_webp",
       "block": 80,
       "documents": [
-        "master"
+        "parte",
+        "atestado"
       ],
-      "description": "Referencia visual pendiente: El anexo II regula vehículos de más de nueve plazas y los encuadra en categorías M2 y M3.",
+      "description": "El anexo II regula vehículos de más de nueve plazas y los encuadra en categorías M2 y M3.",
       "source_content_version": "1.0.0",
-      "required_format": "WEBP",
+      "required_format": "webp",
       "max_bytes": 260000
     }
   ],
-  "planned_resources": [
-    {
-      "id": "T44-V01",
-      "file": "t44-01-alcance-oficial-y-metodo-del-tema-44.webp",
-      "title": "Alcance oficial y método del Tema 44",
-      "type": "infografia",
-      "placement": "bloque-01",
-      "status": "planned",
-      "block": 1,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El programa enlaza conducción prioritaria, seguridad activa y pasiva, turismo, motocicleta, siniestralidad y traslado de detenidos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V02",
-      "file": "t44-02-urgencia-prioridad-y-seguridad.webp",
-      "title": "Urgencia, prioridad y seguridad",
-      "type": "infografia",
-      "placement": "bloque-02",
-      "status": "planned",
-      "block": 2,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El régimen prioritario permite excepciones reglamentarias, pero exige uso ponderado y ausencia de peligro para los demás usuarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V03",
-      "file": "t44-03-conduccion-defensiva-vea.webp",
-      "title": "Conducción defensiva VEA",
-      "type": "infografia",
-      "placement": "bloque-03",
-      "status": "planned",
-      "block": 3,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La conducción defensiva combina visión amplia, espacio de seguridad y anticipación de errores ajenos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V04",
-      "file": "t44-04-dinamica-de-la-velocidad.webp",
-      "title": "Dinámica de la velocidad",
-      "type": "infografia",
-      "placement": "bloque-04",
-      "status": "planned",
-      "block": 4,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Al aumentar la velocidad crecen la distancia recorrida durante la reacción y la energía que debe disiparse.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V05",
-      "file": "t44-il-05-adherencia-y-transferencia-de-masas.webp",
-      "title": "Adherencia y transferencia de masas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-05",
-      "status": "planned",
-      "block": 5,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Frenar, acelerar y girar consumen la capacidad limitada de adherencia disponible en cada neumático.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V06",
-      "file": "t44-06-intersecciones-en-servicio-urgente.webp",
-      "title": "Intersecciones en servicio urgente",
-      "type": "infografia",
-      "placement": "bloque-06",
-      "status": "planned",
-      "block": 6,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La intersección es un punto crítico porque la señal acústica puede dificultar localizar la procedencia exacta del prioritario.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V07",
-      "file": "t44-07-eleccion-de-trayectoria-y-escape.webp",
-      "title": "Elección de trayectoria y escape",
-      "type": "infografia",
-      "placement": "bloque-07",
-      "status": "planned",
-      "block": 7,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La trayectoria segura maximiza visibilidad, estabilidad y posibilidad de escape.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V08",
-      "file": "t44-08-uso-de-senales-y-carga-mental.webp",
-      "title": "Uso de señales y carga mental",
-      "type": "infografia",
-      "placement": "bloque-08",
-      "status": "planned",
-      "block": 8,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Las señales especiales informan de presencia urgente, pero no sustituyen observación ni comunicación táctica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V09",
-      "file": "t44-09-comprobacion-previa-del-vehiculo.webp",
-      "title": "Comprobación previa del vehículo",
-      "type": "infografia",
-      "placement": "bloque-09",
-      "status": "planned",
-      "block": 9,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La revisión previa debe detectar defectos de neumáticos, frenos, alumbrado, señalización, niveles y elementos de retención.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V10",
-      "file": "t44-il-10-despues-de-una-incidencia.webp",
-      "title": "Después de una incidencia",
-      "type": "ilustracion_simple",
-      "placement": "bloque-10",
-      "status": "planned",
-      "block": 10,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Tras una incidencia debe evitarse crear un segundo siniestro mediante posición, señalización y autoprotección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V11",
-      "file": "t44-11-seguridad-activa-o-primaria.webp",
-      "title": "Seguridad activa o primaria",
-      "type": "infografia",
-      "placement": "bloque-11",
-      "status": "planned",
-      "block": 11,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad activa o primaria trata de evitar el siniestro o reducir su probabilidad y gravedad antes del impacto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V12",
-      "file": "t44-12-seguridad-pasiva-o-secundaria.webp",
-      "title": "Seguridad pasiva o secundaria",
-      "type": "infografia",
-      "placement": "bloque-12",
-      "status": "planned",
-      "block": 12,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad pasiva o secundaria busca limitar lesiones cuando el siniestro ya se produce.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V13",
-      "file": "t44-13-seguridad-terciaria.webp",
-      "title": "Seguridad terciaria",
-      "type": "infografia",
-      "placement": "bloque-13",
-      "status": "planned",
-      "block": 13,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad terciaria facilita rescate, aviso y asistencia después del siniestro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V14",
-      "file": "t44-14-seguridad-integrada.webp",
-      "title": "Seguridad integrada",
-      "type": "infografia",
-      "placement": "bloque-14",
-      "status": "planned",
-      "block": 14,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad integrada coordina funciones activas, pasivas y posteriores al impacto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V15",
-      "file": "t44-il-15-sistema-funcion-y-componente.webp",
-      "title": "Sistema, función y componente",
-      "type": "ilustracion_simple",
-      "placement": "bloque-15",
-      "status": "planned",
-      "block": 15,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un sistema combina sensores, lógica, actuadores e interfaz para cumplir una función de seguridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V16",
-      "file": "t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp",
-      "title": "Ayuda a la conducción y responsabilidad",
-      "type": "infografia",
-      "placement": "bloque-16",
-      "status": "planned",
-      "block": 16,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ADAS significa sistema avanzado de ayuda a la conducción, no sustitución general del conductor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V17",
-      "file": "t44-17-sensor-entorno-y-degradacion.webp",
-      "title": "Sensor, entorno y degradación",
-      "type": "infografia",
-      "placement": "bloque-17",
-      "status": "planned",
-      "block": 17,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La eficacia de cámaras, radar y otros sensores depende de visibilidad, limpieza, calibración y condiciones ambientales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V18",
-      "file": "t44-18-mantenimiento-y-calibracion.webp",
-      "title": "Mantenimiento y calibración",
-      "type": "infografia",
-      "placement": "bloque-18",
-      "status": "planned",
-      "block": 18,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La sustitución de parabrisas, sensores, ruedas o elementos de suspensión puede exigir calibración de ayudas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V19",
-      "file": "t44-19-homologacion-y-uso-real.webp",
-      "title": "Homologación y uso real",
-      "type": "infografia",
-      "placement": "bloque-19",
-      "status": "planned",
-      "block": 19,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La homologación verifica requisitos técnicos definidos, no promete ausencia de siniestros.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V20",
-      "file": "t44-il-20-trampa-de-las-cifras-universales.webp",
-      "title": "Trampa de las cifras universales",
-      "type": "ilustracion_simple",
-      "placement": "bloque-20",
-      "status": "planned",
-      "block": 20,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La efectividad se estima comparando escenarios y depende de exposición, parque, uso y definición de resultado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V21",
-      "file": "t44-21-estructura-y-celula-de-supervivencia.webp",
-      "title": "Estructura y célula de supervivencia",
-      "type": "infografia",
-      "placement": "bloque-21",
-      "status": "planned",
-      "block": 21,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La estructura combina zonas de deformación programada con un habitáculo que debe preservar espacio vital.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V22",
-      "file": "t44-22-cinturon-de-tres-puntos.webp",
-      "title": "Cinturón de tres puntos",
-      "type": "infografia",
-      "placement": "bloque-22",
-      "status": "planned",
-      "block": 22,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El cinturón retiene al ocupante, distribuye cargas y reduce impactos contra interior o expulsión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V23",
-      "file": "t44-23-pretensor-y-limitador-de-carga.webp",
-      "title": "Pretensor y limitador de carga",
-      "type": "infografia",
-      "placement": "bloque-23",
-      "status": "planned",
-      "block": 23,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El pretensor reduce rápidamente la holgura del cinturón al iniciarse un choque relevante.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V24",
-      "file": "t44-24-reposacabezas-y-latigazo-cervical.webp",
-      "title": "Reposacabezas y latigazo cervical",
-      "type": "infografia",
-      "placement": "bloque-24",
-      "status": "planned",
-      "block": 24,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El reposacabezas limita el desplazamiento relativo de la cabeza respecto del tronco en un alcance.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V25",
-      "file": "t44-il-25-airbag-como-complemento.webp",
-      "title": "Airbag como complemento",
-      "type": "ilustracion_simple",
-      "placement": "bloque-25",
-      "status": "planned",
-      "block": 25,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El airbag crea una superficie de desaceleración y reduce contacto con elementos duros en colisiones previstas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V26",
-      "file": "t44-26-sistemas-de-retencion-infantil.webp",
-      "title": "Sistemas de retención infantil",
-      "type": "infografia",
-      "placement": "bloque-26",
-      "status": "planned",
-      "block": 26,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los menores de estatura igual o inferior a 135 centímetros deben usar sistemas homologados adecuados a sus características.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V27",
-      "file": "t44-27-asientos-y-anclajes.webp",
-      "title": "Asientos y anclajes",
-      "type": "infografia",
-      "placement": "bloque-27",
-      "status": "planned",
-      "block": 27,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El asiento y sus anclajes deben soportar cargas y mantener al ocupante en posición compatible con la retención.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V28",
-      "file": "t44-28-cristales-y-parabrisas.webp",
-      "title": "Cristales y parabrisas",
-      "type": "infografia",
-      "placement": "bloque-28",
-      "status": "planned",
-      "block": 28,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El parabrisas laminado contribuye a visibilidad, retención de fragmentos y comportamiento estructural.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V29",
-      "file": "t44-29-columna-de-direccion-y-pedales.webp",
-      "title": "Columna de dirección y pedales",
-      "type": "infografia",
-      "placement": "bloque-29",
-      "status": "planned",
-      "block": 29,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los diseños colapsables y de desacoplamiento buscan reducir lesiones por intrusión durante el impacto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V30",
-      "file": "t44-il-30-proteccion-de-usuarios-vulnerables.webp",
-      "title": "Protección de usuarios vulnerables",
-      "type": "ilustracion_simple",
-      "placement": "bloque-30",
-      "status": "planned",
-      "block": 30,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad pasiva también puede reducir lesiones de peatones o ciclistas en un impacto.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V31",
-      "file": "t44-31-neumatico-como-unico-contacto.webp",
-      "title": "Neumático como único contacto",
-      "type": "infografia",
-      "placement": "bloque-31",
-      "status": "planned",
-      "block": 31,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El neumático transmite frenado, guiado y aceleración entre vehículo y calzada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V32",
-      "file": "t44-32-sistema-de-frenado-y-reparto.webp",
-      "title": "Sistema de frenado y reparto",
-      "type": "infografia",
-      "placement": "bloque-32",
-      "status": "planned",
-      "block": 32,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El freno transforma energía cinética principalmente en calor para reducir velocidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V33",
-      "file": "t44-33-abs.webp",
-      "title": "ABS",
-      "type": "infografia",
-      "placement": "bloque-33",
-      "status": "planned",
-      "block": 33,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ABS modula la presión para evitar bloqueo sostenido de ruedas durante una frenada intensa.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V34",
-      "file": "t44-34-asistencia-a-la-frenada.webp",
-      "title": "Asistencia a la frenada",
-      "type": "infografia",
-      "placement": "bloque-34",
-      "status": "planned",
-      "block": 34,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La asistencia de frenado reconoce una solicitud urgente y ayuda a alcanzar presión suficiente.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V35",
-      "file": "t44-il-35-control-electronico-de-estabilidad.webp",
-      "title": "Control electrónico de estabilidad",
-      "type": "ilustracion_simple",
-      "placement": "bloque-35",
-      "status": "planned",
-      "block": 35,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ESC compara trayectoria pretendida y movimiento real para ayudar a corregir pérdida de estabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V36",
-      "file": "t44-36-control-de-traccion.webp",
-      "title": "Control de tracción",
-      "type": "infografia",
-      "placement": "bloque-36",
-      "status": "planned",
-      "block": 36,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El control de tracción limita el patinamiento excesivo de ruedas motrices.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V37",
-      "file": "t44-37-direccion-y-suspension.webp",
-      "title": "Dirección y suspensión",
-      "type": "infografia",
-      "placement": "bloque-37",
-      "status": "planned",
-      "block": 37,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La dirección permite orientar el vehículo y la suspensión ayuda a mantener contacto y controlar movimientos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V38",
-      "file": "t44-38-alumbrado-y-visibilidad.webp",
-      "title": "Alumbrado y visibilidad",
-      "type": "infografia",
-      "placement": "bloque-38",
-      "status": "planned",
-      "block": 38,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El alumbrado permite ver la vía y hacer visible el vehículo sin deslumbrar.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V39",
-      "file": "t44-39-tpms.webp",
-      "title": "TPMS",
-      "type": "infografia",
-      "placement": "bloque-39",
-      "status": "planned",
-      "block": 39,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: TPMS advierte una presión anómala o pérdida según el sistema y sus umbrales.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V40",
-      "file": "t44-il-40-mantenimiento-como-seguridad-activa.webp",
-      "title": "Mantenimiento como seguridad activa",
-      "type": "ilustracion_simple",
-      "placement": "bloque-40",
-      "status": "planned",
-      "block": 40,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El mantenimiento conserva prestaciones de neumáticos, frenos, dirección, suspensión y luces.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V41",
-      "file": "t44-41-calendario-escalonado-del-gsr.webp",
-      "title": "Calendario escalonado del GSR",
-      "type": "infografia",
-      "placement": "bloque-41",
-      "status": "planned",
-      "block": 41,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El Reglamento 2019/2144 implanta requisitos por fases y distingue homologaciones nuevas de todos los vehículos nuevos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V42",
-      "file": "t44-42-aviso-de-colision-frontal.webp",
-      "title": "Aviso de colisión frontal",
-      "type": "infografia",
-      "placement": "bloque-42",
-      "status": "planned",
-      "block": 42,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: FCW estima riesgo de colisión frontal y emite una advertencia para provocar reacción del conductor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V43",
-      "file": "t44-43-frenada-autonoma-de-emergencia.webp",
-      "title": "Frenada autónoma de emergencia",
-      "type": "infografia",
-      "placement": "bloque-43",
-      "status": "planned",
-      "block": 43,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: AEB detecta una situación de emergencia y puede activar frenos para evitar o mitigar la colisión.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V44",
-      "file": "t44-44-aviso-y-mantenimiento-de-carril.webp",
-      "title": "Aviso y mantenimiento de carril",
-      "type": "infografia",
-      "placement": "bloque-44",
-      "status": "planned",
-      "block": 44,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: LDW avisa de una salida involuntaria de carril detectada.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V45",
-      "file": "t44-il-45-isa.webp",
-      "title": "ISA",
-      "type": "ilustracion_simple",
-      "placement": "bloque-45",
-      "status": "planned",
-      "block": 45,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ISA ayuda a conocer y respetar el límite de velocidad mediante información, aviso o asistencia según diseño.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V46",
-      "file": "t44-46-acc.webp",
-      "title": "ACC",
-      "type": "infografia",
-      "placement": "bloque-46",
-      "status": "planned",
-      "block": 46,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ACC adapta velocidad para mantener una separación programada respecto de un vehículo detectado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V47",
-      "file": "t44-47-angulo-muerto-y-trafico-cruzado.webp",
-      "title": "Ángulo muerto y tráfico cruzado",
-      "type": "infografia",
-      "placement": "bloque-47",
-      "status": "planned",
-      "block": 47,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: BSM vigila zonas laterales difíciles de ver y advierte de usuarios presentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V48",
-      "file": "t44-48-somnolencia-y-distraccion.webp",
-      "title": "Somnolencia y distracción",
-      "type": "infografia",
-      "placement": "bloque-48",
-      "status": "planned",
-      "block": 48,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los sistemas de somnolencia o distracción analizan indicios y avisan cuando detectan pérdida de atención.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V49",
-      "file": "t44-49-detector-de-marcha-atras.webp",
-      "title": "Detector de marcha atrás",
-      "type": "infografia",
-      "placement": "bloque-49",
-      "status": "planned",
-      "block": 49,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El detector de marcha atrás advierte de personas u objetos en la zona posterior al retroceder.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V50",
-      "file": "t44-il-50-edr-y-llamada-de-emergencia.webp",
-      "title": "EDR y llamada de emergencia",
-      "type": "ilustracion_simple",
-      "placement": "bloque-50",
-      "status": "planned",
-      "block": 50,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: EDR registra determinados parámetros asociados a un incidente para análisis y no actúa como freno o dirección.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V51",
-      "file": "t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp",
-      "title": "Vulnerabilidad específica de la motocicleta",
-      "type": "infografia",
-      "placement": "bloque-51",
-      "status": "planned",
-      "block": 51,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La motocicleta ofrece menor protección estructural y exige combinar estabilidad, evitación y equipamiento personal.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V52",
-      "file": "t44-52-neumaticos-de-motocicleta.webp",
-      "title": "Neumáticos de motocicleta",
-      "type": "infografia",
-      "placement": "bloque-52",
-      "status": "planned",
-      "block": 52,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los neumáticos sostienen inclinación, guiado, frenada y tracción mediante una huella reducida.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V53",
-      "file": "t44-53-frenado-combinado-y-reparto.webp",
-      "title": "Frenado combinado y reparto",
-      "type": "infografia",
-      "placement": "bloque-53",
-      "status": "planned",
-      "block": 53,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: CBS distribuye o combina la acción de frenado entre ruedas según el diseño.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V54",
-      "file": "t44-54-abs-en-motocicleta.webp",
-      "title": "ABS en motocicleta",
-      "type": "infografia",
-      "placement": "bloque-54",
-      "status": "planned",
-      "block": 54,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: ABS de motocicleta reduce el riesgo de bloqueo durante frenada y puede ayudar a conservar estabilidad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V55",
-      "file": "t44-il-55-abs-en-curva-e-imu.webp",
-      "title": "ABS en curva e IMU",
-      "type": "ilustracion_simple",
-      "placement": "bloque-55",
-      "status": "planned",
-      "block": 55,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los sistemas avanzados pueden usar una unidad inercial para adaptar frenado a inclinación y dinámica.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V56",
-      "file": "t44-56-control-de-traccion-en-motocicleta.webp",
-      "title": "Control de tracción en motocicleta",
-      "type": "infografia",
-      "placement": "bloque-56",
-      "status": "planned",
-      "block": 56,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El control de tracción reduce patinamiento excesivo de la rueda motriz durante aceleración.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V57",
-      "file": "t44-57-casco-homologado-y-ajuste.webp",
-      "title": "Casco homologado y ajuste",
-      "type": "infografia",
-      "placement": "bloque-57",
-      "status": "planned",
-      "block": 57,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El casco homologado es el elemento pasivo esencial del motorista y debe llevarse correctamente abrochado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V58",
-      "file": "t44-58-ropa-guantes-botas-y-protecciones.webp",
-      "title": "Ropa, guantes, botas y protecciones",
-      "type": "infografia",
-      "placement": "bloque-58",
-      "status": "planned",
-      "block": 58,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La equipación reduce abrasión, cortes y cargas sobre articulaciones, aunque no evita todo daño.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V59",
-      "file": "t44-59-airbag-de-motorista.webp",
-      "title": "Airbag de motorista",
-      "type": "infografia",
-      "placement": "bloque-59",
-      "status": "planned",
-      "block": 59,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El airbag de motorista despliega protección corporal al detectar condiciones previstas por su diseño.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V60",
-      "file": "t44-il-60-conduccion-con-pasajero-y-carga.webp",
-      "title": "Conducción con pasajero y carga",
-      "type": "ilustracion_simple",
-      "placement": "bloque-60",
-      "status": "planned",
-      "block": 60,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El pasajero y la carga modifican masa, centro de gravedad, frenada y respuesta de la motocicleta.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V61",
-      "file": "t44-61-cadena-del-siniestro.webp",
-      "title": "Cadena del siniestro",
-      "type": "infografia",
-      "placement": "bloque-61",
-      "status": "planned",
-      "block": 61,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La seguridad puede actuar reduciendo exposición, evitando conflicto, mitigando impacto o facilitando asistencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V62",
-      "file": "t44-62-probabilidad-frente-a-severidad.webp",
-      "title": "Probabilidad frente a severidad",
-      "type": "infografia",
-      "placement": "bloque-62",
-      "status": "planned",
-      "block": 62,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La frecuencia de siniestros y la gravedad de lesiones son resultados diferentes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V63",
-      "file": "t44-63-efectividad-combinada.webp",
-      "title": "Efectividad combinada",
-      "type": "infografia",
-      "placement": "bloque-63",
-      "status": "planned",
-      "block": 63,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La combinación de sistemas puede producir efectos solapados o complementarios.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V64",
-      "file": "t44-64-compensacion-del-riesgo.webp",
-      "title": "Compensación del riesgo",
-      "type": "infografia",
-      "placement": "bloque-64",
-      "status": "planned",
-      "block": 64,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La sensación de protección puede inducir a algunas personas a asumir más riesgo.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V65",
-      "file": "t44-il-65-uso-real-y-tasa-de-activacion.webp",
-      "title": "Uso real y tasa de activación",
-      "type": "ilustracion_simple",
-      "placement": "bloque-65",
-      "status": "planned",
-      "block": 65,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Un sistema solo aporta su beneficio potencial cuando está disponible, operativo y correctamente utilizado.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V66",
-      "file": "t44-66-siniestros-evitables-y-no-cubiertos.webp",
-      "title": "Siniestros evitables y no cubiertos",
-      "type": "infografia",
-      "placement": "bloque-66",
-      "status": "planned",
-      "block": 66,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Cada sistema tiene un dominio de diseño con tipos de peligro, velocidades y condiciones cubiertas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V67",
-      "file": "t44-67-compatibilidad-entre-ocupante-y-retencion.webp",
-      "title": "Compatibilidad entre ocupante y retención",
-      "type": "infografia",
-      "placement": "bloque-67",
-      "status": "planned",
-      "block": 67,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La protección varía con talla, edad, posición y compatibilidad del sistema de retención.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V68",
-      "file": "t44-68-mantenimiento-y-siniestralidad.webp",
-      "title": "Mantenimiento y siniestralidad",
-      "type": "infografia",
-      "placement": "bloque-68",
-      "status": "planned",
-      "block": 68,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Neumáticos, frenos, alumbrado y suspensión degradados reducen márgenes antes del siniestro.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V69",
-      "file": "t44-69-datos-edr-y-atribucion.webp",
-      "title": "Datos, EDR y atribución",
-      "type": "infografia",
-      "placement": "bloque-69",
-      "status": "planned",
-      "block": 69,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los datos de un registrador ayudan a reconstruir parámetros, pero requieren interpretación contextual.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V70",
-      "file": "t44-il-70-jerarquia-preventiva.webp",
-      "title": "Jerarquía preventiva",
-      "type": "ilustracion_simple",
-      "placement": "bloque-70",
-      "status": "planned",
-      "block": 70,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La prevención eficaz combina comportamiento, vehículo seguro, vía y respuesta de emergencia.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V71",
-      "file": "t44-71-conduccion-policial-convencional-y-urgente.webp",
-      "title": "Conducción policial convencional y urgente",
-      "type": "infografia",
-      "placement": "bloque-71",
-      "status": "planned",
-      "block": 71,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El patrullaje ordinario se rige por normas comunes; el servicio urgente añade facultades y riesgos específicos.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V72",
-      "file": "t44-72-cinturon-en-servicios-de-urgencia.webp",
-      "title": "Cinturón en servicios de urgencia",
-      "type": "infografia",
-      "placement": "bloque-72",
-      "status": "planned",
-      "block": 72,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La regla general obliga a conductor y ocupantes a usar cinturones homologados en vías urbanas e interurbanas.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V73",
-      "file": "t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp",
-      "title": "Distribución de tareas en el vehículo policial",
-      "type": "infografia",
-      "placement": "bloque-73",
-      "status": "planned",
-      "block": 73,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El conductor debe priorizar control del vehículo y percepción del entorno.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V74",
-      "file": "t44-74-traslado-digno-y-seguro.webp",
-      "title": "Traslado digno y seguro",
-      "type": "infografia",
-      "placement": "bloque-74",
-      "status": "planned",
-      "block": 74,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los desplazamientos de detenidos, presos y penados deben respetar dignidad y derechos y garantizar seguridad.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V75",
-      "file": "t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp",
-      "title": "Ámbito temporal de la Orden INT/2573/2015",
-      "type": "ilustracion_simple",
-      "placement": "bloque-75",
-      "status": "planned",
-      "block": 75,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La Orden fija condiciones mínimas para vehículos de las FCSE adquiridos desde su entrada en vigor.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V76",
-      "file": "t44-76-vehiculos-de-hasta-nueve-plazas.webp",
-      "title": "Vehículos de hasta nueve plazas",
-      "type": "infografia",
-      "placement": "bloque-76",
-      "status": "planned",
-      "block": 76,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El anexo I regula vehículos celulares de hasta nueve plazas, incluido conductor y escolta, y los encuadra en M1.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V77",
-      "file": "t44-77-habitabilidad-y-alumbrado.webp",
-      "title": "Habitabilidad y alumbrado",
-      "type": "infografia",
-      "placement": "bloque-77",
-      "status": "planned",
-      "block": 77,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: Los habitáculos deben mantenerse aproximadamente entre 18 y 28 grados mediante climatización.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V78",
-      "file": "t44-78-compartimento-asientos-y-retencion.webp",
-      "title": "Compartimento, asientos y retención",
-      "type": "infografia",
-      "placement": "bloque-78",
-      "status": "planned",
-      "block": 78,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El compartimento se separa mediante estructura antivandálica transparente u opaca con ventana no practicable.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V79",
-      "file": "t44-79-vigilancia-salidas-y-extintor.webp",
-      "title": "Vigilancia, salidas y extintor",
-      "type": "infografia",
-      "placement": "bloque-79",
-      "status": "planned",
-      "block": 79,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: La vigilancia electrónica permite observar el habitáculo mediante cámaras y pantallas y graba las imágenes.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    },
-    {
-      "id": "T44-V80",
-      "file": "t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp",
-      "title": "Vehículos de más de nueve plazas",
-      "type": "ilustracion_simple",
-      "placement": "bloque-80",
-      "status": "planned",
-      "block": 80,
-      "documents": [
-        "master"
-      ],
-      "description": "Referencia visual pendiente: El anexo II regula vehículos de más de nueve plazas y los encuadra en categorías M2 y M3.",
-      "source_content_version": "1.0.0",
-      "required_format": "WEBP",
-      "max_bytes": 260000
-    }
-  ]
+  "planned_resources": []
 }

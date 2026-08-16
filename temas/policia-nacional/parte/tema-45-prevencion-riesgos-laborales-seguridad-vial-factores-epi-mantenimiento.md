@@ -19,7 +19,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La prevención se estudia por peligro, exposición, riesgo, medida y verificación de eficacia.
 - Las reglas internas no publicadas no deben convertirse en normas generales sin trazabilidad suficiente.
 
-<!-- VISUAL PENDIENTE: t45-01-alcance-oficial-y-metodo-del-tema-45.webp -->
+<!-- VISUAL:t45-01-alcance-oficial-y-metodo-del-tema-45.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-01-alcance-oficial-y-metodo-del-tema-45.webp" alt="Alcance oficial y método del Tema 45" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y método del Tema 45.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T45 -->
 
@@ -32,7 +36,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las actividades exclusivas no quedan sin protección, sino sometidas a un régimen adaptado a sus particularidades.
 - La conducción policial debe integrarse en el sistema preventivo aunque pueda presentar exigencias operativas especiales.
 
-<!-- VISUAL PENDIENTE: t45-02-ambito-preventivo-en-la-actividad-policial.webp -->
+<!-- VISUAL:t45-02-ambito-preventivo-en-la-actividad-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-02-ambito-preventivo-en-la-actividad-policial.webp" alt="Ámbito preventivo en la actividad policial" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito preventivo en la actividad policial.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -45,7 +53,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La evaluación inicial atiende a actividad, puestos y características de quienes los desempeñan.
 - La conducción no se trata como un riesgo separado de la organización del servicio.
 
-<!-- VISUAL PENDIENTE: t45-03-integracion-de-la-prevencion.webp -->
+<!-- VISUAL:t45-03-integracion-de-la-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-03-integracion-de-la-prevencion.webp" alt="Integración de la prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Integración de la prevención.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -58,7 +70,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La acción preventiva combate el riesgo en su origen y adapta el trabajo a la persona.
 - La protección colectiva se antepone a la individual dentro de la jerarquía preventiva.
 
-<!-- VISUAL PENDIENTE: t45-04-principios-de-accion-preventiva.webp -->
+<!-- VISUAL:t45-04-principios-de-accion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-04-principios-de-accion-preventiva.webp" alt="Principios de acción preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de acción preventiva.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -71,7 +87,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un peligro es una fuente con capacidad de causar daño, mientras el riesgo incorpora exposición y condiciones.
 - El daño puede ser lesión, enfermedad o patología sufrida con motivo u ocasión del trabajo.
 
-<!-- VISUAL PENDIENTE: t45-il-05-peligro-riesgo-y-dano.webp -->
+<!-- VISUAL:t45-il-05-peligro-riesgo-y-dano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-05-peligro-riesgo-y-dano.webp" alt="Peligro, riesgo y daño" width="820">
+</p>
+<p align="center"><em>Infografía: Peligro, riesgo y daño.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -84,7 +104,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La formación se adapta a cambios de funciones, tecnologías o equipos y se repite si es necesario.
 - Una firma de recepción no demuestra por sí sola competencia práctica para conducción exigente.
 
-<!-- VISUAL PENDIENTE: t45-06-informacion-y-formacion.webp -->
+<!-- VISUAL:t45-06-informacion-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-06-informacion-y-formacion.webp" alt="Información y formación" width="820">
+</p>
+<p align="center"><em>Infografía: Información y formación.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -97,7 +121,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los defectos o situaciones de riesgo se comunican de inmediato por el cauce establecido.
 - La obligación individual no desplaza las responsabilidades organizativas de prevención.
 
-<!-- VISUAL PENDIENTE: t45-07-obligaciones-de-los-funcionarios.webp -->
+<!-- VISUAL:t45-07-obligaciones-de-los-funcionarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-07-obligaciones-de-los-funcionarios.webp" alt="Obligaciones de los funcionarios" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de los funcionarios.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -110,7 +138,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los resultados y daños obligan a revisar la adecuación de la actividad preventiva.
 - La seguridad vial laboral exige indicadores de exposición y no solo recuentos absolutos de accidentes.
 
-<!-- VISUAL PENDIENTE: t45-08-planificacion-de-la-actividad-preventiva.webp -->
+<!-- VISUAL:t45-08-planificacion-de-la-actividad-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-08-planificacion-de-la-actividad-preventiva.webp" alt="Planificación de la actividad preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de la actividad preventiva.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -123,7 +155,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las conclusiones preventivas sobre aptitud se separan del acceso indiscriminado a datos clínicos.
 - Una limitación relevante para conducir debe gestionarse sin convertirla en diagnóstico público.
 
-<!-- VISUAL PENDIENTE: t45-09-vigilancia-de-la-salud-y-aptitud.webp -->
+<!-- VISUAL:t45-09-vigilancia-de-la-salud-y-aptitud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-09-vigilancia-de-la-salud-y-aptitud.webp" alt="Vigilancia de la salud y aptitud" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud y aptitud.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -136,7 +172,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La tolerancia humana al impacto limita la velocidad segura del sistema.
 - La prevención eficaz combina capas porque ninguna medida aislada elimina todos los fallos.
 
-<!-- VISUAL PENDIENTE: t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp -->
+<!-- VISUAL:t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp" alt="Sistema Seguro y responsabilidad compartida" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema Seguro y responsabilidad compartida.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -149,7 +189,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La relación con el trabajo debe analizarse y no presumirse solo porque intervenga un vehículo.
 - La calificación de Seguridad Social y la investigación preventiva cumplen funciones distintas.
 
-<!-- VISUAL PENDIENTE: t45-11-accidente-de-trabajo-y-lesion.webp -->
+<!-- VISUAL:t45-11-accidente-de-trabajo-y-lesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-11-accidente-de-trabajo-y-lesion.webp" alt="Accidente de trabajo y lesión" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente de trabajo y lesión.</em></p>
 
 <!-- FUENTE: BOE-LGSS-T45 -->
 
@@ -162,7 +206,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Desvíos o interrupciones deben valorarse por su entidad y finalidad, no mediante una frase automática.
 - In itinere no significa que todo el tiempo fuera del centro quede cubierto.
 
-<!-- VISUAL PENDIENTE: t45-12-accidente-in-itinere.webp -->
+<!-- VISUAL:t45-12-accidente-in-itinere.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-12-accidente-in-itinere.webp" alt="Accidente in itinere" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente in itinere.</em></p>
 
 <!-- FUENTE: BOE-LGSS-T45 -->
 
@@ -175,7 +223,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La conexión causal se analiza respecto de la actividad encomendada y sus circunstancias.
 - No debe confundirse misión con el trayecto ordinario entre domicilio y centro de trabajo.
 
-<!-- VISUAL PENDIENTE: t45-13-accidente-en-mision.webp -->
+<!-- VISUAL:t45-13-accidente-en-mision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-13-accidente-en-mision.webp" alt="Accidente en misión" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente en misión.</em></p>
 
 <!-- FUENTE: INSST-NTP1090-T45 -->
 
@@ -188,7 +240,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La exposición incluye a conductores, pasajeros y personas que trabajan en la vía.
 - Reducir desplazamientos innecesarios es una medida preventiva en origen.
 
-<!-- VISUAL PENDIENTE: t45-14-exposicion-al-riesgo-vial.webp -->
+<!-- VISUAL:t45-14-exposicion-al-riesgo-vial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-14-exposicion-al-riesgo-vial.webp" alt="Exposición al riesgo vial" width="820">
+</p>
+<p align="center"><em>Infografía: Exposición al riesgo vial.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -201,7 +257,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los porcentajes anuales describen una población y un periodo concretos.
 - Una tendencia necesita series comparables y definiciones estables.
 
-<!-- VISUAL PENDIENTE: t45-il-15-frecuencia-incidencia-y-gravedad.webp -->
+<!-- VISUAL:t45-il-15-frecuencia-incidencia-y-gravedad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-15-frecuencia-incidencia-y-gravedad.webp" alt="Frecuencia, incidencia y gravedad" width="820">
+</p>
+<p align="center"><em>Infografía: Frecuencia, incidencia y gravedad.</em></p>
 
 <!-- FUENTE: INSST-ALT2024-T45 -->
 
@@ -214,7 +274,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Cambiar la definición rompe la comparación directa entre series.
 - El dato administrativo no sustituye el análisis causal del siniestro.
 
-<!-- VISUAL PENDIENTE: t45-16-accidente-con-victimas-y-clasificacion.webp -->
+<!-- VISUAL:t45-16-accidente-con-victimas-y-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-16-accidente-con-victimas-y-clasificacion.webp" alt="Accidente con víctimas y clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente con víctimas y clasificación.</em></p>
 
 <!-- FUENTE: INSST-ALT2024-T45 -->
 
@@ -227,7 +291,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Debe recoger condiciones de persona, tarea, organización, vehículo y entorno.
 - Las causas inmediatas y básicas se distinguen para no detenerse en el último error visible.
 
-<!-- VISUAL PENDIENTE: t45-17-investigacion-preventiva-del-accidente.webp -->
+<!-- VISUAL:t45-17-investigacion-preventiva-del-accidente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-17-investigacion-preventiva-del-accidente.webp" alt="Investigación preventiva del accidente" width="820">
+</p>
+<p align="center"><em>Infografía: Investigación preventiva del accidente.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -240,7 +308,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La fase del impacto procura limitar la transferencia de energía y las lesiones.
 - La fase posterior mejora rescate, atención y recuperación.
 
-<!-- VISUAL PENDIENTE: t45-18-modelo-de-haddon.webp -->
+<!-- VISUAL:t45-18-modelo-de-haddon.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-18-modelo-de-haddon.webp" alt="Modelo de Haddon" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de Haddon.</em></p>
 
 <!-- FUENTE: INSST-NTP1091-T45 -->
 
@@ -253,7 +325,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las medidas se priorizan por riesgo, eficacia y viabilidad sin reducirse a campañas genéricas.
 - El seguimiento utiliza indicadores y revisión para corregir desviaciones.
 
-<!-- VISUAL PENDIENTE: t45-19-plan-de-seguridad-vial-laboral.webp -->
+<!-- VISUAL:t45-19-plan-de-seguridad-vial-laboral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-19-plan-de-seguridad-vial-laboral.webp" alt="Plan de seguridad vial laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de seguridad vial laboral.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -266,7 +342,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La certificación no garantiza ausencia de siniestros.
 - El examen debe diferenciar ISO 39001 de ISO 9001 e ISO 14001.
 
-<!-- VISUAL PENDIENTE: t45-il-20-iso-39001-en-su-sitio-correcto.webp -->
+<!-- VISUAL:t45-il-20-iso-39001-en-su-sitio-correcto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-20-iso-39001-en-su-sitio-correcto.webp" alt="ISO 39001 en su sitio correcto" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 39001 en su sitio correcto.</em></p>
 
 <!-- FUENTE: INSST-NTP1091-T45 -->
 
@@ -279,7 +359,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Diseño, organización y tecnología deben tolerar errores previsibles.
 - La explicación preventiva evita porcentajes universales atribuidos a la persona.
 
-<!-- VISUAL PENDIENTE: t45-21-factor-humano-sin-monocausa.webp -->
+<!-- VISUAL:t45-21-factor-humano-sin-monocausa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-21-factor-humano-sin-monocausa.webp" alt="Factor humano sin monocausa" width="820">
+</p>
+<p align="center"><em>Infografía: Factor humano sin monocausa.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -292,7 +376,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La experiencia mejora patrones, pero también puede consolidar automatismos inseguros.
 - La carga de trabajo excesiva reduce recursos para detectar cambios inesperados.
 
-<!-- VISUAL PENDIENTE: t45-22-percepcion-decision-y-ejecucion.webp -->
+<!-- VISUAL:t45-22-percepcion-decision-y-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-22-percepcion-decision-y-ejecucion.webp" alt="Percepción, decisión y ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: Percepción, decisión y ejecución.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -305,7 +393,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La radio y la navegación requieren gestión de tareas en el vehículo policial.
 - La duración del desvío atencional se traduce en distancia recorrida sin supervisión suficiente.
 
-<!-- VISUAL PENDIENTE: t45-23-atencion-y-distraccion.webp -->
+<!-- VISUAL:t45-23-atencion-y-distraccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-23-atencion-y-distraccion.webp" alt="Atención y distracción" width="820">
+</p>
+<p align="center"><em>Infografía: Atención y distracción.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -318,7 +410,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La monotonía, el trabajo nocturno y el descanso insuficiente elevan el riesgo.
 - Abrir la ventanilla o subir la música no sustituye el descanso.
 
-<!-- VISUAL PENDIENTE: t45-24-fatiga-y-somnolencia.webp -->
+<!-- VISUAL:t45-24-fatiga-y-somnolencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-24-fatiga-y-somnolencia.webp" alt="Fatiga y somnolencia" width="820">
+</p>
+<p align="center"><em>Infografía: Fatiga y somnolencia.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -331,7 +427,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La planificación debe considerar descansos, rotación y recuperación.
 - La tolerancia individual no elimina el riesgo organizativo de horarios exigentes.
 
-<!-- VISUAL PENDIENTE: t45-il-25-ritmos-circadianos-y-turnos.webp -->
+<!-- VISUAL:t45-il-25-ritmos-circadianos-y-turnos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-25-ritmos-circadianos-y-turnos.webp" alt="Ritmos circadianos y turnos" width="820">
+</p>
+<p align="center"><em>Infografía: Ritmos circadianos y turnos.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -344,7 +444,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los conductores de vehículos prioritarios están sujetos al régimen específico aplicable.
 - La urgencia del servicio no autoriza consumo ni conducción bajo influencia.
 
-<!-- VISUAL PENDIENTE: t45-26-alcohol-y-otras-drogas.webp -->
+<!-- VISUAL:t45-26-alcohol-y-otras-drogas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-26-alcohol-y-otras-drogas.webp" alt="Alcohol y otras drogas" width="820">
+</p>
+<p align="center"><em>Infografía: Alcohol y otras drogas.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -357,7 +461,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La persona debe atender indicaciones sanitarias y comunicar limitaciones por cauces protegidos.
 - Un diagnóstico no permite deducir automáticamente idéntica incapacidad en todas las personas.
 
-<!-- VISUAL PENDIENTE: t45-27-medicamentos-y-salud.webp -->
+<!-- VISUAL:t45-27-medicamentos-y-salud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-27-medicamentos-y-salud.webp" alt="Medicamentos y salud" width="820">
+</p>
+<p align="center"><em>Infografía: Medicamentos y salud.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -370,7 +478,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La urgencia operativa exige técnicas que mantengan control y comunicación.
 - Tras un evento crítico puede ser necesaria recuperación antes de seguir conduciendo.
 
-<!-- VISUAL PENDIENTE: t45-28-estres-y-activacion.webp -->
+<!-- VISUAL:t45-28-estres-y-activacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-28-estres-y-activacion.webp" alt="Estrés y activación" width="820">
+</p>
+<p align="center"><em>Infografía: Estrés y activación.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -383,7 +495,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La presión por llegar no cambia los límites físicos.
 - La gestión preventiva actúa también sobre objetivos y tiempos de servicio.
 
-<!-- VISUAL PENDIENTE: t45-29-velocidad-elegida-y-riesgo.webp -->
+<!-- VISUAL:t45-29-velocidad-elegida-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-29-velocidad-elegida-y-riesgo.webp" alt="Velocidad elegida y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Velocidad elegida y riesgo.</em></p>
 
 <!-- FUENTE: BOE-LSV-T45 -->
 
@@ -396,7 +512,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El ajuste incorrecto puede reducir protección o generar lesiones.
 - La normalización del riesgo en trayectos rutinarios favorece omisiones de protección.
 
-<!-- VISUAL PENDIENTE: t45-il-30-cinturon-casco-y-conducta-protectora.webp -->
+<!-- VISUAL:t45-il-30-cinturon-casco-y-conducta-protectora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-30-cinturon-casco-y-conducta-protectora.webp" alt="Cinturón, casco y conducta protectora" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón, casco y conducta protectora.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -409,7 +529,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El entorno puede combinar peligros y reducir simultáneamente percepción y adherencia.
 - La evaluación debe describir escenarios, no limitarse al nombre de la carretera.
 
-<!-- VISUAL PENDIENTE: t45-31-factor-ambiental-amplio.webp -->
+<!-- VISUAL:t45-31-factor-ambiental-amplio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-31-factor-ambiental-amplio.webp" alt="Factor ambiental amplio" width="820">
+</p>
+<p align="center"><em>Infografía: Factor ambiental amplio.</em></p>
 
 <!-- FUENTE: INSST-NTP1090-T45 -->
 
@@ -422,7 +546,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El aquaplaning depende de agua, velocidad, neumático y carga, no de una cifra única.
 - La respuesta preventiva prioriza suavidad, distancia y velocidad adaptada.
 
-<!-- VISUAL PENDIENTE: t45-32-lluvia-y-adherencia.webp -->
+<!-- VISUAL:t45-32-lluvia-y-adherencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-32-lluvia-y-adherencia.webp" alt="Lluvia y adherencia" width="820">
+</p>
+<p align="center"><em>Infografía: Lluvia y adherencia.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -435,7 +563,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La luz inadecuada puede reflejarse y empeorar la visión.
 - Seguir de cerca una luz ajena crea dependencia y reduce margen de reacción.
 
-<!-- VISUAL PENDIENTE: t45-33-niebla-y-campo-visual.webp -->
+<!-- VISUAL:t45-33-niebla-y-campo-visual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-33-niebla-y-campo-visual.webp" alt="Niebla y campo visual" width="820">
+</p>
+<p align="center"><em>Infografía: Niebla y campo visual.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -448,7 +580,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las órdenes de aceleración, frenado y dirección deben ser progresivas.
 - Los sistemas electrónicos asisten, pero no sustituyen el agarre físico.
 
-<!-- VISUAL PENDIENTE: t45-34-nieve-hielo-y-baja-friccion.webp -->
+<!-- VISUAL:t45-34-nieve-hielo-y-baja-friccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-34-nieve-hielo-y-baja-friccion.webp" alt="Nieve, hielo y baja fricción" width="820">
+</p>
+<p align="center"><em>Infografía: Nieve, hielo y baja fricción.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -461,7 +597,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La corrección debe ser anticipada y progresiva.
 - Reducir velocidad aumenta margen frente a ráfagas imprevisibles.
 
-<!-- VISUAL PENDIENTE: t45-il-35-viento-lateral.webp -->
+<!-- VISUAL:t45-il-35-viento-lateral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-35-viento-lateral.webp" alt="Viento lateral" width="820">
+</p>
+<p align="center"><em>Infografía: Viento lateral.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -474,7 +614,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El deslumbramiento obliga a reducir demanda visual y evitar fijar la fuente luminosa.
 - La limpieza de parabrisas y ópticas condiciona visibilidad real.
 
-<!-- VISUAL PENDIENTE: t45-36-iluminacion-y-conduccion-nocturna.webp -->
+<!-- VISUAL:t45-36-iluminacion-y-conduccion-nocturna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-36-iluminacion-y-conduccion-nocturna.webp" alt="Iluminación y conducción nocturna" width="820">
+</p>
+<p align="center"><em>Infografía: Iluminación y conducción nocturna.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -487,7 +631,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La señalización debe interpretarse junto con geometría y tráfico real.
 - Un punto negro estadístico no reemplaza la observación del escenario inmediato.
 
-<!-- VISUAL PENDIENTE: t45-37-diseno-de-la-via.webp -->
+<!-- VISUAL:t45-37-diseno-de-la-via.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-37-diseno-de-la-via.webp" alt="Diseño de la vía" width="820">
+</p>
+<p align="center"><em>Infografía: Diseño de la vía.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -500,7 +648,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La información previa de la ruta ayuda, pero no garantiza que el estado permanezca igual.
 - La tripulación debe comunicar riesgos observados para proteger a otras unidades.
 
-<!-- VISUAL PENDIENTE: t45-38-estado-del-firme-y-obstaculos.webp -->
+<!-- VISUAL:t45-38-estado-del-firme-y-obstaculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-38-estado-del-firme-y-obstaculos.webp" alt="Estado del firme y obstáculos" width="820">
+</p>
+<p align="center"><em>Infografía: Estado del firme y obstáculos.</em></p>
 
 <!-- FUENTE: BOE-LSV-T45 -->
 
@@ -513,7 +665,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las reacciones a una sirena pueden ser tardías, bruscas o contradictorias.
 - El conductor prioritario debe planificar vías de escape y no asumir que todos cederán igual.
 
-<!-- VISUAL PENDIENTE: t45-39-densidad-y-composicion-del-trafico.webp -->
+<!-- VISUAL:t45-39-densidad-y-composicion-del-trafico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-39-densidad-y-composicion-del-trafico.webp" alt="Densidad y composición del tráfico" width="820">
+</p>
+<p align="center"><em>Infografía: Densidad y composición del tráfico.</em></p>
 
 <!-- FUENTE: INSST-NTP1090-T45 -->
 
@@ -526,7 +682,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los cambios sobrevenidos exigen reevaluar y no obedecer ciegamente al navegador.
 - Una alternativa preparada reduce decisiones improvisadas bajo presión.
 
-<!-- VISUAL PENDIENTE: t45-il-40-planificacion-de-rutas-y-contingencias.webp -->
+<!-- VISUAL:t45-il-40-planificacion-de-rutas-y-contingencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-40-planificacion-de-rutas-y-contingencias.webp" alt="Planificación de rutas y contingencias" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de rutas y contingencias.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -539,7 +699,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las modificaciones y equipos añadidos pueden cambiar masas, visibilidad y ergonomía.
 - La selección preventiva debe corresponder al servicio real y a sus ocupantes.
 
-<!-- VISUAL PENDIENTE: t45-41-vehiculo-como-factor-de-riesgo.webp -->
+<!-- VISUAL:t45-41-vehiculo-como-factor-de-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-41-vehiculo-como-factor-de-riesgo.webp" alt="Vehículo como factor de riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículo como factor de riesgo.</em></p>
 
 <!-- FUENTE: INSST-NTP1090-T45 -->
 
@@ -552,7 +716,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La presión se comprueba con referencia del fabricante y condiciones adecuadas.
 - La profundidad legal mínima no equivale a rendimiento óptimo en toda circunstancia.
 
-<!-- VISUAL PENDIENTE: t45-42-neumaticos.webp -->
+<!-- VISUAL:t45-42-neumaticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-42-neumaticos.webp" alt="Neumáticos" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos.</em></p>
 
 <!-- FUENTE: BOE-RGV-T45 -->
 
@@ -565,7 +733,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El calentamiento puede degradar prestaciones si se exige repetidamente al sistema.
 - ABS ayuda a conservar capacidad direccional, pero no elimina la distancia física necesaria.
 
-<!-- VISUAL PENDIENTE: t45-43-frenos.webp -->
+<!-- VISUAL:t45-43-frenos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-43-frenos.webp" alt="Frenos" width="820">
+</p>
+<p align="center"><em>Infografía: Frenos.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -578,7 +750,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una modificación de altura o carga afecta comportamiento dinámico.
 - La inspección cotidiana detecta síntomas, pero no sustituye diagnóstico técnico.
 
-<!-- VISUAL PENDIENTE: t45-44-direccion-y-suspension.webp -->
+<!-- VISUAL:t45-44-direccion-y-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-44-direccion-y-suspension.webp" alt="Dirección y suspensión" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección y suspensión.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -591,7 +767,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Limpiaparabrisas, lavaparabrisas y desempañado sostienen el campo visual.
 - La señal prioritaria no compensa una iluminación ordinaria defectuosa.
 
-<!-- VISUAL PENDIENTE: t45-il-45-alumbrado-senalizacion-y-visibilidad.webp -->
+<!-- VISUAL:t45-il-45-alumbrado-senalizacion-y-visibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-45-alumbrado-senalizacion-y-visibilidad.webp" alt="Alumbrado, señalización y visibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Alumbrado, señalización y visibilidad.</em></p>
 
 <!-- FUENTE: BOE-RGV-T45 -->
 
@@ -604,7 +784,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El equipo policial puede modificar movilidad, apoyo y geometría del cinturón.
 - La alternancia y las pausas ayudan frente a carga postural prolongada.
 
-<!-- VISUAL PENDIENTE: t45-46-ergonomia-y-posicion.webp -->
+<!-- VISUAL:t45-46-ergonomia-y-posicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-46-ergonomia-y-posicion.webp" alt="Ergonomía y posición" width="820">
+</p>
+<p align="center"><em>Infografía: Ergonomía y posición.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -617,7 +801,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La carga no debe obstruir visibilidad, mandos, ventilación ni salidas.
 - El anclaje debe ser adecuado a masa y fuerzas previsibles.
 
-<!-- VISUAL PENDIENTE: t45-47-carga-y-material-de-dotacion.webp -->
+<!-- VISUAL:t45-47-carga-y-material-de-dotacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-47-carga-y-material-de-dotacion.webp" alt="Carga y material de dotación" width="820">
+</p>
+<p align="center"><em>Infografía: Carga y material de dotación.</em></p>
 
 <!-- FUENTE: BOE-LSV-T45 -->
 
@@ -630,7 +818,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La seguridad terciaria facilita aviso, rescate y asistencia posterior.
 - Las tres capas son complementarias y dependen de uso y mantenimiento.
 
-<!-- VISUAL PENDIENTE: t45-48-sistemas-activos-pasivos-y-terciarios.webp -->
+<!-- VISUAL:t45-48-sistemas-activos-pasivos-y-terciarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-48-sistemas-activos-pasivos-y-terciarios.webp" alt="Sistemas activos, pasivos y terciarios" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas activos, pasivos y terciarios.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -643,7 +835,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los defectos graves o peligrosos tienen consecuencias distintas según su clasificación normativa.
 - El mantenimiento preventivo complementa, pero no sustituye, la inspección obligatoria.
 
-<!-- VISUAL PENDIENTE: t45-49-inspeccion-tecnica-y-mantenimiento.webp -->
+<!-- VISUAL:t45-49-inspeccion-tecnica-y-mantenimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-49-inspeccion-tecnica-y-mantenimiento.webp" alt="Inspección técnica y mantenimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Inspección técnica y mantenimiento.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -656,7 +852,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El modo degradado limita funciones y no debe confundirse con operación normal.
 - La ausencia de testigo no reemplaza comprobaciones físicas y percepción de síntomas.
 
-<!-- VISUAL PENDIENTE: t45-il-50-alertas-testigos-y-degradacion.webp -->
+<!-- VISUAL:t45-il-50-alertas-testigos-y-degradacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-50-alertas-testigos-y-degradacion.webp" alt="Alertas, testigos y degradación" width="820">
+</p>
+<p align="center"><em>Infografía: Alertas, testigos y degradación.</em></p>
 
 <!-- FUENTE: BOE-RGV-T45 -->
 
@@ -669,7 +869,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La señalización especial advierte presencia y no garantiza haber sido percibida.
 - La decisión operativa debe equilibrar necesidad, probabilidad y consecuencias.
 
-<!-- VISUAL PENDIENTE: t45-51-riesgo-especifico-de-la-urgencia.webp -->
+<!-- VISUAL:t45-51-riesgo-especifico-de-la-urgencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-51-riesgo-especifico-de-la-urgencia.webp" alt="Riesgo específico de la urgencia" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo específico de la urgencia.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -682,7 +886,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las órdenes y señales de los agentes conservan obligatoriedad.
 - La prioridad no equivale a inmunidad disciplinaria, administrativa, civil o penal.
 
-<!-- VISUAL PENDIENTE: t45-52-facultades-y-responsabilidad.webp -->
+<!-- VISUAL:t45-52-facultades-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-52-facultades-y-responsabilidad.webp" alt="Facultades y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Facultades y responsabilidad.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -695,7 +903,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Un vehículo detenido puede ocultar peatones, bicicletas u otro carril en movimiento.
 - La señal acústica puede generar respuestas imprevisibles y no sustituye control visual.
 
-<!-- VISUAL PENDIENTE: t45-53-intersecciones.webp -->
+<!-- VISUAL:t45-53-intersecciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-53-intersecciones.webp" alt="Intersecciones" width="820">
+</p>
+<p align="center"><em>Infografía: Intersecciones.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -708,7 +920,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los mensajes breves y priorizados reducen interferencia.
 - Una comunicación puede aplazarse si compromete el control inmediato del vehículo.
 
-<!-- VISUAL PENDIENTE: t45-54-sobrecarga-de-tareas.webp -->
+<!-- VISUAL:t45-54-sobrecarga-de-tareas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-54-sobrecarga-de-tareas.webp" alt="Sobrecarga de tareas" width="820">
+</p>
+<p align="center"><em>Infografía: Sobrecarga de tareas.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -721,7 +937,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La planificación contempla relevo, pausas y aptitud tras intervenciones exigentes.
 - El final del servicio también puede ser un periodo de riesgo por descenso de activación.
 
-<!-- VISUAL PENDIENTE: t45-il-55-fatiga-en-turnos-operativos.webp -->
+<!-- VISUAL:t45-il-55-fatiga-en-turnos-operativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-55-fatiga-en-turnos-operativos.webp" alt="Fatiga en turnos operativos" width="820">
+</p>
+<p align="center"><em>Infografía: Fatiga en turnos operativos.</em></p>
 
 <!-- FUENTE: DGT-FACTOR-HUMANO-T45 -->
 
@@ -734,7 +954,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - No debe alterarse un sistema de retención de forma improvisada para ganar comodidad.
 - La configuración se comprueba con el equipo realmente usado en servicio.
 
-<!-- VISUAL PENDIENTE: t45-56-ergonomia-con-equipo-policial.webp -->
+<!-- VISUAL:t45-56-ergonomia-con-equipo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-56-ergonomia-con-equipo-policial.webp" alt="Ergonomía con equipo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Ergonomía con equipo policial.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -747,7 +971,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La posición del vehículo debe proteger sin crear un obstáculo más peligroso.
 - La señalización y alta visibilidad complementan, pero no sustituyen, una zona segura.
 
-<!-- VISUAL PENDIENTE: t45-57-descenso-e-intervencion-en-via.webp -->
+<!-- VISUAL:t45-57-descenso-e-intervencion-en-via.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-57-descenso-e-intervencion-en-via.webp" alt="Descenso e intervención en vía" width="820">
+</p>
+<p align="center"><em>Infografía: Descenso e intervención en vía.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -760,7 +988,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El material y los ocupantes deben permanecer correctamente retenidos.
 - La seguridad de la misión incluye llegar sin crear nuevas víctimas.
 
-<!-- VISUAL PENDIENTE: t45-58-riesgo-para-pasajeros-y-terceros.webp -->
+<!-- VISUAL:t45-58-riesgo-para-pasajeros-y-terceros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-58-riesgo-para-pasajeros-y-terceros.webp" alt="Riesgo para pasajeros y terceros" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo para pasajeros y terceros.</em></p>
 
 <!-- FUENTE: BOE-LSV-T45 -->
 
@@ -773,7 +1005,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La existencia de una facultad reglamentaria no prueba que la maniobra fuese preventivamente adecuada.
 - Las lecciones deben traducirse en medidas verificables y no solo en recordatorios genéricos.
 
-<!-- VISUAL PENDIENTE: t45-59-accidente-durante-servicio-urgente.webp -->
+<!-- VISUAL:t45-59-accidente-durante-servicio-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-59-accidente-durante-servicio-urgente.webp" alt="Accidente durante servicio urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente durante servicio urgente.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 
@@ -786,7 +1022,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Ruta, intensidad de señales y velocidad se ajustan continuamente.
 - Abortar o moderar una maniobra puede ser la decisión operativa correcta.
 
-<!-- VISUAL PENDIENTE: t45-il-60-criterio-de-llegada-operativa.webp -->
+<!-- VISUAL:t45-il-60-criterio-de-llegada-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-60-criterio-de-llegada-operativa.webp" alt="Criterio de llegada operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Criterio de llegada operativa.</em></p>
 
 <!-- FUENTE: DGT-ESV2030-T45 -->
 
@@ -799,7 +1039,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - No todo elemento de seguridad relacionado con el trabajo entra en esa definición.
 - La definición debe leerse junto con las exclusiones expresas del artículo 2.2.
 
-<!-- VISUAL PENDIENTE: t45-61-definicion-correcta-de-epi.webp -->
+<!-- VISUAL:t45-61-definicion-correcta-de-epi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-61-definicion-correcta-de-epi.webp" alt="Definición correcta de EPI" width="820">
+</p>
+<p align="center"><em>Infografía: Definición correcta de EPI.</em></p>
 
 <!-- FUENTE: BOE-RD773-T45 -->
 
@@ -812,7 +1056,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El mismo apartado excluye los equipos de protección individual de los medios de transporte por carretera.
 - La exclusión del Real Decreto 773/1997 no significa ausencia de protección: la Policía Nacional tiene régimen preventivo específico.
 
-<!-- VISUAL PENDIENTE: t45-62-exclusiones-del-concepto.webp -->
+<!-- VISUAL:t45-62-exclusiones-del-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-62-exclusiones-del-concepto.webp" alt="Exclusiones del concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Exclusiones del concepto.</em></p>
 
 <!-- FUENTE: BOE-RD773-T45 -->
 
@@ -825,7 +1073,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Entregar un chaleco no corrige por sí solo una posición insegura en la calzada.
 - La selección parte del riesgo residual después de otras medidas.
 
-<!-- VISUAL PENDIENTE: t45-63-jerarquia-antes-de-la-proteccion-individual.webp -->
+<!-- VISUAL:t45-63-jerarquia-antes-de-la-proteccion-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-63-jerarquia-antes-de-la-proteccion-individual.webp" alt="Jerarquía antes de la protección individual" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía antes de la protección individual.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -838,7 +1090,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La elección debe responder al riesgo, condiciones de uso y características de la persona usuaria.
 - La talla, el ajuste y la ergonomía condicionan la eficacia real del equipo.
 
-<!-- VISUAL PENDIENTE: t45-64-evaluacion-y-eleccion-del-equipo-policial.webp -->
+<!-- VISUAL:t45-64-evaluacion-y-eleccion-del-equipo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-64-evaluacion-y-eleccion-del-equipo-policial.webp" alt="Evaluación y elección del equipo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación y elección del equipo policial.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -851,7 +1107,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Casco, protección auditiva, ocular y comunicaciones pueden interferir físicamente.
 - En Policía, ese criterio técnico se aplica a través del régimen específico y de las instrucciones válidas que correspondan.
 
-<!-- VISUAL PENDIENTE: t45-il-65-compatibilidad-del-equipamiento.webp -->
+<!-- VISUAL:t45-il-65-compatibilidad-del-equipamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-65-compatibilidad-del-equipamiento.webp" alt="Compatibilidad del equipamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Compatibilidad del equipamiento.</em></p>
 
 <!-- FUENTE: INSST-GUIA-EPI-T45 -->
 
@@ -864,7 +1124,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El uso del equipamiento requiere instrucciones comprensibles y entrenamiento proporcional a su complejidad.
 - Ponerse el equipo una vez no acredita dominio bajo presión o baja visibilidad.
 
-<!-- VISUAL PENDIENTE: t45-66-informacion-formacion-y-practica.webp -->
+<!-- VISUAL:t45-66-informacion-formacion-y-practica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-66-informacion-formacion-y-practica.webp" alt="Información, formación y práctica" width="820">
+</p>
+<p align="center"><em>Infografía: Información, formación y práctica.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -877,7 +1141,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La inspección antes del uso evita recibir material incompleto o deteriorado.
 - La asignación administrativa no sustituye la comprobación funcional.
 
-<!-- VISUAL PENDIENTE: t45-67-asignacion-disponibilidad-e-higiene.webp -->
+<!-- VISUAL:t45-67-asignacion-disponibilidad-e-higiene.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-67-asignacion-disponibilidad-e-higiene.webp" alt="Asignación, disponibilidad e higiene" width="820">
+</p>
+<p align="center"><em>Infografía: Asignación, disponibilidad e higiene.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -890,7 +1158,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La inspección previa busca cortes, deformación, contaminación y piezas ausentes.
 - En Policía, la conservación concreta se rige por normativa e instrucciones específicas válidas y por el fabricante.
 
-<!-- VISUAL PENDIENTE: t45-68-mantenimiento-limpieza-y-retirada.webp -->
+<!-- VISUAL:t45-68-mantenimiento-limpieza-y-retirada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-68-mantenimiento-limpieza-y-retirada.webp" alt="Mantenimiento, limpieza y retirada" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento, limpieza y retirada.</em></p>
 
 <!-- FUENTE: INSST-GUIA-EPI-T45 -->
 
@@ -903,7 +1175,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La regla de 150 metros se vincula a la regulación de la circulación y no se generaliza sin más a cualquier salida del vehículo.
 - La alta visibilidad mejora detección, pero no crea una barrera física frente al tráfico.
 
-<!-- VISUAL PENDIENTE: t45-69-alta-visibilidad-al-regular-la-circulacion.webp -->
+<!-- VISUAL:t45-69-alta-visibilidad-al-regular-la-circulacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-69-alta-visibilidad-al-regular-la-circulacion.webp" alt="Alta visibilidad al regular la circulación" width="820">
+</p>
+<p align="center"><em>Infografía: Alta visibilidad al regular la circulación.</em></p>
 
 <!-- FUENTE: BOE-RGC-T45 -->
 
@@ -916,7 +1192,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La protección no debe impedir manejo de mandos, audición útil ni movilidad necesaria.
 - El régimen policial específico determina la dotación exigible; la guía técnica ayuda a razonar su ajuste y compatibilidad.
 
-<!-- VISUAL PENDIENTE: t45-il-70-motorista-policial-y-proteccion.webp -->
+<!-- VISUAL:t45-il-70-motorista-policial-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-70-motorista-policial-y-proteccion.webp" alt="Motorista policial y protección" width="820">
+</p>
+<p align="center"><em>Infografía: Motorista policial y protección.</em></p>
 
 <!-- FUENTE: INSST-GUIA-EPI-T45 -->
 
@@ -929,7 +1209,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Las capas deben seguir funcionando si una de ellas falla.
 - La revisión periódica comprueba eficacia y efectos no previstos.
 
-<!-- VISUAL PENDIENTE: t45-71-estrategia-preventiva-por-capas.webp -->
+<!-- VISUAL:t45-71-estrategia-preventiva-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-71-estrategia-preventiva-por-capas.webp" alt="Estrategia preventiva por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Estrategia preventiva por capas.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -942,7 +1226,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Una lista no sustituye la intervención de personal técnico.
 - La anomalía crítica obliga a inmovilizar o sustituir conforme al procedimiento.
 
-<!-- VISUAL PENDIENTE: t45-72-lista-previa-al-servicio.webp -->
+<!-- VISUAL:t45-72-lista-previa-al-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-72-lista-previa-al-servicio.webp" alt="Lista previa al servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Lista previa al servicio.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -955,7 +1243,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - El servicio exigente puede justificar controles más frecuentes conforme a criterio técnico.
 - Las operaciones deben quedar registradas para conocer estado e historial.
 
-<!-- VISUAL PENDIENTE: t45-73-mantenimiento-preventivo.webp -->
+<!-- VISUAL:t45-73-mantenimiento-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-73-mantenimiento-preventivo.webp" alt="Mantenimiento preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento preventivo.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -968,7 +1260,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La ITV no debe llamarse mantenimiento predictivo porque su función jurídica es inspeccionar.
 - Los datos complementan la inspección y no sustituyen observación ni diagnóstico.
 
-<!-- VISUAL PENDIENTE: t45-74-mantenimiento-predictivo-y-por-condicion.webp -->
+<!-- VISUAL:t45-74-mantenimiento-predictivo-y-por-condicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-74-mantenimiento-predictivo-y-por-condicion.webp" alt="Mantenimiento predictivo y por condición" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento predictivo y por condición.</em></p>
 
 <!-- FUENTE: INSST-SVL-T45 -->
 
@@ -981,7 +1277,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Reparar una consecuencia sin causa raíz favorece recurrencia.
 - Tras la reparación se verifica la función y, cuando proceda, la calibración.
 
-<!-- VISUAL PENDIENTE: t45-il-75-mantenimiento-correctivo.webp -->
+<!-- VISUAL:t45-il-75-mantenimiento-correctivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-75-mantenimiento-correctivo.webp" alt="Mantenimiento correctivo" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento correctivo.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -994,7 +1294,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La inmovilización debe acompañarse de señalización, custodia y alternativa de servicio.
 - La comunicación precisa evita que otra unidad reutilice el vehículo defectuoso.
 
-<!-- VISUAL PENDIENTE: t45-76-gestion-de-averias-e-inmovilizacion.webp -->
+<!-- VISUAL:t45-76-gestion-de-averias-e-inmovilizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-76-gestion-de-averias-e-inmovilizacion.webp" alt="Gestión de averías e inmovilización" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de averías e inmovilización.</em></p>
 
 <!-- FUENTE: BOE-LSV-T45 -->
 
@@ -1007,7 +1311,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los datos deben ser completos y comparables sin convertirse en burocracia vacía.
 - Una incidencia cerrada exige evidencia de corrección o decisión documentada.
 
-<!-- VISUAL PENDIENTE: t45-77-registro-y-trazabilidad.webp -->
+<!-- VISUAL:t45-77-registro-y-trazabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-77-registro-y-trazabilidad.webp" alt="Registro y trazabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Registro y trazabilidad.</em></p>
 
 <!-- FUENTE: BOE-RD2-2006-T45 -->
 
@@ -1020,7 +1328,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - La temperatura modifica la presión y debe considerarse al medir.
 - Ejes y neumáticos deben mantener compatibilidad y especificaciones autorizadas.
 
-<!-- VISUAL PENDIENTE: t45-78-neumaticos-y-presion-operativa.webp -->
+<!-- VISUAL:t45-78-neumaticos-y-presion-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-78-neumaticos-y-presion-operativa.webp" alt="Neumáticos y presión operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos y presión operativa.</em></p>
 
 <!-- FUENTE: BOE-RGV-T45 -->
 
@@ -1033,7 +1345,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los equipos auxiliares añaden consumo y deben integrarse técnicamente.
 - Una reparación eléctrica improvisada puede causar fallo o incendio.
 
-<!-- VISUAL PENDIENTE: t45-79-fluidos-bateria-y-sistemas-auxiliares.webp -->
+<!-- VISUAL:t45-79-fluidos-bateria-y-sistemas-auxiliares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-79-fluidos-bateria-y-sistemas-auxiliares.webp" alt="Fluidos, batería y sistemas auxiliares" width="820">
+</p>
+<p align="center"><em>Infografía: Fluidos, batería y sistemas auxiliares.</em></p>
 
 <!-- FUENTE: BOE-ITV-T45 -->
 
@@ -1046,7 +1362,11 @@ El Tema 45 se estudia en ocho partes: conducción prioritaria; conceptos de segu
 - Los casi accidentes aportan señales antes de un daño grave.
 - La mejora requiere corregir el sistema y verificar que la medida funciona en servicio real.
 
-<!-- VISUAL PENDIENTE: t45-il-80-cierre-del-ciclo-preventivo.webp -->
+<!-- VISUAL:t45-il-80-cierre-del-ciclo-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-80-cierre-del-ciclo-preventivo.webp" alt="Cierre del ciclo preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Cierre del ciclo preventivo.</em></p>
 
 <!-- FUENTE: BOE-LPRL-T45 -->
 

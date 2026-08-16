@@ -19,7 +19,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La explicación técnica sirve para comprender el disparo, pero no puede alterar una categoría jurídica.
 - Los ejemplos históricos y comerciales no sustituyen la definición vigente.
 
-<!-- VISUAL PENDIENTE: t42-01-alcance-oficial-del-tema-42.webp -->
+<!-- VISUAL:t42-01-alcance-oficial-del-tema-42.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-01-alcance-oficial-del-tema-42.webp" alt="Alcance oficial del Tema 42" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial del Tema 42.</em></p>
 
 <!-- FUENTE: CONVOCATORIA-PN-2026-T42 -->
 
@@ -32,7 +36,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La evolución no fue una sucesión instantánea: distintos sistemas coexistieron durante largos periodos.
 - El origen histórico explica la avancarga, pero no convierte toda arma antigua en avancarga ni toda avancarga en antigua.
 
-<!-- VISUAL PENDIENTE: t42-02-primeras-armas-de-fuego-portatiles.webp -->
+<!-- VISUAL:t42-02-primeras-armas-de-fuego-portatiles.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-02-primeras-armas-de-fuego-portatiles.webp" alt="Primeras armas de fuego portátiles" width="820">
+</p>
+<p align="center"><em>Infografía: Primeras armas de fuego portátiles.</em></p>
 
 <!-- FUENTE: MUSEO-EJERCITO-T42 -->
 
@@ -45,7 +53,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La percusión sustituyó progresivamente a sistemas que necesitaban llama o chispa exterior más expuesta.
 - Un sistema de ignición describe cómo comienza el disparo, no cuántos tiros permite el arma.
 
-<!-- VISUAL PENDIENTE: t42-03-evolucion-de-las-llaves-de-ignicion.webp -->
+<!-- VISUAL:t42-03-evolucion-de-las-llaves-de-ignicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-03-evolucion-de-las-llaves-de-ignicion.webp" alt="Evolución de las llaves de ignición" width="820">
+</p>
+<p align="center"><em>Infografía: Evolución de las llaves de ignición.</em></p>
 
 <!-- FUENTE: MUSEO-EJERCITO-T42 -->
 
@@ -58,7 +70,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Sus medidas de control persiguen salvaguardar la seguridad pública.
 - Sus preceptos son supletorios respecto de otras disposiciones que regulen la materia con distinta finalidad.
 
-<!-- VISUAL PENDIENTE: t42-il-04-objeto-del-reglamento-de-armas.webp -->
+<!-- VISUAL:t42-il-04-objeto-del-reglamento-de-armas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-04-objeto-del-reglamento-de-armas.webp" alt="Objeto del Reglamento de Armas" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto del Reglamento de Armas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -71,7 +87,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La definición incluye perdigón, bala u otro proyectil.
 - La posibilidad de transformación exige apariencia de arma de fuego y construcción o material que permita esa conversión.
 
-<!-- VISUAL PENDIENTE: t42-05-definicion-reglamentaria-de-arma-de-fuego.webp -->
+<!-- VISUAL:t42-05-definicion-reglamentaria-de-arma-de-fuego.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-05-definicion-reglamentaria-de-arma-de-fuego.webp" alt="Definición reglamentaria de arma de fuego" width="820">
+</p>
+<p align="center"><em>Infografía: Definición reglamentaria de arma de fuego.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -84,7 +104,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La conjunción reglamentaria no exige que una misma arma reúna simultáneamente tambor y corredera.
 - Los componentes esenciales separados siguen el régimen del arma en que se monten o vayan a montarse.
 
-<!-- VISUAL PENDIENTE: t42-06-componentes-esenciales-de-arma-corta.webp -->
+<!-- VISUAL:t42-06-componentes-esenciales-de-arma-corta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-06-componentes-esenciales-de-arma-corta.webp" alt="Componentes esenciales de arma corta" width="820">
+</p>
+<p align="center"><em>Infografía: Componentes esenciales de arma corta.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -97,7 +121,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - También lo son el cerrojo o la báscula y el cierre o bloqueo del cierre, según el sistema.
 - La lista se interpreta conforme a la construcción real del arma, no como inventario acumulativo obligatorio.
 
-<!-- VISUAL PENDIENTE: t42-07-componentes-esenciales-de-arma-larga.webp -->
+<!-- VISUAL:t42-07-componentes-esenciales-de-arma-larga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-07-componentes-esenciales-de-arma-larga.webp" alt="Componentes esenciales de arma larga" width="820">
+</p>
+<p align="center"><em>Infografía: Componentes esenciales de arma larga.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -110,7 +138,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Componente esencial es una categoría jurídica concreta enumerada por el Reglamento.
 - No toda pieza es componente esencial ni ambos términos pueden intercambiarse sin comprobar el artículo 1.
 
-<!-- VISUAL PENDIENTE: t42-08-pieza-y-componente-esencial.webp -->
+<!-- VISUAL:t42-08-pieza-y-componente-esencial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-08-pieza-y-componente-esencial.webp" alt="Pieza y componente esencial" width="820">
+</p>
+<p align="center"><em>Infografía: Pieza y componente esencial.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -123,7 +155,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Arma de fuego larga es la que no es corta conforme a esa definición.
 - La clasificación corta-larga es jurídica y no depende solo del nombre comercial.
 
-<!-- VISUAL PENDIENTE: t42-il-09-arma-corta-y-arma-larga.webp -->
+<!-- VISUAL:t42-il-09-arma-corta-y-arma-larga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-09-arma-corta-y-arma-larga.webp" alt="Arma corta y arma larga" width="820">
+</p>
+<p align="center"><em>Infografía: Arma corta y arma larga.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -136,7 +172,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El cierre contiene y soporta el cartucho durante la generación de presión según el diseño.
 - El mecanismo de disparo transmite la acción del tirador hasta la iniciación del cartucho.
 
-<!-- VISUAL PENDIENTE: t42-10-partes-funcionales-basicas.webp -->
+<!-- VISUAL:t42-10-partes-funcionales-basicas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-10-partes-funcionales-basicas.webp" alt="Partes funcionales básicas" width="820">
+</p>
+<p align="center"><em>Infografía: Partes funcionales básicas.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -149,7 +189,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - En un cañón rayado alternan campos y estrías que pueden imprimir marcas al proyectil.
 - Número, anchura y sentido del rayado son características útiles, pero no bastan siempre para identificar un arma concreta.
 
-<!-- VISUAL PENDIENTE: t42-11-anima-campos-y-estrias.webp -->
+<!-- VISUAL:t42-11-anima-campos-y-estrias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-11-anima-campos-y-estrias.webp" alt="Ánima, campos y estrías" width="820">
+</p>
+<p align="center"><em>Infografía: Ánima, campos y estrías.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -162,7 +206,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - En la retrocarga la munición se introduce desde la parte posterior del cañón, normalmente en la recámara.
 - El punto de carga no determina por sí solo si el arma es de un tiro, repetición o semiautomática.
 
-<!-- VISUAL PENDIENTE: t42-12-avancarga-y-retrocarga.webp -->
+<!-- VISUAL:t42-12-avancarga-y-retrocarga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-12-avancarga-y-retrocarga.webp" alt="Avancarga y retrocarga" width="820">
+</p>
+<p align="center"><em>Infografía: Avancarga y retrocarga.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -175,7 +223,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La recarga se realiza introduciendo manualmente un cartucho en la recámara o alojamiento especial.
 - Un arma basculante puede ser de uno o varios cañones sin convertirse por ello en arma de repetición.
 
-<!-- VISUAL PENDIENTE: t42-13-arma-de-un-solo-tiro.webp -->
+<!-- VISUAL:t42-13-arma-de-un-solo-tiro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-13-arma-de-un-solo-tiro.webp" alt="Arma de un solo tiro" width="820">
+</p>
+<p align="center"><em>Infografía: Arma de un solo tiro.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -188,7 +240,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Su cierre se realiza mediante báscula.
 - Puede disponer de uno o varios cañones.
 
-<!-- VISUAL PENDIENTE: t42-il-14-arma-basculante.webp -->
+<!-- VISUAL:t42-il-14-arma-basculante.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-14-arma-basculante.webp" alt="Arma basculante" width="820">
+</p>
+<p align="center"><em>Infografía: Arma basculante.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -201,7 +257,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El mecanismo introduce en el cañón un cartucho colocado previamente en el depósito.
 - La energía del disparo no completa automáticamente el ciclo de recarga.
 
-<!-- VISUAL PENDIENTE: t42-15-arma-de-repeticion.webp -->
+<!-- VISUAL:t42-15-arma-de-repeticion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-15-arma-de-repeticion.webp" alt="Arma de repetición" width="820">
+</p>
+<p align="center"><em>Infografía: Arma de repetición.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -214,7 +274,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La recarga automática y el disparo único por acción son requisitos acumulativos.
 - Mantener presionado el disparador no produce varios disparos sucesivos en su funcionamiento semiautomático normal.
 
-<!-- VISUAL PENDIENTE: t42-16-arma-semiautomatica.webp -->
+<!-- VISUAL:t42-16-arma-semiautomatica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-16-arma-semiautomatica.webp" alt="Arma semiautomática" width="820">
+</p>
+<p align="center"><em>Infografía: Arma semiautomática.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -227,7 +291,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La diferencia decisiva con la semiautomática está en la respuesta a una sola acción mantenida.
 - Las armas de fuego automáticas son armas de guerra y están prohibidas a particulares.
 
-<!-- VISUAL PENDIENTE: t42-17-arma-automatica.webp -->
+<!-- VISUAL:t42-17-arma-automatica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-17-arma-automatica.webp" alt="Arma automática" width="820">
+</p>
+<p align="center"><em>Infografía: Arma automática.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -240,7 +308,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - En el revólver varias recámaras se sitúan en un tambor giratorio.
 - La categoría jurídica compartida no hace idénticos sus mecanismos ni las marcas que producen.
 
-<!-- VISUAL PENDIENTE: t42-18-pistola-y-revolver.webp -->
+<!-- VISUAL:t42-18-pistola-y-revolver.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-18-pistola-y-revolver.webp" alt="Pistola y revólver" width="820">
+</p>
+<p align="center"><em>Infografía: Pistola y revólver.</em></p>
 
 <!-- FUENTE: GC-CLASS-T42 -->
 
@@ -253,7 +325,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El nombre común no sustituye la categoría concreta del artículo 3.
 - Una escopeta no se clasifica como rifle solo por tener marcas que faciliten el plomeo.
 
-<!-- VISUAL PENDIENTE: t42-il-19-fusil-carabina-y-escopeta.webp -->
+<!-- VISUAL:t42-il-19-fusil-carabina-y-escopeta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-19-fusil-carabina-y-escopeta.webp" alt="Fusil, carabina y escopeta" width="820">
+</p>
+<p align="center"><em>Infografía: Fusil, carabina y escopeta.</em></p>
 
 <!-- FUENTE: GC-CLASS-T42 -->
 
@@ -266,7 +342,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La recámara aloja el cartucho que va a ser disparado.
 - Capacidad del cargador y cartucho en recámara son datos diferentes cuando la norma cuenta la capacidad total.
 
-<!-- VISUAL PENDIENTE: t42-20-cargador-deposito-y-recamara.webp -->
+<!-- VISUAL:t42-20-cargador-deposito-y-recamara.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-20-cargador-deposito-y-recamara.webp" alt="Cargador, depósito y recámara" width="820">
+</p>
+<p align="center"><em>Infografía: Cargador, depósito y recámara.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -279,7 +359,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Un fallo de alimentación no equivale a un fallo de percusión.
 - La comprobación funcional debe distinguir la fase exacta en que se detiene el ciclo.
 
-<!-- VISUAL PENDIENTE: t42-21-alimentacion-y-acerrojamiento.webp -->
+<!-- VISUAL:t42-21-alimentacion-y-acerrojamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-21-alimentacion-y-acerrojamiento.webp" alt="Alimentación y acerrojamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Alimentación y acerrojamiento.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -292,7 +376,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Extractor y expulsor pueden dejar marcas forenses distintas.
 - En un revólver las vainas suelen permanecer en el tambor hasta la descarga manual.
 
-<!-- VISUAL PENDIENTE: t42-22-extraccion-y-expulsion.webp -->
+<!-- VISUAL:t42-22-extraccion-y-expulsion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-22-extraccion-y-expulsion.webp" alt="Extracción y expulsión" width="820">
+</p>
+<p align="center"><em>Infografía: Extracción y expulsión.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -305,7 +393,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Transformar un arma puede requerir autorización y no altera por sí solo su régimen jurídico si la operación no se completa conforme a la norma.
 - Reparación, transformación, desmilitarización e inutilización describen operaciones jurídicas distintas.
 
-<!-- VISUAL PENDIENTE: t42-23-desmilitarizacion-y-transformacion.webp -->
+<!-- VISUAL:t42-23-desmilitarizacion-y-transformacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-23-desmilitarizacion-y-transformacion.webp" alt="Desmilitarización y transformación" width="820">
+</p>
+<p align="center"><em>Infografía: Desmilitarización y transformación.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -318,7 +410,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La numeración contiene categorías y subcategorías que deben leerse completas.
 - No debe extrapolarse una regla de una subcategoría a toda la categoría.
 
-<!-- VISUAL PENDIENTE: t42-il-24-criterio-de-las-categorias.webp -->
+<!-- VISUAL:t42-il-24-criterio-de-las-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-24-criterio-de-las-categorias.webp" alt="Criterio de las categorías" width="820">
+</p>
+<p align="center"><em>Infografía: Criterio de las categorías.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -331,7 +427,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Incluye revólveres.
 - La categoría no depende de que el arma corta sea de un tiro, repetición o semiautomática.
 
-<!-- VISUAL PENDIENTE: t42-25-1-a-categoria.webp -->
+<!-- VISUAL:t42-25-1-a-categoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-25-1-a-categoria.webp" alt="1.ª categoría" width="820">
+</p>
+<p align="center"><em>Infografía: 1.ª categoría.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -344,7 +444,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La determinación corresponde a Orden del Ministerio del Interior o decisión adoptada a su propuesta o conformidad.
 - No toda arma larga utilizada de hecho por un vigilante entra automáticamente en esta subcategoría.
 
-<!-- VISUAL PENDIENTE: t42-26-2-a-categoria-1.webp -->
+<!-- VISUAL:t42-26-2-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-26-2-a-categoria-1.webp" alt="2.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 2.ª categoría 1.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -357,7 +461,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Quedan fuera si están clasificados como armas de guerra.
 - Destino, rayado y exclusión de guerra forman parte de la regla.
 
-<!-- VISUAL PENDIENTE: t42-27-2-a-categoria-2.webp -->
+<!-- VISUAL:t42-27-2-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-27-2-a-categoria-2.webp" alt="2.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 2.ª categoría 2.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -370,7 +478,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La munición es de percusión anular.
 - Pueden ser de un disparo, repetición o semiautomáticas.
 
-<!-- VISUAL PENDIENTE: t42-28-3-a-categoria-1.webp -->
+<!-- VISUAL:t42-28-3-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-28-3-a-categoria-1.webp" alt="3.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 1.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -383,7 +495,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - No incluye armas de guerra.
 - El rayado para plomeo no equivale al cañón estriado para proyectil único de la 2.ª.2.
 
-<!-- VISUAL PENDIENTE: t42-il-29-3-a-categoria-2.webp -->
+<!-- VISUAL:t42-il-29-3-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-29-3-a-categoria-2.webp" alt="3.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 2.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -396,7 +512,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La energía cinética del proyectil en boca debe exceder de 24,2 julios.
 - El umbral separa esta subcategoría de las armas de aire no asimiladas de 4.ª.
 
-<!-- VISUAL PENDIENTE: t42-30-3-a-categoria-3.webp -->
+<!-- VISUAL:t42-30-3-a-categoria-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-30-3-a-categoria-3.webp" alt="3.ª categoría 3" width="820">
+</p>
+<p align="center"><em>Infografía: 3.ª categoría 3.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -409,7 +529,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Son armas no asimiladas a escopetas.
 - La forma de funcionamiento diferencia 4.ª.1 de 4.ª.2.
 
-<!-- VISUAL PENDIENTE: t42-31-4-a-categoria-1.webp -->
+<!-- VISUAL:t42-31-4-a-categoria-1.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-31-4-a-categoria-1.webp" alt="4.ª categoría 1" width="820">
+</p>
+<p align="center"><em>Infografía: 4.ª categoría 1.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -422,7 +546,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Incluye revólveres de acción simple accionados por aire u otro gas comprimido.
 - También son armas no asimiladas a escopetas.
 
-<!-- VISUAL PENDIENTE: t42-32-4-a-categoria-2.webp -->
+<!-- VISUAL:t42-32-4-a-categoria-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-32-4-a-categoria-2.webp" alt="4.ª categoría 2" width="820">
+</p>
+<p align="center"><em>Infografía: 4.ª categoría 2.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -435,7 +563,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - También incluye imitaciones de esos cuchillos o machetes.
 - Pertenecer a 5.ª no elimina las prohibiciones específicas de los artículos 4 y 5.
 
-<!-- VISUAL PENDIENTE: t42-33-5-a-categoria.webp -->
+<!-- VISUAL:t42-33-5-a-categoria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-33-5-a-categoria.webp" alt="5.ª categoría" width="820">
+</p>
+<p align="center"><em>Infografía: 5.ª categoría.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -448,7 +580,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La 6.ª.2 incluye armas cuyo modelo o año de fabricación sea anterior al 1 de enero de 1890.
 - La 6.ª.2 excluye las capaces de disparar munición destinada a armas de guerra o prohibidas.
 
-<!-- VISUAL PENDIENTE: t42-il-34-6-a-categoria-1-y-2.webp -->
+<!-- VISUAL:t42-il-34-6-a-categoria-1-y-2.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-34-6-a-categoria-1-y-2.webp" alt="6.ª categoría 1 y 2" width="820">
+</p>
+<p align="center"><em>Infografía: 6.ª categoría 1 y 2.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -461,7 +597,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El carácter artístico requiere acreditación y régimen documental, no una simple valoración del dueño.
 - Avancarga es categoría jurídica aunque el arma sea una reproducción moderna.
 
-<!-- VISUAL PENDIENTE: t42-35-6-a-categoria-3-y-4.webp -->
+<!-- VISUAL:t42-35-6-a-categoria-3-y-4.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-35-6-a-categoria-3-y-4.webp" alt="6.ª categoría 3 y 4" width="820">
+</p>
+<p align="center"><em>Infografía: 6.ª categoría 3 y 4.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -474,7 +614,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La 7.ª.3 comprende armas para lanzar cabos.
 - Algunas armas de 7.ª están asimiladas al régimen de armas de fuego por el artículo 2.
 
-<!-- VISUAL PENDIENTE: t42-36-7-a-categoria-1-a-3.webp -->
+<!-- VISUAL:t42-36-7-a-categoria-1-a-3.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-36-7-a-categoria-1-a-3.webp" alt="7.ª categoría 1 a 3" width="820">
+</p>
+<p align="center"><em>Infografía: 7.ª categoría 1 a 3.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -487,7 +631,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La 7.ª.6 incluye armas de alarma y señales y pistolas lanzabengalas.
 - Un arma Flobert usa percusión anular y no puede superar 100 julios en boca.
 
-<!-- VISUAL PENDIENTE: t42-37-7-a-categoria-4-a-6.webp -->
+<!-- VISUAL:t42-37-7-a-categoria-4-a-6.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-37-7-a-categoria-4-a-6.webp" alt="7.ª categoría 4 a 6" width="820">
+</p>
+<p align="center"><em>Infografía: 7.ª categoría 4 a 6.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -500,7 +648,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La 9.ª categoría comprende armas inutilizadas.
 - Inutilizada exige irreversibilidad verificada conforme a la ITC 2, no una avería casual.
 
-<!-- VISUAL PENDIENTE: t42-38-8-a-y-9-a-categorias.webp -->
+<!-- VISUAL:t42-38-8-a-y-9-a-categorias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-38-8-a-y-9-a-categorias.webp" alt="8.ª y 9.ª categorías" width="820">
+</p>
+<p align="center"><em>Infografía: 8.ª y 9.ª categorías.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -513,7 +665,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Cartucho es la unidad preparada para alimentar un arma y producir el lanzamiento previsto.
 - Cartucho y bala no son sinónimos: la bala es solo el proyectil en cartuchos que la emplean.
 
-<!-- VISUAL PENDIENTE: t42-il-39-definicion-de-municion-y-cartucho.webp -->
+<!-- VISUAL:t42-il-39-definicion-de-municion-y-cartucho.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-39-definicion-de-municion-y-cartucho.webp" alt="Definición de munición y cartucho" width="820">
+</p>
+<p align="center"><em>Infografía: Definición de munición y cartucho.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -526,7 +682,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La vaina posiciona el cartucho y ayuda a obturar los gases durante el disparo.
 - Tras el disparo pueden recuperarse vaina y proyectil como indicios distintos.
 
-<!-- VISUAL PENDIENTE: t42-40-cartucho-metalico.webp -->
+<!-- VISUAL:t42-40-cartucho-metalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-40-cartucho-metalico.webp" alt="Cartucho metálico" width="820">
+</p>
+<p align="center"><em>Infografía: Cartucho metálico.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -539,7 +699,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Puede contener perdigones o un proyectil único, carga, pistón y taco.
 - Semimetálico describe la construcción del cartucho, no una potencia concreta.
 
-<!-- VISUAL PENDIENTE: t42-41-cartucho-semimetalico.webp -->
+<!-- VISUAL:t42-41-cartucho-semimetalico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-41-cartucho-semimetalico.webp" alt="Cartucho semimetálico" width="820">
+</p>
+<p align="center"><em>Infografía: Cartucho semimetálico.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -552,7 +716,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El culote soporta el alojamiento del iniciador y recibe marcas del cierre.
 - Ranura, reborde y forma dependen del diseño y facilitan extracción o posicionamiento.
 
-<!-- VISUAL PENDIENTE: t42-42-partes-de-la-vaina.webp -->
+<!-- VISUAL:t42-42-partes-de-la-vaina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-42-partes-de-la-vaina.webp" alt="Partes de la vaina" width="820">
+</p>
+<p align="center"><em>Infografía: Partes de la vaina.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -565,7 +733,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La aguja percutora deforma la zona del cebo y deja una marca susceptible de examen.
 - La composición de los residuos depende del iniciador y la munición, por lo que no debe universalizarse una terna química.
 
-<!-- VISUAL PENDIENTE: t42-43-piston-o-cebo.webp -->
+<!-- VISUAL:t42-43-piston-o-cebo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-43-piston-o-cebo.webp" alt="Pistón o cebo" width="820">
+</p>
+<p align="center"><em>Infografía: Pistón o cebo.</em></p>
 
 <!-- FUENTE: FBI-GSR-T42 -->
 
@@ -578,7 +750,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El sistema permite diseños de cartucho y presiones muy variados.
 - Central describe la localización de la iniciación, no la posición del proyectil.
 
-<!-- VISUAL PENDIENTE: t42-il-44-percusion-central.webp -->
+<!-- VISUAL:t42-il-44-percusion-central.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-44-percusion-central.webp" alt="Percusión central" width="820">
+</p>
+<p align="center"><em>Infografía: Percusión central.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -591,7 +767,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La marca de percusión aparece en el anillo periférico, no en el centro.
 - Flobert es siempre de percusión anular según la definición reglamentaria.
 
-<!-- VISUAL PENDIENTE: t42-45-percusion-anular.webp -->
+<!-- VISUAL:t42-45-percusion-anular.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-45-percusion-anular.webp" alt="Percusión anular" width="820">
+</p>
+<p align="center"><em>Infografía: Percusión anular.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -604,7 +784,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La pólvora no detona necesariamente como un alto explosivo en el funcionamiento normal del cartucho.
 - Granos quemados, parcialmente quemados o no quemados pueden integrar residuos del disparo.
 
-<!-- VISUAL PENDIENTE: t42-46-carga-propulsora.webp -->
+<!-- VISUAL:t42-46-carga-propulsora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-46-carga-propulsora.webp" alt="Carga propulsora" width="820">
+</p>
+<p align="center"><em>Infografía: Carga propulsora.</em></p>
 
 <!-- FUENTE: FBI-GSR-T42 -->
 
@@ -617,7 +801,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Su forma, masa y material influyen en vuelo y efectos.
 - Al atravesar un cañón rayado puede recibir marcas de campos y estrías.
 
-<!-- VISUAL PENDIENTE: t42-47-bala-o-proyectil.webp -->
+<!-- VISUAL:t42-47-bala-o-proyectil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-47-bala-o-proyectil.webp" alt="Bala o proyectil" width="820">
+</p>
+<p align="center"><em>Infografía: Bala o proyectil.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -630,7 +818,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Los perdigones forman una carga múltiple cuyo patrón se abre con la distancia de manera dependiente del conjunto arma-cartucho.
 - Taco y perdigones pueden recuperarse como indicios.
 
-<!-- VISUAL PENDIENTE: t42-48-taco-y-perdigones.webp -->
+<!-- VISUAL:t42-48-taco-y-perdigones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-48-taco-y-perdigones.webp" alt="Taco y perdigones" width="820">
+</p>
+<p align="center"><em>Infografía: Taco y perdigones.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -643,7 +835,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Los gases elevan la presión e impulsan el proyectil por el cañón.
 - Después, el mecanismo puede extraer, expulsar y recargar según sea manual, semiautomático o automático.
 
-<!-- VISUAL PENDIENTE: t42-il-49-secuencia-del-disparo.webp -->
+<!-- VISUAL:t42-il-49-secuencia-del-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-49-secuencia-del-disparo.webp" alt="Secuencia del disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Secuencia del disparo.</em></p>
 
 <!-- FUENTE: FBI-GSR-T42 -->
 
@@ -656,7 +852,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El marcaje del culote puede orientar sobre fabricante y designación, pero no prueba por sí solo el contenido real.
 - Dos cartuchos de calibre nominal similar pueden no ser intercambiables.
 
-<!-- VISUAL PENDIENTE: t42-50-calibre-gauge-y-marcaje.webp -->
+<!-- VISUAL:t42-50-calibre-gauge-y-marcaje.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-50-calibre-gauge-y-marcaje.webp" alt="Calibre, gauge y marcaje" width="820">
+</p>
+<p align="center"><em>Infografía: Calibre, gauge y marcaje.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -669,7 +869,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Extractor y expulsor pueden marcar la vaina durante el ciclo.
 - Campos y estrías pueden marcar la superficie del proyectil.
 
-<!-- VISUAL PENDIENTE: t42-51-marcas-producidas-en-el-disparo.webp -->
+<!-- VISUAL:t42-51-marcas-producidas-en-el-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-51-marcas-producidas-en-el-disparo.webp" alt="Marcas producidas en el disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas producidas en el disparo.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -682,7 +886,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El artículo 6 define armas de guerra prohibidas a particulares.
 - La conducta prohibida y las excepciones deben leerse en el artículo concreto, no mezclarse.
 
-<!-- VISUAL PENDIENTE: t42-52-tres-niveles-de-prohibicion.webp -->
+<!-- VISUAL:t42-52-tres-niveles-de-prohibicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-52-tres-niveles-de-prohibicion.webp" alt="Tres niveles de prohibición" width="820">
+</p>
+<p align="center"><em>Infografía: Tres niveles de prohibición.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -695,7 +903,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Una reparación autorizada no equivale automáticamente a modificación sustancial ilícita.
 - La clave es la alteración sustancial y la falta de autorización reglamentaria.
 
-<!-- VISUAL PENDIENTE: t42-il-53-armas-sustancialmente-modificadas.webp -->
+<!-- VISUAL:t42-il-53-armas-sustancialmente-modificadas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-53-armas-sustancialmente-modificadas.webp" alt="Armas sustancialmente modificadas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas sustancialmente modificadas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -708,7 +920,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - También se prohíben armas para alojar o alojadas en bastones u otros objetos.
 - La apariencia o el alojamiento oculto agravan el control, pero debe encajar en el supuesto normativo exacto.
 
-<!-- VISUAL PENDIENTE: t42-54-armas-ocultas-o-disimuladas.webp -->
+<!-- VISUAL:t42-54-armas-ocultas-o-disimuladas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-54-armas-ocultas-o-disimuladas.webp" alt="Armas ocultas o disimuladas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas ocultas o disimuladas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -721,7 +937,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Se consideran puñales las armas blancas de hoja menor de 11 centímetros, de dos filos y puntiaguda.
 - La longitud por sí sola no convierte cualquier cuchillo en puñal: también importan filos y punta.
 
-<!-- VISUAL PENDIENTE: t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp -->
+<!-- VISUAL:t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-55-armas-de-imitacion-peligrosa-y-armas-blancas-ocultas.webp" alt="Armas de imitación peligrosa y armas blancas ocultas" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de imitación peligrosa y armas blancas ocultas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -734,7 +954,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - También alcanza las que tengan culata plegable o eliminable en los términos del precepto.
 - La regla no convierte toda arma semiautomática en automática.
 
-<!-- VISUAL PENDIENTE: t42-56-semiautomaticas-restringidas-del-articulo-5.webp -->
+<!-- VISUAL:t42-56-semiautomaticas-restringidas-del-articulo-5.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-56-semiautomaticas-restringidas-del-articulo-5.webp" alt="Semiautomáticas restringidas del artículo 5" width="820">
+</p>
+<p align="center"><em>Infografía: Semiautomáticas restringidas del artículo 5.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -747,7 +971,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La excepción funcional no convierte el objeto en libre venta o uso general.
 - Debe comprobarse producto, aprobación, sujeto y contexto de uso.
 
-<!-- VISUAL PENDIENTE: t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp -->
+<!-- VISUAL:t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-57-armas-y-defensas-de-uso-especialmente-habilitado.webp" alt="Armas y defensas de uso especialmente habilitado" width="820">
+</p>
+<p align="center"><em>Infografía: Armas y defensas de uso especialmente habilitado.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -760,7 +988,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La munición explosiva contiene una carga que explota por impacto.
 - La munición incendiaria contiene mezcla que se inflama al contacto con aire o por impacto.
 
-<!-- VISUAL PENDIENTE: t42-il-58-silenciadores-y-municiones-especiales.webp -->
+<!-- VISUAL:t42-il-58-silenciadores-y-municiones-especiales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-58-silenciadores-y-municiones-especiales.webp" alt="Silenciadores y municiones especiales" width="820">
+</p>
+<p align="center"><em>Infografía: Silenciadores y municiones especiales.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -773,7 +1005,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El régimen jurídico depende del arma, uso y prohibición aplicable, no solo del nombre comercial.
 - Expansiva no significa explosiva: una se deforma y la otra contiene una carga explosiva.
 
-<!-- VISUAL PENDIENTE: t42-59-municion-expansiva.webp -->
+<!-- VISUAL:t42-59-municion-expansiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-59-municion-expansiva.webp" alt="Munición expansiva" width="820">
+</p>
+<p align="center"><em>Infografía: Munición expansiva.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -786,7 +1022,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La medida se toma desde el reborde o tope del mango hasta el extremo.
 - Existen supuestos limitados de fabricación, comercialización intervenida y tenencia domiciliaria para ornato o coleccionismo.
 
-<!-- VISUAL PENDIENTE: t42-60-navajas-y-armas-blancas-prohibidas.webp -->
+<!-- VISUAL:t42-60-navajas-y-armas-blancas-prohibidas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-60-navajas-y-armas-blancas-prohibidas.webp" alt="Navajas y armas blancas prohibidas" width="820">
+</p>
+<p align="center"><em>Infografía: Navajas y armas blancas prohibidas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -799,7 +1039,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La cifra de 20 milímetros no es la única vía de clasificación como arma de guerra.
 - Sus municiones, conjuntos y componentes esenciales pueden quedar incluidos.
 
-<!-- VISUAL PENDIENTE: t42-61-armas-de-guerra-por-calibre-y-consideracion.webp -->
+<!-- VISUAL:t42-61-armas-de-guerra-por-calibre-y-consideracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-61-armas-de-guerra-por-calibre-y-consideracion.webp" alt="Armas de guerra por calibre y consideración" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de guerra por calibre y consideración.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -812,7 +1056,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El Gobierno puede determinar armas de guerra utilizables como dotación de Fuerzas y Cuerpos de Seguridad.
 - La posibilidad de dotación oficial no crea una autorización particular.
 
-<!-- VISUAL PENDIENTE: t42-62-armas-automaticas-como-armas-de-guerra.webp -->
+<!-- VISUAL:t42-62-armas-automaticas-como-armas-de-guerra.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-62-armas-automaticas-como-armas-de-guerra.webp" alt="Armas automáticas como armas de guerra" width="820">
+</p>
+<p align="center"><em>Infografía: Armas automáticas como armas de guerra.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -825,7 +1073,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Si puede transformarse fácilmente puede quedar sometida al régimen de arma de fuego o prohibición correspondiente.
 - La apariencia externa no basta: construcción y transformabilidad son decisivas.
 
-<!-- VISUAL PENDIENTE: t42-il-63-armas-de-alarma-y-senales-transformables.webp -->
+<!-- VISUAL:t42-il-63-armas-de-alarma-y-senales-transformables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-63-armas-de-alarma-y-senales-transformables.webp" alt="Armas de alarma y señales transformables" width="820">
+</p>
+<p align="center"><em>Infografía: Armas de alarma y señales transformables.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -838,7 +1090,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Arma inutilizada exige procedimiento irreversible, verificación, marcado y certificado.
 - Un arma rota no pasa automáticamente a 9.ª categoría ni deja de estar sometida a control.
 
-<!-- VISUAL PENDIENTE: t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp -->
+<!-- VISUAL:t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-64-diferencia-entre-prohibida-reglamentada-e-inutilizada.webp" alt="Diferencia entre prohibida, reglamentada e inutilizada" width="820">
+</p>
+<p align="center"><em>Infografía: Diferencia entre prohibida, reglamentada e inutilizada.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -851,7 +1107,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Para residentes en otro Estado miembro de la UE, determinadas autorizaciones se comunican a su autoridad competente.
 - Licencia, guía, tarjeta y autorización especial cumplen funciones distintas y pueden ser acumulativas.
 
-<!-- VISUAL PENDIENTE: t42-65-principio-general-de-autorizacion.webp -->
+<!-- VISUAL:t42-65-principio-general-de-autorizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-65-principio-general-de-autorizacion.webp" alt="Principio general de autorización" width="820">
+</p>
+<p align="center"><em>Infografía: Principio general de autorización.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -864,7 +1124,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La C corresponde a armas de dotación de personal de vigilancia y seguridad habilitado.
 - D, E y F cubren respectivamente caza mayor rayada, determinadas armas de caza/tiro y armas de concurso.
 
-<!-- VISUAL PENDIENTE: t42-66-mapa-de-licencias.webp -->
+<!-- VISUAL:t42-66-mapa-de-licencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-66-mapa-de-licencias.webp" alt="Mapa de licencias" width="820">
+</p>
+<p align="center"><em>Infografía: Mapa de licencias.</em></p>
 
 <!-- FUENTE: GC-LICENSES-T42 -->
 
@@ -877,7 +1141,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - No elimina la guía de pertenencia individual de cada arma.
 - La autoridad expedidora y los límites dependen del cuerpo, escala y situación del titular.
 
-<!-- VISUAL PENDIENTE: t42-67-licencia-a.webp -->
+<!-- VISUAL:t42-67-licencia-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-67-licencia-a.webp" alt="Licencia A" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia A.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -890,7 +1158,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La autoridad valora circunstancias y documentación del solicitante.
 - La licencia no autoriza porte o uso fuera de sus condiciones y límites.
 
-<!-- VISUAL PENDIENTE: t42-il-68-licencia-b.webp -->
+<!-- VISUAL:t42-il-68-licencia-b.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-68-licencia-b.webp" alt="Licencia B" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia B.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -903,7 +1175,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El arma pertenece normalmente a la empresa o entidad y cuenta con guía a su nombre.
 - Cese o suspensión de habilitación afecta al uso y depósito conforme al Reglamento.
 
-<!-- VISUAL PENDIENTE: t42-69-licencia-c.webp -->
+<!-- VISUAL:t42-69-licencia-c.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-69-licencia-c.webp" alt="Licencia C" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia C.</em></p>
 
 <!-- FUENTE: GC-LICENSES-T42 -->
 
@@ -916,7 +1192,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La custodia domiciliaria exige las medidas de seguridad vigentes.
 - El uso debe ajustarse a terrenos, actividad y demás autorizaciones aplicables.
 
-<!-- VISUAL PENDIENTE: t42-70-licencia-d.webp -->
+<!-- VISUAL:t42-70-licencia-d.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-70-licencia-d.webp" alt="Licencia D" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia D.</em></p>
 
 <!-- FUENTE: GC-LICENSES-T42 -->
 
@@ -929,7 +1209,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La licencia no convierte en libre el porte en poblaciones o lugares no autorizados.
 - Cada arma que lo requiera mantiene su guía de pertenencia.
 
-<!-- VISUAL PENDIENTE: t42-71-licencia-e.webp -->
+<!-- VISUAL:t42-71-licencia-e.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-71-licencia-e.webp" alt="Licencia E" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia E.</em></p>
 
 <!-- FUENTE: GC-LICENSES-T42 -->
 
@@ -942,7 +1226,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Solo pueden portarse con el objeto de practicar tiro autorizado.
 - La pérdida de la habilitación deportiva revoca la licencia y obliga a depositar licencia y armas, que pueden permanecer un año en la Intervención.
 
-<!-- VISUAL PENDIENTE: t42-72-licencia-f.webp -->
+<!-- VISUAL:t42-72-licencia-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-72-licencia-f.webp" alt="Licencia F" width="820">
+</p>
+<p align="center"><em>Infografía: Licencia F.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -955,7 +1243,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La F de primera clase puede autorizar hasta diez armas de concurso.
 - La licencia autoriza inicialmente adquirir un arma; las restantes exigen autorización previa individual.
 
-<!-- VISUAL PENDIENTE: t42-il-73-clases-y-cupos-de-licencia-f.webp -->
+<!-- VISUAL:t42-il-73-clases-y-cupos-de-licencia-f.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-73-clases-y-cupos-de-licencia-f.webp" alt="Clases y cupos de licencia F" width="820">
+</p>
+<p align="center"><em>Infografía: Clases y cupos de licencia F.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -968,7 +1260,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Debe acompañar al arma en uso, depósito y transporte.
 - La guía no autoriza por sí sola una actividad o porte que requiera licencia.
 
-<!-- VISUAL PENDIENTE: t42-74-guia-de-pertenencia.webp -->
+<!-- VISUAL:t42-74-guia-de-pertenencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-74-guia-de-pertenencia.webp" alt="Guía de pertenencia" width="820">
+</p>
+<p align="center"><em>Infografía: Guía de pertenencia.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -981,7 +1277,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Contiene la reseña completa del arma.
 - Las Intervenciones de Armas y Explosivos de la Guardia Civil expiden las guías ordinarias en su ámbito.
 
-<!-- VISUAL PENDIENTE: t42-75-contenido-y-expedicion-de-la-guia.webp -->
+<!-- VISUAL:t42-75-contenido-y-expedicion-de-la-guia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-75-contenido-y-expedicion-de-la-guia.webp" alt="Contenido y expedición de la guía" width="820">
+</p>
+<p align="center"><em>Infografía: Contenido y expedición de la guía.</em></p>
 
 <!-- FUENTE: GC-GUIDES-T42 -->
 
@@ -994,7 +1294,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Las guías de Policía Nacional se marcan C.N.P. y numeración correlativa.
 - La autoridad varía para Fuerzas Armadas, Guardia Civil, policías autonómicas, locales y Vigilancia Aduanera.
 
-<!-- VISUAL PENDIENTE: t42-76-guias-del-personal-con-licencia-a.webp -->
+<!-- VISUAL:t42-76-guias-del-personal-con-licencia-a.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-76-guias-del-personal-con-licencia-a.webp" alt="Guías del personal con licencia A" width="820">
+</p>
+<p align="center"><em>Infografía: Guías del personal con licencia A.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1007,7 +1311,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Su validez se limita al término municipal.
 - Tarjeta A documenta hasta seis armas de 4.ª.1 por cinco años; tarjeta B puede documentar sin límite armas de 4.ª.2 y es permanente.
 
-<!-- VISUAL PENDIENTE: t42-77-tarjetas-de-armas.webp -->
+<!-- VISUAL:t42-77-tarjetas-de-armas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-77-tarjetas-de-armas.webp" alt="Tarjetas de armas" width="820">
+</p>
+<p align="center"><em>Infografía: Tarjetas de armas.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1020,7 +1328,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La autorización permite uso, pero no posesión plena ni porte dentro de poblaciones.
 - El adulto acompañante debe tener licencia adecuada y asumir supervisión y almacenamiento.
 
-<!-- VISUAL PENDIENTE: t42-il-78-autorizacion-especial-de-menores.webp -->
+<!-- VISUAL:t42-il-78-autorizacion-especial-de-menores.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-78-autorizacion-especial-de-menores.webp" alt="Autorización especial de menores" width="820">
+</p>
+<p align="center"><em>Infografía: Autorización especial de menores.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1033,7 +1345,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El usuario debe llevarla consigo durante los desplazamientos en que sea exigible.
 - No sustituye automáticamente autorizaciones del Estado visitado cuando estas son necesarias.
 
-<!-- VISUAL PENDIENTE: t42-79-tarjeta-europea-de-armas-de-fuego.webp -->
+<!-- VISUAL:t42-79-tarjeta-europea-de-armas-de-fuego.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-79-tarjeta-europea-de-armas-de-fuego.webp" alt="Tarjeta Europea de Armas de Fuego" width="820">
+</p>
+<p align="center"><em>Infografía: Tarjeta Europea de Armas de Fuego.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1046,7 +1362,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Ante renovación próxima, la Intervención puede expedir autorización temporal de uso por tres meses y recoger la licencia que caduca.
 - Revista, renovación y autorización temporal son trámites distintos.
 
-<!-- VISUAL PENDIENTE: t42-80-revista-renovacion-y-autorizacion-temporal.webp -->
+<!-- VISUAL:t42-80-revista-renovacion-y-autorizacion-temporal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-80-revista-renovacion-y-autorizacion-temporal.webp" alt="Revista, renovación y autorización temporal" width="820">
+</p>
+<p align="center"><em>Infografía: Revista, renovación y autorización temporal.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1059,7 +1379,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Pérdida, destrucción, robo o sustracción deben comunicarse inmediatamente a la Intervención correspondiente.
 - Las medidas concretas de armero dependen de la categoría y licencia, además de la obligación general.
 
-<!-- VISUAL PENDIENTE: t42-81-custodia-y-comunicacion-de-perdida.webp -->
+<!-- VISUAL:t42-81-custodia-y-comunicacion-de-perdida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-81-custodia-y-comunicacion-de-perdida.webp" alt="Custodia y comunicación de pérdida" width="820">
+</p>
+<p align="center"><em>Infografía: Custodia y comunicación de pérdida.</em></p>
 
 <!-- FUENTE: BOE-RA-T42 -->
 
@@ -1072,7 +1396,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La balística externa estudia el vuelo desde la boca hasta el blanco.
 - La balística terminal o de efectos estudia el comportamiento al impactar y dentro del blanco.
 
-<!-- VISUAL PENDIENTE: t42-82-concepto-y-ramas-de-la-balistica.webp -->
+<!-- VISUAL:t42-82-concepto-y-ramas-de-la-balistica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-82-concepto-y-ramas-de-la-balistica.webp" alt="Concepto y ramas de la balística" width="820">
+</p>
+<p align="center"><em>Infografía: Concepto y ramas de la balística.</em></p>
 
 <!-- FUENTE: NIJ-BALLISTICS-T42 -->
 
@@ -1085,7 +1413,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Incluye el movimiento del proyectil por el ánima hasta abandonar la boca.
 - Arma, cartucho, temperatura y estado del sistema condicionan el proceso.
 
-<!-- VISUAL PENDIENTE: t42-il-83-balistica-interna.webp -->
+<!-- VISUAL:t42-il-83-balistica-interna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-83-balistica-interna.webp" alt="Balística interna" width="820">
+</p>
+<p align="center"><em>Infografía: Balística interna.</em></p>
 
 <!-- FUENTE: NIJ-BALLISTICS-T42 -->
 
@@ -1098,7 +1430,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Velocidad, orientación, viento y condiciones atmosféricas influyen en el vuelo.
 - La trayectoria real no es una parábola ideal invariable.
 
-<!-- VISUAL PENDIENTE: t42-84-balistica-externa.webp -->
+<!-- VISUAL:t42-84-balistica-externa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-84-balistica-externa.webp" alt="Balística externa" width="820">
+</p>
+<p align="center"><em>Infografía: Balística externa.</em></p>
 
 <!-- FUENTE: NIJ-BALLISTICS-T42 -->
 
@@ -1111,7 +1447,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El mismo proyectil puede comportarse de modo distinto según velocidad, ángulo y material.
 - Poder de penetración y poder de parada no son magnitudes universales independientes del contexto.
 
-<!-- VISUAL PENDIENTE: t42-85-balistica-terminal-o-de-efectos.webp -->
+<!-- VISUAL:t42-85-balistica-terminal-o-de-efectos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-85-balistica-terminal-o-de-efectos.webp" alt="Balística terminal o de efectos" width="820">
+</p>
+<p align="center"><em>Infografía: Balística terminal o de efectos.</em></p>
 
 <!-- FUENTE: NIJ-BALLISTICS-T42 -->
 
@@ -1124,7 +1464,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Impactos intermedios pueden desviar, deformar o fragmentar el proyectil.
 - Una reconstrucción debe incorporar incertidumbre geométrica y material.
 
-<!-- VISUAL PENDIENTE: t42-86-trayectoria-y-linea-de-tiro.webp -->
+<!-- VISUAL:t42-86-trayectoria-y-linea-de-tiro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-86-trayectoria-y-linea-de-tiro.webp" alt="Trayectoria y línea de tiro" width="820">
+</p>
+<p align="center"><em>Infografía: Trayectoria y línea de tiro.</em></p>
 
 <!-- FUENTE: FBI-LAB-T42 -->
 
@@ -1137,7 +1481,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - No existe un límite universal de 30 centímetros o un metro válido para toda combinación.
 - Superficie, ropa, munición, cañón y ambiente alteran el patrón.
 
-<!-- VISUAL PENDIENTE: t42-87-distancia-de-disparo.webp -->
+<!-- VISUAL:t42-87-distancia-de-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-87-distancia-de-disparo.webp" alt="Distancia de disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Distancia de disparo.</em></p>
 
 <!-- FUENTE: FBI-GSR-T42 -->
 
@@ -1150,7 +1498,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El orificio de salida puede faltar o presentar tamaño y forma variables.
 - No es válido afirmar siempre que la salida es mayor que la entrada.
 
-<!-- VISUAL PENDIENTE: t42-88-orificios-de-entrada-y-salida.webp -->
+<!-- VISUAL:t42-88-orificios-de-entrada-y-salida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-88-orificios-de-entrada-y-salida.webp" alt="Orificios de entrada y salida" width="820">
+</p>
+<p align="center"><em>Infografía: Orificios de entrada y salida.</em></p>
 
 <!-- FUENTE: FBI-LAB-T42 -->
 
@@ -1163,7 +1515,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Fragmentos de un mismo proyectil pueden seguir trayectorias diferentes.
 - La reconstrucción debe distinguir trayectoria antes y después de cada interacción.
 
-<!-- VISUAL PENDIENTE: t42-89-rebotes-y-proyectiles-deformados.webp -->
+<!-- VISUAL:t42-89-rebotes-y-proyectiles-deformados.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-89-rebotes-y-proyectiles-deformados.webp" alt="Rebotes y proyectiles deformados" width="820">
+</p>
+<p align="center"><em>Infografía: Rebotes y proyectiles deformados.</em></p>
 
 <!-- FUENTE: FBI-LAB-T42 -->
 
@@ -1176,7 +1532,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Parte de indicios y preguntas periciales, no de una narración asumida como cierta.
 - Sus conclusiones deben expresar alcance y limitaciones.
 
-<!-- VISUAL PENDIENTE: t42-90-objeto-de-la-balistica-forense.webp -->
+<!-- VISUAL:t42-90-objeto-de-la-balistica-forense.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-90-objeto-de-la-balistica-forense.webp" alt="Objeto de la balística forense" width="820">
+</p>
+<p align="center"><em>Infografía: Objeto de la balística forense.</em></p>
 
 <!-- FUENTE: INTERIOR-PC-T42 -->
 
@@ -1189,7 +1549,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Puede estudiar seguros, fuerza de disparo, manipulaciones y posibilidad de funcionamiento accidental según el caso.
 - La prueba debe documentarse y realizarse con medidas de seguridad.
 
-<!-- VISUAL PENDIENTE: t42-il-91-balistica-funcional.webp -->
+<!-- VISUAL:t42-il-91-balistica-funcional.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-91-balistica-funcional.webp" alt="Balística funcional" width="820">
+</p>
+<p align="center"><em>Infografía: Balística funcional.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -1202,7 +1566,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - El cotejo microscópico valora marcas reproducibles y su correspondencia.
 - Una búsqueda automatizada propone candidatos, pero no sustituye la evaluación experta.
 
-<!-- VISUAL PENDIENTE: t42-92-balistica-identificativa.webp -->
+<!-- VISUAL:t42-92-balistica-identificativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-92-balistica-identificativa.webp" alt="Balística identificativa" width="820">
+</p>
+<p align="center"><em>Infografía: Balística identificativa.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -1215,7 +1583,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Las individuales son variaciones aleatorias o adquiridas que pueden apoyar una asociación.
 - Confundir subclase con individual puede sobrevalorar una coincidencia.
 
-<!-- VISUAL PENDIENTE: t42-93-caracteristicas-de-clase-subclase-e-individuales.webp -->
+<!-- VISUAL:t42-93-caracteristicas-de-clase-subclase-e-individuales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-93-caracteristicas-de-clase-subclase-e-individuales.webp" alt="Características de clase, subclase e individuales" width="820">
+</p>
+<p align="center"><em>Infografía: Características de clase, subclase e individuales.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -1228,7 +1600,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Extractor y expulsor pueden dejar marcas según el mecanismo.
 - Ausencia o mala calidad de una marca no demuestra que el arma no interviniera.
 
-<!-- VISUAL PENDIENTE: t42-94-marcas-en-vaina.webp -->
+<!-- VISUAL:t42-94-marcas-en-vaina.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-94-marcas-en-vaina.webp" alt="Marcas en vaina" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas en vaina.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -1241,7 +1617,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Las estrías microscópicas pueden compararse con proyectiles de prueba.
 - Deformación, fragmentación o encamisado pueden limitar la comparación.
 
-<!-- VISUAL PENDIENTE: t42-95-marcas-en-proyectil.webp -->
+<!-- VISUAL:t42-95-marcas-en-proyectil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-95-marcas-en-proyectil.webp" alt="Marcas en proyectil" width="820">
+</p>
+<p align="center"><em>Infografía: Marcas en proyectil.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 
@@ -1254,7 +1634,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Casquillos, proyectiles, tacos, perdigones, daños y residuos deben documentarse en contexto.
 - Una posición compatible no equivale a identificar a la persona que disparó.
 
-<!-- VISUAL PENDIENTE: t42-il-96-balistica-operativa-y-escena.webp -->
+<!-- VISUAL:t42-il-96-balistica-operativa-y-escena.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-il-96-balistica-operativa-y-escena.webp" alt="Balística operativa y escena" width="820">
+</p>
+<p align="center"><em>Infografía: Balística operativa y escena.</em></p>
 
 <!-- FUENTE: SECRIM-2024-T42 -->
 
@@ -1267,7 +1651,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - Se pierden con actividad y lavado y pueden transferirse secundariamente.
 - Su presencia apoya hipótesis de disparo, proximidad o contacto, pero no identifica por sí sola al tirador.
 
-<!-- VISUAL PENDIENTE: t42-97-residuos-de-disparo.webp -->
+<!-- VISUAL:t42-97-residuos-de-disparo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-97-residuos-de-disparo.webp" alt="Residuos de disparo" width="820">
+</p>
+<p align="center"><em>Infografía: Residuos de disparo.</em></p>
 
 <!-- FUENTE: FBI-GSR-T42 -->
 
@@ -1280,7 +1668,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La munición de prueba debe ser igual o suficientemente comparable a la cuestionada.
 - El resultado suele expresarse como intervalo o compatibilidad, no como cifra absoluta universal.
 
-<!-- VISUAL PENDIENTE: t42-98-estimacion-de-distancia-y-patrones.webp -->
+<!-- VISUAL:t42-98-estimacion-de-distancia-y-patrones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-98-estimacion-de-distancia-y-patrones.webp" alt="Estimación de distancia y patrones" width="820">
+</p>
+<p align="center"><em>Infografía: Estimación de distancia y patrones.</em></p>
 
 <!-- FUENTE: FBI-LAB-T42 -->
 
@@ -1293,7 +1685,11 @@ El Tema 42 se estudia en ocho partes: origen y conceptos; clasificación y funci
 - La ausencia de asociación puede deberse a origen distinto o a insuficiencia de marcas.
 - Las conclusiones deben evitar certeza absoluta no respaldada y separar observación de inferencia.
 
-<!-- VISUAL PENDIENTE: t42-99-limites-de-la-conclusion-forense.webp -->
+<!-- VISUAL:t42-99-limites-de-la-conclusion-forense.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-42/t42-99-limites-de-la-conclusion-forense.webp" alt="Límites de la conclusión forense" width="820">
+</p>
+<p align="center"><em>Infografía: Límites de la conclusión forense.</em></p>
 
 <!-- FUENTE: NIST-OSAC-T42 -->
 

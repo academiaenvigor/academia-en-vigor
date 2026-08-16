@@ -33,7 +33,11 @@ Para dominar **alcance oficial y método del tema 44**, aplica esta regla: El pr
 - **Incorrecto:** El tema se limita a memorizar nombres comerciales de ADAS.
 - **Incorrecto:** Todo porcentaje de reducción publicado sirve para cualquier vehículo y siniestro.
 
-<!-- VISUAL PENDIENTE: t44-01-alcance-oficial-y-metodo-del-tema-44.webp -->
+<!-- VISUAL:t44-01-alcance-oficial-y-metodo-del-tema-44.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-01-alcance-oficial-y-metodo-del-tema-44.webp" alt="Alcance oficial y método del Tema 44" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y método del Tema 44.</em></p>
 
 :::hablemos-claro
 El programa enlaza conducción prioritaria, seguridad activa y pasiva, turismo, motocicleta, siniestralidad y traslado de detenidos.
@@ -72,7 +76,11 @@ Para dominar **urgencia, prioridad y seguridad**, aplica esta regla: El régimen
 - **Incorrecto:** La señal azul convierte cualquier maniobra en segura.
 - **Incorrecto:** La prioridad elimina la obligación de comprobar la intersección.
 
-<!-- VISUAL PENDIENTE: t44-02-urgencia-prioridad-y-seguridad.webp -->
+<!-- VISUAL:t44-02-urgencia-prioridad-y-seguridad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-02-urgencia-prioridad-y-seguridad.webp" alt="Urgencia, prioridad y seguridad" width="820">
+</p>
+<p align="center"><em>Infografía: Urgencia, prioridad y seguridad.</em></p>
 
 :::hablemos-claro
 El régimen prioritario permite excepciones reglamentarias, pero exige uso ponderado y ausencia de peligro para los demás usuarios.
@@ -111,7 +119,11 @@ Para dominar **conducción defensiva vea**, aplica esta regla: La conducción de
 - **Incorrecto:** La visión correcta consiste en fijarse solo en el vehículo precedente.
 - **Incorrecto:** Anticipar permite reducir la distancia porque el conductor ya prevé el peligro.
 
-<!-- VISUAL PENDIENTE: t44-03-conduccion-defensiva-vea.webp -->
+<!-- VISUAL:t44-03-conduccion-defensiva-vea.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-03-conduccion-defensiva-vea.webp" alt="Conducción defensiva VEA" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción defensiva VEA.</em></p>
 
 :::hablemos-claro
 La conducción defensiva combina visión amplia, espacio de seguridad y anticipación de errores ajenos.
@@ -150,7 +162,11 @@ Para dominar **dinámica de la velocidad**, aplica esta regla: Al aumentar la ve
 - **Incorrecto:** La distancia de frenado depende solo del tiempo de reacción.
 - **Incorrecto:** La energía de un impacto aumenta linealmente con la velocidad en todos los casos.
 
-<!-- VISUAL PENDIENTE: t44-04-dinamica-de-la-velocidad.webp -->
+<!-- VISUAL:t44-04-dinamica-de-la-velocidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-04-dinamica-de-la-velocidad.webp" alt="Dinámica de la velocidad" width="820">
+</p>
+<p align="center"><em>Infografía: Dinámica de la velocidad.</em></p>
 
 :::hablemos-claro
 Al aumentar la velocidad crecen la distancia recorrida durante la reacción y la energía que debe disiparse.
@@ -189,7 +205,11 @@ Para dominar **adherencia y transferencia de masas**, aplica esta regla: Frenar,
 - **Incorrecto:** El ABS aumenta físicamente el coeficiente de adherencia.
 - **Incorrecto:** La transferencia de masas desaparece en vehículos con control electrónico.
 
-<!-- VISUAL PENDIENTE: t44-il-05-adherencia-y-transferencia-de-masas.webp -->
+<!-- VISUAL:t44-il-05-adherencia-y-transferencia-de-masas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-05-adherencia-y-transferencia-de-masas.webp" alt="Adherencia y transferencia de masas" width="820">
+</p>
+<p align="center"><em>Infografía: Adherencia y transferencia de masas.</em></p>
 
 :::hablemos-claro
 Frenar, acelerar y girar consumen la capacidad limitada de adherencia disponible en cada neumático.
@@ -228,7 +248,11 @@ Para dominar **intersecciones en servicio urgente**, aplica esta regla: La inter
 - **Incorrecto:** La sirena permite atravesar una intersección sin reducir velocidad.
 - **Incorrecto:** Si un carril se detiene, todos los demás quedan automáticamente libres.
 
-<!-- VISUAL PENDIENTE: t44-06-intersecciones-en-servicio-urgente.webp -->
+<!-- VISUAL:t44-06-intersecciones-en-servicio-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-06-intersecciones-en-servicio-urgente.webp" alt="Intersecciones en servicio urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Intersecciones en servicio urgente.</em></p>
 
 :::hablemos-claro
 La intersección es un punto crítico porque la señal acústica puede dificultar localizar la procedencia exacta del prioritario.
@@ -267,7 +291,11 @@ Para dominar **elección de trayectoria y escape**, aplica esta regla: La trayec
 - **Incorrecto:** La trayectoria más corta es siempre la más segura.
 - **Incorrecto:** Una vez iniciada una maniobra urgente nunca debe abortarse.
 
-<!-- VISUAL PENDIENTE: t44-07-eleccion-de-trayectoria-y-escape.webp -->
+<!-- VISUAL:t44-07-eleccion-de-trayectoria-y-escape.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-07-eleccion-de-trayectoria-y-escape.webp" alt="Elección de trayectoria y escape" width="820">
+</p>
+<p align="center"><em>Infografía: Elección de trayectoria y escape.</em></p>
 
 :::hablemos-claro
 La trayectoria segura maximiza visibilidad, estabilidad y posibilidad de escape.
@@ -306,7 +334,11 @@ Para dominar **uso de señales y carga mental**, aplica esta regla: Las señales
 - **Incorrecto:** Más señales garantizan siempre una respuesta correcta de terceros.
 - **Incorrecto:** El conductor debe manejar radio, navegación y comunicaciones sin apoyo para ahorrar tiempo.
 
-<!-- VISUAL PENDIENTE: t44-08-uso-de-senales-y-carga-mental.webp -->
+<!-- VISUAL:t44-08-uso-de-senales-y-carga-mental.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-08-uso-de-senales-y-carga-mental.webp" alt="Uso de señales y carga mental" width="820">
+</p>
+<p align="center"><em>Infografía: Uso de señales y carga mental.</em></p>
 
 :::hablemos-claro
 Las señales especiales informan de presencia urgente, pero no sustituyen observación ni comunicación táctica.
@@ -345,7 +377,11 @@ Para dominar **comprobación previa del vehículo**, aplica esta regla: La revis
 - **Incorrecto:** La urgencia permite usar un vehículo con un defecto crítico conocido.
 - **Incorrecto:** Los objetos sueltos no influyen en la seguridad porque están dentro del habitáculo.
 
-<!-- VISUAL PENDIENTE: t44-09-comprobacion-previa-del-vehiculo.webp -->
+<!-- VISUAL:t44-09-comprobacion-previa-del-vehiculo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-09-comprobacion-previa-del-vehiculo.webp" alt="Comprobación previa del vehículo" width="820">
+</p>
+<p align="center"><em>Infografía: Comprobación previa del vehículo.</em></p>
 
 :::hablemos-claro
 La revisión previa debe detectar defectos de neumáticos, frenos, alumbrado, señalización, niveles y elementos de retención.
@@ -384,7 +420,11 @@ Para dominar **después de una incidencia**, aplica esta regla: Tras una inciden
 - **Incorrecto:** La prioridad tras el choque es preservar el vehículo aunque exista riesgo personal.
 - **Incorrecto:** Encender luces elimina la necesidad de evaluar el entorno.
 
-<!-- VISUAL PENDIENTE: t44-il-10-despues-de-una-incidencia.webp -->
+<!-- VISUAL:t44-il-10-despues-de-una-incidencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-10-despues-de-una-incidencia.webp" alt="Después de una incidencia" width="820">
+</p>
+<p align="center"><em>Infografía: Después de una incidencia.</em></p>
 
 :::hablemos-claro
 Tras una incidencia debe evitarse crear un segundo siniestro mediante posición, señalización y autoprotección.
@@ -423,7 +463,11 @@ Para dominar **seguridad activa o primaria**, aplica esta regla: La seguridad ac
 - **Incorrecto:** La seguridad activa actúa únicamente después del impacto.
 - **Incorrecto:** Todo componente eléctrico es por definición seguridad activa.
 
-<!-- VISUAL PENDIENTE: t44-11-seguridad-activa-o-primaria.webp -->
+<!-- VISUAL:t44-11-seguridad-activa-o-primaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-11-seguridad-activa-o-primaria.webp" alt="Seguridad activa o primaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad activa o primaria.</em></p>
 
 :::hablemos-claro
 La seguridad activa o primaria trata de evitar el siniestro o reducir su probabilidad y gravedad antes del impacto.
@@ -462,7 +506,11 @@ Para dominar **seguridad pasiva o secundaria**, aplica esta regla: La seguridad 
 - **Incorrecto:** El cinturón evita que se produzca cualquier accidente.
 - **Incorrecto:** La seguridad pasiva solo protege la carrocería y no a las personas.
 
-<!-- VISUAL PENDIENTE: t44-12-seguridad-pasiva-o-secundaria.webp -->
+<!-- VISUAL:t44-12-seguridad-pasiva-o-secundaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-12-seguridad-pasiva-o-secundaria.webp" alt="Seguridad pasiva o secundaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad pasiva o secundaria.</em></p>
 
 :::hablemos-claro
 La seguridad pasiva o secundaria busca limitar lesiones cuando el siniestro ya se produce.
@@ -501,7 +549,11 @@ Para dominar **seguridad terciaria**, aplica esta regla: La seguridad terciaria 
 - **Incorrecto:** La seguridad terciaria se limita a reparar el vehículo.
 - **Incorrecto:** eCall impide físicamente la colisión.
 
-<!-- VISUAL PENDIENTE: t44-13-seguridad-terciaria.webp -->
+<!-- VISUAL:t44-13-seguridad-terciaria.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-13-seguridad-terciaria.webp" alt="Seguridad terciaria" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad terciaria.</em></p>
 
 :::hablemos-claro
 La seguridad terciaria facilita rescate, aviso y asistencia después del siniestro.
@@ -540,7 +592,11 @@ Para dominar **seguridad integrada**, aplica esta regla: La seguridad integrada 
 - **Incorrecto:** Un buen sistema activo vuelve innecesario el cinturón.
 - **Incorrecto:** La seguridad integrada significa que todos los dispositivos se activan siempre a la vez.
 
-<!-- VISUAL PENDIENTE: t44-14-seguridad-integrada.webp -->
+<!-- VISUAL:t44-14-seguridad-integrada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-14-seguridad-integrada.webp" alt="Seguridad integrada" width="820">
+</p>
+<p align="center"><em>Infografía: Seguridad integrada.</em></p>
 
 :::hablemos-claro
 La seguridad integrada coordina funciones activas, pasivas y posteriores al impacto.
@@ -579,7 +635,11 @@ Para dominar **sistema, función y componente**, aplica esta regla: Un sistema c
 - **Incorrecto:** Un sensor aislado constituye siempre un ADAS completo.
 - **Incorrecto:** Una función de seguridad solo puede usar un único componente.
 
-<!-- VISUAL PENDIENTE: t44-il-15-sistema-funcion-y-componente.webp -->
+<!-- VISUAL:t44-il-15-sistema-funcion-y-componente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-15-sistema-funcion-y-componente.webp" alt="Sistema, función y componente" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema, función y componente.</em></p>
 
 :::hablemos-claro
 Un sistema combina sensores, lógica, actuadores e interfaz para cumplir una función de seguridad.
@@ -618,7 +678,11 @@ Para dominar **ayuda a la conducción y responsabilidad**, aplica esta regla: AD
 - **Incorrecto:** ADAS equivale siempre a vehículo autónomo.
 - **Incorrecto:** Con un asistente activo el conductor puede desentenderse de la vía.
 
-<!-- VISUAL PENDIENTE: t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp -->
+<!-- VISUAL:t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-16-ayuda-a-la-conduccion-y-responsabilidad.webp" alt="Ayuda a la conducción y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Ayuda a la conducción y responsabilidad.</em></p>
 
 :::hablemos-claro
 ADAS significa sistema avanzado de ayuda a la conducción, no sustitución general del conductor.
@@ -657,7 +721,11 @@ Para dominar **sensor, entorno y degradación**, aplica esta regla: La eficacia 
 - **Incorrecto:** Los sensores mantienen idéntico rendimiento en cualquier condición.
 - **Incorrecto:** Si no aparece un testigo, el sistema detectará necesariamente todo obstáculo.
 
-<!-- VISUAL PENDIENTE: t44-17-sensor-entorno-y-degradacion.webp -->
+<!-- VISUAL:t44-17-sensor-entorno-y-degradacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-17-sensor-entorno-y-degradacion.webp" alt="Sensor, entorno y degradación" width="820">
+</p>
+<p align="center"><em>Infografía: Sensor, entorno y degradación.</em></p>
 
 :::hablemos-claro
 La eficacia de cámaras, radar y otros sensores depende de visibilidad, limpieza, calibración y condiciones ambientales.
@@ -696,7 +764,11 @@ Para dominar **mantenimiento y calibración**, aplica esta regla: La sustitució
 - **Incorrecto:** Los ADAS no necesitan calibración tras ninguna reparación.
 - **Incorrecto:** La homologación inicial garantiza eficacia aunque el sistema esté averiado.
 
-<!-- VISUAL PENDIENTE: t44-18-mantenimiento-y-calibracion.webp -->
+<!-- VISUAL:t44-18-mantenimiento-y-calibracion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-18-mantenimiento-y-calibracion.webp" alt="Mantenimiento y calibración" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento y calibración.</em></p>
 
 :::hablemos-claro
 La sustitución de parabrisas, sensores, ruedas o elementos de suspensión puede exigir calibración de ayudas.
@@ -735,7 +807,11 @@ Para dominar **homologación y uso real**, aplica esta regla: La homologación v
 - **Incorrecto:** Toda homologación certifica eficacia absoluta en tráfico real.
 - **Incorrecto:** Todos los sistemas del Reglamento 2019/2144 tienen la misma fecha y categorías.
 
-<!-- VISUAL PENDIENTE: t44-19-homologacion-y-uso-real.webp -->
+<!-- VISUAL:t44-19-homologacion-y-uso-real.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-19-homologacion-y-uso-real.webp" alt="Homologación y uso real" width="820">
+</p>
+<p align="center"><em>Infografía: Homologación y uso real.</em></p>
 
 :::hablemos-claro
 La homologación verifica requisitos técnicos definidos, no promete ausencia de siniestros.
@@ -774,7 +850,11 @@ Para dominar **trampa de las cifras universales**, aplica esta regla: La efectiv
 - **Incorrecto:** Dos sistemas con reducción estimada del 30 % producen siempre un 60 %.
 - **Incorrecto:** Una cifra de laboratorio se aplica sin cambios a cualquier población.
 
-<!-- VISUAL PENDIENTE: t44-il-20-trampa-de-las-cifras-universales.webp -->
+<!-- VISUAL:t44-il-20-trampa-de-las-cifras-universales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-20-trampa-de-las-cifras-universales.webp" alt="Trampa de las cifras universales" width="820">
+</p>
+<p align="center"><em>Infografía: Trampa de las cifras universales.</em></p>
 
 :::hablemos-claro
 La efectividad se estima comparando escenarios y depende de exposición, parque, uso y definición de resultado.
@@ -813,7 +893,11 @@ Para dominar **estructura y célula de supervivencia**, aplica esta regla: La es
 - **Incorrecto:** La carrocería más segura es totalmente rígida en todas sus zonas.
 - **Incorrecto:** La deformación exterior demuestra necesariamente un mal diseño.
 
-<!-- VISUAL PENDIENTE: t44-21-estructura-y-celula-de-supervivencia.webp -->
+<!-- VISUAL:t44-21-estructura-y-celula-de-supervivencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-21-estructura-y-celula-de-supervivencia.webp" alt="Estructura y célula de supervivencia" width="820">
+</p>
+<p align="center"><em>Infografía: Estructura y célula de supervivencia.</em></p>
 
 :::hablemos-claro
 La estructura combina zonas de deformación programada con un habitáculo que debe preservar espacio vital.
@@ -852,7 +936,11 @@ Para dominar **cinturón de tres puntos**, aplica esta regla: El cinturón retie
 - **Incorrecto:** El cinturón se coloca sobre el abdomen para resultar más cómodo.
 - **Incorrecto:** El airbag permite prescindir del cinturón.
 
-<!-- VISUAL PENDIENTE: t44-22-cinturon-de-tres-puntos.webp -->
+<!-- VISUAL:t44-22-cinturon-de-tres-puntos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-22-cinturon-de-tres-puntos.webp" alt="Cinturón de tres puntos" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón de tres puntos.</em></p>
 
 :::hablemos-claro
 El cinturón retiene al ocupante, distribuye cargas y reduce impactos contra interior o expulsión.
@@ -891,7 +979,11 @@ Para dominar **pretensor y limitador de carga**, aplica esta regla: El pretensor
 - **Incorrecto:** El limitador aprieta indefinidamente la cinta.
 - **Incorrecto:** El pretensor sustituye el anclaje del cinturón.
 
-<!-- VISUAL PENDIENTE: t44-23-pretensor-y-limitador-de-carga.webp -->
+<!-- VISUAL:t44-23-pretensor-y-limitador-de-carga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-23-pretensor-y-limitador-de-carga.webp" alt="Pretensor y limitador de carga" width="820">
+</p>
+<p align="center"><em>Infografía: Pretensor y limitador de carga.</em></p>
 
 :::hablemos-claro
 El pretensor reduce rápidamente la holgura del cinturón al iniciarse un choque relevante.
@@ -930,7 +1022,11 @@ Para dominar **reposacabezas y latigazo cervical**, aplica esta regla: El reposa
 - **Incorrecto:** Debe colocarse a la altura de los hombros.
 - **Incorrecto:** Cuanto más lejos esté de la cabeza, mejor absorbe el movimiento.
 
-<!-- VISUAL PENDIENTE: t44-24-reposacabezas-y-latigazo-cervical.webp -->
+<!-- VISUAL:t44-24-reposacabezas-y-latigazo-cervical.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-24-reposacabezas-y-latigazo-cervical.webp" alt="Reposacabezas y latigazo cervical" width="820">
+</p>
+<p align="center"><em>Infografía: Reposacabezas y latigazo cervical.</em></p>
 
 :::hablemos-claro
 El reposacabezas limita el desplazamiento relativo de la cabeza respecto del tronco en un alcance.
@@ -969,7 +1065,11 @@ Para dominar **airbag como complemento**, aplica esta regla: El airbag crea una 
 - **Incorrecto:** Todo roce activa todos los airbags del vehículo.
 - **Incorrecto:** El airbag frontal es una almohada reutilizable que actúa lentamente.
 
-<!-- VISUAL PENDIENTE: t44-il-25-airbag-como-complemento.webp -->
+<!-- VISUAL:t44-il-25-airbag-como-complemento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-25-airbag-como-complemento.webp" alt="Airbag como complemento" width="820">
+</p>
+<p align="center"><em>Infografía: Airbag como complemento.</em></p>
 
 :::hablemos-claro
 El airbag crea una superficie de desaceleración y reduce contacto con elementos duros en colisiones previstas.
@@ -1008,7 +1108,11 @@ Para dominar **sistemas de retención infantil**, aplica esta regla: Los menores
 - **Incorrecto:** Todo menor puede viajar delante si lleva cinturón de adulto.
 - **Incorrecto:** Un sistema a contramarcha delante es compatible con airbag frontal activo.
 
-<!-- VISUAL PENDIENTE: t44-26-sistemas-de-retencion-infantil.webp -->
+<!-- VISUAL:t44-26-sistemas-de-retencion-infantil.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-26-sistemas-de-retencion-infantil.webp" alt="Sistemas de retención infantil" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas de retención infantil.</em></p>
 
 :::hablemos-claro
 Los menores de estatura igual o inferior a 135 centímetros deben usar sistemas homologados adecuados a sus características.
@@ -1047,7 +1151,11 @@ Para dominar **asientos y anclajes**, aplica esta regla: El asiento y sus anclaj
 - **Incorrecto:** Reclinar al máximo el respaldo mejora siempre la retención.
 - **Incorrecto:** El anclaje ISOFIX elimina la necesidad de seguir instrucciones.
 
-<!-- VISUAL PENDIENTE: t44-27-asientos-y-anclajes.webp -->
+<!-- VISUAL:t44-27-asientos-y-anclajes.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-27-asientos-y-anclajes.webp" alt="Asientos y anclajes" width="820">
+</p>
+<p align="center"><em>Infografía: Asientos y anclajes.</em></p>
 
 :::hablemos-claro
 El asiento y sus anclajes deben soportar cargas y mantener al ocupante en posición compatible con la retención.
@@ -1086,7 +1194,11 @@ Para dominar **cristales y parabrisas**, aplica esta regla: El parabrisas lamina
 - **Incorrecto:** Todos los cristales del vehículo tienen idéntica construcción.
 - **Incorrecto:** El parabrisas solo protege del viento y no participa en otras funciones.
 
-<!-- VISUAL PENDIENTE: t44-28-cristales-y-parabrisas.webp -->
+<!-- VISUAL:t44-28-cristales-y-parabrisas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-28-cristales-y-parabrisas.webp" alt="Cristales y parabrisas" width="820">
+</p>
+<p align="center"><em>Infografía: Cristales y parabrisas.</em></p>
 
 :::hablemos-claro
 El parabrisas laminado contribuye a visibilidad, retención de fragmentos y comportamiento estructural.
@@ -1125,7 +1237,11 @@ Para dominar **columna de dirección y pedales**, aplica esta regla: Los diseño
 - **Incorrecto:** La columna debe permanecer completamente rígida hacia el ocupante.
 - **Incorrecto:** La seguridad de los pedales pertenece siempre a la seguridad activa.
 
-<!-- VISUAL PENDIENTE: t44-29-columna-de-direccion-y-pedales.webp -->
+<!-- VISUAL:t44-29-columna-de-direccion-y-pedales.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-29-columna-de-direccion-y-pedales.webp" alt="Columna de dirección y pedales" width="820">
+</p>
+<p align="center"><em>Infografía: Columna de dirección y pedales.</em></p>
 
 :::hablemos-claro
 Los diseños colapsables y de desacoplamiento buscan reducir lesiones por intrusión durante el impacto.
@@ -1164,7 +1280,11 @@ Para dominar **protección de usuarios vulnerables**, aplica esta regla: La segu
 - **Incorrecto:** La seguridad pasiva solo se diseña para personas dentro del vehículo.
 - **Incorrecto:** Detectar a un peatón y absorber el impacto son la misma función.
 
-<!-- VISUAL PENDIENTE: t44-il-30-proteccion-de-usuarios-vulnerables.webp -->
+<!-- VISUAL:t44-il-30-proteccion-de-usuarios-vulnerables.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-30-proteccion-de-usuarios-vulnerables.webp" alt="Protección de usuarios vulnerables" width="820">
+</p>
+<p align="center"><em>Infografía: Protección de usuarios vulnerables.</em></p>
 
 :::hablemos-claro
 La seguridad pasiva también puede reducir lesiones de peatones o ciclistas en un impacto.
@@ -1203,7 +1323,11 @@ Para dominar **neumático como único contacto**, aplica esta regla: El neumáti
 - **Incorrecto:** El dibujo crea adherencia ilimitada sobre agua.
 - **Incorrecto:** Todos los vehículos, incluidas todas las categorías L, comparten sin matices el mínimo de 1,6 milímetros.
 
-<!-- VISUAL PENDIENTE: t44-31-neumatico-como-unico-contacto.webp -->
+<!-- VISUAL:t44-31-neumatico-como-unico-contacto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-31-neumatico-como-unico-contacto.webp" alt="Neumático como único contacto" width="820">
+</p>
+<p align="center"><em>Infografía: Neumático como único contacto.</em></p>
 
 :::hablemos-claro
 El neumático transmite frenado, guiado y aceleración entre vehículo y calzada.
@@ -1242,7 +1366,11 @@ Para dominar **sistema de frenado y reparto**, aplica esta regla: El freno trans
 - **Incorrecto:** Los frenos detienen igual con cualquier velocidad y firme.
 - **Incorrecto:** La frenada solo utiliza las ruedas delanteras.
 
-<!-- VISUAL PENDIENTE: t44-32-sistema-de-frenado-y-reparto.webp -->
+<!-- VISUAL:t44-32-sistema-de-frenado-y-reparto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-32-sistema-de-frenado-y-reparto.webp" alt="Sistema de frenado y reparto" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema de frenado y reparto.</em></p>
 
 :::hablemos-claro
 El freno transforma energía cinética principalmente en calor para reducir velocidad.
@@ -1281,7 +1409,11 @@ Para dominar **abs**, aplica esta regla: ABS modula la presión para evitar bloq
 - **Incorrecto:** ABS impide físicamente cualquier derrape lateral.
 - **Incorrecto:** Ante vibración del pedal debe dejarse de frenar de inmediato.
 
-<!-- VISUAL PENDIENTE: t44-33-abs.webp -->
+<!-- VISUAL:t44-33-abs.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-33-abs.webp" alt="ABS" width="820">
+</p>
+<p align="center"><em>Infografía: ABS.</em></p>
 
 :::hablemos-claro
 ABS modula la presión para evitar bloqueo sostenido de ruedas durante una frenada intensa.
@@ -1320,7 +1452,11 @@ Para dominar **asistencia a la frenada**, aplica esta regla: La asistencia de fr
 - **Incorrecto:** La asistencia de frenado detecta peatones y decide siempre por sí sola.
 - **Incorrecto:** Aumenta la adherencia del pavimento durante la emergencia.
 
-<!-- VISUAL PENDIENTE: t44-34-asistencia-a-la-frenada.webp -->
+<!-- VISUAL:t44-34-asistencia-a-la-frenada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-34-asistencia-a-la-frenada.webp" alt="Asistencia a la frenada" width="820">
+</p>
+<p align="center"><em>Infografía: Asistencia a la frenada.</em></p>
 
 :::hablemos-claro
 La asistencia de frenado reconoce una solicitud urgente y ayuda a alcanzar presión suficiente.
@@ -1359,7 +1495,11 @@ Para dominar **control electrónico de estabilidad**, aplica esta regla: ESC com
 - **Incorrecto:** ESC dirige el vehículo sin necesitar acción del conductor.
 - **Incorrecto:** Con ESC no existe riesgo de salida de vía.
 
-<!-- VISUAL PENDIENTE: t44-il-35-control-electronico-de-estabilidad.webp -->
+<!-- VISUAL:t44-il-35-control-electronico-de-estabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-35-control-electronico-de-estabilidad.webp" alt="Control electrónico de estabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Control electrónico de estabilidad.</em></p>
 
 :::hablemos-claro
 ESC compara trayectoria pretendida y movimiento real para ayudar a corregir pérdida de estabilidad.
@@ -1398,7 +1538,11 @@ Para dominar **control de tracción**, aplica esta regla: El control de tracció
 - **Incorrecto:** Control de tracción y ABS son idénticos porque ambos usan sensores de rueda.
 - **Incorrecto:** El sistema garantiza aceleración máxima sin pérdida en cualquier firme.
 
-<!-- VISUAL PENDIENTE: t44-36-control-de-traccion.webp -->
+<!-- VISUAL:t44-36-control-de-traccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-36-control-de-traccion.webp" alt="Control de tracción" width="820">
+</p>
+<p align="center"><em>Infografía: Control de tracción.</em></p>
 
 :::hablemos-claro
 El control de tracción limita el patinamiento excesivo de ruedas motrices.
@@ -1437,7 +1581,11 @@ Para dominar **dirección y suspensión**, aplica esta regla: La dirección perm
 - **Incorrecto:** La suspensión solo mejora comodidad y nunca seguridad.
 - **Incorrecto:** Los controles electrónicos corrigen cualquier holgura mecánica.
 
-<!-- VISUAL PENDIENTE: t44-37-direccion-y-suspension.webp -->
+<!-- VISUAL:t44-37-direccion-y-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-37-direccion-y-suspension.webp" alt="Dirección y suspensión" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección y suspensión.</em></p>
 
 :::hablemos-claro
 La dirección permite orientar el vehículo y la suspensión ayuda a mantener contacto y controlar movimientos.
@@ -1476,7 +1624,11 @@ Para dominar **alumbrado y visibilidad**, aplica esta regla: El alumbrado permit
 - **Incorrecto:** Más intensidad luminosa siempre mejora seguridad aunque deslumbre.
 - **Incorrecto:** Las luces adaptativas permiten conducir por encima del alcance visual.
 
-<!-- VISUAL PENDIENTE: t44-38-alumbrado-y-visibilidad.webp -->
+<!-- VISUAL:t44-38-alumbrado-y-visibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-38-alumbrado-y-visibilidad.webp" alt="Alumbrado y visibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Alumbrado y visibilidad.</em></p>
 
 :::hablemos-claro
 El alumbrado permite ver la vía y hacer visible el vehículo sin deslumbrar.
@@ -1515,7 +1667,11 @@ Para dominar **tpms**, aplica esta regla: TPMS advierte una presión anómala o 
 - **Incorrecto:** TPMS certifica que el neumático no tiene ningún defecto.
 - **Incorrecto:** Borrar el aviso repara automáticamente la pérdida de presión.
 
-<!-- VISUAL PENDIENTE: t44-39-tpms.webp -->
+<!-- VISUAL:t44-39-tpms.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-39-tpms.webp" alt="TPMS" width="820">
+</p>
+<p align="center"><em>Infografía: TPMS.</em></p>
 
 :::hablemos-claro
 TPMS advierte una presión anómala o pérdida según el sistema y sus umbrales.
@@ -1554,7 +1710,11 @@ Para dominar **mantenimiento como seguridad activa**, aplica esta regla: El mant
 - **Incorrecto:** Superar ITV elimina la necesidad de revisar el vehículo hasta la siguiente inspección.
 - **Incorrecto:** Cualquier modificación estética es irrelevante para sensores y seguridad.
 
-<!-- VISUAL PENDIENTE: t44-il-40-mantenimiento-como-seguridad-activa.webp -->
+<!-- VISUAL:t44-il-40-mantenimiento-como-seguridad-activa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-40-mantenimiento-como-seguridad-activa.webp" alt="Mantenimiento como seguridad activa" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento como seguridad activa.</em></p>
 
 :::hablemos-claro
 El mantenimiento conserva prestaciones de neumáticos, frenos, dirección, suspensión y luces.
@@ -1593,7 +1753,11 @@ Para dominar **calendario escalonado del gsr**, aplica esta regla: El Reglamento
 - **Incorrecto:** Todos los ADAS fueron obligatorios para todos los vehículos el mismo día.
 - **Incorrecto:** Vehículo nuevo y tipo nuevo significan exactamente lo mismo en homologación.
 
-<!-- VISUAL PENDIENTE: t44-41-calendario-escalonado-del-gsr.webp -->
+<!-- VISUAL:t44-41-calendario-escalonado-del-gsr.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-41-calendario-escalonado-del-gsr.webp" alt="Calendario escalonado del GSR" width="820">
+</p>
+<p align="center"><em>Infografía: Calendario escalonado del GSR.</em></p>
 
 :::hablemos-claro
 El Reglamento 2019/2144 implanta requisitos por fases y distingue homologaciones nuevas de todos los vehículos nuevos.
@@ -1632,7 +1796,11 @@ Para dominar **aviso de colisión frontal**, aplica esta regla: FCW estima riesg
 - **Incorrecto:** FCW aplica siempre frenado máximo sin intervención humana.
 - **Incorrecto:** El sistema solo funciona cuando ya se ha producido el impacto.
 
-<!-- VISUAL PENDIENTE: t44-42-aviso-de-colision-frontal.webp -->
+<!-- VISUAL:t44-42-aviso-de-colision-frontal.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-42-aviso-de-colision-frontal.webp" alt="Aviso de colisión frontal" width="820">
+</p>
+<p align="center"><em>Infografía: Aviso de colisión frontal.</em></p>
 
 :::hablemos-claro
 FCW estima riesgo de colisión frontal y emite una advertencia para provocar reacción del conductor.
@@ -1671,7 +1839,11 @@ Para dominar **frenada autónoma de emergencia**, aplica esta regla: AEB detecta
 - **Incorrecto:** AEB garantiza que nunca habrá colisión.
 - **Incorrecto:** Todas las variantes detectan cualquier objeto con idéntico rendimiento.
 
-<!-- VISUAL PENDIENTE: t44-43-frenada-autonoma-de-emergencia.webp -->
+<!-- VISUAL:t44-43-frenada-autonoma-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-43-frenada-autonoma-de-emergencia.webp" alt="Frenada autónoma de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: Frenada autónoma de emergencia.</em></p>
 
 :::hablemos-claro
 AEB detecta una situación de emergencia y puede activar frenos para evitar o mitigar la colisión.
@@ -1710,7 +1882,11 @@ Para dominar **aviso y mantenimiento de carril**, aplica esta regla: LDW avisa d
 - **Incorrecto:** LDW y LKA son sinónimos porque ambos usan cámara.
 - **Incorrecto:** La ayuda de carril funciona igual aunque no haya marcas detectables.
 
-<!-- VISUAL PENDIENTE: t44-44-aviso-y-mantenimiento-de-carril.webp -->
+<!-- VISUAL:t44-44-aviso-y-mantenimiento-de-carril.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-44-aviso-y-mantenimiento-de-carril.webp" alt="Aviso y mantenimiento de carril" width="820">
+</p>
+<p align="center"><em>Infografía: Aviso y mantenimiento de carril.</em></p>
 
 :::hablemos-claro
 LDW avisa de una salida involuntaria de carril detectada.
@@ -1749,7 +1925,11 @@ Para dominar **isa**, aplica esta regla: ISA ayuda a conocer y respetar el lími
 - **Incorrecto:** ISA concede derecho a circular siempre a la velocidad máxima detectada.
 - **Incorrecto:** La lectura de una señal por cámara es jurídicamente infalible.
 
-<!-- VISUAL PENDIENTE: t44-il-45-isa.webp -->
+<!-- VISUAL:t44-il-45-isa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-45-isa.webp" alt="ISA" width="820">
+</p>
+<p align="center"><em>Infografía: ISA.</em></p>
 
 :::hablemos-claro
 ISA ayuda a conocer y respetar el límite de velocidad mediante información, aviso o asistencia según diseño.
@@ -1788,7 +1968,11 @@ Para dominar **acc**, aplica esta regla: ACC adapta velocidad para mantener una 
 - **Incorrecto:** ACC es un piloto automático completo.
 - **Incorrecto:** La separación mínima del sistema sirve igual con lluvia intensa y firme seco.
 
-<!-- VISUAL PENDIENTE: t44-46-acc.webp -->
+<!-- VISUAL:t44-46-acc.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-46-acc.webp" alt="ACC" width="820">
+</p>
+<p align="center"><em>Infografía: ACC.</em></p>
 
 :::hablemos-claro
 ACC adapta velocidad para mantener una separación programada respecto de un vehículo detectado.
@@ -1827,7 +2011,11 @@ Para dominar **ángulo muerto y tráfico cruzado**, aplica esta regla: BSM vigil
 - **Incorrecto:** El aviso de ángulo muerto autoriza cambiar de carril sin mirar.
 - **Incorrecto:** RCTA está diseñado principalmente para controlar el tráfico frontal en autopista.
 
-<!-- VISUAL PENDIENTE: t44-47-angulo-muerto-y-trafico-cruzado.webp -->
+<!-- VISUAL:t44-47-angulo-muerto-y-trafico-cruzado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-47-angulo-muerto-y-trafico-cruzado.webp" alt="Ángulo muerto y tráfico cruzado" width="820">
+</p>
+<p align="center"><em>Infografía: Ángulo muerto y tráfico cruzado.</em></p>
 
 :::hablemos-claro
 BSM vigila zonas laterales difíciles de ver y advierte de usuarios presentes.
@@ -1866,7 +2054,11 @@ Para dominar **somnolencia y distracción**, aplica esta regla: Los sistemas de 
 - **Incorrecto:** El detector certifica que el conductor está descansado mientras no avise.
 - **Incorrecto:** Una taza en el cuadro sustituye el descanso necesario.
 
-<!-- VISUAL PENDIENTE: t44-48-somnolencia-y-distraccion.webp -->
+<!-- VISUAL:t44-48-somnolencia-y-distraccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-48-somnolencia-y-distraccion.webp" alt="Somnolencia y distracción" width="820">
+</p>
+<p align="center"><em>Infografía: Somnolencia y distracción.</em></p>
 
 :::hablemos-claro
 Los sistemas de somnolencia o distracción analizan indicios y avisan cuando detectan pérdida de atención.
@@ -1905,7 +2097,11 @@ Para dominar **detector de marcha atrás**, aplica esta regla: El detector de ma
 - **Incorrecto:** Todo detector de marcha atrás frena automáticamente.
 - **Incorrecto:** La pantalla elimina la necesidad de mirar espejos y entorno.
 
-<!-- VISUAL PENDIENTE: t44-49-detector-de-marcha-atras.webp -->
+<!-- VISUAL:t44-49-detector-de-marcha-atras.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-49-detector-de-marcha-atras.webp" alt="Detector de marcha atrás" width="820">
+</p>
+<p align="center"><em>Infografía: Detector de marcha atrás.</em></p>
 
 :::hablemos-claro
 El detector de marcha atrás advierte de personas u objetos en la zona posterior al retroceder.
@@ -1944,7 +2140,11 @@ Para dominar **edr y llamada de emergencia**, aplica esta regla: EDR registra de
 - **Incorrecto:** EDR es una cámara que graba continuamente todo el habitáculo.
 - **Incorrecto:** eCall evita el impacto aplicando los frenos.
 
-<!-- VISUAL PENDIENTE: t44-il-50-edr-y-llamada-de-emergencia.webp -->
+<!-- VISUAL:t44-il-50-edr-y-llamada-de-emergencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-50-edr-y-llamada-de-emergencia.webp" alt="EDR y llamada de emergencia" width="820">
+</p>
+<p align="center"><em>Infografía: EDR y llamada de emergencia.</em></p>
 
 :::hablemos-claro
 EDR registra determinados parámetros asociados a un incidente para análisis y no actúa como freno o dirección.
@@ -1983,7 +2183,11 @@ Para dominar **vulnerabilidad específica de la motocicleta**, aplica esta regla
 - **Incorrecto:** Una motocicleta protege al ocupante con una célula de deformación equivalente a la de un turismo.
 - **Incorrecto:** La caída solo ocurre después de chocar con otro vehículo.
 
-<!-- VISUAL PENDIENTE: t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp -->
+<!-- VISUAL:t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-51-vulnerabilidad-especifica-de-la-motocicleta.webp" alt="Vulnerabilidad específica de la motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Vulnerabilidad específica de la motocicleta.</em></p>
 
 :::hablemos-claro
 La motocicleta ofrece menor protección estructural y exige combinar estabilidad, evitación y equipamiento personal.
@@ -2022,7 +2226,11 @@ Para dominar **neumáticos de motocicleta**, aplica esta regla: Los neumáticos 
 - **Incorrecto:** El neumático de moto trabaja siempre plano como el de un turismo.
 - **Incorrecto:** Solo importa la profundidad del dibujo y no la presión.
 
-<!-- VISUAL PENDIENTE: t44-52-neumaticos-de-motocicleta.webp -->
+<!-- VISUAL:t44-52-neumaticos-de-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-52-neumaticos-de-motocicleta.webp" alt="Neumáticos de motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos de motocicleta.</em></p>
 
 :::hablemos-claro
 Los neumáticos sostienen inclinación, guiado, frenada y tracción mediante una huella reducida.
@@ -2061,7 +2269,11 @@ Para dominar **frenado combinado y reparto**, aplica esta regla: CBS distribuye 
 - **Incorrecto:** CBS y ABS son exactamente el mismo sistema.
 - **Incorrecto:** Toda motocicleta de cualquier categoría tiene idéntica obligación técnica.
 
-<!-- VISUAL PENDIENTE: t44-53-frenado-combinado-y-reparto.webp -->
+<!-- VISUAL:t44-53-frenado-combinado-y-reparto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-53-frenado-combinado-y-reparto.webp" alt="Frenado combinado y reparto" width="820">
+</p>
+<p align="center"><em>Infografía: Frenado combinado y reparto.</em></p>
 
 :::hablemos-claro
 CBS distribuye o combina la acción de frenado entre ruedas según el diseño.
@@ -2100,7 +2312,11 @@ Para dominar **abs en motocicleta**, aplica esta regla: ABS de motocicleta reduc
 - **Incorrecto:** ABS impide cualquier caída de la motocicleta.
 - **Incorrecto:** Al notar regulación debe liberar por completo ambos frenos.
 
-<!-- VISUAL PENDIENTE: t44-54-abs-en-motocicleta.webp -->
+<!-- VISUAL:t44-54-abs-en-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-54-abs-en-motocicleta.webp" alt="ABS en motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: ABS en motocicleta.</em></p>
 
 :::hablemos-claro
 ABS de motocicleta reduce el riesgo de bloqueo durante frenada y puede ayudar a conservar estabilidad.
@@ -2139,7 +2355,11 @@ Para dominar **abs en curva e imu**, aplica esta regla: Los sistemas avanzados p
 - **Incorrecto:** Todo ABS básico conoce necesariamente el ángulo de inclinación.
 - **Incorrecto:** Con ABS en curva puede frenarse sin límite sobre gravilla.
 
-<!-- VISUAL PENDIENTE: t44-il-55-abs-en-curva-e-imu.webp -->
+<!-- VISUAL:t44-il-55-abs-en-curva-e-imu.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-55-abs-en-curva-e-imu.webp" alt="ABS en curva e IMU" width="820">
+</p>
+<p align="center"><em>Infografía: ABS en curva e IMU.</em></p>
 
 :::hablemos-claro
 Los sistemas avanzados pueden usar una unidad inercial para adaptar frenado a inclinación y dinámica.
@@ -2178,7 +2398,11 @@ Para dominar **control de tracción en motocicleta**, aplica esta regla: El cont
 - **Incorrecto:** Control de tracción actúa principalmente sobre el bloqueo al frenar.
 - **Incorrecto:** Garantiza agarre de ambas ruedas en cualquier curva.
 
-<!-- VISUAL PENDIENTE: t44-56-control-de-traccion-en-motocicleta.webp -->
+<!-- VISUAL:t44-56-control-de-traccion-en-motocicleta.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-56-control-de-traccion-en-motocicleta.webp" alt="Control de tracción en motocicleta" width="820">
+</p>
+<p align="center"><em>Infografía: Control de tracción en motocicleta.</em></p>
 
 :::hablemos-claro
 El control de tracción reduce patinamiento excesivo de la rueda motriz durante aceleración.
@@ -2217,7 +2441,11 @@ Para dominar **casco homologado y ajuste**, aplica esta regla: El casco homologa
 - **Incorrecto:** Un casco holgado protege mejor porque deja espacio para moverse.
 - **Incorrecto:** Si no hay grietas visibles, cualquier impacto previo resulta irrelevante.
 
-<!-- VISUAL PENDIENTE: t44-57-casco-homologado-y-ajuste.webp -->
+<!-- VISUAL:t44-57-casco-homologado-y-ajuste.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-57-casco-homologado-y-ajuste.webp" alt="Casco homologado y ajuste" width="820">
+</p>
+<p align="center"><em>Infografía: Casco homologado y ajuste.</em></p>
 
 :::hablemos-claro
 El casco homologado es el elemento pasivo esencial del motorista y debe llevarse correctamente abrochado.
@@ -2256,7 +2484,11 @@ Para dominar **ropa, guantes, botas y protecciones**, aplica esta regla: La equi
 - **Incorrecto:** La ropa protectora impide cualquier lesión por caída.
 - **Incorrecto:** Usar color visible elimina la necesidad de luces.
 
-<!-- VISUAL PENDIENTE: t44-58-ropa-guantes-botas-y-protecciones.webp -->
+<!-- VISUAL:t44-58-ropa-guantes-botas-y-protecciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-58-ropa-guantes-botas-y-protecciones.webp" alt="Ropa, guantes, botas y protecciones" width="820">
+</p>
+<p align="center"><em>Infografía: Ropa, guantes, botas y protecciones.</em></p>
 
 :::hablemos-claro
 La equipación reduce abrasión, cortes y cargas sobre articulaciones, aunque no evita todo daño.
@@ -2295,7 +2527,11 @@ Para dominar **airbag de motorista**, aplica esta regla: El airbag de motorista 
 - **Incorrecto:** El airbag de motorista reemplaza el casco.
 - **Incorrecto:** Todos los airbags de moto se activan únicamente mediante cable.
 
-<!-- VISUAL PENDIENTE: t44-59-airbag-de-motorista.webp -->
+<!-- VISUAL:t44-59-airbag-de-motorista.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-59-airbag-de-motorista.webp" alt="Airbag de motorista" width="820">
+</p>
+<p align="center"><em>Infografía: Airbag de motorista.</em></p>
 
 :::hablemos-claro
 El airbag de motorista despliega protección corporal al detectar condiciones previstas por su diseño.
@@ -2334,7 +2570,11 @@ Para dominar **conducción con pasajero y carga**, aplica esta regla: El pasajer
 - **Incorrecto:** El pasajero no altera la dinámica porque se mueve con el conductor.
 - **Incorrecto:** La carga suelta se estabiliza sola por la velocidad.
 
-<!-- VISUAL PENDIENTE: t44-il-60-conduccion-con-pasajero-y-carga.webp -->
+<!-- VISUAL:t44-il-60-conduccion-con-pasajero-y-carga.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-60-conduccion-con-pasajero-y-carga.webp" alt="Conducción con pasajero y carga" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción con pasajero y carga.</em></p>
 
 :::hablemos-claro
 El pasajero y la carga modifican masa, centro de gravedad, frenada y respuesta de la motocicleta.
@@ -2373,7 +2613,11 @@ Para dominar **cadena del siniestro**, aplica esta regla: La seguridad puede act
 - **Incorrecto:** Si hay choque, todos los sistemas activos han fracasado por completo.
 - **Incorrecto:** La gravedad depende únicamente de la velocidad del otro vehículo.
 
-<!-- VISUAL PENDIENTE: t44-61-cadena-del-siniestro.webp -->
+<!-- VISUAL:t44-61-cadena-del-siniestro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-61-cadena-del-siniestro.webp" alt="Cadena del siniestro" width="820">
+</p>
+<p align="center"><em>Infografía: Cadena del siniestro.</em></p>
 
 :::hablemos-claro
 La seguridad puede actuar reduciendo exposición, evitando conflicto, mitigando impacto o facilitando asistencia.
@@ -2412,7 +2656,11 @@ Para dominar **probabilidad frente a severidad**, aplica esta regla: La frecuenc
 - **Incorrecto:** Reducir lesiones demuestra necesariamente que hubo menos accidentes.
 - **Incorrecto:** Todo sistema activo solo modifica lesiones después del impacto.
 
-<!-- VISUAL PENDIENTE: t44-62-probabilidad-frente-a-severidad.webp -->
+<!-- VISUAL:t44-62-probabilidad-frente-a-severidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-62-probabilidad-frente-a-severidad.webp" alt="Probabilidad frente a severidad" width="820">
+</p>
+<p align="center"><em>Infografía: Probabilidad frente a severidad.</em></p>
 
 :::hablemos-claro
 La frecuencia de siniestros y la gravedad de lesiones son resultados diferentes.
@@ -2451,7 +2699,11 @@ Para dominar **efectividad combinada**, aplica esta regla: La combinación de si
 - **Incorrecto:** Dos reducciones del 50 % eliminan automáticamente el 100 % del riesgo.
 - **Incorrecto:** Un sistema nuevo hace innecesarios todos los anteriores.
 
-<!-- VISUAL PENDIENTE: t44-63-efectividad-combinada.webp -->
+<!-- VISUAL:t44-63-efectividad-combinada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-63-efectividad-combinada.webp" alt="Efectividad combinada" width="820">
+</p>
+<p align="center"><em>Infografía: Efectividad combinada.</em></p>
 
 :::hablemos-claro
 La combinación de sistemas puede producir efectos solapados o complementarios.
@@ -2490,7 +2742,11 @@ Para dominar **compensación del riesgo**, aplica esta regla: La sensación de p
 - **Incorrecto:** Con más ayudas siempre disminuye automáticamente todo comportamiento arriesgado.
 - **Incorrecto:** La formación no influye porque el sistema decide por el conductor.
 
-<!-- VISUAL PENDIENTE: t44-64-compensacion-del-riesgo.webp -->
+<!-- VISUAL:t44-64-compensacion-del-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-64-compensacion-del-riesgo.webp" alt="Compensación del riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Compensación del riesgo.</em></p>
 
 :::hablemos-claro
 La sensación de protección puede inducir a algunas personas a asumir más riesgo.
@@ -2529,7 +2785,11 @@ Para dominar **uso real y tasa de activación**, aplica esta regla: Un sistema s
 - **Incorrecto:** La presencia en la ficha técnica demuestra uso efectivo en todo viaje.
 - **Incorrecto:** Cuantas más alarmas simultáneas, mejor comprensión del conductor.
 
-<!-- VISUAL PENDIENTE: t44-il-65-uso-real-y-tasa-de-activacion.webp -->
+<!-- VISUAL:t44-il-65-uso-real-y-tasa-de-activacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-65-uso-real-y-tasa-de-activacion.webp" alt="Uso real y tasa de activación" width="820">
+</p>
+<p align="center"><em>Infografía: Uso real y tasa de activación.</em></p>
 
 :::hablemos-claro
 Un sistema solo aporta su beneficio potencial cuando está disponible, operativo y correctamente utilizado.
@@ -2568,7 +2828,11 @@ Para dominar **siniestros evitables y no cubiertos**, aplica esta regla: Cada si
 - **Incorrecto:** AEB debe evitar cualquier accidente lateral, posterior o vuelco.
 - **Incorrecto:** Si el sistema no actúa fuera de su diseño, está necesariamente defectuoso.
 
-<!-- VISUAL PENDIENTE: t44-66-siniestros-evitables-y-no-cubiertos.webp -->
+<!-- VISUAL:t44-66-siniestros-evitables-y-no-cubiertos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-66-siniestros-evitables-y-no-cubiertos.webp" alt="Siniestros evitables y no cubiertos" width="820">
+</p>
+<p align="center"><em>Infografía: Siniestros evitables y no cubiertos.</em></p>
 
 :::hablemos-claro
 Cada sistema tiene un dominio de diseño con tipos de peligro, velocidades y condiciones cubiertas.
@@ -2607,7 +2871,11 @@ Para dominar **compatibilidad entre ocupante y retención**, aplica esta regla: 
 - **Incorrecto:** Un cinturón adulto protege igual a cualquier menor sin adaptación.
 - **Incorrecto:** La postura del ocupante no afecta al resultado de un airbag.
 
-<!-- VISUAL PENDIENTE: t44-67-compatibilidad-entre-ocupante-y-retencion.webp -->
+<!-- VISUAL:t44-67-compatibilidad-entre-ocupante-y-retencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-67-compatibilidad-entre-ocupante-y-retencion.webp" alt="Compatibilidad entre ocupante y retención" width="820">
+</p>
+<p align="center"><em>Infografía: Compatibilidad entre ocupante y retención.</em></p>
 
 :::hablemos-claro
 La protección varía con talla, edad, posición y compatibilidad del sistema de retención.
@@ -2646,7 +2914,11 @@ Para dominar **mantenimiento y siniestralidad**, aplica esta regla: Neumáticos,
 - **Incorrecto:** Un defecto técnico solo importa después de un accidente.
 - **Incorrecto:** Apagar un testigo elimina el riesgo mecánico asociado.
 
-<!-- VISUAL PENDIENTE: t44-68-mantenimiento-y-siniestralidad.webp -->
+<!-- VISUAL:t44-68-mantenimiento-y-siniestralidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-68-mantenimiento-y-siniestralidad.webp" alt="Mantenimiento y siniestralidad" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento y siniestralidad.</em></p>
 
 :::hablemos-claro
 Neumáticos, frenos, alumbrado y suspensión degradados reducen márgenes antes del siniestro.
@@ -2685,7 +2957,11 @@ Para dominar **datos, edr y atribución**, aplica esta regla: Los datos de un re
 - **Incorrecto:** El EDR identifica automáticamente al responsable legal.
 - **Incorrecto:** Un único parámetro registrado explica por sí solo todo el accidente.
 
-<!-- VISUAL PENDIENTE: t44-69-datos-edr-y-atribucion.webp -->
+<!-- VISUAL:t44-69-datos-edr-y-atribucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-69-datos-edr-y-atribucion.webp" alt="Datos, EDR y atribución" width="820">
+</p>
+<p align="center"><em>Infografía: Datos, EDR y atribución.</em></p>
 
 :::hablemos-claro
 Los datos de un registrador ayudan a reconstruir parámetros, pero requieren interpretación contextual.
@@ -2724,7 +3000,11 @@ Para dominar **jerarquía preventiva**, aplica esta regla: La prevención eficaz
 - **Incorrecto:** Comprar un vehículo con ADAS elimina la influencia de la vía.
 - **Incorrecto:** La siniestralidad depende exclusivamente del conductor.
 
-<!-- VISUAL PENDIENTE: t44-il-70-jerarquia-preventiva.webp -->
+<!-- VISUAL:t44-il-70-jerarquia-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-70-jerarquia-preventiva.webp" alt="Jerarquía preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía preventiva.</em></p>
 
 :::hablemos-claro
 La prevención eficaz combina comportamiento, vehículo seguro, vía y respuesta de emergencia.
@@ -2763,7 +3043,11 @@ Para dominar **conducción policial convencional y urgente**, aplica esta regla:
 - **Incorrecto:** Todo desplazamiento policial es servicio urgente.
 - **Incorrecto:** Llegar antes justifica cualquier incremento de riesgo.
 
-<!-- VISUAL PENDIENTE: t44-71-conduccion-policial-convencional-y-urgente.webp -->
+<!-- VISUAL:t44-71-conduccion-policial-convencional-y-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-71-conduccion-policial-convencional-y-urgente.webp" alt="Conducción policial convencional y urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Conducción policial convencional y urgente.</em></p>
 
 :::hablemos-claro
 El patrullaje ordinario se rige por normas comunes; el servicio urgente añade facultades y riesgos específicos.
@@ -2802,7 +3086,11 @@ Para dominar **cinturón en servicios de urgencia**, aplica esta regla: La regla
 - **Incorrecto:** Desde enero de 2026 desaparecieron todas las exenciones urbanas del artículo 119.
 - **Incorrecto:** Los servicios de urgencia están exentos en cualquier tipo de vía.
 
-<!-- VISUAL PENDIENTE: t44-72-cinturon-en-servicios-de-urgencia.webp -->
+<!-- VISUAL:t44-72-cinturon-en-servicios-de-urgencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-72-cinturon-en-servicios-de-urgencia.webp" alt="Cinturón en servicios de urgencia" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón en servicios de urgencia.</em></p>
 
 :::hablemos-claro
 La regla general obliga a conductor y ocupantes a usar cinturones homologados en vías urbanas e interurbanas.
@@ -2841,7 +3129,11 @@ Para dominar **distribución de tareas en el vehículo policial**, aplica esta r
 - **Incorrecto:** El conductor debe asumir todas las comunicaciones para centralizar decisiones.
 - **Incorrecto:** Hablar simultáneamente mejora la velocidad de respuesta.
 
-<!-- VISUAL PENDIENTE: t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp -->
+<!-- VISUAL:t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-73-distribucion-de-tareas-en-el-vehiculo-policial.webp" alt="Distribución de tareas en el vehículo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Distribución de tareas en el vehículo policial.</em></p>
 
 :::hablemos-claro
 El conductor debe priorizar control del vehículo y percepción del entorno.
@@ -2880,7 +3172,11 @@ Para dominar **traslado digno y seguro**, aplica esta regla: Los desplazamientos
 - **Incorrecto:** La seguridad permite ignorar la dignidad de la persona trasladada.
 - **Incorrecto:** Siempre debe elegirse carretera aunque exista un medio más idóneo.
 
-<!-- VISUAL PENDIENTE: t44-74-traslado-digno-y-seguro.webp -->
+<!-- VISUAL:t44-74-traslado-digno-y-seguro.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-74-traslado-digno-y-seguro.webp" alt="Traslado digno y seguro" width="820">
+</p>
+<p align="center"><em>Infografía: Traslado digno y seguro.</em></p>
 
 :::hablemos-claro
 Los desplazamientos de detenidos, presos y penados deben respetar dignidad y derechos y garantizar seguridad.
@@ -2919,7 +3215,11 @@ Para dominar **ámbito temporal de la orden int/2573/2015**, aplica esta regla: 
 - **Incorrecto:** La Orden obligó a retirar inmediatamente todos los vehículos existentes.
 - **Incorrecto:** El umbral de nueve plazas excluye siempre al conductor y la escolta.
 
-<!-- VISUAL PENDIENTE: t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp -->
+<!-- VISUAL:t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-75-ambito-temporal-de-la-orden-int-2573-2015.webp" alt="Ámbito temporal de la Orden INT/2573/2015" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito temporal de la Orden INT/2573/2015.</em></p>
 
 :::hablemos-claro
 La Orden fija condiciones mínimas para vehículos de las FCSE adquiridos desde su entrada en vigor.
@@ -2958,7 +3258,11 @@ Para dominar **vehículos de hasta nueve plazas**, aplica esta regla: El anexo I
 - **Incorrecto:** Los vehículos del anexo I pertenecen a M2 o M3.
 - **Incorrecto:** El compartimento de detenidos se integra sin separación en el puesto de conducción.
 
-<!-- VISUAL PENDIENTE: t44-76-vehiculos-de-hasta-nueve-plazas.webp -->
+<!-- VISUAL:t44-76-vehiculos-de-hasta-nueve-plazas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-76-vehiculos-de-hasta-nueve-plazas.webp" alt="Vehículos de hasta nueve plazas" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos de hasta nueve plazas.</em></p>
 
 :::hablemos-claro
 El anexo I regula vehículos celulares de hasta nueve plazas, incluido conductor y escolta, y los encuadra en M1.
@@ -2997,7 +3301,11 @@ Para dominar **habitabilidad y alumbrado**, aplica esta regla: Los habitáculos 
 - **Incorrecto:** La Orden fija exactamente 22 grados sin margen.
 - **Incorrecto:** La ventilación se expresa como siete litros por minuto para todo el vehículo.
 
-<!-- VISUAL PENDIENTE: t44-77-habitabilidad-y-alumbrado.webp -->
+<!-- VISUAL:t44-77-habitabilidad-y-alumbrado.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-77-habitabilidad-y-alumbrado.webp" alt="Habitabilidad y alumbrado" width="820">
+</p>
+<p align="center"><em>Infografía: Habitabilidad y alumbrado.</em></p>
 
 :::hablemos-claro
 Los habitáculos deben mantenerse aproximadamente entre 18 y 28 grados mediante climatización.
@@ -3036,7 +3344,11 @@ Para dominar **compartimento, asientos y retención**, aplica esta regla: El com
 - **Incorrecto:** Los asientos se orientan obligatoriamente en sentido contrario a la marcha.
 - **Incorrecto:** La persona trasladada controla libremente la apertura del sistema de retención.
 
-<!-- VISUAL PENDIENTE: t44-78-compartimento-asientos-y-retencion.webp -->
+<!-- VISUAL:t44-78-compartimento-asientos-y-retencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-78-compartimento-asientos-y-retencion.webp" alt="Compartimento, asientos y retención" width="820">
+</p>
+<p align="center"><em>Infografía: Compartimento, asientos y retención.</em></p>
 
 :::hablemos-claro
 El compartimento se separa mediante estructura antivandálica transparente u opaca con ventana no practicable.
@@ -3075,7 +3387,11 @@ Para dominar **vigilancia, salidas y extintor**, aplica esta regla: La vigilanci
 - **Incorrecto:** La vigilancia electrónica excluye toda observación humana.
 - **Incorrecto:** El extintor del anexo I debe ser de doce kilogramos y estar dentro de la celda.
 
-<!-- VISUAL PENDIENTE: t44-79-vigilancia-salidas-y-extintor.webp -->
+<!-- VISUAL:t44-79-vigilancia-salidas-y-extintor.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-79-vigilancia-salidas-y-extintor.webp" alt="Vigilancia, salidas y extintor" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia, salidas y extintor.</em></p>
 
 :::hablemos-claro
 La vigilancia electrónica permite observar el habitáculo mediante cámaras y pantallas y graba las imágenes.
@@ -3114,7 +3430,11 @@ Para dominar **vehículos de más de nueve plazas**, aplica esta regla: El anexo
 - **Incorrecto:** Los vehículos de más de nueve plazas son siempre M1.
 - **Incorrecto:** El anexo II elimina el compartimento trasero de vigilancia.
 
-<!-- VISUAL PENDIENTE: t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp -->
+<!-- VISUAL:t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-44/t44-il-80-vehiculos-de-mas-de-nueve-plazas.webp" alt="Vehículos de más de nueve plazas" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículos de más de nueve plazas.</em></p>
 
 :::hablemos-claro
 El anexo II regula vehículos de más de nueve plazas y los encuadra en categorías M2 y M3.

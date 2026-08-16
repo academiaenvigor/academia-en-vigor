@@ -33,7 +33,11 @@ Para dominar **alcance oficial y método del tema 45**, aplica esta regla: El ep
 - **Incorrecto:** El tema consiste solo en recordar porcentajes de accidentes.
 - **Incorrecto:** Una instrucción privada puede citarse como norma pública aunque no sea verificable.
 
-<!-- VISUAL PENDIENTE: t45-01-alcance-oficial-y-metodo-del-tema-45.webp -->
+<!-- VISUAL:t45-01-alcance-oficial-y-metodo-del-tema-45.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-01-alcance-oficial-y-metodo-del-tema-45.webp" alt="Alcance oficial y método del Tema 45" width="820">
+</p>
+<p align="center"><em>Infografía: Alcance oficial y método del Tema 45.</em></p>
 
 :::hablemos-claro
 El epígrafe une seguridad vial laboral, tres factores del tráfico, conducción prioritaria, EPI y mantenimiento preventivo.
@@ -72,7 +76,11 @@ Para dominar **ámbito preventivo en la actividad policial**, aplica esta regla:
 - **Incorrecto:** Toda actividad policial está excluida de la prevención de riesgos laborales.
 - **Incorrecto:** La normativa general se aplica sin ninguna adaptación a una función policial exclusiva.
 
-<!-- VISUAL PENDIENTE: t45-02-ambito-preventivo-en-la-actividad-policial.webp -->
+<!-- VISUAL:t45-02-ambito-preventivo-en-la-actividad-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-02-ambito-preventivo-en-la-actividad-policial.webp" alt="Ámbito preventivo en la actividad policial" width="820">
+</p>
+<p align="center"><em>Infografía: Ámbito preventivo en la actividad policial.</em></p>
 
 :::hablemos-claro
 El Real Decreto 2/2006 adapta la prevención a las peculiaridades de la actividad de la Policía Nacional.
@@ -111,7 +119,11 @@ Para dominar **integración de la prevención**, aplica esta regla: La prevenci�
 - **Incorrecto:** Un documento aislado sustituye evaluación, planificación y seguimiento.
 - **Incorrecto:** El riesgo vial solo depende del vehículo asignado y no del puesto ni la actividad.
 
-<!-- VISUAL PENDIENTE: t45-03-integracion-de-la-prevencion.webp -->
+<!-- VISUAL:t45-03-integracion-de-la-prevencion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-03-integracion-de-la-prevencion.webp" alt="Integración de la prevención" width="820">
+</p>
+<p align="center"><em>Infografía: Integración de la prevención.</em></p>
 
 :::hablemos-claro
 La prevención se integra en el sistema general de gestión mediante un plan de prevención.
@@ -150,7 +162,11 @@ Para dominar **principios de acción preventiva**, aplica esta regla: La primera
 - **Incorrecto:** La protección individual debe elegirse antes que eliminar el peligro.
 - **Incorrecto:** Solo se evalúan riesgos que ya se han materializado en un accidente.
 
-<!-- VISUAL PENDIENTE: t45-04-principios-de-accion-preventiva.webp -->
+<!-- VISUAL:t45-04-principios-de-accion-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-04-principios-de-accion-preventiva.webp" alt="Principios de acción preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Principios de acción preventiva.</em></p>
 
 :::hablemos-claro
 La primera prioridad es evitar los riesgos cuando resulte posible.
@@ -189,7 +205,11 @@ Para dominar **peligro, riesgo y daño**, aplica esta regla: El riesgo laboral e
 - **Incorrecto:** Peligro y riesgo son términos idénticos en cualquier evaluación.
 - **Incorrecto:** Un riesgo solo existe después de producir una lesión.
 
-<!-- VISUAL PENDIENTE: t45-il-05-peligro-riesgo-y-dano.webp -->
+<!-- VISUAL:t45-il-05-peligro-riesgo-y-dano.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-05-peligro-riesgo-y-dano.webp" alt="Peligro, riesgo y daño" width="820">
+</p>
+<p align="center"><em>Infografía: Peligro, riesgo y daño.</em></p>
 
 :::hablemos-claro
 El riesgo laboral es la posibilidad de sufrir un daño derivado del trabajo.
@@ -228,7 +248,11 @@ Para dominar **información y formación**, aplica esta regla: La información p
 - **Incorrecto:** Entregar un manual acredita automáticamente una formación práctica suficiente.
 - **Incorrecto:** La formación inicial nunca necesita actualizarse aunque cambien vehículo o función.
 
-<!-- VISUAL PENDIENTE: t45-06-informacion-y-formacion.webp -->
+<!-- VISUAL:t45-06-informacion-y-formacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-06-informacion-y-formacion.webp" alt="Información y formación" width="820">
+</p>
+<p align="center"><em>Infografía: Información y formación.</em></p>
 
 :::hablemos-claro
 La información preventiva debe cubrir riesgos y medidas aplicables al puesto y a la actividad.
@@ -267,7 +291,11 @@ Para dominar **obligaciones de los funcionarios**, aplica esta regla: Cada funci
 - **Incorrecto:** La responsabilidad preventiva recae exclusivamente en quien conduce.
 - **Incorrecto:** Una anomalía conocida puede reservarse hasta finalizar el servicio aunque sea peligrosa.
 
-<!-- VISUAL PENDIENTE: t45-07-obligaciones-de-los-funcionarios.webp -->
+<!-- VISUAL:t45-07-obligaciones-de-los-funcionarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-07-obligaciones-de-los-funcionarios.webp" alt="Obligaciones de los funcionarios" width="820">
+</p>
+<p align="center"><em>Infografía: Obligaciones de los funcionarios.</em></p>
 
 :::hablemos-claro
 Cada funcionario debe velar, según sus posibilidades, por su seguridad y la de quienes puedan verse afectados.
@@ -306,7 +334,11 @@ Para dominar **planificación de la actividad preventiva**, aplica esta regla: L
 - **Incorrecto:** Planificar equivale a enumerar consejos sin responsables ni plazos.
 - **Incorrecto:** Si baja el número bruto de siniestros, la exposición deja de ser relevante.
 
-<!-- VISUAL PENDIENTE: t45-08-planificacion-de-la-actividad-preventiva.webp -->
+<!-- VISUAL:t45-08-planificacion-de-la-actividad-preventiva.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-08-planificacion-de-la-actividad-preventiva.webp" alt="Planificación de la actividad preventiva" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de la actividad preventiva.</em></p>
 
 :::hablemos-claro
 La planificación define medidas, responsables, plazos y recursos cuando la evaluación revela riesgos.
@@ -345,7 +377,11 @@ Para dominar **vigilancia de la salud y aptitud**, aplica esta regla: La vigilan
 - **Incorrecto:** La jefatura puede acceder sin límite a toda historia clínica.
 - **Incorrecto:** La vigilancia de la salud sustituye las medidas técnicas y organizativas.
 
-<!-- VISUAL PENDIENTE: t45-09-vigilancia-de-la-salud-y-aptitud.webp -->
+<!-- VISUAL:t45-09-vigilancia-de-la-salud-y-aptitud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-09-vigilancia-de-la-salud-y-aptitud.webp" alt="Vigilancia de la salud y aptitud" width="820">
+</p>
+<p align="center"><em>Infografía: Vigilancia de la salud y aptitud.</em></p>
 
 :::hablemos-claro
 La vigilancia de la salud se orienta a los riesgos inherentes a la actividad policial.
@@ -384,7 +420,11 @@ Para dominar **sistema seguro y responsabilidad compartida**, aplica esta regla:
 - **Incorrecto:** El Sistema Seguro considera inevitable toda lesión grave.
 - **Incorrecto:** La tecnología del vehículo desplaza toda responsabilidad al fabricante.
 
-<!-- VISUAL PENDIENTE: t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp -->
+<!-- VISUAL:t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-10-sistema-seguro-y-responsabilidad-compartida.webp" alt="Sistema Seguro y responsabilidad compartida" width="820">
+</p>
+<p align="center"><em>Infografía: Sistema Seguro y responsabilidad compartida.</em></p>
 
 :::hablemos-claro
 El Sistema Seguro asume que las personas cometen errores y que el sistema debe evitar consecuencias mortales o graves.
@@ -423,7 +463,11 @@ Para dominar **accidente de trabajo y lesión**, aplica esta regla: El accidente
 - **Incorrecto:** Todo golpe en un vehículo de empresa es accidente de trabajo aunque no exista lesión.
 - **Incorrecto:** La investigación preventiva depende de que primero se declare responsabilidad jurídica.
 
-<!-- VISUAL PENDIENTE: t45-11-accidente-de-trabajo-y-lesion.webp -->
+<!-- VISUAL:t45-11-accidente-de-trabajo-y-lesion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-11-accidente-de-trabajo-y-lesion.webp" alt="Accidente de trabajo y lesión" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente de trabajo y lesión.</em></p>
 
 :::hablemos-claro
 El accidente de trabajo exige una lesión corporal sufrida con ocasión o por consecuencia del trabajo.
@@ -462,7 +506,11 @@ Para dominar **accidente in itinere**, aplica esta regla: El accidente in itiner
 - **Incorrecto:** Cualquier accidente ocurrido fuera del domicilio es in itinere.
 - **Incorrecto:** Un desvío mínimo rompe siempre y sin examen el nexo laboral.
 
-<!-- VISUAL PENDIENTE: t45-12-accidente-in-itinere.webp -->
+<!-- VISUAL:t45-12-accidente-in-itinere.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-12-accidente-in-itinere.webp" alt="Accidente in itinere" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente in itinere.</em></p>
 
 :::hablemos-claro
 El accidente in itinere es el sufrido al ir al trabajo o volver de él.
@@ -501,7 +549,11 @@ Para dominar **accidente en misión**, aplica esta regla: El accidente en misió
 - **Incorrecto:** En misión e in itinere son dos nombres para la misma situación.
 - **Incorrecto:** Todo periodo de descanso durante una misión mantiene idéntico nexo sin análisis.
 
-<!-- VISUAL PENDIENTE: t45-13-accidente-en-mision.webp -->
+<!-- VISUAL:t45-13-accidente-en-mision.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-13-accidente-en-mision.webp" alt="Accidente en misión" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente en misión.</em></p>
 
 :::hablemos-claro
 El accidente en misión se vincula a un desplazamiento exigido por la prestación laboral.
@@ -540,7 +592,11 @@ Para dominar **exposición al riesgo vial**, aplica esta regla: La exposición d
 - **Incorrecto:** Contar accidentes basta para comparar unidades con actividad distinta.
 - **Incorrecto:** La exposición solo existe mientras una persona maneja el volante.
 
-<!-- VISUAL PENDIENTE: t45-14-exposicion-al-riesgo-vial.webp -->
+<!-- VISUAL:t45-14-exposicion-al-riesgo-vial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-14-exposicion-al-riesgo-vial.webp" alt="Exposición al riesgo vial" width="820">
+</p>
+<p align="center"><em>Infografía: Exposición al riesgo vial.</em></p>
 
 :::hablemos-claro
 La exposición depende de kilómetros, tiempo, frecuencia, tipo de vía, horario y condiciones de circulación.
@@ -579,7 +635,11 @@ Para dominar **frecuencia, incidencia y gravedad**, aplica esta regla: La frecue
 - **Incorrecto:** Un porcentaje nacional predice el riesgo exacto de una patrulla concreta.
 - **Incorrecto:** Un año aislado basta para demostrar una tendencia estructural.
 
-<!-- VISUAL PENDIENTE: t45-il-15-frecuencia-incidencia-y-gravedad.webp -->
+<!-- VISUAL:t45-il-15-frecuencia-incidencia-y-gravedad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-15-frecuencia-incidencia-y-gravedad.webp" alt="Frecuencia, incidencia y gravedad" width="820">
+</p>
+<p align="center"><em>Infografía: Frecuencia, incidencia y gravedad.</em></p>
 
 :::hablemos-claro
 La frecuencia informa cuántos sucesos aparecen en relación con una medida de exposición.
@@ -618,7 +678,11 @@ Para dominar **accidente con víctimas y clasificación**, aplica esta regla: La
 - **Incorrecto:** Leve, grave y mortal significan lo mismo en cualquier base de datos.
 - **Incorrecto:** La clasificación estadística identifica automáticamente la causa preventiva.
 
-<!-- VISUAL PENDIENTE: t45-16-accidente-con-victimas-y-clasificacion.webp -->
+<!-- VISUAL:t45-16-accidente-con-victimas-y-clasificacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-16-accidente-con-victimas-y-clasificacion.webp" alt="Accidente con víctimas y clasificación" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente con víctimas y clasificación.</em></p>
 
 :::hablemos-claro
 Las estadísticas deben leerse con la definición exacta de accidente y víctima utilizada.
@@ -657,7 +721,11 @@ Para dominar **investigación preventiva del accidente**, aplica esta regla: La 
 - **Incorrecto:** La investigación termina al identificar al conductor que cometió el error.
 - **Incorrecto:** Solo se investigan accidentes con responsabilidad penal.
 
-<!-- VISUAL PENDIENTE: t45-17-investigacion-preventiva-del-accidente.webp -->
+<!-- VISUAL:t45-17-investigacion-preventiva-del-accidente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-17-investigacion-preventiva-del-accidente.webp" alt="Investigación preventiva del accidente" width="820">
+</p>
+<p align="center"><em>Infografía: Investigación preventiva del accidente.</em></p>
 
 :::hablemos-claro
 La aparición de daños obliga a investigar sus causas para detectar insuficiencias preventivas.
@@ -696,7 +764,11 @@ Para dominar **modelo de haddon**, aplica esta regla: La matriz de Haddon cruza 
 - **Incorrecto:** La matriz de Haddon solo clasifica causas humanas previas.
 - **Incorrecto:** Las medidas posteriores al impacto no forman parte de la seguridad vial.
 
-<!-- VISUAL PENDIENTE: t45-18-modelo-de-haddon.webp -->
+<!-- VISUAL:t45-18-modelo-de-haddon.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-18-modelo-de-haddon.webp" alt="Modelo de Haddon" width="820">
+</p>
+<p align="center"><em>Infografía: Modelo de Haddon.</em></p>
 
 :::hablemos-claro
 La matriz de Haddon cruza fases temporales con persona, vehículo y entorno.
@@ -735,7 +807,11 @@ Para dominar **plan de seguridad vial laboral**, aplica esta regla: El plan part
 - **Incorrecto:** Copiar un plan tipo sin diagnóstico satisface cualquier organización.
 - **Incorrecto:** El seguimiento solo cuenta cursos impartidos y no resultados ni exposición.
 
-<!-- VISUAL PENDIENTE: t45-19-plan-de-seguridad-vial-laboral.webp -->
+<!-- VISUAL:t45-19-plan-de-seguridad-vial-laboral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-19-plan-de-seguridad-vial-laboral.webp" alt="Plan de seguridad vial laboral" width="820">
+</p>
+<p align="center"><em>Infografía: Plan de seguridad vial laboral.</em></p>
 
 :::hablemos-claro
 El plan parte de evaluación de riesgos y análisis de movilidad.
@@ -774,7 +850,11 @@ Para dominar **iso 39001 en su sitio correcto**, aplica esta regla: ISO 39001 se
 - **Incorrecto:** ISO 39001 es una ley española de circulación.
 - **Incorrecto:** La certificación acredita que nunca ocurrirá un accidente.
 
-<!-- VISUAL PENDIENTE: t45-il-20-iso-39001-en-su-sitio-correcto.webp -->
+<!-- VISUAL:t45-il-20-iso-39001-en-su-sitio-correcto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-20-iso-39001-en-su-sitio-correcto.webp" alt="ISO 39001 en su sitio correcto" width="820">
+</p>
+<p align="center"><em>Infografía: ISO 39001 en su sitio correcto.</em></p>
 
 :::hablemos-claro
 ISO 39001 se refiere a sistemas de gestión de la seguridad vial.
@@ -813,7 +893,11 @@ Para dominar **factor humano sin monocausa**, aplica esta regla: El factor human
 - **Incorrecto:** Todo siniestro se explica exclusivamente por un error humano.
 - **Incorrecto:** La presencia de tecnología elimina la influencia de la persona.
 
-<!-- VISUAL PENDIENTE: t45-21-factor-humano-sin-monocausa.webp -->
+<!-- VISUAL:t45-21-factor-humano-sin-monocausa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-21-factor-humano-sin-monocausa.webp" alt="Factor humano sin monocausa" width="820">
+</p>
+<p align="center"><em>Infografía: Factor humano sin monocausa.</em></p>
 
 :::hablemos-claro
 El factor humano incluye capacidades, estado, decisiones, experiencia y respuesta ante el entorno.
@@ -852,7 +936,11 @@ Para dominar **percepción, decisión y ejecución**, aplica esta regla: Conduci
 - **Incorrecto:** Ver un estímulo garantiza interpretarlo correctamente.
 - **Incorrecto:** La experiencia hace imposible cometer errores de expectativa.
 
-<!-- VISUAL PENDIENTE: t45-22-percepcion-decision-y-ejecucion.webp -->
+<!-- VISUAL:t45-22-percepcion-decision-y-ejecucion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-22-percepcion-decision-y-ejecucion.webp" alt="Percepción, decisión y ejecución" width="820">
+</p>
+<p align="center"><em>Infografía: Percepción, decisión y ejecución.</em></p>
 
 :::hablemos-claro
 Conducir exige percibir información relevante, interpretarla, decidir y ejecutar.
@@ -891,7 +979,11 @@ Para dominar **atención y distracción**, aplica esta regla: La distracción pu
 - **Incorrecto:** Solo existe distracción cuando se apartan ambas manos del volante.
 - **Incorrecto:** Un dispositivo manos libres elimina toda carga cognitiva.
 
-<!-- VISUAL PENDIENTE: t45-23-atencion-y-distraccion.webp -->
+<!-- VISUAL:t45-23-atencion-y-distraccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-23-atencion-y-distraccion.webp" alt="Atención y distracción" width="820">
+</p>
+<p align="center"><em>Infografía: Atención y distracción.</em></p>
 
 :::hablemos-claro
 La distracción puede ser visual, manual, auditiva o cognitiva.
@@ -930,7 +1022,11 @@ Para dominar **fatiga y somnolencia**, aplica esta regla: La fatiga reduce vigil
 - **Incorrecto:** La somnolencia se corrige de forma fiable con aire frío.
 - **Incorrecto:** Solo hay fatiga después de superar un número fijo universal de horas.
 
-<!-- VISUAL PENDIENTE: t45-24-fatiga-y-somnolencia.webp -->
+<!-- VISUAL:t45-24-fatiga-y-somnolencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-24-fatiga-y-somnolencia.webp" alt="Fatiga y somnolencia" width="820">
+</p>
+<p align="center"><em>Infografía: Fatiga y somnolencia.</em></p>
 
 :::hablemos-claro
 La fatiga reduce vigilancia, precisión y capacidad de respuesta.
@@ -969,7 +1065,11 @@ Para dominar **ritmos circadianos y turnos**, aplica esta regla: El rendimiento 
 - **Incorrecto:** Todas las personas rinden igual a cualquier hora.
 - **Incorrecto:** La experiencia nocturna vuelve innecesario planificar descansos.
 
-<!-- VISUAL PENDIENTE: t45-il-25-ritmos-circadianos-y-turnos.webp -->
+<!-- VISUAL:t45-il-25-ritmos-circadianos-y-turnos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-25-ritmos-circadianos-y-turnos.webp" alt="Ritmos circadianos y turnos" width="820">
+</p>
+<p align="center"><em>Infografía: Ritmos circadianos y turnos.</em></p>
 
 :::hablemos-claro
 El rendimiento varía con el ritmo circadiano y el tiempo despierto.
@@ -1008,7 +1108,11 @@ Para dominar **alcohol y otras drogas**, aplica esta regla: Alcohol y drogas pue
 - **Incorrecto:** Circular por debajo del límite garantiza capacidad intacta.
 - **Incorrecto:** El servicio urgente deja sin efecto las normas sobre alcohol y drogas.
 
-<!-- VISUAL PENDIENTE: t45-26-alcohol-y-otras-drogas.webp -->
+<!-- VISUAL:t45-26-alcohol-y-otras-drogas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-26-alcohol-y-otras-drogas.webp" alt="Alcohol y otras drogas" width="820">
+</p>
+<p align="center"><em>Infografía: Alcohol y otras drogas.</em></p>
 
 :::hablemos-claro
 Alcohol y drogas pueden alterar percepción, coordinación, juicio y tiempo de respuesta.
@@ -1047,7 +1151,11 @@ Para dominar **medicamentos y salud**, aplica esta regla: Algunos medicamentos p
 - **Incorrecto:** Todo medicamento impide conducir de manera automática.
 - **Incorrecto:** Si un fármaco es legal, nunca puede alterar la conducción.
 
-<!-- VISUAL PENDIENTE: t45-27-medicamentos-y-salud.webp -->
+<!-- VISUAL:t45-27-medicamentos-y-salud.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-27-medicamentos-y-salud.webp" alt="Medicamentos y salud" width="820">
+</p>
+<p align="center"><em>Infografía: Medicamentos y salud.</em></p>
 
 :::hablemos-claro
 Algunos medicamentos producen somnolencia, visión alterada o menor coordinación.
@@ -1086,7 +1194,11 @@ Para dominar **estrés y activación**, aplica esta regla: Una activación moder
 - **Incorrecto:** Cuanto mayor es la activación, mejor es siempre el rendimiento.
 - **Incorrecto:** El estrés solo afecta a personas sin experiencia.
 
-<!-- VISUAL PENDIENTE: t45-28-estres-y-activacion.webp -->
+<!-- VISUAL:t45-28-estres-y-activacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-28-estres-y-activacion.webp" alt="Estrés y activación" width="820">
+</p>
+<p align="center"><em>Infografía: Estrés y activación.</em></p>
 
 :::hablemos-claro
 Una activación moderada puede favorecer respuesta, pero el exceso deteriora juicio y precisión.
@@ -1125,7 +1237,11 @@ Para dominar **velocidad elegida y riesgo**, aplica esta regla: La velocidad con
 - **Incorrecto:** Respetar el límite máximo garantiza una velocidad segura en cualquier condición.
 - **Incorrecto:** La urgencia reduce la energía que debe disiparse en una colisión.
 
-<!-- VISUAL PENDIENTE: t45-29-velocidad-elegida-y-riesgo.webp -->
+<!-- VISUAL:t45-29-velocidad-elegida-y-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-29-velocidad-elegida-y-riesgo.webp" alt="Velocidad elegida y riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Velocidad elegida y riesgo.</em></p>
 
 :::hablemos-claro
 La velocidad condiciona tiempo disponible, distancia de detención y energía del impacto.
@@ -1164,7 +1280,11 @@ Para dominar **cinturón, casco y conducta protectora**, aplica esta regla: El u
 - **Incorrecto:** Un sistema de retención mal colocado protege igual que uno ajustado.
 - **Incorrecto:** Una exención obliga a no utilizar el elemento protector.
 
-<!-- VISUAL PENDIENTE: t45-il-30-cinturon-casco-y-conducta-protectora.webp -->
+<!-- VISUAL:t45-il-30-cinturon-casco-y-conducta-protectora.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-30-cinturon-casco-y-conducta-protectora.webp" alt="Cinturón, casco y conducta protectora" width="820">
+</p>
+<p align="center"><em>Infografía: Cinturón, casco y conducta protectora.</em></p>
 
 :::hablemos-claro
 El uso correcto de retenciones y casco reduce consecuencias, pero no evita por sí solo el siniestro.
@@ -1203,7 +1323,11 @@ Para dominar **factor ambiental amplio**, aplica esta regla: El factor ambiental
 - **Incorrecto:** El factor ambiental equivale únicamente al tiempo meteorológico.
 - **Incorrecto:** Una vía conserva el mismo riesgo durante todas las horas del día.
 
-<!-- VISUAL PENDIENTE: t45-31-factor-ambiental-amplio.webp -->
+<!-- VISUAL:t45-31-factor-ambiental-amplio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-31-factor-ambiental-amplio.webp" alt="Factor ambiental amplio" width="820">
+</p>
+<p align="center"><em>Infografía: Factor ambiental amplio.</em></p>
 
 :::hablemos-claro
 El factor ambiental incluye infraestructura, tráfico, visibilidad, meteorología y entorno de trabajo.
@@ -1242,7 +1366,11 @@ Para dominar **lluvia y adherencia**, aplica esta regla: La lluvia reduce adhere
 - **Incorrecto:** El aquaplaning aparece siempre a una velocidad fija.
 - **Incorrecto:** El ABS crea adherencia suficiente aunque el neumático pierda contacto.
 
-<!-- VISUAL PENDIENTE: t45-32-lluvia-y-adherencia.webp -->
+<!-- VISUAL:t45-32-lluvia-y-adherencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-32-lluvia-y-adherencia.webp" alt="Lluvia y adherencia" width="820">
+</p>
+<p align="center"><em>Infografía: Lluvia y adherencia.</em></p>
 
 :::hablemos-claro
 La lluvia reduce adherencia y visibilidad y puede aumentar distancia de frenado.
@@ -1281,7 +1409,11 @@ Para dominar **niebla y campo visual**, aplica esta regla: La niebla reduce alca
 - **Incorrecto:** La prioridad permite conducir más allá de la distancia visible.
 - **Incorrecto:** Acercarse al vehículo precedente mejora siempre la seguridad en niebla.
 
-<!-- VISUAL PENDIENTE: t45-33-niebla-y-campo-visual.webp -->
+<!-- VISUAL:t45-33-niebla-y-campo-visual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-33-niebla-y-campo-visual.webp" alt="Niebla y campo visual" width="820">
+</p>
+<p align="center"><em>Infografía: Niebla y campo visual.</em></p>
 
 :::hablemos-claro
 La niebla reduce alcance visual y contraste.
@@ -1320,7 +1452,11 @@ Para dominar **nieve, hielo y baja fricción**, aplica esta regla: Nieve y hielo
 - **Incorrecto:** El control de estabilidad impide cualquier deslizamiento sobre hielo.
 - **Incorrecto:** Frenar y girar bruscamente aumenta el margen disponible.
 
-<!-- VISUAL PENDIENTE: t45-34-nieve-hielo-y-baja-friccion.webp -->
+<!-- VISUAL:t45-34-nieve-hielo-y-baja-friccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-34-nieve-hielo-y-baja-friccion.webp" alt="Nieve, hielo y baja fricción" width="820">
+</p>
+<p align="center"><em>Infografía: Nieve, hielo y baja fricción.</em></p>
 
 :::hablemos-claro
 Nieve y hielo pueden reducir drásticamente la adherencia disponible.
@@ -1359,7 +1495,11 @@ Para dominar **viento lateral**, aplica esta regla: El viento lateral puede desv
 - **Incorrecto:** El viento solo afecta a motocicletas.
 - **Incorrecto:** Un volantazo amplio es la respuesta preventiva normal a una ráfaga.
 
-<!-- VISUAL PENDIENTE: t45-il-35-viento-lateral.webp -->
+<!-- VISUAL:t45-il-35-viento-lateral.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-35-viento-lateral.webp" alt="Viento lateral" width="820">
+</p>
+<p align="center"><em>Infografía: Viento lateral.</em></p>
 
 :::hablemos-claro
 El viento lateral puede desviar la trayectoria y afectar más a vehículos de gran superficie.
@@ -1398,7 +1538,11 @@ Para dominar **iluminación y conducción nocturna**, aplica esta regla: De noch
 - **Incorrecto:** Las señales prioritarias iluminan suficientemente cualquier trayectoria.
 - **Incorrecto:** La visión nocturna no depende de limpieza ni contraste.
 
-<!-- VISUAL PENDIENTE: t45-36-iluminacion-y-conduccion-nocturna.webp -->
+<!-- VISUAL:t45-36-iluminacion-y-conduccion-nocturna.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-36-iluminacion-y-conduccion-nocturna.webp" alt="Iluminación y conducción nocturna" width="820">
+</p>
+<p align="center"><em>Infografía: Iluminación y conducción nocturna.</em></p>
 
 :::hablemos-claro
 De noche disminuyen referencias visuales y contraste.
@@ -1437,7 +1581,11 @@ Para dominar **diseño de la vía**, aplica esta regla: Curvas, pendientes, inte
 - **Incorrecto:** Toda carretera con señalización correcta carece de riesgos de diseño.
 - **Incorrecto:** Conocer la estadística del tramo permite dejar de explorar la vía.
 
-<!-- VISUAL PENDIENTE: t45-37-diseno-de-la-via.webp -->
+<!-- VISUAL:t45-37-diseno-de-la-via.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-37-diseno-de-la-via.webp" alt="Diseño de la vía" width="820">
+</p>
+<p align="center"><em>Infografía: Diseño de la vía.</em></p>
 
 :::hablemos-claro
 Curvas, pendientes, intersecciones y accesos modifican visibilidad y trayectorias de conflicto.
@@ -1476,7 +1624,11 @@ Para dominar **estado del firme y obstáculos**, aplica esta regla: Baches, grav
 - **Incorrecto:** El mismo defecto del firme produce idéntico riesgo para cualquier vehículo.
 - **Incorrecto:** Una ruta conocida no necesita reconocimiento visual actual.
 
-<!-- VISUAL PENDIENTE: t45-38-estado-del-firme-y-obstaculos.webp -->
+<!-- VISUAL:t45-38-estado-del-firme-y-obstaculos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-38-estado-del-firme-y-obstaculos.webp" alt="Estado del firme y obstáculos" width="820">
+</p>
+<p align="center"><em>Infografía: Estado del firme y obstáculos.</em></p>
 
 :::hablemos-claro
 Baches, gravilla, vertidos y obras pueden alterar adherencia y trayectoria.
@@ -1515,7 +1667,11 @@ Para dominar **densidad y composición del tráfico**, aplica esta regla: La den
 - **Incorrecto:** Todos los usuarios reaccionan de forma uniforme a la señal acústica.
 - **Incorrecto:** Más tráfico implica siempre menos velocidad y por tanto ningún riesgo grave.
 
-<!-- VISUAL PENDIENTE: t45-39-densidad-y-composicion-del-trafico.webp -->
+<!-- VISUAL:t45-39-densidad-y-composicion-del-trafico.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-39-densidad-y-composicion-del-trafico.webp" alt="Densidad y composición del tráfico" width="820">
+</p>
+<p align="center"><em>Infografía: Densidad y composición del tráfico.</em></p>
 
 :::hablemos-claro
 La densidad aumenta interacciones y reduce espacios de maniobra.
@@ -1554,7 +1710,11 @@ Para dominar **planificación de rutas y contingencias**, aplica esta regla: La 
 - **Incorrecto:** La ruta mínima en kilómetros es siempre la más segura.
 - **Incorrecto:** La navegación automática conoce todas las restricciones operativas en tiempo real.
 
-<!-- VISUAL PENDIENTE: t45-il-40-planificacion-de-rutas-y-contingencias.webp -->
+<!-- VISUAL:t45-il-40-planificacion-de-rutas-y-contingencias.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-40-planificacion-de-rutas-y-contingencias.webp" alt="Planificación de rutas y contingencias" width="820">
+</p>
+<p align="center"><em>Infografía: Planificación de rutas y contingencias.</em></p>
 
 :::hablemos-claro
 La planificación valora seguridad, tiempo, tráfico, meteorología y disponibilidad de alternativas.
@@ -1593,7 +1753,11 @@ Para dominar **vehículo como factor de riesgo**, aplica esta regla: El riesgo a
 - **Incorrecto:** La homologación inicial garantiza seguridad durante toda la vida útil.
 - **Incorrecto:** Cualquier vehículo sirve igual para todas las misiones policiales.
 
-<!-- VISUAL PENDIENTE: t45-41-vehiculo-como-factor-de-riesgo.webp -->
+<!-- VISUAL:t45-41-vehiculo-como-factor-de-riesgo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-41-vehiculo-como-factor-de-riesgo.webp" alt="Vehículo como factor de riesgo" width="820">
+</p>
+<p align="center"><em>Infografía: Vehículo como factor de riesgo.</em></p>
 
 :::hablemos-claro
 El riesgo asociado al vehículo depende de diseño, estado, carga y adecuación a la misión.
@@ -1632,7 +1796,11 @@ Para dominar **neumáticos**, aplica esta regla: El neumático es el contacto en
 - **Incorrecto:** Cumplir el mínimo legal asegura agarre máximo con lluvia.
 - **Incorrecto:** La presión correcta es una cifra universal para cualquier carga.
 
-<!-- VISUAL PENDIENTE: t45-42-neumaticos.webp -->
+<!-- VISUAL:t45-42-neumaticos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-42-neumaticos.webp" alt="Neumáticos" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos.</em></p>
 
 :::hablemos-claro
 El neumático es el contacto entre vehículo y calzada.
@@ -1671,7 +1839,11 @@ Para dominar **frenos**, aplica esta regla: La frenada segura requiere eficacia,
 - **Incorrecto:** El ABS acorta siempre la frenada en cualquier superficie.
 - **Incorrecto:** Una desviación al frenar carece de relevancia si el vehículo se detiene.
 
-<!-- VISUAL PENDIENTE: t45-43-frenos.webp -->
+<!-- VISUAL:t45-43-frenos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-43-frenos.webp" alt="Frenos" width="820">
+</p>
+<p align="center"><em>Infografía: Frenos.</em></p>
 
 :::hablemos-claro
 La frenada segura requiere eficacia, equilibrio y respuesta previsible.
@@ -1710,7 +1882,11 @@ Para dominar **dirección y suspensión**, aplica esta regla: Dirección y suspe
 - **Incorrecto:** La suspensión solo influye en comodidad.
 - **Incorrecto:** La revisión visual sustituye cualquier comprobación técnica de holguras.
 
-<!-- VISUAL PENDIENTE: t45-44-direccion-y-suspension.webp -->
+<!-- VISUAL:t45-44-direccion-y-suspension.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-44-direccion-y-suspension.webp" alt="Dirección y suspensión" width="820">
+</p>
+<p align="center"><em>Infografía: Dirección y suspensión.</em></p>
 
 :::hablemos-claro
 Dirección y suspensión mantienen control, contacto y geometría previstos.
@@ -1749,7 +1925,11 @@ Para dominar **alumbrado, señalización y visibilidad**, aplica esta regla: Alu
 - **Incorrecto:** Las luces azules sustituyen faros, intermitentes y luces de freno.
 - **Incorrecto:** Un faro desregulado solo reduce estética y no seguridad.
 
-<!-- VISUAL PENDIENTE: t45-il-45-alumbrado-senalizacion-y-visibilidad.webp -->
+<!-- VISUAL:t45-il-45-alumbrado-senalizacion-y-visibilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-45-alumbrado-senalizacion-y-visibilidad.webp" alt="Alumbrado, señalización y visibilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Alumbrado, señalización y visibilidad.</em></p>
 
 :::hablemos-claro
 Alumbrado y señalización permiten ver, ser visto y comunicar maniobras.
@@ -1788,7 +1968,11 @@ Para dominar **ergonomía y posición**, aplica esta regla: Asiento, volante, pe
 - **Incorrecto:** La postura correcta es idéntica para todas las personas.
 - **Incorrecto:** El equipo portado nunca afecta al ajuste del cinturón ni del asiento.
 
-<!-- VISUAL PENDIENTE: t45-46-ergonomia-y-posicion.webp -->
+<!-- VISUAL:t45-46-ergonomia-y-posicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-46-ergonomia-y-posicion.webp" alt="Ergonomía y posición" width="820">
+</p>
+<p align="center"><em>Infografía: Ergonomía y posición.</em></p>
 
 :::hablemos-claro
 Asiento, volante, pedales, espejos y reposacabezas se ajustan antes de iniciar la marcha.
@@ -1827,7 +2011,11 @@ Para dominar **carga y material de dotación**, aplica esta regla: El material s
 - **Incorrecto:** Dentro del habitáculo los objetos no necesitan sujeción.
 - **Incorrecto:** La carga solo afecta al consumo y no a la estabilidad.
 
-<!-- VISUAL PENDIENTE: t45-47-carga-y-material-de-dotacion.webp -->
+<!-- VISUAL:t45-47-carga-y-material-de-dotacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-47-carga-y-material-de-dotacion.webp" alt="Carga y material de dotación" width="820">
+</p>
+<p align="center"><em>Infografía: Carga y material de dotación.</em></p>
 
 :::hablemos-claro
 El material suelto puede convertirse en proyectil durante frenada o impacto.
@@ -1866,7 +2054,11 @@ Para dominar **sistemas activos, pasivos y terciarios**, aplica esta regla: La s
 - **Incorrecto:** El cinturón es un EPI y por eso se clasifica como seguridad activa.
 - **Incorrecto:** Un sistema activo hace innecesarias las capas pasiva y terciaria.
 
-<!-- VISUAL PENDIENTE: t45-48-sistemas-activos-pasivos-y-terciarios.webp -->
+<!-- VISUAL:t45-48-sistemas-activos-pasivos-y-terciarios.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-48-sistemas-activos-pasivos-y-terciarios.webp" alt="Sistemas activos, pasivos y terciarios" width="820">
+</p>
+<p align="center"><em>Infografía: Sistemas activos, pasivos y terciarios.</em></p>
 
 :::hablemos-claro
 La seguridad activa intenta evitar o mitigar el siniestro antes del impacto.
@@ -1905,7 +2097,11 @@ Para dominar **inspección técnica y mantenimiento**, aplica esta regla: La ITV
 - **Incorrecto:** La ITV favorable garantiza ausencia de fallos hasta la siguiente fecha.
 - **Incorrecto:** El mantenimiento del fabricante sustituye legalmente la ITV.
 
-<!-- VISUAL PENDIENTE: t45-49-inspeccion-tecnica-y-mantenimiento.webp -->
+<!-- VISUAL:t45-49-inspeccion-tecnica-y-mantenimiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-49-inspeccion-tecnica-y-mantenimiento.webp" alt="Inspección técnica y mantenimiento" width="820">
+</p>
+<p align="center"><em>Infografía: Inspección técnica y mantenimiento.</em></p>
 
 :::hablemos-claro
 La ITV verifica requisitos definidos en un momento concreto.
@@ -1944,7 +2140,11 @@ Para dominar **alertas, testigos y degradación**, aplica esta regla: Un testigo
 - **Incorrecto:** Todo testigo permite continuar hasta terminar el turno.
 - **Incorrecto:** Si no se enciende ninguna alerta, el vehículo está necesariamente perfecto.
 
-<!-- VISUAL PENDIENTE: t45-il-50-alertas-testigos-y-degradacion.webp -->
+<!-- VISUAL:t45-il-50-alertas-testigos-y-degradacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-50-alertas-testigos-y-degradacion.webp" alt="Alertas, testigos y degradación" width="820">
+</p>
+<p align="center"><em>Infografía: Alertas, testigos y degradación.</em></p>
 
 :::hablemos-claro
 Un testigo informa de un estado que debe interpretarse conforme al manual y la gravedad.
@@ -1983,7 +2183,11 @@ Para dominar **riesgo específico de la urgencia**, aplica esta regla: La urgenc
 - **Incorrecto:** La urgencia convierte cualquier velocidad en preventivamente aceptable.
 - **Incorrecto:** La sirena garantiza que todos han identificado dirección y distancia.
 
-<!-- VISUAL PENDIENTE: t45-51-riesgo-especifico-de-la-urgencia.webp -->
+<!-- VISUAL:t45-51-riesgo-especifico-de-la-urgencia.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-51-riesgo-especifico-de-la-urgencia.webp" alt="Riesgo específico de la urgencia" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo específico de la urgencia.</em></p>
 
 :::hablemos-claro
 La urgencia combina presión temporal, mayor carga mental y escenarios dinámicos.
@@ -2022,7 +2226,11 @@ Para dominar **facultades y responsabilidad**, aplica esta regla: El conductor p
 - **Incorrecto:** La luz V-1 elimina cualquier responsabilidad por la maniobra.
 - **Incorrecto:** Las señales de agentes pueden ignorarse durante un servicio urgente.
 
-<!-- VISUAL PENDIENTE: t45-52-facultades-y-responsabilidad.webp -->
+<!-- VISUAL:t45-52-facultades-y-responsabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-52-facultades-y-responsabilidad.webp" alt="Facultades y responsabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Facultades y responsabilidad.</em></p>
 
 :::hablemos-claro
 El conductor prioritario actúa bajo su exclusiva responsabilidad al aplicar determinadas excepciones.
@@ -2061,7 +2269,11 @@ Para dominar **intersecciones**, aplica esta regla: Las intersecciones concentra
 - **Incorrecto:** Un carril detenido demuestra que toda la intersección está libre.
 - **Incorrecto:** La señal acústica permite cruzar sin reducción de velocidad.
 
-<!-- VISUAL PENDIENTE: t45-53-intersecciones.webp -->
+<!-- VISUAL:t45-53-intersecciones.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-53-intersecciones.webp" alt="Intersecciones" width="820">
+</p>
+<p align="center"><em>Infografía: Intersecciones.</em></p>
 
 :::hablemos-claro
 Las intersecciones concentran trayectorias conflictivas y zonas ocultas.
@@ -2100,7 +2312,11 @@ Para dominar **sobrecarga de tareas**, aplica esta regla: Conducir, comunicar, n
 - **Incorrecto:** El conductor debe manejar todas las tareas para evitar malentendidos.
 - **Incorrecto:** Una radio policial no produce distracción por ser herramienta profesional.
 
-<!-- VISUAL PENDIENTE: t45-54-sobrecarga-de-tareas.webp -->
+<!-- VISUAL:t45-54-sobrecarga-de-tareas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-54-sobrecarga-de-tareas.webp" alt="Sobrecarga de tareas" width="820">
+</p>
+<p align="center"><em>Infografía: Sobrecarga de tareas.</em></p>
 
 :::hablemos-claro
 Conducir, comunicar, navegar y observar tácticamente compiten por recursos atencionales.
@@ -2139,7 +2355,11 @@ Para dominar **fatiga en turnos operativos**, aplica esta regla: La prolongació
 - **Incorrecto:** La urgencia elimina la necesidad fisiológica de descanso.
 - **Incorrecto:** Terminado el incidente desaparece de inmediato toda fatiga.
 
-<!-- VISUAL PENDIENTE: t45-il-55-fatiga-en-turnos-operativos.webp -->
+<!-- VISUAL:t45-il-55-fatiga-en-turnos-operativos.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-55-fatiga-en-turnos-operativos.webp" alt="Fatiga en turnos operativos" width="820">
+</p>
+<p align="center"><em>Infografía: Fatiga en turnos operativos.</em></p>
 
 :::hablemos-claro
 La prolongación del servicio puede acumular fatiga aunque la misión siga siendo urgente.
@@ -2178,7 +2398,11 @@ Para dominar **ergonomía con equipo policial**, aplica esta regla: Chaleco, cin
 - **Incorrecto:** El equipo policial nunca cambia la biomecánica del ocupante.
 - **Incorrecto:** Modificar el cinturón artesanalmente es aceptable si mejora comodidad.
 
-<!-- VISUAL PENDIENTE: t45-56-ergonomia-con-equipo-policial.webp -->
+<!-- VISUAL:t45-56-ergonomia-con-equipo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-56-ergonomia-con-equipo-policial.webp" alt="Ergonomía con equipo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Ergonomía con equipo policial.</em></p>
 
 :::hablemos-claro
 Chaleco, cinturón de servicio y funda pueden interferir con asiento y retención.
@@ -2217,7 +2441,11 @@ Para dominar **descenso e intervención en vía**, aplica esta regla: Antes de a
 - **Incorrecto:** El chaleco permite permanecer en cualquier carril sin protección adicional.
 - **Incorrecto:** La posición del vehículo policial siempre es segura si mantiene la V-1.
 
-<!-- VISUAL PENDIENTE: t45-57-descenso-e-intervencion-en-via.webp -->
+<!-- VISUAL:t45-57-descenso-e-intervencion-en-via.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-57-descenso-e-intervencion-en-via.webp" alt="Descenso e intervención en vía" width="820">
+</p>
+<p align="center"><em>Infografía: Descenso e intervención en vía.</em></p>
 
 :::hablemos-claro
 Antes de abrir una puerta se valora tráfico, carril, visibilidad y vía de salida.
@@ -2256,7 +2484,11 @@ Para dominar **riesgo para pasajeros y terceros**, aplica esta regla: La conducc
 - **Incorrecto:** Solo el conductor asume riesgo en un servicio urgente.
 - **Incorrecto:** La prioridad operativa permite omitir retención de pasajeros.
 
-<!-- VISUAL PENDIENTE: t45-58-riesgo-para-pasajeros-y-terceros.webp -->
+<!-- VISUAL:t45-58-riesgo-para-pasajeros-y-terceros.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-58-riesgo-para-pasajeros-y-terceros.webp" alt="Riesgo para pasajeros y terceros" width="820">
+</p>
+<p align="center"><em>Infografía: Riesgo para pasajeros y terceros.</em></p>
 
 :::hablemos-claro
 La conducción prioritaria expone a conductor, dotación, trasladados y terceros.
@@ -2295,7 +2527,11 @@ Para dominar **accidente durante servicio urgente**, aplica esta regla: El accid
 - **Incorrecto:** Si la maniobra era legal no necesita investigación preventiva.
 - **Incorrecto:** La única medida tras un accidente es sancionar a quien conducía.
 
-<!-- VISUAL PENDIENTE: t45-59-accidente-durante-servicio-urgente.webp -->
+<!-- VISUAL:t45-59-accidente-durante-servicio-urgente.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-59-accidente-durante-servicio-urgente.webp" alt="Accidente durante servicio urgente" width="820">
+</p>
+<p align="center"><em>Infografía: Accidente durante servicio urgente.</em></p>
 
 :::hablemos-claro
 El accidente urgente requiere atención, aseguramiento de escena y notificación por cauce.
@@ -2334,7 +2570,11 @@ Para dominar **criterio de llegada operativa**, aplica esta regla: El objetivo e
 - **Incorrecto:** La ruta más rápida prevalece siempre sobre cualquier riesgo.
 - **Incorrecto:** Una maniobra iniciada debe completarse aunque cambie el escenario.
 
-<!-- VISUAL PENDIENTE: t45-il-60-criterio-de-llegada-operativa.webp -->
+<!-- VISUAL:t45-il-60-criterio-de-llegada-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-60-criterio-de-llegada-operativa.webp" alt="Criterio de llegada operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Criterio de llegada operativa.</em></p>
 
 :::hablemos-claro
 El objetivo es llegar con capacidad de intervenir y sin generar daños evitables.
@@ -2373,7 +2613,11 @@ Para dominar **definición correcta de epi**, aplica esta regla: A efectos del R
 - **Incorrecto:** Todo objeto seguro utilizado durante el servicio es un EPI.
 - **Incorrecto:** La definición del apartado 1 puede aplicarse ignorando las exclusiones del apartado 2.
 
-<!-- VISUAL PENDIENTE: t45-61-definicion-correcta-de-epi.webp -->
+<!-- VISUAL:t45-61-definicion-correcta-de-epi.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-61-definicion-correcta-de-epi.webp" alt="Definición correcta de EPI" width="820">
+</p>
+<p align="center"><em>Infografía: Definición correcta de EPI.</em></p>
 
 :::hablemos-claro
 A efectos del Real Decreto 773/1997, EPI es el equipo llevado o sujetado para proteger frente a uno o varios riesgos laborales.
@@ -2412,7 +2656,11 @@ Para dominar **exclusiones del concepto**, aplica esta regla: La ropa de trabajo
 - **Incorrecto:** El equipo policial queda sometido automáticamente a todos los artículos del Real Decreto 773/1997.
 - **Incorrecto:** Excluirlo de esa definición significa que la Administración no debe proteger al funcionario.
 
-<!-- VISUAL PENDIENTE: t45-62-exclusiones-del-concepto.webp -->
+<!-- VISUAL:t45-62-exclusiones-del-concepto.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-62-exclusiones-del-concepto.webp" alt="Exclusiones del concepto" width="820">
+</p>
+<p align="center"><em>Infografía: Exclusiones del concepto.</em></p>
 
 :::hablemos-claro
 La ropa de trabajo corriente sin función protectora específica no es EPI.
@@ -2451,7 +2699,11 @@ Para dominar **jerarquía antes de la protección individual**, aplica esta regl
 - **Incorrecto:** El EPI permite prescindir de eliminar o aislar el peligro.
 - **Incorrecto:** La compra del equipo sustituye toda medida organizativa.
 
-<!-- VISUAL PENDIENTE: t45-63-jerarquia-antes-de-la-proteccion-individual.webp -->
+<!-- VISUAL:t45-63-jerarquia-antes-de-la-proteccion-individual.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-63-jerarquia-antes-de-la-proteccion-individual.webp" alt="Jerarquía antes de la protección individual" width="820">
+</p>
+<p align="center"><em>Infografía: Jerarquía antes de la protección individual.</em></p>
 
 :::hablemos-claro
 El régimen policial prioriza la protección colectiva sobre la individual.
@@ -2490,7 +2742,11 @@ Para dominar **evaluación y elección del equipo policial**, aplica esta regla:
 - **Incorrecto:** El mismo modelo y talla sirven para todas las personas.
 - **Incorrecto:** La máxima protección nominal compensa cualquier problema ergonómico.
 
-<!-- VISUAL PENDIENTE: t45-64-evaluacion-y-eleccion-del-equipo-policial.webp -->
+<!-- VISUAL:t45-64-evaluacion-y-eleccion-del-equipo-policial.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-64-evaluacion-y-eleccion-del-equipo-policial.webp" alt="Evaluación y elección del equipo policial" width="820">
+</p>
+<p align="center"><em>Infografía: Evaluación y elección del equipo policial.</em></p>
 
 :::hablemos-claro
 La Administración debe elegir medios adecuados a la tarea y a la seguridad de quienes los utilizan.
@@ -2529,7 +2785,11 @@ Para dominar **compatibilidad del equipamiento**, aplica esta regla: La guía de
 - **Incorrecto:** Dos EPI homologados son siempre compatibles entre sí.
 - **Incorrecto:** La compatibilidad solo afecta a comodidad y nunca a protección.
 
-<!-- VISUAL PENDIENTE: t45-il-65-compatibilidad-del-equipamiento.webp -->
+<!-- VISUAL:t45-il-65-compatibilidad-del-equipamiento.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-65-compatibilidad-del-equipamiento.webp" alt="Compatibilidad del equipamiento" width="820">
+</p>
+<p align="center"><em>Infografía: Compatibilidad del equipamiento.</em></p>
 
 :::hablemos-claro
 La guía del INSST aporta un criterio técnico de compatibilidad cuando se usan varios elementos protectores.
@@ -2568,7 +2828,11 @@ Para dominar **información, formación y práctica**, aplica esta regla: El fun
 - **Incorrecto:** Una etiqueta sustituye cualquier formación práctica.
 - **Incorrecto:** El entrenamiento solo es necesario después del primer accidente.
 
-<!-- VISUAL PENDIENTE: t45-66-informacion-formacion-y-practica.webp -->
+<!-- VISUAL:t45-66-informacion-formacion-y-practica.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-66-informacion-formacion-y-practica.webp" alt="Información, formación y práctica" width="820">
+</p>
+<p align="center"><em>Infografía: Información, formación y práctica.</em></p>
 
 :::hablemos-claro
 El funcionario debe recibir información sobre riesgos y medidas de protección adoptadas.
@@ -2607,7 +2871,11 @@ Para dominar **asignación, disponibilidad e higiene**, aplica esta regla: La ge
 - **Incorrecto:** Compartir equipamiento nunca exige medidas higiénicas.
 - **Incorrecto:** Que el equipo figure asignado demuestra por sí solo su buen estado.
 
-<!-- VISUAL PENDIENTE: t45-67-asignacion-disponibilidad-e-higiene.webp -->
+<!-- VISUAL:t45-67-asignacion-disponibilidad-e-higiene.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-67-asignacion-disponibilidad-e-higiene.webp" alt="Asignación, disponibilidad e higiene" width="820">
+</p>
+<p align="center"><em>Infografía: Asignación, disponibilidad e higiene.</em></p>
 
 :::hablemos-claro
 La gestión del equipo debe asegurar disponibilidad, adecuación y estado para la tarea prevista.
@@ -2646,7 +2914,11 @@ Para dominar **mantenimiento, limpieza y retirada**, aplica esta regla: La guía
 - **Incorrecto:** Si el equipo parece limpio conserva indefinidamente su eficacia.
 - **Incorrecto:** Cualquier reparación artesanal mantiene la certificación original.
 
-<!-- VISUAL PENDIENTE: t45-68-mantenimiento-limpieza-y-retirada.webp -->
+<!-- VISUAL:t45-68-mantenimiento-limpieza-y-retirada.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-68-mantenimiento-limpieza-y-retirada.webp" alt="Mantenimiento, limpieza y retirada" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento, limpieza y retirada.</em></p>
 
 :::hablemos-claro
 La guía del INSST aporta criterios técnicos sobre almacenamiento, limpieza, mantenimiento y reparación.
@@ -2685,7 +2957,11 @@ Para dominar **alta visibilidad al regular la circulación**, aplica esta regla:
 - **Incorrecto:** Vestir alta visibilidad permite invadir la calzada sin otras medidas.
 - **Incorrecto:** La distancia de 150 metros se impone a todo ocupante que abandona cualquier vehículo.
 
-<!-- VISUAL PENDIENTE: t45-69-alta-visibilidad-al-regular-la-circulacion.webp -->
+<!-- VISUAL:t45-69-alta-visibilidad-al-regular-la-circulacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-69-alta-visibilidad-al-regular-la-circulacion.webp" alt="Alta visibilidad al regular la circulación" width="820">
+</p>
+<p align="center"><em>Infografía: Alta visibilidad al regular la circulación.</em></p>
 
 :::hablemos-claro
 Los agentes que regulan la circulación deben ser fácilmente reconocibles a distancia, de día y de noche.
@@ -2724,7 +3000,11 @@ Para dominar **motorista policial y protección**, aplica esta regla: El equipam
 - **Incorrecto:** El casco vuelve innecesarios guantes, botas y ropa protectora.
 - **Incorrecto:** La prenda más rígida es siempre la mejor aunque impida controlar la motocicleta.
 
-<!-- VISUAL PENDIENTE: t45-il-70-motorista-policial-y-proteccion.webp -->
+<!-- VISUAL:t45-il-70-motorista-policial-y-proteccion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-70-motorista-policial-y-proteccion.webp" alt="Motorista policial y protección" width="820">
+</p>
+<p align="center"><em>Infografía: Motorista policial y protección.</em></p>
 
 :::hablemos-claro
 El equipamiento del motorista se selecciona frente a impacto, abrasión, clima y visibilidad.
@@ -2763,7 +3043,11 @@ Para dominar **estrategia preventiva por capas**, aplica esta regla: La estrateg
 - **Incorrecto:** Una campaña anual basta para controlar todo el riesgo vial.
 - **Incorrecto:** Varias medidas idénticas aportan la misma resiliencia que capas diferentes.
 
-<!-- VISUAL PENDIENTE: t45-71-estrategia-preventiva-por-capas.webp -->
+<!-- VISUAL:t45-71-estrategia-preventiva-por-capas.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-71-estrategia-preventiva-por-capas.webp" alt="Estrategia preventiva por capas" width="820">
+</p>
+<p align="center"><em>Infografía: Estrategia preventiva por capas.</em></p>
 
 :::hablemos-claro
 La estrategia combina reducción de exposición, organización, vehículo seguro, formación y protección.
@@ -2802,7 +3086,11 @@ Para dominar **lista previa al servicio**, aplica esta regla: La comprobación p
 - **Incorrecto:** La lista diaria equivale a una inspección técnica completa.
 - **Incorrecto:** Un defecto crítico puede anotarse y dejarse para el siguiente turno.
 
-<!-- VISUAL PENDIENTE: t45-72-lista-previa-al-servicio.webp -->
+<!-- VISUAL:t45-72-lista-previa-al-servicio.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-72-lista-previa-al-servicio.webp" alt="Lista previa al servicio" width="820">
+</p>
+<p align="center"><em>Infografía: Lista previa al servicio.</em></p>
 
 :::hablemos-claro
 La comprobación previa cubre estado exterior, neumáticos, fluidos visibles, luces, testigos y material esencial.
@@ -2841,7 +3129,11 @@ Para dominar **mantenimiento preventivo**, aplica esta regla: El mantenimiento p
 - **Incorrecto:** Todos los vehículos comparten los mismos intervalos de mantenimiento.
 - **Incorrecto:** Preventivo significa reparar únicamente después de una avería.
 
-<!-- VISUAL PENDIENTE: t45-73-mantenimiento-preventivo.webp -->
+<!-- VISUAL:t45-73-mantenimiento-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-73-mantenimiento-preventivo.webp" alt="Mantenimiento preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento preventivo.</em></p>
 
 :::hablemos-claro
 El mantenimiento preventivo se programa antes del fallo según uso, tiempo y especificaciones.
@@ -2880,7 +3172,11 @@ Para dominar **mantenimiento predictivo y por condición**, aplica esta regla: E
 - **Incorrecto:** ITV y mantenimiento predictivo son conceptos idénticos.
 - **Incorrecto:** Un algoritmo elimina la necesidad de comprobar físicamente el vehículo.
 
-<!-- VISUAL PENDIENTE: t45-74-mantenimiento-predictivo-y-por-condicion.webp -->
+<!-- VISUAL:t45-74-mantenimiento-predictivo-y-por-condicion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-74-mantenimiento-predictivo-y-por-condicion.webp" alt="Mantenimiento predictivo y por condición" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento predictivo y por condición.</em></p>
 
 :::hablemos-claro
 El mantenimiento por condición usa mediciones, avisos o tendencias para anticipar degradación.
@@ -2919,7 +3215,11 @@ Para dominar **mantenimiento correctivo**, aplica esta regla: El correctivo rest
 - **Incorrecto:** Correctivo significa continuar hasta que la avería impida moverse.
 - **Incorrecto:** Cambiar una pieza elimina siempre la necesidad de verificar el sistema.
 
-<!-- VISUAL PENDIENTE: t45-il-75-mantenimiento-correctivo.webp -->
+<!-- VISUAL:t45-il-75-mantenimiento-correctivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-75-mantenimiento-correctivo.webp" alt="Mantenimiento correctivo" width="820">
+</p>
+<p align="center"><em>Infografía: Mantenimiento correctivo.</em></p>
 
 :::hablemos-claro
 El correctivo restaura una función después de detectarse un defecto o fallo.
@@ -2958,7 +3258,11 @@ Para dominar **gestión de averías e inmovilización**, aplica esta regla: Un f
 - **Incorrecto:** Si el motor arranca, el vehículo es apto para cualquier misión.
 - **Incorrecto:** Dejar una nota informal garantiza que nadie lo vuelva a utilizar.
 
-<!-- VISUAL PENDIENTE: t45-76-gestion-de-averias-e-inmovilizacion.webp -->
+<!-- VISUAL:t45-76-gestion-de-averias-e-inmovilizacion.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-76-gestion-de-averias-e-inmovilizacion.webp" alt="Gestión de averías e inmovilización" width="820">
+</p>
+<p align="center"><em>Infografía: Gestión de averías e inmovilización.</em></p>
 
 :::hablemos-claro
 Un fallo se clasifica por efecto potencial, probabilidad y posibilidad de control.
@@ -2997,7 +3301,11 @@ Para dominar **registro y trazabilidad**, aplica esta regla: El registro relacio
 - **Incorrecto:** Registrar la avería equivale a repararla.
 - **Incorrecto:** Los historiales no aportan nada si el vehículo vuelve a circular.
 
-<!-- VISUAL PENDIENTE: t45-77-registro-y-trazabilidad.webp -->
+<!-- VISUAL:t45-77-registro-y-trazabilidad.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-77-registro-y-trazabilidad.webp" alt="Registro y trazabilidad" width="820">
+</p>
+<p align="center"><em>Infografía: Registro y trazabilidad.</em></p>
 
 :::hablemos-claro
 El registro relaciona vehículo, fecha, kilometraje, defecto, intervención y verificación.
@@ -3036,7 +3344,11 @@ Para dominar **neumáticos y presión operativa**, aplica esta regla: La presió
 - **Incorrecto:** La presión máxima escrita en el flanco es siempre la presión de uso.
 - **Incorrecto:** El desgaste irregular se corrige únicamente inflando más.
 
-<!-- VISUAL PENDIENTE: t45-78-neumaticos-y-presion-operativa.webp -->
+<!-- VISUAL:t45-78-neumaticos-y-presion-operativa.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-78-neumaticos-y-presion-operativa.webp" alt="Neumáticos y presión operativa" width="820">
+</p>
+<p align="center"><em>Infografía: Neumáticos y presión operativa.</em></p>
 
 :::hablemos-claro
 La presión se ajusta a indicaciones del fabricante y a la carga prevista.
@@ -3075,7 +3387,11 @@ Para dominar **fluidos, batería y sistemas auxiliares**, aplica esta regla: Los
 - **Incorrecto:** Todos los fluidos se revisan abriendo el circuito inmediatamente tras conducir.
 - **Incorrecto:** Los equipos policiales auxiliares no influyen en la carga eléctrica.
 
-<!-- VISUAL PENDIENTE: t45-79-fluidos-bateria-y-sistemas-auxiliares.webp -->
+<!-- VISUAL:t45-79-fluidos-bateria-y-sistemas-auxiliares.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-79-fluidos-bateria-y-sistemas-auxiliares.webp" alt="Fluidos, batería y sistemas auxiliares" width="820">
+</p>
+<p align="center"><em>Infografía: Fluidos, batería y sistemas auxiliares.</em></p>
 
 :::hablemos-claro
 Los niveles y fugas se comprueban sin abrir sistemas peligrosos en caliente.
@@ -3114,7 +3430,11 @@ Para dominar **cierre del ciclo preventivo**, aplica esta regla: El ciclo preven
 - **Incorrecto:** Solo los accidentes con lesión justifican revisar la prevención.
 - **Incorrecto:** Implantar una medida demuestra su eficacia sin necesidad de seguimiento.
 
-<!-- VISUAL PENDIENTE: t45-il-80-cierre-del-ciclo-preventivo.webp -->
+<!-- VISUAL:t45-il-80-cierre-del-ciclo-preventivo.webp -->
+<p align="center">
+  <img src="../../../assets/policia-nacional/tema-45/t45-il-80-cierre-del-ciclo-preventivo.webp" alt="Cierre del ciclo preventivo" width="820">
+</p>
+<p align="center"><em>Infografía: Cierre del ciclo preventivo.</em></p>
 
 :::hablemos-claro
 El ciclo preventivo identifica, evalúa, planifica, ejecuta, comprueba y revisa.
